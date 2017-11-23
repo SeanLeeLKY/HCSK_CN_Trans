@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- C1 ASCENSION -->
+
+  <Gun_PlasmaPistol.label>C1 晋升 离子手枪</Gun_PlasmaPistol.label>
+  <Gun_PlasmaPistol.description>A highly accurate plasma pistol.</Gun_PlasmaPistol.description>
+
+
+  <!-- C2 MOONSPELL -->
+
+  <Gun_PlasmaPrecision.label>C2 月咒 离子狙击步枪</Gun_PlasmaPrecision.label>
+  <Gun_PlasmaPrecision.description>A plasma sniper rifle, highly accurate but with a low rate of fire.</Gun_PlasmaPrecision.description>
+
+
+  <!-- C3 CONJURER -->
+
+  <Gun_PlasmaCarbine.label>C3 巫师 离子步枪</Gun_PlasmaCarbine.label>
+  <Gun_PlasmaCarbine.description>A short range, lightweight plasma rifle.</Gun_PlasmaCarbine.description>
+
+
+  <!-- C5 INCANTATOR -->
+
+  <Gun_PlasmaShotgun.label>C5 魔咒 离子霰弹枪</Gun_PlasmaShotgun.label>
+  <Gun_PlasmaShotgun.description>Very rare plasma shotgun. Deals high damage at short range; less effective at long range. Effective against armor, shields and biotic barriers. It is of human design but is only used by krogan, due to the fact that the kickback from a single shot has enough force to break a human's arm. Protected by Fabrication Rights Management (FRM) technology, this weapon is nearly impossible to reproduce and is prohibitively expensive.</Gun_PlasmaShotgun.description>
+
+
+  <!-- C7 STORMWIZARD -->
+
+  <Gun_PlasmaRifle.label>C7 暴雪 离子发射器</Gun_PlasmaRifle.label>
+  <Gun_PlasmaRifle.description>A Multi-Plasma Blaster, with good stopping power and range.</Gun_PlasmaRifle.description>
+
+
+</LanguageData>

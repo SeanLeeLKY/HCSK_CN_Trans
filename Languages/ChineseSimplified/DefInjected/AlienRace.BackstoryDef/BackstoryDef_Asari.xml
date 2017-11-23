@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Childhood -->
+
+  <Asari01ChildKnowledge.title>书呆子</Asari01ChildKnowledge.title>
+  <Asari02ChildFighter.title>战士</Asari02ChildFighter.title>
+  <Asari03ChildLeader.title>首领</Asari03ChildLeader.title>
+  <Asari04ChildArtist.title>艺术家</Asari04ChildArtist.title>
+  <Asari05ChildShipKid.title>太空小子</Asari05ChildShipKid.title>
+
+
+  <!-- Adulthood -->
+
+  <Asari01AdultCommando.title>突击队士兵</Asari01AdultCommando.title>
+  <Asari02AdultScientist.title>舰队科学家</Asari02AdultScientist.title>
+  <Asari03AdultTactician.title>舰队参谋</Asari03AdultTactician.title>
+  <Asari04AdultBodyguard.title>保镖</Asari04AdultBodyguard.title>
+  <Asari05AdultBodyguard.title>保镖</Asari05AdultBodyguard.title>
+  <Asari06AdultFieldMedic.title>医疗兵</Asari06AdultFieldMedic.title>
+
+
+</LanguageData>

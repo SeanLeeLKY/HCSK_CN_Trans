@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Power -->
+
+  <SK_Power.label>电力</SK_Power.label>
+  <SK_Power.description>Learn the basics of power generation to help your colonists survive in this harsh climate.  This advancement unlocks conduits and batteries.</SK_Power.description>
+
+
+  <!-- PowerConduit -->
+
+  <SK_RenewableI.label>可再生能源 I</SK_RenewableI.label>
+  <SK_RenewableI.description>Learn the basics of power generation from renewable resourses of this planet. This advancement unlocks Wind Turbine.</SK_RenewableI.description>
+
+
+  <!-- WindTurbine -->
+
+  <SolarPanels.label>可再生能源 II</SolarPanels.label>
+  <SolarPanels.description>Further advancements in power technology, give your colonists the ability to harness the power of the sun.  Unlocks the solar powered generator.</SolarPanels.description>
+
+
+  <!-- SolarGenerator -->
+
+  <GeothermalPower.label>可再生能源 III</GeothermalPower.label>
+  <GeothermalPower.description>What do you do when the sun doesn't shine?  Solar power is great, except when it's dark!  This advancement in power generation unlocks the geothermal generator that can harness the power of the planet!</GeothermalPower.description>
+
+
+  <!-- GeothermalGenerator -->
+
+  <SK_RenewableIV.label>可再生能源 IV</SK_RenewableIV.label>
+  <SK_RenewableIV.description>Allows to build advanced power plants: Gauss wind turbine and thermoelectric generator.</SK_RenewableIV.description>
+
+
+  <!-- Adv SolarGenerator
+								Adv WindTurbine -->
+
+  <SK_RenewableV.label>可再生能源 V</SK_RenewableV.label>
+  <SK_RenewableV.description>Allows to build advanced power plants: Gauss wind turbine and thermoelectric generator.</SK_RenewableV.description>
+
+
+  <!-- GauseWindTurbine
+										ThermoelectricGenerator -->
+
+  <SK_ConvectionalI.label>转化型能源 I</SK_ConvectionalI.label>
+  <SK_ConvectionalI.description>Learn the basics of power generation from conventional resources of this planet. This advancement unlocks Steam Generator.</SK_ConvectionalI.description>
+
+
+  <!-- SteamGenerator -->
+
+  <SK_ConvectionalII.label>转化型能源 II</SK_ConvectionalII.label>
+  <SK_ConvectionalII.description>Further advancements in power technology, give your colonists the ability to use some convectional resources fo obtaining electricity.  Unlocks the Coal Power Plant.</SK_ConvectionalII.description>
+
+
+  <!-- CoalPowerPlant -->
+
+  <SK_ConvectionalIII.label>转化型能源 III</SK_ConvectionalIII.label>
+  <SK_ConvectionalIII.description>Allows to build advanced power plant for refining some fuel - Fuel Power Plant.</SK_ConvectionalIII.description>
+
+
+  <!-- FuelPowerPlant
+						FueledGenerator -->
+
+  <SK_PlasmaI.label>离子能源 I</SK_PlasmaI.label>
+  <SK_PlasmaI.description>Allows to build advanced power plant - Tesla Lightning Generator.</SK_PlasmaI.description>
+
+
+  <!-- TeslaLigthningPower -->
+
+  <SK_PlasmaII.label>离子能源 II</SK_PlasmaII.label>
+  <SK_PlasmaII.description>Open secrets of electromagnetics. Allows to build eco-friendly plasma generators.</SK_PlasmaII.description>
+
+
+  <!-- PlasmaGen
+								PlasmaGeothermalPlant -->
+
+  <SK_PlasmaIII.label>离子能源 III</SK_PlasmaIII.label>
+  <SK_PlasmaIII.description>Dynamic Electromagnetics allows you to fabricate advanced buildings using electromagnetic components. This unlocks the upper tier of power generation and technology found in every Glitter world installation for building Xenon-Ion Turbine.</SK_PlasmaIII.description>
+
+
+  <!-- XenonIonTurbine -->
+
+  <AirConditioning.label>基础设施 I</AirConditioning.label>
+  <AirConditioning.description>Allows you to build different Lamps, Small coolers and heaters and some Vents. Also increases battery efficiency by 15 percent.</AirConditioning.description>
+
+
+  <!-- PowerSwitch
+		StandingLamp
+		FloorAddonA
+		Cooler
+		Heater
+		Vent
+		RH_SmallCooler
+		Heater from RH -->
+
+  <Autodoors.label>基础设施</Autodoors.label>
+  <Autodoors.description>Allows you to build Autodoors, Medium coolers and heaters, Utility Walls. Also increases battery efficiency by 15 percent.</Autodoors.description>
+
+
+  <!-- Autodoor
+						CellDoor
+						ClutterFloorLampA
+						CeilingLamp
+						FloorLightSquare
+						ClutterLampYellow -->
+
+   
+  <LEDTechnologyScience.label>LED技术</LEDTechnologyScience.label>
+  <LEDTechnologyScience.description>Allows the construction of more efficient lights and other buildings.</LEDTechnologyScience.description>
+
+  <Batteries.label>基础设施 III</Batteries.label>
+  <Batteries.description>Allows you to build Hi-Tech Research Bench, Heavy Power Conduits, Hidden Conduits and Industrial coolers and heaters. Also increases battery efficiency by 15 percent.</Batteries.description>
+
+
+  <!-- HiTechResearchBench
+						EHeatedFloor
+						WallLamp
+						RopeLight
+						Lighting_WallLight
+						HiTechResearchBench
+						HeavyPowerConduit
+						RH_MediumHeater
+						Cooler from RH
+						PowerConduitInvisible -->
+
+  <SK_InfrastructureIV.label>基础设施 IV</SK_InfrastructureIV.label>
+  <SK_InfrastructureIV.description>Allows you to build some advanced Ductwork Elements, Geothermal Heaters and Fission Batteries.</SK_InfrastructureIV.description>
+
+
+  <!-- FissionBattery
+								GH
+								RedistHeat_IndustrialCooler
+								RedistHeat_IndustrialHeater -->
+
+  <SK_NuclearI.label>核能 I</SK_NuclearI.label>
+  <SK_NuclearI.description>Advanced knowledge of power generation allows you to build some Gas Centrifuge.</SK_NuclearI.description>
+
+
+  <!-- GC
+		CentrifugeFeeder -->
+
+  <SK_NuclearII.label>核能 II</SK_NuclearII.label>
+  <SK_NuclearII.description>Geothermal power is great, except when you can't find a steam vent!  Advanced knowledge of power generation allows you to build a nuclear reactor.</SK_NuclearII.description>
+
+
+  <!--[Core] <SolarPanels.label>太阳能板</SolarPanels.label>-->
+  <!--[Core] <SolarPanels.description>解锁建造「太阳能板」，用于发电。</SolarPanels.description>-->
+  <!--[Core] <GeothermalPower.label>地热能</GeothermalPower.label>-->
+  <!--[Core] <GeothermalPower.description>解锁建造「地热发电机」，建造在蒸汽间歇喷泉上，提供不间断的电力。</GeothermalPower.description>-->
+  <!--[Core] <AirConditioning.label>空调</AirConditioning.label>-->
+  <!--[Core] <AirConditioning.description>解锁建造空调，炎热时给房间降温，或维持冷冻库的低温。</AirConditioning.description>-->
+  <!--[Core] <Autodoors.label>自动门</Autodoors.label>-->
+  <!--[Core] <Autodoors.description>解锁建造「自动门」，人通过时不会被减速。</Autodoors.description>-->
+  <!--[Core] <ColoredLights.label>彩色灯</ColoredLights.label>-->
+  <!--[Core] <ColoredLights.description>解锁建造装饰性的彩色落地灯。</ColoredLights.description>-->
+  <!--[Core] <Batteries.label>蓄电池</Batteries.label>-->
+  <!--[Core] <Batteries.description>解锁建造「蓄电池」以储存电力。</Batteries.description>-->
+
+</LanguageData>

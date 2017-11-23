@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeteorIncoming.label>陨石来袭！</MeteorIncoming.label>
+  <Thing_MeteorSpawner.label>Meteor Spawner</Thing_MeteorSpawner.label>
+  <Meteor.label>陨石</Meteor.label>
+
+  <SandstoneBoulder.label>砂石陨石</SandstoneBoulder.label>
+  <SandstoneBoulder.description>A Meteorite mineable for Sandstone.</SandstoneBoulder.description>
+
+  <SlateBoulder.label>板岩陨石</SlateBoulder.label>
+  <SlateBoulder.description>A Meteorite mineable for Slate.</SlateBoulder.description>
+
+  <IronBoulder.label>钢铁陨石</IronBoulder.label>
+  <IronBoulder.description>A Meteorite Containing trace amounts of Iron Ore.</IronBoulder.description>
+
+  <LimestoneBoulder.label>石灰岩陨石</LimestoneBoulder.label>
+  <LimestoneBoulder.description>A Meteorite mineable for Limestone.</LimestoneBoulder.description>
+
+  <GraniteBoulder.label>花岗岩陨石</GraniteBoulder.label>
+  <GraniteBoulder.description>A Meteorite mineable for Granite.</GraniteBoulder.description>
+
+  <CopperBoulder.label>铜陨石</CopperBoulder.label>
+  <CopperBoulder.description>A Meteorite mineable for Copper Ore.</CopperBoulder.description>
+
+  <MarbleBoulder.label>大理石陨石</MarbleBoulder.label>
+  <MarbleBoulder.description>A Meteorite mineable for Marble.</MarbleBoulder.description>
+
+  <MineralBoulder.label>铁陨石</MineralBoulder.label>
+  <MineralBoulder.description>A Meteorite containing trace amounts of Iron Ore.</MineralBoulder.description>
+
+  <SilverBoulder.label>银陨石</SilverBoulder.label>
+  <SilverBoulder.description>A Meteorite containing trace amounts of Silver Ore.</SilverBoulder.description>
+
+  <AluminiumBoulder.label>铝陨石</AluminiumBoulder.label>
+  <AluminiumBoulder.description>A Meteorite containing trace amounts of Bauxite Ore.</AluminiumBoulder.description>
+
+  <UraniumBoulder.label>铀陨石</UraniumBoulder.label>
+  <UraniumBoulder.description>A Meteorite containing trace amounts of Uranium Ore.</UraniumBoulder.description>
+
+
+</LanguageData>

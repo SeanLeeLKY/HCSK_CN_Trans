@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple parts -->
+
+ 
+
+  <!-- Mod -->
+
+  <InstallGlassEye.label>安装玻璃眼</InstallGlassEye.label>
+  <InstallGlassEye.description>安装玻璃眼</InstallGlassEye.description>
+  <InstallGlassEye.jobString>安装玻璃眼</InstallGlassEye.jobString>
+
+  
+
+  <!--[Core] <InstallSimpleProstheticLeg.label>安装简易的假腿</InstallSimpleProstheticLeg.label>-->
+  <!--[Core] <InstallSimpleProstheticLeg.description>安装简易的假腿。</InstallSimpleProstheticLeg.description>-->
+  <!--[Core] <InstallSimpleProstheticLeg.jobString>正在安装简易的假腿。</InstallSimpleProstheticLeg.jobString>-->
+  <!--[Core] <InstallSimpleProstheticArm.label>安装简易的假臂</InstallSimpleProstheticArm.label>-->
+  <!--[Core] <InstallSimpleProstheticArm.description>安装简易的假臂。</InstallSimpleProstheticArm.description>-->
+  <!--[Core] <InstallSimpleProstheticArm.jobString>正在安装简易的假臂。</InstallSimpleProstheticArm.jobString>-->
+
+</LanguageData>

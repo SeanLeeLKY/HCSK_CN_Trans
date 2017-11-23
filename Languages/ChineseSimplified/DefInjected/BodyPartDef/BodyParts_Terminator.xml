@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TerminatorHead.label>cybernetic head</TerminatorHead.label>
+  <TerminatorSkull.label>cybernetic skull</TerminatorSkull.label>
+  <TerminatorBrain.label>cybernetic AI brain</TerminatorBrain.label>
+  <TerminatorLeftEye.label>cybernetic left eye</TerminatorLeftEye.label>
+  <TerminatorRightEye.label>cybernetic right eye</TerminatorRightEye.label>
+  <TerminatorLeftEar.label>cybernetic left ear</TerminatorLeftEar.label>
+  <TerminatorRightEar.label>cybernetic right ear</TerminatorRightEar.label>
+  <TerminatorNose.label>cybernetic nose</TerminatorNose.label>
+  <TerminatorJaw.label>cybernetic jaw</TerminatorJaw.label>
+  <TerminatorNeck.label>cybernetic neck</TerminatorNeck.label>
+  <TerminatorRib.label>cybernetic rib</TerminatorRib.label>
+  <TerminatorSpine.label>cybernetic spine</TerminatorSpine.label>
+  <TerminatorLeftLeg.label>cybernetic left leg</TerminatorLeftLeg.label>
+  <TerminatorLeftFoot.label>cybernetic left foot</TerminatorLeftFoot.label>
+  <TerminatorRightLeg.label>cybernetic right leg</TerminatorRightLeg.label>
+  <TerminatorRightFoot.label>cybernetic right foot</TerminatorRightFoot.label>
+  <TerminatorHeart.label>cybernetic heart</TerminatorHeart.label>
+  <TerminatorLeftLung.label>cybernetic left lung</TerminatorLeftLung.label>
+  <TerminatorRightLung.label>cybernetic right lung</TerminatorRightLung.label>
+  <TerminatorLeftKidney.label>cybernetic left kidney</TerminatorLeftKidney.label>
+  <TerminatorRightKidney.label>cybernetic right kidney</TerminatorRightKidney.label>
+  <TerminatorLiver.label>cybernetic liver</TerminatorLiver.label>
+  <TerminatorStomach.label>cybernetic stomach</TerminatorStomach.label>
+  <TerminatorTorso.label>cybernetic torso</TerminatorTorso.label>
+  <TerminatorLeftShoulder.label>cybernetic left shoulder</TerminatorLeftShoulder.label>
+  <TerminatorLeftArm.label>cybernetic left arm</TerminatorLeftArm.label>
+  <TerminatorLeftHand.label>cybernetic left hand</TerminatorLeftHand.label>
+  <TerminatorLeftHandPinky.label>cybernetic left pinky</TerminatorLeftHandPinky.label>
+  <TerminatorLeftHandRingFinger.label>cybernetic left ring finger</TerminatorLeftHandRingFinger.label>
+  <TerminatorLeftHandMiddleFinger.label>cybernetic left middle finger</TerminatorLeftHandMiddleFinger.label>
+  <TerminatorLeftHandIndexFinger.label>cybernetic left index finger</TerminatorLeftHandIndexFinger.label>
+  <TerminatorLeftHandThumb.label>cybernetic left thumb</TerminatorLeftHandThumb.label>
+  <TerminatorRightShoulder.label>cybernetic right shoulder</TerminatorRightShoulder.label>
+  <TerminatorRightArm.label>cybernetic right arm</TerminatorRightArm.label>
+  <TerminatorRightHand.label>cybernetic right hand</TerminatorRightHand.label>
+  <TerminatorRightHandPinky.label>cybernetic right pinky</TerminatorRightHandPinky.label>
+  <TerminatorRightHandRingFinger.label>cybernetic right ring finger</TerminatorRightHandRingFinger.label>
+  <TerminatorRightHandMiddleFinger.label>cybernetic right middle finger</TerminatorRightHandMiddleFinger.label>
+  <TerminatorRightHandIndexFinger.label>cybernetic right index finger</TerminatorRightHandIndexFinger.label>
+  <TerminatorRightHandThumb.label>cybernetic right thumb</TerminatorRightHandThumb.label>
+  <TerminatorLeftFootLittleToe.label>cybernetic left little toe</TerminatorLeftFootLittleToe.label>
+  <TerminatorLeftFootFourthToe.label>cybernetic left fourth toe</TerminatorLeftFootFourthToe.label>
+  <TerminatorLeftFootMiddleToe.label>cybernetic left middle toe</TerminatorLeftFootMiddleToe.label>
+  <TerminatorLeftFootSecondToe.label>cybernetic left second toe</TerminatorLeftFootSecondToe.label>
+  <TerminatorLeftFootBigToe.label>cybernetic left big toe</TerminatorLeftFootBigToe.label>
+  <TerminatorRightFootLittleToe.label>cybernetic right little toe</TerminatorRightFootLittleToe.label>
+  <TerminatorRightFootFourthToe.label>cybernetic right fourth toe</TerminatorRightFootFourthToe.label>
+  <TerminatorRightFootMiddleToe.label>cybernetic right middle toe</TerminatorRightFootMiddleToe.label>
+  <TerminatorRightFootSecondToe.label>cybernetic right second toe</TerminatorRightFootSecondToe.label>
+  <TerminatorRightFootBigToe.label>cybernetic right big toe</TerminatorRightFootBigToe.label>
+
+
+  <!-- Bones -->
+
+  <TerminatorLeftClavicle.label>cybernetic left clavicle</TerminatorLeftClavicle.label>
+  <TerminatorRightClavicle.label>cybernetic right clavicle</TerminatorRightClavicle.label>
+  <TerminatorSternum.label>cybernetic sternum</TerminatorSternum.label>
+  <TerminatorLeftHumerus.label>cybernetic left humerus</TerminatorLeftHumerus.label>
+  <TerminatorRightHumerus.label>cybernetic right humerus</TerminatorRightHumerus.label>
+  <TerminatorLeftRadius.label>cybernetic left radius</TerminatorLeftRadius.label>
+  <TerminatorRightRadius.label>cybernetic right radius</TerminatorRightRadius.label>
+  <TerminatorPelvis.label>cybernetic pelvis</TerminatorPelvis.label>
+  <TerminatorLeftFemur.label>cybernetic left femur</TerminatorLeftFemur.label>
+  <TerminatorRightFemur.label>cybernetic right femur</TerminatorRightFemur.label>
+  <TerminatorLeftTibia.label>cybernetic left tibia</TerminatorLeftTibia.label>
+  <TerminatorRightTibia.label>cybernetic right tibia</TerminatorRightTibia.label>
+
+
+</LanguageData>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   
+  <Nauseated.stages.0.label>恶心</Nauseated.stages.0.label>
+  <Nauseated.stages.0.description>I suddenly felt nauseated and sick, I threw up a lot didn't I?</Nauseated.stages.0.description>
+
+  <Anemic.stages.0.label>贫血</Anemic.stages.0.label>
+  <Anemic.stages.0.description>My body isn't doing well.</Anemic.stages.0.description>
+
+  <Amnesia.stages.0.label>失忆</Amnesia.stages.0.label>
+  <Amnesia.stages.0.description>I suddenly forgot everything, that's not good.</Amnesia.stages.0.description>
+
+  <Scurvy.stages.0.label>坏血病</Scurvy.stages.0.label>
+  <Scurvy.stages.0.description>My legs, arms and whole body hurts and my wounds doesn't seem to be healing.</Scurvy.stages.0.description>
+
+  <TookMedicine.stages.0.label>吃了药</TookMedicine.stages.0.label>
+  <TookMedicine.stages.0.description>That medicine was miraculous. I'm still feeling a bit woozy, but overall I'm good to go.</TookMedicine.stages.0.description>
+
+  <ColonistBasicSickness.stages.0.label>一个殖民者生病了</ColonistBasicSickness.stages.0.label>
+  <ColonistBasicSickness.stages.0.description>A colonist is sick, we'd better be careful on what he/she is having, it could be worse.</ColonistBasicSickness.stages.0.description>
+
+  <ColonistPassedAwayNatural.stages.0.label>一个殖民者老死了</ColonistPassedAwayNatural.stages.0.label>
+  <ColonistPassedAwayNatural.stages.0.description>A colonist had just passed away he/she lived a long and fruitful life, may he/she rest in peace.</ColonistPassedAwayNatural.stages.0.description>
+
+  <ColonistPassedAwayWounds.stages.0.label>一个殖民者因为重伤死了</ColonistPassedAwayWounds.stages.0.label>
+  <ColonistPassedAwayWounds.stages.0.description>A colonist had just passed away, he/she couldn't hold on to dear life, may he/she rest in peace.</ColonistPassedAwayWounds.stages.0.description>
+
+  <ColonistStroke.stages.0.label>一个殖民者中风摔倒</ColonistStroke.stages.0.label>
+  <ColonistStroke.stages.0.description>One of the colonist suddenly tumbled down, he/she should take it easy and rest, good thing we acted quickly and reached him/her to bed.</ColonistStroke.stages.0.description>
+
+  <EclipseSubEventAFeral.stages.0.label>古怪的噩梦</EclipseSubEventAFeral.stages.0.label>
+  <EclipseSubEventAFeral.stages.0.description>First an eclipse an now this! when is this nightmare going to end.</EclipseSubEventAFeral.stages.0.description>
+
+  <EclipseSubEventBMeteor.stages.0.label>从陨石灾变中存活</EclipseSubEventBMeteor.stages.0.label>
+  <EclipseSubEventBMeteor.stages.0.description>I looked at death itself, good thing I'm still here.</EclipseSubEventBMeteor.stages.0.description>
+
+  <Rescued.stages.0.label>我可以回家了</Rescued.stages.0.label>
+  <Rescued.stages.0.description>The feeling that you can go home after having experienced so much is tantalizing, but I just can't leave this planet. This place is now my home.</Rescued.stages.0.description>
+
+  <MeteorShower.stages.0.label>我看见了一场流星雨</MeteorShower.stages.0.label>
+  <MeteorShower.stages.0.description>The cosmos, still so beautiful even after abandoning me here.</MeteorShower.stages.0.description>
+
+  <PrisonBreak.stages.0.label>囚犯越狱</PrisonBreak.stages.0.label>
+  <PrisonBreak.stages.0.description>The prisoners were so crafty they managed to destroy all the doors! everyone was running amok! did we even catch someone?</PrisonBreak.stages.0.description>
+
+  <PrisonerSuicide.stages.0.label>囚犯自杀</PrisonerSuicide.stages.0.label>
+  <PrisonerSuicide.stages.0.description>How do you even kill yourself in prison?</PrisonerSuicide.stages.0.description>
+
+  <PrisonRiot.stages.0.label>监狱暴动</PrisonRiot.stages.0.label>
+  <PrisonRiot.stages.0.description>Now that was a definition of anarchy, I wanted to throw punches too!</PrisonRiot.stages.0.description>
+
+  <RaiderSyndicate.stages.0.label>一个同伴把我们出卖了</RaiderSyndicate.stages.0.label>
+  <RaiderSyndicate.stages.0.description>To think that our former friend would sell us to raiders. This is such a cruel universe.</RaiderSyndicate.stages.0.description>
+
+  <SolarFlareSubEventACosmicRadiation.stages.0.label>创伤事件</SolarFlareSubEventACosmicRadiation.stages.0.label>
+  <SolarFlareSubEventACosmicRadiation.stages.0.description>Everything went black for a few seconds, and most colonists were down on their knees, my head hurts like hell.</SolarFlareSubEventACosmicRadiation.stages.0.description>
+
+  <NuclearFalloutThought.stages.0.label>核事故</NuclearFalloutThought.stages.0.label>
+  <NuclearFalloutThought.stages.0.description>Somebody tried to nuke us!</NuclearFalloutThought.stages.0.description>
+
+
+  <!--[Core] <Sick.stages.0.label>得病</Sick.stages.0.label>-->
+  <!--[Core] <Sick.stages.0.description>我生病了，感觉不太舒服。</Sick.stages.0.description>-->
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CopperBar.label>铜</CopperBar.label>
+  <CopperBar.description>Copper is an alloy of Copper Ore. It is mainly used for its high conductivity in electrical applications. Copper is not a magnetic metal.</CopperBar.description>
+  <CopperBar.stuffProps.stuffAdjective>铜</CopperBar.stuffProps.stuffAdjective>
+
+  <TinBar.label>锡</TinBar.label>
+  <TinBar.description>Tin is an alloy of Tin Ore.</TinBar.description>
+  <TinBar.stuffProps.stuffAdjective>锡</TinBar.stuffProps.stuffAdjective>
+
+  <Bronze.label>青铜</Bronze.label>
+  <Bronze.description>Bronze is an alloy consisting primarily of copper, commonly with about 12% tin and often with the addition of other metals such as aluminium, manganese, nickel.</Bronze.description>
+  <Bronze.stuffProps.stuffAdjective>青铜</Bronze.stuffProps.stuffAdjective>
+
+  <GoldBar.label>金</GoldBar.label>
+  <GoldBar.description>Gold is a beautiful, precious alloy of Gold and Copper or Bauxite. Gold is not a magnetic metal.</GoldBar.description>
+  <GoldBar.stuffProps.stuffAdjective>金</GoldBar.stuffProps.stuffAdjective>
+
+  <SilverBar.label>纯银</SilverBar.label>
+  <SilverBar.description>Sterling Silver is a valuable alloy of Silver and Copper or Bauxite. Sterling Silver is not a magnetic metal.</SilverBar.description>
+  <SilverBar.stuffProps.stuffAdjective>银</SilverBar.stuffProps.stuffAdjective>
+
+
+</LanguageData>

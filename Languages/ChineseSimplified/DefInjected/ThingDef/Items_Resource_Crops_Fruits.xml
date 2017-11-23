@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  
+
+  <Rawapple.label>苹果</Rawapple.label>
+  <Rawapple.description>Apples are a round, red fruit that grows on Apple Trees. Commonly used in cooking for deserts due to its sweet taste, it can also be brewed into Apple Cider. Delectable to eat even when raw.</Rawapple.description>
+
+  <Rawbanana.label>香蕉</Rawbanana.label>
+  <Rawbanana.description>A Banana is a long, soft, yellow, sweet fruit that grows on Banana Trees. Yummy to eat when raw.</Rawbanana.description>
+
+  <Rawgrape.label>葡萄</Rawgrape.label>
+  <Rawgrape.description>Grapes are small, sweet, berry fruits that grow in clusters on Grape Vines. Tantalizing to eat even when raw.</Rawgrape.description>
+
+  <Raworange.label>橙</Raworange.label>
+  <Raworange.description>Oranges are a sweet, citric fruit that grows on Orange Trees. A tough outer rind protects the soft pulpy flesh inside. Pleasant to eat when raw.</Raworange.description>
+
+  <Rawpeach.label>桃子</Rawpeach.label>
+  <Rawpeach.description>Peaches are a soft, fuzzy, sweet fruit that grows on Peach Trees. They have a large, hard pit at the core of the fruit. Splendid to eat when raw.</Rawpeach.description>
+
+  <Rawblueberry.label>蓝莓</Rawblueberry.label>
+  <Rawblueberry.description>Blueberries are blue, tiny, round, berry fruits that grow on Blueberry Bushes. Often used in desserts, like Blueberry Pie. Lovely to eat when raw.</Rawblueberry.description>
+
+  <Rawgooseberry.label>草莓</Rawgooseberry.label>
+  <Rawgooseberry.description>Gooseberries are small, sweet, somewhat hairy fruits that grow on Gooseberry Vines. Okay to eat when raw.</Rawgooseberry.description>
+
+  <Rawcloudberry.label>云莓</Rawcloudberry.label>
+  <Rawcloudberry.description>Cloudberries are small, amber colored, sweet, raspberry-like fruits that grow on Cloudberry Plants. Marevlous to eat when raw.</Rawcloudberry.description>
+
+  <RawCoconut.label>椰子</RawCoconut.label>
+  <RawCoconut.description>Coconut.</RawCoconut.description>
+
+
+  <!--[Core] <RawBerries.label>草莓</RawBerries.label>-->
+  <!--[Core] <RawBerries.description>各种各样的浆果，就算生吃味道也很好。</RawBerries.description>-->
+  <!--[Core] <RawAgave.label>龙舌兰果</RawAgave.label>-->
+  <!--[Core] <RawAgave.description>生龙舌兰果。生吃味道很差。</RawAgave.description>-->
+
+</LanguageData>

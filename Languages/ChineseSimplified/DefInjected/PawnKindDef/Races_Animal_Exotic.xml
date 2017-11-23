@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Feenix -->
+
+  <Feenix.label>芬尼克斯</Feenix.label>
+  <Feenix.labelPlural>芬尼克斯</Feenix.labelPlural>
+  <Feenix.lifeStages.0.label>芬尼克斯幼崽</Feenix.lifeStages.0.label>
+  <Feenix.lifeStages.0.labelPlural>芬尼克斯幼崽</Feenix.lifeStages.0.labelPlural>
+  <Feenix.lifeStages.0.labelMale>雄性芬尼克斯幼崽</Feenix.lifeStages.0.labelMale>
+  <Feenix.lifeStages.0.labelMalePlural>雄性芬尼克斯幼崽</Feenix.lifeStages.0.labelMalePlural>
+  <Feenix.lifeStages.0.labelFemale>雌性芬尼克斯幼崽</Feenix.lifeStages.0.labelFemale>
+  <Feenix.lifeStages.0.labelFemalePlural>雌性芬尼克斯幼崽</Feenix.lifeStages.0.labelFemalePlural>
+  <Feenix.lifeStages.1.label>芬尼克斯</Feenix.lifeStages.1.label>
+  <Feenix.lifeStages.1.labelPlural>芬尼克斯</Feenix.lifeStages.1.labelPlural>
+  <Feenix.lifeStages.1.labelMale>雄性芬尼克斯</Feenix.lifeStages.1.labelMale>
+  <Feenix.lifeStages.1.labelMalePlural>雄性芬尼克斯</Feenix.lifeStages.1.labelMalePlural>
+  <Feenix.lifeStages.1.labelFemale>雌性芬尼克斯</Feenix.lifeStages.1.labelFemale>
+  <Feenix.lifeStages.1.labelFemalePlural>雌性芬尼克斯</Feenix.lifeStages.1.labelFemalePlural>
+  <Feenix.lifeStages.2.label>芬尼克斯</Feenix.lifeStages.2.label>
+  <Feenix.lifeStages.2.labelPlural>芬尼克斯</Feenix.lifeStages.2.labelPlural>
+  <Feenix.lifeStages.2.labelMale>雄性芬尼克斯</Feenix.lifeStages.2.labelMale>
+  <Feenix.lifeStages.2.labelMalePlural>雄性芬尼克斯</Feenix.lifeStages.2.labelMalePlural>
+  <Feenix.lifeStages.2.labelFemale>雌性芬尼克斯</Feenix.lifeStages.2.labelFemale>
+  <Feenix.lifeStages.2.labelFemalePlural>雌性芬尼克斯</Feenix.lifeStages.2.labelFemalePlural>
+  <Feenix.labelMale>雄性芬尼克斯</Feenix.labelMale>
+  <Feenix.labelMalePlural>雄性芬尼克斯</Feenix.labelMalePlural>
+  <Feenix.labelFemale>雌性芬尼克斯</Feenix.labelFemale>
+  <Feenix.labelFemalePlural>雌性芬尼克斯</Feenix.labelFemalePlural>
+
+
+  <!-- Wyvern -->
+
+  <GreenWyvern.label>绿飞龙</GreenWyvern.label>
+  <GreenWyvern.labelPlural>绿飞龙</GreenWyvern.labelPlural>
+  <GreenWyvern.lifeStages.0.label>绿飞龙崽</GreenWyvern.lifeStages.0.label>
+  <GreenWyvern.lifeStages.0.labelPlural>绿飞龙崽</GreenWyvern.lifeStages.0.labelPlural>
+  <GreenWyvern.lifeStages.0.labelMale>雄性绿飞龙崽</GreenWyvern.lifeStages.0.labelMale>
+  <GreenWyvern.lifeStages.0.labelMalePlural>雄性绿飞龙崽</GreenWyvern.lifeStages.0.labelMalePlural>
+  <GreenWyvern.lifeStages.0.labelFemale>雌性绿飞龙崽</GreenWyvern.lifeStages.0.labelFemale>
+  <GreenWyvern.lifeStages.0.labelFemalePlural>雌性绿飞龙崽</GreenWyvern.lifeStages.0.labelFemalePlural>
+  <GreenWyvern.lifeStages.1.label>绿飞龙</GreenWyvern.lifeStages.1.label>
+  <GreenWyvern.lifeStages.1.labelPlural>绿飞龙</GreenWyvern.lifeStages.1.labelPlural>
+  <GreenWyvern.lifeStages.1.labelMale>雄性绿飞龙</GreenWyvern.lifeStages.1.labelMale>
+  <GreenWyvern.lifeStages.1.labelMalePlural>雄性绿飞龙</GreenWyvern.lifeStages.1.labelMalePlural>
+  <GreenWyvern.lifeStages.1.labelFemale>雌性绿飞龙</GreenWyvern.lifeStages.1.labelFemale>
+  <GreenWyvern.lifeStages.1.labelFemalePlural>雌性绿飞龙</GreenWyvern.lifeStages.1.labelFemalePlural>
+  <GreenWyvern.lifeStages.2.label>绿飞龙</GreenWyvern.lifeStages.2.label>
+  <GreenWyvern.lifeStages.2.labelPlural>绿飞龙</GreenWyvern.lifeStages.2.labelPlural>
+  <GreenWyvern.lifeStages.2.labelMale>雄性绿飞龙</GreenWyvern.lifeStages.2.labelMale>
+  <GreenWyvern.lifeStages.2.labelMalePlural>雄性绿飞龙</GreenWyvern.lifeStages.2.labelMalePlural>
+  <GreenWyvern.lifeStages.2.labelFemale>雌性绿飞龙</GreenWyvern.lifeStages.2.labelFemale>
+  <GreenWyvern.lifeStages.2.labelFemalePlural>雌性绿飞龙</GreenWyvern.lifeStages.2.labelFemalePlural>
+  <GreenWyvern.labelMale>雄性绿飞龙</GreenWyvern.labelMale>
+  <GreenWyvern.labelMalePlural>雄性绿飞龙</GreenWyvern.labelMalePlural>
+  <GreenWyvern.labelFemale>雌性绿飞龙</GreenWyvern.labelFemale>
+  <GreenWyvern.labelFemalePlural>雌性绿飞龙</GreenWyvern.labelFemalePlural>
+
+  <Kirin.label>冰麟</Kirin.label>
+  <Kirin.labelPlural>冰麟</Kirin.labelPlural>
+  <Kirin.lifeStages.0.label>小冰麟</Kirin.lifeStages.0.label>
+  <Kirin.lifeStages.0.labelPlural>小冰麟</Kirin.lifeStages.0.labelPlural>
+  <Kirin.lifeStages.0.labelMale>雄性小冰麟</Kirin.lifeStages.0.labelMale>
+  <Kirin.lifeStages.0.labelMalePlural>雄性小冰麟</Kirin.lifeStages.0.labelMalePlural>
+  <Kirin.lifeStages.0.labelFemale>雌性小冰麟</Kirin.lifeStages.0.labelFemale>
+  <Kirin.lifeStages.0.labelFemalePlural>雌性小冰麟</Kirin.lifeStages.0.labelFemalePlural>
+  <Kirin.lifeStages.1.label>冰麟</Kirin.lifeStages.1.label>
+  <Kirin.lifeStages.1.labelPlural>冰麟</Kirin.lifeStages.1.labelPlural>
+  <Kirin.lifeStages.1.labelMale>雄性冰麟</Kirin.lifeStages.1.labelMale>
+  <Kirin.lifeStages.1.labelMalePlural>雄性冰麟</Kirin.lifeStages.1.labelMalePlural>
+  <Kirin.lifeStages.1.labelFemale>雌性冰麟</Kirin.lifeStages.1.labelFemale>
+  <Kirin.lifeStages.1.labelFemalePlural>雌性冰麟</Kirin.lifeStages.1.labelFemalePlural>
+  <Kirin.lifeStages.2.label>冰麟</Kirin.lifeStages.2.label>
+  <Kirin.lifeStages.2.labelPlural>冰麟</Kirin.lifeStages.2.labelPlural>
+  <Kirin.lifeStages.2.labelMale>雄性冰麟</Kirin.lifeStages.2.labelMale>
+  <Kirin.lifeStages.2.labelMalePlural>雄性冰麟</Kirin.lifeStages.2.labelMalePlural>
+  <Kirin.lifeStages.2.labelFemale>雌性冰麟</Kirin.lifeStages.2.labelFemale>
+  <Kirin.lifeStages.2.labelFemalePlural>雌性冰麟</Kirin.lifeStages.2.labelFemalePlural>
+  <Kirin.labelMale>雄性冰麟</Kirin.labelMale>
+  <Kirin.labelMalePlural>雄性冰麟</Kirin.labelMalePlural>
+  <Kirin.labelFemale>雌性冰麟</Kirin.labelFemale>
+  <Kirin.labelFemalePlural>雌性冰麟</Kirin.labelFemalePlural>
+
+  <Behir.label>青足龙蛇</Behir.label>
+  <Behir.labelPlural>青足龙蛇</Behir.labelPlural>
+  <Behir.lifeStages.0.label>青足龙蛇</Behir.lifeStages.0.label>
+  <Behir.lifeStages.0.labelPlural>青足龙蛇</Behir.lifeStages.0.labelPlural>
+  <Behir.lifeStages.0.labelMale>雄性青足龙蛇</Behir.lifeStages.0.labelMale>
+  <Behir.lifeStages.0.labelMalePlural>雄性青足龙蛇</Behir.lifeStages.0.labelMalePlural>
+  <Behir.lifeStages.0.labelFemale>雌性青足龙蛇</Behir.lifeStages.0.labelFemale>
+  <Behir.lifeStages.0.labelFemalePlural>雌性青足龙蛇</Behir.lifeStages.0.labelFemalePlural>
+  <Behir.lifeStages.1.label>青足龙蛇</Behir.lifeStages.1.label>
+  <Behir.lifeStages.1.labelPlural>青足龙蛇</Behir.lifeStages.1.labelPlural>
+  <Behir.lifeStages.1.labelMale>雄性青足龙蛇</Behir.lifeStages.1.labelMale>
+  <Behir.lifeStages.1.labelMalePlural>雄性青足龙蛇</Behir.lifeStages.1.labelMalePlural>
+  <Behir.lifeStages.1.labelFemale>雌性青足龙蛇</Behir.lifeStages.1.labelFemale>
+  <Behir.lifeStages.1.labelFemalePlural>雌性青足龙蛇</Behir.lifeStages.1.labelFemalePlural>
+  <Behir.lifeStages.2.label>青足龙蛇</Behir.lifeStages.2.label>
+  <Behir.lifeStages.2.labelPlural>青足龙蛇</Behir.lifeStages.2.labelPlural>
+  <Behir.lifeStages.2.labelMale>雄性青足龙蛇</Behir.lifeStages.2.labelMale>
+  <Behir.lifeStages.2.labelMalePlural>雄性青足龙蛇</Behir.lifeStages.2.labelMalePlural>
+  <Behir.lifeStages.2.labelFemale>雌性青足龙蛇</Behir.lifeStages.2.labelFemale>
+  <Behir.lifeStages.2.labelFemalePlural>雌性青足龙蛇</Behir.lifeStages.2.labelFemalePlural>
+  <Behir.labelMale>雄性青足龙蛇</Behir.labelMale>
+  <Behir.labelMalePlural>雄性青足龙蛇</Behir.labelMalePlural>
+  <Behir.labelFemale>雌性青足龙蛇</Behir.labelFemale>
+  <Behir.labelFemalePlural>雌性青足龙蛇</Behir.labelFemalePlural>
+
+  <Barghest.label>犬魔</Barghest.label>
+  <Barghest.labelPlural>犬魔</Barghest.labelPlural>
+  <Barghest.lifeStages.0.label>犬魔幼崽</Barghest.lifeStages.0.label>
+  <Barghest.lifeStages.0.labelPlural>犬魔幼崽</Barghest.lifeStages.0.labelPlural>
+  <Barghest.lifeStages.0.labelMale>雄性犬魔幼崽</Barghest.lifeStages.0.labelMale>
+  <Barghest.lifeStages.0.labelMalePlural>雄性犬魔幼崽</Barghest.lifeStages.0.labelMalePlural>
+  <Barghest.lifeStages.0.labelFemale>雌性犬魔幼崽</Barghest.lifeStages.0.labelFemale>
+  <Barghest.lifeStages.0.labelFemalePlural>雌性犬魔幼崽</Barghest.lifeStages.0.labelFemalePlural>
+  <Barghest.lifeStages.1.label>犬魔</Barghest.lifeStages.1.label>
+  <Barghest.lifeStages.1.labelPlural>犬魔</Barghest.lifeStages.1.labelPlural>
+  <Barghest.lifeStages.1.labelMale>雄性犬魔</Barghest.lifeStages.1.labelMale>
+  <Barghest.lifeStages.1.labelMalePlural>雄性犬魔</Barghest.lifeStages.1.labelMalePlural>
+  <Barghest.lifeStages.1.labelFemale>雌性犬魔</Barghest.lifeStages.1.labelFemale>
+  <Barghest.lifeStages.1.labelFemalePlural>雌性犬魔</Barghest.lifeStages.1.labelFemalePlural>
+  <Barghest.lifeStages.2.label>犬魔</Barghest.lifeStages.2.label>
+  <Barghest.lifeStages.2.labelPlural>犬魔</Barghest.lifeStages.2.labelPlural>
+  <Barghest.lifeStages.2.labelMale>雄性犬魔</Barghest.lifeStages.2.labelMale>
+  <Barghest.lifeStages.2.labelMalePlural>雄性犬魔</Barghest.lifeStages.2.labelMalePlural>
+  <Barghest.lifeStages.2.labelFemale>雌性犬魔</Barghest.lifeStages.2.labelFemale>
+  <Barghest.lifeStages.2.labelFemalePlural>雌性犬魔</Barghest.lifeStages.2.labelFemalePlural>
+  <Barghest.labelMale>雄性犬魔</Barghest.labelMale>
+  <Barghest.labelMalePlural>雄性犬魔</Barghest.labelMalePlural>
+  <Barghest.labelFemale>雌性犬魔</Barghest.labelFemale>
+  <Barghest.labelFemalePlural>雌性犬魔</Barghest.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- DRAGUNOV -->
+
+  <Gun_DragunovSVU.label>SVU OTs-03 德拉古诺夫狙击步枪</Gun_DragunovSVU.label>
+  <Gun_DragunovSVU.description>The OTs-03 SVU is a bullpup configuration of the SVD sniper rifle. The SVU was developed to meet the needs of the security forces of the Russian Ministry of Internal Affairs, such as OMON. High damage, long range and very good accuracy.</Gun_DragunovSVU.description>
+
+
+  <!-- VINTOREZ -->
+
+  <Gun_Vintorez.label>VSS “螺纹裁切器”狙击步枪</Gun_Vintorez.label>
+  <Gun_Vintorez.description>Special forces sniper rifle VSS Vintorez.</Gun_Vintorez.description>
+
+
+  <!-- M42A -->
+
+  <Gun_M42A_USCM.label>M42A 狙击步枪</Gun_M42A_USCM.label>
+  <Gun_M42A_USCM.description>The M42A Scope Rifle is an American-made semi-automatic sniper rifle chambered for 7.62x51mm NATO ammunition. It is employed as the primary sniper weapon of the United States Colonial Marine Corps.</Gun_M42A_USCM.description>
+
+
+  <!-- WA-2000 -->
+
+  <RF_Gun_WA2K.label>瓦尔特 WA 2000 狙击步枪</RF_Gun_WA2K.label>
+  <RF_Gun_WA2K.description>Limited edition olden days sniper rifle. Great range, exceptional accuracy, very high damage and very low fire rate.</RF_Gun_WA2K.description>
+
+
+</LanguageData>

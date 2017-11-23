@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Decorative -->
+
+  <PlantVenus.label>金星花</PlantVenus.label>
+  <PlantVenus.description></PlantVenus.description>
+
+ 
+
+ 
+  <PlantWhiteRose.label>白玫瑰</PlantWhiteRose.label>
+  <PlantWhiteRose.description>Roses Flowers are white, beautiful cultivated flowers that are symbolic of love and romance since ancient times. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive.</PlantWhiteRose.description>
+
+ 
+
+  <PlantRosebay.label>夹竹桃</PlantRosebay.label>
+  <PlantRosebay.description>Rosebay Flowers are small, gorgeous, tough wild flowers that grows in temperate climates. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive.</PlantRosebay.description>
+
+  <PlantDelphinium.label>翠雀花</PlantDelphinium.label>
+  <PlantDelphinium.description>Delphinium Flowers are elegant cultivated flowers with a majestic purple tint. It has a short lifepsan, so it must be replanted often. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive.</PlantDelphinium.description>
+
+  <PlantCrocus.label>番红花</PlantCrocus.label>
+  <PlantCrocus.description>Crocus Flowers are common, small flowers. Though it is often considered a pest weed, it is pleasant to look at. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive.</PlantCrocus.description>
+
+  <PlantAnthurium.label>红掌</PlantAnthurium.label>
+  <PlantAnthurium.description>A beautiful cultivated red flower.</PlantAnthurium.description>
+
+
+  <!--[Core] <PlantAstragalus.label>紫云英</PlantAstragalus.label>-->
+  <!--[Core] <PlantAstragalus.description>一种小型多年生野花，生长在高原地区。</PlantAstragalus.description>-->
+  <!--[Core] <PlantRose.label>玫瑰</PlantRose.label>-->
+  <!--[Core] <PlantRose.description>一种漂亮的栽培花卉，自从远古时代以来就象征着爱情与浪漫。</PlantRose.description>-->
+  <!--[Core] <PlantDaylily.label>黄花</PlantDaylily.label>-->
+  <!--[Core] <PlantDaylily.description>一种漂亮的栽培花卉，将单调的场所变得鲜活起来。必须经常重新种植。</PlantDaylily.description>-->
+  <!--[Core] <PlantDandelion.label>蒲公英</PlantDandelion.label>-->
+  <!--[Core] <PlantDandelion.description>一种常见的野花。因为繁殖迅速一般被当成野草。是一种比较好看的花。</PlantDandelion.description>-->
+
+</LanguageData>

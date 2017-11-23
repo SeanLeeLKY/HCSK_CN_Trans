@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Norballo_Furcoat.label>毛皮大衣</Norballo_Furcoat.label>
+  <Norballo_Furcoat.description>A furry long cape. Really warm.</Norballo_Furcoat.description>
+
+  <Apparello_Skull.label>袭击者夹克</Apparello_Skull.label>
+  <Apparello_Skull.description>A basic jacket modified with crude shoulderpads and spikes.</Apparello_Skull.description>
+
+   
+  <Apparel_ParkaB.label>棉夹克</Apparel_ParkaB.label>
+  <Apparel_ParkaB.description>A quilted jacket for staying warm in the coldest of temperatures.</Apparel_ParkaB.description>
+
+   
+  <Apparel_Cassie.label>运动上衣</Apparel_Cassie.label>
+  <Apparel_Cassie.description>A more casual approach to a suit jacket, blazers are often worn as a formal uniform.</Apparel_Cassie.description>
+
+  <Apparello_PonPon.label>斗篷</Apparello_PonPon.label>
+  <Apparello_PonPon.description>A gunslinger's second best friend, right after the six shooter and Ten-Gallon Stetson! No, wait make that the third best friend.</Apparello_PonPon.description>
+
+
+  <!--[Core] <Apparel_Jacket.label>夹克</Apparel_Jacket.label>-->
+  <!--[Core] <Apparel_Jacket.description>一件坚固的夹克，可以避免擦伤和刮伤，以及在寒冷天气中保持温暖。</Apparel_Jacket.description>-->
+  <!--[Core] <Apparel_Parka.label>风雪大衣</Apparel_Parka.label>-->
+  <!--[Core] <Apparel_Parka.description>一件厚重的风雪大衣，即使在最寒冷的温度中也能保持温暖。</Apparel_Parka.description>-->
+  <!--[Core] <Apparel_Duster.label>防尘大衣</Apparel_Duster.label>-->
+  <!--[Core] <Apparel_Duster.description>一件长型的防尘大衣，用于沙漠中阻隔阳光、炎热和沙尘。</Apparel_Duster.description>-->
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HerbalMedicine.label>生草药</HerbalMedicine.label>
+  <HerbalMedicine.description>A pack of herbal concoctions typically extracted from the Healroot Plant. It is less potent than industrial pharmaceuticals.</HerbalMedicine.description>
+
+  <Medicine.label>医药</Medicine.label>
+  <Medicine.description>Medicine is a combination of various medical supplies that medical personnel can use to heal the wounded.</Medicine.description>
+
+  <GlitterworldMedicine.label>闪耀世界医药</GlitterworldMedicine.label>
+  <GlitterworldMedicine.description>Advanced medical supplies from a high-tech GlitterWorld. A more potent version of standard medicine that can greatly aid in even the most serious of injuries.</GlitterworldMedicine.description>
+
+  <HerbMedicine.label>中草药</HerbMedicine.label>
+  <HerbMedicine.description>Herbal Medicine is a basic collection of plant-based supplies that medical staff use to treat the wounded.</HerbMedicine.description>
+
+
+  <!--[Core] <HerbalMedicine.label>草药</HerbalMedicine.label>-->
+  <!--[Core] <HerbalMedicine.description>一包从草药植物提取而来的草药混合物。比起工业医药效果稍差，但总好过没有。</HerbalMedicine.description>-->
+  <!--[Core] <Medicine.label>医药</Medicine.label>-->
+  <!--[Core] <Medicine.description>医疗人员用医药来治疗病人和伤员。</Medicine.description>-->
+  <!--[Core] <GlitterworldMedicine.label>闪耀世界医药</GlitterworldMedicine.label>-->
+  <!--[Core] <GlitterworldMedicine.description>来自高科技的闪耀世界的高级医药。</GlitterworldMedicine.description>-->
+
+</LanguageData>

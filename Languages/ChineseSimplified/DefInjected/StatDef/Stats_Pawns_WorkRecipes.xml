@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ElectronicCraftingSpeed.label>电子器件制作速度</ElectronicCraftingSpeed.label>
+  <ElectronicCraftingSpeed.description>Speed at which this person crafts electronic devices.</ElectronicCraftingSpeed.description>
+
+  <CollectingSpeed.label>收集速度</CollectingSpeed.label>
+  <CollectingSpeed.description>Speed at which this person collects clay, sand, peat, etc.</CollectingSpeed.description>
+
+
+</LanguageData>

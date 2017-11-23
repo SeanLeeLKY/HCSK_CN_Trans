@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla Sandbags for Siege -->
+ 
+  <!-- <ThingDef ParentName="BuildingBase">
+    <defName>StampedEarthWall</defName>
+    <label>Stamped Earth Wall</label>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <description>A defensive wall made of compacted earth. It requires no additional resources to build and is quite strong, but it takes a lot of work.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/Rock_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(64,55,48)</color>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+	<li>Wall</li>
+	<li>Rock</li>
+      </linkFlags>
+    </graphicData>
+    <blueprintGraphicData>
+      <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+    </blueprintGraphicData>
+    <uiIconPath>Things/Building/Security/StampedEarthWall_MenuIcon</uiIconPath>
+    <statBases>
+      <MaxHitPoints>140</MaxHitPoints>
+      <WorkToBuild>2500</WorkToBuild>
+      <Flammability>0</Flammability>
+    </statBases>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <coversFloor>true</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <tickerType>Never</tickerType>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <holdsRoof>true</holdsRoof>
+    <designationCategory>Structure</designationCategory>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+	<blockLight>true</blockLight>
+    <building>
+      <isInert>true</isInert>
+      <ignoreNeedsPower>true</ignoreNeedsPower>
+    </building>
+  </ThingDef> -->
+
+  <Parapet.label>矮护墙</Parapet.label>
+  <Parapet.description>A waist-high stone wall built for defense.</Parapet.description>
+  <Parapet_Blueprint.label>矮护墙 (蓝图)</Parapet_Blueprint.label>
+  <Parapet_Frame.label>矮护墙 (建造中)</Parapet_Frame.label>
+  <Parapet_Frame.description>A waist-high stone wall built for defense.</Parapet_Frame.description>
+
+
+  <!-- Cheval de frise -->
+
+  <chevalDeFrise.label>拒马</chevalDeFrise.label>
+  <chevalDeFrise.description>A defensive barrier made of sharpened sticks. It is weak but slow to climb over.</chevalDeFrise.description>
+  <chevalDeFrise_Blueprint.label>拒马 (蓝图)</chevalDeFrise_Blueprint.label>
+  <chevalDeFrise_Blueprint_Install.label>拒马 (蓝图)</chevalDeFrise_Blueprint_Install.label>
+  <chevalDeFrise_Frame.label>拒马 (建造中)</chevalDeFrise_Frame.label>
+  <chevalDeFrise_Frame.description>A defensive barrier made of sharpened sticks. It is weak but slow to climb over.</chevalDeFrise_Frame.description>
+
+
+  <!-- Embrasures -->
+
+  <Embrasure.label>射击墙</Embrasure.label>
+  <Embrasure.description>A waist-high stone wall built for defense.</Embrasure.description>
+  <Embrasure_Blueprint.label>embrasure (蓝图)</Embrasure_Blueprint.label>
+  <Embrasure_Frame.label>embrasure (建造中)</Embrasure_Frame.label>
+  <Embrasure_Frame.description>A waist-high stone wall built for defense.</Embrasure_Frame.description>
+
+
+  <!-- Barbed Wire -->
+
+  <WallWire.label>铁丝网</WallWire.label>
+  <WallWire.description>Good fences make for good neighbor. This fencing is made out of razor wire to keep most people away.</WallWire.description>
+  <WallWire_Blueprint.label>barbed wire (蓝图)</WallWire_Blueprint.label>
+  <WallWire_Blueprint_Install.label>barbed wire (蓝图)</WallWire_Blueprint_Install.label>
+  <WallWire_Frame.label>barbed wire (建造中)</WallWire_Frame.label>
+  <WallWire_Frame.description>Good fences make for good neighbor. This fencing is made out of razor wire to keep most people away.</WallWire_Frame.description>
+
+
+  <!-- Moat -->
+
+  <Moat.label>浅水护城河</Moat.label>
+  <Moat.description>A light perimeter defense to slow down your enemy.</Moat.description>
+  <Moat_Blueprint.label>shallow moat (蓝图)</Moat_Blueprint.label>
+  <Moat_Frame.label>shallow moat (建造中)</Moat_Frame.label>
+  <Moat_Frame.description>A light perimeter defense to slow down your enemy.</Moat_Frame.description>
+
+
+  <!-- Traps -->
+
+  <Razor_Wire_Trap.label>刀片刺网陷阱</Razor_Wire_Trap.label>
+  <Razor_Wire_Trap.description>Very dangerous trap.</Razor_Wire_Trap.description>
+  <Razor_Wire_Trap_Blueprint.label>razor wire trap (蓝图)</Razor_Wire_Trap_Blueprint.label>
+  <Razor_Wire_Trap_Blueprint_Install.label>razor wire trap (蓝图)</Razor_Wire_Trap_Blueprint_Install.label>
+  <Razor_Wire_Trap_Frame.label>razor wire trap (建造中)</Razor_Wire_Trap_Frame.label>
+  <Razor_Wire_Trap_Frame.description>Very dangerous trap.</Razor_Wire_Trap_Frame.description>
+
+   
+
+  
+  <Building_Pawn_Upgrader.label>护盾充能站</Building_Pawn_Upgrader.label>
+  <Building_Pawn_Upgrader.description>Supplies and recharges Nanite Shield Modulators on colonists to protect them from injury.</Building_Pawn_Upgrader.description>
+  <Building_Pawn_Upgrader_Blueprint.label>nanite shield station (蓝图)</Building_Pawn_Upgrader_Blueprint.label>
+  <Building_Pawn_Upgrader_Frame.label>nanite shield station (建造中)</Building_Pawn_Upgrader_Frame.label>
+  <Building_Pawn_Upgrader_Frame.description>Supplies and recharges Nanite Shield Modulators on colonists to protect them from injury.</Building_Pawn_Upgrader_Frame.description>
+
+
+  <!--[Core] <Sandbags.label>沙袋</Sandbags.label>-->
+  <!--[Core] <Sandbags.description>作为掩体，降低被远程武器击中的几率。</Sandbags.description>-->
+  <!--[Core] <Sandbags_Blueprint.label>沙袋（蓝图）</Sandbags_Blueprint.label>-->
+  <!--[Core] <Sandbags_Frame.label>沙袋（建造中）</Sandbags_Frame.label>-->
+  <!--[Core] <Sandbags_Frame.description>作为掩体，降低被远程武器击中的几率。</Sandbags_Frame.description>-->
+  <!--[Core] <TrapDeadfall.label>尖刺陷阱</TrapDeadfall.label>-->
+  <!--[Core] <TrapDeadfall.description>用一个巧妙的触发机关将重物悬停在高处。当受害人触发机关时，重物掉下砸在他的头或躯干上。</TrapDeadfall.description>-->
+  <!--[Core] <TrapDeadfall_Blueprint.label>尖刺陷阱（蓝图）</TrapDeadfall_Blueprint.label>-->
+  <!--[Core] <TrapDeadfall_Frame.label>尖刺陷阱（建造中）</TrapDeadfall_Frame.label>-->
+  <!--[Core] <TrapDeadfall_Frame.description>用一个巧妙的触发机关将重物悬停在高处。当受害人触发机关时，重物掉下砸在他的头或躯干上。</TrapDeadfall_Frame.description>-->
+  <!--[Core] <TrapIEDBomb.label>自制炸弹陷阱</TrapIEDBomb.label>-->
+  <!--[Core] <TrapIEDBomb.description>用一个自制的触发机关连接到迫击炮炮弹上。当有人触发机关时炮弹会爆炸。简易的机关在触发时会有随机的延迟，可能会让一些灵活的敌人逃走。</TrapIEDBomb.description>-->
+  <!--[Core] <TrapIEDBomb_Blueprint.label>自制炸弹陷阱（蓝图）</TrapIEDBomb_Blueprint.label>-->
+  <!--[Core] <TrapIEDBomb_Frame.label>自制炸弹陷阱（建造中）</TrapIEDBomb_Frame.label>-->
+  <!--[Core] <TrapIEDBomb_Frame.description>用一个自制的触发机关连接到迫击炮炮弹上。当有人触发机关时炮弹会爆炸。简易的机关在触发时会有随机的延迟，可能会让一些灵活的敌人逃走。</TrapIEDBomb_Frame.description>-->
+  <!--[Core] <TrapIEDIncendiary.label>自制燃烧陷阱</TrapIEDIncendiary.label>-->
+  <!--[Core] <TrapIEDIncendiary.description>将炸药与燃烧剂经过混合，然后采用化学引信引爆。这种化学引信简单可靠。</TrapIEDIncendiary.description>-->
+  <!--[Core] <TrapIEDIncendiary_Blueprint.label>自制燃烧陷阱（蓝图）</TrapIEDIncendiary_Blueprint.label>-->
+  <!--[Core] <TrapIEDIncendiary_Frame.label>自制燃烧陷阱（建造中）</TrapIEDIncendiary_Frame.label>-->
+  <!--[Core] <TrapIEDIncendiary_Frame.description>将炸药与燃烧剂经过混合，然后采用化学引信引爆。这种化学引信简单可靠。</TrapIEDIncendiary_Frame.description>-->
+
+</LanguageData>

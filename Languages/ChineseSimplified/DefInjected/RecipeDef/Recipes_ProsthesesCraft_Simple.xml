@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ 
+
+  <CreateGlassEye.label>制作玻璃眼</CreateGlassEye.label>
+  <CreateGlassEye.description>Crafts a glass eye. Produces 1.</CreateGlassEye.description>
+  <CreateGlassEye.jobString>制作玻璃眼</CreateGlassEye.jobString>
+
+   
+  <MakeArtificialBone.label>制作人造骨头</MakeArtificialBone.label>
+  <MakeArtificialBone.description>Makes artificial bones from metal and plastic. Produces 5.</MakeArtificialBone.description>
+  <MakeArtificialBone.jobString>制作人造骨头</MakeArtificialBone.jobString>
+
+   
+
+</LanguageData>

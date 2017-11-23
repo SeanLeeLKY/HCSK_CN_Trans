@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  
+
+  <MakeStoneBlocks_Electric.label>制作石砖（任意）</MakeStoneBlocks_Electric.label>
+  <MakeStoneBlocks_Electric.description>Cuts a stone chunk into usable stone blocks. Produces 20 sand and 5 rubble as a by-product.</MakeStoneBlocks_Electric.description>
+  <MakeStoneBlocks_Electric.jobString>制作石砖（任意）</MakeStoneBlocks_Electric.jobString>
+
+  <ExtractBiomatterCorpse.label>从人类尸体中提取生物质</ExtractBiomatterCorpse.label>
+  <ExtractBiomatterCorpse.description>Extracts BioMatter from a corpse. Produces 35.</ExtractBiomatterCorpse.description>
+  <ExtractBiomatterCorpse.jobString>从人类尸体中提取生物质</ExtractBiomatterCorpse.jobString>
+
+  <ExtractBiomatterAnimal.label>从动物尸体中提取生物质</ExtractBiomatterAnimal.label>
+  <ExtractBiomatterAnimal.description>Extracts BioMatter from an animal corpse. Produces 10.</ExtractBiomatterAnimal.description>
+  <ExtractBiomatterAnimal.jobString>从动物尸体中提取生物质</ExtractBiomatterAnimal.jobString>
+
+
+  <!-- SOYLENT GREEN -->
+
+  <makesoylentgreen.label>获取绿色营养物质</makesoylentgreen.label>
+  <makesoylentgreen.description>Obtain Soylent Green from a humanlike corpse. Produces 45.</makesoylentgreen.description>
+  <makesoylentgreen.jobString>获取绿色营养物质</makesoylentgreen.jobString>
+
+
+  <!--[Core] <ExtractMetalFromSlag.label>熔炼钢渣块</ExtractMetalFromSlag.label>-->
+  <!--[Core] <ExtractMetalFromSlag.description>用强热和电磁铁从钢渣块中提炼出有用的金属。</ExtractMetalFromSlag.description>-->
+  <!--[Core] <ExtractMetalFromSlag.jobString>正在熔炼钢渣块。</ExtractMetalFromSlag.jobString>-->
+  <!--[Core] <SmeltWeapon.label>熔炼武器</SmeltWeapon.label>-->
+  <!--[Core] <SmeltWeapon.description>用强热和电磁铁将武器分解成有用的金属。</SmeltWeapon.description>-->
+  <!--[Core] <SmeltWeapon.jobString>正在熔炼武器。</SmeltWeapon.jobString>-->
+  <!--[Core] <DestroyWeapon.label>销毁武器</DestroyWeapon.label>-->
+  <!--[Core] <DestroyWeapon.description>用强热销毁不想要的武器。比熔炼快，用于不可熔炼的物品，但不产出资源。</DestroyWeapon.description>-->
+  <!--[Core] <DestroyWeapon.jobString>制作销毁武器。</DestroyWeapon.jobString>-->
+  <!--[Core] <ButcherCorpseFlesh.label>屠宰尸体</ButcherCorpseFlesh.label>-->
+  <!--[Core] <ButcherCorpseFlesh.description>屠宰尸体以获取可用的肉。</ButcherCorpseFlesh.description>-->
+  <!--[Core] <ButcherCorpseFlesh.jobString>正在屠宰。</ButcherCorpseFlesh.jobString>-->
+  <!--[Core] <MakeStoneBlocksAny.label>制作石砖（任意）</MakeStoneBlocksAny.label>-->
+  <!--[Core] <MakeStoneBlocksAny.description>将岩石块切割成可用的石块。</MakeStoneBlocksAny.description>-->
+  <!--[Core] <MakeStoneBlocksAny.jobString>正在切割石材。</MakeStoneBlocksAny.jobString>-->
+
+</LanguageData>

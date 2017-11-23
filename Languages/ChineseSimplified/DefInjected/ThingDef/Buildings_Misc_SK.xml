@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PrimitiveResearchBench.label>原始科技研究台</PrimitiveResearchBench.label>
+  <PrimitiveResearchBench.description>Study surrounding materials here to research new things.</PrimitiveResearchBench.description>
+  <PrimitiveResearchBench_Blueprint.label>原始科技研究台 (蓝图)</PrimitiveResearchBench_Blueprint.label>
+  <PrimitiveResearchBench_Frame.label>原始科技研究台 (建造中)</PrimitiveResearchBench_Frame.label>
+  <PrimitiveResearchBench_Frame.description>Study surrounding materials here to research new things.</PrimitiveResearchBench_Frame.description>
+
+   
+  <TradingSpot.label>交易点</TradingSpot.label>
+  <TradingSpot.description>Designates a spot where traders will stop when visiting your colony.</TradingSpot.description>
+  <TradingSpot_Blueprint.label>交易点 (蓝图)</TradingSpot_Blueprint.label>
+  <TradingSpot_Frame.label>交易点 (建造中)</TradingSpot_Frame.label>
+  <TradingSpot_Frame.description>Designates a spot where traders will stop when visiting your colony.</TradingSpot_Frame.description>
+
+  
+   
+  <Buildings_SubspaceBurstTransponder.label>亚空间脉冲发射器</Buildings_SubspaceBurstTransponder.label>
+  <Buildings_SubspaceBurstTransponder.description>Contacts Ships at a distance and guides them to your colony.</Buildings_SubspaceBurstTransponder.description>
+  <Buildings_SubspaceBurstTransponder_Blueprint.label>亚空间脉冲发射器 (蓝图)</Buildings_SubspaceBurstTransponder_Blueprint.label>
+  <Buildings_SubspaceBurstTransponder_Frame.label>亚空间脉冲发射器 (建造中)</Buildings_SubspaceBurstTransponder_Frame.label>
+  <Buildings_SubspaceBurstTransponder_Frame.description>Contacts Ships at a distance and guides them to your colony.</Buildings_SubspaceBurstTransponder_Frame.description>
+
+
+  <!-- Facilities -->
+
+   
+  <CounterTopModular.label>实验室柜台</CounterTopModular.label>
+  <CounterTopModular.description>A convenient countertop surface.</CounterTopModular.description>
+  <CounterTopModular_Blueprint.label>实验室柜台 (蓝图)</CounterTopModular_Blueprint.label>
+  <CounterTopModular_Blueprint_Install.label>实验室柜台 (蓝图)</CounterTopModular_Blueprint_Install.label>
+  <CounterTopModular_Frame.label>实验室柜台 (建造中)</CounterTopModular_Frame.label>
+  <CounterTopModular_Frame.description>A convenient countertop surface.</CounterTopModular_Frame.description>
+
+  <LabStation.label>实验室工作站</LabStation.label>
+  <LabStation.description>An auxillary research station for expanding laboratory operations. Requires power.</LabStation.description>
+  <LabStation_Blueprint.label>实验室工作站 (蓝图)</LabStation_Blueprint.label>
+  <LabStation_Blueprint_Install.label>实验室工作站 (蓝图)</LabStation_Blueprint_Install.label>
+  <LabStation_Frame.label>实验室工作站 (建造中)</LabStation_Frame.label>
+  <LabStation_Frame.description>An auxillary research station for expanding laboratory operations. Requires power.</LabStation_Frame.description>
+
+  <LabTerminal.label>研究终端</LabTerminal.label>
+  <LabTerminal.description>A compact 研究终端 for expanding laboratory operations. Requires power.</LabTerminal.description>
+  <LabTerminal_Blueprint.label>研究终端 (蓝图)</LabTerminal_Blueprint.label>
+  <LabTerminal_Blueprint_Install.label>研究终端 (蓝图)</LabTerminal_Blueprint_Install.label>
+  <LabTerminal_Frame.label>研究终端 (建造中)</LabTerminal_Frame.label>
+  <LabTerminal_Frame.description>A compact 研究终端 for expanding laboratory operations. Requires power.</LabTerminal_Frame.description>
+
+  
+  <AdvancedVitalsMonitor.label>先进生命体征监测仪</AdvancedVitalsMonitor.label>
+  <AdvancedVitalsMonitor.description>An 先进生命体征监测仪 capable of diagnosing the root cause of almost any symptom. Needs to be placed adjacent to a Hi-tech medical bed.</AdvancedVitalsMonitor.description>
+  <AdvancedVitalsMonitor_Blueprint.label>先进生命体征监测仪 (蓝图)</AdvancedVitalsMonitor_Blueprint.label>
+  <AdvancedVitalsMonitor_Blueprint_Install.label>先进生命体征监测仪 (蓝图)</AdvancedVitalsMonitor_Blueprint_Install.label>
+  <AdvancedVitalsMonitor_Frame.label>先进生命体征监测仪 (建造中)</AdvancedVitalsMonitor_Frame.label>
+  <AdvancedVitalsMonitor_Frame.description>An 先进生命体征监测仪 capable of diagnosing the root cause of almost any symptom. Needs to be placed adjacent to a Hi-tech medical bed.</AdvancedVitalsMonitor_Frame.description>
+
+  <FileCabinet.label>文件柜</FileCabinet.label>
+  <FileCabinet.description>A important place to store important documents about important experiments used for important research on important technologies. Increases research speed slightly when next to a research bench.</FileCabinet.description>
+  <FileCabinet_Blueprint.label>文件柜 (蓝图)</FileCabinet_Blueprint.label>
+  <FileCabinet_Blueprint_Install.label>文件柜 (蓝图)</FileCabinet_Blueprint_Install.label>
+  <FileCabinet_Frame.label>文件柜 (建造中)</FileCabinet_Frame.label>
+  <FileCabinet_Frame.description>A important place to store important documents about important experiments used for important research on important technologies. Increases research speed slightly when next to a research bench.</FileCabinet_Frame.description>
+
+  <Patterner.label>图案设计器</Patterner.label>
+  <Patterner.description>A important place to store textiles used for increases work speed on textile benches.</Patterner.description>
+  <Patterner_Blueprint.label>图案设计器 (蓝图)</Patterner_Blueprint.label>
+  <Patterner_Blueprint_Install.label>图案设计器 (蓝图)</Patterner_Blueprint_Install.label>
+  <Patterner_Frame.label>图案设计器 (建造中)</Patterner_Frame.label>
+  <Patterner_Frame.description>A important place to store textiles used for increases work speed on textile benches.</Patterner_Frame.description>
+
+   
+  <Small_ToolCabinet.label>小型工具箱</Small_ToolCabinet.label>
+  <Small_ToolCabinet.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tool cabinets.</Small_ToolCabinet.description>
+  <Small_ToolCabinet_Blueprint.label>小型工具箱 (蓝图)</Small_ToolCabinet_Blueprint.label>
+  <Small_ToolCabinet_Blueprint_Install.label>小型工具箱 (蓝图)</Small_ToolCabinet_Blueprint_Install.label>
+  <Small_ToolCabinet_Frame.label>小型工具箱 (建造中)</Small_ToolCabinet_Frame.label>
+  <Small_ToolCabinet_Frame.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tool cabinets.</Small_ToolCabinet_Frame.description>
+
+  <CookingTools.label>烹饪工具</CookingTools.label>
+  <CookingTools.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tool cabinets.</CookingTools.description>
+  <CookingTools_Blueprint.label>烹饪工具 (蓝图)</CookingTools_Blueprint.label>
+  <CookingTools_Blueprint_Install.label>烹饪工具 (蓝图)</CookingTools_Blueprint_Install.label>
+  <CookingTools_Frame.label>烹饪工具 (建造中)</CookingTools_Frame.label>
+  <CookingTools_Frame.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tool cabinets.</CookingTools_Frame.description>
+
+   
+   
+  <FertilizerPump.label>肥料泵</FertilizerPump.label>
+  <FertilizerPump.description>A single use pump that slowly expands a field of growable soil around itself. Requires power.</FertilizerPump.description>
+  <FertilizerPump_Blueprint.label>肥料泵 (蓝图)</FertilizerPump_Blueprint.label>
+  <FertilizerPump_Frame.label>肥料泵 (建造中)</FertilizerPump_Frame.label>
+  <FertilizerPump_Frame.description>A single use pump that slowly expands a field of growable soil around itself. Requires power.</FertilizerPump_Frame.description>
+
+   
+  
+
+  <!-- Cryptosleep casket -->
+
+   
+   
+  <Holodeck.label>全息交互台</Holodeck.label>
+  <Holodeck.description>A man-able holosuite that your colonists can use to practice their social skills with.</Holodeck.description>
+  <Holodeck_Blueprint.label>全息交互台 (蓝图)</Holodeck_Blueprint.label>
+  <Holodeck_Blueprint_Install.label>全息交互台 (蓝图)</Holodeck_Blueprint_Install.label>
+  <Holodeck_Frame.label>全息交互台 (建造中)</Holodeck_Frame.label>
+  <Holodeck_Frame.description>A man-able holosuite that your colonists can use to practice their social skills with.</Holodeck_Frame.description>
+
+  <PunchingBag.label>拳击袋</PunchingBag.label>
+  <PunchingBag.description>A man-able 拳击袋 that your colonists can use to practice their melee skills with.</PunchingBag.description>
+  <PunchingBag_Blueprint.label>拳击袋 (蓝图)</PunchingBag_Blueprint.label>
+  <PunchingBag_Blueprint_Install.label>拳击袋 (蓝图)</PunchingBag_Blueprint_Install.label>
+  <PunchingBag_Frame.label>拳击袋 (建造中)</PunchingBag_Frame.label>
+  <PunchingBag_Frame.description>A man-able 拳击袋 that your colonists can use to practice their melee skills with.</PunchingBag_Frame.description>
+
+   
+
+  <!-- Transport pods -->
+
+   
+  <MobileMineralSonar.label>移动矿物声纳</MobileMineralSonar.label>
+  <MobileMineralSonar.description>The 移动矿物声纳 is used to detect hidden minerals and oil deposits.
+- It will scan the surrounding rocks autonomously with the embedded energy packs.
+- Supplying some additional power will hasten the scan rate.
+    </MobileMineralSonar.description>
+  <MobileMineralSonar_Blueprint.label>移动矿物声纳 (蓝图)</MobileMineralSonar_Blueprint.label>
+  <MobileMineralSonar_Blueprint_Install.label>移动矿物声纳 (蓝图)</MobileMineralSonar_Blueprint_Install.label>
+  <MobileMineralSonar_Frame.label>移动矿物声纳 (建造中)</MobileMineralSonar_Frame.label>
+  <MobileMineralSonar_Frame.description>The 移动矿物声纳 is used to detect hidden minerals and oil deposits.
+- It will scan the surrounding rocks autonomously with the embedded energy packs.
+- Supplying some additional power will hasten the scan rate.
+    </MobileMineralSonar_Frame.description>
+
+  <!--[Duplicated] <MiningHelmetGlower.label>mining helmet light</MiningHelmetGlower.label>-->
+  <!--[Duplicated] <MiningHelmetGlower.description>Mining helmet light.</MiningHelmetGlower.description>-->
+
+  <DermalRegenerator.label>皮肤再生仪</DermalRegenerator.label>
+  <DermalRegenerator.description>A medical device able to scan and repair surface tissue.</DermalRegenerator.description>
+  <DermalRegenerator_Blueprint.label>皮肤再生仪 (蓝图)</DermalRegenerator_Blueprint.label>
+  <DermalRegenerator_Frame.label>皮肤再生仪 (建造中)</DermalRegenerator_Frame.label>
+  <DermalRegenerator_Frame.description>A medical device able to scan and repair surface tissue.</DermalRegenerator_Frame.description>
+
+  <ImpactionCharge.label>等离子定向爆破器</ImpactionCharge.label>
+  <ImpactionCharge.description>Detonates on command. Creates a directed blast of plasma, which impacts right down to the bedrock. Used for asteroid mining and accessing underground resources.</ImpactionCharge.description>
+  <ImpactionCharge_Blueprint.label>等离子定向爆破器 (蓝图)</ImpactionCharge_Blueprint.label>
+  <ImpactionCharge_Blueprint_Install.label>等离子定向爆破器 (蓝图)</ImpactionCharge_Blueprint_Install.label>
+  <ImpactionCharge_Frame.label>等离子定向爆破器 (建造中)</ImpactionCharge_Frame.label>
+  <ImpactionCharge_Frame.description>Detonates on command. Creates a directed blast of plasma, which impacts right down to the bedrock. Used for asteroid mining and accessing underground resources.</ImpactionCharge_Frame.description>
+
+  <LightningRod.label>避雷针</LightningRod.label>
+  <LightningRod.description>A 避雷针 with an ion beam emitter for map-wide protection from lightning strikes.\n\nRequires power, but discharges power for a short while after it gets hit. Can get overwhelmed.\n\nThese rods were called by many Zeon Resistance agents as "Rapiers", due to the structure looking like a sword protruding into the sky, and is also a symbol Zeon's eventual downfall at the mercy of this 避雷针.</LightningRod.description>
+  <LightningRod_Blueprint.label>避雷针 (蓝图)</LightningRod_Blueprint.label>
+  <LightningRod_Frame.label>避雷针 (建造中)</LightningRod_Frame.label>
+  <LightningRod_Frame.description>A 避雷针 with an ion beam emitter for map-wide protection from lightning strikes.\n\nRequires power, but discharges power for a short while after it gets hit. Can get overwhelmed.\n\nThese rods were called by many Zeon Resistance agents as "Rapiers", due to the structure looking like a sword protruding into the sky, and is also a symbol Zeon's eventual downfall at the mercy of this 避雷针.</LightningRod_Frame.description>
+
+
+  <!--[Core] <SimpleResearchBench.label>基础研究台</SimpleResearchBench.label>-->
+  <!--[Core] <SimpleResearchBench.description>一个配有书写工具和低级科学工具的简易工作台。研究员在这里探索新事物。</SimpleResearchBench.description>-->
+  <!--[Core] <SimpleResearchBench_Blueprint.label>基础研究台（蓝图）</SimpleResearchBench_Blueprint.label>-->
+  <!--[Core] <SimpleResearchBench_Frame.label>基础研究台（建造中）</SimpleResearchBench_Frame.label>-->
+  <!--[Core] <SimpleResearchBench_Frame.description>一个配有书写工具和低级科学工具的简易工作台。研究员在这里探索新事物。</SimpleResearchBench_Frame.description>-->
+  <!--[Core] <HiTechResearchBench.label>高级研究台</HiTechResearchBench.label>-->
+  <!--[Core] <HiTechResearchBench.description>一种配有电脑和电子测量设备的高科技工作台。高科技工具加快了研究速度。需要消耗电力。</HiTechResearchBench.description>-->
+  <!--[Core] <HiTechResearchBench_Blueprint.label>高级研究台（蓝图）</HiTechResearchBench_Blueprint.label>-->
+  <!--[Core] <HiTechResearchBench_Frame.label>高级研究台（建造中）</HiTechResearchBench_Frame.label>-->
+  <!--[Core] <HiTechResearchBench_Frame.description>一种配有电脑和电子测量设备的高科技工作台。高科技工具加快了研究速度。需要消耗电力。</HiTechResearchBench_Frame.description>-->
+  <!--[Core] <SunLamp.label>太阳灯</SunLamp.label>-->
+  <!--[Core] <SunLamp.description>将一片区域照亮到足以种植农作物，但需要消耗大量电力。夜晚时会自动关闭。</SunLamp.description>-->
+  <!--[Core] <SunLamp_Blueprint.label>太阳灯（蓝图）</SunLamp_Blueprint.label>-->
+  <!--[Core] <SunLamp_Blueprint_Install.label>太阳灯（蓝图）</SunLamp_Blueprint_Install.label>-->
+  <!--[Core] <SunLamp_Frame.label>太阳灯（建造中）</SunLamp_Frame.label>-->
+  <!--[Core] <SunLamp_Frame.description>将一片区域照亮到足以种植农作物，但需要消耗大量电力。夜晚时会自动关闭。</SunLamp_Frame.description>-->
+  <!--[Core] <CaravanPackingSpot.label>远行队打包点</CaravanPackingSpot.label>-->
+  <!--[Core] <CaravanPackingSpot.description>指定一个远行队的组建位置。</CaravanPackingSpot.description>-->
+  <!--[Core] <CaravanPackingSpot_Blueprint.label>远行队打包点（蓝图）</CaravanPackingSpot_Blueprint.label>-->
+  <!--[Core] <CaravanPackingSpot_Frame.label>远行队打包点（建造中）</CaravanPackingSpot_Frame.label>-->
+  <!--[Core] <CaravanPackingSpot_Frame.description>指定一个远行队的组建位置。</CaravanPackingSpot_Frame.description>-->
+  <!--[Core] <OrbitalTradeBeacon.label>轨道交易信标</OrbitalTradeBeacon.label>-->
+  <!--[Core] <OrbitalTradeBeacon.description>若想和轨道贸易商进行交易，你必须建造一个轨道交易信标。只有信标有效范围内的货物和白银才能用于交易。可以放置于室内，但至少要有一个信标露天，以接收商人发送给你的货物和白银。需要消耗电力。</OrbitalTradeBeacon.description>-->
+  <!--[Core] <OrbitalTradeBeacon_Blueprint.label>轨道交易信标（蓝图）</OrbitalTradeBeacon_Blueprint.label>-->
+  <!--[Core] <OrbitalTradeBeacon_Blueprint_Install.label>轨道交易信标（蓝图）</OrbitalTradeBeacon_Blueprint_Install.label>-->
+  <!--[Core] <OrbitalTradeBeacon_Frame.label>轨道交易信标（建造中）</OrbitalTradeBeacon_Frame.label>-->
+  <!--[Core] <OrbitalTradeBeacon_Frame.description>若想和轨道贸易商进行交易，你必须建造一个轨道交易信标。只有信标有效范围内的货物和白银才能用于交易。可以放置于室内，但至少要有一个信标露天，以接收商人发送给你的货物和白银。需要消耗电力。</OrbitalTradeBeacon_Frame.description>-->
+  <!--[Core] <CommsConsole.label>通讯台</CommsConsole.label>-->
+  <!--[Core] <CommsConsole.description>可以通过无线电和遥远的轨道贸易商进行交易。以及和联系其他派系进行外交（发送礼物或呼叫援军）或请求商队交易。</CommsConsole.description>-->
+  <!--[Core] <CommsConsole_Blueprint.label>通讯台（蓝图）</CommsConsole_Blueprint.label>-->
+  <!--[Core] <CommsConsole_Frame.label>通讯台（建造中）</CommsConsole_Frame.label>-->
+  <!--[Core] <CommsConsole_Frame.description>可以通过无线电和遥远的轨道贸易商进行交易。以及和联系其他派系进行外交（发送礼物或呼叫援军）或请求商队交易。</CommsConsole_Frame.description>-->
+  <!--[Core] <MultiAnalyzer.label>多元分析仪</MultiAnalyzer.label>-->
+  <!--[Core] <MultiAnalyzer.description>提高研究速度，一些高级研究项目所必需的设备。需要放置在高级研究台附近。一个研究台只能连接一个多元分析仪。</MultiAnalyzer.description>-->
+  <!--[Core] <MultiAnalyzer_Blueprint.label>多元分析仪（蓝图）</MultiAnalyzer_Blueprint.label>-->
+  <!--[Core] <MultiAnalyzer_Blueprint_Install.label>多元分析仪（蓝图）</MultiAnalyzer_Blueprint_Install.label>-->
+  <!--[Core] <MultiAnalyzer_Frame.label>多元分析仪（建造中）</MultiAnalyzer_Frame.label>-->
+  <!--[Core] <MultiAnalyzer_Frame.description>提高研究速度，一些高级研究项目所必需的设备。需要放置在高级研究台附近。一个研究台只能连接一个多元分析仪。</MultiAnalyzer_Frame.description>-->
+  <!--[Core] <VitalsMonitor.label>生命体征监测仪</VitalsMonitor.label>-->
+  <!--[Core] <VitalsMonitor.description>提高患者的治疗质量。需要放置在毗邻医疗床的位置。一个医疗床只能连接一个生命体征监测仪。</VitalsMonitor.description>-->
+  <!--[Core] <VitalsMonitor_Blueprint.label>生命体征监测仪（蓝图）</VitalsMonitor_Blueprint.label>-->
+  <!--[Core] <VitalsMonitor_Blueprint_Install.label>生命体征监测仪（蓝图）</VitalsMonitor_Blueprint_Install.label>-->
+  <!--[Core] <VitalsMonitor_Frame.label>生命体征监测仪（建造中）</VitalsMonitor_Frame.label>-->
+  <!--[Core] <VitalsMonitor_Frame.description>提高患者的治疗质量。需要放置在毗邻医疗床的位置。一个医疗床只能连接一个生命体征监测仪。</VitalsMonitor_Frame.description>-->
+  <!--[Core] <ToolCabinet.label>工具柜</ToolCabinet.label>-->
+  <!--[Core] <ToolCabinet.description>提高工作速度。需要放置在工作台附近。一个工作台最多可以同时连接两个工具柜。</ToolCabinet.description>-->
+  <!--[Core] <ToolCabinet_Blueprint.label>工具柜（蓝图）</ToolCabinet_Blueprint.label>-->
+  <!--[Core] <ToolCabinet_Blueprint_Install.label>工具柜（蓝图）</ToolCabinet_Blueprint_Install.label>-->
+  <!--[Core] <ToolCabinet_Frame.label>工具柜（建造中）</ToolCabinet_Frame.label>-->
+  <!--[Core] <ToolCabinet_Frame.description>提高工作速度。需要放置在工作台附近。一个工作台最多可以同时连接两个工具柜。</ToolCabinet_Frame.description>-->
+  <!--[Core] <FirefoamPopper.label>泡沫灭火器</FirefoamPopper.label>-->
+  <!--[Core] <FirefoamPopper.description>当被火焰触发或手动触发后，会向着四周圆形范围喷出灭火泡沫。</FirefoamPopper.description>-->
+  <!--[Core] <FirefoamPopper.comps.1.useLabel>开启泡沫灭火器</FirefoamPopper.comps.1.useLabel>-->
+  <!--[Core] <FirefoamPopper_Blueprint.label>泡沫灭火器（蓝图）</FirefoamPopper_Blueprint.label>-->
+  <!--[Core] <FirefoamPopper_Blueprint_Install.label>泡沫灭火器（蓝图）</FirefoamPopper_Blueprint_Install.label>-->
+  <!--[Core] <FirefoamPopper_Frame.label>泡沫灭火器（建造中）</FirefoamPopper_Frame.label>-->
+  <!--[Core] <FirefoamPopper_Frame.description>当被火焰触发或手动触发后，会向着四周圆形范围喷出灭火泡沫。</FirefoamPopper_Frame.description>-->
+  <!--[Core] <MoisturePump.label>排水泵</MoisturePump.label>-->
+  <!--[Core] <MoisturePump.description>非常缓慢地抽走附近地形的水分，能将沼泽或浅水改造成干燥的土地。不能改造深水。</MoisturePump.description>-->
+  <!--[Core] <MoisturePump_Blueprint.label>排水泵（蓝图）</MoisturePump_Blueprint.label>-->
+  <!--[Core] <MoisturePump_Frame.label>排水泵（建造中）</MoisturePump_Frame.label>-->
+  <!--[Core] <MoisturePump_Frame.description>非常缓慢地抽走附近地形的水分，能将沼泽或浅水改造成干燥的土地。不能改造深水。</MoisturePump_Frame.description>-->
+  <!--[Core] <Grave.label>坟墓</Grave.label>-->
+  <!--[Core] <Grave.description>给死者提供一个得体的栖身之所。殖民者会扫墓来获得「冥想」娱乐。</Grave.description>-->
+  <!--[Core] <Grave_Blueprint.label>坟墓（蓝图）</Grave_Blueprint.label>-->
+  <!--[Core] <Grave_Frame.label>坟墓（建造中）</Grave_Frame.label>-->
+  <!--[Core] <Grave_Frame.description>给死者提供一个得体的栖身之所。殖民者会扫墓来获得「冥想」娱乐。</Grave_Frame.description>-->
+  <!--[Core] <Sarcophagus.label>棺材</Sarcophagus.label>-->
+  <!--[Core] <Sarcophagus.description>受尊敬的死者用的、装饰华丽的安葬容器。</Sarcophagus.description>-->
+  <!--[Core] <Sarcophagus_Blueprint.label>棺材（蓝图）</Sarcophagus_Blueprint.label>-->
+  <!--[Core] <Sarcophagus_Frame.label>棺材（建造中）</Sarcophagus_Frame.label>-->
+  <!--[Core] <Sarcophagus_Frame.description>受尊敬的死者用的、装饰华丽的安葬容器。</Sarcophagus_Frame.description>-->
+  <!--[Core] <CryptosleepCasket.label>低温休眠舱</CryptosleepCasket.label>-->
+  <!--[Core] <CryptosleepCasket.description>一个自主供电的箱子，用于将人维持在生理暂停状态许多年。</CryptosleepCasket.description>-->
+  <!--[Core] <CryptosleepCasket_Blueprint.label>低温休眠舱（蓝图）</CryptosleepCasket_Blueprint.label>-->
+  <!--[Core] <CryptosleepCasket_Frame.label>低温休眠舱（建造中）</CryptosleepCasket_Frame.label>-->
+  <!--[Core] <CryptosleepCasket_Frame.description>一个自主供电的箱子，用于将人维持在生理暂停状态许多年。</CryptosleepCasket_Frame.description>-->
+  <!--[Core] <AncientCryptosleepCasket.label>古老的低温休眠舱</AncientCryptosleepCasket.label>-->
+  <!--[Core] <AncientCryptosleepCasket.description>这个低温休眠舱看起来已经在这里有很长时间了。谁知道这里边装着什么？</AncientCryptosleepCasket.description>-->
+  <!--[Core] <GroundPenetratingScanner.label>地质扫描仪</GroundPenetratingScanner.label>-->
+  <!--[Core] <GroundPenetratingScanner.description>向下的探地雷达，结合声纳和磁成像，可检测深埋于地底的矿物（但不能判断矿物类型）。需要消耗大量电力。</GroundPenetratingScanner.description>-->
+  <!--[Core] <LongRangeMineralScanner.label>远距离矿物扫描仪</LongRangeMineralScanner.label>-->
+  <!--[Core] <LongRangeMineralScanner.description>自动探查附近区域（除了扫描仪所在区域外）的稀有矿物，比如黄金和翡翠。半径30格地图内，发现矿物块的频率为平均每30天一次。在同一区域内或临近区域建造多于一个扫描仪对效率影响不大。</LongRangeMineralScanner.description>-->
+  <!--[Core] <PodLauncher.label>运输舱发射器</PodLauncher.label>-->
+  <!--[Core] <PodLauncher.description>可以发射单个运输舱的燃料供给端。运输舱发射器可以成组地发射，但必须互相之间紧邻建造。</PodLauncher.description>-->
+  <!--[Core] <PodLauncher_Blueprint.label>运输舱发射器（蓝图）</PodLauncher_Blueprint.label>-->
+  <!--[Core] <PodLauncher_Frame.label>运输舱发射器（建造中）</PodLauncher_Frame.label>-->
+  <!--[Core] <PodLauncher_Frame.description>可以发射单个运输舱的燃料供给端。运输舱发射器可以成组地发射，但必须互相之间紧邻建造。</PodLauncher_Frame.description>-->
+  <!--[Core] <TransportPod.label>运输舱</TransportPod.label>-->
+  <!--[Core] <TransportPod.description>可运输人员、物品和动物的可发射亚轨道远程货运舱。可用于运输、奇袭或者增援战场。</TransportPod.description>-->
+  <!--[Core] <TransportPod_Blueprint.label>运输舱（蓝图）</TransportPod_Blueprint.label>-->
+  <!--[Core] <TransportPod_Frame.label>运输舱（建造中）</TransportPod_Frame.label>-->
+  <!--[Core] <TransportPod_Frame.description>可运输人员、物品和动物的可发射亚轨道远程货运舱。可用于运输、奇袭或者增援战场。</TransportPod_Frame.description>-->
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ElectricShock.label>电颤</ElectricShock.label>
+  <ElectricShock.comps.0.labelTendedWell>包扎</ElectricShock.comps.0.labelTendedWell>
+  <ElectricShock.comps.0.labelTendedWellInner>缝合</ElectricShock.comps.0.labelTendedWellInner>
+  <ElectricShock.comps.0.labelSolidTendedWell>固定</ElectricShock.comps.0.labelSolidTendedWell>
+  <ElectricShock.injuryProps.destroyedLabel>摧毁</ElectricShock.injuryProps.destroyedLabel>
+
+
+</LanguageData>

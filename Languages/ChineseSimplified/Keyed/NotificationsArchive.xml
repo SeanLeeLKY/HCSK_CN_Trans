@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Notifications_Archiver_ShowLetters>显示关键词</Notifications_Archiver_ShowLetters>
+
+  <Notifications_Archiver_ShowMessages>显示信息</Notifications_Archiver_ShowMessages>
+
+  <Notifications_Archiver_TextFilter>文字过滤:</Notifications_Archiver_TextFilter>
+
+  <Notifications_Archiver_TargetedMessage_Tooltip>点击信息以追踪事件目标。</Notifications_Archiver_TargetedMessage_Tooltip>
+
+  <Notifications_Archiver_Date_Readout>{0} {1},\n{2}</Notifications_Archiver_Date_Readout>
+
+  <Notifications_Archiver_Date_None>日期\未知</Notifications_Archiver_Date_None>
+
+</LanguageData>

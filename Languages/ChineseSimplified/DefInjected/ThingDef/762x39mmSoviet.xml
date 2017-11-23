@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_762x39mmSoviet_FMJ.label>7.62x39mm 苏制子弹 (FMJ)</Ammo_762x39mmSoviet_FMJ.label>
+  <Ammo_762x39mmSoviet_FMJ.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_FMJ.description>
+
+  <Ammo_762x39mmSoviet_AP.label>7.62x39mm 苏制子弹 (AP)</Ammo_762x39mmSoviet_AP.label>
+  <Ammo_762x39mmSoviet_AP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_AP.description>
+
+  <Ammo_762x39mmSoviet_HP.label>7.62x39mm 苏制子弹 (HP)</Ammo_762x39mmSoviet_HP.label>
+  <Ammo_762x39mmSoviet_HP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_762x39mmSoviet_FMJ.label>7.62mm 苏制子弹 (FMJ)</Bullet_762x39mmSoviet_FMJ.label>
+  <Bullet_762x39mmSoviet_AP.label>7.62mm 苏制子弹 (AP)</Bullet_762x39mmSoviet_AP.label>
+  <Bullet_762x39mmSoviet_HP.label>7.62mm 苏制子弹 (HP)</Bullet_762x39mmSoviet_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <Exoskeleton.label>外骨骼</Exoskeleton.label>
+  <GTHeart.label>神经电子仿生心</GTHeart.label>
+  <GTLung.label>神经电子仿生肺</GTLung.label>
+  <GTKidney.label>神经电子仿生肾</GTKidney.label>
+  <GTLiver.label>神经电子仿生肝</GTLiver.label>
+  <GTStomach.label>神经电子仿生胃</GTStomach.label>
+  <GTDentures.label>神经电子仿生颌</GTDentures.label>
+  <GTArm.label>神经电子仿生臂</GTArm.label>
+  <CyberneticPowerArm.label>高级动力臂</CyberneticPowerArm.label>
+  <GTHand.label>神经电子仿生手</GTHand.label>
+  <GTLeg.label>神经电子仿生腿</GTLeg.label>
+  <GTFoot.label>神经电子仿生足</GTFoot.label>
+  <GTEye.label>神经电子仿生眼</GTEye.label>
+  <GTEar.label>神经电子仿生耳</GTEar.label>
+  <GTSpine.label>高级仿生脊柱</GTSpine.label>
+
+
+</LanguageData>

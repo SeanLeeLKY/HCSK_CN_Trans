@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neolithic siege weapons -->
+
+  <MedievalTimes_Ballista.label>弩炮</MedievalTimes_Ballista.label>
+  <MedievalTimes_Ballista.description>A large siege weapon originally developed by the Romans. fires a the equivalent of a massive crossbow bolt. Must me manned.</MedievalTimes_Ballista.description>
+  <MedievalTimes_Ballista_Blueprint.label>弩炮 (蓝图)</MedievalTimes_Ballista_Blueprint.label>
+  <MedievalTimes_Ballista_Blueprint_Install.label>弩炮 (蓝图)</MedievalTimes_Ballista_Blueprint_Install.label>
+  <MedievalTimes_Ballista_Frame.label>弩炮 (建造中)</MedievalTimes_Ballista_Frame.label>
+  <MedievalTimes_Ballista_Frame.description>A large siege weapon originally developed by the Romans. fires a the equivalent of a massive crossbow bolt. Must me manned.</MedievalTimes_Ballista_Frame.description>
+
+  <Medieval_Catapult.label>石弩</Medieval_Catapult.label>
+  <Medieval_Catapult.description>A catapult that launches explosive/incendiary shells. Must be manned.</Medieval_Catapult.description>
+  <Medieval_Catapult_Blueprint.label>石弩 (蓝图)</Medieval_Catapult_Blueprint.label>
+  <Medieval_Catapult_Blueprint_Install.label>石弩 (蓝图)</Medieval_Catapult_Blueprint_Install.label>
+  <Medieval_Catapult_Frame.label>石弩 (建造中)</Medieval_Catapult_Frame.label>
+  <Medieval_Catapult_Frame.description>A catapult that launches explosive/incendiary shells. Must be manned.</Medieval_Catapult_Frame.description>
+
+
+  <!-- AI manned turrets -->
+
+   
+  <Turret_Blaster.label>电荷冲击炮塔</Turret_Blaster.label>
+  <Turret_Blaster.description>An AI-controlled turret equipped with a charge blaster. Requires 1,200 W to function.\nCaliber: 6x24mmCharged</Turret_Blaster.description>
+  <Turret_Blaster_Blueprint.label>电荷冲击炮塔 (蓝图)</Turret_Blaster_Blueprint.label>
+  <Turret_Blaster_Blueprint_Install.label>电荷冲击炮塔 (蓝图)</Turret_Blaster_Blueprint_Install.label>
+  <Turret_Blaster_Frame.label>电荷冲击炮塔 (建造中)</Turret_Blaster_Frame.label>
+  <Turret_Blaster_Frame.description>An AI-controlled turret equipped with a charge blaster. Requires 1,200 W to function.\nCaliber: 6x24mmCharged</Turret_Blaster_Frame.description>
+
+  <Turret_Laserbeam.label>自动光束塔</Turret_Laserbeam.label>
+  <Turret_Laserbeam.description>An AI-controlled highly calibrated gun turret with advanced optics. This allows it to deliver a single but precise laserbeam at fairly long distances. Requires 1,500 W to function.\nCaliber: Charged laser beam</Turret_Laserbeam.description>
+  <Turret_Laserbeam_Blueprint.label>自动光束塔 (蓝图)</Turret_Laserbeam_Blueprint.label>
+  <Turret_Laserbeam_Blueprint_Install.label>自动光束塔 (蓝图)</Turret_Laserbeam_Blueprint_Install.label>
+  <Turret_Laserbeam_Frame.label>自动光束塔 (建造中)</Turret_Laserbeam_Frame.label>
+  <Turret_Laserbeam_Frame.description>An AI-controlled highly calibrated gun turret with advanced optics. This allows it to deliver a single but precise laserbeam at fairly long distances. Requires 1,500 W to function.\nCaliber: Charged laser beam</Turret_Laserbeam_Frame.description>
+
+  <Turret_Heavy.label>自动重型机枪塔</Turret_Heavy.label>
+  <Turret_Heavy.description>An AI-controlled plated automatic turret with large caliber machine gun. Very resistant to damage. Requires 1,800 W to function.\nCaliber: 14.5x114mm</Turret_Heavy.description>
+  <Turret_Heavy_Blueprint.label>自动重型机枪塔 (蓝图)</Turret_Heavy_Blueprint.label>
+  <Turret_Heavy_Blueprint_Install.label>自动重型机枪塔 (蓝图)</Turret_Heavy_Blueprint_Install.label>
+  <Turret_Heavy_Frame.label>自动重型机枪塔 (建造中)</Turret_Heavy_Frame.label>
+  <Turret_Heavy_Frame.description>An AI-controlled plated automatic turret with large caliber machine gun. Very resistant to damage. Requires 1,800 W to function.\nCaliber: 14.5x114mm</Turret_Heavy_Frame.description>
+
+  <NavalGunTurretGun.label>自动哨戒炮塔</NavalGunTurretGun.label>
+  <NavalGunTurretGun.description>An AI-controlled 35mm autocannon turret automatically fires at enemies. It requires 2,200 W to function. It deals extra armor-piercing damage if the round has a direct hit. The turret explodes when heavily damaged.\nCaliber: 30x173mm</NavalGunTurretGun.description>
+  <NavalGunTurretGun_Blueprint.label>自动哨戒炮塔 (蓝图)</NavalGunTurretGun_Blueprint.label>
+  <NavalGunTurretGun_Blueprint_Install.label>自动哨戒炮塔 (蓝图)</NavalGunTurretGun_Blueprint_Install.label>
+  <NavalGunTurretGun_Frame.label>自动哨戒炮塔 (建造中)</NavalGunTurretGun_Frame.label>
+  <NavalGunTurretGun_Frame.description>An AI-controlled 35mm autocannon turret automatically fires at enemies. It requires 2,200 W to function. It deals extra armor-piercing damage if the round has a direct hit. The turret explodes when heavily damaged.\nCaliber: 30x173mm</NavalGunTurretGun_Frame.description>
+
+  <Turret_SentryRocketLauncher.label>自动火箭发射器</Turret_SentryRocketLauncher.label>
+  <Turret_SentryRocketLauncher.description>An AI-controlled sentry turret with rocket launcher. Requires 1,600 W to function.\nCaliber: AT Missile</Turret_SentryRocketLauncher.description>
+  <Turret_SentryRocketLauncher_Blueprint.label>自动火箭发射器 (蓝图)</Turret_SentryRocketLauncher_Blueprint.label>
+  <Turret_SentryRocketLauncher_Blueprint_Install.label>自动火箭发射器 (蓝图)</Turret_SentryRocketLauncher_Blueprint_Install.label>
+  <Turret_SentryRocketLauncher_Frame.label>自动火箭发射器 (建造中)</Turret_SentryRocketLauncher_Frame.label>
+  <Turret_SentryRocketLauncher_Frame.description>An AI-controlled sentry turret with rocket launcher. Requires 1,600 W to function.\nCaliber: AT Missile</Turret_SentryRocketLauncher_Frame.description>
+
+
+  <!-- Incendiary turret -->
+
+  <Turret_MortarIncendiary.label>81mm 迫击炮</Turret_MortarIncendiary.label>
+  <Turret_MortarIncendiary.description>A mortar that launches explosive shells. Must be manned.</Turret_MortarIncendiary.description>
+
+
+  <!-- M240B -->
+
+  <Turret_M240B.label>7.62x51mm M240B 机枪</Turret_M240B.label>
+  <Turret_M240B.description>M240B medium machine gun mounted on a tripod.</Turret_M240B.description>
+  <Turret_M240B_Blueprint.label>7.62x51mm M240B 机枪 (蓝图)</Turret_M240B_Blueprint.label>
+  <Turret_M240B_Blueprint_Install.label>7.62x51mm M240B 机枪 (蓝图)</Turret_M240B_Blueprint_Install.label>
+  <Turret_M240B_Frame.label>7.62x51mm M240B 机枪 (建造中)</Turret_M240B_Frame.label>
+  <Turret_M240B_Frame.description>M240B medium machine gun mounted on a tripod.</Turret_M240B_Frame.description>
+
+
+  <!-- Heavy MG machine gun -->
+
+  <Turret_M2Browning.label>50BMG M2 勃朗宁机枪</Turret_M2Browning.label>
+  <Turret_M2Browning.description>A manned, mounted M2 Browning Heavy Machine Gun. It uses .50 BMG Bullets for ammo and fires in a 15 round burst.</Turret_M2Browning.description>
+  <Turret_M2Browning_Blueprint.label>50BMG M2 勃朗宁机枪 (蓝图)</Turret_M2Browning_Blueprint.label>
+  <Turret_M2Browning_Blueprint_Install.label>50BMG M2 勃朗宁机枪 (蓝图)</Turret_M2Browning_Blueprint_Install.label>
+  <Turret_M2Browning_Frame.label>50BMG M2 勃朗宁机枪 (建造中)</Turret_M2Browning_Frame.label>
+  <Turret_M2Browning_Frame.description>A manned, mounted M2 Browning Heavy Machine Gun. It uses .50 BMG Bullets for ammo and fires in a 15 round burst.</Turret_M2Browning_Frame.description>
+
+  <Turret_Minigun.label>M134 速射机枪</Turret_Minigun.label>
+  <Turret_Minigun.description>Sentry turret with M134 速射机枪.</Turret_Minigun.description>
+  <Turret_Minigun_Blueprint.label>M134 速射机枪 (蓝图)</Turret_Minigun_Blueprint.label>
+  <Turret_Minigun_Blueprint_Install.label>M134 速射机枪 (蓝图)</Turret_Minigun_Blueprint_Install.label>
+  <Turret_Minigun_Frame.label>M134 速射机枪 (建造中)</Turret_Minigun_Frame.label>
+  <Turret_Minigun_Frame.description>Sentry turret with M134 速射机枪.</Turret_Minigun_Frame.description>
+
+
+  <!-- KPV -->
+
+  <Turret_KPV.label>14.5mm KPV 重机枪</Turret_KPV.label>
+  <Turret_KPV.description>KPV heavy machine gun mounted on a tripod.</Turret_KPV.description>
+  <Turret_KPV_Blueprint.label>14.5mm KPV 重机枪 (蓝图)</Turret_KPV_Blueprint.label>
+  <Turret_KPV_Blueprint_Install.label>14.5mm KPV 重机枪 (蓝图)</Turret_KPV_Blueprint_Install.label>
+  <Turret_KPV_Frame.label>14.5mm KPV 重机枪 (建造中)</Turret_KPV_Frame.label>
+  <Turret_KPV_Frame.description>KPV heavy machine gun mounted on a tripod.</Turret_KPV_Frame.description>
+
+
+  <!-- 35mm cannon -->
+
+  <Turret_ChainGun.label>30mm GSh-30 火炮</Turret_ChainGun.label>
+  <Turret_ChainGun.description>A manned turret mounted with a 30mm Autocannon. It deals extra armor-piercing damage if the round has a direct hit. Converted for 30x165mm ammo. The turret explodes when heavily damaged.</Turret_ChainGun.description>
+  <Turret_ChainGun_Blueprint.label>30mm GSh-30 火炮 (蓝图)</Turret_ChainGun_Blueprint.label>
+  <Turret_ChainGun_Blueprint_Install.label>30mm GSh-30 火炮 (蓝图)</Turret_ChainGun_Blueprint_Install.label>
+  <Turret_ChainGun_Frame.label>30mm GSh-30 火炮 (建造中)</Turret_ChainGun_Frame.label>
+  <Turret_ChainGun_Frame.description>A manned turret mounted with a 30mm Autocannon. It deals extra armor-piercing damage if the round has a direct hit. Converted for 30x165mm ammo. The turret explodes when heavily damaged.</Turret_ChainGun_Frame.description>
+
+
+  <!-- 30mm Avenger cannon -->
+
+  <AvengerTurretGun.label>35mm GAU-8 复仇者火炮</AvengerTurretGun.label>
+  <AvengerTurretGun.description>A manned turret mounted with a GAU-8 Avenger Fire Cannon that shoots at enemies. It deals extra armor-piercing damage if the round has a direct hit. It uses 30x173mm cartridge for ammo. The turret explodes when heavily damaged.</AvengerTurretGun.description>
+  <AvengerTurretGun_Blueprint.label>35mm GAU-8 复仇者火炮 (蓝图)</AvengerTurretGun_Blueprint.label>
+  <AvengerTurretGun_Blueprint_Install.label>35mm GAU-8 复仇者火炮 (蓝图)</AvengerTurretGun_Blueprint_Install.label>
+  <AvengerTurretGun_Frame.label>35mm GAU-8 复仇者火炮 (建造中)</AvengerTurretGun_Frame.label>
+  <AvengerTurretGun_Frame.description>A manned turret mounted with a GAU-8 Avenger Fire Cannon that shoots at enemies. It deals extra armor-piercing damage if the round has a direct hit. It uses 30x173mm cartridge for ammo. The turret explodes when heavily damaged.</AvengerTurretGun_Frame.description>
+
+
+  <!-- 20mm FF autocannon -->
+
+  <Turret_Oerlikonautocannon.label>20mm 欧瑞康机炮</Turret_Oerlikonautocannon.label>
+  <Turret_Oerlikonautocannon.description>A manned turret mounted with a 20mm Oerlikon autocannon. It deals armor-piercing damage. The turret explodes when heavily damaged. It uses 20x102mm rounds for ammo.</Turret_Oerlikonautocannon.description>
+  <Turret_Oerlikonautocannon_Blueprint.label>20mm 欧瑞康机炮 (蓝图)</Turret_Oerlikonautocannon_Blueprint.label>
+  <Turret_Oerlikonautocannon_Blueprint_Install.label>20mm 欧瑞康机炮 (蓝图)</Turret_Oerlikonautocannon_Blueprint_Install.label>
+  <Turret_Oerlikonautocannon_Frame.label>20mm 欧瑞康机炮 (建造中)</Turret_Oerlikonautocannon_Frame.label>
+  <Turret_Oerlikonautocannon_Frame.description>A manned turret mounted with a 20mm Oerlikon autocannon. It deals armor-piercing damage. The turret explodes when heavily damaged. It uses 20x102mm rounds for ammo.</Turret_Oerlikonautocannon_Frame.description>
+
+
+  <!-- Vulcan cannon -->
+
+  <Turret_VulcanCannon.label>20mm 火神炮</Turret_VulcanCannon.label>
+  <Turret_VulcanCannon.description>A fortified tower with a mounted 20mm Vulcan Cannon. It requires 800 W to function. It fires a quick, continuous stream of 20 bullets. Its high placement allows for a much longer range, but unfortunately due to that it can't aim directly down or close to itself and can't be placed indoors. It creates a sizable explosion when destroyed.</Turret_VulcanCannon.description>
+  <Turret_VulcanCannon_Blueprint.label>20mm 火神炮 (蓝图)</Turret_VulcanCannon_Blueprint.label>
+  <Turret_VulcanCannon_Blueprint_Install.label>20mm 火神炮 (蓝图)</Turret_VulcanCannon_Blueprint_Install.label>
+  <Turret_VulcanCannon_Frame.label>20mm 火神炮 (建造中)</Turret_VulcanCannon_Frame.label>
+  <Turret_VulcanCannon_Frame.description>A fortified tower with a mounted 20mm Vulcan Cannon. It requires 800 W to function. It fires a quick, continuous stream of 20 bullets. Its high placement allows for a much longer range, but unfortunately due to that it can't aim directly down or close to itself and can't be placed indoors. It creates a sizable explosion when destroyed.</Turret_VulcanCannon_Frame.description>
+
+
+  <!-- AGS-17 -->
+
+  <Turret_AGSThirty.label>AGS-17</Turret_AGSThirty.label>
+  <Turret_AGSThirty.description>Lightweight automatic grenade launcher.</Turret_AGSThirty.description>
+  <Turret_AGSThirty_Blueprint.label>AGS-17 (蓝图)</Turret_AGSThirty_Blueprint.label>
+  <Turret_AGSThirty_Blueprint_Install.label>AGS-17 (蓝图)</Turret_AGSThirty_Blueprint_Install.label>
+  <Turret_AGSThirty_Frame.label>AGS-17 (建造中)</Turret_AGSThirty_Frame.label>
+  <Turret_AGSThirty_Frame.description>Lightweight automatic grenade launcher.</Turret_AGSThirty_Frame.description>
+
+
+  <!-- AGL Grenade launcher -->
+
+  <Turret_AGS30GrenadeLauncher.label>AGS-30</Turret_AGS30GrenadeLauncher.label>
+  <Turret_AGS30GrenadeLauncher.description>A manned 30mm Grenade Launcher mounted on a turret. It uses 30mmx6 GL Turret Grenades for ammo. It fires a burst of 6 explosive grenades over medium distances.</Turret_AGS30GrenadeLauncher.description>
+  <Turret_AGS30GrenadeLauncher_Blueprint.label>AGS-30 (蓝图)</Turret_AGS30GrenadeLauncher_Blueprint.label>
+  <Turret_AGS30GrenadeLauncher_Blueprint_Install.label>AGS-30 (蓝图)</Turret_AGS30GrenadeLauncher_Blueprint_Install.label>
+  <Turret_AGS30GrenadeLauncher_Frame.label>AGS-30 (建造中)</Turret_AGS30GrenadeLauncher_Frame.label>
+  <Turret_AGS30GrenadeLauncher_Frame.description>A manned 30mm Grenade Launcher mounted on a turret. It uses 30mmx6 GL Turret Grenades for ammo. It fires a burst of 6 explosive grenades over medium distances.</Turret_AGS30GrenadeLauncher_Frame.description>
+
+
+  <!-- Flak cannon -->
+
+  <Turret_Flak.label>90mm 高射炮塔</Turret_Flak.label>
+  <Turret_Flak.description>Old school anti-aircraft cannon. Ineffective against modern aviation but still popular on rimworlds for use against entrenched enemies and vehicles.</Turret_Flak.description>
+  <Turret_Flak_Blueprint.label>90mm 高射炮塔 (蓝图)</Turret_Flak_Blueprint.label>
+  <Turret_Flak_Blueprint_Install.label>90mm 高射炮塔 (蓝图)</Turret_Flak_Blueprint_Install.label>
+  <Turret_Flak_Frame.label>90mm 高射炮塔 (建造中)</Turret_Flak_Frame.label>
+  <Turret_Flak_Frame.description>Old school anti-aircraft cannon. Ineffective against modern aviation but still popular on rimworlds for use against entrenched enemies and vehicles.</Turret_Flak_Frame.description>
+
+
+  <!-- Tank cannon turret -->
+
+  <Turret_Cannon.label>120mm 坦克炮</Turret_Cannon.label>
+  <Turret_Cannon.description>A turret mounted with a 120mm tank gun. It can fire an explosive shell long distances, over walls and through constructed roofs. The turret will explode when heavily damaged. It uses 120mm Cannon Shells for ammo.</Turret_Cannon.description>
+  <Turret_Cannon_Blueprint.label>120mm 坦克炮 (蓝图)</Turret_Cannon_Blueprint.label>
+  <Turret_Cannon_Blueprint_Install.label>120mm 坦克炮 (蓝图)</Turret_Cannon_Blueprint_Install.label>
+  <Turret_Cannon_Frame.label>120mm 坦克炮 (建造中)</Turret_Cannon_Frame.label>
+  <Turret_Cannon_Frame.description>A turret mounted with a 120mm tank gun. It can fire an explosive shell long distances, over walls and through constructed roofs. The turret will explode when heavily damaged. It uses 120mm Cannon Shells for ammo.</Turret_Cannon_Frame.description>
+
+
+  <!-- Howitzer -->
+
+  <HowitzerTurretGun.label>155mm 榴弹炮</HowitzerTurretGun.label>
+  <HowitzerTurretGun.description>A turret mounted with a 155mm Howitzer Cannon. Fires over walls and needs to be manned. The turret explodes when heavily damaged. It uses 155mm Howitzer Shells for ammo.</HowitzerTurretGun.description>
+  <HowitzerTurretGun_Blueprint.label>155mm 榴弹炮 (蓝图)</HowitzerTurretGun_Blueprint.label>
+  <HowitzerTurretGun_Blueprint_Install.label>155mm 榴弹炮 (蓝图)</HowitzerTurretGun_Blueprint_Install.label>
+  <HowitzerTurretGun_Frame.label>155mm 榴弹炮 (建造中)</HowitzerTurretGun_Frame.label>
+  <HowitzerTurretGun_Frame.description>A turret mounted with a 155mm Howitzer Cannon. Fires over walls and needs to be manned. The turret explodes when heavily damaged. It uses 155mm Howitzer Shells for ammo.</HowitzerTurretGun_Frame.description>
+
+
+  <!-- BGM-71 TOW -->
+
+  <Turret_TOWLauncher.label>BGM-71 TOW</Turret_TOWLauncher.label>
+  <Turret_TOWLauncher.description>The TOW ("Tube-launched, Optically-tracked, Wire-guided") launcher is an anti-tank missile. First produced in 1970, the TOW is one of the most widely used anti-tank guided missiles.</Turret_TOWLauncher.description>
+  <Turret_TOWLauncher_Blueprint.label>BGM-71 TOW (蓝图)</Turret_TOWLauncher_Blueprint.label>
+  <Turret_TOWLauncher_Blueprint_Install.label>BGM-71 TOW (蓝图)</Turret_TOWLauncher_Blueprint_Install.label>
+  <Turret_TOWLauncher_Frame.label>BGM-71 TOW (建造中)</Turret_TOWLauncher_Frame.label>
+  <Turret_TOWLauncher_Frame.description>The TOW ("Tube-launched, Optically-tracked, Wire-guided") launcher is an anti-tank missile. First produced in 1970, the TOW is one of the most widely used anti-tank guided missiles.</Turret_TOWLauncher_Frame.description>
+
+
+  <!-- Light missile system -->
+
+  <LightMissileSystem.label>MS FGM-148 标枪导弹</LightMissileSystem.label>
+  <LightMissileSystem.description>The Light Missile System fires 1 missile at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged.</LightMissileSystem.description>
+  <LightMissileSystem_Blueprint.label>MS FGM-148 标枪导弹 (蓝图)</LightMissileSystem_Blueprint.label>
+  <LightMissileSystem_Blueprint_Install.label>MS FGM-148 标枪导弹 (蓝图)</LightMissileSystem_Blueprint_Install.label>
+  <LightMissileSystem_Frame.label>MS FGM-148 标枪导弹 (建造中)</LightMissileSystem_Frame.label>
+  <LightMissileSystem_Frame.description>The Light Missile System fires 1 missile at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged.</LightMissileSystem_Frame.description>
+
+
+  <!-- Medium missile system -->
+
+  <MediumMissileSystem.label>中型导弹系统</MediumMissileSystem.label>
+  <MediumMissileSystem.description>The Medium Missile System fires 3 missiles at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged.</MediumMissileSystem.description>
+  <MediumMissileSystem_Blueprint.label>中型导弹系统 (蓝图)</MediumMissileSystem_Blueprint.label>
+  <MediumMissileSystem_Blueprint_Install.label>中型导弹系统 (蓝图)</MediumMissileSystem_Blueprint_Install.label>
+  <MediumMissileSystem_Frame.label>中型导弹系统 (建造中)</MediumMissileSystem_Frame.label>
+  <MediumMissileSystem_Frame.description>The Medium Missile System fires 3 missiles at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged.</MediumMissileSystem_Frame.description>
+
+
+  <!-- Heavy missile system -->
+
+  <RLGun.label>重型导弹系统</RLGun.label>
+  <RLGun.description>The Heavy Missile System fires 6 missiles at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged.</RLGun.description>
+  <RLGun_Blueprint.label>重型导弹系统 (蓝图)</RLGun_Blueprint.label>
+  <RLGun_Blueprint_Install.label>重型导弹系统 (蓝图)</RLGun_Blueprint_Install.label>
+  <RLGun_Frame.label>重型导弹系统 (建造中)</RLGun_Frame.label>
+  <RLGun_Frame.description>The Heavy Missile System fires 6 missiles at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged.</RLGun_Frame.description>
+
+
+  <!--[Core] <TurretGun.label>简易无人机枪</TurretGun.label>-->
+  <!--[Core] <TurretGun.description>一台东拼西凑的的机枪炮塔，会自动射击附近的敌人，被摧毁后会爆炸。它所用的拼凑而成的人工智能大脑不是很聪明，也没法被直接控制，因此要当心误伤。</TurretGun.description>-->
+  <!--[Core] <TurretGun_Blueprint.label>简易无人机枪（蓝图）</TurretGun_Blueprint.label>-->
+  <!--[Core] <TurretGun_Blueprint_Install.label>简易无人机枪（蓝图）</TurretGun_Blueprint_Install.label>-->
+  <!--[Core] <TurretGun_Frame.label>简易无人机枪（建造中）</TurretGun_Frame.label>-->
+  <!--[Core] <TurretGun_Frame.description>一台东拼西凑的的机枪炮塔，会自动射击附近的敌人，被摧毁后会爆炸。它所用的拼凑而成的人工智能大脑不是很聪明，也没法被直接控制，因此要当心误伤。</TurretGun_Frame.description>-->
+  <!--[Core] <Turret_MortarIncendiary.label>迫击炮 （燃烧）</Turret_MortarIncendiary.label>-->
+  <!--[Core] <Turret_MortarIncendiary.description>一个发射燃烧炮弹的迫击炮。必须有人操纵。受损严重时爆炸。</Turret_MortarIncendiary.description>-->
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChunkSalt.label>盐</ChunkSalt.label>
+  <ChunkSalt.description>Salt is used into preservation of foods.</ChunkSalt.description>
+
+  <Glowstone.label>耀石</Glowstone.label>
+  <Glowstone.description>While the safety of these glowing rocks is questionable, they do provide a good amount of light, especially with reflective silver.</Glowstone.description>
+
+  <Coldstone.label>冰石</Coldstone.label>
+  <Coldstone.description>A creamy white stone that seems to radiate coldness. It stays cold for a very long time.</Coldstone.description>
+
+  <Peat.label>泥炭</Peat.label>
+  <Peat.description>Peat, also known as turf, is an accumulation of partially decayed vegetation or organic matter that is unique to natural areas, such as peatlands, mires and swamps.</Peat.description>
+
+  <SoftClay.label>软黏土</SoftClay.label>
+  <SoftClay.description>A lump of raw clay that was gathered from water sources on the ground. It can be baked into Clay Bricks at a Smelting Furnace.</SoftClay.description>
+
+
+  <!-- Saltpeter -->
+
+  <Nitre.label>硝石</Nitre.label>
+  <Nitre.description>Major uses of potassium nitrate (Nitre) are in fertilizers, tree stump removal, rocket propellants and fireworks. It is one of the major components of Gunpowder.</Nitre.description>
+
+  <Coal.label>原煤</Coal.label>
+  <Coal.description>A black lump of Coal Ore. It is a useful reaction agent in metal alloy smelting.</Coal.description>
+
+  <Charcoal.label>木炭</Charcoal.label>
+  <Charcoal.description>A blackened lump of Charcoal. It is a useful Coal Ore substitute made by burning Wood Logs or Bamboo Logs.</Charcoal.description>
+
+
+</LanguageData>

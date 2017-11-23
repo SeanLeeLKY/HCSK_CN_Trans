@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Bolt_Metallic.label>制造金属头弩箭 x50</MakeAmmo_Bolt_Metallic.label>
+  <MakeAmmo_Bolt_Metallic.description>Craft 50 metallic bolts.</MakeAmmo_Bolt_Metallic.description>
+  <MakeAmmo_Bolt_Metallic.jobString>Making bolts.</MakeAmmo_Bolt_Metallic.jobString>
+
+  <MakeAmmo_Bolt_Poison.label>制造毒弩箭 x50</MakeAmmo_Bolt_Poison.label>
+  <MakeAmmo_Bolt_Poison.description>Craft 50 poison bolts.</MakeAmmo_Bolt_Poison.description>
+  <MakeAmmo_Bolt_Poison.jobString>Making bolts.</MakeAmmo_Bolt_Poison.jobString>
+
+  <MakeAmmo_Bolt_Explosive.label>制造爆炸弩箭 x50</MakeAmmo_Bolt_Explosive.label>
+  <MakeAmmo_Bolt_Explosive.description>Craft 50 explosive bolts.</MakeAmmo_Bolt_Explosive.description>
+  <MakeAmmo_Bolt_Explosive.jobString>Making explosive bolts.</MakeAmmo_Bolt_Explosive.jobString>
+
+
+</LanguageData>

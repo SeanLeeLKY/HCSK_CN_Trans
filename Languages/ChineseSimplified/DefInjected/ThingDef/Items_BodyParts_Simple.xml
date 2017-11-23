@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- simple parts -->
+
+  <GlassEye.label>玻璃眼</GlassEye.label>
+  <GlassEye.description>Replaces missing eyes. Prettier than eye patches.</GlassEye.description>
+
+  
+
+  <!--[Core] <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>-->
+  <!--[Core] <SimpleProstheticLeg.description>用来替换缺失的腿的假肢，不是很舒服但是相当有效。</SimpleProstheticLeg.description>-->
+  <!--[Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->
+  <!--[Core] <SimpleProstheticArm.description>简易但耐用的假臂。</SimpleProstheticArm.description>-->
+
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla natural -->
+
+  
+
+
+  <!-- EPOE natural -->
+
+  <InstallNaturalEye.label>安装眼睛</InstallNaturalEye.label>
+  <InstallNaturalEye.description>Installs a natural Eye.</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>安装眼睛</InstallNaturalEye.jobString>
+
+  <InstallNaturalNose.label>安装鼻子</InstallNaturalNose.label>
+  <InstallNaturalNose.description>Installs a natural Nose.</InstallNaturalNose.description>
+  <InstallNaturalNose.jobString>安装鼻子</InstallNaturalNose.jobString>
+
+  <InstallNaturalEar.label>安装耳朵</InstallNaturalEar.label>
+  <InstallNaturalEar.description>Installs a natural Ear.</InstallNaturalEar.description>
+  <InstallNaturalEar.jobString>安装耳朵</InstallNaturalEar.jobString>
+
+  <InstallNaturalJaw.label>安装下颌</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>Installs a natural Jaw.</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>安装下颌</InstallNaturalJaw.jobString>
+
+  <InstallNaturalArm.label>安装手臂</InstallNaturalArm.label>
+  <InstallNaturalArm.description>Installs a natural Arm.</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>安装手臂</InstallNaturalArm.jobString>
+
+  <InstallNaturalLeg.label>安装腿</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>Installs a natural Leg.</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>安装腿</InstallNaturalLeg.jobString>
+
+  <InstallNaturalStomach.label>安装胃</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>Installs a natural Stomach.</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>安装胃</InstallNaturalStomach.jobString>
+
+
+  <!--[Core] <InstallNaturalHeart.label>植入心脏</InstallNaturalHeart.label>-->
+  <!--[Core] <InstallNaturalHeart.description>将心脏植入身体。</InstallNaturalHeart.description>-->
+  <!--[Core] <InstallNaturalHeart.jobString>正在植入心脏。</InstallNaturalHeart.jobString>-->
+  <!--[Core] <InstallNaturalLiver.label>植入肝脏</InstallNaturalLiver.label>-->
+  <!--[Core] <InstallNaturalLiver.description>将肝脏植入身体。</InstallNaturalLiver.description>-->
+  <!--[Core] <InstallNaturalLiver.jobString>正在植入肝脏。</InstallNaturalLiver.jobString>-->
+  <!--[Core] <InstallNaturalKidney.label>植入肾脏</InstallNaturalKidney.label>-->
+  <!--[Core] <InstallNaturalKidney.description>将肾脏植入身体。</InstallNaturalKidney.description>-->
+  <!--[Core] <InstallNaturalKidney.jobString>正在植入肾脏。</InstallNaturalKidney.jobString>-->
+  <!--[Core] <InstallNaturalLung.label>植入肺</InstallNaturalLung.label>-->
+  <!--[Core] <InstallNaturalLung.description>将肺植入身体。</InstallNaturalLung.description>-->
+  <!--[Core] <InstallNaturalLung.jobString>正在植入肺。</InstallNaturalLung.jobString>-->
+
+</LanguageData>

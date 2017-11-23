@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   
+  <Accessories.label>辅助建筑</Accessories.label>
+  <Accessories.description>小型建筑</Accessories.description>
+
+  
+  <OutsideFloors.label>特殊地板</OutsideFloors.label>
+  <OutsideFloors.description>Metal flooring and growing soils.</OutsideFloors.description>
+ 
+  <NaturalFloors.label>自然地板</NaturalFloors.label>
+  <NaturalFloors.description>Stone, sand and clay tiled flooring.</NaturalFloors.description>
+
+   
+
+  <!--[Core] <Production.label>生产</Production.label>-->
+  <!--[Core] <Production.description>用于生产产品的建筑。</Production.description>-->
+  <!--[Core] <Furniture.label>家具</Furniture.label>-->
+  <!--[Core] <Furniture.description>小型建筑，比如床和桌椅。</Furniture.description>-->
+  <!--[Core] <Security.label>防卫</Security.label>-->
+  <!--[Core] <Security.description>防卫和战斗相关的工事、设施。</Security.description>-->
+  <!--[Core] <Power.label>电力</Power.label>-->
+  <!--[Core] <Power.description>发电、输电和管理电网的设施。</Power.description>-->
+  <!--[Core] <Floors.label>地板</Floors.label>-->
+  <!--[Core] <Floors.description>铺设地板。</Floors.description>-->
+  <!--[Core] <Misc.label>杂项</Misc.label>-->
+  <!--[Core] <Misc.description>各种杂项建造。</Misc.description>-->
+  <!--[Core] <Ship.label>飞船</Ship.label>-->
+  <!--[Core] <Ship.description>你逃离星球所必需的飞船零部件。</Ship.description>-->
+  <!--[Core] <Temperature.label>温度</Temperature.label>-->
+  <!--[Core] <Temperature.description>用于控制温度的各种设备。</Temperature.description>-->
+  <!--[Core] <Joy.label>娱乐</Joy.label>-->
+  <!--[Core] <Joy.description>让殖民者享受娱乐的设施。</Joy.description>-->
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BuildLaserRifle.label>制造 单路光束步枪</BuildLaserRifle.label>
+  <BuildLaserRifle.description>Builds the One-Beam Laser Rifle. It is a fantastic laser rifle with Mechanoid technology that fires 1 energy beam. This weapon does not need to be reloaded. Targets hit by the beam can catch on fire.</BuildLaserRifle.description>
+  <BuildLaserRifle.jobString>Building One-beam Laser Rifle.</BuildLaserRifle.jobString>
+
+  <BuildHeavyLaserRifle.label>制造 三路光束步枪</BuildHeavyLaserRifle.label>
+  <BuildHeavyLaserRifle.description>Builds the Tri-Beam Laser Rifle. It is a fantastic laser rifle with Mechanoid technology that fires 3 energy beams in succession. This weapon does not need to be reloaded. Targets hit by the beam can catch on fire.</BuildHeavyLaserRifle.description>
+  <BuildHeavyLaserRifle.jobString>Building Tri-beam Laser Rifle.</BuildHeavyLaserRifle.jobString>
+
+  <BuildBurstLaserRifle.label>制造 多路光束步枪</BuildBurstLaserRifle.label>
+  <BuildBurstLaserRifle.description>Builds the Penta-Beam Laser Rifle. It is a fantastic laser rifle with Mechanoid technology that fires 5 energy beams in succession. This weapon does not need to be reloaded. Targets hit by the beam can catch on fire.</BuildBurstLaserRifle.description>
+  <BuildBurstLaserRifle.jobString>Building Penta-beam laser rifle.</BuildBurstLaserRifle.jobString>
+
+  <!--[Duplicated] <BuildRailgunMKI.label>制造 X-Zero Railgun</BuildRailgunMKI.label>-->
+  <!--[Duplicated] <BuildRailgunMKI.description>Builds the Railgun X-Zero, an electrically-charged electro-magnetic projectile launcher. This weapon does not need to be reloaded. Targets hit by the projectile can catch on fire.</BuildRailgunMKI.description>-->
+  <!--[Duplicated] <BuildRailgunMKI.jobString>Building X-Zero Railgun.</BuildRailgunMKI.jobString>-->
+
+  <BuildChargeRifle.label>制造 R2 电荷步枪</BuildChargeRifle.label>
+  <BuildChargeRifle.description>Builds the R2 Charge Rifle, a charged-shot energy projectile rifle.</BuildChargeRifle.description>
+  <BuildChargeRifle.jobString>Building R2 Charge Rifle.</BuildChargeRifle.jobString>
+
+
+</LanguageData>

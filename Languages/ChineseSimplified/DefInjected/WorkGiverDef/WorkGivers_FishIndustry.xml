@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WorkGiver_HarvestAquacultureBasinProduction.verb>收获</WorkGiver_HarvestAquacultureBasinProduction.verb>
+  <WorkGiver_HarvestAquacultureBasinProduction.gerund>收获</WorkGiver_HarvestAquacultureBasinProduction.gerund>
+
+  <WorkGiver_DoBillsAtAquacultureBasin.verb>补给</WorkGiver_DoBillsAtAquacultureBasin.verb>
+  <WorkGiver_DoBillsAtAquacultureBasin.gerund>补给</WorkGiver_DoBillsAtAquacultureBasin.gerund>
+
+  <FillAquacultureHopper.verb>填装</FillAquacultureHopper.verb>
+  <FillAquacultureHopper.gerund>填装</FillAquacultureHopper.gerund>
+
+  <WorkGiver_FishAtFishingPier.verb>捕鱼</WorkGiver_FishAtFishingPier.verb>
+  <WorkGiver_FishAtFishingPier.gerund>捕鱼于</WorkGiver_FishAtFishingPier.gerund>
+
+
+</LanguageData>

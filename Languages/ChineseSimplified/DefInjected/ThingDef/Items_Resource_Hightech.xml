@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Antimatter -->
+
+  <Antimatter.label>反物质</Antimatter.label>
+  <Antimatter.description>AntiMatter in the form of anti-atoms is one of the most difficult materials to produce. AntiMatter in the form of individual anti-particles however, is commonly produced by particle accelerators and in some types of radioactive decay.</Antimatter.description>
+
+
+  <!-- Magnetic material -->
+
+  <MagneticMaterial.label>磁性材料</MagneticMaterial.label>
+  <MagneticMaterial.description>An advanced combination of strong magnetic materials. Creation of such material is beyond the fabrication skills of anyone but an electromagnetic physicist.</MagneticMaterial.description>
+
+
+  <!-- Biosynthetic material -->
+
+  <BiosyntheticMaterial.label>生物合成材料</BiosyntheticMaterial.label>
+  <BiosyntheticMaterial.description>BioSynthetic Material is an advanced, high ductility material.</BiosyntheticMaterial.description>
+
+  <Hexcell.label>动力核</Hexcell.label>
+  <Hexcell.description>A compact energy storing device. It is generally used for powering advanced weaponry or shock absorbers in powered armor.</Hexcell.description>
+
+
+</LanguageData>

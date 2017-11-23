@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rodentlike -->
+
+ 
+
+  <Chipmunk.label>金花鼠</Chipmunk.label>
+  <Chipmunk.labelPlural>金花鼠</Chipmunk.labelPlural>
+  <Chipmunk.lifeStages.0.label>金花鼠</Chipmunk.lifeStages.0.label>
+  <Chipmunk.lifeStages.0.labelPlural>金花鼠</Chipmunk.lifeStages.0.labelPlural>
+  <Chipmunk.lifeStages.0.labelMale>雄性金花鼠</Chipmunk.lifeStages.0.labelMale>
+  <Chipmunk.lifeStages.0.labelMalePlural>雄性金花鼠</Chipmunk.lifeStages.0.labelMalePlural>
+  <Chipmunk.lifeStages.0.labelFemale>雌性金花鼠</Chipmunk.lifeStages.0.labelFemale>
+  <Chipmunk.lifeStages.0.labelFemalePlural>雌性金花鼠</Chipmunk.lifeStages.0.labelFemalePlural>
+  <Chipmunk.lifeStages.1.label>金花鼠</Chipmunk.lifeStages.1.label>
+  <Chipmunk.lifeStages.1.labelPlural>金花鼠</Chipmunk.lifeStages.1.labelPlural>
+  <Chipmunk.lifeStages.1.labelMale>雄性金花鼠</Chipmunk.lifeStages.1.labelMale>
+  <Chipmunk.lifeStages.1.labelMalePlural>雄性金花鼠</Chipmunk.lifeStages.1.labelMalePlural>
+  <Chipmunk.lifeStages.1.labelFemale>雌性金花鼠</Chipmunk.lifeStages.1.labelFemale>
+  <Chipmunk.lifeStages.1.labelFemalePlural>雌性金花鼠</Chipmunk.lifeStages.1.labelFemalePlural>
+  <Chipmunk.lifeStages.2.label>金花鼠</Chipmunk.lifeStages.2.label>
+  <Chipmunk.lifeStages.2.labelPlural>金花鼠</Chipmunk.lifeStages.2.labelPlural>
+  <Chipmunk.lifeStages.2.labelMale>雄性金花鼠</Chipmunk.lifeStages.2.labelMale>
+  <Chipmunk.lifeStages.2.labelMalePlural>雄性金花鼠</Chipmunk.lifeStages.2.labelMalePlural>
+  <Chipmunk.lifeStages.2.labelFemale>雌性金花鼠</Chipmunk.lifeStages.2.labelFemale>
+  <Chipmunk.lifeStages.2.labelFemalePlural>雌性金花鼠</Chipmunk.lifeStages.2.labelFemalePlural>
+  <Chipmunk.labelMale>雄性金花鼠</Chipmunk.labelMale>
+  <Chipmunk.labelMalePlural>雄性金花鼠</Chipmunk.labelMalePlural>
+  <Chipmunk.labelFemale>雌性金花鼠</Chipmunk.labelFemale>
+  <Chipmunk.labelFemalePlural>雌性金花鼠</Chipmunk.labelFemalePlural>
+
+
+  <!--[Core] <Squirrel.label>松鼠</Squirrel.label>-->
+  <!--[Core] <Squirrel.labelPlural>松鼠</Squirrel.labelPlural>-->
+  <!--[Core] <Squirrel.lifeStages.0.label>松鼠幼崽</Squirrel.lifeStages.0.label>-->
+  <!--[Core] <Squirrel.lifeStages.0.labelPlural>松鼠幼崽</Squirrel.lifeStages.0.labelPlural>-->
+  <!--[Core] <Squirrel.lifeStages.0.labelMale>松鼠幼崽</Squirrel.lifeStages.0.labelMale>-->
+  <!--[Core] <Squirrel.lifeStages.0.labelMalePlural>松鼠幼崽</Squirrel.lifeStages.0.labelMalePlural>-->
+  <!--[Core] <Squirrel.lifeStages.0.labelFemale>松鼠幼崽</Squirrel.lifeStages.0.labelFemale>-->
+  <!--[Core] <Squirrel.lifeStages.0.labelFemalePlural>松鼠幼崽</Squirrel.lifeStages.0.labelFemalePlural>-->
+  <!--[Core] <Squirrel.lifeStages.1.label>幼年松鼠</Squirrel.lifeStages.1.label>-->
+  <!--[Core] <Squirrel.lifeStages.1.labelPlural>幼年松鼠</Squirrel.lifeStages.1.labelPlural>-->
+  <!--[Core] <Squirrel.lifeStages.1.labelMale>幼年公松鼠</Squirrel.lifeStages.1.labelMale>-->
+  <!--[Core] <Squirrel.lifeStages.1.labelMalePlural>幼年公松鼠</Squirrel.lifeStages.1.labelMalePlural>-->
+  <!--[Core] <Squirrel.lifeStages.1.labelFemale>幼年母松鼠</Squirrel.lifeStages.1.labelFemale>-->
+  <!--[Core] <Squirrel.lifeStages.1.labelFemalePlural>幼年母松鼠</Squirrel.lifeStages.1.labelFemalePlural>-->
+  <!--[Core] <Squirrel.lifeStages.2.label>松鼠</Squirrel.lifeStages.2.label>-->
+  <!--[Core] <Squirrel.lifeStages.2.labelPlural>松鼠</Squirrel.lifeStages.2.labelPlural>-->
+  <!--[Core] <Squirrel.lifeStages.2.labelMale>公松鼠</Squirrel.lifeStages.2.labelMale>-->
+  <!--[Core] <Squirrel.lifeStages.2.labelMalePlural>公松鼠</Squirrel.lifeStages.2.labelMalePlural>-->
+  <!--[Core] <Squirrel.lifeStages.2.labelFemale>母松鼠</Squirrel.lifeStages.2.labelFemale>-->
+  <!--[Core] <Squirrel.lifeStages.2.labelFemalePlural>母松鼠</Squirrel.lifeStages.2.labelFemalePlural>-->
+  <!--[Core] <Squirrel.labelMale>公松鼠</Squirrel.labelMale>-->
+  <!--[Core] <Squirrel.labelMalePlural>公松鼠</Squirrel.labelMalePlural>-->
+  <!--[Core] <Squirrel.labelFemale>母松鼠</Squirrel.labelFemale>-->
+  <!--[Core] <Squirrel.labelFemalePlural>母松鼠</Squirrel.labelFemalePlural>-->
+  <!--[Core] <Alphabeaver.label>阿尔法海狸</Alphabeaver.label>-->
+  <!--[Core] <Alphabeaver.labelPlural>阿尔法海狸</Alphabeaver.labelPlural>-->
+  <!--[Core] <Alphabeaver.lifeStages.0.label>阿尔法海狸幼崽</Alphabeaver.lifeStages.0.label>-->
+  <!--[Core] <Alphabeaver.lifeStages.0.labelPlural>阿尔法海狸幼崽</Alphabeaver.lifeStages.0.labelPlural>-->
+  <!--[Core] <Alphabeaver.lifeStages.0.labelMale>阿尔法海狸幼崽</Alphabeaver.lifeStages.0.labelMale>-->
+  <!--[Core] <Alphabeaver.lifeStages.0.labelMalePlural>阿尔法海狸幼崽</Alphabeaver.lifeStages.0.labelMalePlural>-->
+  <!--[Core] <Alphabeaver.lifeStages.0.labelFemale>阿尔法海狸幼崽</Alphabeaver.lifeStages.0.labelFemale>-->
+  <!--[Core] <Alphabeaver.lifeStages.0.labelFemalePlural>阿尔法海狸幼崽</Alphabeaver.lifeStages.0.labelFemalePlural>-->
+  <!--[Core] <Alphabeaver.lifeStages.1.label>幼年阿尔法海狸</Alphabeaver.lifeStages.1.label>-->
+  <!--[Core] <Alphabeaver.lifeStages.1.labelPlural>幼年阿尔法海狸</Alphabeaver.lifeStages.1.labelPlural>-->
+  <!--[Core] <Alphabeaver.lifeStages.1.labelMale>幼年公阿尔法海狸</Alphabeaver.lifeStages.1.labelMale>-->
+  <!--[Core] <Alphabeaver.lifeStages.1.labelMalePlural>幼年公阿尔法海狸</Alphabeaver.lifeStages.1.labelMalePlural>-->
+  <!--[Core] <Alphabeaver.lifeStages.1.labelFemale>幼年母阿尔法海狸</Alphabeaver.lifeStages.1.labelFemale>-->
+  <!--[Core] <Alphabeaver.lifeStages.1.labelFemalePlural>幼年母阿尔法海狸</Alphabeaver.lifeStages.1.labelFemalePlural>-->
+  <!--[Core] <Alphabeaver.lifeStages.2.label>阿尔法海狸</Alphabeaver.lifeStages.2.label>-->
+  <!--[Core] <Alphabeaver.lifeStages.2.labelPlural>阿尔法海狸</Alphabeaver.lifeStages.2.labelPlural>-->
+  <!--[Core] <Alphabeaver.lifeStages.2.labelMale>公阿尔法海狸</Alphabeaver.lifeStages.2.labelMale>-->
+  <!--[Core] <Alphabeaver.lifeStages.2.labelMalePlural>公阿尔法海狸</Alphabeaver.lifeStages.2.labelMalePlural>-->
+  <!--[Core] <Alphabeaver.lifeStages.2.labelFemale>母阿尔法海狸</Alphabeaver.lifeStages.2.labelFemale>-->
+  <!--[Core] <Alphabeaver.lifeStages.2.labelFemalePlural>母阿尔法海狸</Alphabeaver.lifeStages.2.labelFemalePlural>-->
+  <!--[Core] <Alphabeaver.labelMale>公阿尔法海狸</Alphabeaver.labelMale>-->
+  <!--[Core] <Alphabeaver.labelMalePlural>公阿尔法海狸</Alphabeaver.labelMalePlural>-->
+  <!--[Core] <Alphabeaver.labelFemale>母阿尔法海狸</Alphabeaver.labelFemale>-->
+  <!--[Core] <Alphabeaver.labelFemalePlural>母阿尔法海狸</Alphabeaver.labelFemalePlural>-->
+  <!--[Core] <Capybara.label>水豚</Capybara.label>-->
+  <!--[Core] <Capybara.labelPlural>水豚</Capybara.labelPlural>-->
+  <!--[Core] <Capybara.lifeStages.0.label>水豚幼崽</Capybara.lifeStages.0.label>-->
+  <!--[Core] <Capybara.lifeStages.0.labelPlural>水豚幼崽</Capybara.lifeStages.0.labelPlural>-->
+  <!--[Core] <Capybara.lifeStages.0.labelMale>水豚幼崽</Capybara.lifeStages.0.labelMale>-->
+  <!--[Core] <Capybara.lifeStages.0.labelMalePlural>水豚幼崽</Capybara.lifeStages.0.labelMalePlural>-->
+  <!--[Core] <Capybara.lifeStages.0.labelFemale>水豚幼崽</Capybara.lifeStages.0.labelFemale>-->
+  <!--[Core] <Capybara.lifeStages.0.labelFemalePlural>水豚幼崽</Capybara.lifeStages.0.labelFemalePlural>-->
+  <!--[Core] <Capybara.lifeStages.1.label>幼年水豚</Capybara.lifeStages.1.label>-->
+  <!--[Core] <Capybara.lifeStages.1.labelPlural>幼年水豚</Capybara.lifeStages.1.labelPlural>-->
+  <!--[Core] <Capybara.lifeStages.1.labelMale>幼年公水豚</Capybara.lifeStages.1.labelMale>-->
+  <!--[Core] <Capybara.lifeStages.1.labelMalePlural>幼年公水豚</Capybara.lifeStages.1.labelMalePlural>-->
+  <!--[Core] <Capybara.lifeStages.1.labelFemale>幼年母水豚</Capybara.lifeStages.1.labelFemale>-->
+  <!--[Core] <Capybara.lifeStages.1.labelFemalePlural>幼年母水豚</Capybara.lifeStages.1.labelFemalePlural>-->
+  <!--[Core] <Capybara.lifeStages.2.label>水豚</Capybara.lifeStages.2.label>-->
+  <!--[Core] <Capybara.lifeStages.2.labelPlural>水豚</Capybara.lifeStages.2.labelPlural>-->
+  <!--[Core] <Capybara.lifeStages.2.labelMale>公水豚</Capybara.lifeStages.2.labelMale>-->
+  <!--[Core] <Capybara.lifeStages.2.labelMalePlural>公水豚</Capybara.lifeStages.2.labelMalePlural>-->
+  <!--[Core] <Capybara.lifeStages.2.labelFemale>母水豚</Capybara.lifeStages.2.labelFemale>-->
+  <!--[Core] <Capybara.lifeStages.2.labelFemalePlural>母水豚</Capybara.lifeStages.2.labelFemalePlural>-->
+  <!--[Core] <Capybara.labelMale>公水豚</Capybara.labelMale>-->
+  <!--[Core] <Capybara.labelMalePlural>公水豚</Capybara.labelMalePlural>-->
+  <!--[Core] <Capybara.labelFemale>母水豚</Capybara.labelFemale>-->
+  <!--[Core] <Capybara.labelFemalePlural>母水豚</Capybara.labelFemalePlural>-->
+  <!--[Core] <Chinchilla.label>栗鼠</Chinchilla.label>-->
+  <!--[Core] <Chinchilla.labelPlural>栗鼠</Chinchilla.labelPlural>-->
+  <!--[Core] <Chinchilla.lifeStages.0.label>栗鼠幼崽</Chinchilla.lifeStages.0.label>-->
+  <!--[Core] <Chinchilla.lifeStages.0.labelPlural>栗鼠幼崽</Chinchilla.lifeStages.0.labelPlural>-->
+  <!--[Core] <Chinchilla.lifeStages.0.labelMale>栗鼠幼崽</Chinchilla.lifeStages.0.labelMale>-->
+  <!--[Core] <Chinchilla.lifeStages.0.labelMalePlural>栗鼠幼崽</Chinchilla.lifeStages.0.labelMalePlural>-->
+  <!--[Core] <Chinchilla.lifeStages.0.labelFemale>栗鼠幼崽</Chinchilla.lifeStages.0.labelFemale>-->
+  <!--[Core] <Chinchilla.lifeStages.0.labelFemalePlural>栗鼠幼崽</Chinchilla.lifeStages.0.labelFemalePlural>-->
+  <!--[Core] <Chinchilla.lifeStages.1.label>幼年栗鼠</Chinchilla.lifeStages.1.label>-->
+  <!--[Core] <Chinchilla.lifeStages.1.labelPlural>幼年栗鼠</Chinchilla.lifeStages.1.labelPlural>-->
+  <!--[Core] <Chinchilla.lifeStages.1.labelMale>幼年公栗鼠</Chinchilla.lifeStages.1.labelMale>-->
+  <!--[Core] <Chinchilla.lifeStages.1.labelMalePlural>幼年公栗鼠</Chinchilla.lifeStages.1.labelMalePlural>-->
+  <!--[Core] <Chinchilla.lifeStages.1.labelFemale>幼年母栗鼠</Chinchilla.lifeStages.1.labelFemale>-->
+  <!--[Core] <Chinchilla.lifeStages.1.labelFemalePlural>幼年母栗鼠</Chinchilla.lifeStages.1.labelFemalePlural>-->
+  <!--[Core] <Chinchilla.lifeStages.2.label>栗鼠</Chinchilla.lifeStages.2.label>-->
+  <!--[Core] <Chinchilla.lifeStages.2.labelPlural>栗鼠</Chinchilla.lifeStages.2.labelPlural>-->
+  <!--[Core] <Chinchilla.lifeStages.2.labelMale>公栗鼠</Chinchilla.lifeStages.2.labelMale>-->
+  <!--[Core] <Chinchilla.lifeStages.2.labelMalePlural>公栗鼠</Chinchilla.lifeStages.2.labelMalePlural>-->
+  <!--[Core] <Chinchilla.lifeStages.2.labelFemale>母栗鼠</Chinchilla.lifeStages.2.labelFemale>-->
+  <!--[Core] <Chinchilla.lifeStages.2.labelFemalePlural>母栗鼠</Chinchilla.lifeStages.2.labelFemalePlural>-->
+  <!--[Core] <Chinchilla.labelMale>公栗鼠</Chinchilla.labelMale>-->
+  <!--[Core] <Chinchilla.labelMalePlural>公栗鼠</Chinchilla.labelMalePlural>-->
+  <!--[Core] <Chinchilla.labelFemale>母栗鼠</Chinchilla.labelFemale>-->
+  <!--[Core] <Chinchilla.labelFemalePlural>母栗鼠</Chinchilla.labelFemalePlural>-->
+  <!--[Core] <Boomrat.label>爆炸鼠</Boomrat.label>-->
+  <!--[Core] <Boomrat.labelPlural>爆炸鼠</Boomrat.labelPlural>-->
+  <!--[Core] <Boomrat.lifeStages.0.label>爆炸鼠幼崽</Boomrat.lifeStages.0.label>-->
+  <!--[Core] <Boomrat.lifeStages.0.labelPlural>爆炸鼠幼崽</Boomrat.lifeStages.0.labelPlural>-->
+  <!--[Core] <Boomrat.lifeStages.0.labelMale>爆炸鼠幼崽</Boomrat.lifeStages.0.labelMale>-->
+  <!--[Core] <Boomrat.lifeStages.0.labelMalePlural>爆炸鼠幼崽</Boomrat.lifeStages.0.labelMalePlural>-->
+  <!--[Core] <Boomrat.lifeStages.0.labelFemale>爆炸鼠幼崽</Boomrat.lifeStages.0.labelFemale>-->
+  <!--[Core] <Boomrat.lifeStages.0.labelFemalePlural>爆炸鼠幼崽</Boomrat.lifeStages.0.labelFemalePlural>-->
+  <!--[Core] <Boomrat.lifeStages.1.label>幼年爆炸鼠</Boomrat.lifeStages.1.label>-->
+  <!--[Core] <Boomrat.lifeStages.1.labelPlural>幼年爆炸鼠</Boomrat.lifeStages.1.labelPlural>-->
+  <!--[Core] <Boomrat.lifeStages.1.labelMale>幼年公爆炸鼠</Boomrat.lifeStages.1.labelMale>-->
+  <!--[Core] <Boomrat.lifeStages.1.labelMalePlural>幼年公爆炸鼠</Boomrat.lifeStages.1.labelMalePlural>-->
+  <!--[Core] <Boomrat.lifeStages.1.labelFemale>幼年母爆炸鼠</Boomrat.lifeStages.1.labelFemale>-->
+  <!--[Core] <Boomrat.lifeStages.1.labelFemalePlural>幼年母爆炸鼠</Boomrat.lifeStages.1.labelFemalePlural>-->
+  <!--[Core] <Boomrat.lifeStages.2.label>爆炸鼠</Boomrat.lifeStages.2.label>-->
+  <!--[Core] <Boomrat.lifeStages.2.labelPlural>爆炸鼠</Boomrat.lifeStages.2.labelPlural>-->
+  <!--[Core] <Boomrat.lifeStages.2.labelMale>公爆炸鼠</Boomrat.lifeStages.2.labelMale>-->
+  <!--[Core] <Boomrat.lifeStages.2.labelMalePlural>公爆炸鼠</Boomrat.lifeStages.2.labelMalePlural>-->
+  <!--[Core] <Boomrat.lifeStages.2.labelFemale>母爆炸鼠</Boomrat.lifeStages.2.labelFemale>-->
+  <!--[Core] <Boomrat.lifeStages.2.labelFemalePlural>母爆炸鼠</Boomrat.lifeStages.2.labelFemalePlural>-->
+  <!--[Core] <Boomrat.labelMale>公爆炸鼠</Boomrat.labelMale>-->
+  <!--[Core] <Boomrat.labelMalePlural>公爆炸鼠</Boomrat.labelMalePlural>-->
+  <!--[Core] <Boomrat.labelFemale>母爆炸鼠</Boomrat.labelFemale>-->
+  <!--[Core] <Boomrat.labelFemalePlural>母爆炸鼠</Boomrat.labelFemalePlural>-->
+  <!--[Core] <Raccoon.label>浣熊</Raccoon.label>-->
+  <!--[Core] <Raccoon.labelPlural>浣熊</Raccoon.labelPlural>-->
+  <!--[Core] <Raccoon.lifeStages.0.label>浣熊幼崽</Raccoon.lifeStages.0.label>-->
+  <!--[Core] <Raccoon.lifeStages.0.labelPlural>浣熊幼崽</Raccoon.lifeStages.0.labelPlural>-->
+  <!--[Core] <Raccoon.lifeStages.0.labelMale>浣熊幼崽</Raccoon.lifeStages.0.labelMale>-->
+  <!--[Core] <Raccoon.lifeStages.0.labelMalePlural>浣熊幼崽</Raccoon.lifeStages.0.labelMalePlural>-->
+  <!--[Core] <Raccoon.lifeStages.0.labelFemale>浣熊幼崽</Raccoon.lifeStages.0.labelFemale>-->
+  <!--[Core] <Raccoon.lifeStages.0.labelFemalePlural>浣熊幼崽</Raccoon.lifeStages.0.labelFemalePlural>-->
+  <!--[Core] <Raccoon.lifeStages.1.label>幼年浣熊</Raccoon.lifeStages.1.label>-->
+  <!--[Core] <Raccoon.lifeStages.1.labelPlural>幼年浣熊</Raccoon.lifeStages.1.labelPlural>-->
+  <!--[Core] <Raccoon.lifeStages.1.labelMale>幼年公浣熊</Raccoon.lifeStages.1.labelMale>-->
+  <!--[Core] <Raccoon.lifeStages.1.labelMalePlural>幼年公浣熊</Raccoon.lifeStages.1.labelMalePlural>-->
+  <!--[Core] <Raccoon.lifeStages.1.labelFemale>幼年母浣熊</Raccoon.lifeStages.1.labelFemale>-->
+  <!--[Core] <Raccoon.lifeStages.1.labelFemalePlural>幼年母浣熊</Raccoon.lifeStages.1.labelFemalePlural>-->
+  <!--[Core] <Raccoon.lifeStages.2.label>浣熊</Raccoon.lifeStages.2.label>-->
+  <!--[Core] <Raccoon.lifeStages.2.labelPlural>浣熊</Raccoon.lifeStages.2.labelPlural>-->
+  <!--[Core] <Raccoon.lifeStages.2.labelMale>公浣熊</Raccoon.lifeStages.2.labelMale>-->
+  <!--[Core] <Raccoon.lifeStages.2.labelMalePlural>公浣熊</Raccoon.lifeStages.2.labelMalePlural>-->
+  <!--[Core] <Raccoon.lifeStages.2.labelFemale>母浣熊</Raccoon.lifeStages.2.labelFemale>-->
+  <!--[Core] <Raccoon.lifeStages.2.labelFemalePlural>母浣熊</Raccoon.lifeStages.2.labelFemalePlural>-->
+  <!--[Core] <Raccoon.labelMale>公浣熊</Raccoon.labelMale>-->
+  <!--[Core] <Raccoon.labelMalePlural>公浣熊</Raccoon.labelMalePlural>-->
+  <!--[Core] <Raccoon.labelFemale>母浣熊</Raccoon.labelFemale>-->
+  <!--[Core] <Raccoon.labelFemalePlural>母浣熊</Raccoon.labelFemalePlural>-->
+  <!--[Core] <Rat.label>老鼠</Rat.label>-->
+  <!--[Core] <Rat.labelPlural>老鼠</Rat.labelPlural>-->
+  <!--[Core] <Rat.lifeStages.0.label>老鼠幼崽</Rat.lifeStages.0.label>-->
+  <!--[Core] <Rat.lifeStages.0.labelPlural>老鼠幼崽</Rat.lifeStages.0.labelPlural>-->
+  <!--[Core] <Rat.lifeStages.0.labelMale>老鼠幼崽</Rat.lifeStages.0.labelMale>-->
+  <!--[Core] <Rat.lifeStages.0.labelMalePlural>老鼠幼崽</Rat.lifeStages.0.labelMalePlural>-->
+  <!--[Core] <Rat.lifeStages.0.labelFemale>老鼠幼崽</Rat.lifeStages.0.labelFemale>-->
+  <!--[Core] <Rat.lifeStages.0.labelFemalePlural>老鼠幼崽</Rat.lifeStages.0.labelFemalePlural>-->
+  <!--[Core] <Rat.lifeStages.1.label>幼年老鼠</Rat.lifeStages.1.label>-->
+  <!--[Core] <Rat.lifeStages.1.labelPlural>幼年老鼠</Rat.lifeStages.1.labelPlural>-->
+  <!--[Core] <Rat.lifeStages.1.labelMale>幼年公老鼠</Rat.lifeStages.1.labelMale>-->
+  <!--[Core] <Rat.lifeStages.1.labelMalePlural>幼年公老鼠</Rat.lifeStages.1.labelMalePlural>-->
+  <!--[Core] <Rat.lifeStages.1.labelFemale>幼年母老鼠</Rat.lifeStages.1.labelFemale>-->
+  <!--[Core] <Rat.lifeStages.1.labelFemalePlural>幼年母老鼠</Rat.lifeStages.1.labelFemalePlural>-->
+  <!--[Core] <Rat.lifeStages.2.label>老鼠</Rat.lifeStages.2.label>-->
+  <!--[Core] <Rat.lifeStages.2.labelPlural>老鼠</Rat.lifeStages.2.labelPlural>-->
+  <!--[Core] <Rat.lifeStages.2.labelMale>公老鼠</Rat.lifeStages.2.labelMale>-->
+  <!--[Core] <Rat.lifeStages.2.labelMalePlural>公老鼠</Rat.lifeStages.2.labelMalePlural>-->
+  <!--[Core] <Rat.lifeStages.2.labelFemale>母老鼠</Rat.lifeStages.2.labelFemale>-->
+  <!--[Core] <Rat.lifeStages.2.labelFemalePlural>母老鼠</Rat.lifeStages.2.labelFemalePlural>-->
+  <!--[Core] <Rat.labelMale>公老鼠</Rat.labelMale>-->
+  <!--[Core] <Rat.labelMalePlural>公老鼠</Rat.labelMalePlural>-->
+  <!--[Core] <Rat.labelFemale>母老鼠</Rat.labelFemale>-->
+  <!--[Core] <Rat.labelFemalePlural>母老鼠</Rat.labelFemalePlural>-->
+
+</LanguageData>

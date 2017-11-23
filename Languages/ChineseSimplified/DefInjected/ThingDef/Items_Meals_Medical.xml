@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bandagekit.label>绷带</Bandagekit.label>
+  <Bandagekit.description>A pack of bandages made from cloth. Less potent than medical kits.</Bandagekit.description>
+
+  <Herbmedicine.label>基本药包</Herbmedicine.label>
+  <Herbmedicine.description>A pack of mix herbs. Less potent than industrial pharmaceuticals. \n\nMade from aloe and cloth.</Herbmedicine.description>
+
+  <MedicalDrink.label>抗生素</MedicalDrink.label>
+  <MedicalDrink.description>A concentrated extract of Healroot and some hops. Tastes awful but boosts the immune system.</MedicalDrink.description>
+
+
+</LanguageData>

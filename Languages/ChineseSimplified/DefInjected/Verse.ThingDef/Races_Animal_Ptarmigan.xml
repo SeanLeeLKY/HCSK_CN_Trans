@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ptarmigan Egg -->
+
+  <EggPtarmiganUnfertilized.label>松鸡蛋 (未受精.)</EggPtarmiganUnfertilized.label>
+  <EggPtarmiganUnfertilized.description>Unfertilized ptarmigan egg. It can be eaten raw, but it's much, much better cooked.</EggPtarmiganUnfertilized.description>
+
+  <EggPtarmiganFertilized.label>松鸡蛋 (已受精.)</EggPtarmiganFertilized.label>
+  <EggPtarmiganFertilized.description>Fertilized ptarmigan egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked.</EggPtarmiganFertilized.description>
+
+
+  <!-- Animal -->
+
+  <Ptarmigan.label>松鸡</Ptarmigan.label>
+  <Ptarmigan.description>A small gamebird notable for its feathered feet, to better survive in frigid temperatures.</Ptarmigan.description>
+
+
+</LanguageData>

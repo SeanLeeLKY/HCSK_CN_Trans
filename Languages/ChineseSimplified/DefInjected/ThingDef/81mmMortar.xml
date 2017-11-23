@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Need to override mortar shell because of hardcoded vanilla references -->
+
+  <MortarShell.label>81mm 迫击炮弹 (高爆)</MortarShell.label>
+  <MortarShell.description>Low-velocity shell designed to be fired from a mortar.</MortarShell.description>
+
+  <Ammo_81mmMortarShell_Incendiary.label>81mm 迫击炮弹 (燃烧)</Ammo_81mmMortarShell_Incendiary.label>
+  <Ammo_81mmMortarShell_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_Incendiary.description>
+
+  <Ammo_81mmMortarShell_EMP.label>81mm 迫击炮弹 (EMP)</Ammo_81mmMortarShell_EMP.label>
+  <Ammo_81mmMortarShell_EMP.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_81mmMortarShell_HE.label>81mm 迫击炮弹 (高爆)</Bullet_81mmMortarShell_HE.label>
+  <Bullet_81mmMortarShell_Incendiary.label>81mm 迫击炮弹 (燃烧)</Bullet_81mmMortarShell_Incendiary.label>
+  <Bullet_81mmMortarShell_EMP.label>81mm 迫击炮弹 (EMP)</Bullet_81mmMortarShell_EMP.label>
+
+
+  <!--[Core] <MortarShell.label>迫击炮炮弹</MortarShell.label>-->
+  <!--[Core] <MortarShell.description>迫击炮发射的爆炸炮弹。受损时会发生爆炸。</MortarShell.description>-->
+
+</LanguageData>

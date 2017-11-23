@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   
+  <Rainstorm.label>特大暴雨</Rainstorm.label>
+  <Rainstorm.description>The lightning will start fires but the rain will put it out. The rain also reduces movement speed and shooting accuracy.</Rainstorm.description>
+
+  <FoggyRain.label>Foggy Rain</FoggyRain.label>
+  <FoggyRain.description>Reduces accuracy and movement speed.</FoggyRain.description>
+
+ 
+  <Blizzard.label>暴雪</Blizzard.label>
+  <Blizzard.description>A blizzard is a severe snowstorm characterized by strong sustained winds. It will last for a prolonged period of time.</Blizzard.description>
+
+   
+  <Fallout.label>辐射尘</Fallout.label>
+  <Fallout.description>A small nuclear fallout.</Fallout.description>
+
+  <Whiteout.label>雪茫</Whiteout.label>
+  <Whiteout.description>A whiteout is taking place so visibilty is severely reduced. Due to the snow, the use of ranged weapons is a very poor choice.</Whiteout.description>
+
+  <Hurricane.label>台风</Hurricane.label>
+  <Hurricane.description>Extreme wind and a thick layer of clouds ravages the land. This renders ranged weapons nearly useless. Staying outside of shelter is nearly impossible.</Hurricane.description>
+
+  <NuclearWinter.label>核冬天</NuclearWinter.label>
+  <NuclearWinter.description>Nuclear winter is the severe global-climatic-cooling-effect.</NuclearWinter.description>
+
+
+  <!--[Core] <Clear.label>晴</Clear.label>-->
+  <!--[Core] <Clear.description>天气晴朗，没有任何惩罚或者加成。</Clear.description>-->
+  <!--[Core] <Fog.label>雾</Fog.label>-->
+  <!--[Core] <Fog.description>雾会降低远程武器的命中率。</Fog.description>-->
+  <!--[Core] <Rain.label>雨</Rain.label>-->
+  <!--[Core] <Rain.description>雨会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。</Rain.description>-->
+  <!--[Core] <DryThunderstorm.label>旱天雷</DryThunderstorm.label>-->
+  <!--[Core] <DryThunderstorm.description>旱天雷很危险，因为闪电会引发火灾，同时又没有扑灭火焰的雨水。</DryThunderstorm.description>-->
+  <!--[Core] <RainyThunderstorm.label>暴风雨</RainyThunderstorm.label>-->
+  <!--[Core] <RainyThunderstorm.description>闪电会引发火灾，但是雨水会把火扑灭。同时大雨会降低移动速度和远程武器的命中率。</RainyThunderstorm.description>-->
+  <!--[Core] <FoggyRain.label>雾雨</FoggyRain.label>-->
+  <!--[Core] <FoggyRain.description>大雾和大雨会降低远程武器的命中率和移动速度。</FoggyRain.description>-->
+  <!--[Core] <SnowHard.label>大雪</SnowHard.label>-->
+  <!--[Core] <SnowHard.description>大雪会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。</SnowHard.description>-->
+  <!--[Core] <SnowGentle.label>小雪</SnowGentle.label>-->
+  <!--[Core] <SnowGentle.description>小雪会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。</SnowGentle.description>-->
+
+</LanguageData>

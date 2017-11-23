@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IntestinalFailure.label>肠衰竭</IntestinalFailure.label>
+  <IntestinalFailure.stages.2.label>濒死</IntestinalFailure.stages.2.label>
+
+  <LiverFailure.label>急性肝功能衰竭</LiverFailure.label>
+  <LiverFailure.stages.1.label>濒死</LiverFailure.stages.1.label>
+
+  <KidneyFailure.label>急性肾功能衰竭</KidneyFailure.label>
+  <KidneyFailure.stages.1.label>濒死</KidneyFailure.stages.1.label>
+
+  <ClinicalDeathNoHeartbeat.label>没有脉搏</ClinicalDeathNoHeartbeat.label>
+  <ClinicalDeathNoHeartbeat.stages.1.label>临床死亡</ClinicalDeathNoHeartbeat.stages.1.label>
+
+  <ClinicalDeathAsphyxiation.label>缺氧</ClinicalDeathAsphyxiation.label>
+  <ClinicalDeathAsphyxiation.stages.1.label>临床死亡</ClinicalDeathAsphyxiation.stages.1.label>
+
+  <Coma.label>昏迷</Coma.label>
+  <BrainDamage.label>脑损伤</BrainDamage.label>
+  <VegetativeState.label>植物人</VegetativeState.label>
+
+
+</LanguageData>

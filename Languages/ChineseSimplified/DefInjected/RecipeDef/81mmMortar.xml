@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  
+  <MakeAmmo_81mmMortarShell_Incendiary.label>制造 81mm迫击炮 燃烧炮弹 x1</MakeAmmo_81mmMortarShell_Incendiary.label>
+  <MakeAmmo_81mmMortarShell_Incendiary.description>Craft 81mm incendiary mortar shells.</MakeAmmo_81mmMortarShell_Incendiary.description>
+  <MakeAmmo_81mmMortarShell_Incendiary.jobString>Making 81mm incendiary mortar shells.</MakeAmmo_81mmMortarShell_Incendiary.jobString>
+
+  <MakeAmmo_81mmMortarShell_EMP.label>制造 81mm迫击炮 EMP炮弹 x1</MakeAmmo_81mmMortarShell_EMP.label>
+  <MakeAmmo_81mmMortarShell_EMP.description>Craft 81mm EMP mortar shells.</MakeAmmo_81mmMortarShell_EMP.description>
+  <MakeAmmo_81mmMortarShell_EMP.jobString>Making 81mm EMP mortar shells.</MakeAmmo_81mmMortarShell_EMP.jobString>
+
+
+  <!--[Core] <MakeMortarShell.label>制作迫击炮炮弹</MakeMortarShell.label>-->
+  <!--[Core] <MakeMortarShell.description>手工制作迫击炮炮弹。</MakeMortarShell.description>-->
+  <!--[Core] <MakeMortarShell.jobString>制作制作迫击炮炮弹。</MakeMortarShell.jobString>-->
+
+</LanguageData>

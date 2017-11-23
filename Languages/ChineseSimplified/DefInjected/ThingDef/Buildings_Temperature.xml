@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   
+  <Building_Heater.label>烤炉</Building_Heater.label>
+  <Building_Heater.description>A stove that produces heat by burning basic fuel sources. Can be fueled by kindling, coal, charcoal, peat and wooden stuff.</Building_Heater.description>
+  <Building_Heater_Blueprint.label>烤炉 (蓝图)</Building_Heater_Blueprint.label>
+  <Building_Heater_Frame.label>烤炉 (建造中)</Building_Heater_Frame.label>
+  <Building_Heater_Frame.description>A stove that produces heat by burning basic fuel sources. Can be fueled by kindling, coal, charcoal, peat and wooden stuff.</Building_Heater_Frame.description>
+
+  <EHeatedFloor.label>电加热地板</EHeatedFloor.label>
+  <EHeatedFloor.description>Heated flooring tiles that utilize conductive wires and convection heating to warm a room.</EHeatedFloor.description>
+  <EHeatedFloor_Blueprint.label>电加热地板 (蓝图)</EHeatedFloor_Blueprint.label>
+  <EHeatedFloor_Frame.label>电加热地板 (建造中)</EHeatedFloor_Frame.label>
+  <EHeatedFloor_Frame.description>Heated flooring tiles that utilize conductive wires and convection heating to warm a room.</EHeatedFloor_Frame.description>
+
+  
+  <ColdstoneBattery.label>冰石制冷器</ColdstoneBattery.label>
+  <ColdstoneBattery.description>A tank built to cool a medium-sized room to below freezing. Requires coldstone as fuel. Able to support a roof.</ColdstoneBattery.description>
+  <ColdstoneBattery_Blueprint.label>冰石制冷器 (蓝图)</ColdstoneBattery_Blueprint.label>
+  <ColdstoneBattery_Frame.label>冰石制冷器 (建造中)</ColdstoneBattery_Frame.label>
+  <ColdstoneBattery_Frame.description>A tank built to cool a medium-sized room to below freezing. Requires coldstone as fuel. Able to support a roof.</ColdstoneBattery_Frame.description>
+
+  <TemperatureGauge.label>温度计</TemperatureGauge.label>
+  <TemperatureGauge.description>Displays the current ambient temperature and can be configured to provide temperature based alerts. Does not require power.</TemperatureGauge.description>
+  <TemperatureGauge_Blueprint.label>温度计 (蓝图)</TemperatureGauge_Blueprint.label>
+  <TemperatureGauge_Blueprint_Install.label>温度计 (蓝图)</TemperatureGauge_Blueprint_Install.label>
+  <TemperatureGauge_Frame.label>温度计 (建造中)</TemperatureGauge_Frame.label>
+  <TemperatureGauge_Frame.description>Displays the current ambient temperature and can be configured to provide temperature based alerts. Does not require power.</TemperatureGauge_Frame.description>
+
+   
+  <GH.label>地热加热器</GH.label>
+  <GH.description>A industrial geothermal heater that collects and controls the heat from a steam geyser. It is self-balanced and can heat up a large indoor area to a comfortable temperature.</GH.description>
+  <GH_Blueprint.label>地热加热器 (蓝图)</GH_Blueprint.label>
+  <GH_Frame.label>地热加热器 (建造中)</GH_Frame.label>
+  <GH_Frame.description>A industrial geothermal heater that collects and controls the heat from a steam geyser. It is self-balanced and can heat up a large indoor area to a comfortable temperature.</GH_Frame.description>
+
+   
+  <MiningHelmetGlower.label>矿盔灯</MiningHelmetGlower.label>
+  <MiningHelmetGlower.description>Mining helmet light.</MiningHelmetGlower.description>
+
+
+  <!--[Core] <Campfire.label>篝火</Campfire.label>-->
+  <!--[Core] <Campfire.description>烹饪食物并产生热量。数天后烧尽。和其他热源一样，必须放置在室内封闭空间才能取暖。可以补充燃料。</Campfire.description>-->
+  <!--[Core] <Campfire_Blueprint.label>篝火（蓝图）</Campfire_Blueprint.label>-->
+  <!--[Core] <Campfire_Frame.label>篝火（建造中）</Campfire_Frame.label>-->
+  <!--[Core] <Campfire_Frame.description>烹饪食物并产生热量。数天后烧尽。和其他热源一样，必须放置在室内封闭空间才能取暖。可以补充燃料。</Campfire_Frame.description>-->
+  <!--[Core] <PassiveCooler.label>蒸发制冷器</PassiveCooler.label>-->
+  <!--[Core] <PassiveCooler.description>一个传统的制冷器，不需要通电即可运行。通过水蒸发来降温，数天后水分耗尽时会自动消失。</PassiveCooler.description>-->
+  <!--[Core] <PassiveCooler_Blueprint.label>蒸发制冷器（蓝图）</PassiveCooler_Blueprint.label>-->
+  <!--[Core] <PassiveCooler_Frame.label>蒸发制冷器（建造中）</PassiveCooler_Frame.label>-->
+  <!--[Core] <PassiveCooler_Frame.description>一个传统的制冷器，不需要通电即可运行。通过水蒸发来降温，数天后水分耗尽时会自动消失。</PassiveCooler_Frame.description>-->
+  <!--[Core] <Heater.label>加热器</Heater.label>-->
+  <!--[Core] <Heater.description>一个将电能转换成热能的电器设备。它会自动根据当前室内温度开关以达到设定的目标温度。</Heater.description>-->
+  <!--[Core] <Heater_Blueprint.label>加热器（蓝图）</Heater_Blueprint.label>-->
+  <!--[Core] <Heater_Frame.label>加热器（建造中）</Heater_Frame.label>-->
+  <!--[Core] <Heater_Frame.description>一个将电能转换成热能的电器设备。它会自动根据当前室内温度开关以达到设定的目标温度。</Heater_Frame.description>-->
+  <!--[Core] <Cooler.label>制冷机</Cooler.label>-->
+  <!--[Core] <Cooler.description>一个能够作为墙体安装的电器设备，可将冷空气吹入房间内，同时外机部分产生大量热量。可以在夏季为房间降温，或者用其建造一个冷库。</Cooler.description>-->
+  <!--[Core] <Cooler_Blueprint.label>制冷机（蓝图）</Cooler_Blueprint.label>-->
+  <!--[Core] <Cooler_Frame.label>制冷机（建造中）</Cooler_Frame.label>-->
+  <!--[Core] <Cooler_Frame.description>一个能够作为墙体安装的电器设备，可将冷空气吹入房间内，同时外机部分产生大量热量。可以在夏季为房间降温，或者用其建造一个冷库。</Cooler_Frame.description>-->
+  <!--[Core] <Vent.label>通风孔</Vent.label>-->
+  <!--[Core] <Vent.description>一个简单的通风孔，在平衡两个房间的温度同时保持墙体无法通过。</Vent.description>-->
+  <!--[Core] <Vent_Blueprint.label>通风孔（蓝图）</Vent_Blueprint.label>-->
+  <!--[Core] <Vent_Frame.label>通风孔（建造中）</Vent_Frame.label>-->
+  <!--[Core] <Vent_Frame.description>一个简单的通风孔，在平衡两个房间的温度同时保持墙体无法通过。</Vent_Frame.description>-->
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   
+  <PlantFlax.label>亚麻</PlantFlax.label>
+  <PlantFlax.description>A flower thats fibers are use to spin into cloth.</PlantFlax.description>
+
+   
+   
+  <Plantsugarcane.label>甘蔗</Plantsugarcane.label>
+  <Plantsugarcane.description>Sugarcane Plants produce a type of long grass stalk called Sugarcane. The grass stalks are rich in sucrose, which can be milled from the Butcher Table to produce Sugar.</Plantsugarcane.description>
+
+  <Plantbamboo.label>竹子</Plantbamboo.label>
+  <Plantbamboo.description>Bamboo Stalks produce Bamboo. Bamboo is a fast growing grass that functions as a wood alternative.</Plantbamboo.description>
+
+  <Plantoats.label>燕麦</Plantoats.label>
+  <Plantoats.description>Oat Grass is a cereal grain that produces Oats. Oats are useful as animal feed or can be cooked into food.</Plantoats.description>
+
+  <Plantwheat.label>小麦</Plantwheat.label>
+  <Plantwheat.description>Wheat Grass is a cereal grain that produces Wheat. Wheat can be milled from the Butcher Table into Flour, which can be baked into Bread Leaves from the Electric Oven.</Plantwheat.description>
+
+   
+  <PlantTobacco.label>烟叶</PlantTobacco.label>
+  <PlantTobacco.description>Tobacco Plants are a green, leafy member of the nightshade family. Unlike other nightshade plants that produce fruits, Tobacco Plants are grown for their Tobacco Leaves. These leaves are rolled from the Tobacco Rolling Bench and smoked as an addictive drug.</PlantTobacco.description>
+
+  <PlantCoffee.label>咖啡</PlantCoffee.label>
+  <PlantCoffee.description>Coffee Plants are green, leafy plants that produce red cherries. Coffee Beans are inside of the cherries, and when the Coffee Beans are ground they are can be brewed into a tasty beverage called Coffee from the Coffee Machine.</PlantCoffee.description>
+
+  <PlantTea.label>茶</PlantTea.label>
+  <PlantTea.description>Tea Shrubs produce aromatic Tea Leaves. When these leaves are brewed with hot water they make a tasty beverage from the Coffee Machine called Tea.</PlantTea.description>
+
+  <PlantHeveaTree.label>橡胶树</PlantHeveaTree.label>
+  <PlantHeveaTree.description>Hevea Trees produce a natural latex, rubber-like sap called Caoutchouc. Caoutchouc can be refined in the Petrochemical Plant through a progress known as vulcanization to create Rubber.</PlantHeveaTree.description>
+
+
+  <!--[Core] <PlantCotton.label>棉花</PlantCotton.label>-->
+  <!--[Core] <PlantCotton.description>产出棉花。一种用于制衣的良好植物纤维。</PlantCotton.description>-->
+  <!--[Core] <PlantDevilstrand.label>恶魔菇</PlantDevilstrand.label>-->
+  <!--[Core] <PlantDevilstrand.description>这种经过基因工程改造的脆弱蘑菇能够产出最高级的丝质纤维。据传这种蘑菇拥有非常神秘的特性，它的名称源自它在人群中所激发出的贪欲。</PlantDevilstrand.description>-->
+  <!--[Core] <PlantHops.label>啤酒花</PlantHops.label>-->
+  <!--[Core] <PlantHops.description>又名蛇麻草，一种开花植物，产出啤酒花，啤酒原料的必需品。</PlantHops.description>-->
+  <!--[Core] <PlantSmokeleaf.label>大麻</PlantSmokeleaf.label>-->
+  <!--[Core] <PlantSmokeleaf.description>一种多叶植物，大麻叶可以在手工加工点处被制成大麻烟。</PlantSmokeleaf.description>-->
+  <!--[Core] <PlantPsychoid.label>精神叶</PlantPsychoid.label>-->
+  <!--[Core] <PlantPsychoid.description>一种多叶植物，叶子可以被精炼制成多种精神药物。</PlantPsychoid.description>-->
+
+</LanguageData>

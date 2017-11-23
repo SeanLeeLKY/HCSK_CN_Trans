@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <bread.label>面包</bread.label>
+  <bread.description>A freshly baked loaf of bread.</bread.description>
+
+  <Cheese.label>芝士</Cheese.label>
+  <Cheese.description>A block of cheese.</Cheese.description>
+
+  <CheeseBurger.label>芝士汉堡</CheeseBurger.label>
+  <CheeseBurger.description>Two slices of bread with grilled meat and cheese melt. \n\nFood Effects: Metabolism.</CheeseBurger.description>
+
+  <GrilledCheese.label>芝士三明治</GrilledCheese.label>
+  <GrilledCheese.description>Two slices of bread grilled with cheese melt in the middle. \n\nFood Effects: Metabolism.</GrilledCheese.description>
+
+  <Pizza.label>披萨</Pizza.label>
+  <Pizza.description>Pizza in 30 minutes or less! \n\nFood Effects: Consciousness and Metabolism.</Pizza.description>
+
+  <Taffy.label>太妃糖</Taffy.label>
+  <Taffy.description>A sweet, chewy candy.</Taffy.description>
+
+  <cookie.label>小甜饼</cookie.label>
+  <cookie.description>Freshly baked cookies!</cookie.description>
+
+  <PieBlueberry.label>蓝莓派</PieBlueberry.label>
+  <PieBlueberry.description>A delicious berry pie.</PieBlueberry.description>
+
+  <PiePumpkin.label>南瓜派</PiePumpkin.label>
+  <PiePumpkin.description>A slice of pumpkin pie.</PiePumpkin.description>
+
+  <SweetBun.label>甜面包</SweetBun.label>
+  <SweetBun.description>A sweet roll covered in sugary icing. \n\nFood Effects: Consciousness and Moving.</SweetBun.description>
+
+  <Cornbread.label>玉米面包</Cornbread.label>
+  <Cornbread.description>A very simple baked loaf of bread made from corn meal. </Cornbread.description>
+
+  <Cornbreadmuffin.label>玉米松饼</Cornbreadmuffin.label>
+  <Cornbreadmuffin.description>A very simple baked muffin made from corn meal. </Cornbreadmuffin.description>
+
+
+</LanguageData>

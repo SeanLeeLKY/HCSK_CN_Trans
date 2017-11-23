@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PILA -->
+
+   
+
+  <!-- SCORPION -->
+
+  <Norbal_Scorpion.label>蝎弩</Norbal_Scorpion.label>
+  <Norbal_Scorpion.description>Fearsome crossbow. Deadly but slow.</Norbal_Scorpion.description>
+
+
+  <!-- ARBALEST -->
+
+  <Arbalest.label>劲弩</Arbalest.label>
+  <Arbalest.description>A large crossbow with a special mechanism for drawing back and releasing the string.</Arbalest.description>
+
+
+  <!-- CROSSBOW -->
+
+  <Crossbow.label>弩</Crossbow.label>
+  <Crossbow.description>A weapon consisting of a bow fixed crosswise on a wooden stock.</Crossbow.description>
+
+
+  <!-- RECURVE BOW -->
+
+  <RecurveBow.label>反曲弓</RecurveBow.label>
+  <RecurveBow.description>A recurve bow stores more energy and delivers energy more efficiently than the equivalent straight-limbed bow.</RecurveBow.description>
+
+
+  <!-- SCYTHIAN BOW -->
+
+  <NorbalBow_Grape.label>斯基泰弓 </NorbalBow_Grape.label>
+  <NorbalBow_Grape.description>A powerful scythian bow. Fires a heavy arrow long distances.</NorbalBow_Grape.description>
+
+
+  <!-- BLOWGUN -->
+
+  <blowgun.label>吹箭筒</blowgun.label>
+  <blowgun.description>A blowgun with a set of poison darts.</blowgun.description>
+
+
+  <!--[Core] <Pila.label>投矛</Pila.label>-->
+  <!--[Core] <Pila.description>一捆投矛，投掷出去后就无法重新回收使用。</Pila.description>-->
+
+</LanguageData>

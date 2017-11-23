@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef ParentName="PlantDef">
+    <defName>PlantAgave</defName>
+    <label>Agave Plant</label>
+    <description>Agave Plants are wild, large-leafed desert flowers and the stalks grow into edible Agave Fruits.</description>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/Agave</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+      <shadowData>
+        <volume>(0.2, 0.6, 0.2)</volume>
+      </shadowData>
+    </graphicData>
+    <plant>
+      <sowMinSkill>2</sowMinSkill>
+      <sowResearchPrerequisites>
+        <li>SK_FruitsI</li>
+      </sowResearchPrerequisites>
+      <sowTags>
+        <li>Ground</li>
+        <li>Hydroponic</li>
+      </sowTags>
+      <harvestedThingDef>RawAgave</harvestedThingDef>
+      <harvestYield>6</harvestYield>
+      <fertilityMin>0.3</fertilityMin>
+      <wildCommonalityMaxFraction>3.0</wildCommonalityMaxFraction>
+      <visualSizeRange>
+        <min>0.7</min>
+        <max>1.1</max>
+      </visualSizeRange>
+      <growDays>5.1</growDays>
+      <topWindExposure>0.3</topWindExposure>
+      <fertilityMin>0.2</fertilityMin>
+      <fertilitySensitivity>1</fertilitySensitivity>
+    </plant>
+  </ThingDef> -->
+
+  
+  <Plantblueberry.label>蓝莓</Plantblueberry.label>
+  <Plantblueberry.description>Blueberry bushes produce tiny, round, blue colored fruits called blueberries. Blueberries are tasty when eaten raw.</Plantblueberry.description>
+
+  <Plantcloudberry.label>云莓</Plantcloudberry.label>
+  <Plantcloudberry.description>Cloudberry bushes produce sweet, amber-coloured, raspberry-shaped fruits called cloudberries. Cloudberry bushes are capable of growing well in cold climates.</Plantcloudberry.description>
+
+  <Plantgooseberry.label>醋栗</Plantgooseberry.label>
+  <Plantgooseberry.description>Gooseberry bush produce small, sweet, somewhat hairy fruits called Gooseberries. Gooseberry bushes can grow in cold climates.</Plantgooseberry.description>
+
+  <Plantcocoa.label>可可树</Plantcocoa.label>
+  <Plantcocoa.description>Cocoa Trees produce seeds in pods that are called Cocoa Beans. Cocoa Beans can be refined into chocolate.</Plantcocoa.description>
+
+  <PlantAppletree.label>苹果树</PlantAppletree.label>
+  <PlantAppletree.description>Apple Trees produce round, palm-sized, red fruits called Apples. The Apple Tree will remain after harvesting and will start another cycle of Apple production.</PlantAppletree.description>
+
+  <PlantBananaTree.label>香蕉树</PlantBananaTree.label>
+  <PlantBananaTree.description>Banana Trees produce long, yellow fruits called Bananas, which eventually soften into a sweet delight. The Banana Tree will remain after harvesting and will start another cycle of Banana production.</PlantBananaTree.description>
+
+  <PlantorangeTree.label>橘子树</PlantorangeTree.label>
+  <PlantorangeTree.description>Orange Trees produce sweet, citric fruits called Oranges. The Orange Tree will remain after harvesting and will start another cycle of Orange production.</PlantorangeTree.description>
+
+  <PlantPeachTree.label>桃树</PlantPeachTree.label>
+  <PlantPeachTree.description>Peach trees produce soft, fuzzy, sweet fruits called peaches. The peach tree will remain after harvesting and will start another cycle of peach production.</PlantPeachTree.description>
+
+  <Plantgrape.label>葡萄藤</Plantgrape.label>
+  <Plantgrape.description>Grape vines produce small, sweet berries that grow in clusters on a single branch. These fruits are called grapes.</Plantgrape.description>
+
+
+  <!--[Core] <PlantRaspberry.label>野山莓</PlantRaspberry.label>-->
+  <!--[Core] <PlantRaspberry.description>长有好吃的红色浆果的灌木。</PlantRaspberry.description>-->
+  <!--[Core] <PlantStrawberry.label>草莓</PlantStrawberry.label>-->
+  <!--[Core] <PlantStrawberry.description>一种脆弱，但是非常好吃的水果。就算生吃也很可口。</PlantStrawberry.description>-->
+
+</LanguageData>

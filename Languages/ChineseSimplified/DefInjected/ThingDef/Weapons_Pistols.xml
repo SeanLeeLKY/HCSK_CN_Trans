@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SIG P226 -->
+
+  <Gun_P226Gun.label>西格绍尔 P226 手枪</Gun_P226Gun.label>
+  <Gun_P226Gun.description>The SIG Sauer P226 is a full-sized, service-type pistol made by SIG Sauer. The SIG Sauer P226 and its variants are in service with numerous law enforcement and military organizations worldwide. Low damage, high rate of fire and good accuracy.</Gun_P226Gun.description>
+
+
+  <!-- M95 DERRINGER -->
+
+  <RF_Gun_Deringer.label>M95雷明顿德林格手枪</RF_Gun_Deringer.label>
+  <RF_Gun_Deringer.description>A small decorated revolver. Accurate at short range only, moderately damaging with a short aim- and cooldown period.</RF_Gun_Deringer.description>
+
+
+  <!-- SPHINX AT 2000 -->
+
+  <RF_Gun_AT2K.label>巨象 AT 2000 手枪</RF_Gun_AT2K.label>
+  <RF_Gun_AT2K.description>A high quality and highly durable handgun, used by elite forces and sports shooters. Great accuracy, moderate damage and a tad slow.</RF_Gun_AT2K.description>
+
+
+  <!-- BERETTA 93R -->
+
+  <RF_Gun_93R.label>贝瑞塔 93R 手枪</RF_Gun_93R.label>
+  <RF_Gun_93R.description>A nice-looking machinepistol with a very fast burstfire mode, low stopping power and hits up to pistol range.</RF_Gun_93R.description>
+
+
+  <!-- VEKTOR CP1 -->
+
+  <RF_Gun_VektorCP.label>维克多 CP1 手枪</RF_Gun_VektorCP.label>
+  <RF_Gun_VektorCP.description>An ergonomical handgun with a drastically non-rectangular design. Good accuracy and low recoil, but weak and with a slightly lower range.</RF_Gun_VektorCP.description>
+
+
+  <!-- P14-45 -->
+
+  <RF_Gun_ParaOrdnancePFourteenFortyfive.label>帕拉 P14-45 手枪</RF_Gun_ParaOrdnancePFourteenFortyfive.label>
+  <RF_Gun_ParaOrdnancePFourteenFortyfive.description>A counterfeit ancient 45 ACP handgun with slightly improved internal mechanisms and plastic frame. High accuracy and above average range, average fire rate and damage.</RF_Gun_ParaOrdnancePFourteenFortyfive.description>
+
+
+  <!-- DESERT EAGLE -->
+
+  <Gun_DesertEagle.label>沙漠之鹰 .50 AE 手枪</Gun_DesertEagle.label>
+  <Gun_DesertEagle.description>The legendary desert eagle .50 AE. Marines favorite toy.</Gun_DesertEagle.description>
+
+
+  <!-- 44 MAGNUM -->
+
+  <Gun_Magnum.label>.44 雷明顿马格南手枪</Gun_Magnum.label>
+  <Gun_Magnum.description>The .44 Magnum is based on a lengthened .44 Special case, loaded to higher pressures for greater velocity (and thus, energy).</Gun_Magnum.description>
+
+
+</LanguageData>

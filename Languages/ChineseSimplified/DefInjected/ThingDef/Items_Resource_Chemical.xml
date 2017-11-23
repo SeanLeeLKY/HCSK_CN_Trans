@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chemical SK -->
+
+  <CrudeOil.label>原油</CrudeOil.label>
+  <CrudeOil.description>Crude Oil is extracted from an Oil Fissure through use of an Oil Extractor. It can be refined at a Petrochemical Plant to produce Polymers, Paraffins, Sulfur, Synthetic Ammonia and Fuel Oil.</CrudeOil.description>
+
+  <Polymers.label>聚合物</Polymers.label>
+  <Polymers.description>Polymers are a product of refined Crude Oil. It is a useful raw material used in creation of Plastic, Rubber, Synthetic Fibers and Carbon at a Petrochemical Plant.</Polymers.description>
+
+  <Plastic.label>塑料</Plastic.label>
+  <Plastic.description>Plastic is a useful raw material for building construction or item production or weapons.</Plastic.description>
+  <Plastic.stuffProps.stuffAdjective>Plastic</Plastic.stuffProps.stuffAdjective>
+
+  <Rubber.label>合成橡胶</Rubber.label>
+  <Rubber.description>Rubber is useful for a variety of things such as duct pipes, pumps or as a building material supplement/additive.</Rubber.description>
+
+  <SyntheticFibers.label>人造纤维</SyntheticFibers.label>
+  <SyntheticFibers.description>Synthetic Fibers are artifical strands created from Polymers and Sulfur. They can be woven into Synthread Cloth at a Tailor's Workbench, or woven with Carbon into Carbon Fiber Alloy at a Chemical Laboratory.</SyntheticFibers.description>
+
+  <Carbon.label>碳</Carbon.label>
+  <Carbon.description>Carbon is a fiber-reinforced polymer that is an extremely strong and light. It can be reinforced further with Synthetic Fibers to create Carbon Fiber Alloy at a Chemical Laboratory.</Carbon.description>
+
+  <SyntheticAmmonia.label>合成氨</SyntheticAmmonia.label>
+  <SyntheticAmmonia.description>Synthetic Ammonia is a product of refined Crude Oil. It is useful for fertilizing soil or creating Impaction Charges.</SyntheticAmmonia.description>
+
+  <Paraffins.label>石蜡</Paraffins.label>
+  <Paraffins.description>Paraffins are a product of refined Crude Oil. It is useful in crafting medicines.</Paraffins.description>
+
+  <Sulfur.label>硫磺</Sulfur.label>
+  <Sulfur.description>Sulfur occurs naturally as the pure element - native sulfur and as sulfide and sulfate minerals. Sulfur can be obtained from refined Crude Oil at a Petrochemical Plant or from processing Iron Ore at an Ammo Crafting Table. It is useful for Gunpowder in crafting various types of turret ammo.</Sulfur.description>
+
+  <Sulphates.label>硫酸盐</Sulphates.label>
+  <Sulphates.description>Sulphates</Sulphates.description>
+
+
+</LanguageData>
