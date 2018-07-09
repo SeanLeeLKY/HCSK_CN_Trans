@@ -3,11 +3,13 @@
 
   <!-- Hares -->
 
-  <Hare.label>野兔</Hare.label>
+  <Hare.label>hare</Hare.label>
   <Hare.description>This small, solitary herbivore can swiftly hop away from danger.</Hare.description>
+  <Hare.tools.1.label>head</Hare.tools.1.label>
 
-  <Snowhare.label>雪兔</Snowhare.label>
+  <Snowhare.label>snow hare</Snowhare.label>
   <Snowhare.description>This hardy, animal survives the brutal winters of the north by burrowing through snow and finding prey underneath, or hibernating the worst months away.</Snowhare.description>
+  <Snowhare.tools.1.label>head</Snowhare.tools.1.label>
 
 
 </LanguageData>

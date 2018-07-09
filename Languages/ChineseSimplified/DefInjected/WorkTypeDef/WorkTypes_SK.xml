@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Hauling.label>搬运</Hauling.label>
+  <Hauling.label>Haul</Hauling.label>
   <Hauling.description>Carry things to where they need to be.</Hauling.description>
-  <Hauling.labelShort>搬运</Hauling.labelShort>
-  <Hauling.pawnLabel>搬运工</Hauling.pawnLabel>
-  <Hauling.gerundLabel>搬运</Hauling.gerundLabel>
-  <Hauling.verb>搬运</Hauling.verb>
+  <Hauling.labelShort>Haul</Hauling.labelShort>
+  <Hauling.pawnLabel>Hauler</Hauling.pawnLabel>
+  <Hauling.gerundLabel>Hauling</Hauling.gerundLabel>
+  <Hauling.verb>Haul</Hauling.verb>
 
 
 </LanguageData>

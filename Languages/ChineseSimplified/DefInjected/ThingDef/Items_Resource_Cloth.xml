@@ -3,15 +3,33 @@
 
   <!-- Fabric, leather, etc -->
 
- 
+  <Cloth.label>Cloth</Cloth.label>
+  <Cloth.description>Cloth is woven from the raw organic fibers of a Cotton Bush. These fibers are called Raw Cotton.</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>Cloth</Cloth.stuffProps.stuffAdjective>
 
-  <HempCloth.label>麻</HempCloth.label>
+  <WoolMegasloth.label>Megasloth wool</WoolMegasloth.label>
+  <WoolMegasloth.description>While somewhat coarse, Megasloth wool's long fibers make it very strong. It is very warm.</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>Megasloth wool</WoolMegasloth.stuffProps.stuffAdjective>
+
+  <WoolMuffalo.label>Muffalo Wool</WoolMuffalo.label>
+  <WoolMuffalo.description>Muffalo Wool is soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>Muffalo Wool</WoolMuffalo.stuffProps.stuffAdjective>
+
+  <WoolCamel.label>Dromedary Hair</WoolCamel.label>
+  <WoolCamel.description>Dromedary Hair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</WoolCamel.description>
+  <WoolCamel.stuffProps.stuffAdjective>Dromedary Hair</WoolCamel.stuffProps.stuffAdjective>
+
+  <WoolAlpaca.label>Alpaca Wool</WoolAlpaca.label>
+  <WoolAlpaca.description>This is the remarkably soft wool of an Alpaca. It is useful for clothing.</WoolAlpaca.description>
+  <WoolAlpaca.stuffProps.stuffAdjective>Alpaca Wool</WoolAlpaca.stuffProps.stuffAdjective>
+
+  <HempCloth.label>Hemp</HempCloth.label>
   <HempCloth.description>Hemp is a type of cloth woven from Weed. It is the same weed that people like to light up and smoke. Watch out for fire sources!</HempCloth.description>
-  <HempCloth.stuffProps.stuffAdjective>麻</HempCloth.stuffProps.stuffAdjective>
+  <HempCloth.stuffProps.stuffAdjective>Hemp</HempCloth.stuffProps.stuffAdjective>
 
-  <RamWool.label>羊毛</RamWool.label>
+  <RamWool.label>Ram Wool</RamWool.label>
   <RamWool.description>This is the exceptionally soft wool of a ram.</RamWool.description>
-  <RamWool.stuffProps.stuffAdjective>羊毛</RamWool.stuffProps.stuffAdjective>
+  <RamWool.stuffProps.stuffAdjective>Ram Wool</RamWool.stuffProps.stuffAdjective>
 
 
   <!-- Temporary removal until leather processing is ready
@@ -59,6 +77,7 @@
 				<MarketValue>1.5</MarketValue>
 				<BedRestEffectiveness>1.0</BedRestEffectiveness>
 				<ImmunityGainSpeedFactor>1.1</ImmunityGainSpeedFactor>
+				<Mass>1.0</Mass>
 			</statFactors>
 		</stuffProps>
 		<thingCategories>
@@ -71,55 +90,36 @@
 		</comps>
 	</ThingDef> -->
 
-  <Velour.label>丝绒</Velour.label>
+  <Velour.label>Velour</Velour.label>
   <Velour.description></Velour.description>
-  <Velour.stuffProps.stuffAdjective>丝绒</Velour.stuffProps.stuffAdjective>
+  <Velour.stuffProps.stuffAdjective>velour</Velour.stuffProps.stuffAdjective>
 
-  <Flaxcloth.label>亚麻</Flaxcloth.label>
+  <Flaxcloth.label>Linen Cloth</Flaxcloth.label>
   <Flaxcloth.description>A fabric designed for making clothes. It is soft, light, and strong.</Flaxcloth.description>
-  <Flaxcloth.stuffProps.stuffAdjective>亚麻</Flaxcloth.stuffProps.stuffAdjective>
+  <Flaxcloth.stuffProps.stuffAdjective>Linen Cloth</Flaxcloth.stuffProps.stuffAdjective>
 
   <DevilstrandCloth.label>Devilstrand Cloth</DevilstrandCloth.label>
   <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand Mushrooms. Very tough, but insulates no better than Cloth.</DevilstrandCloth.description>
   <DevilstrandCloth.stuffProps.stuffAdjective>Devilstrand Cloth</DevilstrandCloth.stuffProps.stuffAdjective>
 
- 
+  <Synthread.label>Synthread</Synthread.label>
+  <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>Synthread</Synthread.stuffProps.stuffAdjective>
 
-  <Kevlar.label>凯夫拉（芳纶）</Kevlar.label>
+  <Hyperweave.label>Hyperweave</Hyperweave.label>
+  <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced GlitterWorld cultures.</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>Hyperweave</Hyperweave.stuffProps.stuffAdjective>
+
+  <Kevlar.label>Kevlar</Kevlar.label>
   <Kevlar.description>Kevlar is a woven combination of plastic and synthetic fibers that is often used for combat-related protective armor.</Kevlar.description>
-  <Kevlar.stuffProps.stuffAdjective>凯夫拉</Kevlar.stuffProps.stuffAdjective>
+  <Kevlar.stuffProps.stuffAdjective>Kevlar</Kevlar.stuffProps.stuffAdjective>
 
-  <Chitin.label>甲壳</Chitin.label>
+  <Chitin.label>Chitin</Chitin.label>
   <Chitin.description>Chitin is a long-chain polymer. It can be obtained from the exoskeletons of insects or shelled creatures.</Chitin.description>
-  <Chitin.stuffProps.stuffAdjective>甲壳</Chitin.stuffProps.stuffAdjective>
+  <Chitin.stuffProps.stuffAdjective>Chitin</Chitin.stuffProps.stuffAdjective>
 
-  <Compaste.label>复合胶</Compaste.label>
+  <Compaste.label>Compound Paste</Compaste.label>
   <Compaste.description>A bottle of compound paste, used for various crafting processes. The label reads: "DO NOT DRINK! Avoid sticking your fingers on surfaces after use!".</Compaste.description>
 
-
-  <!--[Core] <Cloth.label>布</Cloth.label>-->
-  <!--[Core] <Cloth.description>由有机纤维织成的布。</Cloth.description>-->
-  <!--[Core] <Cloth.stuffProps.stuffAdjective>布</Cloth.stuffProps.stuffAdjective>-->
-  <!--[Core] <WoolMegasloth.label>巨懒毛</WoolMegasloth.label>-->
-  <!--[Core] <WoolMegasloth.description>虽然有点粗糙，巨型树懒毛的长纤维使其非常坚固，非常保暖。</WoolMegasloth.description>-->
-  <!--[Core] <WoolMegasloth.stuffProps.stuffAdjective>巨懒毛</WoolMegasloth.stuffProps.stuffAdjective>-->
-  <!--[Core] <WoolMuffalo.label>牦牛毛</WoolMuffalo.label>-->
-  <!--[Core] <WoolMuffalo.description>柔软、轻盈，并有很好的隔温性。即使在极端条件下，牦牛毛衣服也可以保持身体温暖。</WoolMuffalo.description>-->
-  <!--[Core] <WoolMuffalo.stuffProps.stuffAdjective>牦牛毛</WoolMuffalo.stuffProps.stuffAdjective>-->
-  <!--[Core] <WoolCamel.label>骆驼毛</WoolCamel.label>-->
-  <!--[Core] <WoolCamel.description>骆驼毛服装通常被沙漠旅行者穿戴以抵御炎热。由于它的恒温特性，它提供了良好的隔温性。</WoolCamel.description>-->
-  <!--[Core] <WoolCamel.stuffProps.stuffAdjective>骆驼毛</WoolCamel.stuffProps.stuffAdjective>-->
-  <!--[Core] <WoolAlpaca.label>羊驼毛</WoolAlpaca.label>-->
-  <!--[Core] <WoolAlpaca.description>非常柔软的羊驼毛。非常保暖。</WoolAlpaca.description>-->
-  <!--[Core] <WoolAlpaca.stuffProps.stuffAdjective>羊驼毛</WoolAlpaca.stuffProps.stuffAdjective>-->
-  <!--[Core] <DevilstrandCloth.label>魔菇布</DevilstrandCloth.label>-->
-  <!--[Core] <DevilstrandCloth.description>从产丝的恶魔菇中提取的纤维所织成的布。非常坚固，但隔温性不如合成纤维。</DevilstrandCloth.description>-->
-  <!--[Core] <DevilstrandCloth.stuffProps.stuffAdjective>魔菇布</DevilstrandCloth.stuffProps.stuffAdjective>-->
-  <!--[Core] <Synthread.label>合成纤维</Synthread.label>-->
-  <!--[Core] <Synthread.description>太空时代的合成纤维，一般用于制作衣物。柔软、轻盈、坚固，并且有很好的隔温性。</Synthread.description>-->
-  <!--[Core] <Synthread.stuffProps.stuffAdjective>合成纤维</Synthread.stuffProps.stuffAdjective>-->
-  <!--[Core] <Hyperweave.label>超织物</Hyperweave.label>-->
-  <!--[Core] <Hyperweave.description>高科技纳米纤维织成的布。稍微有点重，但是几乎不可能破损。其生产技术只有最先进的闪耀世界才掌握。</Hyperweave.description>-->
-  <!--[Core] <Hyperweave.stuffProps.stuffAdjective>超织物</Hyperweave.stuffProps.stuffAdjective>-->
 
 </LanguageData>

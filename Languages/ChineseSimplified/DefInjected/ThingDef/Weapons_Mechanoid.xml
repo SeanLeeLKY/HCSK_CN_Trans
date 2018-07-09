@@ -3,38 +3,44 @@
 
   <!-- LIGHT BLASTER -->
 
-  <Gun_lightmechblaster.label>Mech. 轻型离子冲击枪</Gun_lightmechblaster.label>
+  <Gun_lightmechblaster.label>Mech. Light Blaster</Gun_lightmechblaster.label>
   <Gun_lightmechblaster.description>Mechanoid light blaster.</Gun_lightmechblaster.description>
+  <Gun_lightmechblaster.tools.0.label>barrel</Gun_lightmechblaster.tools.0.label>
 
 
   <!-- Mech. Heavy Charge Blaster -->
 
-   
+  <Gun_ChargeBlasterHeavy.label>Mech. Heavy Charge Blaster</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.description>Charged-shot blaster for area suppressive fire. Mechanoid-built.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.tools.0.label>barrel</Gun_ChargeBlasterHeavy.tools.0.label>
+
+
   <!-- LASER PULSER -->
 
-  <Gun_mechlaser.label>机械族激光脉冲发射器</Gun_mechlaser.label>
+  <Gun_mechlaser.label>Mechanoid Laser Pulser</Gun_mechlaser.label>
   <Gun_mechlaser.description>A mechanoid laser pulser.</Gun_mechlaser.description>
+  <Gun_mechlaser.tools.0.label>barrel</Gun_mechlaser.tools.0.label>
 
 
   <!-- HEAVY LASER PULSER -->
 
-  <Gun_mechheavylaser.label>Mech. 重型光束脉冲发射器</Gun_mechheavylaser.label>
+  <Gun_mechheavylaser.label>Mech. Heavy Laser Pulser</Gun_mechheavylaser.label>
   <Gun_mechheavylaser.description>Mechanoid heavy laser pulser.</Gun_mechheavylaser.description>
+  <Gun_mechheavylaser.tools.0.label>barrel</Gun_mechheavylaser.tools.0.label>
 
 
   <!-- ZEON BLASTER -->
 
-  <Gun_ZeonBlaster.label>Zeon 离子冲击枪</Gun_ZeonBlaster.label>
-  <Gun_ZeonBlaster.description>Mechanoid plasma gun.</Gun_ZeonBlaster.description>
+  <Gun_ZeonBlaster.label>Zeon Railgun</Gun_ZeonBlaster.label>
+  <Gun_ZeonBlaster.description>Mechanoid heavy railgun.</Gun_ZeonBlaster.description>
+  <Gun_ZeonBlaster.tools.0.label>barrel</Gun_ZeonBlaster.tools.0.label>
 
 
   <!-- Charged Diffuser -->
 
-  <Gun_MechPlasma.label>Mech. 电荷散射枪</Gun_MechPlasma.label>
+  <Gun_MechPlasma.label>Mech. charged diffuser</Gun_MechPlasma.label>
   <Gun_MechPlasma.description>Mechanoid-built charged diffuser.</Gun_MechPlasma.description>
+  <Gun_MechPlasma.tools.0.label>barrel</Gun_MechPlasma.tools.0.label>
 
-
-  <!--[Core] <Gun_ChargeBlasterHeavy.label>电荷冲击炮</Gun_ChargeBlasterHeavy.label>-->
-  <!--[Core] <Gun_ChargeBlasterHeavy.description>发射高能电荷冲击弹的范围压制性武器。由机械族制作。</Gun_ChargeBlasterHeavy.description>-->
 
 </LanguageData>

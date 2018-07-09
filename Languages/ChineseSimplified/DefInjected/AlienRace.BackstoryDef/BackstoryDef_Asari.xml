@@ -1,23 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿书呆子<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Childhood -->
 
   <Asari01ChildKnowledge.title>书呆子</Asari01ChildKnowledge.title>
-  <Asari02ChildFighter.title>战士</Asari02ChildFighter.title>
-  <Asari03ChildLeader.title>首领</Asari03ChildLeader.title>
+  <Asari01ChildKnowledge.baseDescription>NAME总是渴望获取更多更广的知识。这个习惯是在HE小时候就养成的, HE总是会读完HE得到HIS手上的每一本书。 </Asari01ChildKnowledge.baseDescription>
+
+  <Asari02ChildFighter.title>斗士</Asari02ChildFighter.title>
+  <Asari02ChildFighter.baseDescription>NAME从他年轻的时候开始, HE总是喜欢为别人挺身而出，从不退缩。</Asari02ChildFighter.baseDescription>
+
+  <Asari03ChildLeader.title>领导者</Asari03ChildLeader.title>
+  <Asari03ChildLeader.baseDescription>NAME一直是领导者。不管是在学校还是与朋友们，她总是做出决策的那个人，所有人都喜欢围绕在HIS身边。</Asari03ChildLeader.baseDescription>
+
   <Asari04ChildArtist.title>艺术家</Asari04ChildArtist.title>
+  <Asari04ChildArtist.baseDescription>由于在写写画画上运用了大量的时间，NAME这些年在艺术和手工方面积累了丰富的经验。</Asari04ChildArtist.baseDescription>
+
   <Asari05ChildShipKid.title>太空小子</Asari05ChildShipKid.title>
+  <Asari05ChildShipKid.baseDescription>NAME出生和成长在一艘飞船上，在行星之间旅行，从未在一个地方停留太久。因为船上没有同年龄的其他孩子，所以HE从小就表现得像个大人一样。</Asari05ChildShipKid.baseDescription>
 
 
   <!-- Adulthood -->
 
   <Asari01AdultCommando.title>突击队士兵</Asari01AdultCommando.title>
+  <Asari01AdultCommando.baseDescription>经过多年的严格训练, NAME终于作为一名突击队员加入了阿萨利舰队。</Asari01AdultCommando.baseDescription>
+
   <Asari02AdultScientist.title>舰队科学家</Asari02AdultScientist.title>
-  <Asari03AdultTactician.title>舰队参谋</Asari03AdultTactician.title>
+  <Asari02AdultScientist.baseDescription>技术水平在很大程度上决定了星际战争的走向, 所以NAME决定用HIS一生去提高阿萨利舰队的科技水平。</Asari02AdultScientist.baseDescription>
+
+  <Asari03AdultTactician.title>舰队战术官</Asari03AdultTactician.title>
+  <Asari03AdultTactician.baseDescription>NAME加入了阿萨里舰队作战分队。HE在服役过程中磨砺了自己的战术水平，将自己的战术水平发挥到极致，指挥部队的技能非常熟练。 </Asari03AdultTactician.baseDescription>
+
   <Asari04AdultBodyguard.title>保镖</Asari04AdultBodyguard.title>
+  <Asari04AdultBodyguard.baseDescription>NAME在阿萨利舰队中执行保卫工作,保护那些付钱给HIM的人远离伤害。 HECAP精通多种多样的作战方式,但是HIS令人闻风丧胆的名声来自于HIM对敌绝不留情。</Asari04AdultBodyguard.baseDescription>
+
   <Asari05AdultBodyguard.title>保镖</Asari05AdultBodyguard.title>
-  <Asari06AdultFieldMedic.title>医疗兵</Asari06AdultFieldMedic.title>
+  <Asari05AdultBodyguard.baseDescription>NAME在阿萨利舰队中执行保卫工作,保护那些付钱给HIM的人远离伤害。 HECAP精通多种多样的作战方式,但是HIS令人闻风丧胆的名声来自于HIM对敌绝不留情。</Asari05AdultBodyguard.baseDescription>
+
+  <Asari06AdultFieldMedic.title>野战医生</Asari06AdultFieldMedic.title>
+  <Asari06AdultFieldMedic.baseDescription>NAME以前是某个医院的医生。</Asari06AdultFieldMedic.baseDescription>
 
 
 </LanguageData>

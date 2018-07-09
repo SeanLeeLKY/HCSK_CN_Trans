@@ -3,32 +3,47 @@
 
   <!-- C1 ASCENSION -->
 
-  <Gun_PlasmaPistol.label>C1 晋升 离子手枪</Gun_PlasmaPistol.label>
+  <Gun_PlasmaPistol.label>C1 Ascension</Gun_PlasmaPistol.label>
   <Gun_PlasmaPistol.description>A highly accurate plasma pistol.</Gun_PlasmaPistol.description>
+  <Gun_PlasmaPistol.tools.0.label>grip</Gun_PlasmaPistol.tools.0.label>
+  <Gun_PlasmaPistol.tools.1.label>barrel</Gun_PlasmaPistol.tools.1.label>
+  <Gun_PlasmaPistol.tools.2.label>muzzle</Gun_PlasmaPistol.tools.2.label>
 
 
   <!-- C2 MOONSPELL -->
 
-  <Gun_PlasmaPrecision.label>C2 月咒 离子狙击步枪</Gun_PlasmaPrecision.label>
+  <Gun_PlasmaPrecision.label>C2 Moonspell</Gun_PlasmaPrecision.label>
   <Gun_PlasmaPrecision.description>A plasma sniper rifle, highly accurate but with a low rate of fire.</Gun_PlasmaPrecision.description>
+  <Gun_PlasmaPrecision.tools.0.label>stock</Gun_PlasmaPrecision.tools.0.label>
+  <Gun_PlasmaPrecision.tools.1.label>barrel</Gun_PlasmaPrecision.tools.1.label>
+  <Gun_PlasmaPrecision.tools.2.label>muzzle</Gun_PlasmaPrecision.tools.2.label>
 
 
   <!-- C3 CONJURER -->
 
-  <Gun_PlasmaCarbine.label>C3 巫师 离子步枪</Gun_PlasmaCarbine.label>
+  <Gun_PlasmaCarbine.label>C3 Conjurer</Gun_PlasmaCarbine.label>
   <Gun_PlasmaCarbine.description>A short range, lightweight plasma rifle.</Gun_PlasmaCarbine.description>
+  <Gun_PlasmaCarbine.tools.0.label>stock</Gun_PlasmaCarbine.tools.0.label>
+  <Gun_PlasmaCarbine.tools.1.label>barrel</Gun_PlasmaCarbine.tools.1.label>
+  <Gun_PlasmaCarbine.tools.2.label>muzzle</Gun_PlasmaCarbine.tools.2.label>
 
 
   <!-- C5 INCANTATOR -->
 
-  <Gun_PlasmaShotgun.label>C5 魔咒 离子霰弹枪</Gun_PlasmaShotgun.label>
+  <Gun_PlasmaShotgun.label>C5 Incantator</Gun_PlasmaShotgun.label>
   <Gun_PlasmaShotgun.description>Very rare plasma shotgun. Deals high damage at short range; less effective at long range. Effective against armor, shields and biotic barriers. It is of human design but is only used by krogan, due to the fact that the kickback from a single shot has enough force to break a human's arm. Protected by Fabrication Rights Management (FRM) technology, this weapon is nearly impossible to reproduce and is prohibitively expensive.</Gun_PlasmaShotgun.description>
+  <Gun_PlasmaShotgun.tools.0.label>stock</Gun_PlasmaShotgun.tools.0.label>
+  <Gun_PlasmaShotgun.tools.1.label>barrel</Gun_PlasmaShotgun.tools.1.label>
+  <Gun_PlasmaShotgun.tools.2.label>muzzle</Gun_PlasmaShotgun.tools.2.label>
 
 
   <!-- C7 STORMWIZARD -->
 
-  <Gun_PlasmaRifle.label>C7 暴雪 离子发射器</Gun_PlasmaRifle.label>
+  <Gun_PlasmaRifle.label>C7 StormWizard</Gun_PlasmaRifle.label>
   <Gun_PlasmaRifle.description>A Multi-Plasma Blaster, with good stopping power and range.</Gun_PlasmaRifle.description>
+  <Gun_PlasmaRifle.tools.0.label>stock</Gun_PlasmaRifle.tools.0.label>
+  <Gun_PlasmaRifle.tools.1.label>barrel</Gun_PlasmaRifle.tools.1.label>
+  <Gun_PlasmaRifle.tools.2.label>muzzle</Gun_PlasmaRifle.tools.2.label>
 
 
 </LanguageData>

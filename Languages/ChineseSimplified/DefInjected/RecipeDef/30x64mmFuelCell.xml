@@ -3,15 +3,15 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_30x64mmFuel_Incendiary.label>制造 30x64mm 燃料弹 (燃烧) x20</MakeAmmo_30x64mmFuel_Incendiary.label>
+  <MakeAmmo_30x64mmFuel_Incendiary.label>make 30x64mm fuel cell (Incendiary) x20</MakeAmmo_30x64mmFuel_Incendiary.label>
   <MakeAmmo_30x64mmFuel_Incendiary.description>Craft 20 30x64mm incendiary fuel cells.</MakeAmmo_30x64mmFuel_Incendiary.description>
   <MakeAmmo_30x64mmFuel_Incendiary.jobString>Making incendiary fuel cells.</MakeAmmo_30x64mmFuel_Incendiary.jobString>
 
-  <MakeAmmo_30x64mmFuel_Thermobaric.label>制造 30x64mm 燃料弹 (温压) x20</MakeAmmo_30x64mmFuel_Thermobaric.label>
+  <MakeAmmo_30x64mmFuel_Thermobaric.label>make 30x64mm fuel cell (Thermobaric) x20</MakeAmmo_30x64mmFuel_Thermobaric.label>
   <MakeAmmo_30x64mmFuel_Thermobaric.description>Craft 20 30x64mm thermobaric fuel cells.</MakeAmmo_30x64mmFuel_Thermobaric.description>
   <MakeAmmo_30x64mmFuel_Thermobaric.jobString>Making thermobaric fuel cells.</MakeAmmo_30x64mmFuel_Thermobaric.jobString>
 
-  <MakeAmmo_30x64mmFuel_Foam.label>制造 30x64mm 燃料弹 (泡沫) x20</MakeAmmo_30x64mmFuel_Foam.label>
+  <MakeAmmo_30x64mmFuel_Foam.label>make 30x64mm fuel cell (Foam) x20</MakeAmmo_30x64mmFuel_Foam.label>
   <MakeAmmo_30x64mmFuel_Foam.description>Craft 20 30x64mm foam fuel cells.</MakeAmmo_30x64mmFuel_Foam.description>
   <MakeAmmo_30x64mmFuel_Foam.jobString>Making foam fuel cells.</MakeAmmo_30x64mmFuel_Foam.jobString>
 

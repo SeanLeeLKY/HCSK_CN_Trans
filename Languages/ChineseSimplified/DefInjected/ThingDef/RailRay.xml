@@ -3,15 +3,13 @@
 
   <!-- Ammo -->
 
-  <Ammo_RailRay.label>充能射线</Ammo_RailRay.label>
+  <Ammo_RailRay.label>Charged Rail Ray</Ammo_RailRay.label>
   <Ammo_RailRay.description></Ammo_RailRay.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_ChargeLance.label>MH-1 电荷标枪弹</Bullet_ChargeLance.label>
+  <Bullet_ChargeLance.label>MH-1 Charge lance</Bullet_ChargeLance.label>
 
-
-  <!--[Core] <Bullet_ChargeLance.label>电荷标枪弹</Bullet_ChargeLance.label>-->
 
 </LanguageData>

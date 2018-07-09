@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Centipede -->
+
+  <Mechanoid_Centipede.label>机械蜈蚣</Mechanoid_Centipede.label>
+  <Mechanoid_Centipede.description>Centipedes are heavy combat Mechanoids that crawl on dozens of tiny legs. They resemble a massive, fat grub in appearance. Their heavy armor and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics.</Mechanoid_Centipede.description>
+  <Mechanoid_Centipede.tools.0.label>head</Mechanoid_Centipede.tools.0.label>
+
+
+  <!-- Scyther -->
+
+  <Mechanoid_Scyther.label>机械飞螳</Mechanoid_Scyther.label>
+  <Mechanoid_Scyther.description>Scythers are fast, spindly, armored human-sized combat Mechanoids. They usually carry one primary ranged weapon, and their bodies are adorned with two articulated blades to make them deadly in melee combat. They don't use cover. They are best handled by concentrated, overwhelming force.</Mechanoid_Scyther.description>
+  <Mechanoid_Scyther.tools.0.label>left blade</Mechanoid_Scyther.tools.0.label>
+  <Mechanoid_Scyther.tools.1.label>left blade</Mechanoid_Scyther.tools.1.label>
+  <Mechanoid_Scyther.tools.2.label>right blade</Mechanoid_Scyther.tools.2.label>
+  <Mechanoid_Scyther.tools.3.label>right blade</Mechanoid_Scyther.tools.3.label>
+  <Mechanoid_Scyther.tools.4.label>head</Mechanoid_Scyther.tools.4.label>
+
+
+  <!-- Stalker -->
+
+  <Mechanoid_Stalker.label>机械追踪者</Mechanoid_Stalker.label>
+  <Mechanoid_Stalker.description>Stalkers are agile, lanky, human-sized combat Mechanoids. They usually carry one primary ranged weapon, and their bodies are adorned with two articulated blades to make them deadly in melee combat. They don't use cover. Best handled by concentrated, overwhelming force.</Mechanoid_Stalker.description>
+  <Mechanoid_Stalker.tools.0.label>left blade</Mechanoid_Stalker.tools.0.label>
+  <Mechanoid_Stalker.tools.1.label>left blade</Mechanoid_Stalker.tools.1.label>
+  <Mechanoid_Stalker.tools.2.label>right blade</Mechanoid_Stalker.tools.2.label>
+  <Mechanoid_Stalker.tools.3.label>right blade</Mechanoid_Stalker.tools.3.label>
+  <Mechanoid_Stalker.tools.4.label>head</Mechanoid_Stalker.tools.4.label>
+
+
+  <!-- Crawler -->
+
+  <Mechanoid_Crawler.label>机械蜘蛛</Mechanoid_Crawler.label>
+  <Mechanoid_Crawler.description>Crawlers are small spider-like Mechanoids. While not particularly sturdy, their speed, size and numbers more than make up for it. A tiny plasma cutter at their front allows them to cut through metal like butter. Their favorite passtime is open surgery.</Mechanoid_Crawler.description>
+  <Mechanoid_Crawler.tools.0.label>left blade</Mechanoid_Crawler.tools.0.label>
+  <Mechanoid_Crawler.tools.1.label>left blade</Mechanoid_Crawler.tools.1.label>
+  <Mechanoid_Crawler.tools.2.label>right blade</Mechanoid_Crawler.tools.2.label>
+  <Mechanoid_Crawler.tools.3.label>right blade</Mechanoid_Crawler.tools.3.label>
+  <Mechanoid_Crawler.tools.4.label>head</Mechanoid_Crawler.tools.4.label>
+
+
+  <!-- 精神状态： -->
+
+</LanguageData>

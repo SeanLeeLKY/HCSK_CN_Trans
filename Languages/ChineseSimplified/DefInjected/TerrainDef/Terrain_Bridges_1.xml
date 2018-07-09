@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BridgeWaterDeep.label>深水</BridgeWaterDeep.label>
+  <BridgeWaterMovingDeep.label>流动的深水</BridgeWaterMovingDeep.label>
+  <BridgeWaterOceanDeep.label>深海</BridgeWaterOceanDeep.label>
+  <BridgeWaterShallow.label>浅水</BridgeWaterShallow.label>
+  <BridgeWaterMovingShallow.label>流动的浅水</BridgeWaterMovingShallow.label>
+  <BridgeWaterOceanShallow.label>浅海</BridgeWaterOceanShallow.label>
+  <BridgeMarsh.label>沼泽</BridgeMarsh.label>
+  <BridgeMud.label>泥地</BridgeMud.label>
+
+
+  <!-- <BridgeWaterDeep.label>deep water</BridgeWaterDeep.label>
+  <BridgeWaterMovingDeep.label>deep moving water</BridgeWaterMovingDeep.label>
+  <BridgeWaterOceanDeep.label>deep ocean water</BridgeWaterOceanDeep.label>
+  <BridgeWaterShallow.label>shallow water</BridgeWaterShallow.label>
+  <BridgeWaterMovingShallow.label>shallow moving water</BridgeWaterMovingShallow.label>
+  <BridgeWaterOceanShallow.label>shallow ocean water</BridgeWaterOceanShallow.label>
+  <BridgeMarsh.label>marsh</BridgeMarsh.label>
+  <BridgeMud.label>mud</BridgeMud.label> -->
+
+</LanguageData>

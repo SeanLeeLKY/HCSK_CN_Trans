@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Shocker.label>电击器</MeleeWeapon_Shocker.label>
+  <MeleeWeapon_Shocker.description>A melee shocker that can stun the victim.</MeleeWeapon_Shocker.description>
+  <MeleeWeapon_Shocker.tools.0.label>handle</MeleeWeapon_Shocker.tools.0.label>
+  <MeleeWeapon_Shocker.tools.1.label>point</MeleeWeapon_Shocker.tools.1.label>
+
+  <MeleeWeapon_ElectricBaton.label>电警棍</MeleeWeapon_ElectricBaton.label>
+  <MeleeWeapon_ElectricBaton.description>An electrified Melee Weapon, perfect for incapacitating.</MeleeWeapon_ElectricBaton.description>
+  <MeleeWeapon_ElectricBaton.tools.0.label>handle</MeleeWeapon_ElectricBaton.tools.0.label>
+  <MeleeWeapon_ElectricBaton.tools.1.label>point</MeleeWeapon_ElectricBaton.tools.1.label>
+
+
+</LanguageData>

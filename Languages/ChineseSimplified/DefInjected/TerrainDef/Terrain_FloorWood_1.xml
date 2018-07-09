@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wood Tile -->
+
+  <ClutterWoodTileA.label>暗色木地板</ClutterWoodTileA.label>
+  <ClutterWoodTileA.description>Dark wood panels with a dark border around each tile.
+Beauty: 2.</ClutterWoodTileA.description>
+
+  <WoodPlankFloor.label>oak planks</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Unfinished oak. Long horizontal planks with a light coloring.
+Beauty: 3.</WoodPlankFloor.description>
+
+  <WoodPlankFloor2.label>棕色木地板</WoodPlankFloor2.label>
+  <WoodPlankFloor2.description>Thin vertical brown planks. For that warm homey feeling.
+Beauty: 3.</WoodPlankFloor2.description>
+
+  <WoodPlankFloor3.label>亮色木地板</WoodPlankFloor3.label>
+  <WoodPlankFloor3.description>Staggered joint, light colored wood flooring in short, horizontal planks.
+Beauty: 3.</WoodPlankFloor3.description>
+
+  <WoodPlankFloor4.label>风格化木地板</WoodPlankFloor4.label>
+  <WoodPlankFloor4.description>Three small planks per tile that alternate from horizontal to vertical every other tile. Reddish brown in color.
+Beauty: 3.</WoodPlankFloor4.description>
+
+  <WoodPlankFloor5.label>褐色木地板</WoodPlankFloor5.label>
+  <WoodPlankFloor5.description>Vertical medium sized planks with staggered joints. Brown in color.
+Beauty: 4.</WoodPlankFloor5.description>
+
+  <WoodPlankFloor6.label>黄褐色木地板</WoodPlankFloor6.label>
+  <WoodPlankFloor6.description>Medium sized planks in a horizontal pattern with a tanned wood look.
+Beauty: 4.</WoodPlankFloor6.description>
+
+  <ParquetFloor.label>镶木地板</ParquetFloor.label>
+  <ParquetFloor.description>Herringbone flooring. Regal elegance for the sophisticated colonist. Takes some time to build. 
+Beauty: 3.</ParquetFloor.description>
+
+
+  <!--[Core] <WoodPlankFloor.label>木地板</WoodPlankFloor.label>-->
+  <!--[Core] <WoodPlankFloor.description>木板做的地面，给人一种温馨的感觉。易燃，虽然很容易铺设。</WoodPlankFloor.description>-->
+  <!--<WoodPlankFloor.label>oak planks</WoodPlankFloor.label>-->
+  <!--<WoodPlankFloor.description>Unfinished oak. Long horizontal planks with a light coloring.
+Beauty: 3.</WoodPlankFloor.description>-->
+  <!--[Core] <WoodPlankFloor.description>木板做的地面，给人一种温馨的感觉。</WoodPlankFloor.description>-->
+
+</LanguageData>

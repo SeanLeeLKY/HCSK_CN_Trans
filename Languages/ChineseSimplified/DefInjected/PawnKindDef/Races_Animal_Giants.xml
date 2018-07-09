@@ -3,85 +3,155 @@
 
   <!-- Giant -->
 
- 
+  <Elephant.label>Elephant</Elephant.label>
+  <Elephant.labelPlural>Elephants</Elephant.labelPlural>
+  <Elephant.lifeStages.0.label>elephant calf</Elephant.lifeStages.0.label>
+  <Elephant.lifeStages.0.labelPlural>elephant calfs</Elephant.lifeStages.0.labelPlural>
+  <Elephant.lifeStages.0.labelMale>male elephant calf</Elephant.lifeStages.0.labelMale>
+  <Elephant.lifeStages.0.labelMalePlural>male elephant calfs</Elephant.lifeStages.0.labelMalePlural>
+  <Elephant.lifeStages.0.labelFemale>female elephant calf</Elephant.lifeStages.0.labelFemale>
+  <Elephant.lifeStages.0.labelFemalePlural>female elephant calfs</Elephant.lifeStages.0.labelFemalePlural>
+  <Elephant.lifeStages.1.label>Elephant</Elephant.lifeStages.1.label>
+  <Elephant.lifeStages.1.labelPlural>Elephant</Elephant.lifeStages.1.labelPlural>
+  <Elephant.lifeStages.1.labelMale>male Elephant</Elephant.lifeStages.1.labelMale>
+  <Elephant.lifeStages.1.labelMalePlural>male Elephants</Elephant.lifeStages.1.labelMalePlural>
+  <Elephant.lifeStages.1.labelFemale>female Elephant</Elephant.lifeStages.1.labelFemale>
+  <Elephant.lifeStages.1.labelFemalePlural>female Elephants</Elephant.lifeStages.1.labelFemalePlural>
+  <Elephant.lifeStages.2.label>Elephant</Elephant.lifeStages.2.label>
+  <Elephant.lifeStages.2.labelPlural>Elephant</Elephant.lifeStages.2.labelPlural>
+  <Elephant.lifeStages.2.labelMale>male Elephant</Elephant.lifeStages.2.labelMale>
+  <Elephant.lifeStages.2.labelMalePlural>male Elephants</Elephant.lifeStages.2.labelMalePlural>
+  <Elephant.lifeStages.2.labelFemale>female Elephant</Elephant.lifeStages.2.labelFemale>
+  <Elephant.lifeStages.2.labelFemalePlural>female Elephants</Elephant.lifeStages.2.labelFemalePlural>
+  <Elephant.labelMale>male Elephant</Elephant.labelMale>
+  <Elephant.labelMalePlural>male Elephants</Elephant.labelMalePlural>
+  <Elephant.labelFemale>female Elephant</Elephant.labelFemale>
+  <Elephant.labelFemalePlural>female Elephants</Elephant.labelFemalePlural>
 
-  <Mammoth.label>猛犸象</Mammoth.label>
-  <Mammoth.labelPlural>猛犸象</Mammoth.labelPlural>
-  <Mammoth.lifeStages.0.label>猛犸象幼崽</Mammoth.lifeStages.0.label>
-  <Mammoth.lifeStages.0.labelPlural>猛犸象幼崽</Mammoth.lifeStages.0.labelPlural>
-  <Mammoth.lifeStages.0.labelMale>雄性猛犸象幼崽</Mammoth.lifeStages.0.labelMale>
-  <Mammoth.lifeStages.0.labelMalePlural>雄性猛犸象幼崽</Mammoth.lifeStages.0.labelMalePlural>
-  <Mammoth.lifeStages.0.labelFemale>雌性猛犸象幼崽</Mammoth.lifeStages.0.labelFemale>
-  <Mammoth.lifeStages.0.labelFemalePlural>雌性猛犸象幼崽</Mammoth.lifeStages.0.labelFemalePlural>
-  <Mammoth.lifeStages.1.label>猛犸象</Mammoth.lifeStages.1.label>
-  <Mammoth.lifeStages.1.labelPlural>猛犸象</Mammoth.lifeStages.1.labelPlural>
-  <Mammoth.lifeStages.1.labelMale>雄性猛犸象</Mammoth.lifeStages.1.labelMale>
-  <Mammoth.lifeStages.1.labelMalePlural>雄性猛犸象</Mammoth.lifeStages.1.labelMalePlural>
-  <Mammoth.lifeStages.1.labelFemale>雌性猛犸象</Mammoth.lifeStages.1.labelFemale>
-  <Mammoth.lifeStages.1.labelFemalePlural>雌性猛犸象</Mammoth.lifeStages.1.labelFemalePlural>
-  <Mammoth.lifeStages.2.label>猛犸象</Mammoth.lifeStages.2.label>
-  <Mammoth.lifeStages.2.labelPlural>猛犸象</Mammoth.lifeStages.2.labelPlural>
-  <Mammoth.lifeStages.2.labelMale>雄性猛犸象</Mammoth.lifeStages.2.labelMale>
-  <Mammoth.lifeStages.2.labelMalePlural>雄性猛犸象</Mammoth.lifeStages.2.labelMalePlural>
-  <Mammoth.lifeStages.2.labelFemale>雌性猛犸象</Mammoth.lifeStages.2.labelFemale>
-  <Mammoth.lifeStages.2.labelFemalePlural>雌性猛犸象</Mammoth.lifeStages.2.labelFemalePlural>
-  <Mammoth.labelMale>雄性猛犸象</Mammoth.labelMale>
-  <Mammoth.labelMalePlural>雄性猛犸象</Mammoth.labelMalePlural>
-  <Mammoth.labelFemale>雌性猛犸象</Mammoth.labelFemale>
-  <Mammoth.labelFemalePlural>雌性猛犸象</Mammoth.labelFemalePlural>
+  <Mammoth.label>Mammoth</Mammoth.label>
+  <Mammoth.labelPlural>Mammoths</Mammoth.labelPlural>
+  <Mammoth.lifeStages.0.label>mammoth calf</Mammoth.lifeStages.0.label>
+  <Mammoth.lifeStages.0.labelPlural>mammoth calfs</Mammoth.lifeStages.0.labelPlural>
+  <Mammoth.lifeStages.0.labelMale>male mammoth calf</Mammoth.lifeStages.0.labelMale>
+  <Mammoth.lifeStages.0.labelMalePlural>male mammoth calfs</Mammoth.lifeStages.0.labelMalePlural>
+  <Mammoth.lifeStages.0.labelFemale>female mammoth calf</Mammoth.lifeStages.0.labelFemale>
+  <Mammoth.lifeStages.0.labelFemalePlural>female mammoth calfs</Mammoth.lifeStages.0.labelFemalePlural>
+  <Mammoth.lifeStages.1.label>Mammoth</Mammoth.lifeStages.1.label>
+  <Mammoth.lifeStages.1.labelPlural>Mammoth</Mammoth.lifeStages.1.labelPlural>
+  <Mammoth.lifeStages.1.labelMale>male Mammoth</Mammoth.lifeStages.1.labelMale>
+  <Mammoth.lifeStages.1.labelMalePlural>male Mammoths</Mammoth.lifeStages.1.labelMalePlural>
+  <Mammoth.lifeStages.1.labelFemale>female Mammoth</Mammoth.lifeStages.1.labelFemale>
+  <Mammoth.lifeStages.1.labelFemalePlural>female Mammoths</Mammoth.lifeStages.1.labelFemalePlural>
+  <Mammoth.lifeStages.2.label>Mammoth</Mammoth.lifeStages.2.label>
+  <Mammoth.lifeStages.2.labelPlural>Mammoth</Mammoth.lifeStages.2.labelPlural>
+  <Mammoth.lifeStages.2.labelMale>male Mammoth</Mammoth.lifeStages.2.labelMale>
+  <Mammoth.lifeStages.2.labelMalePlural>male Mammoths</Mammoth.lifeStages.2.labelMalePlural>
+  <Mammoth.lifeStages.2.labelFemale>female Mammoth</Mammoth.lifeStages.2.labelFemale>
+  <Mammoth.lifeStages.2.labelFemalePlural>female Mammoths</Mammoth.lifeStages.2.labelFemalePlural>
+  <Mammoth.labelMale>male Mammoth</Mammoth.labelMale>
+  <Mammoth.labelMalePlural>male Mammoths</Mammoth.labelMalePlural>
+  <Mammoth.labelFemale>female Mammoth</Mammoth.labelFemale>
+  <Mammoth.labelFemalePlural>female Mammoths</Mammoth.labelFemalePlural>
 
-   
- 
+  <Megasloth.label>Megasloth</Megasloth.label>
+  <Megasloth.labelPlural>Megasloths</Megasloth.labelPlural>
+  <Megasloth.lifeStages.0.label>Megasloth</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.0.labelPlural>Megasloth</Megasloth.lifeStages.0.labelPlural>
+  <Megasloth.lifeStages.0.labelMale>male Megasloth</Megasloth.lifeStages.0.labelMale>
+  <Megasloth.lifeStages.0.labelMalePlural>male Megasloths</Megasloth.lifeStages.0.labelMalePlural>
+  <Megasloth.lifeStages.0.labelFemale>female Megasloth</Megasloth.lifeStages.0.labelFemale>
+  <Megasloth.lifeStages.0.labelFemalePlural>female Megasloths</Megasloth.lifeStages.0.labelFemalePlural>
+  <Megasloth.lifeStages.1.label>Megasloth</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.1.labelPlural>Megasloth</Megasloth.lifeStages.1.labelPlural>
+  <Megasloth.lifeStages.1.labelMale>male Megasloth</Megasloth.lifeStages.1.labelMale>
+  <Megasloth.lifeStages.1.labelMalePlural>male Megasloths</Megasloth.lifeStages.1.labelMalePlural>
+  <Megasloth.lifeStages.1.labelFemale>female Megasloth</Megasloth.lifeStages.1.labelFemale>
+  <Megasloth.lifeStages.1.labelFemalePlural>female Megasloths</Megasloth.lifeStages.1.labelFemalePlural>
+  <Megasloth.lifeStages.2.label>Megasloth</Megasloth.lifeStages.2.label>
+  <Megasloth.lifeStages.2.labelPlural>Megasloth</Megasloth.lifeStages.2.labelPlural>
+  <Megasloth.lifeStages.2.labelMale>male Megasloth</Megasloth.lifeStages.2.labelMale>
+  <Megasloth.lifeStages.2.labelMalePlural>male Megasloths</Megasloth.lifeStages.2.labelMalePlural>
+  <Megasloth.lifeStages.2.labelFemale>female Megasloth</Megasloth.lifeStages.2.labelFemale>
+  <Megasloth.lifeStages.2.labelFemalePlural>female Megasloths</Megasloth.lifeStages.2.labelFemalePlural>
+  <Megasloth.labelMale>male Megasloth</Megasloth.labelMale>
+  <Megasloth.labelMalePlural>male Megasloths</Megasloth.labelMalePlural>
+  <Megasloth.labelFemale>female Megasloth</Megasloth.labelFemale>
+  <Megasloth.labelFemalePlural>female Megasloths</Megasloth.labelFemalePlural>
 
-  <Megabadger.label>大獾</Megabadger.label>
-  <Megabadger.labelPlural>大獾</Megabadger.labelPlural>
-  <Megabadger.lifeStages.0.label>大獾幼崽</Megabadger.lifeStages.0.label>
-  <Megabadger.lifeStages.0.labelPlural>大獾幼崽</Megabadger.lifeStages.0.labelPlural>
-  <Megabadger.lifeStages.0.labelMale>雄性大獾幼崽</Megabadger.lifeStages.0.labelMale>
-  <Megabadger.lifeStages.0.labelMalePlural>雄性大獾幼崽</Megabadger.lifeStages.0.labelMalePlural>
-  <Megabadger.lifeStages.0.labelFemale>雌性大獾幼崽</Megabadger.lifeStages.0.labelFemale>
-  <Megabadger.lifeStages.0.labelFemalePlural>雌性大獾幼崽</Megabadger.lifeStages.0.labelFemalePlural>
-  <Megabadger.lifeStages.1.label>大獾</Megabadger.lifeStages.1.label>
-  <Megabadger.lifeStages.1.labelPlural>大獾</Megabadger.lifeStages.1.labelPlural>
-  <Megabadger.lifeStages.1.labelMale>雄性大獾</Megabadger.lifeStages.1.labelMale>
-  <Megabadger.lifeStages.1.labelMalePlural>雄性大獾</Megabadger.lifeStages.1.labelMalePlural>
-  <Megabadger.lifeStages.1.labelFemale>雌性大獾</Megabadger.lifeStages.1.labelFemale>
-  <Megabadger.lifeStages.1.labelFemalePlural>雌性大獾</Megabadger.lifeStages.1.labelFemalePlural>
-  <Megabadger.lifeStages.2.label>大獾</Megabadger.lifeStages.2.label>
-  <Megabadger.lifeStages.2.labelPlural>大獾</Megabadger.lifeStages.2.labelPlural>
-  <Megabadger.lifeStages.2.labelMale>雄性大獾</Megabadger.lifeStages.2.labelMale>
-  <Megabadger.lifeStages.2.labelMalePlural>雄性大獾</Megabadger.lifeStages.2.labelMalePlural>
-  <Megabadger.lifeStages.2.labelFemale>雌性大獾</Megabadger.lifeStages.2.labelFemale>
-  <Megabadger.lifeStages.2.labelFemalePlural>雌性大獾</Megabadger.lifeStages.2.labelFemalePlural>
-  <Megabadger.labelMale>雄性大獾</Megabadger.labelMale>
-  <Megabadger.labelMalePlural>雄性大獾</Megabadger.labelMalePlural>
-  <Megabadger.labelFemale>雌性大獾</Megabadger.labelFemale>
-  <Megabadger.labelFemalePlural>雌性大獾</Megabadger.labelFemalePlural>
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <Thrumbo.labelPlural>thrumbos</Thrumbo.labelPlural>
+  <Thrumbo.lifeStages.0.label>thrumbo calf</Thrumbo.lifeStages.0.label>
+  <Thrumbo.lifeStages.0.labelPlural>thrumbo calfs</Thrumbo.lifeStages.0.labelPlural>
+  <Thrumbo.lifeStages.0.labelMale>male thrumbo calf</Thrumbo.lifeStages.0.labelMale>
+  <Thrumbo.lifeStages.0.labelMalePlural>male thrumbo calfs</Thrumbo.lifeStages.0.labelMalePlural>
+  <Thrumbo.lifeStages.0.labelFemale>female thrumbo calf</Thrumbo.lifeStages.0.labelFemale>
+  <Thrumbo.lifeStages.0.labelFemalePlural>female thrumbo calfs</Thrumbo.lifeStages.0.labelFemalePlural>
+  <Thrumbo.lifeStages.1.label>thrumbo</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.1.labelPlural>thrumbo</Thrumbo.lifeStages.1.labelPlural>
+  <Thrumbo.lifeStages.1.labelMale>male thrumbo</Thrumbo.lifeStages.1.labelMale>
+  <Thrumbo.lifeStages.1.labelMalePlural>male thrumbos</Thrumbo.lifeStages.1.labelMalePlural>
+  <Thrumbo.lifeStages.1.labelFemale>female thrumbo</Thrumbo.lifeStages.1.labelFemale>
+  <Thrumbo.lifeStages.1.labelFemalePlural>female thrumbos</Thrumbo.lifeStages.1.labelFemalePlural>
+  <Thrumbo.lifeStages.2.label>thrumbo</Thrumbo.lifeStages.2.label>
+  <Thrumbo.lifeStages.2.labelPlural>thrumbo</Thrumbo.lifeStages.2.labelPlural>
+  <Thrumbo.lifeStages.2.labelMale>male thrumbo</Thrumbo.lifeStages.2.labelMale>
+  <Thrumbo.lifeStages.2.labelMalePlural>male thrumbos</Thrumbo.lifeStages.2.labelMalePlural>
+  <Thrumbo.lifeStages.2.labelFemale>female thrumbo</Thrumbo.lifeStages.2.labelFemale>
+  <Thrumbo.lifeStages.2.labelFemalePlural>female thrumbos</Thrumbo.lifeStages.2.labelFemalePlural>
+  <Thrumbo.labelMale>male thrumbo</Thrumbo.labelMale>
+  <Thrumbo.labelMalePlural>male thrumbos</Thrumbo.labelMalePlural>
+  <Thrumbo.labelFemale>female thrumbo</Thrumbo.labelFemale>
+  <Thrumbo.labelFemalePlural>female thrumbos</Thrumbo.labelFemalePlural>
 
-  <WoolyRhino.label>披毛犀</WoolyRhino.label>
-  <WoolyRhino.labelPlural>披毛犀</WoolyRhino.labelPlural>
-  <WoolyRhino.lifeStages.0.label>披毛犀</WoolyRhino.lifeStages.0.label>
-  <WoolyRhino.lifeStages.0.labelPlural>披毛犀</WoolyRhino.lifeStages.0.labelPlural>
-  <WoolyRhino.lifeStages.0.labelMale>雄性披毛犀</WoolyRhino.lifeStages.0.labelMale>
-  <WoolyRhino.lifeStages.0.labelMalePlural>雄性披毛犀</WoolyRhino.lifeStages.0.labelMalePlural>
-  <WoolyRhino.lifeStages.0.labelFemale>雌性披毛犀</WoolyRhino.lifeStages.0.labelFemale>
-  <WoolyRhino.lifeStages.0.labelFemalePlural>雌性披毛犀</WoolyRhino.lifeStages.0.labelFemalePlural>
-  <WoolyRhino.lifeStages.1.label>披毛犀</WoolyRhino.lifeStages.1.label>
-  <WoolyRhino.lifeStages.1.labelPlural>披毛犀</WoolyRhino.lifeStages.1.labelPlural>
-  <WoolyRhino.lifeStages.1.labelMale>雄性披毛犀</WoolyRhino.lifeStages.1.labelMale>
-  <WoolyRhino.lifeStages.1.labelMalePlural>雄性披毛犀</WoolyRhino.lifeStages.1.labelMalePlural>
-  <WoolyRhino.lifeStages.1.labelFemale>雌性披毛犀</WoolyRhino.lifeStages.1.labelFemale>
-  <WoolyRhino.lifeStages.1.labelFemalePlural>雌性披毛犀</WoolyRhino.lifeStages.1.labelFemalePlural>
-  <WoolyRhino.lifeStages.2.label>披毛犀</WoolyRhino.lifeStages.2.label>
-  <WoolyRhino.lifeStages.2.labelPlural>披毛犀</WoolyRhino.lifeStages.2.labelPlural>
-  <WoolyRhino.lifeStages.2.labelMale>雄性披毛犀</WoolyRhino.lifeStages.2.labelMale>
-  <WoolyRhino.lifeStages.2.labelMalePlural>雄性披毛犀</WoolyRhino.lifeStages.2.labelMalePlural>
-  <WoolyRhino.lifeStages.2.labelFemale>雌性披毛犀</WoolyRhino.lifeStages.2.labelFemale>
-  <WoolyRhino.lifeStages.2.labelFemalePlural>雌性披毛犀</WoolyRhino.lifeStages.2.labelFemalePlural>
-  <WoolyRhino.labelMale>雄性披毛犀</WoolyRhino.labelMale>
-  <WoolyRhino.labelMalePlural>雄性披毛犀</WoolyRhino.labelMalePlural>
-  <WoolyRhino.labelFemale>雌性披毛犀</WoolyRhino.labelFemale>
-  <WoolyRhino.labelFemalePlural>雌性披毛犀</WoolyRhino.labelFemalePlural>
+  <Megabadger.label>megabadger</Megabadger.label>
+  <Megabadger.labelPlural>megabadgers</Megabadger.labelPlural>
+  <Megabadger.lifeStages.0.label>megabadger cub</Megabadger.lifeStages.0.label>
+  <Megabadger.lifeStages.0.labelPlural>megabadger cubs</Megabadger.lifeStages.0.labelPlural>
+  <Megabadger.lifeStages.0.labelMale>male megabadger cub</Megabadger.lifeStages.0.labelMale>
+  <Megabadger.lifeStages.0.labelMalePlural>male megabadger cubs</Megabadger.lifeStages.0.labelMalePlural>
+  <Megabadger.lifeStages.0.labelFemale>female megabadger cub</Megabadger.lifeStages.0.labelFemale>
+  <Megabadger.lifeStages.0.labelFemalePlural>female megabadger cubs</Megabadger.lifeStages.0.labelFemalePlural>
+  <Megabadger.lifeStages.1.label>megabadger</Megabadger.lifeStages.1.label>
+  <Megabadger.lifeStages.1.labelPlural>megabadger</Megabadger.lifeStages.1.labelPlural>
+  <Megabadger.lifeStages.1.labelMale>male megabadger</Megabadger.lifeStages.1.labelMale>
+  <Megabadger.lifeStages.1.labelMalePlural>male megabadgers</Megabadger.lifeStages.1.labelMalePlural>
+  <Megabadger.lifeStages.1.labelFemale>female megabadger</Megabadger.lifeStages.1.labelFemale>
+  <Megabadger.lifeStages.1.labelFemalePlural>female megabadgers</Megabadger.lifeStages.1.labelFemalePlural>
+  <Megabadger.lifeStages.2.label>megabadger</Megabadger.lifeStages.2.label>
+  <Megabadger.lifeStages.2.labelPlural>megabadger</Megabadger.lifeStages.2.labelPlural>
+  <Megabadger.lifeStages.2.labelMale>male megabadger</Megabadger.lifeStages.2.labelMale>
+  <Megabadger.lifeStages.2.labelMalePlural>male megabadgers</Megabadger.lifeStages.2.labelMalePlural>
+  <Megabadger.lifeStages.2.labelFemale>female megabadger</Megabadger.lifeStages.2.labelFemale>
+  <Megabadger.lifeStages.2.labelFemalePlural>female megabadgers</Megabadger.lifeStages.2.labelFemalePlural>
+  <Megabadger.labelMale>male megabadger</Megabadger.labelMale>
+  <Megabadger.labelMalePlural>male megabadgers</Megabadger.labelMalePlural>
+  <Megabadger.labelFemale>female megabadger</Megabadger.labelFemale>
+  <Megabadger.labelFemalePlural>female megabadgers</Megabadger.labelFemalePlural>
+
+  <WoolyRhino.label>woolly rhino</WoolyRhino.label>
+  <WoolyRhino.labelPlural>woolly rhinos</WoolyRhino.labelPlural>
+  <WoolyRhino.lifeStages.0.label>woolly rhino</WoolyRhino.lifeStages.0.label>
+  <WoolyRhino.lifeStages.0.labelPlural>woolly rhino</WoolyRhino.lifeStages.0.labelPlural>
+  <WoolyRhino.lifeStages.0.labelMale>male woolly rhino</WoolyRhino.lifeStages.0.labelMale>
+  <WoolyRhino.lifeStages.0.labelMalePlural>male woolly rhinos</WoolyRhino.lifeStages.0.labelMalePlural>
+  <WoolyRhino.lifeStages.0.labelFemale>female woolly rhino</WoolyRhino.lifeStages.0.labelFemale>
+  <WoolyRhino.lifeStages.0.labelFemalePlural>female woolly rhinos</WoolyRhino.lifeStages.0.labelFemalePlural>
+  <WoolyRhino.lifeStages.1.label>woolly rhino</WoolyRhino.lifeStages.1.label>
+  <WoolyRhino.lifeStages.1.labelPlural>woolly rhino</WoolyRhino.lifeStages.1.labelPlural>
+  <WoolyRhino.lifeStages.1.labelMale>male woolly rhino</WoolyRhino.lifeStages.1.labelMale>
+  <WoolyRhino.lifeStages.1.labelMalePlural>male woolly rhinos</WoolyRhino.lifeStages.1.labelMalePlural>
+  <WoolyRhino.lifeStages.1.labelFemale>female woolly rhino</WoolyRhino.lifeStages.1.labelFemale>
+  <WoolyRhino.lifeStages.1.labelFemalePlural>female woolly rhinos</WoolyRhino.lifeStages.1.labelFemalePlural>
+  <WoolyRhino.lifeStages.2.label>woolly rhino</WoolyRhino.lifeStages.2.label>
+  <WoolyRhino.lifeStages.2.labelPlural>woolly rhino</WoolyRhino.lifeStages.2.labelPlural>
+  <WoolyRhino.lifeStages.2.labelMale>male woolly rhino</WoolyRhino.lifeStages.2.labelMale>
+  <WoolyRhino.lifeStages.2.labelMalePlural>male woolly rhinos</WoolyRhino.lifeStages.2.labelMalePlural>
+  <WoolyRhino.lifeStages.2.labelFemale>female woolly rhino</WoolyRhino.lifeStages.2.labelFemale>
+  <WoolyRhino.lifeStages.2.labelFemalePlural>female woolly rhinos</WoolyRhino.lifeStages.2.labelFemalePlural>
+  <WoolyRhino.labelMale>male woolly rhino</WoolyRhino.labelMale>
+  <WoolyRhino.labelMalePlural>male woolly rhinos</WoolyRhino.labelMalePlural>
+  <WoolyRhino.labelFemale>female woolly rhino</WoolyRhino.labelFemale>
+  <WoolyRhino.labelFemalePlural>female woolly rhinos</WoolyRhino.labelFemalePlural>
 
 
 </LanguageData>

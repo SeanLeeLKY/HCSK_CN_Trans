@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateSteelArm.label>Craft Metallic Arm</CreateSteelArm.label>
+  <CreateSteelArm.description>Crafts a metallic arm. Produces 1.</CreateSteelArm.description>
+  <CreateSteelArm.jobString>Crafting metallic arm.</CreateSteelArm.jobString>
+
+  <CreatePegLeg.label>Craft Peg Leg</CreatePegLeg.label>
+  <CreatePegLeg.description>Crafts a simple prosthetic peg leg. Produces 1.</CreatePegLeg.description>
+  <CreatePegLeg.jobString>Crafting peg leg.</CreatePegLeg.jobString>
+
+  <CreateEyePatch.label>Craft Eye Patch</CreateEyePatch.label>
+  <CreateEyePatch.description>Tailors an eye patch. Produces 1.</CreateEyePatch.description>
+  <CreateEyePatch.jobString>Crafting eye patch.</CreateEyePatch.jobString>
+
+  <CreateHookHand.label>Craft Hook Hand</CreateHookHand.label>
+  <CreateHookHand.description>Crafts a hook hand. A sea-faring pirate would be proud. Produces 1.</CreateHookHand.description>
+  <CreateHookHand.jobString>Crafting hook hand.</CreateHookHand.jobString>
+
+  <CreateDenture.label>Craft Denture</CreateDenture.label>
+  <CreateDenture.description>Crafts a cheap denture. Produces 1.</CreateDenture.description>
+  <CreateDenture.jobString>Crafting denture.</CreateDenture.jobString>
+
+  <CreateWoodenFoot.label>Craft Wooden Foot</CreateWoodenFoot.label>
+  <CreateWoodenFoot.description>Chops wood into a foot-like shape. Produces 1.</CreateWoodenFoot.description>
+  <CreateWoodenFoot.jobString>Crafting wooden foot.</CreateWoodenFoot.jobString>
+
+  <CreateEarBandage.label>Craft ear bandage</CreateEarBandage.label>
+  <CreateEarBandage.description>Tailors an ear bandage from fabric.</CreateEarBandage.description>
+  <CreateEarBandage.jobString>Crafting prosthesis.</CreateEarBandage.jobString>
+
+
+  <!--CreateSteelArm.label>Craft Metallic Arm</CreateSteelArm.label>
+  <CreateSteelArm.description>Crafts a metallic arm. Produces 1.</CreateSteelArm.description>
+  <CreateSteelArm.jobString>Crafting metallic arm.</CreateSteelArm.jobString>
+
+  <CreatePegLeg.label>Craft Peg Leg</CreatePegLeg.label>
+  <CreatePegLeg.description>Crafts a simple prosthetic peg leg. Produces 1.</CreatePegLeg.description>
+  <CreatePegLeg.jobString>Crafting peg leg.</CreatePegLeg.jobString>
+
+  <CreateEyePatch.label>Craft Eye Patch</CreateEyePatch.label>
+  <CreateEyePatch.description>Tailors an eye patch. Produces 1.</CreateEyePatch.description>
+  <CreateEyePatch.jobString>Crafting eye patch.</CreateEyePatch.jobString>
+
+  <CreateHookHand.label>Craft Hook Hand</CreateHookHand.label>
+  <CreateHookHand.description>Crafts a hook hand. A sea-faring pirate would be proud. Produces 1.</CreateHookHand.description>
+  <CreateHookHand.jobString>Crafting hook hand.</CreateHookHand.jobString>
+
+  <CreateDenture.label>Craft Denture</CreateDenture.label>
+  <CreateDenture.description>Crafts a cheap denture. Produces 1.</CreateDenture.description>
+  <CreateDenture.jobString>Crafting denture.</CreateDenture.jobString>
+
+  <CreateWoodenFoot.label>Craft Wooden Foot</CreateWoodenFoot.label>
+  <CreateWoodenFoot.description>Chops wood into a foot-like shape. Produces 1.</CreateWoodenFoot.description>
+  <CreateWoodenFoot.jobString>Crafting wooden foot.</CreateWoodenFoot.jobString>
+
+  <CreateEarBandage.label>Craft ear bandage</CreateEarBandage.label>
+  <CreateEarBandage.description>Tailors an ear bandage from fabric.</CreateEarBandage.description>
+  <CreateEarBandage.jobString>Crafting prosthesis.</CreateEarBandage.jobString-->
+
+</LanguageData>

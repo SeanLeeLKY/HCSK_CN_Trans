@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakePainting.label>画艺术画</MakePainting.label>
+  <MakePainting.label>create a painting</MakePainting.label>
   <MakePainting.description>Create a painting by using cloth and painting supplies. Produces 1.</MakePainting.description>
   <MakePainting.jobString>Painting happy little trees.</MakePainting.jobString>
 
-  <CookPaint.label>制作颜料</CookPaint.label>
+  <CookPaint.label>create painting supplies</CookPaint.label>
   <CookPaint.description>Creates paint by boiling flowers until the gum and pigments bind and then combining it with wood to finish the set. Produces 1.</CookPaint.description>
   <CookPaint.jobString>Creating paint set.</CookPaint.jobString>
 
 
   <!-- mai items -->
 
-  <MakeRobotParts.label>组装机器人部件</MakeRobotParts.label>
+  <MakeRobotParts.label>assemble robot parts</MakeRobotParts.label>
   <MakeRobotParts.description>Assemble robot parts. Produces 25.</MakeRobotParts.description>
   <MakeRobotParts.jobString>Assembling robot parts.</MakeRobotParts.jobString>
 
-  <MakeDepletedUraniumCore.label>制作贫铀核心</MakeDepletedUraniumCore.label>
+  <MakeDepletedUraniumCore.label>fabricate depleted uranium core</MakeDepletedUraniumCore.label>
   <MakeDepletedUraniumCore.description>Fabricates depleted uranium. Produces 1.</MakeDepletedUraniumCore.description>
   <MakeDepletedUraniumCore.jobString>Fabricating depleted uranium.</MakeDepletedUraniumCore.jobString>
 

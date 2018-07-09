@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildHandGun.label>制造 柯尔特M1911 自动手枪</BuildHandGun.label>
+  <BuildHandGun.label>Build Colt M1911</BuildHandGun.label>
   <BuildHandGun.description>Builds an ancient pattern automatic pistol. Weak and short range, but quick.\nCaliber: .45 ACP</BuildHandGun.description>
   <BuildHandGun.jobString>Building Colt M1911.</BuildHandGun.jobString>
 
-  <BuildP226Gun.label>制造 SIG Sauer P226 手枪</BuildP226Gun.label>
+  <BuildP226Gun.label>Build SIG Sauer P226</BuildP226Gun.label>
   <BuildP226Gun.description>The SIG Sauer P226 is a full-sized, service-type pistol made by SIG Sauer. Low damage, high rate of fire and good accuracy.\nCaliber: .40 Rimfire</BuildP226Gun.description>
   <BuildP226Gun.jobString>Building SIG Sauer P226.</BuildP226Gun.jobString>
 
-  <BuildDeringerPistol.label>制造 雷明顿M95德林格 手枪</BuildDeringerPistol.label>
+  <BuildDeringerPistol.label>Build Remington M95 Derringer</BuildDeringerPistol.label>
   <BuildDeringerPistol.description>Builds a Remington M95 Derringer, a small decorated revolver. Accurate at short range only.  Moderately damaging with a short aim and cooldown period.\nCaliber: .45 ACP</BuildDeringerPistol.description>
   <BuildDeringerPistol.jobString>Building Remington M95 Derringer.</BuildDeringerPistol.jobString>
 
-  <BuildSphinxPistol.label>制造 斯芬克斯AT2000 手枪</BuildSphinxPistol.label>
+  <BuildSphinxPistol.label>Build Sphinx AT 2000</BuildSphinxPistol.label>
   <BuildSphinxPistol.description>Builds a Sphinx AT 2000, a high quality and highly durable handgun that is used by elite forces and sport shooters. Great accuracy, moderate damage but a tad slow.\nCaliber: 9x19mm Para</BuildSphinxPistol.description>
   <BuildSphinxPistol.jobString>Building Sphinx AT 2000.</BuildSphinxPistol.jobString>
 
-  <BuildVektorCP.label>制造 维克多CP1 手枪</BuildVektorCP.label>
+  <BuildVektorCP.label>Build Vektor CP1</BuildVektorCP.label>
   <BuildVektorCP.description>Builds a Vektor CP1, an ergonomical handgun with a drastically non-rectangular design. Good accuracy and low recoil, but weak with a slightly lower range.\nCaliber: 9x19mm Para</BuildVektorCP.description>
   <BuildVektorCP.jobString>Building Vektor CP1.</BuildVektorCP.jobString>
 
-  <BuildParaOrdnancePFourteenFortyfive.label>制造 “帕拉兵器”P14 手枪</BuildParaOrdnancePFourteenFortyfive.label>
+  <BuildParaOrdnancePFourteenFortyfive.label>Build Para Ordnance P14-45</BuildParaOrdnancePFourteenFortyfive.label>
   <BuildParaOrdnancePFourteenFortyfive.description>Builds a Para Ordnance P14-45m. High accuracy and above average range, average fire rate and damage.\nCaliber: .45 ACP</BuildParaOrdnancePFourteenFortyfive.description>
   <BuildParaOrdnancePFourteenFortyfive.jobString>Building Para Ordnance P14-45</BuildParaOrdnancePFourteenFortyfive.jobString>
 
-  <BuildTecnine.label>制造 TEC-9 自动手枪</BuildTecnine.label>
+  <BuildTecnine.label>Build TEC-9</BuildTecnine.label>
   <BuildTecnine.description>Builds a Tec-9 lightweight semi-automatic pistol with a quick draw, low damage and very high firerate. Operates at a short range.\nCaliber: 9x19mm Para</BuildTecnine.description>
   <BuildTecnine.jobString>Building TEC-9.</BuildTecnine.jobString>
 
-  <Build93RBurstPistol.label>制造 贝瑞塔93R 冲锋手枪</Build93RBurstPistol.label>
+  <Build93RBurstPistol.label>Build Beretta 93R</Build93RBurstPistol.label>
   <Build93RBurstPistol.description>Builds a Beretta 93R, a nice-looking machinepistol with a very fast burstfire mode. Low stopping power and hits up to pistol range.\nCaliber: 9x19mm Para</Build93RBurstPistol.description>
   <Build93RBurstPistol.jobString>Building Beretta 93R.</Build93RBurstPistol.jobString>
 
-  <BuildMagnum.label>制造 .44雷明顿马格南 手枪</BuildMagnum.label>
+  <BuildMagnum.label>Build .44 Remington Magnum</BuildMagnum.label>
   <BuildMagnum.description>Builds the .44 Remington Magnum. Very lightweight and accurate at medium range.\nCaliber: .44 Magnum</BuildMagnum.description>
   <BuildMagnum.jobString>Building .44 Remington Magnum.</BuildMagnum.jobString>
 
-  <BuildDesertEagle.label>制造 .50AE沙漠之鹰 手枪</BuildDesertEagle.label>
+  <BuildDesertEagle.label>Build Desert Eagle .50AE</BuildDesertEagle.label>
   <BuildDesertEagle.description>Builds the Desert Eagle .50AE, a famous and deadly pistol. Very accurate, fast fire rate and lightweight to carry.\nCaliber: .50 AE</BuildDesertEagle.description>
   <BuildDesertEagle.jobString>Building Desert Eagle .50 AE.</BuildDesertEagle.jobString>
 

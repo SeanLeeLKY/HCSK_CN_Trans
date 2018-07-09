@@ -1,21 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
-
-  <MakeVelour.label>纺织丝绒</MakeVelour.label>
-  <MakeVelour.description>Spin velour, a plush woven fabric resembling velvet, chiefly used for soft furnishings, casual clothing, and hats. Produces 25.</MakeVelour.description>
-  <MakeVelour.jobString>从多种材料中编连丝绒。</MakeVelour.jobString>
-
-
-  <!-- Hex cell -->
-
-  <MakeHexcell.label>制作动力核</MakeHexcell.label>
-  <MakeHexcell.description>Craft hex-cells. These are used as power source in various pieces of high-tech armor. Produces 10.</MakeHexcell.description>
-  <MakeHexcell.jobString>制作动力核</MakeHexcell.jobString>
-
-
-  <!-- <MakeCloth.label>Spin cloth</MakeCloth.label>
+  <MakeCloth.label>Spin cloth</MakeCloth.label>
   <MakeCloth.description>Spin cloth from raw cotton. Produces 20.</MakeCloth.description>
   <MakeCloth.jobString>Spinning cloth from raw cotton.</MakeCloth.jobString>
 
@@ -38,6 +24,17 @@
   <MakeHyperweaveCloth.label>Spin hyperweave</MakeHyperweaveCloth.label>
   <MakeHyperweaveCloth.description>Spin hyperweave from synthread and devilstrand cloth. Produces 10.</MakeHyperweaveCloth.description>
   <MakeHyperweaveCloth.jobString>Spinning hyperweave from devilstrand and synthread.</MakeHyperweaveCloth.jobString>
- -->
+
+  <MakeVelour.label>Spin velour</MakeVelour.label>
+  <MakeVelour.description>Spin velour, a plush woven fabric resembling velvet, chiefly used for soft furnishings, casual clothing, and hats. Produces 25.</MakeVelour.description>
+  <MakeVelour.jobString>Spinning velour from various materials.</MakeVelour.jobString>
+
+
+  <!-- Hex cell -->
+
+  <MakeHexcell.label>Craft hex-cells</MakeHexcell.label>
+  <MakeHexcell.description>Craft hex-cells. These are used as power source in various pieces of high-tech armor. Produces 10.</MakeHexcell.description>
+  <MakeHexcell.jobString>Crafting hex-cells.</MakeHexcell.jobString>
+
 
 </LanguageData>

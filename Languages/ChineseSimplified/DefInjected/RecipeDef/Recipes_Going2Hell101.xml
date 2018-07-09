@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MinceOrgans.label>mince organs</MinceOrgans.label>
+  <MinceOrgans.description>Minces human organs to obtain edible meat. Makes great prison meals.</MinceOrgans.description>
+  <MinceOrgans.jobString>Butchering.</MinceOrgans.jobString>
+
+  <MinceLimbs.label>mince limbs</MinceLimbs.label>
+  <MinceLimbs.description>Minces human limbs to obtain edible meat. Watch out for toenails.</MinceLimbs.description>
+  <MinceLimbs.jobString>Butchering.</MinceLimbs.jobString>
+
+
+</LanguageData>

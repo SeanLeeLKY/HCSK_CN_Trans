@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookCatFood.label>制造猫粮</CookCatFood.label>
+  <CookCatFood.label>make cat food</CookCatFood.label>
   <CookCatFood.description>Creates Cat Food from raw meat and plant ingredients. Your cats are guaranteed to love it! Produces 20.</CookCatFood.description>
   <CookCatFood.jobString>Making Cat Food.</CookCatFood.jobString>
 
-  <MakeSilage.label>制造青贮饲料</MakeSilage.label>
-  <MakeSilage.description>制造 Silage from Hay and plant ingredients for animal food. It is more nutritional than hay. Produces 30.</MakeSilage.description>
+  <MakeSilage.label>make silage</MakeSilage.label>
+  <MakeSilage.description>Make Silage from Hay and plant ingredients for animal food. It is more nutritional than hay. Produces 30.</MakeSilage.description>
   <MakeSilage.jobString>Making Silage.</MakeSilage.jobString>
 
 

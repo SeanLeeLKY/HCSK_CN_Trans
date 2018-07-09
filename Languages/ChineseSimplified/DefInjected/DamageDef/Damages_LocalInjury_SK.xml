@@ -2,40 +2,46 @@
 <LanguageData>
 
   <Optic.label>Optic</Optic.label>
-  <Optic.deathMessage>{0} 被射死了.</Optic.deathMessage>
+  <Optic.deathMessage>{0} has been shot to death.</Optic.deathMessage>
 
-  <Plasma.label>等离子</Plasma.label>
-  <Plasma.deathMessage>{0} 被熔化了.</Plasma.deathMessage>
+  <Plasma.label>Plasma</Plasma.label>
+  <Plasma.deathMessage>{0} has been melted.</Plasma.deathMessage>
 
-  <Microwave.label>微波</Microwave.label>
-  <Microwave.deathMessage>{0} 被烧死了.</Microwave.deathMessage>
+  <Microwave.label>Microwave</Microwave.label>
+  <Microwave.deathMessage>{0} has burned alive.</Microwave.deathMessage>
 
-  <AntiMateriel.label>反器材</AntiMateriel.label>
-  <AntiMateriel.deathMessage>{0} 被射死了.</AntiMateriel.deathMessage>
+  <AntiMateriel.label>Antimateriel</AntiMateriel.label>
+  <AntiMateriel.deathMessage>{0} has been shot to death.</AntiMateriel.deathMessage>
 
-  <Fragment.label>破片</Fragment.label>
+  <Fragment.label>Fragment</Fragment.label>
   <Fragment.deathMessage>{0} has been shredded to death.</Fragment.deathMessage>
 
-  <ArmorPiercing.label>穿甲</ArmorPiercing.label>
+  <ArmorPiercing.label>Armor-piercing</ArmorPiercing.label>
   <ArmorPiercing.deathMessage>{0} has been shot to death.</ArmorPiercing.deathMessage>
 
-  <LaserBurn.label>激光烧灼</LaserBurn.label>
+  <LaserBurn.label>Laser-burn</LaserBurn.label>
   <LaserBurn.deathMessage>{0} has burned to death.</LaserBurn.deathMessage>
 
-  <MechCrush.label>粉碎</MechCrush.label>
-  <MechCrush.deathMessage>{0} has been crushed to death.</MechCrush.deathMessage>
-
-  <ElectricShock.label>电击</ElectricShock.label>
+  <ElectricShock.label>Electric Shock</ElectricShock.label>
   <ElectricShock.deathMessage>{0} shocked to death.</ElectricShock.deathMessage>
 
-  <BioticShock.label>冲击</BioticShock.label>
+  <BioticShock.label>Biotic Shock</BioticShock.label>
   <BioticShock.deathMessage>{0} shocked to death.</BioticShock.deathMessage>
 
-  <KineticPulse.label>动能</KineticPulse.label>
+  <KineticPulse.label>Kinetic Pulse</KineticPulse.label>
   <KineticPulse.deathMessage>{0} has been shattered.</KineticPulse.deathMessage>
 
-  <Dart.label>投掷</Dart.label>
+  <Dart.label>dart</Dart.label>
   <Dart.deathMessage>{0} has been shot to death.</Dart.deathMessage>
+
+  <DiseaseBite.label>disease bite</DiseaseBite.label>
+  <DiseaseBite.deathMessage>{0} has been bitten to death.</DiseaseBite.deathMessage>
+
+  <Acid.label>Acid</Acid.label>
+  <Acid.deathMessage>{0} has melted to death.</Acid.deathMessage>
+
+  <AcidPoison.label>Acid Poison</AcidPoison.label>
+  <AcidPoison.deathMessage>{0} has been impaled to death.</AcidPoison.deathMessage>
 
 
 </LanguageData>

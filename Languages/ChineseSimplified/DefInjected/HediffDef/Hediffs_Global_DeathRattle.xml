@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <IntestinalFailure.label>肠衰竭</IntestinalFailure.label>
-  <IntestinalFailure.stages.2.label>濒死</IntestinalFailure.stages.2.label>
+  <IntestinalFailure.label>intestinal failure</IntestinalFailure.label>
+  <IntestinalFailure.stages.2.label>near-death</IntestinalFailure.stages.2.label>
 
-  <LiverFailure.label>急性肝功能衰竭</LiverFailure.label>
-  <LiverFailure.stages.1.label>濒死</LiverFailure.stages.1.label>
+  <LiverFailure.label>acute liver failure</LiverFailure.label>
+  <LiverFailure.stages.1.label>near-death</LiverFailure.stages.1.label>
 
-  <KidneyFailure.label>急性肾功能衰竭</KidneyFailure.label>
-  <KidneyFailure.stages.1.label>濒死</KidneyFailure.stages.1.label>
+  <KidneyFailure.label>acute renal failure</KidneyFailure.label>
+  <KidneyFailure.stages.1.label>near-death</KidneyFailure.stages.1.label>
 
-  <ClinicalDeathNoHeartbeat.label>没有脉搏</ClinicalDeathNoHeartbeat.label>
-  <ClinicalDeathNoHeartbeat.stages.1.label>临床死亡</ClinicalDeathNoHeartbeat.stages.1.label>
+  <ClinicalDeathNoHeartbeat.label>no pulse</ClinicalDeathNoHeartbeat.label>
+  <ClinicalDeathNoHeartbeat.stages.1.label>clinical death</ClinicalDeathNoHeartbeat.stages.1.label>
 
-  <ClinicalDeathAsphyxiation.label>缺氧</ClinicalDeathAsphyxiation.label>
-  <ClinicalDeathAsphyxiation.stages.1.label>临床死亡</ClinicalDeathAsphyxiation.stages.1.label>
+  <ClinicalDeathAsphyxiation.label>oxygen deprivation</ClinicalDeathAsphyxiation.label>
+  <ClinicalDeathAsphyxiation.stages.1.label>clinical death</ClinicalDeathAsphyxiation.stages.1.label>
 
-  <Coma.label>昏迷</Coma.label>
-  <BrainDamage.label>脑损伤</BrainDamage.label>
-  <VegetativeState.label>植物人</VegetativeState.label>
+  <Coma.label>coma</Coma.label>
+  <BrainDamage.label>brain damage</BrainDamage.label>
+  <VegetativeState.label>vegetative state</VegetativeState.label>
 
 
 </LanguageData>

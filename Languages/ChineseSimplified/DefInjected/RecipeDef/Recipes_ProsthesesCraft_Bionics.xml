@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateBionicEye.label>Craft Bionic Eye</CreateBionicEye.label>
+  <CreateBionicEye.description>Crafts a bionic eye. Produces 1.</CreateBionicEye.description>
+  <CreateBionicEye.jobString>Crafting bionic eye.</CreateBionicEye.jobString>
+
+  <CreatePowerArm.label>Craft Power Arm</CreatePowerArm.label>
+  <CreatePowerArm.description>Attaches a powerful claw to a bionic arm. Produces 1.</CreatePowerArm.description>
+  <CreatePowerArm.jobString>Crafting bionic power arm.</CreatePowerArm.jobString>
+
+  <CreateBionicArm.label>Craft Bionic Arm</CreateBionicArm.label>
+  <CreateBionicArm.description>Crafts a bionic arm. Produces 1.</CreateBionicArm.description>
+  <CreateBionicArm.jobString>Crafting bionic arm.</CreateBionicArm.jobString>
+
+  <CreateBionicHand.label>Craft Bionic Hand</CreateBionicHand.label>
+  <CreateBionicHand.description>Crafts a bionic hand. Produces 1.</CreateBionicHand.description>
+  <CreateBionicHand.jobString>Crafting bionic hand.</CreateBionicHand.jobString>
+
+  <CreateBionicFoot.label>Craft Bionic Foot</CreateBionicFoot.label>
+  <CreateBionicFoot.description>Crafts a bionic foot. Produces 1.</CreateBionicFoot.description>
+  <CreateBionicFoot.jobString>Crafting bionic foot.</CreateBionicFoot.jobString>
+
+  <CreateBionicLeg.label>Craft Bionic Leg</CreateBionicLeg.label>
+  <CreateBionicLeg.description>Crafts a bionic leg. Produces 1.</CreateBionicLeg.description>
+  <CreateBionicLeg.jobString>Crafting bionic leg.</CreateBionicLeg.jobString>
+
+  <CreateBionicEar.label>Craft Bionic Ear</CreateBionicEar.label>
+  <CreateBionicEar.description>Crafts a bionic ear. Produces 1.</CreateBionicEar.description>
+  <CreateBionicEar.jobString>Crafting bionic ear.</CreateBionicEar.jobString>
+
+  <CreateBionicJaw.label>Craft Bionic Jaw</CreateBionicJaw.label>
+  <CreateBionicJaw.description>Crafts a bionic jaw. Produces 1.</CreateBionicJaw.description>
+  <CreateBionicJaw.jobString>Crafting bionic jaw.</CreateBionicJaw.jobString>
+
+  <CreateSilentJaw.label>Craft Silent Jaw</CreateSilentJaw.label>
+  <CreateSilentJaw.description>Crafts a silent jaw. Produces 1.</CreateSilentJaw.description>
+  <CreateSilentJaw.jobString>Crafting silent jaw.</CreateSilentJaw.jobString>
+
+  <CreateBionicSpine.label>Craft Bionic Spine</CreateBionicSpine.label>
+  <CreateBionicSpine.description>Crafts a bionic spine. Produces 1.</CreateBionicSpine.description>
+  <CreateBionicSpine.jobString>Crafting bionic spine.</CreateBionicSpine.jobString>
+
+  <CreateMedicalRib.label>Craft Medical Rib</CreateMedicalRib.label>
+  <CreateMedicalRib.description>Crafts a medical rib. Produces 1.</CreateMedicalRib.description>
+  <CreateMedicalRib.jobString>Crafting medical rib.</CreateMedicalRib.jobString>
+
+  <CreateAdrenalineRib.label>Craft Adrenaline Rib</CreateAdrenalineRib.label>
+  <CreateAdrenalineRib.description>Crafts an adrenaline rib. Produces 1.</CreateAdrenalineRib.description>
+  <CreateAdrenalineRib.jobString>Crafting adrenaline rib.</CreateAdrenalineRib.jobString>
+
+  <CreatePowerClaw.label>Upgrade Scyther Blade</CreatePowerClaw.label>
+  <CreatePowerClaw.description>Upgrades a scyther blade to a power claw using biosynthetic material. Produces 1.</CreatePowerClaw.description>
+  <CreatePowerClaw.jobString>Upgrading scyther blade to power claw.</CreatePowerClaw.jobString>
+
+  <CreateDruggedRib.label>Craft drugged rib</CreateDruggedRib.label>
+  <CreateDruggedRib.description>Crafts a drugged rib from metal and flake.</CreateDruggedRib.description>
+  <CreateDruggedRib.jobString>Crafting bionic.</CreateDruggedRib.jobString>
+
+  <CreatePainkillerRib.label>Craft painkiller rib</CreatePainkillerRib.label>
+  <CreatePainkillerRib.description>Crafts a painkiller rib from metal and go-juice.</CreatePainkillerRib.description>
+  <CreatePainkillerRib.jobString>Crafting bionic.</CreatePainkillerRib.jobString>
+
+
+</LanguageData>

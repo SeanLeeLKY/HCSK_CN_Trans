@@ -3,54 +3,50 @@
 
   <!-- Soldier -->
 
-  <SectarianSoldier.label>教派士兵</SectarianSoldier.label>
-  <SectarianSoldier.labelPlural>教派士兵</SectarianSoldier.labelPlural>
+  <SectarianSoldier.label>Sectarian Soldier</SectarianSoldier.label>
+  <SectarianSoldier.labelPlural>Sectarian Soldiers</SectarianSoldier.labelPlural>
 
 
   <!-- Striker -->
 
-  <SectarianStriker.label>教派袭击者</SectarianStriker.label>
-  <SectarianStriker.labelPlural>教派袭击者</SectarianStriker.labelPlural>
+  <SectarianStriker.label>Sectarian Striker</SectarianStriker.label>
+  <SectarianStriker.labelPlural>Sectarian Strikers</SectarianStriker.labelPlural>
 
 
   <!-- Hunter -->
 
-  <SectarianHunter.label>教派猎人</SectarianHunter.label>
-  <SectarianHunter.labelPlural>教派猎人</SectarianHunter.labelPlural>
+  <SectarianHunter.label>Sectarian Hunter</SectarianHunter.label>
+  <SectarianHunter.labelPlural>Sectarian Hunters</SectarianHunter.labelPlural>
 
 
   <!-- Demolisher -->
 
-  <SectarianDemolisher.label>教派摧毁者</SectarianDemolisher.label>
-  <SectarianDemolisher.labelPlural>教派摧毁者</SectarianDemolisher.labelPlural>
+  <SectarianDemolisher.label>Sectarian Demolisher</SectarianDemolisher.label>
+  <SectarianDemolisher.labelPlural>Sectarian Demolishers</SectarianDemolisher.labelPlural>
 
 
   <!-- EagleEye -->
 
-  <SectarianEagleEye.label>教派猎鹰</SectarianEagleEye.label>
-  <SectarianEagleEye.labelPlural>教派猎鹰</SectarianEagleEye.labelPlural>
+  <SectarianEagleEye.label>Sectarian Eagle Eye</SectarianEagleEye.label>
+  <SectarianEagleEye.labelPlural>Sectarian Eagle Eyes</SectarianEagleEye.labelPlural>
 
 
   <!-- Destroyer -->
 
-  <SectarianDestroyer.label>教派破坏者</SectarianDestroyer.label>
-  <SectarianDestroyer.labelPlural>教派破坏者</SectarianDestroyer.labelPlural>
+  <SectarianDestroyer.label>Sectarian Destroyer</SectarianDestroyer.label>
+  <SectarianDestroyer.labelPlural>Sectarian Destroyers</SectarianDestroyer.labelPlural>
 
 
   <!-- Trader -->
 
-  <SectarianTrader.label>教派商人</SectarianTrader.label>
-  <SectarianTrader.labelPlural>教派商人</SectarianTrader.labelPlural>
+  <SectarianTrader.label>Sectarian trader</SectarianTrader.label>
+  <SectarianTrader.labelPlural>Sectarian traders</SectarianTrader.labelPlural>
 
 
   <!-- Sentinel -->
 
-  <SectarianSentinel.label>教派哨兵</SectarianSentinel.label>
-  <SectarianSentinel.labelPlural>教派哨兵</SectarianSentinel.labelPlural>
+  <SectarianSentinel.label>Sectarian Sentinel</SectarianSentinel.label>
+  <SectarianSentinel.labelPlural>Sectarian Sentinels</SectarianSentinel.labelPlural>
 
-
-  <!-- Bombardier -->
-  <!--<SectarianBombardier.label>Sectarian Bombardier</SectarianBombardier.label>-->
-  <!--<SectarianBombardier.labelPlural>Sectarian Bombardiers</SectarianBombardier.labelPlural>-->
 
 </LanguageData>

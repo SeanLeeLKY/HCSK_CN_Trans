@@ -3,18 +3,18 @@
 
   <!-- WildCanines -->
 
-  <Warg.label>座狼</Warg.label>
+  <Warg.label>warg</Warg.label>
   <Warg.description>Wargs are heavily-muscled wolf-like creatures. Scientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god.</Warg.description>
+  <Warg.tools.0.label>left claw</Warg.tools.0.label>
+  <Warg.tools.1.label>right claw</Warg.tools.1.label>
+  <Warg.tools.3.label>head</Warg.tools.3.label>
 
-  <Nightling.label>夜灵</Nightling.label>
+  <Nightling.label>nightling</Nightling.label>
   <Nightling.description>A large deformed beast with rows of quills on its back.
 The rim is a violent place and the dead are a common sight. But over the years, disturbing reports of ravaged corpses started to increase in surprising numbers, all gut-wrenching and skewered with spikes. Each dawn shedding light to the aftermath of the night before. The locals soon learned to fear the dark, and the nightmares within them.</Nightling.description>
-
-
-  <!-- Raptor enviro -->
-
-  <FRaptor.label>翼猛龙</FRaptor.label>
-  <FRaptor.description>Quiet, cunning, elegant and ruthless, these protobird species were originally developed to resolve an increasing warg population problem. Someone quickly realized that adding another alpha predator doesn't help an already broken ecosystem, and the project was cancelled. Scientists then started a new development project that was aimed at making raptors the pets of rich people. Because of that, these raptors now have colorful feathers.</FRaptor.description>
+  <Nightling.tools.0.label>left claw</Nightling.tools.0.label>
+  <Nightling.tools.1.label>right claw</Nightling.tools.1.label>
+  <Nightling.tools.3.label>head</Nightling.tools.3.label>
 
 
 </LanguageData>

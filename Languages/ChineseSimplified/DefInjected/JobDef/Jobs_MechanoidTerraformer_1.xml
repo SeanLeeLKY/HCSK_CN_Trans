@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <JobDef_ScoutStrangeArtifact.reportString>搜寻人工造物。</JobDef_ScoutStrangeArtifact.reportString>
+  <JobDef_SecureStrangeArtifact.reportString>解除人工造物安全阀。</JobDef_SecureStrangeArtifact.reportString>
+  <JobDef_StudyStrangeArtifact.reportString>研究人工造物。</JobDef_StudyStrangeArtifact.reportString>
+  <JobDef_ReroutePower.reportString>重定向能量网络。</JobDef_ReroutePower.reportString>
+  <JobDef_ExtractWeatherController.reportString>提取天气控制器。</JobDef_ExtractWeatherController.reportString>
+  <JobDef_DisableBeacon.reportString>关闭信标。</JobDef_DisableBeacon.reportString>
+
+
+</LanguageData>

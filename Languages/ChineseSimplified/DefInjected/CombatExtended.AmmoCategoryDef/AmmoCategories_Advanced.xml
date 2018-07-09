@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Charged.label>能量弹</Charged.label>
-  <Charged.description>The charged particle coating disrupts armor and tissue in equal measure.</Charged.description>
+  <Charged.label>电荷弹</Charged.label>
+  <Charged.description>电荷子弹对于装甲和组织拥有一样的伤害力。</Charged.description>
 
-  <ChargedAP.label>强化能量弹</ChargedAP.label>
+  <ChargedAP.label>聚能电荷弹</ChargedAP.label>
   <ChargedAP.labelShort>conc.</ChargedAP.labelShort>
-  <ChargedAP.description>Focuses charged particles around the tip of the core for improved armor penetration at the cost of stopping power.</ChargedAP.description>
+  <ChargedAP.description>将大量带电粒子聚焦在弹头尖端周围，以阻止能量的消耗提高装甲穿透力。</ChargedAP.description>
 
-  <Ionized.label>离子弹</Ionized.label>
+  <Ionized.label>离子电荷弹</Ionized.label>
   <Ionized.labelShort>ion</Ionized.labelShort>
-  <Ionized.description>Designed to combat mechanoids, the round creates an electrical current on impact, disrupting electronic systems temporarily.</Ionized.description>
+  <Ionized.description>被设计主要用来对抗机械族，圆形弹体会产生强大的脉冲电流，暂时瘫痪电子系统。</Ionized.description>
 
   <IncendiaryFuel.label>燃烧弹</IncendiaryFuel.label>
-  <IncendiaryFuel.description>Filled with incendiary agent that ignites after impact.</IncendiaryFuel.description>
+  <IncendiaryFuel.description>撞击后会点燃周围的弹药。</IncendiaryFuel.description>
 
   <ThermobaricFuel.label>温压弹</ThermobaricFuel.label>
-  <ThermobaricFuel.description>Filled with high-explosive aerosol that causes a large explosion and ignites flammable materials.</ThermobaricFuel.description>
+  <ThermobaricFuel.description>产生巨大爆炸并点燃周围环境的弹药。</ThermobaricFuel.description>
 
-  <FoamFuel.label>泡沫</FoamFuel.label>
-  <FoamFuel.description>Special round designed for civilian fire-fighting purposes. Filled with fire-retardant foam to suppress fires in a large area.</FoamFuel.description>
+  <FoamFuel.label>泡沫弹</FoamFuel.label>
+  <FoamFuel.description>为消防目的而设计的特殊弹药。内部填充阻燃泡沫，可以抑制大面积火灾。</FoamFuel.description>
 
 
 </LanguageData>

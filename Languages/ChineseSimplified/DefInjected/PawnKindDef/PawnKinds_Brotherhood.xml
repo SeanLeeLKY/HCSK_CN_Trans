@@ -3,54 +3,50 @@
 
   <!-- Guard -->
 
-  <BrotherhoodGuard.label>兄弟会卫兵</BrotherhoodGuard.label>
-  <BrotherhoodGuard.labelPlural>兄弟会卫兵</BrotherhoodGuard.labelPlural>
+  <BrotherhoodGuard.label>Brotherhood Guard</BrotherhoodGuard.label>
+  <BrotherhoodGuard.labelPlural>Brotherhood Guards</BrotherhoodGuard.labelPlural>
 
 
   <!-- Trader -->
 
-  <BrotherhoodTrader.label>兄弟会商人</BrotherhoodTrader.label>
-  <BrotherhoodTrader.labelPlural>兄弟会商人</BrotherhoodTrader.labelPlural>
+  <BrotherhoodTrader.label>Brotherhood trader</BrotherhoodTrader.label>
+  <BrotherhoodTrader.labelPlural>Brotherhood traders</BrotherhoodTrader.labelPlural>
 
 
   <!-- Striker -->
 
-  <BrotherhoodStriker.label>兄弟会袭击者</BrotherhoodStriker.label>
-  <BrotherhoodStriker.labelPlural>兄弟会袭击者</BrotherhoodStriker.labelPlural>
+  <BrotherhoodStriker.label>Brotherhood Striker</BrotherhoodStriker.label>
+  <BrotherhoodStriker.labelPlural>Brotherhood Strikers</BrotherhoodStriker.labelPlural>
 
 
   <!-- Protector -->
 
-  <BrotherhoodProtector.label>兄弟会保卫者</BrotherhoodProtector.label>
-  <BrotherhoodProtector.labelPlural>兄弟会保卫者</BrotherhoodProtector.labelPlural>
+  <BrotherhoodProtector.label>Brotherhood Protector</BrotherhoodProtector.label>
+  <BrotherhoodProtector.labelPlural>Brotherhood Protectors</BrotherhoodProtector.labelPlural>
 
 
   <!-- Demolisher -->
 
-  <BrotherhoodDemolisher.label>兄弟会破坏者</BrotherhoodDemolisher.label>
-  <BrotherhoodDemolisher.labelPlural>兄弟会破坏者</BrotherhoodDemolisher.labelPlural>
+  <BrotherhoodDemolisher.label>Brotherhood Demolisher</BrotherhoodDemolisher.label>
+  <BrotherhoodDemolisher.labelPlural>Brotherhood Demolishers</BrotherhoodDemolisher.labelPlural>
 
 
   <!-- Scout -->
 
-  <BrotherhoodScout.label>兄弟会侦察兵</BrotherhoodScout.label>
-  <BrotherhoodScout.labelPlural>兄弟会侦察兵</BrotherhoodScout.labelPlural>
+  <BrotherhoodScout.label>Brotherhood Scout</BrotherhoodScout.label>
+  <BrotherhoodScout.labelPlural>Brotherhood Scouts</BrotherhoodScout.labelPlural>
 
 
   <!-- Destroyer -->
 
-  <BrotherhoodDestroyer.label>兄弟会毁灭者</BrotherhoodDestroyer.label>
-  <BrotherhoodDestroyer.labelPlural>兄弟会毁灭者</BrotherhoodDestroyer.labelPlural>
+  <BrotherhoodDestroyer.label>Brotherhood Destroyer</BrotherhoodDestroyer.label>
+  <BrotherhoodDestroyer.labelPlural>Brotherhood Destroyers</BrotherhoodDestroyer.labelPlural>
 
 
   <!-- Sentinel -->
 
-  <BrotherhoodSentinel.label>兄弟会哨兵</BrotherhoodSentinel.label>
-  <BrotherhoodSentinel.labelPlural>兄弟会哨兵</BrotherhoodSentinel.labelPlural>
+  <BrotherhoodSentinel.label>Brotherhood Sentinel</BrotherhoodSentinel.label>
+  <BrotherhoodSentinel.labelPlural>Brotherhood Sentinels</BrotherhoodSentinel.labelPlural>
 
-
-  <!-- Bombardier -->
-  <!--<BrotherhoodBombardier.label>兄弟会炮兵</BrotherhoodBombardier.label>-->
-  <!--<BrotherhoodBombardier.labelPlural>兄弟会炮兵</BrotherhoodBombardier.labelPlural>-->
 
 </LanguageData>

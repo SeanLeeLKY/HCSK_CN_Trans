@@ -3,17 +3,18 @@
 
   <!-- Added body parts -->
 
-  <GlassEye.label>玻璃眼</GlassEye.label>
-   
+  <GlassEye.label>Glass Eye</GlassEye.label>
+  <SimpleProstheticHand.label>Simple Prosthetic Hand</SimpleProstheticHand.label>
+  <SimpleProstheticFoot.label>Simple Prosthetic Foot</SimpleProstheticFoot.label>
 
-  <!-- <SimpleProstheticHand.label>Simple Prosthetic Hand</SimpleProstheticHand.label>
-  <SimpleProstheticFoot.label>Simple Prosthetic Foot</SimpleProstheticFoot.label> -->
-  <!--[Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->
-  <!--[Core] <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>-->
-  <!-- <ArtificialNose.label>Artificial Nose</ArtificialNose.label>
+  <SimpleProstheticArm.label>Simple Prosthetic Arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
+
+  <SimpleProstheticLeg.label>Simple Prosthetic Leg</SimpleProstheticLeg.label>
+  <ArtificialNose.label>Artificial Nose</ArtificialNose.label>
   <HydraulicJaw.label>Hydraulic Jaw</HydraulicJaw.label>
   <ArtificialPelvis.label>Artificial Pelvis</ArtificialPelvis.label>
   <BrainStimulator.label>Brain Stimulator</BrainStimulator.label>
-  -->
+
 
 </LanguageData>

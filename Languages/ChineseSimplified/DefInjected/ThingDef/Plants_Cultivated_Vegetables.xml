@@ -1,35 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
- 
+  <PlantPotato.label>Potato Plant</PlantPotato.label>
+  <PlantPotato.description>Potato Plants produce nutritious tubers called Potatoes. Potato Plants grow quickly and are a reliable food source crop for basic meals.</PlantPotato.description>
 
-  <Planteggplant.label>茄子</Planteggplant.label>
+  <PlantCorn.label>Corn Plant</PlantCorn.label>
+  <PlantCorn.description>Corn Plants are large grain plants that produce ears of delicious yellow seeds that are called Corn. Corn Plants grow slowly but yeild lots of food. Corn is useful as a food ingredient or for making Ethanol Fuel.</PlantCorn.description>
+
+  <PlantRice.label>Rice Plant</PlantRice.label>
+  <PlantRice.description>Rice Plants are short grain plants that yields numerous amounts of edible seeds called Rice. Rice is useful as a meal ingredient, can be made into Ethanol Fuel or distilled into Sake from the Brewery.</PlantRice.description>
+
+  <Planteggplant.label>Eggplant Bush</Planteggplant.label>
   <Planteggplant.description>Eggplant Bushes produce large, purple, egg-shaped fruits called Eggplant Fruit. Eggplant Bushes grow quickly, as the plant is related to the fast growing Potato Plant.</Planteggplant.description>
 
-  <Plantpumpkin.label>南瓜</Plantpumpkin.label>
-  <Plantpumpkin.description>Pumpkin Vines produce large, orange squashes called Pumpkins. The fleshy inside of a Pumpkin is great when baked into a pie from the Electric Oven.</Plantpumpkin.description>
-
-  <Plantbean.label>豆子</Plantbean.label>
+  <Plantbean.label>Bean Stalk</Plantbean.label>
   <Plantbean.description>A Bean Stalk produces a Bean Pod, a soft shell with small, edible seeds inside. They can be used as a meal ingredient or can be refined into BioDiesel Fuel.</Plantbean.description>
 
-  <PlantTomato.label>西红柿</PlantTomato.label>
+  <PlantTomato.label>Tomato Vine</PlantTomato.label>
   <PlantTomato.description>Tomato Vines produce round, palm sized, red, sharp-tasting fruits called Tomatoes. Tomatoes are related to Potato Plants and grow very quickly.</PlantTomato.description>
 
-  <PlantCarrot.label>胡萝卜</PlantCarrot.label>
+  <PlantCarrot.label>Carrot Plant</PlantCarrot.label>
   <PlantCarrot.description>Carrot Plants produce long, crunchy, orange root vegetables called Carrots. Carrots are refreshing to eat raw and have a long shelf life.</PlantCarrot.description>
 
-  <PlantCabbage.label>卷心菜</PlantCabbage.label>
+  <PlantCabbage.label>Cabbage Plant</PlantCabbage.label>
   <PlantCabbage.description>Cabbage Plants produce large, edible leaves called Cabbage. Cabbage is an essential component in many salads.</PlantCabbage.description>
 
-  <Plantmushroom.label>香菇</Plantmushroom.label>
+  <Plantmushroom.label>Champignon Mushroom</Plantmushroom.label>
   <Plantmushroom.description>Champignon Mushrooms produce white or brown edible caps called Raw Champignon. This robust mushroom has been genetically engineered and is cultivated to produce a filling meat substitute.</Plantmushroom.description>
 
-
-  <!--[Core] <PlantPotato.label>土豆</PlantPotato.label>-->
-  <!--[Core] <PlantPotato.description>一种简单而营养丰富的块茎植物。即使在比较贫瘠的土地中也能很好地生长。不用多久就能收获。一种强大万能的农作物。</PlantPotato.description>-->
-  <!--[Core] <PlantCorn.label>玉米</PlantCorn.label>-->
-  <!--[Core] <PlantCorn.description>一种大型谷类植物，产出美味的黄籽穗。生长时间相对较长，但产量大，很长时间才会变质。需要肥沃的土壤种植。</PlantCorn.description>-->
-  <!--[Core] <PlantRice.label>水稻</PlantRice.label>-->
-  <!--[Core] <PlantRice.description>一种低矮的谷类植物，肥沃的土壤中茁壮成长，产出粮食很快，但不煮熟的话不好吃。</PlantRice.description>-->
 
 </LanguageData>

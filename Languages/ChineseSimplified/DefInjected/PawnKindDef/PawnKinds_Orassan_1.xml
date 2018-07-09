@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Refugee -->
+
+  <OrassanRefugee.label>orassan refugee</OrassanRefugee.label>
+  <OrassanRefugee.labelPlural>orassan refugees</OrassanRefugee.labelPlural>
+  <OrassanRefugee.labelMale>male orassan refugee</OrassanRefugee.labelMale>
+  <OrassanRefugee.labelMalePlural>male orassan refugees</OrassanRefugee.labelMalePlural>
+  <OrassanRefugee.labelFemale>female orassan refugee</OrassanRefugee.labelFemale>
+  <OrassanRefugee.labelFemalePlural>female orassan refugees</OrassanRefugee.labelFemalePlural>
+
+
+  <!-- Villager -->
+
+  <OrassanVillager.label>村民</OrassanVillager.label>
+  <OrassanVillager.labelPlural>村民</OrassanVillager.labelPlural>
+  <OrassanVillager.labelMale>村民</OrassanVillager.labelMale>
+  <OrassanVillager.labelMalePlural>村民</OrassanVillager.labelMalePlural>
+  <OrassanVillager.labelFemale>村民</OrassanVillager.labelFemale>
+  <OrassanVillager.labelFemalePlural>村民</OrassanVillager.labelFemalePlural>
+
+
+  <!-- Windrunner -->
+
+  <OrassanWindrunner.label>风行者</OrassanWindrunner.label>
+  <OrassanWindrunner.labelPlural>风行者</OrassanWindrunner.labelPlural>
+  <OrassanWindrunner.labelMale>风行者</OrassanWindrunner.labelMale>
+  <OrassanWindrunner.labelMalePlural>风行者</OrassanWindrunner.labelMalePlural>
+  <OrassanWindrunner.labelFemale>风行者</OrassanWindrunner.labelFemale>
+  <OrassanWindrunner.labelFemalePlural>风行者</OrassanWindrunner.labelFemalePlural>
+
+
+  <!-- Elder -->
+
+  <OrassanElder.label>长老</OrassanElder.label>
+  <OrassanElder.labelPlural>长老</OrassanElder.labelPlural>
+  <OrassanElder.labelMale>长老</OrassanElder.labelMale>
+  <OrassanElder.labelMalePlural>长老</OrassanElder.labelMalePlural>
+  <OrassanElder.labelFemale>长老</OrassanElder.labelFemale>
+  <OrassanElder.labelFemalePlural>长老</OrassanElder.labelFemalePlural>
+
+
+  <!-- Trader -->
+
+  <OrassanTrader.label>交易员</OrassanTrader.label>
+  <OrassanTrader.labelPlural>交易员</OrassanTrader.labelPlural>
+  <OrassanTrader.labelMale>交易员</OrassanTrader.labelMale>
+  <OrassanTrader.labelMalePlural>交易员</OrassanTrader.labelMalePlural>
+  <OrassanTrader.labelFemale>交易员</OrassanTrader.labelFemale>
+  <OrassanTrader.labelFemalePlural>交易员</OrassanTrader.labelFemalePlural>
+
+
+  <!-- Adventurer -->
+
+  <OrassanAdventurer.label>探险家</OrassanAdventurer.label>
+  <OrassanAdventurer.labelPlural>探险家</OrassanAdventurer.labelPlural>
+  <OrassanAdventurer.labelMale>探险家</OrassanAdventurer.labelMale>
+  <OrassanAdventurer.labelMalePlural>探险家</OrassanAdventurer.labelMalePlural>
+  <OrassanAdventurer.labelFemale>探险家</OrassanAdventurer.labelFemale>
+  <OrassanAdventurer.labelFemalePlural>探险家</OrassanAdventurer.labelFemalePlural>
+
+
+  <!-- Hunter -->
+
+  <OrassanHunter.label>猎手</OrassanHunter.label>
+  <OrassanHunter.labelPlural>猎手</OrassanHunter.labelPlural>
+  <OrassanHunter.labelMale>猎手</OrassanHunter.labelMale>
+  <OrassanHunter.labelMalePlural>猎手</OrassanHunter.labelMalePlural>
+  <OrassanHunter.labelFemale>猎手</OrassanHunter.labelFemale>
+  <OrassanHunter.labelFemalePlural>猎手</OrassanHunter.labelFemalePlural>
+
+
+  <!-- Predator -->
+
+  <OrassanPredator.label>掠夺者</OrassanPredator.label>
+  <OrassanPredator.labelPlural>掠夺者</OrassanPredator.labelPlural>
+  <OrassanPredator.labelMale>掠夺者</OrassanPredator.labelMale>
+  <OrassanPredator.labelMalePlural>掠夺者</OrassanPredator.labelMalePlural>
+  <OrassanPredator.labelFemale>掠夺者</OrassanPredator.labelFemale>
+  <OrassanPredator.labelFemalePlural>掠夺者</OrassanPredator.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Villager -->
+
+  <Villager.label>Villager</Villager.label>
+  <Villager.labelPlural>Villagers</Villager.labelPlural>
+
+
+  <!-- Councilman -->
+
+  <TownCouncilman.label>Councilman</TownCouncilman.label>
+  <TownCouncilman.labelPlural>town councilmen</TownCouncilman.labelPlural>
+
+
+  <!-- Trader -->
+
+  <TownTrader.label>town trader</TownTrader.label>
+  <TownTrader.labelPlural>town traders</TownTrader.labelPlural>
+
+
+  <!-- Guard -->
+
+  <TownGuard.label>Guard</TownGuard.label>
+  <TownGuard.labelPlural>Guards</TownGuard.labelPlural>
+
+
+  <!--[Core] <Villager.label>城镇居民</Villager.label>-->
+  <!--[Core] <Villager.labelPlural>城镇居民</Villager.labelPlural>-->
+  <!--[Core] <TownCouncilman.label>城镇议员</TownCouncilman.label>-->
+  <!--[Core] <TownCouncilman.labelPlural>城镇议员</TownCouncilman.labelPlural>-->
+  <!--[Core] <TownTrader.label>城镇商人</TownTrader.label>-->
+  <!--[Core] <TownTrader.labelPlural>城镇商人</TownTrader.labelPlural>-->
+  <!--[Core] <TownGuard.label>城镇守卫</TownGuard.label>-->
+  <!--[Core] <TownGuard.labelPlural>城镇守卫</TownGuard.labelPlural>-->
+  <!--<Villager.label>Villager</Villager.label>-->
+  <!--<Villager.labelPlural>Villagers</Villager.labelPlural>-->
+  <!--<TownCouncilman.label>Councilman</TownCouncilman.label>-->
+  <!--<TownCouncilman.labelPlural>town councilmen</TownCouncilman.labelPlural>-->
+  <!--<TownTrader.label>town trader</TownTrader.label>-->
+  <!--<TownTrader.labelPlural>town traders</TownTrader.labelPlural>-->
+  <!--<TownGuard.label>Guard</TownGuard.label>-->
+  <!--<TownGuard.labelPlural>Guards</TownGuard.labelPlural>-->
+
+</LanguageData>

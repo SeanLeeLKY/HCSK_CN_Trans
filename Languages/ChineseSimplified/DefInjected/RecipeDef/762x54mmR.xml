@@ -3,15 +3,15 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_762x54mmR_FMJ.label>制造 7.62x54mmR 弹药 (FMJ) x60</MakeAmmo_762x54mmR_FMJ.label>
+  <MakeAmmo_762x54mmR_FMJ.label>make 7.62x54mmR (FMJ) cartridge x60</MakeAmmo_762x54mmR_FMJ.label>
   <MakeAmmo_762x54mmR_FMJ.description>Craft 60 7.62x54mmR (FMJ) cartridges.</MakeAmmo_762x54mmR_FMJ.description>
   <MakeAmmo_762x54mmR_FMJ.jobString>Making 7.62x54mmR (FMJ) cartridges.</MakeAmmo_762x54mmR_FMJ.jobString>
 
-  <MakeAmmo_762x54mmR_AP.label>制造 7.62x54mmR 弹药 (AP)  x60</MakeAmmo_762x54mmR_AP.label>
+  <MakeAmmo_762x54mmR_AP.label>make 7.62x54mmR (AP) cartridge x60</MakeAmmo_762x54mmR_AP.label>
   <MakeAmmo_762x54mmR_AP.description>Craft 60 7.62x54mmR (AP) cartridges.</MakeAmmo_762x54mmR_AP.description>
   <MakeAmmo_762x54mmR_AP.jobString>Making 7.62x54mmR (AP) cartridges.</MakeAmmo_762x54mmR_AP.jobString>
 
-  <MakeAmmo_762x54mmR_HP.label>制造 7.62x54mmR 弹药(HP) x60</MakeAmmo_762x54mmR_HP.label>
+  <MakeAmmo_762x54mmR_HP.label>make 7.62x54mmR (HP) cartridge x60</MakeAmmo_762x54mmR_HP.label>
   <MakeAmmo_762x54mmR_HP.description>Craft 60 7.62x54mmR (HP) cartridges.</MakeAmmo_762x54mmR_HP.description>
   <MakeAmmo_762x54mmR_HP.jobString>Making 7.62x54mmR (HP) cartridges.</MakeAmmo_762x54mmR_HP.jobString>
 

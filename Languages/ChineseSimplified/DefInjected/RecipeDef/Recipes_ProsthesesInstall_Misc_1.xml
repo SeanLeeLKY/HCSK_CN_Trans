@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artificial body parts - simple -->
+
+  <InstallArtificialBone_Small.label>安装人造骨头</InstallArtificialBone_Small.label>
+  <InstallArtificialBone_Small.description>Repairs a damaged bone with an Artificial Bone.</InstallArtificialBone_Small.description>
+  <InstallArtificialBone_Small.jobString>安装人造骨头</InstallArtificialBone_Small.jobString>
+
+  <InstallArtificialBone_Medium.label>安装人造骨头</InstallArtificialBone_Medium.label>
+  <InstallArtificialBone_Medium.description>Repairs a damaged bone with two Artificial Bones.</InstallArtificialBone_Medium.description>
+  <InstallArtificialBone_Medium.jobString>安装人造骨头</InstallArtificialBone_Medium.jobString>
+
+  <InstallArtificialBonePiece_Large.label>安装人造骨头</InstallArtificialBonePiece_Large.label>
+  <InstallArtificialBonePiece_Large.description>Repairs a damaged bone with three Artificial Bones.</InstallArtificialBonePiece_Large.description>
+  <InstallArtificialBonePiece_Large.jobString>安装人造骨头</InstallArtificialBonePiece_Large.jobString>
+
+
+  <!-- Heal scar -->
+
+  <HealScars.label>治疗伤痕</HealScars.label>
+  <HealScars.description>Heals scars by using Synthetic Skin.</HealScars.description>
+  <HealScars.jobString>治疗伤痕</HealScars.jobString>
+
+  <Installsenex.label>Install senexium安装年龄加速器？</Installsenex.label>
+  <Installsenex.description>Installs senexium device.</Installsenex.description>
+  <Installsenex.jobString>Installing senexium device.</Installsenex.jobString>
+
+  <CreateBrainStimulator.label>制作脑刺激器</CreateBrainStimulator.label>
+  <CreateBrainStimulator.description>Crafts a simple brain stimulator. Produces 1.</CreateBrainStimulator.description>
+  <CreateBrainStimulator.jobString>制作脑刺激器</CreateBrainStimulator.jobString>
+
+  <InstallBrainStimulator.label>安装脑刺激器</InstallBrainStimulator.label>
+  <InstallBrainStimulator.description>Installs a Brain Stimulator.</InstallBrainStimulator.description>
+  <InstallBrainStimulator.jobString>安装脑刺激器</InstallBrainStimulator.jobString>
+
+
+</LanguageData>

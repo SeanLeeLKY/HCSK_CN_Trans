@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DropPodFlying.label>飞落空降仓</DropPodFlying.label>
-  <ShipWreckFlying.label>飞落飞船残骸</ShipWreckFlying.label>
-  <DebrisFlying.label>飞落碎片</DebrisFlying.label>
-  <MeteoriteFlying.label>飞落陨石</MeteoriteFlying.label>
-  <Crater.label>陨石坑</Crater.label>
+  <DropPodFlying.label>flying drop pod</DropPodFlying.label>
+  <ShipWreckFlying.label>flying ship wreck</ShipWreckFlying.label>
+  <DebrisFlying.label>flying debris</DebrisFlying.label>
+  <MeteoriteFlying.label>flying meteorite</MeteoriteFlying.label>
+  <Crater.label>crater</Crater.label>
 
 
 </LanguageData>

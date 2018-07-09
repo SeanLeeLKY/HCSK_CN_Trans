@@ -12,7 +12,7 @@
   <FemShort.label>Short</FemShort.label>
   <RHPonytail.label>Ponytail</RHPonytail.label>
   <PunkKnot.label>PunkKnot</PunkKnot.label>
-  <Messy.label>Messy</Messy.label>
+  <!--[Duplicated] <Messy.label>Messy</Messy.label>-->
   <StrongCurly.label>Strong curly</StrongCurly.label>
   <Vintage.label>Vintage</Vintage.label>
   <ClassyM.label>Classy</ClassyM.label>
@@ -23,7 +23,5 @@
   <BushyRS.label>Bushy</BushyRS.label>
   <RBraid.label>Braid</RBraid.label>
 
-
-  <!--[Core] <Messy.label>凌乱</Messy.label>-->
 
 </LanguageData>

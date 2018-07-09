@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlantCutting.label>Plant cut</PlantCutting.label>
+  <PlantCutting.description>Cut or harvest plants as designated.</PlantCutting.description>
+  <PlantCutting.labelShort>Plant cut</PlantCutting.labelShort>
+  <PlantCutting.pawnLabel>Plant cutter</PlantCutting.pawnLabel>
+  <PlantCutting.gerundLabel>Plant cutting</PlantCutting.gerundLabel>
+  <PlantCutting.verb>Cut</PlantCutting.verb>
+
+
+  <!--[Core] <PlantCutting.label>割除</PlantCutting.label>-->
+  <!--[Core] <PlantCutting.description>收割者负责割除并收获你标记的植物，砍伐你标记的树木。</PlantCutting.description>-->
+  <!--[Core] <PlantCutting.labelShort>割除</PlantCutting.labelShort>-->
+  <!--[Core] <PlantCutting.pawnLabel>收割者</PlantCutting.pawnLabel>-->
+  <!--[Core] <PlantCutting.gerundLabel>割除</PlantCutting.gerundLabel>-->
+  <!--[Core] <PlantCutting.verb>割除</PlantCutting.verb>-->
+  <!--<PlantCutting.label>作物收割</PlantCutting.label>-->
+  <!--<PlantCutting.description>割除或者收获指定的植物。</PlantCutting.description>-->
+  <!--<PlantCutting.labelShort>作物收割</PlantCutting.labelShort>-->
+  <!--<PlantCutting.pawnLabel>作物收割</PlantCutting.pawnLabel>-->
+  <!--<PlantCutting.gerundLabel>收割植物</PlantCutting.gerundLabel>-->
+  <!--<PlantCutting.verb>割除</PlantCutting.verb>-->
+
+</LanguageData>

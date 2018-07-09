@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Raw Materials -->
+
+  <RawCotton.label>Raw Cotton</RawCotton.label>
+  <RawCotton.description>Raw Cotton from a Cotton Bush. It can be spun into Cloth at a Tailor's Workbench.</RawCotton.description>
+
+  <RawFlax.label>Raw flax</RawFlax.label>
+  <RawFlax.description>Raw flax. It can be spun into cloth or sold to a trader.</RawFlax.description>
+
+  <RawDevilstrand.label>Raw Devilstrand</RawDevilstrand.label>
+  <RawDevilstrand.description>Raw Devilstrand from a Devilstrand Mushroom. It can be spun into Devilstrand Cloth at a Tailor's Workbench.</RawDevilstrand.description>
+
+
+</LanguageData>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Crashlanded.label>迫降</Crashlanded.label>
+  <Crashlanded.label>Crashlanded</Crashlanded.label>
   <Crashlanded.description>Somewhere in the deep space, far from magnificent Glitterworlds, a slave ship full of its recent catch was orbiting an isolated planet.\n\n     No one knows what caused the explosion in the cargo deck, but the ship was torn apart instantly. The few slavers that survived the explosion tried to flee in the escape pods, but a failure emergency systems lead to automatic pre-release of those pods. Scattered ship parts crashed onto the planet's surface, killing everyone who was awake inside.\n\n     Nevertheless, some of the slaves sleeping in the prisoner cryptosleep caskets managed to survive the impact and awoke from their slumber. They had no idea where they were, how far away from home they were taken, or if they ever would get back again. As the debris settled, they trudged out onto the foreign land and began their survival in this harsh Rimworld.
 		
 		Note: this scenario should have to start without creating a colonists in the manual mode (prepare carefully).
@@ -14,11 +14,5 @@
 		</Crashlanded.scenario.description>
   <Crashlanded.scenario.parts.0.text>     Somewhere in the deep space, far from magnificent Glitterworlds, a slave ship full of its recent catch was orbiting an isolated planet.\n\n     No one knows what caused the explosion in the cargo deck, but the ship was torn apart instantly. The few slavers that survived the explosion tried to flee in the escape pods, but a failure emergency systems lead to automatic pre-release of those pods. Scattered ship parts crashed onto the planet's surface, killing everyone who was awake inside.\n\n     Nevertheless, some of the slaves sleeping in the prisoner cryptosleep caskets managed to survive the impact and awoke from their slumber. They had no idea where they were, how far away from home they were taken, or if they ever would get back again. As the debris settled, they trudged out onto the foreign land and began their survival in this harsh Rimworld.</Crashlanded.scenario.parts.0.text>
 
-
-  <!--[Core] <Crashlanded.label>迫降</Crashlanded.label>-->
-  <!--[Core] <Crashlanded.description>你们三人在刺耳的警报声与金属碎裂声中从低温休眠舱内醒来，然后勉强在飞船四分五裂前钻进了逃生舱内。随后不久，你们降落到了这个充满未知的边缘世界上。</Crashlanded.description>-->
-  <!--[Core] <Crashlanded.scenario.name>迫降</Crashlanded.scenario.name>-->
-  <!--[Core] <Crashlanded.scenario.summary>三名迫降生还者 - RimWorld经典的开局模式。</Crashlanded.scenario.summary>-->
-  <!--[Core] <Crashlanded.scenario.description>你们三人在刺耳的警报声与金属碎裂声中从低温休眠舱内醒来，然后勉强在飞船四分五裂前钻进了逃生舱内。随后不久，你们降落到了这个充满未知的边缘世界上。</Crashlanded.scenario.description>-->
 
 </LanguageData>

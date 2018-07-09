@@ -1,49 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HungryCritters.label>饿疯的小动物</HungryCritters.label>
-  <DevourersOfCrops.label>作物吞噬者</DevourersOfCrops.label>
-  <Swarm.label>杀人蜂</Swarm.label>
-  <ZeonIncoming.label>Zeon来袭！</ZeonIncoming.label>
-  <Accident.label>事故</Accident.label>
-  <FeenixPasses.label>芬尼克斯路过</FeenixPasses.label>
+  <MalariaRaid.label>malaira epidemic</MalariaRaid.label>
+  <MalariaRaid.letterText></MalariaRaid.letterText>
 
-  <IcicatPasses.label>冰麟路过</IcicatPasses.label>
-  <IcicatPasses.letterText>一场不寻常的寒流已经开始了。当心低温病和冻死植物。</IcicatPasses.letterText>
-  <IcicatPasses.letterLabel>寒潮</IcicatPasses.letterLabel>
+  <FleaRaid.label>plague epidemic</FleaRaid.label>
+  <FleaRaid.letterLabel>Epidemic: Plague</FleaRaid.letterLabel>
 
-  <RaptorPasses.label>猛禽路过</RaptorPasses.label>
-  <TribeMigration.label>部落迁徙</TribeMigration.label>
-  <BoulderHit.label>巨石轰击</BoulderHit.label>
-  <BoulderMassHit.label>巨石团轰击</BoulderMassHit.label>
-  <RazorRain.label>“刀雨”</RazorRain.label>
-  <HungryLocusts.label>饥饿的蝗虫</HungryLocusts.label>
-  <MalariaRaid.label>疟疾来袭</MalariaRaid.label>
-  <FleaRaid.label>跳蚤来袭</FleaRaid.label>
-  <Plunderers.label>掠夺者</Plunderers.label>
-  <Earthquake.label>地震</Earthquake.label>
-  <AnimalGenocide.label>动物灭绝</AnimalGenocide.label>
-  <PrisonSuicide.label>监狱自杀</PrisonSuicide.label>
-  <NuclearIncident.label>核事故</NuclearIncident.label>
-  <NuclearFallout.label>核辐射</NuclearFallout.label>
-  <CosmicRadiation.label>宇宙辐射</CosmicRadiation.label>
-  <AnimalMigration.label>动物迁徙</AnimalMigration.label>
-  <Stroke.label>中风</Stroke.label>
-  <AccidentalExplosion.label>意外爆炸</AccidentalExplosion.label>
-  <SickNausea.label>恶心反胃</SickNausea.label>
-  <ColonistStash.label>殖民者隐藏</ColonistStash.label>
-  <EclipseFeral.label>奇怪日食</EclipseFeral.label>
-  <EclipseMeteorImpact.label>陨星日食</EclipseMeteorImpact.label>
-  <MysteriousTransmission.label>神秘信息传输</MysteriousTransmission.label>
-  <MajorRescue.label>大型营救</MajorRescue.label>
-  <HiddenResources.label>隐藏的资源</HiddenResources.label>
-  <Thanksgiving.label>感恩</Thanksgiving.label>
-  <OrassianFound.label>发现奥瑞森人</OrassianFound.label>
+  <SkyFall.label>skyfall</SkyFall.label>
+  <MoonFall.label>moonfall</MoonFall.label>
+  <HungryCritters.label>Hungry critters</HungryCritters.label>
+  <DevourersOfCrops.label>Devourers of crops</DevourersOfCrops.label>
+  <Swarm.label>Swarm</Swarm.label>
+  <ZeonIncoming.label>Zeon incoming</ZeonIncoming.label>
+  <Accident.label>Accident</Accident.label>
+  <FeenixPasses.label>fenix passes</FeenixPasses.label>
 
+  <IcicatPasses.label>Kirin passes</IcicatPasses.label>
+  <IcicatPasses.letterText>An unusual cold snap has set in. Watch out for hypothermia and dying crops.</IcicatPasses.letterText>
+  <IcicatPasses.letterLabel>Cold Snap</IcicatPasses.letterLabel>
 
-  <!--<OrassanBombardmentIncident.label>轨道轰炸</OrassanBombardmentIncident.label>-->
-  <!--<OrassanBombardmentIncident.letterText>奥瑞森人对你极其不满，他们在轨道上的军舰对你开炮了！</OrassanBombardmentIncident.letterText>-->
-  <!--<OrassanBombardmentIncident.letterLabel>轨道轰炸</OrassanBombardmentIncident.letterLabel>-->
-  <!--<UnexpectedGuest.label>不速之客</UnexpectedGuest.label>-->
+  <RaptorPasses.label>raptor passes</RaptorPasses.label>
+  <TribeMigration.label>tribe migration</TribeMigration.label>
+  <BoulderMassHit.label>boulder masshit</BoulderMassHit.label>
+  <RazorRain.label>razor rain</RazorRain.label>
+  <HungryLocusts.label>hungry locusts</HungryLocusts.label>
+  <Plunderers.label>plunderers</Plunderers.label>
+  <Earthquake.label>earthquake</Earthquake.label>
+  <SeismicActivity.label>Seismic activity</SeismicActivity.label>
+  <AnimalGenocide.label>animal genocide</AnimalGenocide.label>
+  <PrisonSuicide.label>prison suicide</PrisonSuicide.label>
+  <NuclearIncident.label>nuclear incident</NuclearIncident.label>
+  <NuclearFallout.label>nuclear fallout</NuclearFallout.label>
+  <CosmicRadiation.label>cosmic radiation</CosmicRadiation.label>
+  <AccidentalExplosion.label>accidental explosion</AccidentalExplosion.label>
+  <ColonistStash.label>colonist stash</ColonistStash.label>
+  <EclipseFeral.label>eclipse feral</EclipseFeral.label>
+  <EclipseMeteorImpact.label>eclipse meteor impact</EclipseMeteorImpact.label>
+  <MysteriousTransmission.label>mysterious transmission</MysteriousTransmission.label>
+  <MajorRescue.label>major rescue</MajorRescue.label>
+  <HiddenResources.label>hidden resources</HiddenResources.label>
+  <Thanksgiving.label>thanksgiving</Thanksgiving.label>
+  <OrassianFound.label>orassian found</OrassianFound.label>
+  <TraitChange.label>trait change</TraitChange.label>
+  <TraitRemove.label>trait removed</TraitRemove.label>
+
 
 </LanguageData>

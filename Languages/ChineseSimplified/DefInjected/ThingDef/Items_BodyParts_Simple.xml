@@ -3,14 +3,29 @@
 
   <!-- simple parts -->
 
-  <GlassEye.label>玻璃眼</GlassEye.label>
+  <GlassEye.label>Glass Eye</GlassEye.label>
   <GlassEye.description>Replaces missing eyes. Prettier than eye patches.</GlassEye.description>
 
-  
+  <ArtificialNose.label>Artificial Nose</ArtificialNose.label>
+  <ArtificialNose.description>Replaces a missing nose. Covers the hole in the face.</ArtificialNose.description>
 
-  <!--[Core] <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>-->
-  <!--[Core] <SimpleProstheticLeg.description>用来替换缺失的腿的假肢，不是很舒服但是相当有效。</SimpleProstheticLeg.description>-->
-  <!--[Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->
-  <!--[Core] <SimpleProstheticArm.description>简易但耐用的假臂。</SimpleProstheticArm.description>-->
+  <HydraulicJaw.label>Hydraulic Jaw</HydraulicJaw.label>
+  <HydraulicJaw.description>Replaces a missing jaw. Be careful with the extremely efficient teeth!</HydraulicJaw.description>
+
+  <SimpleProstheticHand.label>Simple Prosthetic Hand</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>Replaces missing hands. Way more comfortable and less frightening than the hook hand.</SimpleProstheticHand.description>
+
+  <SimpleProstheticFoot.label>Simple Prosthetic Foot</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>Replaces missing feet. Not as cheap as a wood log.</SimpleProstheticFoot.description>
+
+  <SimpleProstheticLeg.label>Simple Prosthetic Leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>Simple prosthesis made to replace missing leg. Not very comfortable but quite efficient.</SimpleProstheticLeg.description>
+
+  <SimpleProstheticArm.label>Simple Prosthetic Arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>A simple but durable arm prosthesis.</SimpleProstheticArm.description>
+
+  <ArtificialPelvis.label>Artificial Pelvis</ArtificialPelvis.label>
+  <ArtificialPelvis.description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite kind of moving around.</ArtificialPelvis.description>
+
 
 </LanguageData>

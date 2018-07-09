@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildGun_BoltActionRifle.label>制造 李-恩菲尔德 步枪</BuildGun_BoltActionRifle.label>
+  <BuildGun_BoltActionRifle.label>Build Lee-Enfield</BuildGun_BoltActionRifle.label>
   <BuildGun_BoltActionRifle.description>Builds an ancient bolt-action rifle. Good range, good power and low rate of fire.\nCaliber: .303 British</BuildGun_BoltActionRifle.description>
   <BuildGun_BoltActionRifle.jobString>Building Lee-Enfield.</BuildGun_BoltActionRifle.jobString>
 
-  <BuildMosinBoltRifle.label>制造 莫辛-纳甘M91 步枪</BuildMosinBoltRifle.label>
+  <BuildMosinBoltRifle.label>Build Mosin-Nagant M91</BuildMosinBoltRifle.label>
   <BuildMosinBoltRifle.description>Builds a Mosin-Nagant M91, an ancient bolt-action rifle. Good range, dood power and low rate of fire.\nCaliber: 7.62x54mm R</BuildMosinBoltRifle.description>
   <BuildMosinBoltRifle.jobString>Building Mosin-Nagant M91.</BuildMosinBoltRifle.jobString>
 
-  <BuildCXfour.label>制造 伯莱塔Cx4“风暴”卡宾枪</BuildCXfour.label>
+  <BuildCXfour.label>Build Beretta CX4</BuildCXfour.label>
   <BuildCXfour.description>Builds the Beretta CX4, a highly reliable compact carbine. Below average damage, average fire rate, above average range and fires in two round burst.\nCaliber: 9x19mm Para</BuildCXfour.description>
   <BuildCXfour.jobString>Building Beretta CX4.</BuildCXfour.jobString>
 
-  <BuildPCnine.label>制造 鲁格PC-9 步枪</BuildPCnine.label>
+  <BuildPCnine.label>Build Ruger PC-9</BuildPCnine.label>
   <BuildPCnine.description>Builds the Ruger PC-9, a carbine sidearm with pistol-calibre. Average damage, above average fire rate and average range.\nCaliber: .40 Rimfire</BuildPCnine.description>
   <BuildPCnine.jobString>Building Ruger PC-9.</BuildPCnine.jobString>
 
-  <BuildUSC.label>制造 HK USC 步枪</BuildUSC.label>
+  <BuildUSC.label>Build HK USC</BuildUSC.label>
   <BuildUSC.description>Builds the HK USC, a stable semi-automatic pistol-calibre carbine with low kickback and an unusual stock design. Average damage, above average fire rate and range that fires three round bursts.\nCaliber: .45 ACP</BuildUSC.description>
   <BuildUSC.jobString>Building HK USC.</BuildUSC.jobString>
 
-  <BuildAKS74U.label>制造 AKS-74U 突击步枪</BuildAKS74U.label>
+  <BuildAKS74U.label>Build AKS-74U</BuildAKS74U.label>
   <BuildAKS74U.description>Builds the AKS-74U short assault rifle. Average damage and rate of fire, low range but poor accurracy. \nCaliber: 5.45x39mm R</BuildAKS74U.description>
   <BuildAKS74U.jobString>Building AKS-74U.</BuildAKS74U.jobString>
 
-  <BuildM4A1Gun.label>制造 M4A1 卡宾枪</BuildM4A1Gun.label>
+  <BuildM4A1Gun.label>Build M4A1 Carbine</BuildM4A1Gun.label>
   <BuildM4A1Gun.description>Builds the M4A1 Carbine, a shorter and lighter variant of the M16A2 assault rifle. Average damage and range, good rate of fire and good accurracy.\nCaliber: 5.56x45mm NATO</BuildM4A1Gun.description>
   <BuildM4A1Gun.jobString>Building M4A1 Carbine.</BuildM4A1Gun.jobString>
 

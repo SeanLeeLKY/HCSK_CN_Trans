@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SavannaSoil.label>savanna soil</SavannaSoil.label>
+
+  <RockySoil.label>石砾</RockySoil.label>
+  <RockySoil.description>Rocky area, not good for plants.
+Fertility: 30%.</RockySoil.description>
+
+  <Topsoil.label>表土</Topsoil.label>
+  <Topsoil.description>Fertilized soil, alright for plant growth.
+Fertility: 100%.</Topsoil.description>
+
+  <DirtFert.label>肥沃土壤</DirtFert.label>
+  <DirtFert.description>Fertilized soil, good for plant growth.
+Fertility: 140%.</DirtFert.description>
+
+  <SoilTilled.label>精耕土壤</SoilTilled.label>
+  <SoilTilled.description>Plowed soil, excelent for plant growth.
+Fertility: 180%.</SoilTilled.description>
+
+  <PoorSoil.label>贫瘠土地</PoorSoil.label>
+  <PoorSoil.description>Poor soil lacks the nutrients required to support plant growth.
+Fertility: 30%.</PoorSoil.description>
+
+  <MarginalSoil.label>次级土地</MarginalSoil.label>
+  <MarginalSoil.description>Marginal soil lacks enough nutrients to support plant growth.
+Fertility: 70%.</MarginalSoil.description>
+
+  <DustySoil.label>沙土</DustySoil.label>
+  <DustySoil.description>Dusty soil, too dry and barren to support plant growth.
+Fertility: 40%.</DustySoil.description>
+
+
+</LanguageData>

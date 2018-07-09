@@ -3,15 +3,15 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_120mmCannonShell_HEAT.label>制造 120mm HEAT 炮弹 x1</MakeAmmo_120mmCannonShell_HEAT.label>
+  <MakeAmmo_120mmCannonShell_HEAT.label>make 120mm HEAT cannon shells x1</MakeAmmo_120mmCannonShell_HEAT.label>
   <MakeAmmo_120mmCannonShell_HEAT.description>Craft 120mm HEAT cannon shells.</MakeAmmo_120mmCannonShell_HEAT.description>
   <MakeAmmo_120mmCannonShell_HEAT.jobString>Making 120mm HEAT cannon shells.</MakeAmmo_120mmCannonShell_HEAT.jobString>
 
-  <MakeAmmo_120mmCannonShell_HE.label>制造 120mm HE 炮弹 x1</MakeAmmo_120mmCannonShell_HE.label>
+  <MakeAmmo_120mmCannonShell_HE.label>make 120mm HE cannon shells x1</MakeAmmo_120mmCannonShell_HE.label>
   <MakeAmmo_120mmCannonShell_HE.description>Craft 120mm HE cannon shells.</MakeAmmo_120mmCannonShell_HE.description>
   <MakeAmmo_120mmCannonShell_HE.jobString>Making 120mm HE cannon shells.</MakeAmmo_120mmCannonShell_HE.jobString>
 
-  <MakeAmmo_120mmCannonShell_EMP.label>制造 120mm EMP 炮弹 x1</MakeAmmo_120mmCannonShell_EMP.label>
+  <MakeAmmo_120mmCannonShell_EMP.label>make 120mm EMP cannon shells x1</MakeAmmo_120mmCannonShell_EMP.label>
   <MakeAmmo_120mmCannonShell_EMP.description>Craft 120mm EMP cannon shells.</MakeAmmo_120mmCannonShell_EMP.description>
   <MakeAmmo_120mmCannonShell_EMP.jobString>Making 120mm EMP cannon shells.</MakeAmmo_120mmCannonShell_EMP.jobString>
 

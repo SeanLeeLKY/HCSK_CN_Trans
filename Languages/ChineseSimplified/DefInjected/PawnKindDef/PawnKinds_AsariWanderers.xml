@@ -1,34 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Villager Base -->
+
+  <AsariVillager.label>AsariVillager</AsariVillager.label>
+  <AsariVillager.labelPlural>AsariVillagers</AsariVillager.labelPlural>
+  <AsariVillager.labelMale>male AsariVillager</AsariVillager.labelMale>
+  <AsariVillager.labelMalePlural>male AsariVillagers</AsariVillager.labelMalePlural>
+  <AsariVillager.labelFemale>female AsariVillager</AsariVillager.labelFemale>
+  <AsariVillager.labelFemalePlural>female AsariVillagers</AsariVillager.labelFemalePlural>
+
+
+  <!-- Refugee -->
+
+  <AsariRefugee.label>AsariRefugee</AsariRefugee.label>
+  <AsariRefugee.labelPlural>AsariRefugees</AsariRefugee.labelPlural>
+  <AsariRefugee.labelMale>male AsariRefugee</AsariRefugee.labelMale>
+  <AsariRefugee.labelMalePlural>male AsariRefugees</AsariRefugee.labelMalePlural>
+  <AsariRefugee.labelFemale>female AsariRefugee</AsariRefugee.labelFemale>
+  <AsariRefugee.labelFemalePlural>female AsariRefugees</AsariRefugee.labelFemalePlural>
+
+
   <!-- Overmaster -->
 
-  <AsariOvermaster.label>阿萨利征服者</AsariOvermaster.label>
-  <AsariOvermaster.labelPlural>阿萨利征服者</AsariOvermaster.labelPlural>
-  <AsariOvermaster.labelMale>男性阿萨利征服者</AsariOvermaster.labelMale>
-  <AsariOvermaster.labelMalePlural>男性阿萨利征服者</AsariOvermaster.labelMalePlural>
-  <AsariOvermaster.labelFemale>女性阿萨利征服者</AsariOvermaster.labelFemale>
-  <AsariOvermaster.labelFemalePlural>女性阿萨利征服者</AsariOvermaster.labelFemalePlural>
+  <AsariOvermaster.label>Asari Overmaster</AsariOvermaster.label>
+  <AsariOvermaster.labelPlural>Asari Overmasters</AsariOvermaster.labelPlural>
+  <AsariOvermaster.labelMale>male Asari Overmaster</AsariOvermaster.labelMale>
+  <AsariOvermaster.labelMalePlural>male Asari Overmasters</AsariOvermaster.labelMalePlural>
+  <AsariOvermaster.labelFemale>female Asari Overmaster</AsariOvermaster.labelFemale>
+  <AsariOvermaster.labelFemalePlural>female Asari Overmasters</AsariOvermaster.labelFemalePlural>
 
 
   <!-- Enslaver -->
 
-  <AsariEnslaver.label>阿萨利奴役者</AsariEnslaver.label>
-  <AsariEnslaver.labelPlural>阿萨利奴役者</AsariEnslaver.labelPlural>
-  <AsariEnslaver.labelMale>男性阿萨利奴役者</AsariEnslaver.labelMale>
-  <AsariEnslaver.labelMalePlural>男性阿萨利奴役者</AsariEnslaver.labelMalePlural>
-  <AsariEnslaver.labelFemale>女性阿萨利奴役者</AsariEnslaver.labelFemale>
-  <AsariEnslaver.labelFemalePlural>女性阿萨利奴役者</AsariEnslaver.labelFemalePlural>
+  <AsariEnslaver.label>Asari Enslaver</AsariEnslaver.label>
+  <AsariEnslaver.labelPlural>Asari Enslavers</AsariEnslaver.labelPlural>
+  <AsariEnslaver.labelMale>male Asari Enslaver</AsariEnslaver.labelMale>
+  <AsariEnslaver.labelMalePlural>male Asari Enslavers</AsariEnslaver.labelMalePlural>
+  <AsariEnslaver.labelFemale>female Asari Enslaver</AsariEnslaver.labelFemale>
+  <AsariEnslaver.labelFemalePlural>female Asari Enslavers</AsariEnslaver.labelFemalePlural>
 
 
   <!-- Hunter -->
 
-  <AsariHunter.label>阿萨利猎人</AsariHunter.label>
-  <AsariHunter.labelPlural>阿萨利猎人</AsariHunter.labelPlural>
-  <AsariHunter.labelMale>男性阿萨利猎人</AsariHunter.labelMale>
-  <AsariHunter.labelMalePlural>男性阿萨利猎人</AsariHunter.labelMalePlural>
-  <AsariHunter.labelFemale>女性阿萨利猎人</AsariHunter.labelFemale>
-  <AsariHunter.labelFemalePlural>女性阿萨利猎人</AsariHunter.labelFemalePlural>
+  <AsariHunter.label>Asari Hunter</AsariHunter.label>
+  <AsariHunter.labelPlural>Asari Hunters</AsariHunter.labelPlural>
+  <AsariHunter.labelMale>male Asari Hunter</AsariHunter.labelMale>
+  <AsariHunter.labelMalePlural>male Asari Hunters</AsariHunter.labelMalePlural>
+  <AsariHunter.labelFemale>female Asari Hunter</AsariHunter.labelFemale>
+  <AsariHunter.labelFemalePlural>female Asari Hunters</AsariHunter.labelFemalePlural>
 
 
 </LanguageData>

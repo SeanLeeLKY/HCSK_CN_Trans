@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeSulfur.label>提取硫磺</MakeSulfur.label>
+  <MakeSulfur.label>Obtain sulfur</MakeSulfur.label>
   <MakeSulfur.description>Obtain sulfur from iron ore. Sulfur occurs naturally as the pure element - native sulfur and as sulfide and sulfate minerals. It is useful for gunpowder in crafting various types ammo. Produces 10.</MakeSulfur.description>
-  <MakeSulfur.jobString>从铁矿中提取硫磺。</MakeSulfur.jobString>
+  <MakeSulfur.jobString>Obtaining sulfur from iron ore.</MakeSulfur.jobString>
 
-  <MakePowder.label>制造枪药</MakePowder.label>
+  <MakePowder.label>Make gunpowder</MakePowder.label>
   <MakePowder.description>Makes gunpowder, which is useful for crafting ammo. Produces 20.</MakePowder.description>
-  <MakePowder.jobString>制造枪药</MakePowder.jobString>
+  <MakePowder.jobString>Making gunpowder.</MakePowder.jobString>
 
-  <MakeNapalm.label>制造凝固汽油弹</MakeNapalm.label>
+  <MakeNapalm.label>Create napalm</MakeNapalm.label>
   <MakeNapalm.description>Creates napalm, a flammable chemical weapon. Produces 10.</MakeNapalm.description>
-  <MakeNapalm.jobString>制造凝固汽油弹</MakeNapalm.jobString>
+  <MakeNapalm.jobString>Creating napalm.</MakeNapalm.jobString>
 
 
 </LanguageData>

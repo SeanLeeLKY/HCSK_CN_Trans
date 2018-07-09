@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookMealSalad.label>烹饪水果沙拉</CookMealSalad.label>
+  <CookMealSalad.description>Prepares a fruit salad made from raw fruits. Produces 1.</CookMealSalad.description>
+  <CookMealSalad.jobString>Preparing fruit salad.</CookMealSalad.jobString>
+
+  <CookMealSalad_Bulk.label>烹饪水果沙拉 (x4)</CookMealSalad_Bulk.label>
+  <CookMealSalad_Bulk.description>Prepares fruit salads made from raw fruits. Produces 4.</CookMealSalad_Bulk.description>
+  <CookMealSalad_Bulk.jobString>Preparing simple fruit salads.</CookMealSalad_Bulk.jobString>
+
+  <CookRoastedMeat.label>烹制烤肉</CookRoastedMeat.label>
+  <CookRoastedMeat.description>Prepares roasted meat. Produces 1.</CookRoastedMeat.description>
+  <CookRoastedMeat.jobString>Roasting meat.</CookRoastedMeat.jobString>
+
+  <CookRoastedMeatCampfire.label>烹制烤肉</CookRoastedMeatCampfire.label>
+  <CookRoastedMeatCampfire.description>Prepares roasted meat. Produces 1.</CookRoastedMeatCampfire.description>
+  <CookRoastedMeatCampfire.jobString>Roasting meat.</CookRoastedMeatCampfire.jobString>
+
+  <CookRoadMeatx4.label>烹制烤肉(x4)</CookRoadMeatx4.label>
+  <CookRoadMeatx4.description>Prepares roasted meat. Produces 4.</CookRoadMeatx4.description>
+  <CookRoadMeatx4.jobString>Roast meat.</CookRoadMeatx4.jobString>
+
+  <CookMealSimple.label>cook simple meal</CookMealSimple.label>
+  <CookMealSimple.description>Cooks a simple meal from basic ingredients. Produces 1.</CookMealSimple.description>
+  <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>
+
+  <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>
+  <CookMealSimpleCampfire.description>Cooks a simple meal from basic ingredients. Produces 1.</CookMealSimpleCampfire.description>
+  <CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>
+
+  <CookMealSimple_Bulk.label>烹饪简单的食物 (x4)</CookMealSimple_Bulk.label>
+  <CookMealSimple_Bulk.description>Cooks 4 simple meals from basic ingredients.</CookMealSimple_Bulk.description>
+  <CookMealSimple_Bulk.jobString>Cooking simple meals.</CookMealSimple_Bulk.jobString>
+
+  <CookMealFine.label>cook fine meal</CookMealFine.label>
+  <CookMealFine.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients. Produces 1.</CookMealFine.description>
+  <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>
+
+  <CookMealFine_Bulk.label>烹饪精致的食物(x4)</CookMealFine_Bulk.label>
+  <CookMealFine_Bulk.description>Cooks somewhat complex meals from a combination of raw meat and raw plant ingredients. Produces 4.</CookMealFine_Bulk.description>
+  <CookMealFine_Bulk.jobString>Cooking fine meals.</CookMealFine_Bulk.jobString>
+
+  <CookMealLavish.label>cook lavish meal</CookMealLavish.label>
+  <CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Produces 1.</CookMealLavish.description>
+  <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
+
+  <CookMealLavish_Bulk.label>烹饪奢侈的食物(x4)</CookMealLavish_Bulk.label>
+  <CookMealLavish_Bulk.description>Cooks very complex meals from a combination of raw meat and raw plant ingredients. Produces 4.</CookMealLavish_Bulk.description>
+  <CookMealLavish_Bulk.jobString>Cooking lavish meals.</CookMealLavish_Bulk.jobString>
+
+  <CookMealLuxury.label>烹饪豪华套餐</CookMealLuxury.label>
+  <CookMealLuxury.description>Cooks a luxurious meal from a combination of raw meat and raw plant ingredients. Some ingredients are wasted as only the finest will do. Produces 1.</CookMealLuxury.description>
+  <CookMealLuxury.jobString>Cooking luxurious meal.</CookMealLuxury.jobString>
+
+  <CookMealLuxury_Bulk.label>烹饪豪华套餐 (x4)</CookMealLuxury_Bulk.label>
+  <CookMealLuxury_Bulk.description>Cooks Luxurious meals from a combination of raw meat and raw plant ingredients. Some ingredients are wasted as only the finest will do. Produces 4.</CookMealLuxury_Bulk.description>
+  <CookMealLuxury_Bulk.jobString>Cooking luxurious meals.</CookMealLuxury_Bulk.jobString>
+
+  <MakeTofu.label>压制豆腐</MakeTofu.label>
+  <MakeTofu.description>Turns beans into tofu. Tofu is used in place of meat in meals or can be eaten raw. Produces 5.</MakeTofu.description>
+  <MakeTofu.jobString>Pressing tofu.</MakeTofu.jobString>
+
+  <MakeVegetables.label>烹饪炒蔬菜</MakeVegetables.label>
+  <MakeVegetables.description>Prepares a simple dried assortment of vegetables. Produces 1.</MakeVegetables.description>
+  <MakeVegetables.jobString>Cooking fried assorts.</MakeVegetables.jobString>
+
+  <BakePotato.label>烤土豆</BakePotato.label>
+  <BakePotato.description>Prepares baked potatoes from raw potatoes. Produces 1.</BakePotato.description>
+  <BakePotato.jobString>Baking potato.</BakePotato.jobString>
+
+  <HalfCoconut.label>劈椰子</HalfCoconut.label>
+  <HalfCoconut.description>Splits coconuts into two and harvests the milk from the fruit. Produces 5.</HalfCoconut.description>
+  <HalfCoconut.jobString>Splitting coconut.</HalfCoconut.jobString>
+
+  <CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>
+  <CookMealSurvival.description>Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>
+
+
+  <!--[Core] <CookMealSimple.label>烹饪简单的食物</CookMealSimple.label>-->
+  <!--[Core] <CookMealSimple.description>用单种材料烹饪一份简单的食物。</CookMealSimple.description>-->
+  <!--[Core] <CookMealSimple.jobString>正在烹饪简单食物。</CookMealSimple.jobString>-->
+  <!--[Core] <CookMealSimpleCampfire.label>烹饪简单的食物</CookMealSimpleCampfire.label>-->
+  <!--[Core] <CookMealSimpleCampfire.description>用单种材料烹饪一份简单的食物。</CookMealSimpleCampfire.description>-->
+  <!--[Core] <CookMealSimpleCampfire.jobString>正在烹饪简单食物。</CookMealSimpleCampfire.jobString>-->
+  <!--[Core] <CookMealFine.label>烹饪精致的食物</CookMealFine.label>-->
+  <!--[Core] <CookMealFine.description>将生肉和素食材料组合，烹饪一份相对复杂的食物。\n\n必须同时有肉食和素食。</CookMealFine.description>-->
+  <!--[Core] <CookMealFine.jobString>正在烹饪精致食物。</CookMealFine.jobString>-->
+  <!--[Core] <CookMealLavish.label>烹饪奢侈的食物</CookMealLavish.label>-->
+  <!--[Core] <CookMealLavish.description>将生肉和素食材料组合，烹饪一份非常复杂的食物。大部分材料会被浪费。\n\n必须同时有肉食和素食。</CookMealLavish.description>-->
+  <!--[Core] <CookMealLavish.jobString>正在烹饪奢侈食物。</CookMealLavish.jobString>-->
+  <!--[Core] <CookMealSurvival.label>烹饪包装生存食品</CookMealSurvival.label>-->
+  <!--[Core] <CookMealSurvival.description>将生肉和素食材料组合，烹饪一分包装生存食品。大部分材料会被浪费。\n\n必须同时有肉食和素食。</CookMealSurvival.description>-->
+  <!--[Core] <CookMealSurvival.jobString>正在烹饪包装生存食品。</CookMealSurvival.jobString>-->
+  <!--<CookMealSimple.label>cook simple meal</CookMealSimple.label>-->
+  <!--<CookMealSimple.description>Cooks a simple meal from basic ingredients. Produces 1.</CookMealSimple.description>-->
+  <!--<CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>-->
+  <!--<CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>-->
+  <!--<CookMealSimpleCampfire.description>Cooks a simple meal from basic ingredients. Produces 1.</CookMealSimpleCampfire.description>-->
+  <!--<CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>-->
+  <!--<CookMealFine.label>cook fine meal</CookMealFine.label>-->
+  <!--<CookMealFine.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients. Produces 1.</CookMealFine.description>-->
+  <!--<CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>-->
+  <!--<CookMealLavish.label>cook lavish meal</CookMealLavish.label>-->
+  <!--<CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Produces 1.</CookMealLavish.description>-->
+  <!--<CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>-->
+  <!--<CookMealSurvival.label>cook packaged survival meal</CookMealSurvival.label>-->
+  <!--<CookMealSurvival.description>Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealSurvival.description>-->
+  <!--<CookMealSurvival.jobString>Cooking survival meal.</CookMealSurvival.jobString>-->
+  <!--<MakeDriedfruit.label>制作果脯</MakeDriedfruit.label>-->
+  <!--<MakeDriedfruit.description>Dehydrates fruit to increase its lifespan. Produces 1.</MakeDriedfruit.description>-->
+  <!--<MakeDriedfruit.jobString>Drying fruit.</MakeDriedfruit.jobString>-->
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_20x102mm_FMJ.label>20x102mm 子弹 (FMJ)</Ammo_20x102mm_FMJ.label>
+  <Ammo_20x102mm_FMJ.description>The 20 mm caliber is a specific size of cannon and autocannon ammunition.</Ammo_20x102mm_FMJ.description>
+
+  <Ammo_20x102mm_HE.label>20x102mm 子弹 (HE)</Ammo_20x102mm_HE.label>
+  <Ammo_20x102mm_HE.description>The 20 mm caliber is a specific size of cannon and autocannon ammunition.</Ammo_20x102mm_HE.description>
+
+  <Ammo_20x102mm_Incendiary.label>20x102mm 子弹 (AP-I)</Ammo_20x102mm_Incendiary.label>
+  <Ammo_20x102mm_Incendiary.description>The 20 mm caliber is a specific size of cannon and autocannon ammunition.</Ammo_20x102mm_Incendiary.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_20x102mm_FMJ.label>20x102mm 子弹 (FMJ)</Bullet_20x102mm_FMJ.label>
+  <Bullet_20x102mm_HE.label>20x102mm 子弹 (HE)</Bullet_20x102mm_HE.label>
+  <Bullet_20x102mm_Incendiary.label>20x102mm 子弹 (AP-I)</Bullet_20x102mm_Incendiary.label>
+
+
+</LanguageData>

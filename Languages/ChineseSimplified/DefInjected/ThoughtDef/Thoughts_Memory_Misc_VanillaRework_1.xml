@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SleptOutside.stages.0.label>slept outside</SleptOutside.stages.0.label>
+  <SleptOutside.stages.0.description>I had to sleep outdoors without any protection from the elements.</SleptOutside.stages.0.description>
+
+  <SleptOnGround.stages.0.label>slept on ground</SleptOnGround.stages.0.label>
+  <SleptOnGround.stages.0.description>I had to sleep on the ground like an animal.</SleptOnGround.stages.0.description>
+
+  <SleptInCold.stages.0.label>slept in the cold</SleptInCold.stages.0.label>
+  <SleptInCold.stages.0.description>I had to sleep in the cold. We really need some heaters.</SleptInCold.stages.0.description>
+
+  <SleptInHeat.stages.0.label>slept in the heat</SleptInHeat.stages.0.label>
+  <SleptInHeat.stages.0.description>I had to sleep in unbearable heat. Can't we have air conditioning?</SleptInHeat.stages.0.description>
+
+  <KnowPrisonerSold.stages.0.label>a prisoner was sold</KnowPrisonerSold.stages.0.label>
+  <KnowPrisonerSold.stages.0.description>This colony sold a prisoner into slavery. That's a worrying thought.</KnowPrisonerSold.stages.0.description>
+
+  <KnowGuestOrganHarvested.stages.0.label>someone's organ harvested</KnowGuestOrganHarvested.stages.0.label>
+  <KnowGuestOrganHarvested.stages.0.description>The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice.</KnowGuestOrganHarvested.stages.0.description>
+
+  <Nuzzled.stages.0.label>nuzzled</Nuzzled.stages.0.label>
+  <Nuzzled.stages.0.description>A cute animal nuzzled me.</Nuzzled.stages.0.description>
+
+
+  <!-- Human corpse butchering -->
+
+  <ButcheredHumanlikeCorpse.stages.0.label>I butchered humanlike</ButcheredHumanlikeCorpse.stages.0.label>
+  <ButcheredHumanlikeCorpse.stages.0.description>I butchered someone up like an animal.</ButcheredHumanlikeCorpse.stages.0.description>
+
+  <KnowButcheredHumanlikeCorpse.stages.0.label>We butchered humanlike</KnowButcheredHumanlikeCorpse.stages.0.label>
+  <KnowButcheredHumanlikeCorpse.stages.0.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.0.description>
+
+
+  <!-- Combat -->
+
+  <ObservedLayingCorpse.stages.0.label>observed corpse</ObservedLayingCorpse.stages.0.label>
+  <ObservedLayingCorpse.stages.0.description>I saw a dead body laying on the ground. It was disturbing.</ObservedLayingCorpse.stages.0.description>
+
+  <ObservedLayingRottingCorpse.stages.0.label>observed rotting corpse</ObservedLayingRottingCorpse.stages.0.label>
+  <ObservedLayingRottingCorpse.stages.0.description>I saw a rotting corpse laying on the ground. It was disgusting.</ObservedLayingRottingCorpse.stages.0.description>
+
+  <WitnessedDeathAlly.stages.0.label>witnessed ally's death</WitnessedDeathAlly.stages.0.label>
+  <WitnessedDeathAlly.stages.0.description>I saw one of my people die. They were alive one moment, and dead the next.</WitnessedDeathAlly.stages.0.description>
+
+  <WitnessedDeathNonAlly.stages.0.label>witnessed outsider's death</WitnessedDeathNonAlly.stages.0.label>
+  <WitnessedDeathNonAlly.stages.0.description>I saw someone die. They were alive one moment, and dead the next.</WitnessedDeathNonAlly.stages.0.description>
+
+  <WitnessedDeathFamily.stages.0.label>witnessed family member's death</WitnessedDeathFamily.stages.0.label>
+  <WitnessedDeathFamily.stages.0.description>I saw a member of my family die. My own flesh and blood...</WitnessedDeathFamily.stages.0.description>
+
+  <WitnessedDeathBloodlust.stages.0.label>witnessed death with bloodlust</WitnessedDeathBloodlust.stages.0.label>
+  <WitnessedDeathBloodlust.stages.0.description>I saw someone die! That was intense!</WitnessedDeathBloodlust.stages.0.description>
+
+  <KilledHumanlikeBloodlust.stages.0.label>killed someone</KilledHumanlikeBloodlust.stages.0.label>
+  <KilledHumanlikeBloodlust.stages.0.description>I killed someone! What a rush!</KilledHumanlikeBloodlust.stages.0.description>
+
+  <DefeatedHostileFactionLeader.stages.0.label>defeated hostile leader {0}</DefeatedHostileFactionLeader.stages.0.label>
+  <DefeatedHostileFactionLeader.stages.0.description>They were leading efforts to destroy us, and I took them down!</DefeatedHostileFactionLeader.stages.0.description>
+
+  <DefeatedMajorEnemy.stages.0.label>defeated {0}</DefeatedMajorEnemy.stages.0.label>
+  <DefeatedMajorEnemy.stages.0.description>I took down a big threat! I'm a hero!</DefeatedMajorEnemy.stages.0.description>
+
+
+  <!--[Core] <SleptOutside.stages.0.label>在外面睡觉</SleptOutside.stages.0.label>-->
+  <!--[Core] <SleptOutside.stages.0.description>我别无选择只能睡在外面，没有东西可以保护我。</SleptOutside.stages.0.description>-->
+  <!--[Core] <SleptOnGround.stages.0.label>在地上睡觉</SleptOnGround.stages.0.label>-->
+  <!--[Core] <SleptOnGround.stages.0.description>我像动物一样在地上睡觉。</SleptOnGround.stages.0.description>-->
+  <!--[Core] <SleptInCold.stages.0.label>在寒冷中睡觉</SleptInCold.stages.0.label>-->
+  <!--[Core] <SleptInCold.stages.0.description>我睡觉的时候太冷了，我们应该有些加热器才对。</SleptInCold.stages.0.description>-->
+  <!--[Core] <SleptInHeat.stages.0.label>在炎热中睡觉</SleptInHeat.stages.0.label>-->
+  <!--[Core] <SleptInHeat.stages.0.description>我睡觉的时候太热了，我们的空调哪去了？</SleptInHeat.stages.0.description>-->
+  <!--[Core] <KnowPrisonerSold.stages.0.label>囚犯被贩卖</KnowPrisonerSold.stages.0.label>-->
+  <!--[Core] <KnowPrisonerSold.stages.0.description>这个殖民地会把囚犯卖给奴隶贩子，这真令我担忧。</KnowPrisonerSold.stages.0.description>-->
+  <!--[Core] <KnowGuestOrganHarvested.stages.0.label>有人器官被摘取</KnowGuestOrganHarvested.stages.0.label>-->
+  <!--[Core] <KnowGuestOrganHarvested.stages.0.description>这个殖民地会摘取囚犯或访客的器官，在人毫无选择的情况下把人拆成零件，这真是太可怕了！</KnowGuestOrganHarvested.stages.0.description>-->
+  <!--[Core] <Nuzzled.stages.0.label>被亲昵</Nuzzled.stages.0.label>-->
+  <!--[Core] <Nuzzled.stages.0.description>一只可爱的动物刚才过来蹭了蹭我。</Nuzzled.stages.0.description>-->
+  <!--[Core] <ButcheredHumanlikeCorpse.stages.0.label>屠宰了人类</ButcheredHumanlikeCorpse.stages.0.label>-->
+  <!--[Core] <ButcheredHumanlikeCorpse.stages.0.description>我把人像动物一样屠宰了！</ButcheredHumanlikeCorpse.stages.0.description>-->
+  <!--[Core] <KnowButcheredHumanlikeCorpse.stages.0.label>有人被屠宰了</KnowButcheredHumanlikeCorpse.stages.0.label>-->
+  <!--[Core] <KnowButcheredHumanlikeCorpse.stages.0.description>我们把人像动物一样屠宰了。</KnowButcheredHumanlikeCorpse.stages.0.description>-->
+  <!--[Core] <ObservedLayingCorpse.stages.0.label>看见尸体</ObservedLayingCorpse.stages.0.label>-->
+  <!--[Core] <ObservedLayingCorpse.stages.0.description>我看见地上躺着一具尸体，真是让人不舒服。</ObservedLayingCorpse.stages.0.description>-->
+  <!--[Core] <ObservedLayingRottingCorpse.stages.0.label>看见腐烂的尸体</ObservedLayingRottingCorpse.stages.0.label>-->
+  <!--[Core] <ObservedLayingRottingCorpse.stages.0.description>我看见地上躺着一具正在腐烂的尸体。太恶心了。</ObservedLayingRottingCorpse.stages.0.description>-->
+  <!--[Core] <WitnessedDeathAlly.stages.0.label>目睹同伴死亡</WitnessedDeathAlly.stages.0.label>-->
+  <!--[Core] <WitnessedDeathAlly.stages.0.description>我看见我们有人死了，他们前一刻还活着，然后就死了。</WitnessedDeathAlly.stages.0.description>-->
+  <!--[Core] <WitnessedDeathNonAlly.stages.0.label>目睹陌生人死亡</WitnessedDeathNonAlly.stages.0.label>-->
+  <!--[Core] <WitnessedDeathNonAlly.stages.0.description>我看见有人死了，他们前一刻还活着，然后就死了。</WitnessedDeathNonAlly.stages.0.description>-->
+  <!--[Core] <WitnessedDeathFamily.stages.0.label>目睹家人死亡</WitnessedDeathFamily.stages.0.label>-->
+  <!--[Core] <WitnessedDeathFamily.stages.0.description>我眼睁睁地看着我的家人死掉了……</WitnessedDeathFamily.stages.0.description>-->
+  <!--[Core] <WitnessedDeathBloodlust.stages.0.label>目睹死亡</WitnessedDeathBloodlust.stages.0.label>-->
+  <!--[Core] <WitnessedDeathBloodlust.stages.0.description>我看见有人死了！真是爽！</WitnessedDeathBloodlust.stages.0.description>-->
+  <!--[Core] <KilledHumanlikeBloodlust.stages.0.label>杀了人</KilledHumanlikeBloodlust.stages.0.label>-->
+  <!--[Core] <KilledHumanlikeBloodlust.stages.0.description>我亲手杀了一个人！爽爆了！</KilledHumanlikeBloodlust.stages.0.description>-->
+  <!--[Core] <DefeatedHostileFactionLeader.stages.0.label>击败了敌对首领{0}</DefeatedHostileFactionLeader.stages.0.label>-->
+  <!--[Core] <DefeatedHostileFactionLeader.stages.0.description>他们被带领着妄图摧毁我们，然后我解决了他们！</DefeatedHostileFactionLeader.stages.0.description>-->
+  <!--[Core] <DefeatedMajorEnemy.stages.0.label>击败了{0}</DefeatedMajorEnemy.stages.0.label>-->
+  <!--[Core] <DefeatedMajorEnemy.stages.0.description>我解决了一个大威胁！我是英雄！</DefeatedMajorEnemy.stages.0.description>-->
+  <!--<SleptOutside.stages.0.label>slept outside</SleptOutside.stages.0.label>-->
+  <!--<SleptOutside.stages.0.description>I had to sleep outdoors without any protection from the elements.</SleptOutside.stages.0.description>-->
+  <!--<SleptOnGround.stages.0.label>slept on ground</SleptOnGround.stages.0.label>-->
+  <!--<SleptOnGround.stages.0.description>I had to sleep on the ground like an animal.</SleptOnGround.stages.0.description>-->
+  <!--<SleptInCold.stages.0.label>slept in the cold</SleptInCold.stages.0.label>-->
+  <!--<SleptInCold.stages.0.description>I had to sleep in the cold. We really need some heaters.</SleptInCold.stages.0.description>-->
+  <!--<SleptInHeat.stages.0.label>slept in the heat</SleptInHeat.stages.0.label>-->
+  <!--<SleptInHeat.stages.0.description>I had to sleep in unbearable heat. Can't we have air conditioning?</SleptInHeat.stages.0.description>-->
+  <!--<KnowPrisonerSold.stages.0.label>a prisoner was sold</KnowPrisonerSold.stages.0.label>-->
+  <!--<KnowPrisonerSold.stages.0.description>This colony sold a prisoner into slavery. That's a worrying thought.</KnowPrisonerSold.stages.0.description>-->
+  <!--<KnowGuestOrganHarvested.stages.0.label>someone's organ harvested</KnowGuestOrganHarvested.stages.0.label>-->
+  <!--<KnowGuestOrganHarvested.stages.0.description>The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice.</KnowGuestOrganHarvested.stages.0.description>-->
+  <!--<Nuzzled.stages.0.label>nuzzled</Nuzzled.stages.0.label>-->
+  <!--<Nuzzled.stages.0.description>A cute animal nuzzled me.</Nuzzled.stages.0.description>-->
+  <!--<ButcheredHumanlikeCorpse.stages.0.label>I butchered humanlike</ButcheredHumanlikeCorpse.stages.0.label>-->
+  <!--<ButcheredHumanlikeCorpse.stages.0.description>I butchered someone up like an animal.</ButcheredHumanlikeCorpse.stages.0.description>-->
+  <!--<KnowButcheredHumanlikeCorpse.stages.0.label>We butchered humanlike</KnowButcheredHumanlikeCorpse.stages.0.label>-->
+  <!--<KnowButcheredHumanlikeCorpse.stages.0.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.0.description>-->
+  <!--<ObservedLayingCorpse.stages.0.label>observed corpse</ObservedLayingCorpse.stages.0.label>-->
+  <!--<ObservedLayingCorpse.stages.0.description>I saw a dead body laying on the ground. It was disturbing.</ObservedLayingCorpse.stages.0.description>-->
+  <!--<ObservedLayingRottingCorpse.stages.0.label>observed rotting corpse</ObservedLayingRottingCorpse.stages.0.label>-->
+  <!--<ObservedLayingRottingCorpse.stages.0.description>I saw a rotting corpse laying on the ground. It was disgusting.</ObservedLayingRottingCorpse.stages.0.description>-->
+  <!--<WitnessedDeathAlly.stages.0.label>witnessed ally's death</WitnessedDeathAlly.stages.0.label>-->
+  <!--<WitnessedDeathAlly.stages.0.description>I saw one of my people die. They were alive one moment, and dead the next.</WitnessedDeathAlly.stages.0.description>-->
+  <!--<WitnessedDeathNonAlly.stages.0.label>witnessed outsider's death</WitnessedDeathNonAlly.stages.0.label>-->
+  <!--<WitnessedDeathNonAlly.stages.0.description>I saw someone die. They were alive one moment, and dead the next.</WitnessedDeathNonAlly.stages.0.description>-->
+  <!--<WitnessedDeathFamily.stages.0.label>witnessed family member's death</WitnessedDeathFamily.stages.0.label>-->
+  <!--<WitnessedDeathFamily.stages.0.description>I saw a member of my family die. My own flesh and blood...</WitnessedDeathFamily.stages.0.description>-->
+  <!--<WitnessedDeathBloodlust.stages.0.label>witnessed death with bloodlust</WitnessedDeathBloodlust.stages.0.label>-->
+  <!--<WitnessedDeathBloodlust.stages.0.description>I saw someone die! That was intense!</WitnessedDeathBloodlust.stages.0.description>-->
+  <!--<KilledHumanlikeBloodlust.stages.0.label>killed someone</KilledHumanlikeBloodlust.stages.0.label>-->
+  <!--<KilledHumanlikeBloodlust.stages.0.description>I killed someone! What a rush!</KilledHumanlikeBloodlust.stages.0.description>-->
+  <!--<DefeatedHostileFactionLeader.stages.0.label>defeated hostile leader {0}</DefeatedHostileFactionLeader.stages.0.label>-->
+  <!--<DefeatedHostileFactionLeader.stages.0.description>They were leading efforts to destroy us, and I took them down!</DefeatedHostileFactionLeader.stages.0.description>-->
+  <!--<DefeatedMajorEnemy.stages.0.label>defeated {0}</DefeatedMajorEnemy.stages.0.label>-->
+  <!--<DefeatedMajorEnemy.stages.0.description>I took down a big threat! I'm a hero!</DefeatedMajorEnemy.stages.0.description>-->
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateClothTail.label>制造布尾巴</CreateClothTail.label>
+  <CreateClothTail.description>Crafts a tail from cloth.</CreateClothTail.description>
+  <CreateClothTail.jobString>Crafting prosthetic tail.</CreateClothTail.jobString>
+
+  <CreatePlasteelClaws.label>制造高级爪</CreatePlasteelClaws.label>
+  <CreatePlasteelClaws.description>Crafts a set of advanced claws.</CreatePlasteelClaws.description>
+  <CreatePlasteelClaws.jobString>Crafting set of advanced claws.</CreatePlasteelClaws.jobString>
+
+  <CreateBionicTail.label>制造仿生尾</CreateBionicTail.label>
+  <CreateBionicTail.description>Crafts a bionic tail.</CreateBionicTail.description>
+  <CreateBionicTail.jobString>Crafting a bionic tail.</CreateBionicTail.jobString>
+
+  <CreateCyberneticTail.label>制造机械神经尾</CreateCyberneticTail.label>
+  <CreateCyberneticTail.description>升级一个仿生尾</CreateCyberneticTail.description>
+  <CreateCyberneticTail.jobString>Upgrading bionic tail.</CreateCyberneticTail.jobString>
+
+
+</LanguageData>

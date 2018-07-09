@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bullet_FakeSkywrathControllerBullet.label>仅用于瞄准时显示影响区域。</Bullet_FakeSkywrathControllerBullet.label>
+  <Bullet_FakeSkywrathControllerBullet.label>Only used to display the area of effect when targeting.</Bullet_FakeSkywrathControllerBullet.label>
 
-  <Artillery_SkywrathController.label>天怒控制器接口</Artillery_SkywrathController.label>
+  <Artillery_SkywrathController.label>Skywrath controller fake turret</Artillery_SkywrathController.label>
   <Artillery_SkywrathController.description>This is only used to get the standard target commands.</Artillery_SkywrathController.description>
 
 

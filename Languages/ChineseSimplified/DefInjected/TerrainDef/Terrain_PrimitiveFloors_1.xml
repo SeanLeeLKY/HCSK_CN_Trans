@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Floors -->
+
+  <TikiFloorBamboo.label>竹地板</TikiFloorBamboo.label>
+  <TikiFloorBamboo.description>A nice bamboo tiki floor. 
+Beauty: 1.</TikiFloorBamboo.description>
+
+  <TikiFloorDark.label>暗色地板</TikiFloorDark.label>
+  <TikiFloorDark.description>A nice dark tiki floor. 
+Beauty: 1.</TikiFloorDark.description>
+
+  <TikiFloorLight.label>亮色地板</TikiFloorLight.label>
+  <TikiFloorLight.description>A nice light tiki floor.
+Beauty: 1.</TikiFloorLight.description>
+
+  <TikiFloorFancy.label>奇异地板</TikiFloorFancy.label>
+  <TikiFloorFancy.description>A nice fancy tiki floor with gold inlays.
+Beauty: 3.</TikiFloorFancy.description>
+
+  <LogFloor.label>原木地板</LogFloor.label>
+  <LogFloor.description>A simple log floor.
+Beauty: 1.</LogFloor.description>
+
+  <ThatchFloor.label>茅草地板</ThatchFloor.label>
+  <ThatchFloor.description>A primitive thatch floor.
+Beauty: 1.</ThatchFloor.description>
+
+  <WeaveFloor.label>编织地板</WeaveFloor.label>
+  <WeaveFloor.description>A nice woven floor.
+Beauty: 1.</WeaveFloor.description>
+
+  <WovenLeafFloor.label>叶编地板</WovenLeafFloor.label>
+  <WovenLeafFloor.description>A nice woven leaf floor.
+Beauty: 1.</WovenLeafFloor.description>
+
+
+</LanguageData>

@@ -3,106 +3,106 @@
 
   <!-- Joy Tables -->
 
-  <GoTable.label>军旗</GoTable.label>
+  <GoTable.label>go table</GoTable.label>
   <GoTable.description>Go is one of the oldest strategy games, and one of the simplest to build.</GoTable.description>
-  <GoTable_Blueprint.label>go table (蓝图)</GoTable_Blueprint.label>
-  <GoTable_Blueprint_Install.label>go table (蓝图)</GoTable_Blueprint_Install.label>
-  <GoTable_Frame.label>go table (建造中)</GoTable_Frame.label>
+  <GoTable_Blueprint.label>go table (blueprint)</GoTable_Blueprint.label>
+  <GoTable_Blueprint_Install.label>go table (blueprint)</GoTable_Blueprint_Install.label>
+  <GoTable_Frame.label>go table (building)</GoTable_Frame.label>
   <GoTable_Frame.description>Go is one of the oldest strategy games, and one of the simplest to build.</GoTable_Frame.description>
 
-  <ReversiTable.label>黑白棋</ReversiTable.label>
+  <ReversiTable.label>reversi table</ReversiTable.label>
   <ReversiTable.description>A simple strategy game that involves placing rocks on both sides of your opponent's pieces, and then switching that piece to your color.</ReversiTable.description>
-  <ReversiTable_Blueprint.label>reversi table (蓝图)</ReversiTable_Blueprint.label>
-  <ReversiTable_Blueprint_Install.label>reversi table (蓝图)</ReversiTable_Blueprint_Install.label>
-  <ReversiTable_Frame.label>reversi table (建造中)</ReversiTable_Frame.label>
+  <ReversiTable_Blueprint.label>reversi table (blueprint)</ReversiTable_Blueprint.label>
+  <ReversiTable_Blueprint_Install.label>reversi table (blueprint)</ReversiTable_Blueprint_Install.label>
+  <ReversiTable_Frame.label>reversi table (building)</ReversiTable_Frame.label>
   <ReversiTable_Frame.description>A simple strategy game that involves placing rocks on both sides of your opponent's pieces, and then switching that piece to your color.</ReversiTable_Frame.description>
 
-  <CardTable.label>牌桌</CardTable.label>
+  <CardTable.label>card table</CardTable.label>
   <CardTable.description>A table specially made for playing a wide variety of card games. Suitable for 1-4 players.</CardTable.description>
-  <CardTable_Blueprint.label>card table (蓝图)</CardTable_Blueprint.label>
-  <CardTable_Blueprint_Install.label>card table (蓝图)</CardTable_Blueprint_Install.label>
-  <CardTable_Frame.label>card table (建造中)</CardTable_Frame.label>
+  <CardTable_Blueprint.label>card table (blueprint)</CardTable_Blueprint.label>
+  <CardTable_Blueprint_Install.label>card table (blueprint)</CardTable_Blueprint_Install.label>
+  <CardTable_Frame.label>card table (building)</CardTable_Frame.label>
   <CardTable_Frame.description>A table specially made for playing a wide variety of card games. Suitable for 1-4 players.</CardTable_Frame.description>
 
-  <RimColony.label>边缘殖民地</RimColony.label>
+  <RimColony.label>RimColony</RimColony.label>
   <RimColony.description>RimColony is a game about building and sustaining a colony after crash landing on a rim world. Some roaming trader had a twisted sense of humor bringing this along.</RimColony.description>
-  <RimColony_Blueprint_Install.label>RimColony (蓝图)</RimColony_Blueprint_Install.label>
+  <RimColony_Blueprint_Install.label>RimColony (blueprint)</RimColony_Blueprint_Install.label>
 
 
   <!-- Furniture -->
 
-  <ReadingTable.label>阅读台</ReadingTable.label>
+  <ReadingTable.label>reading table</ReadingTable.label>
   <ReadingTable.description>A small table made to be the perfect height for reading. Has a small drawer for holding books.</ReadingTable.description>
-  <ReadingTable_Blueprint.label>reading table (蓝图)</ReadingTable_Blueprint.label>
-  <ReadingTable_Blueprint_Install.label>reading table (蓝图)</ReadingTable_Blueprint_Install.label>
-  <ReadingTable_Frame.label>reading table (建造中)</ReadingTable_Frame.label>
+  <ReadingTable_Blueprint.label>reading table (blueprint)</ReadingTable_Blueprint.label>
+  <ReadingTable_Blueprint_Install.label>reading table (blueprint)</ReadingTable_Blueprint_Install.label>
+  <ReadingTable_Frame.label>reading table (building)</ReadingTable_Frame.label>
   <ReadingTable_Frame.description>A small table made to be the perfect height for reading. Has a small drawer for holding books.</ReadingTable_Frame.description>
 
-  <Painting.label>绘画</Painting.label>
+  <Painting.label>painting</Painting.label>
   <Painting.description>A painting. Useful for covering up holes, and quite easy on the eyes.</Painting.description>
-  <Painting_Blueprint_Install.label>painting (蓝图)</Painting_Blueprint_Install.label>
+  <Painting_Blueprint_Install.label>painting (blueprint)</Painting_Blueprint_Install.label>
 
 
   <!-- Production -->
 
-  <Easel.label>画架</Easel.label>
+  <Easel.label>painting easel</Easel.label>
   <Easel.description>An easel equipped for artistic painting.</Easel.description>
-  <Easel_Blueprint.label>painting easel (蓝图)</Easel_Blueprint.label>
-  <Easel_Blueprint_Install.label>painting easel (蓝图)</Easel_Blueprint_Install.label>
-  <Easel_Frame.label>painting easel (建造中)</Easel_Frame.label>
+  <Easel_Blueprint.label>painting easel (blueprint)</Easel_Blueprint.label>
+  <Easel_Blueprint_Install.label>painting easel (blueprint)</Easel_Blueprint_Install.label>
+  <Easel_Frame.label>painting easel (building)</Easel_Frame.label>
   <Easel_Frame.description>An easel equipped for artistic painting.</Easel_Frame.description>
 
 
   <!-- Arcades -->
 
-  <ArcadeRS.label>虚拟实境游戏：Rum Swirled</ArcadeRS.label>
+  <ArcadeRS.label>arcade: Rum Swirled</ArcadeRS.label>
   <ArcadeRS.description>A game about sailors shipwrecked on an island with plenty of rum, but no shelter.</ArcadeRS.description>
-  <ArcadeRS_Blueprint_Install.label>虚拟实境游戏：Rum Swirled (蓝图)</ArcadeRS_Blueprint_Install.label>
+  <ArcadeRS_Blueprint_Install.label>arcade: Rum Swirled (blueprint)</ArcadeRS_Blueprint_Install.label>
 
-  <ArcadeMC.label>虚拟实境游戏：MintCraft</ArcadeMC.label>
+  <ArcadeMC.label>arcade: MintCraft</ArcadeMC.label>
   <ArcadeMC.description>A game where the entire world can be shaped by the player, who crafts many things out of mint leaves. Don't ask how.</ArcadeMC.description>
-  <ArcadeMC_Blueprint_Install.label>虚拟实境游戏：MintCraft (蓝图)</ArcadeMC_Blueprint_Install.label>
+  <ArcadeMC_Blueprint_Install.label>arcade: MintCraft (blueprint)</ArcadeMC_Blueprint_Install.label>
 
-  <ArcadeHL.label>虚拟实境游戏：Halva Life</ArcadeHL.label>
+  <ArcadeHL.label>arcade: Halva Life</ArcadeHL.label>
   <ArcadeHL.description>In Halva Life the player plays as Gordon, the red hot pastry chef who must reign in his kitchen before it becomes a total nightmare.</ArcadeHL.description>
-  <ArcadeHL_Blueprint_Install.label>虚拟实境游戏：Halva Life (蓝图)</ArcadeHL_Blueprint_Install.label>
+  <ArcadeHL_Blueprint_Install.label>arcade: Halva Life (blueprint)</ArcadeHL_Blueprint_Install.label>
 
-  <ArcadeES.label>虚拟实境游戏：Elder Scones</ArcadeES.label>
+  <ArcadeES.label>arcade: Elder Scones</ArcadeES.label>
   <ArcadeES.description>"It's just you, a butter knife, and a plate full of week old scones that you must defend from ravenous townspeople..." Was what the box read for this game.</ArcadeES.description>
-  <ArcadeES_Blueprint_Install.label>虚拟实境游戏：Elder Scones (蓝图)</ArcadeES_Blueprint_Install.label>
+  <ArcadeES_Blueprint_Install.label>arcade: Elder Scones (blueprint)</ArcadeES_Blueprint_Install.label>
 
-  <ArcadeBG.label>虚拟实境游戏：Baguettris</ArcadeBG.label>
+  <ArcadeBG.label>arcade: Baguettris</ArcadeBG.label>
   <ArcadeBG.description>Oh no! A baguette supply ship didn't close it's hatch correctly! Quickly stack the falling baguettes for loading on to another ship!</ArcadeBG.description>
-  <ArcadeBG_Blueprint_Install.label>虚拟实境游戏：Baguettris (蓝图)</ArcadeBG_Blueprint_Install.label>
+  <ArcadeBG_Blueprint_Install.label>arcade: Baguettris (blueprint)</ArcadeBG_Blueprint_Install.label>
 
-  <ArcadeCB.label>虚拟实境游戏：Cooking Baba</ArcadeCB.label>
+  <ArcadeCB.label>arcade: Cooking Baba</ArcadeCB.label>
   <ArcadeCB.description>Join Hakase Baba in the kitchen as he teaches you legendary cooking techniques. Then play challenge mode and compete for the title of "Best Chef" in the system!</ArcadeCB.description>
-  <ArcadeCB_Blueprint_Install.label>虚拟实境游戏：Cooking Baba (蓝图)</ArcadeCB_Blueprint_Install.label>
+  <ArcadeCB_Blueprint_Install.label>arcade: Cooking Baba (blueprint)</ArcadeCB_Blueprint_Install.label>
 
-  <ArcadePS.label>虚拟实境游戏：Plants Vs. Salamis</ArcadePS.label>
+  <ArcadePS.label>arcade: Plants Vs. Salamis</ArcadePS.label>
   <ArcadePS.description>A Salami mothership aproaches on an intercept vector; they mean to board you! Armed only with genetically modified super plants, you must grow your defenses and keep the ships cargo safe!</ArcadePS.description>
-  <ArcadePS_Blueprint_Install.label>虚拟实境游戏：Plants Vs. Salamis (蓝图)</ArcadePS_Blueprint_Install.label>
+  <ArcadePS_Blueprint_Install.label>arcade: Plants Vs. Salamis (blueprint)</ArcadePS_Blueprint_Install.label>
 
-  <ArcadePK.label>虚拟实境游戏：Psycho Knots</ArcadePK.label>
+  <ArcadePK.label>arcade: Psycho Knots</ArcadePK.label>
   <ArcadePK.description>The artisanal pizzeria championships are back for their 72nd tournament, can you out-bake your way to the top?</ArcadePK.description>
-  <ArcadePK_Blueprint_Install.label>虚拟实境游戏：Psycho Knots (蓝图)</ArcadePK_Blueprint_Install.label>
+  <ArcadePK_Blueprint_Install.label>arcade: Psycho Knots (blueprint)</ArcadePK_Blueprint_Install.label>
 
-  <ArcadeSP.label>虚拟实境游戏：Speltunky</ArcadeSP.label>
+  <ArcadeSP.label>arcade: Speltunky</ArcadeSP.label>
   <ArcadeSP.description>One day a sinkhole collapses in the middle of your dinkel wheat farm, sending you plummeting into a massive underground cave network. Your only hope for escape is to mine your way out, but danger lurks around every corner.</ArcadeSP.description>
-  <ArcadeSP_Blueprint_Install.label>虚拟实境游戏：Speltunky (蓝图)</ArcadeSP_Blueprint_Install.label>
+  <ArcadeSP_Blueprint_Install.label>arcade: Speltunky (blueprint)</ArcadeSP_Blueprint_Install.label>
 
-  <ArcadeTZ.label>虚拟实境游戏：The Zimz</ArcadeTZ.label>
+  <ArcadeTZ.label>arcade: The Zimz</ArcadeTZ.label>
   <ArcadeTZ.description>In The Zimz, you play a game that simulates people and you watch as they sometimes play games that simulate people. Talk about a multiverse...</ArcadeTZ.description>
-  <ArcadeTZ_Blueprint_Install.label>虚拟实境游戏：The Zimz (蓝图)</ArcadeTZ_Blueprint_Install.label>
+  <ArcadeTZ_Blueprint_Install.label>arcade: The Zimz (blueprint)</ArcadeTZ_Blueprint_Install.label>
 
-  <ArcadeTV.label>虚拟实境游戏：Trauma Vendor</ArcadeTV.label>
+  <ArcadeTV.label>arcade: Trauma Vendor</ArcadeTV.label>
   <ArcadeTV.description>It's 14:00, time to drive the truck around and see who needs medical treatment. Just another day on a warring urbworld.</ArcadeTV.description>
-  <ArcadeTV_Blueprint_Install.label>虚拟实境游戏：Trauma Vendor (蓝图)</ArcadeTV_Blueprint_Install.label>
+  <ArcadeTV_Blueprint_Install.label>arcade: Trauma Vendor (blueprint)</ArcadeTV_Blueprint_Install.label>
 
 
   <!-- Minified things -->
 
-  <MinifiedPainting.label>绘画</MinifiedPainting.label>
+  <MinifiedPainting.label>Painting</MinifiedPainting.label>
 
 
 </LanguageData>

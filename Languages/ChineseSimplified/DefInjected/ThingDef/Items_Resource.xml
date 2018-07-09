@@ -3,64 +3,69 @@
 
   <!-- REALISTIC PRODUCTION SK MOD -->
 
-  <Silicon.label>硅</Silicon.label>
+  <Silicon.label>silicon</Silicon.label>
   <Silicon.description>Silicon is the one of the most common elements in the universe by mass, but very rarely occurs as the pure free element in nature. It can be produced by smelting Sand.</Silicon.description>
 
-  <Biomatter.label>生物质</Biomatter.label>
+  <Biomatter.label>biomatter</Biomatter.label>
   <Biomatter.description>BioMatter can be extracted from a humanlike corpse. It can be used to grow natural organs in an Organ Vat.</Biomatter.description>
 
-  <ArtificialBone.label>人造骨头</ArtificialBone.label>
+  <ArtificialBone.label>artificial bone</ArtificialBone.label>
   <ArtificialBone.description>A carefully crafted synthetic bone piece. It is useful for repairing damaged bones.</ArtificialBone.description>
 
-  <Ash.label>灰烬</Ash.label>
+  <Ash.label>ash</Ash.label>
   <Ash.description>Ash is obtained by burning corpses or other materials in a crematorium or fire pit.</Ash.description>
 
-  <ConcreteResource.label>混凝土</ConcreteResource.label>
+  <ConcreteResource.label>concrete</ConcreteResource.label>
   <ConcreteResource.description>Concrete is a composite material composed of sand and rubble. It is a fluid material that bonds into a solid material over time. It can have metals added to create reinforced concrete, a durable and solid building material.</ConcreteResource.description>
-  <ConcreteResource.stuffProps.stuffAdjective>混凝土</ConcreteResource.stuffProps.stuffAdjective>
+  <ConcreteResource.stuffProps.stuffAdjective>concrete</ConcreteResource.stuffProps.stuffAdjective>
 
-  <ClayBrick.label>粘土砖</ClayBrick.label>
+  <ClayBrick.label>clay bricks</ClayBrick.label>
   <ClayBrick.description>A brick of hardened clay baked at a kiln. It can be used for construction purposes.</ClayBrick.description>
-  <ClayBrick.stuffProps.stuffAdjective>粘土砖</ClayBrick.stuffProps.stuffAdjective>
+  <ClayBrick.stuffProps.stuffAdjective>Clay Bricks</ClayBrick.stuffProps.stuffAdjective>
 
-  <Ceramics.label>陶瓷</Ceramics.label>
+  <Ceramics.label>Ceramics</Ceramics.label>
   <Ceramics.description>Glazed ceramics made using high-temperature kiln. Smooth and beautiful but fragile.</Ceramics.description>
-  <Ceramics.stuffProps.stuffAdjective>陶瓷</Ceramics.stuffProps.stuffAdjective>
+  <Ceramics.stuffProps.stuffAdjective>Ceramic</Ceramics.stuffProps.stuffAdjective>
 
 
   <!-- Matter -->
 
-  <Matter.label>无机物</Matter.label>
+  <Matter.label>inorganic matter</Matter.label>
   <Matter.description>A container of inorganic matter. It can be made at an inorganic matter converter from various types of raw resources or refined into specific resources. It can be used to feed a hadron collider for antimatter production.</Matter.description>
 
-
-  <!-- Drill head SK -->
-
-  <PileOfBooks.label>书堆</PileOfBooks.label>
+  <PileOfBooks.label>pile of books</PileOfBooks.label>
   <PileOfBooks.description>A random assortment of books. Most are old and discarded classics, but occasionally a good quality book can be found.</PileOfBooks.description>
 
-  <PaintingSupplies.label>绘画用品</PaintingSupplies.label>
+  <PaintingSupplies.label>painting supplies</PaintingSupplies.label>
   <PaintingSupplies.description>A large assortment of brushes and paints. Perfect for any aspiring artist.</PaintingSupplies.description>
-  <PaintingSupplies.stuffProps.stuffAdjective>绘画用品</PaintingSupplies.stuffProps.stuffAdjective>
+  <PaintingSupplies.stuffProps.stuffAdjective>painting supplies</PaintingSupplies.stuffProps.stuffAdjective>
 
-  <MineralSonarModule.label>矿物声纳模块</MineralSonarModule.label>
+  <MineralSonarModule.label>mineral sonar module</MineralSonarModule.label>
   <MineralSonarModule.description>This is a mineral sonar module. When deployed on the field with some energy packs, it can scan the surrounding area for metallic objects or hidden deposits of ores.</MineralSonarModule.description>
 
-  
+  <ThrumboHorn.label>thrumbo horn</ThrumboHorn.label>
+  <ThrumboHorn.description>The horn from a previously living thrumbo. It's razor-sharp, very hard and priceless in most markets. This is a true trophy.</ThrumboHorn.description>
+  <ThrumboHorn.tools.0.label>edge</ThrumboHorn.tools.0.label>
+  <ThrumboHorn.tools.1.label>point</ThrumboHorn.tools.1.label>
+  <ThrumboHorn.tools.2.label>base</ThrumboHorn.tools.2.label>
+
+  <ElephantTusk.label>elephant tusk</ElephantTusk.label>
+  <ElephantTusk.description>An elephant's tusk. Very durable and valuable. Deadly but somewhat unwieldy as a weapon.</ElephantTusk.description>
+  <ElephantTusk.tools.0.label>edge</ElephantTusk.tools.0.label>
+  <ElephantTusk.tools.1.label>point</ElephantTusk.tools.1.label>
+  <ElephantTusk.tools.2.label>base</ElephantTusk.tools.2.label>
+
 
   <!-- mai items -->
 
-  <RobotParts.label>机器人部件</RobotParts.label>
+  <RobotParts.label>robot parts</RobotParts.label>
   <RobotParts.description>These parts could be used to create a robot.</RobotParts.description>
 
-  <MendingKit.label>修理包</MendingKit.label>
+  <MendingKit.label>mending kit</MendingKit.label>
   <MendingKit.description>Miscellaneous cloth, bits and parts. Necessary for repairing weapons and mending apparel.</MendingKit.description>
 
-  <DepletedUraniumCore.label>贫铀核</DepletedUraniumCore.label>
+  <DepletedUraniumCore.label>depleted uranium core</DepletedUraniumCore.label>
   <DepletedUraniumCore.description>depleted uranium core.</DepletedUraniumCore.description>
 
-
-  <!--[Core] <ThrumboHorn.label>敲击兽角</ThrumboHorn.label>-->
-  <!--[Core] <ThrumboHorn.description>敲击兽的角，锋利、坚固，在大多数市场里都是极为贵重的。这是真正意义上的战利品。</ThrumboHorn.description>-->
 
 </LanguageData>

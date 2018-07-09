@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Arid -->
+
+  <Muffalo.label>牦牛</Muffalo.label>
+  <Muffalo.description>A muffalo is a large herding herbivore that descended from Buffalo and has adapted to some exotic environments. It is peaceful unless disturbed.</Muffalo.description>
+  <Muffalo.tools.0.label>head</Muffalo.tools.0.label>
+
+  <Gazelle.label>瞪羚</Gazelle.label>
+  <Gazelle.description>A small, extremely quick antelope known for its amazingly long leap.</Gazelle.description>
+  <Gazelle.tools.0.label>left hoof</Gazelle.tools.0.label>
+  <Gazelle.tools.1.label>left hoof</Gazelle.tools.1.label>
+  <Gazelle.tools.2.label>right hoof</Gazelle.tools.2.label>
+  <Gazelle.tools.3.label>right hoof</Gazelle.tools.3.label>
+  <Gazelle.tools.5.label>head</Gazelle.tools.5.label>
+
+  <Iguana.label>鬣蜥</Iguana.label>
+  <Iguana.description>An Iguana is a large lizard that normally feeds on plant matter. However when angered, their tough hide and sharp claws can make them quite dangerous.</Iguana.description>
+  <Iguana.tools.0.label>left claw</Iguana.tools.0.label>
+  <Iguana.tools.1.label>right claw</Iguana.tools.1.label>
+  <Iguana.tools.3.label>head</Iguana.tools.3.label>
+
+  <Rhinoceros.label>犀牛</Rhinoceros.label>
+  <Rhinoceros.description>A rhinoceros is a large land mammal with a horn on its nose. While it is typically quite peaceful, it will not hesitate to charge with its horn to fend off trespassers.</Rhinoceros.description>
+  <Rhinoceros.tools.0.label>horn</Rhinoceros.tools.0.label>
+  <Rhinoceros.tools.1.label>horn</Rhinoceros.tools.1.label>
+  <Rhinoceros.tools.3.label>head</Rhinoceros.tools.3.label>
+
+  <Dromedary.label>单峰骆驼</Dromedary.label>
+  <Dromedary.description>A dromedary or camel is a distant cousin to horses that has adapted to survive in harsh desert climates. It has a distinctive hump in the middle of its back. It can go several days without food and water by regulating its internal temperature to avoid perspiring in hot temperatures.</Dromedary.description>
+  <Dromedary.tools.0.label>left hoof</Dromedary.tools.0.label>
+  <Dromedary.tools.1.label>left hoof</Dromedary.tools.1.label>
+  <Dromedary.tools.2.label>right hoof</Dromedary.tools.2.label>
+  <Dromedary.tools.3.label>right hoof</Dromedary.tools.3.label>
+  <Dromedary.tools.5.label>head</Dromedary.tools.5.label>
+
+  <Buffalo.label>野牛</Buffalo.label>
+  <Buffalo.description>A buffalo is a larger variation of muffalo that has survived the harsh landscape of a rimworld. They are known for their thick, brown wool, and the male's distinguished frontal tusks. They can be somewhat aggressive if you get too close.</Buffalo.description>
+  <Buffalo.tools.0.label>head</Buffalo.tools.0.label>
+
+  <Rimram.label>绵羊</Rimram.label>
+  <Rimram.description>The thick wool on these rams makes them very common sight in cold climates. They are known for their ability to climb nearly vertical, sheer cliff faces. They have no fear of falling.</Rimram.description>
+  <Rimram.tools.0.label>head</Rimram.tools.0.label>
+
+
+</LanguageData>

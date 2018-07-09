@@ -3,18 +3,20 @@
 
   <!-- Start -->
 
-  <SK_Craftsmanship.label>初级制造工艺</SK_Craftsmanship.label>
+  <SK_Craftsmanship.label>Primary Craftsmanship</SK_Craftsmanship.label>
   <SK_Craftsmanship.description>You're not in stone age! Sit down and try to remember basics of your life before this catastrophe. Unlocks basic kitchen and production workbenches, some primal lightning and storages.</SK_Craftsmanship.description>
 
-  <SK_Medicalcare.label>医疗保健</SK_Medicalcare.label>
+  <SK_Medicalcare.label>Medical care</SK_Medicalcare.label>
   <SK_Medicalcare.description>New means to set up your medical area medieval style.</SK_Medicalcare.description>
 
-   
-  <EnthalpicCooling.label>冰石制冷器</EnthalpicCooling.label>
+  <Pemmican.label>Pemmican</Pemmican.label>
+  <Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
+
+  <PsychoidBrewing.label>psychoid brewing</PsychoidBrewing.label>
+  <PsychoidBrewing.description>With preparation, psychoid leaves can be boiled in water, producing a mildly euphoric and addictive tea.</PsychoidBrewing.description>
+
+  <EnthalpicCooling.label>Coldstone battery</EnthalpicCooling.label>
   <EnthalpicCooling.description>Build an efficient passive cooling unit fueled coldstones.</EnthalpicCooling.description>
 
-
-  <!--[Core] <Pemmican.label>干肉饼</Pemmican.label>-->
-  <!--[Core] <Pemmican.description>解锁制作「干肉饼」，由肉食和素食混合制成，保质期很长。居家旅行必备。</Pemmican.description>-->
 
 </LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MD50 -->
+
+  <Gun_AWP.label>精密国际AWP</Gun_AWP.label>
+  <Gun_AWP.description>An autoloading anti-materiel rifle with a compact bullpup design allowing it to be operated and carried by a single person. Used to destroy walls. Low fire rate, high range, extremely high damage and accuracy.</Gun_AWP.description>
+  <Gun_AWP.tools.0.label>stock</Gun_AWP.tools.0.label>
+  <Gun_AWP.tools.1.label>barrel</Gun_AWP.tools.1.label>
+  <Gun_AWP.tools.2.label>muzzle</Gun_AWP.tools.2.label>
+
+
+  <!-- AR-50 -->
+
+  <RF_Gun_ARFifty.label>阿玛莱特AR-50狙击步枪</RF_Gun_ARFifty.label>
+  <RF_Gun_ARFifty.description>A heavy and accurate, military-grade bolt-action rifle chambered for .50 calibre bullets. Its weight and muzzle brake significantly lower recoil. Average firerate, very high damage, accuracy and range.</RF_Gun_ARFifty.description>
+  <RF_Gun_ARFifty.tools.0.label>stock</RF_Gun_ARFifty.tools.0.label>
+  <RF_Gun_ARFifty.tools.1.label>barrel</RF_Gun_ARFifty.tools.1.label>
+  <RF_Gun_ARFifty.tools.2.label>muzzle</RF_Gun_ARFifty.tools.2.label>
+
+
+  <!-- URH2 -->
+
+  <RF_Gun_HecateII.label>Ultima Ratio 赫卡特 II</RF_Gun_HecateII.label>
+  <RF_Gun_HecateII.description>A special application scoped rifle with a long muzzle break and wooden stock. Packs and ton both in battle and when carried, greatly slowing any wielders pace. Used to destroy walls. Low fire rate, high range, very high damage and accuracy.</RF_Gun_HecateII.description>
+  <RF_Gun_HecateII.tools.0.label>stock</RF_Gun_HecateII.tools.0.label>
+  <RF_Gun_HecateII.tools.1.label>barrel</RF_Gun_HecateII.tools.1.label>
+  <RF_Gun_HecateII.tools.2.label>muzzle</RF_Gun_HecateII.tools.2.label>
+
+
+  <!-- PTRD-41 -->
+
+  <Gun_ATR.label>PTRD-41 反坦克步枪</Gun_ATR.label>
+  <Gun_ATR.description>Anti tank rifle, with special armor piercing penetration rounds.</Gun_ATR.description>
+  <Gun_ATR.tools.0.label>stock</Gun_ATR.tools.0.label>
+  <Gun_ATR.tools.1.label>barrel</Gun_ATR.tools.1.label>
+  <Gun_ATR.tools.2.label>muzzle</Gun_ATR.tools.2.label>
+
+
+  <!-- SRS99 AM -->
+
+  <Gun_TAMSR.label>SRS99 AM 狙击步枪</Gun_TAMSR.label>
+  <Gun_TAMSR.description>The sniper rifle system Anti-Materiel, more formally known as the Special Applications Rifle, Caliber 14.5 mm, SRS99, is a United Nations Space Command sniper rifle.</Gun_TAMSR.description>
+  <Gun_TAMSR.tools.0.label>stock</Gun_TAMSR.tools.0.label>
+  <Gun_TAMSR.tools.1.label>barrel</Gun_TAMSR.tools.1.label>
+  <Gun_TAMSR.tools.2.label>muzzle</Gun_TAMSR.tools.2.label>
+
+
+  <!-- M82A1 -->
+
+  <Gun_M82Gun.label>巴雷特 M82A1 SASR</Gun_M82Gun.label>
+  <Gun_M82Gun.description>The M82 is a recoil-operated, semi-automatic anti-materiel rifle developed by the American Barrett Firearms Manufacturing company. It is used by many units and armies around the world. Despite its designation as an anti-materiel rifle, it is used by some armed forces as an anti-personnel sniper rifle. Very high damage, long range and very good accuracy.</Gun_M82Gun.description>
+  <Gun_M82Gun.tools.0.label>stock</Gun_M82Gun.tools.0.label>
+  <Gun_M82Gun.tools.1.label>barrel</Gun_M82Gun.tools.1.label>
+  <Gun_M82Gun.tools.2.label>muzzle</Gun_M82Gun.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gunner -->
+
+  <MercenaryGunner.label>Mercenary Gunner</MercenaryGunner.label>
+  <MercenaryGunner.labelPlural>Mercenary Gunners</MercenaryGunner.labelPlural>
+
+
+  <!-- Fusilier -->
+
+  <MercenarySniper.label>Mercenary fusilier</MercenarySniper.label>
+  <MercenarySniper.labelPlural>Mercenary fusiliers</MercenarySniper.labelPlural>
+
+
+  <!-- Grenadier -->
+
+  <GrenadierDestructive.label>Grenadier</GrenadierDestructive.label>
+  <GrenadierDestructive.labelPlural>Grenadiers</GrenadierDestructive.labelPlural>
+
+
+  <!-- Grenadier EMP -->
+
+  <GrenadierEMP.label>EMP grenadier</GrenadierEMP.label>
+  <GrenadierEMP.labelPlural>EMP grenadiers</GrenadierEMP.labelPlural>
+
+
+  <!-- Slasher -->
+
+  <MercenarySlasher.label>Mercenary Slasher</MercenarySlasher.label>
+  <MercenarySlasher.labelPlural>Mercenary Slashers</MercenarySlasher.labelPlural>
+
+
+  <!-- Heavy Mercenary -->
+
+  <MercenaryHeavy.label>Heavy Mercenary</MercenaryHeavy.label>
+  <MercenaryHeavy.labelPlural>heavy mercenaries</MercenaryHeavy.labelPlural>
+
+
+</LanguageData>

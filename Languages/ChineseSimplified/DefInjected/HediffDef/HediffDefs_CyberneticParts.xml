@@ -3,21 +3,28 @@
 
   <!-- Added body parts -->
 
-  <Exoskeleton.label>外骨骼</Exoskeleton.label>
-  <GTHeart.label>神经电子仿生心</GTHeart.label>
-  <GTLung.label>神经电子仿生肺</GTLung.label>
-  <GTKidney.label>神经电子仿生肾</GTKidney.label>
-  <GTLiver.label>神经电子仿生肝</GTLiver.label>
-  <GTStomach.label>神经电子仿生胃</GTStomach.label>
-  <GTDentures.label>神经电子仿生颌</GTDentures.label>
-  <GTArm.label>神经电子仿生臂</GTArm.label>
-  <CyberneticPowerArm.label>高级动力臂</CyberneticPowerArm.label>
-  <GTHand.label>神经电子仿生手</GTHand.label>
-  <GTLeg.label>神经电子仿生腿</GTLeg.label>
-  <GTFoot.label>神经电子仿生足</GTFoot.label>
-  <GTEye.label>神经电子仿生眼</GTEye.label>
-  <GTEar.label>神经电子仿生耳</GTEar.label>
-  <GTSpine.label>高级仿生脊柱</GTSpine.label>
+  <Exoskeleton.label>Exoskeleton</Exoskeleton.label>
+  <GTHeart.label>Cybernetic Heart</GTHeart.label>
+  <GTLung.label>Cybernetic Lung</GTLung.label>
+  <GTKidney.label>Cybernetic Kidney</GTKidney.label>
+  <GTLiver.label>Cybernetic Liver</GTLiver.label>
+  <GTStomach.label>Cybernetic Stomach</GTStomach.label>
+  <GTDentures.label>Cybernetic Bionic Dentures</GTDentures.label>
+
+  <GTArm.label>Cybernetic Bionic Arm</GTArm.label>
+  <GTArm.comps.0.tools.0.label>fist</GTArm.comps.0.tools.0.label>
+
+  <CyberneticPowerArm.label>Cybernetic Power Arm</CyberneticPowerArm.label>
+  <CyberneticPowerArm.comps.0.tools.0.label>fist</CyberneticPowerArm.comps.0.tools.0.label>
+
+  <GTHand.label>Cybernetic Bionic Hand</GTHand.label>
+  <GTHand.comps.0.tools.0.label>fist</GTHand.comps.0.tools.0.label>
+
+  <GTLeg.label>Cybernetic Bionic Leg</GTLeg.label>
+  <GTFoot.label>Cybernetic Bionic Foot</GTFoot.label>
+  <GTEye.label>Cybernetic Bionic Eye</GTEye.label>
+  <GTEar.label>Cybernetic Bionic Ear</GTEar.label>
+  <GTSpine.label>Cybernetic Bionic Spine</GTSpine.label>
 
 
 </LanguageData>

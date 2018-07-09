@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Midworld -->
+
+  <MeleeWeapon_Knife.label>小刀</MeleeWeapon_Knife.label>
+  <MeleeWeapon_Knife.description>One of humankind's oldest tools, the knife is both an everyday tool and a deadly weapon.</MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.tools.0.label>handle</MeleeWeapon_Knife.tools.0.label>
+  <MeleeWeapon_Knife.tools.1.label>blade</MeleeWeapon_Knife.tools.1.label>
+  <MeleeWeapon_Knife.tools.2.label>point</MeleeWeapon_Knife.tools.2.label>
+
+  <MeleeWeapon_Bonesaw.label>骨锯</MeleeWeapon_Bonesaw.label>
+  <MeleeWeapon_Bonesaw.description>Theres never a dull moment with a doctor armed with this and their favourite phrases at the ready. "Trust me! You won't feel a thing" And "Oops, is this supposed to bleed so much?"</MeleeWeapon_Bonesaw.description>
+  <MeleeWeapon_Bonesaw.tools.0.label>handle</MeleeWeapon_Bonesaw.tools.0.label>
+  <MeleeWeapon_Bonesaw.tools.1.label>blade</MeleeWeapon_Bonesaw.tools.1.label>
+  <MeleeWeapon_Bonesaw.tools.2.label>point</MeleeWeapon_Bonesaw.tools.2.label>
+
+  <MeleeWeapon_Machete.label>宽刃刀</MeleeWeapon_Machete.label>
+  <MeleeWeapon_Machete.description>Meant to be used for clearing path in dense jungles, Nowadays mostly used for clearing density from someone's shoulders.</MeleeWeapon_Machete.description>
+  <MeleeWeapon_Machete.tools.0.label>handle</MeleeWeapon_Machete.tools.0.label>
+  <MeleeWeapon_Machete.tools.1.label>blade</MeleeWeapon_Machete.tools.1.label>
+  <MeleeWeapon_Machete.tools.2.label>point</MeleeWeapon_Machete.tools.2.label>
+
+  <MeleeWeapon_Monkeywrench.label>活动扳手</MeleeWeapon_Monkeywrench.label>
+  <MeleeWeapon_Monkeywrench.description>A ginormous wrench, mainly used in spaceship maintenance but could technically be applied to mechanoid disassembly process.</MeleeWeapon_Monkeywrench.description>
+  <MeleeWeapon_Monkeywrench.tools.0.label>handle</MeleeWeapon_Monkeywrench.tools.0.label>
+  <MeleeWeapon_Monkeywrench.tools.1.label>head</MeleeWeapon_Monkeywrench.tools.1.label>
+
+  <MeleeWeapon_Cleaver.label>劈刀</MeleeWeapon_Cleaver.label>
+  <MeleeWeapon_Cleaver.description>Tool designed to separate meat from bones and casting menacing shadows through shower curtains.</MeleeWeapon_Cleaver.description>
+  <MeleeWeapon_Cleaver.tools.0.label>handle</MeleeWeapon_Cleaver.tools.0.label>
+  <MeleeWeapon_Cleaver.tools.1.label>point</MeleeWeapon_Cleaver.tools.1.label>
+  <MeleeWeapon_Cleaver.tools.2.label>edge</MeleeWeapon_Cleaver.tools.2.label>
+
+  <MeleeWeapon_Shiv.label>剃刀</MeleeWeapon_Shiv.label>
+  <MeleeWeapon_Shiv.description>An improvised knife-like weapon.</MeleeWeapon_Shiv.description>
+  <MeleeWeapon_Shiv.tools.0.label>handle</MeleeWeapon_Shiv.tools.0.label>
+  <MeleeWeapon_Shiv.tools.1.label>point</MeleeWeapon_Shiv.tools.1.label>
+
+
+</LanguageData>

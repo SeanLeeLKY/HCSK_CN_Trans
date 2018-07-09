@@ -3,21 +3,21 @@
 
   <!-- Lifesupport system -->
 
-  <installlifesupportheart.label>安装血泵</installlifesupportheart.label>
+  <installlifesupportheart.label>Install Blood Pump</installlifesupportheart.label>
   <installlifesupportheart.description>Installs a Blood Pump.</installlifesupportheart.description>
-  <installlifesupportheart.jobString>安装血泵</installlifesupportheart.jobString>
+  <installlifesupportheart.jobString>Installing Blood Pump.</installlifesupportheart.jobString>
 
-  <installlifesupportlung.label>安装呼吸机</installlifesupportlung.label>
+  <installlifesupportlung.label>Install Respirator</installlifesupportlung.label>
   <installlifesupportlung.description>Installs a Respirator.</installlifesupportlung.description>
-  <installlifesupportlung.jobString>安装呼吸机</installlifesupportlung.jobString>
+  <installlifesupportlung.jobString>Installing Respirator.</installlifesupportlung.jobString>
 
-  <installlifesupportkidney.label>安装尿液过滤器</installlifesupportkidney.label>
+  <installlifesupportkidney.label>Install Urine Filter</installlifesupportkidney.label>
   <installlifesupportkidney.description>Installs Urine Filter.</installlifesupportkidney.description>
-  <installlifesupportkidney.jobString>安装尿液过滤器</installlifesupportkidney.jobString>
+  <installlifesupportkidney.jobString>Installing Urine Filter.</installlifesupportkidney.jobString>
 
-  <installlifesupportliver.label>安装血液过滤机</installlifesupportliver.label>
+  <installlifesupportliver.label>Install Blood Filter</installlifesupportliver.label>
   <installlifesupportliver.description>Installs a Blood Filter.</installlifesupportliver.description>
-  <installlifesupportliver.jobString>安装血液过滤机</installlifesupportliver.jobString>
+  <installlifesupportliver.jobString>Installing Blood Filter.</installlifesupportliver.jobString>
 
 
 </LanguageData>

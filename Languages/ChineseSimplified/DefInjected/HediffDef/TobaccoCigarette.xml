@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NicotineHigh.label>high on nicotine</NicotineHigh.label>
+
+
+  <!-- Nicotine addiction -->
+
+  <NicotineTolerance.label>Nicotine tolerance</NicotineTolerance.label>
+  <NicotineTolerance.stages.0.label>small</NicotineTolerance.stages.0.label>
+  <NicotineTolerance.stages.1.label>small</NicotineTolerance.stages.1.label>
+  <NicotineTolerance.stages.2.label>large</NicotineTolerance.stages.2.label>
+  <NicotineTolerance.stages.3.label>massive</NicotineTolerance.stages.3.label>
+
+  <NicotineAddiction.label>Nicotine dependence</NicotineAddiction.label>
+  <NicotineAddiction.stages.1.label>withdrawal</NicotineAddiction.stages.1.label>
+
+
+</LanguageData>

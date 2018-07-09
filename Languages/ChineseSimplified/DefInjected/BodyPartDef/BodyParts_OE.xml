@@ -1,24 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LeftEye.label>left eye</LeftEye.label>
-  <RightEye.label>right eye</RightEye.label>
-  <!--[Duplicated] <LeftEar.label>left ear</LeftEar.label>-->
-  <!--[Duplicated] <RightEar.label>right ear</RightEar.label>-->
-  <!--[Duplicated] <Nose.label>nose</Nose.label>-->
-  <Jaw.label>jaw</Jaw.label>
-  <Rib1.label>first rib</Rib1.label>
-  <Rib2.label>second rib</Rib2.label>
-  <Rib3.label>third rib</Rib3.label>
-  <Rib4.label>fourth rib</Rib4.label>
-  <Rib5.label>fifth rib</Rib5.label>
-  <Rib6.label>sixth rib</Rib6.label>
-  <Rib7.label>seventh rib</Rib7.label>
-  <Rib8.label>eighth rib</Rib8.label>
-  <Rib9.label>ninth rib</Rib9.label>
-  <Rib10.label>tenth rib</Rib10.label>
-  <Rib11.label>eleventh rib</Rib11.label>
-  <Rib12.label>twelfth rib</Rib12.label>
+  <LeftEye.label>左眼</LeftEye.label>
+  <RightEye.label>右眼</RightEye.label>
+  
+  <Jaw.label>下颌</Jaw.label>
+  <Rib1.label>第一肋骨</Rib1.label>
+  <Rib2.label>第二肋骨</Rib2.label>
+  <Rib3.label>第三肋骨</Rib3.label>
+  <Rib4.label>第四肋骨</Rib4.label>
+  <Rib5.label>第五肋骨</Rib5.label>
+  <Rib6.label>第六肋骨</Rib6.label>
+  <Rib7.label>第七肋骨</Rib7.label>
+  <Rib8.label>第八肋骨</Rib8.label>
+  <Rib9.label>第九肋骨</Rib9.label>
+  <Rib10.label>第十肋骨</Rib10.label>
+  <Rib11.label>第十一肋骨</Rib11.label>
+  <Rib12.label>第十二肋骨</Rib12.label>
 
 
 </LanguageData>

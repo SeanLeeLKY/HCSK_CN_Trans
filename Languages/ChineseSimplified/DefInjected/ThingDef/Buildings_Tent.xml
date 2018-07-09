@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TentDoor.label>帐篷门</TentDoor.label>
+  <TentDoor.label>tent door</TentDoor.label>
   <TentDoor.description>Divides rooms. Must be manually opened and closed, which slows people down.</TentDoor.description>
 
-  <TentWall.label>帐篷墙</TentWall.label>
+  <TentWall.label>tent wall</TentWall.label>
   <TentWall.description>A fragile yet practical wall.</TentWall.description>
 
 

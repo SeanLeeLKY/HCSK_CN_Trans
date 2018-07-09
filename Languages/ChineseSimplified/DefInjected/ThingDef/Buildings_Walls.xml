@@ -2,17 +2,23 @@
 <LanguageData>
 
   <!-- Walls -->
- 
-  <ClutterSilverWall.label>板筋墙</ClutterSilverWall.label>
+
+  <Wall.label>wall</Wall.label>
+  <Wall.description>An impassable wall. It is capable of holding up a roof.</Wall.description>
+  <Wall_Blueprint.label>wall (blueprint)</Wall_Blueprint.label>
+  <Wall_Frame.label>wall (building)</Wall_Frame.label>
+  <Wall_Frame.description>An impassable wall. It is capable of holding up a roof.</Wall_Frame.description>
+
+  <ClutterSilverWall.label>panel reinforced wall</ClutterSilverWall.label>
   <ClutterSilverWall.description>A reinforced wall with thick panels attached to strengthen it further.</ClutterSilverWall.description>
-  <ClutterSilverWall_Blueprint.label>板筋墙 (蓝图)</ClutterSilverWall_Blueprint.label>
-  <ClutterSilverWall_Frame.label>板筋墙 (建造中)</ClutterSilverWall_Frame.label>
+  <ClutterSilverWall_Blueprint.label>panel reinforced wall (blueprint)</ClutterSilverWall_Blueprint.label>
+  <ClutterSilverWall_Frame.label>panel reinforced wall (building)</ClutterSilverWall_Frame.label>
   <ClutterSilverWall_Frame.description>A reinforced wall with thick panels attached to strengthen it further.</ClutterSilverWall_Frame.description>
 
-  <ClutterUWallLight.label>灯带墙</ClutterUWallLight.label>
+  <ClutterUWallLight.label>utility wall with lights</ClutterUWallLight.label>
   <ClutterUWallLight.description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection.</ClutterUWallLight.description>
-  <ClutterUWallLight_Blueprint.label>灯带墙 (蓝图)</ClutterUWallLight_Blueprint.label>
-  <ClutterUWallLight_Frame.label>灯带墙 (建造中)</ClutterUWallLight_Frame.label>
+  <ClutterUWallLight_Blueprint.label>utility wall with lights (blueprint)</ClutterUWallLight_Blueprint.label>
+  <ClutterUWallLight_Frame.label>utility wall with lights (building)</ClutterUWallLight_Frame.label>
   <ClutterUWallLight_Frame.description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection.</ClutterUWallLight_Frame.description>
 
 
@@ -54,11 +60,11 @@
 		</stuffCategories>
 		<costStuffCount>7</costStuffCount>
 		<designationCategory>Structure</designationCategory>
-	<Comps>
+	<comps>
 		<li Class="SK.CompProps_BuildableButton">
 			<compClass>SK.Comp_BuildableButton</compClass>
 		</li>
-	</Comps>
+	</comps>
 	<SecondaryMaterialPath>Things/Building/Walls/WoodenWall_AtlasA</SecondaryMaterialPath>
 	<ThirdMaterialPath>Things/Building/Walls/WoodenWall_AtlasB</ThirdMaterialPath>
 	</ThingDef>
@@ -91,11 +97,11 @@
 		</stuffCategories>
 		<costStuffCount>6</costStuffCount>
 		<designationCategory>Structure</designationCategory>
-	<Comps>
+	<comps>
 		<li Class="SK.CompProps_BuildableButton">
 			<compClass>SK.Comp_BuildableButton</compClass>
 		</li>
-	</Comps>
+	</comps>
 	<SecondaryMaterialPath>Things/Building/Walls/StoneWallA_Atlas</SecondaryMaterialPath>
 	<ThirdMaterialPath>Things/Building/Walls/StoneWallB_Atlas</ThirdMaterialPath>
 	</ThingDef>
@@ -156,13 +162,12 @@
     <blockLight>true</blockLight>
     <building>
 	  <isInert>true</isInert>
-      <ignoreNeedsPower>true</ignoreNeedsPower>
     </building>
-	<Comps>
+	<comps>
 		<li Class="SK.CompProps_BuildableButton">
 			<compClass>SK.Comp_BuildableButton</compClass>
 		</li>
-	</Comps>
+	</comps>
 	<researchPrerequisites><li>SK_ConstructionI</li></researchPrerequisites>
 	<SecondaryMaterialPath>Things/Building/Walls/MetallWallA_Atlas</SecondaryMaterialPath>
 	<ThirdMaterialPath>Things/Building/Walls/MetallWallB_Atlas</ThirdMaterialPath>
@@ -172,7 +177,7 @@
 		<defName>ClutterUWallLight</defName>
 		<label>metallic wall with lights</label>
 		<thingClass>SK.Wall_Light</thingClass>
-		<Description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection.</Description>
+		<description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection.</description>
 		<graphicData>
 			<texPath>Things/Building/Walls/UWallYellow</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -212,9 +217,6 @@
 			<Glass>5</Glass>
 			<ElectronicComponents>1</ElectronicComponents>
 		</costList>
-		<building>
-			<ignoreNeedsPower>false</ignoreNeedsPower>
-		</building>
 		<tickerType>Normal</tickerType>
 		<comps>
 			<li Class="CompProperties_Glower">
@@ -238,7 +240,7 @@
 	
 	<ThingDef ParentName="WallBase">
 		<defName>ClutterSilverWall</defName>
-		<label>板筋墙</label>
+		<label>panel reinforced wall</label>
 		<description>A reinforced wall with thick panels attached to strengthen it further.</description>
 		<graphicData>
 			<shaderType>CutoutComplex</shaderType>
@@ -277,11 +279,11 @@
 			<Component>2</Component>
 			<ReinforcedConcrete>10</ReinforcedConcrete>
 		</costList>
-	<Comps>
+	<comps>
 		<li Class="SK.CompProps_BuildableButton">
 			<compClass>SK.Comp_BuildableButton</compClass>
 		</li>
-	</Comps>
+	</comps>
 		<designationCategory>Structure</designationCategory>
 		<researchPrerequisites><li>SK_ConstructionIII</li></researchPrerequisites>
 	</ThingDef>
@@ -315,26 +317,20 @@
 		<researchPrerequisites><li>DeepDrilling</li></researchPrerequisites>
 	</ThingDef> -->
 
-  <UtilityWindows.label>窗户</UtilityWindows.label>
+  <UtilityWindows.label>Window</UtilityWindows.label>
   <UtilityWindows.description>A window</UtilityWindows.description>
 
-  <WindowThingy.label>WindowThingy边窗？？？</WindowThingy.label>
-  <DoorThingy.label>DoorThingy边门？？？</DoorThingy.label>
+  <WindowThingy.label>WindowThingy</WindowThingy.label>
+  <DoorThingy.label>DoorThingy</DoorThingy.label>
 
 
   <!-- Roof Support -->
 
-  <RoofSupport.label>支撑柱</RoofSupport.label>
+  <RoofSupport.label>roof support</RoofSupport.label>
   <RoofSupport.description>A structural column capable of holding up a roof. It does not impede movement or provide cover.</RoofSupport.description>
-  <RoofSupport_Blueprint.label>支撑柱 (蓝图)</RoofSupport_Blueprint.label>
-  <RoofSupport_Frame.label>支撑柱 (建造中)</RoofSupport_Frame.label>
+  <RoofSupport_Blueprint.label>roof support (blueprint)</RoofSupport_Blueprint.label>
+  <RoofSupport_Frame.label>roof support (building)</RoofSupport_Frame.label>
   <RoofSupport_Frame.description>A structural column capable of holding up a roof. It does not impede movement or provide cover.</RoofSupport_Frame.description>
 
-
-  <!--[Core] <Wall.label>墙</Wall.label>-->
-  <!--[Core] <Wall.description>一面无法通过的墙。可以支撑起屋顶。</Wall.description>-->
-  <!--[Core] <Wall_Blueprint.label>墙（蓝图）</Wall_Blueprint.label>-->
-  <!--[Core] <Wall_Frame.label>墙（建造中）</Wall_Frame.label>-->
-  <!--[Core] <Wall_Frame.description>一面无法通过的墙。可以支撑起屋顶。</Wall_Frame.description>-->
 
 </LanguageData>

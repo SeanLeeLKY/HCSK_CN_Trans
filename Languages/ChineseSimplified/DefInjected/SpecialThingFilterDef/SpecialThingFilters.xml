@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <allowFresh.label>允许新鲜物品</allowFresh.label>
+  <allowFresh.label>allow fresh</allowFresh.label>
   <allowFresh.description>Allow organic things that are still fresh</allowFresh.description>
 
-  <HumanlikeMeat.label>人肉</HumanlikeMeat.label>
+  <HumanlikeMeat.label>human meat</HumanlikeMeat.label>
   <HumanlikeMeat.description>Allow humanlike meat</HumanlikeMeat.description>
 
-  <InsectMeat.label>虫肉</InsectMeat.label>
+  <InsectMeat.label>insect meat</InsectMeat.label>
   <InsectMeat.description>Allow insect meat</InsectMeat.description>
 
 

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedTent.label>Unfishined Tent</UnfinishedTent.label>
+
+  <DeployableTent.label>Deployable Tent</DeployableTent.label>
+  <DeployableTent.description>A tent.</DeployableTent.description>
+  <DeployableTent.comps.1.useLabel>Deploy tent at...</DeployableTent.comps.1.useLabel>
+
+  <DeployableTentMedium.label>Deployable Tent (Medium)</DeployableTentMedium.label>
+  <DeployableTentMedium.description>A medium tent.</DeployableTentMedium.description>
+  <DeployableTentMedium.comps.1.useLabel>Deploy tent at...</DeployableTentMedium.comps.1.useLabel>
+
+  <DeployableTentBig.label>Deployable Tent (Big)</DeployableTentBig.label>
+  <DeployableTentBig.description>A big tent, with three rooms.</DeployableTentBig.description>
+  <DeployableTentBig.comps.1.useLabel>Deploy tent at...</DeployableTentBig.comps.1.useLabel>
+
+
+</LanguageData>

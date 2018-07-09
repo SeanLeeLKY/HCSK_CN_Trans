@@ -3,21 +3,21 @@
 
   <!-- Ammo -->
 
-  <Ammo_Bolt_Metallic.label>金属箭</Ammo_Bolt_Metallic.label>
+  <Ammo_Bolt_Metallic.label>metallic bolt</Ammo_Bolt_Metallic.label>
   <Ammo_Bolt_Metallic.description>Simple arrow with metallic bolt.</Ammo_Bolt_Metallic.description>
 
-  <Ammo_Bolt_Poison.label>毒箭</Ammo_Bolt_Poison.label>
+  <Ammo_Bolt_Poison.label>poison bolt</Ammo_Bolt_Poison.label>
   <Ammo_Bolt_Poison.description>Simple arrow with poison bolt.</Ammo_Bolt_Poison.description>
 
-  <Ammo_Bolt_Explosive.label>爆炸箭</Ammo_Bolt_Explosive.label>
+  <Ammo_Bolt_Explosive.label>explosive bolt</Ammo_Bolt_Explosive.label>
   <Ammo_Bolt_Explosive.description>Simple arrow with explosive bolt.</Ammo_Bolt_Explosive.description>
 
 
   <!-- Projectiles -->
 
-  <Projectile_MetallicBolt.label>金属箭</Projectile_MetallicBolt.label>
-  <Projectile_PoisonBolt.label>毒箭</Projectile_PoisonBolt.label>
-  <Projectile_ExplosiveBolt.label>爆炸箭</Projectile_ExplosiveBolt.label>
+  <Projectile_MetallicBolt.label>metallic bolt</Projectile_MetallicBolt.label>
+  <Projectile_PoisonBolt.label>poison bolt</Projectile_PoisonBolt.label>
+  <Projectile_ExplosiveBolt.label>explosive bolt</Projectile_ExplosiveBolt.label>
 
 
 </LanguageData>

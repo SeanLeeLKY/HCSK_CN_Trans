@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QRY_Quarry.label>quarry</QRY_Quarry.label>
+  <QRY_Quarry.description>A large pit for digging up long buried resources.</QRY_Quarry.description>
+  <QRY_Quarry_Blueprint.label>quarry (blueprint)</QRY_Quarry_Blueprint.label>
+  <QRY_Quarry_Frame.label>quarry (building)</QRY_Quarry_Frame.label>
+  <QRY_Quarry_Frame.description>A large pit for digging up long buried resources.</QRY_Quarry_Frame.description>
+
+  <QRY_MiniQuarry.label>mini quarry</QRY_MiniQuarry.label>
+  <QRY_MiniQuarry.description>A small pit for digging up long buried resources.</QRY_MiniQuarry.description>
+  <QRY_MiniQuarry_Blueprint.label>mini quarry (blueprint)</QRY_MiniQuarry_Blueprint.label>
+  <QRY_MiniQuarry_Frame.label>mini quarry (building)</QRY_MiniQuarry_Frame.label>
+  <QRY_MiniQuarry_Frame.description>A small pit for digging up long buried resources.</QRY_MiniQuarry_Frame.description>
+
+  <QRY_Platform.label>quarry platform</QRY_Platform.label>
+  <QRY_Platform.description>A platform quarry workers will haul resources to. Must be placed next to a quarry, preferably near the ladders. Quarries can be linked to only one or two platforms.</QRY_Platform.description>
+  <QRY_Platform_Blueprint.label>quarry platform (blueprint)</QRY_Platform_Blueprint.label>
+  <QRY_Platform_Frame.label>quarry platform (building)</QRY_Platform_Frame.label>
+  <QRY_Platform_Frame.description>A platform quarry workers will haul resources to. Must be placed next to a quarry, preferably near the ladders. Quarries can be linked to only one or two platforms.</QRY_Platform_Frame.description>
+
+
+</LanguageData>

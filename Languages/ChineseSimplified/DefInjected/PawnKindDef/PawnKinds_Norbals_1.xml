@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Warrior -->
+
+  <NorbalWarrior.label>诺巴战士</NorbalWarrior.label>
+  <NorbalWarrior.labelPlural>诺巴战士</NorbalWarrior.labelPlural>
+  <NorbalWarrior.labelMale>诺巴战士</NorbalWarrior.labelMale>
+  <NorbalWarrior.labelMalePlural>诺巴战士</NorbalWarrior.labelMalePlural>
+  <NorbalWarrior.labelFemale>诺巴战士</NorbalWarrior.labelFemale>
+  <NorbalWarrior.labelFemalePlural>诺巴战士</NorbalWarrior.labelFemalePlural>
+
+
+  <!-- Trader -->
+
+  <NorbalTrader.label>诺巴商人</NorbalTrader.label>
+  <NorbalTrader.labelPlural>诺巴商人</NorbalTrader.labelPlural>
+  <NorbalTrader.labelMale>诺巴商人</NorbalTrader.labelMale>
+  <NorbalTrader.labelMalePlural>诺巴商人</NorbalTrader.labelMalePlural>
+  <NorbalTrader.labelFemale>诺巴商人</NorbalTrader.labelFemale>
+  <NorbalTrader.labelFemalePlural>诺巴商人</NorbalTrader.labelFemalePlural>
+
+
+  <!-- Rager -->
+
+  <NorbalRager.label>狂战士</NorbalRager.label>
+  <NorbalRager.labelPlural>狂战士</NorbalRager.labelPlural>
+  <NorbalRager.labelMale>狂战士</NorbalRager.labelMale>
+  <NorbalRager.labelMalePlural>狂战士</NorbalRager.labelMalePlural>
+  <NorbalRager.labelFemale>狂战士</NorbalRager.labelFemale>
+  <NorbalRager.labelFemalePlural>狂战士</NorbalRager.labelFemalePlural>
+
+
+  <!-- Destroyer -->
+
+  <NorbalDestroyer.label>怒吼者</NorbalDestroyer.label>
+  <NorbalDestroyer.labelPlural>怒吼者</NorbalDestroyer.labelPlural>
+  <NorbalDestroyer.labelMale>怒吼者</NorbalDestroyer.labelMale>
+  <NorbalDestroyer.labelMalePlural>怒吼者</NorbalDestroyer.labelMalePlural>
+  <NorbalDestroyer.labelFemale>怒吼者</NorbalDestroyer.labelFemale>
+  <NorbalDestroyer.labelFemalePlural>怒吼者</NorbalDestroyer.labelFemalePlural>
+
+
+  <!-- Skirmisher -->
+
+  <NorbalArcher.label>散兵</NorbalArcher.label>
+  <NorbalArcher.labelPlural>散兵</NorbalArcher.labelPlural>
+  <NorbalArcher.labelMale>散兵</NorbalArcher.labelMale>
+  <NorbalArcher.labelMalePlural>散兵</NorbalArcher.labelMalePlural>
+  <NorbalArcher.labelFemale>散兵</NorbalArcher.labelFemale>
+  <NorbalArcher.labelFemalePlural>散兵</NorbalArcher.labelFemalePlural>
+
+
+  <!-- Sage -->
+
+  <NorbalSage.label>圣人</NorbalSage.label>
+  <NorbalSage.labelPlural>圣人</NorbalSage.labelPlural>
+  <NorbalSage.labelMale>圣人</NorbalSage.labelMale>
+  <NorbalSage.labelMalePlural>圣人</NorbalSage.labelMalePlural>
+  <NorbalSage.labelFemale>圣人</NorbalSage.labelFemale>
+  <NorbalSage.labelFemalePlural>圣人</NorbalSage.labelFemalePlural>
+
+
+  <!-- Konungr -->
+
+  <NorbalGrandSage.label>长老</NorbalGrandSage.label>
+  <NorbalGrandSage.labelPlural>长老</NorbalGrandSage.labelPlural>
+  <NorbalGrandSage.labelMale>长老</NorbalGrandSage.labelMale>
+  <NorbalGrandSage.labelMalePlural>长老</NorbalGrandSage.labelMalePlural>
+  <NorbalGrandSage.labelFemale>长老</NorbalGrandSage.labelFemale>
+  <NorbalGrandSage.labelFemalePlural>长老</NorbalGrandSage.labelFemalePlural>
+
+
+  <!-- Hersir -->
+
+  <NorbalHero.label>武士</NorbalHero.label>
+  <NorbalHero.labelPlural>武士</NorbalHero.labelPlural>
+  <NorbalHero.labelMale>武士</NorbalHero.labelMale>
+  <NorbalHero.labelMalePlural>武士</NorbalHero.labelMalePlural>
+  <NorbalHero.labelFemale>武士</NorbalHero.labelFemale>
+  <NorbalHero.labelFemalePlural>武士</NorbalHero.labelFemalePlural>
+
+
+  <!-- Jarl -->
+
+  <NorbalThane.label>贵族</NorbalThane.label>
+  <NorbalThane.labelPlural>贵族</NorbalThane.labelPlural>
+  <NorbalThane.labelMale>贵族</NorbalThane.labelMale>
+  <NorbalThane.labelMalePlural>贵族</NorbalThane.labelMalePlural>
+  <NorbalThane.labelFemale>贵族</NorbalThane.labelFemale>
+  <NorbalThane.labelFemalePlural>贵族</NorbalThane.labelFemalePlural>
+
+
+  <!-- Thrall -->
+
+  <NorbalSnorb.label>奴隶</NorbalSnorb.label>
+  <NorbalSnorb.labelPlural>奴隶</NorbalSnorb.labelPlural>
+
+
+  <!-- Karl -->
+
+  <NorbalKarl.label>大师</NorbalKarl.label>
+  <NorbalKarl.labelPlural>大师</NorbalKarl.labelPlural>
+  <NorbalKarl.labelMale>大师</NorbalKarl.labelMale>
+  <NorbalKarl.labelMalePlural>大师</NorbalKarl.labelMalePlural>
+  <NorbalKarl.labelFemale>大师</NorbalKarl.labelFemale>
+  <NorbalKarl.labelFemalePlural>大师</NorbalKarl.labelFemalePlural>
+
+
+</LanguageData>

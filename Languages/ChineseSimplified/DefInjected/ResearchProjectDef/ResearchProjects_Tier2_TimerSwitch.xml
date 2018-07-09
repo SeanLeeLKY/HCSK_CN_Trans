@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ResearchTimerSwitch.label>时间控制开关</ResearchTimerSwitch.label>
+  <ResearchTimerSwitch.label>Timer Switch</ResearchTimerSwitch.label>
   <ResearchTimerSwitch.description>Research an timer for the power switch. This will allow automatic power switching at specific times.</ResearchTimerSwitch.description>
   <ResearchTimerSwitch.descriptionDiscovered>Now your power switch can be configured to automatically switch at specified times.
 

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Redunant building. Should remove in future. -->
+
+  <AquacultureHopper.label>Aquaculture hopper</AquacultureHopper.label>
+  <AquacultureHopper.description>Holds food to feed bred species in aquaculture basins. This hopper is refrigerated and food within will not spoil if powered.</AquacultureHopper.description>
+  <AquacultureHopper_Blueprint_Install.label>Aquaculture hopper (blueprint)</AquacultureHopper_Blueprint_Install.label>
+
+
+</LanguageData>

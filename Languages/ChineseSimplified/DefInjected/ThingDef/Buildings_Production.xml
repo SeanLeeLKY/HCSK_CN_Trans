@@ -1,294 +1,308 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Outdoors Worktable Base -->
-
-  <TableGrill.label>简易烤炉</TableGrill.label>
+  <TableGrill.label>simple grill</TableGrill.label>
   <TableGrill.description>A small grill used to cook meat into simple jerky or roasts. Can be fueled by Kindling, Coal, Charcoal and wooden stuff.</TableGrill.description>
-  <TableGrill_Blueprint.label>简易烤炉 (蓝图)</TableGrill_Blueprint.label>
-  <TableGrill_Blueprint_Install.label>简易烤炉 (蓝图)</TableGrill_Blueprint_Install.label>
-  <TableGrill_Frame.label>简易烤炉 (建造中)</TableGrill_Frame.label>
+  <TableGrill_Blueprint.label>simple grill (blueprint)</TableGrill_Blueprint.label>
+  <TableGrill_Blueprint_Install.label>simple grill (blueprint)</TableGrill_Blueprint_Install.label>
+  <TableGrill_Frame.label>simple grill (building)</TableGrill_Frame.label>
   <TableGrill_Frame.description>A small grill used to cook meat into simple jerky or roasts. Can be fueled by Kindling, Coal, Charcoal and wooden stuff.</TableGrill_Frame.description>
 
-  <ButcheringSpot.label>屠宰点</ButcheringSpot.label>
+  <ButcheringSpot.label>butchering spot</ButcheringSpot.label>
   <ButcheringSpot.description>A makeshift spot for butchering dead creatures into pieces of raw meat.</ButcheringSpot.description>
-  <ButcheringSpot_Blueprint.label>屠宰点 (蓝图)</ButcheringSpot_Blueprint.label>
-  <ButcheringSpot_Blueprint_Install.label>屠宰点 (蓝图)</ButcheringSpot_Blueprint_Install.label>
-  <ButcheringSpot_Frame.label>屠宰点 (建造中)</ButcheringSpot_Frame.label>
+  <ButcheringSpot_Blueprint.label>butchering spot (blueprint)</ButcheringSpot_Blueprint.label>
+  <ButcheringSpot_Blueprint_Install.label>butchering spot (blueprint)</ButcheringSpot_Blueprint_Install.label>
+  <ButcheringSpot_Frame.label>butchering spot (building)</ButcheringSpot_Frame.label>
   <ButcheringSpot_Frame.description>A makeshift spot for butchering dead creatures into pieces of raw meat.</ButcheringSpot_Frame.description>
 
-  <TableButcherNeolithic.label>小型屠宰台</TableButcherNeolithic.label>
-  <TableButcherNeolithic.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcherNeolithic.description>
-  <TableButcherNeolithic_Blueprint.label>小型屠宰台 (蓝图)</TableButcherNeolithic_Blueprint.label>
-  <TableButcherNeolithic_Blueprint_Install.label>小型屠宰台 (蓝图)</TableButcherNeolithic_Blueprint_Install.label>
-  <TableButcherNeolithic_Frame.label>小型屠宰台 (建造中)</TableButcherNeolithic_Frame.label>
-  <TableButcherNeolithic_Frame.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcherNeolithic_Frame.description>
+  <TableButcher.label>butcher table</TableButcher.label>
+  <TableButcher.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher.description>
+  <TableButcher_Blueprint.label>butcher table (blueprint)</TableButcher_Blueprint.label>
+  <TableButcher_Blueprint_Install.label>butcher table (blueprint)</TableButcher_Blueprint_Install.label>
+  <TableButcher_Frame.label>butcher table (building)</TableButcher_Frame.label>
+  <TableButcher_Frame.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher_Frame.description>
 
-   
-   
-  <TableOven.label>烤箱</TableOven.label>
-  <TableOven.description>A fueled 烤箱 for baking candies and tasty treats. Can be fueled by Kindling, Coal, Charcoal and wooden stuff.</TableOven.description>
-  <TableOven_Blueprint.label>烤箱 (蓝图)</TableOven_Blueprint.label>
-  <TableOven_Blueprint_Install.label>烤箱 (蓝图)</TableOven_Blueprint_Install.label>
-  <TableOven_Frame.label>烤箱 (建造中)</TableOven_Frame.label>
-  <TableOven_Frame.description>A fueled 烤箱 for baking candies and tasty treats. Can be fueled by Kindling, Coal, Charcoal and wooden stuff.</TableOven_Frame.description>
+  <TableKitchen.label>Kitchen Table</TableKitchen.label>
+  <TableKitchen.description>A heavy table for meal prep.</TableKitchen.description>
+  <TableKitchen_Blueprint.label>Kitchen Table (blueprint)</TableKitchen_Blueprint.label>
+  <TableKitchen_Blueprint_Install.label>Kitchen Table (blueprint)</TableKitchen_Blueprint_Install.label>
+  <TableKitchen_Frame.label>Kitchen Table (building)</TableKitchen_Frame.label>
+  <TableKitchen_Frame.description>A heavy table for meal prep.</TableKitchen_Frame.description>
 
-  <CandyTable.label>糖果工作台</CandyTable.label>
+  <FueledStove.label>fueled stove</FueledStove.label>
+  <FueledStove.description>A simple wood-fueled stove with an attached countertop for preparing meals. Can be fueled by Kindling, Coal, Charcoal and wooden stuff.</FueledStove.description>
+  <FueledStove_Blueprint.label>fueled stove (blueprint)</FueledStove_Blueprint.label>
+  <FueledStove_Frame.label>fueled stove (building)</FueledStove_Frame.label>
+  <FueledStove_Frame.description>A simple wood-fueled stove with an attached countertop for preparing meals. Can be fueled by Kindling, Coal, Charcoal and wooden stuff.</FueledStove_Frame.description>
+
+  <TableOven.label>oven</TableOven.label>
+  <TableOven.description>A fueled oven for baking candies and tasty treats. Can be fueled by Kindling, Coal, Charcoal and wooden stuff.</TableOven.description>
+  <TableOven_Blueprint.label>oven (blueprint)</TableOven_Blueprint.label>
+  <TableOven_Blueprint_Install.label>oven (blueprint)</TableOven_Blueprint_Install.label>
+  <TableOven_Frame.label>oven (building)</TableOven_Frame.label>
+  <TableOven_Frame.description>A fueled oven for baking candies and tasty treats. Can be fueled by Kindling, Coal, Charcoal and wooden stuff.</TableOven_Frame.description>
+
+  <CandyTable.label>candy table</CandyTable.label>
   <CandyTable.description>A candy-making table used to make chocolate, caramel and taffy. Requires power.</CandyTable.description>
-  <CandyTable_Blueprint.label>糖果工作台 (蓝图)</CandyTable_Blueprint.label>
-  <CandyTable_Blueprint_Install.label>糖果工作台 (蓝图)</CandyTable_Blueprint_Install.label>
-  <CandyTable_Frame.label>糖果工作台 (建造中)</CandyTable_Frame.label>
+  <CandyTable_Blueprint.label>candy table (blueprint)</CandyTable_Blueprint.label>
+  <CandyTable_Blueprint_Install.label>candy table (blueprint)</CandyTable_Blueprint_Install.label>
+  <CandyTable_Frame.label>candy table (building)</CandyTable_Frame.label>
   <CandyTable_Frame.description>A candy-making table used to make chocolate, caramel and taffy. Requires power.</CandyTable_Frame.description>
 
-  <GrindStone.label>石磨</GrindStone.label>
+  <GrindStone.label>milling stone</GrindStone.label>
   <GrindStone.description>A small muscle-powered grinding stone for quickly grinding raw plants.</GrindStone.description>
-  <GrindStone_Blueprint.label>石磨 (蓝图)</GrindStone_Blueprint.label>
-  <GrindStone_Blueprint_Install.label>石磨 (蓝图)</GrindStone_Blueprint_Install.label>
-  <GrindStone_Frame.label>石磨 (建造中)</GrindStone_Frame.label>
+  <GrindStone_Blueprint.label>milling stone (blueprint)</GrindStone_Blueprint.label>
+  <GrindStone_Blueprint_Install.label>milling stone (blueprint)</GrindStone_Blueprint_Install.label>
+  <GrindStone_Frame.label>milling stone (building)</GrindStone_Frame.label>
   <GrindStone_Frame.description>A small muscle-powered grinding stone for quickly grinding raw plants.</GrindStone_Frame.description>
 
-   
-  
+  <NutrientPasteDispenser.label>nutrient paste dispenser</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.description>Synthesizes nutrient paste from organic ingredients. It consumes less ingredients and time than any other meal production method, but nobody likes eating nutrient paste. Requires power.</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser_Blueprint.label>nutrient paste dispenser (blueprint)</NutrientPasteDispenser_Blueprint.label>
+  <NutrientPasteDispenser_Blueprint_Install.label>nutrient paste dispenser (blueprint)</NutrientPasteDispenser_Blueprint_Install.label>
+  <NutrientPasteDispenser_Frame.label>nutrient paste dispenser (building)</NutrientPasteDispenser_Frame.label>
+  <NutrientPasteDispenser_Frame.description>Synthesizes nutrient paste from organic ingredients. It consumes less ingredients and time than any other meal production method, but nobody likes eating nutrient paste. Requires power.</NutrientPasteDispenser_Frame.description>
+
+  <Hopper.label>hopper</Hopper.label>
+  <Hopper.description>Holds resources for the nutrient paste dispenser or fertilizer machine.</Hopper.description>
+  <Hopper_Blueprint.label>hopper (blueprint)</Hopper_Blueprint.label>
+  <Hopper_Blueprint_Install.label>hopper (blueprint)</Hopper_Blueprint_Install.label>
+  <Hopper_Frame.label>hopper (building)</Hopper_Frame.label>
+  <Hopper_Frame.description>Holds resources for the nutrient paste dispenser or fertilizer machine.</Hopper_Frame.description>
+
 
   <!-- Brewery -->
 
-   
+  <Brewery.label>brewery</Brewery.label>
+  <Brewery.description>A work station with all the equipment needed to brew Wort. Can be fueled by Kindling, Coal, Charcoal and wooden stuff.</Brewery.description>
+  <Brewery_Blueprint.label>brewery (blueprint)</Brewery_Blueprint.label>
+  <Brewery_Blueprint_Install.label>brewery (blueprint)</Brewery_Blueprint_Install.label>
+  <Brewery_Frame.label>brewery (building)</Brewery_Frame.label>
+  <Brewery_Frame.description>A work station with all the equipment needed to brew Wort. Can be fueled by Kindling, Coal, Charcoal and wooden stuff.</Brewery_Frame.description>
 
-  <!-- 电动酿造台 -->
 
-  <ElectricBrewery.label>电动酿造台</ElectricBrewery.label>
+  <!-- Electric Brewery -->
+
+  <ElectricBrewery.label>electric brewery</ElectricBrewery.label>
   <ElectricBrewery.description>A work station with all the equipment needed to brew alocholic drinks and ethanol fuel. Requires power.</ElectricBrewery.description>
-  <ElectricBrewery_Blueprint.label>电动酿造台 (蓝图)</ElectricBrewery_Blueprint.label>
-  <ElectricBrewery_Blueprint_Install.label>电动酿造台 (蓝图)</ElectricBrewery_Blueprint_Install.label>
-  <ElectricBrewery_Frame.label>电动酿造台 (建造中)</ElectricBrewery_Frame.label>
+  <ElectricBrewery_Blueprint.label>electric brewery (blueprint)</ElectricBrewery_Blueprint.label>
+  <ElectricBrewery_Blueprint_Install.label>electric brewery (blueprint)</ElectricBrewery_Blueprint_Install.label>
+  <ElectricBrewery_Frame.label>electric brewery (building)</ElectricBrewery_Frame.label>
   <ElectricBrewery_Frame.description>A work station with all the equipment needed to brew alocholic drinks and ethanol fuel. Requires power.</ElectricBrewery_Frame.description>
 
 
   <!-- Alcohol Fermenting Barrel -->
 
-   
-  <!-- 干肉架 -->
+  <FermentingBarrel.label>Alcohol Fermenting Barrel</FermentingBarrel.label>
+  <FermentingBarrel.description>A barrel of fermenting alcohol.</FermentingBarrel.description>
+  <FermentingBarrel_Blueprint.label>Alcohol Fermenting Barrel (blueprint)</FermentingBarrel_Blueprint.label>
+  <FermentingBarrel_Blueprint_Install.label>Alcohol Fermenting Barrel (blueprint)</FermentingBarrel_Blueprint_Install.label>
+  <FermentingBarrel_Frame.label>Alcohol Fermenting Barrel (building)</FermentingBarrel_Frame.label>
+  <FermentingBarrel_Frame.description>A barrel of fermenting alcohol.</FermentingBarrel_Frame.description>
 
-  <JerkyRack.label>干肉架</JerkyRack.label>
+
+  <!-- Jerky Drying Rack -->
+
+  <JerkyRack.label>Jerky Drying Rack</JerkyRack.label>
   <JerkyRack.description>A rack with meat prepared for drying into jerky.</JerkyRack.description>
-  <JerkyRack_Blueprint.label>干肉架 (蓝图)</JerkyRack_Blueprint.label>
-  <JerkyRack_Blueprint_Install.label>干肉架 (蓝图)</JerkyRack_Blueprint_Install.label>
-  <JerkyRack_Frame.label>干肉架 (建造中)</JerkyRack_Frame.label>
+  <JerkyRack_Blueprint.label>Jerky Drying Rack (blueprint)</JerkyRack_Blueprint.label>
+  <JerkyRack_Blueprint_Install.label>Jerky Drying Rack (blueprint)</JerkyRack_Blueprint_Install.label>
+  <JerkyRack_Frame.label>Jerky Drying Rack (building)</JerkyRack_Frame.label>
   <JerkyRack_Frame.description>A rack with meat prepared for drying into jerky.</JerkyRack_Frame.description>
 
-  
-  <TableCoffee.label>咖啡机</TableCoffee.label>
+  <DryingRack.label>drying rack</DryingRack.label>
+  <DryingRack.description>Drying rack used for drying smokeleaf and tobacco leaves.</DryingRack.description>
+  <DryingRack_Blueprint.label>drying rack (blueprint)</DryingRack_Blueprint.label>
+  <DryingRack_Blueprint_Install.label>drying rack (blueprint)</DryingRack_Blueprint_Install.label>
+  <DryingRack_Frame.label>drying rack (building)</DryingRack_Frame.label>
+  <DryingRack_Frame.description>Drying rack used for drying smokeleaf and tobacco leaves.</DryingRack_Frame.description>
+
+  <DrugLab.label>drug lab</DrugLab.label>
+  <DrugLab.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab.description>
+  <DrugLab_Blueprint.label>drug lab (blueprint)</DrugLab_Blueprint.label>
+  <DrugLab_Blueprint_Install.label>drug lab (blueprint)</DrugLab_Blueprint_Install.label>
+  <DrugLab_Frame.label>drug lab (building)</DrugLab_Frame.label>
+  <DrugLab_Frame.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab_Frame.description>
+
+  <TableCoffee.label>coffee machine</TableCoffee.label>
   <TableCoffee.description>A machine for the preparation of coffee. It can also produce tea. Requires power.</TableCoffee.description>
-  <TableCoffee_Blueprint.label>咖啡机 (蓝图)</TableCoffee_Blueprint.label>
-  <TableCoffee_Blueprint_Install.label>咖啡机 (蓝图)</TableCoffee_Blueprint_Install.label>
-  <TableCoffee_Frame.label>咖啡机 (建造中)</TableCoffee_Frame.label>
+  <TableCoffee_Blueprint.label>coffee machine (blueprint)</TableCoffee_Blueprint.label>
+  <TableCoffee_Blueprint_Install.label>coffee machine (blueprint)</TableCoffee_Blueprint_Install.label>
+  <TableCoffee_Frame.label>coffee machine (building)</TableCoffee_Frame.label>
   <TableCoffee_Frame.description>A machine for the preparation of coffee. It can also produce tea. Requires power.</TableCoffee_Frame.description>
 
-  <TableSawmillHand.label>手工锯台</TableSawmillHand.label>
+  <TableSawmillHand.label>hand sawmill</TableSawmillHand.label>
   <TableSawmillHand.description>A small muscle-powered hand saw for cutting logs into planks and kindling.</TableSawmillHand.description>
-  <TableSawmillHand_Blueprint.label>手工锯台 (蓝图)</TableSawmillHand_Blueprint.label>
-  <TableSawmillHand_Blueprint_Install.label>手工锯台 (蓝图)</TableSawmillHand_Blueprint_Install.label>
-  <TableSawmillHand_Frame.label>手工锯台 (建造中)</TableSawmillHand_Frame.label>
+  <TableSawmillHand_Blueprint.label>hand sawmill (blueprint)</TableSawmillHand_Blueprint.label>
+  <TableSawmillHand_Blueprint_Install.label>hand sawmill (blueprint)</TableSawmillHand_Blueprint_Install.label>
+  <TableSawmillHand_Frame.label>hand sawmill (building)</TableSawmillHand_Frame.label>
   <TableSawmillHand_Frame.description>A small muscle-powered hand saw for cutting logs into planks and kindling.</TableSawmillHand_Frame.description>
 
-  <TableFurnace.label>熔炉</TableFurnace.label>
-  <TableFurnace.description>A 熔炉 used for smelting basic metal ores into metal alloys. Can make metal cans and produce charcoal from logs. Can be fueled by Kindling, Coal, Charcoal, Peat and wooden stuff.</TableFurnace.description>
-  <TableFurnace_Blueprint.label>熔炉 (蓝图)</TableFurnace_Blueprint.label>
-  <TableFurnace_Blueprint_Install.label>熔炉 (蓝图)</TableFurnace_Blueprint_Install.label>
-  <TableFurnace_Frame.label>熔炉 (建造中)</TableFurnace_Frame.label>
-  <TableFurnace_Frame.description>A 熔炉 used for smelting basic metal ores into metal alloys. Can make metal cans and produce charcoal from logs. Can be fueled by Kindling, Coal, Charcoal, Peat and wooden stuff.</TableFurnace_Frame.description>
+  <TableFurnace.label>furnace</TableFurnace.label>
+  <TableFurnace.description>A furnace used for smelting basic metal ores into metal alloys. Can make metal cans and produce charcoal from logs. Can be fueled by Kindling, Coal, Charcoal, Peat and wooden stuff.</TableFurnace.description>
+  <TableFurnace_Blueprint.label>furnace (blueprint)</TableFurnace_Blueprint.label>
+  <TableFurnace_Blueprint_Install.label>furnace (blueprint)</TableFurnace_Blueprint_Install.label>
+  <TableFurnace_Frame.label>furnace (building)</TableFurnace_Frame.label>
+  <TableFurnace_Frame.description>A furnace used for smelting basic metal ores into metal alloys. Can make metal cans and produce charcoal from logs. Can be fueled by Kindling, Coal, Charcoal, Peat and wooden stuff.</TableFurnace_Frame.description>
 
-  <Kiln.label>窑</Kiln.label>
-  <Kiln.description>An improvised 窑 used to produce clay bricks, burning apparel and used as crematorium. Can be fueled by Kindling, Coal, Charcoal, Peat and wooden stuff.</Kiln.description>
-  <Kiln_Blueprint.label>窑 (蓝图)</Kiln_Blueprint.label>
-  <Kiln_Blueprint_Install.label>窑 (蓝图)</Kiln_Blueprint_Install.label>
-  <Kiln_Frame.label>窑 (建造中)</Kiln_Frame.label>
-  <Kiln_Frame.description>An improvised 窑 used to produce clay bricks, burning apparel and used as crematorium. Can be fueled by Kindling, Coal, Charcoal, Peat and wooden stuff.</Kiln_Frame.description>
+  <Kiln.label>kiln</Kiln.label>
+  <Kiln.description>An improvised kiln used to produce clay bricks, burning apparel and used as crematorium. Can be fueled by Kindling, Coal, Charcoal, Peat and wooden stuff.</Kiln.description>
+  <Kiln_Blueprint.label>kiln (blueprint)</Kiln_Blueprint.label>
+  <Kiln_Blueprint_Install.label>kiln (blueprint)</Kiln_Blueprint_Install.label>
+  <Kiln_Frame.label>kiln (building)</Kiln_Frame.label>
+  <Kiln_Frame.description>An improvised kiln used to produce clay bricks, burning apparel and used as crematorium. Can be fueled by Kindling, Coal, Charcoal, Peat and wooden stuff.</Kiln_Frame.description>
 
-  <GlassworkTable.label>玻璃工作台</GlassworkTable.label>
+  <GlassworkTable.label>glassworks table</GlassworkTable.label>
   <GlassworkTable.description>A table with all the tools you need to make glass. Requires power.</GlassworkTable.description>
-  <GlassworkTable_Blueprint.label>玻璃工作台 (蓝图)</GlassworkTable_Blueprint.label>
-  <GlassworkTable_Blueprint_Install.label>玻璃工作台 (蓝图)</GlassworkTable_Blueprint_Install.label>
-  <GlassworkTable_Frame.label>玻璃工作台 (建造中)</GlassworkTable_Frame.label>
+  <GlassworkTable_Blueprint.label>glassworks table (blueprint)</GlassworkTable_Blueprint.label>
+  <GlassworkTable_Blueprint_Install.label>glassworks table (blueprint)</GlassworkTable_Blueprint_Install.label>
+  <GlassworkTable_Frame.label>glassworks table (building)</GlassworkTable_Frame.label>
   <GlassworkTable_Frame.description>A table with all the tools you need to make glass. Requires power.</GlassworkTable_Frame.description>
 
-  <LeatherworkerTable.label>皮革工作台</LeatherworkerTable.label>
+  <LeatherworkerTable.label>leatherworker table</LeatherworkerTable.label>
   <LeatherworkerTable.description>A worktable for crafting leather clothing from raw hides.</LeatherworkerTable.description>
-  <LeatherworkerTable_Blueprint.label>皮革工作台 (蓝图)</LeatherworkerTable_Blueprint.label>
-  <LeatherworkerTable_Blueprint_Install.label>皮革工作台 (蓝图)</LeatherworkerTable_Blueprint_Install.label>
-  <LeatherworkerTable_Frame.label>皮革工作台 (建造中)</LeatherworkerTable_Frame.label>
+  <LeatherworkerTable_Blueprint.label>leatherworker table (blueprint)</LeatherworkerTable_Blueprint.label>
+  <LeatherworkerTable_Blueprint_Install.label>leatherworker table (blueprint)</LeatherworkerTable_Blueprint_Install.label>
+  <LeatherworkerTable_Frame.label>leatherworker table (building)</LeatherworkerTable_Frame.label>
   <LeatherworkerTable_Frame.description>A worktable for crafting leather clothing from raw hides.</LeatherworkerTable_Frame.description>
 
-   
-  <TableLoom.label>裁缝织机</TableLoom.label>
-  <TableLoom.description>A 裁缝织机 that is used to spin raw materials into usable textiles. Requires power.</TableLoom.description>
-  <TableLoom_Blueprint.label>裁缝织机 (蓝图)</TableLoom_Blueprint.label>
-  <TableLoom_Blueprint_Install.label>裁缝织机 (蓝图)</TableLoom_Blueprint_Install.label>
-  <TableLoom_Frame.label>裁缝织机 (建造中)</TableLoom_Frame.label>
-  <TableLoom_Frame.description>A 裁缝织机 that is used to spin raw materials into usable textiles. Requires power.</TableLoom_Frame.description>
+  <HandTailoringBench.label>tailor's bench</HandTailoringBench.label>
+  <HandTailoringBench.description>A workbench equipped for tailoring basic clothing from textiles.</HandTailoringBench.description>
+  <HandTailoringBench_Blueprint.label>tailor's bench (blueprint)</HandTailoringBench_Blueprint.label>
+  <HandTailoringBench_Blueprint_Install.label>tailor's bench (blueprint)</HandTailoringBench_Blueprint_Install.label>
+  <HandTailoringBench_Frame.label>tailor's bench (building)</HandTailoringBench_Frame.label>
+  <HandTailoringBench_Frame.description>A workbench equipped for tailoring basic clothing from textiles.</HandTailoringBench_Frame.description>
 
-  <TableMending.label>修理工作台</TableMending.label>
+  <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
+  <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
+  <ElectricTailoringBench_Blueprint.label>electric tailoring bench (blueprint)</ElectricTailoringBench_Blueprint.label>
+  <ElectricTailoringBench_Blueprint_Install.label>electric tailoring bench (blueprint)</ElectricTailoringBench_Blueprint_Install.label>
+  <ElectricTailoringBench_Frame.label>electric tailoring bench (building)</ElectricTailoringBench_Frame.label>
+  <ElectricTailoringBench_Frame.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench_Frame.description>
+
+  <TableLoom.label>tailor's loom</TableLoom.label>
+  <TableLoom.description>A tailor's loom that is used to spin raw materials into usable textiles. Requires power.</TableLoom.description>
+  <TableLoom_Blueprint.label>tailor's loom (blueprint)</TableLoom_Blueprint.label>
+  <TableLoom_Blueprint_Install.label>tailor's loom (blueprint)</TableLoom_Blueprint_Install.label>
+  <TableLoom_Frame.label>tailor's loom (building)</TableLoom_Frame.label>
+  <TableLoom_Frame.description>A tailor's loom that is used to spin raw materials into usable textiles. Requires power.</TableLoom_Frame.description>
+
+  <TableMending.label>mending workbench</TableMending.label>
   <TableMending.description>A workbench equipped with all the tools required to mend and repair damaged items. Requires power and consumes mending kits.</TableMending.description>
-  <TableMending_Blueprint.label>修理工作台 (蓝图)</TableMending_Blueprint.label>
-  <TableMending_Blueprint_Install.label>修理工作台 (蓝图)</TableMending_Blueprint_Install.label>
-  <TableMending_Frame.label>修理工作台 (建造中)</TableMending_Frame.label>
+  <TableMending_Blueprint.label>mending workbench (blueprint)</TableMending_Blueprint.label>
+  <TableMending_Blueprint_Install.label>mending workbench (blueprint)</TableMending_Blueprint_Install.label>
+  <TableMending_Frame.label>mending workbench (building)</TableMending_Frame.label>
   <TableMending_Frame.description>A workbench equipped with all the tools required to mend and repair damaged items. Requires power and consumes mending kits.</TableMending_Frame.description>
- 
-  
-  <TableStonecutterNeolithic.label>切石工作台</TableStonecutterNeolithic.label>
+
+  <ComponentAssemblyBench.label>hand assembling workbench</ComponentAssemblyBench.label>
+  <ComponentAssemblyBench.description>A table for the assembling of components, wires, and mechanisms. Further research will allow advanced mechanisms to be built here as well. Power needed: 300 W. Can work without electricity, but work speed will be reduced by 30%.</ComponentAssemblyBench.description>
+  <ComponentAssemblyBench_Blueprint.label>hand assembling workbench (blueprint)</ComponentAssemblyBench_Blueprint.label>
+  <ComponentAssemblyBench_Blueprint_Install.label>hand assembling workbench (blueprint)</ComponentAssemblyBench_Blueprint_Install.label>
+  <ComponentAssemblyBench_Frame.label>hand assembling workbench (building)</ComponentAssemblyBench_Frame.label>
+  <ComponentAssemblyBench_Frame.description>A table for the assembling of components, wires, and mechanisms. Further research will allow advanced mechanisms to be built here as well. Power needed: 300 W. Can work without electricity, but work speed will be reduced by 30%.</ComponentAssemblyBench_Frame.description>
+
+  <FueledSmithy.label>blacksmith</FueledSmithy.label>
+  <FueledSmithy.description>This blacksmithing setup has all the tools needed to build metal armor, work tools, melee weapons, advanced bows and crossbows, as well as simple ammunition such as arrows. It requires some fuel that burns at a high temperature such as coal or peat.</FueledSmithy.description>
+  <FueledSmithy_Blueprint.label>blacksmith (blueprint)</FueledSmithy_Blueprint.label>
+  <FueledSmithy_Blueprint_Install.label>blacksmith (blueprint)</FueledSmithy_Blueprint_Install.label>
+  <FueledSmithy_Frame.label>blacksmith (building)</FueledSmithy_Frame.label>
+  <FueledSmithy_Frame.description>This blacksmithing setup has all the tools needed to build metal armor, work tools, melee weapons, advanced bows and crossbows, as well as simple ammunition such as arrows. It requires some fuel that burns at a high temperature such as coal or peat.</FueledSmithy_Frame.description>
+
+  <TableStonecutterNeolithic.label>stonecutter's bench</TableStonecutterNeolithic.label>
   <TableStonecutterNeolithic.description>A work table equipped to cut rough stone into small stone cobbles.</TableStonecutterNeolithic.description>
-  <TableStonecutterNeolithic_Blueprint.label>切石工作台 (蓝图)</TableStonecutterNeolithic_Blueprint.label>
-  <TableStonecutterNeolithic_Blueprint_Install.label>切石工作台 (蓝图)</TableStonecutterNeolithic_Blueprint_Install.label>
-  <TableStonecutterNeolithic_Frame.label>切石工作台 (建造中)</TableStonecutterNeolithic_Frame.label>
+  <TableStonecutterNeolithic_Blueprint.label>stonecutter's bench (blueprint)</TableStonecutterNeolithic_Blueprint.label>
+  <TableStonecutterNeolithic_Blueprint_Install.label>stonecutter's bench (blueprint)</TableStonecutterNeolithic_Blueprint_Install.label>
+  <TableStonecutterNeolithic_Frame.label>stonecutter's bench (building)</TableStonecutterNeolithic_Frame.label>
   <TableStonecutterNeolithic_Frame.description>A work table equipped to cut rough stone into small stone cobbles.</TableStonecutterNeolithic_Frame.description>
 
-  
-   
-  <ConcreteMixer.label>手动混凝土搅拌器</ConcreteMixer.label>
+  <TableStonecutter.label>hand machining table</TableStonecutter.label>
+  <TableStonecutter.description>An unpowered work table equipped to process stone chunks into blocks, rubble or sand. Reinforced concrete is prepared here as well.</TableStonecutter.description>
+  <TableStonecutter_Blueprint.label>hand machining table (blueprint)</TableStonecutter_Blueprint.label>
+  <TableStonecutter_Blueprint_Install.label>hand machining table (blueprint)</TableStonecutter_Blueprint_Install.label>
+  <TableStonecutter_Frame.label>hand machining table (building)</TableStonecutter_Frame.label>
+  <TableStonecutter_Frame.description>An unpowered work table equipped to process stone chunks into blocks, rubble or sand. Reinforced concrete is prepared here as well.</TableStonecutter_Frame.description>
+
+  <TableSculpting.label>sculptor's table</TableSculpting.label>
+  <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
+  <TableSculpting_Blueprint.label>sculptor's table (blueprint)</TableSculpting_Blueprint.label>
+  <TableSculpting_Blueprint_Install.label>sculptor's table (blueprint)</TableSculpting_Blueprint_Install.label>
+  <TableSculpting_Frame.label>sculptor's table (building)</TableSculpting_Frame.label>
+  <TableSculpting_Frame.description>A workbench equipped for artistic sculpting.</TableSculpting_Frame.description>
+
+  <ConcreteMixer.label>hand concrete mixer</ConcreteMixer.label>
   <ConcreteMixer.description>A muscle-powered concrete mixer. Concrete is mixed from rubble and sand.</ConcreteMixer.description>
-  <ConcreteMixer_Blueprint.label>手动混凝土搅拌器 (蓝图)</ConcreteMixer_Blueprint.label>
-  <ConcreteMixer_Blueprint_Install.label>手动混凝土搅拌器 (蓝图)</ConcreteMixer_Blueprint_Install.label>
-  <ConcreteMixer_Frame.label>手动混凝土搅拌器 (建造中)</ConcreteMixer_Frame.label>
+  <ConcreteMixer_Blueprint.label>hand concrete mixer (blueprint)</ConcreteMixer_Blueprint.label>
+  <ConcreteMixer_Blueprint_Install.label>hand concrete mixer (blueprint)</ConcreteMixer_Blueprint_Install.label>
+  <ConcreteMixer_Frame.label>hand concrete mixer (building)</ConcreteMixer_Frame.label>
   <ConcreteMixer_Frame.description>A muscle-powered concrete mixer. Concrete is mixed from rubble and sand.</ConcreteMixer_Frame.description>
 
-  <CompostBarrel.label>堆肥发酵桶</CompostBarrel.label>
-  <CompostBarrel.description>A 堆肥发酵桶 will convert 10 compost into 10 fertilizer.</CompostBarrel.description>
-  <CompostBarrel_Blueprint.label>堆肥发酵桶 (蓝图)</CompostBarrel_Blueprint.label>
-  <CompostBarrel_Blueprint_Install.label>堆肥发酵桶 (蓝图)</CompostBarrel_Blueprint_Install.label>
-  <CompostBarrel_Frame.label>堆肥发酵桶 (建造中)</CompostBarrel_Frame.label>
-  <CompostBarrel_Frame.description>A 堆肥发酵桶 will convert 10 compost into 10 fertilizer.</CompostBarrel_Frame.description>
+  <CompostBarrel.label>compost barrel</CompostBarrel.label>
+  <CompostBarrel.description>A compost barrel will convert 10 compost into 10 fertilizer.</CompostBarrel.description>
+  <CompostBarrel_Blueprint.label>compost barrel (blueprint)</CompostBarrel_Blueprint.label>
+  <CompostBarrel_Blueprint_Install.label>compost barrel (blueprint)</CompostBarrel_Blueprint_Install.label>
+  <CompostBarrel_Frame.label>compost barrel (building)</CompostBarrel_Frame.label>
+  <CompostBarrel_Frame.description>A compost barrel will convert 10 compost into 10 fertilizer.</CompostBarrel_Frame.description>
 
-  
-  <WeaponCraftingWorkTable.label>武器加工台</WeaponCraftingWorkTable.label>
+  <CraftingSpot.label>craftsman table</CraftingSpot.label>
+  <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
+  <CraftingSpot_Blueprint.label>craftsman table (blueprint)</CraftingSpot_Blueprint.label>
+  <CraftingSpot_Blueprint_Install.label>craftsman table (blueprint)</CraftingSpot_Blueprint_Install.label>
+  <CraftingSpot_Frame.label>craftsman table (building)</CraftingSpot_Frame.label>
+  <CraftingSpot_Frame.description>A place for crafting simple things like shivs or bows.</CraftingSpot_Frame.description>
+
+  <WeaponCraftingWorkTable.label>weapon crafting workbench</WeaponCraftingWorkTable.label>
   <WeaponCraftingWorkTable.description>A workbench that produces ranged weapons like pistols and rifles. Can smelt weapons down into metal. Requires power.</WeaponCraftingWorkTable.description>
-  <WeaponCraftingWorkTable_Blueprint.label>武器加工台 (蓝图)</WeaponCraftingWorkTable_Blueprint.label>
-  <WeaponCraftingWorkTable_Blueprint_Install.label>武器加工台 (蓝图)</WeaponCraftingWorkTable_Blueprint_Install.label>
-  <WeaponCraftingWorkTable_Frame.label>武器加工台 (建造中)</WeaponCraftingWorkTable_Frame.label>
+  <WeaponCraftingWorkTable_Blueprint.label>weapon crafting workbench (blueprint)</WeaponCraftingWorkTable_Blueprint.label>
+  <WeaponCraftingWorkTable_Blueprint_Install.label>weapon crafting workbench (blueprint)</WeaponCraftingWorkTable_Blueprint_Install.label>
+  <WeaponCraftingWorkTable_Frame.label>weapon crafting workbench (building)</WeaponCraftingWorkTable_Frame.label>
   <WeaponCraftingWorkTable_Frame.description>A workbench that produces ranged weapons like pistols and rifles. Can smelt weapons down into metal. Requires power.</WeaponCraftingWorkTable_Frame.description>
 
-  <AdvWeaponCraftingWorkTable.label>先进武器加工台</AdvWeaponCraftingWorkTable.label>
+  <AdvWeaponCraftingWorkTable.label>advanced weapon crafting workbench</AdvWeaponCraftingWorkTable.label>
   <AdvWeaponCraftingWorkTable.description>A workbench that produces advanced ranged weapons like military assault rifles, missile launchers and heavy machine guns. Requires power.</AdvWeaponCraftingWorkTable.description>
-  <AdvWeaponCraftingWorkTable_Blueprint.label>先进武器加工台 (蓝图)</AdvWeaponCraftingWorkTable_Blueprint.label>
-  <AdvWeaponCraftingWorkTable_Blueprint_Install.label>先进武器加工台 (蓝图)</AdvWeaponCraftingWorkTable_Blueprint_Install.label>
-  <AdvWeaponCraftingWorkTable_Frame.label>先进武器加工台 (建造中)</AdvWeaponCraftingWorkTable_Frame.label>
+  <AdvWeaponCraftingWorkTable_Blueprint.label>advanced weapon crafting workbench (blueprint)</AdvWeaponCraftingWorkTable_Blueprint.label>
+  <AdvWeaponCraftingWorkTable_Blueprint_Install.label>advanced weapon crafting workbench (blueprint)</AdvWeaponCraftingWorkTable_Blueprint_Install.label>
+  <AdvWeaponCraftingWorkTable_Frame.label>advanced weapon crafting workbench (building)</AdvWeaponCraftingWorkTable_Frame.label>
   <AdvWeaponCraftingWorkTable_Frame.description>A workbench that produces advanced ranged weapons like military assault rifles, missile launchers and heavy machine guns. Requires power.</AdvWeaponCraftingWorkTable_Frame.description>
 
-  <AmmoBench.label>弹药工作台</AmmoBench.label>
+  <AmmoBench.label>ammo crafting table</AmmoBench.label>
   <AmmoBench.description>A crafting table that produces ammunition for use in guns and turrets. Can also produce sulfur from iron ore. Power needed: 500 W. Can work without electricity at 30% of normal speed.</AmmoBench.description>
-  <AmmoBench_Blueprint.label>弹药工作台 (蓝图)</AmmoBench_Blueprint.label>
-  <AmmoBench_Blueprint_Install.label>弹药工作台 (蓝图)</AmmoBench_Blueprint_Install.label>
-  <AmmoBench_Frame.label>弹药工作台 (建造中)</AmmoBench_Frame.label>
+  <AmmoBench_Blueprint.label>ammo crafting table (blueprint)</AmmoBench_Blueprint.label>
+  <AmmoBench_Blueprint_Install.label>ammo crafting table (blueprint)</AmmoBench_Blueprint_Install.label>
+  <AmmoBench_Frame.label>ammo crafting table (building)</AmmoBench_Frame.label>
   <AmmoBench_Frame.description>A crafting table that produces ammunition for use in guns and turrets. Can also produce sulfur from iron ore. Power needed: 500 W. Can work without electricity at 30% of normal speed.</AmmoBench_Frame.description>
 
-  <HeavyArmsBench.label>重型武器工作台</HeavyArmsBench.label>
+  <HeavyArmsBench.label>heavy arms lathe</HeavyArmsBench.label>
   <HeavyArmsBench.description>A crafting table that produces ammunition for use with turrets. Can also produce sulfur from iron ore. Requires power.</HeavyArmsBench.description>
-  <HeavyArmsBench_Blueprint.label>重型武器工作台 (蓝图)</HeavyArmsBench_Blueprint.label>
-  <HeavyArmsBench_Blueprint_Install.label>重型武器工作台 (蓝图)</HeavyArmsBench_Blueprint_Install.label>
-  <HeavyArmsBench_Frame.label>重型武器工作台 (建造中)</HeavyArmsBench_Frame.label>
+  <HeavyArmsBench_Blueprint.label>heavy arms lathe (blueprint)</HeavyArmsBench_Blueprint.label>
+  <HeavyArmsBench_Blueprint_Install.label>heavy arms lathe (blueprint)</HeavyArmsBench_Blueprint_Install.label>
+  <HeavyArmsBench_Frame.label>heavy arms lathe (building)</HeavyArmsBench_Frame.label>
   <HeavyArmsBench_Frame.description>A crafting table that produces ammunition for use with turrets. Can also produce sulfur from iron ore. Requires power.</HeavyArmsBench_Frame.description>
 
 
   <!-- EPOE -->
 
-  <TablePrimitiveProsthetic.label>原始假肢工作台</TablePrimitiveProsthetic.label>
+  <TablePrimitiveProsthetic.label>primitive prosthetics bench</TablePrimitiveProsthetic.label>
   <TablePrimitiveProsthetic.description>A workbench equipped for production of basic prosthetics.</TablePrimitiveProsthetic.description>
-  <TablePrimitiveProsthetic_Blueprint.label>原始假肢工作台 (蓝图)</TablePrimitiveProsthetic_Blueprint.label>
-  <TablePrimitiveProsthetic_Blueprint_Install.label>原始假肢工作台 (蓝图)</TablePrimitiveProsthetic_Blueprint_Install.label>
-  <TablePrimitiveProsthetic_Frame.label>原始假肢工作台 (建造中)</TablePrimitiveProsthetic_Frame.label>
+  <TablePrimitiveProsthetic_Blueprint.label>primitive prosthetics bench (blueprint)</TablePrimitiveProsthetic_Blueprint.label>
+  <TablePrimitiveProsthetic_Blueprint_Install.label>primitive prosthetics bench (blueprint)</TablePrimitiveProsthetic_Blueprint_Install.label>
+  <TablePrimitiveProsthetic_Frame.label>primitive prosthetics bench (building)</TablePrimitiveProsthetic_Frame.label>
   <TablePrimitiveProsthetic_Frame.description>A workbench equipped for production of basic prosthetics.</TablePrimitiveProsthetic_Frame.description>
 
-  <TableBasicProsthetic.label>假肢工作台</TableBasicProsthetic.label>
+  <TableBasicProsthetic.label>prosthetics workbench</TableBasicProsthetic.label>
   <TableBasicProsthetic.description>A workbench equipped for production of very simple prosthetics. Requires power.</TableBasicProsthetic.description>
-  <TableBasicProsthetic_Blueprint.label>假肢工作台 (蓝图)</TableBasicProsthetic_Blueprint.label>
-  <TableBasicProsthetic_Blueprint_Install.label>假肢工作台 (蓝图)</TableBasicProsthetic_Blueprint_Install.label>
-  <TableBasicProsthetic_Frame.label>假肢工作台 (建造中)</TableBasicProsthetic_Frame.label>
+  <TableBasicProsthetic_Blueprint.label>prosthetics workbench (blueprint)</TableBasicProsthetic_Blueprint.label>
+  <TableBasicProsthetic_Blueprint_Install.label>prosthetics workbench (blueprint)</TableBasicProsthetic_Blueprint_Install.label>
+  <TableBasicProsthetic_Frame.label>prosthetics workbench (building)</TableBasicProsthetic_Frame.label>
   <TableBasicProsthetic_Frame.description>A workbench equipped for production of very simple prosthetics. Requires power.</TableBasicProsthetic_Frame.description>
 
 
   <!-- Resource rocks -->
 
-  <VG_SaltMine.label>挖盐点</VG_SaltMine.label>
+  <VG_SaltMine.label>salt mine</VG_SaltMine.label>
   <VG_SaltMine.description>Place on rough stone for digging up salt.</VG_SaltMine.description>
-  <VG_SaltMine_Blueprint.label>挖盐点 (蓝图)</VG_SaltMine_Blueprint.label>
-  <VG_SaltMine_Frame.label>挖盐点 (建造中)</VG_SaltMine_Frame.label>
+  <VG_SaltMine_Blueprint.label>salt mine (blueprint)</VG_SaltMine_Blueprint.label>
+  <VG_SaltMine_Frame.label>salt mine (building)</VG_SaltMine_Frame.label>
   <VG_SaltMine_Frame.description>Place on rough stone for digging up salt.</VG_SaltMine_Frame.description>
 
-
-  <!--[Core] <TableButcher.label>屠宰台</TableButcher.label>-->
-  <!--[Core] <TableButcher.description>一个用于将死掉的动物宰成肉块的厚重桌子。</TableButcher.description>-->
-  <!--[Core] <TableButcher_Blueprint.label>屠宰台（蓝图）</TableButcher_Blueprint.label>-->
-  <!--[Core] <TableButcher_Frame.label>屠宰台（建造中）</TableButcher_Frame.label>-->
-  <!--[Core] <TableButcher_Frame.description>一个用于将死掉的动物宰成肉块的厚重桌子。</TableButcher_Frame.description>-->
-  <!--[Core] <FueledStove.label>炉灶（燃料）</FueledStove.label>-->
-  <!--[Core] <FueledStove.description>用木材当燃料的简易炉灶，用于烹饪食物。</FueledStove.description>-->
-  <!--[Core] <FueledStove_Blueprint.label>炉灶（燃料）（蓝图）</FueledStove_Blueprint.label>-->
-  <!--[Core] <FueledStove_Frame.label>炉灶（燃料）（建造中）</FueledStove_Frame.label>-->
-  <!--[Core] <FueledStove_Frame.description>用木材当燃料的简易炉灶，用于烹饪食物。</FueledStove_Frame.description>-->
-  <!--[Core] <NutrientPasteDispenser.label>营养膏合成机</NutrientPasteDispenser.label>-->
-  <!--[Core] <NutrientPasteDispenser.description>将有机原料合成为营养膏。比其他的食物生产方法消耗更少的原料和时间——但没人喜欢吃营养膏。可以处理生食，但无法处理某些的植物材料，比如干草。只有当殖民者缺少食物时，才会从营养膏合成机中拿取营养膏。</NutrientPasteDispenser.description>-->
-  <!--[Core] <NutrientPasteDispenser_Blueprint.label>营养膏合成机（蓝图）</NutrientPasteDispenser_Blueprint.label>-->
-  <!--[Core] <NutrientPasteDispenser_Frame.label>营养膏合成机（建造中）</NutrientPasteDispenser_Frame.label>-->
-  <!--[Core] <NutrientPasteDispenser_Frame.description>将有机原料合成为营养膏。比其他的食物生产方法消耗更少的原料和时间——但没人喜欢吃营养膏。可以处理生食，但无法处理某些的植物材料，比如干草。只有当殖民者缺少食物时，才会从营养膏合成机中拿取营养膏。</NutrientPasteDispenser_Frame.description>-->
-  <!--[Core] <Hopper.label>进料口</Hopper.label>-->
-  <!--[Core] <Hopper.description>储存原料以供如营养膏合成机之类的机器使用。</Hopper.description>-->
-  <!--[Core] <Hopper_Blueprint.label>进料口（蓝图）</Hopper_Blueprint.label>-->
-  <!--[Core] <Hopper_Frame.label>进料口（建造中）</Hopper_Frame.label>-->
-  <!--[Core] <Hopper_Frame.description>储存原料以供如营养膏合成机之类的机器使用。</Hopper_Frame.description>-->
-  <!--[Core] <Brewery.label>酿造台</Brewery.label>-->
-  <!--[Core] <Brewery.description>一个配备有酿酒设备的工作台。</Brewery.description>-->
-  <!--[Core] <Brewery_Blueprint.label>酿造台（蓝图）</Brewery_Blueprint.label>-->
-  <!--[Core] <Brewery_Frame.label>酿造台（建造中）</Brewery_Frame.label>-->
-  <!--[Core] <Brewery_Frame.description>一个配备有酿酒设备的工作台。</Brewery_Frame.description>-->
-  <!--[Core] <FermentingBarrel.label>发酵桶</FermentingBarrel.label>-->
-  <!--[Core] <FermentingBarrel.description>一个将麦芽汁发酵成啤酒的桶。</FermentingBarrel.description>-->
-  <!--[Core] <FermentingBarrel_Blueprint.label>发酵桶（蓝图）</FermentingBarrel_Blueprint.label>-->
-  <!--[Core] <FermentingBarrel_Blueprint_Install.label>发酵桶（蓝图）</FermentingBarrel_Blueprint_Install.label>-->
-  <!--[Core] <FermentingBarrel_Frame.label>发酵桶（建造中）</FermentingBarrel_Frame.label>-->
-  <!--[Core] <FermentingBarrel_Frame.description>一个将麦芽汁发酵成啤酒的桶。</FermentingBarrel_Frame.description>-->
-  <!--[Core] <DrugLab.label>药物实验台</DrugLab.label>-->
-  <!--[Core] <DrugLab.description>一个配备有各种烧瓶、量杯和加热装置的化学实验台，用于制作各种药物和成瘾品。</DrugLab.description>-->
-  <!--[Core] <DrugLab_Blueprint.label>药物实验台（蓝图）</DrugLab_Blueprint.label>-->
-  <!--[Core] <DrugLab_Frame.label>药物实验台（建造中）</DrugLab_Frame.label>-->
-  <!--[Core] <DrugLab_Frame.description>一个配备有各种烧瓶、量杯和加热装置的化学实验台，用于制作各种药物和成瘾品。</DrugLab_Frame.description>-->
-  <!--[Core] <HandTailoringBench.label>裁缝台 （手工）</HandTailoringBench.label>-->
-  <!--[Core] <HandTailoringBench.description>用于手工缝制衣服的工作台。工作速度只有电动裁缝台的50%。</HandTailoringBench.description>-->
-  <!--[Core] <HandTailoringBench_Blueprint.label>裁缝台 （手工）（蓝图）</HandTailoringBench_Blueprint.label>-->
-  <!--[Core] <HandTailoringBench_Frame.label>裁缝台 （手工）（建造中）</HandTailoringBench_Frame.label>-->
-  <!--[Core] <HandTailoringBench_Frame.description>用于手工缝制衣服的工作台。工作速度只有电动裁缝台的50%。</HandTailoringBench_Frame.description>-->
-  <!--[Core] <ElectricTailoringBench.label>裁缝台 （电动）</ElectricTailoringBench.label>-->
-  <!--[Core] <ElectricTailoringBench.description>带有缝纫机的工作台，快速缝制衣服。在没电时的工作速度只有平时的40%。</ElectricTailoringBench.description>-->
-  <!--[Core] <ElectricTailoringBench_Blueprint.label>裁缝台 （电动）（蓝图）</ElectricTailoringBench_Blueprint.label>-->
-  <!--[Core] <ElectricTailoringBench_Frame.label>裁缝台 （电动）（建造中）</ElectricTailoringBench_Frame.label>-->
-  <!--[Core] <ElectricTailoringBench_Frame.description>带有缝纫机的工作台，快速缝制衣服。在没电时的工作速度只有平时的40%。</ElectricTailoringBench_Frame.description>-->
-  <!--[Core] <ComponentAssemblyBench.label>零部件装配台</ComponentAssemblyBench.label>-->
-  <!--[Core] <ComponentAssemblyBench.description>配有先进工具的工作台，用于将简单的材料制成零部件。</ComponentAssemblyBench.description>-->
-  <!--[Core] <ComponentAssemblyBench_Blueprint.label>零部件装配台（蓝图）</ComponentAssemblyBench_Blueprint.label>-->
-  <!--[Core] <ComponentAssemblyBench_Frame.label>零部件装配台（建造中）</ComponentAssemblyBench_Frame.label>-->
-  <!--[Core] <ComponentAssemblyBench_Frame.description>配有先进工具的工作台，用于将简单的材料制成零部件。</ComponentAssemblyBench_Frame.description>-->
-  <!--[Core] <FueledSmithy.label>锻造台 （燃料）</FueledSmithy.label>-->
-  <!--[Core] <FueledSmithy.description>用木材当燃料的锻造台，用于制作非机械武器和工具。</FueledSmithy.description>-->
-  <!--[Core] <FueledSmithy_Blueprint.label>锻造台 （燃料）（蓝图）</FueledSmithy_Blueprint.label>-->
-  <!--[Core] <FueledSmithy_Frame.label>锻造台 （燃料）（建造中）</FueledSmithy_Frame.label>-->
-  <!--[Core] <FueledSmithy_Frame.description>用木材当燃料的锻造台，用于制作非机械武器和工具。</FueledSmithy_Frame.description>-->
-  <!--[Core] <TableStonecutter.label>切石桌</TableStonecutter.label>-->
-  <!--[Core] <TableStonecutter.description>一个配备有切石工具的工作台。用于把不规则的岩石切割成可用的石块。</TableStonecutter.description>-->
-  <!--[Core] <TableStonecutter_Blueprint.label>切石桌（蓝图）</TableStonecutter_Blueprint.label>-->
-  <!--[Core] <TableStonecutter_Frame.label>切石桌（建造中）</TableStonecutter_Frame.label>-->
-  <!--[Core] <TableStonecutter_Frame.description>一个配备有切石工具的工作台。用于把不规则的岩石切割成可用的石块。</TableStonecutter_Frame.description>-->
-  <!--[Core] <TableSculpting.label>雕塑台</TableSculpting.label>-->
-  <!--[Core] <TableSculpting.description>一个配备有雕刻工具的平台。</TableSculpting.description>-->
-  <!--[Core] <TableSculpting_Blueprint.label>雕塑台（蓝图）</TableSculpting_Blueprint.label>-->
-  <!--[Core] <TableSculpting_Frame.label>雕塑台（建造中）</TableSculpting_Frame.label>-->
-  <!--[Core] <TableSculpting_Frame.description>一个配备有雕刻工具的平台。</TableSculpting_Frame.description>-->
-  <!--[Core] <CraftingSpot.label>手工加工点</CraftingSpot.label>-->
-  <!--[Core] <CraftingSpot.description>一个制作简单物品的地方，比如大麻烟、小刀和短弓。</CraftingSpot.description>-->
-  <!--[Core] <CraftingSpot_Blueprint.label>手工加工点（蓝图）</CraftingSpot_Blueprint.label>-->
-  <!--[Core] <CraftingSpot_Frame.label>手工加工点（建造中）</CraftingSpot_Frame.label>-->
-  <!--[Core] <CraftingSpot_Frame.description>一个制作简单物品的地方，比如大麻烟、小刀和短弓。</CraftingSpot_Frame.description>-->
-  <!--  <VG_SaltMine.label>salt mine</VG_SaltMine.label>
-  <VG_SaltMine.description>Place on rough stone for digging up salt.</VG_SaltMine.description>
-  <VG_SaltMine_Blueprint.label>salt mine (蓝图)</VG_SaltMine_Blueprint.label>
-  <VG_SaltMine_Frame.label>salt mine (建造中)</VG_SaltMine_Frame.label>
-  <VG_SaltMine_Frame.description>Place on rough stone for digging up salt.</VG_SaltMine_Frame.description> -->
 
 </LanguageData>

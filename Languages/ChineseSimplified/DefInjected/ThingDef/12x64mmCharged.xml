@@ -3,13 +3,13 @@
 
   <!-- Ammo -->
 
-  <Ammo_12x64mmCharged.label>12x64mm 电荷弹</Ammo_12x64mmCharged.label>
+  <Ammo_12x64mmCharged.label>12x64mm Charged cartridge</Ammo_12x64mmCharged.label>
   <Ammo_12x64mmCharged.description>Mechanoid-built high-caliber charged shot ammo used in heavy weapons.</Ammo_12x64mmCharged.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_12x64mmCharged.label>电荷弹</Bullet_12x64mmCharged.label>
+  <Bullet_12x64mmCharged.label>charge blaster shot</Bullet_12x64mmCharged.label>
 
 
 </LanguageData>

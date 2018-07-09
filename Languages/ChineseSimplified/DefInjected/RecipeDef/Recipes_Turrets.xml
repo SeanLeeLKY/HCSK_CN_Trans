@@ -1,126 +1,121 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildBalista_Crate.label>制作弩炮组件箱</BuildBalista_Crate.label>
-  <BuildBalista_Crate.description>Use this to 建造 a neolithic balista.</BuildBalista_Crate.description>
-  <BuildBalista_Crate.jobString>制作弩炮组件箱</BuildBalista_Crate.jobString>
+  <BuildBalista_Crate.label>Build balista crate</BuildBalista_Crate.label>
+  <BuildBalista_Crate.description>Use this to build a neolithic balista.</BuildBalista_Crate.description>
+  <BuildBalista_Crate.jobString>Building neolithic balista crate.</BuildBalista_Crate.jobString>
 
-  <BuildCatapult_Crate.label>制作石弩组件箱</BuildCatapult_Crate.label>
-  <BuildCatapult_Crate.description>Use this to 建造 a catapult that launches explosive/incendiary shells. Must be manned.</BuildCatapult_Crate.description>
-  <BuildCatapult_Crate.jobString>制作石弩组件箱</BuildCatapult_Crate.jobString>
+  <BuildCatapult_Crate.label>Build catapult crate</BuildCatapult_Crate.label>
+  <BuildCatapult_Crate.description>Use this to build a catapult that launches explosive/incendiary shells. Must be manned.</BuildCatapult_Crate.description>
+  <BuildCatapult_Crate.jobString>Building a neolithic catapult crate.</BuildCatapult_Crate.jobString>
 
 
   <!-- MG crates -->
 
-  <BuildM240B_Crate.label>建造 7.62x51mm M240B 重机枪组件箱</BuildM240B_Crate.label>
-  <BuildM240B_Crate.description>Use this to 建造 a 7.62x51mm M240B MG, a type of stationary manned turret.</BuildM240B_Crate.description>
-  <BuildM240B_Crate.jobString>建造 7.62x51mm M240B 重机枪组件箱.</BuildM240B_Crate.jobString>
+  <BuildM240B_Crate.label>Build 7.62x51mm M240B MG crate</BuildM240B_Crate.label>
+  <BuildM240B_Crate.description>Use this to build a 7.62x51mm M240B MG, a type of stationary manned turret.</BuildM240B_Crate.description>
+  <BuildM240B_Crate.jobString>Building 7.62x51mm M240B MG crate.</BuildM240B_Crate.jobString>
 
-  <BuildMinigunTurret_Crate.label>建造 7.62x51mm M134 速射机枪组件箱</BuildMinigunTurret_Crate.label>
-  <BuildMinigunTurret_Crate.description>Use this to 建造 a 7.62x51mm M134 Minigun, a type of stationary manned turret. It uses 7.62x51mm ammo.</BuildMinigunTurret_Crate.description>
-  <BuildMinigunTurret_Crate.jobString>建造 7.62x51mm M134 速射机枪组件箱</BuildMinigunTurret_Crate.jobString>
+  <BuildMinigunTurret_Crate.label>Build 7.62x51mm M134 Minigun crate</BuildMinigunTurret_Crate.label>
+  <BuildMinigunTurret_Crate.description>Use this to build a 7.62x51mm M134 Minigun, a type of stationary manned turret. It uses 7.62x51mm ammo.</BuildMinigunTurret_Crate.description>
+  <BuildMinigunTurret_Crate.jobString>Building 7.62x51mm M134 Minigun crate</BuildMinigunTurret_Crate.jobString>
 
-  <BuildMGTurret_Crate.label>建造 50BMG M2 勃朗宁重机枪组件箱</BuildMGTurret_Crate.label>
-  <BuildMGTurret_Crate.description>Use this to 建造 a 50BMG M2 Browning MG, a type of stationary manned turret.</BuildMGTurret_Crate.description>
-  <BuildMGTurret_Crate.jobString>建造 50BMG M2 Browning 重机枪组件箱.</BuildMGTurret_Crate.jobString>
+  <BuildMGTurret_Crate.label>Build 50BMG M2 Browning MG crate</BuildMGTurret_Crate.label>
+  <BuildMGTurret_Crate.description>Use this to build a 50BMG M2 Browning MG, a type of stationary manned turret.</BuildMGTurret_Crate.description>
+  <BuildMGTurret_Crate.jobString>Building 50BMG M2 Browning MG crate.</BuildMGTurret_Crate.jobString>
 
-  <BuildKPV_Crate.label>建造 14.5mm KPV 重机枪组件箱</BuildKPV_Crate.label>
-  <BuildKPV_Crate.description>Use this to 建造 a 14.5mm KPV MG, a type of stationary manned turret. Requires 14.5mm bullets for ammo.</BuildKPV_Crate.description>
-  <BuildKPV_Crate.jobString>建造 14.5mm KPV 重机枪组件箱</BuildKPV_Crate.jobString>
+  <BuildKPV_Crate.label>Build 14.5mm KPV MG crate</BuildKPV_Crate.label>
+  <BuildKPV_Crate.description>Use this to build a 14.5mm KPV MG, a type of stationary manned turret. Requires 14.5mm bullets for ammo.</BuildKPV_Crate.description>
+  <BuildKPV_Crate.jobString>Building 14.5mm KPV MG crate</BuildKPV_Crate.jobString>
 
-  <BuildOerlikonautocannon_Crate.label>建造 20x102mm 欧瑞康机炮组件箱</BuildOerlikonautocannon_Crate.label>
-  <BuildOerlikonautocannon_Crate.description>Use this to 建造 an Oerlikon autocannon, a type of stationary manned turret. It uses 20x102mm for ammo.</BuildOerlikonautocannon_Crate.description>
-  <BuildOerlikonautocannon_Crate.jobString>建造 20x102mm 欧瑞康机炮组件箱.</BuildOerlikonautocannon_Crate.jobString>
+  <BuildOerlikonautocannon_Crate.label>Build 20x102mm Oerlikon autocannon crate</BuildOerlikonautocannon_Crate.label>
+  <BuildOerlikonautocannon_Crate.description>Use this to build an Oerlikon autocannon, a type of stationary manned turret. It uses 20x102mm for ammo.</BuildOerlikonautocannon_Crate.description>
+  <BuildOerlikonautocannon_Crate.jobString>Building 20x102mm Oerlikon autocannon crate.</BuildOerlikonautocannon_Crate.jobString>
 
-  <BuildVulcanCannon_Crate.label>建造 20mm 火神炮组件箱</BuildVulcanCannon_Crate.label>
-  <BuildVulcanCannon_Crate.description>Use this to 建造 a 20mm Vulcan Cannon, a type of stationary manned turret. Requires 800 W to function and it uses 20mmx20 Vulcan Bullets for ammo.</BuildVulcanCannon_Crate.description>
-  <BuildVulcanCannon_Crate.jobString>建造 20mm 火神炮组件箱.</BuildVulcanCannon_Crate.jobString>
+  <BuildVulcanCannon_Crate.label>Build 20mm Vulcan Cannon crate</BuildVulcanCannon_Crate.label>
+  <BuildVulcanCannon_Crate.description>Use this to build a 20mm Vulcan Cannon, a type of stationary manned turret. Requires 800 W to function and it uses 20mmx20 Vulcan Bullets for ammo.</BuildVulcanCannon_Crate.description>
+  <BuildVulcanCannon_Crate.jobString>Building 20mm Vulcan Cannon crate.</BuildVulcanCannon_Crate.jobString>
 
 
   <!-- Cannon mortars turrets crates -->
 
-  <BuildChain_Crate.label>建造 30x165mm GSh-30 火炮组件箱</BuildChain_Crate.label>
-  <BuildChain_Crate.description>Use this to 建造 a 30x165mm GSh-30 cannon, a type of stationary manned turret. It uses 30x165mm for ammo.</BuildChain_Crate.description>
-  <BuildChain_Crate.jobString>建造 30x165mm GSh-30 火炮组件箱.</BuildChain_Crate.jobString>
+  <BuildChain_Crate.label>Build 30x165mm GSh-30 cannon crate</BuildChain_Crate.label>
+  <BuildChain_Crate.description>Use this to build a 30x165mm GSh-30 cannon, a type of stationary manned turret. It uses 30x165mm for ammo.</BuildChain_Crate.description>
+  <BuildChain_Crate.jobString>Building 30x165mm GSh-30 cannon crate.</BuildChain_Crate.jobString>
 
-  <BuildAvenger_Crate.label>建造 30x165mm GAU-8 复仇者火炮组件箱</BuildAvenger_Crate.label>
-  <BuildAvenger_Crate.description>Use this to 建造 a 30x165mm GAU-8 Avenger, a type of stationary manned turret. It uses 30x165mm shells for ammo.</BuildAvenger_Crate.description>
-  <BuildAvenger_Crate.jobString>建造 30x165mm GAU-8 复仇者火炮组件箱.</BuildAvenger_Crate.jobString>
+  <BuildAvenger_Crate.label>Build 30x165mm GAU-8 Avenger crate</BuildAvenger_Crate.label>
+  <BuildAvenger_Crate.description>Use this to build a 30x165mm GAU-8 Avenger, a type of stationary manned turret. It uses 30x165mm shells for ammo.</BuildAvenger_Crate.description>
+  <BuildAvenger_Crate.jobString>Building 30x165mm GAU-8 Avenger crate.</BuildAvenger_Crate.jobString>
 
-  <BuildAGSturret_Crate.label>建造 30mm AGS-17组件箱</BuildAGSturret_Crate.label>
-  <BuildAGSturret_Crate.description>Use this to 建造 a AGS-17, a type of stationary manned turret. It uses 30mmx6 GL Turret Grenades for ammo.</BuildAGSturret_Crate.description>
-  <BuildAGSturret_Crate.jobString>建造 30mm AGS-17组件箱.</BuildAGSturret_Crate.jobString>
+  <BuildAGSturret_Crate.label>Build 30mm AGS-17 crate</BuildAGSturret_Crate.label>
+  <BuildAGSturret_Crate.description>Use this to build a AGS-17, a type of stationary manned turret. It uses 30mmx6 GL Turret Grenades for ammo.</BuildAGSturret_Crate.description>
+  <BuildAGSturret_Crate.jobString>Building 30mm AGS-17 crate.</BuildAGSturret_Crate.jobString>
 
-  <BuildAGCturret_Crate.label>建造 30mm AGS-30组件箱</BuildAGCturret_Crate.label>
-  <BuildAGCturret_Crate.description>Use this to 建造 AGS-30, a type of stationary manned turret. It uses 30mmx6 GL Turret Grenades for ammo.</BuildAGCturret_Crate.description>
-  <BuildAGCturret_Crate.jobString>建造 30mm AGS-30组件箱.</BuildAGCturret_Crate.jobString>
+  <BuildAGCturret_Crate.label>Build 30mm AGS-30 crate</BuildAGCturret_Crate.label>
+  <BuildAGCturret_Crate.description>Use this to build AGS-30, a type of stationary manned turret. It uses 30mmx6 GL Turret Grenades for ammo.</BuildAGCturret_Crate.description>
+  <BuildAGCturret_Crate.jobString>Building 30mm AGS-30 crate.</BuildAGCturret_Crate.jobString>
 
-  <BuildMortar_Crate.label>建造 81mm 迫击炮组件箱</BuildMortar_Crate.label>
-  <BuildMortar_Crate.description>Use this to 建造 a mortar launcher, a type of stationary manned turret. It uses 81mm Explosive Mortar Shells for ammo.</BuildMortar_Crate.description>
-  <BuildMortar_Crate.jobString>建造 81mm 迫击炮组件箱.</BuildMortar_Crate.jobString>
+  <BuildMortar_Crate.label>Build 81mm Mortar Launcher crate</BuildMortar_Crate.label>
+  <BuildMortar_Crate.description>Use this to build a mortar launcher, a type of stationary manned turret. It uses 81mm Explosive Mortar Shells for ammo.</BuildMortar_Crate.description>
+  <BuildMortar_Crate.jobString>Building 81mm Mortar Launcher crate.</BuildMortar_Crate.jobString>
 
-  <BuildFlakTurret_Crate.label>建造 90mm 高射炮塔组件箱</BuildFlakTurret_Crate.label>
-  <BuildFlakTurret_Crate.description>Use this to 建造 a 90mm Flak turret a type of stationary manned turret. It uses 90mm Cannon Shells for ammo.</BuildFlakTurret_Crate.description>
-  <BuildFlakTurret_Crate.jobString>建造 90mm 高射炮塔组件箱.</BuildFlakTurret_Crate.jobString>
+  <BuildFlakTurret_Crate.label>Build 90mm Flak turret crate</BuildFlakTurret_Crate.label>
+  <BuildFlakTurret_Crate.description>Use this to build a 90mm Flak turret a type of stationary manned turret. It uses 90mm Cannon Shells for ammo.</BuildFlakTurret_Crate.description>
+  <BuildFlakTurret_Crate.jobString>Building 90mm Flak turret crate.</BuildFlakTurret_Crate.jobString>
 
-  <BuildCannonTurret_Crate.label>建造 120mm 坦克炮组件箱</BuildCannonTurret_Crate.label>
-  <BuildCannonTurret_Crate.description>Use this to 建造 a 120mm Tank Cannon, a type of stationary manned turret. It uses 120mm Cannon Shells for ammo.</BuildCannonTurret_Crate.description>
-  <BuildCannonTurret_Crate.jobString>建造 120mm 坦克炮组件箱.</BuildCannonTurret_Crate.jobString>
+  <BuildCannonTurret_Crate.label>Build 120mm Tank cannon crate</BuildCannonTurret_Crate.label>
+  <BuildCannonTurret_Crate.description>Use this to build a 120mm Tank Cannon, a type of stationary manned turret. It uses 120mm Cannon Shells for ammo.</BuildCannonTurret_Crate.description>
+  <BuildCannonTurret_Crate.jobString>Building 120mm Tank cannon crate.</BuildCannonTurret_Crate.jobString>
 
-  <BuildHowitzerTurret_Crate.label>建造 155mm 榴弹炮组件箱</BuildHowitzerTurret_Crate.label>
-  <BuildHowitzerTurret_Crate.description>Use this to 建造 a 155m Howitzer Cannon, a type of stationary manned turret. It uses 155mm Howitzer Shells for ammo.</BuildHowitzerTurret_Crate.description>
-  <BuildHowitzerTurret_Crate.jobString>建造 155mm 榴弹炮组件箱</BuildHowitzerTurret_Crate.jobString>
+  <BuildHowitzerTurret_Crate.label>Build 155mm Howitzer Cannon Crate</BuildHowitzerTurret_Crate.label>
+  <BuildHowitzerTurret_Crate.description>Use this to build a 155m Howitzer Cannon, a type of stationary manned turret. It uses 155mm Howitzer Shells for ammo.</BuildHowitzerTurret_Crate.description>
+  <BuildHowitzerTurret_Crate.jobString>Building 155mm Howitzer Cannon Crate</BuildHowitzerTurret_Crate.jobString>
 
 
   <!-- Missile turrets crates -->
 
-  <BuildTOW_Crate.label>建造  BGM-71 TOW轻型导弹系统组件箱</BuildTOW_Crate.label>
-  <BuildTOW_Crate.description>Use this to 建造 a Light Missile System BGM-71 TOW, a type of stationary manned turret. It uses AT missiles for ammo.</BuildTOW_Crate.description>
-  <BuildTOW_Crate.jobString>建造 AT missile BGM-71 TOW组件箱.</BuildTOW_Crate.jobString>
+  <BuildTOW_Crate.label>Build AT missile BGM-71 TOW crate</BuildTOW_Crate.label>
+  <BuildTOW_Crate.description>Use this to build a Light Missile System BGM-71 TOW, a type of stationary manned turret. It uses AT missiles for ammo.</BuildTOW_Crate.description>
+  <BuildTOW_Crate.jobString>Building AT missile BGM-71 TOW crate.</BuildTOW_Crate.jobString>
 
-  <BuildLightMissileSystem_Crate.label>建造  FGM-148 标枪导弹系统组件箱</BuildLightMissileSystem_Crate.label>
-  <BuildLightMissileSystem_Crate.description>Use this to 建造 a Light Missile System FGM-148 Javelin, a type of stationary manned turret. It uses AT missile for ammo.</BuildLightMissileSystem_Crate.description>
-  <BuildLightMissileSystem_Crate.jobString>建造 AT missile FGM-148 Javelin组件箱.</BuildLightMissileSystem_Crate.jobString>
+  <BuildLightMissileSystem_Crate.label>Build AT missile FGM-148 Javelin crate</BuildLightMissileSystem_Crate.label>
+  <BuildLightMissileSystem_Crate.description>Use this to build a Light Missile System FGM-148 Javelin, a type of stationary manned turret. It uses AT missile for ammo.</BuildLightMissileSystem_Crate.description>
+  <BuildLightMissileSystem_Crate.jobString>Building AT missile FGM-148 Javelin crate.</BuildLightMissileSystem_Crate.jobString>
 
-  <BuildMediumMissileSystem_Crate.label>建造 130mm 中型导弹系统组件箱</BuildMediumMissileSystem_Crate.label>
-  <BuildMediumMissileSystem_Crate.description>Use this to 建造 a Medium Missile System, a type of stationary manned turret. It uses 130mmx2 Missiles for ammo.</BuildMediumMissileSystem_Crate.description>
-  <BuildMediumMissileSystem_Crate.jobString>建造 130mm 中型导弹系统组件箱.</BuildMediumMissileSystem_Crate.jobString>
+  <BuildMediumMissileSystem_Crate.label>Build 130mm Medium Missile System crate</BuildMediumMissileSystem_Crate.label>
+  <BuildMediumMissileSystem_Crate.description>Use this to build a Medium Missile System, a type of stationary manned turret. It uses 130mmx2 Missiles for ammo.</BuildMediumMissileSystem_Crate.description>
+  <BuildMediumMissileSystem_Crate.jobString>Building 130mm Medium Missile System crate.</BuildMediumMissileSystem_Crate.jobString>
 
-  <BuildRocketLauncher_Crate.label>建造 130mm 重型导弹系统组件箱</BuildRocketLauncher_Crate.label>
-  <BuildRocketLauncher_Crate.description>Use this to 建造 a Heavy Missile System, a type of stationary manned turret. It uses 130mmx3 missiles for ammo.</BuildRocketLauncher_Crate.description>
-  <BuildRocketLauncher_Crate.jobString>建造 130mm 重型导弹系统组件箱.</BuildRocketLauncher_Crate.jobString>
+  <BuildRocketLauncher_Crate.label>Build 130mm Heavy Missile System crate</BuildRocketLauncher_Crate.label>
+  <BuildRocketLauncher_Crate.description>Use this to build a Heavy Missile System, a type of stationary manned turret. It uses 130mmx3 missiles for ammo.</BuildRocketLauncher_Crate.description>
+  <BuildRocketLauncher_Crate.jobString>Building 130mm Heavy Missile System crate.</BuildRocketLauncher_Crate.jobString>
 
 
   <!-- Sentry automatic crates -->
 
-  <BuildSentryTurret_Crate.label>建造 .40 轻型自动炮塔组件箱</BuildSentryTurret_Crate.label>
-  <BuildSentryTurret_Crate.description>Use this to 建造 an automated sentry light turret, a type of stationary automatic turret. It requires power to function.</BuildSentryTurret_Crate.description>
-  <BuildSentryTurret_Crate.jobString>建造 .40 Rimfire Sentry light组件箱.</BuildSentryTurret_Crate.jobString>
+  <BuildSentryTurret_Crate.label>Build .40 Rimfire Sentry light crate</BuildSentryTurret_Crate.label>
+  <BuildSentryTurret_Crate.description>Use this to build an automated sentry light turret, a type of stationary automatic turret. It requires power to function.</BuildSentryTurret_Crate.description>
+  <BuildSentryTurret_Crate.jobString>Building .40 Rimfire Sentry light crate.</BuildSentryTurret_Crate.jobString>
 
-  <BuildHeavyTurret_Crate.label>建造 145x114mm 重型自动炮塔组件箱</BuildHeavyTurret_Crate.label>
-  <BuildHeavyTurret_Crate.description>Use this to 建造 a laser turret, a type of unmanned automatic turret. It requires power to function.</BuildHeavyTurret_Crate.description>
-  <BuildHeavyTurret_Crate.jobString>建造 Sentry heavy组件箱.</BuildHeavyTurret_Crate.jobString>
+  <BuildHeavyTurret_Crate.label>Build 145x114mm Sentry heavy crate</BuildHeavyTurret_Crate.label>
+  <BuildHeavyTurret_Crate.description>Use this to build a laser turret, a type of unmanned automatic turret. It requires power to function.</BuildHeavyTurret_Crate.description>
+  <BuildHeavyTurret_Crate.jobString>Building Sentry heavy crate.</BuildHeavyTurret_Crate.jobString>
 
-  <BuildNavalGunTurret_Crate.label>建造 30x165mm 哨兵炮塔组件箱</BuildNavalGunTurret_Crate.label>
-  <BuildNavalGunTurret_Crate.description>Use this to 建造 Sentry naval turret, a type of stationary unmanned turret.</BuildNavalGunTurret_Crate.description>
-  <BuildNavalGunTurret_Crate.jobString>建造 30x165mm Sentry naval组件箱.</BuildNavalGunTurret_Crate.jobString>
+  <BuildNavalGunTurret_Crate.label>Build 30x165mm Sentry naval crate</BuildNavalGunTurret_Crate.label>
+  <BuildNavalGunTurret_Crate.description>Use this to build Sentry naval turret, a type of stationary unmanned turret.</BuildNavalGunTurret_Crate.description>
+  <BuildNavalGunTurret_Crate.jobString>Building 30x165mm Sentry naval crate.</BuildNavalGunTurret_Crate.jobString>
 
-  <BuildSentryRocketLauncher_Crate.label>建造 AT missile 自动火箭发射器组件箱</BuildSentryRocketLauncher_Crate.label>
-  <BuildSentryRocketLauncher_Crate.description>Use this to 建造 an Sentry rocket launcher, a type of stationary unmanned turret.</BuildSentryRocketLauncher_Crate.description>
-  <BuildSentryRocketLauncher_Crate.jobString>建造 AT missile Sentry rocket launcher组件箱.</BuildSentryRocketLauncher_Crate.jobString>
+  <BuildSentryRocketLauncher_Crate.label>Build AT missile Sentry rocket launcher crate</BuildSentryRocketLauncher_Crate.label>
+  <BuildSentryRocketLauncher_Crate.description>Use this to build an Sentry rocket launcher, a type of stationary unmanned turret.</BuildSentryRocketLauncher_Crate.description>
+  <BuildSentryRocketLauncher_Crate.jobString>Building AT missile Sentry rocket launcher crate.</BuildSentryRocketLauncher_Crate.jobString>
 
-  <BuildSentryBlasterTurret_Crate.label>建造 6x24mm 自动炮塔组件箱</BuildSentryBlasterTurret_Crate.label>
-  <BuildSentryBlasterTurret_Crate.description>Use this to 建造 a sentry blaster turret组件箱, a type of automatic turrets. Requires power to function.</BuildSentryBlasterTurret_Crate.description>
-  <BuildSentryBlasterTurret_Crate.jobString>建造 6x24mm Sentry blaster组件箱.</BuildSentryBlasterTurret_Crate.jobString>
+  <BuildSentryBlasterTurret_Crate.label>Build 6x24mm Sentry blaster crate</BuildSentryBlasterTurret_Crate.label>
+  <BuildSentryBlasterTurret_Crate.description>Use this to build a sentry blaster turret crate, a type of automatic turrets. Requires power to function.</BuildSentryBlasterTurret_Crate.description>
+  <BuildSentryBlasterTurret_Crate.jobString>Building 6x24mm Sentry blaster crate.</BuildSentryBlasterTurret_Crate.jobString>
 
-  <BuildLaserTurret_Crate.label>建造 激光炮塔组件箱</BuildLaserTurret_Crate.label>
-  <BuildLaserTurret_Crate.description>Use this to 建造 a Laser Turret, a type of unmanned automatic turret. It requires power to function.</BuildLaserTurret_Crate.description>
-  <BuildLaserTurret_Crate.jobString>建造 激光炮塔组件箱</BuildLaserTurret_Crate.jobString>
+  <BuildLaserTurret_Crate.label>Build Laser Turret crate</BuildLaserTurret_Crate.label>
+  <BuildLaserTurret_Crate.description>Use this to build a Laser Turret, a type of unmanned automatic turret. It requires power to function.</BuildLaserTurret_Crate.description>
+  <BuildLaserTurret_Crate.jobString>Building Laser Turret crate</BuildLaserTurret_Crate.jobString>
 
-
-  <!-- MG组件箱s -->
-  <!-- Cannon mortars turrets组件箱s -->
-  <!-- Missile turrets组件箱s -->
-  <!-- Sentry automatic组件箱s -->
 
 </LanguageData>

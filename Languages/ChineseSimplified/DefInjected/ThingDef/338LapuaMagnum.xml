@@ -3,21 +3,21 @@
 
   <!-- Ammo -->
 
-  <Ammo_338Lapua_FMJ.label>.338 马格南子弹 (FMJ)</Ammo_338Lapua_FMJ.label>
+  <Ammo_338Lapua_FMJ.label>.338 Lapua Magnum cartridge (FMJ)</Ammo_338Lapua_FMJ.label>
   <Ammo_338Lapua_FMJ.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_FMJ.description>
 
-  <Ammo_338Lapua_HE.label>.338 马格南子弹 (HE)</Ammo_338Lapua_HE.label>
+  <Ammo_338Lapua_HE.label>.338 Lapua Magnum cartridge (HE)</Ammo_338Lapua_HE.label>
   <Ammo_338Lapua_HE.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_HE.description>
 
-  <Ammo_338Lapua_Incendiary.label>.338 马格南子弹 (AP-I)</Ammo_338Lapua_Incendiary.label>
+  <Ammo_338Lapua_Incendiary.label>.338 Lapua Magnum cartridge (AP-I)</Ammo_338Lapua_Incendiary.label>
   <Ammo_338Lapua_Incendiary.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_Incendiary.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_338Lapua_FMJ.label>.338 马格南子弹 (FMJ)</Bullet_338Lapua_FMJ.label>
-  <Bullet_338Lapua_HE.label>.338 马格南子弹 (HE)</Bullet_338Lapua_HE.label>
-  <Bullet_338Lapua_Incendiary.label>.338 马格南子弹 (AP-I)</Bullet_338Lapua_Incendiary.label>
+  <Bullet_338Lapua_FMJ.label>.338 Lapua Magnum bullet (FMJ)</Bullet_338Lapua_FMJ.label>
+  <Bullet_338Lapua_HE.label>.338 Lapua Magnum bullet (HE)</Bullet_338Lapua_HE.label>
+  <Bullet_338Lapua_Incendiary.label>.338 Lapua Magnum bullet (AP-I)</Bullet_338Lapua_Incendiary.label>
 
 
 </LanguageData>

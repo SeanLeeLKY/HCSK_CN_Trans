@@ -29,44 +29,44 @@
   <oLeftArm.label>左臂</oLeftArm.label>
   <oLeftHand.label>左手</oLeftHand.label>
   <oLeftHandPinky.label>左小指</oLeftHandPinky.label>
-  <oLeftHandRingFinger.label>left ring finger</oLeftHandRingFinger.label>
-  <oLeftHandMiddleFinger.label>left middle finger</oLeftHandMiddleFinger.label>
-  <oLeftHandIndexFinger.label>left index finger</oLeftHandIndexFinger.label>
-  <oLeftHandThumb.label>left thumb</oLeftHandThumb.label>
-  <oRightShoulder.label>right shoulder</oRightShoulder.label>
-  <oRightArm.label>right arm</oRightArm.label>
-  <oRightHand.label>right hand</oRightHand.label>
-  <oRightHandPinky.label>right pinky</oRightHandPinky.label>
-  <oRightHandRingFinger.label>right ring finger</oRightHandRingFinger.label>
-  <oRightHandMiddleFinger.label>right middle finger</oRightHandMiddleFinger.label>
-  <oRightHandIndexFinger.label>right index finger</oRightHandIndexFinger.label>
-  <oRightHandThumb.label>right thumb</oRightHandThumb.label>
-  <oLeftFootLittleToe.label>left little toe</oLeftFootLittleToe.label>
-  <oLeftFootFourthToe.label>left fourth toe</oLeftFootFourthToe.label>
-  <oLeftFootMiddleToe.label>left middle toe</oLeftFootMiddleToe.label>
-  <oLeftFootSecondToe.label>left second toe</oLeftFootSecondToe.label>
-  <oLeftFootBigToe.label>left big toe</oLeftFootBigToe.label>
-  <oRightFootLittleToe.label>right little toe</oRightFootLittleToe.label>
-  <oRightFootFourthToe.label>right fourth toe</oRightFootFourthToe.label>
-  <oRightFootMiddleToe.label>right middle toe</oRightFootMiddleToe.label>
-  <oRightFootSecondToe.label>right second toe</oRightFootSecondToe.label>
-  <oRightFootBigToe.label>right big toe</oRightFootBigToe.label>
+  <oLeftHandRingFinger.label>左无名指</oLeftHandRingFinger.label>
+  <oLeftHandMiddleFinger.label>左中指</oLeftHandMiddleFinger.label>
+  <oLeftHandIndexFinger.label>左食指</oLeftHandIndexFinger.label>
+  <oLeftHandThumb.label>左拇指</oLeftHandThumb.label>
+  <oRightShoulder.label>右肩</oRightShoulder.label>
+  <oRightArm.label>右臂</oRightArm.label>
+  <oRightHand.label>右手</oRightHand.label>
+  <oRightHandPinky.label>右小指</oRightHandPinky.label>
+  <oRightHandRingFinger.label>右无名指</oRightHandRingFinger.label>
+  <oRightHandMiddleFinger.label>右中指</oRightHandMiddleFinger.label>
+  <oRightHandIndexFinger.label>右食指</oRightHandIndexFinger.label>
+  <oRightHandThumb.label>右拇指</oRightHandThumb.label>
+  <oLeftFootLittleToe.label>左小趾</oLeftFootLittleToe.label>
+  <oLeftFootFourthToe.label>左四趾</oLeftFootFourthToe.label>
+  <oLeftFootMiddleToe.label>左中趾</oLeftFootMiddleToe.label>
+  <oLeftFootSecondToe.label>左二趾</oLeftFootSecondToe.label>
+  <oLeftFootBigToe.label>左大趾</oLeftFootBigToe.label>
+  <oRightFootLittleToe.label>右小趾</oRightFootLittleToe.label>
+  <oRightFootFourthToe.label>右四趾</oRightFootFourthToe.label>
+  <oRightFootMiddleToe.label>右中趾</oRightFootMiddleToe.label>
+  <oRightFootSecondToe.label>右二趾</oRightFootSecondToe.label>
+  <oRightFootBigToe.label>右大趾</oRightFootBigToe.label>
 
 
   <!-- Bones -->
 
-  <oLeftClavicle.label>left clavicle</oLeftClavicle.label>
-  <oRightClavicle.label>right clavicle</oRightClavicle.label>
-  <oSternum.label>sternum</oSternum.label>
-  <oLeftHumerus.label>left humerus</oLeftHumerus.label>
-  <oRightHumerus.label>right humerus</oRightHumerus.label>
-  <oLeftRadius.label>left radius</oLeftRadius.label>
-  <oRightRadius.label>right radius</oRightRadius.label>
-  <oPelvis.label>pelvis</oPelvis.label>
-  <oLeftFemur.label>left femur</oLeftFemur.label>
-  <oRightFemur.label>right femur</oRightFemur.label>
-  <oLeftTibia.label>left tibia</oLeftTibia.label>
-  <oRightTibia.label>right tibia</oRightTibia.label>
+  <oLeftClavicle.label>左锁骨</oLeftClavicle.label>
+  <oRightClavicle.label>右锁骨</oRightClavicle.label>
+  <oSternum.label>胸骨</oSternum.label>
+  <oLeftHumerus.label>左肱骨</oLeftHumerus.label>
+  <oRightHumerus.label>右肱骨</oRightHumerus.label>
+  <oLeftRadius.label>左桡骨</oLeftRadius.label>
+  <oRightRadius.label>右桡骨</oRightRadius.label>
+  <oPelvis.label>骨盆</oPelvis.label>
+  <oLeftFemur.label>左股骨</oLeftFemur.label>
+  <oRightFemur.label>右股骨</oRightFemur.label>
+  <oLeftTibia.label>左胫骨</oLeftTibia.label>
+  <oRightTibia.label>右胫骨</oRightTibia.label>
 
 
 </LanguageData>

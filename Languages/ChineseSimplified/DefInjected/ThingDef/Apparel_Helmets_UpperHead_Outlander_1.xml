@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparello_Furhat.label>皮帽</Apparello_Furhat.label>
+  <Apparello_Furhat.description>To keep your head warm in cold climates, wear fur! Be warned though that in the right place, the fur wears you!</Apparello_Furhat.description>
+
+  <Apparel_FSFurHat.label>诺巴皮帽</Apparel_FSFurHat.label>
+  <Apparel_FSFurHat.description>A warm hat made of fur.</Apparel_FSFurHat.description>
+
+  <Apparello_Woolcap.label>羊毛帽</Apparello_Woolcap.label>
+  <Apparello_Woolcap.description>A woollen cap made from very woollen material. Nothing can compete with it in keeping your head warm. The tuft on top keeps your nerves cold!</Apparello_Woolcap.description>
+
+  <Apparello_Bandal.label>棒球帽</Apparello_Bandal.label>
+  <Apparello_Bandal.description>A common cap. Perhaps most famous from the age old game where you hit a ball with a stick-like bat and then run home.</Apparello_Bandal.description>
+
+  <Apparello_pieband.label>头巾</Apparello_pieband.label>
+  <Apparello_pieband.description>A rather simple piece of cloth worn on the head. It covers your hair.</Apparello_pieband.description>
+
+  <Apparel_Tuque.label>Fancy Bandana</Apparel_Tuque.label>
+  <Apparel_Tuque.description>This bandana is little more than a fancy piece of cloth that is worn on the head. It covers your hair.</Apparel_Tuque.description>
+
+  <Apparello_Fedora.label>卷檐软呢帽</Apparello_Fedora.label>
+  <Apparello_Fedora.description>Nah, see! These hats are often associated with gangsters and government officials, which are both practically the same.</Apparello_Fedora.description>
+
+  <Apparello_wassupcaptwo.label>船长帽</Apparello_wassupcaptwo.label>
+  <Apparello_wassupcaptwo.description>A three-pointed hat with a captain's insignia on it. You're the captain now.</Apparello_wassupcaptwo.description>
+
+  <Warm_Cap.label>暖帽</Warm_Cap.label>
+  <Warm_Cap.description>A simple cap. It helps to keep your head warm. It seems a bit small and doesn't quite cover your entire head.</Warm_Cap.description>
+
+  <Apparello_Vandal.label>破坏者头罩</Apparello_Vandal.label>
+  <Apparello_Vandal.description>Your common cap with a scarf. Urbworld Crims would often don these on while robbing the local corner store. These kind of criminals are famous for their itchy trigger fingers, poor aim, brick throwing and trashcan kicking shenanigans.</Apparello_Vandal.description>
+
+
+  <!--[Core] <Apparel_Tuque.label>御寒帽</Apparel_Tuque.label>-->
+  <!--[Core] <Apparel_Tuque.description>一顶柔软、厚实的帽子。非常适合在冬季中保持温暖。</Apparel_Tuque.description>-->
+  <!--<Apparel_Tuque.label>Fancy Bandana</Apparel_Tuque.label>-->
+  <!--<Apparel_Tuque.description>This bandana is little more than a fancy piece of cloth that is worn on the head. It covers your hair.</Apparel_Tuque.description>-->
+  <!--[Core] <Apparel_Tuque.description>一种柔软、厚实的帽子。非常适合在冬季中保持温暖。</Apparel_Tuque.description>-->
+
+</LanguageData>

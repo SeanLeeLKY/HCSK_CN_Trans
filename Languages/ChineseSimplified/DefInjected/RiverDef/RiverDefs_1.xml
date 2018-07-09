@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HyperRiver.label>湖泊</HyperRiver.label>
+  <HugeRiver.label>huge river</HugeRiver.label>
+  <LargeRiver.label>large river</LargeRiver.label>
+  <River.label>river</River.label>
+  <Creek.label>creek</Creek.label>
+
+
+  <!--[Core] <HugeRiver.label>巨河</HugeRiver.label>-->
+  <!--[Core] <LargeRiver.label>大河</LargeRiver.label>-->
+  <!--[Core] <River.label>河</River.label>-->
+  <!--[Core] <Creek.label>小河</Creek.label>-->
+  <!--<HugeRiver.label>大江</HugeRiver.label>-->
+  <!--<LargeRiver.label>大河</LargeRiver.label>-->
+  <!--<River.label>小河</River.label>-->
+  <!--<Creek.label>小溪</Creek.label>-->
+
+</LanguageData>

@@ -3,28 +3,28 @@
 
   <!-- Furniture -->
 
-  <SK_Glowstone.label>耀石灯</SK_Glowstone.label>
+  <SK_Glowstone.label>Glowstone lamps</SK_Glowstone.label>
   <SK_Glowstone.description>Discover how to build beautiful lamps with the glowstones.</SK_Glowstone.description>
 
 
   <!-- GlowstoneLamp -->
 
-  <SK_DiningRoomI.label>餐厅家具 I</SK_DiningRoomI.label>
-  <SK_DiningRoomI.description>It opens the possibility of building some new furniture for dining room, such as Long Table and Stool.</SK_DiningRoomI.description>
+  <BagBeds.label>Dining room furniture I</BagBeds.label>
+  <BagBeds.description>It opens the possibility of building some new furniture for dining room, such as Long Table and Stool.</BagBeds.description>
 
 
   <!-- Stool
 	Bench
-	TableLong -->
+	Table2x4c -->
 
-  <SK_DiningRoomII.label>餐厅家具 II</SK_DiningRoomII.label>
+  <SK_DiningRoomII.label>Dining room furniture II</SK_DiningRoomII.label>
   <SK_DiningRoomII.description>It opens the possibility of building dining chairs in the dining room for the comfort of your colonists.</SK_DiningRoomII.description>
 
 
   <!-- DiningChair
-			RoundedTableLong -->
+			RoundedTable2x4c -->
 
-  <SK_DiningRoomIII.label>餐厅家具 III</SK_DiningRoomIII.label>
+  <SK_DiningRoomIII.label>Dining room furniture III</SK_DiningRoomIII.label>
   <SK_DiningRoomIII.description>This research unlocks modern tables and serving tables for the dining room.</SK_DiningRoomIII.description>
 
 
@@ -32,13 +32,13 @@
 				ClutterSmallTableModern
 				ClutterMediumTableModern -->
 
-  <SK_DiningRoomIV.label>餐厅家具 IV</SK_DiningRoomIV.label>
+  <SK_DiningRoomIV.label>Dining room furniture IV</SK_DiningRoomIV.label>
   <SK_DiningRoomIV.description>This research unlocks beautiful dining chair for the dining room.</SK_DiningRoomIV.description>
 
 
   <!-- PodChair -->
 
-  <SK_RecreationRoomI.label>休闲家具 I</SK_RecreationRoomI.label>
+  <SK_RecreationRoomI.label>Recreation furniture room I</SK_RecreationRoomI.label>
   <SK_RecreationRoomI.description>Living out here is hard work, and some colonists may recall and old classic saying about "all work and no play..." This research will unlock some game designs and rules, such as the classic game of horseshoes.</SK_RecreationRoomI.description>
 
 
@@ -46,7 +46,7 @@
 	Easel
 	ArcheryTarget -->
 
-  <SK_RecreationRoomII.label>休闲家具 II</SK_RecreationRoomII.label>
+  <SK_RecreationRoomII.label>Recreation furniture room II</SK_RecreationRoomII.label>
   <SK_RecreationRoomII.description>Further advancements in pleasure give your colonists the ability to build some boardgames, bookcases and couches.</SK_RecreationRoomII.description>
 
 
@@ -58,7 +58,7 @@
 				ChessTable
 				GoTable -->
 
-  <TubeTelevision.label>休闲家具 III</TubeTelevision.label>
+  <TubeTelevision.label>Recreation furniture room III</TubeTelevision.label>
   <TubeTelevision.description>Even further advancements in pleasure give your colonists the ability to build some billiards and television.</TubeTelevision.description>
 
 
@@ -67,7 +67,7 @@
 					TubeTelevision
 					Telescope -->
 
-  <SK_RecreationRoomIV.label>休闲家具 IV</SK_RecreationRoomIV.label>
+  <SK_RecreationRoomIV.label>Recreation furniture room IV</SK_RecreationRoomIV.label>
   <SK_RecreationRoomIV.description>Final research in pleasure and rest unlocks telescopes and better TVs.</SK_RecreationRoomIV.description>
 
 
@@ -80,18 +80,18 @@
 							HoloFlyingDots 
 							HoloSciSign -->
 
-  <SK_BedroomI.label>中世纪卧室家具</SK_BedroomI.label>
-  <SK_BedroomI.description>It opens methods of obtaining rest in bedrooms by constructing comfy bed and end table.</SK_BedroomI.description>
+  <Bedrolls.label>Medieval bedroom furniture</Bedrolls.label>
+  <Bedrolls.description>It opens methods of obtaining rest in bedrooms by constructing comfy bed and end table.</Bedrolls.description>
 
 
-  <!-- Medieval_single_bed
-			Medieval_double_bed
+  <!-- Bedroll
+			BedrollDouble
 			EndTableSimple
 			ClutterStylist
 			OneOneSquareRug -->
 
-  <SK_BedroomRenaissance.label>文艺复兴卧室家具</SK_BedroomRenaissance.label>
-  <SK_BedroomRenaissance.description>Renaissance bedroom advancements in rest give your colonists the ability to build some comfortable beds and reading tables.</SK_BedroomRenaissance.description>
+  <Beds.label>Renaissance bedroom furniture</Beds.label>
+  <Beds.description>Renaissance bedroom advancements in rest give your colonists the ability to build some comfortable beds and reading tables.</Beds.description>
 
 
   <!-- Bed
@@ -99,7 +99,7 @@
 			Dresser
 			ComfyBed -->
 
-  <SK_BedroomII.label>皇家卧室家具</SK_BedroomII.label>
+  <SK_BedroomII.label>Royal bedroom furniture</SK_BedroomII.label>
   <SK_BedroomII.description>Royal bedroom advancements in rest give your colonists the ability to build some Comfortable Beds and Reading Tables.</SK_BedroomII.description>
 
 
@@ -108,7 +108,7 @@
 			RoyalBed
 			Commode -->
 
-  <SK_BedroomIndustrial.label>工业风卧室家具</SK_BedroomIndustrial.label>
+  <SK_BedroomIndustrial.label>Industrial bedroom furniture</SK_BedroomIndustrial.label>
   <SK_BedroomIndustrial.description>Industrial bedroom advancements in rest give your colonists the ability to build some Comfortable Beds and Reading Tables.</SK_BedroomIndustrial.description>
 
 
@@ -117,7 +117,7 @@
 			prison_single_bed_LB
 			prison_single_bed_RT -->
 
-  <SK_BedroomIII.label>奢华卧室家具</SK_BedroomIII.label>
+  <SK_BedroomIII.label>Luxury bedroom furniture</SK_BedroomIII.label>
   <SK_BedroomIII.description>Even further advancements in rest give your colonists the ability to build some Armchairs and Luxury Beds.</SK_BedroomIII.description>
 
 
@@ -132,7 +132,7 @@
 					royalbedgreen
 					royalbedblue -->
 
-  <SK_BedroomIV.label>纳米时代卧室家具</SK_BedroomIV.label>
+  <SK_BedroomIV.label>Nanoelectronics bedroom</SK_BedroomIV.label>
   <SK_BedroomIV.description>Nanoelectronics research in pleasure and rest unlocks Comfy Seats and Stylish Beds.</SK_BedroomIV.description>
 
 
@@ -142,7 +142,7 @@
 							ClutterBedA
 							ClutterEkieBed -->
 
-  <SK_BedroomV.label>宇航风格卧室家具</SK_BedroomV.label>
+  <SK_BedroomV.label>Space bedroom furniture</SK_BedroomV.label>
   <SK_BedroomV.description>Space research in pleasure and rest unlocks space and cryo beds.</SK_BedroomV.description>
 
 
@@ -151,28 +151,28 @@
 										space_double_bed
 										cryo_single_bed -->
 
-  <SK_ErgonomicsI.label>工效学 I</SK_ErgonomicsI.label>
+  <SK_ErgonomicsI.label>Ergonomics I</SK_ErgonomicsI.label>
   <SK_ErgonomicsI.description>Advanced research in ergonomics allows building and construction of Small Tool Cabinet and some Cooking Tools to speed up work.</SK_ErgonomicsI.description>
 
 
   <!-- Small_ToolCabinet
 	CookingTools -->
 
-  <SK_ErgonomicsII.label>工效学 II</SK_ErgonomicsII.label>
+  <SK_ErgonomicsII.label>Ergonomics II</SK_ErgonomicsII.label>
   <SK_ErgonomicsII.description>Further research in ergonomics allows building and construction of File Cabinet and some Tool Cabinet to speed up work.</SK_ErgonomicsII.description>
 
 
   <!-- FileCabinet
 					Patterner -->
 
-  <MultiAnalyzer.label>工效学 III</MultiAnalyzer.label>
+  <MultiAnalyzer.label>Ergonomics III</MultiAnalyzer.label>
   <MultiAnalyzer.description>Even further research in ergonomics allows building and construction of Multi Analyzer.</MultiAnalyzer.description>
 
 
   <!-- ToolCabinet
 					MultiAnalyzer -->
 
-  <SK_HygleneI.label>卫生 I</SK_HygleneI.label>
+  <SK_HygleneI.label>Hygiene I</SK_HygleneI.label>
   <SK_HygleneI.description>The first step in reducing infections and filth is to tame the consequences of your foot traffic. Some rugs would help.</SK_HygleneI.description>
 
 
@@ -181,7 +181,7 @@
 		OneFourRunner
 		Kiln -->
 
-  <ElectricCremation.label>卫生 II</ElectricCremation.label>
+  <ElectricCremation.label>Hygiene II</ElectricCremation.label>
   <ElectricCremation.description>This allows colonists to build electric crematoriums, which can incinerate unwanted corpses, apparel and materials faster.</ElectricCremation.description>
 
 
@@ -189,18 +189,18 @@
 			ElectricCrematorium
 			ClutterTrashBin -->
 
-  <SK_StorageI.label>存储设施 I</SK_StorageI.label>
+  <SK_StorageI.label>Storage I</SK_StorageI.label>
   <SK_StorageI.description>"So where did I put this pistol? What a mess!" \n Unlocks Feeding Bowl, Hamper and Pallet.</SK_StorageI.description>
 
 
   <!-- Storage_WoodenPalletSmall
 	Storage_FabricHamper
-	EquipmentRack
+	Shelf
 	ClutterShelf
 	ClutterLocker
 	Candle а фиг его знает что тут свечка делает -->
 
-  <SK_StorageII.label>存储设施 II</SK_StorageII.label>
+  <SK_StorageII.label>Storage II</SK_StorageII.label>
   <SK_StorageII.description>Further research in storage technologies allows building and construction of Cupboards, Shelves, Skip and Racks.</SK_StorageII.description>
 
 
@@ -209,7 +209,7 @@
 			ClutterSmallServingTable
 			ClutterMedicKitTable -->
 
-  <SK_StorageIII.label>存储设施 III</SK_StorageIII.label>
+  <SK_StorageIII.label>Storage III</SK_StorageIII.label>
   <SK_StorageIII.description>"Beam me up... Um, no seriously, how does this work?" \n"This is an advanced storage solution. When placed under a stockpile zone it will attempt to pile up adjacent items on top of itself, well over normal storage limits. Unlocks HazMat Container and Refrigerated Rack."</SK_StorageIII.description>
 
 
@@ -218,41 +218,34 @@
 					ClutterResourceTable
 					ClutterLockerA -->
 
-  <SK_TrainingFacilitiesI.label>训练设施 I</SK_TrainingFacilitiesI.label>
+  <SK_TrainingFacilitiesI.label>Training facilities I</SK_TrainingFacilitiesI.label>
   <SK_TrainingFacilitiesI.description>This allows colonists to construct some Autopsy Tables - doctors can hone their skills by testing their techniques on corpses; and Punching Bags - a man-able punching bag that your colonists can use to practice their melee skills with.</SK_TrainingFacilitiesI.description>
 
 
   <!-- PunchingBag
 			MartialArtsTarget -->
 
-  <SK_TrainingFacilitiesII.label>训练设施 II</SK_TrainingFacilitiesII.label>
+  <SK_TrainingFacilitiesII.label>Training facilities II</SK_TrainingFacilitiesII.label>
   <SK_TrainingFacilitiesII.description>This allows colonists to construct some Holodecks - a man-able holosuite that your colonists can use to practice their social skills with.</SK_TrainingFacilitiesII.description>
 
 
   <!-- ShootingRangeTarget
 			Holodeck -->
 
-  <FloorArt.label>地板 I</FloorArt.label>
+  <FloorArt.label>Flooring I</FloorArt.label>
   <FloorArt.description>The ability to make beautiful floor - is also an art. Tier 1.</FloorArt.description>
 
 
   <!-- Bunch of terrain thingdefs ? -->
 
-  <FloorArtII.label>地板 II</FloorArtII.label>
+  <FloorArtII.label>Flooring II</FloorArtII.label>
   <FloorArtII.description>The ability to make beautiful floor - is also an art. Tier 2.</FloorArtII.description>
 
-  <FloorArtIII.label>地板 III</FloorArtIII.label>
+  <FloorArtIII.label>Flooring III</FloorArtIII.label>
   <FloorArtIII.description>The ability to make beautiful floor - is also an art. Tier 3.</FloorArtIII.description>
 
-  <FloorArtIV.label>地板 IV</FloorArtIV.label>
+  <FloorArtIV.label>Flooring IV</FloorArtIV.label>
   <FloorArtIV.description>The ability to make beautiful floor - is also an art. Tier 4.</FloorArtIV.description>
 
-
-  <!--[Core] <TubeTelevision.label>显像管电视</TubeTelevision.label>-->
-  <!--[Core] <TubeTelevision.description>解锁建造「显像管电视」。</TubeTelevision.description>-->
-  <!--[Core] <MultiAnalyzer.label>多元分析仪</MultiAnalyzer.label>-->
-  <!--[Core] <MultiAnalyzer.description>解锁建造「多元分析仪」，提高研究速度，以及解锁更高级的研究项目，必须建造在高级研究台旁。</MultiAnalyzer.description>-->
-  <!--[Core] <ElectricCremation.label>电力火化炉</ElectricCremation.label>-->
-  <!--[Core] <ElectricCremation.description>解锁建造「电力火化炉」，可焚烧尸体和无用的衣物。</ElectricCremation.description>-->
 
 </LanguageData>

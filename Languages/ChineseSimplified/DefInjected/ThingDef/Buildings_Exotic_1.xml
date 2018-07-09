@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CrashedPsychicEmanatorShipPart.label>ancient ship part (psychic)</CrashedPsychicEmanatorShipPart.label>
+  <CrashedPsychicEmanatorShipPart.description>A mysterious crashed piece of a spaceship. It may contain exotic materials and computers. This one seems to be emanating psychic waves.</CrashedPsychicEmanatorShipPart.description>
+
+  <CrashedPoisonShipPart.label>ancient ship part (poison)</CrashedPoisonShipPart.label>
+  <CrashedPoisonShipPart.description>A mysterious crashed piece of a spaceship. It may contain exotic materials and computers. This one seems to be poisoning the ground around it.</CrashedPoisonShipPart.description>
+
+  <ShipMechChunk.label>飞船机械碎片</ShipMechChunk.label>
+  <ShipMechChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful mechanisms, wire and electronic components.</ShipMechChunk.description>
+
+  <CrashedShipWreck.label>坠毁的飞船残骸</CrashedShipWreck.label>
+  <ShipWreck.label>飞船残片</ShipWreck.label>
+
+  <ShipChunk.label>Ship chunk</ShipChunk.label>
+  <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful metals and components and mechanisms.</ShipChunk.description>
+
+  <Totem.label>图腾</Totem.label>
+  <Totem.description>A person-sized piece of material sculpted into an artistic form.</Totem.description>
+
+  <Cairn.label>石冢</Cairn.label>
+  <Cairn.description>A person-sized piece of material sculpted into an artistic form.</Cairn.description>
+
+
+  <!-- Landed Skyfallers -->
+
+  <DropPodLanded.label>空降仓残骸</DropPodLanded.label>
+  <ShipWreckLanded.label>飞船残骸</ShipWreckLanded.label>
+
+
+  <!--[Core] <CrashedPsychicEmanatorShipPart.label>远古飞船部件（心灵）</CrashedPsychicEmanatorShipPart.label>-->
+  <!--[Core] <CrashedPsychicEmanatorShipPart.description>一块从坠毁的飞船上掉下来的神秘残骸。它可能包含稀有材料和电脑。似乎在发射心灵波。</CrashedPsychicEmanatorShipPart.description>-->
+  <!--[Core] <CrashedPoisonShipPart.label>远古飞船部件（毒）</CrashedPoisonShipPart.label>-->
+  <!--[Core] <CrashedPoisonShipPart.description>一块从坠毁的飞船上掉下来的神秘残骸。它可能包含稀有材料和电脑。似乎在向周围的土地散布有毒物质。</CrashedPoisonShipPart.description>-->
+  <!--[Core] <ShipChunk.label>飞船残骸</ShipChunk.label>-->
+  <!--[Core] <ShipChunk.description>飞船的一部分。可以拆出有用的钢材和零部件。</ShipChunk.description>-->
+  <!--<CrashedPsychicEmanatorShipPart.label>ancient ship part (psychic)</CrashedPsychicEmanatorShipPart.label>-->
+  <!--<CrashedPsychicEmanatorShipPart.description>A mysterious crashed piece of a spaceship. It may contain exotic materials and computers. This one seems to be emanating psychic waves.</CrashedPsychicEmanatorShipPart.description>-->
+  <!--<CrashedPoisonShipPart.label>ancient ship part (poison)</CrashedPoisonShipPart.label>-->
+  <!--<CrashedPoisonShipPart.description>A mysterious crashed piece of a spaceship. It may contain exotic materials and computers. This one seems to be poisoning the ground around it.</CrashedPoisonShipPart.description>-->
+  <!--<ShipChunk.label>Ship chunk</ShipChunk.label>-->
+  <!--<ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful metals and components and mechanisms.</ShipChunk.description>-->
+  <!--[Core] <CrashedPsychicEmanatorShipPart.label>坠毁的心灵飞船零件</CrashedPsychicEmanatorShipPart.label>-->
+  <!--[Core] <CrashedPsychicEmanatorShipPart.description>一块从坠毁的飞船上掉下来的神秘残骸。它可能包含稀有材料、电脑、甚至AI角色核心。这种科技可能会带来很大的危险。</CrashedPsychicEmanatorShipPart.description>-->
+  <!--[Core] <CrashedPoisonShipPart.label>坠毁的有毒飞船零件</CrashedPoisonShipPart.label>-->
+  <!--[Core] <CrashedPoisonShipPart.description>一块从坠毁的飞船上掉下来的神秘残骸。它可能包含稀有材料、电脑、甚至AI角色核心。它似乎在向四周的土地释放有毒物质。</CrashedPoisonShipPart.description>-->
+
+</LanguageData>

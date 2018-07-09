@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RawPotatoes.label>Potatoes</RawPotatoes.label>
+  <RawPotatoes.description>Potatoes are a starchy, tuberous crop of a Potato Plant. They are not very tasty when eaten raw but they do grow quickly.</RawPotatoes.description>
+  <RawPotatoes.stuffProps.stuffAdjective>Potatoes</RawPotatoes.stuffProps.stuffAdjective>
+
+  <Raweggplant.label>茄子</Raweggplant.label>
+  <Raweggplant.description>A large, purple, egg-shaped fruit of the Eggplant Bush. Eggplant is related to the plants of tomatoes, potatoes and tobacco, which makes it repulsive when eaten raw.</Raweggplant.description>
+  <Raweggplant.stuffProps.stuffAdjective>茄子</Raweggplant.stuffProps.stuffAdjective>
+
+  <Rawbean.label>豆荚</Rawbean.label>
+  <Rawbean.description>Bean Pods are the edible seeds of the Bean Plant. They can be used for cooking or for making BioDiesel Fuel. Unpleasant when eaten raw.</Rawbean.description>
+  <Rawbean.stuffProps.stuffAdjective>豆荚</Rawbean.stuffProps.stuffAdjective>
+
+  <RawTomatoes.label>西红柿</RawTomatoes.label>
+  <RawTomatoes.description>Tomatoes are round, palm sized, red, sharp-tasting fruits of the Tomato Vine. It is useful in cooking and is enjoyable to eat even when raw.</RawTomatoes.description>
+  <RawTomatoes.stuffProps.stuffAdjective>西红柿</RawTomatoes.stuffProps.stuffAdjective>
+
+  <RawLettuce.label>卷心菜</RawLettuce.label>
+  <RawLettuce.description>Cabbage is the edible leaves of the Cabbage Plant. It is an essential part in many salads. Enjoyable to eat even when raw.</RawLettuce.description>
+  <RawLettuce.stuffProps.stuffAdjective>卷心菜</RawLettuce.stuffProps.stuffAdjective>
+
+  <RawCarrots.label>胡萝卜</RawCarrots.label>
+  <RawCarrots.description>Carrots are long, crunchy, orange root vegetables of the Carrot Plant. Refreshing when eaten raw.</RawCarrots.description>
+  <RawCarrots.stuffProps.stuffAdjective>胡萝卜</RawCarrots.stuffProps.stuffAdjective>
+
+  <Rawmushroom.label>香菇</Rawmushroom.label>
+  <Rawmushroom.description>Raw Champignon are small white or brown edible caps of the Champignon Mushroom. The caps are round in appearance. Unsavory when eaten raw, as the texture is similar to raw meat.</Rawmushroom.description>
+  <Rawmushroom.stuffProps.stuffAdjective>香菇</Rawmushroom.stuffProps.stuffAdjective>
+
+  <RawAlgae.label>水藻</RawAlgae.label>
+  <RawAlgae.description>Algae.</RawAlgae.description>
+  <RawAlgae.stuffProps.stuffAdjective>水藻</RawAlgae.stuffProps.stuffAdjective>
+
+
+  <!--[Core] <RawPotatoes.label>土豆</RawPotatoes.label>-->
+  <!--[Core] <RawPotatoes.description>生土豆。生吃味道很差。</RawPotatoes.description>-->
+  <!--<RawPotatoes.label>Potatoes</RawPotatoes.label>-->
+  <!--<RawPotatoes.description>Potatoes are a starchy, tuberous crop of a Potato Plant. They are not very tasty when eaten raw but they do grow quickly.</RawPotatoes.description>-->
+  <!--<Rawpumpkin.label>南瓜</Rawpumpkin.label>-->
+  <!--<Rawpumpkin.description>A Pumpkin is a large, orange squash of the Pumpkin Vine. It has a thick shell that contains the seeds and pulp. Pumpkins are often carved to ward off ghosts. Unlikable when eaten raw but the fleshy inside is great for baking into pies.</Rawpumpkin.description>-->
+  <!--<Rawpumpkin.stuffProps.stuffAdjective>南瓜</Rawpumpkin.stuffProps.stuffAdjective>-->
+
+</LanguageData>

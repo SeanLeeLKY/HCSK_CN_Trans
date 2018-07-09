@@ -1,36 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildLMG.label>制造 L-15 轻机枪</BuildLMG.label>
+  <BuildLMG.label>Build L-15 LMG</BuildLMG.label>
   <BuildLMG.description>Builds the L-15 LMG for personal defense. As a portable light machine gun the L-15 is heavy to carry around but is capable of providing 15-round bursts for suppressing fire.\nCaliber: 5.56x45mm NATO</BuildLMG.description>
   <BuildLMG.jobString>Building L-15 LMG</BuildLMG.jobString>
 
-  <BuildM56_USCM.label>制造 M56 智能机枪</BuildM56_USCM.label>
+  <BuildM56_USCM.label>Build M56 Smart Gun</BuildM56_USCM.label>
   <BuildM56_USCM.description>The M56 Smart Gun is a portable heavy machine gun with automatic targeting capabilities.\nCaliber: .50 BMG</BuildM56_USCM.description>
   <BuildM56_USCM.jobString>Building M56 smart gun.</BuildM56_USCM.jobString>
 
-  <BuildMinigun.label>制造 XM214 速射机枪</BuildMinigun.label>
+  <BuildMinigun.label>Build XM214 Microgun</BuildMinigun.label>
   <BuildMinigun.description>Builds the XM214 Microgun, which is a multi-barrel machine gun with an extremely high rate of fire.\nCaliber: 5.56x45mm NATO</BuildMinigun.description>
   <BuildMinigun.jobString>Building XM214 Microgun.</BuildMinigun.jobString>
 
-  <BuildGalilBurstRifle.label>制造 RPK-74</BuildGalilBurstRifle.label>
+  <BuildGalilBurstRifle.label>Build RPK-74</BuildGalilBurstRifle.label>
   <BuildGalilBurstRifle.description>Builds the RPK-47, an ancient pattern military rifle. Fires an 8-round burst. Good range, low power and high rate of fire.\nCaliber: 7.62x39mm Soviet</BuildGalilBurstRifle.description>
   <BuildGalilBurstRifle.jobString>Building RPK-74.</BuildGalilBurstRifle.jobString>
 
-  <BuildHeavyCombatRifle.label>制造 MA39X ICWS</BuildHeavyCombatRifle.label>
+  <BuildHeavyCombatRifle.label>Build MA39X ICWS</BuildHeavyCombatRifle.label>
   <BuildHeavyCombatRifle.description>Builds the MA39X Individual Combat Weapon System, a close combat service rifle of the UNSC. Fires a 12-round burst with average medium range accuracy.\nCaliber: 5.56x45mm NATO</BuildHeavyCombatRifle.description>
   <BuildHeavyCombatRifle.jobString>Building MA39X ICWS.</BuildHeavyCombatRifle.jobString>
 
-  <BuildM249.label>制造 M249 LMG SAW 重机枪</BuildM249.label>
+  <BuildM249.label>Build M249 LMG SAW MG</BuildM249.label>
   <BuildM249.description>Builds the M249 LMG SAW MG, a heavy machinegun. It has a 120 round magazine and fires in 20 round bursts. Not very accurate but good at providing suppressing fire.\nCaliber: 5.56x45mm NATO</BuildM249.description>
   <BuildM249.jobString>Building M249 SAW MG.</BuildM249.jobString>
 
-
-  <!--<BuildIncendiaryLauncher.label>制造 RL T9 Burning Sun</BuildIncendiaryLauncher.label>-->
-  <!--<BuildIncendiaryLauncher.description>Builds the RL T9 Burning Sun, an incendiary bolt launcher that is capable of starting fires from a distance.\nCaliber: 30x64mm Fuel cell</BuildIncendiaryLauncher.description>-->
-  <!--<BuildIncendiaryLauncher.jobString>Building RL T9 Burning Sun.</BuildIncendiaryLauncher.jobString>-->
-  <!--<BuildMilkorGrenadeLauncher.label>制造 Milkor MGL</BuildMilkorGrenadeLauncher.label>-->
-  <!--<BuildMilkorGrenadeLauncher.description>Builds the Milkor MGL (multiple grenade launcher), a launcher-type weapon that fires grenades at a higher rate than a human could.\nCaliber: 40x46mm Grenade</BuildMilkorGrenadeLauncher.description>-->
-  <!--<BuildMilkorGrenadeLauncher.jobString>Building Milkor MGL.</BuildMilkorGrenadeLauncher.jobString>-->
 
 </LanguageData>

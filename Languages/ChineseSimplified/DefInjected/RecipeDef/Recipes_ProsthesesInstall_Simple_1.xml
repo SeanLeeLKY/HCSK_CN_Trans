@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple parts -->
+
+  <InstallSimpleProstheticLeg.label>Install Simple Prosthetic Leg</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Installs a Simple Prosthetic Leg.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Installing Simple Prosthetic Leg.</InstallSimpleProstheticLeg.jobString>
+
+  <InstallSimpleProstheticArm.label>Install Simple Prosthetic Arm</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Installs a Simple Prosthetic Arm.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Installing Simple Prosthetic Arm.</InstallSimpleProstheticArm.jobString>
+
+
+  <!-- Mod -->
+
+  <InstallGlassEye.label>安装玻璃眼</InstallGlassEye.label>
+  <InstallGlassEye.description>安装玻璃眼</InstallGlassEye.description>
+  <InstallGlassEye.jobString>安装玻璃眼</InstallGlassEye.jobString>
+
+  <InstallSimpleProstheticHand.label>Install Simple Prosthetic Hand</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>Installs a Simple Prosthetic Hand.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>Installing Simple Prosthetic Hand.</InstallSimpleProstheticHand.jobString>
+
+  <InstallSimpleProstheticFoot.label>Install Simple Prosthetic Foot</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>Installs a Simple Prosthetic Foot.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>Installing Simple Prosthetic Foot.</InstallSimpleProstheticFoot.jobString>
+
+  <InstallArtificialNose.label>Install Artificial Nose</InstallArtificialNose.label>
+  <InstallArtificialNose.description>Installs an Artificial Nose.</InstallArtificialNose.description>
+  <InstallArtificialNose.jobString>Installing Artificial Nose.</InstallArtificialNose.jobString>
+
+  <InstallHydraulicJaw.label>Install Hydraulic Jaw</InstallHydraulicJaw.label>
+  <InstallHydraulicJaw.description>Installs a Hydraulic Jaw.</InstallHydraulicJaw.description>
+  <InstallHydraulicJaw.jobString>Installing Hydraulic Jaw.</InstallHydraulicJaw.jobString>
+
+  <InstallArtificialPelvis.label>Install Artifical Pelvis</InstallArtificialPelvis.label>
+  <InstallArtificialPelvis.description>Installs an Artifical Pelvis.</InstallArtificialPelvis.description>
+  <InstallArtificialPelvis.jobString>Installing Artifical Pelvis.</InstallArtificialPelvis.jobString>
+
+  <InstallEarBandage.label>install ear bandage</InstallEarBandage.label>
+  <InstallEarBandage.description>Installs an ear bandage.</InstallEarBandage.description>
+  <InstallEarBandage.jobString>Installing ear bandage.</InstallEarBandage.jobString>
+
+
+  <!--[Core] <InstallSimpleProstheticLeg.label>安装简易的假腿</InstallSimpleProstheticLeg.label>-->
+  <!--[Core] <InstallSimpleProstheticLeg.description>安装简易的假腿。</InstallSimpleProstheticLeg.description>-->
+  <!--[Core] <InstallSimpleProstheticLeg.jobString>正在安装简易的假腿。</InstallSimpleProstheticLeg.jobString>-->
+  <!--[Core] <InstallSimpleProstheticArm.label>安装简易的假臂</InstallSimpleProstheticArm.label>-->
+  <!--[Core] <InstallSimpleProstheticArm.description>安装简易的假臂。</InstallSimpleProstheticArm.description>-->
+  <!--[Core] <InstallSimpleProstheticArm.jobString>正在安装简易的假臂。</InstallSimpleProstheticArm.jobString>-->
+  <!--<InstallSimpleProstheticLeg.label>Install Simple Prosthetic Leg</InstallSimpleProstheticLeg.label>-->
+  <!--<InstallSimpleProstheticLeg.description>Installs a Simple Prosthetic Leg.</InstallSimpleProstheticLeg.description>-->
+  <!--<InstallSimpleProstheticLeg.jobString>Installing Simple Prosthetic Leg.</InstallSimpleProstheticLeg.jobString>-->
+  <!--<InstallSimpleProstheticArm.label>Install Simple Prosthetic Arm</InstallSimpleProstheticArm.label>-->
+  <!--<InstallSimpleProstheticArm.description>Installs a Simple Prosthetic Arm.</InstallSimpleProstheticArm.description>-->
+  <!--<InstallSimpleProstheticArm.jobString>Installing Simple Prosthetic Arm.</InstallSimpleProstheticArm.jobString>-->
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WoodLog.label>wood log</WoodLog.label>
+  <WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch. It can be processed into planks or kindling.</WoodLog.description>
+  <WoodLog.stuffProps.stuffAdjective>wood log</WoodLog.stuffProps.stuffAdjective>
+
+  <RedWoodLog.label>redwood</RedWoodLog.label>
+  <RedWoodLog.description>Wood from redwood and sequoia trees or other fibrous plants. Red, valuable and more fireproof than regular wood. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch.</RedWoodLog.description>
+  <RedWoodLog.stuffProps.stuffAdjective>redwood</RedWoodLog.stuffProps.stuffAdjective>
+
+  <WoodPlank.label>木板</WoodPlank.label>
+  <WoodPlank.description>Wood planks crafted from wood logs. Useful for building structures, weapons, and even simple prosthetics.</WoodPlank.description>
+  <WoodPlank.stuffProps.stuffAdjective>木</WoodPlank.stuffProps.stuffAdjective>
+
+  <Bamboo.label>竹节</Bamboo.label>
+  <Bamboo.description>Bamboo Logs are a type of wood-like grass. It is a fast growing wood alternative that is useful for construction.</Bamboo.description>
+  <Bamboo.stuffProps.stuffAdjective>竹节</Bamboo.stuffProps.stuffAdjective>
+
+  <BambooPlank.label>竹板</BambooPlank.label>
+  <BambooPlank.description>Bamboo Planks are crafted from Bamboo Logs. They are useful for building structures, weapons and even simple prosthetics.</BambooPlank.description>
+  <BambooPlank.stuffProps.stuffAdjective>竹板</BambooPlank.stuffProps.stuffAdjective>
+
+  <Kindling.label>柴火</Kindling.label>
+  <Kindling.description>Firewood is either created by cutting logs, or salvaged from breaking down bushes. It can act as a fuel for various low-tech buildings, including the steam generator. It burns twice as long compared to unprocessed wood.</Kindling.description>
+  <Kindling.stuffProps.stuffAdjective>木</Kindling.stuffProps.stuffAdjective>
+
+
+  <!--[Core] <WoodLog.label>原木</WoodLog.label>-->
+  <!--[Core] <WoodLog.description>源自树或其他纤维性植物的木材。可以用来建造建筑、武器甚至简单的假肢。一根原木做的木棒在危急时刻也能作为武器使用。</WoodLog.description>-->
+  <!--[Core] <WoodLog.stuffProps.stuffAdjective>木</WoodLog.stuffProps.stuffAdjective>-->
+  <!--<WoodLog.label>wood log</WoodLog.label>-->
+  <!--<WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch. It can be processed into planks or kindling.</WoodLog.description>-->
+  <!--<WoodLog.stuffProps.stuffAdjective>wood log</WoodLog.stuffProps.stuffAdjective>-->
+
+</LanguageData>

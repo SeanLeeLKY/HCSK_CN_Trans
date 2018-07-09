@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SPECIAL: Terrains from natural stones -->
+
+  <Sandstone_Rough.label>rough Sandstone Deposit</Sandstone_Rough.label>
+  <Sandstone_Rough.description>Rough, natural Sandstone Deposit ground.</Sandstone_Rough.description>
+  <Sandstone_RoughHewn.label>rough-hewn Sandstone Deposit</Sandstone_RoughHewn.label>
+  <Sandstone_RoughHewn.description>Roughly cut natural Sandstone Deposit floor.</Sandstone_RoughHewn.description>
+  <Sandstone_Smooth.label>smooth Sandstone Deposit</Sandstone_Smooth.label>
+  <Sandstone_Smooth.description>Smoothed natural Sandstone Deposit floor.</Sandstone_Smooth.description>
+
+  <Granite_Rough.label>rough Granite Deposit</Granite_Rough.label>
+  <Granite_Rough.description>Rough, natural Granite Deposit ground.</Granite_Rough.description>
+  <Granite_RoughHewn.label>rough-hewn Granite Deposit</Granite_RoughHewn.label>
+  <Granite_RoughHewn.description>Roughly cut natural Granite Deposit floor.</Granite_RoughHewn.description>
+  <Granite_Smooth.label>smooth Granite Deposit</Granite_Smooth.label>
+  <Granite_Smooth.description>Smoothed natural Granite Deposit floor.</Granite_Smooth.description>
+
+  <Limestone_Rough.label>rough Limestone Deposit</Limestone_Rough.label>
+  <Limestone_Rough.description>Rough, natural Limestone Deposit ground.</Limestone_Rough.description>
+  <Limestone_RoughHewn.label>rough-hewn Limestone Deposit</Limestone_RoughHewn.label>
+  <Limestone_RoughHewn.description>Roughly cut natural Limestone Deposit floor.</Limestone_RoughHewn.description>
+  <Limestone_Smooth.label>smooth Limestone Deposit</Limestone_Smooth.label>
+  <Limestone_Smooth.description>Smoothed natural Limestone Deposit floor.</Limestone_Smooth.description>
+
+  <Slate_Rough.label>rough Slate Deposit</Slate_Rough.label>
+  <Slate_Rough.description>Rough, natural Slate Deposit ground.</Slate_Rough.description>
+  <Slate_RoughHewn.label>rough-hewn Slate Deposit</Slate_RoughHewn.label>
+  <Slate_RoughHewn.description>Roughly cut natural Slate Deposit floor.</Slate_RoughHewn.description>
+  <Slate_Smooth.label>smooth Slate Deposit</Slate_Smooth.label>
+  <Slate_Smooth.description>Smoothed natural Slate Deposit floor.</Slate_Smooth.description>
+
+  <Marble_Rough.label>rough Marble Deposit</Marble_Rough.label>
+  <Marble_Rough.description>Rough, natural Marble Deposit ground.</Marble_Rough.description>
+  <Marble_RoughHewn.label>rough-hewn Marble Deposit</Marble_RoughHewn.label>
+  <Marble_RoughHewn.description>Roughly cut natural Marble Deposit floor.</Marble_RoughHewn.description>
+  <Marble_Smooth.label>smooth Marble Deposit</Marble_Smooth.label>
+  <Marble_Smooth.description>Smoothed natural Marble Deposit floor.</Marble_Smooth.description>
+
+
+</LanguageData>

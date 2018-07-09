@@ -49,30 +49,6 @@
   <NFRAD.label>radiation filth</NFRAD.label>
   <NFRAD.description>Ticker</NFRAD.description>
 
-
-  <!-- <ThingDef Name="MechanoidShipBase" Abstract="True">
-    <label>Mechanoid ship (incoming)</label>
-    <category>Ethereal</category>
-    <tickerType>Normal</tickerType>
-    <graphicData>
-      <texPath>Things/Building/Genstep/MechanoidShipIncoming</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-      <drawSize>(6,6)</drawSize>
-      <shaderType>CutoutFlying</shaderType>
-    </graphicData>
-    <size>(6,6)</size>
-    <altitudeLayer>MetaOverlays</altitudeLayer>
-    <useHitPoints>false</useHitPoints>
-  </ThingDef>
-  
-  <ThingDef ParentName="MechanoidShipBase">
-		<defName>MechanoidShipIncoming</defName>
-		<thingClass>SK.Events.MechanoidShipIncoming</thingClass>
-  </ThingDef> -->
-
-  <IonCannonAction.label>Ion strike</IonCannonAction.label>
-  <IonCannonAction.description>Ticker</IonCannonAction.description>
-
   <NuclearStrikeIncoming.label>Razor Rain (Incoming!)</NuclearStrikeIncoming.label>
   <RazorRainIncoming.label>Razor Rain (Incoming!)</RazorRainIncoming.label>
   <Thing_RazorSpawner.label>Razor Spawner</Thing_RazorSpawner.label>
@@ -82,6 +58,11 @@
 
   <VGlower.label>light</VGlower.label>
   <VGlower.description></VGlower.description>
+
+  <FixedMeteoriteIncoming.label>meteorite (incoming)</FixedMeteoriteIncoming.label>
+  <ShipChunkIncomingFlame.label>ship chunk (incoming)</ShipChunkIncomingFlame.label>
+  <FixedMeteoriteIncomingFlame.label>meteorite (incoming)</FixedMeteoriteIncomingFlame.label>
+  <MechanoidShipIncoming.label>Mechanoid ship (incoming)</MechanoidShipIncoming.label>
 
 
 </LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StoneArrow.label>石箭</StoneArrow.label>
+  <StoneArrow.description>A sharpened stone is attached as an arrow head. Cuts exposed tissue fairly well but is ineffective against any kind of armor.</StoneArrow.description>
+
+  <MetallicArrow.label>金属头箭</MetallicArrow.label>
+  <MetallicArrow.description>The arrow head is made from steel to enhance armor penetration.</MetallicArrow.description>
+
+  <ExplosiveArrow.label>爆炸箭</ExplosiveArrow.label>
+  <ExplosiveArrow.description>Fitted with a explosive head to make additional explosion damage.</ExplosiveArrow.description>
+
+  <BalistaBolt.label>弩炮箭</BalistaBolt.label>
+  <BalistaBolt.description>The balista bolt head is made from steel to enhance armor penetration.</BalistaBolt.description>
+
+  <StoneBall.label>石球</StoneBall.label>
+  <StoneBall.description>A stone ball used for catapult.</StoneBall.description>
+
+  <ExplosiveBall.label>爆炸球</ExplosiveBall.label>
+  <ExplosiveBall.description>An explosive ball used for catapult.</ExplosiveBall.description>
+
+  <Poison.label>毒药</Poison.label>
+  <Poison.description>Weapon with poison effect.</Poison.description>
+
+  <Shock.label>震撼弹</Shock.label>
+  <Shock.description>Special non-lethal shock type ammo.</Shock.description>
+
+
+</LanguageData>

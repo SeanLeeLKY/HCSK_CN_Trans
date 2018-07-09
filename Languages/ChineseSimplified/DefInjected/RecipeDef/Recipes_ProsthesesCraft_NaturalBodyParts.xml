@@ -3,37 +3,37 @@
 
   <!-- Recipes (Body Parts) -->
 
-  <MakeNaturalEye.label>调制生长眼球</MakeNaturalEye.label>
+  <MakeNaturalEye.label>Grow Natural Eye</MakeNaturalEye.label>
   <MakeNaturalEye.description>Grow a natural eye from BioMatter. Produces 1.</MakeNaturalEye.description>
-  <MakeNaturalEye.jobString>调制生长眼球</MakeNaturalEye.jobString>
+  <MakeNaturalEye.jobString>Growing a natural eye.</MakeNaturalEye.jobString>
 
-  <MakeNaturalEar.label>调制生长耳朵</MakeNaturalEar.label>
+  <MakeNaturalEar.label>Grow Natural Ear</MakeNaturalEar.label>
   <MakeNaturalEar.description>Grow a natural ear from BioMatter. Produces 1.</MakeNaturalEar.description>
-  <MakeNaturalEar.jobString>调制生长耳朵</MakeNaturalEar.jobString>
+  <MakeNaturalEar.jobString>Growing a natural ear.</MakeNaturalEar.jobString>
 
-  <MakeNaturalNose.label>调制生长鼻子</MakeNaturalNose.label>
+  <MakeNaturalNose.label>Grow Natural Nose</MakeNaturalNose.label>
   <MakeNaturalNose.description>Grow a natural nose from BioMatter. Produces 1.</MakeNaturalNose.description>
-  <MakeNaturalNose.jobString>调制生长鼻子</MakeNaturalNose.jobString>
+  <MakeNaturalNose.jobString>Growing a natural nose.</MakeNaturalNose.jobString>
 
-  <MakeNaturalHeart.label>调制生长心脏</MakeNaturalHeart.label>
+  <MakeNaturalHeart.label>Grow Natural Heart</MakeNaturalHeart.label>
   <MakeNaturalHeart.description>Grow a natural heart from BioMatter. Produces 1.</MakeNaturalHeart.description>
-  <MakeNaturalHeart.jobString>调制生长心脏</MakeNaturalHeart.jobString>
+  <MakeNaturalHeart.jobString>Growing a natural heart.</MakeNaturalHeart.jobString>
 
-  <MakeNaturalLung.label>调制生长肺</MakeNaturalLung.label>
+  <MakeNaturalLung.label>Grow Natural Lung</MakeNaturalLung.label>
   <MakeNaturalLung.description>Grow a natural lung from BioMatter. Produces 1.</MakeNaturalLung.description>
-  <MakeNaturalLung.jobString>调制生长肺</MakeNaturalLung.jobString>
+  <MakeNaturalLung.jobString>Growing a natural lung.</MakeNaturalLung.jobString>
 
-  <MakeNaturalLiver.label>调制生长肝脏</MakeNaturalLiver.label>
+  <MakeNaturalLiver.label>Grow Natural Liver</MakeNaturalLiver.label>
   <MakeNaturalLiver.description>Grow a natural liver from BioMatter. Produces 1.</MakeNaturalLiver.description>
-  <MakeNaturalLiver.jobString>调制生长肝脏</MakeNaturalLiver.jobString>
+  <MakeNaturalLiver.jobString>Growing a natural liver.</MakeNaturalLiver.jobString>
 
-  <MakeNaturalKidney.label>调制生长肾脏</MakeNaturalKidney.label>
+  <MakeNaturalKidney.label>Grow Natural Kidney</MakeNaturalKidney.label>
   <MakeNaturalKidney.description>Grow a natural kidney from BioMatter. Produces 1.</MakeNaturalKidney.description>
-  <MakeNaturalKidney.jobString>调制生长肾脏</MakeNaturalKidney.jobString>
+  <MakeNaturalKidney.jobString>Growing a natural kidney.</MakeNaturalKidney.jobString>
 
-  <MakeNaturalStomach.label>调制生长胃</MakeNaturalStomach.label>
+  <MakeNaturalStomach.label>Grow Natural Stomach</MakeNaturalStomach.label>
   <MakeNaturalStomach.description>Grow a natural stomach from BioMatter. Produces 1.</MakeNaturalStomach.description>
-  <MakeNaturalStomach.jobString>调制生长胃</MakeNaturalStomach.jobString>
+  <MakeNaturalStomach.jobString>Growing a natural stomach.</MakeNaturalStomach.jobString>
 
 
 </LanguageData>

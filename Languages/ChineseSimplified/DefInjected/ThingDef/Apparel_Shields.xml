@@ -3,19 +3,19 @@
 
   <!-- Shields -->
 
-  <ShieldTribal.label>原始盾牌</ShieldTribal.label>
+  <ShieldTribal.label>Tribal shield</ShieldTribal.label>
   <ShieldTribal.description>A primitive shield, commonly used by local tribes.</ShieldTribal.description>
 
-  <ShieldBone.label>骨盾</ShieldBone.label>
+  <ShieldBone.label>Bone shield</ShieldBone.label>
   <ShieldBone.description>A primitive wooden shield, commonly used by local tribes.</ShieldBone.description>
 
-  <Buckler.label>圆盾</Buckler.label>
+  <Buckler.label>Buckler</Buckler.label>
   <Buckler.description>A shield made from hard materials able to deflect most types of attack. Wears out with use.</Buckler.description>
 
-  <MedievalShield.label>中世纪盾牌</MedievalShield.label>
+  <MedievalShield.label>Medieval Shield</MedievalShield.label>
   <MedievalShield.description>A shield made from metallic and able to deflect most types of attack. Wears out with use.</MedievalShield.description>
 
-  <BallisticShield.label>防弹盾牌</BallisticShield.label>
+  <BallisticShield.label>Ballistic shield</BallisticShield.label>
   <BallisticShield.description>Ballistic shields are shields specifically designed to defeat handgun, long gun, and shotgun projectile threats, many will additionally defeat most types of stabbing or cutting-type weaponry, and hand-thrown or launched projectiles such as rocks and arrows. Pawn with higher combat skills will use ballistic shield more efficiently. Wears out with use.</BallisticShield.description>
 
 

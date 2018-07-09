@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hats -->
+
+  <Apparel_Bonnet.label>bonnet</Apparel_Bonnet.label>
+  <Apparel_Bonnet.description></Apparel_Bonnet.description>
+
+
+  <!-- Tribal Tech -->
+
+  <Apparel_RagDress.label>ragged dress</Apparel_RagDress.label>
+  <Apparel_RagDress.description>A very basic slave outfit made from cloth and can be crafted anywhere. Decrease social standing, but improving work speed and mental threshold.</Apparel_RagDress.description>
+
+  <Apparel_RagDressB.label>ragged tunic</Apparel_RagDressB.label>
+  <Apparel_RagDressB.description>A simple servant outfit made from cloth. Decrease social standing, but improving work speed and mental threshold.</Apparel_RagDressB.description>
+
+
+  <!-- Industrial Tech -->
+
+  <Apparel_Coverall.label>factory coverall</Apparel_Coverall.label>
+  <Apparel_Coverall.description>A fabric coverall uniform that commonly used by factory workers on urbworlds. It is hot and uncomfortable due to its fit-all-size, but offer some protection against work hazard.</Apparel_Coverall.description>
+
+
+  <!-- Medieval Tech -->
+
+  <Apparel_TunicPoor.label>poor tunic</Apparel_TunicPoor.label>
+  <Apparel_TunicPoor.description>A single piece apparel commonly used by peasants that only consist of leather belt and poorly made tunic. It offer a bit of protection from the cold.</Apparel_TunicPoor.description>
+
+  <Apparel_TunicFine.label>fine tunic</Apparel_TunicFine.label>
+  <Apparel_TunicFine.description>A single piece apparel commonly wore by peasant that consist of finely made tunic and leather belt. Offer moderate protection against cold.</Apparel_TunicFine.description>
+
+
+  <!-- Victorian Tech -->
+
+  <Apparel_VicScullery.label>scullery maid uniform</Apparel_VicScullery.label>
+  <Apparel_VicScullery.description>A design from an era of humanity's first industrial revolution. A scullery maid is the lowest-ranked of female servants responsible for washing dishes and doing other menial household chores. 
+
+    The male equivalent is called a hall boy, whose duties were often among the most disagreeable in the house, such as emptying chamber pots for the higher-ranking servants, and cleaning the boots.</Apparel_VicScullery.description>
+
+  <Apparel_VicHM.label>housemaid uniform</Apparel_VicHM.label>
+  <Apparel_VicHM.description>A design from an era of humanity's first industrial revolution. A housemaid is a female servant that perform typical domestic chores "above stair" and better paid. 
+
+    The male equivalent is called a footman. They were paid more than female servants, and footmen were something of a luxury and therefore a status symbol even among the servant-employing classes. They performed a less essential role than the cook, maid or even butler, and were part only of the grandest households.</Apparel_VicHM.description>
+
+
+</LanguageData>

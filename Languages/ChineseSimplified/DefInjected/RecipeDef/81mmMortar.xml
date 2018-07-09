@@ -1,20 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Recipes -->
+  <MakeShell_HighExplosive.label>make 81mm HE mortar shells x1</MakeShell_HighExplosive.label>
+  <MakeShell_HighExplosive.description>Craft 81mm HE mortar shells.</MakeShell_HighExplosive.description>
+  <MakeShell_HighExplosive.jobString>Making 81mm HE mortar shells.</MakeShell_HighExplosive.jobString>
 
-  
-  <MakeAmmo_81mmMortarShell_Incendiary.label>制造 81mm迫击炮 燃烧炮弹 x1</MakeAmmo_81mmMortarShell_Incendiary.label>
-  <MakeAmmo_81mmMortarShell_Incendiary.description>Craft 81mm incendiary mortar shells.</MakeAmmo_81mmMortarShell_Incendiary.description>
-  <MakeAmmo_81mmMortarShell_Incendiary.jobString>Making 81mm incendiary mortar shells.</MakeAmmo_81mmMortarShell_Incendiary.jobString>
+  <MakeShell_Incendiary.label>make 81mm incendiary mortar shells x1</MakeShell_Incendiary.label>
+  <MakeShell_Incendiary.description>Craft 81mm incendiary mortar shells.</MakeShell_Incendiary.description>
+  <MakeShell_Incendiary.jobString>Making 81mm incendiary mortar shells.</MakeShell_Incendiary.jobString>
 
-  <MakeAmmo_81mmMortarShell_EMP.label>制造 81mm迫击炮 EMP炮弹 x1</MakeAmmo_81mmMortarShell_EMP.label>
-  <MakeAmmo_81mmMortarShell_EMP.description>Craft 81mm EMP mortar shells.</MakeAmmo_81mmMortarShell_EMP.description>
-  <MakeAmmo_81mmMortarShell_EMP.jobString>Making 81mm EMP mortar shells.</MakeAmmo_81mmMortarShell_EMP.jobString>
+  <MakeShell_EMP.label>make 81mm EMP mortar shells x1</MakeShell_EMP.label>
+  <MakeShell_EMP.description>Craft 81mm EMP mortar shells.</MakeShell_EMP.description>
+  <MakeShell_EMP.jobString>Making 81mm EMP mortar shells.</MakeShell_EMP.jobString>
 
+  <MakeShell_Firefoam.label>make 81mm firefoam mortar shells x1</MakeShell_Firefoam.label>
+  <MakeShell_Firefoam.description>Craft 81mm firefoam mortar shells.</MakeShell_Firefoam.description>
+  <MakeShell_Firefoam.jobString>Making 81mm firefoam mortar shells.</MakeShell_Firefoam.jobString>
 
-  <!--[Core] <MakeMortarShell.label>制作迫击炮炮弹</MakeMortarShell.label>-->
-  <!--[Core] <MakeMortarShell.description>手工制作迫击炮炮弹。</MakeMortarShell.description>-->
-  <!--[Core] <MakeMortarShell.jobString>制作制作迫击炮炮弹。</MakeMortarShell.jobString>-->
 
 </LanguageData>

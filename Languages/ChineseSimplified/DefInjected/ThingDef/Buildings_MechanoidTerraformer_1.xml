@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MechanoidTerraformer.label>奇怪的人工造物</MechanoidTerraformer.label>
+  <MechanoidTerraformer.description>This strange artifact seems to modify the local weather. You should send someone to study it.
+Be careful however, this thing stinks mechanoid technology...</MechanoidTerraformer.description>
+
+  <MechanoidPylon.label>机械转化器节点</MechanoidPylon.label>
+  <MechanoidPylon.description>A mechanoid pylon, used to harness the sky's power. It seems to be protected by a shield powered by the terraformer.</MechanoidPylon.description>
+
+  <MechanoidPylonDestructible.label>机械转化器节点</MechanoidPylonDestructible.label>
+  <MechanoidPylonDestructible.description>A mechanoid pylon, used to harness the sky's power. It seems to be protected by a shield powered by the terraformer.</MechanoidPylonDestructible.description>
+
+
+</LanguageData>

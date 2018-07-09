@@ -1,43 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakePizza.label>烘焙披萨</MakePizza.label>
-  <MakePizza.description>Bakes a pizza from flour, cheese and tomatoes. Scrumptious! Produces 1.</MakePizza.description>
+  <MakePizza.label>bake pizza</MakePizza.label>
+  <MakePizza.description>Bakes a pizza from flour, cheese and tomatoes. Scrumptious! Produces 2.</MakePizza.description>
   <MakePizza.jobString>Baking pizza.</MakePizza.jobString>
 
-  <MakeCheeseGrilled.label>烤芝士三明治</MakeCheeseGrilled.label>
-  <MakeCheeseGrilled.description>Grills a sandwich from bread and cheese. Produces 1.</MakeCheeseGrilled.description>
+  <MakeCheeseGrilled.label>Grill cheese sandwich</MakeCheeseGrilled.label>
+  <MakeCheeseGrilled.description>Grills a sandwich from bread and cheese. Produces 2.</MakeCheeseGrilled.description>
   <MakeCheeseGrilled.jobString>Grilling cheese sandwich.</MakeCheeseGrilled.jobString>
 
-  <MakeBurgerCheese.label>烹饪芝士汉堡</MakeBurgerCheese.label>
-  <MakeBurgerCheese.description>Cooks a burger made from bread, meat and cheese. Delicious! Produces 1.</MakeBurgerCheese.description>
+  <MakeBurgerCheese.label>cook cheese burger</MakeBurgerCheese.label>
+  <MakeBurgerCheese.description>Cooks a burger made from bread, meat and cheese. Delicious! Produces 2.</MakeBurgerCheese.description>
   <MakeBurgerCheese.jobString>Cooking cheese burger.</MakeBurgerCheese.jobString>
 
-  <MakePieBlueberry.label>烘焙浆果派</MakePieBlueberry.label>
-  <MakePieBlueberry.description>Bake tasty berry pies. Produces 3.</MakePieBlueberry.description>
+  <MakePieBlueberry.label>bake berry pies</MakePieBlueberry.label>
+  <MakePieBlueberry.description>Bake tasty berry pies. Produces 4.</MakePieBlueberry.description>
   <MakePieBlueberry.jobString>Baking berry pies.</MakePieBlueberry.jobString>
 
-  <MakePiePumpkin.label>烘焙南瓜派</MakePiePumpkin.label>
-  <MakePiePumpkin.description>Stuff the intestines of pumpkins into dough to 制造 sweet aromatic pies. Produces 5.</MakePiePumpkin.description>
-  <MakePiePumpkin.jobString>Baking pumpkin pies.</MakePiePumpkin.jobString>
-
-  <MakeTaffy.label>烹制太妃糖</MakeTaffy.label>
-  <MakeTaffy.description>Turns sugar into taffy. Taffy is a type of sweet, chewable candy. Produces 4.</MakeTaffy.description>
+  <MakeTaffy.label>cook taffy candies</MakeTaffy.label>
+  <MakeTaffy.description>Turns sugar into taffy. Taffy is a type of sweet, chewable candy. Produces 5.</MakeTaffy.description>
   <MakeTaffy.jobString>Cooking taffy candies.</MakeTaffy.jobString>
 
-  <MakeCookies.label>烘焙巧克力曲奇</MakeCookies.label>
-  <MakeCookies.description>Bakes cookies from flour, sugar and chocolate; using grandma's recipe. Produces 5.</MakeCookies.description>
+  <MakeCookies.label>bake chocolate cookies</MakeCookies.label>
+  <MakeCookies.description>Bakes cookies from flour, sugar and chocolate; using grandma's recipe. Produces 10.</MakeCookies.description>
   <MakeCookies.jobString>Baking chocolate cookies.</MakeCookies.jobString>
 
-  <MakeSweetBun.label>烘焙甜面包卷</MakeSweetBun.label>
+  <MakeSweetBun.label>bake sweet rolls</MakeSweetBun.label>
   <MakeSweetBun.description>Bakes sweet rolls covered in sugary icying. Produces 5.</MakeSweetBun.description>
   <MakeSweetBun.jobString>Baking sweet rolls.</MakeSweetBun.jobString>
 
-  <BakeCornbread.label>烘焙玉米面包 (2x)</BakeCornbread.label>
+  <BakeCornbread.label>bake cornbread (2x)</BakeCornbread.label>
   <BakeCornbread.description>Bake a tasty cornbread loaf. Produces 2.</BakeCornbread.description>
   <BakeCornbread.jobString>Baking cornbread.</BakeCornbread.jobString>
 
-  <BakeCornbreadmuffin.label>烘焙玉米松饼 (3x)</BakeCornbreadmuffin.label>
+  <BakeCornbreadmuffin.label>bake cornbread muffins (3x)</BakeCornbreadmuffin.label>
   <BakeCornbreadmuffin.description>Bake some tasty cornbread muffins. Produces 3.</BakeCornbreadmuffin.description>
   <BakeCornbreadmuffin.jobString>Baking cornbread muffins.</BakeCornbreadmuffin.jobString>
 

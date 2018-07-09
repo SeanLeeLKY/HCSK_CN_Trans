@@ -3,19 +3,19 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_Arrow_Stone.label>制造石头箭x50</MakeAmmo_Arrow_Stone.label>
+  <MakeAmmo_Arrow_Stone.label>make stone arrows x50</MakeAmmo_Arrow_Stone.label>
   <MakeAmmo_Arrow_Stone.description>Craft 50 stone arrows.</MakeAmmo_Arrow_Stone.description>
   <MakeAmmo_Arrow_Stone.jobString>Making stone arrows.</MakeAmmo_Arrow_Stone.jobString>
 
-  <MakeAmmo_Arrow_Steel.label>制造金属头箭 x50</MakeAmmo_Arrow_Steel.label>
+  <MakeAmmo_Arrow_Steel.label>make metallic arrows x50</MakeAmmo_Arrow_Steel.label>
   <MakeAmmo_Arrow_Steel.description>Craft 50 metallic arrows.</MakeAmmo_Arrow_Steel.description>
   <MakeAmmo_Arrow_Steel.jobString>Making metallic arrows.</MakeAmmo_Arrow_Steel.jobString>
 
-  <MakeAmmo_Arrow_Poison.label>制造毒箭 x50</MakeAmmo_Arrow_Poison.label>
+  <MakeAmmo_Arrow_Poison.label>make poison arrows x50</MakeAmmo_Arrow_Poison.label>
   <MakeAmmo_Arrow_Poison.description>Craft 50 poison arrows.</MakeAmmo_Arrow_Poison.description>
   <MakeAmmo_Arrow_Poison.jobString>Making poison arrows.</MakeAmmo_Arrow_Poison.jobString>
 
-  <MakeAmmo_Arrow_Explosive.label>制造爆炸箭x50</MakeAmmo_Arrow_Explosive.label>
+  <MakeAmmo_Arrow_Explosive.label>make explosive arrows x50</MakeAmmo_Arrow_Explosive.label>
   <MakeAmmo_Arrow_Explosive.description>Craft 50 explosive arrows.</MakeAmmo_Arrow_Explosive.description>
   <MakeAmmo_Arrow_Explosive.jobString>Making explosive arrows.</MakeAmmo_Arrow_Explosive.jobString>
 

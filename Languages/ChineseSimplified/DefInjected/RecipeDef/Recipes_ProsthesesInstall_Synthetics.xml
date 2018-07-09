@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Synthetic parts -->
+
+  <InstallAIChip.label>Install AI Chip</InstallAIChip.label>
+  <InstallAIChip.description>Installs an AI Chip.</InstallAIChip.description>
+  <InstallAIChip.jobString>Installing AI Chip.</InstallAIChip.jobString>
+
+  <InstallSyntheticLung.label>Install Synthetic Lung</InstallSyntheticLung.label>
+  <InstallSyntheticLung.description>Installs a Synthetic Lung.</InstallSyntheticLung.description>
+  <InstallSyntheticLung.jobString>Installing Synthetic Lung.</InstallSyntheticLung.jobString>
+
+  <InstallSyntheticStomach.label>Install Synthetic Stomach</InstallSyntheticStomach.label>
+  <InstallSyntheticStomach.description>Installs a Synthetic Stomach.</InstallSyntheticStomach.description>
+  <InstallSyntheticStomach.jobString>Installing Synthetic Stomach.</InstallSyntheticStomach.jobString>
+
+  <InstallSyntheticLiver.label>Install Synthetic Liver</InstallSyntheticLiver.label>
+  <InstallSyntheticLiver.description>Installs a Synthetic Liver.</InstallSyntheticLiver.description>
+  <InstallSyntheticLiver.jobString>Installing Synthetic Liver.</InstallSyntheticLiver.jobString>
+
+  <InstallSyntheticKidney.label>Install Synthetic Kidney</InstallSyntheticKidney.label>
+  <InstallSyntheticKidney.description>Installs a Synthetic Kidney.</InstallSyntheticKidney.description>
+  <InstallSyntheticKidney.jobString>Installing Synthetic Kidney.</InstallSyntheticKidney.jobString>
+
+  <InstallSyntheticHeart.label>Install Synthetic Heart</InstallSyntheticHeart.label>
+  <InstallSyntheticHeart.description>Installs a Synthetic Heart.</InstallSyntheticHeart.description>
+  <InstallSyntheticHeart.jobString>Installing Synthetic Heart.</InstallSyntheticHeart.jobString>
+
+  <InstallJoywire.label>install joywire</InstallJoywire.label>
+  <InstallJoywire.description>Installs joywire.</InstallJoywire.description>
+  <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+
+  <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
+  <InstallPainstopper.description>Installs painstopper.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
+
+
+</LanguageData>

@@ -3,77 +3,72 @@
 
   <!-- Centipede -->
 
-  <Centipede.label>机械蜈蚣</Centipede.label>
-  <Centipede.labelPlural>机械蜈蚣</Centipede.labelPlural>
-  <Centipede.labelMale>机械蜈蚣</Centipede.labelMale>
-  <Centipede.labelMalePlural>机械蜈蚣</Centipede.labelMalePlural>
-  <Centipede.labelFemale>机械蜈蚣</Centipede.labelFemale>
-  <Centipede.labelFemalePlural>机械蜈蚣</Centipede.labelFemalePlural>
+  <Centipede.label>Centipede</Centipede.label>
+  <Centipede.labelPlural>Centipedes</Centipede.labelPlural>
+  <Centipede.labelMale>male Centipede</Centipede.labelMale>
+  <Centipede.labelMalePlural>male Centipedes</Centipede.labelMalePlural>
+  <Centipede.labelFemale>female Centipede</Centipede.labelFemale>
+  <Centipede.labelFemalePlural>female Centipedes</Centipede.labelFemalePlural>
 
 
   <!-- Centipede Inferno -->
 
-  <CentipedeInferno.label>机械蜈蚣</CentipedeInferno.label>
-  <CentipedeInferno.labelPlural>机械蜈蚣</CentipedeInferno.labelPlural>
-  <CentipedeInferno.labelMale>机械蜈蚣</CentipedeInferno.labelMale>
-  <CentipedeInferno.labelMalePlural>机械蜈蚣</CentipedeInferno.labelMalePlural>
-  <CentipedeInferno.labelFemale>机械蜈蚣</CentipedeInferno.labelFemale>
-  <CentipedeInferno.labelFemalePlural>机械蜈蚣</CentipedeInferno.labelFemalePlural>
+  <CentipedeInferno.label>Centipede</CentipedeInferno.label>
+  <CentipedeInferno.labelPlural>Centipedes</CentipedeInferno.labelPlural>
+  <CentipedeInferno.labelMale>male Centipede</CentipedeInferno.labelMale>
+  <CentipedeInferno.labelMalePlural>male Centipedes</CentipedeInferno.labelMalePlural>
+  <CentipedeInferno.labelFemale>female Centipede</CentipedeInferno.labelFemale>
+  <CentipedeInferno.labelFemalePlural>female Centipedes</CentipedeInferno.labelFemalePlural>
 
 
   <!-- Scyther -->
 
-  <Scyther.label>机械飞螳</Scyther.label>
-  <Scyther.labelPlural>机械飞螳</Scyther.labelPlural>
-  <Scyther.labelMale>机械飞螳</Scyther.labelMale>
-  <Scyther.labelMalePlural>机械飞螳</Scyther.labelMalePlural>
-  <Scyther.labelFemale>机械飞螳</Scyther.labelFemale>
-  <Scyther.labelFemalePlural>机械飞螳</Scyther.labelFemalePlural>
+  <Scyther.label>Scyther</Scyther.label>
+  <Scyther.labelPlural>Scythers</Scyther.labelPlural>
+  <Scyther.labelMale>male Scyther</Scyther.labelMale>
+  <Scyther.labelMalePlural>male Scythers</Scyther.labelMalePlural>
+  <Scyther.labelFemale>female Scyther</Scyther.labelFemale>
+  <Scyther.labelFemalePlural>female Scythers</Scyther.labelFemalePlural>
 
 
   <!-- HeavyGun Scyther -->
 
-  <HGScyther.label>机械飞螳</HGScyther.label>
-  <HGScyther.labelPlural>机械飞螳</HGScyther.labelPlural>
-  <HGScyther.labelMale>机械飞螳</HGScyther.labelMale>
-  <HGScyther.labelMalePlural>机械飞螳</HGScyther.labelMalePlural>
-  <HGScyther.labelFemale>机械飞螳</HGScyther.labelFemale>
-  <HGScyther.labelFemalePlural>机械飞螳</HGScyther.labelFemalePlural>
+  <HGScyther.label>Scyther</HGScyther.label>
+  <HGScyther.labelPlural>Scythers</HGScyther.labelPlural>
+  <HGScyther.labelMale>male Scyther</HGScyther.labelMale>
+  <HGScyther.labelMalePlural>male Scythers</HGScyther.labelMalePlural>
+  <HGScyther.labelFemale>female Scyther</HGScyther.labelFemale>
+  <HGScyther.labelFemalePlural>female Scythers</HGScyther.labelFemalePlural>
 
 
   <!-- Stalker -->
 
-  <Stalker.label>机械追踪者</Stalker.label>
-  <Stalker.labelPlural>机械追踪者</Stalker.labelPlural>
-  <Stalker.labelMale>机械追踪者</Stalker.labelMale>
-  <Stalker.labelMalePlural>机械追踪者</Stalker.labelMalePlural>
-  <Stalker.labelFemale>机械追踪者</Stalker.labelFemale>
-  <Stalker.labelFemalePlural>机械追踪者</Stalker.labelFemalePlural>
+  <Stalker.label>Stalker</Stalker.label>
+  <Stalker.labelPlural>Stalkers</Stalker.labelPlural>
+  <Stalker.labelMale>male Stalker</Stalker.labelMale>
+  <Stalker.labelMalePlural>male Stalkers</Stalker.labelMalePlural>
+  <Stalker.labelFemale>female Stalker</Stalker.labelFemale>
+  <Stalker.labelFemalePlural>female Stalkers</Stalker.labelFemalePlural>
 
 
   <!-- Sniper Stalker -->
 
-  <SniperStalker.label>机械追踪者</SniperStalker.label>
-  <SniperStalker.labelPlural>机械追踪者</SniperStalker.labelPlural>
-  <SniperStalker.labelMale>机械追踪者</SniperStalker.labelMale>
-  <SniperStalker.labelMalePlural>机械追踪者</SniperStalker.labelMalePlural>
-  <SniperStalker.labelFemale>机械追踪者</SniperStalker.labelFemale>
-  <SniperStalker.labelFemalePlural>机械追踪者</SniperStalker.labelFemalePlural>
+  <SniperStalker.label>Stalker</SniperStalker.label>
+  <SniperStalker.labelPlural>Stalkers</SniperStalker.labelPlural>
+  <SniperStalker.labelMale>male Stalker</SniperStalker.labelMale>
+  <SniperStalker.labelMalePlural>male Stalkers</SniperStalker.labelMalePlural>
+  <SniperStalker.labelFemale>female Stalker</SniperStalker.labelFemale>
+  <SniperStalker.labelFemalePlural>female Stalkers</SniperStalker.labelFemalePlural>
 
 
   <!-- Crawler -->
 
-  <Crawler.label>机械蜘蛛</Crawler.label>
-  <Crawler.labelPlural>机械蜘蛛</Crawler.labelPlural>
-  <Crawler.labelMale>机械蜘蛛</Crawler.labelMale>
-  <Crawler.labelMalePlural>机械蜘蛛</Crawler.labelMalePlural>
-  <Crawler.labelFemale>机械蜘蛛</Crawler.labelFemale>
-  <Crawler.labelFemalePlural>机械蜘蛛</Crawler.labelFemalePlural>
+  <Crawler.label>Crawler</Crawler.label>
+  <Crawler.labelPlural>Crawlers</Crawler.labelPlural>
+  <Crawler.labelMale>male Crawler</Crawler.labelMale>
+  <Crawler.labelMalePlural>male Crawlers</Crawler.labelMalePlural>
+  <Crawler.labelFemale>female Crawler</Crawler.labelFemale>
+  <Crawler.labelFemalePlural>female Crawlers</Crawler.labelFemalePlural>
 
-
-  <!--[Core] <Centipede.label>机械蜈蚣</Centipede.label>-->
-  <!--[Core] <Centipede.labelPlural>机械蜈蚣</Centipede.labelPlural>-->
-  <!--[Core] <Scyther.label>机械飞螳</Scyther.label>-->
-  <!--[Core] <Scyther.labelPlural>机械飞螳</Scyther.labelPlural>-->
 
 </LanguageData>

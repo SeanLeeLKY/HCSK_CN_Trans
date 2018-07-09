@@ -3,26 +3,30 @@
 
   <!-- MILKOR MGL -->
 
-  <Gun_MilkorMGL.label>米尔科尔 MGL榴弹发射器</Gun_MilkorMGL.label>
+  <Gun_MilkorMGL.label>Milkor MGL</Gun_MilkorMGL.label>
   <Gun_MilkorMGL.description>A launcher type weapon that fires 40mm concussive grenades at a higher rate than a human could.</Gun_MilkorMGL.description>
+  <Gun_MilkorMGL.tools.0.label>barrel</Gun_MilkorMGL.tools.0.label>
 
 
   <!-- RPG-7 -->
 
-  <Gun_RPG.label>RPG-7发射器</Gun_RPG.label>
+  <Gun_RPG.label>RPG-7</Gun_RPG.label>
   <Gun_RPG.description>RPG Launcher.</Gun_RPG.description>
+  <Gun_RPG.tools.0.label>barrel</Gun_RPG.tools.0.label>
 
 
   <!-- M5 RPG -->
 
-  <Gun_M5_USCM.label>M5 RPG发射器</Gun_M5_USCM.label>
+  <Gun_M5_USCM.label>M5 RPG</Gun_M5_USCM.label>
   <Gun_M5_USCM.description>The M5 Rocket Propelled Grenade (RPG) is a portable, shoulder-fired, reloadable, semi-automatic unguided anti-armor rocket-propelled grenade launcher used by United States Colonial Marine Corps as their standard issue RPG. Able to load up to 4 rockets, the M5 RPG is the favorite anti-infantry toy of the USCM.</Gun_M5_USCM.description>
+  <Gun_M5_USCM.tools.0.label>barrel</Gun_M5_USCM.tools.0.label>
 
 
   <!-- M72 LAW -->
 
-  <Gun_LAW.label>M72 LAW反坦克火箭筒</Gun_LAW.label>
+  <Gun_LAW.label>M72 LAW</Gun_LAW.label>
   <Gun_LAW.description>Anti tank rocket launcher, with special armor piercing penetration rocket.</Gun_LAW.description>
+  <Gun_LAW.tools.0.label>barrel</Gun_LAW.tools.0.label>
 
 
 </LanguageData>

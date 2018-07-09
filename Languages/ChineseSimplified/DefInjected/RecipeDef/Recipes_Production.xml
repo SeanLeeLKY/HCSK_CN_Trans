@@ -1,75 +1,83 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeWoodPlanks_Hand.label>锯木板</MakeWoodPlanks_Hand.label>
+  <MakeWoodPlanks_Hand.label>saw wood planks</MakeWoodPlanks_Hand.label>
   <MakeWoodPlanks_Hand.description>Saws wood logs into planks. Quite slow. Produces 15.</MakeWoodPlanks_Hand.description>
   <MakeWoodPlanks_Hand.jobString>Sawing wood planks.</MakeWoodPlanks_Hand.jobString>
 
-  <MakeWoodPlanks_Electric.label>锯木板</MakeWoodPlanks_Electric.label>
+  <MakeWoodPlanks_Electric.label>saw wood planks</MakeWoodPlanks_Electric.label>
   <MakeWoodPlanks_Electric.description>Saws wood logs into planks. Quite fast. Produces 30.</MakeWoodPlanks_Electric.description>
   <MakeWoodPlanks_Electric.jobString>Sawing wood planks.</MakeWoodPlanks_Electric.jobString>
 
-  <MakeBambooPlanks_Hand.label>锯竹板</MakeBambooPlanks_Hand.label>
+  <MakeBambooPlanks_Hand.label>saw bamboo planks</MakeBambooPlanks_Hand.label>
   <MakeBambooPlanks_Hand.description>Saw bamboo logs into bamboo planks. Quite slow. Produces 15.</MakeBambooPlanks_Hand.description>
   <MakeBambooPlanks_Hand.jobString>Sawing bamboo planks.</MakeBambooPlanks_Hand.jobString>
 
-  <MakeBambooPlanks_Electric.label>锯竹板</MakeBambooPlanks_Electric.label>
+  <MakeBambooPlanks_Electric.label>saw bamboo planks</MakeBambooPlanks_Electric.label>
   <MakeBambooPlanks_Electric.description>Saws bamboo logs into bamboo planks. Quite fast. Produces 30.</MakeBambooPlanks_Electric.description>
   <MakeBambooPlanks_Electric.jobString>Sawing bamboo planks.</MakeBambooPlanks_Electric.jobString>
 
-  <MakeKindling_Hand.label>劈柴</MakeKindling_Hand.label>
+  <MakeRedWoodPlanks_Hand.label>saw redwood planks</MakeRedWoodPlanks_Hand.label>
+  <MakeRedWoodPlanks_Hand.description>Saws redwood logs into planks. Quite slow. Produces 15.</MakeRedWoodPlanks_Hand.description>
+  <MakeRedWoodPlanks_Hand.jobString>Sawing redwood planks.</MakeRedWoodPlanks_Hand.jobString>
+
+  <MakeRedWoodPlanks_Electric.label>saw redwood planks</MakeRedWoodPlanks_Electric.label>
+  <MakeRedWoodPlanks_Electric.description>Saws redwood logs into planks. Quite fast. Produces 30.</MakeRedWoodPlanks_Electric.description>
+  <MakeRedWoodPlanks_Electric.jobString>Sawing redwood planks.</MakeRedWoodPlanks_Electric.jobString>
+
+  <MakeKindling_Hand.label>chop firewood</MakeKindling_Hand.label>
   <MakeKindling_Hand.description>Chop wood logs or bamboo logs into kindling. Quite slow. Produces 20.</MakeKindling_Hand.description>
   <MakeKindling_Hand.jobString>Chopping logs into kindling.</MakeKindling_Hand.jobString>
 
-  <MakeKindling_Electric.label>劈柴</MakeKindling_Electric.label>
+  <MakeKindling_Electric.label>chop firewood</MakeKindling_Electric.label>
   <MakeKindling_Electric.description>Chop wood logs or bamboo logs into kindling. Quite fast. Produces 40.</MakeKindling_Electric.description>
   <MakeKindling_Electric.jobString>Chopping logs into kindling.</MakeKindling_Electric.jobString>
 
-  <MakeCharcoal_Hand.label>制作木炭</MakeCharcoal_Hand.label>
+  <MakeCharcoal_Hand.label>create charcoal</MakeCharcoal_Hand.label>
   <MakeCharcoal_Hand.description>Burn wood logs or bamboo into charcoal. Quite slow. Produces 20.</MakeCharcoal_Hand.description>
   <MakeCharcoal_Hand.jobString>Creating charcoal.</MakeCharcoal_Hand.jobString>
 
-  <MakeCharcoal_Electric.label>制作木炭</MakeCharcoal_Electric.label>
+  <MakeCharcoal_Electric.label>create charcoal</MakeCharcoal_Electric.label>
   <MakeCharcoal_Electric.description>Burn wood logs or bamboo logs into charcoal. Quite fast. Produces 20.</MakeCharcoal_Electric.description>
   <MakeCharcoal_Electric.jobString>Creating charcoal.</MakeCharcoal_Electric.jobString>
 
-  <MakeBioDiesel.label>制造生物柴油</MakeBioDiesel.label>
+  <MakeBioDiesel.label>create biodiesel fuel</MakeBioDiesel.label>
   <MakeBioDiesel.description>Create BioDiesel fuel from bean pods. Produces 10.</MakeBioDiesel.description>
   <MakeBioDiesel.jobString>Creating BioDiesel fuel.</MakeBioDiesel.jobString>
 
-  <MakeClayBricks.label>烧制黏土砖</MakeClayBricks.label>
+  <MakeClayBricks.label>bake clay bricks</MakeClayBricks.label>
   <MakeClayBricks.description>Creates clay bricks by baking soft clay. Produces 5.</MakeClayBricks.description>
   <MakeClayBricks.jobString>Baking clay into bricks.</MakeClayBricks.jobString>
 
-  <MakeCeramics.label>烧制陶瓷</MakeCeramics.label>
+  <MakeCeramics.label>bake ceramics</MakeCeramics.label>
   <MakeCeramics.description>Bakes glazed ceramics. Produces 10.</MakeCeramics.description>
   <MakeCeramics.jobString>Baking ceramics.</MakeCeramics.jobString>
 
-  <MakeGlassBatch.label>制作玻璃生料</MakeGlassBatch.label>
+  <MakeGlassBatch.label>create glass batch</MakeGlassBatch.label>
   <MakeGlassBatch.description>Smelt sand into a batch of glass. Produces 25.</MakeGlassBatch.description>
   <MakeGlassBatch.jobString>Creating glass batch.</MakeGlassBatch.jobString>
 
-  <MakeGlass.label>制作玻璃块</MakeGlass.label>
+  <MakeGlass.label>create glass frames</MakeGlass.label>
   <MakeGlass.description>Create glass frames from glass batch. Produces 10.</MakeGlass.description>
   <MakeGlass.jobString>Creating glass frames.</MakeGlass.jobString>
 
-  <MakeReinforcedGlass.label>制作强化玻璃</MakeReinforcedGlass.label>
+  <MakeReinforcedGlass.label>reinforce glass frames</MakeReinforcedGlass.label>
   <MakeReinforcedGlass.description>Turn fragile glass frames into reinforced glass frames by adding sythetic fibers. Produces 6.</MakeReinforcedGlass.description>
   <MakeReinforcedGlass.jobString>Reinforcing glass frame.</MakeReinforcedGlass.jobString>
 
-  <MixConcrete.label>搅拌混凝土</MixConcrete.label>
+  <MixConcrete.label>mix concrete</MixConcrete.label>
   <MixConcrete.description>Mixes sand and rubble into concrete. Produces 15.</MixConcrete.description>
   <MixConcrete.jobString>Mixing concrete.</MixConcrete.jobString>
 
-  <MixConcreteElectric.label>搅拌混凝土</MixConcreteElectric.label>
+  <MixConcreteElectric.label>mix concrete</MixConcreteElectric.label>
   <MixConcreteElectric.description>Mixes sand and rubble into concrete. Produces 15.</MixConcreteElectric.description>
   <MixConcreteElectric.jobString>Mixing concrete.</MixConcreteElectric.jobString>
 
-  <MakeChemfuel.label>制造合成燃料</MakeChemfuel.label>
+  <MakeChemfuel.label>create ethanol fuel</MakeChemfuel.label>
   <MakeChemfuel.description>Create ethanol fuel from raw corn, wheat or rice. Produces 5.</MakeChemfuel.description>
   <MakeChemfuel.jobString>Creating ethanol fuel.</MakeChemfuel.jobString>
 
-  <MakeSilicon_Electric.label>分离硅</MakeSilicon_Electric.label>
+  <MakeSilicon_Electric.label>extract silicon</MakeSilicon_Electric.label>
   <MakeSilicon_Electric.description>Melts down sand to extract the silicon from it. Quite fast. Produces 5.</MakeSilicon_Electric.description>
   <MakeSilicon_Electric.jobString>Extracting silicon from sand.</MakeSilicon_Electric.jobString>
 

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlayGo.reportString>玩飞行棋。</PlayGo.reportString>
-  <PlayCards.reportString>玩牌。</PlayCards.reportString>
-  <PlayReversi.reportString>玩黑白棋。</PlayReversi.reportString>
-  <PlayRimColony.reportString>玩边缘世界。（滑稽.jpg）</PlayRimColony.reportString>
-  <ReadBook.reportString>读书。</ReadBook.reportString>
+  <PlayGo.reportString>Playing Go.</PlayGo.reportString>
+  <PlayCards.reportString>Playing a card game.</PlayCards.reportString>
+  <PlayReversi.reportString>Playing Reversi.</PlayReversi.reportString>
+  <PlayRimColony.reportString>Playing RimColony.</PlayRimColony.reportString>
+  <ReadBook.reportString>Reading a book.</ReadBook.reportString>
 
 
   <!-- <JobDef>
@@ -18,8 +18,8 @@
 		<joyKind>Meditative</joyKind>
 	</JobDef> -->
 
-  <Doodle.reportString>涂鸦.</Doodle.reportString>
-  <InterpretArt.reportString>欣赏艺术。</InterpretArt.reportString>
+  <Doodle.reportString>Doodling.</Doodle.reportString>
+  <InterpretArt.reportString>Interpreting artwork.</InterpretArt.reportString>
   <PlayArcadeRS.reportString>Playing Rum Swirled.</PlayArcadeRS.reportString>
   <PlayArcadeMC.reportString>Playing MintCraft.</PlayArcadeMC.reportString>
   <PlayArcadeHL.reportString>Playing Halva Life.</PlayArcadeHL.reportString>

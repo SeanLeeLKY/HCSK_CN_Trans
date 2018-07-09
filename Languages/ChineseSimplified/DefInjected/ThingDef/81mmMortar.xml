@@ -1,26 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Need to override mortar shell because of hardcoded vanilla references -->
+  <Shell_HighExplosive.label>81mm mortar shell (HE)</Shell_HighExplosive.label>
+  <Shell_HighExplosive.description>Low-velocity shell designed to be fired from a mortar.</Shell_HighExplosive.description>
 
-  <MortarShell.label>81mm 迫击炮弹 (高爆)</MortarShell.label>
-  <MortarShell.description>Low-velocity shell designed to be fired from a mortar.</MortarShell.description>
+  <Shell_Incendiary.label>81mm mortar shell (Incendiary)</Shell_Incendiary.label>
+  <Shell_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Shell_Incendiary.description>
 
-  <Ammo_81mmMortarShell_Incendiary.label>81mm 迫击炮弹 (燃烧)</Ammo_81mmMortarShell_Incendiary.label>
-  <Ammo_81mmMortarShell_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_Incendiary.description>
+  <Shell_EMP.label>81mm mortar shell (EMP)</Shell_EMP.label>
+  <Shell_EMP.description>Low-velocity shell designed to be fired from a mortar.</Shell_EMP.description>
 
-  <Ammo_81mmMortarShell_EMP.label>81mm 迫击炮弹 (EMP)</Ammo_81mmMortarShell_EMP.label>
-  <Ammo_81mmMortarShell_EMP.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_EMP.description>
+  <Shell_Firefoam.label>81mm mortar shell (Firefoam)</Shell_Firefoam.label>
+  <Shell_Firefoam.description>A pressurized shell filled with fire-extinguishing foam. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_Firefoam.description>
 
+  <Bullet_81mmMortarShell_HE.label>81mm mortar shell (HE)</Bullet_81mmMortarShell_HE.label>
+  <Bullet_81mmMortarShell_Incendiary.label>81mm mortar shell (Incendiary)</Bullet_81mmMortarShell_Incendiary.label>
+  <Bullet_81mmMortarShell_EMP.label>81mm mortar shell (EMP)</Bullet_81mmMortarShell_EMP.label>
+  <Bullet_81mmMortarShell_FireFoam.label>81mm mortar shell (FireFoam)</Bullet_81mmMortarShell_FireFoam.label>
 
-  <!-- Projectiles -->
-
-  <Bullet_81mmMortarShell_HE.label>81mm 迫击炮弹 (高爆)</Bullet_81mmMortarShell_HE.label>
-  <Bullet_81mmMortarShell_Incendiary.label>81mm 迫击炮弹 (燃烧)</Bullet_81mmMortarShell_Incendiary.label>
-  <Bullet_81mmMortarShell_EMP.label>81mm 迫击炮弹 (EMP)</Bullet_81mmMortarShell_EMP.label>
-
-
-  <!--[Core] <MortarShell.label>迫击炮炮弹</MortarShell.label>-->
-  <!--[Core] <MortarShell.description>迫击炮发射的爆炸炮弹。受损时会发生爆炸。</MortarShell.description>-->
 
 </LanguageData>

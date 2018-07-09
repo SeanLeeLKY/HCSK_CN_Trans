@@ -3,52 +3,90 @@
 
   <!-- Outside Tile -->
 
-   
-  <DarkConcrete.label>暗色混凝土</DarkConcrete.label>
+  <Concrete.label>Concrete</Concrete.label>
+  <Concrete.description>Quick-poured concrete in a flat, grey surface. You'll need to be able to dig out the ground to pour this. 
+Beauty: 2.</Concrete.description>
+
+  <DarkConcrete.label>Dark Concrete</DarkConcrete.label>
   <DarkConcrete.description>Dark concrete in a honeycomb pattern. You'll need to be able to dig out the ground to pour this. 
 Beauty: 2.</DarkConcrete.description>
 
-  <CeramicTile.label>瓷砖</CeramicTile.label>
+  <CeramicTile.label>Ceramic Tile</CeramicTile.label>
   <CeramicTile.description>Small white ceramic tiles with a dark bordering. Quick to move around on. 
 Beauty: 3.</CeramicTile.description>
 
-  
+  <PavedTile.label>Paved Tile</PavedTile.label>
+  <PavedTile.description>Large grey tiles with a thick, dark border. Quick to move around on. 
+Beauty: 3.</PavedTile.description>
+
 
   <!-- Tile stone -->
 
-   
+  <TileSandstone.label>Sandstone Tile</TileSandstone.label>
+  <TileSandstone.description>Solid stone tiles for a castle feeling.
+Beauty: 2.</TileSandstone.description>
 
-  <TileCeramics.label>陶瓷瓷砖</TileCeramics.label>
+  <TileGranite.label>Granite Tile</TileGranite.label>
+  <TileGranite.description>Solid stone tiles for a castle feeling.
+Beauty: 2.</TileGranite.description>
+
+  <TileLimestone.label>Limestone Tile</TileLimestone.label>
+  <TileLimestone.description>Solid stone tiles for a castle feeling.
+Beauty: 2.</TileLimestone.description>
+
+  <TileSlate.label>Slate Tile</TileSlate.label>
+  <TileSlate.description>Solid stone tiles for a castle feeling.
+Beauty: 2.</TileSlate.description>
+
+  <TileMarble.label>Marble Tile</TileMarble.label>
+  <TileMarble.description>Solid stone tiles for a castle feeling.
+Beauty: 2.</TileMarble.description>
+
+  <TileCeramics.label>Ceramics Tile</TileCeramics.label>
   <TileCeramics.description>Solid stone tiles for a castle feeling.
 Beauty: 2.</TileCeramics.description>
 
 
   <!-- Rough Sandstone -->
 
-   
+  <RoughSandstoneFloor.label>Rough Sandstone</RoughSandstoneFloor.label>
+  <RoughSandstoneFloor.description>Sandstone eroded by the elements.
+Beauty: -1.</RoughSandstoneFloor.description>
+
 
   <!-- Rough Granite -->
 
-   
+  <RoughGraniteFloor.label>Rough Granite</RoughGraniteFloor.label>
+  <RoughGraniteFloor.description>Granite eroded by the elements. 
+Beauty: -1.</RoughGraniteFloor.description>
+
 
   <!-- Rough Limestone -->
 
-   
+  <RoughLimestoneFloor.label>Rough Limestone</RoughLimestoneFloor.label>
+  <RoughLimestoneFloor.description>Limestone eroded by the elements. 
+Beauty: -1.</RoughLimestoneFloor.description>
 
 
-  <!--[Core] <Concrete.label>混凝土地面</Concrete.label>-->
-  <!--[Core] <Concrete.description>迅速浇灌的混凝土。在上面走很迅速，但是比较难看。你需要把地面挖开才能浇灌混凝土。</Concrete.description>-->
-  <!--[Core] <PavedTile.label>铺装地砖</PavedTile.label>-->
-  <!--[Core] <PavedTile.description>实用的混凝土地砖。在上面走很迅速，但是地砖本身不是很好看，而且铺设速度较慢。</PavedTile.description>-->
-  <!--[Core] <TileSandstone.label>砂岩地砖</TileSandstone.label>-->
-  <!--[Core] <TileSandstone.description>坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。</TileSandstone.description>-->
-  <!--[Core] <TileGranite.label>花岗岩地砖</TileGranite.label>-->
-  <!--[Core] <TileGranite.description>坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。</TileGranite.description>-->
-  <!--[Core] <TileLimestone.label>石灰岩地砖</TileLimestone.label>-->
-  <!--[Core] <TileLimestone.description>坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。</TileLimestone.description>-->
-  <!--[Core] <TileSlate.label>板岩地砖</TileSlate.label>-->
-  <!--[Core] <TileSlate.description>坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。</TileSlate.description>-->
-  <!--[Core] <TileMarble.label>大理石地砖</TileMarble.label>-->
-  <!--[Core] <TileMarble.description>坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。</TileMarble.description>-->
+  <!-- Rough Slate -->
+
+  <RoughSlateFloor.label>Rough Slate</RoughSlateFloor.label>
+  <RoughSlateFloor.description>Slate eroded by the elements. 
+Beauty: -1.</RoughSlateFloor.description>
+
+
+  <!-- Rough Marble -->
+
+  <RoughMarbleFloor.label>Rough Marble</RoughMarbleFloor.label>
+  <RoughMarbleFloor.description>Marble eroded by the elements. 
+Beauty: -1.</RoughMarbleFloor.description>
+
+
+  <!-- Rough Ceramics -->
+
+  <RoughCeramicsFloor.label>Rough Ceramics</RoughCeramicsFloor.label>
+  <RoughCeramicsFloor.description>Ceramics eroded by the elements. 
+Beauty: -1.</RoughCeramicsFloor.description>
+
 
 </LanguageData>

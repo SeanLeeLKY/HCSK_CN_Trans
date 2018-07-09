@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Refueling -->
+
+  <RefuelBurner.label>添加燃料</RefuelBurner.label>
+  <RefuelBurner.verb>添加燃料</RefuelBurner.verb>
+  <RefuelBurner.gerund>添加燃料于</RefuelBurner.gerund>
+
+
+  <!-- Hauling -->
+
+  <DoBillsCremate.label>do cremation bills</DoBillsCremate.label>
+  <DoBillsCremate.verb>cremate</DoBillsCremate.verb>
+  <DoBillsCremate.gerund>cremating at</DoBillsCremate.gerund>
+
+  <UF_WorkGiver_TakeProductOutOfUniversalFermenter.label>取出产品</UF_WorkGiver_TakeProductOutOfUniversalFermenter.label>
+  <UF_WorkGiver_TakeProductOutOfUniversalFermenter.verb>取出产品</UF_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
+  <UF_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>取出产品于</UF_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+
+  <UF_WorkGiver_FillUniversalFermenter.label>填装发酵桶</UF_WorkGiver_FillUniversalFermenter.label>
+  <UF_WorkGiver_FillUniversalFermenter.verb>填装</UF_WorkGiver_FillUniversalFermenter.verb>
+  <UF_WorkGiver_FillUniversalFermenter.gerund>填装</UF_WorkGiver_FillUniversalFermenter.gerund>
+
+
+  <!-- Hauling: Deliver resources -->
+
+  <HaulDeliverResourcesToFrames.label>递送资源到框架 (搬运工)</HaulDeliverResourcesToFrames.label>
+  <HaulDeliverResourcesToFrames.verb>递送资源到</HaulDeliverResourcesToFrames.verb>
+  <HaulDeliverResourcesToFrames.gerund>递送资源到</HaulDeliverResourcesToFrames.gerund>
+
+  <HaulDeliverResourcesToBlueprints.label>递送资源到蓝图 (搬运工)</HaulDeliverResourcesToBlueprints.label>
+  <HaulDeliverResourcesToBlueprints.verb>递送资源到</HaulDeliverResourcesToBlueprints.verb>
+  <HaulDeliverResourcesToBlueprints.gerund>递送资源到</HaulDeliverResourcesToBlueprints.gerund>
+
+
+  <!-- Hauling: Haul priority -->
+
+  <HaulPriorityHighPriorityOverride.label>高搬运优先级</HaulPriorityHighPriorityOverride.label>
+  <HaulPriorityHighPriorityOverride.verb>搬运</HaulPriorityHighPriorityOverride.verb>
+  <HaulPriorityHighPriorityOverride.gerund>搬运</HaulPriorityHighPriorityOverride.gerund>
+
+  <HaulPriorityMisc.label>搬运优先级</HaulPriorityMisc.label>
+  <HaulPriorityMisc.verb>搬运</HaulPriorityMisc.verb>
+  <HaulPriorityMisc.gerund>搬运</HaulPriorityMisc.gerund>
+
+
+  <!-- Collecting -->
+
+  <CollectSand.label>收集沙子</CollectSand.label>
+  <CollectSand.verb>收集</CollectSand.verb>
+  <CollectSand.gerund>收集</CollectSand.gerund>
+
+  <CollectClay.label>收集软黏土</CollectClay.label>
+  <CollectClay.verb>收集</CollectClay.verb>
+  <CollectClay.gerund>收集</CollectClay.gerund>
+
+  <CollectPeat.label>收集泥炭</CollectPeat.label>
+  <CollectPeat.verb>收集</CollectPeat.verb>
+  <CollectPeat.gerund>收集</CollectPeat.gerund>
+
+  <CollectCrushedstone.label>收集碎石</CollectCrushedstone.label>
+  <CollectCrushedstone.verb>收集</CollectCrushedstone.verb>
+  <CollectCrushedstone.gerund>收集</CollectCrushedstone.gerund>
+
+
+  <!-- Firefighter -->
+
+  <FightFires.label>fight fires</FightFires.label>
+  <FightFires.verb>extinguish</FightFires.verb>
+  <FightFires.gerund>extinguishing</FightFires.gerund>
+
+
+  <!-- Cooking -->
+
+  <CookRefuel.label>添加炉灶燃料</CookRefuel.label>
+  <CookRefuel.verb>添加燃料</CookRefuel.verb>
+  <CookRefuel.gerund>添加燃料于</CookRefuel.gerund>
+
+  <DoBillsButcherFlesh.label>butcher creatures</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.verb>butcher</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.gerund>butchering at</DoBillsButcherFlesh.gerund>
+
+  <DoBillsKitchenTable.label>prepare meals</DoBillsKitchenTable.label>
+  <DoBillsKitchenTable.verb>prepare</DoBillsKitchenTable.verb>
+  <DoBillsKitchenTable.gerund>preparing</DoBillsKitchenTable.gerund>
+
+  <DoBillsCook.label>cook meals</DoBillsCook.label>
+  <DoBillsCook.verb>cook</DoBillsCook.verb>
+  <DoBillsCook.gerund>cooking at</DoBillsCook.gerund>
+
+  <DoBillsCookCampfire.label>cook meals at campfire</DoBillsCookCampfire.label>
+  <DoBillsCookCampfire.verb>cook</DoBillsCookCampfire.verb>
+  <DoBillsCookCampfire.gerund>cooking at</DoBillsCookCampfire.gerund>
+
+  <DoBillsBake.label>糖果桌工作</DoBillsBake.label>
+  <DoBillsBake.verb>制糖</DoBillsBake.verb>
+  <DoBillsBake.gerund>制糖于</DoBillsBake.gerund>
+
+  <DoBillsGrindStone.label>研磨工作</DoBillsGrindStone.label>
+  <DoBillsGrindStone.verb>研磨</DoBillsGrindStone.verb>
+  <DoBillsGrindStone.gerund>研磨</DoBillsGrindStone.gerund>
+
+
+  <!-- Smithing -->
+
+  <DoBillsMakeWeapons.label>smithing</DoBillsMakeWeapons.label>
+  <DoBillsMakeWeapons.verb>smith</DoBillsMakeWeapons.verb>
+  <DoBillsMakeWeapons.gerund>smithing at</DoBillsMakeWeapons.gerund>
+
+  <DoBillsBrew.label>brew liquors</DoBillsBrew.label>
+  <DoBillsBrew.verb>brew</DoBillsBrew.verb>
+  <DoBillsBrew.gerund>brewing at</DoBillsBrew.gerund>
+
+  <DoBillsComponentAssemblyBench.label>do assembling craft</DoBillsComponentAssemblyBench.label>
+  <DoBillsComponentAssemblyBench.verb>produce components</DoBillsComponentAssemblyBench.verb>
+  <DoBillsComponentAssemblyBench.gerund>producing components at</DoBillsComponentAssemblyBench.gerund>
+
+
+  <!-- Crafting - apparel -->
+
+  <DoBillsMakeApparel.label>tailor apparel</DoBillsMakeApparel.label>
+  <DoBillsMakeApparel.verb>tailor</DoBillsMakeApparel.verb>
+  <DoBillsMakeApparel.gerund>tailoring at</DoBillsMakeApparel.gerund>
+
+
+  <!-- Crafting - Misc -->
+
+  <DoBillsMakeWoodPlanks.label>锯木工作</DoBillsMakeWoodPlanks.label>
+  <DoBillsMakeWoodPlanks.verb>锯木</DoBillsMakeWoodPlanks.verb>
+  <DoBillsMakeWoodPlanks.gerund>锯木于</DoBillsMakeWoodPlanks.gerund>
+
+  <DoBillsKiln.label>窑炉工作</DoBillsKiln.label>
+  <DoBillsKiln.verb>工作</DoBillsKiln.verb>
+  <DoBillsKiln.gerund>工作于</DoBillsKiln.gerund>
+
+  <DoBillsSmeltMetal_Hand.label>熔炼金属</DoBillsSmeltMetal_Hand.label>
+  <DoBillsSmeltMetal_Hand.verb>熔炼金属</DoBillsSmeltMetal_Hand.verb>
+  <DoBillsSmeltMetal_Hand.gerund>熔炼金属于</DoBillsSmeltMetal_Hand.gerund>
+
+  <DoBillsTableElectronics.label>制作电子元件</DoBillsTableElectronics.label>
+  <DoBillsTableElectronics.verb>制作电子元件</DoBillsTableElectronics.verb>
+  <DoBillsTableElectronics.gerund>制作电子元件于</DoBillsTableElectronics.gerund>
+
+  <DoBillsTableLoom.label>纺织机工作</DoBillsTableLoom.label>
+  <DoBillsTableLoom.verb>纺织</DoBillsTableLoom.verb>
+  <DoBillsTableLoom.gerund>纺织于</DoBillsTableLoom.gerund>
+
+  <DoBillsStonecut.label>cut stone</DoBillsStonecut.label>
+  <DoBillsStonecut.verb>stonecut</DoBillsStonecut.verb>
+  <DoBillsStonecut.gerund>stonecutting at</DoBillsStonecut.gerund>
+
+  <DoBillsUseCraftingSpot.label>do bills at neolitic craft</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
+
+  <DoBillsMatterfab.label>物质装配</DoBillsMatterfab.label>
+  <DoBillsMatterfab.verb>装配</DoBillsMatterfab.verb>
+  <DoBillsMatterfab.gerund>装配于</DoBillsMatterfab.gerund>
+
+  <DoBillsTableSurrogates.label>假肢制作</DoBillsTableSurrogates.label>
+  <DoBillsTableSurrogates.verb>制作</DoBillsTableSurrogates.verb>
+  <DoBillsTableSurrogates.gerund>制作于</DoBillsTableSurrogates.gerund>
+
+  <DoBillsMixconcrete.label>混凝土搅拌</DoBillsMixconcrete.label>
+  <DoBillsMixconcrete.verb>搅拌</DoBillsMixconcrete.verb>
+  <DoBillsMixconcrete.gerund>搅拌于</DoBillsMixconcrete.gerund>
+
+  <DoBillsTableChemlab.label>化学工作</DoBillsTableChemlab.label>
+  <DoBillsTableChemlab.verb>制作</DoBillsTableChemlab.verb>
+  <DoBillsTableChemlab.gerund>制作于</DoBillsTableChemlab.gerund>
+
+  <DoBillOilRefinery.label>石化工作</DoBillOilRefinery.label>
+  <DoBillOilRefinery.verb>工作</DoBillOilRefinery.verb>
+  <DoBillOilRefinery.gerund>工作于</DoBillOilRefinery.gerund>
+
+  <DoBillsMakeGlass.label>玻璃工作</DoBillsMakeGlass.label>
+  <DoBillsMakeGlass.verb>制作玻璃于</DoBillsMakeGlass.verb>
+  <DoBillsMakeGlass.gerund>制作玻璃于</DoBillsMakeGlass.gerund>
+
+  <DoBillsWeaponCraftingWorkTable.label>武器制作</DoBillsWeaponCraftingWorkTable.label>
+  <DoBillsWeaponCraftingWorkTable.verb>制作武器</DoBillsWeaponCraftingWorkTable.verb>
+  <DoBillsWeaponCraftingWorkTable.gerund>制作武器于</DoBillsWeaponCraftingWorkTable.gerund>
+
+  <DoBillsConvert.label>物质转化工作</DoBillsConvert.label>
+  <DoBillsConvert.verb>使用</DoBillsConvert.verb>
+  <DoBillsConvert.gerund>转化物质于</DoBillsConvert.gerund>
+
+
+  <!-- Crafting: Mending -->
+
+  <DoBillsMending.label>维修工作</DoBillsMending.label>
+  <DoBillsMending.verb>维修</DoBillsMending.verb>
+  <DoBillsMending.gerund>维修于</DoBillsMending.gerund>
+
+  <DoBillsRecycling.label>回收</DoBillsRecycling.label>
+  <DoBillsRecycling.verb>回收</DoBillsRecycling.verb>
+  <DoBillsRecycling.gerund>回收于</DoBillsRecycling.gerund>
+
+
+  <!-- Doctor -->
+
+  <DoBillsMedical.label>do medical craft</DoBillsMedical.label>
+  <DoBillsMedical.verb>extract</DoBillsMedical.verb>
+  <DoBillsMedical.gerund>extracting</DoBillsMedical.gerund>
+
+
+  <!-- Art -->
+
+  <DoBillsMakePainting.label>画作</DoBillsMakePainting.label>
+  <DoBillsMakePainting.verb>绘画</DoBillsMakePainting.verb>
+  <DoBillsMakePainting.gerund>绘画于</DoBillsMakePainting.gerund>
+
+
+  <!-- Mine -->
+
+  <QRY_MineQuarry.label>采石场工作</QRY_MineQuarry.label>
+  <QRY_MineQuarry.verb>采掘</QRY_MineQuarry.verb>
+  <QRY_MineQuarry.gerund>采掘于</QRY_MineQuarry.gerund>
+
+  <DoBillsUseSaltMine.label>挖盐工作</DoBillsUseSaltMine.label>
+  <DoBillsUseSaltMine.verb>挖掘</DoBillsUseSaltMine.verb>
+  <DoBillsUseSaltMine.gerund>挖掘于</DoBillsUseSaltMine.gerund>
+
+
+  <!-- Research -->
+
+  <StudyMechanoidTerraformer.label>研究机械族转化器</StudyMechanoidTerraformer.label>
+  <StudyMechanoidTerraformer.verb>研究奇特人造物</StudyMechanoidTerraformer.verb>
+  <StudyMechanoidTerraformer.gerund>研究奇特人造物</StudyMechanoidTerraformer.gerund>
+
+
+  <!--[Core] <DoBillsCremate.label>火化尸体或衣物</DoBillsCremate.label>-->
+  <!--[Core] <DoBillsCremate.verb>火化</DoBillsCremate.verb>-->
+  <!--[Core] <DoBillsCremate.gerund>火化</DoBillsCremate.gerund>-->
+  <!--[Core] <FightFires.label>扑灭火焰</FightFires.label>-->
+  <!--[Core] <FightFires.verb>灭火</FightFires.verb>-->
+  <!--[Core] <FightFires.gerund>灭火</FightFires.gerund>-->
+  <!--[Core] <DoBillsButcherFlesh.label>屠宰尸体</DoBillsButcherFlesh.label>-->
+  <!--[Core] <DoBillsButcherFlesh.verb>屠宰</DoBillsButcherFlesh.verb>-->
+  <!--[Core] <DoBillsButcherFlesh.gerund>屠宰于</DoBillsButcherFlesh.gerund>-->
+  <!--[Core] <DoBillsCook.label>在炉灶烹饪食物</DoBillsCook.label>-->
+  <!--[Core] <DoBillsCook.verb>烹饪</DoBillsCook.verb>-->
+  <!--[Core] <DoBillsCook.gerund>烹饪于</DoBillsCook.gerund>-->
+  <!--[Core] <DoBillsCookCampfire.label>在篝火烹饪食物</DoBillsCookCampfire.label>-->
+  <!--[Core] <DoBillsCookCampfire.verb>烹饪</DoBillsCookCampfire.verb>-->
+  <!--[Core] <DoBillsCookCampfire.gerund>烹饪于</DoBillsCookCampfire.gerund>-->
+  <!--[Core] <DoBillsMakeWeapons.label>锻造武器</DoBillsMakeWeapons.label>-->
+  <!--[Core] <DoBillsMakeWeapons.verb>锻造</DoBillsMakeWeapons.verb>-->
+  <!--[Core] <DoBillsMakeWeapons.gerund>锻造于</DoBillsMakeWeapons.gerund>-->
+  <!--[Core] <DoBillsBrew.label>在酿造台酿酒</DoBillsBrew.label>-->
+  <!--[Core] <DoBillsBrew.verb>酿造</DoBillsBrew.verb>-->
+  <!--[Core] <DoBillsBrew.gerund>酿造于</DoBillsBrew.gerund>-->
+  <!--[Core] <DoBillsComponentAssemblyBench.label>装配零部件</DoBillsComponentAssemblyBench.label>-->
+  <!--[Core] <DoBillsComponentAssemblyBench.verb>加工</DoBillsComponentAssemblyBench.verb>-->
+  <!--[Core] <DoBillsComponentAssemblyBench.gerund>加工于</DoBillsComponentAssemblyBench.gerund>-->
+  <!--[Core] <DoBillsMakeApparel.label>缝制衣物</DoBillsMakeApparel.label>-->
+  <!--[Core] <DoBillsMakeApparel.verb>缝制</DoBillsMakeApparel.verb>-->
+  <!--[Core] <DoBillsMakeApparel.gerund>缝制于</DoBillsMakeApparel.gerund>-->
+  <!--[Core] <DoBillsStonecut.label>切割石砖</DoBillsStonecut.label>-->
+  <!--[Core] <DoBillsStonecut.verb>切割石砖</DoBillsStonecut.verb>-->
+  <!--[Core] <DoBillsStonecut.gerund>切割石砖于</DoBillsStonecut.gerund>-->
+  <!--[Core] <DoBillsUseCraftingSpot.label>完成手工加工点的清单</DoBillsUseCraftingSpot.label>-->
+  <!--[Core] <DoBillsUseCraftingSpot.verb>制作</DoBillsUseCraftingSpot.verb>-->
+  <!--[Core] <DoBillsUseCraftingSpot.gerund>制作于</DoBillsUseCraftingSpot.gerund>-->
+  <!--<DoBillsCremate.label>do cremation bills</DoBillsCremate.label>-->
+  <!--<DoBillsCremate.verb>cremate</DoBillsCremate.verb>-->
+  <!--<DoBillsCremate.gerund>cremating at</DoBillsCremate.gerund>-->
+  <!--<FightFires.label>fight fires</FightFires.label>-->
+  <!--<FightFires.verb>extinguish</FightFires.verb>-->
+  <!--<FightFires.gerund>extinguishing</FightFires.gerund>-->
+  <!--<DoBillsButcherFlesh.label>butcher creatures</DoBillsButcherFlesh.label>-->
+  <!--<DoBillsButcherFlesh.verb>butcher</DoBillsButcherFlesh.verb>-->
+  <!--<DoBillsButcherFlesh.gerund>butchering at</DoBillsButcherFlesh.gerund>-->
+  <!--<DoBillsCook.label>cook meals</DoBillsCook.label>-->
+  <!--<DoBillsCook.verb>cook</DoBillsCook.verb>-->
+  <!--<DoBillsCook.gerund>cooking at</DoBillsCook.gerund>-->
+  <!--<DoBillsCookCampfire.label>cook meals at campfire</DoBillsCookCampfire.label>-->
+  <!--<DoBillsCookCampfire.verb>cook</DoBillsCookCampfire.verb>-->
+  <!--<DoBillsCookCampfire.gerund>cooking at</DoBillsCookCampfire.gerund>-->
+  <!--<DoBillsMakeWeapons.label>smithing</DoBillsMakeWeapons.label>-->
+  <!--<DoBillsMakeWeapons.verb>smith</DoBillsMakeWeapons.verb>-->
+  <!--<DoBillsMakeWeapons.gerund>smithing at</DoBillsMakeWeapons.gerund>-->
+  <!--<DoBillsBrew.label>brew liquors</DoBillsBrew.label>-->
+  <!--<DoBillsBrew.verb>brew</DoBillsBrew.verb>-->
+  <!--<DoBillsBrew.gerund>brewing at</DoBillsBrew.gerund>-->
+  <!--<DoBillsComponentAssemblyBench.label>do assembling craft</DoBillsComponentAssemblyBench.label>-->
+  <!--<DoBillsComponentAssemblyBench.verb>produce components</DoBillsComponentAssemblyBench.verb>-->
+  <!--<DoBillsComponentAssemblyBench.gerund>producing components at</DoBillsComponentAssemblyBench.gerund>-->
+  <!--<DoBillsMakeApparel.label>tailor apparel</DoBillsMakeApparel.label>-->
+  <!--<DoBillsMakeApparel.verb>tailor</DoBillsMakeApparel.verb>-->
+  <!--<DoBillsMakeApparel.gerund>tailoring at</DoBillsMakeApparel.gerund>-->
+  <!--<DoBillsStonecut.label>cut stone</DoBillsStonecut.label>-->
+  <!--<DoBillsStonecut.verb>stonecut</DoBillsStonecut.verb>-->
+  <!--<DoBillsStonecut.gerund>stonecutting at</DoBillsStonecut.gerund>-->
+  <!--<DoBillsUseCraftingSpot.label>do bills at neolitic craft</DoBillsUseCraftingSpot.label>-->
+  <!--<DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>-->
+  <!--<DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>-->
+  <!--<DoBillsTableGrill.label>烤炉烹饪工作</DoBillsTableGrill.label>-->
+  <!--<DoBillsTableGrill.verb>烹饪</DoBillsTableGrill.verb>-->
+  <!--<DoBillsTableGrill.gerund>烹饪于</DoBillsTableGrill.gerund>-->
+  <!--<DoBillsTableOrganvat.label>器官实验室工作</DoBillsTableOrganvat.label>-->
+  <!--<DoBillsTableOrganvat.verb>提取</DoBillsTableOrganvat.verb>-->
+  <!--<DoBillsTableOrganvat.gerund>提取于</DoBillsTableOrganvat.gerund>-->
+  <!--<DoBillsRobassem.label>机器人组装</DoBillsRobassem.label>-->
+  <!--<DoBillsRobassem.verb>组装</DoBillsRobassem.verb>-->
+  <!--<DoBillsRobassem.gerund>组装于</DoBillsRobassem.gerund>-->
+  <!-- <WorkGiverDef>
+    <defName>DoBillsElectronicsFactory</defName>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Crafting</workType>
+    <fixedBillGiverDefs>ElectronicsFactory</fixedBillGiverDefs>
+    <verb>craft</verb>
+    <gerund>crafting</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef> -->
+  <!--<DoBillsSoylent.label>营养物质工作</DoBillsSoylent.label>-->
+  <!--<DoBillsSoylent.verb>制造</DoBillsSoylent.verb>-->
+  <!--<DoBillsSoylent.gerund>制造于</DoBillsSoylent.gerund>-->
+  <!--<DoBillsMediTable.label>医药工作</DoBillsMediTable.label>-->
+  <!--<DoBillsMediTable.verb>制作</DoBillsMediTable.verb>-->
+  <!--<DoBillsMediTable.gerund>制作于</DoBillsMediTable.gerund>-->
+  <!--<DoBillsCookPro.label>专业烤炉工作</DoBillsCookPro.label>-->
+  <!--<DoBillsCookPro.verb>烹饪</DoBillsCookPro.verb>-->
+  <!--<DoBillsCookPro.gerund>烹饪于</DoBillsCookPro.gerund>-->
+  <!--<DoBillsCanningstove.label>罐装工作</DoBillsCanningstove.label>-->
+  <!--<DoBillsCanningstove.verb>罐装</DoBillsCanningstove.verb>-->
+  <!--<DoBillsCanningstove.gerund>罐装于</DoBillsCanningstove.gerund>-->
+  <!--<DoBillsTableOven.label>烤箱工作</DoBillsTableOven.label>-->
+  <!--<DoBillsTableOven.verb>烹饪</DoBillsTableOven.verb>-->
+  <!--<DoBillsTableOven.gerund>烹饪于</DoBillsTableOven.gerund>-->
+  <!--<DoBillsCoffee.label>制作咖啡</DoBillsCoffee.label>-->
+  <!--<DoBillsCoffee.verb>制作</DoBillsCoffee.verb>-->
+  <!--<DoBillsCoffee.gerund>制作于</DoBillsCoffee.gerund>-->
+  <!--<DoBillsBioRefinery.label>生物质精炼工作</DoBillsBioRefinery.label>-->
+  <!--<DoBillsBioRefinery.verb>提取</DoBillsBioRefinery.verb>-->
+  <!--<DoBillsBioRefinery.gerund>提取于</DoBillsBioRefinery.gerund>-->
+  <!--[Core] <DoBillsStonecut.label>切割岩石</DoBillsStonecut.label>-->
+  <!--[Core] <DoBillsStonecut.verb>切石</DoBillsStonecut.verb>-->
+  <!--[Core] <DoBillsStonecut.gerund>切石于</DoBillsStonecut.gerund>-->
+
+</LanguageData>

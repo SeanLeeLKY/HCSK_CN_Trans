@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Structure -->
+
+  <SubCategory_Bridges.label>桥梁</SubCategory_Bridges.label>
+  <SubCategory_Bridges.description>Water crossing bridges.</SubCategory_Bridges.description>
+
+
+  <!-- Power -->
+
+  <SubCategory_PowerConduit.label>电线</SubCategory_PowerConduit.label>
+  <SubCategory_PowerConduit.description>A set of electrical cables for moving power around.</SubCategory_PowerConduit.description>
+
+  <SubCategory_Switchers.label>开关</SubCategory_Switchers.label>
+  <SubCategory_Switchers.description>Switches power on/off.</SubCategory_Switchers.description>
+
+  <SubCategory_Battery.label>电池</SubCategory_Battery.label>
+  <SubCategory_Battery.description>Stores electricity when there is excess power and yields it when there is not.</SubCategory_Battery.description>
+
+  <SubCategory_RenewablePower.label>可再生能源</SubCategory_RenewablePower.label>
+  <SubCategory_RenewablePower.description>Use power from renewable resourses.</SubCategory_RenewablePower.description>
+
+  <SubCategory_ConvectionalPower.label>转化型能源</SubCategory_ConvectionalPower.label>
+  <SubCategory_ConvectionalPower.description>Use power generation from Convectional resources of this planet.</SubCategory_ConvectionalPower.description>
+
+  <SubCategory_PlasmaPower.label>离子能源</SubCategory_PlasmaPower.label>
+  <SubCategory_PlasmaPower.description>Build eco-friendy plasma power plants.</SubCategory_PlasmaPower.description>
+
+
+  <!-- Furniture -->
+
+  <SubCategory_SpecialBeds.label>特殊床</SubCategory_SpecialBeds.label>
+  <SubCategory_SpecialBeds.description>A simple bed for one pawn.</SubCategory_SpecialBeds.description>
+
+  <SubCategory_StandartBeds.label>标准床</SubCategory_StandartBeds.label>
+  <SubCategory_StandartBeds.description>A simple bed for one pawn.</SubCategory_StandartBeds.description>
+
+  <SubCategory_DoubleBeds.label>双人床</SubCategory_DoubleBeds.label>
+  <SubCategory_DoubleBeds.description>Double-wide bed that fits two people.</SubCategory_DoubleBeds.description>
+
+  <SubCategory_HospitalBeds.label>医用床</SubCategory_HospitalBeds.label>
+  <SubCategory_HospitalBeds.description>A beds specially designed for injured people.</SubCategory_HospitalBeds.description>
+
+  <SubCategory_AdvancedBeds.label>高级床</SubCategory_AdvancedBeds.label>
+  <SubCategory_AdvancedBeds.description>A futuristic beds with high rest effectiveness.</SubCategory_AdvancedBeds.description>
+
+  <SubCategory_AnimalFurniture.label>动物设施</SubCategory_AnimalFurniture.label>
+  <SubCategory_AnimalFurniture.description>Beds and sleeping places for animals.</SubCategory_AnimalFurniture.description>
+
+  <SubCategory_Seats.label>座椅</SubCategory_Seats.label>
+  <SubCategory_Seats.description>Stools and benches for every taste.</SubCategory_Seats.description>
+
+  <SubCategory_ComfortableSeats.label>舒适的座椅</SubCategory_ComfortableSeats.label>
+  <SubCategory_ComfortableSeats.description>Chairs, sofas, couch for great relaxation.</SubCategory_ComfortableSeats.description>
+
+  <SubCategory_Tables.label>桌子</SubCategory_Tables.label>
+  <SubCategory_Tables.description>Dining tables, side tables and coffee tables.</SubCategory_Tables.description>
+
+  <SubCategory_SpTables.label>特殊桌子</SubCategory_SpTables.label>
+  <SubCategory_SpTables.description>Specific tables.</SubCategory_SpTables.description>
+
+  <SubCategory_ClothLockers.label>衣柜</SubCategory_ClothLockers.label>
+  <SubCategory_ClothLockers.description>A locker that can store a set clothing for easy outfit swapping.</SubCategory_ClothLockers.description>
+
+  <SubCategory_Books.label>书柜</SubCategory_Books.label>
+  <SubCategory_Books.description>Furniture for the placement and use books.</SubCategory_Books.description>
+
+
+  <!-- Accessories -->
+
+  <SubCategory_PlantPots.label>花盆</SubCategory_PlantPots.label>
+  <SubCategory_PlantPots.description>A plant pot can hold decorative flowers to improve the mood of people nearby.</SubCategory_PlantPots.description>
+
+  <SubCategory_Racks.label>简易货架</SubCategory_Racks.label>
+  <SubCategory_Racks.description>An equipment racks to store items, which can be quickly found.</SubCategory_Racks.description>
+
+  <SubCategory_Pallets.label>货架</SubCategory_Pallets.label>
+  <SubCategory_Pallets.description>Use to store various materials..</SubCategory_Pallets.description>
+
+  <SubCategory_Containers.label>货柜</SubCategory_Containers.label>
+  <SubCategory_Containers.description>Use to store various things inside..</SubCategory_Containers.description>
+
+  <SubCategory_FoodContainers.label>食品柜</SubCategory_FoodContainers.label>
+  <SubCategory_FoodContainers.description>Use to store food inside.</SubCategory_FoodContainers.description>
+
+  <SubCategory_ApparelStorage.label>服装柜</SubCategory_ApparelStorage.label>
+  <SubCategory_ApparelStorage.description>Haulers carry apparel here for storage.</SubCategory_ApparelStorage.description>
+
+  <SubCategory_AmmoContainers.label>武器柜</SubCategory_AmmoContainers.label>
+  <SubCategory_AmmoContainers.description>Used to store various ammo, weapons inside.</SubCategory_AmmoContainers.description>
+
+  <SubCategory_Lights.label>灯具</SubCategory_Lights.label>
+  <SubCategory_Lights.description>Fueled lights that need fuel for work.</SubCategory_Lights.description>
+
+  <SubCategory_Lamps.label>电灯</SubCategory_Lamps.label>
+  <SubCategory_Lamps.description>Lamp that lights an area.</SubCategory_Lamps.description>
+
+  <SubCategory_FloorLight.label>地板灯</SubCategory_FloorLight.label>
+  <SubCategory_FloorLight.description>A square floor light integrated into the ground.</SubCategory_FloorLight.description>
+
+
+  <!-- <ArchitectSense.DesignationSubCategoryDef>
+		<defName>SubCategory_LEDLights</defName>
+		<label>LED lights</label>
+		<description>Сonstruction of more efficient and powerful lights.</description>
+		<defNames>
+			<li>RopeLight</li>
+			<li>LEDCentreStrip</li>
+			<li>LEDCornerStrip</li>
+			<li>LEDCornerStripCorner</li>
+			<li>LEDSecurityLamp</li>
+			<li>LEDSpotLight</li>
+		</defNames>
+		<designationCategory>Accessories</designationCategory>
+		<debug>false</debug>
+	</ArchitectSense.DesignationSubCategoryDef> -->
+
+  <SubCategory_QuantumRelay.label>量子中继</SubCategory_QuantumRelay.label>
+  <SubCategory_QuantumRelay.description>A remote extension for a quantum warehouse.</SubCategory_QuantumRelay.description>
+
+  <SubCategory_QuantumStockpile.label>量子存储</SubCategory_QuantumStockpile.label>
+  <SubCategory_QuantumStockpile.description>An advanced storage solution, when placed under a stockpile zone will attempt to pile up adjacent items on top of itself.</SubCategory_QuantumStockpile.description>
+
+  <SubCategory_QuantumWarehouse.label>量子仓库</SubCategory_QuantumWarehouse.label>
+  <SubCategory_QuantumWarehouse.description>A supplement to quantum stockpiles, when placed under a stockpile zone will network all quantum stockpiles in the zone to minimize amount of incomplete item stacks and distribute stacks across all quantum stockpile cells..</SubCategory_QuantumWarehouse.description>
+
+
+  <!-- Production -->
+
+  <SubCategory_ButcherTable.label>屠宰</SubCategory_ButcherTable.label>
+  <SubCategory_ButcherTable.description>A table for butchering dead creatures into pieces of raw meat.</SubCategory_ButcherTable.description>
+
+  <SubCategory_Stove.label>食物处理</SubCategory_Stove.label>
+  <SubCategory_Stove.description>Stuff for preparing foods.</SubCategory_Stove.description>
+
+  <SubCategory_CookingStuff.label>高级烹饪</SubCategory_CookingStuff.label>
+  <SubCategory_CookingStuff.description>Various stuff for prepare candy, canning, coffee, tobacco etc.</SubCategory_CookingStuff.description>
+
+  <SubCategory_SpecialFoods.label>特殊食物</SubCategory_SpecialFoods.label>
+  <SubCategory_SpecialFoods.description>Some special foods.</SubCategory_SpecialFoods.description>
+
+  <SubCategory_Brewery.label>酿造</SubCategory_Brewery.label>
+  <SubCategory_Brewery.description>A work station with all the equipment needed to brew alcogol drinks.</SubCategory_Brewery.description>
+
+  <SubCategory_DryingRack.label>drying racks</SubCategory_DryingRack.label>
+  <SubCategory_DryingRack.description>Drying rack used for drying meat or leaves.</SubCategory_DryingRack.description>
+
+  <SubCategory_Fishing.label>渔业</SubCategory_Fishing.label>
+  <SubCategory_Fishing.description>Fish industry buildings.</SubCategory_Fishing.description>
+
+  <SubCategory_AssemblyBench.label>装配台</SubCategory_AssemblyBench.label>
+  <SubCategory_AssemblyBench.description>A table for the assembling of components, wires, mechanisms and advanced mechanisms.</SubCategory_AssemblyBench.description>
+
+  <SubCategory_Sawmills.label>锯木厂</SubCategory_Sawmills.label>
+  <SubCategory_Sawmills.description>Workbench with saw for cutting logs into planks and kindling..</SubCategory_Sawmills.description>
+
+  <SubCategory_Furnaces.label>熔炼</SubCategory_Furnaces.label>
+  <SubCategory_Furnaces.description>Previously furnace used for smelting.</SubCategory_Furnaces.description>
+
+  <SubCategory_Machining.label>粗加工</SubCategory_Machining.label>
+  <SubCategory_Machining.description>Worktable primarily used with the rocks, stone chunks, rubble or sand.</SubCategory_Machining.description>
+
+  <SubCategory_Smithy.label>锻造</SubCategory_Smithy.label>
+  <SubCategory_Smithy.description>Used to craft various weapons, apparel and devices.</SubCategory_Smithy.description>
+
+  <SubCategory_Mining.label>矿物采掘</SubCategory_Mining.label>
+  <SubCategory_Mining.description>Accessories for mineral product mining.</SubCategory_Mining.description>
+
+  <SubCategory_Sewing.label>纺织缝纫</SubCategory_Sewing.label>
+  <SubCategory_Sewing.description>Worktables for crafting various apparel stuff.</SubCategory_Sewing.description>
+
+  <SubCategory_ConcreteMixers.label>混凝土</SubCategory_ConcreteMixers.label>
+  <SubCategory_ConcreteMixers.description>Concrete is mixed from rubble and sand.</SubCategory_ConcreteMixers.description>
+
+  <SubCategory_CraftWeapons.label>武器制造</SubCategory_CraftWeapons.label>
+  <SubCategory_CraftWeapons.description>A workbenches with crafting weapons and ammo.</SubCategory_CraftWeapons.description>
+
+  <SubCategory_Medicine.label>医药</SubCategory_Medicine.label>
+  <SubCategory_Medicine.description>Tables that is used to craft various medicine and other devices.</SubCategory_Medicine.description>
+
+  <SubCategory_Prosthetics.label>假肢</SubCategory_Prosthetics.label>
+  <SubCategory_Prosthetics.description>A workbench equipped for production of various prosthetics.</SubCategory_Prosthetics.description>
+
+  <SubCategory_Composters.label>堆肥</SubCategory_Composters.label>
+  <SubCategory_Composters.description>Special compost devices.</SubCategory_Composters.description>
+
+  <SubCategory_Conversion.label>转化</SubCategory_Conversion.label>
+  <SubCategory_Conversion.description>Special building for converting.</SubCategory_Conversion.description>
+
+  <SubCategory_Hydroponics.label>水栽培</SubCategory_Hydroponics.label>
+  <SubCategory_Hydroponics.description>A hydroponic basin can grow plants quickly.</SubCategory_Hydroponics.description>
+
+  <SubCategory_Hightech.label>化工</SubCategory_Hightech.label>
+  <SubCategory_Hightech.description>To build petrochemical plant and gas centrifuge.</SubCategory_Hightech.description>
+
+  <SubCategory_FuturisticDevices.label>未来设备</SubCategory_FuturisticDevices.label>
+  <SubCategory_FuturisticDevices.description>To build matter fab or hadron collider.</SubCategory_FuturisticDevices.description>
+
+
+  <!-- Joy -->
+
+  <SubCategory_TableGames.label>桌游</SubCategory_TableGames.label>
+  <SubCategory_TableGames.description>A table specially made for playing games.</SubCategory_TableGames.description>
+
+  <SubCategory_TV.label>电视</SubCategory_TV.label>
+  <SubCategory_TV.description>Colonist needs to watch old movies.</SubCategory_TV.description>
+
+
+  <!-- Security -->
+
+  <SubCategory_Fortifications.label>防御工事</SubCategory_Fortifications.label>
+  <SubCategory_Fortifications.description>Manned medieval siege weapons.</SubCategory_Fortifications.description>
+
+  <SubCategory_Traps.label>陷阱</SubCategory_Traps.label>
+  <SubCategory_Traps.description>Special traps for defend.</SubCategory_Traps.description>
+
+  <SubCategory_MedievalTurrets.label>中世纪武器</SubCategory_MedievalTurrets.label>
+  <SubCategory_MedievalTurrets.description>Manned medieval siege weapons.</SubCategory_MedievalTurrets.description>
+
+  <SubCategory_Machineguns.label>机关枪</SubCategory_Machineguns.label>
+  <SubCategory_Machineguns.description>Various types of mounted machineguns.</SubCategory_Machineguns.description>
+
+  <SubCategory_ACannons.label>机炮</SubCategory_ACannons.label>
+  <SubCategory_ACannons.description>Various types of automatic cannon weapons.</SubCategory_ACannons.description>
+
+  <SubCategory_Cannons.label>重型火炮</SubCategory_Cannons.label>
+  <SubCategory_Cannons.description>Various types of cannon weapons.</SubCategory_Cannons.description>
+
+  <SubCategory_Mortars.label>迫击炮</SubCategory_Mortars.label>
+  <SubCategory_Mortars.description>Various types of grenade launchers.</SubCategory_Mortars.description>
+
+  <SubCategory_RocketLaunchers.label>火箭发射器</SubCategory_RocketLaunchers.label>
+  <SubCategory_RocketLaunchers.description>A huge power missile systems.</SubCategory_RocketLaunchers.description>
+
+  <SubCategory_SentryTurrets.label>自动炮塔</SubCategory_SentryTurrets.label>
+  <SubCategory_SentryTurrets.description>An AI-controlled turret that automatically fires at nearby enemies.</SubCategory_SentryTurrets.description>
+
+
+  <!-- Misc -->
+
+  <SubCategory_Spots.label>地点</SubCategory_Spots.label>
+  <SubCategory_Spots.description>Designates a various spots.</SubCategory_Spots.description>
+
+  <SubCategory_Graves.label>坟墓</SubCategory_Graves.label>
+  <SubCategory_Graves.description>Place the deceased in graves to give them a decent final resting place.</SubCategory_Graves.description>
+
+  <SubCategory_ResearchBenches.label>研究台</SubCategory_ResearchBenches.label>
+  <SubCategory_ResearchBenches.description>Researchers work here to discover new things.</SubCategory_ResearchBenches.description>
+
+  <SubCategory_Trade.label>贸易设施</SubCategory_Trade.label>
+  <SubCategory_Trade.description>Facilities used for trade and communication.</SubCategory_Trade.description>
+
+  <SubCategory_Facilities.label>特殊设施</SubCategory_Facilities.label>
+  <SubCategory_Facilities.description>A special buildings that can be linked to another buildings to increase its effectiveness.</SubCategory_Facilities.description>
+
+  <SubCategory_Transportation.label>交通运输</SubCategory_Transportation.label>
+  <SubCategory_Transportation.description>Arrange transportation between colonies.</SubCategory_Transportation.description>
+
+  <SubCategory_MFacilities.label>医疗设施</SubCategory_MFacilities.label>
+  <SubCategory_MFacilities.description>A special buildings that can be linked to another buildings to increase its effectiveness.</SubCategory_MFacilities.description>
+
+  <SubCategory_TrainingFacilities.label>训练设施</SubCategory_TrainingFacilities.label>
+  <SubCategory_TrainingFacilities.description>A special buildings that can be linked to another buildings to increase its effectiveness.</SubCategory_TrainingFacilities.description>
+
+  <SubCategory_Computers.label>计算机</SubCategory_Computers.label>
+  <SubCategory_Computers.description></SubCategory_Computers.description>
+
+  <SubCategory_ManagerDesks.label>管理工作</SubCategory_ManagerDesks.label>
+  <SubCategory_ManagerDesks.description>A special building required to allow a manager to do his work.</SubCategory_ManagerDesks.description>
+
+  <SubCategory_NanoDevices.label>纳米设备</SubCategory_NanoDevices.label>
+  <SubCategory_NanoDevices.description>A special buildings for storage and copying.</SubCategory_NanoDevices.description>
+
+  <SubCategory_Robots.label>机器人</SubCategory_Robots.label>
+  <SubCategory_Robots.description>This stations with a specialized robot.</SubCategory_Robots.description>
+
+
+  <!-- Temperature -->
+
+  <SubCategory_Vents.label>通风口</SubCategory_Vents.label>
+  <SubCategory_Vents.description>Vent used for equalizing the temperature between two rooms </SubCategory_Vents.description>
+
+  <SubCategory_Heaters.label>加热器</SubCategory_Heaters.label>
+  <SubCategory_Heaters.description>An electrical devices that converts electricity into heat.</SubCategory_Heaters.description>
+
+  <SubCategory_Coolers.label>冷却器</SubCategory_Coolers.label>
+  <SubCategory_Coolers.description>An electrical device that fits into a wall and pushes cold air into a room.</SubCategory_Coolers.description>
+
+  <SubCategory_DuckPipes.label>管道</SubCategory_DuckPipes.label>
+  <SubCategory_DuckPipes.description>A pipe for moving air around.</SubCategory_DuckPipes.description>
+
+  <SubCategory_DuckComponents.label>管道组件</SubCategory_DuckComponents.label>
+  <SubCategory_DuckComponents.description>A duct building that pushes air to network.</SubCategory_DuckComponents.description>
+
+
+  <!-- Rugs -->
+
+  <SubCategory_AncientRugs.label>古代风格</SubCategory_AncientRugs.label>
+  <SubCategory_AncientRugs.description>An ancient rugs to make home warmer.</SubCategory_AncientRugs.description>
+
+  <SubCategory_DoorMats.label>门垫</SubCategory_DoorMats.label>
+  <SubCategory_DoorMats.description>A doormat to clean your feet.</SubCategory_DoorMats.description>
+
+  <SubCategory_SquareRugs.label>方块地毯</SubCategory_SquareRugs.label>
+  <SubCategory_SquareRugs.description>A small square area rug.</SubCategory_SquareRugs.description>
+
+  <SubCategory_RoundRugs.label>圆形地毯</SubCategory_RoundRugs.label>
+  <SubCategory_RoundRugs.description>A round area rug.</SubCategory_RoundRugs.description>
+
+  <SubCategory_RectangleRugs.label>矩形地毯</SubCategory_RectangleRugs.label>
+  <SubCategory_RectangleRugs.description>A rectangular area rug.</SubCategory_RectangleRugs.description>
+
+  <SubCategory_RunnerRugs.label>椭圆地毯</SubCategory_RunnerRugs.label>
+  <SubCategory_RunnerRugs.description>A thin hallway rug.</SubCategory_RunnerRugs.description>
+
+  <SubCategory_ModernRugs.label>现代地毯</SubCategory_ModernRugs.label>
+  <SubCategory_ModernRugs.description>A modern mats gives the room a modern style.</SubCategory_ModernRugs.description>
+
+
+  <!-- SK_category_terraform -->
+
+  <SubCategory_Terraforming.label>地形改造</SubCategory_Terraforming.label>
+  <SubCategory_Terraforming.description>Special devices for terraforming territory.</SubCategory_Terraforming.description>
+
+
+  <!-- Floors -->
+
+  <SubCategory_ConcreteSurface.label>混凝土风格</SubCategory_ConcreteSurface.label>
+  <SubCategory_ConcreteSurface.description>Concrete based surface tiles.</SubCategory_ConcreteSurface.description>
+
+  <SubCategory_MetalTiles.label>金属风格</SubCategory_MetalTiles.label>
+  <SubCategory_MetalTiles.description>Metal square tiles, for that spaceship look.</SubCategory_MetalTiles.description>
+
+  <SubCategory_PlateMetalTiles.label>金属板风格</SubCategory_PlateMetalTiles.label>
+  <SubCategory_PlateMetalTiles.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean.</SubCategory_PlateMetalTiles.description>
+
+  <SubCategory_PreciousMetalTiles.label>贵金属</SubCategory_PreciousMetalTiles.label>
+  <SubCategory_PreciousMetalTiles.description>Expensive and slow to build precious metal tiles.</SubCategory_PreciousMetalTiles.description>
+
+  <SubCategory_SmallBrickTile.label>小块砖</SubCategory_SmallBrickTile.label>
+  <SubCategory_SmallBrickTile.description>Smaller bricks laid in an interlocking pattern. Takes slightly longer to make than the regular variety.</SubCategory_SmallBrickTile.description>
+
+  <SubCategory_MediumBrickTile.label>中型砖</SubCategory_MediumBrickTile.label>
+  <SubCategory_MediumBrickTile.description>Bricks laid in an interlocking pattern.</SubCategory_MediumBrickTile.description>
+
+  <SubCategory_MediterraneanBricks.label>地中海风格</SubCategory_MediterraneanBricks.label>
+  <SubCategory_MediterraneanBricks.description>Bricks laid in a circular interlocking pattern.</SubCategory_MediterraneanBricks.description>
+
+  <SubCategory_UnevenBricks.label>不规则砖块</SubCategory_UnevenBricks.label>
+  <SubCategory_UnevenBricks.description>Bricks of various sizes laid on the floor. Perfect for that rustic look.</SubCategory_UnevenBricks.description>
+
+  <SubCategory_HerringboneBricks.label>人字形砖</SubCategory_HerringboneBricks.label>
+  <SubCategory_HerringboneBricks.description>Bricks laid in an interlocking pattern.</SubCategory_HerringboneBricks.description>
+
+  <SubCategory_PrimitiveWoodFloors.label>原始地板</SubCategory_PrimitiveWoodFloors.label>
+  <SubCategory_PrimitiveWoodFloors.description>Primitive wood, bamboo, hay floors.</SubCategory_PrimitiveWoodFloors.description>
+
+  <SubCategory_WoodFloors.label>木地板</SubCategory_WoodFloors.label>
+  <SubCategory_WoodFloors.description>Wood panels.</SubCategory_WoodFloors.description>
+
+  <SubCategory_SoftCarpet.label>软质地毯</SubCategory_SoftCarpet.label>
+  <SubCategory_SoftCarpet.description>Stunning carpet that is soft and relaxing.</SubCategory_SoftCarpet.description>
+
+  <SubCategory_SoftCarpetAdditional.label>柔软地毯</SubCategory_SoftCarpetAdditional.label>
+  <SubCategory_SoftCarpetAdditional.description>Stunning carpet that is soft and relaxing.</SubCategory_SoftCarpetAdditional.description>
+
+  <SubCategory_CheckeredCarpet.label>花纹地毯</SubCategory_CheckeredCarpet.label>
+  <SubCategory_CheckeredCarpet.description>Checker board pattern carpets.</SubCategory_CheckeredCarpet.description>
+
+  <SubCategory_VanillaFloor.label>石头地板</SubCategory_VanillaFloor.label>
+  <SubCategory_VanillaFloor.description>Solid stone tiles for a castle feeling.</SubCategory_VanillaFloor.description>
+
+  <SubCategory_RoughStone.label>狂野风格石板</SubCategory_RoughStone.label>
+  <SubCategory_RoughStone.description>Stone paving with random square and rectangular slabs.</SubCategory_RoughStone.description>
+
+  <SubCategory_StoneSlabs.label>石板</SubCategory_StoneSlabs.label>
+  <SubCategory_StoneSlabs.description>Stone flooring made with square slabs.</SubCategory_StoneSlabs.description>
+
+  <SubCategory_StoneHexPaving.label>石路风格</SubCategory_StoneHexPaving.label>
+  <SubCategory_StoneHexPaving.description>Stone paving with hexagonal tiles.</SubCategory_StoneHexPaving.description>
+
+  <SubCategory_StoneMosaicPaving.label>石质马赛克风格</SubCategory_StoneMosaicPaving.label>
+  <SubCategory_StoneMosaicPaving.description>Stone paving with a light/dark mosaic.</SubCategory_StoneMosaicPaving.description>
+
+  <SubCategory_StoneRoughPaving.label>粗石路风格</SubCategory_StoneRoughPaving.label>
+  <SubCategory_StoneRoughPaving.description>Rough stone paving.</SubCategory_StoneRoughPaving.description>
+
+  <SubCategory_StoneRandomPaving.label>自然石面风格</SubCategory_StoneRandomPaving.label>
+  <SubCategory_StoneRandomPaving.description>Stone paving with random square and rectangular slabs.</SubCategory_StoneRandomPaving.description>
+
+  <SubCategory_CobbleFloor.label>鹅卵石风格</SubCategory_CobbleFloor.label>
+  <SubCategory_CobbleFloor.description>Simple cobblestone flooring constructed only using small rocks found nearby.</SubCategory_CobbleFloor.description>
+
+  <SubCategory_PolishStoneTile.label>波兰石板风格</SubCategory_PolishStoneTile.label>
+  <SubCategory_PolishStoneTile.description>Smoothed and polished stone tiles. Time-consuming to make, but easy to keep clean.</SubCategory_PolishStoneTile.description>
+
+
+  <!-- Terraform -->
+
+  <SubCategory_FarmingTiles.label>农业瓷砖？</SubCategory_FarmingTiles.label>
+  <SubCategory_FarmingTiles.description>Terraforming tiles for farming.</SubCategory_FarmingTiles.description>
+
+  <SubCategory_TerraformGather.label>搜集资源</SubCategory_TerraformGather.label>
+  <SubCategory_TerraformGather.description>Gather resoucse by terraforming.</SubCategory_TerraformGather.description>
+
+  <SubCategory_Terraform.label>改造地形</SubCategory_Terraform.label>
+  <SubCategory_Terraform.description>Terraform the tile into another type by useing various resources.</SubCategory_Terraform.description>
+
+
+  <!--<SubCategory_Barrels.label>酿酒桶</SubCategory_Barrels.label>-->
+  <!--<SubCategory_Barrels.description>A barrel of fermenting alcohol.</SubCategory_Barrels.description>-->
+
+</LanguageData>

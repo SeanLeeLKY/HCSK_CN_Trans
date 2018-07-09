@@ -3,27 +3,35 @@
 
   <!-- Plant matter (inedible by people) -->
 
-   
-  <Silage.label>青贮饲料</Silage.label>
+  <Kibble.label>Kibble</Kibble.label>
+  <Kibble.description>Kibble animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.</Kibble.description>
+
+  <Pemmican.label>Pemmican</Pemmican.label>
+  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</Pemmican.description>
+
+  <Hay.label>Hay</Hay.label>
+  <Hay.description>Hay is nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is for good animal feed, but is inedible for humans.</Hay.description>
+
+  <Silage.label>Silage</Silage.label>
   <Silage.description>Silage is nutrient-rich fermented hay and raw food product suitable for animal feed. The fermentation process preserves the silage and prevents it from rotting.</Silage.description>
 
-  
-  <NeutroPetals.label>中性花瓣</NeutroPetals.label>
+  <RawHops.label>Hops</RawHops.label>
+  <RawHops.description>Hops are flowers and seed cones of a Hops Plant. They are necessary as a flavoring and preserving agent for brewing Wort.</RawHops.description>
+
+  <PsychoidLeaves.label>psychoid leaves</PsychoidLeaves.label>
+  <PsychoidLeaves.description>Raw cut leaves of a psychoid plant.</PsychoidLeaves.description>
+
+  <SmokeleafLeaves.label>smokeleaf leaves</SmokeleafLeaves.label>
+  <SmokeleafLeaves.description>Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joint at a crafting spot.</SmokeleafLeaves.description>
+
+  <NeutroPetals.label>Neutro Flower Petals</NeutroPetals.label>
   <NeutroPetals.description>Beautiful Yellow-Orange Petals from the Neutro Flower. Used to make Neutroamine, a medicine base.</NeutroPetals.description>
 
-  <HerbalMedicaKit.label>草药包</HerbalMedicaKit.label>
-  <HerbalMedicaKit.description>A small pack of mixed herbs. It is less potent than industrial pharmaceuticals.</HerbalMedicaKit.description>
-
-  <aloe.label>芦荟叶</aloe.label>
+  <aloe.label>Aloe Leaves</aloe.label>
   <aloe.description>A bundle of Aloe Leaves from an Aloe Plant. Aloe Leaves are used as a type of natural medicine.</aloe.description>
 
-  <RawCaoutchouc.label>天然橡胶</RawCaoutchouc.label>
+  <RawCaoutchouc.label>Caoutchouc</RawCaoutchouc.label>
   <RawCaoutchouc.description>Caoutchouc is a natural rubber sap collected from a Hevea Tree. It can be vulcanized to create useful rubber materials.</RawCaoutchouc.description>
 
-
-  <!--[Core] <Hay.label>干草</Hay.label>-->
-  <!--[Core] <Hay.description>营养丰富的草和幼芽，收获并压缩储存起来。干草是很好的饲料，但对于人类来说难以下咽。</Hay.description>-->
-  <!--[Core] <RawHops.label>啤酒花</RawHops.label>-->
-  <!--[Core] <RawHops.description>生的啤酒花。是酿制啤酒时必需的调味剂和保鲜剂。</RawHops.description>-->
 
 </LanguageData>

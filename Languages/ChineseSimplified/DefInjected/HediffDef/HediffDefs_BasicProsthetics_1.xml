@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <SteelArm.label>Heavy Arm</SteelArm.label>
+  <SteelArm.comps.0.tools.0.label>fist</SteelArm.comps.0.tools.0.label>
+
+  <EyePatch.label>Eye Patch</EyePatch.label>
+
+  <HookHand.label>Hook Hand</HookHand.label>
+  <HookHand.comps.0.tools.0.label>fist</HookHand.comps.0.tools.0.label>
+
+  <denture.label>Denture</denture.label>
+  <PegLeg.label>Peg Leg</PegLeg.label>
+  <WoodenFoot.label>Wooden Foot</WoodenFoot.label>
+
+  <PowerClaw.label>power claw</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>claw</PowerClaw.comps.0.tools.0.label>
+
+  <ScytherBlade.label>scyther blade</ScytherBlade.label>
+  <ScytherBlade.comps.0.tools.0.label>blade</ScytherBlade.comps.0.tools.0.label>
+  <ScytherBlade.comps.0.tools.1.label>point</ScytherBlade.comps.0.tools.1.label>
+
+  <EarBandage.label>ear bandage</EarBandage.label>
+
+
+  <!--[Core] <PegLeg.label>木腿</PegLeg.label>-->
+  <!--[Core] <PowerClaw.label>动力爪</PowerClaw.label>-->
+  <!--[Core] <PowerClaw.comps.0.tools.0.label>爪</PowerClaw.comps.0.tools.0.label>-->
+  <!--[Core] <ScytherBlade.label>飞螳镰刃</ScytherBlade.label>-->
+  <!--[Core] <ScytherBlade.comps.0.tools.0.label>刀刃</ScytherBlade.comps.0.tools.0.label>-->
+  <!--[Core] <ScytherBlade.comps.0.tools.1.label>尖头</ScytherBlade.comps.0.tools.1.label>-->
+
+</LanguageData>

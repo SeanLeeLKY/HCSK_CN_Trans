@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Generic -->
+
+  <Orassan_Crafter.title>军工专家</Orassan_Crafter.title>
+  <Orassan_Crafter.titleShort>军工专家</Orassan_Crafter.titleShort>
+  <Orassan_Crafter.baseDescription>NAME has become an accomplished weaponsmith. HECAP has dedicated HIS life to crafting weapons of war.
+</Orassan_Crafter.baseDescription>
+
+  <Orassan_Scientist.title>科学家</Orassan_Scientist.title>
+  <Orassan_Scientist.titleShort>科学家</Orassan_Scientist.titleShort>
+  <Orassan_Scientist.baseDescription>NAME is a researcher for the Orassan Empire. HECAP has dedicated HIS life to discovering the unknown.
+</Orassan_Scientist.baseDescription>
+
+  <Orassan_XenoZoo.title>动物管理员</Orassan_XenoZoo.title>
+  <Orassan_XenoZoo.titleShort>动物管理员</Orassan_XenoZoo.titleShort>
+  <Orassan_XenoZoo.baseDescription>NAME works at one of the many Xeno Zoos in the Orassan Empire and is very fond of animals.
+</Orassan_XenoZoo.baseDescription>
+
+  <Orassan_Colinizer.title>殖民者</Orassan_Colinizer.title>
+  <Orassan_Colinizer.titleShort>殖民者</Orassan_Colinizer.titleShort>
+  <Orassan_Colinizer.baseDescription>NAME is part of the effort to expand the Orassan Empire.
+</Orassan_Colinizer.baseDescription>
+
+  <Orassan_Doctor.title>医生</Orassan_Doctor.title>
+  <Orassan_Doctor.titleShort>医生</Orassan_Doctor.titleShort>
+  <Orassan_Doctor.baseDescription>NAME has dedicated HIS life to healing others.</Orassan_Doctor.baseDescription>
+
+  <Orassan_Soldier.title>士兵</Orassan_Soldier.title>
+  <Orassan_Soldier.titleShort>士兵</Orassan_Soldier.titleShort>
+  <Orassan_Soldier.baseDescription>NAME is a soldier for the Orassan Empire.
+</Orassan_Soldier.baseDescription>
+
+  <Orassan_Ambassador.title>大使</Orassan_Ambassador.title>
+  <Orassan_Ambassador.titleShort>大使</Orassan_Ambassador.titleShort>
+  <Orassan_Ambassador.baseDescription>NAME serves as an ambassador between the Orassan Empire and Xenos.
+</Orassan_Ambassador.baseDescription>
+
+  <Orassan_Officer.title>官员</Orassan_Officer.title>
+  <Orassan_Officer.titleShort>官员</Orassan_Officer.titleShort>
+  <Orassan_Officer.baseDescription>NAME leads squads of soldiers in combat.
+</Orassan_Officer.baseDescription>
+
+  <Orassan_Nurse.title>护士</Orassan_Nurse.title>
+  <Orassan_Nurse.titleShort>护士</Orassan_Nurse.titleShort>
+  <Orassan_Nurse.baseDescription>NAME assists doctors in tending to various patients.
+</Orassan_Nurse.baseDescription>
+
+  <Orassan_NavyCook.title>海军厨师</Orassan_NavyCook.title>
+  <Orassan_NavyCook.titleShort>海军厨师</Orassan_NavyCook.titleShort>
+  <Orassan_NavyCook.baseDescription>NAME serves as a chef in the Orassan navy.
+</Orassan_NavyCook.baseDescription>
+
+  <Orassan_Shellshocked.title>幸存者</Orassan_Shellshocked.title>
+  <Orassan_Shellshocked.titleShort>幸存者</Orassan_Shellshocked.titleShort>
+  <Orassan_Shellshocked.baseDescription>NAME served in the Orassan army. After serving on an invasion force against a rival army, HECAP was the only survivor in their squad in a failed invasion attempt. HECAP has refused to attack others from then on.
+</Orassan_Shellshocked.baseDescription>
+
+  <Orassan_Hydro.title>水培工人</Orassan_Hydro.title>
+  <Orassan_Hydro.titleShort>水培工人</Orassan_Hydro.titleShort>
+  <Orassan_Hydro.baseDescription>NAME worked in a giant hydroponics facility on one of the planets in the Orassan Empire to feed its many citizens. HECAP was an expert in growing food and maintaining the machinery that kept the facility operational.
+</Orassan_Hydro.baseDescription>
+
+
+  <!-- Melee -->
+
+  <Orassan_Slasher.title>前线士兵</Orassan_Slasher.title>
+  <Orassan_Slasher.titleShort>前线士兵</Orassan_Slasher.titleShort>
+  <Orassan_Slasher.baseDescription>NAME serves as a frontline soldier, typically in close quarters combat.</Orassan_Slasher.baseDescription>
+
+  <Orassan_GeneWarrior.title>基因战士</Orassan_GeneWarrior.title>
+  <Orassan_GeneWarrior.titleShort>勇士</Orassan_GeneWarrior.titleShort>
+  <Orassan_GeneWarrior.baseDescription>NAME is a genetically engineered supersoldier.</Orassan_GeneWarrior.baseDescription>
+
+
+  <!-- Childhood -->
+
+  <Orassan_CapitalChild.title>奥瑞森小孩</Orassan_CapitalChild.title>
+  <Orassan_CapitalChild.titleShort>奥瑞森</Orassan_CapitalChild.titleShort>
+  <Orassan_CapitalChild.baseDescription>NAME was born on the capital planet of Orassia. HECAP was born to a wealthy family that lived in a mountain side estate.</Orassan_CapitalChild.baseDescription>
+
+  <Orassan_GeneChild.title>基因调制婴儿</Orassan_GeneChild.title>
+  <Orassan_GeneChild.titleShort>Db</Orassan_GeneChild.titleShort>
+  <Orassan_GeneChild.baseDescription>NAME was genetically engineered to be a perfect child.</Orassan_GeneChild.baseDescription>
+
+  <Orassan_SpacerChild.title>宇航员</Orassan_SpacerChild.title>
+  <Orassan_SpacerChild.titleShort>宇航员</Orassan_SpacerChild.titleShort>
+  <Orassan_SpacerChild.baseDescription>NAME was born on a space ship and spent most of their childhood on one ship or another. The close quarters meant that HE had to be friendly with HIS neighbors and had to know how to maintain the ship HE was on.</Orassan_SpacerChild.baseDescription>
+
+  <Orassan_ColonyChild.title>殖民地小孩</Orassan_ColonyChild.title>
+  <Orassan_ColonyChild.titleShort>殖民者</Orassan_ColonyChild.titleShort>
+  <Orassan_ColonyChild.baseDescription>NAME was born in a fledgling colony. HECAP had to help establish the colony.</Orassan_ColonyChild.baseDescription>
+
+
+</LanguageData>

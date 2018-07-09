@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Temperate -->
+
+  <Deer.label>鹿</Deer.label>
+  <Deer.description>A deer is a medium-sized herding herbivore. It is generally peaceful unless disturbed.</Deer.description>
+  <Deer.tools.0.label>left hoof</Deer.tools.0.label>
+  <Deer.tools.1.label>left hoof</Deer.tools.1.label>
+  <Deer.tools.2.label>right hoof</Deer.tools.2.label>
+  <Deer.tools.3.label>right hoof</Deer.tools.3.label>
+  <Deer.tools.5.label>head</Deer.tools.5.label>
+  <Deer.tools.6.label>antlers</Deer.tools.6.label>
+
+  <Ibex.label>野山羊</Ibex.label>
+  <Ibex.description>The hardy wild ancestor of the domesticated goat. Ibexes live on marginal territory that most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dexterously hopping across bare cliff faces - and for their violent ramming attack.</Ibex.description>
+  <Ibex.tools.0.label>left hoof</Ibex.tools.0.label>
+  <Ibex.tools.1.label>left hoof</Ibex.tools.1.label>
+  <Ibex.tools.2.label>right hoof</Ibex.tools.2.label>
+  <Ibex.tools.3.label>right hoof</Ibex.tools.3.label>
+  <Ibex.tools.5.label>head</Ibex.tools.5.label>
+  <Ibex.tools.6.label>antlers</Ibex.tools.6.label>
+
+  <Elk.label>驼鹿</Elk.label>
+  <Elk.description>A moose or elk is a larger member of the deer family. It is well-adapted to life in cold climates.</Elk.description>
+  <Elk.tools.0.label>left hoof</Elk.tools.0.label>
+  <Elk.tools.1.label>left hoof</Elk.tools.1.label>
+  <Elk.tools.2.label>right hoof</Elk.tools.2.label>
+  <Elk.tools.3.label>right hoof</Elk.tools.3.label>
+  <Elk.tools.5.label>head</Elk.tools.5.label>
+  <Elk.tools.6.label>antlers</Elk.tools.6.label>
+
+  <Caribou.label>驯鹿</Caribou.label>
+  <Caribou.description>A large member of the deer family, well-adapted to life in cold climates.</Caribou.description>
+  <Caribou.tools.0.label>left hoof</Caribou.tools.0.label>
+  <Caribou.tools.1.label>left hoof</Caribou.tools.1.label>
+  <Caribou.tools.2.label>right hoof</Caribou.tools.2.label>
+  <Caribou.tools.3.label>right hoof</Caribou.tools.3.label>
+  <Caribou.tools.5.label>head</Caribou.tools.5.label>
+  <Caribou.tools.6.label>antlers</Caribou.tools.6.label>
+
+  <WildBoar.label>野猪</WildBoar.label>
+  <WildBoar.description>Although considered impure by some cultures, this hairy ancestor of the domesticated pig is prized for the gamey flavor of its meat.</WildBoar.description>
+  <WildBoar.tools.0.label>tusk</WildBoar.tools.0.label>
+  <WildBoar.tools.1.label>tusk</WildBoar.tools.1.label>
+  <WildBoar.tools.3.label>head</WildBoar.tools.3.label>
+
+  <Tortoise.label>乌龟</Tortoise.label>
+  <Tortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite.</Tortoise.description>
+  <Tortoise.tools.1.label>head</Tortoise.tools.1.label>
+
+
+</LanguageData>

@@ -3,25 +3,25 @@
 
   <!-- Ammo -->
 
-  <Ammo_50BMG_FMJ.label>.50 BMG 子弹 (FMJ)</Ammo_50BMG_FMJ.label>
+  <Ammo_50BMG_FMJ.label>.50 BMG cartridge (FMJ)</Ammo_50BMG_FMJ.label>
   <Ammo_50BMG_FMJ.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_50BMG_FMJ.description>
 
-  <Ammo_50BMG_Sabot.label>.50 BMG 子弹 (Sabot)</Ammo_50BMG_Sabot.label>
+  <Ammo_50BMG_Sabot.label>.50 BMG cartridge (Sabot)</Ammo_50BMG_Sabot.label>
   <Ammo_50BMG_Sabot.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_50BMG_Sabot.description>
 
-  <Ammo_50BMG_HE.label>.50 BMG 子弹 (HE)</Ammo_50BMG_HE.label>
+  <Ammo_50BMG_HE.label>.50 BMG cartridge (HE)</Ammo_50BMG_HE.label>
   <Ammo_50BMG_HE.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_50BMG_HE.description>
 
-  <Ammo_50BMG_Incendiary.label>.50 BMG 子弹 (AP-I)</Ammo_50BMG_Incendiary.label>
+  <Ammo_50BMG_Incendiary.label>.50 BMG cartridge (AP-I)</Ammo_50BMG_Incendiary.label>
   <Ammo_50BMG_Incendiary.description>Large caliber bullet used by many heavy machine guns and anti-materiel rifles.</Ammo_50BMG_Incendiary.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_50BMG_FMJ.label>.50 BMG 子弹 (FMJ)</Bullet_50BMG_FMJ.label>
-  <Bullet_50BMG_Sabot.label>.50 BMG 子弹 (Sabot)</Bullet_50BMG_Sabot.label>
-  <Bullet_50BMG_HE.label>.50 BMG 子弹 (HE)</Bullet_50BMG_HE.label>
-  <Bullet_50BMG_Incendiary.label>.50 BMG 子弹 (AP-I)</Bullet_50BMG_Incendiary.label>
+  <Bullet_50BMG_FMJ.label>.50 BMG bullet (FMJ)</Bullet_50BMG_FMJ.label>
+  <Bullet_50BMG_Sabot.label>.50 BMG bullet (Sabot)</Bullet_50BMG_Sabot.label>
+  <Bullet_50BMG_HE.label>.50 BMG bullet (HE)</Bullet_50BMG_HE.label>
+  <Bullet_50BMG_Incendiary.label>.50 BMG bullet (AP-I)</Bullet_50BMG_Incendiary.label>
 
 
 </LanguageData>

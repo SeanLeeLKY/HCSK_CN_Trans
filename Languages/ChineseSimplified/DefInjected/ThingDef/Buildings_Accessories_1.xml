@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TuskPot.label>弯牙盆</TuskPot.label>
+  <TuskPot.description>Designed by the honorable Shinzhor of Shinzaram, this lovely horn offers a charming alternative to plant your flowers in.</TuskPot.description>
+  <TuskPot_Blueprint.label>tusk pot (蓝图)</TuskPot_Blueprint.label>
+  <TuskPot_Blueprint_Install.label>tusk pot (蓝图)</TuskPot_Blueprint_Install.label>
+  <TuskPot_Frame.label>tusk pot (建造中)</TuskPot_Frame.label>
+  <TuskPot_Frame.description>Designed by the honorable Shinzhor of Shinzaram, this lovely horn offers a charming alternative to plant your flowers in.</TuskPot_Frame.description>
+
+  <PlantPot.label>plant pot</PlantPot.label>
+  <PlantPot.description>A plant pot that can hold decorative flowers to improve the mood of people nearby.</PlantPot.description>
+  <PlantPot_Blueprint.label>plant pot (blueprint)</PlantPot_Blueprint.label>
+  <PlantPot_Blueprint_Install.label>plant pot (blueprint)</PlantPot_Blueprint_Install.label>
+  <PlantPot_Frame.label>plant pot (building)</PlantPot_Frame.label>
+  <PlantPot_Frame.description>A plant pot that can hold decorative flowers to improve the mood of people nearby.</PlantPot_Frame.description>
+
+  <LongPlantPot.label>长植物盆</LongPlantPot.label>
+  <LongPlantPot.description>A plant pot that can hold decorative flowers to improve the mood of people nearby.</LongPlantPot.description>
+  <LongPlantPot_Blueprint.label>long plant pot (蓝图)</LongPlantPot_Blueprint.label>
+  <LongPlantPot_Blueprint_Install.label>long plant pot (蓝图)</LongPlantPot_Blueprint_Install.label>
+  <LongPlantPot_Frame.label>long plant pot (建造中)</LongPlantPot_Frame.label>
+  <LongPlantPot_Frame.description>A plant pot that can hold decorative flowers to improve the mood of people nearby.</LongPlantPot_Frame.description>
+
+  <PentaPlantPot.label>五角盆</PentaPlantPot.label>
+  <PentaPlantPot.description>Roses are red, violets are blue, we love our Penta Pot, and so will you!</PentaPlantPot.description>
+  <PentaPlantPot_Blueprint.label>penta plant pot (蓝图)</PentaPlantPot_Blueprint.label>
+  <PentaPlantPot_Blueprint_Install.label>penta plant pot (蓝图)</PentaPlantPot_Blueprint_Install.label>
+  <PentaPlantPot_Frame.label>penta plant pot (建造中)</PentaPlantPot_Frame.label>
+  <PentaPlantPot_Frame.description>Roses are red, violets are blue, we love our Penta Pot, and so will you!</PentaPlantPot_Frame.description>
+
+
+  <!-- EquipmentRack ==============================
+
+	<ThingDef ParentName="StorageBase">
+		<defName>EquipmentRack</defName>
+		<label>equipment rack</label>
+		<graphicData>
+			<texPath>Things/Building/Furniture/Shelf</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2.8,1.8)</drawSize>
+		</graphicData>
+		<fillPercent>0.4</fillPercent>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Woody</li>
+			<li>Plastic</li>
+			<li>Precious</li>
+		</stuffCategories>
+		<costStuffCount>20</costStuffCount>
+		<costList>
+			<Component>2</Component>
+		</costList>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>1300</WorkToBuild>
+			<Bulk>24</Bulk>
+			<Mass>9</Mass>
+		</statBases>
+		<description>An equipment rack to store weapons and apparel. Prevents deterioration.</description>
+		<size>(2,1)</size>
+		<building>
+			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+			<fixedStorageSettings>
+				<filter>
+					<categories>
+						<li>Weapons</li>
+						<li>Apparel</li>
+					</categories>
+				</filter>
+			</fixedStorageSettings>
+		</building>
+		<researchPrerequisites>
+			<li>SK_StorageI</li>
+		</researchPrerequisites>
+	</ThingDef>
+
+
+	<ThingDef ParentName="StorageBase">
+		<defName>Item_shelf</defName>
+		<label>equipment shelf</label>
+		<thingClass>Building_Storage</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Furniture/SchemRack</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(4,1)</drawSize>
+		</graphicData>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Woody</li>
+			<li>Precious</li>
+			<li>Plastic</li>
+			<li>Glass</li>
+		</stuffCategories>
+		<costStuffCount>90</costStuffCount>
+		<costList>
+			<Component>5</Component>
+		</costList>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>1600</WorkToBuild>
+			<Beauty>13</Beauty>
+			<Bulk>35</Bulk>
+			<Mass>20</Mass>
+		</statBases>
+		<description>Stores items, weapons and apparel. Up to 4 items. Prevents deterioration.</description>
+		<size>(4,1)</size>
+		<building>
+			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+			<fixedStorageSettings>
+				<filter>
+					<categories>
+						<li>Items</li>
+						<li>Weapons</li>
+						<li>Apparel</li>
+					</categories>
+				</filter>
+			</fixedStorageSettings>
+		</building>
+		<surfaceType>Item</surfaceType>
+		<researchPrerequisites>
+			<li>SK_StorageII</li>
+		</researchPrerequisites>
+	</ThingDef> -->
+
+  <Storage_WoodenPalletSmall.label>置物架</Storage_WoodenPalletSmall.label>
+  <Storage_WoodenPalletSmall.description>The pallet will allow various bulk resources, such as metal and wood, to be stacked much denser than the ground would otherwise allow.</Storage_WoodenPalletSmall.description>
+  <Storage_WoodenPalletSmall_Blueprint.label>pallet (蓝图)</Storage_WoodenPalletSmall_Blueprint.label>
+  <Storage_WoodenPalletSmall_Frame.label>pallet (建造中)</Storage_WoodenPalletSmall_Frame.label>
+  <Storage_WoodenPalletSmall_Frame.description>The pallet will allow various bulk resources, such as metal and wood, to be stacked much denser than the ground would otherwise allow.</Storage_WoodenPalletSmall_Frame.description>
+
+  <Storage_SkipBig.label>箕斗</Storage_SkipBig.label>
+  <Storage_SkipBig.description>Skips are heavy-duty, industrial grade storage devices, allowing bulk resources such as metal and wood to be stacked denser, even denser than the pallet.</Storage_SkipBig.description>
+  <Storage_SkipBig_Blueprint.label>skip (蓝图)</Storage_SkipBig_Blueprint.label>
+  <Storage_SkipBig_Frame.label>skip (建造中)</Storage_SkipBig_Frame.label>
+  <Storage_SkipBig_Frame.description>Skips are heavy-duty, industrial grade storage devices, allowing bulk resources such as metal and wood to be stacked denser, even denser than the pallet.</Storage_SkipBig_Frame.description>
+
+  <Pot.label>罐子</Pot.label>
+  <Pot.description>A big pot made of wood, metal or ceramics; used to preserve food. Slows rotting process by 25%. Up to 4 items.</Pot.description>
+  <Pot_Blueprint.label>pot (蓝图)</Pot_Blueprint.label>
+  <Pot_Blueprint_Install.label>pot (蓝图)</Pot_Blueprint_Install.label>
+  <Pot_Frame.label>pot (建造中)</Pot_Frame.label>
+  <Pot_Frame.description>A big pot made of wood, metal or ceramics; used to preserve food. Slows rotting process by 25%. Up to 4 items.</Pot_Frame.description>
+
+  <Basket.label>篮子</Basket.label>
+  <Basket.description>A basket made of leather or textile. Used to store various things inside. Up to 5 items.</Basket.description>
+  <Basket_Blueprint.label>basket (蓝图)</Basket_Blueprint.label>
+  <Basket_Blueprint_Install.label>basket (蓝图)</Basket_Blueprint_Install.label>
+  <Basket_Frame.label>basket (建造中)</Basket_Frame.label>
+  <Basket_Frame.description>A basket made of leather or textile. Used to store various things inside. Up to 5 items.</Basket_Frame.description>
+
+  <Barrel.label>圆桶</Barrel.label>
+  <Barrel.description>A barrel made of wood or metal. Used to store various things inside. Up to 5 items. </Barrel.description>
+  <Barrel_Blueprint.label>barrel (蓝图)</Barrel_Blueprint.label>
+  <Barrel_Blueprint_Install.label>barrel (蓝图)</Barrel_Blueprint_Install.label>
+  <Barrel_Frame.label>barrel (建造中)</Barrel_Frame.label>
+  <Barrel_Frame.description>A barrel made of wood or metal. Used to store various things inside. Up to 5 items. </Barrel_Frame.description>
+
+  <Chest.label>箱子</Chest.label>
+  <Chest.description>A chest made of metal. Used to store various things inside. Up to 5 items. </Chest.description>
+  <Chest_Blueprint.label>chest (蓝图)</Chest_Blueprint.label>
+  <Chest_Blueprint_Install.label>chest (蓝图)</Chest_Blueprint_Install.label>
+  <Chest_Frame.label>chest (建造中)</Chest_Frame.label>
+  <Chest_Frame.description>A chest made of metal. Used to store various things inside. Up to 5 items. </Chest_Frame.description>
+
+  <ClutterShelf.label>架子</ClutterShelf.label>
+  <ClutterShelf.description>This shelf stores textiles, leathers and raw textile ingridients. Up to 6 items.</ClutterShelf.description>
+  <ClutterShelf_Blueprint.label>shelf (蓝图)</ClutterShelf_Blueprint.label>
+  <ClutterShelf_Blueprint_Install.label>shelf (蓝图)</ClutterShelf_Blueprint_Install.label>
+  <ClutterShelf_Frame.label>shelf (建造中)</ClutterShelf_Frame.label>
+  <ClutterShelf_Frame.description>This shelf stores textiles, leathers and raw textile ingridients. Up to 6 items.</ClutterShelf_Frame.description>
+
+
+  <!-- Refrigerated Tray Rack -->
+
+  <RefrigeratedTrayRack.label>冰箱</RefrigeratedTrayRack.label>
+  <RefrigeratedTrayRack.description>Stores food. Up to 5 items. This track rack requires power in order to keep food refrigerated.</RefrigeratedTrayRack.description>
+  <RefrigeratedTrayRack_Blueprint.label>fridge (蓝图)</RefrigeratedTrayRack_Blueprint.label>
+  <RefrigeratedTrayRack_Blueprint_Install.label>fridge (蓝图)</RefrigeratedTrayRack_Blueprint_Install.label>
+  <RefrigeratedTrayRack_Frame.label>fridge (建造中)</RefrigeratedTrayRack_Frame.label>
+  <RefrigeratedTrayRack_Frame.description>Stores food. Up to 5 items. This track rack requires power in order to keep food refrigerated.</RefrigeratedTrayRack_Frame.description>
+
+  <ClutterSmallServingTable.label>服务台</ClutterSmallServingTable.label>
+  <ClutterSmallServingTable.description>A small table that is used for storing all kinds of meals. Up to 5 items. Decrease rotting process.</ClutterSmallServingTable.description>
+  <ClutterSmallServingTable_Blueprint.label>serving table (蓝图)</ClutterSmallServingTable_Blueprint.label>
+  <ClutterSmallServingTable_Blueprint_Install.label>serving table (蓝图)</ClutterSmallServingTable_Blueprint_Install.label>
+  <ClutterSmallServingTable_Frame.label>serving table (建造中)</ClutterSmallServingTable_Frame.label>
+  <ClutterSmallServingTable_Frame.description>A small table that is used for storing all kinds of meals. Up to 5 items. Decrease rotting process.</ClutterSmallServingTable_Frame.description>
+
+  <Storage_MedicineCabinet.label>医药箱</Storage_MedicineCabinet.label>
+  <Storage_MedicineCabinet.description>Stores medicine and raw medical ingridients; prevents deterioration. Up to 5 items. Decrease rotting process.</Storage_MedicineCabinet.description>
+  <Storage_MedicineCabinet_Blueprint.label>medicine cabinet (蓝图)</Storage_MedicineCabinet_Blueprint.label>
+  <Storage_MedicineCabinet_Blueprint_Install.label>medicine cabinet (蓝图)</Storage_MedicineCabinet_Blueprint_Install.label>
+  <Storage_MedicineCabinet_Frame.label>medicine cabinet (建造中)</Storage_MedicineCabinet_Frame.label>
+  <Storage_MedicineCabinet_Frame.description>Stores medicine and raw medical ingridients; prevents deterioration. Up to 5 items. Decrease rotting process.</Storage_MedicineCabinet_Frame.description>
+
+  <Storage_HazMatContainer.label>军用箱</Storage_HazMatContainer.label>
+  <Storage_HazMatContainer.description>Stores weapons, weapon parts, weapon crates, ammo and apparel; prevents deterioration. Up to 7 items.</Storage_HazMatContainer.description>
+  <Storage_HazMatContainer_Blueprint.label>military box (蓝图)</Storage_HazMatContainer_Blueprint.label>
+  <Storage_HazMatContainer_Blueprint_Install.label>military box (蓝图)</Storage_HazMatContainer_Blueprint_Install.label>
+  <Storage_HazMatContainer_Frame.label>military box (建造中)</Storage_HazMatContainer_Frame.label>
+  <Storage_HazMatContainer_Frame.description>Stores weapons, weapon parts, weapon crates, ammo and apparel; prevents deterioration. Up to 7 items.</Storage_HazMatContainer_Frame.description>
+
+  <ClutterLockerA.label>寄物柜</ClutterLockerA.label>
+  <ClutterLockerA.description>Stores weapons, weapon parts, weapon crates, ammo and apparel; prevents deterioration. Up to 6 items.</ClutterLockerA.description>
+  <ClutterLockerA_Blueprint.label>locker (蓝图)</ClutterLockerA_Blueprint.label>
+  <ClutterLockerA_Blueprint_Install.label>locker (蓝图)</ClutterLockerA_Blueprint_Install.label>
+  <ClutterLockerA_Frame.label>locker (建造中)</ClutterLockerA_Frame.label>
+  <ClutterLockerA_Frame.description>Stores weapons, weapon parts, weapon crates, ammo and apparel; prevents deterioration. Up to 6 items.</ClutterLockerA_Frame.description>
+
+
+  <!-- Vanilla Lighting -->
+
+  <StandingLamp.label>standinglLamp (white)</StandingLamp.label>
+  <StandingLamp.description>A standing lamp that lights an area. Requires 150 W.</StandingLamp.description>
+  <StandingLamp_Blueprint.label>standinglLamp (white) (blueprint)</StandingLamp_Blueprint.label>
+  <StandingLamp_Blueprint_Install.label>standinglLamp (white) (blueprint)</StandingLamp_Blueprint_Install.label>
+  <StandingLamp_Frame.label>standinglLamp (white) (building)</StandingLamp_Frame.label>
+  <StandingLamp_Frame.description>A standing lamp that lights an area. Requires 150 W.</StandingLamp_Frame.description>
+
+  <StandingLamp_Red.label>standing lamp (red)</StandingLamp_Red.label>
+  <StandingLamp_Red.description>A standing lamp that lights an area in a red glow. Requires 150 W.</StandingLamp_Red.description>
+  <StandingLamp_Red_Blueprint_Install.label>standing lamp (red) (blueprint)</StandingLamp_Red_Blueprint_Install.label>
+
+  <StandingLamp_Green.label>standing lamp (green)</StandingLamp_Green.label>
+  <StandingLamp_Green.description>A standing lamp that lights an area in a green glow. Requires 150 W.</StandingLamp_Green.description>
+  <StandingLamp_Green_Blueprint_Install.label>standing lamp (green) (blueprint)</StandingLamp_Green_Blueprint_Install.label>
+
+  <StandingLamp_Blue.label>standing lamp (blue)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.description>A standing lamp that lights an area in blue glow. Requires 150 W.</StandingLamp_Blue.description>
+  <StandingLamp_Blue_Blueprint_Install.label>standing lamp (blue) (blueprint)</StandingLamp_Blue_Blueprint_Install.label>
+
+
+  <!-- Lamps -->
+
+  <ClutterFloorLampA.label>地板灯</ClutterFloorLampA.label>
+  <ClutterFloorLampA.description>A simple floor lamp. Requires 80 W.</ClutterFloorLampA.description>
+  <ClutterFloorLampA_Blueprint.label>floor lamp (蓝图)</ClutterFloorLampA_Blueprint.label>
+  <ClutterFloorLampA_Blueprint_Install.label>floor lamp (蓝图)</ClutterFloorLampA_Blueprint_Install.label>
+  <ClutterFloorLampA_Frame.label>floor lamp (建造中)</ClutterFloorLampA_Frame.label>
+  <ClutterFloorLampA_Frame.description>A simple floor lamp. Requires 80 W.</ClutterFloorLampA_Frame.description>
+
+
+  <!-- Ceiling Lights -->
+
+  <CeilingLamp.label>吊灯</CeilingLamp.label>
+  <CeilingLamp.description>A ceiling lamp that lights an area. Must be placed under a roof. Requires 80 W.</CeilingLamp.description>
+  <CeilingLamp_Blueprint.label>ceiling lamp (蓝图)</CeilingLamp_Blueprint.label>
+  <CeilingLamp_Blueprint_Install.label>ceiling lamp (蓝图)</CeilingLamp_Blueprint_Install.label>
+  <CeilingLamp_Frame.label>ceiling lamp (建造中)</CeilingLamp_Frame.label>
+  <CeilingLamp_Frame.description>A ceiling lamp that lights an area. Must be placed under a roof. Requires 80 W.</CeilingLamp_Frame.description>
+
+
+  <!-- WallLights -->
+
+  <TorchLamp.label>torch lamp</TorchLamp.label>
+  <TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. Produces a small amount of heat.</TorchLamp.description>
+  <TorchLamp_Blueprint.label>torch lamp (blueprint)</TorchLamp_Blueprint.label>
+  <TorchLamp_Blueprint_Install.label>torch lamp (blueprint)</TorchLamp_Blueprint_Install.label>
+  <TorchLamp_Frame.label>torch lamp (building)</TorchLamp_Frame.label>
+  <TorchLamp_Frame.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. Produces a small amount of heat.</TorchLamp_Frame.description>
+
+  <BowlLamp.label>碗形灯</BowlLamp.label>
+  <BowlLamp.description>A bright and warm little fire, perfectly contained in a bowl.</BowlLamp.description>
+  <BowlLamp_Blueprint.label>bowl lamp (蓝图)</BowlLamp_Blueprint.label>
+  <BowlLamp_Blueprint_Install.label>bowl lamp (蓝图)</BowlLamp_Blueprint_Install.label>
+  <BowlLamp_Frame.label>bowl lamp (建造中)</BowlLamp_Frame.label>
+  <BowlLamp_Frame.description>A bright and warm little fire, perfectly contained in a bowl.</BowlLamp_Frame.description>
+
+  <WallTorch.label>火把（墙）</WallTorch.label>
+  <WallTorch.description>A wall mounted torch for lighting an area. Can be automatically refueled with wood. Not a good source of heat. Must be placed on a wall.</WallTorch.description>
+  <WallTorch_Blueprint.label>wall torch (蓝图)</WallTorch_Blueprint.label>
+  <WallTorch_Blueprint_Install.label>wall torch (蓝图)</WallTorch_Blueprint_Install.label>
+  <WallTorch_Frame.label>wall torch (建造中)</WallTorch_Frame.label>
+  <WallTorch_Frame.description>A wall mounted torch for lighting an area. Can be automatically refueled with wood. Not a good source of heat. Must be placed on a wall.</WallTorch_Frame.description>
+
+  <Candle.label>蜡烛</Candle.label>
+  <Candle.description></Candle.description>
+  <Candle_Blueprint.label>candle (蓝图)</Candle_Blueprint.label>
+  <Candle_Blueprint_Install.label>candle (蓝图)</Candle_Blueprint_Install.label>
+  <Candle_Frame.label>candle (建造中)</Candle_Frame.label>
+  <Candle_Frame.description></Candle_Frame.description>
+
+  <GlowstoneLamp.label>耀石灯</GlowstoneLamp.label>
+  <GlowstoneLamp.description>A beautiful lamp topped with glowstone, emitting reflected light from dozen of glowstones. Free source of light.</GlowstoneLamp.description>
+  <GlowstoneLamp_Blueprint.label>glowstone lamp (蓝图)</GlowstoneLamp_Blueprint.label>
+  <GlowstoneLamp_Blueprint_Install.label>glowstone lamp (蓝图)</GlowstoneLamp_Blueprint_Install.label>
+  <GlowstoneLamp_Frame.label>glowstone lamp (建造中)</GlowstoneLamp_Frame.label>
+  <GlowstoneLamp_Frame.description>A beautiful lamp topped with glowstone, emitting reflected light from dozen of glowstones. Free source of light.</GlowstoneLamp_Frame.description>
+
+
+  <!-- OutdoorLights -->
+
+  <OutdoorGroundLamp.label>户外地灯</OutdoorGroundLamp.label>
+  <OutdoorGroundLamp.description>A small ground lamp that is powered by the sun. It lights a small area outdoors.</OutdoorGroundLamp.description>
+  <OutdoorGroundLamp_Blueprint.label>outdoor ground lamp (蓝图)</OutdoorGroundLamp_Blueprint.label>
+  <OutdoorGroundLamp_Blueprint_Install.label>outdoor ground lamp (蓝图)</OutdoorGroundLamp_Blueprint_Install.label>
+  <OutdoorGroundLamp_Frame.label>outdoor ground lamp (建造中)</OutdoorGroundLamp_Frame.label>
+  <OutdoorGroundLamp_Frame.description>A small ground lamp that is powered by the sun. It lights a small area outdoors.</OutdoorGroundLamp_Frame.description>
+
+  <Lighting_PathLamp.label>步灯</Lighting_PathLamp.label>
+  <Lighting_PathLamp.description>Small light with built in solar panel that lights an area.</Lighting_PathLamp.description>
+  <Lighting_PathLamp_Blueprint.label>path light (蓝图)</Lighting_PathLamp_Blueprint.label>
+  <Lighting_PathLamp_Blueprint_Install.label>path light (蓝图)</Lighting_PathLamp_Blueprint_Install.label>
+  <Lighting_PathLamp_Frame.label>path light (建造中)</Lighting_PathLamp_Frame.label>
+  <Lighting_PathLamp_Frame.description>Small light with built in solar panel that lights an area.</Lighting_PathLamp_Frame.description>
+
+  <WallLamp.label>壁灯</WallLamp.label>
+  <WallLamp.description>A lamp that must be placed against a supporting wall. Requires 100 W. It has a bigger glow than most lights.</WallLamp.description>
+  <WallLamp_Blueprint.label>wall lamp (蓝图)</WallLamp_Blueprint.label>
+  <WallLamp_Blueprint_Install.label>wall lamp (蓝图)</WallLamp_Blueprint_Install.label>
+  <WallLamp_Frame.label>wall lamp (建造中)</WallLamp_Frame.label>
+  <WallLamp_Frame.description>A lamp that must be placed against a supporting wall. Requires 100 W. It has a bigger glow than most lights.</WallLamp_Frame.description>
+
+  <Lighting_WallLight.label>墙灯</Lighting_WallLight.label>
+  <Lighting_WallLight.description>A small light that must be placed on a supporting wall. Requires 70 W.</Lighting_WallLight.description>
+  <Lighting_WallLight_Blueprint.label>wall light (蓝图)</Lighting_WallLight_Blueprint.label>
+  <Lighting_WallLight_Blueprint_Install.label>wall light (蓝图)</Lighting_WallLight_Blueprint_Install.label>
+  <Lighting_WallLight_Frame.label>wall light (建造中)</Lighting_WallLight_Frame.label>
+  <Lighting_WallLight_Frame.description>A small light that must be placed on a supporting wall. Requires 70 W.</Lighting_WallLight_Frame.description>
+
+
+  <!-- SQUARE FLOOR LIGHTS -->
+
+  <FloorLightSquare.label>方形地灯 (白)</FloorLightSquare.label>
+  <FloorLightSquare.description>A 方形地灯 integrated into the ground with a white lamp. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare.description>
+  <FloorLightSquare_Blueprint.label>方形地灯 (白) (蓝图)</FloorLightSquare_Blueprint.label>
+  <FloorLightSquare_Blueprint_Install.label>方形地灯 (白) (蓝图)</FloorLightSquare_Blueprint_Install.label>
+  <FloorLightSquare_Frame.label>方形地灯 (白) (建造中)</FloorLightSquare_Frame.label>
+  <FloorLightSquare_Frame.description>A 方形地灯 integrated into the ground with a white lamp. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Frame.description>
+
+  <FloorLightSquare_Red.label>方形地灯 (红)</FloorLightSquare_Red.label>
+  <FloorLightSquare_Red.description>A 方形地灯 integraded into the ground with a red lamp. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Red.description>
+  <FloorLightSquare_Red_Blueprint.label>方形地灯 (红) (蓝图)</FloorLightSquare_Red_Blueprint.label>
+  <FloorLightSquare_Red_Blueprint_Install.label>方形地灯 (红) (蓝图)</FloorLightSquare_Red_Blueprint_Install.label>
+  <FloorLightSquare_Red_Frame.label>方形地灯 (红) (建造中)</FloorLightSquare_Red_Frame.label>
+  <FloorLightSquare_Red_Frame.description>A 方形地灯 integraded into the ground with a red lamp. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Red_Frame.description>
+
+  <FloorLightSquare_Green.label>方形地灯 (绿)</FloorLightSquare_Green.label>
+  <FloorLightSquare_Green.description>A 方形地灯 integrated into the ground with a green lamp. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Green.description>
+  <FloorLightSquare_Green_Blueprint.label>方形地灯 (绿) (蓝图)</FloorLightSquare_Green_Blueprint.label>
+  <FloorLightSquare_Green_Blueprint_Install.label>方形地灯 (绿) (蓝图)</FloorLightSquare_Green_Blueprint_Install.label>
+  <FloorLightSquare_Green_Frame.label>方形地灯 (绿) (建造中)</FloorLightSquare_Green_Frame.label>
+  <FloorLightSquare_Green_Frame.description>A 方形地灯 integrated into the ground with a green lamp. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Green_Frame.description>
+
+  <FloorLightSquare_Blue.label>方形地灯 (蓝)</FloorLightSquare_Blue.label>
+  <FloorLightSquare_Blue.description>A 方形地灯 integrated into the ground with a blue lamp. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Blue.description>
+  <FloorLightSquare_Blue_Blueprint.label>方形地灯 (蓝) (蓝图)</FloorLightSquare_Blue_Blueprint.label>
+  <FloorLightSquare_Blue_Blueprint_Install.label>方形地灯 (蓝) (蓝图)</FloorLightSquare_Blue_Blueprint_Install.label>
+  <FloorLightSquare_Blue_Frame.label>方形地灯 (蓝) (建造中)</FloorLightSquare_Blue_Frame.label>
+  <FloorLightSquare_Blue_Frame.description>A 方形地灯 integrated into the ground with a blue lamp. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Blue_Frame.description>
+
+  <FloorAddonA.label>区域标记</FloorAddonA.label>
+  <FloorAddonA.description>Simple slab of steel with some paint on it.</FloorAddonA.description>
+  <FloorAddonA_Blueprint.label>Zone marker (蓝图)</FloorAddonA_Blueprint.label>
+  <FloorAddonA_Blueprint_Install.label>Zone marker (蓝图)</FloorAddonA_Blueprint_Install.label>
+  <FloorAddonA_Frame.label>Zone marker (建造中)</FloorAddonA_Frame.label>
+  <FloorAddonA_Frame.description>Simple slab of steel with some paint on it.</FloorAddonA_Frame.description>
+
+
+  <!--[Core] <PlantPot.label>花盆</PlantPot.label>-->
+  <!--[Core] <PlantPot.description>种植装饰性的花朵来提升附近的人的心情。</PlantPot.description>-->
+  <!--[Core] <PlantPot_Blueprint.label>花盆（蓝图）</PlantPot_Blueprint.label>-->
+  <!--[Core] <PlantPot_Blueprint_Install.label>花盆（蓝图）</PlantPot_Blueprint_Install.label>-->
+  <!--[Core] <PlantPot_Frame.label>花盆（建造中）</PlantPot_Frame.label>-->
+  <!--[Core] <PlantPot_Frame.description>种植装饰性的花朵来提升附近的人的心情。</PlantPot_Frame.description>-->
+  <!--[Core] <StandingLamp.label>落地灯</StandingLamp.label>-->
+  <!--[Core] <StandingLamp.description>将一片区域照亮的落地灯。人需要有光才能慢速行动和工作。</StandingLamp.description>-->
+  <!--[Core] <StandingLamp_Blueprint.label>落地灯（蓝图）</StandingLamp_Blueprint.label>-->
+  <!--[Core] <StandingLamp_Blueprint_Install.label>落地灯（蓝图）</StandingLamp_Blueprint_Install.label>-->
+  <!--[Core] <StandingLamp_Frame.label>落地灯（建造中）</StandingLamp_Frame.label>-->
+  <!--[Core] <StandingLamp_Frame.description>将一片区域照亮的落地灯。人需要有光才能慢速行动和工作。</StandingLamp_Frame.description>-->
+  <!--[Core] <StandingLamp_Red.label>落地灯（红）</StandingLamp_Red.label>-->
+  <!--[Core] <StandingLamp_Red.description>将一片区域照亮成红色的落地灯。</StandingLamp_Red.description>-->
+  <!--[Core] <StandingLamp_Red_Blueprint_Install.label>落地灯（红）（蓝图）</StandingLamp_Red_Blueprint_Install.label>-->
+  <!--[Core] <StandingLamp_Green.label>落地灯（绿）</StandingLamp_Green.label>-->
+  <!--[Core] <StandingLamp_Green.description>将一片区域照亮成绿色的落地灯。</StandingLamp_Green.description>-->
+  <!--[Core] <StandingLamp_Green_Blueprint_Install.label>落地灯（绿）（蓝图）</StandingLamp_Green_Blueprint_Install.label>-->
+  <!--[Core] <StandingLamp_Blue.label>落地灯（蓝）</StandingLamp_Blue.label>-->
+  <!--[Core] <StandingLamp_Blue.description>将一片区域照亮成蓝色的落地灯。</StandingLamp_Blue.description>-->
+  <!--[Core] <StandingLamp_Blue_Blueprint_Install.label>落地灯（蓝）（蓝图）</StandingLamp_Blue_Blueprint_Install.label>-->
+  <!--[Core] <TorchLamp.label>火把</TorchLamp.label>-->
+  <!--[Core] <TorchLamp.description>将一片区域照亮的木制火把。人需要有光才能慢速行动和工作。能自动添加原木作燃料。产生少量的热。</TorchLamp.description>-->
+  <!--[Core] <TorchLamp_Blueprint.label>火把（蓝图）</TorchLamp_Blueprint.label>-->
+  <!--[Core] <TorchLamp_Frame.label>火把（建造中）</TorchLamp_Frame.label>-->
+  <!--[Core] <TorchLamp_Frame.description>将一片区域照亮的木制火把。人需要有光才能慢速行动和工作。能自动添加原木作燃料。产生少量的热。</TorchLamp_Frame.description>-->
+  <!--<PlantPot.label>plant pot</PlantPot.label>-->
+  <!--<PlantPot.description>A plant pot that can hold decorative flowers to improve the mood of people nearby.</PlantPot.description>-->
+  <!--<PlantPot_Blueprint.label>plant pot (blueprint)</PlantPot_Blueprint.label>-->
+  <!--<PlantPot_Blueprint_Install.label>plant pot (blueprint)</PlantPot_Blueprint_Install.label>-->
+  <!--<PlantPot_Frame.label>plant pot (building)</PlantPot_Frame.label>-->
+  <!--<PlantPot_Frame.description>A plant pot that can hold decorative flowers to improve the mood of people nearby.</PlantPot_Frame.description>-->
+  <!--<StandingLamp.label>standinglLamp (white)</StandingLamp.label>-->
+  <!--<StandingLamp.description>A standing lamp that lights an area. Requires 150 W.</StandingLamp.description>-->
+  <!--<StandingLamp_Blueprint.label>standinglLamp (white) (blueprint)</StandingLamp_Blueprint.label>-->
+  <!--<StandingLamp_Blueprint_Install.label>standinglLamp (white) (blueprint)</StandingLamp_Blueprint_Install.label>-->
+  <!--<StandingLamp_Frame.label>standinglLamp (white) (building)</StandingLamp_Frame.label>-->
+  <!--<StandingLamp_Frame.description>A standing lamp that lights an area. Requires 150 W.</StandingLamp_Frame.description>-->
+  <!--<StandingLamp_Red.label>standing lamp (red)</StandingLamp_Red.label>-->
+  <!--<StandingLamp_Red.description>A standing lamp that lights an area in a red glow. Requires 150 W.</StandingLamp_Red.description>-->
+  <!--<StandingLamp_Red_Blueprint_Install.label>standing lamp (red) (blueprint)</StandingLamp_Red_Blueprint_Install.label>-->
+  <!--<StandingLamp_Green.label>standing lamp (green)</StandingLamp_Green.label>-->
+  <!--<StandingLamp_Green.description>A standing lamp that lights an area in a green glow. Requires 150 W.</StandingLamp_Green.description>-->
+  <!--<StandingLamp_Green_Blueprint_Install.label>standing lamp (green) (blueprint)</StandingLamp_Green_Blueprint_Install.label>-->
+  <!--<StandingLamp_Blue.label>standing lamp (blue)</StandingLamp_Blue.label>-->
+  <!--<StandingLamp_Blue.description>A standing lamp that lights an area in blue glow. Requires 150 W.</StandingLamp_Blue.description>-->
+  <!--<StandingLamp_Blue_Blueprint_Install.label>standing lamp (blue) (blueprint)</StandingLamp_Blue_Blueprint_Install.label>-->
+  <!--<TorchLamp.label>torch lamp</TorchLamp.label>-->
+  <!--<TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. Produces a small amount of heat.</TorchLamp.description>-->
+  <!--<TorchLamp_Blueprint.label>torch lamp (blueprint)</TorchLamp_Blueprint.label>-->
+  <!--<TorchLamp_Frame.label>torch lamp (building)</TorchLamp_Frame.label>-->
+  <!--<TorchLamp_Frame.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. Produces a small amount of heat.</TorchLamp_Frame.description>-->
+  <!-- EquipmentRack ==============================
+
+	<ThingDef ParentName="StorageBase">
+		<defName>EquipmentRack</defName>
+		<label>equipment rack</label>
+		<graphicData>
+			<texPath>Things/Building/Furniture/Shelf</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2.8,1.8)</drawSize>
+		</graphicData>
+		<fillPercent>0.4</fillPercent>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Woody</li>
+			<li>Plastic</li>
+			<li>Precious</li>
+		</stuffCategories>
+		<costStuffCount>20</costStuffCount>
+		<CostList>
+			<Component>2</Component>
+		</CostList>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>1300</WorkToBuild>
+			<Bulk>24</Bulk>
+			<Mass>9</Mass>
+		</statBases>
+		<description>An equipment rack to store weapons and apparel. Prevents deterioration.</description>
+		<size>(2,1)</size>
+		<building>
+			<preventDeterioration>true</preventDeterioration>
+			<fixedStorageSettings>
+				<filter>
+					<categories>
+						<li>Weapons</li>
+						<li>Apparel</li>
+					</categories>
+				</filter>
+			</fixedStorageSettings>
+		</building>
+		<researchPrerequisites>
+			<li>SK_StorageI</li>
+		</researchPrerequisites>
+	</ThingDef>
+
+
+	<ThingDef ParentName="StorageBase">
+		<defName>Item_shelf</defName>
+		<label>equipment shelf</label>
+		<thingClass>Building_Storage</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Furniture/SchemRack</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(4,1)</drawSize>
+		</graphicData>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Woody</li>
+			<li>Precious</li>
+			<li>Plastic</li>
+			<li>Glass</li>
+		</stuffCategories>
+		<costStuffCount>90</costStuffCount>
+		<CostList>
+			<Component>5</Component>
+		</CostList>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>1600</WorkToBuild>
+			<Beauty>13</Beauty>
+			<Bulk>35</Bulk>
+			<Mass>20</Mass>
+		</statBases>
+		<description>Stores items, weapons and apparel. Up to 4 items. Prevents deterioration.</description>
+		<size>(4,1)</size>
+		<building>
+			<preventDeterioration>true</preventDeterioration>
+			<fixedStorageSettings>
+				<filter>
+					<categories>
+						<li>Items</li>
+						<li>Weapons</li>
+						<li>Apparel</li>
+					</categories>
+				</filter>
+			</fixedStorageSettings>
+		</building>
+		<surfaceType>Item</surfaceType>
+		<researchPrerequisites>
+			<li>SK_StorageII</li>
+		</researchPrerequisites>
+	</ThingDef> -->
+  <!-- 方形地灯S -->
+  <!--[Core] <StandingLamp.description>将一片区域照亮的落地灯。</StandingLamp.description>-->
+  <!--[Core] <StandingLamp_Frame.description>将一片区域照亮的落地灯。</StandingLamp_Frame.description>-->
+  <!--[Core] <TorchLamp.description>将一片区域照亮的木制火把。能自动添加原木作燃料。产生少量的热。</TorchLamp.description>-->
+  <!--[Core] <TorchLamp_Frame.description>将一片区域照亮的木制火把。能自动添加原木作燃料。产生少量的热。</TorchLamp_Frame.description>-->
+
+</LanguageData>

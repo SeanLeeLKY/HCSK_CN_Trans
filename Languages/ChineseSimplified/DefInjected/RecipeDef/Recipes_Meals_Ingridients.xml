@@ -1,35 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeSugar.label>榨制甘蔗</MakeSugar.label>
-  <MakeSugar.description>Beat and grind those canes to get at that sugar! Produces 3.</MakeSugar.description>
+  <MeltSugar.label>melting sugary substances</MeltSugar.label>
+  <MeltSugar.description>Boiling down high sugar substances into a sugar substitute residue Produces 5.</MeltSugar.description>
+  <MeltSugar.jobString>Boiling down sugary substances into sugar residue.</MeltSugar.jobString>
+
+  <MakeSugar.label>grind sugarcane</MakeSugar.label>
+  <MakeSugar.description>Beat and grind those canes to get at that sugar! Produces 5.</MakeSugar.description>
   <MakeSugar.jobString>Grinding sugarcane into sugar.</MakeSugar.jobString>
 
-  <MakeFlour.label>磨制面粉</MakeFlour.label>
-  <MakeFlour.description>Grind wheat, corn, rice or oats into flour. Produces 6.</MakeFlour.description>
+  <MakeFlour.label>grind flour</MakeFlour.label>
+  <MakeFlour.description>Grind wheat, corn, rice or oats into flour. Produces 10.</MakeFlour.description>
   <MakeFlour.jobString>Grinding flour.</MakeFlour.jobString>
 
-  <CraftCornmeal.label>磨制玉米粉</CraftCornmeal.label>
+  <MakePotatoFlour.label>grind baked potatoes</MakePotatoFlour.label>
+  <MakePotatoFlour.description>Grinding baked potatoes into flour. Produces 10.</MakePotatoFlour.description>
+  <MakePotatoFlour.jobString>Grinding Baked Potatoes.</MakePotatoFlour.jobString>
+
+  <CraftCornmeal.label>grind corn</CraftCornmeal.label>
   <CraftCornmeal.description>Grind corn into cornmeal. Produces 4.</CraftCornmeal.description>
   <CraftCornmeal.jobString>Grinding corn.</CraftCornmeal.jobString>
 
-  <Makesoymilk.label>榨制豆浆</Makesoymilk.label>
+  <Makesoymilk.label>press soy milk</Makesoymilk.label>
   <Makesoymilk.description>Press beans into soy milk. Produces 4.</Makesoymilk.description>
   <Makesoymilk.jobString>Pressing beans into soy milk.</Makesoymilk.jobString>
 
-  <MakeChocolate.label>制作巧克力</MakeChocolate.label>
-  <MakeChocolate.description>Roast cocoa beans and sugar to 制造 chocolate, a sweet treat. Produces 5.</MakeChocolate.description>
+  <MakeChocolate.label>Cook chocolates</MakeChocolate.label>
+  <MakeChocolate.description>Roast cocoa beans and sugar to make chocolate, a sweet treat. Produces 5.</MakeChocolate.description>
   <MakeChocolate.jobString>Roasting cocoa beans into chocolate.</MakeChocolate.jobString>
 
-  <MakeCaramel.label>制作焦糖</MakeCaramel.label>
+  <MakeCaramel.label>Caramelize sugar</MakeCaramel.label>
   <MakeCaramel.description>Turns sugar into a caramel snacks. Produces 3.</MakeCaramel.description>
   <MakeCaramel.jobString>Camarelize sugar into caramel.</MakeCaramel.jobString>
 
-  <MakeBread.label>烤面包</MakeBread.label>
+  <MakeBread.label>bake bread loaves</MakeBread.label>
   <MakeBread.description>Bakes loaves of bread. Produces 2.</MakeBread.description>
   <MakeBread.jobString>Baking bread loaves.</MakeBread.jobString>
 
-  <Makecheese.label>制作芝士</Makecheese.label>
+  <Makecheese.label>process cheese</Makecheese.label>
   <Makecheese.description>Turns milk or soy milk into cheese. Produces 4.</Makecheese.description>
   <Makecheese.jobString>Processing milk into cheese.</Makecheese.jobString>
 

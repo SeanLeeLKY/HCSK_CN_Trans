@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GrizzlyBear.label>灰熊</GrizzlyBear.label>
+  <GrizzlyBear.description>Huge omnivorous mammals adapted for cold climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</GrizzlyBear.description>
+  <GrizzlyBear.tools.0.label>left claw</GrizzlyBear.tools.0.label>
+  <GrizzlyBear.tools.1.label>right claw</GrizzlyBear.tools.1.label>
+  <GrizzlyBear.tools.3.label>head</GrizzlyBear.tools.3.label>
+
+  <PolarBear.label>北极熊</PolarBear.label>
+  <PolarBear.description>A great white bear that lives in the far north. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear is more than capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</PolarBear.description>
+  <PolarBear.tools.0.label>left claw</PolarBear.tools.0.label>
+  <PolarBear.tools.1.label>right claw</PolarBear.tools.1.label>
+  <PolarBear.tools.3.label>head</PolarBear.tools.3.label>
+
+  <PandaBear.label>熊猫</PandaBear.label>
+  <PandaBear.description>The giant panda -black and white cat-foot, also known as panda bear or simply panda, is a bear. It is easily recognized by the large, distinctive black patches around its eyes, over the ears, and across its round body. Giant pandas in the wild will occasionally eat other grasses, wild tubers, or even meat in the form of birds, rodents or carrion.</PandaBear.description>
+  <PandaBear.tools.0.label>left claw</PandaBear.tools.0.label>
+  <PandaBear.tools.1.label>right claw</PandaBear.tools.1.label>
+  <PandaBear.tools.3.label>head</PandaBear.tools.3.label>
+
+  <Blackbear.label>黑熊</Blackbear.label>
+  <Blackbear.description>An average sized bear native to thickly wooded forests. The black bear is a notably less dangerous animal than its larger cousins, rarely attacking people unless directly provoked. The black bear is- much like nearly all other bears- omniverous and solitary in nature.</Blackbear.description>
+  <Blackbear.tools.0.label>left claw</Blackbear.tools.0.label>
+  <Blackbear.tools.1.label>right claw</Blackbear.tools.1.label>
+  <Blackbear.tools.3.label>head</Blackbear.tools.3.label>
+
+
+</LanguageData>

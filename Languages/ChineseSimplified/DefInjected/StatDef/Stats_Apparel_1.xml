@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArmorRating_Blunt.label>Armor - Blunt</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.description>Armor against blunt damage like club attacks, rock falls, and explosions.</ArmorRating_Blunt.description>
+
+  <ArmorRating_Sharp.label>Armor - Sharp</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</ArmorRating_Sharp.description>
+
+  <ArmorRating_Heat.label>Armor - Heat</ArmorRating_Heat.label>
+  <ArmorRating_Heat.description>Armor against temperature-related damage like burns.</ArmorRating_Heat.description>
+
+  <ArmorRating_Electric.label>Armor - Electric </ArmorRating_Electric.label>
+  <ArmorRating_Electric.description>Armor against electric damage like EMP pulses.</ArmorRating_Electric.description>
+
+  <Insulation_Cold.label>Insulation - Cold</Insulation_Cold.label>
+  <Insulation_Cold.description>How much this apparel offsets a wearer's minimum comfortable temperature when worn.</Insulation_Cold.description>
+
+  <Insulation_Heat.label>Insulation - Heat</Insulation_Heat.label>
+  <Insulation_Heat.description>How much this apparel offsets a wearer's maximum comfortable temperature when worn.</Insulation_Heat.description>
+
+
+  <!--[Core] <ArmorRating_Blunt.label>护甲 - 钝器</ArmorRating_Blunt.label>-->
+  <!--[Core] <ArmorRating_Blunt.description>护甲抵御钝器伤害的几率，比如棍棒攻击、落石和爆炸。</ArmorRating_Blunt.description>-->
+  <!--[Core] <ArmorRating_Sharp.label>护甲 - 利器</ArmorRating_Sharp.label>-->
+  <!--[Core] <ArmorRating_Sharp.description>护甲抵御利器伤害的几率，比如子弹、刀剑穿刺，以及动物的抓咬。</ArmorRating_Sharp.description>-->
+  <!--[Core] <ArmorRating_Heat.label>护甲 - 热能</ArmorRating_Heat.label>-->
+  <!--[Core] <ArmorRating_Heat.description>护甲抵御温度相关伤害的几率，比如燃烧。</ArmorRating_Heat.description>-->
+  <!--[Core] <ArmorRating_Electric.label>护甲 - 电能</ArmorRating_Electric.label>-->
+  <!--[Core] <ArmorRating_Electric.description>护甲抵御电能伤害的几率，比如电磁脉冲（EMP）。</ArmorRating_Electric.description>-->
+  <!--[Core] <Insulation_Cold.label>隔温 - 寒冷</Insulation_Cold.label>-->
+  <!--[Core] <Insulation_Cold.description>对穿戴者最低舒适温度的修改偏移量。</Insulation_Cold.description>-->
+  <!--[Core] <Insulation_Heat.label>隔温 - 炎热</Insulation_Heat.label>-->
+  <!--[Core] <Insulation_Heat.description>对穿戴者最高舒适温度的修改偏移量。</Insulation_Heat.description>-->
+  <!--<ArmorRating_Blunt.label>Armor - Blunt</ArmorRating_Blunt.label>-->
+  <!--<ArmorRating_Blunt.description>Armor against blunt damage like club attacks, rock falls, and explosions.</ArmorRating_Blunt.description>-->
+  <!--<ArmorRating_Sharp.label>Armor - Sharp</ArmorRating_Sharp.label>-->
+  <!--<ArmorRating_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</ArmorRating_Sharp.description>-->
+  <!--<ArmorRating_Heat.label>Armor - Heat</ArmorRating_Heat.label>-->
+  <!--<ArmorRating_Heat.description>Armor against temperature-related damage like burns.</ArmorRating_Heat.description>-->
+  <!--<ArmorRating_Electric.label>Armor - Electric </ArmorRating_Electric.label>-->
+  <!--<ArmorRating_Electric.description>Armor against electric damage like EMP pulses.</ArmorRating_Electric.description>-->
+  <!--<Insulation_Cold.label>Insulation - Cold</Insulation_Cold.label>-->
+  <!--<Insulation_Cold.description>How much this apparel offsets a wearer's minimum comfortable temperature when worn.</Insulation_Cold.description>-->
+  <!--<Insulation_Heat.label>Insulation - Heat</Insulation_Heat.label>-->
+  <!--<Insulation_Heat.description>How much this apparel offsets a wearer's maximum comfortable temperature when worn.</Insulation_Heat.description>-->
+
+</LanguageData>

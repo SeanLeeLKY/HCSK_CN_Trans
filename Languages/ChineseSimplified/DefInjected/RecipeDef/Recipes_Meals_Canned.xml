@@ -1,31 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeBasicCannedFood.label>烹制基础食物罐头</MakeBasicCannedFood.label>
+  <MakeBasicCannedFood.label>cook basic canned food</MakeBasicCannedFood.label>
   <MakeBasicCannedFood.description>Preserve plant ingredients in cans to prevent spoiling. Produces 75.</MakeBasicCannedFood.description>
   <MakeBasicCannedFood.jobString>Canning plant ingredients.</MakeBasicCannedFood.jobString>
 
-  <MakeExtraCannedFood.label>烹饪额外食物罐头</MakeExtraCannedFood.label>
+  <MakeExtraCannedFood.label>cook extra canned food</MakeExtraCannedFood.label>
   <MakeExtraCannedFood.description>Preserve plant ingredients in cans to prevent spoiling. Produces 75.</MakeExtraCannedFood.description>
   <MakeExtraCannedFood.jobString>Canning extra plant ingriedents.</MakeExtraCannedFood.jobString>
 
-  <MakeMetalCannedMeat_prime.label>制作肉罐头</MakeMetalCannedMeat_prime.label>
+  <MakeMetalCannedMeat_prime.label>cook canned prime meat</MakeMetalCannedMeat_prime.label>
   <MakeMetalCannedMeat_prime.description>Preserve meat in cans to prevent spoiling. Produces 75.</MakeMetalCannedMeat_prime.description>
   <MakeMetalCannedMeat_prime.jobString>Canning meat.</MakeMetalCannedMeat_prime.jobString>
 
-  <MakeMetalCannedMeat_raw.label>制作生肉罐头</MakeMetalCannedMeat_raw.label>
+  <MakeMetalCannedMeat_raw.label>cook canned raw meat</MakeMetalCannedMeat_raw.label>
   <MakeMetalCannedMeat_raw.description>Preserve meat in cans to prevent spoiling. Produces 75.</MakeMetalCannedMeat_raw.description>
   <MakeMetalCannedMeat_raw.jobString>Canning meat.</MakeMetalCannedMeat_raw.jobString>
 
-  <PickleVegetable.label>制作泡菜</PickleVegetable.label>
+  <PickleVegetable.label>pickle vegetable</PickleVegetable.label>
   <PickleVegetable.description>Preserve vegetables in a salty brine to prevent spoiling.</PickleVegetable.description>
   <PickleVegetable.jobString>Pickling vegetables.</PickleVegetable.jobString>
 
-  <PreserveFruit.label>腌制水果</PreserveFruit.label>
-  <PreserveFruit.description>Preserve fruit to prevent spoiling.</PreserveFruit.description>
-  <PreserveFruit.jobString>Preserve Fruit.</PreserveFruit.jobString>
-
-  <SaltMeat.label>制作腌渍肉</SaltMeat.label>
+  <SaltMeat.label>salt meat</SaltMeat.label>
   <SaltMeat.description>Preserve meats in salt to prevent spoiling.</SaltMeat.description>
   <SaltMeat.jobString>Salting meat.</SaltMeat.jobString>
 

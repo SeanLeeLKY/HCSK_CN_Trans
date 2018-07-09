@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TobaccoCigarette.label>cigarette</TobaccoCigarette.label>
+  <TobaccoCigarette.description>Tobacco use can produce a dependency. Can be produced without equipment, at a crafting spot.</TobaccoCigarette.description>
+  <TobaccoCigarette.ingestible.ingestCommandString>Smoke {0}</TobaccoCigarette.ingestible.ingestCommandString>
+  <TobaccoCigarette.ingestible.ingestReportString>Smoking {0}.</TobaccoCigarette.ingestible.ingestReportString>
+
+
+</LanguageData>

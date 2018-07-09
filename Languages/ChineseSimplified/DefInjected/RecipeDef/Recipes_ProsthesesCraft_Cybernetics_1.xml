@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateGTBionicEye.label>制作神经电子仿生眼</CreateGTBionicEye.label>
+  <CreateGTBionicEye.description>The advanced version of the bionic eye. The second generation of bionic upgrades, typically reserved for top brass military forces. Produces 1.</CreateGTBionicEye.description>
+  <CreateGTBionicEye.jobString>制作神经电子仿生眼</CreateGTBionicEye.jobString>
+
+  <CreateGTBionicArm.label>制作神经电子仿生臂</CreateGTBionicArm.label>
+  <CreateGTBionicArm.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible strength. Not recommended for wardens that want to keep prisoners in one piece. Produces 1.</CreateGTBionicArm.description>
+  <CreateGTBionicArm.jobString>制作神经电子仿生臂</CreateGTBionicArm.jobString>
+
+  <CreateCyberneticPowerArm.label>升级动力臂</CreateCyberneticPowerArm.label>
+  <CreateCyberneticPowerArm.description>Upgrades a power arm with artifical muscles. Produces 1.</CreateCyberneticPowerArm.description>
+  <CreateCyberneticPowerArm.jobString>升级动力臂</CreateCyberneticPowerArm.jobString>
+
+  <CreateGTBionicHand.label>制作神经电子仿生手</CreateGTBionicHand.label>
+  <CreateGTBionicHand.description>The second generation of bionic upgrades that uses nano fibres to produce artificial muscles. The more limited version of arm upgrades, just replacing hands. Produces 1.</CreateGTBionicHand.description>
+  <CreateGTBionicHand.jobString>制作神经电子仿生手</CreateGTBionicHand.jobString>
+
+  <CreateGTBionicFoot.label>制作神经电子仿生足</CreateGTBionicFoot.label>
+  <CreateGTBionicFoot.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. The more limited version of leg upgrades, just replacing feet. Produces 1.</CreateGTBionicFoot.description>
+  <CreateGTBionicFoot.jobString>制作神经电子仿生足</CreateGTBionicFoot.jobString>
+
+  <CreateGTBionicLeg.label>制作神经电子仿生腿</CreateGTBionicLeg.label>
+  <CreateGTBionicLeg.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible speed. Produces 1.</CreateGTBionicLeg.description>
+  <CreateGTBionicLeg.jobString>制作神经电子仿生腿</CreateGTBionicLeg.jobString>
+
+  <CreateGTBionicJaw.label>制作神经电子仿生颌</CreateGTBionicJaw.label>
+  <CreateGTBionicJaw.description>The second generation of bionic upgrades, using nano machinery to break down food instantly with minimal effort. Produces 1.</CreateGTBionicJaw.description>
+  <CreateGTBionicJaw.jobString>制作神经电子仿生颌</CreateGTBionicJaw.jobString>
+
+  <CreateGTBionicEar.label>制作神经电子仿生耳</CreateGTBionicEar.label>
+  <CreateGTBionicEar.description>The advanced version of the bionic ear. The second generation of bionic upgrades, typically reserved for top brass military forces. Produces 1.</CreateGTBionicEar.description>
+  <CreateGTBionicEar.jobString>制作神经电子仿生耳</CreateGTBionicEar.jobString>
+
+  <CreateGTBionicSpine.label>制作神经电子仿生脊柱</CreateGTBionicSpine.label>
+  <CreateGTBionicSpine.description>The advanced version of the bionic spine. The second generation of bionic upgrades, typically reserved for top brass military forces. Produces 1.</CreateGTBionicSpine.description>
+  <CreateGTBionicSpine.jobString>制作神经电子仿生脊柱</CreateGTBionicSpine.jobString>
+
+  <CreateGTLung.label>制作神经电子仿生肺</CreateGTLung.label>
+  <CreateGTLung.description>A powerful vascular augmentation that replaces a standard human lung. The perfect pairing with a cybernetic heart as this increases circulatory speed which increases overall efficiency. Produces 1.</CreateGTLung.description>
+  <CreateGTLung.jobString>制作神经电子仿生肺</CreateGTLung.jobString>
+
+  <CreateGTStomach.label>制作神经电子仿生胃</CreateGTStomach.label>
+  <CreateGTStomach.description>A powerful abdominal augmentation that replaces a standard human stomach. It increases digestion efficiency and metabolic efficiency. Produces 1.</CreateGTStomach.description>
+  <CreateGTStomach.jobString>制作神经电子仿生胃</CreateGTStomach.jobString>
+
+  <CreateGTLiver.label>制作神经电子仿生肝</CreateGTLiver.label>
+  <CreateGTLiver.description>A powerful abdominal augmentation that replaces the standard human liver. It increases blood filtration efficiency and metabolic efficiency. Produces 1.</CreateGTLiver.description>
+  <CreateGTLiver.jobString>制作神经电子仿生肝</CreateGTLiver.jobString>
+
+  <CreateGTKidney.label>制作神经电子仿生肾</CreateGTKidney.label>
+  <CreateGTKidney.description>A powerful abdominal augmentation that replaces a standard human kidney. It increases blood filtration efficiency and metabolic efficiency. Produces 1.</CreateGTKidney.description>
+  <CreateGTKidney.jobString>制作神经电子仿生肾</CreateGTKidney.jobString>
+
+  <CreateGTHeart.label>制作神经电子仿生心</CreateGTHeart.label>
+  <CreateGTHeart.description>A powerful cardiac augmentation that replaces a standard human heart. Safely manages very high blood flow without overwhelming standard body parts. Produces 1.</CreateGTHeart.description>
+  <CreateGTHeart.jobString>制作神经电子仿生心</CreateGTHeart.jobString>
+
+  <CreateExoskeleton.label>制作外骨骼</CreateExoskeleton.label>
+  <CreateExoskeleton.description>An exoskeleton greatly improves overall body perfomance. Produces 1.</CreateExoskeleton.description>
+  <CreateExoskeleton.jobString>制作外骨骼</CreateExoskeleton.jobString>
+
+
+</LanguageData>

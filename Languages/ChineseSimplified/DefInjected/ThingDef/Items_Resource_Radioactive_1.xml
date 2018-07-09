@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Uranium.label>Uranium Ore</Uranium.label>
+  <Uranium.description>An extremely hard, dense metal ore that can be mined from Uranium Ore Deposits or made from the Inorganic Matter Converter. It is refined by the Gas Centrifuge to make either Enriched Uranium Alloy or Depleted Uranium Alloy, which are best known for powering the Nuclear Power Plant and their excellent physical properties used in tools, weapons, armor, nuclear warheads, and alpha poly.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>Uranium</Uranium.stuffProps.stuffAdjective>
+
+  <HEU.label>浓缩铀</HEU.label>
+  <HEU.description>U-235 is an extremely radioactive resource. Wear a chemical protection suit and a chemical protection helmet to protect against its dangerous radiation! It is used for powering the Nuclear Power Plant and making Nuclear Warheads from the Military Nuclear Plant. Obtained by trade and the Gas Centrifuge.</HEU.description>
+
+  <MineableUranium.label>Uranium Ore Deposit</MineableUranium.label>
+  <MineableUranium.description>A rock deposit containing bits of Uranium Ore. It is radioactive, so be aware it releases dangerous radiation nearby and only pawns wearing a chemical protection suit and a chemical protection helmet are protected from the radiation. Uranium Ore can be refined by the Gas Centrifuge to make either Enriched Uranium Alloy or Depleted Uranium Alloy, which are best known for powering nuclear reactors and their excellent physical properties used in tools, weapons, armor, nuclear warheads, and alpha poly.</MineableUranium.description>
+
+
+  <!--[Core] <Uranium.label>铀</Uranium.label>-->
+  <!--[Core] <Uranium.description>一种硬度密度极高的金属。虽然它因为给核反应堆提供能量而闻名，但它的物理特性亦使其在作为工具、武器或者护甲用途时表现优异。</Uranium.description>-->
+  <!--[Core] <Uranium.stuffProps.stuffAdjective>铀</Uranium.stuffProps.stuffAdjective>-->
+  <!--[Core] <MineableUranium.label>铀矿</MineableUranium.label>-->
+  <!--[Core] <MineableUranium.description>含有少量铀的岩石。</MineableUranium.description>-->
+  <!--<Uranium.label>铀矿</Uranium.label>-->
+  <!--<Uranium.description>An extremely hard, dense metal ore that can be mined from Uranium Ore Deposits or made from the Inorganic Matter Converter. It is refined by the Gas Centrifuge to make either Enriched Uranium Alloy or Depleted Uranium Alloy, which are best known for powering the Nuclear Power Plant and their excellent physical properties used in tools, weapons, armor, nuclear warheads, and alpha poly.</Uranium.description>-->
+  <!--<Uranium.stuffProps.stuffAdjective>铀</Uranium.stuffProps.stuffAdjective>-->
+  <!--<MineableUranium.label>铀矿带</MineableUranium.label>-->
+  <!--<MineableUranium.description>A rock deposit containing bits of Uranium Ore. It is radioactive, so be aware it releases dangerous radiation nearby and only pawns wearing a chemical protection suit and a chemical protection helmet are protected from the radiation. Uranium Ore can be refined by the Gas Centrifuge to make either Enriched Uranium Alloy or Depleted Uranium Alloy, which are best known for powering nuclear reactors and their excellent physical properties used in tools, weapons, armor, nuclear warheads, and alpha poly.</MineableUranium.description>-->
+
+</LanguageData>

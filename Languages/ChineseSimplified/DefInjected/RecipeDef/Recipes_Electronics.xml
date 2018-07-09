@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeElectronicComponents.label>组装电子元件</MakeElectronicComponents.label>
+  <MakeElectronicComponents.label>Assemble electronic components</MakeElectronicComponents.label>
   <MakeElectronicComponents.description>Assemble electronic components. Vital part of all electronics. Produces 5.</MakeElectronicComponents.description>
-  <MakeElectronicComponents.jobString>组装电子元件</MakeElectronicComponents.jobString>
+  <MakeElectronicComponents.jobString>Assembling electronic components.</MakeElectronicComponents.jobString>
 
-  <MakeIntegratedCircuits.label>组装集成电路</MakeIntegratedCircuits.label>
+  <MakeIntegratedCircuits.label>Assemble integrated circuits</MakeIntegratedCircuits.label>
   <MakeIntegratedCircuits.description>Assemble integrated circuits. Used in the creation of higher tier electronics. Produces 5.</MakeIntegratedCircuits.description>
-  <MakeIntegratedCircuits.jobString>组装集成电路</MakeIntegratedCircuits.jobString>
+  <MakeIntegratedCircuits.jobString>Assembling integrated circuits.</MakeIntegratedCircuits.jobString>
 
-  <MakeMicrochipIntegratedCircuits.label>组装微芯片集成电路</MakeMicrochipIntegratedCircuits.label>
+  <MakeMicrochipIntegratedCircuits.label>Assemble microchip integrated circuit</MakeMicrochipIntegratedCircuits.label>
   <MakeMicrochipIntegratedCircuits.description>Assemble a microchip integrated circuit. Used in high tier electronics. Produces 1.</MakeMicrochipIntegratedCircuits.description>
-  <MakeMicrochipIntegratedCircuits.jobString>组装微芯片集成电路</MakeMicrochipIntegratedCircuits.jobString>
+  <MakeMicrochipIntegratedCircuits.jobString>Assembling a microchip integrated circuit.</MakeMicrochipIntegratedCircuits.jobString>
 
-  <MakeBioelectronicDevices.label>组装生物电子元件</MakeBioelectronicDevices.label>
+  <MakeBioelectronicDevices.label>Assemble BioElectronic device</MakeBioelectronicDevices.label>
   <MakeBioelectronicDevices.description>Assemble a BioElectronic device. Used in high tier electronics and bionics. Produces 1.</MakeBioelectronicDevices.description>
   <MakeBioelectronicDevices.jobString>Assembling a BioElectronic device.</MakeBioelectronicDevices.jobString>
 
-  <MakeMineralSonarModule.label>组装矿物声呐模块</MakeMineralSonarModule.label>
+  <MakeMineralSonarModule.label>Assemble mineral sonar module</MakeMineralSonarModule.label>
   <MakeMineralSonarModule.description>Assemble a mineral sonar module using metal alloy for the packaging box and electronic components for the computing module. Produces 1.</MakeMineralSonarModule.description>
-  <MakeMineralSonarModule.jobString>组装矿物声呐模块</MakeMineralSonarModule.jobString>
+  <MakeMineralSonarModule.jobString>Assembling a mineral sonar module.</MakeMineralSonarModule.jobString>
 
 
 </LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Villager -->
+
+  <Villager.label>Villager</Villager.label>
+  <Villager.labelPlural>Villagers</Villager.labelPlural>
+
+
+  <!-- Councilman -->
+
+  <TownCouncilman.label>Councilman</TownCouncilman.label>
+  <TownCouncilman.labelPlural>town councilmen</TownCouncilman.labelPlural>
+
+
+  <!-- Trader -->
+
+  <TownTrader.label>town trader</TownTrader.label>
+  <TownTrader.labelPlural>town traders</TownTrader.labelPlural>
+
+
+  <!-- Guard -->
+
+  <TownGuard.label>Guard</TownGuard.label>
+  <TownGuard.labelPlural>Guards</TownGuard.labelPlural>
+
+
+</LanguageData>

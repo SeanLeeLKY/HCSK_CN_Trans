@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlayGo.reportString>玩飞行棋。</PlayGo.reportString>
+  <PlayCards.reportString>玩牌。</PlayCards.reportString>
+  <PlayReversi.reportString>玩黑白棋。</PlayReversi.reportString>
+  <PlayRimColony.reportString>玩边缘世界。（滑稽.jpg）</PlayRimColony.reportString>
+  <ReadBook.reportString>读书。</ReadBook.reportString>
+
+
+  <!-- <JobDef>
+		<defName>GetMassage</defName>
+		<driverClass>JobDriver_WatchBuilding</driverClass>
+		<reportString>Getting a massage.</reportString>
+		<joyDuration>4000</joyDuration>
+		<joyMaxParticipants>1</joyMaxParticipants>
+		<joyGainRate>1</joyGainRate>
+		<joyKind>Meditative</joyKind>
+	</JobDef> -->
+
+  <Doodle.reportString>涂鸦.</Doodle.reportString>
+  <InterpretArt.reportString>欣赏艺术。</InterpretArt.reportString>
+  <PlayArcadeRS.reportString>Playing Rum Swirled.</PlayArcadeRS.reportString>
+  <PlayArcadeMC.reportString>Playing MintCraft.</PlayArcadeMC.reportString>
+  <PlayArcadeHL.reportString>Playing Halva Life.</PlayArcadeHL.reportString>
+  <PlayArcadeES.reportString>Playing Elder Scones.</PlayArcadeES.reportString>
+  <PlayArcadeBG.reportString>Playing Baguettris.</PlayArcadeBG.reportString>
+  <PlayArcadeCB.reportString>Playing Cooking Baba.</PlayArcadeCB.reportString>
+  <PlayArcadePS.reportString>Playing Plants Vs. Salamis.</PlayArcadePS.reportString>
+  <PlayArcadePK.reportString>Playing Psycho Knots.</PlayArcadePK.reportString>
+  <PlayArcadeSP.reportString>Playing Speltunky.</PlayArcadeSP.reportString>
+  <PlayArcadeTZ.reportString>Playing The Zimz.</PlayArcadeTZ.reportString>
+  <PlayArcadeTV.reportString>Playing Trauma Vendor.</PlayArcadeTV.reportString>
+
+
+</LanguageData>
