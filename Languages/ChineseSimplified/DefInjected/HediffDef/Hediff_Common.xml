@@ -1,28 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CommonCold.label>Common Cold</CommonCold.label>
-  <StrepThroat.label>strep throat</StrepThroat.label>
-  <Earache.label>Ear ache</Earache.label>
-  <Fever.label>fever</Fever.label>
+  <CommonCold.label>感冒</CommonCold.label>
+  <StrepThroat.label>性喉炎</StrepThroat.label>
+  <Earache.label>耳痛</Earache.label>
+  <Fever.label>发烧</Fever.label>
 
-  <Ebola.label>ebola</Ebola.label>
-  <Ebola.stages.0.label>minor-hidden</Ebola.stages.0.label>
-  <Ebola.stages.1.label>minor</Ebola.stages.1.label>
-  <Ebola.stages.2.label>major</Ebola.stages.2.label>
-  <Ebola.stages.3.label>extreme</Ebola.stages.3.label>
+  <Ebola.label>埃博拉</Ebola.label>
+  <Ebola.stages.0.label>轻度</Ebola.stages.0.label>
+  <Ebola.stages.1.label>轻度</Ebola.stages.1.label>
+  <Ebola.stages.2.label>严重</Ebola.stages.2.label>
+  <Ebola.stages.3.label>极重</Ebola.stages.3.label>
 
-  <Measles.label>measles</Measles.label>
-  <Measles.stages.0.label>minor-hidden</Measles.stages.0.label>
-  <Measles.stages.1.label>minor</Measles.stages.1.label>
-  <Measles.stages.2.label>major</Measles.stages.2.label>
-  <Measles.stages.3.label>extreme</Measles.stages.3.label>
+  <Measles.label>麻疹</Measles.label>
+  <Measles.stages.0.label>轻度</Measles.stages.0.label>
+  <Measles.stages.1.label>轻度</Measles.stages.1.label>
+  <Measles.stages.2.label>严重</Measles.stages.2.label>
+  <Measles.stages.3.label>极重</Measles.stages.3.label>
 
-  <Pneumonia.label>pneumonia</Pneumonia.label>
-  <Pneumonia.stages.0.label>minor-hidden</Pneumonia.stages.0.label>
-  <Pneumonia.stages.1.label>minor</Pneumonia.stages.1.label>
-  <Pneumonia.stages.2.label>major</Pneumonia.stages.2.label>
-  <Pneumonia.stages.3.label>extreme</Pneumonia.stages.3.label>
-
+  <Pneumonia.label>肺炎</Pneumonia.label>
+  <Pneumonia.stages.0.label>轻度</Pneumonia.stages.0.label>
+  <Pneumonia.stages.1.label>轻度</Pneumonia.stages.1.label>
+  <Pneumonia.stages.2.label>严重</Pneumonia.stages.2.label>
+  <Pneumonia.stages.3.label>极重</Pneumonia.stages.3.label>
 
 </LanguageData>

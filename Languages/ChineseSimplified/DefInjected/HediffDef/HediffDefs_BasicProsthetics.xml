@@ -3,26 +3,26 @@
 
   <!-- Added body parts -->
 
-  <SteelArm.label>Heavy Arm</SteelArm.label>
-  <SteelArm.comps.0.tools.0.label>fist</SteelArm.comps.0.tools.0.label>
+  <SteelArm.label>铁臂</SteelArm.label>
+  <SteelArm.comps.0.tools.0.label>拳</SteelArm.comps.0.tools.0.label>
 
-  <EyePatch.label>Eye Patch</EyePatch.label>
+  <EyePatch.label>眼罩</EyePatch.label>
 
-  <HookHand.label>Hook Hand</HookHand.label>
-  <HookHand.comps.0.tools.0.label>fist</HookHand.comps.0.tools.0.label>
+  <HookHand.label>钩手</HookHand.label>
+  <HookHand.comps.0.tools.0.label>拳</HookHand.comps.0.tools.0.label>
 
-  <denture.label>Denture</denture.label>
-  <PegLeg.label>Peg Leg</PegLeg.label>
-  <WoodenFoot.label>Wooden Foot</WoodenFoot.label>
+  <denture.label>假牙</denture.label>
+  <PegLeg.label>木腿</PegLeg.label>
+  <WoodenFoot.label>木脚</WoodenFoot.label>
 
-  <PowerClaw.label>power claw</PowerClaw.label>
-  <PowerClaw.comps.0.tools.0.label>claw</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.label>动力爪</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>爪</PowerClaw.comps.0.tools.0.label>
 
-  <ScytherBlade.label>scyther blade</ScytherBlade.label>
-  <ScytherBlade.comps.0.tools.0.label>blade</ScytherBlade.comps.0.tools.0.label>
-  <ScytherBlade.comps.0.tools.1.label>point</ScytherBlade.comps.0.tools.1.label>
+  <ScytherBlade.label>飞螳镰刃</ScytherBlade.label>
+  <ScytherBlade.comps.0.tools.0.label>刀刃</ScytherBlade.comps.0.tools.0.label>
+  <ScytherBlade.comps.0.tools.1.label>尖头</ScytherBlade.comps.0.tools.1.label>
 
-  <EarBandage.label>ear bandage</EarBandage.label>
+  <EarBandage.label>耳绷带</EarBandage.label>
 
 
 </LanguageData>

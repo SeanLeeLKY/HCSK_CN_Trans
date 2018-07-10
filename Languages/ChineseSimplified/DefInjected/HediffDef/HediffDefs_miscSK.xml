@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Accellerated_Aging.label>accellerated aging x60</Accellerated_Aging.label>
+  <Accellerated_Aging.label>加速老化 x60</Accellerated_Aging.label>
 
-  <Soporific.label>Soporific buildup</Soporific.label>
-  <Soporific.stages.0.label>initial</Soporific.stages.0.label>
-  <Soporific.stages.1.label>minor</Soporific.stages.1.label>
-  <Soporific.stages.2.label>moderate</Soporific.stages.2.label>
-  <Soporific.stages.3.label>sufficient</Soporific.stages.3.label>
-  <Soporific.stages.4.label>overdose</Soporific.stages.4.label>
-  <Soporific.stages.5.label>extreme overdose</Soporific.stages.5.label>
+  <Soporific.label>药剂积累</Soporific.label>
+  <Soporific.stages.0.label>初始</Soporific.stages.0.label>
+  <Soporific.stages.1.label>轻度</Soporific.stages.1.label>
+  <Soporific.stages.2.label>中等</Soporific.stages.2.label>
+  <Soporific.stages.3.label>较多</Soporific.stages.3.label>
+  <Soporific.stages.4.label>过量</Soporific.stages.4.label>
+  <Soporific.stages.5.label>严重过量</Soporific.stages.5.label>
 
 
 </LanguageData>

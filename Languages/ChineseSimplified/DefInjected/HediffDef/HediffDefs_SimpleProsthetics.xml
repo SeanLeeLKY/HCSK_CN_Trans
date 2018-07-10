@@ -3,18 +3,18 @@
 
   <!-- Added body parts -->
 
-  <GlassEye.label>Glass Eye</GlassEye.label>
-  <SimpleProstheticHand.label>Simple Prosthetic Hand</SimpleProstheticHand.label>
-  <SimpleProstheticFoot.label>Simple Prosthetic Foot</SimpleProstheticFoot.label>
+  <GlassEye.label>玻璃眼</GlassEye.label>
+  <SimpleProstheticHand.label>简易的假手</SimpleProstheticHand.label>
+  <SimpleProstheticFoot.label>简易的假脚</SimpleProstheticFoot.label>
 
-  <SimpleProstheticArm.label>Simple Prosthetic Arm</SimpleProstheticArm.label>
-  <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>拳头</SimpleProstheticArm.comps.0.tools.0.label>
 
-  <SimpleProstheticLeg.label>Simple Prosthetic Leg</SimpleProstheticLeg.label>
-  <ArtificialNose.label>Artificial Nose</ArtificialNose.label>
-  <HydraulicJaw.label>Hydraulic Jaw</HydraulicJaw.label>
-  <ArtificialPelvis.label>Artificial Pelvis</ArtificialPelvis.label>
-  <BrainStimulator.label>Brain Stimulator</BrainStimulator.label>
+  <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>
+  <ArtificialNose.label>人造鼻</ArtificialNose.label>
+  <HydraulicJaw.label>液压颌</HydraulicJaw.label>
+  <ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
+  <BrainStimulator.label>脑刺激器</BrainStimulator.label>
 
 
 </LanguageData>

@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Crush.label>crush</Crush.label>
-  <Crush.comps.0.labelTendedWell>bandaged</Crush.comps.0.labelTendedWell>
-  <Crush.comps.0.labelTendedWellInner>sutured</Crush.comps.0.labelTendedWellInner>
-  <Crush.comps.0.labelSolidTendedWell>set</Crush.comps.0.labelSolidTendedWell>
-  <Crush.comps.2.oldLabel>crush scar</Crush.comps.2.oldLabel>
-  <Crush.injuryProps.destroyedLabel>Crushed</Crush.injuryProps.destroyedLabel>
+  <Crush.label>压伤</Crush.label>
+  <Crush.comps.0.labelTendedWell>已包扎</Crush.comps.0.labelTendedWell>
+  <Crush.comps.0.labelTendedWellInner>已缝合</Crush.comps.0.labelTendedWellInner>
+  <Crush.comps.0.labelSolidTendedWell>已固定</Crush.comps.0.labelSolidTendedWell>
+  <Crush.comps.2.oldLabel>压伤疤痕</Crush.comps.2.oldLabel>
+  <Crush.injuryProps.destroyedLabel>被压毁</Crush.injuryProps.destroyedLabel>
 
-  <Gunshot.label>gunshot</Gunshot.label>
-  <Gunshot.comps.0.labelTendedWell>bandaged</Gunshot.comps.0.labelTendedWell>
-  <Gunshot.comps.0.labelTendedWellInner>sutured</Gunshot.comps.0.labelTendedWellInner>
-  <Gunshot.comps.0.labelSolidTendedWell>set</Gunshot.comps.0.labelSolidTendedWell>
-  <Gunshot.comps.2.oldLabel>Gunshot Scar</Gunshot.comps.2.oldLabel>
-  <Gunshot.comps.2.instantlyOldLabel>permanent gunshot injury</Gunshot.comps.2.instantlyOldLabel>
-  <Gunshot.injuryProps.destroyedLabel>Shot off</Gunshot.injuryProps.destroyedLabel>
-  <Gunshot.injuryProps.destroyedOutLabel>Shot out</Gunshot.injuryProps.destroyedOutLabel>
+  <Gunshot.label>枪伤</Gunshot.label>
+  <Gunshot.comps.0.labelTendedWell>已包扎</Gunshot.comps.0.labelTendedWell>
+  <Gunshot.comps.0.labelTendedWellInner>已缝合</Gunshot.comps.0.labelTendedWellInner>
+  <Gunshot.comps.0.labelSolidTendedWell>已固定</Gunshot.comps.0.labelSolidTendedWell>
+  <Gunshot.comps.2.oldLabel>老枪伤</Gunshot.comps.2.oldLabel>
+  <Gunshot.comps.2.instantlyOldLabel>永久性枪伤</Gunshot.comps.2.instantlyOldLabel>
+  <Gunshot.injuryProps.destroyedLabel>被射毁</Gunshot.injuryProps.destroyedLabel>
+  <Gunshot.injuryProps.destroyedOutLabel>被射掉</Gunshot.injuryProps.destroyedOutLabel>
 
-  <Shredded.label>shredded</Shredded.label>
-  <Shredded.comps.0.labelTendedWell>bandaged</Shredded.comps.0.labelTendedWell>
-  <Shredded.comps.0.labelTendedWellInner>sutured</Shredded.comps.0.labelTendedWellInner>
-  <Shredded.comps.0.labelSolidTendedWell>set</Shredded.comps.0.labelSolidTendedWell>
-  <Shredded.comps.2.oldLabel>shredded scar</Shredded.comps.2.oldLabel>
-  <Shredded.injuryProps.destroyedLabel>Torn off</Shredded.injuryProps.destroyedLabel>
-  <Shredded.injuryProps.destroyedOutLabel>Torn out</Shredded.injuryProps.destroyedOutLabel>
+  <Shredded.label>炸伤</Shredded.label>
+  <Shredded.comps.0.labelTendedWell>已包扎</Shredded.comps.0.labelTendedWell>
+  <Shredded.comps.0.labelTendedWellInner>已缝合</Shredded.comps.0.labelTendedWellInner>
+  <Shredded.comps.0.labelSolidTendedWell>已固定</Shredded.comps.0.labelSolidTendedWell>
+  <Shredded.comps.2.oldLabel>炸伤疤痕</Shredded.comps.2.oldLabel>
+  <Shredded.injuryProps.destroyedLabel>被炸毁</Shredded.injuryProps.destroyedLabel>
+  <Shredded.injuryProps.destroyedOutLabel>被炸毁</Shredded.injuryProps.destroyedOutLabel>
 
 
 </LanguageData>

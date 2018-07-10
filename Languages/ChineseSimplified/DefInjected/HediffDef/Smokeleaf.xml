@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SmokeleafHigh.label>stoned on smokeleaf</SmokeleafHigh.label>
-  <SmokeleafHigh.labelNoun>a smokeleaf high</SmokeleafHigh.labelNoun>
+  <SmokeleafHigh.label>烟叶酥麻</SmokeleafHigh.label>
+  <SmokeleafHigh.labelNoun>烟叶沉醉</SmokeleafHigh.labelNoun>
 
 
   <!-- Smokeleaf addiction -->
 
-  <SmokeleafTolerance.label>smokeleaf tolerance</SmokeleafTolerance.label>
-  <SmokeleafTolerance.stages.0.label>small</SmokeleafTolerance.stages.0.label>
-  <SmokeleafTolerance.stages.1.label>small</SmokeleafTolerance.stages.1.label>
-  <SmokeleafTolerance.stages.2.label>large</SmokeleafTolerance.stages.2.label>
-  <SmokeleafTolerance.stages.3.label>massive</SmokeleafTolerance.stages.3.label>
+  <SmokeleafTolerance.label>烟叶耐受</SmokeleafTolerance.label>
+  <SmokeleafTolerance.stages.0.label>轻度</SmokeleafTolerance.stages.0.label>
+  <SmokeleafTolerance.stages.1.label>轻度</SmokeleafTolerance.stages.1.label>
+  <SmokeleafTolerance.stages.2.label>中度</SmokeleafTolerance.stages.2.label>
+  <SmokeleafTolerance.stages.3.label>重度</SmokeleafTolerance.stages.3.label>
 
-  <SmokeleafAddiction.label>smokeleaf dependence</SmokeleafAddiction.label>
-  <SmokeleafAddiction.stages.1.label>withdrawal</SmokeleafAddiction.stages.1.label>
+  <SmokeleafAddiction.label>烟叶成瘾</SmokeleafAddiction.label>
+  <SmokeleafAddiction.stages.1.label>戒断反应</SmokeleafAddiction.stages.1.label>
 
 
 </LanguageData>

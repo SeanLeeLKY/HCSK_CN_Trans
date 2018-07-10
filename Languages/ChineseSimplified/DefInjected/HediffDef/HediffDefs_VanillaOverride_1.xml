@@ -32,6 +32,7 @@
   <!--[Core] <Crush.comps.0.labelSolidTendedWell>已固定</Crush.comps.0.labelSolidTendedWell>-->
   <!--[Core] <Crush.comps.2.oldLabel>压伤疤痕</Crush.comps.2.oldLabel>-->
   <!--[Core] <Crush.injuryProps.destroyedLabel>被压毁</Crush.injuryProps.destroyedLabel>-->
+
   <!--[Core] <Gunshot.label>枪伤</Gunshot.label>-->
   <!--[Core] <Gunshot.comps.0.labelTendedWell>已包扎</Gunshot.comps.0.labelTendedWell>-->
   <!--[Core] <Gunshot.comps.0.labelTendedWellInner>已缝合</Gunshot.comps.0.labelTendedWellInner>-->
@@ -40,6 +41,7 @@
   <!--[Core] <Gunshot.comps.2.instantlyOldLabel>永久性枪伤</Gunshot.comps.2.instantlyOldLabel>-->
   <!--[Core] <Gunshot.injuryProps.destroyedLabel>被射毁</Gunshot.injuryProps.destroyedLabel>-->
   <!--[Core] <Gunshot.injuryProps.destroyedOutLabel>被射掉</Gunshot.injuryProps.destroyedOutLabel>-->
+  
   <!--[Core] <Shredded.label>炸伤</Shredded.label>-->
   <!--[Core] <Shredded.comps.0.labelTendedWell>已包扎</Shredded.comps.0.labelTendedWell>-->
   <!--[Core] <Shredded.comps.0.labelTendedWellInner>已缝合</Shredded.comps.0.labelTendedWellInner>-->

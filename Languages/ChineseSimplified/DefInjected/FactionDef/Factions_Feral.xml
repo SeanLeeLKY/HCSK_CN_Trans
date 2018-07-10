@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Feral.label>Feral clan</Feral.label>
-  <Feral.description>So, who the ferals are? Think about savages living in the ruins of collapsed civilization. They had to sacrifice lots of things to survive; Technology, culture, history, and adobe all, their humanity.
-
-They are the group of savages who pillage, plunder, murder, or otherwise ruin the day of anyone unfortunate enough to not be one of them. Although usually not very powerful on their own, ferals are most often encountered in groups. With a random mix of scrap weapons, they can prove to be formidable opponents for the lonesome colony. </Feral.description>
-  <Feral.pawnsPlural>ferals</Feral.pawnsPlural>
-  <Feral.leaderTitle>Clan leader</Feral.leaderTitle>
+  <Feral.label>野蛮部族</Feral.label>
+  <Feral.description>那么，这些野兽是谁呢？想想那些生活在崩溃文明的废墟中的野蛮人。他们必须牺牲很多东西才能生存，技术、文化、历史，甚至——他们的人性。
+  \n\n他们是一群野蛮人，只要你不是他们中的一员，那么掠夺，摧毁，杀戮就会降临到你头上。它们单个人的实力都不是太强大，但它们通常是成群结队的。在装备了各种各样的废旧武器、破铜烂铁后，他们往往就能成为某些小殖民地的噩梦。</Feral.description>
+  <Feral.pawnsPlural>野蛮</Feral.pawnsPlural>
+  <Feral.leaderTitle>首领</Feral.leaderTitle>
 
 
 </LanguageData>

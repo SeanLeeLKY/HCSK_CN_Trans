@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Production.label>Production</Production.label>
-  <Production.description>Structures used for producing goods.</Production.description>
+  <Production.label>生产</Production.label>
+  <Production.description>用于生产产品的建筑。</Production.description>
 
-  <Furniture.label>Furniture</Furniture.label>
-  <Furniture.description>Small furniture constructions.</Furniture.description>
+  <Furniture.label>家具</Furniture.label>
+  <Furniture.description>家具建筑。</Furniture.description>
 
-  <Accessories.label>Accessories</Accessories.label>
-  <Accessories.description>Small constructions.</Accessories.description>
+  <Accessories.label>辅助建筑</Accessories.label>
+  <Accessories.description>小型辅助建筑。</Accessories.description>
 
-  <Security.label>Security</Security.label>
-  <Security.description>Security and combat-oriented constructions.</Security.description>
+  <Security.label>防卫</Security.label>
+  <Security.description>防卫和战斗相关的工事、设施。</Security.description>
 
-  <Power.label>Power</Power.label>
-  <Power.description>Electricity production, transmission and management.</Power.description>
+  <Power.label>电力</Power.label>
+  <Power.description>发电、输电和管理电网的设施。</Power.description>
 
-  <Floors.label>Home Floors</Floors.label>
-  <Floors.description>Wood and carpet flooring.</Floors.description>
+  <Floors.label>室内地板</Floors.label>
+  <Floors.description>木质地板或者各种地毯。</Floors.description>
 
-  <OutsideFloors.label>Special Floors</OutsideFloors.label>
-  <OutsideFloors.description>Metal flooring and growing soils.</OutsideFloors.description>
+  <OutsideFloors.label>特殊地板</OutsideFloors.label>
+  <OutsideFloors.description>金属地板或者种植土壤。</OutsideFloors.description>
 
-  <Misc.label>Misc</Misc.label>
-  <Misc.description>Miscellaneous constructibles.</Misc.description>
+  <Misc.label>杂项</Misc.label>
+  <Misc.description>各种杂项建造。</Misc.description>
 
-  <NaturalFloors.label>Natural Floors</NaturalFloors.label>
-  <NaturalFloors.description>Stone, sand and clay tiled flooring.</NaturalFloors.description>
+  <NaturalFloors.label>自然地板</NaturalFloors.label>
+  <NaturalFloors.description>石头、沙子或者黏土类型的地板。</NaturalFloors.description>
 
-  <Ship.label>Ship</Ship.label>
-  <Ship.description>Components of your escape ship.</Ship.description>
+  <Ship.label>飞船</Ship.label>
+  <Ship.description>你逃离星球所必需的飞船零部件。</Ship.description>
 
-  <Temperature.label>Temperature</Temperature.label>
-  <Temperature.description>Things for controlling temperature.</Temperature.description>
+  <Temperature.label>温度</Temperature.label>
+  <Temperature.description>用于控制温度的各种设备。</Temperature.description>
 
-  <Joy.label>Joy</Joy.label>
-  <Joy.description>Entertaining or pleasurable things for colonists to enjoy.</Joy.description>
+  <Joy.label>娱乐</Joy.label>
+  <Joy.description>让殖民者享受娱乐的设施。</Joy.description>
 
 
 </LanguageData>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ElectricShock.label>Electroshocked</ElectricShock.label>
-  <ElectricShock.comps.0.labelTendedWell>bandaged</ElectricShock.comps.0.labelTendedWell>
-  <ElectricShock.comps.0.labelTendedWellInner>sutured</ElectricShock.comps.0.labelTendedWellInner>
-  <ElectricShock.comps.0.labelSolidTendedWell>set</ElectricShock.comps.0.labelSolidTendedWell>
-  <ElectricShock.injuryProps.destroyedLabel>Destroyed</ElectricShock.injuryProps.destroyedLabel>
-  <ElectricShock.labelNoun>an electric shock</ElectricShock.labelNoun>
+  <ElectricShock.label>电颤</ElectricShock.label>
+  <ElectricShock.comps.0.labelTendedWell>已包扎</ElectricShock.comps.0.labelTendedWell>
+  <ElectricShock.comps.0.labelTendedWellInner>已缝合</ElectricShock.comps.0.labelTendedWellInner>
+  <ElectricShock.comps.0.labelSolidTendedWell>已固定</ElectricShock.comps.0.labelSolidTendedWell>
+  <ElectricShock.injuryProps.destroyedLabel>已摧毁</ElectricShock.injuryProps.destroyedLabel>
+  <ElectricShock.labelNoun>电击器</ElectricShock.labelNoun>
 
 
 </LanguageData>
