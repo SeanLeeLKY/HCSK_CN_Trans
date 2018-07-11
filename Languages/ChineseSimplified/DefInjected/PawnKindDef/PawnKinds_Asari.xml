@@ -1,54 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Asari Bases -->
+<!-- Asari Bases -->
 
-  <AsariCrewMember.label>Crew member</AsariCrewMember.label>
-  <AsariCrewMember.labelPlural>Crew members</AsariCrewMember.labelPlural>
-  <AsariCrewMember.labelMale>male Crew member</AsariCrewMember.labelMale>
-  <AsariCrewMember.labelMalePlural>male Crew members</AsariCrewMember.labelMalePlural>
-  <AsariCrewMember.labelFemale>female Crew member</AsariCrewMember.labelFemale>
-  <AsariCrewMember.labelFemalePlural>female Crew members</AsariCrewMember.labelFemalePlural>
+  <AsariCrewMember.label>船员</AsariCrewMember.label>
+  <AsariCrewMember.labelPlural>船员</AsariCrewMember.labelPlural>
+  <AsariCrewMember.labelMale>男性船员</AsariCrewMember.labelMale>
+  <AsariCrewMember.labelMalePlural>男性船员</AsariCrewMember.labelMalePlural>
+  <AsariCrewMember.labelFemale>女性船员</AsariCrewMember.labelFemale>
+  <AsariCrewMember.labelFemalePlural>女性船员</AsariCrewMember.labelFemalePlural>
 
 
   <!-- Supreme Admiral -->
 
-  <AsariSupremeAdmiral.label>Supreme admiral</AsariSupremeAdmiral.label>
-  <AsariSupremeAdmiral.labelPlural>Supreme admirals</AsariSupremeAdmiral.labelPlural>
-  <AsariSupremeAdmiral.labelMale>male Supreme admiral</AsariSupremeAdmiral.labelMale>
-  <AsariSupremeAdmiral.labelMalePlural>male Supreme admirals</AsariSupremeAdmiral.labelMalePlural>
-  <AsariSupremeAdmiral.labelFemale>female Supreme admiral</AsariSupremeAdmiral.labelFemale>
-  <AsariSupremeAdmiral.labelFemalePlural>female Supreme admirals</AsariSupremeAdmiral.labelFemalePlural>
+  <AsariSupremeAdmiral.label>舰队司令</AsariSupremeAdmiral.label>
+  <AsariSupremeAdmiral.labelPlural>舰队司令</AsariSupremeAdmiral.labelPlural>
+  <AsariSupremeAdmiral.labelMale>男性舰队司令</AsariSupremeAdmiral.labelMale>
+  <AsariSupremeAdmiral.labelMalePlural>男性舰队司令</AsariSupremeAdmiral.labelMalePlural>
+  <AsariSupremeAdmiral.labelFemale>女性舰队司令</AsariSupremeAdmiral.labelFemale>
+  <AsariSupremeAdmiral.labelFemalePlural>女性舰队司令</AsariSupremeAdmiral.labelFemalePlural>
 
 
   <!-- Commando -->
 
-  <AsariCommando.label>Commando</AsariCommando.label>
-  <AsariCommando.labelPlural>Commandos</AsariCommando.labelPlural>
-  <AsariCommando.labelMale>male Commando</AsariCommando.labelMale>
-  <AsariCommando.labelMalePlural>male Commandos</AsariCommando.labelMalePlural>
-  <AsariCommando.labelFemale>female Commando</AsariCommando.labelFemale>
-  <AsariCommando.labelFemalePlural>female Commandos</AsariCommando.labelFemalePlural>
+  <AsariCommando.label>突击队员</AsariCommando.label>
+  <AsariCommando.labelPlural>突击队员</AsariCommando.labelPlural>
+  <AsariCommando.labelMale>男性突击队员</AsariCommando.labelMale>
+  <AsariCommando.labelMalePlural>男性突击队员</AsariCommando.labelMalePlural>
+  <AsariCommando.labelFemale>女性突击队员</AsariCommando.labelFemale>
+  <AsariCommando.labelFemalePlural>女性突击队员</AsariCommando.labelFemalePlural>
 
 
   <!-- Vanguard -->
 
-  <AsariVanguard.label>Vanguard</AsariVanguard.label>
-  <AsariVanguard.labelPlural>Vanguards</AsariVanguard.labelPlural>
-  <AsariVanguard.labelMale>male Vanguard</AsariVanguard.labelMale>
-  <AsariVanguard.labelMalePlural>male Vanguards</AsariVanguard.labelMalePlural>
-  <AsariVanguard.labelFemale>female Vanguard</AsariVanguard.labelFemale>
-  <AsariVanguard.labelFemalePlural>female Vanguards</AsariVanguard.labelFemalePlural>
+  <AsariVanguard.label>先锋</AsariVanguard.label>
+  <AsariVanguard.labelPlural>先锋</AsariVanguard.labelPlural>
+  <AsariVanguard.labelMale>男性先锋</AsariVanguard.labelMale>
+  <AsariVanguard.labelMalePlural>男性先锋</AsariVanguard.labelMalePlural>
+  <AsariVanguard.labelFemale>女性先锋</AsariVanguard.labelFemale>
+  <AsariVanguard.labelFemalePlural>女性先锋</AsariVanguard.labelFemalePlural>
 
 
   <!-- Infiltrator -->
 
-  <AsariInfiltrator.label>Infiltrator</AsariInfiltrator.label>
-  <AsariInfiltrator.labelPlural>Infiltrators</AsariInfiltrator.labelPlural>
-  <AsariInfiltrator.labelMale>male Infiltrator</AsariInfiltrator.labelMale>
-  <AsariInfiltrator.labelMalePlural>male Infiltrators</AsariInfiltrator.labelMalePlural>
-  <AsariInfiltrator.labelFemale>female Infiltrator</AsariInfiltrator.labelFemale>
-  <AsariInfiltrator.labelFemalePlural>female Infiltrators</AsariInfiltrator.labelFemalePlural>
+  <AsariInfiltrator.label>渗透者</AsariInfiltrator.label>
+  <AsariInfiltrator.labelPlural>渗透者</AsariInfiltrator.labelPlural>
+  <AsariInfiltrator.labelMale>男性渗透者</AsariInfiltrator.labelMale>
+  <AsariInfiltrator.labelMalePlural>男性渗透者</AsariInfiltrator.labelMalePlural>
+  <AsariInfiltrator.labelFemale>女性渗透者</AsariInfiltrator.labelFemale>
+  <AsariInfiltrator.labelFemalePlural>女性渗透者</AsariInfiltrator.labelFemalePlural>
 
 
 </LanguageData>

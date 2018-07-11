@@ -11,12 +11,12 @@
   <MakeAdvancedComponent.description>Assemble components from metal. Quite fast. Produces 24.</MakeAdvancedComponent.description>
   <MakeAdvancedComponent.jobString>Assembling components.</MakeAdvancedComponent.jobString>
 
-  <MakeWires_Hand.label>Craft wires</MakeWires_Hand.label>
-  <MakeWires_Hand.description>Craft wires from high conductivity metals. Quite slow. Produces 20.</MakeWires_Hand.description>
+  <MakeWires_Hand.label>制造 wires</MakeWires_Hand.label>
+  <MakeWires_Hand.description>制造 wires from high conductivity metals. Quite slow. Produces 20.</MakeWires_Hand.description>
   <MakeWires_Hand.jobString>Crafting wires.</MakeWires_Hand.jobString>
 
-  <MakeWires_Electric.label>Craft wires</MakeWires_Electric.label>
-  <MakeWires_Electric.description>Craft wires from high conductivity metals. Quite fast. Produces 40.</MakeWires_Electric.description>
+  <MakeWires_Electric.label>制造 wires</MakeWires_Electric.label>
+  <MakeWires_Electric.description>制造 wires from high conductivity metals. Quite fast. Produces 40.</MakeWires_Electric.description>
   <MakeWires_Electric.jobString>Crafting wires.</MakeWires_Electric.jobString>
 
   <MakeSand_Hand.label>crush rubble into sand</MakeSand_Hand.label>
@@ -75,12 +75,12 @@
   <MakeAdvMechanism_Electric.description>Assemble advanced mechanisms. Advanced mechanisms are intricate gear-like parts for use in complex machines or workbenches. Quite fast. Produces 10.</MakeAdvMechanism_Electric.description>
   <MakeAdvMechanism_Electric.jobString>Assembling advanced mechanisms.</MakeAdvMechanism_Electric.jobString>
 
-  <MakeMetalCan.label>craft metal cans</MakeMetalCan.label>
-  <MakeMetalCan.description>Craft cans from metal. Cans are typically used to preserve food when there are no freezers nearby. Produces 10.</MakeMetalCan.description>
+  <MakeMetalCan.label>制造 metal cans</MakeMetalCan.label>
+  <MakeMetalCan.description>制造 cans from metal. Cans are typically used to preserve food when there are no freezers nearby. Produces 10.</MakeMetalCan.description>
   <MakeMetalCan.jobString>Crafting metal cans.</MakeMetalCan.jobString>
 
-  <MakeMendingKit.label>craft mending kits</MakeMendingKit.label>
-  <MakeMendingKit.description>Craft mending kits from various materials. Produces enough to re-stock the mending table.</MakeMendingKit.description>
+  <MakeMendingKit.label>制造 mending kits</MakeMendingKit.label>
+  <MakeMendingKit.description>制造 mending kits from various materials. Produces enough to re-stock the mending table.</MakeMendingKit.description>
   <MakeMendingKit.jobString>Crafting mending kit.</MakeMendingKit.jobString>
 
 

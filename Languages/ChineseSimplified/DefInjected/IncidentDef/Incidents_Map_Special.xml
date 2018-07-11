@@ -3,29 +3,29 @@
 
   <!-- ShipChunkDrop -->
 
-  <ShipChunkDrop.label>ship chunk drop</ShipChunkDrop.label>
+  <ShipChunkDrop.label>飞船残骸坠落</ShipChunkDrop.label>
 
 
   <!-- OrbitalVisitor -->
 
-  <OrbitalTraderArrival.label>orbital trader arrival</OrbitalTraderArrival.label>
+  <OrbitalTraderArrival.label>轨道贸易商</OrbitalTraderArrival.label>
 
 
   <!-- AllyArrival -->
 
-  <TraderCaravanArrival.label>trader caravan arrival</TraderCaravanArrival.label>
-  <VisitorGroup.label>visitor group</VisitorGroup.label>
-  <TravelerGroup.label>traveler group</TravelerGroup.label>
+  <TraderCaravanArrival.label>贸易商队</TraderCaravanArrival.label>
+  <VisitorGroup.label>访客</VisitorGroup.label>
+  <TravelerGroup.label>旅行者</TravelerGroup.label>
 
 
   <!-- AllyAssistance -->
 
-  <RaidFriendly.label>friendly raid</RaidFriendly.label>
+  <RaidFriendly.label>援军</RaidFriendly.label>
 
 
   <!-- Raid-beacon-attracted events -->
 
-  <RaidEnemyEscapeShip.label>enemy raid</RaidEnemyEscapeShip.label>
+  <RaidEnemyEscapeShip.label>敌袭</RaidEnemyEscapeShip.label>
 
 
 </LanguageData>

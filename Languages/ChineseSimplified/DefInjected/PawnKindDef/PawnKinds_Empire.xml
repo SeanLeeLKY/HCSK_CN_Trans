@@ -3,51 +3,51 @@
 
   <!-- Desperado -->
 
-  <EmpireDesperado.label>Empire Desperado</EmpireDesperado.label>
-  <EmpireDesperado.labelPlural>Empire Desperados</EmpireDesperado.labelPlural>
+  <EmpireDesperado.label>帝国暴徒</EmpireDesperado.label>
+  <EmpireDesperado.labelPlural>帝国暴徒</EmpireDesperado.labelPlural>
 
 
   <!-- Brigand -->
 
-  <EmpireBrigand.label>Empire Brigand</EmpireBrigand.label>
-  <EmpireBrigand.labelPlural>Empire Brigands</EmpireBrigand.labelPlural>
-  <EmpireBrigand.labelMale>male Empire Brigand</EmpireBrigand.labelMale>
-  <EmpireBrigand.labelMalePlural>male Empire Brigands</EmpireBrigand.labelMalePlural>
-  <EmpireBrigand.labelFemale>female Empire Brigand</EmpireBrigand.labelFemale>
-  <EmpireBrigand.labelFemalePlural>female Empire Brigands</EmpireBrigand.labelFemalePlural>
+  <EmpireBrigand.label>帝国强盗</EmpireBrigand.label>
+  <EmpireBrigand.labelPlural>帝国强盗</EmpireBrigand.labelPlural>
+  <EmpireBrigand.labelMale>男性帝国强盗</EmpireBrigand.labelMale>
+  <EmpireBrigand.labelMalePlural>男性帝国强盗</EmpireBrigand.labelMalePlural>
+  <EmpireBrigand.labelFemale>女性帝国强盗</EmpireBrigand.labelFemale>
+  <EmpireBrigand.labelFemalePlural>女性帝国强盗</EmpireBrigand.labelFemalePlural>
 
 
   <!-- Trader -->
 
-  <EmpireTrader.label>Empire trader</EmpireTrader.label>
-  <EmpireTrader.labelPlural>Empire traders</EmpireTrader.labelPlural>
-  <EmpireTrader.labelMale>male Empire trader</EmpireTrader.labelMale>
-  <EmpireTrader.labelMalePlural>male Empire traders</EmpireTrader.labelMalePlural>
-  <EmpireTrader.labelFemale>female Empire trader</EmpireTrader.labelFemale>
-  <EmpireTrader.labelFemalePlural>female Empire traders</EmpireTrader.labelFemalePlural>
+  <EmpireTrader.label>帝国商人</EmpireTrader.label>
+  <EmpireTrader.labelPlural>帝国商人</EmpireTrader.labelPlural>
+  <EmpireTrader.labelMale>男性帝国商人</EmpireTrader.labelMale>
+  <EmpireTrader.labelMalePlural>男性帝国商人</EmpireTrader.labelMalePlural>
+  <EmpireTrader.labelFemale>女性帝国商人</EmpireTrader.labelFemale>
+  <EmpireTrader.labelFemalePlural>女性帝国商人</EmpireTrader.labelFemalePlural>
 
-  <EmpireHessian.label>Empire Hessian</EmpireHessian.label>
-  <EmpireHessian.labelPlural>Empire Hessians</EmpireHessian.labelPlural>
-  <EmpireHessian.labelMale>male Empire Hessian</EmpireHessian.labelMale>
-  <EmpireHessian.labelMalePlural>male Empire Hessians</EmpireHessian.labelMalePlural>
-  <EmpireHessian.labelFemale>female Empire Hessian</EmpireHessian.labelFemale>
-  <EmpireHessian.labelFemalePlural>female Empire Hessians</EmpireHessian.labelFemalePlural>
+  <EmpireHessian.label>帝国雇佣兵</EmpireHessian.label>
+  <EmpireHessian.labelPlural>帝国雇佣兵</EmpireHessian.labelPlural>
+  <EmpireHessian.labelMale>男性帝国雇佣兵</EmpireHessian.labelMale>
+  <EmpireHessian.labelMalePlural>男性帝国雇佣兵</EmpireHessian.labelMalePlural>
+  <EmpireHessian.labelFemale>女性帝国雇佣兵</EmpireHessian.labelFemale>
+  <EmpireHessian.labelFemalePlural>女性帝国雇佣兵</EmpireHessian.labelFemalePlural>
 
 
   <!-- Exploder -->
 
-  <EmpireExploder.label>Empire Exploder</EmpireExploder.label>
-  <EmpireExploder.labelPlural>Empire Exploders</EmpireExploder.labelPlural>
+  <EmpireExploder.label>帝国探索者</EmpireExploder.label>
+  <EmpireExploder.labelPlural>帝国探索者</EmpireExploder.labelPlural>
 
 
   <!-- King -->
 
-  <EmpireKing.label>Empire King</EmpireKing.label>
-  <EmpireKing.labelPlural>Empire Kings</EmpireKing.labelPlural>
-  <EmpireKing.labelMale>male Empire King</EmpireKing.labelMale>
-  <EmpireKing.labelMalePlural>male Empire Kings</EmpireKing.labelMalePlural>
-  <EmpireKing.labelFemale>female Empire King</EmpireKing.labelFemale>
-  <EmpireKing.labelFemalePlural>female Empire Kings</EmpireKing.labelFemalePlural>
+  <EmpireKing.label>帝国亲王</EmpireKing.label>
+  <EmpireKing.labelPlural>帝国亲王</EmpireKing.labelPlural>
+  <EmpireKing.labelMale>男性帝国亲王</EmpireKing.labelMale>
+  <EmpireKing.labelMalePlural>男性帝国亲王</EmpireKing.labelMalePlural>
+  <EmpireKing.labelFemale>女性帝国亲王</EmpireKing.labelFemale>
+  <EmpireKing.labelFemalePlural>女性帝国亲王</EmpireKing.labelFemalePlural>
 
 
 </LanguageData>

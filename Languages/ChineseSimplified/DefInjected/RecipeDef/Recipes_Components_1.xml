@@ -12,11 +12,11 @@
   <MakeAdvancedComponent.jobString>Assembling components.</MakeAdvancedComponent.jobString>
 
   <MakeWires_Hand.label>制作电线</MakeWires_Hand.label>
-  <MakeWires_Hand.description>Craft wires from high conductivity metals. Quite slow. Produces 20.</MakeWires_Hand.description>
+  <MakeWires_Hand.description>制造 wires from high conductivity metals. Quite slow. Produces 20.</MakeWires_Hand.description>
   <MakeWires_Hand.jobString>制作电线</MakeWires_Hand.jobString>
 
   <MakeWires_Electric.label>制作电线</MakeWires_Electric.label>
-  <MakeWires_Electric.description>Craft wires from high conductivity metals. Quite fast. Produces 40.</MakeWires_Electric.description>
+  <MakeWires_Electric.description>制造 wires from high conductivity metals. Quite fast. Produces 40.</MakeWires_Electric.description>
   <MakeWires_Electric.jobString>制作电线</MakeWires_Electric.jobString>
 
   <MakeSand_Hand.label>将碎石碾磨成沙子</MakeSand_Hand.label>
@@ -76,11 +76,11 @@
   <MakeAdvMechanism_Electric.jobString>组装先进机械组件</MakeAdvMechanism_Electric.jobString>
 
   <MakeMetalCan.label>制作金属罐</MakeMetalCan.label>
-  <MakeMetalCan.description>Craft cans from metal. Cans are typically used to preserve food when there are no freezers nearby. Produces 10.</MakeMetalCan.description>
+  <MakeMetalCan.description>制造 cans from metal. Cans are typically used to preserve food when there are no freezers nearby. Produces 10.</MakeMetalCan.description>
   <MakeMetalCan.jobString>制作金属罐</MakeMetalCan.jobString>
 
   <MakeMendingKit.label>制作修理包</MakeMendingKit.label>
-  <MakeMendingKit.description>Craft mending kits from various materials. Produces enough to re-stock the mending table.</MakeMendingKit.description>
+  <MakeMendingKit.description>制造 mending kits from various materials. Produces enough to re-stock the mending table.</MakeMendingKit.description>
   <MakeMendingKit.jobString>制作修理包</MakeMendingKit.jobString>
 
 

@@ -32,8 +32,8 @@
 
   <!-- Hex cell -->
 
-  <MakeHexcell.label>Craft hex-cells</MakeHexcell.label>
-  <MakeHexcell.description>Craft hex-cells. These are used as power source in various pieces of high-tech armor. Produces 10.</MakeHexcell.description>
+  <MakeHexcell.label>制造 hex-cells</MakeHexcell.label>
+  <MakeHexcell.description>制造 hex-cells. These are used as power source in various pieces of high-tech armor. Produces 10.</MakeHexcell.description>
   <MakeHexcell.jobString>Crafting hex-cells.</MakeHexcell.jobString>
 
 

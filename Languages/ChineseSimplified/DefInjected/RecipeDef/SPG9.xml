@@ -3,13 +3,13 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_SPG9Grenade_HEAT.label>make SPG-9 HEAT grenades x1</MakeAmmo_SPG9Grenade_HEAT.label>
-  <MakeAmmo_SPG9Grenade_HEAT.description>Craft 5 SPG-9 HEAT grenades.</MakeAmmo_SPG9Grenade_HEAT.description>
-  <MakeAmmo_SPG9Grenade_HEAT.jobString>Making SPG-9 HEAT grenades.</MakeAmmo_SPG9Grenade_HEAT.jobString>
+  <MakeAmmo_SPG9Grenade_HEAT.label>制造 SPG-9 HEAT grenades x1</MakeAmmo_SPG9Grenade_HEAT.label>
+  <MakeAmmo_SPG9Grenade_HEAT.description>制造 5 SPG-9 HEAT grenades.</MakeAmmo_SPG9Grenade_HEAT.description>
+  <MakeAmmo_SPG9Grenade_HEAT.jobString>制造 SPG-9 HEAT grenades.</MakeAmmo_SPG9Grenade_HEAT.jobString>
 
-  <MakeAmmo_SPG9Grenade_Frag.label>make SPG-9 frag grenades x1</MakeAmmo_SPG9Grenade_Frag.label>
-  <MakeAmmo_SPG9Grenade_Frag.description>Craft 1 SPG-9 frag grenades.</MakeAmmo_SPG9Grenade_Frag.description>
-  <MakeAmmo_SPG9Grenade_Frag.jobString>Making SPG-9 frag grenades.</MakeAmmo_SPG9Grenade_Frag.jobString>
+  <MakeAmmo_SPG9Grenade_Frag.label>制造 SPG-9 frag grenades x1</MakeAmmo_SPG9Grenade_Frag.label>
+  <MakeAmmo_SPG9Grenade_Frag.description>制造 1 SPG-9 frag grenades.</MakeAmmo_SPG9Grenade_Frag.description>
+  <MakeAmmo_SPG9Grenade_Frag.jobString>制造 SPG-9 frag grenades.</MakeAmmo_SPG9Grenade_Frag.jobString>
 
 
 </LanguageData>

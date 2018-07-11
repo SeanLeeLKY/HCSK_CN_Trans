@@ -3,73 +3,73 @@
 
   <!-- Good -->
 
-  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
-  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
-  <SelfTame.label>self-tame</SelfTame.label>
+  <ResourcePodCrash.label>资源舱坠毁</ResourcePodCrash.label>
+  <PsychicSoothe.label>心灵抚慰波</PsychicSoothe.label>
+  <SelfTame.label>野兽自行驯服</SelfTame.label>
 
-  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
-  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
-  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.label>仙馐树萌芽</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterText>附近有一片神秘的仙馐树发芽了！如果你等这些植物长成，你可以收获美味的、令人愉悦的、成瘾性轻微的果子。</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterLabel>仙馐树萌芽</AmbrosiaSprout.letterLabel>
 
-  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
-  <WandererJoin.label>wanderer join</WandererJoin.label>
-  <RefugeePodCrash.label>refugee pod crash</RefugeePodCrash.label>
+  <FarmAnimalsWanderIn.label>家养动物加入</FarmAnimalsWanderIn.label>
+  <WandererJoin.label>流浪者加入</WandererJoin.label>
+  <RefugeePodCrash.label>逃生舱坠毁</RefugeePodCrash.label>
 
 
   <!-- Neutral -->
 
-  <RefugeeChased.label>chased refugee</RefugeeChased.label>
-  <ThrumboPasses.label>thrumbos pass</ThrumboPasses.label>
+  <RefugeeChased.label>被追捕的逃生者</RefugeeChased.label>
+  <ThrumboPasses.label>敲击兽经过</ThrumboPasses.label>
 
-  <RansomDemand.label>ransom demand</RansomDemand.label>
-  <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
+  <RansomDemand.label>索取赎金</RansomDemand.label>
+  <RansomDemand.letterLabel>索取赎金</RansomDemand.letterLabel>
 
-  <CaravanRequest.label>caravan request</CaravanRequest.label>
+  <CaravanRequest.label>远行队请求</CaravanRequest.label>
 
-  <MeteoriteImpact.label>meteorite impact</MeteoriteImpact.label>
-  <MeteoriteImpact.letterText>A large meteorite has struck ground in the area. It has left behind a lump of {0}.</MeteoriteImpact.letterText>
-  <MeteoriteImpact.letterLabel>Meteorite</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.label>陨石撞击</MeteoriteImpact.label>
+  <MeteoriteImpact.letterText>一颗巨大的陨石撞击了此区域的地面。留下了一块{0}。</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterLabel>陨石</MeteoriteImpact.letterLabel>
 
-  <HerdMigration.label>herd migration</HerdMigration.label>
-  <HerdMigration.letterText>A large herd of {0} is passing through the area. They won't attack unless provoked.</HerdMigration.letterText>
-  <HerdMigration.letterLabel>Herd migration: {0}</HerdMigration.letterLabel>
+  <HerdMigration.label>兽群迁徙</HerdMigration.label>
+  <HerdMigration.letterText>一个大型的{0}群正在经过此区域。除非被激怒，它们不会攻击你。</HerdMigration.letterText>
+  <HerdMigration.letterLabel>兽群迁徙: {0}</HerdMigration.letterLabel>
 
 
   <!-- Bad -->
 
-  <PsychicDrone.label>psychic drone</PsychicDrone.label>
+  <PsychicDrone.label>心灵低语</PsychicDrone.label>
 
-  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
-  <ToxicFallout.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season.</ToxicFallout.letterText>
-  <ToxicFallout.letterLabel>Toxic fallout</ToxicFallout.letterLabel>
+  <ToxicFallout.label>有毒尘埃</ToxicFallout.label>
+  <ToxicFallout.letterText>遥远地方的一起化学品火灾释放的有毒尘埃弥漫了整个地区。\n\n不在屋顶下的人类和动物都会慢慢被有空气中的有毒粉尘致病。\n\n毒雾会持续在几天或超过一个月。</ToxicFallout.letterText>
+  <ToxicFallout.letterLabel>有毒尘埃</ToxicFallout.letterLabel>
 
-  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
-  <VolcanicWinter.letterText>A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many seasons.</VolcanicWinter.letterText>
-  <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
+  <VolcanicWinter.label>火山冬天</VolcanicWinter.label>
+  <VolcanicWinter.letterText>一个遥远的超级火山爆发了，喷出的火山灰散布在数百万平方公里的大气中。\n\n火山灰在大气中遮蔽了太阳。气温下降、植物会缺乏阳光而枯萎。火山灰有可能在几周内散去，或者持续几个月。</VolcanicWinter.letterText>
+  <VolcanicWinter.letterLabel>火山冬天</VolcanicWinter.letterLabel>
 
-  <HeatWave.label>heat wave</HeatWave.label>
-  <HeatWave.letterText>An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain.</HeatWave.letterText>
-  <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
+  <HeatWave.label>热浪</HeatWave.label>
+  <HeatWave.letterText>一场罕见的热浪开始了。\n\n在热浪中如果中暑，极易死亡。建造冷却器来降温或呆在清凉的山洞深处。</HeatWave.letterText>
+  <HeatWave.letterLabel>热浪</HeatWave.letterLabel>
 
-  <ColdSnap.label>cold snap</ColdSnap.label>
-  <ColdSnap.letterText>An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.</ColdSnap.letterText>
-  <ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
+  <ColdSnap.label>寒流</ColdSnap.label>
+  <ColdSnap.letterText>一场罕见的寒流开始了。\n\n寒流中，低温症是致命的。确保室内的热量才能生存下去，穿上合适的衣物，并且设法在作物冻死之前进行收获。</ColdSnap.letterText>
+  <ColdSnap.letterLabel>寒流</ColdSnap.letterLabel>
 
-  <Aurora.label>aurora</Aurora.label>
-  <Aurora.letterText>A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter.</Aurora.letterText>
-  <Aurora.letterLabel>Aurora</Aurora.letterLabel>
+  <Aurora.label>极光</Aurora.label>
+  <Aurora.letterText>一片美丽的极光照亮了天空。\n\n起伏的色彩会让在外面看到的人心情愉悦，并使夜晚变得更加明亮。</Aurora.letterText>
+  <Aurora.letterLabel>极光</Aurora.letterLabel>
 
-  <Flashstorm.label>flashstorm</Flashstorm.label>
-  <Flashstorm.letterText>A freak localized flashstorm is striking a small area with lightning. This can cause massive fires.</Flashstorm.letterText>
-  <Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
+  <Flashstorm.label>闪电风暴</Flashstorm.label>
+  <Flashstorm.letterText>极少量的闪电击中一个小区域。这会引起巨大的火灾。</Flashstorm.letterText>
+  <Flashstorm.letterLabel>闪电风暴</Flashstorm.letterLabel>
 
-  <Tornado.label>tornado</Tornado.label>
-  <Tornado.letterText>A tornado has formed!\n\nIt will cut a path of destruction through the area.</Tornado.letterText>
-  <Tornado.letterLabel>Tornado</Tornado.letterLabel>
+  <Tornado.label>龙卷风</Tornado.label>
+  <Tornado.letterText>一个龙卷风生成了！\n\n它会将所到之处的一切摧毁。</Tornado.letterText>
+  <Tornado.letterLabel>龙卷风</Tornado.letterLabel>
 
-  <ShortCircuit.label>short circuit</ShortCircuit.label>
-  <CropBlight.label>crop blight</CropBlight.label>
-  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
+  <ShortCircuit.label>短路</ShortCircuit.label>
+  <CropBlight.label>枯萎病</CropBlight.label>
+  <Alphabeavers.label>阿尔法海狸</Alphabeavers.label>
 
 
 </LanguageData>

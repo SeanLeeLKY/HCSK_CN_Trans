@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Ogre Bases -->
+  <!-- 奥格Bases -->
 
-  <Ogre.label>Ogre</Ogre.label>
-  <Ogre.labelPlural>Ogres</Ogre.labelPlural>
-  <Ogre.labelMale>male Ogre</Ogre.labelMale>
-  <Ogre.labelMalePlural>male Ogres</Ogre.labelMalePlural>
-  <Ogre.labelFemale>female Ogre</Ogre.labelFemale>
-  <Ogre.labelFemalePlural>female Ogres</Ogre.labelFemalePlural>
+  <Ogre.label>奥格</Ogre.label>
+  <Ogre.labelPlural>奥格</Ogre.labelPlural>
+  <Ogre.labelMale>男性奥格</Ogre.labelMale>
+  <Ogre.labelMalePlural>男性奥格</Ogre.labelMalePlural>
+  <Ogre.labelFemale>女性奥格</Ogre.labelFemale>
+  <Ogre.labelFemalePlural>女性奥格</Ogre.labelFemalePlural>
 
 
   <!-- Destroyer -->
 
-  <OgreDES.label>Ogre destroyer</OgreDES.label>
-  <OgreDES.labelPlural>Ogre destroyers</OgreDES.labelPlural>
-  <OgreDES.labelMale>male Ogre destroyer</OgreDES.labelMale>
-  <OgreDES.labelMalePlural>male Ogre destroyers</OgreDES.labelMalePlural>
-  <OgreDES.labelFemale>female Ogre destroyer</OgreDES.labelFemale>
-  <OgreDES.labelFemalePlural>female Ogre destroyers</OgreDES.labelFemalePlural>
+  <OgreDES.label>奥格破坏者</OgreDES.label>
+  <OgreDES.labelPlural>奥格破坏者</OgreDES.labelPlural>
+  <OgreDES.labelMale>男性奥格破坏者</OgreDES.labelMale>
+  <OgreDES.labelMalePlural>男性奥格破坏者</OgreDES.labelMalePlural>
+  <OgreDES.labelFemale>女性奥格破坏者</OgreDES.labelFemale>
+  <OgreDES.labelFemalePlural>女性奥格破坏者</OgreDES.labelFemalePlural>
 
 
   <!-- Devastator -->
 
-  <OgreDEV.label>Ogre Devastator</OgreDEV.label>
-  <OgreDEV.labelPlural>Ogre Devastators</OgreDEV.labelPlural>
-  <OgreDEV.labelMale>male Ogre Devastator</OgreDEV.labelMale>
-  <OgreDEV.labelMalePlural>male Ogre Devastators</OgreDEV.labelMalePlural>
-  <OgreDEV.labelFemale>female Ogre Devastator</OgreDEV.labelFemale>
-  <OgreDEV.labelFemalePlural>female Ogre Devastators</OgreDEV.labelFemalePlural>
+  <OgreDEV.label>奥格毁灭者</OgreDEV.label>
+  <OgreDEV.labelPlural>奥格毁灭者</OgreDEV.labelPlural>
+  <OgreDEV.labelMale>男性奥格毁灭者</OgreDEV.labelMale>
+  <OgreDEV.labelMalePlural>男性奥格毁灭者</OgreDEV.labelMalePlural>
+  <OgreDEV.labelFemale>女性奥格毁灭者</OgreDEV.labelFemale>
+  <OgreDEV.labelFemalePlural>女性奥格毁灭者</OgreDEV.labelFemalePlural>
 
 
 </LanguageData>

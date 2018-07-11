@@ -154,78 +154,9 @@
   <WoolyRhino.labelFemalePlural>雌性披毛犀</WoolyRhino.labelFemalePlural>
 
 
-  <!--[Core] <Elephant.label>象</Elephant.label>-->
-  <!--[Core] <Elephant.labelPlural>象</Elephant.labelPlural>-->
-  <!--[Core] <Elephant.lifeStages.0.label>象幼崽</Elephant.lifeStages.0.label>-->
-  <!--[Core] <Elephant.lifeStages.0.labelPlural>象幼崽</Elephant.lifeStages.0.labelPlural>-->
-  <!--[Core] <Elephant.lifeStages.0.labelMale>象幼崽</Elephant.lifeStages.0.labelMale>-->
-  <!--[Core] <Elephant.lifeStages.0.labelMalePlural>象幼崽</Elephant.lifeStages.0.labelMalePlural>-->
-  <!--[Core] <Elephant.lifeStages.0.labelFemale>象幼崽</Elephant.lifeStages.0.labelFemale>-->
-  <!--[Core] <Elephant.lifeStages.0.labelFemalePlural>象幼崽</Elephant.lifeStages.0.labelFemalePlural>-->
-  <!--[Core] <Elephant.lifeStages.1.label>幼年象</Elephant.lifeStages.1.label>-->
-  <!--[Core] <Elephant.lifeStages.1.labelPlural>幼年象</Elephant.lifeStages.1.labelPlural>-->
-  <!--[Core] <Elephant.lifeStages.1.labelMale>幼年公象</Elephant.lifeStages.1.labelMale>-->
-  <!--[Core] <Elephant.lifeStages.1.labelMalePlural>幼年公象</Elephant.lifeStages.1.labelMalePlural>-->
-  <!--[Core] <Elephant.lifeStages.1.labelFemale>幼年母象</Elephant.lifeStages.1.labelFemale>-->
-  <!--[Core] <Elephant.lifeStages.1.labelFemalePlural>幼年母象</Elephant.lifeStages.1.labelFemalePlural>-->
-  <!--[Core] <Elephant.lifeStages.2.label>象</Elephant.lifeStages.2.label>-->
-  <!--[Core] <Elephant.lifeStages.2.labelPlural>象</Elephant.lifeStages.2.labelPlural>-->
-  <!--[Core] <Elephant.lifeStages.2.labelMale>公象</Elephant.lifeStages.2.labelMale>-->
-  <!--[Core] <Elephant.lifeStages.2.labelMalePlural>公象</Elephant.lifeStages.2.labelMalePlural>-->
-  <!--[Core] <Elephant.lifeStages.2.labelFemale>母象</Elephant.lifeStages.2.labelFemale>-->
-  <!--[Core] <Elephant.lifeStages.2.labelFemalePlural>母象</Elephant.lifeStages.2.labelFemalePlural>-->
-  <!--[Core] <Elephant.labelMale>公象</Elephant.labelMale>-->
-  <!--[Core] <Elephant.labelMalePlural>公象</Elephant.labelMalePlural>-->
-  <!--[Core] <Elephant.labelFemale>母象</Elephant.labelFemale>-->
-  <!--[Core] <Elephant.labelFemalePlural>母象</Elephant.labelFemalePlural>-->
-  <!--[Core] <Megasloth.label>巨懒</Megasloth.label>-->
-  <!--[Core] <Megasloth.labelPlural>巨懒</Megasloth.labelPlural>-->
-  <!--[Core] <Megasloth.lifeStages.0.label>巨懒幼崽</Megasloth.lifeStages.0.label>-->
-  <!--[Core] <Megasloth.lifeStages.0.labelPlural>巨懒幼崽</Megasloth.lifeStages.0.labelPlural>-->
-  <!--[Core] <Megasloth.lifeStages.0.labelMale>巨懒幼崽</Megasloth.lifeStages.0.labelMale>-->
-  <!--[Core] <Megasloth.lifeStages.0.labelMalePlural>巨懒幼崽</Megasloth.lifeStages.0.labelMalePlural>-->
-  <!--[Core] <Megasloth.lifeStages.0.labelFemale>巨懒幼崽</Megasloth.lifeStages.0.labelFemale>-->
-  <!--[Core] <Megasloth.lifeStages.0.labelFemalePlural>巨懒幼崽</Megasloth.lifeStages.0.labelFemalePlural>-->
-  <!--[Core] <Megasloth.lifeStages.1.label>幼年巨懒</Megasloth.lifeStages.1.label>-->
-  <!--[Core] <Megasloth.lifeStages.1.labelPlural>幼年巨懒</Megasloth.lifeStages.1.labelPlural>-->
-  <!--[Core] <Megasloth.lifeStages.1.labelMale>幼年公巨懒</Megasloth.lifeStages.1.labelMale>-->
-  <!--[Core] <Megasloth.lifeStages.1.labelMalePlural>幼年公巨懒</Megasloth.lifeStages.1.labelMalePlural>-->
-  <!--[Core] <Megasloth.lifeStages.1.labelFemale>幼年母巨懒</Megasloth.lifeStages.1.labelFemale>-->
-  <!--[Core] <Megasloth.lifeStages.1.labelFemalePlural>幼年母巨懒</Megasloth.lifeStages.1.labelFemalePlural>-->
-  <!--[Core] <Megasloth.lifeStages.2.label>巨懒</Megasloth.lifeStages.2.label>-->
-  <!--[Core] <Megasloth.lifeStages.2.labelPlural>巨懒</Megasloth.lifeStages.2.labelPlural>-->
-  <!--[Core] <Megasloth.lifeStages.2.labelMale>公巨懒</Megasloth.lifeStages.2.labelMale>-->
-  <!--[Core] <Megasloth.lifeStages.2.labelMalePlural>公巨懒</Megasloth.lifeStages.2.labelMalePlural>-->
-  <!--[Core] <Megasloth.lifeStages.2.labelFemale>母巨懒</Megasloth.lifeStages.2.labelFemale>-->
-  <!--[Core] <Megasloth.lifeStages.2.labelFemalePlural>母巨懒</Megasloth.lifeStages.2.labelFemalePlural>-->
-  <!--[Core] <Megasloth.labelMale>公巨懒</Megasloth.labelMale>-->
-  <!--[Core] <Megasloth.labelMalePlural>公巨懒</Megasloth.labelMalePlural>-->
-  <!--[Core] <Megasloth.labelFemale>母巨懒</Megasloth.labelFemale>-->
-  <!--[Core] <Megasloth.labelFemalePlural>母巨懒</Megasloth.labelFemalePlural>-->
-  <!--[Core] <Thrumbo.label>敲击兽</Thrumbo.label>-->
-  <!--[Core] <Thrumbo.labelPlural>敲击兽</Thrumbo.labelPlural>-->
-  <!--[Core] <Thrumbo.lifeStages.0.label>敲击兽幼崽</Thrumbo.lifeStages.0.label>-->
-  <!--[Core] <Thrumbo.lifeStages.0.labelPlural>敲击兽幼崽</Thrumbo.lifeStages.0.labelPlural>-->
-  <!--[Core] <Thrumbo.lifeStages.0.labelMale>敲击兽幼崽</Thrumbo.lifeStages.0.labelMale>-->
-  <!--[Core] <Thrumbo.lifeStages.0.labelMalePlural>敲击兽幼崽</Thrumbo.lifeStages.0.labelMalePlural>-->
-  <!--[Core] <Thrumbo.lifeStages.0.labelFemale>敲击兽幼崽</Thrumbo.lifeStages.0.labelFemale>-->
-  <!--[Core] <Thrumbo.lifeStages.0.labelFemalePlural>敲击兽幼崽</Thrumbo.lifeStages.0.labelFemalePlural>-->
-  <!--[Core] <Thrumbo.lifeStages.1.label>幼年敲击兽</Thrumbo.lifeStages.1.label>-->
-  <!--[Core] <Thrumbo.lifeStages.1.labelPlural>幼年敲击兽</Thrumbo.lifeStages.1.labelPlural>-->
-  <!--[Core] <Thrumbo.lifeStages.1.labelMale>幼年公敲击兽</Thrumbo.lifeStages.1.labelMale>-->
-  <!--[Core] <Thrumbo.lifeStages.1.labelMalePlural>幼年公敲击兽</Thrumbo.lifeStages.1.labelMalePlural>-->
-  <!--[Core] <Thrumbo.lifeStages.1.labelFemale>幼年母敲击兽</Thrumbo.lifeStages.1.labelFemale>-->
-  <!--[Core] <Thrumbo.lifeStages.1.labelFemalePlural>幼年母敲击兽</Thrumbo.lifeStages.1.labelFemalePlural>-->
-  <!--[Core] <Thrumbo.lifeStages.2.label>敲击兽</Thrumbo.lifeStages.2.label>-->
-  <!--[Core] <Thrumbo.lifeStages.2.labelPlural>敲击兽</Thrumbo.lifeStages.2.labelPlural>-->
-  <!--[Core] <Thrumbo.lifeStages.2.labelMale>公敲击兽</Thrumbo.lifeStages.2.labelMale>-->
-  <!--[Core] <Thrumbo.lifeStages.2.labelMalePlural>公敲击兽</Thrumbo.lifeStages.2.labelMalePlural>-->
-  <!--[Core] <Thrumbo.lifeStages.2.labelFemale>母敲击兽</Thrumbo.lifeStages.2.labelFemale>-->
-  <!--[Core] <Thrumbo.lifeStages.2.labelFemalePlural>母敲击兽</Thrumbo.lifeStages.2.labelFemalePlural>-->
-  <!--[Core] <Thrumbo.labelMale>公敲击兽</Thrumbo.labelMale>-->
-  <!--[Core] <Thrumbo.labelMalePlural>公敲击兽</Thrumbo.labelMalePlural>-->
-  <!--[Core] <Thrumbo.labelFemale>母敲击兽</Thrumbo.labelFemale>-->
-  <!--[Core] <Thrumbo.labelFemalePlural>母敲击兽</Thrumbo.labelFemalePlural>-->
+  
+  
+  
   <!--<Elephant.label>Elephant</Elephant.label>-->
   <!--<Elephant.labelPlural>Elephants</Elephant.labelPlural>-->
   <!--<Elephant.lifeStages.0.label>elephant calf</Elephant.lifeStages.0.label>-->

@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeMiningHelmet.label>Craft mining helmet</MakeMiningHelmet.label>
+  <MakeMiningHelmet.label>制造 mining helmet</MakeMiningHelmet.label>
   <MakeMiningHelmet.description>Crafts a mining helmet. Has a built in light and increases mining speed. Produces 1.</MakeMiningHelmet.description>
   <MakeMiningHelmet.jobString>Crafting a mining helmet.</MakeMiningHelmet.jobString>
 
   <MakeCPS.label>Fabricate chemical protection suit</MakeCPS.label>
   <MakeCPS.description>A chemical protection suit (also known as a hazmat suit) can protect people from hazardous materials or substances including chemicals, biological agents or radioactive materials. Produces 1.</MakeCPS.description>
-  <MakeCPS.jobString>Making a Chemical Protection Suit.</MakeCPS.jobString>
+  <MakeCPS.jobString>制造 a Chemical Protection Suit.</MakeCPS.jobString>
 
   <MakeCPH.label>Fabricate chemical protection helmet</MakeCPH.label>
   <MakeCPH.description>A part of the chemical protection suit (also known as a hazmat suit). Protects people from hazardous materials or substances including chemicals, biological agents or radioactive materials. Produces 1.</MakeCPH.description>
-  <MakeCPH.jobString>Making a Chemical Protection Helmet.</MakeCPH.jobString>
+  <MakeCPH.jobString>制造 a Chemical Protection Helmet.</MakeCPH.jobString>
 
   <BuildTFJ_Tool_Woodcutting_Handaxe.label>Smith handaxe</BuildTFJ_Tool_Woodcutting_Handaxe.label>
   <BuildTFJ_Tool_Woodcutting_Handaxe.description>Smiths a handaxe. Equip it to increase plant working speed. Produces 1.</BuildTFJ_Tool_Woodcutting_Handaxe.description>

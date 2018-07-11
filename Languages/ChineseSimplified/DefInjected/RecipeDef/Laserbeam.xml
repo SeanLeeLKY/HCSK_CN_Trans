@@ -3,9 +3,9 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_ChargedLaser.label>make Charged Laser beam cartridge x40</MakeAmmo_ChargedLaser.label>
-  <MakeAmmo_ChargedLaser.description>Craft 40 Charged Laser beam cartridges.</MakeAmmo_ChargedLaser.description>
-  <MakeAmmo_ChargedLaser.jobString>Making Charged Laser beam cartridges.</MakeAmmo_ChargedLaser.jobString>
+  <MakeAmmo_ChargedLaser.label>制造 Charged Laser beam cartridge x40</MakeAmmo_ChargedLaser.label>
+  <MakeAmmo_ChargedLaser.description>制造 40 Charged Laser beam cartridges.</MakeAmmo_ChargedLaser.description>
+  <MakeAmmo_ChargedLaser.jobString>制造 Charged Laser beam cartridges.</MakeAmmo_ChargedLaser.jobString>
 
 
 </LanguageData>

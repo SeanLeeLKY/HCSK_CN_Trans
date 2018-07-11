@@ -7,11 +7,11 @@
 
   <MakeCPS.label>制造生化防护服</MakeCPS.label>
   <MakeCPS.description>A chemical protection suit (also known as a hazmat suit) can protect people from hazardous materials or substances including chemicals, biological agents or radioactive materials. Produces 1.</MakeCPS.description>
-  <MakeCPS.jobString>Making a Chemical Protection Suit.</MakeCPS.jobString>
+  <MakeCPS.jobString>制造 a Chemical Protection Suit.</MakeCPS.jobString>
 
   <MakeCPH.label>制造生化防护服头盔</MakeCPH.label>
   <MakeCPH.description>A part of the chemical protection suit (also known as a hazmat suit). Protects people from hazardous materials or substances including chemicals, biological agents or radioactive materials. Produces 1.</MakeCPH.description>
-  <MakeCPH.jobString>Making a Chemical Protection Helmet.</MakeCPH.jobString>
+  <MakeCPH.jobString>制造 a Chemical Protection Helmet.</MakeCPH.jobString>
 
   <BuildTFJ_Tool_Woodcutting_Handaxe.label>制作手斧</BuildTFJ_Tool_Woodcutting_Handaxe.label>
   <BuildTFJ_Tool_Woodcutting_Handaxe.description>Smiths a handaxe. Equip it to increase plant working speed. Produces 1.</BuildTFJ_Tool_Woodcutting_Handaxe.description>

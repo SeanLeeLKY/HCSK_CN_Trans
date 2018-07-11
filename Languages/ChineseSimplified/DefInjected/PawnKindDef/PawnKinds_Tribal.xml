@@ -1,25 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TribalWarrior.label>Warrior</TribalWarrior.label>
-  <TribalWarrior.labelPlural>Warriors</TribalWarrior.labelPlural>
+  <TribalWarrior.label>勇士</TribalWarrior.label>
+  <TribalWarrior.labelPlural>勇士</TribalWarrior.labelPlural>
 
-  <TribalBerserker.label>Berserker</TribalBerserker.label>
-  <TribalBerserker.labelPlural>Berserkers</TribalBerserker.labelPlural>
+  <TribalBerserker.label>狂战士</TribalBerserker.label>
+  <TribalBerserker.labelPlural>狂战士</TribalBerserker.labelPlural>
 
-  <TribalArcher.label>Archer</TribalArcher.label>
-  <TribalArcher.labelPlural>Archers</TribalArcher.labelPlural>
+  <TribalArcher.label>弓箭手</TribalArcher.label>
+  <TribalArcher.labelPlural>弓箭手</TribalArcher.labelPlural>
 
-  <TribalHunter.label>Hunter</TribalHunter.label>
-  <TribalHunter.labelPlural>Hunters</TribalHunter.labelPlural>
+  <TribalHunter.label>猎人</TribalHunter.label>
+  <TribalHunter.labelPlural>猎人</TribalHunter.labelPlural>
 
-  <TribalHeavyArcher.label>Heavy archer</TribalHeavyArcher.label>
-  <TribalHeavyArcher.labelPlural>Heavy archers</TribalHeavyArcher.labelPlural>
+  <TribalHeavyArcher.label>重弓手</TribalHeavyArcher.label>
+  <TribalHeavyArcher.labelPlural>重弓手s</TribalHeavyArcher.labelPlural>
 
-  <TribalChief.label>Chief</TribalChief.label>
-  <TribalChief.labelPlural>Chiefs</TribalChief.labelPlural>
+  <TribalChief.label>酋长</TribalChief.label>
+  <TribalChief.labelPlural>酋长</TribalChief.labelPlural>
 
-  <TribalTrader.label>Tribal trader</TribalTrader.label>
+  <TribalTrader.label>商人</TribalTrader.label>
+  <TribalTrader.labelPlural>商人</TribalTrader.labelPlural>
 
 
 </LanguageData>

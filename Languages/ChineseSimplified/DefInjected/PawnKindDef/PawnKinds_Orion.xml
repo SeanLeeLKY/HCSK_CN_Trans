@@ -3,56 +3,56 @@
 
   <!-- Chaser -->
 
-  <OrionChaser.label>Orion Chaser</OrionChaser.label>
-  <OrionChaser.labelPlural>Orion Chasers</OrionChaser.labelPlural>
+  <OrionChaser.label>猎户座追击者</OrionChaser.label>
+  <OrionChaser.labelPlural>猎户座追击者</OrionChaser.labelPlural>
 
 
   <!-- Sunderer -->
 
-  <OrionSunderer.label>Orion Sunderer</OrionSunderer.label>
-  <OrionSunderer.labelPlural>Orion Sunderers</OrionSunderer.labelPlural>
-  <OrionSunderer.labelMale>male Orion Sunderer</OrionSunderer.labelMale>
-  <OrionSunderer.labelMalePlural>male Orion Sunderers</OrionSunderer.labelMalePlural>
-  <OrionSunderer.labelFemale>female Orion Sunderer</OrionSunderer.labelFemale>
-  <OrionSunderer.labelFemalePlural>female Orion Sunderers</OrionSunderer.labelFemalePlural>
+  <OrionSunderer.label>猎户座斩首者</OrionSunderer.label>
+  <OrionSunderer.labelPlural>猎户座斩首者</OrionSunderer.labelPlural>
+  <OrionSunderer.labelMale>男性猎户座斩首者</OrionSunderer.labelMale>
+  <OrionSunderer.labelMalePlural>男性猎户座斩首者</OrionSunderer.labelMalePlural>
+  <OrionSunderer.labelFemale>女性猎户座Sunderer</OrionSunderer.labelFemale>
+  <OrionSunderer.labelFemalePlural>女性猎户座斩首者</OrionSunderer.labelFemalePlural>
 
 
   <!-- Hunter -->
 
-  <OrionHunter.label>Orion Hunter</OrionHunter.label>
-  <OrionHunter.labelPlural>Orion Hunters</OrionHunter.labelPlural>
+  <OrionHunter.label>猎户座猎杀者</OrionHunter.label>
+  <OrionHunter.labelPlural>猎户座猎杀者</OrionHunter.labelPlural>
 
 
   <!-- Hawkeye -->
 
-  <OrionHawkeye.label>Orion Hawkeye</OrionHawkeye.label>
-  <OrionHawkeye.labelPlural>Orion Hawkeyes</OrionHawkeye.labelPlural>
-  <OrionHawkeye.labelMale>male Orion Hawkeye</OrionHawkeye.labelMale>
-  <OrionHawkeye.labelMalePlural>male Orion Hawkeyes</OrionHawkeye.labelMalePlural>
-  <OrionHawkeye.labelFemale>female Orion Hawkeye</OrionHawkeye.labelFemale>
-  <OrionHawkeye.labelFemalePlural>female Orion Hawkeyes</OrionHawkeye.labelFemalePlural>
+  <OrionHawkeye.label>猎户座鹰眼</OrionHawkeye.label>
+  <OrionHawkeye.labelPlural>猎户座鹰眼</OrionHawkeye.labelPlural>
+  <OrionHawkeye.labelMale>男性猎户座鹰眼</OrionHawkeye.labelMale>
+  <OrionHawkeye.labelMalePlural>男性猎户座鹰眼</OrionHawkeye.labelMalePlural>
+  <OrionHawkeye.labelFemale>女性猎户座鹰眼</OrionHawkeye.labelFemale>
+  <OrionHawkeye.labelFemalePlural>女性猎户座鹰眼</OrionHawkeye.labelFemalePlural>
 
 
   <!-- Rager -->
 
-  <OrionRager.label>Orion Rager</OrionRager.label>
-  <OrionRager.labelPlural>Orion Ragers</OrionRager.labelPlural>
+  <OrionRager.label>猎户座暴掠者</OrionRager.label>
+  <OrionRager.labelPlural>猎户座暴掠者</OrionRager.labelPlural>
 
 
   <!-- Sunriser -->
 
-  <OrionSunRiser.label>Orion Sun Riser</OrionSunRiser.label>
-  <OrionSunRiser.labelPlural>Orion Sun Risers</OrionSunRiser.labelPlural>
-  <OrionSunRiser.labelMale>male Orion Sun Riser</OrionSunRiser.labelMale>
-  <OrionSunRiser.labelMalePlural>male Orion Sun Risers</OrionSunRiser.labelMalePlural>
-  <OrionSunRiser.labelFemale>female Orion Sun Riser</OrionSunRiser.labelFemale>
-  <OrionSunRiser.labelFemalePlural>female Orion Sun Risers</OrionSunRiser.labelFemalePlural>
+  <OrionSunRiser.label>猎户座反叛者</OrionSunRiser.label>
+  <OrionSunRiser.labelPlural>猎户座反叛者</OrionSunRiser.labelPlural>
+  <OrionSunRiser.labelMale>男性猎户座反叛者</OrionSunRiser.labelMale>
+  <OrionSunRiser.labelMalePlural>男性猎户座反叛者</OrionSunRiser.labelMalePlural>
+  <OrionSunRiser.labelFemale>女性猎户座反叛者</OrionSunRiser.labelFemale>
+  <OrionSunRiser.labelFemalePlural>女性猎户座反叛者</OrionSunRiser.labelFemalePlural>
 
 
   <!-- Bloodborne -->
 
-  <OrionBloodborne.label>Orion bloodborne</OrionBloodborne.label>
-  <OrionBloodborne.labelPlural>Orion bloodbornes</OrionBloodborne.labelPlural>
+  <OrionBloodborne.label>猎户座血袭者</OrionBloodborne.label>
+  <OrionBloodborne.labelPlural>猎户座血袭者</OrionBloodborne.labelPlural>
 
 
 </LanguageData>

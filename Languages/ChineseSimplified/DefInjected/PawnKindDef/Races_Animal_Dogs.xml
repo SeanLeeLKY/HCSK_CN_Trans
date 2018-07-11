@@ -1,105 +1,105 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <YorkshireTerrier.label>dog</YorkshireTerrier.label>
-  <YorkshireTerrier.labelPlural>dogs</YorkshireTerrier.labelPlural>
-  <YorkshireTerrier.lifeStages.0.label>puppy</YorkshireTerrier.lifeStages.0.label>
-  <YorkshireTerrier.lifeStages.0.labelPlural>puppys</YorkshireTerrier.lifeStages.0.labelPlural>
-  <YorkshireTerrier.lifeStages.0.labelMale>male puppy</YorkshireTerrier.lifeStages.0.labelMale>
-  <YorkshireTerrier.lifeStages.0.labelMalePlural>male puppys</YorkshireTerrier.lifeStages.0.labelMalePlural>
-  <YorkshireTerrier.lifeStages.0.labelFemale>female puppy</YorkshireTerrier.lifeStages.0.labelFemale>
-  <YorkshireTerrier.lifeStages.0.labelFemalePlural>female puppys</YorkshireTerrier.lifeStages.0.labelFemalePlural>
-  <YorkshireTerrier.lifeStages.1.label>dog</YorkshireTerrier.lifeStages.1.label>
-  <YorkshireTerrier.lifeStages.1.labelPlural>dog</YorkshireTerrier.lifeStages.1.labelPlural>
-  <YorkshireTerrier.lifeStages.1.labelMale>male dog</YorkshireTerrier.lifeStages.1.labelMale>
-  <YorkshireTerrier.lifeStages.1.labelMalePlural>male dogs</YorkshireTerrier.lifeStages.1.labelMalePlural>
-  <YorkshireTerrier.lifeStages.1.labelFemale>female dog</YorkshireTerrier.lifeStages.1.labelFemale>
-  <YorkshireTerrier.lifeStages.1.labelFemalePlural>female dogs</YorkshireTerrier.lifeStages.1.labelFemalePlural>
-  <YorkshireTerrier.lifeStages.2.label>dog</YorkshireTerrier.lifeStages.2.label>
-  <YorkshireTerrier.lifeStages.2.labelPlural>dog</YorkshireTerrier.lifeStages.2.labelPlural>
-  <YorkshireTerrier.lifeStages.2.labelMale>male dog</YorkshireTerrier.lifeStages.2.labelMale>
-  <YorkshireTerrier.lifeStages.2.labelMalePlural>male dogs</YorkshireTerrier.lifeStages.2.labelMalePlural>
-  <YorkshireTerrier.lifeStages.2.labelFemale>female dog</YorkshireTerrier.lifeStages.2.labelFemale>
-  <YorkshireTerrier.lifeStages.2.labelFemalePlural>female dogs</YorkshireTerrier.lifeStages.2.labelFemalePlural>
-  <YorkshireTerrier.labelMale>male dog</YorkshireTerrier.labelMale>
-  <YorkshireTerrier.labelMalePlural>male dogs</YorkshireTerrier.labelMalePlural>
-  <YorkshireTerrier.labelFemale>female dog</YorkshireTerrier.labelFemale>
-  <YorkshireTerrier.labelFemalePlural>female dogs</YorkshireTerrier.labelFemalePlural>
+  <YorkshireTerrier.label>狗</YorkshireTerrier.label>
+  <YorkshireTerrier.labelPlural>狗</YorkshireTerrier.labelPlural>
+  <YorkshireTerrier.lifeStages.0.label>狗崽</YorkshireTerrier.lifeStages.0.label>
+  <YorkshireTerrier.lifeStages.0.labelPlural>狗崽</YorkshireTerrier.lifeStages.0.labelPlural>
+  <YorkshireTerrier.lifeStages.0.labelMale>公狗崽</YorkshireTerrier.lifeStages.0.labelMale>
+  <YorkshireTerrier.lifeStages.0.labelMalePlural>公狗崽</YorkshireTerrier.lifeStages.0.labelMalePlural>
+  <YorkshireTerrier.lifeStages.0.labelFemale>母狗崽</YorkshireTerrier.lifeStages.0.labelFemale>
+  <YorkshireTerrier.lifeStages.0.labelFemalePlural>母狗崽</YorkshireTerrier.lifeStages.0.labelFemalePlural>
+  <YorkshireTerrier.lifeStages.1.label>狗</YorkshireTerrier.lifeStages.1.label>
+  <YorkshireTerrier.lifeStages.1.labelPlural>狗</YorkshireTerrier.lifeStages.1.labelPlural>
+  <YorkshireTerrier.lifeStages.1.labelMale>公狗</YorkshireTerrier.lifeStages.1.labelMale>
+  <YorkshireTerrier.lifeStages.1.labelMalePlural>公狗</YorkshireTerrier.lifeStages.1.labelMalePlural>
+  <YorkshireTerrier.lifeStages.1.labelFemale>母狗</YorkshireTerrier.lifeStages.1.labelFemale>
+  <YorkshireTerrier.lifeStages.1.labelFemalePlural>母狗</YorkshireTerrier.lifeStages.1.labelFemalePlural>
+  <YorkshireTerrier.lifeStages.2.label>狗</YorkshireTerrier.lifeStages.2.label>
+  <YorkshireTerrier.lifeStages.2.labelPlural>狗</YorkshireTerrier.lifeStages.2.labelPlural>
+  <YorkshireTerrier.lifeStages.2.labelMale>公狗</YorkshireTerrier.lifeStages.2.labelMale>
+  <YorkshireTerrier.lifeStages.2.labelMalePlural>公狗</YorkshireTerrier.lifeStages.2.labelMalePlural>
+  <YorkshireTerrier.lifeStages.2.labelFemale>母狗</YorkshireTerrier.lifeStages.2.labelFemale>
+  <YorkshireTerrier.lifeStages.2.labelFemalePlural>母狗</YorkshireTerrier.lifeStages.2.labelFemalePlural>
+  <YorkshireTerrier.labelMale>公狗</YorkshireTerrier.labelMale>
+  <YorkshireTerrier.labelMalePlural>公狗</YorkshireTerrier.labelMalePlural>
+  <YorkshireTerrier.labelFemale>母狗</YorkshireTerrier.labelFemale>
+  <YorkshireTerrier.labelFemalePlural>母狗</YorkshireTerrier.labelFemalePlural>
 
-  <Husky.label>Husky</Husky.label>
-  <Husky.labelPlural>Huskys</Husky.labelPlural>
-  <Husky.lifeStages.0.label>husky puppy</Husky.lifeStages.0.label>
-  <Husky.lifeStages.0.labelPlural>husky puppys</Husky.lifeStages.0.labelPlural>
-  <Husky.lifeStages.0.labelMale>male husky puppy</Husky.lifeStages.0.labelMale>
-  <Husky.lifeStages.0.labelMalePlural>male husky puppys</Husky.lifeStages.0.labelMalePlural>
-  <Husky.lifeStages.0.labelFemale>female husky puppy</Husky.lifeStages.0.labelFemale>
-  <Husky.lifeStages.0.labelFemalePlural>female husky puppys</Husky.lifeStages.0.labelFemalePlural>
-  <Husky.lifeStages.1.label>Husky</Husky.lifeStages.1.label>
-  <Husky.lifeStages.1.labelPlural>Husky</Husky.lifeStages.1.labelPlural>
-  <Husky.lifeStages.1.labelMale>male Husky</Husky.lifeStages.1.labelMale>
-  <Husky.lifeStages.1.labelMalePlural>male Huskys</Husky.lifeStages.1.labelMalePlural>
-  <Husky.lifeStages.1.labelFemale>female Husky</Husky.lifeStages.1.labelFemale>
-  <Husky.lifeStages.1.labelFemalePlural>female Huskys</Husky.lifeStages.1.labelFemalePlural>
-  <Husky.lifeStages.2.label>Husky</Husky.lifeStages.2.label>
-  <Husky.lifeStages.2.labelPlural>Husky</Husky.lifeStages.2.labelPlural>
-  <Husky.lifeStages.2.labelMale>male Husky</Husky.lifeStages.2.labelMale>
-  <Husky.lifeStages.2.labelMalePlural>male Huskys</Husky.lifeStages.2.labelMalePlural>
-  <Husky.lifeStages.2.labelFemale>female Husky</Husky.lifeStages.2.labelFemale>
-  <Husky.lifeStages.2.labelFemalePlural>female Huskys</Husky.lifeStages.2.labelFemalePlural>
-  <Husky.labelMale>male Husky</Husky.labelMale>
-  <Husky.labelMalePlural>male Huskys</Husky.labelMalePlural>
-  <Husky.labelFemale>female Husky</Husky.labelFemale>
-  <Husky.labelFemalePlural>female Huskys</Husky.labelFemalePlural>
+  <Husky.label>哈士奇犬</Husky.label>
+  <Husky.labelPlural>哈士奇犬</Husky.labelPlural>
+  <Husky.lifeStages.0.label>哈士奇犬幼崽</Husky.lifeStages.0.label>
+  <Husky.lifeStages.0.labelPlural>哈士奇犬幼崽</Husky.lifeStages.0.labelPlural>
+  <Husky.lifeStages.0.labelMale>哈士奇犬幼崽</Husky.lifeStages.0.labelMale>
+  <Husky.lifeStages.0.labelMalePlural>哈士奇犬幼崽</Husky.lifeStages.0.labelMalePlural>
+  <Husky.lifeStages.0.labelFemale>哈士奇犬幼崽</Husky.lifeStages.0.labelFemale>
+  <Husky.lifeStages.0.labelFemalePlural>哈士奇犬幼崽</Husky.lifeStages.0.labelFemalePlural>
+  <Husky.lifeStages.1.label>幼年哈士奇犬</Husky.lifeStages.1.label>
+  <Husky.lifeStages.1.labelPlural>幼年哈士奇犬</Husky.lifeStages.1.labelPlural>
+  <Husky.lifeStages.1.labelMale>幼年公哈士奇犬</Husky.lifeStages.1.labelMale>
+  <Husky.lifeStages.1.labelMalePlural>幼年公哈士奇犬</Husky.lifeStages.1.labelMalePlural>
+  <Husky.lifeStages.1.labelFemale>幼年母哈士奇犬</Husky.lifeStages.1.labelFemale>
+  <Husky.lifeStages.1.labelFemalePlural>幼年母哈士奇犬</Husky.lifeStages.1.labelFemalePlural>
+  <Husky.lifeStages.2.label>哈士奇犬</Husky.lifeStages.2.label>
+  <Husky.lifeStages.2.labelPlural>哈士奇犬</Husky.lifeStages.2.labelPlural>
+  <Husky.lifeStages.2.labelMale>公哈士奇犬</Husky.lifeStages.2.labelMale>
+  <Husky.lifeStages.2.labelMalePlural>公哈士奇犬</Husky.lifeStages.2.labelMalePlural>
+  <Husky.lifeStages.2.labelFemale>母哈士奇犬</Husky.lifeStages.2.labelFemale>
+  <Husky.lifeStages.2.labelFemalePlural>母哈士奇犬</Husky.lifeStages.2.labelFemalePlural>
+  <Husky.labelMale>公哈士奇犬</Husky.labelMale>
+  <Husky.labelMalePlural>公哈士奇犬</Husky.labelMalePlural>
+  <Husky.labelFemale>母哈士奇犬</Husky.labelFemale>
+  <Husky.labelFemalePlural>母哈士奇犬</Husky.labelFemalePlural>
+  <LabradorRetriever.label>拉布拉多犬</LabradorRetriever.label>
+  <LabradorRetriever.labelPlural>拉布拉多犬</LabradorRetriever.labelPlural>
+  <LabradorRetriever.lifeStages.0.label>拉布拉多犬幼崽</LabradorRetriever.lifeStages.0.label>
+  <LabradorRetriever.lifeStages.0.labelPlural>拉布拉多犬幼崽</LabradorRetriever.lifeStages.0.labelPlural>
+  <LabradorRetriever.lifeStages.0.labelMale>拉布拉多犬幼崽</LabradorRetriever.lifeStages.0.labelMale>
+  <LabradorRetriever.lifeStages.0.labelMalePlural>拉布拉多犬幼崽</LabradorRetriever.lifeStages.0.labelMalePlural>
+  <LabradorRetriever.lifeStages.0.labelFemale>拉布拉多犬幼崽</LabradorRetriever.lifeStages.0.labelFemale>
+  <LabradorRetriever.lifeStages.0.labelFemalePlural>拉布拉多犬幼崽</LabradorRetriever.lifeStages.0.labelFemalePlural>
+  <LabradorRetriever.lifeStages.1.label>幼年拉布拉多犬</LabradorRetriever.lifeStages.1.label>
+  <LabradorRetriever.lifeStages.1.labelPlural>幼年拉布拉多犬</LabradorRetriever.lifeStages.1.labelPlural>
+  <LabradorRetriever.lifeStages.1.labelMale>幼年公拉布拉多犬</LabradorRetriever.lifeStages.1.labelMale>
+  <LabradorRetriever.lifeStages.1.labelMalePlural>幼年公拉布拉多犬</LabradorRetriever.lifeStages.1.labelMalePlural>
+  <LabradorRetriever.lifeStages.1.labelFemale>幼年母拉布拉多犬</LabradorRetriever.lifeStages.1.labelFemale>
+  <LabradorRetriever.lifeStages.1.labelFemalePlural>幼年母拉布拉多犬</LabradorRetriever.lifeStages.1.labelFemalePlural>
+  <LabradorRetriever.lifeStages.2.label>拉布拉多犬</LabradorRetriever.lifeStages.2.label>
+  <LabradorRetriever.lifeStages.2.labelPlural>拉布拉多犬</LabradorRetriever.lifeStages.2.labelPlural>
+  <LabradorRetriever.lifeStages.2.labelMale>公拉布拉多犬</LabradorRetriever.lifeStages.2.labelMale>
+  <LabradorRetriever.lifeStages.2.labelMalePlural>公拉布拉多犬</LabradorRetriever.lifeStages.2.labelMalePlural>
+  <LabradorRetriever.lifeStages.2.labelFemale>母拉布拉多犬</LabradorRetriever.lifeStages.2.labelFemale>
+  <LabradorRetriever.lifeStages.2.labelFemalePlural>母拉布拉多犬</LabradorRetriever.lifeStages.2.labelFemalePlural>
+  <LabradorRetriever.labelMale>公拉布拉多犬</LabradorRetriever.labelMale>
+  <LabradorRetriever.labelMalePlural>公拉布拉多犬</LabradorRetriever.labelMalePlural>
+  <LabradorRetriever.labelFemale>母拉布拉多犬</LabradorRetriever.labelFemale>
+  <LabradorRetriever.labelFemalePlural>母拉布拉多犬</LabradorRetriever.labelFemalePlural>
 
-  <LabradorRetriever.label>Labrador Retriever</LabradorRetriever.label>
-  <LabradorRetriever.labelPlural>Labrador Retrievers</LabradorRetriever.labelPlural>
-  <LabradorRetriever.lifeStages.0.label>labrador puppy</LabradorRetriever.lifeStages.0.label>
-  <LabradorRetriever.lifeStages.0.labelPlural>labrador puppys</LabradorRetriever.lifeStages.0.labelPlural>
-  <LabradorRetriever.lifeStages.0.labelMale>male labrador puppy</LabradorRetriever.lifeStages.0.labelMale>
-  <LabradorRetriever.lifeStages.0.labelMalePlural>male labrador puppys</LabradorRetriever.lifeStages.0.labelMalePlural>
-  <LabradorRetriever.lifeStages.0.labelFemale>female labrador puppy</LabradorRetriever.lifeStages.0.labelFemale>
-  <LabradorRetriever.lifeStages.0.labelFemalePlural>female labrador puppys</LabradorRetriever.lifeStages.0.labelFemalePlural>
-  <LabradorRetriever.lifeStages.1.label>Labrador Retriever</LabradorRetriever.lifeStages.1.label>
-  <LabradorRetriever.lifeStages.1.labelPlural>Labrador Retriever</LabradorRetriever.lifeStages.1.labelPlural>
-  <LabradorRetriever.lifeStages.1.labelMale>male Labrador Retriever</LabradorRetriever.lifeStages.1.labelMale>
-  <LabradorRetriever.lifeStages.1.labelMalePlural>male Labrador Retrievers</LabradorRetriever.lifeStages.1.labelMalePlural>
-  <LabradorRetriever.lifeStages.1.labelFemale>female Labrador Retriever</LabradorRetriever.lifeStages.1.labelFemale>
-  <LabradorRetriever.lifeStages.1.labelFemalePlural>female Labrador Retrievers</LabradorRetriever.lifeStages.1.labelFemalePlural>
-  <LabradorRetriever.lifeStages.2.label>Labrador Retriever</LabradorRetriever.lifeStages.2.label>
-  <LabradorRetriever.lifeStages.2.labelPlural>Labrador Retriever</LabradorRetriever.lifeStages.2.labelPlural>
-  <LabradorRetriever.lifeStages.2.labelMale>male Labrador Retriever</LabradorRetriever.lifeStages.2.labelMale>
-  <LabradorRetriever.lifeStages.2.labelMalePlural>male Labrador Retrievers</LabradorRetriever.lifeStages.2.labelMalePlural>
-  <LabradorRetriever.lifeStages.2.labelFemale>female Labrador Retriever</LabradorRetriever.lifeStages.2.labelFemale>
-  <LabradorRetriever.lifeStages.2.labelFemalePlural>female Labrador Retrievers</LabradorRetriever.lifeStages.2.labelFemalePlural>
-  <LabradorRetriever.labelMale>male Labrador Retriever</LabradorRetriever.labelMale>
-  <LabradorRetriever.labelMalePlural>male Labrador Retrievers</LabradorRetriever.labelMalePlural>
-  <LabradorRetriever.labelFemale>female Labrador Retriever</LabradorRetriever.labelFemale>
-  <LabradorRetriever.labelFemalePlural>female Labrador Retrievers</LabradorRetriever.labelFemalePlural>
+   <GermanShepherd.label>德国黑背</GermanShepherd.label>
+  <GermanShepherd.labelPlural>德国黑背</GermanShepherd.labelPlural>
+  <GermanShepherd.lifeStages.0.label>德国黑背幼崽</GermanShepherd.lifeStages.0.label>
+  <GermanShepherd.lifeStages.0.labelPlural>德国黑背幼崽</GermanShepherd.lifeStages.0.labelPlural>
+  <GermanShepherd.lifeStages.0.labelMale>雄性德国黑背幼崽</GermanShepherd.lifeStages.0.labelMale>
+  <GermanShepherd.lifeStages.0.labelMalePlural>雄性德国黑背幼崽</GermanShepherd.lifeStages.0.labelMalePlural>
+  <GermanShepherd.lifeStages.0.labelFemale>雌性德国黑背幼崽</GermanShepherd.lifeStages.0.labelFemale>
+  <GermanShepherd.lifeStages.0.labelFemalePlural>雌性德国黑背幼崽</GermanShepherd.lifeStages.0.labelFemalePlural>
+  <GermanShepherd.lifeStages.1.label>德国黑背</GermanShepherd.lifeStages.1.label>
+  <GermanShepherd.lifeStages.1.labelPlural>德国黑背</GermanShepherd.lifeStages.1.labelPlural>
+  <GermanShepherd.lifeStages.1.labelMale>雄性德国黑背</GermanShepherd.lifeStages.1.labelMale>
+  <GermanShepherd.lifeStages.1.labelMalePlural>雄性德国黑背</GermanShepherd.lifeStages.1.labelMalePlural>
+  <GermanShepherd.lifeStages.1.labelFemale>雌性德国黑背</GermanShepherd.lifeStages.1.labelFemale>
+  <GermanShepherd.lifeStages.1.labelFemalePlural>雌性德国黑背</GermanShepherd.lifeStages.1.labelFemalePlural>
+  <GermanShepherd.lifeStages.2.label>德国黑背</GermanShepherd.lifeStages.2.label>
+  <GermanShepherd.lifeStages.2.labelPlural>德国黑背</GermanShepherd.lifeStages.2.labelPlural>
+  <GermanShepherd.lifeStages.2.labelMale>雄性德国黑背</GermanShepherd.lifeStages.2.labelMale>
+  <GermanShepherd.lifeStages.2.labelMalePlural>雄性德国黑背</GermanShepherd.lifeStages.2.labelMalePlural>
+  <GermanShepherd.lifeStages.2.labelFemale>雌性德国黑背</GermanShepherd.lifeStages.2.labelFemale>
+  <GermanShepherd.lifeStages.2.labelFemalePlural>雌性德国黑背</GermanShepherd.lifeStages.2.labelFemalePlural>
+  <GermanShepherd.labelMale>雄性德国黑背</GermanShepherd.labelMale>
+  <GermanShepherd.labelMalePlural>雄性德国黑背</GermanShepherd.labelMalePlural>
+  <GermanShepherd.labelFemale>雌性德国黑背</GermanShepherd.labelFemale>
+  <GermanShepherd.labelFemalePlural>雌性德国黑背</GermanShepherd.labelFemalePlural>
 
-  <GermanShepherd.label>Shepherd</GermanShepherd.label>
-  <GermanShepherd.labelPlural>Shepherds</GermanShepherd.labelPlural>
-  <GermanShepherd.lifeStages.0.label>German Shepherd Puppy</GermanShepherd.lifeStages.0.label>
-  <GermanShepherd.lifeStages.0.labelPlural>German Shepherd Puppys</GermanShepherd.lifeStages.0.labelPlural>
-  <GermanShepherd.lifeStages.0.labelMale>male German Shepherd Puppy</GermanShepherd.lifeStages.0.labelMale>
-  <GermanShepherd.lifeStages.0.labelMalePlural>male German Shepherd Puppys</GermanShepherd.lifeStages.0.labelMalePlural>
-  <GermanShepherd.lifeStages.0.labelFemale>female German Shepherd Puppy</GermanShepherd.lifeStages.0.labelFemale>
-  <GermanShepherd.lifeStages.0.labelFemalePlural>female German Shepherd Puppys</GermanShepherd.lifeStages.0.labelFemalePlural>
-  <GermanShepherd.lifeStages.1.label>Shepherd</GermanShepherd.lifeStages.1.label>
-  <GermanShepherd.lifeStages.1.labelPlural>Shepherd</GermanShepherd.lifeStages.1.labelPlural>
-  <GermanShepherd.lifeStages.1.labelMale>male Shepherd</GermanShepherd.lifeStages.1.labelMale>
-  <GermanShepherd.lifeStages.1.labelMalePlural>male Shepherds</GermanShepherd.lifeStages.1.labelMalePlural>
-  <GermanShepherd.lifeStages.1.labelFemale>female Shepherd</GermanShepherd.lifeStages.1.labelFemale>
-  <GermanShepherd.lifeStages.1.labelFemalePlural>female Shepherds</GermanShepherd.lifeStages.1.labelFemalePlural>
-  <GermanShepherd.lifeStages.2.label>Shepherd</GermanShepherd.lifeStages.2.label>
-  <GermanShepherd.lifeStages.2.labelPlural>Shepherd</GermanShepherd.lifeStages.2.labelPlural>
-  <GermanShepherd.lifeStages.2.labelMale>male Shepherd</GermanShepherd.lifeStages.2.labelMale>
-  <GermanShepherd.lifeStages.2.labelMalePlural>male Shepherds</GermanShepherd.lifeStages.2.labelMalePlural>
-  <GermanShepherd.lifeStages.2.labelFemale>female Shepherd</GermanShepherd.lifeStages.2.labelFemale>
-  <GermanShepherd.lifeStages.2.labelFemalePlural>female Shepherds</GermanShepherd.lifeStages.2.labelFemalePlural>
-  <GermanShepherd.labelMale>male Shepherd</GermanShepherd.labelMale>
-  <GermanShepherd.labelMalePlural>male Shepherds</GermanShepherd.labelMalePlural>
-  <GermanShepherd.labelFemale>female Shepherd</GermanShepherd.labelFemale>
-  <GermanShepherd.labelFemalePlural>female Shepherds</GermanShepherd.labelFemalePlural>
 
 
 </LanguageData>

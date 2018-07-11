@@ -128,30 +128,30 @@
   <Dromedary.labelFemale>female dromedary</Dromedary.labelFemale>
   <Dromedary.labelFemalePlural>female dromedarys</Dromedary.labelFemalePlural>
 
-  <Buffalo.label>牦牛</Buffalo.label>
-  <Buffalo.labelPlural>牦牛</Buffalo.labelPlural>
-  <Buffalo.lifeStages.0.label>牦牛幼崽</Buffalo.lifeStages.0.label>
-  <Buffalo.lifeStages.0.labelPlural>牦牛幼崽</Buffalo.lifeStages.0.labelPlural>
-  <Buffalo.lifeStages.0.labelMale>雄性牦牛幼崽</Buffalo.lifeStages.0.labelMale>
-  <Buffalo.lifeStages.0.labelMalePlural>雄性牦牛幼崽</Buffalo.lifeStages.0.labelMalePlural>
-  <Buffalo.lifeStages.0.labelFemale>雌性牦牛幼崽</Buffalo.lifeStages.0.labelFemale>
-  <Buffalo.lifeStages.0.labelFemalePlural>雌性牦牛幼崽</Buffalo.lifeStages.0.labelFemalePlural>
-  <Buffalo.lifeStages.1.label>牦牛</Buffalo.lifeStages.1.label>
-  <Buffalo.lifeStages.1.labelPlural>牦牛</Buffalo.lifeStages.1.labelPlural>
-  <Buffalo.lifeStages.1.labelMale>雄性牦牛</Buffalo.lifeStages.1.labelMale>
-  <Buffalo.lifeStages.1.labelMalePlural>雄性牦牛</Buffalo.lifeStages.1.labelMalePlural>
-  <Buffalo.lifeStages.1.labelFemale>雌性牦牛</Buffalo.lifeStages.1.labelFemale>
-  <Buffalo.lifeStages.1.labelFemalePlural>雌性牦牛</Buffalo.lifeStages.1.labelFemalePlural>
-  <Buffalo.lifeStages.2.label>牦牛</Buffalo.lifeStages.2.label>
-  <Buffalo.lifeStages.2.labelPlural>牦牛</Buffalo.lifeStages.2.labelPlural>
-  <Buffalo.lifeStages.2.labelMale>雄性牦牛</Buffalo.lifeStages.2.labelMale>
-  <Buffalo.lifeStages.2.labelMalePlural>雄性牦牛</Buffalo.lifeStages.2.labelMalePlural>
-  <Buffalo.lifeStages.2.labelFemale>雌性牦牛</Buffalo.lifeStages.2.labelFemale>
-  <Buffalo.lifeStages.2.labelFemalePlural>雌性牦牛</Buffalo.lifeStages.2.labelFemalePlural>
-  <Buffalo.labelMale>雄性牦牛</Buffalo.labelMale>
-  <Buffalo.labelMalePlural>雄性牦牛</Buffalo.labelMalePlural>
-  <Buffalo.labelFemale>雌性牦牛</Buffalo.labelFemale>
-  <Buffalo.labelFemalePlural>雌性牦牛</Buffalo.labelFemalePlural>
+  <Buffalo.label>野牛</Buffalo.label>
+  <Buffalo.labelPlural>野牛</Buffalo.labelPlural>
+  <Buffalo.lifeStages.0.label>野牛幼崽</Buffalo.lifeStages.0.label>
+  <Buffalo.lifeStages.0.labelPlural>野牛幼崽</Buffalo.lifeStages.0.labelPlural>
+  <Buffalo.lifeStages.0.labelMale>雄性野牛幼崽</Buffalo.lifeStages.0.labelMale>
+  <Buffalo.lifeStages.0.labelMalePlural>雄性野牛幼崽</Buffalo.lifeStages.0.labelMalePlural>
+  <Buffalo.lifeStages.0.labelFemale>雌性野牛幼崽</Buffalo.lifeStages.0.labelFemale>
+  <Buffalo.lifeStages.0.labelFemalePlural>雌性野牛幼崽</Buffalo.lifeStages.0.labelFemalePlural>
+  <Buffalo.lifeStages.1.label>野牛</Buffalo.lifeStages.1.label>
+  <Buffalo.lifeStages.1.labelPlural>野牛</Buffalo.lifeStages.1.labelPlural>
+  <Buffalo.lifeStages.1.labelMale>雄性野牛</Buffalo.lifeStages.1.labelMale>
+  <Buffalo.lifeStages.1.labelMalePlural>雄性野牛</Buffalo.lifeStages.1.labelMalePlural>
+  <Buffalo.lifeStages.1.labelFemale>雌性野牛</Buffalo.lifeStages.1.labelFemale>
+  <Buffalo.lifeStages.1.labelFemalePlural>雌性野牛</Buffalo.lifeStages.1.labelFemalePlural>
+  <Buffalo.lifeStages.2.label>野牛</Buffalo.lifeStages.2.label>
+  <Buffalo.lifeStages.2.labelPlural>野牛</Buffalo.lifeStages.2.labelPlural>
+  <Buffalo.lifeStages.2.labelMale>雄性野牛</Buffalo.lifeStages.2.labelMale>
+  <Buffalo.lifeStages.2.labelMalePlural>雄性野牛</Buffalo.lifeStages.2.labelMalePlural>
+  <Buffalo.lifeStages.2.labelFemale>雌性野牛</Buffalo.lifeStages.2.labelFemale>
+  <Buffalo.lifeStages.2.labelFemalePlural>雌性野牛</Buffalo.lifeStages.2.labelFemalePlural>
+  <Buffalo.labelMale>雄性野牛</Buffalo.labelMale>
+  <Buffalo.labelMalePlural>雄性野牛</Buffalo.labelMalePlural>
+  <Buffalo.labelFemale>雌性野牛</Buffalo.labelFemale>
+  <Buffalo.labelFemalePlural>雌性野牛</Buffalo.labelFemalePlural>
 
   <Rimram.label>绵羊</Rimram.label>
   <Rimram.labelPlural>绵羊</Rimram.labelPlural>
@@ -179,126 +179,7 @@
   <Rimram.labelFemalePlural>雌性绵羊</Rimram.labelFemalePlural>
 
 
-  <!--[Core] <Muffalo.label>野牦牛</Muffalo.label>-->
-  <!--[Core] <Muffalo.labelPlural>野牦牛</Muffalo.labelPlural>-->
-  <!--[Core] <Muffalo.lifeStages.0.label>野牦牛犊</Muffalo.lifeStages.0.label>-->
-  <!--[Core] <Muffalo.lifeStages.0.labelPlural>野牦牛犊</Muffalo.lifeStages.0.labelPlural>-->
-  <!--[Core] <Muffalo.lifeStages.0.labelMale>野牦牛犊</Muffalo.lifeStages.0.labelMale>-->
-  <!--[Core] <Muffalo.lifeStages.0.labelMalePlural>野牦牛犊</Muffalo.lifeStages.0.labelMalePlural>-->
-  <!--[Core] <Muffalo.lifeStages.0.labelFemale>野牦牛犊</Muffalo.lifeStages.0.labelFemale>-->
-  <!--[Core] <Muffalo.lifeStages.0.labelFemalePlural>野牦牛犊</Muffalo.lifeStages.0.labelFemalePlural>-->
-  <!--[Core] <Muffalo.lifeStages.1.label>幼年野牦牛</Muffalo.lifeStages.1.label>-->
-  <!--[Core] <Muffalo.lifeStages.1.labelPlural>幼年野牦牛</Muffalo.lifeStages.1.labelPlural>-->
-  <!--[Core] <Muffalo.lifeStages.1.labelMale>幼年公野牦牛</Muffalo.lifeStages.1.labelMale>-->
-  <!--[Core] <Muffalo.lifeStages.1.labelMalePlural>幼年公野牦牛</Muffalo.lifeStages.1.labelMalePlural>-->
-  <!--[Core] <Muffalo.lifeStages.1.labelFemale>幼年母野牦牛</Muffalo.lifeStages.1.labelFemale>-->
-  <!--[Core] <Muffalo.lifeStages.1.labelFemalePlural>幼年母野牦牛</Muffalo.lifeStages.1.labelFemalePlural>-->
-  <!--[Core] <Muffalo.lifeStages.2.label>野牦牛</Muffalo.lifeStages.2.label>-->
-  <!--[Core] <Muffalo.lifeStages.2.labelPlural>野牦牛</Muffalo.lifeStages.2.labelPlural>-->
-  <!--[Core] <Muffalo.lifeStages.2.labelMale>公野牦牛</Muffalo.lifeStages.2.labelMale>-->
-  <!--[Core] <Muffalo.lifeStages.2.labelMalePlural>公野牦牛</Muffalo.lifeStages.2.labelMalePlural>-->
-  <!--[Core] <Muffalo.lifeStages.2.labelFemale>母野牦牛</Muffalo.lifeStages.2.labelFemale>-->
-  <!--[Core] <Muffalo.lifeStages.2.labelFemalePlural>母野牦牛</Muffalo.lifeStages.2.labelFemalePlural>-->
-  <!--[Core] <Muffalo.labelMale>公野牦牛</Muffalo.labelMale>-->
-  <!--[Core] <Muffalo.labelMalePlural>公野牦牛</Muffalo.labelMalePlural>-->
-  <!--[Core] <Muffalo.labelFemale>母野牦牛</Muffalo.labelFemale>-->
-  <!--[Core] <Muffalo.labelFemalePlural>母野牦牛</Muffalo.labelFemalePlural>-->
-  <!--[Core] <Gazelle.label>瞪羚</Gazelle.label>-->
-  <!--[Core] <Gazelle.labelPlural>瞪羚</Gazelle.labelPlural>-->
-  <!--[Core] <Gazelle.lifeStages.0.label>瞪羚幼崽</Gazelle.lifeStages.0.label>-->
-  <!--[Core] <Gazelle.lifeStages.0.labelPlural>瞪羚幼崽</Gazelle.lifeStages.0.labelPlural>-->
-  <!--[Core] <Gazelle.lifeStages.0.labelMale>瞪羚幼崽</Gazelle.lifeStages.0.labelMale>-->
-  <!--[Core] <Gazelle.lifeStages.0.labelMalePlural>瞪羚幼崽</Gazelle.lifeStages.0.labelMalePlural>-->
-  <!--[Core] <Gazelle.lifeStages.0.labelFemale>瞪羚幼崽</Gazelle.lifeStages.0.labelFemale>-->
-  <!--[Core] <Gazelle.lifeStages.0.labelFemalePlural>瞪羚幼崽</Gazelle.lifeStages.0.labelFemalePlural>-->
-  <!--[Core] <Gazelle.lifeStages.1.label>幼年瞪羚</Gazelle.lifeStages.1.label>-->
-  <!--[Core] <Gazelle.lifeStages.1.labelPlural>幼年瞪羚</Gazelle.lifeStages.1.labelPlural>-->
-  <!--[Core] <Gazelle.lifeStages.1.labelMale>幼年公瞪羚</Gazelle.lifeStages.1.labelMale>-->
-  <!--[Core] <Gazelle.lifeStages.1.labelMalePlural>幼年公瞪羚</Gazelle.lifeStages.1.labelMalePlural>-->
-  <!--[Core] <Gazelle.lifeStages.1.labelFemale>幼年母瞪羚</Gazelle.lifeStages.1.labelFemale>-->
-  <!--[Core] <Gazelle.lifeStages.1.labelFemalePlural>幼年母瞪羚</Gazelle.lifeStages.1.labelFemalePlural>-->
-  <!--[Core] <Gazelle.lifeStages.2.label>瞪羚</Gazelle.lifeStages.2.label>-->
-  <!--[Core] <Gazelle.lifeStages.2.labelPlural>瞪羚</Gazelle.lifeStages.2.labelPlural>-->
-  <!--[Core] <Gazelle.lifeStages.2.labelMale>公瞪羚</Gazelle.lifeStages.2.labelMale>-->
-  <!--[Core] <Gazelle.lifeStages.2.labelMalePlural>公瞪羚</Gazelle.lifeStages.2.labelMalePlural>-->
-  <!--[Core] <Gazelle.lifeStages.2.labelFemale>母瞪羚</Gazelle.lifeStages.2.labelFemale>-->
-  <!--[Core] <Gazelle.lifeStages.2.labelFemalePlural>母瞪羚</Gazelle.lifeStages.2.labelFemalePlural>-->
-  <!--[Core] <Gazelle.labelMale>公瞪羚</Gazelle.labelMale>-->
-  <!--[Core] <Gazelle.labelMalePlural>公瞪羚</Gazelle.labelMalePlural>-->
-  <!--[Core] <Gazelle.labelFemale>母瞪羚</Gazelle.labelFemale>-->
-  <!--[Core] <Gazelle.labelFemalePlural>母瞪羚</Gazelle.labelFemalePlural>-->
-  <!--[Core] <Iguana.label>鬣蜥</Iguana.label>-->
-  <!--[Core] <Iguana.labelPlural>鬣蜥</Iguana.labelPlural>-->
-  <!--[Core] <Iguana.lifeStages.0.label>鬣蜥幼崽</Iguana.lifeStages.0.label>-->
-  <!--[Core] <Iguana.lifeStages.0.labelPlural>鬣蜥幼崽</Iguana.lifeStages.0.labelPlural>-->
-  <!--[Core] <Iguana.lifeStages.0.labelMale>鬣蜥幼崽</Iguana.lifeStages.0.labelMale>-->
-  <!--[Core] <Iguana.lifeStages.0.labelMalePlural>鬣蜥幼崽</Iguana.lifeStages.0.labelMalePlural>-->
-  <!--[Core] <Iguana.lifeStages.0.labelFemale>鬣蜥幼崽</Iguana.lifeStages.0.labelFemale>-->
-  <!--[Core] <Iguana.lifeStages.0.labelFemalePlural>鬣蜥幼崽</Iguana.lifeStages.0.labelFemalePlural>-->
-  <!--[Core] <Iguana.lifeStages.1.label>幼年鬣蜥</Iguana.lifeStages.1.label>-->
-  <!--[Core] <Iguana.lifeStages.1.labelPlural>幼年鬣蜥</Iguana.lifeStages.1.labelPlural>-->
-  <!--[Core] <Iguana.lifeStages.1.labelMale>幼年公鬣蜥</Iguana.lifeStages.1.labelMale>-->
-  <!--[Core] <Iguana.lifeStages.1.labelMalePlural>幼年公鬣蜥</Iguana.lifeStages.1.labelMalePlural>-->
-  <!--[Core] <Iguana.lifeStages.1.labelFemale>幼年母鬣蜥</Iguana.lifeStages.1.labelFemale>-->
-  <!--[Core] <Iguana.lifeStages.1.labelFemalePlural>幼年母鬣蜥</Iguana.lifeStages.1.labelFemalePlural>-->
-  <!--[Core] <Iguana.lifeStages.2.label>鬣蜥</Iguana.lifeStages.2.label>-->
-  <!--[Core] <Iguana.lifeStages.2.labelPlural>鬣蜥</Iguana.lifeStages.2.labelPlural>-->
-  <!--[Core] <Iguana.lifeStages.2.labelMale>公鬣蜥</Iguana.lifeStages.2.labelMale>-->
-  <!--[Core] <Iguana.lifeStages.2.labelMalePlural>公鬣蜥</Iguana.lifeStages.2.labelMalePlural>-->
-  <!--[Core] <Iguana.lifeStages.2.labelFemale>母鬣蜥</Iguana.lifeStages.2.labelFemale>-->
-  <!--[Core] <Iguana.lifeStages.2.labelFemalePlural>母鬣蜥</Iguana.lifeStages.2.labelFemalePlural>-->
-  <!--[Core] <Iguana.labelMale>公鬣蜥</Iguana.labelMale>-->
-  <!--[Core] <Iguana.labelMalePlural>公鬣蜥</Iguana.labelMalePlural>-->
-  <!--[Core] <Iguana.labelFemale>母鬣蜥</Iguana.labelFemale>-->
-  <!--[Core] <Iguana.labelFemalePlural>母鬣蜥</Iguana.labelFemalePlural>-->
-  <!--[Core] <Rhinoceros.label>犀牛</Rhinoceros.label>-->
-  <!--[Core] <Rhinoceros.labelPlural>犀牛</Rhinoceros.labelPlural>-->
-  <!--[Core] <Rhinoceros.lifeStages.0.label>犀牛幼崽</Rhinoceros.lifeStages.0.label>-->
-  <!--[Core] <Rhinoceros.lifeStages.0.labelPlural>犀牛幼崽</Rhinoceros.lifeStages.0.labelPlural>-->
-  <!--[Core] <Rhinoceros.lifeStages.0.labelMale>犀牛幼崽</Rhinoceros.lifeStages.0.labelMale>-->
-  <!--[Core] <Rhinoceros.lifeStages.0.labelMalePlural>犀牛幼崽</Rhinoceros.lifeStages.0.labelMalePlural>-->
-  <!--[Core] <Rhinoceros.lifeStages.0.labelFemale>犀牛幼崽</Rhinoceros.lifeStages.0.labelFemale>-->
-  <!--[Core] <Rhinoceros.lifeStages.0.labelFemalePlural>犀牛幼崽</Rhinoceros.lifeStages.0.labelFemalePlural>-->
-  <!--[Core] <Rhinoceros.lifeStages.1.label>幼年犀牛</Rhinoceros.lifeStages.1.label>-->
-  <!--[Core] <Rhinoceros.lifeStages.1.labelPlural>幼年犀牛</Rhinoceros.lifeStages.1.labelPlural>-->
-  <!--[Core] <Rhinoceros.lifeStages.1.labelMale>幼年公犀牛</Rhinoceros.lifeStages.1.labelMale>-->
-  <!--[Core] <Rhinoceros.lifeStages.1.labelMalePlural>幼年公犀牛</Rhinoceros.lifeStages.1.labelMalePlural>-->
-  <!--[Core] <Rhinoceros.lifeStages.1.labelFemale>幼年母犀牛</Rhinoceros.lifeStages.1.labelFemale>-->
-  <!--[Core] <Rhinoceros.lifeStages.1.labelFemalePlural>幼年母犀牛</Rhinoceros.lifeStages.1.labelFemalePlural>-->
-  <!--[Core] <Rhinoceros.lifeStages.2.label>犀牛</Rhinoceros.lifeStages.2.label>-->
-  <!--[Core] <Rhinoceros.lifeStages.2.labelPlural>犀牛</Rhinoceros.lifeStages.2.labelPlural>-->
-  <!--[Core] <Rhinoceros.lifeStages.2.labelMale>公犀牛</Rhinoceros.lifeStages.2.labelMale>-->
-  <!--[Core] <Rhinoceros.lifeStages.2.labelMalePlural>公犀牛</Rhinoceros.lifeStages.2.labelMalePlural>-->
-  <!--[Core] <Rhinoceros.lifeStages.2.labelFemale>母犀牛</Rhinoceros.lifeStages.2.labelFemale>-->
-  <!--[Core] <Rhinoceros.lifeStages.2.labelFemalePlural>母犀牛</Rhinoceros.lifeStages.2.labelFemalePlural>-->
-  <!--[Core] <Rhinoceros.labelMale>公犀牛</Rhinoceros.labelMale>-->
-  <!--[Core] <Rhinoceros.labelMalePlural>公犀牛</Rhinoceros.labelMalePlural>-->
-  <!--[Core] <Rhinoceros.labelFemale>母犀牛</Rhinoceros.labelFemale>-->
-  <!--[Core] <Rhinoceros.labelFemalePlural>母犀牛</Rhinoceros.labelFemalePlural>-->
-  <!--[Core] <Dromedary.label>单峰骆驼</Dromedary.label>-->
-  <!--[Core] <Dromedary.labelPlural>单峰骆驼</Dromedary.labelPlural>-->
-  <!--[Core] <Dromedary.lifeStages.0.label>单峰骆驼幼崽</Dromedary.lifeStages.0.label>-->
-  <!--[Core] <Dromedary.lifeStages.0.labelPlural>单峰骆驼幼崽</Dromedary.lifeStages.0.labelPlural>-->
-  <!--[Core] <Dromedary.lifeStages.0.labelMale>单峰骆驼幼崽</Dromedary.lifeStages.0.labelMale>-->
-  <!--[Core] <Dromedary.lifeStages.0.labelMalePlural>单峰骆驼幼崽</Dromedary.lifeStages.0.labelMalePlural>-->
-  <!--[Core] <Dromedary.lifeStages.0.labelFemale>单峰骆驼幼崽</Dromedary.lifeStages.0.labelFemale>-->
-  <!--[Core] <Dromedary.lifeStages.0.labelFemalePlural>单峰骆驼幼崽</Dromedary.lifeStages.0.labelFemalePlural>-->
-  <!--[Core] <Dromedary.lifeStages.1.label>幼年单峰骆驼</Dromedary.lifeStages.1.label>-->
-  <!--[Core] <Dromedary.lifeStages.1.labelPlural>幼年单峰骆驼</Dromedary.lifeStages.1.labelPlural>-->
-  <!--[Core] <Dromedary.lifeStages.1.labelMale>幼年公单峰骆驼</Dromedary.lifeStages.1.labelMale>-->
-  <!--[Core] <Dromedary.lifeStages.1.labelMalePlural>幼年公单峰骆驼</Dromedary.lifeStages.1.labelMalePlural>-->
-  <!--[Core] <Dromedary.lifeStages.1.labelFemale>幼年母单峰骆驼</Dromedary.lifeStages.1.labelFemale>-->
-  <!--[Core] <Dromedary.lifeStages.1.labelFemalePlural>幼年母单峰骆驼</Dromedary.lifeStages.1.labelFemalePlural>-->
-  <!--[Core] <Dromedary.lifeStages.2.label>单峰骆驼</Dromedary.lifeStages.2.label>-->
-  <!--[Core] <Dromedary.lifeStages.2.labelPlural>单峰骆驼</Dromedary.lifeStages.2.labelPlural>-->
-  <!--[Core] <Dromedary.lifeStages.2.labelMale>公单峰骆驼</Dromedary.lifeStages.2.labelMale>-->
-  <!--[Core] <Dromedary.lifeStages.2.labelMalePlural>公单峰骆驼</Dromedary.lifeStages.2.labelMalePlural>-->
-  <!--[Core] <Dromedary.lifeStages.2.labelFemale>母单峰骆驼</Dromedary.lifeStages.2.labelFemale>-->
-  <!--[Core] <Dromedary.lifeStages.2.labelFemalePlural>母单峰骆驼</Dromedary.lifeStages.2.labelFemalePlural>-->
-  <!--[Core] <Dromedary.labelMale>公单峰骆驼</Dromedary.labelMale>-->
-  <!--[Core] <Dromedary.labelMalePlural>公单峰骆驼</Dromedary.labelMalePlural>-->
-  <!--[Core] <Dromedary.labelFemale>母单峰骆驼</Dromedary.labelFemale>-->
-  <!--[Core] <Dromedary.labelFemalePlural>母单峰骆驼</Dromedary.labelFemalePlural>-->
+  
   <!--<Muffalo.label>muffalo</Muffalo.label>-->
   <!--<Muffalo.labelPlural>muffalos</Muffalo.labelPlural>-->
   <!--<Muffalo.lifeStages.0.label>muffalo calf</Muffalo.lifeStages.0.label>-->

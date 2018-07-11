@@ -6,11 +6,11 @@
   <BuildEmpGrenades.jobString>Building EMP Grenades.</BuildEmpGrenades.jobString>
 
   <MakeMolotov.label>Build Molotov Cocktail</MakeMolotov.label>
-  <MakeMolotov.description>Make a thrown weapon that burns your enemies into ashes!</MakeMolotov.description>
+  <MakeMolotov.description>制造 a thrown weapon that burns your enemies into ashes!</MakeMolotov.description>
   <MakeMolotov.jobString>Building Molotov Cocktail.</MakeMolotov.jobString>
 
   <MakeIncendiaryGrenade.label>Build Incendiary Grenade</MakeIncendiaryGrenade.label>
-  <MakeIncendiaryGrenade.description>A condensed mix of plasma materials make for a small but chaos inducing explosion.</MakeIncendiaryGrenade.description>
+  <MakeIncendiaryGrenade.description>A condensed mix of plasma materials 制造 for a small but chaos inducing explosion.</MakeIncendiaryGrenade.description>
   <MakeIncendiaryGrenade.jobString>Building Incendiary Grenade.</MakeIncendiaryGrenade.jobString>
 
   <BuildFragGrenades.label>Build Frag Grenade</BuildFragGrenades.label>
@@ -26,7 +26,7 @@
   <BuildFusionGrenades.jobString>Building Fusion Grenades.</BuildFusionGrenades.jobString>
 
   <BuildPlasmaGrenades.label>Build Plasma Grenades</BuildPlasmaGrenades.label>
-  <BuildPlasmaGrenades.description>A very potent mix of plasma particles make for a small but deadly explosion. Produces 1.</BuildPlasmaGrenades.description>
+  <BuildPlasmaGrenades.description>A very potent mix of plasma particles 制造 for a small but deadly explosion. Produces 1.</BuildPlasmaGrenades.description>
   <BuildPlasmaGrenades.jobString>Building Plasma Grenades.</BuildPlasmaGrenades.jobString>
 
 

@@ -3,72 +3,72 @@
 
   <!-- Colonist -->
 
-  <Colonist.label>colonist</Colonist.label>
-  <Colonist.labelPlural>colonists</Colonist.labelPlural>
+  <Colonist.label>殖民者</Colonist.label>
+  <Colonist.labelPlural>殖民者</Colonist.labelPlural>
 
 
   <!-- Exiled -->
 
-  <ColonistExiled.label>colonist</ColonistExiled.label>
-  <ColonistExiled.labelPlural>colonists</ColonistExiled.labelPlural>
+  <ColonistExiled.label>殖民者</ColonistExiled.label>
+  <ColonistExiled.labelPlural>殖民者</ColonistExiled.labelPlural>
 
 
   <!-- Nova -->
 
-  <ColonistNova.label>colonist</ColonistNova.label>
-  <ColonistNova.labelPlural>colonists</ColonistNova.labelPlural>
-  <ColonistNova.labelMale>male colonist</ColonistNova.labelMale>
-  <ColonistNova.labelMalePlural>male colonists</ColonistNova.labelMalePlural>
-  <ColonistNova.labelFemale>female colonist</ColonistNova.labelFemale>
-  <ColonistNova.labelFemalePlural>female colonists</ColonistNova.labelFemalePlural>
+   <ColonistNova.label>殖民者</ColonistNova.label>
+  <ColonistNova.labelPlural>殖民者</ColonistNova.labelPlural>
+  <ColonistNova.labelMale>男性殖民者</ColonistNova.labelMale>
+  <ColonistNova.labelMalePlural>男性殖民者</ColonistNova.labelMalePlural>
+  <ColonistNova.labelFemale>女性殖民者</ColonistNova.labelFemale>
+  <ColonistNova.labelFemalePlural>女性殖民者</ColonistNova.labelFemalePlural>
 
 
   <!-- Survivor -->
 
-  <Survivor.label>colonist</Survivor.label>
-  <Survivor.labelPlural>colonists</Survivor.labelPlural>
+  <Survivor.label>殖民者</Survivor.label>
+  <Survivor.labelPlural>殖民者</Survivor.labelPlural>
 
 
   <!-- Tribal -->
 
-  <Tribesperson.label>member</Tribesperson.label>
-  <Tribesperson.labelPlural>members</Tribesperson.labelPlural>
+  <Tribesperson.label>部众</Tribesperson.label>
+  <Tribesperson.labelPlural>部众</Tribesperson.labelPlural>
 
 
   <!-- Norbal -->
 
-  <Norbalperson.label>member</Norbalperson.label>
-  <Norbalperson.labelPlural>members</Norbalperson.labelPlural>
-  <Norbalperson.labelMale>male member</Norbalperson.labelMale>
-  <Norbalperson.labelMalePlural>male members</Norbalperson.labelMalePlural>
-  <Norbalperson.labelFemale>female member</Norbalperson.labelFemale>
-  <Norbalperson.labelFemalePlural>female members</Norbalperson.labelFemalePlural>
+  <Norbalperson.label>部众</Norbalperson.label>
+  <Norbalperson.labelPlural>部众</Norbalperson.labelPlural>
+  <Norbalperson.labelMale>男性部众</Norbalperson.labelMale>
+  <Norbalperson.labelMalePlural>男性部众</Norbalperson.labelMalePlural>
+  <Norbalperson.labelFemale>女性部众</Norbalperson.labelFemale>
+  <Norbalperson.labelFemalePlural>女性部众</Norbalperson.labelFemalePlural>
 
 
   <!-- Orassan Colonist -->
 
-  <Orassan.label>colonist</Orassan.label>
-  <Orassan.labelPlural>colonists</Orassan.labelPlural>
-  <Orassan.labelMale>male colonist</Orassan.labelMale>
-  <Orassan.labelMalePlural>male colonists</Orassan.labelMalePlural>
-  <Orassan.labelFemale>female colonist</Orassan.labelFemale>
-  <Orassan.labelFemalePlural>female colonists</Orassan.labelFemalePlural>
+   <Orassan.label>殖民者</Orassan.label>
+  <Orassan.labelPlural>殖民者</Orassan.labelPlural>
+  <Orassan.labelMale>男性殖民者</Orassan.labelMale>
+  <Orassan.labelMalePlural>男性殖民者</Orassan.labelMalePlural>
+  <Orassan.labelFemale>女性殖民者</Orassan.labelFemale>
+  <Orassan.labelFemalePlural>女性殖民者</Orassan.labelFemalePlural>
 
 
   <!-- Asari -->
 
-  <AsariPawn.label>member</AsariPawn.label>
-  <AsariPawn.labelPlural>members</AsariPawn.labelPlural>
-  <AsariPawn.labelMale>male member</AsariPawn.labelMale>
-  <AsariPawn.labelMalePlural>male members</AsariPawn.labelMalePlural>
-  <AsariPawn.labelFemale>female member</AsariPawn.labelFemale>
-  <AsariPawn.labelFemalePlural>female members</AsariPawn.labelFemalePlural>
+  <AsariPawn.label>队员</AsariPawn.label>
+  <AsariPawn.labelPlural>队员</AsariPawn.labelPlural>
+  <AsariPawn.labelMale>男性队员</AsariPawn.labelMale>
+  <AsariPawn.labelMalePlural>男性队员</AsariPawn.labelMalePlural>
+  <AsariPawn.labelFemale>女性队员</AsariPawn.labelFemale>
+  <AsariPawn.labelFemalePlural>女性队员</AsariPawn.labelFemalePlural>
 
 
   <!-- Nuclear Survivor -->
 
-  <NuclearSurvivor.label>colonist</NuclearSurvivor.label>
-  <NuclearSurvivor.labelPlural>colonists</NuclearSurvivor.labelPlural>
+  <NuclearSurvivor.label>殖民者</NuclearSurvivor.label>
+  <NuclearSurvivor.labelPlural>殖民者</NuclearSurvivor.labelPlural>
 
 
 </LanguageData>

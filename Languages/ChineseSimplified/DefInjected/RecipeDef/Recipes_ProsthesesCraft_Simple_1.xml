@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateSimpleProstheticLeg.label>Craft Simple Prosthetic Leg</CreateSimpleProstheticLeg.label>
+  <CreateSimpleProstheticLeg.label>制造 Simple Prosthetic Leg</CreateSimpleProstheticLeg.label>
   <CreateSimpleProstheticLeg.description>Crafts a simple prosthetic leg. Produces 1.</CreateSimpleProstheticLeg.description>
   <CreateSimpleProstheticLeg.jobString>Crafting prosthetic leg.</CreateSimpleProstheticLeg.jobString>
 
-  <CreateSimpleProstheticArm.label>Craft Simple Prosthetic Arm</CreateSimpleProstheticArm.label>
+  <CreateSimpleProstheticArm.label>制造 Simple Prosthetic Arm</CreateSimpleProstheticArm.label>
   <CreateSimpleProstheticArm.description>Crafts a simple prosthetic arm. Produces 1.</CreateSimpleProstheticArm.description>
   <CreateSimpleProstheticArm.jobString>Crafting prosthetic arm.</CreateSimpleProstheticArm.jobString>
 
-  <CreateSimpleProstheticHand.label>Craft Simple Prosthetic Hand</CreateSimpleProstheticHand.label>
+  <CreateSimpleProstheticHand.label>制造 Simple Prosthetic Hand</CreateSimpleProstheticHand.label>
   <CreateSimpleProstheticHand.description>Crafts a simple prosthetic hand. Produces 1.</CreateSimpleProstheticHand.description>
   <CreateSimpleProstheticHand.jobString>Crafting simple prosthetic hand.</CreateSimpleProstheticHand.jobString>
 
-  <CreateSimpleProstheticFoot.label>Craft Simple Prosthetic Foot</CreateSimpleProstheticFoot.label>
+  <CreateSimpleProstheticFoot.label>制造 Simple Prosthetic Foot</CreateSimpleProstheticFoot.label>
   <CreateSimpleProstheticFoot.description>Crafts a simple prosthetic foot. Produces 1.</CreateSimpleProstheticFoot.description>
   <CreateSimpleProstheticFoot.jobString>Crafting simple prosthetic foot.</CreateSimpleProstheticFoot.jobString>
 
-  <CreateArtificialNose.label>Craft Artificial Nose</CreateArtificialNose.label>
+  <CreateArtificialNose.label>制造 Artificial Nose</CreateArtificialNose.label>
   <CreateArtificialNose.description>Crafts an artificial nose. Produces 1.</CreateArtificialNose.description>
   <CreateArtificialNose.jobString>Crafting artificial nose.</CreateArtificialNose.jobString>
 
-  <CreateHydraulicJaw.label>Craft Hydraulic Jaw</CreateHydraulicJaw.label>
+  <CreateHydraulicJaw.label>制造 Hydraulic Jaw</CreateHydraulicJaw.label>
   <CreateHydraulicJaw.description>Crafts a hydraulic jaw. Produces 1.</CreateHydraulicJaw.description>
   <CreateHydraulicJaw.jobString>Crafting hydraulic jaw.</CreateHydraulicJaw.jobString>
 
-  <CreateGlassEye.label>Craft Glass Eye</CreateGlassEye.label>
+  <CreateGlassEye.label>制造 Glass Eye</CreateGlassEye.label>
   <CreateGlassEye.description>Crafts a glass eye. Produces 1.</CreateGlassEye.description>
   <CreateGlassEye.jobString>Crafting glass eye.</CreateGlassEye.jobString>
 
-  <CreateArtificialPelvis.label>Craft Artificial Pelvis</CreateArtificialPelvis.label>
+  <CreateArtificialPelvis.label>制造 Artificial Pelvis</CreateArtificialPelvis.label>
   <CreateArtificialPelvis.description>Crafts an artificial pelvis. Produces 1.</CreateArtificialPelvis.description>
   <CreateArtificialPelvis.jobString>Crafting artificial pelvis.</CreateArtificialPelvis.jobString>
 
-  <MakeArtificialBone.label>Make Artificial Bones</MakeArtificialBone.label>
+  <MakeArtificialBone.label>制造 Artificial Bones</MakeArtificialBone.label>
   <MakeArtificialBone.description>Makes artificial bones from metal and plastic. Produces 5.</MakeArtificialBone.description>
-  <MakeArtificialBone.jobString>Making artificial bones.</MakeArtificialBone.jobString>
+  <MakeArtificialBone.jobString>制造 artificial bones.</MakeArtificialBone.jobString>
 
-  <MakeScytherBlade.label>Make Scyther Blade Prothesis</MakeScytherBlade.label>
-  <MakeScytherBlade.description>Make a scyther blade prosthesis from an ulta solid alloy. Produces 1.</MakeScytherBlade.description>
-  <MakeScytherBlade.jobString>Making a scyther blade prosthesis.</MakeScytherBlade.jobString>
+  <MakeScytherBlade.label>制造 Scyther Blade Prothesis</MakeScytherBlade.label>
+  <MakeScytherBlade.description>制造 a scyther blade prosthesis from an ulta solid alloy. Produces 1.</MakeScytherBlade.description>
+  <MakeScytherBlade.jobString>制造 a scyther blade prosthesis.</MakeScytherBlade.jobString>
 
 
 </LanguageData>

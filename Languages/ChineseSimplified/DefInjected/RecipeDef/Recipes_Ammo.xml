@@ -5,9 +5,9 @@
   <MakeSulfur.description>Obtain sulfur from iron ore. Sulfur occurs naturally as the pure element - native sulfur and as sulfide and sulfate minerals. It is useful for gunpowder in crafting various types ammo. Produces 10.</MakeSulfur.description>
   <MakeSulfur.jobString>Obtaining sulfur from iron ore.</MakeSulfur.jobString>
 
-  <MakePowder.label>Make gunpowder</MakePowder.label>
+  <MakePowder.label>制造 gunpowder</MakePowder.label>
   <MakePowder.description>Makes gunpowder, which is useful for crafting ammo. Produces 20.</MakePowder.description>
-  <MakePowder.jobString>Making gunpowder.</MakePowder.jobString>
+  <MakePowder.jobString>制造 gunpowder.</MakePowder.jobString>
 
   <MakeNapalm.label>Create napalm</MakeNapalm.label>
   <MakeNapalm.description>Creates napalm, a flammable chemical weapon. Produces 10.</MakeNapalm.description>
