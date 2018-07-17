@@ -195,11 +195,11 @@
   <!-- WallLights -->
 
   <TorchLamp.label>torch lamp</TorchLamp.label>
-  <TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. Produces a small amount of heat.</TorchLamp.description>
+  <TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. \n\n产出：a small amount of heat.</TorchLamp.description>
   <TorchLamp_Blueprint.label>torch lamp (blueprint)</TorchLamp_Blueprint.label>
   <TorchLamp_Blueprint_Install.label>torch lamp (blueprint)</TorchLamp_Blueprint_Install.label>
   <TorchLamp_Frame.label>torch lamp (building)</TorchLamp_Frame.label>
-  <TorchLamp_Frame.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. Produces a small amount of heat.</TorchLamp_Frame.description>
+  <TorchLamp_Frame.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. \n\n产出：a small amount of heat.</TorchLamp_Frame.description>
 
   <BowlLamp.label>bowl lamp</BowlLamp.label>
   <BowlLamp.description>A bright and warm little fire, perfectly contained in a bowl. People need light to move and work at full speed.</BowlLamp.description>

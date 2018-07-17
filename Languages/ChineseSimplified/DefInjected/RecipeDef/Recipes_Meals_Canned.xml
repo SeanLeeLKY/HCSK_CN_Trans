@@ -2,19 +2,19 @@
 <LanguageData>
 
   <MakeBasicCannedFood.label>cook basic canned food</MakeBasicCannedFood.label>
-  <MakeBasicCannedFood.description>Preserve plant ingredients in cans to prevent spoiling. Produces 75.</MakeBasicCannedFood.description>
+  <MakeBasicCannedFood.description>Preserve plant ingredients in cans to prevent spoiling. \n\n产出：75.</MakeBasicCannedFood.description>
   <MakeBasicCannedFood.jobString>Canning plant ingredients.</MakeBasicCannedFood.jobString>
 
   <MakeExtraCannedFood.label>cook extra canned food</MakeExtraCannedFood.label>
-  <MakeExtraCannedFood.description>Preserve plant ingredients in cans to prevent spoiling. Produces 75.</MakeExtraCannedFood.description>
+  <MakeExtraCannedFood.description>Preserve plant ingredients in cans to prevent spoiling. \n\n产出：75.</MakeExtraCannedFood.description>
   <MakeExtraCannedFood.jobString>Canning extra plant ingriedents.</MakeExtraCannedFood.jobString>
 
   <MakeMetalCannedMeat_prime.label>cook canned prime meat</MakeMetalCannedMeat_prime.label>
-  <MakeMetalCannedMeat_prime.description>Preserve meat in cans to prevent spoiling. Produces 75.</MakeMetalCannedMeat_prime.description>
+  <MakeMetalCannedMeat_prime.description>Preserve meat in cans to prevent spoiling. \n\n产出：75.</MakeMetalCannedMeat_prime.description>
   <MakeMetalCannedMeat_prime.jobString>Canning meat.</MakeMetalCannedMeat_prime.jobString>
 
   <MakeMetalCannedMeat_raw.label>cook canned raw meat</MakeMetalCannedMeat_raw.label>
-  <MakeMetalCannedMeat_raw.description>Preserve meat in cans to prevent spoiling. Produces 75.</MakeMetalCannedMeat_raw.description>
+  <MakeMetalCannedMeat_raw.description>Preserve meat in cans to prevent spoiling. \n\n产出：75.</MakeMetalCannedMeat_raw.description>
   <MakeMetalCannedMeat_raw.jobString>Canning meat.</MakeMetalCannedMeat_raw.jobString>
 
   <PickleVegetable.label>pickle vegetable</PickleVegetable.label>

@@ -2,22 +2,22 @@
 <LanguageData>
 
   <BuildMagneticMaterial.label>合成磁性材料</BuildMagneticMaterial.label>
-  <BuildMagneticMaterial.description>Synthesize strong magnetic material from magnetic metals. Produces 5.</BuildMagneticMaterial.description>
+  <BuildMagneticMaterial.description>Synthesize strong magnetic material from magnetic metals. \n\n产出：5.</BuildMagneticMaterial.description>
   <BuildMagneticMaterial.jobString>合成磁性材料</BuildMagneticMaterial.jobString>
 
   <BuildBiosyntheticMaterial.label>合成生物合成材料</BuildBiosyntheticMaterial.label>
-  <BuildBiosyntheticMaterial.description>Synthesize high ductility BioSynthetic material. Produces 5.</BuildBiosyntheticMaterial.description>
+  <BuildBiosyntheticMaterial.description>Synthesize high ductility BioSynthetic material. \n\n产出：5.</BuildBiosyntheticMaterial.description>
   <BuildBiosyntheticMaterial.jobString>合成生物合成材料</BuildBiosyntheticMaterial.jobString>
 
 
   <!-- Polys -->
 
   <ProduceAPoly.label>合成阿尔法纤维</ProduceAPoly.label>
-  <ProduceAPoly.description>Use heat and strong electromagnets to assemble artifical elements. Produces 15.</ProduceAPoly.description>
+  <ProduceAPoly.description>Use heat and strong electromagnets to assemble artifical elements. \n\n产出：15.</ProduceAPoly.description>
   <ProduceAPoly.jobString>合成阿尔法纤维</ProduceAPoly.jobString>
 
   <ProduceBPoly.label>合成贝塔纤维</ProduceBPoly.label>
-  <ProduceBPoly.description>Use heat and strong electromagnets to assemble artifical elements. Produces 5.</ProduceBPoly.description>
+  <ProduceBPoly.description>Use heat and strong electromagnets to assemble artifical elements. \n\n产出：5.</ProduceBPoly.description>
   <ProduceBPoly.jobString>合成贝塔纤维</ProduceBPoly.jobString>
 
 

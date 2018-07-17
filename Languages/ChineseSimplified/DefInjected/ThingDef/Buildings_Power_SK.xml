@@ -55,16 +55,16 @@
   <FissionBattery_Frame.description>Stores electricity and recycles charge using fission processes. Slightly more efficient than standard batteries. Warning - charged batteries tend to explode when heated or wet. Holds up to 4,000 W.</FissionBattery_Frame.description>
 
   <SolarGenerator.label>solar generator</SolarGenerator.label>
-  <SolarGenerator.description>Produces electricity from sunlight. Does not work in the dark.</SolarGenerator.description>
+  <SolarGenerator.description>\n\n产出：electricity from sunlight. Does not work in the dark.</SolarGenerator.description>
   <SolarGenerator_Blueprint.label>solar generator (blueprint)</SolarGenerator_Blueprint.label>
   <SolarGenerator_Frame.label>solar generator (building)</SolarGenerator_Frame.label>
-  <SolarGenerator_Frame.description>Produces electricity from sunlight. Does not work in the dark.</SolarGenerator_Frame.description>
+  <SolarGenerator_Frame.description>\n\n产出：electricity from sunlight. Does not work in the dark.</SolarGenerator_Frame.description>
 
   <AdvancedSolarGenerator.label>advanced solar generator</AdvancedSolarGenerator.label>
-  <AdvancedSolarGenerator.description>Produces electricity from sunlight. Does not work in the dark.</AdvancedSolarGenerator.description>
+  <AdvancedSolarGenerator.description>\n\n产出：electricity from sunlight. Does not work in the dark.</AdvancedSolarGenerator.description>
   <AdvancedSolarGenerator_Blueprint.label>advanced solar generator (blueprint)</AdvancedSolarGenerator_Blueprint.label>
   <AdvancedSolarGenerator_Frame.label>advanced solar generator (building)</AdvancedSolarGenerator_Frame.label>
-  <AdvancedSolarGenerator_Frame.description>Produces electricity from sunlight. Does not work in the dark.</AdvancedSolarGenerator_Frame.description>
+  <AdvancedSolarGenerator_Frame.description>\n\n产出：electricity from sunlight. Does not work in the dark.</AdvancedSolarGenerator_Frame.description>
 
   <WindTurbine.label>wind turbine</WindTurbine.label>
   <WindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. Power output: 1,050 W at maximum wind speed.</WindTurbine.description>
@@ -165,18 +165,18 @@ Power output: 3,500 W.</ChemfuelPoweredGenerator.description>
 Power output: 3,500 W.</ChemfuelPoweredGenerator_Frame.description>
 
   <GeothermalGenerator.label>geothermal generator</GeothermalGenerator.label>
-  <GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.
+  <GeothermalGenerator.description>\n\n产出：electricity from geothermal steam geysers. Must be placed on a steam geyser.
 Power output: 2,500 W.</GeothermalGenerator.description>
   <GeothermalGenerator_Blueprint.label>geothermal generator (blueprint)</GeothermalGenerator_Blueprint.label>
   <GeothermalGenerator_Frame.label>geothermal generator (building)</GeothermalGenerator_Frame.label>
-  <GeothermalGenerator_Frame.description>Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.
+  <GeothermalGenerator_Frame.description>\n\n产出：electricity from geothermal steam geysers. Must be placed on a steam geyser.
 Power output: 2,500 W.</GeothermalGenerator_Frame.description>
 
   <ThermoelectricGenerator.label>thermoelectric generator</ThermoelectricGenerator.label>
-  <ThermoelectricGenerator.description>Produces electricity from differences in temperatures between two rooms. Should be placed in a wall. Example: At 1,600 C (2,912 F) difference, power output is 16,200 W at 600% efficiency.</ThermoelectricGenerator.description>
+  <ThermoelectricGenerator.description>\n\n产出：electricity from differences in temperatures between two rooms. Should be placed in a wall. Example: At 1,600 C (2,912 F) difference, power output is 16,200 W at 600% efficiency.</ThermoelectricGenerator.description>
   <ThermoelectricGenerator_Blueprint.label>thermoelectric generator (blueprint)</ThermoelectricGenerator_Blueprint.label>
   <ThermoelectricGenerator_Frame.label>thermoelectric generator (building)</ThermoelectricGenerator_Frame.label>
-  <ThermoelectricGenerator_Frame.description>Produces electricity from differences in temperatures between two rooms. Should be placed in a wall. Example: At 1,600 C (2,912 F) difference, power output is 16,200 W at 600% efficiency.</ThermoelectricGenerator_Frame.description>
+  <ThermoelectricGenerator_Frame.description>\n\n产出：electricity from differences in temperatures between two rooms. Should be placed in a wall. Example: At 1,600 C (2,912 F) difference, power output is 16,200 W at 600% efficiency.</ThermoelectricGenerator_Frame.description>
 
   <NPP.label>nuclear power plant</NPP.label>
   <NPP.description>A Nuclear Power Plant with 24,000 W power output. Requires a hopper with Enriched Uranium as a fuel source. WARNING: In case of a nuclear meltdown, build walls around the debris to contain the radiation!</NPP.description>
@@ -200,16 +200,16 @@ Power output: 2,500 W.</GeothermalGenerator_Frame.description>
   <TeslaLigthningPower_Frame.description>Harness the incredible power source of lightning through the invention of Nikola Tesla, the Tesla Lightning Generator! It needs to cool off from time to time when it gets too hot. Power output: 6,000 W.</TeslaLigthningPower_Frame.description>
 
   <PlasmaGeothermalPlant.label>plasma reactor</PlasmaGeothermalPlant.label>
-  <PlasmaGeothermalPlant.description>Produces tax-free electricity from a steam geyser. Must be placed on a steam geyser. A Plasma Generator can be linked to absorb plasma discharges. Requires to be fueled by Tin or Aluminium.</PlasmaGeothermalPlant.description>
+  <PlasmaGeothermalPlant.description>\n\n产出：tax-free electricity from a steam geyser. Must be placed on a steam geyser. A Plasma Generator can be linked to absorb plasma discharges. Requires to be fueled by Tin or Aluminium.</PlasmaGeothermalPlant.description>
   <PlasmaGeothermalPlant_Blueprint.label>plasma reactor (blueprint)</PlasmaGeothermalPlant_Blueprint.label>
   <PlasmaGeothermalPlant_Frame.label>plasma reactor (building)</PlasmaGeothermalPlant_Frame.label>
-  <PlasmaGeothermalPlant_Frame.description>Produces tax-free electricity from a steam geyser. Must be placed on a steam geyser. A Plasma Generator can be linked to absorb plasma discharges. Requires to be fueled by Tin or Aluminium.</PlasmaGeothermalPlant_Frame.description>
+  <PlasmaGeothermalPlant_Frame.description>\n\n产出：tax-free electricity from a steam geyser. Must be placed on a steam geyser. A Plasma Generator can be linked to absorb plasma discharges. Requires to be fueled by Tin or Aluminium.</PlasmaGeothermalPlant_Frame.description>
 
   <PlasmaGen.label>plasma generator</PlasmaGen.label>
-  <PlasmaGen.description>Produces tax-free electricity through plasma discharges from a Plasma Reactor. It needs to be fully charged first.</PlasmaGen.description>
+  <PlasmaGen.description>\n\n产出：tax-free electricity through plasma discharges from a Plasma Reactor. It needs to be fully charged first.</PlasmaGen.description>
   <PlasmaGen_Blueprint.label>plasma generator (blueprint)</PlasmaGen_Blueprint.label>
   <PlasmaGen_Frame.label>plasma generator (building)</PlasmaGen_Frame.label>
-  <PlasmaGen_Frame.description>Produces tax-free electricity through plasma discharges from a Plasma Reactor. It needs to be fully charged first.</PlasmaGen_Frame.description>
+  <PlasmaGen_Frame.description>\n\n产出：tax-free electricity through plasma discharges from a Plasma Reactor. It needs to be fully charged first.</PlasmaGen_Frame.description>
 
   <XenonIonTurbine.label>xenon-ion turbine</XenonIonTurbine.label>
   <XenonIonTurbine.description>Must be placed on a steam geyser. The Xenon-Ion Turbine produces power from extreme heat, and efficiency can go above 100%. Example: At 250 C (482 F) power output is 5,000 W with 150% efficiency.</XenonIonTurbine.description>

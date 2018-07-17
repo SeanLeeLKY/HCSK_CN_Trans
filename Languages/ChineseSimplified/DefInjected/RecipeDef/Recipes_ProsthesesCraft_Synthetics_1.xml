@@ -2,31 +2,31 @@
 <LanguageData>
 
   <CreateAIChip.label>制造 AI Chip</CreateAIChip.label>
-  <CreateAIChip.description>Crafts an AI chip. It restores brain functions but is very hard to make. Produces 1.</CreateAIChip.description>
+  <CreateAIChip.description>Crafts an AI chip. It restores brain functions but is very hard to make. \n\n产出：1.</CreateAIChip.description>
   <CreateAIChip.jobString>Crafting AI chip.</CreateAIChip.jobString>
 
   <CreateSyntheticLung.label>Create Synthetic Lung</CreateSyntheticLung.label>
-  <CreateSyntheticLung.description>Creates a synthetic lung. Produces 1.</CreateSyntheticLung.description>
+  <CreateSyntheticLung.description>Creates a synthetic lung. \n\n产出：1.</CreateSyntheticLung.description>
   <CreateSyntheticLung.jobString>Creating synthetic lung.</CreateSyntheticLung.jobString>
 
   <CreateSyntheticStomach.label>Create Synthetic Stomach</CreateSyntheticStomach.label>
-  <CreateSyntheticStomach.description>Creates a synthetic stomach. Produces 1.</CreateSyntheticStomach.description>
+  <CreateSyntheticStomach.description>Creates a synthetic stomach. \n\n产出：1.</CreateSyntheticStomach.description>
   <CreateSyntheticStomach.jobString>Creating synthetic stomach.</CreateSyntheticStomach.jobString>
 
   <CreateSyntheticLiver.label>Create Synthetic Liver</CreateSyntheticLiver.label>
-  <CreateSyntheticLiver.description>Creates a synthetic liver. Produces 1.</CreateSyntheticLiver.description>
+  <CreateSyntheticLiver.description>Creates a synthetic liver. \n\n产出：1.</CreateSyntheticLiver.description>
   <CreateSyntheticLiver.jobString>Creating synthetic liver.</CreateSyntheticLiver.jobString>
 
   <CreateSyntheticKidney.label>Create Synthetic Kidney</CreateSyntheticKidney.label>
-  <CreateSyntheticKidney.description>Creates a synthetic kidney. Produces 1.</CreateSyntheticKidney.description>
+  <CreateSyntheticKidney.description>Creates a synthetic kidney. \n\n产出：1.</CreateSyntheticKidney.description>
   <CreateSyntheticKidney.jobString>Creating synthetic kidney.</CreateSyntheticKidney.jobString>
 
   <CreateSyntheticHeart.label>Create Synthetic Heart</CreateSyntheticHeart.label>
-  <CreateSyntheticHeart.description>Creates a synthetic heart. Produces 1.</CreateSyntheticHeart.description>
+  <CreateSyntheticHeart.description>Creates a synthetic heart. \n\n产出：1.</CreateSyntheticHeart.description>
   <CreateSyntheticHeart.jobString>Creating synthetic heart.</CreateSyntheticHeart.jobString>
 
   <CreateSyntheticSkin.label>Create Synthetic Skin</CreateSyntheticSkin.label>
-  <CreateSyntheticSkin.description>Creates synthetic skin. Produces 1.</CreateSyntheticSkin.description>
+  <CreateSyntheticSkin.description>Creates synthetic skin. \n\n产出：1.</CreateSyntheticSkin.description>
   <CreateSyntheticSkin.jobString>Creating synthetic skin.</CreateSyntheticSkin.jobString>
 
 

@@ -2,22 +2,22 @@
 <LanguageData>
 
   <BuildMagneticMaterial.label>Synthesize magnetic material</BuildMagneticMaterial.label>
-  <BuildMagneticMaterial.description>Synthesize strong magnetic material from magnetic metals. Produces 5.</BuildMagneticMaterial.description>
+  <BuildMagneticMaterial.description>Synthesize strong magnetic material from magnetic metals. \n\n产出：5.</BuildMagneticMaterial.description>
   <BuildMagneticMaterial.jobString>Synthesizing magnetic material.</BuildMagneticMaterial.jobString>
 
   <BuildBiosyntheticMaterial.label>Synthesize BioSynthetic material</BuildBiosyntheticMaterial.label>
-  <BuildBiosyntheticMaterial.description>Synthesize high ductility BioSynthetic material. Produces 5.</BuildBiosyntheticMaterial.description>
+  <BuildBiosyntheticMaterial.description>Synthesize high ductility BioSynthetic material. \n\n产出：5.</BuildBiosyntheticMaterial.description>
   <BuildBiosyntheticMaterial.jobString>Synthesizing BioSynthetic material.</BuildBiosyntheticMaterial.jobString>
 
 
   <!-- Polys -->
 
   <ProduceAPoly.label>Fabricate alpha poly</ProduceAPoly.label>
-  <ProduceAPoly.description>Use heat and strong electromagnets to assemble artifical elements. Produces 15.</ProduceAPoly.description>
+  <ProduceAPoly.description>Use heat and strong electromagnets to assemble artifical elements. \n\n产出：15.</ProduceAPoly.description>
   <ProduceAPoly.jobString>Fabricating alpha poly.</ProduceAPoly.jobString>
 
   <ProduceBPoly.label>Fabricate beta poly</ProduceBPoly.label>
-  <ProduceBPoly.description>Use heat and strong electromagnets to assemble artifical elements. Produces 5.</ProduceBPoly.description>
+  <ProduceBPoly.description>Use heat and strong electromagnets to assemble artifical elements. \n\n产出：5.</ProduceBPoly.description>
   <ProduceBPoly.jobString>Fabricating beta poly.</ProduceBPoly.jobString>
 
 

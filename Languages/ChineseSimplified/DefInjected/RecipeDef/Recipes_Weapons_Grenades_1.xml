@@ -22,11 +22,11 @@
   <BuildFlashbangGrenades.jobString>Building Shock Grenades.</BuildFlashbangGrenades.jobString>
 
   <BuildFusionGrenades.label>制造 融合手雷</BuildFusionGrenades.label>
-  <BuildFusionGrenades.description>An improvement over the simple frag grenade, contains a more potent explosive. Produces 1.</BuildFusionGrenades.description>
+  <BuildFusionGrenades.description>An improvement over the simple frag grenade, contains a more potent explosive. \n\n产出：1.</BuildFusionGrenades.description>
   <BuildFusionGrenades.jobString>Building Fusion Grenades.</BuildFusionGrenades.jobString>
 
   <BuildPlasmaGrenades.label>制造 等离子手雷</BuildPlasmaGrenades.label>
-  <BuildPlasmaGrenades.description>A very potent mix of plasma particles 制造 for a small but deadly explosion. Produces 1.</BuildPlasmaGrenades.description>
+  <BuildPlasmaGrenades.description>A very potent mix of plasma particles 制造 for a small but deadly explosion. \n\n产出：1.</BuildPlasmaGrenades.description>
   <BuildPlasmaGrenades.jobString>Building Plasma Grenades.</BuildPlasmaGrenades.jobString>
 
 

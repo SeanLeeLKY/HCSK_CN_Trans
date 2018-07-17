@@ -2,31 +2,31 @@
 <LanguageData>
 
   <MakeFruitYogurt.label>cook fruit yogurts</MakeFruitYogurt.label>
-  <MakeFruitYogurt.description>Cook yogurts from milk or soy milk and some fruits. Produces 3.</MakeFruitYogurt.description>
+  <MakeFruitYogurt.description>Cook yogurts from milk or soy milk and some fruits. \n\n产出：3.</MakeFruitYogurt.description>
   <MakeFruitYogurt.jobString>Cooking yogurts.</MakeFruitYogurt.jobString>
 
   <MakeFruitYogurt_Bulk.label>cook bulk fruit yogurts</MakeFruitYogurt_Bulk.label>
-  <MakeFruitYogurt_Bulk.description>Cook yogurts from milk or soy milk and some fruits. Produces 10.</MakeFruitYogurt_Bulk.description>
+  <MakeFruitYogurt_Bulk.description>Cook yogurts from milk or soy milk and some fruits. \n\n产出：10.</MakeFruitYogurt_Bulk.description>
   <MakeFruitYogurt_Bulk.jobString>Cookig yogurts.</MakeFruitYogurt_Bulk.jobString>
 
   <MakeChocoMilk.label>mix chocolate milks</MakeChocoMilk.label>
-  <MakeChocoMilk.description>Mix milk or soy milk with chocolate for tastier beverages. Produces 3.</MakeChocoMilk.description>
+  <MakeChocoMilk.description>Mix milk or soy milk with chocolate for tastier beverages. \n\n产出：3.</MakeChocoMilk.description>
   <MakeChocoMilk.jobString>Mixing milk with chocolate.</MakeChocoMilk.jobString>
 
   <MakeChocoMilk_Bulk.label>mix bulk chocolate milk</MakeChocoMilk_Bulk.label>
-  <MakeChocoMilk_Bulk.description>Mix milk or soy milk with chocolate for tastier beverages. Produces 10.</MakeChocoMilk_Bulk.description>
+  <MakeChocoMilk_Bulk.description>Mix milk or soy milk with chocolate for tastier beverages. \n\n产出：10.</MakeChocoMilk_Bulk.description>
   <MakeChocoMilk_Bulk.jobString>Mixing milk with chocolate.</MakeChocoMilk_Bulk.jobString>
 
   <BrewTea.label>brew cups of tea</BrewTea.label>
-  <BrewTea.description>Prepare tea leaves and brew them into cups of tea. Produces 3.</BrewTea.description>
+  <BrewTea.description>Prepare tea leaves and brew them into cups of tea. \n\n产出：3.</BrewTea.description>
   <BrewTea.jobString>Brewing cups of tea.</BrewTea.jobString>
 
   <BrewCoffee.label>brew cups of coffee</BrewCoffee.label>
-  <BrewCoffee.description>Brews cups of coffee. Don't overdose on caffeine! Produces 5.</BrewCoffee.description>
+  <BrewCoffee.description>Brews cups of coffee. Don't overdose on caffeine! \n\n产出：5.</BrewCoffee.description>
   <BrewCoffee.jobString>Brewing coffee.</BrewCoffee.jobString>
 
   <MakeFruitDrink.label>press fruit drinks</MakeFruitDrink.label>
-  <MakeFruitDrink.description>Press fruit to 制造 some tasty fruit drinks. Produces 3.</MakeFruitDrink.description>
+  <MakeFruitDrink.description>Press fruit to 制造 some tasty fruit drinks. \n\n产出：3.</MakeFruitDrink.description>
   <MakeFruitDrink.jobString>Pressing fruit into drinks.</MakeFruitDrink.jobString>
 
 

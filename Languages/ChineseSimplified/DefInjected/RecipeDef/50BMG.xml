@@ -3,21 +3,21 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_50BMG_FMJ.label>制造 .50 BMG (FMJ) cartridge x60</MakeAmmo_50BMG_FMJ.label>
-  <MakeAmmo_50BMG_FMJ.description>制造 60 .50 BMG (FMJ) cartridges.</MakeAmmo_50BMG_FMJ.description>
-  <MakeAmmo_50BMG_FMJ.jobString>制造 .50 BMG (FMJ) cartridges.</MakeAmmo_50BMG_FMJ.jobString>
+  <MakeAmmo_50BMG_FMJ.label>制造 .50 (FMJ) 机枪弹x60</MakeAmmo_50BMG_FMJ.label>
+  <MakeAmmo_50BMG_FMJ.description>制造 60 .50 (FMJ) 机枪弹。</MakeAmmo_50BMG_FMJ.description>
+  <MakeAmmo_50BMG_FMJ.jobString>制造 .50 (FMJ) 机枪弹。</MakeAmmo_50BMG_FMJ.jobString>
 
-  <MakeAmmo_50BMG_Sabot.label>制造 .50 BMG (Sabot) cartridge x60</MakeAmmo_50BMG_Sabot.label>
-  <MakeAmmo_50BMG_Sabot.description>制造 60 .50 BMG (Sabot) cartridges.</MakeAmmo_50BMG_Sabot.description>
-  <MakeAmmo_50BMG_Sabot.jobString>制造 .50 BMG (Sabot) cartridges.</MakeAmmo_50BMG_Sabot.jobString>
+  <MakeAmmo_50BMG_Sabot.label>制造 .50 (Sabot) 机枪弹x60</MakeAmmo_50BMG_Sabot.label>
+  <MakeAmmo_50BMG_Sabot.description>制造 60 .50 (Sabot) 机枪弹。</MakeAmmo_50BMG_Sabot.description>
+  <MakeAmmo_50BMG_Sabot.jobString>制造 .50 (Sabot) 机枪弹。</MakeAmmo_50BMG_Sabot.jobString>
 
-  <MakeAmmo_50BMG_HE.label>制造 .50 BMG (HE) cartridge x60</MakeAmmo_50BMG_HE.label>
-  <MakeAmmo_50BMG_HE.description>制造 60 .50 BMG (HE) cartridges.</MakeAmmo_50BMG_HE.description>
-  <MakeAmmo_50BMG_HE.jobString>制造 .50 BMG (HE) cartridges.</MakeAmmo_50BMG_HE.jobString>
+  <MakeAmmo_50BMG_HE.label>制造 .50 (HE) 机枪弹x60</MakeAmmo_50BMG_HE.label>
+  <MakeAmmo_50BMG_HE.description>制造 60 .50 (HE) 机枪弹。</MakeAmmo_50BMG_HE.description>
+  <MakeAmmo_50BMG_HE.jobString>制造 .50 (HE) 机枪弹。</MakeAmmo_50BMG_HE.jobString>
 
-  <MakeAmmo_50BMG_Incendiary.label>制造 .50 BMG (AP-I) cartridge x60</MakeAmmo_50BMG_Incendiary.label>
-  <MakeAmmo_50BMG_Incendiary.description>制造 60 .50 BMG (AP-I) cartridges.</MakeAmmo_50BMG_Incendiary.description>
-  <MakeAmmo_50BMG_Incendiary.jobString>制造 .50 BMG (AP-I) cartridges.</MakeAmmo_50BMG_Incendiary.jobString>
+  <MakeAmmo_50BMG_Incendiary.label>制造 .50 (AP-I) 机枪弹x60</MakeAmmo_50BMG_Incendiary.label>
+  <MakeAmmo_50BMG_Incendiary.description>制造 60 .50 (AP-I) 机枪弹。</MakeAmmo_50BMG_Incendiary.description>
+  <MakeAmmo_50BMG_Incendiary.jobString>制造 .50 (AP-I) 机枪弹。</MakeAmmo_50BMG_Incendiary.jobString>
 
 
 </LanguageData>

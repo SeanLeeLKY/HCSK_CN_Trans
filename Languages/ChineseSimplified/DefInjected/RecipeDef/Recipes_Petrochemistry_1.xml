@@ -2,40 +2,40 @@
 <LanguageData>
 
   <MakePlastic.label>制作塑料</MakePlastic.label>
-  <MakePlastic.description>Create plastic from polymers. Produces 10.</MakePlastic.description>
+  <MakePlastic.description>Create plastic from polymers. \n\n产出：10.</MakePlastic.description>
   <MakePlastic.jobString>Creating plastic from polymers.</MakePlastic.jobString>
 
   <MakeRubber.label>制作合成橡胶</MakeRubber.label>
-  <MakeRubber.description>Create rubber from polymers and sulphates. Produces 10.</MakeRubber.description>
+  <MakeRubber.description>Create rubber from polymers and sulphates. \n\n产出：10.</MakeRubber.description>
   <MakeRubber.jobString>Creating rubber from polymers and sulphates.</MakeRubber.jobString>
 
   <VulcanizeRubber.label>硫化天然橡胶</VulcanizeRubber.label>
-  <VulcanizeRubber.description>Vulcanize rubber from caoutchouc and sulphates. Produces 10.</VulcanizeRubber.description>
+  <VulcanizeRubber.description>Vulcanize rubber from caoutchouc and sulphates. \n\n产出：10.</VulcanizeRubber.description>
   <VulcanizeRubber.jobString>Vulcanizing rubber from caoutchouc and sulphates.</VulcanizeRubber.jobString>
 
   <MakeSyntheticFibers.label>制作人造纤维</MakeSyntheticFibers.label>
-  <MakeSyntheticFibers.description>Create synthetic fibers from polymers and sulphates. Produces 5.</MakeSyntheticFibers.description>
+  <MakeSyntheticFibers.description>Create synthetic fibers from polymers and sulphates. \n\n产出：5.</MakeSyntheticFibers.description>
   <MakeSyntheticFibers.jobString>Creating synthetic fibers.</MakeSyntheticFibers.jobString>
 
 
   <!-- Compaste -->
 
   <MakeCompaste.label>制作复合粘剂</MakeCompaste.label>
-  <MakeCompaste.description>制造 bottles of compound paste, used in a wide variety of clothing. Produces 20.</MakeCompaste.description>
+  <MakeCompaste.description>制造 bottles of compound paste, used in a wide variety of clothing. \n\n产出：20.</MakeCompaste.description>
   <MakeCompaste.jobString>Crafting compound paste.</MakeCompaste.jobString>
 
   <MakeCarbon.label>制作精碳</MakeCarbon.label>
-  <MakeCarbon.description>Create carbon from polymers, rubber and coal ore. Produces 12.</MakeCarbon.description>
+  <MakeCarbon.description>Create carbon from polymers, rubber and coal ore. \n\n产出：12.</MakeCarbon.description>
   <MakeCarbon.jobString>Creating carbon.</MakeCarbon.jobString>
 
   <MakeKevlar.label>制作凯夫拉（芳纶）</MakeKevlar.label>
-  <MakeKevlar.description>Create kevlar from plastic and synthetic fibers. Produces 10.</MakeKevlar.description>
+  <MakeKevlar.description>Create kevlar from plastic and synthetic fibers. \n\n产出：10.</MakeKevlar.description>
   <MakeKevlar.jobString>Creating kevlar.</MakeKevlar.jobString>
 
 
   <!-- Hey rhyss, sidfu, or whoever reads this. I dont think this recipe is being used anymore  \/. Won't remove it yet since it might break things -->
   <!--<OilRefining.label>精炼原油</OilRefining.label>-->
-  <!--<OilRefining.description>Refine crude oil into useable materials. Produces 35 polymers, 23 fuel, 10 sand, 5 sulphates, 2 paraffins and 3 synthetic ammonia.</OilRefining.description>-->
+  <!--<OilRefining.description>Refine crude oil into useable materials. \n\n产出：35 polymers, 23 fuel, 10 sand, 5 sulphates, 2 paraffins and 3 synthetic ammonia.</OilRefining.description>-->
   <!--<OilRefining.jobString>Refining crude oil.</OilRefining.jobString>-->
 
 </LanguageData>

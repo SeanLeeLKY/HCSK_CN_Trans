@@ -3,17 +3,17 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_338Lapua_FMJ.label>制造 .338 Lapua Magnum (FMJ) cartridge x80</MakeAmmo_338Lapua_FMJ.label>
-  <MakeAmmo_338Lapua_FMJ.description>制造 80 .338 Lapua Magnum (FMJ) cartridges.</MakeAmmo_338Lapua_FMJ.description>
-  <MakeAmmo_338Lapua_FMJ.jobString>制造 .338 Lapua Magnum (FMJ) cartridges.</MakeAmmo_338Lapua_FMJ.jobString>
+  <MakeAmmo_338Lapua_FMJ.label>制造 .338 (FMJ) 马格南子弹x80</MakeAmmo_338Lapua_FMJ.label>
+  <MakeAmmo_338Lapua_FMJ.description>制造 80 .338 (FMJ) 马格南子弹x80。</MakeAmmo_338Lapua_FMJ.description>
+  <MakeAmmo_338Lapua_FMJ.jobString>制造 .338 (FMJ) 马格南子弹x80。</MakeAmmo_338Lapua_FMJ.jobString>
 
-  <MakeAmmo_338Lapua_HE.label>制造 .338 Lapua Magnum (HE) cartridge x80</MakeAmmo_338Lapua_HE.label>
-  <MakeAmmo_338Lapua_HE.description>制造 80 .338 Lapua Magnum (HE) cartridges.</MakeAmmo_338Lapua_HE.description>
-  <MakeAmmo_338Lapua_HE.jobString>制造 .338 Lapua Magnum (HE) cartridges.</MakeAmmo_338Lapua_HE.jobString>
+  <MakeAmmo_338Lapua_HE.label>制造 .338 (HE) 马格南子弹x80</MakeAmmo_338Lapua_HE.label>
+  <MakeAmmo_338Lapua_HE.description>制造 80 .338 (HE) 马格南子弹x80。</MakeAmmo_338Lapua_HE.description>
+  <MakeAmmo_338Lapua_HE.jobString>制造 .338 (HE) 马格南子弹x80。</MakeAmmo_338Lapua_HE.jobString>
 
-  <MakeAmmo_338Lapua_Incendiary.label>制造 .338 Lapua Magnum (AP-I) cartridge x80</MakeAmmo_338Lapua_Incendiary.label>
-  <MakeAmmo_338Lapua_Incendiary.description>制造 80 .338 Lapua Magnum (AP-I) cartridges.</MakeAmmo_338Lapua_Incendiary.description>
-  <MakeAmmo_338Lapua_Incendiary.jobString>制造 .338 Lapua Magnum (AP-I) cartridges.</MakeAmmo_338Lapua_Incendiary.jobString>
+  <MakeAmmo_338Lapua_Incendiary.label>制造 .338 (AP-I) 马格南子弹x80</MakeAmmo_338Lapua_Incendiary.label>
+  <MakeAmmo_338Lapua_Incendiary.description>制造 80 .338 (AP-I) 马格南子弹x80。</MakeAmmo_338Lapua_Incendiary.description>
+  <MakeAmmo_338Lapua_Incendiary.jobString>制造 .338 (AP-I) 马格南子弹x80。</MakeAmmo_338Lapua_Incendiary.jobString>
 
 
 </LanguageData>

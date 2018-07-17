@@ -18,26 +18,26 @@
   <ButcherCorpseFlesh.jobString>Butchering.</ButcherCorpseFlesh.jobString>
 
   <MakeStoneBlocksAny.label>cut stone blocks</MakeStoneBlocksAny.label>
-  <MakeStoneBlocksAny.description>Cuts a stone chunk into usable stone blocks. Produces 20 sand and 5 rubble as a by-product.</MakeStoneBlocksAny.description>
+  <MakeStoneBlocksAny.description>Cuts a stone chunk into usable stone blocks. \n\n产出：20 sand and 5 rubble as a by-product.</MakeStoneBlocksAny.description>
   <MakeStoneBlocksAny.jobString>Cutting stone chunk into blocks.</MakeStoneBlocksAny.jobString>
 
   <MakeStoneBlocks_Electric.label>cut stone blocks</MakeStoneBlocks_Electric.label>
-  <MakeStoneBlocks_Electric.description>Cuts a stone chunk into usable stone blocks. Produces 20 sand and 5 rubble as a by-product.</MakeStoneBlocks_Electric.description>
+  <MakeStoneBlocks_Electric.description>Cuts a stone chunk into usable stone blocks. \n\n产出：20 sand and 5 rubble as a by-product.</MakeStoneBlocks_Electric.description>
   <MakeStoneBlocks_Electric.jobString>Cutting stone chunk into blocks.</MakeStoneBlocks_Electric.jobString>
 
   <ExtractBiomatterCorpse.label>extract biomatter from corpse</ExtractBiomatterCorpse.label>
-  <ExtractBiomatterCorpse.description>Extracts BioMatter from a corpse. Produces 35.</ExtractBiomatterCorpse.description>
+  <ExtractBiomatterCorpse.description>Extracts BioMatter from a corpse. \n\n产出：35.</ExtractBiomatterCorpse.description>
   <ExtractBiomatterCorpse.jobString>Extracting BioMatter from corpse.</ExtractBiomatterCorpse.jobString>
 
   <ExtractBiomatterAnimal.label>extract biomatter from animal corpse</ExtractBiomatterAnimal.label>
-  <ExtractBiomatterAnimal.description>Extracts BioMatter from an animal corpse. Produces 10.</ExtractBiomatterAnimal.description>
+  <ExtractBiomatterAnimal.description>Extracts BioMatter from an animal corpse. \n\n产出：10.</ExtractBiomatterAnimal.description>
   <ExtractBiomatterAnimal.jobString>Extracting BioMatter from animal corpse.</ExtractBiomatterAnimal.jobString>
 
 
   <!-- SOYLENT GREEN -->
 
   <makesoylentgreen.label>obtain soylent green</makesoylentgreen.label>
-  <makesoylentgreen.description>Obtain Soylent Green from a humanlike corpse. Produces 45.</makesoylentgreen.description>
+  <makesoylentgreen.description>Obtain Soylent Green from a humanlike corpse. \n\n产出：45.</makesoylentgreen.description>
   <makesoylentgreen.jobString>Obtaining Soylent Green.</makesoylentgreen.jobString>
 
 

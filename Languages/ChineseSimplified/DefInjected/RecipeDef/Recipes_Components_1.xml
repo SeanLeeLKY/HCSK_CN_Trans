@@ -4,83 +4,83 @@
   <!-- REALISTIC PRODUCTION SK MOD -->
 
   <MakeComponents_Hand.label>组装零部件</MakeComponents_Hand.label>
-  <MakeComponents_Hand.description>Assembles components from metal. Quite slow. Produces 12.</MakeComponents_Hand.description>
+  <MakeComponents_Hand.description>Assembles components from metal. Quite slow. \n\n产出：12.</MakeComponents_Hand.description>
   <MakeComponents_Hand.jobString>组装零部件</MakeComponents_Hand.jobString>
 
   <MakeAdvancedComponent.label>Assemble components</MakeAdvancedComponent.label>
-  <MakeAdvancedComponent.description>Assemble components from metal. Quite fast. Produces 24.</MakeAdvancedComponent.description>
+  <MakeAdvancedComponent.description>Assemble components from metal. Quite fast. \n\n产出：24.</MakeAdvancedComponent.description>
   <MakeAdvancedComponent.jobString>Assembling components.</MakeAdvancedComponent.jobString>
 
   <MakeWires_Hand.label>制作电线</MakeWires_Hand.label>
-  <MakeWires_Hand.description>制造 wires from high conductivity metals. Quite slow. Produces 20.</MakeWires_Hand.description>
+  <MakeWires_Hand.description>制造 wires from high conductivity metals. Quite slow. \n\n产出：20.</MakeWires_Hand.description>
   <MakeWires_Hand.jobString>制作电线</MakeWires_Hand.jobString>
 
   <MakeWires_Electric.label>制作电线</MakeWires_Electric.label>
-  <MakeWires_Electric.description>制造 wires from high conductivity metals. Quite fast. Produces 40.</MakeWires_Electric.description>
+  <MakeWires_Electric.description>制造 wires from high conductivity metals. Quite fast. \n\n产出：40.</MakeWires_Electric.description>
   <MakeWires_Electric.jobString>制作电线</MakeWires_Electric.jobString>
 
   <MakeSand_Hand.label>将碎石碾磨成沙子</MakeSand_Hand.label>
-  <MakeSand_Hand.description>Crush rubble to obtain sand. Quite slow. Produces 25.</MakeSand_Hand.description>
+  <MakeSand_Hand.description>Crush rubble to obtain sand. Quite slow. \n\n产出：25.</MakeSand_Hand.description>
   <MakeSand_Hand.jobString>Crushing rubble into sand.</MakeSand_Hand.jobString>
 
   <MakeSand_Electric.label>将碎石碾磨成沙子</MakeSand_Electric.label>
-  <MakeSand_Electric.description>Crush rubble to obtain sand. Quite fast. Produces 50.</MakeSand_Electric.description>
+  <MakeSand_Electric.description>Crush rubble to obtain sand. Quite fast. \n\n产出：50.</MakeSand_Electric.description>
   <MakeSand_Electric.jobString>将碎石碾磨成沙子</MakeSand_Electric.jobString>
 
   <MakeSand_Hand_Chunk.label>将石块碾磨成沙子</MakeSand_Hand_Chunk.label>
-  <MakeSand_Hand_Chunk.description>Obtain sand by pulverizing a chunk of stone. Quite slow. Produces 80.</MakeSand_Hand_Chunk.description>
+  <MakeSand_Hand_Chunk.description>Obtain sand by pulverizing a chunk of stone. Quite slow. \n\n产出：80.</MakeSand_Hand_Chunk.description>
   <MakeSand_Hand_Chunk.jobString>将石块碾磨成沙子</MakeSand_Hand_Chunk.jobString>
 
   <MakeSand_Electric_Chunk.label>将石块碾磨成沙子</MakeSand_Electric_Chunk.label>
-  <MakeSand_Electric_Chunk.description>Obtain sand by pulverizing a chunk of stone. Quite fast. Produces 80.</MakeSand_Electric_Chunk.description>
+  <MakeSand_Electric_Chunk.description>Obtain sand by pulverizing a chunk of stone. Quite fast. \n\n产出：80.</MakeSand_Electric_Chunk.description>
   <MakeSand_Electric_Chunk.jobString>将石块碾磨成沙子</MakeSand_Electric_Chunk.jobString>
 
   <MakeCrushedStone_Hand.label>将石砖碾磨成碎石</MakeCrushedStone_Hand.label>
-  <MakeCrushedStone_Hand.description>Crush stone blocks into rubble. Quite slow. Produces 20.</MakeCrushedStone_Hand.description>
+  <MakeCrushedStone_Hand.description>Crush stone blocks into rubble. Quite slow. \n\n产出：20.</MakeCrushedStone_Hand.description>
   <MakeCrushedStone_Hand.jobString>将石砖碾磨成碎石</MakeCrushedStone_Hand.jobString>
 
   <MakeCrushedStone_Electric.label>将石砖碾磨成碎石</MakeCrushedStone_Electric.label>
-  <MakeCrushedStone_Electric.description>Crush stone blocks into rubble. Quite fast. Produces 40.</MakeCrushedStone_Electric.description>
+  <MakeCrushedStone_Electric.description>Crush stone blocks into rubble. Quite fast. \n\n产出：40.</MakeCrushedStone_Electric.description>
   <MakeCrushedStone_Electric.jobString>将石砖碾磨成碎石</MakeCrushedStone_Electric.jobString>
 
   <MakeCrushedStone_Hand_Chunk.label>将石块碾磨成碎石</MakeCrushedStone_Hand_Chunk.label>
-  <MakeCrushedStone_Hand_Chunk.description>Crush stone chunks into rubble. Quite slow. Produces 32.</MakeCrushedStone_Hand_Chunk.description>
+  <MakeCrushedStone_Hand_Chunk.description>Crush stone chunks into rubble. Quite slow. \n\n产出：32.</MakeCrushedStone_Hand_Chunk.description>
   <MakeCrushedStone_Hand_Chunk.jobString>将石块碾磨成碎石</MakeCrushedStone_Hand_Chunk.jobString>
 
   <MakeCrushedStone_Electric_Chunk.label>将石块碾磨成碎石</MakeCrushedStone_Electric_Chunk.label>
-  <MakeCrushedStone_Electric_Chunk.description>Crush stone chunks into rubble. Quite slow. Produces 32.</MakeCrushedStone_Electric_Chunk.description>
+  <MakeCrushedStone_Electric_Chunk.description>Crush stone chunks into rubble. Quite slow. \n\n产出：32.</MakeCrushedStone_Electric_Chunk.description>
   <MakeCrushedStone_Electric_Chunk.jobString>将石块碾磨成碎石</MakeCrushedStone_Electric_Chunk.jobString>
 
   <MakeReinforcedConcrete_Hand.label>制作钢筋混凝土</MakeReinforcedConcrete_Hand.label>
-  <MakeReinforcedConcrete_Hand.description>Create reinforced concrete from concrete and metal. Quite slow. Produces 8.</MakeReinforcedConcrete_Hand.description>
+  <MakeReinforcedConcrete_Hand.description>Create reinforced concrete from concrete and metal. Quite slow. \n\n产出：8.</MakeReinforcedConcrete_Hand.description>
   <MakeReinforcedConcrete_Hand.jobString>制作钢筋混凝土</MakeReinforcedConcrete_Hand.jobString>
 
   <MakeReinforcedConcrete_Electric.label>制作钢筋混凝土</MakeReinforcedConcrete_Electric.label>
-  <MakeReinforcedConcrete_Electric.description>Create reinforced concrete from concrete and metal. Quite fast. Produces 16.</MakeReinforcedConcrete_Electric.description>
+  <MakeReinforcedConcrete_Electric.description>Create reinforced concrete from concrete and metal. Quite fast. \n\n产出：16.</MakeReinforcedConcrete_Electric.description>
   <MakeReinforcedConcrete_Electric.jobString>制作钢筋混凝土</MakeReinforcedConcrete_Electric.jobString>
 
   <MakeSimpleMechanism_Hand.label>组装机械组件</MakeSimpleMechanism_Hand.label>
-  <MakeSimpleMechanism_Hand.description>Assemble mechanisms. Mechanisms are simple gear-like parts for use in machines or workbenches. Quite slow. Produces 5.</MakeSimpleMechanism_Hand.description>
+  <MakeSimpleMechanism_Hand.description>Assemble mechanisms. Mechanisms are simple gear-like parts for use in machines or workbenches. Quite slow. \n\n产出：5.</MakeSimpleMechanism_Hand.description>
   <MakeSimpleMechanism_Hand.jobString>组装机械组件</MakeSimpleMechanism_Hand.jobString>
 
   <MakeSimpleMechanism_Electric.label>组装机械组件</MakeSimpleMechanism_Electric.label>
-  <MakeSimpleMechanism_Electric.description>Assemble mechanisms. Mechanisms are simple gear-like parts for use in machines or workbenches. Quite fast. Produces 10.</MakeSimpleMechanism_Electric.description>
+  <MakeSimpleMechanism_Electric.description>Assemble mechanisms. Mechanisms are simple gear-like parts for use in machines or workbenches. Quite fast. \n\n产出：10.</MakeSimpleMechanism_Electric.description>
   <MakeSimpleMechanism_Electric.jobString>组装机械组件</MakeSimpleMechanism_Electric.jobString>
 
   <MakeAdvMechanism_Hand.label>组装先进机械组件</MakeAdvMechanism_Hand.label>
-  <MakeAdvMechanism_Hand.description>Assemble advanced mechanisms. Advanced mechanisms are intricate gear-like parts for use in complex machines or workbenches. Quite slow. Produces 5.</MakeAdvMechanism_Hand.description>
+  <MakeAdvMechanism_Hand.description>Assemble advanced mechanisms. Advanced mechanisms are intricate gear-like parts for use in complex machines or workbenches. Quite slow. \n\n产出：5.</MakeAdvMechanism_Hand.description>
   <MakeAdvMechanism_Hand.jobString>组装先进机械组件</MakeAdvMechanism_Hand.jobString>
 
   <MakeAdvMechanism_Electric.label>组装先进机械组件</MakeAdvMechanism_Electric.label>
-  <MakeAdvMechanism_Electric.description>Assemble advanced mechanisms. Advanced mechanisms are intricate gear-like parts for use in complex machines or workbenches. Quite fast. Produces 10.</MakeAdvMechanism_Electric.description>
+  <MakeAdvMechanism_Electric.description>Assemble advanced mechanisms. Advanced mechanisms are intricate gear-like parts for use in complex machines or workbenches. Quite fast. \n\n产出：10.</MakeAdvMechanism_Electric.description>
   <MakeAdvMechanism_Electric.jobString>组装先进机械组件</MakeAdvMechanism_Electric.jobString>
 
   <MakeMetalCan.label>制作金属罐</MakeMetalCan.label>
-  <MakeMetalCan.description>制造 cans from metal. Cans are typically used to preserve food when there are no freezers nearby. Produces 10.</MakeMetalCan.description>
+  <MakeMetalCan.description>制造 cans from metal. Cans are typically used to preserve food when there are no freezers nearby. \n\n产出：10.</MakeMetalCan.description>
   <MakeMetalCan.jobString>制作金属罐</MakeMetalCan.jobString>
 
   <MakeMendingKit.label>制作修理包</MakeMendingKit.label>
-  <MakeMendingKit.description>制造 mending kits from various materials. Produces enough to re-stock the mending table.</MakeMendingKit.description>
+  <MakeMendingKit.description>制造 mending kits from various materials. \n\n产出：enough to re-stock the mending table.</MakeMendingKit.description>
   <MakeMendingKit.jobString>制作修理包</MakeMendingKit.jobString>
 
 
@@ -88,10 +88,10 @@
   <!--[Core] <MakeAdvancedComponent.description>制作高级零部件。</MakeAdvancedComponent.description>-->
   <!--[Core] <MakeAdvancedComponent.jobString>正在制作高级零部件。</MakeAdvancedComponent.jobString>-->
   <!--<MakeAdvancedComponent.label>Assemble components</MakeAdvancedComponent.label>-->
-  <!--<MakeAdvancedComponent.description>Assemble components from metal. Quite fast. Produces 24.</MakeAdvancedComponent.description>-->
+  <!--<MakeAdvancedComponent.description>Assemble components from metal. Quite fast. \n\n产出：24.</MakeAdvancedComponent.description>-->
   <!--<MakeAdvancedComponent.jobString>Assembling components.</MakeAdvancedComponent.jobString>-->
   <!--<MakeComponents_Electric.label>组装零部件</MakeComponents_Electric.label>-->
-  <!--<MakeComponents_Electric.description>Assemble components from metal. Quite fast. Produces 24.</MakeComponents_Electric.description>-->
+  <!--<MakeComponents_Electric.description>Assemble components from metal. Quite fast. \n\n产出：24.</MakeComponents_Electric.description>-->
   <!--<MakeComponents_Electric.jobString>组装零部件</MakeComponents_Electric.jobString>-->
 
 </LanguageData>

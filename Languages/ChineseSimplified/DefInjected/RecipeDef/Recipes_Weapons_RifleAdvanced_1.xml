@@ -22,7 +22,7 @@
   <!--<BuildFAMAS.jobString>Building FAMAS G2.</BuildFAMAS.jobString>-->
 
   <!--<DeconstructPersonalShield.label>回收个人护盾</DeconstructPersonalShield.label>-->
-  <!--<DeconstructPersonalShield.description>Deconstructs a personal shield to retrieve some of the materials used to 制造 it. Produces 30 steel bars and 2 integrated circuits.</DeconstructPersonalShield.description>-->
+  <!--<DeconstructPersonalShield.description>Deconstructs a personal shield to retrieve some of the materials used to 制造 it. \n\n产出：30 steel bars and 2 integrated circuits.</DeconstructPersonalShield.description>-->
   <!--<DeconstructPersonalShield.jobString>Deconstructing personal shield.</DeconstructPersonalShield.jobString>-->
 
   <!--<BuildXM8MilitaryRifle.label>制造 HK XM8 军用突击步枪</BuildXM8MilitaryRifle.label>-->

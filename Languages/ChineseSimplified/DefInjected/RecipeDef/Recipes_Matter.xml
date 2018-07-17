@@ -4,84 +4,84 @@
   <!-- Raw resources -->
 
   <ConvertResourcesRaw.label>Create inorganic matter</ConvertResourcesRaw.label>
-  <ConvertResourcesRaw.description>Create inorganic matter by processing and converting various types of raw resources. Produces 15.</ConvertResourcesRaw.description>
+  <ConvertResourcesRaw.description>Create inorganic matter by processing and converting various types of raw resources. \n\n产出：15.</ConvertResourcesRaw.description>
   <ConvertResourcesRaw.jobString>Converting resources to inorganic matter.</ConvertResourcesRaw.jobString>
 
 
   <!-- steel -->
 
   <ConvertToSteel.label>Convert to iron ore</ConvertToSteel.label>
-  <ConvertToSteel.description>Convert inorganic matter into iron ore. Produces 20.</ConvertToSteel.description>
+  <ConvertToSteel.description>Convert inorganic matter into iron ore. \n\n产出：20.</ConvertToSteel.description>
   <ConvertToSteel.jobString>Converting matter into iron ore.</ConvertToSteel.jobString>
 
 
   <!-- copper -->
 
   <ConvertToCopper.label>Convert to copper ore</ConvertToCopper.label>
-  <ConvertToCopper.description>Convert inorganic matter into copper ore. Produces 12.</ConvertToCopper.description>
+  <ConvertToCopper.description>Convert inorganic matter into copper ore. \n\n产出：12.</ConvertToCopper.description>
   <ConvertToCopper.jobString>Converting matter into copper ore.</ConvertToCopper.jobString>
 
 
   <!-- aluminium -->
 
   <ConvertToAluminium.label>Convert to bauxite ore</ConvertToAluminium.label>
-  <ConvertToAluminium.description>Convert inorganic matter into bauxite ore. Produces 10.</ConvertToAluminium.description>
+  <ConvertToAluminium.description>Convert inorganic matter into bauxite ore. \n\n产出：10.</ConvertToAluminium.description>
   <ConvertToAluminium.jobString>Converting matter into bauxite ore.</ConvertToAluminium.jobString>
 
 
   <!-- manganese -->
 
   <ConvertToPyrolusite.label>Convert to pyrolusite ore</ConvertToPyrolusite.label>
-  <ConvertToPyrolusite.description>Convert inorganic matter into pyrolusite ore. Produces 3.</ConvertToPyrolusite.description>
+  <ConvertToPyrolusite.description>Convert inorganic matter into pyrolusite ore. \n\n产出：3.</ConvertToPyrolusite.description>
   <ConvertToPyrolusite.jobString>Converting matter into pyrolusite ore.</ConvertToPyrolusite.jobString>
 
 
   <!-- Nickel -->
 
   <ConvertToNickel.label>Convert to nickel ore</ConvertToNickel.label>
-  <ConvertToNickel.description>Convert inorganic matter into nickel ore. Produces 2.</ConvertToNickel.description>
+  <ConvertToNickel.description>Convert inorganic matter into nickel ore. \n\n产出：2.</ConvertToNickel.description>
   <ConvertToNickel.jobString>Converting matter into nickel ore.</ConvertToNickel.jobString>
 
 
   <!-- uranium -->
 
   <ConvertToUranium.label>Convert to uranium ore</ConvertToUranium.label>
-  <ConvertToUranium.description>Convert inorganic matter into uranium ore. Produces 5.</ConvertToUranium.description>
+  <ConvertToUranium.description>Convert inorganic matter into uranium ore. \n\n产出：5.</ConvertToUranium.description>
   <ConvertToUranium.jobString>Converting matter into uranium ore.</ConvertToUranium.jobString>
 
 
   <!-- ilmenite -->
 
   <ConvertToTitanium.label>Convert to ilmenite ore</ConvertToTitanium.label>
-  <ConvertToTitanium.description>Convert inorganic matter into ilmenite, the ore of titanium. Produces 2.</ConvertToTitanium.description>
+  <ConvertToTitanium.description>Convert inorganic matter into ilmenite, the ore of titanium. \n\n产出：2.</ConvertToTitanium.description>
   <ConvertToTitanium.jobString>Converting matter into ilmenite Ore.</ConvertToTitanium.jobString>
 
 
   <!-- wolframite -->
 
   <ConvertToWolframite.label>Convert to wolframite ore</ConvertToWolframite.label>
-  <ConvertToWolframite.description>Convert inorganic matter into wolframite, the ore of tungsten. Produces 1.</ConvertToWolframite.description>
+  <ConvertToWolframite.description>Convert inorganic matter into wolframite, the ore of tungsten. \n\n产出：1.</ConvertToWolframite.description>
   <ConvertToWolframite.jobString>Converting matter into wolframite ore.</ConvertToWolframite.jobString>
 
 
   <!-- silver -->
 
   <ConvertToSilver.label>Convert to silver ore</ConvertToSilver.label>
-  <ConvertToSilver.description>Convert inorganic matter into silver ore. Produces 50.</ConvertToSilver.description>
+  <ConvertToSilver.description>Convert inorganic matter into silver ore. \n\n产出：50.</ConvertToSilver.description>
   <ConvertToSilver.jobString>Converting matter into silver ore.</ConvertToSilver.jobString>
 
 
   <!-- gold -->
 
   <ConvertToGold.label>Convert to gold ore</ConvertToGold.label>
-  <ConvertToGold.description>Convert inorganic matter into gold ore. Produces 2.</ConvertToGold.description>
+  <ConvertToGold.description>Convert inorganic matter into gold ore. \n\n产出：2.</ConvertToGold.description>
   <ConvertToGold.jobString>Converting matter into gold ore.</ConvertToGold.jobString>
 
 
   <!-- Polymers -->
 
   <ConvertToPolymers.label>Convert to polymers</ConvertToPolymers.label>
-  <ConvertToPolymers.description>Convert inorganic matter into polymers. Produces 10.</ConvertToPolymers.description>
+  <ConvertToPolymers.description>Convert inorganic matter into polymers. \n\n产出：10.</ConvertToPolymers.description>
   <ConvertToPolymers.jobString>Converting matter into polymers.</ConvertToPolymers.jobString>
 
 

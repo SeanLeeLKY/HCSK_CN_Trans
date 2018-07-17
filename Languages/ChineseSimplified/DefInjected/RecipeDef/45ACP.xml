@@ -3,17 +3,17 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_45ACP_FMJ.label>制造 .45 ACP (FMJ) cartridge x80</MakeAmmo_45ACP_FMJ.label>
-  <MakeAmmo_45ACP_FMJ.description>制造 80 .45 ACP (FMJ) cartridges.</MakeAmmo_45ACP_FMJ.description>
-  <MakeAmmo_45ACP_FMJ.jobString>制造 .45 ACP (FMJ) cartridges.</MakeAmmo_45ACP_FMJ.jobString>
+  <MakeAmmo_45ACP_FMJ.label>制造 .45 (FMJ) 自动手枪弹x80</MakeAmmo_45ACP_FMJ.label>
+  <MakeAmmo_45ACP_FMJ.description>制造 80 .45 (FMJ) 子弹。</MakeAmmo_45ACP_FMJ.description>
+  <MakeAmmo_45ACP_FMJ.jobString>制造 .45 (FMJ) 子弹。</MakeAmmo_45ACP_FMJ.jobString>
 
-  <MakeAmmo_45ACP_AP.label>制造 .45 ACP (AP) cartridge x80</MakeAmmo_45ACP_AP.label>
-  <MakeAmmo_45ACP_AP.description>制造 80 .45 ACP (AP) cartridges.</MakeAmmo_45ACP_AP.description>
-  <MakeAmmo_45ACP_AP.jobString>制造 .45 ACP (AP) cartridges.</MakeAmmo_45ACP_AP.jobString>
+  <MakeAmmo_45ACP_AP.label>制造 .45 (AP) 自动手枪弹x80</MakeAmmo_45ACP_AP.label>
+  <MakeAmmo_45ACP_AP.description>制造 80 .45 (AP) 子弹。</MakeAmmo_45ACP_AP.description>
+  <MakeAmmo_45ACP_AP.jobString>制造 .45 (AP) 子弹。</MakeAmmo_45ACP_AP.jobString>
 
-  <MakeAmmo_45ACP_HP.label>制造 .45 ACP (HP) cartridge x80</MakeAmmo_45ACP_HP.label>
-  <MakeAmmo_45ACP_HP.description>制造 80 .45 ACP (HP) cartridges.</MakeAmmo_45ACP_HP.description>
-  <MakeAmmo_45ACP_HP.jobString>制造 .45 ACP (HP) cartridges.</MakeAmmo_45ACP_HP.jobString>
+  <MakeAmmo_45ACP_HP.label>制造 .45 (HP) 自动手枪弹x80</MakeAmmo_45ACP_HP.label>
+  <MakeAmmo_45ACP_HP.description>制造 80 .45 (HP) 子弹。</MakeAmmo_45ACP_HP.description>
+  <MakeAmmo_45ACP_HP.jobString>制造 .45 (HP) 子弹。</MakeAmmo_45ACP_HP.jobString>
 
 
 </LanguageData>

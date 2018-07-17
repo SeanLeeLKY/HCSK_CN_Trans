@@ -27,7 +27,7 @@
   <Installsenex.jobString>Installing senexium device.</Installsenex.jobString>
 
   <CreateBrainStimulator.label>制作脑刺激器</CreateBrainStimulator.label>
-  <CreateBrainStimulator.description>Crafts a simple brain stimulator. Produces 1.</CreateBrainStimulator.description>
+  <CreateBrainStimulator.description>Crafts a simple brain stimulator. \n\n产出：1.</CreateBrainStimulator.description>
   <CreateBrainStimulator.jobString>制作脑刺激器</CreateBrainStimulator.jobString>
 
   <InstallBrainStimulator.label>安装脑刺激器</InstallBrainStimulator.label>
