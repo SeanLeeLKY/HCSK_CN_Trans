@@ -2,88 +2,88 @@
 <LanguageData>
 
   <PowerConduit.label>power conduit</PowerConduit.label>
-  <PowerConduit.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
+  <PowerConduit.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings。</PowerConduit.description>
   <PowerConduit_Blueprint.label>power conduit (blueprint)</PowerConduit_Blueprint.label>
   <PowerConduit_Frame.label>power conduit (building)</PowerConduit_Frame.label>
-  <PowerConduit_Frame.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit_Frame.description>
+  <PowerConduit_Frame.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings。</PowerConduit_Frame.description>
 
   <HeavyPowerConduit.label>heavy power conduit</HeavyPowerConduit.label>
-  <HeavyPowerConduit.description>A set of heavy electrical cables for moving power around. They are very strong and non-flammable.</HeavyPowerConduit.description>
+  <HeavyPowerConduit.description>A set of heavy electrical cables for moving power around. They are very strong and non-flammable。</HeavyPowerConduit.description>
   <HeavyPowerConduit_Blueprint.label>heavy power conduit (blueprint)</HeavyPowerConduit_Blueprint.label>
   <HeavyPowerConduit_Frame.label>heavy power conduit (building)</HeavyPowerConduit_Frame.label>
-  <HeavyPowerConduit_Frame.description>A set of heavy electrical cables for moving power around. They are very strong and non-flammable.</HeavyPowerConduit_Frame.description>
+  <HeavyPowerConduit_Frame.description>A set of heavy electrical cables for moving power around. They are very strong and non-flammable。</HeavyPowerConduit_Frame.description>
 
   <PowerConduitInvisible.label>hidden power conduit</PowerConduitInvisible.label>
-  <PowerConduitInvisible.description>A set of electrical cables for moving power around. This one is hidden in the ground.</PowerConduitInvisible.description>
+  <PowerConduitInvisible.description>A set of electrical cables for moving power around. This one is hidden in the ground。</PowerConduitInvisible.description>
   <PowerConduitInvisible_Blueprint.label>hidden power conduit (blueprint)</PowerConduitInvisible_Blueprint.label>
   <PowerConduitInvisible_Frame.label>hidden power conduit (building)</PowerConduitInvisible_Frame.label>
-  <PowerConduitInvisible_Frame.description>A set of electrical cables for moving power around. This one is hidden in the ground.</PowerConduitInvisible_Frame.description>
+  <PowerConduitInvisible_Frame.description>A set of electrical cables for moving power around. This one is hidden in the ground。</PowerConduitInvisible_Frame.description>
 
   <PowerSwitch.label>power switch</PowerSwitch.label>
-  <PowerSwitch.description>Switches power on/off.</PowerSwitch.description>
+  <PowerSwitch.description>Switches power on/off。</PowerSwitch.description>
   <PowerSwitch_Blueprint.label>power switch (blueprint)</PowerSwitch_Blueprint.label>
   <PowerSwitch_Blueprint_Install.label>power switch (blueprint)</PowerSwitch_Blueprint_Install.label>
   <PowerSwitch_Frame.label>power switch (building)</PowerSwitch_Frame.label>
-  <PowerSwitch_Frame.description>Switches power on/off.</PowerSwitch_Frame.description>
+  <PowerSwitch_Frame.description>Switches power on/off。</PowerSwitch_Frame.description>
 
   <PowerSwitchFlicker.label>power switch flicker</PowerSwitchFlicker.label>
-  <PowerSwitchFlicker.description>Switches power on/off with autoflicker.</PowerSwitchFlicker.description>
+  <PowerSwitchFlicker.description>Switches power on/off with autoflicker。</PowerSwitchFlicker.description>
   <PowerSwitchFlicker_Blueprint.label>power switch flicker (blueprint)</PowerSwitchFlicker_Blueprint.label>
   <PowerSwitchFlicker_Blueprint_Install.label>power switch flicker (blueprint)</PowerSwitchFlicker_Blueprint_Install.label>
   <PowerSwitchFlicker_Frame.label>power switch flicker (building)</PowerSwitchFlicker_Frame.label>
-  <PowerSwitchFlicker_Frame.description>Switches power on/off with autoflicker.</PowerSwitchFlicker_Frame.description>
+  <PowerSwitchFlicker_Frame.description>Switches power on/off with autoflicker。</PowerSwitchFlicker_Frame.description>
 
   <TimerSwitch.label>scheduled switch</TimerSwitch.label>
-  <TimerSwitch.description>Switches power on/off based on the time of day.</TimerSwitch.description>
+  <TimerSwitch.description>Switches power on/off based on the time of day。</TimerSwitch.description>
   <TimerSwitch_Blueprint.label>scheduled switch (blueprint)</TimerSwitch_Blueprint.label>
   <TimerSwitch_Blueprint_Install.label>scheduled switch (blueprint)</TimerSwitch_Blueprint_Install.label>
   <TimerSwitch_Frame.label>scheduled switch (building)</TimerSwitch_Frame.label>
-  <TimerSwitch_Frame.description>Switches power on/off based on the time of day.</TimerSwitch_Frame.description>
+  <TimerSwitch_Frame.description>Switches power on/off based on the time of day。</TimerSwitch_Frame.description>
 
   <Battery.label>battery</Battery.label>
-  <Battery.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when heated or wet. Holds up to 1,000 W.</Battery.description>
+  <Battery.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when heated or wet. Holds up to 1,000 W。</Battery.description>
   <Battery_Blueprint.label>battery (blueprint)</Battery_Blueprint.label>
   <Battery_Blueprint_Install.label>battery (blueprint)</Battery_Blueprint_Install.label>
   <Battery_Frame.label>battery (building)</Battery_Frame.label>
-  <Battery_Frame.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when heated or wet. Holds up to 1,000 W.</Battery_Frame.description>
+  <Battery_Frame.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when heated or wet. Holds up to 1,000 W。</Battery_Frame.description>
 
   <FissionBattery.label>fission battery</FissionBattery.label>
-  <FissionBattery.description>Stores electricity and recycles charge using fission processes. Slightly more efficient than standard batteries. Warning - charged batteries tend to explode when heated or wet. Holds up to 4,000 W.</FissionBattery.description>
+  <FissionBattery.description>Stores electricity and recycles charge using fission processes. Slightly more efficient than standard batteries. Warning - charged batteries tend to explode when heated or wet. Holds up to 4,000 W。</FissionBattery.description>
   <FissionBattery_Blueprint.label>fission battery (blueprint)</FissionBattery_Blueprint.label>
   <FissionBattery_Blueprint_Install.label>fission battery (blueprint)</FissionBattery_Blueprint_Install.label>
   <FissionBattery_Frame.label>fission battery (building)</FissionBattery_Frame.label>
-  <FissionBattery_Frame.description>Stores electricity and recycles charge using fission processes. Slightly more efficient than standard batteries. Warning - charged batteries tend to explode when heated or wet. Holds up to 4,000 W.</FissionBattery_Frame.description>
+  <FissionBattery_Frame.description>Stores electricity and recycles charge using fission processes. Slightly more efficient than standard batteries. Warning - charged batteries tend to explode when heated or wet. Holds up to 4,000 W。</FissionBattery_Frame.description>
 
   <SolarGenerator.label>solar generator</SolarGenerator.label>
-  <SolarGenerator.description>\n\n产出：electricity from sunlight. Does not work in the dark.</SolarGenerator.description>
+  <SolarGenerator.description>\n\n产出：electricity from sunlight. Does not work in the dark。</SolarGenerator.description>
   <SolarGenerator_Blueprint.label>solar generator (blueprint)</SolarGenerator_Blueprint.label>
   <SolarGenerator_Frame.label>solar generator (building)</SolarGenerator_Frame.label>
-  <SolarGenerator_Frame.description>\n\n产出：electricity from sunlight. Does not work in the dark.</SolarGenerator_Frame.description>
+  <SolarGenerator_Frame.description>\n\n产出：electricity from sunlight. Does not work in the dark。</SolarGenerator_Frame.description>
 
   <AdvancedSolarGenerator.label>advanced solar generator</AdvancedSolarGenerator.label>
-  <AdvancedSolarGenerator.description>\n\n产出：electricity from sunlight. Does not work in the dark.</AdvancedSolarGenerator.description>
+  <AdvancedSolarGenerator.description>\n\n产出：electricity from sunlight. Does not work in the dark。</AdvancedSolarGenerator.description>
   <AdvancedSolarGenerator_Blueprint.label>advanced solar generator (blueprint)</AdvancedSolarGenerator_Blueprint.label>
   <AdvancedSolarGenerator_Frame.label>advanced solar generator (building)</AdvancedSolarGenerator_Frame.label>
-  <AdvancedSolarGenerator_Frame.description>\n\n产出：electricity from sunlight. Does not work in the dark.</AdvancedSolarGenerator_Frame.description>
+  <AdvancedSolarGenerator_Frame.description>\n\n产出：electricity from sunlight. Does not work in the dark。</AdvancedSolarGenerator_Frame.description>
 
   <WindTurbine.label>wind turbine</WindTurbine.label>
-  <WindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. Power output: 1,050 W at maximum wind speed.</WindTurbine.description>
+  <WindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. Power output: 1,050 W at maximum wind speed。</WindTurbine.description>
   <WindTurbine_Blueprint.label>wind turbine (blueprint)</WindTurbine_Blueprint.label>
   <WindTurbine_Frame.label>wind turbine (building)</WindTurbine_Frame.label>
-  <WindTurbine_Frame.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. Power output: 1,050 W at maximum wind speed.</WindTurbine_Frame.description>
+  <WindTurbine_Frame.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. Power output: 1,050 W at maximum wind speed。</WindTurbine_Frame.description>
 
   <AdvancedWindTurbine.label>advanced wind turbine</AdvancedWindTurbine.label>
-  <AdvancedWindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.</AdvancedWindTurbine.description>
+  <AdvancedWindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow。</AdvancedWindTurbine.description>
   <AdvancedWindTurbine_Blueprint.label>advanced wind turbine (blueprint)</AdvancedWindTurbine_Blueprint.label>
   <AdvancedWindTurbine_Frame.label>advanced wind turbine (building)</AdvancedWindTurbine_Frame.label>
-  <AdvancedWindTurbine_Frame.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.</AdvancedWindTurbine_Frame.description>
+  <AdvancedWindTurbine_Frame.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow。</AdvancedWindTurbine_Frame.description>
 
 
   <!-- <ThingDef ParentName="BuildingBase">
 		<defName>TidalGenerator</defName>
     <thingClass>BiomeOcean.Building_TidalGenerator</thingClass>
 		<label>Hydro power plant</label>
-		<description>Tidal generator.</description>
+		<description>Tidal generator。</description>
     <graphicData>
       <texPath>Things/Building/Power/TidalGen/TidalGeneratory</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -133,50 +133,50 @@
 
   <WoodFiredGenerator.label>steam generator</WoodFiredGenerator.label>
   <WoodFiredGenerator.description>The basic Steam Generator that produces electricity. Can be fueled with Ethanol Fuel, Charcoal, Kindling and wooden stuff.
-Power output: around 750 W.</WoodFiredGenerator.description>
+Power output: around 750 W。</WoodFiredGenerator.description>
   <WoodFiredGenerator_Blueprint.label>steam generator (blueprint)</WoodFiredGenerator_Blueprint.label>
   <WoodFiredGenerator_Frame.label>steam generator (building)</WoodFiredGenerator_Frame.label>
   <WoodFiredGenerator_Frame.description>The basic Steam Generator that produces electricity. Can be fueled with Ethanol Fuel, Charcoal, Kindling and wooden stuff.
-Power output: around 750 W.</WoodFiredGenerator_Frame.description>
+Power output: around 750 W。</WoodFiredGenerator_Frame.description>
 
   <BioGenerator.label>bio-generator</BioGenerator.label>
   <BioGenerator.description>A bio-generator that produces electricity. Requires Biodiesel for a fuel source.
-Power output: 1200 W.</BioGenerator.description>
+Power output: 1200 W。</BioGenerator.description>
   <BioGenerator_Blueprint.label>bio-generator (blueprint)</BioGenerator_Blueprint.label>
   <BioGenerator_Blueprint_Install.label>bio-generator (blueprint)</BioGenerator_Blueprint_Install.label>
   <BioGenerator_Frame.label>bio-generator (building)</BioGenerator_Frame.label>
   <BioGenerator_Frame.description>A bio-generator that produces electricity. Requires Biodiesel for a fuel source.
-Power output: 1200 W.</BioGenerator_Frame.description>
+Power output: 1200 W。</BioGenerator_Frame.description>
 
   <CoalPowerPlant.label>coal power plant</CoalPowerPlant.label>
   <CoalPowerPlant.description>The Coal Power Plant that produces electricity by burning coal-like fuels. Can be fueled with Coal Ore or Peat.
-Power output: 2,000 W.</CoalPowerPlant.description>
+Power output: 2,000 W。</CoalPowerPlant.description>
   <CoalPowerPlant_Blueprint.label>coal power plant (blueprint)</CoalPowerPlant_Blueprint.label>
   <CoalPowerPlant_Frame.label>coal power plant (building)</CoalPowerPlant_Frame.label>
   <CoalPowerPlant_Frame.description>The Coal Power Plant that produces electricity by burning coal-like fuels. Can be fueled with Coal Ore or Peat.
-Power output: 2,000 W.</CoalPowerPlant_Frame.description>
+Power output: 2,000 W。</CoalPowerPlant_Frame.description>
 
   <ChemfuelPoweredGenerator.label>fuel power plant</ChemfuelPoweredGenerator.label>
   <ChemfuelPoweredGenerator.description>A Fuel Power Plant that produces electricity. Can be fueled with Fuel, Prometheum or FSX.
-Power output: 3,500 W.</ChemfuelPoweredGenerator.description>
+Power output: 3,500 W。</ChemfuelPoweredGenerator.description>
   <ChemfuelPoweredGenerator_Blueprint.label>fuel power plant (blueprint)</ChemfuelPoweredGenerator_Blueprint.label>
   <ChemfuelPoweredGenerator_Frame.label>fuel power plant (building)</ChemfuelPoweredGenerator_Frame.label>
   <ChemfuelPoweredGenerator_Frame.description>A Fuel Power Plant that produces electricity. Can be fueled with Fuel, Prometheum or FSX.
-Power output: 3,500 W.</ChemfuelPoweredGenerator_Frame.description>
+Power output: 3,500 W。</ChemfuelPoweredGenerator_Frame.description>
 
   <GeothermalGenerator.label>geothermal generator</GeothermalGenerator.label>
   <GeothermalGenerator.description>\n\n产出：electricity from geothermal steam geysers. Must be placed on a steam geyser.
-Power output: 2,500 W.</GeothermalGenerator.description>
+Power output: 2,500 W。</GeothermalGenerator.description>
   <GeothermalGenerator_Blueprint.label>geothermal generator (blueprint)</GeothermalGenerator_Blueprint.label>
   <GeothermalGenerator_Frame.label>geothermal generator (building)</GeothermalGenerator_Frame.label>
   <GeothermalGenerator_Frame.description>\n\n产出：electricity from geothermal steam geysers. Must be placed on a steam geyser.
-Power output: 2,500 W.</GeothermalGenerator_Frame.description>
+Power output: 2,500 W。</GeothermalGenerator_Frame.description>
 
   <ThermoelectricGenerator.label>thermoelectric generator</ThermoelectricGenerator.label>
-  <ThermoelectricGenerator.description>\n\n产出：electricity from differences in temperatures between two rooms. Should be placed in a wall. Example: At 1,600 C (2,912 F) difference, power output is 16,200 W at 600% efficiency.</ThermoelectricGenerator.description>
+  <ThermoelectricGenerator.description>\n\n产出：electricity from differences in temperatures between two rooms. Should be placed in a wall. Example: At 1,600 C (2,912 F) difference, power output is 16,200 W at 600% efficiency。</ThermoelectricGenerator.description>
   <ThermoelectricGenerator_Blueprint.label>thermoelectric generator (blueprint)</ThermoelectricGenerator_Blueprint.label>
   <ThermoelectricGenerator_Frame.label>thermoelectric generator (building)</ThermoelectricGenerator_Frame.label>
-  <ThermoelectricGenerator_Frame.description>\n\n产出：electricity from differences in temperatures between two rooms. Should be placed in a wall. Example: At 1,600 C (2,912 F) difference, power output is 16,200 W at 600% efficiency.</ThermoelectricGenerator_Frame.description>
+  <ThermoelectricGenerator_Frame.description>\n\n产出：electricity from differences in temperatures between two rooms. Should be placed in a wall. Example: At 1,600 C (2,912 F) difference, power output is 16,200 W at 600% efficiency。</ThermoelectricGenerator_Frame.description>
 
   <NPP.label>nuclear power plant</NPP.label>
   <NPP.description>A Nuclear Power Plant with 24,000 W power output. Requires a hopper with Enriched Uranium as a fuel source. WARNING: In case of a nuclear meltdown, build walls around the debris to contain the radiation!</NPP.description>
@@ -188,40 +188,40 @@ Power output: 2,500 W.</GeothermalGenerator_Frame.description>
   <NPPD.description>Radioactive debris of a Nuclear Power Plant. Build walls around it to contain the radiation!</NPPD.description>
 
   <GauseWindTurbine.label>Gause Wind Turbine</GauseWindTurbine.label>
-  <GauseWindTurbine.description>A wind-powered gause electrical generator. Please keep all limbs and pets away from the turbine area! Power output: 2250 W at maximum wind speed.</GauseWindTurbine.description>
+  <GauseWindTurbine.description>A wind-powered gause electrical generator. Please keep all limbs and pets away from the turbine area! Power output: 2250 W at maximum wind speed。</GauseWindTurbine.description>
   <GauseWindTurbine_Blueprint.label>Gause Wind Turbine (blueprint)</GauseWindTurbine_Blueprint.label>
   <GauseWindTurbine_Frame.label>Gause Wind Turbine (building)</GauseWindTurbine_Frame.label>
-  <GauseWindTurbine_Frame.description>A wind-powered gause electrical generator. Please keep all limbs and pets away from the turbine area! Power output: 2250 W at maximum wind speed.</GauseWindTurbine_Frame.description>
+  <GauseWindTurbine_Frame.description>A wind-powered gause electrical generator. Please keep all limbs and pets away from the turbine area! Power output: 2250 W at maximum wind speed。</GauseWindTurbine_Frame.description>
 
   <TeslaLigthningPower.label>tesla lightning generator</TeslaLigthningPower.label>
-  <TeslaLigthningPower.description>Harness the incredible power source of lightning through the invention of Nikola Tesla, the Tesla Lightning Generator! It needs to cool off from time to time when it gets too hot. Power output: 6,000 W.</TeslaLigthningPower.description>
+  <TeslaLigthningPower.description>Harness the incredible power source of lightning through the invention of Nikola Tesla, the Tesla Lightning Generator! It needs to cool off from time to time when it gets too hot. Power output: 6,000 W。</TeslaLigthningPower.description>
   <TeslaLigthningPower_Blueprint.label>tesla lightning generator (blueprint)</TeslaLigthningPower_Blueprint.label>
   <TeslaLigthningPower_Frame.label>tesla lightning generator (building)</TeslaLigthningPower_Frame.label>
-  <TeslaLigthningPower_Frame.description>Harness the incredible power source of lightning through the invention of Nikola Tesla, the Tesla Lightning Generator! It needs to cool off from time to time when it gets too hot. Power output: 6,000 W.</TeslaLigthningPower_Frame.description>
+  <TeslaLigthningPower_Frame.description>Harness the incredible power source of lightning through the invention of Nikola Tesla, the Tesla Lightning Generator! It needs to cool off from time to time when it gets too hot. Power output: 6,000 W。</TeslaLigthningPower_Frame.description>
 
   <PlasmaGeothermalPlant.label>plasma reactor</PlasmaGeothermalPlant.label>
-  <PlasmaGeothermalPlant.description>\n\n产出：tax-free electricity from a steam geyser. Must be placed on a steam geyser. A Plasma Generator can be linked to absorb plasma discharges. Requires to be fueled by Tin or Aluminium.</PlasmaGeothermalPlant.description>
+  <PlasmaGeothermalPlant.description>\n\n产出：tax-free electricity from a steam geyser. Must be placed on a steam geyser. A Plasma Generator can be linked to absorb plasma discharges. Requires to be fueled by Tin or Aluminium。</PlasmaGeothermalPlant.description>
   <PlasmaGeothermalPlant_Blueprint.label>plasma reactor (blueprint)</PlasmaGeothermalPlant_Blueprint.label>
   <PlasmaGeothermalPlant_Frame.label>plasma reactor (building)</PlasmaGeothermalPlant_Frame.label>
-  <PlasmaGeothermalPlant_Frame.description>\n\n产出：tax-free electricity from a steam geyser. Must be placed on a steam geyser. A Plasma Generator can be linked to absorb plasma discharges. Requires to be fueled by Tin or Aluminium.</PlasmaGeothermalPlant_Frame.description>
+  <PlasmaGeothermalPlant_Frame.description>\n\n产出：tax-free electricity from a steam geyser. Must be placed on a steam geyser. A Plasma Generator can be linked to absorb plasma discharges. Requires to be fueled by Tin or Aluminium。</PlasmaGeothermalPlant_Frame.description>
 
   <PlasmaGen.label>plasma generator</PlasmaGen.label>
-  <PlasmaGen.description>\n\n产出：tax-free electricity through plasma discharges from a Plasma Reactor. It needs to be fully charged first.</PlasmaGen.description>
+  <PlasmaGen.description>\n\n产出：tax-free electricity through plasma discharges from a Plasma Reactor. It needs to be fully charged first。</PlasmaGen.description>
   <PlasmaGen_Blueprint.label>plasma generator (blueprint)</PlasmaGen_Blueprint.label>
   <PlasmaGen_Frame.label>plasma generator (building)</PlasmaGen_Frame.label>
-  <PlasmaGen_Frame.description>\n\n产出：tax-free electricity through plasma discharges from a Plasma Reactor. It needs to be fully charged first.</PlasmaGen_Frame.description>
+  <PlasmaGen_Frame.description>\n\n产出：tax-free electricity through plasma discharges from a Plasma Reactor. It needs to be fully charged first。</PlasmaGen_Frame.description>
 
   <XenonIonTurbine.label>xenon-ion turbine</XenonIonTurbine.label>
-  <XenonIonTurbine.description>Must be placed on a steam geyser. The Xenon-Ion Turbine produces power from extreme heat, and efficiency can go above 100%. Example: At 250 C (482 F) power output is 5,000 W with 150% efficiency.</XenonIonTurbine.description>
+  <XenonIonTurbine.description>Must be placed on a steam geyser. The Xenon-Ion Turbine produces power from extreme heat, and efficiency can go above 100%. Example: At 250 C (482 F) power output is 5,000 W with 150% efficiency。</XenonIonTurbine.description>
   <XenonIonTurbine_Blueprint.label>xenon-ion turbine (blueprint)</XenonIonTurbine_Blueprint.label>
   <XenonIonTurbine_Frame.label>xenon-ion turbine (building)</XenonIonTurbine_Frame.label>
-  <XenonIonTurbine_Frame.description>Must be placed on a steam geyser. The Xenon-Ion Turbine produces power from extreme heat, and efficiency can go above 100%. Example: At 250 C (482 F) power output is 5,000 W with 150% efficiency.</XenonIonTurbine_Frame.description>
+  <XenonIonTurbine_Frame.description>Must be placed on a steam geyser. The Xenon-Ion Turbine produces power from extreme heat, and efficiency can go above 100%. Example: At 250 C (482 F) power output is 5,000 W with 150% efficiency。</XenonIonTurbine_Frame.description>
 
   <AntimatterReactor.label>antimatter reactor</AntimatterReactor.label>
-  <AntimatterReactor.description>The contained antimatter separates from normal matter by magnetic fields so that no unintended reactions take place. The energy would then be extracted in much the same way that nuclear reactors capture the expended heat and light energy from fission reactions. Power output: 32,000 W.</AntimatterReactor.description>
+  <AntimatterReactor.description>The contained antimatter separates from normal matter by magnetic fields so that no unintended reactions take place. The energy would then be extracted in much the same way that nuclear reactors capture the expended heat and light energy from fission reactions. Power output: 32,000 W。</AntimatterReactor.description>
   <AntimatterReactor_Blueprint.label>antimatter reactor (blueprint)</AntimatterReactor_Blueprint.label>
   <AntimatterReactor_Frame.label>antimatter reactor (building)</AntimatterReactor_Frame.label>
-  <AntimatterReactor_Frame.description>The contained antimatter separates from normal matter by magnetic fields so that no unintended reactions take place. The energy would then be extracted in much the same way that nuclear reactors capture the expended heat and light energy from fission reactions. Power output: 32,000 W.</AntimatterReactor_Frame.description>
+  <AntimatterReactor_Frame.description>The contained antimatter separates from normal matter by magnetic fields so that no unintended reactions take place. The energy would then be extracted in much the same way that nuclear reactors capture the expended heat and light energy from fission reactions. Power output: 32,000 W。</AntimatterReactor_Frame.description>
 
 
 </LanguageData>

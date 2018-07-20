@@ -4,48 +4,48 @@
   <!-- Medieval -->
 
   <MeleeWeapon_Dagger.label>Dagger</MeleeWeapon_Dagger.label>
-  <MeleeWeapon_Dagger.description>One of humankind's oldest tools, the knife is both an everyday tool and a deadly weapon.</MeleeWeapon_Dagger.description>
+  <MeleeWeapon_Dagger.description>One of humankind's oldest tools, the knife is both an everyday tool and a deadly weapon。</MeleeWeapon_Dagger.description>
   <MeleeWeapon_Dagger.tools.0.label>handle</MeleeWeapon_Dagger.tools.0.label>
   <MeleeWeapon_Dagger.tools.1.label>blade</MeleeWeapon_Dagger.tools.1.label>
   <MeleeWeapon_Dagger.tools.2.label>point</MeleeWeapon_Dagger.tools.2.label>
 
   <MeleeWeapon_Gladius.label>Gladius</MeleeWeapon_Gladius.label>
-  <MeleeWeapon_Gladius.description>A short sword of ancient design. Good for stabbing or slashing.</MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.description>A short sword of ancient design. Good for stabbing or slashing。</MeleeWeapon_Gladius.description>
   <MeleeWeapon_Gladius.tools.0.label>handle</MeleeWeapon_Gladius.tools.0.label>
   <MeleeWeapon_Gladius.tools.1.label>point</MeleeWeapon_Gladius.tools.1.label>
   <MeleeWeapon_Gladius.tools.2.label>edge</MeleeWeapon_Gladius.tools.2.label>
 
   <MeleeWeapon_LongSword.label>Longsword</MeleeWeapon_LongSword.label>
-  <MeleeWeapon_LongSword.description>The ancient weapon of kings, the longsword can be used for slashing or stabbing and is deadly in the right hands.</MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.description>The ancient weapon of kings, the longsword can be used for slashing or stabbing and is deadly in the right hands。</MeleeWeapon_LongSword.description>
   <MeleeWeapon_LongSword.tools.0.label>handle</MeleeWeapon_LongSword.tools.0.label>
   <MeleeWeapon_LongSword.tools.1.label>point</MeleeWeapon_LongSword.tools.1.label>
   <MeleeWeapon_LongSword.tools.2.label>edge</MeleeWeapon_LongSword.tools.2.label>
 
   <MeleeWeapon_GreatSword.label>Greatsword</MeleeWeapon_GreatSword.label>
-  <MeleeWeapon_GreatSword.description>A large, double bladed, two-handed sword from the medieval era.</MeleeWeapon_GreatSword.description>
+  <MeleeWeapon_GreatSword.description>A large, double bladed, two-handed sword from the medieval era。</MeleeWeapon_GreatSword.description>
   <MeleeWeapon_GreatSword.tools.0.label>handle</MeleeWeapon_GreatSword.tools.0.label>
   <MeleeWeapon_GreatSword.tools.1.label>point</MeleeWeapon_GreatSword.tools.1.label>
   <MeleeWeapon_GreatSword.tools.2.label>edge</MeleeWeapon_GreatSword.tools.2.label>
 
   <MeleeWeapon_Morningstar.label>Morningstar</MeleeWeapon_Morningstar.label>
-  <MeleeWeapon_Morningstar.description>A spicked mace, intended for piercing trough enemy armor with its weight.</MeleeWeapon_Morningstar.description>
+  <MeleeWeapon_Morningstar.description>A spicked mace, intended for piercing trough enemy armor with its weight。</MeleeWeapon_Morningstar.description>
   <MeleeWeapon_Morningstar.tools.0.label>handle</MeleeWeapon_Morningstar.tools.0.label>
   <MeleeWeapon_Morningstar.tools.1.label>head</MeleeWeapon_Morningstar.tools.1.label>
 
   <MeleeWeapon_Scimitar.label>Scimitar</MeleeWeapon_Scimitar.label>
-  <MeleeWeapon_Scimitar.description>A sword with a heavy curved blade, making more powerful but somewhat slower than a standard longsword.</MeleeWeapon_Scimitar.description>
+  <MeleeWeapon_Scimitar.description>A sword with a heavy curved blade, making more powerful but somewhat slower than a standard longsword。</MeleeWeapon_Scimitar.description>
   <MeleeWeapon_Scimitar.tools.0.label>handle</MeleeWeapon_Scimitar.tools.0.label>
   <MeleeWeapon_Scimitar.tools.1.label>point</MeleeWeapon_Scimitar.tools.1.label>
   <MeleeWeapon_Scimitar.tools.2.label>edge</MeleeWeapon_Scimitar.tools.2.label>
 
   <MeleeWeapon_Glaive.label>Glaive</MeleeWeapon_Glaive.label>
-  <MeleeWeapon_Glaive.description>The polearm with a long curved blade on the end.</MeleeWeapon_Glaive.description>
+  <MeleeWeapon_Glaive.description>The polearm with a long curved blade on the end。</MeleeWeapon_Glaive.description>
   <MeleeWeapon_Glaive.tools.0.label>handle</MeleeWeapon_Glaive.tools.0.label>
   <MeleeWeapon_Glaive.tools.1.label>head</MeleeWeapon_Glaive.tools.1.label>
   <MeleeWeapon_Glaive.tools.2.label>edge</MeleeWeapon_Glaive.tools.2.label>
 
   <MeleeWeapon_Partisan.label>Partisan</MeleeWeapon_Partisan.label>
-  <MeleeWeapon_Partisan.description>A spear with extra blade sticking out of the end to help deflect incoming blows.</MeleeWeapon_Partisan.description>
+  <MeleeWeapon_Partisan.description>A spear with extra blade sticking out of the end to help deflect incoming blows。</MeleeWeapon_Partisan.description>
   <MeleeWeapon_Partisan.tools.0.label>handle</MeleeWeapon_Partisan.tools.0.label>
   <MeleeWeapon_Partisan.tools.1.label>head</MeleeWeapon_Partisan.tools.1.label>
   <MeleeWeapon_Partisan.tools.2.label>edge</MeleeWeapon_Partisan.tools.2.label>

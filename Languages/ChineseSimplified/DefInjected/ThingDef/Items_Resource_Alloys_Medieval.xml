@@ -2,23 +2,23 @@
 <LanguageData>
 
   <CopperBar.label>copper alloy</CopperBar.label>
-  <CopperBar.description>Copper is an alloy of Copper Ore. It is mainly used for its high conductivity in electrical applications. Copper is not a magnetic metal.</CopperBar.description>
+  <CopperBar.description>Copper is an alloy of Copper Ore. It is mainly used for its high conductivity in electrical applications. Copper is not a magnetic metal。</CopperBar.description>
   <CopperBar.stuffProps.stuffAdjective>copper</CopperBar.stuffProps.stuffAdjective>
 
   <TinBar.label>tin alloy</TinBar.label>
-  <TinBar.description>Tin is an alloy of Tin Ore.</TinBar.description>
+  <TinBar.description>Tin is an alloy of Tin Ore。</TinBar.description>
   <TinBar.stuffProps.stuffAdjective>Tin</TinBar.stuffProps.stuffAdjective>
 
   <Bronze.label>bronze alloy</Bronze.label>
-  <Bronze.description>Bronze is an alloy consisting primarily of copper, commonly with about 12% tin and often with the addition of other metals such as aluminium, manganese, nickel.</Bronze.description>
+  <Bronze.description>Bronze is an alloy consisting primarily of copper, commonly with about 12% tin and often with the addition of other metals such as aluminium, manganese, nickel。</Bronze.description>
   <Bronze.stuffProps.stuffAdjective>Bronze</Bronze.stuffProps.stuffAdjective>
 
   <GoldBar.label>gold alloy</GoldBar.label>
-  <GoldBar.description>Gold is a beautiful, precious alloy of Gold and Copper or Bauxite. Gold is not a magnetic metal.</GoldBar.description>
+  <GoldBar.description>Gold is a beautiful, precious alloy of Gold and Copper or Bauxite. Gold is not a magnetic metal。</GoldBar.description>
   <GoldBar.stuffProps.stuffAdjective>golden</GoldBar.stuffProps.stuffAdjective>
 
   <SilverBar.label>sterling silver alloy</SilverBar.label>
-  <SilverBar.description>Sterling Silver is a valuable alloy of Silver and Copper or Bauxite. Sterling Silver is not a magnetic metal.</SilverBar.description>
+  <SilverBar.description>Sterling Silver is a valuable alloy of Silver and Copper or Bauxite. Sterling Silver is not a magnetic metal。</SilverBar.description>
   <SilverBar.stuffProps.stuffAdjective>silver</SilverBar.stuffProps.stuffAdjective>
 
 

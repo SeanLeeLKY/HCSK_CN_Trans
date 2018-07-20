@@ -2,35 +2,35 @@
 <LanguageData>
 
   <MakePlastic.label>Create plastic</MakePlastic.label>
-  <MakePlastic.description>Create plastic from polymers. \n\n产出：10.</MakePlastic.description>
-  <MakePlastic.jobString>Creating plastic from polymers.</MakePlastic.jobString>
+  <MakePlastic.description>Create plastic from polymers. \n\n产出：10。</MakePlastic.description>
+  <MakePlastic.jobString>Creating plastic from polymers。</MakePlastic.jobString>
 
   <MakeRubber.label>Create rubber</MakeRubber.label>
-  <MakeRubber.description>Create rubber from polymers and sulphates. \n\n产出：10.</MakeRubber.description>
-  <MakeRubber.jobString>Creating rubber from polymers and sulphates.</MakeRubber.jobString>
+  <MakeRubber.description>Create rubber from polymers and sulphates. \n\n产出：10。</MakeRubber.description>
+  <MakeRubber.jobString>Creating rubber from polymers and sulphates。</MakeRubber.jobString>
 
   <VulcanizeRubber.label>Vulcanize rubber</VulcanizeRubber.label>
-  <VulcanizeRubber.description>Vulcanize rubber from caoutchouc and sulphates. \n\n产出：10.</VulcanizeRubber.description>
-  <VulcanizeRubber.jobString>Vulcanizing rubber from caoutchouc and sulphates.</VulcanizeRubber.jobString>
+  <VulcanizeRubber.description>Vulcanize rubber from caoutchouc and sulphates. \n\n产出：10。</VulcanizeRubber.description>
+  <VulcanizeRubber.jobString>Vulcanizing rubber from caoutchouc and sulphates。</VulcanizeRubber.jobString>
 
   <MakeSyntheticFibers.label>Create synthetic fibers</MakeSyntheticFibers.label>
-  <MakeSyntheticFibers.description>Create synthetic fibers from polymers and sulphates. \n\n产出：5.</MakeSyntheticFibers.description>
-  <MakeSyntheticFibers.jobString>Creating synthetic fibers.</MakeSyntheticFibers.jobString>
+  <MakeSyntheticFibers.description>Create synthetic fibers from polymers and sulphates. \n\n产出：5。</MakeSyntheticFibers.description>
+  <MakeSyntheticFibers.jobString>Creating synthetic fibers。</MakeSyntheticFibers.jobString>
 
 
   <!-- Compaste -->
 
   <MakeCompaste.label>制造 compound paste</MakeCompaste.label>
-  <MakeCompaste.description>制造 bottles of compound paste, used in a wide variety of clothing. \n\n产出：20.</MakeCompaste.description>
-  <MakeCompaste.jobString>Crafting compound paste.</MakeCompaste.jobString>
+  <MakeCompaste.description>制造 bottles of compound paste, used in a wide variety of clothing. \n\n产出：20。</MakeCompaste.description>
+  <MakeCompaste.jobString>Crafting compound paste。</MakeCompaste.jobString>
 
   <MakeCarbon.label>Create carbon</MakeCarbon.label>
-  <MakeCarbon.description>Create carbon from polymers, rubber and coal ore. \n\n产出：12.</MakeCarbon.description>
-  <MakeCarbon.jobString>Creating carbon.</MakeCarbon.jobString>
+  <MakeCarbon.description>Create carbon from polymers, rubber and coal ore. \n\n产出：12。</MakeCarbon.description>
+  <MakeCarbon.jobString>Creating carbon。</MakeCarbon.jobString>
 
   <MakeKevlar.label>Create kevlar</MakeKevlar.label>
-  <MakeKevlar.description>Create kevlar from plastic and synthetic fibers. \n\n产出：10.</MakeKevlar.description>
-  <MakeKevlar.jobString>Creating kevlar.</MakeKevlar.jobString>
+  <MakeKevlar.description>Create kevlar from plastic and synthetic fibers. \n\n产出：10。</MakeKevlar.description>
+  <MakeKevlar.jobString>Creating kevlar。</MakeKevlar.jobString>
 
 
 </LanguageData>

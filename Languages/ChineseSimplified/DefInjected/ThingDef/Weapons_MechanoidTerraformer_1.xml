@@ -4,7 +4,7 @@
   <Bullet_FakeSkywrathControllerBullet.label>仅用于瞄准时显示影响区域。</Bullet_FakeSkywrathControllerBullet.label>
 
   <Artillery_SkywrathController.label>天怒控制器接口</Artillery_SkywrathController.label>
-  <Artillery_SkywrathController.description>This is only used to get the standard target commands.</Artillery_SkywrathController.description>
+  <Artillery_SkywrathController.description>This is only used to get the standard target commands。</Artillery_SkywrathController.description>
 
 
 </LanguageData>

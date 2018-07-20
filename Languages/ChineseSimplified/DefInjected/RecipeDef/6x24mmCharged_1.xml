@@ -4,16 +4,16 @@
   <!-- Recipes -->
 
   <MakeAmmo_6x24mmCharged.label>制造 6x24mm 电荷弹 x80</MakeAmmo_6x24mmCharged.label>
-  <MakeAmmo_6x24mmCharged.description>制造 80 6x24mm Charged cartridges.</MakeAmmo_6x24mmCharged.description>
-  <MakeAmmo_6x24mmCharged.jobString>制造 6x24mm Charged cartridges.</MakeAmmo_6x24mmCharged.jobString>
+  <MakeAmmo_6x24mmCharged.description>制造 80 6x24mm Charged cartridges。</MakeAmmo_6x24mmCharged.description>
+  <MakeAmmo_6x24mmCharged.jobString>正在制造 6x24mm Charged cartridges。</MakeAmmo_6x24mmCharged.jobString>
 
   <MakeAmmo_6x24mmCharged_AP.label>制造 6x24mm 熔甲电荷弹 x80</MakeAmmo_6x24mmCharged_AP.label>
-  <MakeAmmo_6x24mmCharged_AP.description>制造 80 6x24mm Charged (Conc.) cartridges.</MakeAmmo_6x24mmCharged_AP.description>
-  <MakeAmmo_6x24mmCharged_AP.jobString>制造 6x24mm Charged (Conc.) cartridges.</MakeAmmo_6x24mmCharged_AP.jobString>
+  <MakeAmmo_6x24mmCharged_AP.description>制造 80 6x24mm Charged (Conc.) cartridges。</MakeAmmo_6x24mmCharged_AP.description>
+  <MakeAmmo_6x24mmCharged_AP.jobString>正在制造 6x24mm Charged (Conc.) cartridges。</MakeAmmo_6x24mmCharged_AP.jobString>
 
   <MakeAmmo_6x24mmCharged_Ion.label>制造 6x24mm 等离子电荷弹 x80</MakeAmmo_6x24mmCharged_Ion.label>
-  <MakeAmmo_6x24mmCharged_Ion.description>制造 80 6x24mm Charged (Ion) cartridges.</MakeAmmo_6x24mmCharged_Ion.description>
-  <MakeAmmo_6x24mmCharged_Ion.jobString>制造 6x24mm Charged (Ion) cartridges.</MakeAmmo_6x24mmCharged_Ion.jobString>
+  <MakeAmmo_6x24mmCharged_Ion.description>制造 80 6x24mm Charged (Ion) cartridges。</MakeAmmo_6x24mmCharged_Ion.description>
+  <MakeAmmo_6x24mmCharged_Ion.jobString>正在制造 6x24mm Charged (Ion) cartridges。</MakeAmmo_6x24mmCharged_Ion.jobString>
 
 
 </LanguageData>

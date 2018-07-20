@@ -4,42 +4,42 @@
   <!-- LIGHT BLASTER -->
 
   <Gun_lightmechblaster.label>Mech. Light Blaster</Gun_lightmechblaster.label>
-  <Gun_lightmechblaster.description>Mechanoid light blaster.</Gun_lightmechblaster.description>
+  <Gun_lightmechblaster.description>Mechanoid light blaster。</Gun_lightmechblaster.description>
   <Gun_lightmechblaster.tools.0.label>barrel</Gun_lightmechblaster.tools.0.label>
 
 
   <!-- Mech. Heavy Charge Blaster -->
 
   <Gun_ChargeBlasterHeavy.label>Mech. Heavy Charge Blaster</Gun_ChargeBlasterHeavy.label>
-  <Gun_ChargeBlasterHeavy.description>Charged-shot blaster for area suppressive fire. Mechanoid-built.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.description>Charged-shot blaster for area suppressive fire. Mechanoid-built。</Gun_ChargeBlasterHeavy.description>
   <Gun_ChargeBlasterHeavy.tools.0.label>barrel</Gun_ChargeBlasterHeavy.tools.0.label>
 
 
   <!-- LASER PULSER -->
 
   <Gun_mechlaser.label>Mechanoid Laser Pulser</Gun_mechlaser.label>
-  <Gun_mechlaser.description>A mechanoid laser pulser.</Gun_mechlaser.description>
+  <Gun_mechlaser.description>A mechanoid laser pulser。</Gun_mechlaser.description>
   <Gun_mechlaser.tools.0.label>barrel</Gun_mechlaser.tools.0.label>
 
 
   <!-- HEAVY LASER PULSER -->
 
   <Gun_mechheavylaser.label>Mech. Heavy Laser Pulser</Gun_mechheavylaser.label>
-  <Gun_mechheavylaser.description>Mechanoid heavy laser pulser.</Gun_mechheavylaser.description>
+  <Gun_mechheavylaser.description>Mechanoid heavy laser pulser。</Gun_mechheavylaser.description>
   <Gun_mechheavylaser.tools.0.label>barrel</Gun_mechheavylaser.tools.0.label>
 
 
   <!-- ZEON BLASTER -->
 
   <Gun_ZeonBlaster.label>Zeon Railgun</Gun_ZeonBlaster.label>
-  <Gun_ZeonBlaster.description>Mechanoid heavy railgun.</Gun_ZeonBlaster.description>
+  <Gun_ZeonBlaster.description>Mechanoid heavy railgun。</Gun_ZeonBlaster.description>
   <Gun_ZeonBlaster.tools.0.label>barrel</Gun_ZeonBlaster.tools.0.label>
 
 
   <!-- Charged Diffuser -->
 
   <Gun_MechPlasma.label>Mech. charged diffuser</Gun_MechPlasma.label>
-  <Gun_MechPlasma.description>Mechanoid-built charged diffuser.</Gun_MechPlasma.description>
+  <Gun_MechPlasma.description>Mechanoid-built charged diffuser。</Gun_MechPlasma.description>
   <Gun_MechPlasma.tools.0.label>barrel</Gun_MechPlasma.tools.0.label>
 
 

@@ -2,41 +2,41 @@
 <LanguageData>
 
   <Pyrolusite.label>Pyrolusite Ore</Pyrolusite.label>
-  <Pyrolusite.description>Pyrolusite is a black mineral and the ore of Maganese. Maganese Alloy is a highly magnetic metal.</Pyrolusite.description>
+  <Pyrolusite.description>Pyrolusite is a black mineral and the ore of Maganese. Maganese Alloy is a highly magnetic metal。</Pyrolusite.description>
 
   <Silver.label>Silver Ore</Silver.label>
-  <Silver.description>This metal is mostly used as a commodity currency. It can also be used for making attractive decorations when smelted into Sterling Silver Alloy. Silver is not a magnetic metal.</Silver.description>
+  <Silver.description>This metal is mostly used as a commodity currency. It can also be used for making attractive decorations when smelted into Sterling Silver Alloy. Silver is not a magnetic metal。</Silver.description>
   <Silver.stuffProps.stuffAdjective>Silver Ore</Silver.stuffProps.stuffAdjective>
 
   <Gold.label>Gold Ore</Gold.label>
-  <Gold.description>The most seductive metal of them all. Millions have died in attempting to feed the endless human thirst for gold. This soft metal is little use on its own, but is strikingly beautiful and very rare. Gold is not a magnetic metal.</Gold.description>
+  <Gold.description>The most seductive metal of them all. Millions have died in attempting to feed the endless human thirst for gold. This soft metal is little use on its own, but is strikingly beautiful and very rare. Gold is not a magnetic metal。</Gold.description>
   <Gold.stuffProps.stuffAdjective>Gold Ore</Gold.stuffProps.stuffAdjective>
 
   <Steel.label>Iron Ore</Steel.label>
-  <Steel.description>Iron Ores are rocks and minerals from which metallic iron can be economically extracted. It can be refined in different ways to make Sulfur, Chromium, Cast-Iron and Steel. Iron is a magnetic metal, but depending on how it is processed it could lose its magnetism.</Steel.description>
+  <Steel.description>Iron Ores are rocks and minerals from which metallic iron can be economically extracted. It can be refined in different ways to make Sulfur, Chromium, Cast-Iron and Steel. Iron is a magnetic metal, but depending on how it is processed it could lose its magnetism。</Steel.description>
   <Steel.stuffProps.stuffAdjective>Iron Ore</Steel.stuffProps.stuffAdjective>
 
   <Nickel.label>Nickel Ore</Nickel.label>
-  <Nickel.description>Nickel Ore is a kind of natural mineral formation where the nickel content is sufficient for a cost-effective extraction of the metal. Small amounts of Cobalt can also be extracted during the alloy making process. Nickel is ferromagnetic (it can become magnetized when paired with a magnetic metal).</Nickel.description>
+  <Nickel.description>Nickel Ore is a kind of natural mineral formation where the nickel content is sufficient for a cost-effective extraction of the metal. Small amounts of Cobalt can also be extracted during the alloy making process. Nickel is ferromagnetic (it can become magnetized when paired with a magnetic metal)。</Nickel.description>
   <Nickel.stuffProps.stuffAdjective>Nickel Ore</Nickel.stuffProps.stuffAdjective>
 
   <Copper.label>Copper Ore</Copper.label>
-  <Copper.description>Copper is a ductile metal with very high thermal and electrical conductivity. Pure Copper is malleable and reddish-orange in color. It is used as a conductor of heat and electricity, a building material, and as a constituent of various metal alloys. Copper is not a magnetic metal.</Copper.description>
+  <Copper.description>Copper is a ductile metal with very high thermal and electrical conductivity. Pure Copper is malleable and reddish-orange in color. It is used as a conductor of heat and electricity, a building material, and as a constituent of various metal alloys. Copper is not a magnetic metal。</Copper.description>
 
   <Tin.label>Tin Ore</Tin.label>
   <Tin.description>Tin Ore is the second-easiest ore to mine. It is mined from Tin Veins. </Tin.description>
 
   <Aluminium.label>Bauxite Ore</Aluminium.label>
-  <Aluminium.description>Bauxite is the ore form of Aluminium. Aluminum is a silvery white, soft, nonmagnetic, ductile metal that is remarkable for the metal's low density and for its ability to resist corrosion due to the phenomenon of passivation. Unlike other raw ores, the smelting of Aluminum cannot be done by hand as the process requires electricity to work. Aluminum is paramagnetic (it becomes attracted to magnetic metals to strengthen the magnetic bond).</Aluminium.description>
+  <Aluminium.description>Bauxite is the ore form of Aluminium. Aluminum is a silvery white, soft, nonmagnetic, ductile metal that is remarkable for the metal's low density and for its ability to resist corrosion due to the phenomenon of passivation. Unlike other raw ores, the smelting of Aluminum cannot be done by hand as the process requires electricity to work. Aluminum is paramagnetic (it becomes attracted to magnetic metals to strengthen the magnetic bond)。</Aluminium.description>
 
   <Ilmenite.label>Ilmenite Ore</Ilmenite.label>
-  <Ilmenite.description>Ilmenite is the ore form of Titanium. Titanium is a chemical element. It is a lustrous transitional metal with a silver color, low density and high strength. It is highly resistant to corrosion in sea water, aqua regia and chlorine. Titanium is paramagnetic (it becomes attracted to magnetic metals to strengthen the magnetic bond).</Ilmenite.description>
+  <Ilmenite.description>Ilmenite is the ore form of Titanium. Titanium is a chemical element. It is a lustrous transitional metal with a silver color, low density and high strength. It is highly resistant to corrosion in sea water, aqua regia and chlorine. Titanium is paramagnetic (it becomes attracted to magnetic metals to strengthen the magnetic bond)。</Ilmenite.description>
 
   <Wolframite.label>Wolframite Ore</Wolframite.label>
-  <Wolframite.description>Wolframite was highly valued as the main source of the metal Tungsten, a strong and quite dense material with a high melting temperature used for electric filaments and armor-piercing ammunition, as well as hard Tungsten carbide machine tools. Tungsten is not a magnetic metal.</Wolframite.description>
+  <Wolframite.description>Wolframite was highly valued as the main source of the metal Tungsten, a strong and quite dense material with a high melting temperature used for electric filaments and armor-piercing ammunition, as well as hard Tungsten carbide machine tools. Tungsten is not a magnetic metal。</Wolframite.description>
 
   <Jade.label>jade</Jade.label>
-  <Jade.description>A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. It's hardness and density also makes it a good material for blunt weapons.</Jade.description>
+  <Jade.description>A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. It's hardness and density also makes it a good material for blunt weapons。</Jade.description>
   <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
 
 

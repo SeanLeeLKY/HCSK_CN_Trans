@@ -4,46 +4,46 @@
   <!-- Animal beds -->
 
   <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
-  <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
+  <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep。</AnimalSleepingSpot.description>
   <AnimalSleepingSpot_Blueprint.label>animal sleeping spot (blueprint)</AnimalSleepingSpot_Blueprint.label>
   <AnimalSleepingSpot_Blueprint_Install.label>animal sleeping spot (blueprint)</AnimalSleepingSpot_Blueprint_Install.label>
   <AnimalSleepingSpot_Frame.label>animal sleeping spot (building)</AnimalSleepingSpot_Frame.label>
-  <AnimalSleepingSpot_Frame.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot_Frame.description>
+  <AnimalSleepingSpot_Frame.description>Designates a spot on the ground where animals should sleep。</AnimalSleepingSpot_Frame.description>
 
   <AnimalSleepingBox.label>animal hay sleeping spot</AnimalSleepingBox.label>
-  <AnimalSleepingBox.description>A small box for animals to sleep in. Fits small animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
+  <AnimalSleepingBox.description>A small box for animals to sleep in. Fits small animals like chickens, cats, or small dogs。</AnimalSleepingBox.description>
   <AnimalSleepingBox_Blueprint.label>animal hay sleeping spot (blueprint)</AnimalSleepingBox_Blueprint.label>
   <AnimalSleepingBox_Blueprint_Install.label>animal hay sleeping spot (blueprint)</AnimalSleepingBox_Blueprint_Install.label>
   <AnimalSleepingBox_Frame.label>animal hay sleeping spot (building)</AnimalSleepingBox_Frame.label>
-  <AnimalSleepingBox_Frame.description>A small box for animals to sleep in. Fits small animals like chickens, cats, or small dogs.</AnimalSleepingBox_Frame.description>
+  <AnimalSleepingBox_Frame.description>A small box for animals to sleep in. Fits small animals like chickens, cats, or small dogs。</AnimalSleepingBox_Frame.description>
 
   <Chickennest.label>小动物巢</Chickennest.label>
-  <Chickennest.description>A small nest for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</Chickennest.description>
+  <Chickennest.description>A small nest for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs。</Chickennest.description>
   <Chickennest_Blueprint.label>chicken nest (蓝图)</Chickennest_Blueprint.label>
   <Chickennest_Blueprint_Install.label>chicken nest (蓝图)</Chickennest_Blueprint_Install.label>
   <Chickennest_Frame.label>chicken nest (建造中)</Chickennest_Frame.label>
-  <Chickennest_Frame.description>A small nest for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</Chickennest_Frame.description>
+  <Chickennest_Frame.description>A small nest for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs。</Chickennest_Frame.description>
 
   <AnimalSleepingHayLeather.label>动物睡眠地</AnimalSleepingHayLeather.label>
-  <AnimalSleepingHayLeather.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats or small dogs.</AnimalSleepingHayLeather.description>
+  <AnimalSleepingHayLeather.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats or small dogs。</AnimalSleepingHayLeather.description>
   <AnimalSleepingHayLeather_Blueprint.label>animal sleeping place (蓝图)</AnimalSleepingHayLeather_Blueprint.label>
   <AnimalSleepingHayLeather_Blueprint_Install.label>animal sleeping place (蓝图)</AnimalSleepingHayLeather_Blueprint_Install.label>
   <AnimalSleepingHayLeather_Frame.label>animal sleeping place (建造中)</AnimalSleepingHayLeather_Frame.label>
-  <AnimalSleepingHayLeather_Frame.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats or small dogs.</AnimalSleepingHayLeather_Frame.description>
+  <AnimalSleepingHayLeather_Frame.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats or small dogs。</AnimalSleepingHayLeather_Frame.description>
 
   <AnimalBed.label>animal bed</AnimalBed.label>
-  <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
+  <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal。</AnimalBed.description>
   <AnimalBed_Blueprint.label>animal bed (blueprint)</AnimalBed_Blueprint.label>
   <AnimalBed_Blueprint_Install.label>animal bed (blueprint)</AnimalBed_Blueprint_Install.label>
   <AnimalBed_Frame.label>animal bed (building)</AnimalBed_Frame.label>
-  <AnimalBed_Frame.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed_Frame.description>
+  <AnimalBed_Frame.description>A soft bed for animals to sleep on. Fits any animal。</AnimalBed_Frame.description>
 
   <AnimalPillow.label>动物软巢</AnimalPillow.label>
-  <AnimalPillow.description>Millenium Line animal bed. Rest and treat your furry friends comfortably on the pillow. Pet hair repellent and easy to clean.</AnimalPillow.description>
+  <AnimalPillow.description>Millenium Line animal bed. Rest and treat your furry friends comfortably on the pillow. Pet hair repellent and easy to clean。</AnimalPillow.description>
   <AnimalPillow_Blueprint.label>animal pillow (蓝图)</AnimalPillow_Blueprint.label>
   <AnimalPillow_Blueprint_Install.label>animal pillow (蓝图)</AnimalPillow_Blueprint_Install.label>
   <AnimalPillow_Frame.label>animal pillow (建造中)</AnimalPillow_Frame.label>
-  <AnimalPillow_Frame.description>Millenium Line animal bed. Rest and treat your furry friends comfortably on the pillow. Pet hair repellent and easy to clean.</AnimalPillow_Frame.description>
+  <AnimalPillow_Frame.description>Millenium Line animal bed. Rest and treat your furry friends comfortably on the pillow. Pet hair repellent and easy to clean。</AnimalPillow_Frame.description>
 
   <FeedingBowl.label>饲料盆</FeedingBowl.label>
   <FeedingBowl.description>Your animals will love this bowl so much that they'll go eat out of here first!</FeedingBowl.description>
@@ -53,11 +53,11 @@
   <FeedingBowl_Frame.description>Your animals will love this bowl so much that they'll go eat out of here first!</FeedingBowl_Frame.description>
 
   <ScratchingPole.label>挠爪柱</ScratchingPole.label>
-  <ScratchingPole.description>Provides your cats with a place to sharpen their claws.</ScratchingPole.description>
+  <ScratchingPole.description>Provides your cats with a place to sharpen their claws。</ScratchingPole.description>
   <ScratchingPole_Blueprint.label>scratching post (蓝图)</ScratchingPole_Blueprint.label>
   <ScratchingPole_Blueprint_Install.label>scratching post (蓝图)</ScratchingPole_Blueprint_Install.label>
   <ScratchingPole_Frame.label>scratching post (建造中)</ScratchingPole_Frame.label>
-  <ScratchingPole_Frame.description>Provides your cats with a place to sharpen their claws.</ScratchingPole_Frame.description>
+  <ScratchingPole_Frame.description>Provides your cats with a place to sharpen their claws。</ScratchingPole_Frame.description>
 
 
   <!--[Core] <AnimalSleepingSpot.label>动物睡眠点</AnimalSleepingSpot.label>-->
@@ -78,21 +78,21 @@
   <!--[Core] <AnimalBed_Frame.label>动物床铺（建造中）</AnimalBed_Frame.label>-->
   <!--[Core] <AnimalBed_Frame.description>一个供动物睡觉的柔软床铺。适合任何类型动物。</AnimalBed_Frame.description>-->
   <!--<AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>-->
-  <!--<AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>-->
+  <!--<AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep。</AnimalSleepingSpot.description>-->
   <!--<AnimalSleepingSpot_Blueprint.label>animal sleeping spot (blueprint)</AnimalSleepingSpot_Blueprint.label>-->
   <!--<AnimalSleepingSpot_Frame.label>animal sleeping spot (building)</AnimalSleepingSpot_Frame.label>-->
-  <!--<AnimalSleepingSpot_Frame.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot_Frame.description>-->
+  <!--<AnimalSleepingSpot_Frame.description>Designates a spot on the ground where animals should sleep。</AnimalSleepingSpot_Frame.description>-->
   <!--<AnimalSleepingBox.label>animal hay sleeping spot</AnimalSleepingBox.label>-->
-  <!--<AnimalSleepingBox.description>A small box for animals to sleep in. Fits small animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>-->
+  <!--<AnimalSleepingBox.description>A small box for animals to sleep in. Fits small animals like chickens, cats, or small dogs。</AnimalSleepingBox.description>-->
   <!--<AnimalSleepingBox_Blueprint.label>animal hay sleeping spot (blueprint)</AnimalSleepingBox_Blueprint.label>-->
   <!--<AnimalSleepingBox_Blueprint_Install.label>animal hay sleeping spot (blueprint)</AnimalSleepingBox_Blueprint_Install.label>-->
   <!--<AnimalSleepingBox_Frame.label>animal hay sleeping spot (building)</AnimalSleepingBox_Frame.label>-->
-  <!--<AnimalSleepingBox_Frame.description>A small box for animals to sleep in. Fits small animals like chickens, cats, or small dogs.</AnimalSleepingBox_Frame.description>-->
+  <!--<AnimalSleepingBox_Frame.description>A small box for animals to sleep in. Fits small animals like chickens, cats, or small dogs。</AnimalSleepingBox_Frame.description>-->
   <!--<AnimalBed.label>animal bed</AnimalBed.label>-->
-  <!--<AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>-->
+  <!--<AnimalBed.description>A soft bed for animals to sleep on. Fits any animal。</AnimalBed.description>-->
   <!--<AnimalBed_Blueprint.label>animal bed (blueprint)</AnimalBed_Blueprint.label>-->
   <!--<AnimalBed_Blueprint_Install.label>animal bed (blueprint)</AnimalBed_Blueprint_Install.label>-->
   <!--<AnimalBed_Frame.label>animal bed (building)</AnimalBed_Frame.label>-->
-  <!--<AnimalBed_Frame.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed_Frame.description>-->
+  <!--<AnimalBed_Frame.description>A soft bed for animals to sleep on. Fits any animal。</AnimalBed_Frame.description>-->
 
 </LanguageData>

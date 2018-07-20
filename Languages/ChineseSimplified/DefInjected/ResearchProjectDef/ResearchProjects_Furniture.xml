@@ -4,13 +4,13 @@
   <!-- Furniture -->
 
   <SK_Glowstone.label>Glowstone lamps</SK_Glowstone.label>
-  <SK_Glowstone.description>Discover how to build beautiful lamps with the glowstones.</SK_Glowstone.description>
+  <SK_Glowstone.description>Discover how to build beautiful lamps with the glowstones。</SK_Glowstone.description>
 
 
   <!-- GlowstoneLamp -->
 
   <BagBeds.label>Dining room furniture I</BagBeds.label>
-  <BagBeds.description>It opens the possibility of building some new furniture for dining room, such as Long Table and Stool.</BagBeds.description>
+  <BagBeds.description>It opens the possibility of building some new furniture for dining room, such as Long Table and Stool。</BagBeds.description>
 
 
   <!-- Stool
@@ -18,14 +18,14 @@
 	Table2x4c -->
 
   <SK_DiningRoomII.label>Dining room furniture II</SK_DiningRoomII.label>
-  <SK_DiningRoomII.description>It opens the possibility of building dining chairs in the dining room for the comfort of your colonists.</SK_DiningRoomII.description>
+  <SK_DiningRoomII.description>It opens the possibility of building dining chairs in the dining room for the comfort of your colonists。</SK_DiningRoomII.description>
 
 
   <!-- DiningChair
 			RoundedTable2x4c -->
 
   <SK_DiningRoomIII.label>Dining room furniture III</SK_DiningRoomIII.label>
-  <SK_DiningRoomIII.description>This research unlocks modern tables and serving tables for the dining room.</SK_DiningRoomIII.description>
+  <SK_DiningRoomIII.description>This research unlocks modern tables and serving tables for the dining room。</SK_DiningRoomIII.description>
 
 
   <!-- TeaTable
@@ -33,13 +33,13 @@
 				ClutterMediumTableModern -->
 
   <SK_DiningRoomIV.label>Dining room furniture IV</SK_DiningRoomIV.label>
-  <SK_DiningRoomIV.description>This research unlocks beautiful dining chair for the dining room.</SK_DiningRoomIV.description>
+  <SK_DiningRoomIV.description>This research unlocks beautiful dining chair for the dining room。</SK_DiningRoomIV.description>
 
 
   <!-- PodChair -->
 
   <SK_RecreationRoomI.label>Recreation furniture room I</SK_RecreationRoomI.label>
-  <SK_RecreationRoomI.description>Living out here is hard work, and some colonists may recall and old classic saying about "all work and no play..." This research will unlock some game designs and rules, such as the classic game of horseshoes.</SK_RecreationRoomI.description>
+  <SK_RecreationRoomI.description>Living out here is hard work, and some colonists may recall and old classic saying about "all work and no play..." This research will unlock some game designs and rules, such as the classic game of horseshoes。</SK_RecreationRoomI.description>
 
 
   <!-- HorseshoesPin
@@ -47,7 +47,7 @@
 	ArcheryTarget -->
 
   <SK_RecreationRoomII.label>Recreation furniture room II</SK_RecreationRoomII.label>
-  <SK_RecreationRoomII.description>Further advancements in pleasure give your colonists the ability to build some boardgames, bookcases and couches.</SK_RecreationRoomII.description>
+  <SK_RecreationRoomII.description>Further advancements in pleasure give your colonists the ability to build some boardgames, bookcases and couches。</SK_RecreationRoomII.description>
 
 
   <!-- ClutterCouchA их два
@@ -59,7 +59,7 @@
 				GoTable -->
 
   <TubeTelevision.label>Recreation furniture room III</TubeTelevision.label>
-  <TubeTelevision.description>Even further advancements in pleasure give your colonists the ability to build some billiards and television.</TubeTelevision.description>
+  <TubeTelevision.description>Even further advancements in pleasure give your colonists the ability to build some billiards and television。</TubeTelevision.description>
 
 
   <!-- JournalTable
@@ -68,7 +68,7 @@
 					Telescope -->
 
   <SK_RecreationRoomIV.label>Recreation furniture room IV</SK_RecreationRoomIV.label>
-  <SK_RecreationRoomIV.description>Final research in pleasure and rest unlocks telescopes and better TVs.</SK_RecreationRoomIV.description>
+  <SK_RecreationRoomIV.description>Final research in pleasure and rest unlocks telescopes and better TVs。</SK_RecreationRoomIV.description>
 
 
   <!-- SixSixRoundRug
@@ -81,7 +81,7 @@
 							HoloSciSign -->
 
   <Bedrolls.label>Medieval bedroom furniture</Bedrolls.label>
-  <Bedrolls.description>It opens methods of obtaining rest in bedrooms by constructing comfy bed and end table.</Bedrolls.description>
+  <Bedrolls.description>It opens methods of obtaining rest in bedrooms by constructing comfy bed and end table。</Bedrolls.description>
 
 
   <!-- Bedroll
@@ -91,7 +91,7 @@
 			OneOneSquareRug -->
 
   <Beds.label>Renaissance bedroom furniture</Beds.label>
-  <Beds.description>Renaissance bedroom advancements in rest give your colonists the ability to build some comfortable beds and reading tables.</Beds.description>
+  <Beds.description>Renaissance bedroom advancements in rest give your colonists the ability to build some comfortable beds and reading tables。</Beds.description>
 
 
   <!-- Bed
@@ -100,7 +100,7 @@
 			ComfyBed -->
 
   <SK_BedroomII.label>Royal bedroom furniture</SK_BedroomII.label>
-  <SK_BedroomII.description>Royal bedroom advancements in rest give your colonists the ability to build some Comfortable Beds and Reading Tables.</SK_BedroomII.description>
+  <SK_BedroomII.description>Royal bedroom advancements in rest give your colonists the ability to build some Comfortable Beds and Reading Tables。</SK_BedroomII.description>
 
 
   <!-- TwoTwoSquareRug
@@ -109,7 +109,7 @@
 			Commode -->
 
   <SK_BedroomIndustrial.label>Industrial bedroom furniture</SK_BedroomIndustrial.label>
-  <SK_BedroomIndustrial.description>Industrial bedroom advancements in rest give your colonists the ability to build some Comfortable Beds and Reading Tables.</SK_BedroomIndustrial.description>
+  <SK_BedroomIndustrial.description>Industrial bedroom advancements in rest give your colonists the ability to build some Comfortable Beds and Reading Tables。</SK_BedroomIndustrial.description>
 
 
   <!-- industrial_single_bed
@@ -118,7 +118,7 @@
 			prison_single_bed_RT -->
 
   <SK_BedroomIII.label>Luxury bedroom furniture</SK_BedroomIII.label>
-  <SK_BedroomIII.description>Even further advancements in rest give your colonists the ability to build some Armchairs and Luxury Beds.</SK_BedroomIII.description>
+  <SK_BedroomIII.description>Even further advancements in rest give your colonists the ability to build some Armchairs and Luxury Beds。</SK_BedroomIII.description>
 
 
   <!-- FourFourSquareRug
@@ -133,7 +133,7 @@
 					royalbedblue -->
 
   <SK_BedroomIV.label>Nanoelectronics bedroom</SK_BedroomIV.label>
-  <SK_BedroomIV.description>Nanoelectronics research in pleasure and rest unlocks Comfy Seats and Stylish Beds.</SK_BedroomIV.description>
+  <SK_BedroomIV.description>Nanoelectronics research in pleasure and rest unlocks Comfy Seats and Stylish Beds。</SK_BedroomIV.description>
 
 
   <!-- SixSixSquareRug
@@ -143,7 +143,7 @@
 							ClutterEkieBed -->
 
   <SK_BedroomV.label>Space bedroom furniture</SK_BedroomV.label>
-  <SK_BedroomV.description>Space research in pleasure and rest unlocks space and cryo beds.</SK_BedroomV.description>
+  <SK_BedroomV.description>Space research in pleasure and rest unlocks space and cryo beds。</SK_BedroomV.description>
 
 
   <!-- space_single_bed
@@ -152,28 +152,28 @@
 										cryo_single_bed -->
 
   <SK_ErgonomicsI.label>Ergonomics I</SK_ErgonomicsI.label>
-  <SK_ErgonomicsI.description>Advanced research in ergonomics allows building and construction of Small Tool Cabinet and some Cooking Tools to speed up work.</SK_ErgonomicsI.description>
+  <SK_ErgonomicsI.description>Advanced research in ergonomics allows building and construction of Small Tool Cabinet and some Cooking Tools to speed up work。</SK_ErgonomicsI.description>
 
 
   <!-- Small_ToolCabinet
 	CookingTools -->
 
   <SK_ErgonomicsII.label>Ergonomics II</SK_ErgonomicsII.label>
-  <SK_ErgonomicsII.description>Further research in ergonomics allows building and construction of File Cabinet and some Tool Cabinet to speed up work.</SK_ErgonomicsII.description>
+  <SK_ErgonomicsII.description>Further research in ergonomics allows building and construction of File Cabinet and some Tool Cabinet to speed up work。</SK_ErgonomicsII.description>
 
 
   <!-- FileCabinet
 					Patterner -->
 
   <MultiAnalyzer.label>Ergonomics III</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Even further research in ergonomics allows building and construction of Multi Analyzer.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Even further research in ergonomics allows building and construction of Multi Analyzer。</MultiAnalyzer.description>
 
 
   <!-- ToolCabinet
 					MultiAnalyzer -->
 
   <SK_HygleneI.label>Hygiene I</SK_HygleneI.label>
-  <SK_HygleneI.description>The first step in reducing infections and filth is to tame the consequences of your foot traffic. Some rugs would help.</SK_HygleneI.description>
+  <SK_HygleneI.description>The first step in reducing infections and filth is to tame the consequences of your foot traffic. Some rugs would help。</SK_HygleneI.description>
 
 
   <!-- OneTwoRunner
@@ -182,7 +182,7 @@
 		Kiln -->
 
   <ElectricCremation.label>Hygiene II</ElectricCremation.label>
-  <ElectricCremation.description>This allows colonists to build electric crematoriums, which can incinerate unwanted corpses, apparel and materials faster.</ElectricCremation.description>
+  <ElectricCremation.description>This allows colonists to build electric crematoriums, which can incinerate unwanted corpses, apparel and materials faster。</ElectricCremation.description>
 
 
   <!-- OneFiveRunner Six Seven
@@ -190,7 +190,7 @@
 			ClutterTrashBin -->
 
   <SK_StorageI.label>Storage I</SK_StorageI.label>
-  <SK_StorageI.description>"So where did I put this pistol? What a mess!" \n Unlocks Feeding Bowl, Hamper and Pallet.</SK_StorageI.description>
+  <SK_StorageI.description>"So where did I put this pistol? What a mess!" \n Unlocks Feeding Bowl, Hamper and Pallet。</SK_StorageI.description>
 
 
   <!-- Storage_WoodenPalletSmall
@@ -201,7 +201,7 @@
 	Candle а фиг его знает что тут свечка делает -->
 
   <SK_StorageII.label>Storage II</SK_StorageII.label>
-  <SK_StorageII.description>Further research in storage technologies allows building and construction of Cupboards, Shelves, Skip and Racks.</SK_StorageII.description>
+  <SK_StorageII.description>Further research in storage technologies allows building and construction of Cupboards, Shelves, Skip and Racks。</SK_StorageII.description>
 
 
   <!-- Storage_SkipBig
@@ -219,33 +219,33 @@
 					ClutterLockerA -->
 
   <SK_TrainingFacilitiesI.label>Training facilities I</SK_TrainingFacilitiesI.label>
-  <SK_TrainingFacilitiesI.description>This allows colonists to construct some Autopsy Tables - doctors can hone their skills by testing their techniques on corpses; and Punching Bags - a man-able punching bag that your colonists can use to practice their melee skills with.</SK_TrainingFacilitiesI.description>
+  <SK_TrainingFacilitiesI.description>This allows colonists to construct some Autopsy Tables - doctors can hone their skills by testing their techniques on corpses; and Punching Bags - a man-able punching bag that your colonists can use to practice their melee skills with。</SK_TrainingFacilitiesI.description>
 
 
   <!-- PunchingBag
 			MartialArtsTarget -->
 
   <SK_TrainingFacilitiesII.label>Training facilities II</SK_TrainingFacilitiesII.label>
-  <SK_TrainingFacilitiesII.description>This allows colonists to construct some Holodecks - a man-able holosuite that your colonists can use to practice their social skills with.</SK_TrainingFacilitiesII.description>
+  <SK_TrainingFacilitiesII.description>This allows colonists to construct some Holodecks - a man-able holosuite that your colonists can use to practice their social skills with。</SK_TrainingFacilitiesII.description>
 
 
   <!-- ShootingRangeTarget
 			Holodeck -->
 
   <FloorArt.label>Flooring I</FloorArt.label>
-  <FloorArt.description>The ability to make beautiful floor - is also an art. Tier 1.</FloorArt.description>
+  <FloorArt.description>The ability to make beautiful floor - is also an art. Tier 1。</FloorArt.description>
 
 
   <!-- Bunch of terrain thingdefs ? -->
 
   <FloorArtII.label>Flooring II</FloorArtII.label>
-  <FloorArtII.description>The ability to make beautiful floor - is also an art. Tier 2.</FloorArtII.description>
+  <FloorArtII.description>The ability to make beautiful floor - is also an art. Tier 2。</FloorArtII.description>
 
   <FloorArtIII.label>Flooring III</FloorArtIII.label>
-  <FloorArtIII.description>The ability to make beautiful floor - is also an art. Tier 3.</FloorArtIII.description>
+  <FloorArtIII.description>The ability to make beautiful floor - is also an art. Tier 3。</FloorArtIII.description>
 
   <FloorArtIV.label>Flooring IV</FloorArtIV.label>
-  <FloorArtIV.description>The ability to make beautiful floor - is also an art. Tier 4.</FloorArtIV.description>
+  <FloorArtIV.description>The ability to make beautiful floor - is also an art. Tier 4。</FloorArtIV.description>
 
 
 </LanguageData>

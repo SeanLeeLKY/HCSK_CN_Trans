@@ -4,13 +4,13 @@
   <!-- INFERNO CANNON -->
 
   <Gun_InfernoCannon.label>Mech. 地狱火加农炮</Gun_InfernoCannon.label>
-  <Gun_InfernoCannon.description>Incendiary-shot mini-artillery device. Mechanoid-built.</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.description>Incendiary-shot mini-artillery device. Mechanoid-built。</Gun_InfernoCannon.description>
 
 
   <!-- RAILGUN -->
 
   <Gun_ChargeLance.label>外星轨道枪</Gun_ChargeLance.label>
-  <Gun_ChargeLance.description>Charged-shot rail-assisted lance weapon. Fires a single charged shot at high velocity.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.description>Charged-shot rail-assisted lance weapon. Fires a single charged shot at high velocity。</Gun_ChargeLance.description>
 
 
 </LanguageData>

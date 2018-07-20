@@ -4,75 +4,75 @@
   <!-- REALISTIC PRODUCTION SK MOD -->
 
   <Component.label>component</Component.label>
-  <Component.description>A collection of simple spare parts that have a variety of uses in construction and production.</Component.description>
+  <Component.description>A collection of simple spare parts that have a variety of uses in construction and production。</Component.description>
 
   <MetalCan.label>metal can</MetalCan.label>
-  <MetalCan.description>Empty metal cans are needed for canned meals.</MetalCan.description>
+  <MetalCan.description>Empty metal cans are needed for canned meals。</MetalCan.description>
 
   <Wire.label>wire</Wire.label>
-  <Wire.description>Wire is produced from high conductivity metals. It is useful for carrying electric currents in electrical devices.</Wire.description>
+  <Wire.description>Wire is produced from high conductivity metals. It is useful for carrying electric currents in electrical devices。</Wire.description>
 
   <Weapon_Parts.label>weapon parts</Weapon_Parts.label>
-  <Weapon_Parts.description>Parts of disassembled weapons.</Weapon_Parts.description>
+  <Weapon_Parts.description>Parts of disassembled weapons。</Weapon_Parts.description>
   <Weapon_Parts.stuffProps.stuffAdjective>weapon parts</Weapon_Parts.stuffProps.stuffAdjective>
 
   <Pistol_Component.label>pistol component</Pistol_Component.label>
-  <Pistol_Component.description>Main components for pistol weapons.</Pistol_Component.description>
+  <Pistol_Component.description>Main components for pistol weapons。</Pistol_Component.description>
   <Pistol_Component.stuffProps.stuffAdjective>pistol component</Pistol_Component.stuffProps.stuffAdjective>
 
   <SMG_Component.label>SMG component</SMG_Component.label>
-  <SMG_Component.description>Main components for SMG weapons.</SMG_Component.description>
+  <SMG_Component.description>Main components for SMG weapons。</SMG_Component.description>
   <SMG_Component.stuffProps.stuffAdjective>SMG component</SMG_Component.stuffProps.stuffAdjective>
 
   <Shotgun_Component.label>shotgun component</Shotgun_Component.label>
-  <Shotgun_Component.description>Main components for shotgun weapons.</Shotgun_Component.description>
+  <Shotgun_Component.description>Main components for shotgun weapons。</Shotgun_Component.description>
   <Shotgun_Component.stuffProps.stuffAdjective>shotgun component</Shotgun_Component.stuffProps.stuffAdjective>
 
   <Rifle_Component.label>rifle component</Rifle_Component.label>
-  <Rifle_Component.description>Main components for rifle weapons.</Rifle_Component.description>
+  <Rifle_Component.description>Main components for rifle weapons。</Rifle_Component.description>
   <Rifle_Component.stuffProps.stuffAdjective>rifle component</Rifle_Component.stuffProps.stuffAdjective>
 
   <AdvRifle_Component.label>advanced rifle component</AdvRifle_Component.label>
-  <AdvRifle_Component.description>Main components for advanced rifle weapons.</AdvRifle_Component.description>
+  <AdvRifle_Component.description>Main components for advanced rifle weapons。</AdvRifle_Component.description>
   <AdvRifle_Component.stuffProps.stuffAdjective>advanced rifle component</AdvRifle_Component.stuffProps.stuffAdjective>
 
   <Sniper_Component.label>sniper component</Sniper_Component.label>
-  <Sniper_Component.description>Main components for sniper weapons.</Sniper_Component.description>
+  <Sniper_Component.description>Main components for sniper weapons。</Sniper_Component.description>
   <Sniper_Component.stuffProps.stuffAdjective>sniper component</Sniper_Component.stuffProps.stuffAdjective>
 
   <AdvSniper_Component.label>advanced sniper component</AdvSniper_Component.label>
-  <AdvSniper_Component.description>Main components for advanced sniper weapons.</AdvSniper_Component.description>
+  <AdvSniper_Component.description>Main components for advanced sniper weapons。</AdvSniper_Component.description>
   <AdvSniper_Component.stuffProps.stuffAdjective>advanced sniper component</AdvSniper_Component.stuffProps.stuffAdjective>
 
   <Heavy_Component.label>heavy weapon component</Heavy_Component.label>
-  <Heavy_Component.description>Main components for heavy weapons.</Heavy_Component.description>
+  <Heavy_Component.description>Main components for heavy weapons。</Heavy_Component.description>
   <Heavy_Component.stuffProps.stuffAdjective>heavy weapon component</Heavy_Component.stuffProps.stuffAdjective>
 
   <Cannon_Component.label>cannon weapon component</Cannon_Component.label>
-  <Cannon_Component.description>Main components for cannons.</Cannon_Component.description>
+  <Cannon_Component.description>Main components for cannons。</Cannon_Component.description>
   <Cannon_Component.stuffProps.stuffAdjective>cannon weapon component</Cannon_Component.stuffProps.stuffAdjective>
 
   <Launcher_Component.label>launcher weapon component</Launcher_Component.label>
-  <Launcher_Component.description>Main components for rocket launcher weapons.</Launcher_Component.description>
+  <Launcher_Component.description>Main components for rocket launcher weapons。</Launcher_Component.description>
   <Launcher_Component.stuffProps.stuffAdjective>launcher weapon component</Launcher_Component.stuffProps.stuffAdjective>
 
   <Plasma_Component.label>plasma weapon component</Plasma_Component.label>
-  <Plasma_Component.description>Main components for plasma weapons.</Plasma_Component.description>
+  <Plasma_Component.description>Main components for plasma weapons。</Plasma_Component.description>
   <Plasma_Component.stuffProps.stuffAdjective>plasma weapon component</Plasma_Component.stuffProps.stuffAdjective>
 
   <Laser_Component.label>laser rifle component</Laser_Component.label>
-  <Laser_Component.description>Main components for laser rifle weapons.</Laser_Component.description>
+  <Laser_Component.description>Main components for laser rifle weapons。</Laser_Component.description>
   <Laser_Component.stuffProps.stuffAdjective>laser rifle component</Laser_Component.stuffProps.stuffAdjective>
 
   <ReinforcedConcrete.label>reinforced concrete</ReinforcedConcrete.label>
-  <ReinforcedConcrete.description>Reinforced concrete is made from concrete and metal in order to strengthen the mixture.</ReinforcedConcrete.description>
+  <ReinforcedConcrete.description>Reinforced concrete is made from concrete and metal in order to strengthen the mixture。</ReinforcedConcrete.description>
   <ReinforcedConcrete.stuffProps.stuffAdjective>Reinforced Concrete</ReinforcedConcrete.stuffProps.stuffAdjective>
 
   <Mechanism.label>mechanism</Mechanism.label>
-  <Mechanism.description>Simple mechanisms are used in simple machines. They are gear-like parts.</Mechanism.description>
+  <Mechanism.description>Simple mechanisms are used in simple machines. They are gear-like parts。</Mechanism.description>
 
   <AdvMechanism.label>advanced mechanism</AdvMechanism.label>
-  <AdvMechanism.description>Advanced mechanism are used in complex machines. They are intricate gear-like parts.</AdvMechanism.description>
+  <AdvMechanism.description>Advanced mechanism are used in complex machines. They are intricate gear-like parts。</AdvMechanism.description>
 
 
 </LanguageData>

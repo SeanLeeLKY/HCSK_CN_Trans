@@ -4,107 +4,107 @@
   <!-- Crate -->
 
   <Balista_Crate.label>Balista crate</Balista_Crate.label>
-  <Balista_Crate.description>Use this to build Balista that fires a the equivalent of a massive crossbow bolt. Must me manned.</Balista_Crate.description>
+  <Balista_Crate.description>Use this to build Balista that fires a the equivalent of a massive crossbow bolt. Must me manned。</Balista_Crate.description>
   <Balista_Crate.stuffProps.stuffAdjective>Balista crate</Balista_Crate.stuffProps.stuffAdjective>
 
   <Catapult_Crate.label>Catapult crate</Catapult_Crate.label>
-  <Catapult_Crate.description>Use this to build catapult that launches explosive/incendiary shells. Must be manned.</Catapult_Crate.description>
+  <Catapult_Crate.description>Use this to build catapult that launches explosive/incendiary shells. Must be manned。</Catapult_Crate.description>
   <Catapult_Crate.stuffProps.stuffAdjective>Catapult crate</Catapult_Crate.stuffProps.stuffAdjective>
 
   <M240B_Crate.label>7.62x51mm M240B MG crate</M240B_Crate.label>
-  <M240B_Crate.description>Use this to build a 7.62x51mm M240B MG, a type of stationary manned turret.</M240B_Crate.description>
+  <M240B_Crate.description>Use this to build a 7.62x51mm M240B MG, a type of stationary manned turret。</M240B_Crate.description>
   <M240B_Crate.stuffProps.stuffAdjective>7.62x51mm M240B MG crate</M240B_Crate.stuffProps.stuffAdjective>
 
   <MinigunTurret_Crate.label>7.62x51mm M134 Minigun crate</MinigunTurret_Crate.label>
-  <MinigunTurret_Crate.description>Use this to build a M134 Minigun, a type of stationary manned turret. Requires 7.62x51mm ammo.</MinigunTurret_Crate.description>
+  <MinigunTurret_Crate.description>Use this to build a M134 Minigun, a type of stationary manned turret. Requires 7.62x51mm ammo。</MinigunTurret_Crate.description>
   <MinigunTurret_Crate.stuffProps.stuffAdjective>7.62x51mm M134 Minigun crate</MinigunTurret_Crate.stuffProps.stuffAdjective>
 
   <MGTurret_Crate.label>50BMG M2 Browning MG crate</MGTurret_Crate.label>
-  <MGTurret_Crate.description>Use this to build a 50BMG M2 Browning MG, a type of stationary manned turret.</MGTurret_Crate.description>
+  <MGTurret_Crate.description>Use this to build a 50BMG M2 Browning MG, a type of stationary manned turret。</MGTurret_Crate.description>
   <MGTurret_Crate.stuffProps.stuffAdjective>50BMG M2 Browning MG crate</MGTurret_Crate.stuffProps.stuffAdjective>
 
   <KPV_Crate.label>14.5mm KPV MG crate</KPV_Crate.label>
-  <KPV_Crate.description>Use this to build a 14.5mm KPV MG, a type of stationary manned turret. Requires 14.5mm bullets for ammo.</KPV_Crate.description>
+  <KPV_Crate.description>Use this to build a 14.5mm KPV MG, a type of stationary manned turret. Requires 14.5mm bullets for ammo。</KPV_Crate.description>
   <KPV_Crate.stuffProps.stuffAdjective>14.5mm KPV MG crate</KPV_Crate.stuffProps.stuffAdjective>
 
   <Oerlikonautocannon_Crate.label>20x102mm Oerlikon autocannon crate</Oerlikonautocannon_Crate.label>
-  <Oerlikonautocannon_Crate.description>Use this to build an Oerlikon autocannon, a type of stationary manned turret. It uses 20x102mm for ammo.</Oerlikonautocannon_Crate.description>
+  <Oerlikonautocannon_Crate.description>Use this to build an Oerlikon autocannon, a type of stationary manned turret. It uses 20x102mm for ammo。</Oerlikonautocannon_Crate.description>
   <Oerlikonautocannon_Crate.stuffProps.stuffAdjective>20x102mm Oerlikon autocannon crate</Oerlikonautocannon_Crate.stuffProps.stuffAdjective>
 
   <VulcanCannon_Crate.label>20mm Vulcan Cannon Crate</VulcanCannon_Crate.label>
-  <VulcanCannon_Crate.description>Use this to build a 20mm Vulcan Cannon, a type of stationary manned turret. Requires 800 W to function and it uses 20mmx20 Vulcan Bullets for ammo.</VulcanCannon_Crate.description>
+  <VulcanCannon_Crate.description>Use this to build a 20mm Vulcan Cannon, a type of stationary manned turret. Requires 800 W to function and it uses 20mmx20 Vulcan Bullets for ammo。</VulcanCannon_Crate.description>
   <VulcanCannon_Crate.stuffProps.stuffAdjective>20mm Vulcan Cannon Crate</VulcanCannon_Crate.stuffProps.stuffAdjective>
 
   <Chain_Crate.label>30x165mm GSh-30 cannon crate</Chain_Crate.label>
-  <Chain_Crate.description>Use this to build a 30x165mm GSh-30 cannon, a type of stationary manned turret. It uses 30x165mm for ammo.</Chain_Crate.description>
+  <Chain_Crate.description>Use this to build a 30x165mm GSh-30 cannon, a type of stationary manned turret. It uses 30x165mm for ammo。</Chain_Crate.description>
   <Chain_Crate.stuffProps.stuffAdjective>30x165mm GSh-30 cannon crate</Chain_Crate.stuffProps.stuffAdjective>
 
   <Avenger_Crate.label>30x173mm GAU-8 Avenger crate</Avenger_Crate.label>
-  <Avenger_Crate.description>Use this to build a 30x173mm GAU-8 Avenger, a type of stationary manned turret. It uses 30x173mm Avenger Shells for ammo.</Avenger_Crate.description>
+  <Avenger_Crate.description>Use this to build a 30x173mm GAU-8 Avenger, a type of stationary manned turret. It uses 30x173mm Avenger Shells for ammo。</Avenger_Crate.description>
   <Avenger_Crate.stuffProps.stuffAdjective>30x173mm GAU-8 Avenger crate</Avenger_Crate.stuffProps.stuffAdjective>
 
   <AGSturret_Crate.label>30mm AGS-17 crate</AGSturret_Crate.label>
-  <AGSturret_Crate.description>Use this to build a AGS-17, a type of stationary manned turret. It uses 30mmx6 GL turret grenades for ammo.</AGSturret_Crate.description>
+  <AGSturret_Crate.description>Use this to build a AGS-17, a type of stationary manned turret. It uses 30mmx6 GL turret grenades for ammo。</AGSturret_Crate.description>
   <AGSturret_Crate.stuffProps.stuffAdjective>30mm AGS-17 crate</AGSturret_Crate.stuffProps.stuffAdjective>
 
   <AGCturret_Crate.label>30mm AGS-30 crate</AGCturret_Crate.label>
-  <AGCturret_Crate.description>Use this to build AGS-30, a type of stationary manned turret. It uses 30mmx6 GL turret grenades for ammo.</AGCturret_Crate.description>
+  <AGCturret_Crate.description>Use this to build AGS-30, a type of stationary manned turret. It uses 30mmx6 GL turret grenades for ammo。</AGCturret_Crate.description>
   <AGCturret_Crate.stuffProps.stuffAdjective>30mm AGS-30 crate</AGCturret_Crate.stuffProps.stuffAdjective>
 
   <Mortar_Crate.label>81mm Mortar Launcher Crate</Mortar_Crate.label>
-  <Mortar_Crate.description>Use this to build an mortar launcher, a type of stationary manned turret. It uses 81mm explosive mortar shells for ammo.</Mortar_Crate.description>
+  <Mortar_Crate.description>Use this to build an mortar launcher, a type of stationary manned turret. It uses 81mm explosive mortar shells for ammo。</Mortar_Crate.description>
   <Mortar_Crate.stuffProps.stuffAdjective>81mm Mortar Launcher Crate</Mortar_Crate.stuffProps.stuffAdjective>
 
   <FlakTurret_Crate.label>90mm Flak turret crate</FlakTurret_Crate.label>
-  <FlakTurret_Crate.description>Use this to build a 90mm flak turret a type of stationary manned turret. It uses 90mm cannon shells for ammo.</FlakTurret_Crate.description>
+  <FlakTurret_Crate.description>Use this to build a 90mm flak turret a type of stationary manned turret. It uses 90mm cannon shells for ammo。</FlakTurret_Crate.description>
   <FlakTurret_Crate.stuffProps.stuffAdjective>90mm Flak turret crate</FlakTurret_Crate.stuffProps.stuffAdjective>
 
   <CannonTurret_Crate.label>120mm Tank cannon crate</CannonTurret_Crate.label>
-  <CannonTurret_Crate.description>Use this to build a 120mm tank cannon, a type of stationary manned turret. It uses 120mm cannon shells for ammo.</CannonTurret_Crate.description>
+  <CannonTurret_Crate.description>Use this to build a 120mm tank cannon, a type of stationary manned turret. It uses 120mm cannon shells for ammo。</CannonTurret_Crate.description>
   <CannonTurret_Crate.stuffProps.stuffAdjective>120mm Tank cannon crate</CannonTurret_Crate.stuffProps.stuffAdjective>
 
   <HowitzerTurret_Crate.label>155mm Howitzer Cannon Crate</HowitzerTurret_Crate.label>
-  <HowitzerTurret_Crate.description>Use this to build a 155m howitzer cannon, a type of stationary manned turret. It uses 155mm howitzer shells for ammo.</HowitzerTurret_Crate.description>
+  <HowitzerTurret_Crate.description>Use this to build a 155m howitzer cannon, a type of stationary manned turret. It uses 155mm howitzer shells for ammo。</HowitzerTurret_Crate.description>
   <HowitzerTurret_Crate.stuffProps.stuffAdjective>155mm Howitzer Cannon Crate</HowitzerTurret_Crate.stuffProps.stuffAdjective>
 
   <TOW_Crate.label>AT missile BGM-71 TOW crate</TOW_Crate.label>
-  <TOW_Crate.description>Use this to build a light missile system BGM-71 TOW, a type of stationary manned turret. It uses AT missiles for ammo.</TOW_Crate.description>
+  <TOW_Crate.description>Use this to build a light missile system BGM-71 TOW, a type of stationary manned turret. It uses AT missiles for ammo。</TOW_Crate.description>
   <TOW_Crate.stuffProps.stuffAdjective>AT missile BGM-71 TOW crate</TOW_Crate.stuffProps.stuffAdjective>
 
   <LightMissileSystem_Crate.label>AT missile FGM-148 Javelin Crate</LightMissileSystem_Crate.label>
-  <LightMissileSystem_Crate.description>Use this to build a light missile system FGM-148 Javelin, a type of stationary manned turret. It uses AT missile for ammo.</LightMissileSystem_Crate.description>
+  <LightMissileSystem_Crate.description>Use this to build a light missile system FGM-148 Javelin, a type of stationary manned turret. It uses AT missile for ammo。</LightMissileSystem_Crate.description>
   <LightMissileSystem_Crate.stuffProps.stuffAdjective>AT missile FGM-148 Javelin Crate</LightMissileSystem_Crate.stuffProps.stuffAdjective>
 
   <MediumMissileSystem_Crate.label>130mm Medium Missile System crate</MediumMissileSystem_Crate.label>
-  <MediumMissileSystem_Crate.description>Use this to build a medium missile system, a type of stationary manned turret. It uses 130mmx2 Missiles for ammo.</MediumMissileSystem_Crate.description>
+  <MediumMissileSystem_Crate.description>Use this to build a medium missile system, a type of stationary manned turret. It uses 130mmx2 Missiles for ammo。</MediumMissileSystem_Crate.description>
   <MediumMissileSystem_Crate.stuffProps.stuffAdjective>130mm Medium Missile System crate</MediumMissileSystem_Crate.stuffProps.stuffAdjective>
 
   <RocketLauncher_Crate.label>130mm Heavy Missile System crate</RocketLauncher_Crate.label>
-  <RocketLauncher_Crate.description>Use this to build a heavy missile system, a type of stationary manned turret. It uses 130mmx3 missiles for ammo.</RocketLauncher_Crate.description>
+  <RocketLauncher_Crate.description>Use this to build a heavy missile system, a type of stationary manned turret. It uses 130mmx3 missiles for ammo。</RocketLauncher_Crate.description>
   <RocketLauncher_Crate.stuffProps.stuffAdjective>130mm Heavy Missile System crate</RocketLauncher_Crate.stuffProps.stuffAdjective>
 
   <SentryTurret_Crate.label>.40 Rimfire Sentry light crate</SentryTurret_Crate.label>
-  <SentryTurret_Crate.description>Use this to build a sentry light turret, a type of stationary automatic turret. It requires power to function.</SentryTurret_Crate.description>
+  <SentryTurret_Crate.description>Use this to build a sentry light turret, a type of stationary automatic turret. It requires power to function。</SentryTurret_Crate.description>
   <SentryTurret_Crate.stuffProps.stuffAdjective>.40 Rimfire Sentry light crate</SentryTurret_Crate.stuffProps.stuffAdjective>
 
   <HeavyTurret_Crate.label>14.5x114mm Sentry heavy crate</HeavyTurret_Crate.label>
-  <HeavyTurret_Crate.description>Use this to build a sentry heavy turret, a type of unmanned automatic turret. Requires power to function.</HeavyTurret_Crate.description>
+  <HeavyTurret_Crate.description>Use this to build a sentry heavy turret, a type of unmanned automatic turret. Requires power to function。</HeavyTurret_Crate.description>
   <HeavyTurret_Crate.stuffProps.stuffAdjective>14.5x114mm Sentry heavy crate</HeavyTurret_Crate.stuffProps.stuffAdjective>
 
   <NavalGunTurret_Crate.label>35mm Sentry naval crate</NavalGunTurret_Crate.label>
-  <NavalGunTurret_Crate.description>Use this to build 35mm sentry naval turret, a type of stationary unmanned turret. Requires power to function.</NavalGunTurret_Crate.description>
+  <NavalGunTurret_Crate.description>Use this to build 35mm sentry naval turret, a type of stationary unmanned turret. Requires power to function。</NavalGunTurret_Crate.description>
   <NavalGunTurret_Crate.stuffProps.stuffAdjective>35mm Sentry naval crate</NavalGunTurret_Crate.stuffProps.stuffAdjective>
 
   <SentryRocketLauncher_Crate.label>AT missile Sentry rocket launcher crate</SentryRocketLauncher_Crate.label>
-  <SentryRocketLauncher_Crate.description>Use this to build a sentry rocket launcher, a type of stationary unmanned turret. Requires power to function.</SentryRocketLauncher_Crate.description>
+  <SentryRocketLauncher_Crate.description>Use this to build a sentry rocket launcher, a type of stationary unmanned turret. Requires power to function。</SentryRocketLauncher_Crate.description>
   <SentryRocketLauncher_Crate.stuffProps.stuffAdjective>AT missile Sentry rocket launcher crate</SentryRocketLauncher_Crate.stuffProps.stuffAdjective>
 
   <SentryBlasterTurret_Crate.label>Sentry blaster crate</SentryBlasterTurret_Crate.label>
-  <SentryBlasterTurret_Crate.description>Use this to build a sentry blaster turret, a type of automatic turrets. Requires power to function.</SentryBlasterTurret_Crate.description>
+  <SentryBlasterTurret_Crate.description>Use this to build a sentry blaster turret, a type of automatic turrets. Requires power to function。</SentryBlasterTurret_Crate.description>
   <SentryBlasterTurret_Crate.stuffProps.stuffAdjective>Sentry blaster crate</SentryBlasterTurret_Crate.stuffProps.stuffAdjective>
 
   <LaserTurret_Crate.label>Laser Turret Crate</LaserTurret_Crate.label>
-  <LaserTurret_Crate.description>Use this to build a laser turret, a type of unmanned automatic turret. It requires power to function.</LaserTurret_Crate.description>
+  <LaserTurret_Crate.description>Use this to build a laser turret, a type of unmanned automatic turret. It requires power to function。</LaserTurret_Crate.description>
   <LaserTurret_Crate.stuffProps.stuffAdjective>Laser Turret Crate</LaserTurret_Crate.stuffProps.stuffAdjective>
 
 

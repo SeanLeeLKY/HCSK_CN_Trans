@@ -4,35 +4,35 @@
   <!-- Artificial body parts - simple -->
 
   <InstallArtificialBone_Small.label>Install Artificial Bone</InstallArtificialBone_Small.label>
-  <InstallArtificialBone_Small.description>Repairs a damaged bone with an Artificial Bone.</InstallArtificialBone_Small.description>
-  <InstallArtificialBone_Small.jobString>Installing Artificial Bone.</InstallArtificialBone_Small.jobString>
+  <InstallArtificialBone_Small.description>Repairs a damaged bone with an Artificial Bone。</InstallArtificialBone_Small.description>
+  <InstallArtificialBone_Small.jobString>Installing Artificial Bone。</InstallArtificialBone_Small.jobString>
 
   <InstallArtificialBone_Medium.label>Install Artificial Bones</InstallArtificialBone_Medium.label>
-  <InstallArtificialBone_Medium.description>Repairs a damaged bone with two Artificial Bones.</InstallArtificialBone_Medium.description>
-  <InstallArtificialBone_Medium.jobString>Installing Artificial Bones.</InstallArtificialBone_Medium.jobString>
+  <InstallArtificialBone_Medium.description>Repairs a damaged bone with two Artificial Bones。</InstallArtificialBone_Medium.description>
+  <InstallArtificialBone_Medium.jobString>Installing Artificial Bones。</InstallArtificialBone_Medium.jobString>
 
   <InstallArtificialBonePiece_Large.label>Install Artificial Bones</InstallArtificialBonePiece_Large.label>
-  <InstallArtificialBonePiece_Large.description>Repairs a damaged bone with three Artificial Bones.</InstallArtificialBonePiece_Large.description>
-  <InstallArtificialBonePiece_Large.jobString>Installing Artificial Bones.</InstallArtificialBonePiece_Large.jobString>
+  <InstallArtificialBonePiece_Large.description>Repairs a damaged bone with three Artificial Bones。</InstallArtificialBonePiece_Large.description>
+  <InstallArtificialBonePiece_Large.jobString>Installing Artificial Bones。</InstallArtificialBonePiece_Large.jobString>
 
 
   <!-- Heal scar -->
 
   <HealScars.label>Heal Scar</HealScars.label>
-  <HealScars.description>Heals scars by using Synthetic Skin.</HealScars.description>
-  <HealScars.jobString>Healing Scars.</HealScars.jobString>
+  <HealScars.description>Heals scars by using Synthetic Skin。</HealScars.description>
+  <HealScars.jobString>Healing Scars。</HealScars.jobString>
 
   <Installsenex.label>Install senexium</Installsenex.label>
-  <Installsenex.description>Installs senexium device.</Installsenex.description>
-  <Installsenex.jobString>Installing senexium device.</Installsenex.jobString>
+  <Installsenex.description>Installs senexium device。</Installsenex.description>
+  <Installsenex.jobString>Installing senexium device。</Installsenex.jobString>
 
   <CreateBrainStimulator.label>制造 Brain Stimulator</CreateBrainStimulator.label>
-  <CreateBrainStimulator.description>Crafts a simple brain stimulator. \n\n产出：1.</CreateBrainStimulator.description>
-  <CreateBrainStimulator.jobString>Creating brain stimulator.</CreateBrainStimulator.jobString>
+  <CreateBrainStimulator.description>Crafts a simple brain stimulator. \n\n产出：1。</CreateBrainStimulator.description>
+  <CreateBrainStimulator.jobString>Creating brain stimulator。</CreateBrainStimulator.jobString>
 
   <InstallBrainStimulator.label>Install Brain Stimulator</InstallBrainStimulator.label>
-  <InstallBrainStimulator.description>Installs a Brain Stimulator.</InstallBrainStimulator.description>
-  <InstallBrainStimulator.jobString>Installing Brain Stimulator.</InstallBrainStimulator.jobString>
+  <InstallBrainStimulator.description>Installs a Brain Stimulator。</InstallBrainStimulator.description>
+  <InstallBrainStimulator.jobString>Installing Brain Stimulator。</InstallBrainStimulator.jobString>
 
 
 </LanguageData>

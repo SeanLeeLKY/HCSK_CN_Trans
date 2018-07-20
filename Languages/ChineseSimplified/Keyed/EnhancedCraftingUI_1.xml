@@ -4,10 +4,10 @@
   <Anybody>任何人</Anybody>
   <MinStock>最低数量</MinStock>
   <MinStockLabel>少于X时重新开启工作。</MinStockLabel>
-  <BillGainsName>清单名称为 {0}.</BillGainsName>
+  <BillGainsName>清单名称为 {0}。</BillGainsName>
   <ShiftLabel>Shift-Click : Increase or decrease by 5x\nCtrl-Click : Increase or decrease by 10x\nAlt-Click : Increase or decrease min stock count</ShiftLabel>
 
-  <!--   <BillGainsName>The name of the bill is {0}.</BillGainsName>
+  <!--   <BillGainsName>The name of the bill is {0}。</BillGainsName>
   <ShiftLabel>Shift-Click : Increase or decrease by 5x\nCtrl-Click : Increase or decrease by 10x\nAlt-Click : Increase or decrease min stock count</ShiftLabel>
  -->
   <!--<AlcoholV.Anybody>任何人</AlcoholV.Anybody>-->

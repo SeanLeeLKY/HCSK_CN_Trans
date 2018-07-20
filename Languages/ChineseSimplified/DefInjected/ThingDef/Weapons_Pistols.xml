@@ -4,7 +4,7 @@
   <!-- SIG P226 -->
 
   <Gun_P226Gun.label>SIG Sauer P226</Gun_P226Gun.label>
-  <Gun_P226Gun.description>The SIG Sauer P226 is a full-sized, service-type pistol made by SIG Sauer. The SIG Sauer P226 and its variants are in service with numerous law enforcement and military organizations worldwide. Low damage, high rate of fire and good accuracy.</Gun_P226Gun.description>
+  <Gun_P226Gun.description>The SIG Sauer P226 is a full-sized, service-type pistol made by SIG Sauer. The SIG Sauer P226 and its variants are in service with numerous law enforcement and military organizations worldwide. Low damage, high rate of fire and good accuracy。</Gun_P226Gun.description>
   <Gun_P226Gun.tools.0.label>grip</Gun_P226Gun.tools.0.label>
   <Gun_P226Gun.tools.1.label>barrel</Gun_P226Gun.tools.1.label>
   <Gun_P226Gun.tools.2.label>muzzle</Gun_P226Gun.tools.2.label>
@@ -13,7 +13,7 @@
   <!-- M95 DERRINGER -->
 
   <RF_Gun_Deringer.label>Remington M95 Derringer</RF_Gun_Deringer.label>
-  <RF_Gun_Deringer.description>A small decorated revolver. Accurate at short range only, moderately damaging with a short aim- and cooldown period.</RF_Gun_Deringer.description>
+  <RF_Gun_Deringer.description>A small decorated revolver. Accurate at short range only, moderately damaging with a short aim- and cooldown period。</RF_Gun_Deringer.description>
   <RF_Gun_Deringer.tools.0.label>grip</RF_Gun_Deringer.tools.0.label>
   <RF_Gun_Deringer.tools.1.label>barrel</RF_Gun_Deringer.tools.1.label>
   <RF_Gun_Deringer.tools.2.label>muzzle</RF_Gun_Deringer.tools.2.label>
@@ -22,7 +22,7 @@
   <!-- SPHINX AT 2000 -->
 
   <RF_Gun_AT2K.label>Sphinx AT 2000</RF_Gun_AT2K.label>
-  <RF_Gun_AT2K.description>A high quality and highly durable handgun, used by elite forces and sports shooters. Great accuracy, moderate damage and a tad slow.</RF_Gun_AT2K.description>
+  <RF_Gun_AT2K.description>A high quality and highly durable handgun, used by elite forces and sports shooters. Great accuracy, moderate damage and a tad slow。</RF_Gun_AT2K.description>
   <RF_Gun_AT2K.tools.0.label>grip</RF_Gun_AT2K.tools.0.label>
   <RF_Gun_AT2K.tools.1.label>barrel</RF_Gun_AT2K.tools.1.label>
   <RF_Gun_AT2K.tools.2.label>muzzle</RF_Gun_AT2K.tools.2.label>
@@ -31,7 +31,7 @@
   <!-- BERETTA 93R -->
 
   <RF_Gun_93R.label>Beretta 93R</RF_Gun_93R.label>
-  <RF_Gun_93R.description>A nice-looking machinepistol with a very fast burstfire mode, low stopping power and hits up to pistol range.</RF_Gun_93R.description>
+  <RF_Gun_93R.description>A nice-looking machinepistol with a very fast burstfire mode, low stopping power and hits up to pistol range。</RF_Gun_93R.description>
   <RF_Gun_93R.tools.0.label>grip</RF_Gun_93R.tools.0.label>
   <RF_Gun_93R.tools.1.label>barrel</RF_Gun_93R.tools.1.label>
   <RF_Gun_93R.tools.2.label>muzzle</RF_Gun_93R.tools.2.label>
@@ -40,7 +40,7 @@
   <!-- VEKTOR CP1 -->
 
   <RF_Gun_VektorCP.label>Vektor CP1</RF_Gun_VektorCP.label>
-  <RF_Gun_VektorCP.description>An ergonomical handgun with a drastically non-rectangular design. Good accuracy and low recoil, but weak and with a slightly lower range.</RF_Gun_VektorCP.description>
+  <RF_Gun_VektorCP.description>An ergonomical handgun with a drastically non-rectangular design. Good accuracy and low recoil, but weak and with a slightly lower range。</RF_Gun_VektorCP.description>
   <RF_Gun_VektorCP.tools.0.label>grip</RF_Gun_VektorCP.tools.0.label>
   <RF_Gun_VektorCP.tools.1.label>barrel</RF_Gun_VektorCP.tools.1.label>
   <RF_Gun_VektorCP.tools.2.label>muzzle</RF_Gun_VektorCP.tools.2.label>
@@ -49,7 +49,7 @@
   <!-- P14-45 -->
 
   <Gun_Autopistol.label>Para Ordnance P14-45</Gun_Autopistol.label>
-  <Gun_Autopistol.description>A counterfeit ancient 45 ACP handgun with slightly improved internal mechanisms and plastic frame. High accuracy and above average range, average fire rate and damage.</Gun_Autopistol.description>
+  <Gun_Autopistol.description>A counterfeit ancient 45 ACP handgun with slightly improved internal mechanisms and plastic frame. High accuracy and above average range, average fire rate and damage。</Gun_Autopistol.description>
   <Gun_Autopistol.tools.0.label>grip</Gun_Autopistol.tools.0.label>
   <Gun_Autopistol.tools.1.label>barrel</Gun_Autopistol.tools.1.label>
   <Gun_Autopistol.tools.2.label>muzzle</Gun_Autopistol.tools.2.label>
@@ -58,7 +58,7 @@
   <!-- DESERT EAGLE -->
 
   <Gun_DesertEagle.label>Desert Eagle .50 AE</Gun_DesertEagle.label>
-  <Gun_DesertEagle.description>The legendary desert eagle .50 AE. Marines favorite toy.</Gun_DesertEagle.description>
+  <Gun_DesertEagle.description>The legendary desert eagle .50 AE. Marines favorite toy。</Gun_DesertEagle.description>
   <Gun_DesertEagle.tools.0.label>grip</Gun_DesertEagle.tools.0.label>
   <Gun_DesertEagle.tools.1.label>barrel</Gun_DesertEagle.tools.1.label>
   <Gun_DesertEagle.tools.2.label>muzzle</Gun_DesertEagle.tools.2.label>
@@ -67,7 +67,7 @@
   <!-- 44 MAGNUM -->
 
   <Gun_Magnum.label>.44 Remington Magnum</Gun_Magnum.label>
-  <Gun_Magnum.description>The .44 Magnum is based on a lengthened .44 Special case, loaded to higher pressures for greater velocity (and thus, energy).</Gun_Magnum.description>
+  <Gun_Magnum.description>The .44 Magnum is based on a lengthened .44 Special case, loaded to higher pressures for greater velocity (and thus, energy)。</Gun_Magnum.description>
   <Gun_Magnum.tools.0.label>grip</Gun_Magnum.tools.0.label>
   <Gun_Magnum.tools.1.label>barrel</Gun_Magnum.tools.1.label>
   <Gun_Magnum.tools.2.label>muzzle</Gun_Magnum.tools.2.label>

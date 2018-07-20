@@ -4,40 +4,40 @@
   <!-- REALISTIC PRODUCTION SK MOD -->
 
   <Kibble.label>Kibble</Kibble.label>
-  <Kibble.description>Kibble animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.</Kibble.description>
+  <Kibble.description>Kibble animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it。</Kibble.description>
 
   <Pemmican.label>Pemmican</Pemmican.label>
-  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</Pemmican.description>
+  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration。</Pemmican.description>
 
   <MealSurvivalPack.label>Packaged Survival Meal</MealSurvivalPack.label>
-  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations.</MealSurvivalPack.description>
+  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations。</MealSurvivalPack.description>
 
   <MealSimple.label>Simple Meal</MealSimple.label>
-  <MealSimple.description>A simple meal quickly cooked from a few ingredients.</MealSimple.description>
+  <MealSimple.description>A simple meal quickly cooked from a few ingredients。</MealSimple.description>
 
   <MealFine.label>Fine Meal</MealFine.label>
-  <MealFine.description>A complex dish assembled with care from a wide selection of ingredients.</MealFine.description>
+  <MealFine.description>A complex dish assembled with care from a wide selection of ingredients。</MealFine.description>
 
   <MealLavish.label>Lavish Meal</MealLavish.label>
-  <MealLavish.description>An elborate concoction of food skillfully prepared into a succulent meal.</MealLavish.description>
+  <MealLavish.description>An elborate concoction of food skillfully prepared into a succulent meal。</MealLavish.description>
 
   <MealLuxury.label>豪华大餐</MealLuxury.label>
-  <MealLuxury.description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.</MealLuxury.description>
+  <MealLuxury.description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul。</MealLuxury.description>
 
   <MealSalad.label>水果沙拉</MealSalad.label>
-  <MealSalad.description>A fruit salad made from gathered fruit.</MealSalad.description>
+  <MealSalad.description>A fruit salad made from gathered fruit。</MealSalad.description>
 
   <MealJerky.label>肉干</MealJerky.label>
-  <MealJerky.description>Jerky made from raw meat.Max 5 eaten at a time.</MealJerky.description>
+  <MealJerky.description>Jerky made from raw meat.Max 5 eaten at a time。</MealJerky.description>
 
   <RoastedMeat.label>烤肉</RoastedMeat.label>
-  <RoastedMeat.description>Freshly roasted meat.</RoastedMeat.description>
+  <RoastedMeat.description>Freshly roasted meat。</RoastedMeat.description>
 
   <FriedVegetables.label>炒蔬菜</FriedVegetables.label>
-  <FriedVegetables.description>A simple fried assortment of vegetables. Not too nutritious or tasty.</FriedVegetables.description>
+  <FriedVegetables.description>A simple fried assortment of vegetables. Not too nutritious or tasty。</FriedVegetables.description>
 
   <BakedPotato.label>烤土豆</BakedPotato.label>
-  <BakedPotato.description>Baked Potato.</BakedPotato.description>
+  <BakedPotato.description>Baked Potato。</BakedPotato.description>
 
 
   <!--[Core] <Kibble.label>粗饲料</Kibble.label>-->
@@ -53,16 +53,16 @@
   <!--[Core] <MealLavish.label>奢侈的食物</MealLavish.label>-->
   <!--[Core] <MealLavish.description>厨艺界的大师级作品，这份食物同时滋养了身体、思想和灵魂。</MealLavish.description>-->
   <!--<Kibble.label>Kibble</Kibble.label>-->
-  <!--<Kibble.description>Kibble animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.</Kibble.description>-->
+  <!--<Kibble.description>Kibble animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it。</Kibble.description>-->
   <!--<Pemmican.label>Pemmican</Pemmican.label>-->
-  <!--<Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</Pemmican.description>-->
+  <!--<Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration。</Pemmican.description>-->
   <!--<MealSurvivalPack.label>Packaged Survival Meal</MealSurvivalPack.label>-->
-  <!--<MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations.</MealSurvivalPack.description>-->
+  <!--<MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations。</MealSurvivalPack.description>-->
   <!--<MealSimple.label>Simple Meal</MealSimple.label>-->
-  <!--<MealSimple.description>A simple meal quickly cooked from a few ingredients.</MealSimple.description>-->
+  <!--<MealSimple.description>A simple meal quickly cooked from a few ingredients。</MealSimple.description>-->
   <!--<MealFine.label>Fine Meal</MealFine.label>-->
-  <!--<MealFine.description>A complex dish assembled with care from a wide selection of ingredients.</MealFine.description>-->
+  <!--<MealFine.description>A complex dish assembled with care from a wide selection of ingredients。</MealFine.description>-->
   <!--<MealLavish.label>Lavish Meal</MealLavish.label>-->
-  <!--<MealLavish.description>An elborate concoction of food skillfully prepared into a succulent meal.</MealLavish.description>-->
+  <!--<MealLavish.description>An elborate concoction of food skillfully prepared into a succulent meal。</MealLavish.description>-->
 
 </LanguageData>

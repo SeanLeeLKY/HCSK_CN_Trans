@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- Universal Fermenter -->
-  <UF_ContainsIngredient>Contains {0} / {1} {2}.</UF_ContainsIngredient>
-  <UF_ContainsProduct>Contains {0} / {1} {2}.</UF_ContainsProduct>
+  <UF_ContainsIngredient>Contains {0} / {1} {2}。</UF_ContainsIngredient>
+  <UF_ContainsProduct>Contains {0} / {1} {2}。</UF_ContainsProduct>
   <UF_NoIngredient>need ingredients</UF_NoIngredient>
   <UF_Progress>Progress: {0} ({1})</UF_Progress>
-  <UF_NonIdealInfluences>Non-ideal {0}.</UF_NonIdealInfluences>
+  <UF_NonIdealInfluences>Non-ideal {0}。</UF_NonIdealInfluences>
   <UF_NonIdealSpeedFactor>Speed: {0}</UF_NonIdealSpeedFactor>
   <UF_IdealSafeProductionTemperature>Ideal (safe) production temp</UF_IdealSafeProductionTemperature>
   <UF_Finished>Finished</UF_Finished>

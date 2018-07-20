@@ -24,7 +24,7 @@
   <TentPlacementBlockedTree>帐篷部署进程被某些树木中断。请将帐篷部署在空旷的开阔地！</TentPlacementBlockedTree>
   <TentPlacementBlockedSimple>帐篷部署进程被中断。请将帐篷部署在空旷的开阔地！</TentPlacementBlockedSimple>
   <CantPlaceTent>不能部署一个完全损坏的帐篷。</CantPlaceTent>
-  <DeployTentAt>部署帐篷于...</DeployTentAt>
+  <DeployTentAt>部署帐篷于..。</DeployTentAt>
 
   <DeconstructConduitsLabel>拆除电线</DeconstructConduitsLabel>
 
@@ -41,31 +41,31 @@
   <RL_FastCooldown>快速冷却模式(点击改变模式): 消耗3倍于普通模式的电量来达到4倍的冷却速度。100% 的几率吸引到闪电。能吸引闪电于</RL_FastCooldown>
   <RL_Cooldown>冷却</RL_Cooldown>
   <RL_Standby>待命。</RL_Standby>
-  <RL_Discharging>放电.</RL_Discharging>
-  <RL_Overwhelmed>覆盖.</RL_Overwhelmed>
+  <RL_Discharging>放电。</RL_Discharging>
+  <RL_Overwhelmed>覆盖。</RL_Overwhelmed>
   <RL_PowerConsumption>能源消耗</RL_PowerConsumption>
 
   <OneTradingSpotMessage>地图上只能设置一个交易点。自动移除旧交易点。</OneTradingSpotMessage>
 
   <HungryFlockTitle>发疯的小动物！</HungryFlockTitle>
-  <HungryFlockText>A pack of the hungry critters appeared nearby and they're out for blood! You can try hunting them, or hide, as you prefer. They'll leave the area in a few days.</HungryFlockText>
+  <HungryFlockText>A pack of the hungry critters appeared nearby and they're out for blood! You can try hunting them, or hide, as you prefer. They'll leave the area in a few days。</HungryFlockText>
 
   <DevourersCropsTitle>作物吞噬者</DevourersCropsTitle>
-  <DevourersCropsText>Some particularly hungry devourers of crops have made their way into your garden! They'll likely hang around and keep eating your crops (and other plants) until you deal with them.</DevourersCropsText>
+  <DevourersCropsText>Some particularly hungry devourers of crops have made their way into your garden! They'll likely hang around and keep eating your crops (and other plants) until you deal with them。</DevourersCropsText>
 
-  <MoonFallMessageMeteorSwarm>A swarm of meteors -- possibly smaller pieces of your ship -- crosses the sky, burning up in the atmosphere.</MoonFallMessageMeteorSwarm>
-  <MoonFallMessageMeteorSwarmTribal>A swarm of meteors flame across the sky, but none crash to the ground near you.</MoonFallMessageMeteorSwarmTribal>
+  <MoonFallMessageMeteorSwarm>A swarm of meteors -- possibly smaller pieces of your ship -- crosses the sky, burning up in the atmosphere。</MoonFallMessageMeteorSwarm>
+  <MoonFallMessageMeteorSwarmTribal>A swarm of meteors flame across the sky, but none crash to the ground near you。</MoonFallMessageMeteorSwarmTribal>
 
   <SkyFallLetterLabelMeteorite>巨型飞船残骸</SkyFallLetterLabelMeteorite>
-  <SkyFallMeteorite>A lump of {0} just crashed to the ground. It was presumably once part of your ship, but the forces that ripped the ship apart, followed by the heat of uncontrolled reentry, have left nothing but a misshapen mass.</SkyFallMeteorite>
+  <SkyFallMeteorite>A lump of {0} just crashed to the ground. It was presumably once part of your ship, but the forces that ripped the ship apart, followed by the heat of uncontrolled reentry, have left nothing but a misshapen mass。</SkyFallMeteorite>
 
   <MoonFallLetterLabelMeteoriteTribal>陨石</MoonFallLetterLabelMeteoriteTribal>
-  <MoonFallMeteoriteTribal>A large meteorite has struck ground in the area. It has left behind a lump of {0}.</MoonFallMeteoriteTribal>
+  <MoonFallMeteoriteTribal>A large meteorite has struck ground in the area. It has left behind a lump of {0}。</MoonFallMeteoriteTribal>
 
   <MoonFallLetterLabelFlashstorm>闪电风暴</MoonFallLetterLabelFlashstorm>
-  <MoonFallFlashstorm>Ionization in the atmosphere from the recent cascade of ship chunks and meteorites has caused a localized flashstorm. This can cause massive fires.</MoonFallFlashstorm>
-  <MoonFallFlashstormTribal>The gods are angry again, but instead of hurling rocks, they now hurl lightning. A flashstorm has begun. Beware of fires.</MoonFallFlashstormTribal>
+  <MoonFallFlashstorm>Ionization in the atmosphere from the recent cascade of ship chunks and meteorites has caused a localized flashstorm. This can cause massive fires。</MoonFallFlashstorm>
+  <MoonFallFlashstormTribal>The gods are angry again, but instead of hurling rocks, they now hurl lightning. A flashstorm has begun. Beware of fires。</MoonFallFlashstormTribal>
 
-  <SkyFallRefugeePodCrash>You've detected an escape pod crashing hard nearby.\n\nThe occupant is an old acquaintance from your ship, who's agreed to join you.</SkyFallRefugeePodCrash>
+  <SkyFallRefugeePodCrash>You've detected an escape pod crashing hard nearby.\n\nThe occupant is an old acquaintance from your ship, who's agreed to join you。</SkyFallRefugeePodCrash>
 
 </LanguageData>

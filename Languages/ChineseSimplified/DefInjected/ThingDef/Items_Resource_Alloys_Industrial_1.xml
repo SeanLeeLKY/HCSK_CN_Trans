@@ -2,47 +2,47 @@
 <LanguageData>
 
   <Manganese.label>锰合金</Manganese.label>
-  <Manganese.description>Manganese is a product of the black mineral called Pyrolusite. Manganese Alloy is a highly magnetic metal.</Manganese.description>
+  <Manganese.description>Manganese is a product of the black mineral called Pyrolusite. Manganese Alloy is a highly magnetic metal。</Manganese.description>
 
   <Chromium.label>铬合金</Chromium.label>
-  <Chromium.description>Chromium is a steely-gray, lustrous, hard but brittle metal. It is a remarkably magnetic metal, but needs to be combined with other metals to be of use. It can be combined with Nickel and Manganese to make Nichrome Alloy at the Electric Arc Furnace.</Chromium.description>
+  <Chromium.description>Chromium is a steely-gray, lustrous, hard but brittle metal. It is a remarkably magnetic metal, but needs to be combined with other metals to be of use. It can be combined with Nickel and Manganese to make Nichrome Alloy at the Electric Arc Furnace。</Chromium.description>
 
   <NickelBar.label>镍合金</NickelBar.label>
-  <NickelBar.description>Nickel belongs to the transition metals and is hard and ductile. Nickel is a silvery-white metal with a slight golden tinge that takes a high polish. Nickel is ferromagnetic (it can become magnetized when paired with a magnetic metal).</NickelBar.description>
+  <NickelBar.description>Nickel belongs to the transition metals and is hard and ductile. Nickel is a silvery-white metal with a slight golden tinge that takes a high polish. Nickel is ferromagnetic (it can become magnetized when paired with a magnetic metal)。</NickelBar.description>
 
   <Cobalt.label>钴合金</Cobalt.label>
-  <Cobalt.description>Cobalt-based blue pigments have been used since ancient times for jewelry and paints, and to impart a distinctive blue tint to glass. The color was later thought by alchemists to have been caused by the metal known as bismuth. Cobalt is a magnetic metal.</Cobalt.description>
+  <Cobalt.description>Cobalt-based blue pigments have been used since ancient times for jewelry and paints, and to impart a distinctive blue tint to glass. The color was later thought by alchemists to have been caused by the metal known as bismuth. Cobalt is a magnetic metal。</Cobalt.description>
 
   <AluminiumBar.label>铝合金</AluminiumBar.label>
-  <AluminiumBar.description>Aluminium is an alloy of Bauxite Ore. A similar and less valuable metal than Copper, it is mainly used for its high conductivity in electrical applications. Aluminum Alloy processing requires electrical currents to function, so it cannot be done by hand at an unpowered smelter. Aluminum is paramagnetic (it becomes attracted to magnetic metals to strengthen the magnetic bond)..</AluminiumBar.description>
+  <AluminiumBar.description>Aluminium is an alloy of Bauxite Ore. A similar and less valuable metal than Copper, it is mainly used for its high conductivity in electrical applications. Aluminum Alloy processing requires electrical currents to function, so it cannot be done by hand at an unpowered smelter. Aluminum is paramagnetic (it becomes attracted to magnetic metals to strengthen the magnetic bond).。</AluminiumBar.description>
   <AluminiumBar.stuffProps.stuffAdjective>铝</AluminiumBar.stuffProps.stuffAdjective>
 
   <SteelBar.label>钢</SteelBar.label>
-  <SteelBar.description>Steel Alloy is a group of iron-carbon alloys with a carbon content less than 2%. A tougher metal than cast-iron that comes with a higher production cost. Steel is ferromagnetic (it can become magnetized when paired with a magnetic metal).</SteelBar.description>
+  <SteelBar.description>Steel Alloy is a group of iron-carbon alloys with a carbon content less than 2%. A tougher metal than cast-iron that comes with a higher production cost. Steel is ferromagnetic (it can become magnetized when paired with a magnetic metal)。</SteelBar.description>
   <SteelBar.stuffProps.stuffAdjective>钢</SteelBar.stuffProps.stuffAdjective>
 
   <FerrosiliconAlloy.label>山达斯特合金（铁硅铝磁合金）</FerrosiliconAlloy.label>
-  <FerrosiliconAlloy.description>Sendust Alloy is produced by the reduction of Silicon in presence of Iron and Aluminum. Sendust is useful as a deoxidizing agent with other metals. It is more durable than standard Cast-Iron or Steel. Sendust is not a magnetic metal.</FerrosiliconAlloy.description>
+  <FerrosiliconAlloy.description>Sendust Alloy is produced by the reduction of Silicon in presence of Iron and Aluminum. Sendust is useful as a deoxidizing agent with other metals. It is more durable than standard Cast-Iron or Steel. Sendust is not a magnetic metal。</FerrosiliconAlloy.description>
   <FerrosiliconAlloy.stuffProps.stuffAdjective>山达斯特合金</FerrosiliconAlloy.stuffProps.stuffAdjective>
 
   <CupronickelAlloy.label>梅尔基奥合金（铜镍铝合金）</CupronickelAlloy.label>
-  <CupronickelAlloy.description>Melchior is an alloy of Copper, Nickel and Aluminum. This alloy combination has a higher resistance to corrosion and electricity than standard alloys of Copper or Aluminum. Melchior Alloy is a magnetic metal.</CupronickelAlloy.description>
+  <CupronickelAlloy.description>Melchior is an alloy of Copper, Nickel and Aluminum. This alloy combination has a higher resistance to corrosion and electricity than standard alloys of Copper or Aluminum. Melchior Alloy is a magnetic metal。</CupronickelAlloy.description>
   <CupronickelAlloy.stuffProps.stuffAdjective>梅尔基奥合金</CupronickelAlloy.stuffProps.stuffAdjective>
 
   <Plasteel.label>stein alloy</Plasteel.label>
-  <Plasteel.description>Stein is an alloy of Iron, Nickel and Manganese. This combination produces a metal alloy that is tougher than Sendust Alloy. Stein Alloy is a magnetic metal.</Plasteel.description>
+  <Plasteel.description>Stein is an alloy of Iron, Nickel and Manganese. This combination produces a metal alloy that is tougher than Sendust Alloy. Stein Alloy is a magnetic metal。</Plasteel.description>
   <Plasteel.stuffProps.stuffAdjective>Stein</Plasteel.stuffProps.stuffAdjective>
 
   <AlnicoAlloy.label>阿尔尼科合金（铝镍钴合金）</AlnicoAlloy.label>
-  <AlnicoAlloy.description>Alnico is an alloy of Steel, Nickel, Aluminum and Cobalt. It has a high coercively (resistance to loss of magnetism) and is useful to make permanent magnets or magnetic shielding.</AlnicoAlloy.description>
+  <AlnicoAlloy.description>Alnico is an alloy of Steel, Nickel, Aluminum and Cobalt. It has a high coercively (resistance to loss of magnetism) and is useful to make permanent magnets or magnetic shielding。</AlnicoAlloy.description>
   <AlnicoAlloy.stuffProps.stuffAdjective>阿尔尼科合金</AlnicoAlloy.stuffProps.stuffAdjective>
 
   <DepletedUranium.label>贫铀金属</DepletedUranium.label>
-  <DepletedUranium.description>Depleted Uranium Alloy is created by refining Uranium Ore through a Gas Centrifuge. The dangerous radiation has been removed, resulting in a unique high density and strong metal ideal for armor plating or armor-piercing projectiles.</DepletedUranium.description>
+  <DepletedUranium.description>Depleted Uranium Alloy is created by refining Uranium Ore through a Gas Centrifuge. The dangerous radiation has been removed, resulting in a unique high density and strong metal ideal for armor plating or armor-piercing projectiles。</DepletedUranium.description>
   <DepletedUranium.stuffProps.stuffAdjective>贫铀</DepletedUranium.stuffProps.stuffAdjective>
 
   <CarbonAlloy.label>碳纤维</CarbonAlloy.label>
-  <CarbonAlloy.description>Carbon Fiber Alloy is an extremely strong and light fiber-reinforced nanomaterial polymer, which contains carbon fibers. It is created at a Chemical Laboratory.</CarbonAlloy.description>
+  <CarbonAlloy.description>Carbon Fiber Alloy is an extremely strong and light fiber-reinforced nanomaterial polymer, which contains carbon fibers. It is created at a Chemical Laboratory。</CarbonAlloy.description>
   <CarbonAlloy.stuffProps.stuffAdjective>碳纤维</CarbonAlloy.stuffProps.stuffAdjective>
 
 
@@ -50,7 +50,7 @@
   <!--[Core] <Plasteel.description>先进的太空时代结构材料。因其独特的分子结构，玻璃钢拥有极高的强度。</Plasteel.description>-->
   <!--[Core] <Plasteel.stuffProps.stuffAdjective>玻璃钢</Plasteel.stuffProps.stuffAdjective>-->
   <!--<Plasteel.label>斯坦合金（铁锰镍合金）</Plasteel.label>-->
-  <!--<Plasteel.description>Stein is an alloy of Iron, Nickel and Manganese. This combination produces a metal alloy that is tougher than Sendust Alloy. Stein Alloy is a magnetic metal.</Plasteel.description>-->
+  <!--<Plasteel.description>Stein is an alloy of Iron, Nickel and Manganese. This combination produces a metal alloy that is tougher than Sendust Alloy. Stein Alloy is a magnetic metal。</Plasteel.description>-->
   <!--<Plasteel.stuffProps.stuffAdjective>斯坦合金</Plasteel.stuffProps.stuffAdjective>-->
 
 </LanguageData>

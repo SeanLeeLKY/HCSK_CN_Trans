@@ -4,42 +4,42 @@
   <!-- RPK-74 -->
 
   <RF_Gun_Galil.label>RPK-74</RF_Gun_Galil.label>
-  <RF_Gun_Galil.description>Ancient pattern military weapon. Good range, low power, high rate of fire.</RF_Gun_Galil.description>
+  <RF_Gun_Galil.description>Ancient pattern military weapon. Good range, low power, high rate of fire。</RF_Gun_Galil.description>
   <RF_Gun_Galil.tools.0.label>barrel</RF_Gun_Galil.tools.0.label>
 
 
   <!-- L-15 LMG -->
 
   <Gun_LMG.label>L-15 LMG</Gun_LMG.label>
-  <Gun_LMG.description>A light machine gun.</Gun_LMG.description>
+  <Gun_LMG.description>A light machine gun。</Gun_LMG.description>
   <Gun_LMG.tools.0.label>barrel</Gun_LMG.tools.0.label>
 
 
   <!-- MA39X ICWS -->
 
   <Gun_HeavyCombatRifle.label>MA39X 突击步枪</Gun_HeavyCombatRifle.label>
-  <Gun_HeavyCombatRifle.description>The MA39X Individual Combat Weapon System (MA39X ICWS or MA39X Assault rifle) is a close combat service rifle of the UNSC.</Gun_HeavyCombatRifle.description>
+  <Gun_HeavyCombatRifle.description>The MA39X Individual Combat Weapon System (MA39X ICWS or MA39X Assault rifle) is a close combat service rifle of the UNSC。</Gun_HeavyCombatRifle.description>
   <Gun_HeavyCombatRifle.tools.0.label>barrel</Gun_HeavyCombatRifle.tools.0.label>
 
 
   <!-- M249 LMG SAW MG -->
 
   <Gun_HHMG.label>M249 LMG SAW 重机枪</Gun_HHMG.label>
-  <Gun_HHMG.description>M249 LMG SAW MG, a heavy machinegun. It has a 120 round magazine and fires in 20 round bursts. Not very accurate but good at providing suppressing fire.</Gun_HHMG.description>
+  <Gun_HHMG.description>M249 LMG SAW MG, a heavy machinegun. It has a 120 round magazine and fires in 20 round bursts. Not very accurate but good at providing suppressing fire。</Gun_HHMG.description>
   <Gun_HHMG.tools.0.label>barrel</Gun_HHMG.tools.0.label>
 
 
   <!-- XM214 MICROGUN -->
 
   <Gun_Minigun.label>XM214 Microgun</Gun_Minigun.label>
-  <Gun_Minigun.description>A multi-barrel machine gun with an extremely high rate of fire. Mechanoid-built.</Gun_Minigun.description>
+  <Gun_Minigun.description>A multi-barrel machine gun with an extremely high rate of fire. Mechanoid-built。</Gun_Minigun.description>
   <Gun_Minigun.tools.0.label>barrel</Gun_Minigun.tools.0.label>
 
 
   <!-- M56 SMARTGUN -->
 
   <Gun_M56_USCM.label>M56 智能机枪</Gun_M56_USCM.label>
-  <Gun_M56_USCM.description>The M56 Smartgun is a man-portable heavy machine gun with automatic targeting capabilities chambered for heavy ammunition. It is notably employed by the United States Colonial Marine Corps. It hurts like hell.</Gun_M56_USCM.description>
+  <Gun_M56_USCM.description>The M56 Smartgun is a man-portable heavy machine gun with automatic targeting capabilities chambered for heavy ammunition. It is notably employed by the United States Colonial Marine Corps. It hurts like hell。</Gun_M56_USCM.description>
   <Gun_M56_USCM.tools.0.label>barrel</Gun_M56_USCM.tools.0.label>
 
 
@@ -50,10 +50,10 @@
   <!--[Core] <Gun_Minigun.description>一种多管机枪，极其高的射速。由机械族制作，设计时就没考虑到让人类手持射击。</Gun_Minigun.description>-->
   <!--[Core] <Gun_Minigun.tools.0.label>枪管</Gun_Minigun.tools.0.label>-->
   <!--<Gun_LMG.label>L-15 轻机枪</Gun_LMG.label>-->
-  <!--<Gun_LMG.description>A light machine gun.</Gun_LMG.description>-->
+  <!--<Gun_LMG.description>A light machine gun。</Gun_LMG.description>-->
   <!--<Gun_LMG.tools.0.label>barrel</Gun_LMG.tools.0.label>-->
   <!--<Gun_Minigun.label>XM214 速射机枪</Gun_Minigun.label>-->
-  <!--<Gun_Minigun.description>A multi-barrel machine gun with an extremely high rate of fire. Mechanoid-built.</Gun_Minigun.description>-->
+  <!--<Gun_Minigun.description>A multi-barrel machine gun with an extremely high rate of fire. Mechanoid-built。</Gun_Minigun.description>-->
   <!--<Gun_Minigun.tools.0.label>barrel</Gun_Minigun.tools.0.label>-->
 
 </LanguageData>

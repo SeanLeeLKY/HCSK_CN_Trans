@@ -2,20 +2,20 @@
 <LanguageData>
 
   <MakeTincture.label>制作蘑菇酊剂</MakeTincture.label>
-  <MakeTincture.description>Instill mushrooms into tincture. Useful for medicine. Requires basic understanding of cooking. \n\n产出：1.</MakeTincture.description>
-  <MakeTincture.jobString>Brewing mushroom tincture.</MakeTincture.jobString>
+  <MakeTincture.description>Instill mushrooms into tincture. Useful for medicine. Requires basic understanding of cooking. \n\n产出：1。</MakeTincture.description>
+  <MakeTincture.jobString>Brewing mushroom tincture。</MakeTincture.jobString>
 
   <MakeTincture_Bulk.label>制作蘑菇酊剂 x4</MakeTincture_Bulk.label>
-  <MakeTincture_Bulk.description>Instill a few bottles of tincture from mushrooms. Useful for medicine. Requires basic understanding of cooking. \n\n产出：4.</MakeTincture_Bulk.description>
-  <MakeTincture_Bulk.jobString>Brewing bottles of mushroom tincture.</MakeTincture_Bulk.jobString>
+  <MakeTincture_Bulk.description>Instill a few bottles of tincture from mushrooms. Useful for medicine. Requires basic understanding of cooking. \n\n产出：4。</MakeTincture_Bulk.description>
+  <MakeTincture_Bulk.jobString>Brewing bottles of mushroom tincture。</MakeTincture_Bulk.jobString>
 
   <MakeTinctureHealroot.label>制作草药酊剂</MakeTinctureHealroot.label>
-  <MakeTinctureHealroot.description>Instill healroot into a tincture. Useful for medicine. Requires basic understanding of cooking. \n\n产出：1.</MakeTinctureHealroot.description>
-  <MakeTinctureHealroot.jobString>Brewing mushroom tincture.</MakeTinctureHealroot.jobString>
+  <MakeTinctureHealroot.description>Instill healroot into a tincture. Useful for medicine. Requires basic understanding of cooking. \n\n产出：1。</MakeTinctureHealroot.description>
+  <MakeTinctureHealroot.jobString>Brewing mushroom tincture。</MakeTinctureHealroot.jobString>
 
   <BrewMedicalDrink.label>制作健康饮料</BrewMedicalDrink.label>
-  <BrewMedicalDrink.description>Brew a bottle of healthy medical drink from healroot and hops. Requires basic understanding of cooking. \n\n产出：1.</BrewMedicalDrink.description>
-  <BrewMedicalDrink.jobString>Brewing medical drink.</BrewMedicalDrink.jobString>
+  <BrewMedicalDrink.description>Brew a bottle of healthy medical drink from healroot and hops. Requires basic understanding of cooking. \n\n产出：1。</BrewMedicalDrink.description>
+  <BrewMedicalDrink.jobString>Brewing medical drink。</BrewMedicalDrink.jobString>
 
 
 </LanguageData>

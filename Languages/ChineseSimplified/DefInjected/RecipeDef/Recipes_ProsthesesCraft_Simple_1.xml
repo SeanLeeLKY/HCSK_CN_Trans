@@ -2,44 +2,44 @@
 <LanguageData>
 
   <CreateSimpleProstheticLeg.label>制造 Simple Prosthetic Leg</CreateSimpleProstheticLeg.label>
-  <CreateSimpleProstheticLeg.description>Crafts a simple prosthetic leg. \n\n产出：1.</CreateSimpleProstheticLeg.description>
-  <CreateSimpleProstheticLeg.jobString>Crafting prosthetic leg.</CreateSimpleProstheticLeg.jobString>
+  <CreateSimpleProstheticLeg.description>Crafts a simple prosthetic leg. \n\n产出：1。</CreateSimpleProstheticLeg.description>
+  <CreateSimpleProstheticLeg.jobString>Crafting prosthetic leg。</CreateSimpleProstheticLeg.jobString>
 
   <CreateSimpleProstheticArm.label>制造 Simple Prosthetic Arm</CreateSimpleProstheticArm.label>
-  <CreateSimpleProstheticArm.description>Crafts a simple prosthetic arm. \n\n产出：1.</CreateSimpleProstheticArm.description>
-  <CreateSimpleProstheticArm.jobString>Crafting prosthetic arm.</CreateSimpleProstheticArm.jobString>
+  <CreateSimpleProstheticArm.description>Crafts a simple prosthetic arm. \n\n产出：1。</CreateSimpleProstheticArm.description>
+  <CreateSimpleProstheticArm.jobString>Crafting prosthetic arm。</CreateSimpleProstheticArm.jobString>
 
   <CreateSimpleProstheticHand.label>制造 Simple Prosthetic Hand</CreateSimpleProstheticHand.label>
-  <CreateSimpleProstheticHand.description>Crafts a simple prosthetic hand. \n\n产出：1.</CreateSimpleProstheticHand.description>
-  <CreateSimpleProstheticHand.jobString>Crafting simple prosthetic hand.</CreateSimpleProstheticHand.jobString>
+  <CreateSimpleProstheticHand.description>Crafts a simple prosthetic hand. \n\n产出：1。</CreateSimpleProstheticHand.description>
+  <CreateSimpleProstheticHand.jobString>Crafting simple prosthetic hand。</CreateSimpleProstheticHand.jobString>
 
   <CreateSimpleProstheticFoot.label>制造 Simple Prosthetic Foot</CreateSimpleProstheticFoot.label>
-  <CreateSimpleProstheticFoot.description>Crafts a simple prosthetic foot. \n\n产出：1.</CreateSimpleProstheticFoot.description>
-  <CreateSimpleProstheticFoot.jobString>Crafting simple prosthetic foot.</CreateSimpleProstheticFoot.jobString>
+  <CreateSimpleProstheticFoot.description>Crafts a simple prosthetic foot. \n\n产出：1。</CreateSimpleProstheticFoot.description>
+  <CreateSimpleProstheticFoot.jobString>Crafting simple prosthetic foot。</CreateSimpleProstheticFoot.jobString>
 
   <CreateArtificialNose.label>制造 Artificial Nose</CreateArtificialNose.label>
-  <CreateArtificialNose.description>Crafts an artificial nose. \n\n产出：1.</CreateArtificialNose.description>
-  <CreateArtificialNose.jobString>Crafting artificial nose.</CreateArtificialNose.jobString>
+  <CreateArtificialNose.description>Crafts an artificial nose. \n\n产出：1。</CreateArtificialNose.description>
+  <CreateArtificialNose.jobString>Crafting artificial nose。</CreateArtificialNose.jobString>
 
   <CreateHydraulicJaw.label>制造 Hydraulic Jaw</CreateHydraulicJaw.label>
-  <CreateHydraulicJaw.description>Crafts a hydraulic jaw. \n\n产出：1.</CreateHydraulicJaw.description>
-  <CreateHydraulicJaw.jobString>Crafting hydraulic jaw.</CreateHydraulicJaw.jobString>
+  <CreateHydraulicJaw.description>Crafts a hydraulic jaw. \n\n产出：1。</CreateHydraulicJaw.description>
+  <CreateHydraulicJaw.jobString>Crafting hydraulic jaw。</CreateHydraulicJaw.jobString>
 
   <CreateGlassEye.label>制造 Glass Eye</CreateGlassEye.label>
-  <CreateGlassEye.description>Crafts a glass eye. \n\n产出：1.</CreateGlassEye.description>
-  <CreateGlassEye.jobString>Crafting glass eye.</CreateGlassEye.jobString>
+  <CreateGlassEye.description>Crafts a glass eye. \n\n产出：1。</CreateGlassEye.description>
+  <CreateGlassEye.jobString>Crafting glass eye。</CreateGlassEye.jobString>
 
   <CreateArtificialPelvis.label>制造 Artificial Pelvis</CreateArtificialPelvis.label>
-  <CreateArtificialPelvis.description>Crafts an artificial pelvis. \n\n产出：1.</CreateArtificialPelvis.description>
-  <CreateArtificialPelvis.jobString>Crafting artificial pelvis.</CreateArtificialPelvis.jobString>
+  <CreateArtificialPelvis.description>Crafts an artificial pelvis. \n\n产出：1。</CreateArtificialPelvis.description>
+  <CreateArtificialPelvis.jobString>Crafting artificial pelvis。</CreateArtificialPelvis.jobString>
 
   <MakeArtificialBone.label>制造 Artificial Bones</MakeArtificialBone.label>
-  <MakeArtificialBone.description>Makes artificial bones from metal and plastic. \n\n产出：5.</MakeArtificialBone.description>
-  <MakeArtificialBone.jobString>制造 artificial bones.</MakeArtificialBone.jobString>
+  <MakeArtificialBone.description>Makes artificial bones from metal and plastic. \n\n产出：5。</MakeArtificialBone.description>
+  <MakeArtificialBone.jobString>正在制造 artificial bones。</MakeArtificialBone.jobString>
 
   <MakeScytherBlade.label>制造 Scyther Blade Prothesis</MakeScytherBlade.label>
-  <MakeScytherBlade.description>制造 a scyther blade prosthesis from an ulta solid alloy. \n\n产出：1.</MakeScytherBlade.description>
-  <MakeScytherBlade.jobString>制造 a scyther blade prosthesis.</MakeScytherBlade.jobString>
+  <MakeScytherBlade.description>制造 a scyther blade prosthesis from an ulta solid alloy. \n\n产出：1。</MakeScytherBlade.description>
+  <MakeScytherBlade.jobString>正在制造 a scyther blade prosthesis。</MakeScytherBlade.jobString>
 
 
 </LanguageData>

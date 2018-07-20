@@ -2,23 +2,23 @@
 <LanguageData>
 
   <MakePainting.label>create a painting</MakePainting.label>
-  <MakePainting.description>Create a painting by using cloth and painting supplies. \n\n产出：1.</MakePainting.description>
-  <MakePainting.jobString>Painting happy little trees.</MakePainting.jobString>
+  <MakePainting.description>Create a painting by using cloth and painting supplies. \n\n产出：1。</MakePainting.description>
+  <MakePainting.jobString>Painting happy little trees。</MakePainting.jobString>
 
   <CookPaint.label>create painting supplies</CookPaint.label>
-  <CookPaint.description>Creates paint by boiling flowers until the gum and pigments bind and then combining it with wood to finish the set. \n\n产出：1.</CookPaint.description>
-  <CookPaint.jobString>Creating paint set.</CookPaint.jobString>
+  <CookPaint.description>Creates paint by boiling flowers until the gum and pigments bind and then combining it with wood to finish the set. \n\n产出：1。</CookPaint.description>
+  <CookPaint.jobString>Creating paint set。</CookPaint.jobString>
 
 
   <!-- mai items -->
 
   <MakeRobotParts.label>assemble robot parts</MakeRobotParts.label>
-  <MakeRobotParts.description>Assemble robot parts. \n\n产出：25.</MakeRobotParts.description>
-  <MakeRobotParts.jobString>Assembling robot parts.</MakeRobotParts.jobString>
+  <MakeRobotParts.description>Assemble robot parts. \n\n产出：25。</MakeRobotParts.description>
+  <MakeRobotParts.jobString>Assembling robot parts。</MakeRobotParts.jobString>
 
   <MakeDepletedUraniumCore.label>fabricate depleted uranium core</MakeDepletedUraniumCore.label>
-  <MakeDepletedUraniumCore.description>Fabricates depleted uranium. \n\n产出：1.</MakeDepletedUraniumCore.description>
-  <MakeDepletedUraniumCore.jobString>Fabricating depleted uranium.</MakeDepletedUraniumCore.jobString>
+  <MakeDepletedUraniumCore.description>Fabricates depleted uranium. \n\n产出：1。</MakeDepletedUraniumCore.description>
+  <MakeDepletedUraniumCore.jobString>Fabricating depleted uranium。</MakeDepletedUraniumCore.jobString>
 
 
 </LanguageData>

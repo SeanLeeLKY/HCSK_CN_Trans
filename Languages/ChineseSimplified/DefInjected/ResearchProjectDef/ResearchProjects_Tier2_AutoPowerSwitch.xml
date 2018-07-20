@@ -2,7 +2,7 @@
 <LanguageData>
 
   <ResearchAutoPowerSwitch.label>Automatic Power Switch</ResearchAutoPowerSwitch.label>
-  <ResearchAutoPowerSwitch.description>Research a motion detector for the power switch. This will allow automatic power switching.</ResearchAutoPowerSwitch.description>
+  <ResearchAutoPowerSwitch.description>Research a motion detector for the power switch. This will allow automatic power switching。</ResearchAutoPowerSwitch.description>
   <ResearchAutoPowerSwitch.descriptionDiscovered>Now your power switch can be configured to automatically switch on when someone is in the room. Additionally further enhancement is now possible.
 
 NOTE: Do not connect your lamps, turrets, etc. directly to the switch! Add a power cable and connect that!</ResearchAutoPowerSwitch.descriptionDiscovered>

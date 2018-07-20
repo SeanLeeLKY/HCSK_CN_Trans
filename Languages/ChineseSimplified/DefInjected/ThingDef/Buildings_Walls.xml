@@ -4,22 +4,22 @@
   <!-- Walls -->
 
   <Wall.label>wall</Wall.label>
-  <Wall.description>An impassable wall. It is capable of holding up a roof.</Wall.description>
+  <Wall.description>An impassable wall. It is capable of holding up a roof。</Wall.description>
   <Wall_Blueprint.label>wall (blueprint)</Wall_Blueprint.label>
   <Wall_Frame.label>wall (building)</Wall_Frame.label>
-  <Wall_Frame.description>An impassable wall. It is capable of holding up a roof.</Wall_Frame.description>
+  <Wall_Frame.description>An impassable wall. It is capable of holding up a roof。</Wall_Frame.description>
 
   <ClutterSilverWall.label>panel reinforced wall</ClutterSilverWall.label>
-  <ClutterSilverWall.description>A reinforced wall with thick panels attached to strengthen it further.</ClutterSilverWall.description>
+  <ClutterSilverWall.description>A reinforced wall with thick panels attached to strengthen it further。</ClutterSilverWall.description>
   <ClutterSilverWall_Blueprint.label>panel reinforced wall (blueprint)</ClutterSilverWall_Blueprint.label>
   <ClutterSilverWall_Frame.label>panel reinforced wall (building)</ClutterSilverWall_Frame.label>
-  <ClutterSilverWall_Frame.description>A reinforced wall with thick panels attached to strengthen it further.</ClutterSilverWall_Frame.description>
+  <ClutterSilverWall_Frame.description>A reinforced wall with thick panels attached to strengthen it further。</ClutterSilverWall_Frame.description>
 
   <ClutterUWallLight.label>utility wall with lights</ClutterUWallLight.label>
-  <ClutterUWallLight.description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection.</ClutterUWallLight.description>
+  <ClutterUWallLight.description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection。</ClutterUWallLight.description>
   <ClutterUWallLight_Blueprint.label>utility wall with lights (blueprint)</ClutterUWallLight_Blueprint.label>
   <ClutterUWallLight_Frame.label>utility wall with lights (building)</ClutterUWallLight_Frame.label>
-  <ClutterUWallLight_Frame.description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection.</ClutterUWallLight_Frame.description>
+  <ClutterUWallLight_Frame.description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection。</ClutterUWallLight_Frame.description>
 
 
   <!-- SK new walls
@@ -27,7 +27,7 @@
 		<defName>WallLog</defName>
 		<label>wall</label>
 		<thingClass>SK.Wall_Multi</thingClass>
-		<description>A wall made of logs stacked together. Strong and very fast to build, but it is flammable and does not transmit power.</description>
+		<description>A wall made of logs stacked together. Strong and very fast to build, but it is flammable and does not transmit power。</description>
 		<graphicData>
 			<texPath>Things/Building/Walls/WoodenWall_Atlas</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -73,7 +73,7 @@
 		<defName>Wall</defName>
 		<label>stone wall</label>
 		<thingClass>SK.Wall_Multi</thingClass>
-		<description>An impassable wall. It is capable of holding up a roof.</description>
+		<description>An impassable wall. It is capable of holding up a roof。</description>
 		<graphicData>
 			<texPath>Things/Building/Walls/StoneWall_Atlas</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -111,7 +111,7 @@
     <label>metallic wall</label>
     <thingClass>SK.Wall_Multi</thingClass>
     <category>Building</category>
-   <description>An impassable wall. It is capable of holding up a roof.</description>
+   <description>An impassable wall. It is capable of holding up a roof。</description>
    <graphicData>
      <texPath>Things/Building/Walls/MetallWall_Atlas</texPath>
 	<graphicClass>Graphic_Single</graphicClass>
@@ -177,7 +177,7 @@
 		<defName>ClutterUWallLight</defName>
 		<label>metallic wall with lights</label>
 		<thingClass>SK.Wall_Light</thingClass>
-		<description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection.</description>
+		<description>Upgraded version of basic walls, with the ability to easily attach things, like centuries old dust! This version comes with lights to show off your beautiful dust collection。</description>
 		<graphicData>
 			<texPath>Things/Building/Walls/UWallYellow</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -241,7 +241,7 @@
 	<ThingDef ParentName="WallBase">
 		<defName>ClutterSilverWall</defName>
 		<label>panel reinforced wall</label>
-		<description>A reinforced wall with thick panels attached to strengthen it further.</description>
+		<description>A reinforced wall with thick panels attached to strengthen it further。</description>
 		<graphicData>
 			<shaderType>CutoutComplex</shaderType>
 			<texPath>Things/Building/Walls/SilverWall</texPath>
@@ -291,7 +291,7 @@
 	<ThingDef ParentName="WallBase">
 		<defName>BWall</defName>
 		<label>masonry</label>
-		<description>An impassable wall. It is capable of holding up a roof.</description>
+		<description>An impassable wall. It is capable of holding up a roof。</description>
 		<graphicData>
 			<texPath>Things/Building/Walls/BrickWall_Atlas</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -327,10 +327,10 @@
   <!-- Roof Support -->
 
   <RoofSupport.label>roof support</RoofSupport.label>
-  <RoofSupport.description>A structural column capable of holding up a roof. It does not impede movement or provide cover.</RoofSupport.description>
+  <RoofSupport.description>A structural column capable of holding up a roof. It does not impede movement or provide cover。</RoofSupport.description>
   <RoofSupport_Blueprint.label>roof support (blueprint)</RoofSupport_Blueprint.label>
   <RoofSupport_Frame.label>roof support (building)</RoofSupport_Frame.label>
-  <RoofSupport_Frame.description>A structural column capable of holding up a roof. It does not impede movement or provide cover.</RoofSupport_Frame.description>
+  <RoofSupport_Frame.description>A structural column capable of holding up a roof. It does not impede movement or provide cover。</RoofSupport_Frame.description>
 
 
 </LanguageData>

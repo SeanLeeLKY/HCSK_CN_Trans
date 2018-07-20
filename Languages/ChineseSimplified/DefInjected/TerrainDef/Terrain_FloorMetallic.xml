@@ -3,59 +3,59 @@
 
   <SilverTile.label>silver tile</SilverTile.label>
   <SilverTile.description>Expensive and slow to build. Soft grey tiles with a grey bordering. 
-Beauty: 3.</SilverTile.description>
+Beauty: 3。</SilverTile.description>
 
   <SterileTile.label>sterile tile</SterileTile.label>
   <SterileTile.description>Sterile tiles are clean, light grey squares. Very useful in hospitals to help prevent infections. Quite slow to build. 
-Beauty: 0.</SterileTile.description>
+Beauty: 0。</SterileTile.description>
 
   <MetalTile.label>white metal tile</MetalTile.label>
   <MetalTile.description>White metal square tiles, for that spaceship look. 
-Beauty: 3.</MetalTile.description>
+Beauty: 3。</MetalTile.description>
 
   <MetalTile2.label>black metal tile</MetalTile2.label>
   <MetalTile2.description>Black metal square tiles, for that spaceship look. 
-Beauty: 3.</MetalTile2.description>
+Beauty: 3。</MetalTile2.description>
 
   <MetalTile3.label>grey metal tile</MetalTile3.label>
   <MetalTile3.description>Square grey metal tiles with thin borders. 
-Beauty: 3.</MetalTile3.description>
+Beauty: 3。</MetalTile3.description>
 
   <MetalTile4.label>patterned metal tile</MetalTile4.label>
   <MetalTile4.description>Grey metal tiles with fancy patterns. 
-Beauty: 3.</MetalTile4.description>
+Beauty: 3。</MetalTile4.description>
 
   <PlateCopperBar.label>Copper plates</PlateCopperBar.label>
-  <PlateCopperBar.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateCopperBar.description>
+  <PlateCopperBar.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2。</PlateCopperBar.description>
 
   <PlateSilver.label>Silver plated plates</PlateSilver.label>
-  <PlateSilver.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateSilver.description>
+  <PlateSilver.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2。</PlateSilver.description>
 
   <PlateGold.label>Gold plated plates</PlateGold.label>
-  <PlateGold.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateGold.description>
+  <PlateGold.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2。</PlateGold.description>
 
   <PlateSteel.label>Steel plates</PlateSteel.label>
-  <PlateSteel.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateSteel.description>
+  <PlateSteel.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2。</PlateSteel.description>
 
   <PlateCupronickelAlloy.label>Melchior plates</PlateCupronickelAlloy.label>
-  <PlateCupronickelAlloy.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateCupronickelAlloy.description>
+  <PlateCupronickelAlloy.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2。</PlateCupronickelAlloy.description>
 
   <PlateNichromeAlloy.label>Nichrome plates</PlateNichromeAlloy.label>
-  <PlateNichromeAlloy.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateNichromeAlloy.description>
+  <PlateNichromeAlloy.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2。</PlateNichromeAlloy.description>
 
   <PlateCeramics.label>Ceramics plates</PlateCeramics.label>
-  <PlateCeramics.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateCeramics.description>
+  <PlateCeramics.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2。</PlateCeramics.description>
 
 
   <!-- Gold Tile -->
 
   <GoldTile.label>gold tile</GoldTile.label>
   <GoldTile.description>Gold tiles, because you're worth it. 
-Beauty: 5.</GoldTile.description>
+Beauty: 5。</GoldTile.description>
 
   <GoldSolid.label>solid gold</GoldSolid.label>
   <GoldSolid.description>Solid gold, because you're wasteful.
-Beauty: 10.</GoldSolid.description>
+Beauty: 10。</GoldSolid.description>
 
 
 </LanguageData>

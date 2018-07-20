@@ -4,8 +4,8 @@
   <!-- Recipes -->
 
   <MakeAmmo_RailRay.label>制造 充能射线弹 x20</MakeAmmo_RailRay.label>
-  <MakeAmmo_RailRay.description>制造 20 Charged Rail Ray cartridges.</MakeAmmo_RailRay.description>
-  <MakeAmmo_RailRay.jobString>制造 Charged Rail Ray cartridges.</MakeAmmo_RailRay.jobString>
+  <MakeAmmo_RailRay.description>制造 20 Charged Rail Ray cartridges。</MakeAmmo_RailRay.description>
+  <MakeAmmo_RailRay.jobString>正在制造 Charged Rail Ray cartridges。</MakeAmmo_RailRay.jobString>
 
 
 </LanguageData>

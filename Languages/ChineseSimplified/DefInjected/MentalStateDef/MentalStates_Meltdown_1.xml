@@ -2,21 +2,21 @@
 <LanguageData>
 
   <SelfHarm.label>自残</SelfHarm.label>
-  <SelfHarm.beginLetter>{0} has slit HIS wrists and is sulking in HIS room.</SelfHarm.beginLetter>
+  <SelfHarm.beginLetter>{0} has slit HIS wrists and is sulking in HIS room。</SelfHarm.beginLetter>
   <SelfHarm.beginLetterLabel>自残</SelfHarm.beginLetterLabel>
-  <SelfHarm.recoveryMessage>{0} has stopped self-harming.</SelfHarm.recoveryMessage>
+  <SelfHarm.recoveryMessage>{0} has stopped self-harming。</SelfHarm.recoveryMessage>
   <SelfHarm.baseInspectLine>精神状态：自残</SelfHarm.baseInspectLine>
 
   <Compulsion.label>强制清洗</Compulsion.label>
-  <Compulsion.beginLetter>{0} is obsessively cleaning HIS surroundings with little regard for HIS own wellbeing.</Compulsion.beginLetter>
+  <Compulsion.beginLetter>{0} is obsessively cleaning HIS surroundings with little regard for HIS own wellbeing。</Compulsion.beginLetter>
   <Compulsion.beginLetterLabel>强制</Compulsion.beginLetterLabel>
-  <Compulsion.recoveryMessage>{0} has stopped compulsively tidying HIS surroundings.</Compulsion.recoveryMessage>
+  <Compulsion.recoveryMessage>{0} has stopped compulsively tidying HIS surroundings。</Compulsion.recoveryMessage>
   <Compulsion.baseInspectLine>精神状态：强制清洗</Compulsion.baseInspectLine>
 
   <Apathy.label>懈怠</Apathy.label>
-  <Apathy.beginLetter>{0} has become apathetic and is less likely to do HIS assigned work.</Apathy.beginLetter>
+  <Apathy.beginLetter>{0} has become apathetic and is less likely to do HIS assigned work。</Apathy.beginLetter>
   <Apathy.beginLetterLabel>懈怠</Apathy.beginLetterLabel>
-  <Apathy.recoveryMessage>{0} has stopped being apathetic.</Apathy.recoveryMessage>
+  <Apathy.recoveryMessage>{0} has stopped being apathetic。</Apathy.recoveryMessage>
   <Apathy.baseInspectLine>精神状态：懈怠</Apathy.baseInspectLine>
 
 
@@ -28,17 +28,17 @@
   <!--<Tantrum.label>暴怒</Tantrum.label>-->
   <!--<Tantrum.beginLetter>{0} is taking HIS anger out on nearby buildings!</Tantrum.beginLetter>-->
   <!--<Tantrum.beginLetterLabel>暴怒</Tantrum.beginLetterLabel>-->
-  <!--<Tantrum.recoveryMessage>{0}'s destructive tantrum has come to an end.</Tantrum.recoveryMessage>-->
+  <!--<Tantrum.recoveryMessage>{0}'s destructive tantrum has come to an end。</Tantrum.recoveryMessage>-->
   <!--<Tantrum.baseInspectLine>精神状态：暴怒</Tantrum.baseInspectLine>-->
   <!--<Abuse.label>尖叫</Abuse.label>-->
-  <!--<Abuse.beginLetter>{0} has become enraged and is verbally abusing all colonists in sight.</Abuse.beginLetter>-->
+  <!--<Abuse.beginLetter>{0} has become enraged and is verbally abusing all colonists in sight。</Abuse.beginLetter>-->
   <!--<Abuse.beginLetterLabel>污言秽语</Abuse.beginLetterLabel>-->
-  <!--<Abuse.recoveryMessage>{0} has stopped verbally abusing other colonists.</Abuse.recoveryMessage>-->
+  <!--<Abuse.recoveryMessage>{0} has stopped verbally abusing other colonists。</Abuse.recoveryMessage>-->
   <!--<Abuse.baseInspectLine>精神状态：谩骂</Abuse.baseInspectLine>-->
   <!--<Antisocial.label>避人</Antisocial.label>-->
-  <!--<Antisocial.beginLetter>{0} is avoiding HIS fellow colonists.</Antisocial.beginLetter>-->
+  <!--<Antisocial.beginLetter>{0} is avoiding HIS fellow colonists。</Antisocial.beginLetter>-->
   <!--<Antisocial.beginLetterLabel>反社会</Antisocial.beginLetterLabel>-->
-  <!--<Antisocial.recoveryMessage>{0} has stopped being antisocial.</Antisocial.recoveryMessage>-->
+  <!--<Antisocial.recoveryMessage>{0} has stopped being antisocial。</Antisocial.recoveryMessage>-->
   <!--<Antisocial.baseInspectLine>精神状态：反社会</Antisocial.baseInspectLine>-->
   <!--[Core] <Berserk.label>狂暴</Berserk.label>-->
   <!--[Core] <Berserk.beginLetter>{0} 已经变得狂暴！</Berserk.beginLetter>-->

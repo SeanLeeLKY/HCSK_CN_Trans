@@ -4,59 +4,59 @@
   <!-- Misc chunks -->
 
   <ChunkSlagSteel.label>Steel Slag Chunk</ChunkSlagSteel.label>
-  <ChunkSlagSteel.description>A rough glob of metal that has been melted from extreme temperatures. It can be smelted into alloy at an electric smelter.</ChunkSlagSteel.description>
+  <ChunkSlagSteel.description>A rough glob of metal that has been melted from extreme temperatures. It can be smelted into alloy at an electric smelter。</ChunkSlagSteel.description>
 
 
   <!-- Stone solids, chunks, and blocks -->
 
   <Sandstone.label>Sandstone Deposit</Sandstone.label>
-  <Sandstone.description>Sandstone is a sedimentary rock that is composed of sand particles that have been compressed together.</Sandstone.description>
+  <Sandstone.description>Sandstone is a sedimentary rock that is composed of sand particles that have been compressed together。</Sandstone.description>
 
   <ChunkSandstone.label>Sandstone Chunk</ChunkSandstone.label>
-  <ChunkSandstone.description>Sandstone is a sedimentary rock that is composed of sand particles that have been compressed together. This is a large chunk of rock that can be cut into blocks.</ChunkSandstone.description>
+  <ChunkSandstone.description>Sandstone is a sedimentary rock that is composed of sand particles that have been compressed together. This is a large chunk of rock that can be cut into blocks。</ChunkSandstone.description>
 
   <BlocksSandstone.label>sandstone blocks</BlocksSandstone.label>
-  <BlocksSandstone.description>Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily.</BlocksSandstone.description>
+  <BlocksSandstone.description>Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily。</BlocksSandstone.description>
   <BlocksSandstone.stuffProps.stuffAdjective>sandstone</BlocksSandstone.stuffProps.stuffAdjective>
 
   <Granite.label>Granite Deposit</Granite.label>
-  <Granite.description>Granite is a very hard igneous rock.</Granite.description>
+  <Granite.description>Granite is a very hard igneous rock。</Granite.description>
 
   <ChunkGranite.label>Granite Chunk</ChunkGranite.label>
-  <ChunkGranite.description>Granite is a very hard igneous rock. This is a large chunk of rock that can be cut into blocks.</ChunkGranite.description>
+  <ChunkGranite.description>Granite is a very hard igneous rock. This is a large chunk of rock that can be cut into blocks。</ChunkGranite.description>
 
   <BlocksGranite.label>granite blocks</BlocksGranite.label>
-  <BlocksGranite.description>Blocks of solid granite. Granite is a very hard stone.</BlocksGranite.description>
+  <BlocksGranite.description>Blocks of solid granite. Granite is a very hard stone。</BlocksGranite.description>
   <BlocksGranite.stuffProps.stuffAdjective>granite</BlocksGranite.stuffProps.stuffAdjective>
 
   <Limestone.label>Limestone Deposit</Limestone.label>
-  <Limestone.description>Limestone is a sedimentary rock formed from the compacted remains of ancient seashells.</Limestone.description>
+  <Limestone.description>Limestone is a sedimentary rock formed from the compacted remains of ancient seashells。</Limestone.description>
 
   <ChunkLimestone.label>Limestone Chunk</ChunkLimestone.label>
-  <ChunkLimestone.description>Limestone is a sedimentary rock formed from the compacted remains of ancient seashells. This is a large chunk of rock that can be cut into blocks.</ChunkLimestone.description>
+  <ChunkLimestone.description>Limestone is a sedimentary rock formed from the compacted remains of ancient seashells. This is a large chunk of rock that can be cut into blocks。</ChunkLimestone.description>
 
   <BlocksLimestone.label>limestone blocks</BlocksLimestone.label>
-  <BlocksLimestone.description>Blocks of solid limestone.</BlocksLimestone.description>
+  <BlocksLimestone.description>Blocks of solid limestone。</BlocksLimestone.description>
   <BlocksLimestone.stuffProps.stuffAdjective>limestone</BlocksLimestone.stuffProps.stuffAdjective>
 
   <Slate.label>Slate Deposit</Slate.label>
-  <Slate.description>Slate is a dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage.</Slate.description>
+  <Slate.description>Slate is a dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage。</Slate.description>
 
   <ChunkSlate.label>Slate Chunk</ChunkSlate.label>
-  <ChunkSlate.description>Slate is a dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. This is a large chunk of rock that can be cut into blocks.</ChunkSlate.description>
+  <ChunkSlate.description>Slate is a dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. This is a large chunk of rock that can be cut into blocks。</ChunkSlate.description>
 
   <BlocksSlate.label>slate blocks</BlocksSlate.label>
-  <BlocksSlate.description>Blocks of solid slate. A dull-looking rock that chips easily.</BlocksSlate.description>
+  <BlocksSlate.description>Blocks of solid slate. A dull-looking rock that chips easily。</BlocksSlate.description>
   <BlocksSlate.stuffProps.stuffAdjective>slate</BlocksSlate.stuffProps.stuffAdjective>
 
   <Marble.label>Marble Deposit</Marble.label>
-  <Marble.description>Marble is a soft metamorphic rock composed of recrystallized carbonate minerals. It is commonly used in sculptures.</Marble.description>
+  <Marble.description>Marble is a soft metamorphic rock composed of recrystallized carbonate minerals. It is commonly used in sculptures。</Marble.description>
 
   <ChunkMarble.label>Marble Chunk</ChunkMarble.label>
-  <ChunkMarble.description>Marble is a soft metamorphic rock composed of recrystallized carbonate minerals. It is commonly used in sculptures. This is a large chunk of rock that can be cut into blocks.</ChunkMarble.description>
+  <ChunkMarble.description>Marble is a soft metamorphic rock composed of recrystallized carbonate minerals. It is commonly used in sculptures. This is a large chunk of rock that can be cut into blocks。</ChunkMarble.description>
 
   <BlocksMarble.label>marble blocks</BlocksMarble.label>
-  <BlocksMarble.description>Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt.</BlocksMarble.description>
+  <BlocksMarble.description>Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt。</BlocksMarble.description>
   <BlocksMarble.stuffProps.stuffAdjective>marble</BlocksMarble.stuffProps.stuffAdjective>
 
 

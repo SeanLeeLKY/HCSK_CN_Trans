@@ -2,14 +2,14 @@
 <LanguageData>
 
   <MarketValue.label>market value</MarketValue.label>
-  <MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill.</MarketValue.description>
+  <MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill。</MarketValue.description>
   <MarketValue.formatString>${0}</MarketValue.formatString>
 
   <Beauty.label>beauty</Beauty.label>
-  <Beauty.description>How enjoyable an object is to be around and look at.</Beauty.description>
+  <Beauty.description>How enjoyable an object is to be around and look at。</Beauty.description>
 
   <Comfort.label>comfort</Comfort.label>
-  <Comfort.description>How comfortble an object is to sit or lay on.</Comfort.description>
+  <Comfort.description>How comfortble an object is to sit or lay on。</Comfort.description>
 
 
   <!--[Core] <MarketValue.label>市场价值</MarketValue.label>-->
@@ -20,11 +20,11 @@
   <!--[Core] <Comfort.label>舒适度</Comfort.label>-->
   <!--[Core] <Comfort.description>一个物品在被坐上或躺下时给人的舒适程度。</Comfort.description>-->
   <!--<MarketValue.label>market value</MarketValue.label>-->
-  <!--<MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill.</MarketValue.description>-->
+  <!--<MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill。</MarketValue.description>-->
   <!--<MarketValue.formatString>${0}</MarketValue.formatString>-->
   <!--<Beauty.label>beauty</Beauty.label>-->
-  <!--<Beauty.description>How enjoyable an object is to be around and look at.</Beauty.description>-->
+  <!--<Beauty.description>How enjoyable an object is to be around and look at。</Beauty.description>-->
   <!--<Comfort.label>comfort</Comfort.label>-->
-  <!--<Comfort.description>How comfortble an object is to sit or lay on.</Comfort.description>-->
+  <!--<Comfort.description>How comfortble an object is to sit or lay on。</Comfort.description>-->
 
 </LanguageData>

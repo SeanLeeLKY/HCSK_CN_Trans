@@ -2,44 +2,44 @@
 <LanguageData>
 
   <cider.label>Apple cider</cider.label>
-  <cider.description>A bottle of sweet alcohol made from apples.</cider.description>
+  <cider.description>A bottle of sweet alcohol made from apples。</cider.description>
   <cider.ingestible.ingestCommandString>Drink {0}</cider.ingestible.ingestCommandString>
-  <cider.ingestible.ingestReportString>Drinking {0}.</cider.ingestible.ingestReportString>
+  <cider.ingestible.ingestReportString>Drinking {0}。</cider.ingestible.ingestReportString>
 
   <rum.label>Rum</rum.label>
   <rum.description>A bottle filled with alcoholic rum. Why is the rum gone?</rum.description>
   <rum.ingestible.ingestCommandString>Drink {0}</rum.ingestible.ingestCommandString>
-  <rum.ingestible.ingestReportString>Drinking {0}.</rum.ingestible.ingestReportString>
+  <rum.ingestible.ingestReportString>Drinking {0}。</rum.ingestible.ingestReportString>
 
   <Wine.label>Wine</Wine.label>
-  <Wine.description>A sweet alcohol from grapes. From private Reserves often stolen and smuggled.</Wine.description>
+  <Wine.description>A sweet alcohol from grapes. From private Reserves often stolen and smuggled。</Wine.description>
   <Wine.ingestible.ingestCommandString>Drink {0}</Wine.ingestible.ingestCommandString>
-  <Wine.ingestible.ingestReportString>Drinking {0}.</Wine.ingestible.ingestReportString>
+  <Wine.ingestible.ingestReportString>Drinking {0}。</Wine.ingestible.ingestReportString>
 
   <strawberrywine.label>Berry Wine</strawberrywine.label>
-  <strawberrywine.description>A bottle of sweet, pinkish alcohol made from strawberries.</strawberrywine.description>
+  <strawberrywine.description>A bottle of sweet, pinkish alcohol made from strawberries。</strawberrywine.description>
   <strawberrywine.ingestible.ingestCommandString>Drink {0}</strawberrywine.ingestible.ingestCommandString>
-  <strawberrywine.ingestible.ingestReportString>Drinking {0}.</strawberrywine.ingestible.ingestReportString>
+  <strawberrywine.ingestible.ingestReportString>Drinking {0}。</strawberrywine.ingestible.ingestReportString>
 
   <saki.label>Sake</saki.label>
-  <saki.description>A bottle of crisp, refreshing alcohol made from rice.</saki.description>
+  <saki.description>A bottle of crisp, refreshing alcohol made from rice。</saki.description>
   <saki.ingestible.ingestCommandString>Drink {0}</saki.ingestible.ingestCommandString>
-  <saki.ingestible.ingestReportString>Drinking {0}.</saki.ingestible.ingestReportString>
+  <saki.ingestible.ingestReportString>Drinking {0}。</saki.ingestible.ingestReportString>
 
   <vodka.label>Vodka</vodka.label>
-  <vodka.description>A bottle of clear, potato-based alcohol.</vodka.description>
+  <vodka.description>A bottle of clear, potato-based alcohol。</vodka.description>
   <vodka.ingestible.ingestCommandString>Drink {0}</vodka.ingestible.ingestCommandString>
-  <vodka.ingestible.ingestReportString>Drinking {0}.</vodka.ingestible.ingestReportString>
+  <vodka.ingestible.ingestReportString>Drinking {0}。</vodka.ingestible.ingestReportString>
 
   <tequila.label>Tequila</tequila.label>
-  <tequila.description>A potent liquor made of agave. It has a picture of what looks like a naked and inebriated female cat person on the bottle. Once discovered by a certain Orassan, she quickly perfected the recipe and it became a very popular drink on Orassia and developed an even more storied reputation.</tequila.description>
+  <tequila.description>A potent liquor made of agave. It has a picture of what looks like a naked and inebriated female cat person on the bottle. Once discovered by a certain Orassan, she quickly perfected the recipe and it became a very popular drink on Orassia and developed an even more storied reputation。</tequila.description>
   <tequila.ingestible.ingestCommandString>Drink {0}</tequila.ingestible.ingestCommandString>
-  <tequila.ingestible.ingestReportString>Drinking {0}.</tequila.ingestible.ingestReportString>
+  <tequila.ingestible.ingestReportString>Drinking {0}。</tequila.ingestible.ingestReportString>
 
   <whisky.label>Whiskey</whisky.label>
-  <whisky.description>A bottle of golden, corn-based alcohol.</whisky.description>
+  <whisky.description>A bottle of golden, corn-based alcohol。</whisky.description>
   <whisky.ingestible.ingestCommandString>Drink {0}</whisky.ingestible.ingestCommandString>
-  <whisky.ingestible.ingestReportString>Drinking {0}.</whisky.ingestible.ingestReportString>
+  <whisky.ingestible.ingestReportString>Drinking {0}。</whisky.ingestible.ingestReportString>
 
 
 </LanguageData>

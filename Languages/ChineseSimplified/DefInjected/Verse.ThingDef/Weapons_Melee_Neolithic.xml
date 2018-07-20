@@ -4,24 +4,24 @@
   <!-- Neolithic -->
 
   <MeleeWeapon_Ikwa.label>ikwa</MeleeWeapon_Ikwa.label>
-  <MeleeWeapon_Ikwa.description>A short spearhandle attached to a long bladed head, designed to be driven into vital organs with a quick thrust.</MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.description>A short spearhandle attached to a long bladed head, designed to be driven into vital organs with a quick thrust。</MeleeWeapon_Ikwa.description>
   <MeleeWeapon_Ikwa.tools.0.label>shaft</MeleeWeapon_Ikwa.tools.0.label>
   <MeleeWeapon_Ikwa.tools.1.label>point</MeleeWeapon_Ikwa.tools.1.label>
   <MeleeWeapon_Ikwa.tools.2.label>head</MeleeWeapon_Ikwa.tools.2.label>
 
   <MeleeWeapon_Spear.label>Spear</MeleeWeapon_Spear.label>
-  <MeleeWeapon_Spear.description>A polearm tipped with a sharp point for stabbing opponents in melee combat.</MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.description>A polearm tipped with a sharp point for stabbing opponents in melee combat。</MeleeWeapon_Spear.description>
   <MeleeWeapon_Spear.tools.0.label>shaft</MeleeWeapon_Spear.tools.0.label>
   <MeleeWeapon_Spear.tools.1.label>point</MeleeWeapon_Spear.tools.1.label>
   <MeleeWeapon_Spear.tools.2.label>head</MeleeWeapon_Spear.tools.2.label>
 
   <MeleeWeapon_Mace.label>Mace</MeleeWeapon_Mace.label>
-  <MeleeWeapon_Mace.description>A refined club, engineered for efficient swinging and deadly impacts.</MeleeWeapon_Mace.description>
+  <MeleeWeapon_Mace.description>A refined club, engineered for efficient swinging and deadly impacts。</MeleeWeapon_Mace.description>
   <MeleeWeapon_Mace.tools.0.label>handle</MeleeWeapon_Mace.tools.0.label>
   <MeleeWeapon_Mace.tools.1.label>head</MeleeWeapon_Mace.tools.1.label>
 
   <MeleeWeapon_Club.label>Club</MeleeWeapon_Club.label>
-  <MeleeWeapon_Club.description>A club is the oldest human weapon. It is a shaped blunt weapon for bashing enemies to death. Primitive but effective.</MeleeWeapon_Club.description>
+  <MeleeWeapon_Club.description>A club is the oldest human weapon. It is a shaped blunt weapon for bashing enemies to death. Primitive but effective。</MeleeWeapon_Club.description>
   <MeleeWeapon_Club.tools.0.label>handle</MeleeWeapon_Club.tools.0.label>
   <MeleeWeapon_Club.tools.1.label>head</MeleeWeapon_Club.tools.1.label>
 
@@ -32,19 +32,19 @@
   <NorbalMeleeWeapon_ShortSwordtwo.tools.2.label>edge</NorbalMeleeWeapon_ShortSwordtwo.tools.2.label>
 
   <NorbalMeleeWeapon_ShortSword.label>Heroic Sword</NorbalMeleeWeapon_ShortSword.label>
-  <NorbalMeleeWeapon_ShortSword.description>Reliable and deadly in melee combat. Comes with added Arabic flair.</NorbalMeleeWeapon_ShortSword.description>
+  <NorbalMeleeWeapon_ShortSword.description>Reliable and deadly in melee combat. Comes with added Arabic flair。</NorbalMeleeWeapon_ShortSword.description>
   <NorbalMeleeWeapon_ShortSword.tools.0.label>handle</NorbalMeleeWeapon_ShortSword.tools.0.label>
   <NorbalMeleeWeapon_ShortSword.tools.1.label>point</NorbalMeleeWeapon_ShortSword.tools.1.label>
   <NorbalMeleeWeapon_ShortSword.tools.2.label>edge</NorbalMeleeWeapon_ShortSword.tools.2.label>
 
   <NorbalMeleeWeapon_Ax.label>Norbal War Axe</NorbalMeleeWeapon_Ax.label>
-  <NorbalMeleeWeapon_Ax.description>Medieval axe.</NorbalMeleeWeapon_Ax.description>
+  <NorbalMeleeWeapon_Ax.description>Medieval axe。</NorbalMeleeWeapon_Ax.description>
   <NorbalMeleeWeapon_Ax.tools.0.label>handle</NorbalMeleeWeapon_Ax.tools.0.label>
   <NorbalMeleeWeapon_Ax.tools.1.label>point</NorbalMeleeWeapon_Ax.tools.1.label>
   <NorbalMeleeWeapon_Ax.tools.2.label>edge</NorbalMeleeWeapon_Ax.tools.2.label>
 
   <NorbalMeleeWeapon_Bigax.label>Battleaxe</NorbalMeleeWeapon_Bigax.label>
-  <NorbalMeleeWeapon_Bigax.description>The ultimate Norbal beheader.</NorbalMeleeWeapon_Bigax.description>
+  <NorbalMeleeWeapon_Bigax.description>The ultimate Norbal beheader。</NorbalMeleeWeapon_Bigax.description>
   <NorbalMeleeWeapon_Bigax.tools.0.label>handle</NorbalMeleeWeapon_Bigax.tools.0.label>
   <NorbalMeleeWeapon_Bigax.tools.1.label>point</NorbalMeleeWeapon_Bigax.tools.1.label>
   <NorbalMeleeWeapon_Bigax.tools.2.label>edge</NorbalMeleeWeapon_Bigax.tools.2.label>

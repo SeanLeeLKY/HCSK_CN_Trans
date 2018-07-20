@@ -4,11 +4,11 @@
   <!-- Vanilla Sandbags for Siege -->
 
   <Sandbags.label>sandbags</Sandbags.label>
-  <Sandbags.description>A sandbag barrier that provides cover from gunfire.</Sandbags.description>
+  <Sandbags.description>A sandbag barrier that provides cover from gunfire。</Sandbags.description>
   <Sandbags_Blueprint.label>sandbags (blueprint)</Sandbags_Blueprint.label>
   <Sandbags_Blueprint_Install.label>sandbags (blueprint)</Sandbags_Blueprint_Install.label>
   <Sandbags_Frame.label>sandbags (building)</Sandbags_Frame.label>
-  <Sandbags_Frame.description>A sandbag barrier that provides cover from gunfire.</Sandbags_Frame.description>
+  <Sandbags_Frame.description>A sandbag barrier that provides cover from gunfire。</Sandbags_Frame.description>
 
 
   <!-- <ThingDef ParentName="BuildingBase">
@@ -16,7 +16,7 @@
     <label>Stamped Earth Wall</label>
     <thingClass>Building</thingClass>
     <category>Building</category>
-    <description>A defensive wall made of compacted earth. It requires no additional resources to build and is quite strong, but it takes a lot of work.</description>
+    <description>A defensive wall made of compacted earth. It requires no additional resources to build and is quite strong, but it takes a lot of work。</description>
     <graphicData>
       <texPath>Things/Building/Linked/Rock_Atlas</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -57,54 +57,54 @@
   </ThingDef> -->
 
   <Parapet.label>parapet</Parapet.label>
-  <Parapet.description>A waist-high stone wall built for defense.</Parapet.description>
+  <Parapet.description>A waist-high stone wall built for defense。</Parapet.description>
   <Parapet_Blueprint.label>parapet (blueprint)</Parapet_Blueprint.label>
   <Parapet_Frame.label>parapet (building)</Parapet_Frame.label>
-  <Parapet_Frame.description>A waist-high stone wall built for defense.</Parapet_Frame.description>
+  <Parapet_Frame.description>A waist-high stone wall built for defense。</Parapet_Frame.description>
 
 
   <!-- Cheval de frise -->
 
   <chevalDeFrise.label>cheval de frise</chevalDeFrise.label>
-  <chevalDeFrise.description>A defensive barrier made of sharpened sticks. It is weak but slow to climb over.</chevalDeFrise.description>
+  <chevalDeFrise.description>A defensive barrier made of sharpened sticks. It is weak but slow to climb over。</chevalDeFrise.description>
   <chevalDeFrise_Blueprint.label>cheval de frise (blueprint)</chevalDeFrise_Blueprint.label>
   <chevalDeFrise_Blueprint_Install.label>cheval de frise (blueprint)</chevalDeFrise_Blueprint_Install.label>
   <chevalDeFrise_Frame.label>cheval de frise (building)</chevalDeFrise_Frame.label>
-  <chevalDeFrise_Frame.description>A defensive barrier made of sharpened sticks. It is weak but slow to climb over.</chevalDeFrise_Frame.description>
+  <chevalDeFrise_Frame.description>A defensive barrier made of sharpened sticks. It is weak but slow to climb over。</chevalDeFrise_Frame.description>
 
 
   <!-- Embrasures -->
 
   <Embrasure.label>embrasure</Embrasure.label>
-  <Embrasure.description>A waist-high stone wall built for defense.</Embrasure.description>
+  <Embrasure.description>A waist-high stone wall built for defense。</Embrasure.description>
   <Embrasure_Blueprint.label>embrasure (blueprint)</Embrasure_Blueprint.label>
   <Embrasure_Frame.label>embrasure (building)</Embrasure_Frame.label>
-  <Embrasure_Frame.description>A waist-high stone wall built for defense.</Embrasure_Frame.description>
+  <Embrasure_Frame.description>A waist-high stone wall built for defense。</Embrasure_Frame.description>
 
 
   <!-- Barbed Wire -->
 
   <WallWire.label>barbed wire</WallWire.label>
-  <WallWire.description>Good fences make for good neighbor. This fencing is made out of razor wire to keep most people away.</WallWire.description>
+  <WallWire.description>Good fences make for good neighbor. This fencing is made out of razor wire to keep most people away。</WallWire.description>
   <WallWire_Blueprint.label>barbed wire (blueprint)</WallWire_Blueprint.label>
   <WallWire_Blueprint_Install.label>barbed wire (blueprint)</WallWire_Blueprint_Install.label>
   <WallWire_Frame.label>barbed wire (building)</WallWire_Frame.label>
-  <WallWire_Frame.description>Good fences make for good neighbor. This fencing is made out of razor wire to keep most people away.</WallWire_Frame.description>
+  <WallWire_Frame.description>Good fences make for good neighbor. This fencing is made out of razor wire to keep most people away。</WallWire_Frame.description>
 
 
   <!-- Moat -->
 
   <Moat.label>shallow moat</Moat.label>
-  <Moat.description>A light perimeter defense to slow down your enemy.</Moat.description>
+  <Moat.description>A light perimeter defense to slow down your enemy。</Moat.description>
   <Moat_Blueprint.label>shallow moat (blueprint)</Moat_Blueprint.label>
   <Moat_Frame.label>shallow moat (building)</Moat_Frame.label>
-  <Moat_Frame.description>A light perimeter defense to slow down your enemy.</Moat_Frame.description>
+  <Moat_Frame.description>A light perimeter defense to slow down your enemy。</Moat_Frame.description>
 
   <Building_Pawn_Upgrader.label>nanite shield station</Building_Pawn_Upgrader.label>
-  <Building_Pawn_Upgrader.description>Supplies and recharges Nanite Shield Modulators on colonists to protect them from injury.</Building_Pawn_Upgrader.description>
+  <Building_Pawn_Upgrader.description>Supplies and recharges Nanite Shield Modulators on colonists to protect them from injury。</Building_Pawn_Upgrader.description>
   <Building_Pawn_Upgrader_Blueprint.label>nanite shield station (blueprint)</Building_Pawn_Upgrader_Blueprint.label>
   <Building_Pawn_Upgrader_Frame.label>nanite shield station (building)</Building_Pawn_Upgrader_Frame.label>
-  <Building_Pawn_Upgrader_Frame.description>Supplies and recharges Nanite Shield Modulators on colonists to protect them from injury.</Building_Pawn_Upgrader_Frame.description>
+  <Building_Pawn_Upgrader_Frame.description>Supplies and recharges Nanite Shield Modulators on colonists to protect them from injury。</Building_Pawn_Upgrader_Frame.description>
 
 
 </LanguageData>

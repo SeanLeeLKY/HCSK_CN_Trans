@@ -2,46 +2,46 @@
 <LanguageData>
 
   <Door.label>rustic door</Door.label>
-  <Door.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door.description>
+  <Door.description>Divides rooms. Must be manually opened and closed, which slows people down。</Door.description>
   <Door_Blueprint.label>rustic door (blueprint)</Door_Blueprint.label>
   <Door_Frame.label>rustic door (building)</Door_Frame.label>
-  <Door_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door_Frame.description>
+  <Door_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down。</Door_Frame.description>
 
   <MDoor.label>metal door</MDoor.label>
-  <MDoor.description>Divides rooms. Must be manually opened and closed, which slows people down.</MDoor.description>
+  <MDoor.description>Divides rooms. Must be manually opened and closed, which slows people down。</MDoor.description>
   <MDoor_Blueprint.label>metal door (blueprint)</MDoor_Blueprint.label>
   <MDoor_Frame.label>metal door (building)</MDoor_Frame.label>
-  <MDoor_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down.</MDoor_Frame.description>
+  <MDoor_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down。</MDoor_Frame.description>
 
   <CellDoor.label>cell door</CellDoor.label>
-  <CellDoor.description>Door which prisoners as well as colonists can open. It divides rooms.</CellDoor.description>
+  <CellDoor.description>Door which prisoners as well as colonists can open. It divides rooms。</CellDoor.description>
   <CellDoor_Blueprint.label>cell door (blueprint)</CellDoor_Blueprint.label>
   <CellDoor_Frame.label>cell door (building)</CellDoor_Frame.label>
-  <CellDoor_Frame.description>Door which prisoners as well as colonists can open. It divides rooms.</CellDoor_Frame.description>
+  <CellDoor_Frame.description>Door which prisoners as well as colonists can open. It divides rooms。</CellDoor_Frame.description>
 
   <Autodoor.label>autodoor</Autodoor.label>
-  <Autodoor.description>A door divides rooms with a closable opening. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
+  <Autodoor.description>A door divides rooms with a closable opening. Powered operation allows people to move through the door without slowing down。</Autodoor.description>
   <Autodoor_Blueprint.label>autodoor (blueprint)</Autodoor_Blueprint.label>
   <Autodoor_Frame.label>autodoor (building)</Autodoor_Frame.label>
-  <Autodoor_Frame.description>A door divides rooms with a closable opening. Powered operation allows people to move through the door without slowing down.</Autodoor_Frame.description>
+  <Autodoor_Frame.description>A door divides rooms with a closable opening. Powered operation allows people to move through the door without slowing down。</Autodoor_Frame.description>
 
   <Blastdoor.label>blast autodoor</Blastdoor.label>
-  <Blastdoor.description>A powered, reinforced door that allows people to move through the door without slowing down.</Blastdoor.description>
+  <Blastdoor.description>A powered, reinforced door that allows people to move through the door without slowing down。</Blastdoor.description>
   <Blastdoor_Blueprint.label>blast autodoor (blueprint)</Blastdoor_Blueprint.label>
   <Blastdoor_Frame.label>blast autodoor (building)</Blastdoor_Frame.label>
-  <Blastdoor_Frame.description>A powered, reinforced door that allows people to move through the door without slowing down.</Blastdoor_Frame.description>
+  <Blastdoor_Frame.description>A powered, reinforced door that allows people to move through the door without slowing down。</Blastdoor_Frame.description>
 
   <OpenBlastDoor.label>large armor gate (open)</OpenBlastDoor.label>
-  <OpenBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently open.</OpenBlastDoor.description>
+  <OpenBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently open。</OpenBlastDoor.description>
 
   <ClosedBlastDoor.label>large armor gate (closed)</ClosedBlastDoor.label>
-  <ClosedBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently closed.</ClosedBlastDoor.description>
+  <ClosedBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently closed。</ClosedBlastDoor.description>
   <ClosedBlastDoor_Blueprint.label>large armor gate (closed) (blueprint)</ClosedBlastDoor_Blueprint.label>
   <ClosedBlastDoor_Frame.label>large armor gate (closed) (building)</ClosedBlastDoor_Frame.label>
-  <ClosedBlastDoor_Frame.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently closed.</ClosedBlastDoor_Frame.description>
+  <ClosedBlastDoor_Frame.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently closed。</ClosedBlastDoor_Frame.description>
 
   <JammedBlastDoor.label>large armor gate (jammed)</JammedBlastDoor.label>
-  <JammedBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is jammed.</JammedBlastDoor.description>
+  <JammedBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is jammed。</JammedBlastDoor.description>
 
 
 </LanguageData>

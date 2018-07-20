@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeTincture.label>brew mushroom tincture</MakeTincture.label>
-  <MakeTincture.description>Instill mushrooms into tincture. Useful for medicine. Requires basic understanding of cooking. \n\n产出：1.</MakeTincture.description>
-  <MakeTincture.jobString>Brewing mushroom tincture.</MakeTincture.jobString>
+  <MakeTincture.label>酿制 蘑菇酊剂</MakeTincture.label>
+  <MakeTincture.description>粗略提炼出蘑菇中的有益成分。可以作为保健用品。需要一定的烹饪技术。 \n\n产出：1。</MakeTincture.description>
+  <MakeTincture.jobString>正在酿制 蘑菇酊剂。</MakeTincture.jobString>
 
-  <MakeTincture_Bulk.label>brew bottles of mushroom tincture</MakeTincture_Bulk.label>
-  <MakeTincture_Bulk.description>Instill a few bottles of tincture from mushrooms. Useful for medicine. Requires basic understanding of cooking. \n\n产出：4.</MakeTincture_Bulk.description>
-  <MakeTincture_Bulk.jobString>Brewing bottles of mushroom tincture.</MakeTincture_Bulk.jobString>
+  <MakeTincture_Bulk.label>酿制 蘑菇酊剂（x4）</MakeTincture_Bulk.label>
+  <MakeTincture_Bulk.description>粗略提炼出蘑菇中的有益成分。可以作为保健用品。需要一定的烹饪技术。 \n\n产出：4。</MakeTincture_Bulk.description>
+  <MakeTincture_Bulk.jobString>正在酿制 蘑菇酊剂。</MakeTincture_Bulk.jobString>
 
-  <MakeTinctureHealroot.label>brew healroot tincture</MakeTinctureHealroot.label>
-  <MakeTinctureHealroot.description>Instill healroot into a tincture. Useful for medicine. Requires basic understanding of cooking. \n\n产出：1.</MakeTinctureHealroot.description>
-  <MakeTinctureHealroot.jobString>Brewing mushroom tincture.</MakeTinctureHealroot.jobString>
+  <MakeTinctureHealroot.label>酿制 草药酊剂</MakeTinctureHealroot.label>
+  <MakeTinctureHealroot.description>粗略提炼出药草中的有益成分。可以作为保健用品。需要一定的烹饪技术。 \n\n产出：1。</MakeTinctureHealroot.description>
+  <MakeTinctureHealroot.jobString>正在酿制 草药酊剂。</MakeTinctureHealroot.jobString>
 
-  <BrewMedicalDrink.label>brew medical drink</BrewMedicalDrink.label>
-  <BrewMedicalDrink.description>Brew a bottle of healthy medical drink from healroot and hops or yeast. Requires basic understanding of cooking. \n\n产出：1.</BrewMedicalDrink.description>
-  <BrewMedicalDrink.jobString>Brewing medical drink.</BrewMedicalDrink.jobString>
+  <BrewMedicalDrink.label>酿制 健康饮料</BrewMedicalDrink.label>
+  <BrewMedicalDrink.description>酿制一瓶有益健康的饮料，原料来自于药草，还有酵母或啤酒花。需要一定的烹饪技术。 \n\n产出：1。</BrewMedicalDrink.description>
+  <BrewMedicalDrink.jobString>正在酿制 健康饮料。</BrewMedicalDrink.jobString>
 
 
 </LanguageData>

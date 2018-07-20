@@ -5,15 +5,15 @@
 
   <MakeAmmo_Bolt_Metallic.label>制造 金属头弩箭 x50</MakeAmmo_Bolt_Metallic.label>
   <MakeAmmo_Bolt_Metallic.description>制造 50 金属头弩箭。</MakeAmmo_Bolt_Metallic.description>
-  <MakeAmmo_Bolt_Metallic.jobString>制造 弩箭。</MakeAmmo_Bolt_Metallic.jobString>
+  <MakeAmmo_Bolt_Metallic.jobString>正在制造 弩箭。</MakeAmmo_Bolt_Metallic.jobString>
 
   <MakeAmmo_Bolt_Poison.label>制造 毒弩箭 x50</MakeAmmo_Bolt_Poison.label>
   <MakeAmmo_Bolt_Poison.description>制造 50 毒弩箭。</MakeAmmo_Bolt_Poison.description>
-  <MakeAmmo_Bolt_Poison.jobString>制造 毒弩箭。</MakeAmmo_Bolt_Poison.jobString>
+  <MakeAmmo_Bolt_Poison.jobString>正在制造 毒弩箭。</MakeAmmo_Bolt_Poison.jobString>
 
   <MakeAmmo_Bolt_Explosive.label>制造 爆炸弩箭  x50</MakeAmmo_Bolt_Explosive.label>
   <MakeAmmo_Bolt_Explosive.description>制造 50 爆炸弩箭 。</MakeAmmo_Bolt_Explosive.description>
-  <MakeAmmo_Bolt_Explosive.jobString>制造 爆炸弩箭 。</MakeAmmo_Bolt_Explosive.jobString>
+  <MakeAmmo_Bolt_Explosive.jobString>正在制造 爆炸弩箭 。</MakeAmmo_Bolt_Explosive.jobString>
 
 
 </LanguageData>

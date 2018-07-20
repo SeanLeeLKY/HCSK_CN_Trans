@@ -10,10 +10,10 @@
   <MentalStateSelfHarm.rulePack.rulesStrings.5>circumstance_phrase->while cowering in [pawn_possessive] room</MentalStateSelfHarm.rulePack.rulesStrings.5>
   <MentalStateSelfHarm.rulePack.rulesStrings.6>circumstance_phrase->without speaking a word</MentalStateSelfHarm.rulePack.rulesStrings.6>
   <MentalStateSelfHarm.rulePack.rulesStrings.7>circumstance_phrase->while crying</MentalStateSelfHarm.rulePack.rulesStrings.7>
-  <MentalStateSelfHarm.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] looks pale and sickly.</MentalStateSelfHarm.rulePack.rulesStrings.8>
-  <MentalStateSelfHarm.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] arms are limp.</MentalStateSelfHarm.rulePack.rulesStrings.9>
-  <MentalStateSelfHarm.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] clothes are stained with blood.</MentalStateSelfHarm.rulePack.rulesStrings.10>
-  <MentalStateSelfHarm.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] is sitting on the floor, rocking back and forth.</MentalStateSelfHarm.rulePack.rulesStrings.11>
+  <MentalStateSelfHarm.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] looks pale and sickly。</MentalStateSelfHarm.rulePack.rulesStrings.8>
+  <MentalStateSelfHarm.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] arms are limp。</MentalStateSelfHarm.rulePack.rulesStrings.9>
+  <MentalStateSelfHarm.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] clothes are stained with blood。</MentalStateSelfHarm.rulePack.rulesStrings.10>
+  <MentalStateSelfHarm.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] is sitting on the floor, rocking back and forth。</MentalStateSelfHarm.rulePack.rulesStrings.11>
 
   <MentalStateApathy.label>apathy</MentalStateApathy.label>
   <MentalStateApathy.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] wandering around apathetically</MentalStateApathy.rulePack.rulesStrings.0>
@@ -25,9 +25,9 @@
   <MentalStateApathy.rulePack.rulesStrings.6>circumstance_phrase->with an annoyed look on [pawn_possessive] face</MentalStateApathy.rulePack.rulesStrings.6>
   <MentalStateApathy.rulePack.rulesStrings.7>circumstance_phrase->while pouting</MentalStateApathy.rulePack.rulesStrings.7>
   <MentalStateApathy.rulePack.rulesStrings.8>circumstance_phrase->while grumbling</MentalStateApathy.rulePack.rulesStrings.8>
-  <MentalStateApathy.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] looks exhausted.</MentalStateApathy.rulePack.rulesStrings.9>
-  <MentalStateApathy.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] arms are crossed.</MentalStateApathy.rulePack.rulesStrings.10>
-  <MentalStateApathy.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] looks like [pawn_pronoun] couldn't care less.</MentalStateApathy.rulePack.rulesStrings.11>
+  <MentalStateApathy.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun] looks exhausted。</MentalStateApathy.rulePack.rulesStrings.9>
+  <MentalStateApathy.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] arms are crossed。</MentalStateApathy.rulePack.rulesStrings.10>
+  <MentalStateApathy.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] looks like [pawn_pronoun] couldn't care less。</MentalStateApathy.rulePack.rulesStrings.11>
 
   <MentalStateCompulsion.label>compulsion</MentalStateCompulsion.label>
   <MentalStateCompulsion.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] neurotically cleaning</MentalStateCompulsion.rulePack.rulesStrings.0>
@@ -37,9 +37,9 @@
   <MentalStateCompulsion.rulePack.rulesStrings.4>circumstance_phrase->while mumbling under [pawn_possessive] breath</MentalStateCompulsion.rulePack.rulesStrings.4>
   <MentalStateCompulsion.rulePack.rulesStrings.5>circumstance_phrase->while sweating profusely</MentalStateCompulsion.rulePack.rulesStrings.5>
   <MentalStateCompulsion.rulePack.rulesStrings.6>circumstance_phrase->while struggling to stay awake</MentalStateCompulsion.rulePack.rulesStrings.6>
-  <MentalStateCompulsion.rulePack.rulesStrings.7>desc_sentence->[pawn_pronoun] looks like [pawn_pronoun] hasn't slept in days.</MentalStateCompulsion.rulePack.rulesStrings.7>
-  <MentalStateCompulsion.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] looks malnourished and hungry.</MentalStateCompulsion.rulePack.rulesStrings.8>
-  <MentalStateCompulsion.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] hands are trembling.</MentalStateCompulsion.rulePack.rulesStrings.9>
+  <MentalStateCompulsion.rulePack.rulesStrings.7>desc_sentence->[pawn_pronoun] looks like [pawn_pronoun] hasn't slept in days。</MentalStateCompulsion.rulePack.rulesStrings.7>
+  <MentalStateCompulsion.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] looks malnourished and hungry。</MentalStateCompulsion.rulePack.rulesStrings.8>
+  <MentalStateCompulsion.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] hands are trembling。</MentalStateCompulsion.rulePack.rulesStrings.9>
 
 
 </LanguageData>

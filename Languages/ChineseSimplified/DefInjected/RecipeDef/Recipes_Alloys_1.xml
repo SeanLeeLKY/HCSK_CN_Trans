@@ -4,123 +4,123 @@
   <!-- REALISTIC PRODUCTION SK MOD -->
 
   <MakeSteelBars_Hand.label>熔炼 钢铁</MakeSteelBars_Hand.label>
-  <MakeSteelBars_Hand.description>Smelts steel alloy from iron ore and coal or charcoal. \n\n产出：20.</MakeSteelBars_Hand.description>
+  <MakeSteelBars_Hand.description>Smelts steel alloy from iron ore and coal or charcoal. \n\n产出：20。</MakeSteelBars_Hand.description>
   <MakeSteelBars_Hand.jobString>熔炼 钢铁</MakeSteelBars_Hand.jobString>
 
   <MakeSteelBars_Electric.label>熔炼 钢铁</MakeSteelBars_Electric.label>
-  <MakeSteelBars_Electric.description>Smelts steel alloy from iron ore and coal or charcoal. \n\n产出：20.</MakeSteelBars_Electric.description>
+  <MakeSteelBars_Electric.description>Smelts steel alloy from iron ore and coal or charcoal. \n\n产出：20。</MakeSteelBars_Electric.description>
   <MakeSteelBars_Electric.jobString>熔炼 钢铁</MakeSteelBars_Electric.jobString>
 
   <MakeBronze_Hand.label>熔炼 青铜</MakeBronze_Hand.label>
-  <MakeBronze_Hand.description>Smelts bronze alloy from copper ore and other metals. \n\n产出：30.</MakeBronze_Hand.description>
+  <MakeBronze_Hand.description>Smelts bronze alloy from copper ore and other metals. \n\n产出：30。</MakeBronze_Hand.description>
   <MakeBronze_Hand.jobString>熔炼 青铜</MakeBronze_Hand.jobString>
 
   <MakeBronze_Electric.label>熔炼 青铜</MakeBronze_Electric.label>
-  <MakeBronze_Electric.description>Smelts bronze alloy from copper ore and other metals. \n\n产出：30.</MakeBronze_Electric.description>
+  <MakeBronze_Electric.description>Smelts bronze alloy from copper ore and other metals. \n\n产出：30。</MakeBronze_Electric.description>
   <MakeBronze_Electric.jobString>熔炼 青铜</MakeBronze_Electric.jobString>
 
   <ProcessNickelOre.label>熔炼 镍合金</ProcessNickelOre.label>
-  <ProcessNickelOre.description>Smelts nickel alloy from nickel ore. \n\n产出：15.</ProcessNickelOre.description>
+  <ProcessNickelOre.description>Smelts nickel alloy from nickel ore. \n\n产出：15。</ProcessNickelOre.description>
   <ProcessNickelOre.jobString>熔炼 镍合金</ProcessNickelOre.jobString>
 
   <ProcessCobalt.label>熔炼 钴合金</ProcessCobalt.label>
-  <ProcessCobalt.description>Smelts cobalt alloy from nickel ore. \n\n产出：15.</ProcessCobalt.description>
+  <ProcessCobalt.description>Smelts cobalt alloy from nickel ore. \n\n产出：15。</ProcessCobalt.description>
   <ProcessCobalt.jobString>熔炼 钴合金</ProcessCobalt.jobString>
 
   <ProcessForManganese.label>熔炼 锰合金</ProcessForManganese.label>
-  <ProcessForManganese.description>Smelts pyrolusite ore into manganese alloy. \n\n产出：10.</ProcessForManganese.description>
+  <ProcessForManganese.description>Smelts pyrolusite ore into manganese alloy. \n\n产出：10。</ProcessForManganese.description>
   <ProcessForManganese.jobString>熔炼 锰合金</ProcessForManganese.jobString>
 
   <ProcessForChromium.label>熔炼 铬合金</ProcessForChromium.label>
-  <ProcessForChromium.description>Smelts chromium alloy from iron ore. Chromium is a vital ingredient used in the production of nichrome. \n\n产出：10.</ProcessForChromium.description>
+  <ProcessForChromium.description>Smelts chromium alloy from iron ore. Chromium is a vital ingredient used in the production of nichrome. \n\n产出：10。</ProcessForChromium.description>
   <ProcessForChromium.jobString>熔炼 铬合金</ProcessForChromium.jobString>
 
   <ProcessTungsten.label>熔炼 钨合金</ProcessTungsten.label>
-  <ProcessTungsten.description>Smelts wolframite ore into tungsten alloy. \n\n产出：15.</ProcessTungsten.description>
+  <ProcessTungsten.description>Smelts wolframite ore into tungsten alloy. \n\n产出：15。</ProcessTungsten.description>
   <ProcessTungsten.jobString>熔炼 钨合金</ProcessTungsten.jobString>
 
   <ProcessTitanium.label>熔炼 钛合金</ProcessTitanium.label>
-  <ProcessTitanium.description>Smelts ilmenite ore into titanium alloy. \n\n产出：15.</ProcessTitanium.description>
+  <ProcessTitanium.description>Smelts ilmenite ore into titanium alloy. \n\n产出：15。</ProcessTitanium.description>
   <ProcessTitanium.jobString>熔炼 钛合金</ProcessTitanium.jobString>
 
   <MakeCupronickelAlloy.label>熔炼 梅尔基奥合金</MakeCupronickelAlloy.label>
-  <MakeCupronickelAlloy.description>Smelts melchior alloy from copper, nickel and aluminum. Melchior has a high electrical resistance. \n\n产出：30.</MakeCupronickelAlloy.description>
+  <MakeCupronickelAlloy.description>Smelts melchior alloy from copper, nickel and aluminum. Melchior has a high electrical resistance. \n\n产出：30。</MakeCupronickelAlloy.description>
   <MakeCupronickelAlloy.jobString>熔炼 梅尔基奥合金</MakeCupronickelAlloy.jobString>
 
   <MakeFerrosiliconAlloy.label>熔炼 山达斯特合金</MakeFerrosiliconAlloy.label>
-  <MakeFerrosiliconAlloy.description>Smelts sendust alloy by reducing silicon in the presence of iron and aluminium. Sendust is a tougher metal than steel. \n\n产出：30.</MakeFerrosiliconAlloy.description>
+  <MakeFerrosiliconAlloy.description>Smelts sendust alloy by reducing silicon in the presence of iron and aluminium. Sendust is a tougher metal than steel. \n\n产出：30。</MakeFerrosiliconAlloy.description>
   <MakeFerrosiliconAlloy.jobString>熔炼 山达斯特合金</MakeFerrosiliconAlloy.jobString>
 
   <MakeFerronickelAlloy.label>熔炼 斯坦合金</MakeFerronickelAlloy.label>
-  <MakeFerronickelAlloy.description>Smelts stein alloy from iron, nickel and manganese. Stein is a tougher metal than sendust. \n\n产出：20.</MakeFerronickelAlloy.description>
+  <MakeFerronickelAlloy.description>Smelts stein alloy from iron, nickel and manganese. Stein is a tougher metal than sendust. \n\n产出：20。</MakeFerronickelAlloy.description>
   <MakeFerronickelAlloy.jobString>熔炼 斯坦合金</MakeFerronickelAlloy.jobString>
 
   <MakeStelliteAlloy.label>熔炼 斯特莱特合金</MakeStelliteAlloy.label>
-  <MakeStelliteAlloy.description>Smelts stellite, an alloy of cobalt, chromium and tungsten. Stellite is designed for wear resistance. \n\n产出：20.</MakeStelliteAlloy.description>
+  <MakeStelliteAlloy.description>Smelts stellite, an alloy of cobalt, chromium and tungsten. Stellite is designed for wear resistance. \n\n产出：20。</MakeStelliteAlloy.description>
   <MakeStelliteAlloy.jobString>熔炼 斯特莱特合金</MakeStelliteAlloy.jobString>
 
   <MakeNichromeAlloy.label>熔炼 镍铬合金</MakeNichromeAlloy.label>
-  <MakeNichromeAlloy.description>Smelts nichrome, an alloy of nickel, chromium and manganese. Nichrome is typically used for resistant wiring. \n\n产出：20.</MakeNichromeAlloy.description>
+  <MakeNichromeAlloy.description>Smelts nichrome, an alloy of nickel, chromium and manganese. Nichrome is typically used for resistant wiring. \n\n产出：20。</MakeNichromeAlloy.description>
   <MakeNichromeAlloy.jobString>熔炼 镍铬合金</MakeNichromeAlloy.jobString>
 
   <MakeAlnicoAlloy.label>熔炼 阿尔尼科合金</MakeAlnicoAlloy.label>
-  <MakeAlnicoAlloy.description>Smelts alnico, an alloy of steel, nickel, aluminum and cobalt. Alnico is used in the creation of strong permanent magnets, and can be magnetised to produce strong magnetic fields. \n\n产出：20.</MakeAlnicoAlloy.description>
+  <MakeAlnicoAlloy.description>Smelts alnico, an alloy of steel, nickel, aluminum and cobalt. Alnico is used in the creation of strong permanent magnets, and can be magnetised to produce strong magnetic fields. \n\n产出：20。</MakeAlnicoAlloy.description>
   <MakeAlnicoAlloy.jobString>熔炼 阿尔尼科合金</MakeAlnicoAlloy.jobString>
 
   <MakePobediteAlloy.label>熔炼 培博戴特合金</MakePobediteAlloy.label>
-  <MakePobediteAlloy.description>Smelts pobedite, an alloy of carbon fiber, tungsten and cobalt. This composite alloy possesses a particularly high hardness. \n\n产出：10.</MakePobediteAlloy.description>
+  <MakePobediteAlloy.description>Smelts pobedite, an alloy of carbon fiber, tungsten and cobalt. This composite alloy possesses a particularly high hardness. \n\n产出：10。</MakePobediteAlloy.description>
   <MakePobediteAlloy.jobString>熔炼 培博戴特合金</MakePobediteAlloy.jobString>
 
   <MakeGoldBars_Hand.label>熔炼 金锭</MakeGoldBars_Hand.label>
-  <MakeGoldBars_Hand.description>Smelts gold, a beautiful, precious alloy of gold and copper or bauxite. \n\n产出：10.</MakeGoldBars_Hand.description>
+  <MakeGoldBars_Hand.description>Smelts gold, a beautiful, precious alloy of gold and copper or bauxite. \n\n产出：10。</MakeGoldBars_Hand.description>
   <MakeGoldBars_Hand.jobString>熔炼 金锭</MakeGoldBars_Hand.jobString>
 
   <MakeGoldBars_Electric.label>熔炼 金锭</MakeGoldBars_Electric.label>
-  <MakeGoldBars_Electric.description>Smelts gold, a beautiful, precious alloy of gold and copper or bauxite. \n\n产出：10.</MakeGoldBars_Electric.description>
+  <MakeGoldBars_Electric.description>Smelts gold, a beautiful, precious alloy of gold and copper or bauxite. \n\n产出：10。</MakeGoldBars_Electric.description>
   <MakeGoldBars_Electric.jobString>熔炼 金锭</MakeGoldBars_Electric.jobString>
 
   <MakeSilverBars_Hand.label>熔炼 纯银锭</MakeSilverBars_Hand.label>
-  <MakeSilverBars_Hand.description>Smelts sterling silver, a valuable alloy of silver and either copper or bauxite. \n\n产出：10.</MakeSilverBars_Hand.description>
+  <MakeSilverBars_Hand.description>Smelts sterling silver, a valuable alloy of silver and either copper or bauxite. \n\n产出：10。</MakeSilverBars_Hand.description>
   <MakeSilverBars_Hand.jobString>熔炼 纯银锭</MakeSilverBars_Hand.jobString>
 
   <MakeSilverBars_Electric.label>熔炼 纯银锭</MakeSilverBars_Electric.label>
-  <MakeSilverBars_Electric.description>Smelts sterling silver, a valuable alloy of silver and either copper or bauxite. \n\n产出：10.</MakeSilverBars_Electric.description>
+  <MakeSilverBars_Electric.description>Smelts sterling silver, a valuable alloy of silver and either copper or bauxite. \n\n产出：10。</MakeSilverBars_Electric.description>
   <MakeSilverBars_Electric.jobString>熔炼 纯银锭</MakeSilverBars_Electric.jobString>
 
   <MakeCopperBars_Hand.label>熔炼 铜锭</MakeCopperBars_Hand.label>
-  <MakeCopperBars_Hand.description>Smelts copper alloy from copper ore. \n\n产出：15.</MakeCopperBars_Hand.description>
+  <MakeCopperBars_Hand.description>Smelts copper alloy from copper ore. \n\n产出：15。</MakeCopperBars_Hand.description>
   <MakeCopperBars_Hand.jobString>熔炼 铜锭</MakeCopperBars_Hand.jobString>
 
   <MakeCopperBars_Electric.label>熔炼 铜锭</MakeCopperBars_Electric.label>
-  <MakeCopperBars_Electric.description>Smelts copper alloy from copper ore. \n\n产出：15.</MakeCopperBars_Electric.description>
+  <MakeCopperBars_Electric.description>Smelts copper alloy from copper ore. \n\n产出：15。</MakeCopperBars_Electric.description>
   <MakeCopperBars_Electric.jobString>熔炼 铜锭</MakeCopperBars_Electric.jobString>
 
   <MakeTinBars_Hand.label>熔炼 锡锭</MakeTinBars_Hand.label>
-  <MakeTinBars_Hand.description>Smelts tin alloy from tin ore. Tin can be used to construct workbenches with higher than average working speed. \n\n产出：10.</MakeTinBars_Hand.description>
+  <MakeTinBars_Hand.description>Smelts tin alloy from tin ore. Tin can be used to construct workbenches with higher than average working speed. \n\n产出：10。</MakeTinBars_Hand.description>
   <MakeTinBars_Hand.jobString>熔炼 锡锭</MakeTinBars_Hand.jobString>
 
   <MakeTinBars_Electric.label>熔炼 锡锭</MakeTinBars_Electric.label>
-  <MakeTinBars_Electric.description>Smelts tin alloy from tin ore. Tin can be used to construct workbenches with higher than average working speed. \n\n产出：20.</MakeTinBars_Electric.description>
+  <MakeTinBars_Electric.description>Smelts tin alloy from tin ore. Tin can be used to construct workbenches with higher than average working speed. \n\n产出：20。</MakeTinBars_Electric.description>
   <MakeTinBars_Electric.jobString>熔炼 锡锭</MakeTinBars_Electric.jobString>
 
   <MakeAluminiumBars_Hand.label>熔炼 铝合金</MakeAluminiumBars_Hand.label>
-  <MakeAluminiumBars_Hand.description>Smelts aluminium alloy from bauxite ore. \n\n产出：15.</MakeAluminiumBars_Hand.description>
+  <MakeAluminiumBars_Hand.description>Smelts aluminium alloy from bauxite ore. \n\n产出：15。</MakeAluminiumBars_Hand.description>
   <MakeAluminiumBars_Hand.jobString>熔炼 铝合金</MakeAluminiumBars_Hand.jobString>
 
   <MakeAluminiumBars_Electric.label>熔炼 铝合金</MakeAluminiumBars_Electric.label>
-  <MakeAluminiumBars_Electric.description>Smelts aluminium alloy from bauxite ore. \n\n产出：15.</MakeAluminiumBars_Electric.description>
+  <MakeAluminiumBars_Electric.description>Smelts aluminium alloy from bauxite ore. \n\n产出：15。</MakeAluminiumBars_Electric.description>
   <MakeAluminiumBars_Electric.jobString>熔炼 铝合金</MakeAluminiumBars_Electric.jobString>
 
   <MakeFerrotitaniumAlloy.label>熔炼 钛铁合金</MakeFerrotitaniumAlloy.label>
-  <MakeFerrotitaniumAlloy.description>Smelts ferrotitanium, a very durable alloy made from steel, titanium and carbon fiber. \n\n产出：15.</MakeFerrotitaniumAlloy.description>
+  <MakeFerrotitaniumAlloy.description>Smelts ferrotitanium, a very durable alloy made from steel, titanium and carbon fiber. \n\n产出：15。</MakeFerrotitaniumAlloy.description>
   <MakeFerrotitaniumAlloy.jobString>熔炼 钛铁合金</MakeFerrotitaniumAlloy.jobString>
 
   <MakeNitinolAlloy.label>熔炼 镍钛合金</MakeNitinolAlloy.label>
-  <MakeNitinolAlloy.description>Smelts nitinol, an alloy of nickel and titanium. It is exceptionally durable, somewhat beautiful and difficult to make. \n\n产出：15.</MakeNitinolAlloy.description>
+  <MakeNitinolAlloy.description>Smelts nitinol, an alloy of nickel and titanium. It is exceptionally durable, somewhat beautiful and difficult to make. \n\n产出：15。</MakeNitinolAlloy.description>
   <MakeNitinolAlloy.jobString>熔炼 镍钛合金</MakeNitinolAlloy.jobString>
 
   <MakeCarbonAlloy.label>熔炼 碳纤维</MakeCarbonAlloy.label>
-  <MakeCarbonAlloy.description>Smelts carbon fiber alloy, a polymer composite material of interwoven strands of carbon fibers arranged in a matrix of polymer resins. \n\n产出：10.</MakeCarbonAlloy.description>
+  <MakeCarbonAlloy.description>Smelts carbon fiber alloy, a polymer composite material of interwoven strands of carbon fibers arranged in a matrix of polymer resins. \n\n产出：10。</MakeCarbonAlloy.description>
   <MakeCarbonAlloy.jobString>熔炼 碳纤维</MakeCarbonAlloy.jobString>
 
 

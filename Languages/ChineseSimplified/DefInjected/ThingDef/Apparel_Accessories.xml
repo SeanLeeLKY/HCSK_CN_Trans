@@ -5,10 +5,10 @@
   <Pirate_Eyepatch.description>An eyepatch to cover an eye. Makes you look like a real pirate, yarr har!</Pirate_Eyepatch.description>
 
   <Apparel_Scarf.label>Scarf</Apparel_Scarf.label>
-  <Apparel_Scarf.description>A scarf is a long piece of fabric wrapped around the neck. It is commonly used in cold regions as it provides protection from cold weather.</Apparel_Scarf.description>
+  <Apparel_Scarf.description>A scarf is a long piece of fabric wrapped around the neck. It is commonly used in cold regions as it provides protection from cold weather。</Apparel_Scarf.description>
 
   <BanditMask.label>Bandit Mask</BanditMask.label>
-  <BanditMask.description>A simple hankerkief mask. Commonly worn by bandits.</BanditMask.description>
+  <BanditMask.description>A simple hankerkief mask. Commonly worn by bandits。</BanditMask.description>
 
 
   <!-- In furure tags:
@@ -24,7 +24,7 @@
 			<li>SectarianLight</li> -->
 
   <Apparello_Bandit.label>Bandit scarf</Apparello_Bandit.label>
-  <Apparello_Bandit.description>Stylish, elegant and soft to the touch. Known as the most important part of western attire, sspecially amongst the card cheats and other slippery individuals. It comes with a scarf for added banditry.</Apparello_Bandit.description>
+  <Apparello_Bandit.description>Stylish, elegant and soft to the touch. Known as the most important part of western attire, sspecially amongst the card cheats and other slippery individuals. It comes with a scarf for added banditry。</Apparello_Bandit.description>
 
   <Apparello_Pilot.label>Aviator sunglasses</Apparello_Pilot.label>
   <Apparello_Pilot.description>Authentic Rim-Ban™ quality. Cover your eyes with awesome!</Apparello_Pilot.description>
@@ -33,13 +33,13 @@
   <Apparello_Shadess.description>A pair of stylish eye shades favoured for protection from the sun. The wearer will never get caught with the excuse "the sun was shining in my eyes!"</Apparello_Shadess.description>
 
   <Apparello_Brimsk.label>Goggled Ski Mask</Apparello_Brimsk.label>
-  <Apparello_Brimsk.description>A military grade mask with skiing goggles attached, with a slightly stylized design. It is known for its heavy impact resistance.</Apparello_Brimsk.description>
+  <Apparello_Brimsk.description>A military grade mask with skiing goggles attached, with a slightly stylized design. It is known for its heavy impact resistance。</Apparello_Brimsk.description>
 
   <Marine_BattleMask.label>Marine Storm Mask</Marine_BattleMask.label>
-  <Marine_BattleMask.description>A mask with a of pair of marine special forces military grade goggles, slightly stylized design. It is known for having heavy impact resistance.</Marine_BattleMask.description>
+  <Marine_BattleMask.description>A mask with a of pair of marine special forces military grade goggles, slightly stylized design. It is known for having heavy impact resistance。</Marine_BattleMask.description>
 
   <Apparel_Earmuff.label>earmuff</Apparel_Earmuff.label>
-  <Apparel_Earmuff.description>A pair of soft pads connected by a band across the top of the head, that are worn over the ears to protect them from cold.</Apparel_Earmuff.description>
+  <Apparel_Earmuff.description>A pair of soft pads connected by a band across the top of the head, that are worn over the ears to protect them from cold。</Apparel_Earmuff.description>
 
   <Apparello_Visoor.label>Shuttle Pilot's Visor</Apparello_Visoor.label>
   <Apparello_Visoor.description>A pair of shuttle pilot's visors. It can be used to fulfill your usual piloting needs like calling in "Houston; mayday mayday - landing struts are jammed, I repeat landing struts are jammed. Copy? Roger Wilco. Starfox One out."</Apparello_Visoor.description>
@@ -55,7 +55,7 @@
 		</tags> -->
 
   <Apparello_Footy.label>Balaclava</Apparello_Footy.label>
-  <Apparello_Footy.description>Without proper methods of finding out, you'll be forever uncertain whether this balaclava is the real deal or not. The marking on the forehead strongly suggests it indeed is a remnant of an ancient clan of fighters.</Apparello_Footy.description>
+  <Apparello_Footy.description>Without proper methods of finding out, you'll be forever uncertain whether this balaclava is the real deal or not. The marking on the forehead strongly suggests it indeed is a remnant of an ancient clan of fighters。</Apparello_Footy.description>
 
 
 </LanguageData>

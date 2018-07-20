@@ -2,44 +2,44 @@
 <LanguageData>
 
   <MeltSugar.label>melting sugary substances</MeltSugar.label>
-  <MeltSugar.description>Boiling down high sugar substances into a sugar substitute residue \n\n产出：5.</MeltSugar.description>
-  <MeltSugar.jobString>Boiling down sugary substances into sugar residue.</MeltSugar.jobString>
+  <MeltSugar.description>Boiling down high sugar substances into a sugar substitute residue \n\n产出：5。</MeltSugar.description>
+  <MeltSugar.jobString>Boiling down sugary substances into sugar residue。</MeltSugar.jobString>
 
-  <MakeSugar.label>grind sugarcane</MakeSugar.label>
-  <MakeSugar.description>Beat and grind those canes to get at that sugar! \n\n产出：5.</MakeSugar.description>
-  <MakeSugar.jobString>Grinding sugarcane into sugar.</MakeSugar.jobString>
+  <MakeSugar.label>榨制 sugarcane</MakeSugar.label>
+  <MakeSugar.description>Beat and grind those canes to get at that sugar! \n\n产出：5。</MakeSugar.description>
+  <MakeSugar.jobString>Grinding sugarcane into sugar。</MakeSugar.jobString>
 
   <MakeFlour.label>grind flour</MakeFlour.label>
-  <MakeFlour.description>Grind wheat, corn, rice or oats into flour. \n\n产出：10.</MakeFlour.description>
-  <MakeFlour.jobString>Grinding flour.</MakeFlour.jobString>
+  <MakeFlour.description>Grind wheat, corn, rice or oats into flour. \n\n产出：10。</MakeFlour.description>
+  <MakeFlour.jobString>Grinding flour。</MakeFlour.jobString>
 
   <MakePotatoFlour.label>grind baked potatoes</MakePotatoFlour.label>
-  <MakePotatoFlour.description>Grinding baked potatoes into flour. \n\n产出：10.</MakePotatoFlour.description>
-  <MakePotatoFlour.jobString>Grinding Baked Potatoes.</MakePotatoFlour.jobString>
+  <MakePotatoFlour.description>Grinding baked potatoes into flour. \n\n产出：10。</MakePotatoFlour.description>
+  <MakePotatoFlour.jobString>Grinding Baked Potatoes。</MakePotatoFlour.jobString>
 
   <CraftCornmeal.label>grind corn</CraftCornmeal.label>
-  <CraftCornmeal.description>Grind corn into cornmeal. \n\n产出：4.</CraftCornmeal.description>
-  <CraftCornmeal.jobString>Grinding corn.</CraftCornmeal.jobString>
+  <CraftCornmeal.description>Grind corn into cornmeal. \n\n产出：4。</CraftCornmeal.description>
+  <CraftCornmeal.jobString>Grinding corn。</CraftCornmeal.jobString>
 
   <Makesoymilk.label>press soy milk</Makesoymilk.label>
-  <Makesoymilk.description>Press beans into soy milk. \n\n产出：4.</Makesoymilk.description>
-  <Makesoymilk.jobString>Pressing beans into soy milk.</Makesoymilk.jobString>
+  <Makesoymilk.description>Press beans into soy milk. \n\n产出：4。</Makesoymilk.description>
+  <Makesoymilk.jobString>Pressing beans into soy milk。</Makesoymilk.jobString>
 
   <MakeChocolate.label>Cook chocolates</MakeChocolate.label>
-  <MakeChocolate.description>Roast cocoa beans and sugar to 制造 chocolate, a sweet treat. \n\n产出：5.</MakeChocolate.description>
-  <MakeChocolate.jobString>Roasting cocoa beans into chocolate.</MakeChocolate.jobString>
+  <MakeChocolate.description>Roast cocoa beans and sugar to 制造 chocolate, a sweet treat. \n\n产出：5。</MakeChocolate.description>
+  <MakeChocolate.jobString>Roasting cocoa beans into chocolate。</MakeChocolate.jobString>
 
   <MakeCaramel.label>Caramelize sugar</MakeCaramel.label>
-  <MakeCaramel.description>Turns sugar into a caramel snacks. \n\n产出：3.</MakeCaramel.description>
-  <MakeCaramel.jobString>Camarelize sugar into caramel.</MakeCaramel.jobString>
+  <MakeCaramel.description>Turns sugar into a caramel snacks. \n\n产出：3。</MakeCaramel.description>
+  <MakeCaramel.jobString>Camarelize sugar into caramel。</MakeCaramel.jobString>
 
   <MakeBread.label>bake bread loaves</MakeBread.label>
-  <MakeBread.description>Bakes loaves of bread. \n\n产出：2.</MakeBread.description>
-  <MakeBread.jobString>Baking bread loaves.</MakeBread.jobString>
+  <MakeBread.description>Bakes loaves of bread. \n\n产出：2。</MakeBread.description>
+  <MakeBread.jobString>Baking bread loaves。</MakeBread.jobString>
 
   <Makecheese.label>process cheese</Makecheese.label>
-  <Makecheese.description>Turns milk or soy milk into cheese. \n\n产出：4.</Makecheese.description>
-  <Makecheese.jobString>Processing milk into cheese.</Makecheese.jobString>
+  <Makecheese.description>Turns milk or soy milk into cheese. \n\n产出：4。</Makecheese.description>
+  <Makecheese.jobString>Processing milk into cheese。</Makecheese.jobString>
 
 
 </LanguageData>

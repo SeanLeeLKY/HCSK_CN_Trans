@@ -4,78 +4,78 @@
   <!-- Yeast -->
 
   <Makeyeast.label>制作酵母</Makeyeast.label>
-  <Makeyeast.description>Extracts yeast from common fungi. \n\n产出：15.</Makeyeast.description>
-  <Makeyeast.jobString>Extracting yeast.</Makeyeast.jobString>
+  <Makeyeast.description>Extracts yeast from common fungi. \n\n产出：15。</Makeyeast.description>
+  <Makeyeast.jobString>Extracting yeast。</Makeyeast.jobString>
 
 
   <!-- Wort -->
 
   <MakeWort.label>Brew wort</MakeWort.label>
-  <MakeWort.description>Brew a batch of wort from hops. \n\n产出：10.</MakeWort.description>
-  <MakeWort.jobString>Brewing batch of wort.</MakeWort.jobString>
+  <MakeWort.description>Brew a batch of wort from hops. \n\n产出：10。</MakeWort.description>
+  <MakeWort.jobString>Brewing batch of wort。</MakeWort.jobString>
 
 
   <!-- Grain Mash -->
 
   <Makegrainmash.label>酿造谷物原浆</Makegrainmash.label>
-  <Makegrainmash.description>酿造 a batch of grain mash from wheat. \n\n产出：10.</Makegrainmash.description>
-  <Makegrainmash.jobString>Brewing batch of grain mash.</Makegrainmash.jobString>
+  <Makegrainmash.description>酿造 a batch of grain mash from wheat. \n\n产出：10。</Makegrainmash.description>
+  <Makegrainmash.jobString>Brewing batch of grain mash。</Makegrainmash.jobString>
 
 
   <!-- Saké Mash -->
 
   <Makesakemash.label>酿造清酒原浆</Makesakemash.label>
-  <Makesakemash.description>酿造 a batch of saké mash from rice. \n\n产出：10.</Makesakemash.description>
-  <Makesakemash.jobString>Brewing batch of saké mash.</Makesakemash.jobString>
+  <Makesakemash.description>酿造 a batch of saké mash from rice. \n\n产出：10。</Makesakemash.description>
+  <Makesakemash.jobString>Brewing batch of saké mash。</Makesakemash.jobString>
 
 
   <!-- Rum Mash -->
 
   <Makerummash.label>酿造朗姆原浆</Makerummash.label>
-  <Makerummash.description>酿造 a batch of rum mash from sugar cane. \n\n产出：10.</Makerummash.description>
-  <Makerummash.jobString>Brewing batch of rum mash.</Makerummash.jobString>
+  <Makerummash.description>酿造 a batch of rum mash from sugar cane. \n\n产出：10。</Makerummash.description>
+  <Makerummash.jobString>Brewing batch of rum mash。</Makerummash.jobString>
 
 
   <!-- Cider Mash -->
 
   <Makecidermash.label>酿造苹果原浆</Makecidermash.label>
-  <Makecidermash.description>酿造 a batch of cider mash from apples. \n\n产出：10.</Makecidermash.description>
-  <Makecidermash.jobString>Brewing batch of cider mash.</Makecidermash.jobString>
+  <Makecidermash.description>酿造 a batch of cider mash from apples. \n\n产出：10。</Makecidermash.description>
+  <Makecidermash.jobString>Brewing batch of cider mash。</Makecidermash.jobString>
 
 
   <!-- Berry Mash -->
 
   <Makeberrymash.label>酿造浆果原浆</Makeberrymash.label>
-  <Makeberrymash.description>酿造 a batch of berry mash from berries. \n\n产出：10.</Makeberrymash.description>
-  <Makeberrymash.jobString>Brewing batch of berry mash.</Makeberrymash.jobString>
+  <Makeberrymash.description>酿造 a batch of berry mash from berries. \n\n产出：10。</Makeberrymash.description>
+  <Makeberrymash.jobString>Brewing batch of berry mash。</Makeberrymash.jobString>
 
 
   <!-- Vodka Mash -->
 
   <Makevodkamash.label>酿造伏特加原浆</Makevodkamash.label>
-  <Makevodkamash.description>酿造 a batch of vodka mash from potatoes. \n\n产出：10.</Makevodkamash.description>
-  <Makevodkamash.jobString>Brewing batch of vodka mash.</Makevodkamash.jobString>
+  <Makevodkamash.description>酿造 a batch of vodka mash from potatoes. \n\n产出：10。</Makevodkamash.description>
+  <Makevodkamash.jobString>Brewing batch of vodka mash。</Makevodkamash.jobString>
 
 
   <!-- Tequila Mash -->
 
   <Maketequilamash.label>酿造龙舌兰原浆</Maketequilamash.label>
-  <Maketequilamash.description>酿造 a batch of tequila mash from blue agave. \n\n产出：10.</Maketequilamash.description>
-  <Maketequilamash.jobString>Brewing batch of tequila mash.</Maketequilamash.jobString>
+  <Maketequilamash.description>酿造 a batch of tequila mash from blue agave. \n\n产出：10。</Maketequilamash.description>
+  <Maketequilamash.jobString>Brewing batch of tequila mash。</Maketequilamash.jobString>
 
 
   <!-- Wine Mash -->
 
   <Makewinemash.label>酿造葡萄原浆</Makewinemash.label>
-  <Makewinemash.description>酿造 a batch of wine mash from grapes. \n\n产出：10.</Makewinemash.description>
-  <Makewinemash.jobString>Brewing batch of wine mash.</Makewinemash.jobString>
+  <Makewinemash.description>酿造 a batch of wine mash from grapes. \n\n产出：10。</Makewinemash.description>
+  <Makewinemash.jobString>Brewing batch of wine mash。</Makewinemash.jobString>
 
 
   <!--[Core] <MakeWort.label>制作麦芽汁</MakeWort.label>-->
   <!--[Core] <MakeWort.description>使用啤酒花制作麦芽汁。</MakeWort.description>-->
   <!--[Core] <MakeWort.jobString>正在制作麦芽汁。</MakeWort.jobString>-->
   <!--<MakeWort.label>Brew wort</MakeWort.label>-->
-  <!--<MakeWort.description>Brew a batch of wort from hops. \n\n产出：10.</MakeWort.description>-->
-  <!--<MakeWort.jobString>Brewing batch of wort.</MakeWort.jobString>-->
+  <!--<MakeWort.description>Brew a batch of wort from hops. \n\n产出：10。</MakeWort.description>-->
+  <!--<MakeWort.jobString>Brewing batch of wort。</MakeWort.jobString>-->
 
 </LanguageData>

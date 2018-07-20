@@ -4,25 +4,25 @@
   <!-- Hitech -->
 
   <MeleeWeapon_Tanto.label>Tanto</MeleeWeapon_Tanto.label>
-  <MeleeWeapon_Tanto.description>The blade is single or double edged dagger typt melee weapon.</MeleeWeapon_Tanto.description>
+  <MeleeWeapon_Tanto.description>The blade is single or double edged dagger typt melee weapon。</MeleeWeapon_Tanto.description>
   <MeleeWeapon_Tanto.tools.0.label>handle</MeleeWeapon_Tanto.tools.0.label>
   <MeleeWeapon_Tanto.tools.1.label>blade</MeleeWeapon_Tanto.tools.1.label>
   <MeleeWeapon_Tanto.tools.2.label>point</MeleeWeapon_Tanto.tools.2.label>
 
   <MeleeWeapon_Katana.label>Katana</MeleeWeapon_Katana.label>
-  <MeleeWeapon_Katana.description>The modern remake of sword samurai, still a fearsome weapon in the hands of the skilled.</MeleeWeapon_Katana.description>
+  <MeleeWeapon_Katana.description>The modern remake of sword samurai, still a fearsome weapon in the hands of the skilled。</MeleeWeapon_Katana.description>
   <MeleeWeapon_Katana.tools.0.label>handle</MeleeWeapon_Katana.tools.0.label>
   <MeleeWeapon_Katana.tools.1.label>point</MeleeWeapon_Katana.tools.1.label>
   <MeleeWeapon_Katana.tools.2.label>edge</MeleeWeapon_Katana.tools.2.label>
 
   <MeleeWeapon_Tsurugi.label>Tsurugi</MeleeWeapon_Tsurugi.label>
-  <MeleeWeapon_Tsurugi.description>Specific type of long straight, double-edged sword.</MeleeWeapon_Tsurugi.description>
+  <MeleeWeapon_Tsurugi.description>Specific type of long straight, double-edged sword。</MeleeWeapon_Tsurugi.description>
   <MeleeWeapon_Tsurugi.tools.0.label>handle</MeleeWeapon_Tsurugi.tools.0.label>
   <MeleeWeapon_Tsurugi.tools.1.label>point</MeleeWeapon_Tsurugi.tools.1.label>
   <MeleeWeapon_Tsurugi.tools.2.label>edge</MeleeWeapon_Tsurugi.tools.2.label>
 
   <MeleeWeapon_Sledgehammer.label>Sledgehammer</MeleeWeapon_Sledgehammer.label>
-  <MeleeWeapon_Sledgehammer.description>Specific type of long straight, double-edged sword.</MeleeWeapon_Sledgehammer.description>
+  <MeleeWeapon_Sledgehammer.description>Specific type of long straight, double-edged sword。</MeleeWeapon_Sledgehammer.description>
   <MeleeWeapon_Sledgehammer.tools.0.label>handle</MeleeWeapon_Sledgehammer.tools.0.label>
   <MeleeWeapon_Sledgehammer.tools.1.label>head</MeleeWeapon_Sledgehammer.tools.1.label>
 

@@ -2,24 +2,24 @@
 <LanguageData>
 
   <BuildPlasmaPistol.label>Build C1 Ascension</BuildPlasmaPistol.label>
-  <BuildPlasmaPistol.description>A highly accurate plasma pistol.</BuildPlasmaPistol.description>
+  <BuildPlasmaPistol.description>A highly accurate plasma pistol。</BuildPlasmaPistol.description>
   <BuildPlasmaPistol.jobString>Building C1 Ascension</BuildPlasmaPistol.jobString>
 
   <BuildPlasmaPrecision.label>Build C2 Moonspell</BuildPlasmaPrecision.label>
-  <BuildPlasmaPrecision.description>A plasma sniper rifle, highly accurate but with a low rate of fire.</BuildPlasmaPrecision.description>
+  <BuildPlasmaPrecision.description>A plasma sniper rifle, highly accurate but with a low rate of fire。</BuildPlasmaPrecision.description>
   <BuildPlasmaPrecision.jobString>Building C2 Moonspell</BuildPlasmaPrecision.jobString>
 
   <BuildPlasmaCarbine.label>Build C3 Conjurer</BuildPlasmaCarbine.label>
-  <BuildPlasmaCarbine.description>A short range, lightweight plasma rifle.</BuildPlasmaCarbine.description>
-  <BuildPlasmaCarbine.jobString>Building C3 Conjurer.</BuildPlasmaCarbine.jobString>
+  <BuildPlasmaCarbine.description>A short range, lightweight plasma rifle。</BuildPlasmaCarbine.description>
+  <BuildPlasmaCarbine.jobString>Building C3 Conjurer。</BuildPlasmaCarbine.jobString>
 
   <BuildPlasmaShotgun.label>Build C5 Incantator</BuildPlasmaShotgun.label>
-  <BuildPlasmaShotgun.description>Very rare plasma shotgun. Deals high damage at short range; less effective at long range. Effective against armor, shields and biotic barriers. It is of human design but is only used by krogan, due to the fact that the kickback from a single shot has enough force to break a human's arm. Protected by Fabrication Rights Management (FRM) technology, this weapon is nearly impossible to reproduce and is prohibitively expensive.</BuildPlasmaShotgun.description>
-  <BuildPlasmaShotgun.jobString>Building C5 Incantator.</BuildPlasmaShotgun.jobString>
+  <BuildPlasmaShotgun.description>Very rare plasma shotgun. Deals high damage at short range; less effective at long range. Effective against armor, shields and biotic barriers. It is of human design but is only used by krogan, due to the fact that the kickback from a single shot has enough force to break a human's arm. Protected by Fabrication Rights Management (FRM) technology, this weapon is nearly impossible to reproduce and is prohibitively expensive。</BuildPlasmaShotgun.description>
+  <BuildPlasmaShotgun.jobString>Building C5 Incantator。</BuildPlasmaShotgun.jobString>
 
   <BuildPlasmaRifle.label>Build C7 StormWizard</BuildPlasmaRifle.label>
-  <BuildPlasmaRifle.description>Builds the Multi-Plasma Blaster, with good stopping power and range.</BuildPlasmaRifle.description>
-  <BuildPlasmaRifle.jobString>Building C7 StormWizard.</BuildPlasmaRifle.jobString>
+  <BuildPlasmaRifle.description>Builds the Multi-Plasma Blaster, with good stopping power and range。</BuildPlasmaRifle.description>
+  <BuildPlasmaRifle.jobString>Building C7 StormWizard。</BuildPlasmaRifle.jobString>
 
 
 </LanguageData>

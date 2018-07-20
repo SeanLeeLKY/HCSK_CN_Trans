@@ -5,7 +5,7 @@
 
   <MakeAmmo_ChargedLaser.label>制造 电荷光束弹 x40</MakeAmmo_ChargedLaser.label>
   <MakeAmmo_ChargedLaser.description>制造 40 电荷光束弹。</MakeAmmo_ChargedLaser.description>
-  <MakeAmmo_ChargedLaser.jobString>制造 电荷光束弹。</MakeAmmo_ChargedLaser.jobString>
+  <MakeAmmo_ChargedLaser.jobString>正在制造 电荷光束弹。</MakeAmmo_ChargedLaser.jobString>
 
 
 </LanguageData>

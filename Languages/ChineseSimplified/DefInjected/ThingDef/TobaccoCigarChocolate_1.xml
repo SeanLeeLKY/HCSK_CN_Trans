@@ -2,9 +2,9 @@
 <LanguageData>
 
   <TobaccoCigarChocolate.label>chocolate cigar</TobaccoCigarChocolate.label>
-  <TobaccoCigarChocolate.description>Cigar use can produce a dependency for nicotine. Can be produced without equipment, at a crafting spot. Requires chocolate and tobacco.</TobaccoCigarChocolate.description>
+  <TobaccoCigarChocolate.description>Cigar use can produce a dependency for nicotine. Can be produced without equipment, at a crafting spot. Requires chocolate and tobacco。</TobaccoCigarChocolate.description>
   <TobaccoCigarChocolate.ingestible.ingestCommandString>Smoke {0}</TobaccoCigarChocolate.ingestible.ingestCommandString>
-  <TobaccoCigarChocolate.ingestible.ingestReportString>Smoking {0}.</TobaccoCigarChocolate.ingestible.ingestReportString>
+  <TobaccoCigarChocolate.ingestible.ingestReportString>Smoking {0}。</TobaccoCigarChocolate.ingestible.ingestReportString>
 
 
 </LanguageData>

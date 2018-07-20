@@ -2,9 +2,9 @@
 <LanguageData>
   <AdjustDirection_Desc>Click to rotate clockwise. Current direction is: {0}</AdjustDirection_Desc>
   <SALCancelBills>Cancel bills</SALCancelBills>
-  <SALCancelBills_Desc>Click to make S.A.L. building drop its items and cancel bills.</SALCancelBills_Desc>
+  <SALCancelBills_Desc>Click to make S.A.L. building drop its items and cancel bills。</SALCancelBills_Desc>
   <SALInspect_CurrentConfig>Current configuration: Output: {0}</SALInspect_CurrentConfig>
-  <SALInspect_PowerOff>Power is off.</SALInspect_PowerOff>
+  <SALInspect_PowerOff>Power is off。</SALInspect_PowerOff>
   <SALInspect_ResourcesNeeded>Resources: </SALInspect_ResourcesNeeded>
   <SAL_North>North</SAL_North>
   <SAL_South>South</SAL_South>
@@ -19,30 +19,30 @@
 
   <!--Letter tooltips-->
   <SALInformation_CoreDriller>Information: S.A.L. + Core Driller</SALInformation_CoreDriller>
-  <SALInformation_CoreDriller_Desc>The settings seem to show that the fix for core drillers is currently turned off. When it is turned off, S.A.L. machines will not be able to interact with them. To turn it on, please go to Options -> Mod Settings.\nNote: This letter will only fire every time you start the game.</SALInformation_CoreDriller_Desc>
+  <SALInformation_CoreDriller_Desc>The settings seem to show that the fix for core drillers is currently turned off. When it is turned off, S.A.L. machines will not be able to interact with them. To turn it on, please go to Options -> Mod Settings.\nNote: This letter will only fire every time you start the game。</SALInformation_CoreDriller_Desc>
 
   <!--Settings translations-->
   <SALSettings_CoreDrillerFix>Fix interaction cell for TheUbie's core drillers</SALSettings_CoreDrillerFix>
-  <SALSettings_CoreDrillerFix_Desc>(Compatibility patch) Fix the interaction cell for S.A.L. so that they can work in front of core drillers.</SALSettings_CoreDrillerFix_Desc>
+  <SALSettings_CoreDrillerFix_Desc>(Compatibility patch) Fix the interaction cell for S.A.L. so that they can work in front of core drillers。</SALSettings_CoreDrillerFix_Desc>
 
   <!--Used in S.A.L. 3.0-->
-  <SALMessage_NoDataDiskFound>Please insert a data disk first.</SALMessage_NoDataDiskFound>
-  <SearchingForIngredients>Searching for ingredients...</SearchingForIngredients>
+  <SALMessage_NoDataDiskFound>Please insert a data disk first。</SALMessage_NoDataDiskFound>
+  <SearchingForIngredients>Searching for ingredients..。</SearchingForIngredients>
   <SAL3_BillReport>Current bill: {0} ({1} work left)</SAL3_BillReport>
   <SAL3_Products>Products waiting to be placed: {0}</SAL3_Products>
-  <SALMessage_NoRecipes>No recipes found.</SALMessage_NoRecipes>
-  <SALDataStartEncoding>Import recipe...</SALDataStartEncoding>
-  <SALDataStartEncoding_Desc>Import a new recipe from nearby work tables.</SALDataStartEncoding_Desc>
+  <SALMessage_NoRecipes>No recipes found。</SALMessage_NoRecipes>
+  <SALDataStartEncoding>Import recipe..。</SALDataStartEncoding>
+  <SALDataStartEncoding_Desc>Import a new recipe from nearby work tables。</SALDataStartEncoding_Desc>
   <SALDataCancelBills>Cancel bills</SALDataCancelBills>
   <AdjustDirection_Output>Adjust output direction</AdjustDirection_Output>
   <SAL_Name>a machine</SAL_Name>
   <SALInspect_RecipeReport>Current recipe: {0}\nWork left: {1}</SALInspect_RecipeReport>
   <SAL3_StoredRecipes>Stored recipes: {0}</SAL3_StoredRecipes>
-  <SAL3Alert_SomeBillsRemoved>Some bills have been deleted as the smart assembler cannot make them anymore.</SAL3Alert_SomeBillsRemoved>
+  <SAL3Alert_SomeBillsRemoved>Some bills have been deleted as the smart assembler cannot make them anymore。</SAL3Alert_SomeBillsRemoved>
   <SAL3_BillsTabLabel>Bills</SAL3_BillsTabLabel>
   <AssemblerIdle>Idle</AssemblerIdle>
   <SALToggleForbidden>Toggle allow forbidden</SALToggleForbidden>
-  <SALToggleForbidden_Desc>Allow/Disallow the auto-assembler to take forbidden items. Tick means allow.</SALToggleForbidden_Desc>
+  <SALToggleForbidden_Desc>Allow/Disallow the auto-assembler to take forbidden items. Tick means allow。</SALToggleForbidden_Desc>
   <SALCurrentProductionSpeed>Production speed for current recipe ({0}): {1}</SALCurrentProductionSpeed>
   <DeepQuarry_TotalSoFar>Total number of rocks mined so far: {0}</DeepQuarry_TotalSoFar>
 

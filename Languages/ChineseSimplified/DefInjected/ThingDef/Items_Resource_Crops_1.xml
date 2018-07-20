@@ -4,28 +4,28 @@
   <!-- Plant matter (inedible by people) -->
 
   <Hay.label>Hay</Hay.label>
-  <Hay.description>Hay is nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is for good animal feed, but is inedible for humans.</Hay.description>
+  <Hay.description>Hay is nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is for good animal feed, but is inedible for humans。</Hay.description>
 
   <Silage.label>青贮饲料</Silage.label>
-  <Silage.description>Silage is nutrient-rich fermented hay and raw food product suitable for animal feed. The fermentation process preserves the silage and prevents it from rotting.</Silage.description>
+  <Silage.description>Silage is nutrient-rich fermented hay and raw food product suitable for animal feed. The fermentation process preserves the silage and prevents it from rotting。</Silage.description>
 
   <RawHops.label>Hops</RawHops.label>
-  <RawHops.description>Hops are flowers and seed cones of a Hops Plant. They are necessary as a flavoring and preserving agent for brewing Wort.</RawHops.description>
+  <RawHops.description>Hops are flowers and seed cones of a Hops Plant. They are necessary as a flavoring and preserving agent for brewing Wort。</RawHops.description>
 
   <PsychoidLeaves.label>psychoid leaves</PsychoidLeaves.label>
-  <PsychoidLeaves.description>Raw cut leaves of a psychoid plant.</PsychoidLeaves.description>
+  <PsychoidLeaves.description>Raw cut leaves of a psychoid plant。</PsychoidLeaves.description>
 
   <SmokeleafLeaves.label>smokeleaf leaves</SmokeleafLeaves.label>
-  <SmokeleafLeaves.description>Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joint at a crafting spot.</SmokeleafLeaves.description>
+  <SmokeleafLeaves.description>Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joint at a crafting spot。</SmokeleafLeaves.description>
 
   <NeutroPetals.label>中性花瓣</NeutroPetals.label>
-  <NeutroPetals.description>Beautiful Yellow-Orange Petals from the Neutro Flower. Used to make Neutroamine, a medicine base.</NeutroPetals.description>
+  <NeutroPetals.description>Beautiful Yellow-Orange Petals from the Neutro Flower. Used to make Neutroamine, a medicine base。</NeutroPetals.description>
 
   <aloe.label>芦荟叶</aloe.label>
-  <aloe.description>A bundle of Aloe Leaves from an Aloe Plant. Aloe Leaves are used as a type of natural medicine.</aloe.description>
+  <aloe.description>A bundle of Aloe Leaves from an Aloe Plant. Aloe Leaves are used as a type of natural medicine。</aloe.description>
 
   <RawCaoutchouc.label>天然橡胶</RawCaoutchouc.label>
-  <RawCaoutchouc.description>Caoutchouc is a natural rubber sap collected from a Hevea Tree. It can be vulcanized to create useful rubber materials.</RawCaoutchouc.description>
+  <RawCaoutchouc.description>Caoutchouc is a natural rubber sap collected from a Hevea Tree. It can be vulcanized to create useful rubber materials。</RawCaoutchouc.description>
 
 
   <!--[Core] <Hay.label>干草</Hay.label>-->
@@ -37,14 +37,14 @@
   <!--[Core] <SmokeleafLeaves.label>大麻叶</SmokeleafLeaves.label>-->
   <!--[Core] <SmokeleafLeaves.description>从大麻上收获的新鲜叶子，可以在手工加工点处被制成大麻烟。</SmokeleafLeaves.description>-->
   <!--<Hay.label>Hay</Hay.label>-->
-  <!--<Hay.description>Hay is nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is for good animal feed, but is inedible for humans.</Hay.description>-->
+  <!--<Hay.description>Hay is nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is for good animal feed, but is inedible for humans。</Hay.description>-->
   <!--<RawHops.label>Hops</RawHops.label>-->
-  <!--<RawHops.description>Hops are flowers and seed cones of a Hops Plant. They are necessary as a flavoring and preserving agent for brewing Wort.</RawHops.description>-->
+  <!--<RawHops.description>Hops are flowers and seed cones of a Hops Plant. They are necessary as a flavoring and preserving agent for brewing Wort。</RawHops.description>-->
   <!--<PsychoidLeaves.label>psychoid leaves</PsychoidLeaves.label>-->
-  <!--<PsychoidLeaves.description>Raw cut leaves of a psychoid plant.</PsychoidLeaves.description>-->
+  <!--<PsychoidLeaves.description>Raw cut leaves of a psychoid plant。</PsychoidLeaves.description>-->
   <!--<SmokeleafLeaves.label>smokeleaf leaves</SmokeleafLeaves.label>-->
-  <!--<SmokeleafLeaves.description>Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joint at a crafting spot.</SmokeleafLeaves.description>-->
+  <!--<SmokeleafLeaves.description>Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joint at a crafting spot。</SmokeleafLeaves.description>-->
   <!--<HerbalMedicaKit.label>草药包</HerbalMedicaKit.label>-->
-  <!--<HerbalMedicaKit.description>A small pack of mixed herbs. It is less potent than industrial pharmaceuticals.</HerbalMedicaKit.description>-->
+  <!--<HerbalMedicaKit.description>A small pack of mixed herbs. It is less potent than industrial pharmaceuticals。</HerbalMedicaKit.description>-->
 
 </LanguageData>

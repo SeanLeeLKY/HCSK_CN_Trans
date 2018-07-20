@@ -2,16 +2,16 @@
 <LanguageData>
 
   <BuildPlasmaPrecision.label>制造 C2 离子精确步枪</BuildPlasmaPrecision.label>
-  <BuildPlasmaPrecision.description>Builds a C2 Plasma Precision Rifle. It is a highly accurate plasma sniper rifle with a low rate of fire. Fires a 2 round burst. This weapon does not need to be reloaded. Targets hit by the beam can catch on fire.</BuildPlasmaPrecision.description>
+  <BuildPlasmaPrecision.description>Builds a C2 Plasma Precision Rifle. It is a highly accurate plasma sniper rifle with a low rate of fire. Fires a 2 round burst. This weapon does not need to be reloaded. Targets hit by the beam can catch on fire。</BuildPlasmaPrecision.description>
   <BuildPlasmaPrecision.jobString>C2 Plasma Precision Rifle</BuildPlasmaPrecision.jobString>
 
   <BuildPlasmaCarbine.label>制造 C3 离子卡宾枪</BuildPlasmaCarbine.label>
-  <BuildPlasmaCarbine.description>Builds the C3 Plasma Carbine, a short range, light-weight plasma rifle. Fires a 3 round burst. This weapon does not need to be reloaded. Targets hit by the plasma can catch on fire.</BuildPlasmaCarbine.description>
-  <BuildPlasmaCarbine.jobString>Building C3 Plasma Carbine.</BuildPlasmaCarbine.jobString>
+  <BuildPlasmaCarbine.description>Builds the C3 Plasma Carbine, a short range, light-weight plasma rifle. Fires a 3 round burst. This weapon does not need to be reloaded. Targets hit by the plasma can catch on fire。</BuildPlasmaCarbine.description>
+  <BuildPlasmaCarbine.jobString>Building C3 Plasma Carbine。</BuildPlasmaCarbine.jobString>
 
   <BuildPlasmaRifle.label>制造 C7 离子步枪</BuildPlasmaRifle.label>
-  <BuildPlasmaRifle.description>Builds the C7 Multi-Plasma Rifle, a weapon with good stopping power and range. Fires a 7 round burst. This weapon does not need to be reloaded. Targets hit by the plasma can catch on fire.</BuildPlasmaRifle.description>
-  <BuildPlasmaRifle.jobString>Building C7 Multi-Plasma Rifle.</BuildPlasmaRifle.jobString>
+  <BuildPlasmaRifle.description>Builds the C7 Multi-Plasma Rifle, a weapon with good stopping power and range. Fires a 7 round burst. This weapon does not need to be reloaded. Targets hit by the plasma can catch on fire。</BuildPlasmaRifle.description>
+  <BuildPlasmaRifle.jobString>Building C7 Multi-Plasma Rifle。</BuildPlasmaRifle.jobString>
 
 
 </LanguageData>

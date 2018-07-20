@@ -2,12 +2,12 @@
 <LanguageData>
 
   <!-- Fungiponics Basin -->
-  <CaveworldFlora.CannotGrowTooCold>Cannot grow now: too cold.</CaveworldFlora.CannotGrowTooCold>
-  <CaveworldFlora.CannotGrowTooHot>Cannot grow now: too hot.</CaveworldFlora.CannotGrowTooHot>
-  <CaveworldFlora.Growing>Growing.</CaveworldFlora.Growing>
-  <CaveworldFlora.MustOnRoughRock>Fungiponics basin must be built on rough rock.</CaveworldFlora.MustOnRoughRock>
-  <CaveworldFlora.MustBeRoofed>Fungiponics basin must be roofed.</CaveworldFlora.MustBeRoofed>
-  <CaveworldFlora.TooClose>An other fungiponics basin is too close.</CaveworldFlora.TooClose>
+  <CaveworldFlora.CannotGrowTooCold>Cannot grow now: too cold。</CaveworldFlora.CannotGrowTooCold>
+  <CaveworldFlora.CannotGrowTooHot>Cannot grow now: too hot。</CaveworldFlora.CannotGrowTooHot>
+  <CaveworldFlora.Growing>Growing。</CaveworldFlora.Growing>
+  <CaveworldFlora.MustOnRoughRock>Fungiponics basin must be built on rough rock。</CaveworldFlora.MustOnRoughRock>
+  <CaveworldFlora.MustBeRoofed>Fungiponics basin must be roofed。</CaveworldFlora.MustBeRoofed>
+  <CaveworldFlora.TooClose>An other fungiponics basin is too close。</CaveworldFlora.TooClose>
 
   <!-- Flora Plant -->
   <CaveworldFlora.InCryostasis>In cryostasis</CaveworldFlora.InCryostasis>
@@ -24,6 +24,6 @@
 
   <!-- Black Lotus -->
   <CaveworldFlora.LetterLabelBlackLotus>Black lotus</CaveworldFlora.LetterLabelBlackLotus>
-  <CaveworldFlora.BlackLotus>One of your colonists has been intoxicated by the effluvium of a black lotus. Beware, those emanations are extremely toxic.</CaveworldFlora.BlackLotus>
+  <CaveworldFlora.BlackLotus>One of your colonists has been intoxicated by the effluvium of a black lotus. Beware, those emanations are extremely toxic。</CaveworldFlora.BlackLotus>
 
 </LanguageData>

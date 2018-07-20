@@ -4,8 +4,8 @@
   <!-- Recipes -->
 
   <MakeAmmo_Dart.label>制造毒镖x50</MakeAmmo_Dart.label>
-  <MakeAmmo_Dart.description>制造 50 poison darts.</MakeAmmo_Dart.description>
-  <MakeAmmo_Dart.jobString>制造 poison darts.</MakeAmmo_Dart.jobString>
+  <MakeAmmo_Dart.description>制造 50 poison darts。</MakeAmmo_Dart.description>
+  <MakeAmmo_Dart.jobString>正在制造 poison darts。</MakeAmmo_Dart.jobString>
 
 
 </LanguageData>

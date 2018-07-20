@@ -4,10 +4,10 @@
   <!-- Various -->
 
   <PlasmaDrillingOrderSend>钻井命令已经发送到天钻。</PlasmaDrillingOrderSend>
-  <LowOrbitPlasmaDrillApproaching>天钻接近中...</LowOrbitPlasmaDrillApproaching>
-  <InitiatingPlasmaDrilling>注意: 天钻已就位，启动等离子光束钻头...</InitiatingPlasmaDrilling>
+  <LowOrbitPlasmaDrillApproaching>天钻接近中..。</LowOrbitPlasmaDrillApproaching>
+  <InitiatingPlasmaDrilling>注意: 天钻已就位，启动等离子光束钻头..。</InitiatingPlasmaDrilling>
   <PlasmaDrillingComplete>钻孔命令已完成。</PlasmaDrillingComplete>
-  <NuclearMeltdownStart>警告: 核反应堆过热...</NuclearMeltdownStart>
+  <NuclearMeltdownStart>警告: 核反应堆过热..。</NuclearMeltdownStart>
   <NuclearMeltdown>警告: 核反应堆熔毁。</NuclearMeltdown>
   <MustPlaceOnMiningHole>必须放置在矿洞上面。</MustPlaceOnMiningHole>
 

@@ -4,19 +4,19 @@
   <!-- Power -->
 
   <SK_Power.label>Power</SK_Power.label>
-  <SK_Power.description>Learn the basics of power generation to help your colonists survive in this harsh climate.  This advancement unlocks conduits and batteries.</SK_Power.description>
+  <SK_Power.description>Learn the basics of power generation to help your colonists survive in this harsh climate.  This advancement unlocks conduits and batteries。</SK_Power.description>
 
 
   <!-- PowerConduit -->
 
   <SK_RenewableI.label>Renewable power I</SK_RenewableI.label>
-  <SK_RenewableI.description>Learn the basics of power generation from renewable resourses of this planet. This advancement unlocks Wind Turbine.</SK_RenewableI.description>
+  <SK_RenewableI.description>Learn the basics of power generation from renewable resourses of this planet. This advancement unlocks Wind Turbine。</SK_RenewableI.description>
 
 
   <!-- WindTurbine -->
 
   <SolarPanels.label>Renewable power II</SolarPanels.label>
-  <SolarPanels.description>Further advancements in power technology, give your colonists the ability to harness the power of the sun.  Unlocks the solar powered generator.</SolarPanels.description>
+  <SolarPanels.description>Further advancements in power technology, give your colonists the ability to harness the power of the sun.  Unlocks the solar powered generator。</SolarPanels.description>
 
 
   <!-- SolarGenerator -->
@@ -28,59 +28,59 @@
   <!-- GeothermalGenerator -->
 
   <SK_RenewableIV.label>Renewable power IV</SK_RenewableIV.label>
-  <SK_RenewableIV.description>Allows to build advanced power plants: Gauss wind turbine and thermoelectric generator.</SK_RenewableIV.description>
+  <SK_RenewableIV.description>Allows to build advanced power plants: Gauss wind turbine and thermoelectric generator。</SK_RenewableIV.description>
 
 
   <!-- Adv SolarGenerator
 								Adv WindTurbine -->
 
   <SK_RenewableV.label>Renewable power V</SK_RenewableV.label>
-  <SK_RenewableV.description>Allows to build advanced power plants: Gauss wind turbine and thermoelectric generator.</SK_RenewableV.description>
+  <SK_RenewableV.description>Allows to build advanced power plants: Gauss wind turbine and thermoelectric generator。</SK_RenewableV.description>
 
 
   <!-- GauseWindTurbine
 										ThermoelectricGenerator -->
 
   <SK_ConvectionalI.label>Conventional power I</SK_ConvectionalI.label>
-  <SK_ConvectionalI.description>Learn the basics of power generation from conventional resources of this planet. This advancement unlocks Steam Generator.</SK_ConvectionalI.description>
+  <SK_ConvectionalI.description>Learn the basics of power generation from conventional resources of this planet. This advancement unlocks Steam Generator。</SK_ConvectionalI.description>
 
 
   <!-- SteamGenerator -->
 
   <SK_ConvectionalII.label>Conventional power II</SK_ConvectionalII.label>
-  <SK_ConvectionalII.description>Further advancements in power technology, give your colonists the ability to use some convectional resources fo obtaining electricity.  Unlocks the Coal Power Plant.</SK_ConvectionalII.description>
+  <SK_ConvectionalII.description>Further advancements in power technology, give your colonists the ability to use some convectional resources fo obtaining electricity.  Unlocks the Coal Power Plant。</SK_ConvectionalII.description>
 
 
   <!-- CoalPowerPlant -->
 
   <SK_ConvectionalIII.label>Conventional power III</SK_ConvectionalIII.label>
-  <SK_ConvectionalIII.description>Allows to build advanced power plant for refining some fuel - Fuel Power Plant.</SK_ConvectionalIII.description>
+  <SK_ConvectionalIII.description>Allows to build advanced power plant for refining some fuel - Fuel Power Plant。</SK_ConvectionalIII.description>
 
 
   <!-- ChemfuelPoweredGenerator
 						WoodFiredGenerator -->
 
   <SK_PlasmaI.label>Plasma power I</SK_PlasmaI.label>
-  <SK_PlasmaI.description>Allows to build advanced power plant - Tesla Lightning Generator.</SK_PlasmaI.description>
+  <SK_PlasmaI.description>Allows to build advanced power plant - Tesla Lightning Generator。</SK_PlasmaI.description>
 
 
   <!-- TeslaLigthningPower -->
 
   <SK_PlasmaII.label>Plasma power II</SK_PlasmaII.label>
-  <SK_PlasmaII.description>Open secrets of electromagnetics. Allows to build eco-friendly plasma generators.</SK_PlasmaII.description>
+  <SK_PlasmaII.description>Open secrets of electromagnetics. Allows to build eco-friendly plasma generators。</SK_PlasmaII.description>
 
 
   <!-- PlasmaGen
 								PlasmaGeothermalPlant -->
 
   <SK_PlasmaIII.label>Plasma power III</SK_PlasmaIII.label>
-  <SK_PlasmaIII.description>Dynamic Electromagnetics allows you to fabricate advanced buildings using electromagnetic components. This unlocks the upper tier of power generation and technology found in every Glitter world installation for building Xenon-Ion Turbine.</SK_PlasmaIII.description>
+  <SK_PlasmaIII.description>Dynamic Electromagnetics allows you to fabricate advanced buildings using electromagnetic components. This unlocks the upper tier of power generation and technology found in every Glitter world installation for building Xenon-Ion Turbine。</SK_PlasmaIII.description>
 
 
   <!-- XenonIonTurbine -->
 
   <AirConditioning.label>Infrastructure I</AirConditioning.label>
-  <AirConditioning.description>Allows you to build different Lamps, Small coolers and heaters and some Vents. Also increases battery efficiency by 15 percent.</AirConditioning.description>
+  <AirConditioning.description>Allows you to build different Lamps, Small coolers and heaters and some Vents. Also increases battery efficiency by 15 percent。</AirConditioning.description>
 
 
   <!-- PowerSwitch
@@ -93,7 +93,7 @@
 		Heater from RH -->
 
   <Autodoors.label>Infrastructure II</Autodoors.label>
-  <Autodoors.description>Allows you to build Autodoors, Medium coolers and heaters, Utility Walls. Also increases battery efficiency by 15 percent.</Autodoors.description>
+  <Autodoors.description>Allows you to build Autodoors, Medium coolers and heaters, Utility Walls. Also increases battery efficiency by 15 percent。</Autodoors.description>
 
 
   <!-- Autodoor
@@ -104,10 +104,10 @@
 						ClutterLampYellow -->
 
   <ColoredLights.label>Colored lights</ColoredLights.label>
-  <ColoredLights.description>Allows colonists to construct colored lights for decorative purposes.</ColoredLights.description>
+  <ColoredLights.description>Allows colonists to construct colored lights for decorative purposes。</ColoredLights.description>
 
   <Batteries.label>Infrastructure III</Batteries.label>
-  <Batteries.description>Allows you to build Hi-Tech Research Bench, Heavy Power Conduits, Hidden Conduits and Industrial coolers and heaters. Also increases battery efficiency by 15 percent.</Batteries.description>
+  <Batteries.description>Allows you to build Hi-Tech Research Bench, Heavy Power Conduits, Hidden Conduits and Industrial coolers and heaters. Also increases battery efficiency by 15 percent。</Batteries.description>
 
 
   <!-- HiTechResearchBench
@@ -122,10 +122,10 @@
 						PowerConduitInvisible -->
 
   <LEDTechnologyScience.label>LED Technology</LEDTechnologyScience.label>
-  <LEDTechnologyScience.description>Allows the construction of more efficient lights and other buildings.</LEDTechnologyScience.description>
+  <LEDTechnologyScience.description>Allows the construction of more efficient lights and other buildings。</LEDTechnologyScience.description>
 
   <SK_InfrastructureIV.label>Infrastructure IV</SK_InfrastructureIV.label>
-  <SK_InfrastructureIV.description>Allows you to build some advanced Ductwork Elements, Geothermal Heaters and Fission Batteries.</SK_InfrastructureIV.description>
+  <SK_InfrastructureIV.description>Allows you to build some advanced Ductwork Elements, Geothermal Heaters and Fission Batteries。</SK_InfrastructureIV.description>
 
 
   <!-- FissionBattery
@@ -134,14 +134,14 @@
 								RedistHeat_IndustrialHeater -->
 
   <SK_NuclearI.label>Nuclear power I</SK_NuclearI.label>
-  <SK_NuclearI.description>Advanced knowledge of power generation allows you to build some Gas Centrifuge.</SK_NuclearI.description>
+  <SK_NuclearI.description>Advanced knowledge of power generation allows you to build some Gas Centrifuge。</SK_NuclearI.description>
 
 
   <!-- GC
 		CentrifugeFeeder -->
 
   <SK_NuclearII.label>Nuclear power II</SK_NuclearII.label>
-  <SK_NuclearII.description>Geothermal power is great, except when you can't find a steam vent!  Advanced knowledge of power generation allows you to build a nuclear reactor.</SK_NuclearII.description>
+  <SK_NuclearII.description>Geothermal power is great, except when you can't find a steam vent!  Advanced knowledge of power generation allows you to build a nuclear reactor。</SK_NuclearII.description>
 
 
 </LanguageData>

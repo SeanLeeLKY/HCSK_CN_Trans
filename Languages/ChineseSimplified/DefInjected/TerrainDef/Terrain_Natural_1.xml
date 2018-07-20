@@ -3,18 +3,18 @@
 
   <SoilRich.label>rich soil</SoilRich.label>
   <SoilRich.description>Soil that has been enriched with Fertilizer to improve crop growth.
-Fertility: 150%.</SoilRich.description>
+Fertility: 150%。</SoilRich.description>
 
   <Sand.label>sand</Sand.label>
   <Sand.description>Sand is finely divided rock and mineral particles. Naturally found on beaches and deserts.
-Beauty: -1.</Sand.description>
+Beauty: -1。</Sand.description>
 
   <Mud.label>mud</Mud.label>
   <Marsh.label>marsh</Marsh.label>
 
   <Gravel.label>gravel</Gravel.label>
   <Gravel.description>Gravel is a composition of small rocks of varying sizes. Rubble can be gathered from it.
-Beauty: -1.</Gravel.description>
+Beauty: -1。</Gravel.description>
 
 
   <!--[Core] <SoilRich.label>肥沃的土地</SoilRich.label>-->

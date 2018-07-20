@@ -4,7 +4,7 @@
   <!-- PILA -->
 
   <Pila.label>Pila</Pila.label>
-  <Pila.description>A bundle of pila. It is a type of non-reusable throwing spears.</Pila.description>
+  <Pila.description>A bundle of pila. It is a type of non-reusable throwing spears。</Pila.description>
   <Pila.tools.0.label>limb</Pila.tools.0.label>
   <Pila.tools.1.label>nock</Pila.tools.1.label>
 
@@ -12,7 +12,7 @@
   <!-- SCORPION -->
 
   <Norbal_Scorpion.label>Scorpion Crossbow</Norbal_Scorpion.label>
-  <Norbal_Scorpion.description>Fearsome crossbow. Deadly but slow.</Norbal_Scorpion.description>
+  <Norbal_Scorpion.description>Fearsome crossbow. Deadly but slow。</Norbal_Scorpion.description>
   <Norbal_Scorpion.tools.0.label>limb</Norbal_Scorpion.tools.0.label>
   <Norbal_Scorpion.tools.1.label>nock</Norbal_Scorpion.tools.1.label>
 
@@ -20,7 +20,7 @@
   <!-- ARBALEST -->
 
   <Arbalest.label>Arbalest</Arbalest.label>
-  <Arbalest.description>A large crossbow with a special mechanism for drawing back and releasing the string.</Arbalest.description>
+  <Arbalest.description>A large crossbow with a special mechanism for drawing back and releasing the string。</Arbalest.description>
   <Arbalest.tools.0.label>limb</Arbalest.tools.0.label>
   <Arbalest.tools.1.label>nock</Arbalest.tools.1.label>
 
@@ -28,7 +28,7 @@
   <!-- CROSSBOW -->
 
   <Crossbow.label>Crossbow</Crossbow.label>
-  <Crossbow.description>A weapon consisting of a bow fixed crosswise on a wooden stock.</Crossbow.description>
+  <Crossbow.description>A weapon consisting of a bow fixed crosswise on a wooden stock。</Crossbow.description>
   <Crossbow.tools.0.label>limb</Crossbow.tools.0.label>
   <Crossbow.tools.1.label>nock</Crossbow.tools.1.label>
 
@@ -36,7 +36,7 @@
   <!-- RECURVE BOW -->
 
   <Bow_Recurve.label>Recurve Bow</Bow_Recurve.label>
-  <Bow_Recurve.description>A recurve bow stores more energy and delivers energy more efficiently than the equivalent straight-limbed bow.</Bow_Recurve.description>
+  <Bow_Recurve.description>A recurve bow stores more energy and delivers energy more efficiently than the equivalent straight-limbed bow。</Bow_Recurve.description>
   <Bow_Recurve.tools.0.label>limb</Bow_Recurve.tools.0.label>
   <Bow_Recurve.tools.1.label>nock</Bow_Recurve.tools.1.label>
 
@@ -44,7 +44,7 @@
   <!-- SCYTHIAN BOW -->
 
   <NorbalBow_Grape.label>Scythian Bow</NorbalBow_Grape.label>
-  <NorbalBow_Grape.description>A powerful scythian bow. Fires a heavy arrow long distances.</NorbalBow_Grape.description>
+  <NorbalBow_Grape.description>A powerful scythian bow. Fires a heavy arrow long distances。</NorbalBow_Grape.description>
   <NorbalBow_Grape.tools.0.label>limb</NorbalBow_Grape.tools.0.label>
   <NorbalBow_Grape.tools.1.label>nock</NorbalBow_Grape.tools.1.label>
 
@@ -52,7 +52,7 @@
   <!-- BLOWGUN -->
 
   <blowgun.label>blowgun</blowgun.label>
-  <blowgun.description>A blowgun with a set of poison darts.</blowgun.description>
+  <blowgun.description>A blowgun with a set of poison darts。</blowgun.description>
   <blowgun.tools.0.label>limb</blowgun.tools.0.label>
   <blowgun.tools.1.label>nock</blowgun.tools.1.label>
 
@@ -60,7 +60,7 @@
   <!-- Makzilla's BOW -->
 
   <Makzilla_Bow.label>Makzilla's Bow</Makzilla_Bow.label>
-  <Makzilla_Bow.description>A powerful bow rumored to patterned after a bow belonging to Makzilla. Fires a heavy arrow long distances.</Makzilla_Bow.description>
+  <Makzilla_Bow.description>A powerful bow rumored to patterned after a bow belonging to Makzilla. Fires a heavy arrow long distances。</Makzilla_Bow.description>
   <Makzilla_Bow.tools.0.label>limb</Makzilla_Bow.tools.0.label>
   <Makzilla_Bow.tools.1.label>nock</Makzilla_Bow.tools.1.label>
 

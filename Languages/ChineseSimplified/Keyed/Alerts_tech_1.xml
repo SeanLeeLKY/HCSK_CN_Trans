@@ -2,28 +2,28 @@
 <LanguageData>
 
   <NeedGenBioHopper>需要生物反应器料斗</NeedGenBioHopper>
-  <NeedGenBioHopperDesc>You have a BioGenerator with no hopper next to it.\n\nTo work, the BioGenerator must draw from an adjacent hopper filled with BioMatter.\n\nBuild a BioGenerator Hopper adjacent to the BioGenerator.</NeedGenBioHopperDesc>
+  <NeedGenBioHopperDesc>You have a BioGenerator with no hopper next to it.\n\nTo work, the BioGenerator must draw from an adjacent hopper filled with BioMatter.\n\nBuild a BioGenerator Hopper adjacent to the BioGenerator。</NeedGenBioHopperDesc>
 
   <NeedFuelFeeder>需要燃料料斗</NeedFuelFeeder>
-  <NeedFuelFeederDesc>You have a Fuel Power Plant with no hopper next to it.\n\nTo work, the Fuel Power Plant must draw from an adjacent hopper filled with Fuel.\n\nBuild a Fuel Power Plant Hopper adjacent to the Fuel Power Plant.</NeedFuelFeederDesc>
+  <NeedFuelFeederDesc>You have a Fuel Power Plant with no hopper next to it.\n\nTo work, the Fuel Power Plant must draw from an adjacent hopper filled with Fuel.\n\nBuild a Fuel Power Plant Hopper adjacent to the Fuel Power Plant。</NeedFuelFeederDesc>
 
   <NeedGenHopper>需要蒸汽反应器料斗</NeedGenHopper>
-  <NeedGenHopperDesc>You have a Steam Generator with no hopper next to it.\n\nTo work, the Steam Generator must draw from an adjacent hopper filled with Kindling or Ethanol Fuel.\n\nBuild a Steam Generator Hopper adjacent to the Steam Generator.</NeedGenHopperDesc>
+  <NeedGenHopperDesc>You have a Steam Generator with no hopper next to it.\n\nTo work, the Steam Generator must draw from an adjacent hopper filled with Kindling or Ethanol Fuel.\n\nBuild a Steam Generator Hopper adjacent to the Steam Generator。</NeedGenHopperDesc>
 
   <NeedPlasmaGenFeeder>需要离子反应器料斗</NeedPlasmaGenFeeder>
-  <NeedPlasmaGenFeederDesc>You have a Plasma Reactor with no hopper next to it.\n\nTo work, the Plasma Reactor must draw from an adjacent hopper filled with Bauxite Ore.\n\nBuild a Plasma Reactor Hopper adjacent to the Plasma Reactor.</NeedPlasmaGenFeederDesc>
+  <NeedPlasmaGenFeederDesc>You have a Plasma Reactor with no hopper next to it.\n\nTo work, the Plasma Reactor must draw from an adjacent hopper filled with Bauxite Ore.\n\nBuild a Plasma Reactor Hopper adjacent to the Plasma Reactor。</NeedPlasmaGenFeederDesc>
 
   <NeedNuclearFeeder>需要核电站料斗</NeedNuclearFeeder>
-  <NeedNuclearFeederDesc>You have a Nuclear Power Plant or Military Nuclear Plant with no hopper next to it.\n\nTo work, the Nuclear Power Plant/Military Nuclear Plant must draw from an adjacent hopper filled with Enriched Uranium.\n\nBuild a Nuclear Plant Hopper adjacent to the Nuclear Power Plant/Military Nuclear Plant.</NeedNuclearFeederDesc>
+  <NeedNuclearFeederDesc>You have a Nuclear Power Plant or Military Nuclear Plant with no hopper next to it.\n\nTo work, the Nuclear Power Plant/Military Nuclear Plant must draw from an adjacent hopper filled with Enriched Uranium.\n\nBuild a Nuclear Plant Hopper adjacent to the Nuclear Power Plant/Military Nuclear Plant。</NeedNuclearFeederDesc>
 
   <NeedCentrifugeFeeder>需要气体离心机料斗</NeedCentrifugeFeeder>
-  <NeedCentrifugeFeederDesc>You have a Gas Centrifuge with no hopper next to it.\n\nTo work, the Gas Centrifuge must draw from an adjacent hopper filled with Uranium Ore.\n\nBuild a Gas Centrifuge Hopper adjacent to the Gas Centrifuge.</NeedCentrifugeFeederDesc>
+  <NeedCentrifugeFeederDesc>You have a Gas Centrifuge with no hopper next to it.\n\nTo work, the Gas Centrifuge must draw from an adjacent hopper filled with Uranium Ore.\n\nBuild a Gas Centrifuge Hopper adjacent to the Gas Centrifuge。</NeedCentrifugeFeederDesc>
 
   <NeedElectronicFeeder>需要电子工作站料斗</NeedElectronicFeeder>
-  <NeedElectronicFeederDesc>You have an Electronic Plant with no hopper next to it.\n\nTo work, the Electronic Plant must draw from an adjacent hopper filled with Electronic Components.\n\nBuild an Electronic Plant Hopper adjacent to the Electronic Plant.</NeedElectronicFeederDesc>
+  <NeedElectronicFeederDesc>You have an Electronic Plant with no hopper next to it.\n\nTo work, the Electronic Plant must draw from an adjacent hopper filled with Electronic Components.\n\nBuild an Electronic Plant Hopper adjacent to the Electronic Plant。</NeedElectronicFeederDesc>
 
   <NeedCoalFeeder>需要燃煤发电站料斗</NeedCoalFeeder>
-  <NeedCoalFeederDesc>You have a Coal Power Plant with no hopper next to it.\n\nTo work, the Coal Power Plant must draw from an adjacent hopper filled with Coal Ore, Charcoal or Peat.\n\nBuild a Coal Power Plant Hopper adjacent to the a Coal Power Plant.</NeedCoalFeederDesc>
+  <NeedCoalFeederDesc>You have a Coal Power Plant with no hopper next to it.\n\nTo work, the Coal Power Plant must draw from an adjacent hopper filled with Coal Ore, Charcoal or Peat.\n\nBuild a Coal Power Plant Hopper adjacent to the a Coal Power Plant。</NeedCoalFeederDesc>
 
   <AnotherGH>离另一个地热加热器太近了。</AnotherGH>
   <NoGeothemalSource>附近没有地热资源。</NoGeothemalSource>
@@ -56,18 +56,18 @@
   <DesignatorCollectSoftClayReportString>这里无法收集。请在泥地或者浅水地形收集。</DesignatorCollectSoftClayReportString>
 
   <NeedOilFeeder>需要炼油厂料斗</NeedOilFeeder>
-  <NeedOilFeederDesc>You have an Oil Refinery with no hopper next to it.\n\nTo work, the Oil Refinery must draw from an adjacent hopper filled with Crude Oil.\n\nBuild an Oil Refinery Hopper adjacent to the Oil Refinery.</NeedOilFeederDesc>
+  <NeedOilFeederDesc>You have an Oil Refinery with no hopper next to it.\n\nTo work, the Oil Refinery must draw from an adjacent hopper filled with Crude Oil.\n\nBuild an Oil Refinery Hopper adjacent to the Oil Refinery。</NeedOilFeederDesc>
 
   <NeedHeaterHopper>需要燃煤料斗</NeedHeaterHopper>
-  <NeedHeaterHopperDesc>You have a Coal Burner with no hopper next to it.\n\nTo work, the Coal Burner must draw from an adjacent hopper filled with Coal Ore, Charcoal or Peat.\n\nBuild a Coal Burner Hopper adjacent to the Coal Burner.</NeedHeaterHopperDesc>
+  <NeedHeaterHopperDesc>You have a Coal Burner with no hopper next to it.\n\nTo work, the Coal Burner must draw from an adjacent hopper filled with Coal Ore, Charcoal or Peat.\n\nBuild a Coal Burner Hopper adjacent to the Coal Burner。</NeedHeaterHopperDesc>
 
   <NearWithAnotherFissure>太靠近另一个裂缝或挖矿机。</NearWithAnotherFissure>
 
   <NeedAntimatterReactorFeeder>需要反物质反应堆料斗</NeedAntimatterReactorFeeder>
-  <NeedAntimatterReactorFeederDesc>You have an Antimatter Reactor with no hopper next to it.\n\nTo work, the Antimatter Reactor must draw from an adjacent hopper filled with Antimatter.\n\nBuild an Antimatter Reactor Hopper adjacent to the the Antimatter Reactor.</NeedAntimatterReactorFeederDesc>
+  <NeedAntimatterReactorFeederDesc>You have an Antimatter Reactor with no hopper next to it.\n\nTo work, the Antimatter Reactor must draw from an adjacent hopper filled with Antimatter.\n\nBuild an Antimatter Reactor Hopper adjacent to the the Antimatter Reactor。</NeedAntimatterReactorFeederDesc>
 
   <NeedHadronColliderFeeder>需要强子对撞机料斗</NeedHadronColliderFeeder>
-  <NeedHadronColliderFeederDesc>You have a Hadron Collider with no hopper next to it.\n\nTo work, the Hadron Collider must draw from an adjacent hopper filled with Inorganic Matter.\n\nBuild a Hadron Collider Hopper adjacent to the Hadron Collider.</NeedHadronColliderFeederDesc>
+  <NeedHadronColliderFeederDesc>You have a Hadron Collider with no hopper next to it.\n\nTo work, the Hadron Collider must draw from an adjacent hopper filled with Inorganic Matter.\n\nBuild a Hadron Collider Hopper adjacent to the Hadron Collider。</NeedHadronColliderFeederDesc>
 
   <Exhaustresource>资源耗尽于: </Exhaustresource>
   <LetterLabelExhaustedMine>矿藏耗尽</LetterLabelExhaustedMine>
@@ -76,29 +76,29 @@
   <LetterLabelExhaustedFissure>耗尽的原油裂隙</LetterLabelExhaustedFissure>
   <ExhaustedFissure>你的一个原油裂隙耗尽了。拆除原油提取器，再钻一个新的原油裂隙。</ExhaustedFissure>
 
-  <BlastDoorJammed>The Blast Door has jammed from taking damage.\nRepair it now in order to close it immediately.</BlastDoorJammed>
-  <BlastDoorClosingSix>Blast Door closing in 6.</BlastDoorClosingSix>
-  <BlastDoorClosingFive>Blast Door closing in 5.</BlastDoorClosingFive>
-  <BlastDoorClosingFour>Blast Door closing in 4.</BlastDoorClosingFour>
-  <BlastDoorClosingThree>Blast Door closing in 3.</BlastDoorClosingThree>
-  <BlastDoorClosingTwo>Blast Door closing in 2.</BlastDoorClosingTwo>
-  <BlastDoorClosingOne>Blast Door closing in 1.</BlastDoorClosingOne>
-  <BlastDoorClosed>Blast Door closed.</BlastDoorClosed>
-  <JammedRepaired>The Jammed Blast Door has been repaired and is now closed.</JammedRepaired>
-  <JammedBudgedClosed>The Jammed Blast Door budged and is now closed.</JammedBudgedClosed>
-  <JammedBudgedWontClose>The Jammed Blast Door budged but it won't close.</JammedBudgedWontClose>
+  <BlastDoorJammed>The Blast Door has jammed from taking damage.\nRepair it now in order to close it immediately。</BlastDoorJammed>
+  <BlastDoorClosingSix>Blast Door closing in 6。</BlastDoorClosingSix>
+  <BlastDoorClosingFive>Blast Door closing in 5。</BlastDoorClosingFive>
+  <BlastDoorClosingFour>Blast Door closing in 4。</BlastDoorClosingFour>
+  <BlastDoorClosingThree>Blast Door closing in 3。</BlastDoorClosingThree>
+  <BlastDoorClosingTwo>Blast Door closing in 2。</BlastDoorClosingTwo>
+  <BlastDoorClosingOne>Blast Door closing in 1。</BlastDoorClosingOne>
+  <BlastDoorClosed>Blast Door closed。</BlastDoorClosed>
+  <JammedRepaired>The Jammed Blast Door has been repaired and is now closed。</JammedRepaired>
+  <JammedBudgedClosed>The Jammed Blast Door budged and is now closed。</JammedBudgedClosed>
+  <JammedBudgedWontClose>The Jammed Blast Door budged but it won't close。</JammedBudgedWontClose>
   <BlastDoorLacksPower>Blast Door lacks power!</BlastDoorLacksPower>
-  <BlastDoorOpeningSix>Blast Door opening in 6.</BlastDoorOpeningSix>
-  <BlastDoorOpeningFive>Blast Door opening in 5.</BlastDoorOpeningFive>
-  <BlastDoorOpeningFour>Blast Door opening in 4.</BlastDoorOpeningFour>
-  <BlastDoorOpeningThree>Blast Door opening in 3.</BlastDoorOpeningThree>
-  <BlastDoorOpeningTwo>Blast Door opening in 2.</BlastDoorOpeningTwo>
-  <BlastDoorOpeningOne>Blast Door opening in 1.</BlastDoorOpeningOne>
-  <BlastDoorOpen>Blast Door open.</BlastDoorOpen>
+  <BlastDoorOpeningSix>Blast Door opening in 6。</BlastDoorOpeningSix>
+  <BlastDoorOpeningFive>Blast Door opening in 5。</BlastDoorOpeningFive>
+  <BlastDoorOpeningFour>Blast Door opening in 4。</BlastDoorOpeningFour>
+  <BlastDoorOpeningThree>Blast Door opening in 3。</BlastDoorOpeningThree>
+  <BlastDoorOpeningTwo>Blast Door opening in 2。</BlastDoorOpeningTwo>
+  <BlastDoorOpeningOne>Blast Door opening in 1。</BlastDoorOpeningOne>
+  <BlastDoorOpen>Blast Door open。</BlastDoorOpen>
   <OpenBlastDoorLabel>Open</OpenBlastDoorLabel>
-  <OpenBlastDoorDesc>Open Blast Door.</OpenBlastDoorDesc>
+  <OpenBlastDoorDesc>Open Blast Door。</OpenBlastDoorDesc>
   <CloseBlastDoorLabel>Close</CloseBlastDoorLabel>
-  <CloseBlastDoorDesc>Closed Blast Door.</CloseBlastDoorDesc>
+  <CloseBlastDoorDesc>Closed Blast Door。</CloseBlastDoorDesc>
   <BeginDrillLabel>开始钻孔</BeginDrillLabel>
   <BeginDrillDesc>点击开始钻孔工作。</BeginDrillDesc>
   <PauseDrillLabel>暂停钻孔</PauseDrillLabel>
@@ -109,8 +109,8 @@
   <DrillProgress>进度: </DrillProgress>
   <EfficiencyTEG>效率: </EfficiencyTEG>
   <DeltaTEG>Delta？？？: </DeltaTEG>
-  <StatusWorking>状态: 工作中...</StatusWorking>
-  <StatusCooling>状态: 冷却中...</StatusCooling>
+  <StatusWorking>状态: 工作中..。</StatusWorking>
+  <StatusCooling>状态: 冷却中..。</StatusCooling>
   <DesignatorPlantsHarvestEdibles>收获（可食用）</DesignatorPlantsHarvestEdibles>
   <DesignatorPlantsHarvestEdiblesDesc>标记人类可以食用的植物，收获食物或者用于生产。</DesignatorPlantsHarvestEdiblesDesc>
   <MessageMustDesignateHarvestableFruits>必须指定完全成长的可食用植物。</MessageMustDesignateHarvestableFruits>
@@ -129,11 +129,11 @@
   <EvasionLabel>规避</EvasionLabel>
   <AbsorbedLabel>全神贯注</AbsorbedLabel>
   <MineBrushLabel>采矿笔刷</MineBrushLabel>
-  <MineBrushDesc>Finally a brush for mining. Use q and e to change size.</MineBrushDesc>
+  <MineBrushDesc>Finally a brush for mining. Use q and e to change size。</MineBrushDesc>
   <StripMinerLabel>矿道笔刷</StripMinerLabel>
-  <StripMinerDesc>Drag an area to strip mine. Use 8,4,5,6 on your !NUMBLOCK! to change spacing between strips.</StripMinerDesc>
+  <StripMinerDesc>Drag an area to strip mine. Use 8,4,5,6 on your !NUMBLOCK! to change spacing between strips。</StripMinerDesc>
   <VeinMinerLabel>一键采矿</VeinMinerLabel>
-  <VeinMinerDesc>Click on a visible ore and you will mine the whole vein.</VeinMinerDesc>
+  <VeinMinerDesc>Click on a visible ore and you will mine the whole vein。</VeinMinerDesc>
   <VeinMinerReport>Must designate mineable and accessable ore!</VeinMinerReport>
   <FillFissureDesc>将裂隙填平。</FillFissureDesc>
   <FillFissureLabel>回填裂隙</FillFissureLabel>

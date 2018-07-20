@@ -4,7 +4,7 @@
   <!-- affecting opinion -->
 
   <AteCorpse.stages.0.label>ate corpse</AteCorpse.stages.0.label>
-  <AteCorpse.stages.0.description>I had to eat a corpse without even butchering or cooking it. It was horrible.</AteCorpse.stages.0.description>
+  <AteCorpse.stages.0.description>I had to eat a corpse without even butchering or cooking it. It was horrible。</AteCorpse.stages.0.description>
 
   <ButcheredHumanlikeCorpseOpinion.stages.0.label>butchered humanlike corpse</ButcheredHumanlikeCorpseOpinion.stages.0.label>
   <AteRawHumanlikeMeat.stages.0.label>ate raw humanlike meat</AteRawHumanlikeMeat.stages.0.label>
@@ -23,7 +23,7 @@
   <!--[Core] <KilledColonist.stages.0.label>杀死过殖民者</KilledColonist.stages.0.label>-->
   <!--[Core] <KilledColonyAnimal.stages.0.label>杀死过殖民地动物</KilledColonyAnimal.stages.0.label>-->
   <!--<AteCorpse.stages.0.label>ate corpse</AteCorpse.stages.0.label>-->
-  <!--<AteCorpse.stages.0.description>I had to eat a corpse without even butchering or cooking it. It was horrible.</AteCorpse.stages.0.description>-->
+  <!--<AteCorpse.stages.0.description>I had to eat a corpse without even butchering or cooking it. It was horrible。</AteCorpse.stages.0.description>-->
   <!--<ButcheredHumanlikeCorpseOpinion.stages.0.label>butchered humanlike corpse</ButcheredHumanlikeCorpseOpinion.stages.0.label>-->
   <!--<AteRawHumanlikeMeat.stages.0.label>ate raw humanlike meat</AteRawHumanlikeMeat.stages.0.label>-->
   <!--<SoldPrisoner.stages.0.label>sold prisoner to slavery</SoldPrisoner.stages.0.label>-->

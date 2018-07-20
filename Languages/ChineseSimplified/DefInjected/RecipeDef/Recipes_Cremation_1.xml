@@ -2,27 +2,27 @@
 <LanguageData>
 
   <CremateCorpse.label>Cremate corpse</CremateCorpse.label>
-  <CremateCorpse.description>Cremate a corpse into ashes. \n\n产出：4.</CremateCorpse.description>
-  <CremateCorpse.jobString>Cremating a corpse.</CremateCorpse.jobString>
+  <CremateCorpse.description>Cremate a corpse into ashes. \n\n产出：4。</CremateCorpse.description>
+  <CremateCorpse.jobString>Cremating a corpse。</CremateCorpse.jobString>
 
   <BurnApparel.label>Burn apparel</BurnApparel.label>
-  <BurnApparel.description>Burn apparel into ashes. \n\n产出：2.</BurnApparel.description>
-  <BurnApparel.jobString>Burning apparel.</BurnApparel.jobString>
+  <BurnApparel.description>Burn apparel into ashes. \n\n产出：2。</BurnApparel.description>
+  <BurnApparel.jobString>Burning apparel。</BurnApparel.jobString>
 
   <BurnThings.label>烧毁原料</BurnThings.label>
-  <BurnThings.description>Burn wood, textiles and leathers into ashes. \n\n产出：3.</BurnThings.description>
+  <BurnThings.description>Burn wood, textiles and leathers into ashes. \n\n产出：3。</BurnThings.description>
   <BurnThings.jobString>烧毁原料</BurnThings.jobString>
 
   <CremateCorpseCampfire.label>焚化尸体</CremateCorpseCampfire.label>
-  <CremateCorpseCampfire.description>Cremate a corpse into ashes. \n\n产出：4.</CremateCorpseCampfire.description>
+  <CremateCorpseCampfire.description>Cremate a corpse into ashes. \n\n产出：4。</CremateCorpseCampfire.description>
   <CremateCorpseCampfire.jobString>焚化尸体</CremateCorpseCampfire.jobString>
 
   <BurnApparelCampfire.label>Burn apparel</BurnApparelCampfire.label>
-  <BurnApparelCampfire.description>Burn apparel into ashes. \n\n产出：2.</BurnApparelCampfire.description>
-  <BurnApparelCampfire.jobString>Burning apparel.</BurnApparelCampfire.jobString>
+  <BurnApparelCampfire.description>Burn apparel into ashes. \n\n产出：2。</BurnApparelCampfire.description>
+  <BurnApparelCampfire.jobString>Burning apparel。</BurnApparelCampfire.jobString>
 
   <BurnThingsCampfire.label>烧毁原料</BurnThingsCampfire.label>
-  <BurnThingsCampfire.description>Burn wood, textiles and leather into ashes. \n\n产出：3.</BurnThingsCampfire.description>
+  <BurnThingsCampfire.description>Burn wood, textiles and leather into ashes. \n\n产出：3。</BurnThingsCampfire.description>
   <BurnThingsCampfire.jobString>烧毁原料</BurnThingsCampfire.jobString>
 
 
@@ -36,13 +36,13 @@
   <!--[Core] <BurnApparelCampfire.description>将衣物完全烧毁。</BurnApparelCampfire.description>-->
   <!--[Core] <BurnApparelCampfire.jobString>正在烧毁衣物。</BurnApparelCampfire.jobString>-->
   <!--<CremateCorpse.label>Cremate corpse</CremateCorpse.label>-->
-  <!--<CremateCorpse.description>Cremate a corpse into ashes. \n\n产出：4.</CremateCorpse.description>-->
-  <!--<CremateCorpse.jobString>Cremating a corpse.</CremateCorpse.jobString>-->
+  <!--<CremateCorpse.description>Cremate a corpse into ashes. \n\n产出：4。</CremateCorpse.description>-->
+  <!--<CremateCorpse.jobString>Cremating a corpse。</CremateCorpse.jobString>-->
   <!--<BurnApparel.label>Burn apparel</BurnApparel.label>-->
-  <!--<BurnApparel.description>Burn apparel into ashes. \n\n产出：2.</BurnApparel.description>-->
-  <!--<BurnApparel.jobString>Burning apparel.</BurnApparel.jobString>-->
+  <!--<BurnApparel.description>Burn apparel into ashes. \n\n产出：2。</BurnApparel.description>-->
+  <!--<BurnApparel.jobString>Burning apparel。</BurnApparel.jobString>-->
   <!--<BurnApparelCampfire.label>Burn apparel</BurnApparelCampfire.label>-->
-  <!--<BurnApparelCampfire.description>Burn apparel into ashes. \n\n产出：2.</BurnApparelCampfire.description>-->
-  <!--<BurnApparelCampfire.jobString>Burning apparel.</BurnApparelCampfire.jobString>-->
+  <!--<BurnApparelCampfire.description>Burn apparel into ashes. \n\n产出：2。</BurnApparelCampfire.description>-->
+  <!--<BurnApparelCampfire.jobString>Burning apparel。</BurnApparelCampfire.jobString>-->
 
 </LanguageData>

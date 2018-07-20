@@ -4,56 +4,56 @@
   <!-- Yeast -->
 
   <Yeast.label>Yeast</Yeast.label>
-  <Yeast.description>Processed Yeast used in fermentation.</Yeast.description>
+  <Yeast.description>Processed Yeast used in fermentation。</Yeast.description>
   <Yeast.stuffProps.stuffAdjective>Yeast</Yeast.stuffProps.stuffAdjective>
 
 
   <!-- Grain Mash -->
 
   <grainmash.label>Grain Mash</grainmash.label>
-  <grainmash.description>A mixture of yeast and wheat to ferment into Whisky.</grainmash.description>
+  <grainmash.description>A mixture of yeast and wheat to ferment into Whisky。</grainmash.description>
 
 
   <!-- Saké Mash -->
 
   <sakemash.label>Saké Mash</sakemash.label>
-  <sakemash.description>A mixture of yeast and rice to ferment into Saké.</sakemash.description>
+  <sakemash.description>A mixture of yeast and rice to ferment into Saké。</sakemash.description>
 
 
   <!-- Rum Mash -->
 
   <rummash.label>Rum Mash</rummash.label>
-  <rummash.description>A mixture of yeast and sugar cane to ferment into Rum.</rummash.description>
+  <rummash.description>A mixture of yeast and sugar cane to ferment into Rum。</rummash.description>
 
 
   <!-- Cider Mash -->
 
   <cidermash.label>Cider Mash</cidermash.label>
-  <cidermash.description>A mixture of yeast and apples to ferment into Cider.</cidermash.description>
+  <cidermash.description>A mixture of yeast and apples to ferment into Cider。</cidermash.description>
 
 
   <!-- Berry Mash -->
 
   <berrymash.label>Berry Mash</berrymash.label>
-  <berrymash.description>A mixture of yeast and various berries to ferment into Berrywine.</berrymash.description>
+  <berrymash.description>A mixture of yeast and various berries to ferment into Berrywine。</berrymash.description>
 
 
   <!-- Vodka Mash -->
 
   <vodkamash.label>Vodka Mash</vodkamash.label>
-  <vodkamash.description>A mixture of yeast and raw potatoes to ferment into Vodka.</vodkamash.description>
+  <vodkamash.description>A mixture of yeast and raw potatoes to ferment into Vodka。</vodkamash.description>
 
 
   <!-- Tequila Mash -->
 
   <tequilamash.label>Tequila Mash</tequilamash.label>
-  <tequilamash.description>A mixture of yeast and blue agave to ferment into Tequila.</tequilamash.description>
+  <tequilamash.description>A mixture of yeast and blue agave to ferment into Tequila。</tequilamash.description>
 
 
   <!-- Wine Mash -->
 
   <winemash.label>Wine Mash</winemash.label>
-  <winemash.description>A mixture of yeast and grapes to ferment into Wine.</winemash.description>
+  <winemash.description>A mixture of yeast and grapes to ferment into Wine。</winemash.description>
 
 
 </LanguageData>

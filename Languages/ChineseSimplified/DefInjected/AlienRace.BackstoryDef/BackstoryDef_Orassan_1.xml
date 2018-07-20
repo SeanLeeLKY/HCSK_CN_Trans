@@ -25,7 +25,7 @@
 
   <Orassan_Doctor.title>医生</Orassan_Doctor.title>
   <Orassan_Doctor.titleShort>医生</Orassan_Doctor.titleShort>
-  <Orassan_Doctor.baseDescription>NAME has dedicated HIS life to healing others.</Orassan_Doctor.baseDescription>
+  <Orassan_Doctor.baseDescription>NAME has dedicated HIS life to healing others。</Orassan_Doctor.baseDescription>
 
   <Orassan_Soldier.title>士兵</Orassan_Soldier.title>
   <Orassan_Soldier.titleShort>士兵</Orassan_Soldier.titleShort>
@@ -67,30 +67,30 @@
 
   <Orassan_Slasher.title>前线士兵</Orassan_Slasher.title>
   <Orassan_Slasher.titleShort>前线士兵</Orassan_Slasher.titleShort>
-  <Orassan_Slasher.baseDescription>NAME serves as a frontline soldier, typically in close quarters combat.</Orassan_Slasher.baseDescription>
+  <Orassan_Slasher.baseDescription>NAME serves as a frontline soldier, typically in close quarters combat。</Orassan_Slasher.baseDescription>
 
   <Orassan_GeneWarrior.title>基因战士</Orassan_GeneWarrior.title>
   <Orassan_GeneWarrior.titleShort>勇士</Orassan_GeneWarrior.titleShort>
-  <Orassan_GeneWarrior.baseDescription>NAME is a genetically engineered supersoldier.</Orassan_GeneWarrior.baseDescription>
+  <Orassan_GeneWarrior.baseDescription>NAME is a genetically engineered supersoldier。</Orassan_GeneWarrior.baseDescription>
 
 
   <!-- Childhood -->
 
   <Orassan_CapitalChild.title>奥瑞森小孩</Orassan_CapitalChild.title>
   <Orassan_CapitalChild.titleShort>奥瑞森</Orassan_CapitalChild.titleShort>
-  <Orassan_CapitalChild.baseDescription>NAME was born on the capital planet of Orassia. HECAP was born to a wealthy family that lived in a mountain side estate.</Orassan_CapitalChild.baseDescription>
+  <Orassan_CapitalChild.baseDescription>NAME was born on the capital planet of Orassia. HECAP was born to a wealthy family that lived in a mountain side estate。</Orassan_CapitalChild.baseDescription>
 
   <Orassan_GeneChild.title>基因调制婴儿</Orassan_GeneChild.title>
   <Orassan_GeneChild.titleShort>Db</Orassan_GeneChild.titleShort>
-  <Orassan_GeneChild.baseDescription>NAME was genetically engineered to be a perfect child.</Orassan_GeneChild.baseDescription>
+  <Orassan_GeneChild.baseDescription>NAME was genetically engineered to be a perfect child。</Orassan_GeneChild.baseDescription>
 
   <Orassan_SpacerChild.title>宇航员</Orassan_SpacerChild.title>
   <Orassan_SpacerChild.titleShort>宇航员</Orassan_SpacerChild.titleShort>
-  <Orassan_SpacerChild.baseDescription>NAME was born on a space ship and spent most of their childhood on one ship or another. The close quarters meant that HE had to be friendly with HIS neighbors and had to know how to maintain the ship HE was on.</Orassan_SpacerChild.baseDescription>
+  <Orassan_SpacerChild.baseDescription>NAME was born on a space ship and spent most of their childhood on one ship or another. The close quarters meant that HE had to be friendly with HIS neighbors and had to know how to maintain the ship HE was on。</Orassan_SpacerChild.baseDescription>
 
   <Orassan_ColonyChild.title>殖民地小孩</Orassan_ColonyChild.title>
   <Orassan_ColonyChild.titleShort>殖民者</Orassan_ColonyChild.titleShort>
-  <Orassan_ColonyChild.baseDescription>NAME was born in a fledgling colony. HECAP had to help establish the colony.</Orassan_ColonyChild.baseDescription>
+  <Orassan_ColonyChild.baseDescription>NAME was born in a fledgling colony. HECAP had to help establish the colony。</Orassan_ColonyChild.baseDescription>
 
 
 </LanguageData>

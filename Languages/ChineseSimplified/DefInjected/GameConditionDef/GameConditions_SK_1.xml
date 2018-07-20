@@ -17,12 +17,12 @@
   <!-- Just for avoid error -->
 
   <Darkness.label>黑暗</Darkness.label>
-  <Darkness.description>An unusual dark and cold... night.</Darkness.description>
+  <Darkness.description>An unusual dark and cold... night。</Darkness.description>
   <Darkness.endMessage>The darkness is gone</Darkness.endMessage>
 
   <Earthquake.label>地震活动</Earthquake.label>
-  <Earthquake.description>Underground shocks of a certain intensity.</Earthquake.description>
-  <Earthquake.endMessage>The seismic activity has ended.</Earthquake.endMessage>
+  <Earthquake.description>Underground shocks of a certain intensity。</Earthquake.description>
+  <Earthquake.endMessage>The seismic activity has ended。</Earthquake.endMessage>
 
 
   <!--<OrassanBombardmentCondition.label>轰炸！</OrassanBombardmentCondition.label>-->

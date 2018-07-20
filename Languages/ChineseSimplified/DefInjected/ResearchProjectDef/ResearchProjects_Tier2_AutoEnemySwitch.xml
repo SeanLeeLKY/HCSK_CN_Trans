@@ -2,7 +2,7 @@
 <LanguageData>
 
   <ResearchAutoEnemySwitch.label>Automatic Enemy Switch</ResearchAutoEnemySwitch.label>
-  <ResearchAutoEnemySwitch.description>Research an enemy detector for the power switch. This will allow automatic power switching when an enemy is found.</ResearchAutoEnemySwitch.description>
+  <ResearchAutoEnemySwitch.description>Research an enemy detector for the power switch. This will allow automatic power switching when an enemy is found。</ResearchAutoEnemySwitch.description>
   <ResearchAutoEnemySwitch.descriptionDiscovered>Now your power switch can be configured to automatically switch when an enemy is detected.
 
 NOTE: Do not connect your lamps, turrets, etc. directly to the switch! Add a power cable and connect that!</ResearchAutoEnemySwitch.descriptionDiscovered>

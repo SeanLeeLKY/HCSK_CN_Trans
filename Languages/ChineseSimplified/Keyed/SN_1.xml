@@ -127,7 +127,7 @@
   <InternalTemperature>内部温度:</InternalTemperature>
   <OperatingTemperature>操作温度: </OperatingTemperature>
   <CurrentStatus>当前状态:</CurrentStatus>
-  <WStatus> 工作中...</WStatus>
+  <WStatus> 工作中..。</WStatus>
   <LTStatus>温度过低</LTStatus>
   <RefuelAt>添加燃料于</RefuelAt>
   <BurningProgress>燃烧进度:</BurningProgress>
@@ -226,7 +226,7 @@
   <controller_not_ready_IC>离子炮控制器还没准备好。</controller_not_ready_IC>
   <CommunicationSetup_IC>通讯设置: </CommunicationSetup_IC>
   <Connection_IC>连接: </Connection_IC>
-  <Connecting_IC>连接中...</Connecting_IC>
+  <Connecting_IC>连接中..。</Connecting_IC>
   <Connected_IC>已连接</Connected_IC>
   <NoMoreThanOne>这个建筑在地图上只能有一个。</NoMoreThanOne>
 

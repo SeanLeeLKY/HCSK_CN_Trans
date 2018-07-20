@@ -4,32 +4,32 @@
   <!-- Basic parts -->
 
   <InstallSteelArm.label>Install Steel Arm</InstallSteelArm.label>
-  <InstallSteelArm.description>Installs a Steel Arm.</InstallSteelArm.description>
-  <InstallSteelArm.jobString>Installing Steel Arm.</InstallSteelArm.jobString>
+  <InstallSteelArm.description>Installs a Steel Arm。</InstallSteelArm.description>
+  <InstallSteelArm.jobString>Installing Steel Arm。</InstallSteelArm.jobString>
 
   <InstallEyePatch.label>Install Eye Patch</InstallEyePatch.label>
-  <InstallEyePatch.description>Installs an Eye Patch.</InstallEyePatch.description>
-  <InstallEyePatch.jobString>Installing Eye Patch.</InstallEyePatch.jobString>
+  <InstallEyePatch.description>Installs an Eye Patch。</InstallEyePatch.description>
+  <InstallEyePatch.jobString>Installing Eye Patch。</InstallEyePatch.jobString>
 
   <InstallHookHand.label>Install Hook Hand</InstallHookHand.label>
-  <InstallHookHand.description>Installs a Hook Hand.</InstallHookHand.description>
-  <InstallHookHand.jobString>Installing Hook Hand.</InstallHookHand.jobString>
+  <InstallHookHand.description>Installs a Hook Hand。</InstallHookHand.description>
+  <InstallHookHand.jobString>Installing Hook Hand。</InstallHookHand.jobString>
 
   <InstallDenture.label>Install Denture</InstallDenture.label>
-  <InstallDenture.description>Installs a simple Denture.</InstallDenture.description>
-  <InstallDenture.jobString>Installing Denture.</InstallDenture.jobString>
+  <InstallDenture.description>Installs a simple Denture。</InstallDenture.description>
+  <InstallDenture.jobString>Installing Denture。</InstallDenture.jobString>
 
   <InstallWoodenFoot.label>Install Wooden Foot</InstallWoodenFoot.label>
-  <InstallWoodenFoot.description>Installs a Wooden Foot.</InstallWoodenFoot.description>
-  <InstallWoodenFoot.jobString>Installing Wooden Foot.</InstallWoodenFoot.jobString>
+  <InstallWoodenFoot.description>Installs a Wooden Foot。</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Installing Wooden Foot。</InstallWoodenFoot.jobString>
 
   <InstallPegLeg.label>Install Peg Leg</InstallPegLeg.label>
-  <InstallPegLeg.description>Installs a Peg Leg.</InstallPegLeg.description>
-  <InstallPegLeg.jobString>Installing Peg Leg.</InstallPegLeg.jobString>
+  <InstallPegLeg.description>Installs a Peg Leg。</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Installing Peg Leg。</InstallPegLeg.jobString>
 
   <!--[Duplicated] <InstallEarBandage.label>Install EarBandage</InstallEarBandage.label>-->
-  <!--[Duplicated] <InstallEarBandage.description>Installs a EarBandage.</InstallEarBandage.description>-->
-  <!--[Duplicated] <InstallEarBandage.jobString>Installing EarBandage.</InstallEarBandage.jobString>-->
+  <!--[Duplicated] <InstallEarBandage.description>Installs a EarBandage。</InstallEarBandage.description>-->
+  <!--[Duplicated] <InstallEarBandage.jobString>Installing EarBandage。</InstallEarBandage.jobString>-->
 
 
   <!--[Core] <InstallDenture.label>安装义齿</InstallDenture.label>-->

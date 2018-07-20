@@ -2,87 +2,87 @@
 <LanguageData>
 
   <MakeCloth.label>Spin cloth</MakeCloth.label>
-  <MakeCloth.description>Spin cloth from raw cotton. \n\n产出：20.</MakeCloth.description>
-  <MakeCloth.jobString>Spinning cloth from raw cotton.</MakeCloth.jobString>
+  <MakeCloth.description>Spin cloth from raw cotton. \n\n产出：20。</MakeCloth.description>
+  <MakeCloth.jobString>Spinning cloth from raw cotton。</MakeCloth.jobString>
 
   <MakeLinen.label>Spin linen cloth</MakeLinen.label>
-  <MakeLinen.description>Spin linen cloth from raw flax. \n\n产出：10.</MakeLinen.description>
-  <MakeLinen.jobString>Spinning linen cloth from raw flax.</MakeLinen.jobString>
+  <MakeLinen.description>Spin linen cloth from raw flax. \n\n产出：10。</MakeLinen.description>
+  <MakeLinen.jobString>Spinning linen cloth from raw flax。</MakeLinen.jobString>
 
   <MakeHempCloth.label>Spin hemp</MakeHempCloth.label>
-  <MakeHempCloth.description>Spin weed into hemp. \n\n产出：15.</MakeHempCloth.description>
-  <MakeHempCloth.jobString>Spinning hemp from weed.</MakeHempCloth.jobString>
+  <MakeHempCloth.description>Spin weed into hemp. \n\n产出：15。</MakeHempCloth.description>
+  <MakeHempCloth.jobString>Spinning hemp from weed。</MakeHempCloth.jobString>
 
   <MakeSynthreadCloth.label>Spin synthread</MakeSynthreadCloth.label>
-  <MakeSynthreadCloth.description>Spin synthread from raw cotton and synthetic fibers. \n\n产出：10.</MakeSynthreadCloth.description>
-  <MakeSynthreadCloth.jobString>Spinning synthread from synthetic fibers.</MakeSynthreadCloth.jobString>
+  <MakeSynthreadCloth.description>Spin synthread from raw cotton and synthetic fibers. \n\n产出：10。</MakeSynthreadCloth.description>
+  <MakeSynthreadCloth.jobString>Spinning synthread from synthetic fibers。</MakeSynthreadCloth.jobString>
 
   <MakeDevilstrand.label>Spin devilstrand cloth</MakeDevilstrand.label>
-  <MakeDevilstrand.description>Spin devilstrand cloth from synthetic fibers. \n\n产出：15.</MakeDevilstrand.description>
-  <MakeDevilstrand.jobString>Spinning devilstrand cloth from synthetic fibers.</MakeDevilstrand.jobString>
+  <MakeDevilstrand.description>Spin devilstrand cloth from synthetic fibers. \n\n产出：15。</MakeDevilstrand.description>
+  <MakeDevilstrand.jobString>Spinning devilstrand cloth from synthetic fibers。</MakeDevilstrand.jobString>
 
   <MakeHyperweaveCloth.label>Spin hyperweave</MakeHyperweaveCloth.label>
-  <MakeHyperweaveCloth.description>Spin hyperweave from synthread and devilstrand cloth. \n\n产出：10.</MakeHyperweaveCloth.description>
-  <MakeHyperweaveCloth.jobString>Spinning hyperweave from devilstrand and synthread.</MakeHyperweaveCloth.jobString>
+  <MakeHyperweaveCloth.description>Spin hyperweave from synthread and devilstrand cloth. \n\n产出：10。</MakeHyperweaveCloth.description>
+  <MakeHyperweaveCloth.jobString>Spinning hyperweave from devilstrand and synthread。</MakeHyperweaveCloth.jobString>
 
   <MakeVelour.label>纺织丝绒</MakeVelour.label>
-  <MakeVelour.description>Spin velour, a plush woven fabric resembling velvet, chiefly used for soft furnishings, casual clothing, and hats. \n\n产出：25.</MakeVelour.description>
+  <MakeVelour.description>Spin velour, a plush woven fabric resembling velvet, chiefly used for soft furnishings, casual clothing, and hats. \n\n产出：25。</MakeVelour.description>
   <MakeVelour.jobString>从多种材料中编连丝绒。</MakeVelour.jobString>
 
 
   <!-- Hex cell -->
 
   <MakeHexcell.label>制作动力核</MakeHexcell.label>
-  <MakeHexcell.description>制造 hex-cells. These are used as power source in various pieces of high-tech armor. \n\n产出：10.</MakeHexcell.description>
+  <MakeHexcell.description>制造 hex-cells. These are used as power source in various pieces of high-tech armor. \n\n产出：10。</MakeHexcell.description>
   <MakeHexcell.jobString>制作动力核</MakeHexcell.jobString>
 
 
   <!--MakeCloth.label>Spin cloth</MakeCloth.label>
-  <MakeCloth.description>Spin cloth from raw cotton. \n\n产出：20.</MakeCloth.description>
-  <MakeCloth.jobString>Spinning cloth from raw cotton.</MakeCloth.jobString>
+  <MakeCloth.description>Spin cloth from raw cotton. \n\n产出：20。</MakeCloth.description>
+  <MakeCloth.jobString>Spinning cloth from raw cotton。</MakeCloth.jobString>
 
   <MakeLinen.label>Spin linen cloth</MakeLinen.label>
-  <MakeLinen.description>Spin linen cloth from raw flax. \n\n产出：10.</MakeLinen.description>
-  <MakeLinen.jobString>Spinning linen cloth from raw flax.</MakeLinen.jobString>
+  <MakeLinen.description>Spin linen cloth from raw flax. \n\n产出：10。</MakeLinen.description>
+  <MakeLinen.jobString>Spinning linen cloth from raw flax。</MakeLinen.jobString>
 
   <MakeHempCloth.label>Spin hemp</MakeHempCloth.label>
-  <MakeHempCloth.description>Spin weed into hemp. \n\n产出：15.</MakeHempCloth.description>
-  <MakeHempCloth.jobString>Spinning hemp from weed.</MakeHempCloth.jobString>
+  <MakeHempCloth.description>Spin weed into hemp. \n\n产出：15。</MakeHempCloth.description>
+  <MakeHempCloth.jobString>Spinning hemp from weed。</MakeHempCloth.jobString>
 
   <MakeSynthreadCloth.label>Spin synthread</MakeSynthreadCloth.label>
-  <MakeSynthreadCloth.description>Spin synthread from raw cotton and synthetic fibers. \n\n产出：10.</MakeSynthreadCloth.description>
-  <MakeSynthreadCloth.jobString>Spinning synthread from synthetic fibers.</MakeSynthreadCloth.jobString>
+  <MakeSynthreadCloth.description>Spin synthread from raw cotton and synthetic fibers. \n\n产出：10。</MakeSynthreadCloth.description>
+  <MakeSynthreadCloth.jobString>Spinning synthread from synthetic fibers。</MakeSynthreadCloth.jobString>
 
   <MakeDevilstrand.label>Spin devilstrand cloth</MakeDevilstrand.label>
-  <MakeDevilstrand.description>Spin devilstrand cloth from synthetic fibers. \n\n产出：15.</MakeDevilstrand.description>
-  <MakeDevilstrand.jobString>Spinning devilstrand cloth from synthetic fibers.</MakeDevilstrand.jobString>
+  <MakeDevilstrand.description>Spin devilstrand cloth from synthetic fibers. \n\n产出：15。</MakeDevilstrand.description>
+  <MakeDevilstrand.jobString>Spinning devilstrand cloth from synthetic fibers。</MakeDevilstrand.jobString>
 
   <MakeHyperweaveCloth.label>Spin hyperweave</MakeHyperweaveCloth.label>
-  <MakeHyperweaveCloth.description>Spin hyperweave from synthread and devilstrand cloth. \n\n产出：10.</MakeHyperweaveCloth.description>
-  <MakeHyperweaveCloth.jobString>Spinning hyperweave from devilstrand and synthread.</MakeHyperweaveCloth.jobString-->
+  <MakeHyperweaveCloth.description>Spin hyperweave from synthread and devilstrand cloth. \n\n产出：10。</MakeHyperweaveCloth.description>
+  <MakeHyperweaveCloth.jobString>Spinning hyperweave from devilstrand and synthread。</MakeHyperweaveCloth.jobString-->
   <!-- <MakeCloth.label>Spin cloth</MakeCloth.label>
-  <MakeCloth.description>Spin cloth from raw cotton. \n\n产出：20.</MakeCloth.description>
-  <MakeCloth.jobString>Spinning cloth from raw cotton.</MakeCloth.jobString>
+  <MakeCloth.description>Spin cloth from raw cotton. \n\n产出：20。</MakeCloth.description>
+  <MakeCloth.jobString>Spinning cloth from raw cotton。</MakeCloth.jobString>
 
   <MakeLinen.label>Spin linen cloth</MakeLinen.label>
-  <MakeLinen.description>Spin linen cloth from raw flax. \n\n产出：10.</MakeLinen.description>
-  <MakeLinen.jobString>Spinning linen cloth from raw flax.</MakeLinen.jobString>
+  <MakeLinen.description>Spin linen cloth from raw flax. \n\n产出：10。</MakeLinen.description>
+  <MakeLinen.jobString>Spinning linen cloth from raw flax。</MakeLinen.jobString>
 
   <MakeHempCloth.label>Spin hemp</MakeHempCloth.label>
-  <MakeHempCloth.description>Spin weed into hemp. \n\n产出：15.</MakeHempCloth.description>
-  <MakeHempCloth.jobString>Spinning hemp from weed.</MakeHempCloth.jobString>
+  <MakeHempCloth.description>Spin weed into hemp. \n\n产出：15。</MakeHempCloth.description>
+  <MakeHempCloth.jobString>Spinning hemp from weed。</MakeHempCloth.jobString>
 
   <MakeSynthreadCloth.label>Spin synthread</MakeSynthreadCloth.label>
-  <MakeSynthreadCloth.description>Spin synthread from raw cotton and synthetic fibers. \n\n产出：10.</MakeSynthreadCloth.description>
-  <MakeSynthreadCloth.jobString>Spinning synthread from synthetic fibers.</MakeSynthreadCloth.jobString>
+  <MakeSynthreadCloth.description>Spin synthread from raw cotton and synthetic fibers. \n\n产出：10。</MakeSynthreadCloth.description>
+  <MakeSynthreadCloth.jobString>Spinning synthread from synthetic fibers。</MakeSynthreadCloth.jobString>
 
   <MakeDevilstrand.label>Spin devilstrand cloth</MakeDevilstrand.label>
-  <MakeDevilstrand.description>Spin devilstrand cloth from synthetic fibers. \n\n产出：15.</MakeDevilstrand.description>
-  <MakeDevilstrand.jobString>Spinning devilstrand cloth from synthetic fibers.</MakeDevilstrand.jobString>
+  <MakeDevilstrand.description>Spin devilstrand cloth from synthetic fibers. \n\n产出：15。</MakeDevilstrand.description>
+  <MakeDevilstrand.jobString>Spinning devilstrand cloth from synthetic fibers。</MakeDevilstrand.jobString>
 
   <MakeHyperweaveCloth.label>Spin hyperweave</MakeHyperweaveCloth.label>
-  <MakeHyperweaveCloth.description>Spin hyperweave from synthread and devilstrand cloth. \n\n产出：10.</MakeHyperweaveCloth.description>
-  <MakeHyperweaveCloth.jobString>Spinning hyperweave from devilstrand and synthread.</MakeHyperweaveCloth.jobString>
+  <MakeHyperweaveCloth.description>Spin hyperweave from synthread and devilstrand cloth. \n\n产出：10。</MakeHyperweaveCloth.description>
+  <MakeHyperweaveCloth.jobString>Spinning hyperweave from devilstrand and synthread。</MakeHyperweaveCloth.jobString>
  -->
 
 </LanguageData>

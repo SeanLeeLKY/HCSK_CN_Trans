@@ -4,32 +4,32 @@
   <!-- Chemical SK -->
 
   <CrudeOil.label>Crude Oil</CrudeOil.label>
-  <CrudeOil.description>Crude Oil is extracted from an Oil Fissure through use of an Oil Extractor. It can be refined at a Petrochemical Plant to produce Polymers, Paraffins, Sulfur, Synthetic Ammonia and Fuel Oil.</CrudeOil.description>
+  <CrudeOil.description>Crude Oil is extracted from an Oil Fissure through use of an Oil Extractor. It can be refined at a Petrochemical Plant to produce Polymers, Paraffins, Sulfur, Synthetic Ammonia and Fuel Oil。</CrudeOil.description>
 
   <Polymers.label>Polymers</Polymers.label>
-  <Polymers.description>Polymers are a product of refined Crude Oil. It is a useful raw material used in creation of Plastic, Rubber, Synthetic Fibers and Carbon at a Petrochemical Plant.</Polymers.description>
+  <Polymers.description>Polymers are a product of refined Crude Oil. It is a useful raw material used in creation of Plastic, Rubber, Synthetic Fibers and Carbon at a Petrochemical Plant。</Polymers.description>
 
   <Plastic.label>Plastic</Plastic.label>
-  <Plastic.description>Plastic is a useful raw material for building construction or item production or weapons.</Plastic.description>
+  <Plastic.description>Plastic is a useful raw material for building construction or item production or weapons。</Plastic.description>
   <Plastic.stuffProps.stuffAdjective>Plastic</Plastic.stuffProps.stuffAdjective>
 
   <Rubber.label>Rubber</Rubber.label>
-  <Rubber.description>Rubber is useful for a variety of things such as duct pipes, pumps or as a building material supplement/additive.</Rubber.description>
+  <Rubber.description>Rubber is useful for a variety of things such as duct pipes, pumps or as a building material supplement/additive。</Rubber.description>
 
   <SyntheticFibers.label>Synthetic Fibers</SyntheticFibers.label>
-  <SyntheticFibers.description>Synthetic Fibers are artifical strands created from Polymers and Sulfur. They can be woven into Synthread Cloth at a Tailor's Workbench, or woven with Carbon into Carbon Fiber Alloy at a Chemical Laboratory.</SyntheticFibers.description>
+  <SyntheticFibers.description>Synthetic Fibers are artifical strands created from Polymers and Sulfur. They can be woven into Synthread Cloth at a Tailor's Workbench, or woven with Carbon into Carbon Fiber Alloy at a Chemical Laboratory。</SyntheticFibers.description>
 
   <Carbon.label>Carbon</Carbon.label>
-  <Carbon.description>Carbon is a fiber-reinforced polymer that is an extremely strong and light. It can be reinforced further with Synthetic Fibers to create Carbon Fiber Alloy at a Chemical Laboratory.</Carbon.description>
+  <Carbon.description>Carbon is a fiber-reinforced polymer that is an extremely strong and light. It can be reinforced further with Synthetic Fibers to create Carbon Fiber Alloy at a Chemical Laboratory。</Carbon.description>
 
   <SyntheticAmmonia.label>Synthetic Ammonia</SyntheticAmmonia.label>
-  <SyntheticAmmonia.description>Synthetic ammonia is a product of refined crude oil. It is useful for creating impaction charges.</SyntheticAmmonia.description>
+  <SyntheticAmmonia.description>Synthetic ammonia is a product of refined crude oil. It is useful for creating impaction charges。</SyntheticAmmonia.description>
 
   <Paraffins.label>Paraffin</Paraffins.label>
-  <Paraffins.description>Paraffins are a product of refined Crude Oil. It is useful in crafting medicines.</Paraffins.description>
+  <Paraffins.description>Paraffins are a product of refined Crude Oil. It is useful in crafting medicines。</Paraffins.description>
 
   <Sulfur.label>Sulfur</Sulfur.label>
-  <Sulfur.description>Sulfur occurs naturally as the pure element - native sulfur and as sulfide and sulfate minerals. Sulfur can be obtained from refined Crude Oil at a Petrochemical Plant or from processing Iron Ore at an Ammo Crafting Table. It is useful for Gunpowder in crafting various types of turret ammo.</Sulfur.description>
+  <Sulfur.description>Sulfur occurs naturally as the pure element - native sulfur and as sulfide and sulfate minerals. Sulfur can be obtained from refined Crude Oil at a Petrochemical Plant or from processing Iron Ore at an Ammo Crafting Table. It is useful for Gunpowder in crafting various types of turret ammo。</Sulfur.description>
 
   <Sulphates.label>Sulphates</Sulphates.label>
   <Sulphates.description>Sulphates</Sulphates.description>

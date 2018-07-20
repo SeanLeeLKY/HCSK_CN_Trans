@@ -2,24 +2,24 @@
 <LanguageData>
 
   <MakeHerbMedicine.label>制作中草药</MakeHerbMedicine.label>
-  <MakeHerbMedicine.description>Crafts herbal medicine from Raw Healroot. \n\n产出：1.</MakeHerbMedicine.description>
-  <MakeHerbMedicine.jobString>Crafting herbal medicine.</MakeHerbMedicine.jobString>
+  <MakeHerbMedicine.description>Crafts herbal medicine from Raw Healroot. \n\n产出：1。</MakeHerbMedicine.description>
+  <MakeHerbMedicine.jobString>Crafting herbal medicine。</MakeHerbMedicine.jobString>
 
   <makemedicine.label>制作药物</makemedicine.label>
-  <makemedicine.description>Crafts a medicine kit from herbal medicine and various other resources. \n\n产出：1.</makemedicine.description>
-  <makemedicine.jobString>Crafting medicine.</makemedicine.jobString>
+  <makemedicine.description>Crafts a medicine kit from herbal medicine and various other resources. \n\n产出：1。</makemedicine.description>
+  <makemedicine.jobString>Crafting medicine。</makemedicine.jobString>
 
   <makelifesupport.label>制作生命维持系统</makelifesupport.label>
-  <makelifesupport.description>Crafts a life support device. \n\n产出：1.</makelifesupport.description>
-  <makelifesupport.jobString>Crafting life support device.</makelifesupport.jobString>
+  <makelifesupport.description>Crafts a life support device. \n\n产出：1。</makelifesupport.description>
+  <makelifesupport.jobString>Crafting life support device。</makelifesupport.jobString>
 
   <makeadvmedicine.label>制作高级药物</makeadvmedicine.label>
-  <makeadvmedicine.description>Crafts advanced medicine from plants with high medical potency. \n\n产出：1.</makeadvmedicine.description>
-  <makeadvmedicine.jobString>Crafting advanced medicine.</makeadvmedicine.jobString>
+  <makeadvmedicine.description>Crafts advanced medicine from plants with high medical potency. \n\n产出：1。</makeadvmedicine.description>
+  <makeadvmedicine.jobString>Crafting advanced medicine。</makeadvmedicine.jobString>
 
 
   <!--<Makeherbmeds.label>制作草药医疗包</Makeherbmeds.label>-->
-  <!--<Makeherbmeds.description>Combines herbs into a medical kit. \n\n产出：1.</Makeherbmeds.description>-->
-  <!--<Makeherbmeds.jobString>Mixing herbs into medicine kit.</Makeherbmeds.jobString>-->
+  <!--<Makeherbmeds.description>Combines herbs into a medical kit. \n\n产出：1。</Makeherbmeds.description>-->
+  <!--<Makeherbmeds.jobString>Mixing herbs into medicine kit。</Makeherbmeds.jobString>-->
 
 </LanguageData>

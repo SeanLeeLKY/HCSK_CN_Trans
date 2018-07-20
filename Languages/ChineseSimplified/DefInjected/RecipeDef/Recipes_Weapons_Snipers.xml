@@ -3,47 +3,47 @@
 
   <BuildSniperRifle.label>Build M24 Sniper Rifle</BuildSniperRifle.label>
   <BuildSniperRifle.description>Builds an ancient pattern military sniper rifle. Bolt action, long range, great accuracy and power.\nCaliber: 7.62x51mm NATO</BuildSniperRifle.description>
-  <BuildSniperRifle.jobString>Building M24 Sniper Rifle.</BuildSniperRifle.jobString>
+  <BuildSniperRifle.jobString>Building M24 Sniper Rifle。</BuildSniperRifle.jobString>
 
   <BuildM42A_USCM.label>Build M42A Scope Rifle</BuildM42A_USCM.label>
   <BuildM42A_USCM.description>The M42A Scope Rifle is an American-made semi-automatic sniper rifle.\nCaliber: 7.62x51mm NATO</BuildM42A_USCM.description>
-  <BuildM42A_USCM.jobString>Building M42A Scope Rifle.</BuildM42A_USCM.jobString>
+  <BuildM42A_USCM.jobString>Building M42A Scope Rifle。</BuildM42A_USCM.jobString>
 
   <BuildDragunovSVU.label>Build SVU OTs-03 Dragunov</BuildDragunovSVU.label>
   <BuildDragunovSVU.description>The SVU OTs-03 Dragunov is a bullpup configuration of the SVD sniper rifle. High damage, long range and very good accuracy.\nCaliber: 7.62x54mm R</BuildDragunovSVU.description>
-  <BuildDragunovSVU.jobString>Building SVU OTs-03 Dragunov.</BuildDragunovSVU.jobString>
+  <BuildDragunovSVU.jobString>Building SVU OTs-03 Dragunov。</BuildDragunovSVU.jobString>
 
   <BuildWA2000SpecialistRifle.label>Build Walther WA 2000 Rifle</BuildWA2000SpecialistRifle.label>
   <BuildWA2000SpecialistRifle.description>Builds the Walther WA 2000 Rifle, a limited edition ancient sniper rifle. Great range, exceptional accuracy, very high damage and very low fire rate.\nCaliber: 7.62x51mm NATO</BuildWA2000SpecialistRifle.description>
-  <BuildWA2000SpecialistRifle.jobString>Building Walther WA 2000 Rifle.</BuildWA2000SpecialistRifle.jobString>
+  <BuildWA2000SpecialistRifle.jobString>Building Walther WA 2000 Rifle。</BuildWA2000SpecialistRifle.jobString>
 
   <BuildM82Gun.label>Build Barrett M82A1 SASR</BuildM82Gun.label>
   <BuildM82Gun.description>Builds the AM Barrett M82, a recoil-operated semi-automatic anti-materiel rifle. Very high damage, long range and very good accuracy.\nCaliber: .50 BMG</BuildM82Gun.description>
-  <BuildM82Gun.jobString>Building Barrett M82A1 SASR.</BuildM82Gun.jobString>
+  <BuildM82Gun.jobString>Building Barrett M82A1 SASR。</BuildM82Gun.jobString>
 
   <BuildTAMSR.label>Build SRS99 AM Sniper Rifle</BuildTAMSR.label>
   <BuildTAMSR.description>Builds the SRS99 AM Sniper Rifle, which is more formally known as the Special Applications Rifle. Has a very long range with high accuracy and stopping power.\nCaliber: 14.5x114mm</BuildTAMSR.description>
-  <BuildTAMSR.jobString>Building SRS99 AM Sniper Rifle.</BuildTAMSR.jobString>
+  <BuildTAMSR.jobString>Building SRS99 AM Sniper Rifle。</BuildTAMSR.jobString>
 
   <BuildARFifty.label>Build Armalite AR-50</BuildARFifty.label>
   <BuildARFifty.description>Builds the Armalite AR-50, which is a heavy, accurate, military-grade bolt-action rifle. Average fire rate, very high damage, high accuracy and long range.\nCaliber: .50 BMG</BuildARFifty.description>
-  <BuildARFifty.jobString>Building Armalite AR-50.</BuildARFifty.jobString>
+  <BuildARFifty.jobString>Building Armalite AR-50。</BuildARFifty.jobString>
 
   <BuildAWP.label>Build Micor Defense MD50</BuildAWP.label>
   <BuildAWP.description>Builds the Micor Defense MD50, an autoloading anti-materiel rifle with a compact bullpup design. Low fire rate, high range, extremely high damage and high accuracy.\nCaliber: .50 BMG</BuildAWP.description>
-  <BuildAWP.jobString>Building Micor Defense MD50.</BuildAWP.jobString>
+  <BuildAWP.jobString>Building Micor Defense MD50。</BuildAWP.jobString>
 
   <BuildHecateII.label>Build Ultima Ratio Hecate II</BuildHecateII.label>
   <BuildHecateII.description>Builds the Ultima Ratio Hecate II, a special application scoped rifle with a long muzzle brake and wooden stock. Low fire rate, high range, very high damage and high accuracy.\nCaliber: .50 BMG</BuildHecateII.description>
-  <BuildHecateII.jobString>Building Ultima Ratio Hecate II.</BuildHecateII.jobString>
+  <BuildHecateII.jobString>Building Ultima Ratio Hecate II。</BuildHecateII.jobString>
 
   <BuildATR.label>Build PTRD-41 Rifle</BuildATR.label>
   <BuildATR.description>Builds the PTRD-41 Rifle, which is an anti-tank rifle with special armor piercing penetration rounds.\nCaliber: 14.5x114mm</BuildATR.description>
-  <BuildATR.jobString>Building PTRD-41 Rifle.</BuildATR.jobString>
+  <BuildATR.jobString>Building PTRD-41 Rifle。</BuildATR.jobString>
 
   <BuildVintorez.label>Build VSS Thread Cutter</BuildVintorez.label>
   <BuildVintorez.description>Builds the VSS Thread Cutter, a special forces sniper rifle. Very accurate at long range, has a fast fire rate and a large magazine capacity.\nCaliber: 9x39mm Soviet</BuildVintorez.description>
-  <BuildVintorez.jobString>Building VSS Thread Cutter.</BuildVintorez.jobString>
+  <BuildVintorez.jobString>Building VSS Thread Cutter。</BuildVintorez.jobString>
 
 
 </LanguageData>

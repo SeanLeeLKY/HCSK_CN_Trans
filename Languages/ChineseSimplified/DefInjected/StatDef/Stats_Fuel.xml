@@ -2,11 +2,11 @@
 <LanguageData>
 
   <MaxBurningTempCelsius.label>max burning temperature</MaxBurningTempCelsius.label>
-  <MaxBurningTempCelsius.description>The maximum temperature this fuel type provides when burn.</MaxBurningTempCelsius.description>
+  <MaxBurningTempCelsius.description>The maximum temperature this fuel type provides when burn。</MaxBurningTempCelsius.description>
   <MaxBurningTempCelsius.formatString>{0}°C</MaxBurningTempCelsius.formatString>
 
   <BurnDurationHours.label>burn duration of single unit</BurnDurationHours.label>
-  <BurnDurationHours.description>How many hours it takes to burn one unit.</BurnDurationHours.description>
+  <BurnDurationHours.description>How many hours it takes to burn one unit。</BurnDurationHours.description>
 
 
 </LanguageData>

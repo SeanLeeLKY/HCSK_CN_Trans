@@ -4,23 +4,23 @@
   <!-- Fabric, leather, etc -->
 
   <Cloth.label>Cloth</Cloth.label>
-  <Cloth.description>Cloth is woven from the raw organic fibers of a Cotton Bush. These fibers are called Raw Cotton.</Cloth.description>
+  <Cloth.description>Cloth is woven from the raw organic fibers of a Cotton Bush. These fibers are called Raw Cotton。</Cloth.description>
   <Cloth.stuffProps.stuffAdjective>Cloth</Cloth.stuffProps.stuffAdjective>
 
   <WoolMegasloth.label>Megasloth wool</WoolMegasloth.label>
-  <WoolMegasloth.description>While somewhat coarse, Megasloth wool's long fibers make it very strong. It is very warm.</WoolMegasloth.description>
+  <WoolMegasloth.description>While somewhat coarse, Megasloth wool's long fibers make it very strong. It is very warm。</WoolMegasloth.description>
   <WoolMegasloth.stuffProps.stuffAdjective>Megasloth wool</WoolMegasloth.stuffProps.stuffAdjective>
 
   <WoolMuffalo.label>Muffalo Wool</WoolMuffalo.label>
-  <WoolMuffalo.description>Muffalo Wool is soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</WoolMuffalo.description>
+  <WoolMuffalo.description>Muffalo Wool is soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions。</WoolMuffalo.description>
   <WoolMuffalo.stuffProps.stuffAdjective>Muffalo Wool</WoolMuffalo.stuffProps.stuffAdjective>
 
   <WoolCamel.label>Dromedary Hair</WoolCamel.label>
-  <WoolCamel.description>Dromedary Hair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</WoolCamel.description>
+  <WoolCamel.description>Dromedary Hair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties。</WoolCamel.description>
   <WoolCamel.stuffProps.stuffAdjective>Dromedary Hair</WoolCamel.stuffProps.stuffAdjective>
 
   <WoolAlpaca.label>Alpaca Wool</WoolAlpaca.label>
-  <WoolAlpaca.description>This is the remarkably soft wool of an Alpaca. It is useful for clothing.</WoolAlpaca.description>
+  <WoolAlpaca.description>This is the remarkably soft wool of an Alpaca. It is useful for clothing。</WoolAlpaca.description>
   <WoolAlpaca.stuffProps.stuffAdjective>Alpaca Wool</WoolAlpaca.stuffProps.stuffAdjective>
 
   <HempCloth.label>Hemp</HempCloth.label>
@@ -28,7 +28,7 @@
   <HempCloth.stuffProps.stuffAdjective>Hemp</HempCloth.stuffProps.stuffAdjective>
 
   <RamWool.label>Ram Wool</RamWool.label>
-  <RamWool.description>This is the exceptionally soft wool of a ram.</RamWool.description>
+  <RamWool.description>This is the exceptionally soft wool of a ram。</RamWool.description>
   <RamWool.stuffProps.stuffAdjective>Ram Wool</RamWool.stuffProps.stuffAdjective>
 
 
@@ -95,31 +95,31 @@
   <Velour.stuffProps.stuffAdjective>velour</Velour.stuffProps.stuffAdjective>
 
   <Flaxcloth.label>Linen Cloth</Flaxcloth.label>
-  <Flaxcloth.description>A fabric designed for making clothes. It is soft, light, and strong.</Flaxcloth.description>
+  <Flaxcloth.description>A fabric designed for making clothes. It is soft, light, and strong。</Flaxcloth.description>
   <Flaxcloth.stuffProps.stuffAdjective>Linen Cloth</Flaxcloth.stuffProps.stuffAdjective>
 
   <DevilstrandCloth.label>Devilstrand Cloth</DevilstrandCloth.label>
-  <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand Mushrooms. Very tough, but insulates no better than Cloth.</DevilstrandCloth.description>
+  <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand Mushrooms. Very tough, but insulates no better than Cloth。</DevilstrandCloth.description>
   <DevilstrandCloth.stuffProps.stuffAdjective>Devilstrand Cloth</DevilstrandCloth.stuffProps.stuffAdjective>
 
   <Synthread.label>Synthread</Synthread.label>
-  <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>
+  <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well。</Synthread.description>
   <Synthread.stuffProps.stuffAdjective>Synthread</Synthread.stuffProps.stuffAdjective>
 
   <Hyperweave.label>Hyperweave</Hyperweave.label>
-  <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced GlitterWorld cultures.</Hyperweave.description>
+  <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced GlitterWorld cultures。</Hyperweave.description>
   <Hyperweave.stuffProps.stuffAdjective>Hyperweave</Hyperweave.stuffProps.stuffAdjective>
 
   <Kevlar.label>Kevlar</Kevlar.label>
-  <Kevlar.description>Kevlar is a woven combination of plastic and synthetic fibers that is often used for combat-related protective armor.</Kevlar.description>
+  <Kevlar.description>Kevlar is a woven combination of plastic and synthetic fibers that is often used for combat-related protective armor。</Kevlar.description>
   <Kevlar.stuffProps.stuffAdjective>Kevlar</Kevlar.stuffProps.stuffAdjective>
 
   <Chitin.label>Chitin</Chitin.label>
-  <Chitin.description>Chitin is a long-chain polymer. It can be obtained from the exoskeletons of insects or shelled creatures.</Chitin.description>
+  <Chitin.description>Chitin is a long-chain polymer. It can be obtained from the exoskeletons of insects or shelled creatures。</Chitin.description>
   <Chitin.stuffProps.stuffAdjective>Chitin</Chitin.stuffProps.stuffAdjective>
 
   <Compaste.label>Compound Paste</Compaste.label>
-  <Compaste.description>A bottle of compound paste, used for various crafting processes. The label reads: "DO NOT DRINK! Avoid sticking your fingers on surfaces after use!".</Compaste.description>
+  <Compaste.description>A bottle of compound paste, used for various crafting processes. The label reads: "DO NOT DRINK! Avoid sticking your fingers on surfaces after use!"。</Compaste.description>
 
 
 </LanguageData>

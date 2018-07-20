@@ -4,7 +4,7 @@
   <!-- M-6 MANTIS -->
 
   <Gun_Mantis.label>M-6 螳螂 光束枪</Gun_Mantis.label>
-  <Gun_Mantis.description>Powerful sniper laser pulser able to take out most targets in a single shot. Incredibly accurate at long range, but rate of fire is slow. Effective against armor, but weaker against shields and biotic barriers.</Gun_Mantis.description>
+  <Gun_Mantis.description>Powerful sniper laser pulser able to take out most targets in a single shot. Incredibly accurate at long range, but rate of fire is slow. Effective against armor, but weaker against shields and biotic barriers。</Gun_Mantis.description>
   <Gun_Mantis.tools.0.label>grip</Gun_Mantis.tools.0.label>
   <Gun_Mantis.tools.1.label>barrel</Gun_Mantis.tools.1.label>
   <Gun_Mantis.tools.2.label>muzzle</Gun_Mantis.tools.2.label>
@@ -13,7 +13,7 @@
   <!-- M-8 REVENANT -->
 
   <LaserRifle.label>M-8 亡魂 光束枪</LaserRifle.label>
-  <LaserRifle.description>A common, versatile, military-grade assault rifle. Accurate when fired in short bursts, and deadly when fired on full auto. The Avenger is effective at penetrating shields, armor, and biotic barriers. The modular design and inexpensive components of the Avenger make it a favorite of military groups and mercenaries alike. The Avenger has a reputation for being tough, reliable, easy to use, and easy to upgrade.</LaserRifle.description>
+  <LaserRifle.description>A common, versatile, military-grade assault rifle. Accurate when fired in short bursts, and deadly when fired on full auto. The Avenger is effective at penetrating shields, armor, and biotic barriers. The modular design and inexpensive components of the Avenger make it a favorite of military groups and mercenaries alike. The Avenger has a reputation for being tough, reliable, easy to use, and easy to upgrade。</LaserRifle.description>
   <LaserRifle.tools.0.label>stock</LaserRifle.tools.0.label>
   <LaserRifle.tools.1.label>barrel</LaserRifle.tools.1.label>
   <LaserRifle.tools.2.label>muzzle</LaserRifle.tools.2.label>
@@ -22,7 +22,7 @@
   <!-- M-10 SPIKER -->
 
   <HeavyLasergun.label>M-10 铆钉 光束枪</HeavyLasergun.label>
-  <HeavyLasergun.description>Fantastic Nanotech heavy laser pulser.</HeavyLasergun.description>
+  <HeavyLasergun.description>Fantastic Nanotech heavy laser pulser。</HeavyLasergun.description>
   <HeavyLasergun.tools.0.label>stock</HeavyLasergun.tools.0.label>
   <HeavyLasergun.tools.1.label>barrel</HeavyLasergun.tools.1.label>
   <HeavyLasergun.tools.2.label>muzzle</HeavyLasergun.tools.2.label>
@@ -31,7 +31,7 @@
   <!-- M-12 INTERCESSOR -->
 
   <BurstLasergun.label>M-12 仲裁者 光束枪</BurstLasergun.label>
-  <BurstLasergun.description>This nanotech laser pulser multigun. Protected against replication by sophisticated Fabrication Rights Management (FRM) technology, only the richest and most powerful warlords can afford this weapon.</BurstLasergun.description>
+  <BurstLasergun.description>This nanotech laser pulser multigun. Protected against replication by sophisticated Fabrication Rights Management (FRM) technology, only the richest and most powerful warlords can afford this weapon。</BurstLasergun.description>
   <BurstLasergun.tools.0.label>stock</BurstLasergun.tools.0.label>
   <BurstLasergun.tools.1.label>barrel</BurstLasergun.tools.1.label>
   <BurstLasergun.tools.2.label>muzzle</BurstLasergun.tools.2.label>

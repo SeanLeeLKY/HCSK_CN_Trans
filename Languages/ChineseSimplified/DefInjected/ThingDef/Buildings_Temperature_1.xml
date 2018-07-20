@@ -2,92 +2,92 @@
 <LanguageData>
 
   <Campfire.label>campfire</Campfire.label>
-  <Campfire.description>A campfire that can cook meals and produce heat, but it will burn out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat.</Campfire.description>
+  <Campfire.description>A campfire that can cook meals and produce heat, but it will burn out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat。</Campfire.description>
   <Campfire_Blueprint.label>campfire (blueprint)</Campfire_Blueprint.label>
   <Campfire_Frame.label>campfire (building)</Campfire_Frame.label>
-  <Campfire_Frame.description>A campfire that can cook meals and produce heat, but it will burn out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat.</Campfire_Frame.description>
+  <Campfire_Frame.description>A campfire that can cook meals and produce heat, but it will burn out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat。</Campfire_Frame.description>
 
   <Building_Heater.label>烤炉</Building_Heater.label>
-  <Building_Heater.description>A stove that produces heat by burning basic fuel sources. Can be fueled by kindling, coal, charcoal, peat and wooden stuff.</Building_Heater.description>
+  <Building_Heater.description>A stove that produces heat by burning basic fuel sources. Can be fueled by kindling, coal, charcoal, peat and wooden stuff。</Building_Heater.description>
   <Building_Heater_Blueprint.label>烤炉 (蓝图)</Building_Heater_Blueprint.label>
   <Building_Heater_Frame.label>烤炉 (建造中)</Building_Heater_Frame.label>
-  <Building_Heater_Frame.description>A stove that produces heat by burning basic fuel sources. Can be fueled by kindling, coal, charcoal, peat and wooden stuff.</Building_Heater_Frame.description>
+  <Building_Heater_Frame.description>A stove that produces heat by burning basic fuel sources. Can be fueled by kindling, coal, charcoal, peat and wooden stuff。</Building_Heater_Frame.description>
 
   <EHeatedFloor.label>电加热地板</EHeatedFloor.label>
-  <EHeatedFloor.description>Heated flooring tiles that utilize conductive wires and convection heating to warm a room.</EHeatedFloor.description>
+  <EHeatedFloor.description>Heated flooring tiles that utilize conductive wires and convection heating to warm a room。</EHeatedFloor.description>
   <EHeatedFloor_Blueprint.label>电加热地板 (蓝图)</EHeatedFloor_Blueprint.label>
   <EHeatedFloor_Frame.label>电加热地板 (建造中)</EHeatedFloor_Frame.label>
-  <EHeatedFloor_Frame.description>Heated flooring tiles that utilize conductive wires and convection heating to warm a room.</EHeatedFloor_Frame.description>
+  <EHeatedFloor_Frame.description>Heated flooring tiles that utilize conductive wires and convection heating to warm a room。</EHeatedFloor_Frame.description>
 
   <Heater.label>heater</Heater.label>
-  <Heater.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>
+  <Heater.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature。</Heater.description>
   <Heater_Blueprint.label>heater (blueprint)</Heater_Blueprint.label>
   <Heater_Frame.label>heater (building)</Heater_Frame.label>
-  <Heater_Frame.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater_Frame.description>
+  <Heater_Frame.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature。</Heater_Frame.description>
 
   <RH_MediumHeater.label>Medium heater</RH_MediumHeater.label>
-  <RH_MediumHeater.description>A wall mounted heater which is more efficient at heating large rooms and bases. It can automatically turn itself on or off to reach a specific target temperature.</RH_MediumHeater.description>
+  <RH_MediumHeater.description>A wall mounted heater which is more efficient at heating large rooms and bases. It can automatically turn itself on or off to reach a specific target temperature。</RH_MediumHeater.description>
   <RH_MediumHeater_Blueprint.label>Medium heater (blueprint)</RH_MediumHeater_Blueprint.label>
   <RH_MediumHeater_Frame.label>Medium heater (building)</RH_MediumHeater_Frame.label>
-  <RH_MediumHeater_Frame.description>A wall mounted heater which is more efficient at heating large rooms and bases. It can automatically turn itself on or off to reach a specific target temperature.</RH_MediumHeater_Frame.description>
+  <RH_MediumHeater_Frame.description>A wall mounted heater which is more efficient at heating large rooms and bases. It can automatically turn itself on or off to reach a specific target temperature。</RH_MediumHeater_Frame.description>
 
   <RedistHeat_IndustrialHeater.label>Industrial heater</RedistHeat_IndustrialHeater.label>
-  <RedistHeat_IndustrialHeater.description>A massive industrial heater. It can efficiently heat large rooms and bases. It can automatically turn itself on or off to reach a specific target temperature.</RedistHeat_IndustrialHeater.description>
+  <RedistHeat_IndustrialHeater.description>A massive industrial heater. It can efficiently heat large rooms and bases. It can automatically turn itself on or off to reach a specific target temperature。</RedistHeat_IndustrialHeater.description>
   <RedistHeat_IndustrialHeater_Blueprint.label>Industrial heater (blueprint)</RedistHeat_IndustrialHeater_Blueprint.label>
   <RedistHeat_IndustrialHeater_Frame.label>Industrial heater (building)</RedistHeat_IndustrialHeater_Frame.label>
-  <RedistHeat_IndustrialHeater_Frame.description>A massive industrial heater. It can efficiently heat large rooms and bases. It can automatically turn itself on or off to reach a specific target temperature.</RedistHeat_IndustrialHeater_Frame.description>
+  <RedistHeat_IndustrialHeater_Frame.description>A massive industrial heater. It can efficiently heat large rooms and bases. It can automatically turn itself on or off to reach a specific target temperature。</RedistHeat_IndustrialHeater_Frame.description>
 
   <GH.label>地热加热器</GH.label>
-  <GH.description>A industrial geothermal heater that collects and controls the heat from a steam geyser. It is self-balanced and can heat up a large indoor area to a comfortable temperature.</GH.description>
+  <GH.description>A industrial geothermal heater that collects and controls the heat from a steam geyser. It is self-balanced and can heat up a large indoor area to a comfortable temperature。</GH.description>
   <GH_Blueprint.label>地热加热器 (蓝图)</GH_Blueprint.label>
   <GH_Frame.label>地热加热器 (建造中)</GH_Frame.label>
-  <GH_Frame.description>A industrial geothermal heater that collects and controls the heat from a steam geyser. It is self-balanced and can heat up a large indoor area to a comfortable temperature.</GH_Frame.description>
+  <GH_Frame.description>A industrial geothermal heater that collects and controls the heat from a steam geyser. It is self-balanced and can heat up a large indoor area to a comfortable temperature。</GH_Frame.description>
 
   <PassiveCooler.label>passive cooler</PassiveCooler.label>
-  <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. While it's not strong enough to refridgerate food, it can help survive a heat wave. It will run out and self-destruct after several days.</PassiveCooler.description>
+  <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. While it's not strong enough to refridgerate food, it can help survive a heat wave. It will run out and self-destruct after several days。</PassiveCooler.description>
   <PassiveCooler_Blueprint.label>passive cooler (blueprint)</PassiveCooler_Blueprint.label>
   <PassiveCooler_Frame.label>passive cooler (building)</PassiveCooler_Frame.label>
-  <PassiveCooler_Frame.description>A traditional unpowered cooler that works by water evaporation. While it's not strong enough to refridgerate food, it can help survive a heat wave. It will run out and self-destruct after several days.</PassiveCooler_Frame.description>
+  <PassiveCooler_Frame.description>A traditional unpowered cooler that works by water evaporation. While it's not strong enough to refridgerate food, it can help survive a heat wave. It will run out and self-destruct after several days。</PassiveCooler_Frame.description>
 
   <ColdstoneBattery.label>冰石制冷器</ColdstoneBattery.label>
-  <ColdstoneBattery.description>A tank built to cool a medium-sized room to below freezing. Requires coldstone as fuel. Able to support a roof.</ColdstoneBattery.description>
+  <ColdstoneBattery.description>A tank built to cool a medium-sized room to below freezing. Requires coldstone as fuel. Able to support a roof。</ColdstoneBattery.description>
   <ColdstoneBattery_Blueprint.label>冰石制冷器 (蓝图)</ColdstoneBattery_Blueprint.label>
   <ColdstoneBattery_Frame.label>冰石制冷器 (建造中)</ColdstoneBattery_Frame.label>
-  <ColdstoneBattery_Frame.description>A tank built to cool a medium-sized room to below freezing. Requires coldstone as fuel. Able to support a roof.</ColdstoneBattery_Frame.description>
+  <ColdstoneBattery_Frame.description>A tank built to cool a medium-sized room to below freezing. Requires coldstone as fuel. Able to support a roof。</ColdstoneBattery_Frame.description>
 
   <RH_SmallCooler.label>Small cooler</RH_SmallCooler.label>
-  <RH_SmallCooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms or to create a walk-in freezer.</RH_SmallCooler.description>
+  <RH_SmallCooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms or to create a walk-in freezer。</RH_SmallCooler.description>
   <RH_SmallCooler_Blueprint.label>Small cooler (blueprint)</RH_SmallCooler_Blueprint.label>
   <RH_SmallCooler_Frame.label>Small cooler (building)</RH_SmallCooler_Frame.label>
-  <RH_SmallCooler_Frame.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms or to create a walk-in freezer.</RH_SmallCooler_Frame.description>
+  <RH_SmallCooler_Frame.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms or to create a walk-in freezer。</RH_SmallCooler_Frame.description>
 
   <Cooler.label>cooler</Cooler.label>
-  <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer.</Cooler.description>
+  <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer。</Cooler.description>
   <Cooler_Blueprint.label>cooler (blueprint)</Cooler_Blueprint.label>
   <Cooler_Frame.label>cooler (building)</Cooler_Frame.label>
-  <Cooler_Frame.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer.</Cooler_Frame.description>
+  <Cooler_Frame.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer。</Cooler_Frame.description>
 
   <RedistHeat_IndustrialCooler.label>Industrial cooler</RedistHeat_IndustrialCooler.label>
-  <RedistHeat_IndustrialCooler.description>A massive electrical device that pushes cold air into a room. It needs at least one external exhaust port.</RedistHeat_IndustrialCooler.description>
+  <RedistHeat_IndustrialCooler.description>A massive electrical device that pushes cold air into a room. It needs at least one external exhaust port。</RedistHeat_IndustrialCooler.description>
   <RedistHeat_IndustrialCooler_Blueprint.label>Industrial cooler (blueprint)</RedistHeat_IndustrialCooler_Blueprint.label>
   <RedistHeat_IndustrialCooler_Frame.label>Industrial cooler (building)</RedistHeat_IndustrialCooler_Frame.label>
-  <RedistHeat_IndustrialCooler_Frame.description>A massive electrical device that pushes cold air into a room. It needs at least one external exhaust port.</RedistHeat_IndustrialCooler_Frame.description>
+  <RedistHeat_IndustrialCooler_Frame.description>A massive electrical device that pushes cold air into a room. It needs at least one external exhaust port。</RedistHeat_IndustrialCooler_Frame.description>
 
   <Vent.label>closable vent</Vent.label>
-  <Vent.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>
+  <Vent.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them。</Vent.description>
   <Vent_Blueprint.label>closable vent (blueprint)</Vent_Blueprint.label>
   <Vent_Frame.label>closable vent (building)</Vent_Frame.label>
-  <Vent_Frame.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent_Frame.description>
+  <Vent_Frame.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them。</Vent_Frame.description>
 
   <TemperatureGauge.label>温度计</TemperatureGauge.label>
-  <TemperatureGauge.description>Displays the current ambient temperature and can be configured to provide temperature based alerts. Does not require power.</TemperatureGauge.description>
+  <TemperatureGauge.description>Displays the current ambient temperature and can be configured to provide temperature based alerts. Does not require power。</TemperatureGauge.description>
   <TemperatureGauge_Blueprint.label>温度计 (蓝图)</TemperatureGauge_Blueprint.label>
   <TemperatureGauge_Blueprint_Install.label>温度计 (蓝图)</TemperatureGauge_Blueprint_Install.label>
   <TemperatureGauge_Frame.label>温度计 (建造中)</TemperatureGauge_Frame.label>
-  <TemperatureGauge_Frame.description>Displays the current ambient temperature and can be configured to provide temperature based alerts. Does not require power.</TemperatureGauge_Frame.description>
+  <TemperatureGauge_Frame.description>Displays the current ambient temperature and can be configured to provide temperature based alerts. Does not require power。</TemperatureGauge_Frame.description>
 
   <MiningHelmetGlower.label>矿盔灯</MiningHelmetGlower.label>
-  <MiningHelmetGlower.description>Mining helmet light.</MiningHelmetGlower.description>
+  <MiningHelmetGlower.description>Mining helmet light。</MiningHelmetGlower.description>
 
 
   <!--[Core] <Campfire.label>篝火</Campfire.label>-->
@@ -116,29 +116,29 @@
   <!--[Core] <Vent_Frame.label>通风孔（建造中）</Vent_Frame.label>-->
   <!--[Core] <Vent_Frame.description>一个简单的通风孔，在平衡两个房间的温度同时保持墙体无法通过。</Vent_Frame.description>-->
   <!--<Campfire.label>campfire</Campfire.label>-->
-  <!--<Campfire.description>A campfire that can cook meals and produce heat, but it will burn out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat.</Campfire.description>-->
+  <!--<Campfire.description>A campfire that can cook meals and produce heat, but it will burn out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat。</Campfire.description>-->
   <!--<Campfire_Blueprint.label>campfire (blueprint)</Campfire_Blueprint.label>-->
   <!--<Campfire_Frame.label>campfire (building)</Campfire_Frame.label>-->
-  <!--<Campfire_Frame.description>A campfire that can cook meals and produce heat, but it will burn out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat.</Campfire_Frame.description>-->
+  <!--<Campfire_Frame.description>A campfire that can cook meals and produce heat, but it will burn out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat。</Campfire_Frame.description>-->
   <!--<Heater.label>heater</Heater.label>-->
-  <!--<Heater.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>-->
+  <!--<Heater.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature。</Heater.description>-->
   <!--<Heater_Blueprint.label>heater (blueprint)</Heater_Blueprint.label>-->
   <!--<Heater_Frame.label>heater (building)</Heater_Frame.label>-->
-  <!--<Heater_Frame.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater_Frame.description>-->
+  <!--<Heater_Frame.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature。</Heater_Frame.description>-->
   <!--<PassiveCooler.label>passive cooler</PassiveCooler.label>-->
-  <!--<PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. While it's not strong enough to refridgerate food, it can help survive a heat wave. It will run out and self-destruct after several days.</PassiveCooler.description>-->
+  <!--<PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. While it's not strong enough to refridgerate food, it can help survive a heat wave. It will run out and self-destruct after several days。</PassiveCooler.description>-->
   <!--<PassiveCooler_Blueprint.label>passive cooler (blueprint)</PassiveCooler_Blueprint.label>-->
   <!--<PassiveCooler_Frame.label>passive cooler (building)</PassiveCooler_Frame.label>-->
-  <!--<PassiveCooler_Frame.description>A traditional unpowered cooler that works by water evaporation. While it's not strong enough to refridgerate food, it can help survive a heat wave. It will run out and self-destruct after several days.</PassiveCooler_Frame.description>-->
+  <!--<PassiveCooler_Frame.description>A traditional unpowered cooler that works by water evaporation. While it's not strong enough to refridgerate food, it can help survive a heat wave. It will run out and self-destruct after several days。</PassiveCooler_Frame.description>-->
   <!--<Cooler.label>cooler</Cooler.label>-->
-  <!--<Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer.</Cooler.description>-->
+  <!--<Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer。</Cooler.description>-->
   <!--<Cooler_Blueprint.label>cooler (blueprint)</Cooler_Blueprint.label>-->
   <!--<Cooler_Frame.label>cooler (building)</Cooler_Frame.label>-->
-  <!--<Cooler_Frame.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer.</Cooler_Frame.description>-->
+  <!--<Cooler_Frame.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer。</Cooler_Frame.description>-->
   <!--<Vent.label>closable vent</Vent.label>-->
-  <!--<Vent.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>-->
+  <!--<Vent.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them。</Vent.description>-->
   <!--<Vent_Blueprint.label>closable vent (blueprint)</Vent_Blueprint.label>-->
   <!--<Vent_Frame.label>closable vent (building)</Vent_Frame.label>-->
-  <!--<Vent_Frame.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent_Frame.description>-->
+  <!--<Vent_Frame.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them。</Vent_Frame.description>-->
 
 </LanguageData>

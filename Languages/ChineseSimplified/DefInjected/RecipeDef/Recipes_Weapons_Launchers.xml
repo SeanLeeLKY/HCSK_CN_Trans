@@ -3,23 +3,23 @@
 
   <BuildIncendiaryLauncher.label>Build RL T9 Burning Sun</BuildIncendiaryLauncher.label>
   <BuildIncendiaryLauncher.description>Builds the RL T9 Burning Sun, an incendiary bolt launcher that is capable of starting fires from a distance.\nCaliber: 30x64mm Fuel cell</BuildIncendiaryLauncher.description>
-  <BuildIncendiaryLauncher.jobString>Building RL T9 Burning Sun.</BuildIncendiaryLauncher.jobString>
+  <BuildIncendiaryLauncher.jobString>Building RL T9 Burning Sun。</BuildIncendiaryLauncher.jobString>
 
   <BuildMilkorGrenadeLauncher.label>Build Milkor MGL</BuildMilkorGrenadeLauncher.label>
   <BuildMilkorGrenadeLauncher.description>Builds the Milkor MGL (multiple grenade launcher), a launcher-type weapon that fires grenades at a higher rate than a human could.\nCaliber: 40x46mm Grenade</BuildMilkorGrenadeLauncher.description>
-  <BuildMilkorGrenadeLauncher.jobString>Building Milkor MGL.</BuildMilkorGrenadeLauncher.jobString>
+  <BuildMilkorGrenadeLauncher.jobString>Building Milkor MGL。</BuildMilkorGrenadeLauncher.jobString>
 
   <BuildRPG.label>Build RPG-7</BuildRPG.label>
   <BuildRPG.description>Builds the RPG-7 (rocket propelled grenade). Slow to reload and slow to fire. It must be reloaded after every shot.\nCaliber: RPG-7 Grenade</BuildRPG.description>
-  <BuildRPG.jobString>Building RPG-7.</BuildRPG.jobString>
+  <BuildRPG.jobString>Building RPG-7。</BuildRPG.jobString>
 
   <BuildM5_USCM.label>Build M5 RPG</BuildM5_USCM.label>
   <BuildM5_USCM.description>Builds the M5 Rocket Propelled Grenade (RPG). It is a portable, shoulder-fired, reloadable, semi-automatic unguided anti-armor rocket-propelled grenade launcher. Able to load up to 4 rockets.\nCaliber: RPG-7 Grenade</BuildM5_USCM.description>
-  <BuildM5_USCM.jobString>Building M5 RPG.</BuildM5_USCM.jobString>
+  <BuildM5_USCM.jobString>Building M5 RPG。</BuildM5_USCM.jobString>
 
   <BuildLAW.label>Build M72 LAW</BuildLAW.label>
   <BuildLAW.description>Builds the M72 LAW, an anti-tank rocket launcher with a special armor-piercing penetration rocket.\nCaliber: M72 LAW</BuildLAW.description>
-  <BuildLAW.jobString>Building M72 LAW.</BuildLAW.jobString>
+  <BuildLAW.jobString>Building M72 LAW。</BuildLAW.jobString>
 
 
 </LanguageData>

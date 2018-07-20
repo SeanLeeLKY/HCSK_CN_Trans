@@ -2,10 +2,10 @@
 <LanguageData>
 
   <Zone.label>zone/Area</Zone.label>
-  <Zone.description>Designate zones and areas where colonists will do certain activities.</Zone.description>
+  <Zone.description>Designate zones and areas where colonists will do certain activities。</Zone.description>
 
   <Orders.label>orders</Orders.label>
-  <Orders.description>Designate specific interactions with specific things.</Orders.description>
+  <Orders.description>Designate specific interactions with specific things。</Orders.description>
 
 
   <!--[Core] <Zone.label>区域</Zone.label>-->

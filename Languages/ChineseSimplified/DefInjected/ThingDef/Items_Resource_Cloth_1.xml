@@ -4,23 +4,23 @@
   <!-- Fabric, leather, etc -->
 
   <Cloth.label>Cloth</Cloth.label>
-  <Cloth.description>Cloth is woven from the raw organic fibers of a Cotton Bush. These fibers are called Raw Cotton.</Cloth.description>
+  <Cloth.description>Cloth is woven from the raw organic fibers of a Cotton Bush. These fibers are called Raw Cotton。</Cloth.description>
   <Cloth.stuffProps.stuffAdjective>Cloth</Cloth.stuffProps.stuffAdjective>
 
   <WoolMegasloth.label>Megasloth wool</WoolMegasloth.label>
-  <WoolMegasloth.description>While somewhat coarse, Megasloth wool's long fibers make it very strong. It is very warm.</WoolMegasloth.description>
+  <WoolMegasloth.description>While somewhat coarse, Megasloth wool's long fibers make it very strong. It is very warm。</WoolMegasloth.description>
   <WoolMegasloth.stuffProps.stuffAdjective>Megasloth wool</WoolMegasloth.stuffProps.stuffAdjective>
 
   <WoolMuffalo.label>Muffalo Wool</WoolMuffalo.label>
-  <WoolMuffalo.description>Muffalo Wool is soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</WoolMuffalo.description>
+  <WoolMuffalo.description>Muffalo Wool is soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions。</WoolMuffalo.description>
   <WoolMuffalo.stuffProps.stuffAdjective>Muffalo Wool</WoolMuffalo.stuffProps.stuffAdjective>
 
   <WoolCamel.label>Dromedary Hair</WoolCamel.label>
-  <WoolCamel.description>Dromedary Hair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</WoolCamel.description>
+  <WoolCamel.description>Dromedary Hair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties。</WoolCamel.description>
   <WoolCamel.stuffProps.stuffAdjective>Dromedary Hair</WoolCamel.stuffProps.stuffAdjective>
 
   <WoolAlpaca.label>Alpaca Wool</WoolAlpaca.label>
-  <WoolAlpaca.description>This is the remarkably soft wool of an Alpaca. It is useful for clothing.</WoolAlpaca.description>
+  <WoolAlpaca.description>This is the remarkably soft wool of an Alpaca. It is useful for clothing。</WoolAlpaca.description>
   <WoolAlpaca.stuffProps.stuffAdjective>Alpaca Wool</WoolAlpaca.stuffProps.stuffAdjective>
 
   <HempCloth.label>麻</HempCloth.label>
@@ -28,7 +28,7 @@
   <HempCloth.stuffProps.stuffAdjective>麻</HempCloth.stuffProps.stuffAdjective>
 
   <RamWool.label>羊毛</RamWool.label>
-  <RamWool.description>This is the exceptionally soft wool of a ram.</RamWool.description>
+  <RamWool.description>This is the exceptionally soft wool of a ram。</RamWool.description>
   <RamWool.stuffProps.stuffAdjective>羊毛</RamWool.stuffProps.stuffAdjective>
 
 
@@ -95,31 +95,31 @@
   <Velour.stuffProps.stuffAdjective>丝绒</Velour.stuffProps.stuffAdjective>
 
   <Flaxcloth.label>亚麻</Flaxcloth.label>
-  <Flaxcloth.description>A fabric designed for making clothes. It is soft, light, and strong.</Flaxcloth.description>
+  <Flaxcloth.description>A fabric designed for making clothes. It is soft, light, and strong。</Flaxcloth.description>
   <Flaxcloth.stuffProps.stuffAdjective>亚麻</Flaxcloth.stuffProps.stuffAdjective>
 
   <DevilstrandCloth.label>Devilstrand Cloth</DevilstrandCloth.label>
-  <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand Mushrooms. Very tough, but insulates no better than Cloth.</DevilstrandCloth.description>
+  <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand Mushrooms. Very tough, but insulates no better than Cloth。</DevilstrandCloth.description>
   <DevilstrandCloth.stuffProps.stuffAdjective>Devilstrand Cloth</DevilstrandCloth.stuffProps.stuffAdjective>
 
   <Synthread.label>Synthread</Synthread.label>
-  <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>
+  <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well。</Synthread.description>
   <Synthread.stuffProps.stuffAdjective>Synthread</Synthread.stuffProps.stuffAdjective>
 
   <Hyperweave.label>Hyperweave</Hyperweave.label>
-  <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced GlitterWorld cultures.</Hyperweave.description>
+  <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced GlitterWorld cultures。</Hyperweave.description>
   <Hyperweave.stuffProps.stuffAdjective>Hyperweave</Hyperweave.stuffProps.stuffAdjective>
 
   <Kevlar.label>凯夫拉（芳纶）</Kevlar.label>
-  <Kevlar.description>Kevlar is a woven combination of plastic and synthetic fibers that is often used for combat-related protective armor.</Kevlar.description>
+  <Kevlar.description>Kevlar is a woven combination of plastic and synthetic fibers that is often used for combat-related protective armor。</Kevlar.description>
   <Kevlar.stuffProps.stuffAdjective>凯夫拉</Kevlar.stuffProps.stuffAdjective>
 
   <Chitin.label>甲壳</Chitin.label>
-  <Chitin.description>Chitin is a long-chain polymer. It can be obtained from the exoskeletons of insects or shelled creatures.</Chitin.description>
+  <Chitin.description>Chitin is a long-chain polymer. It can be obtained from the exoskeletons of insects or shelled creatures。</Chitin.description>
   <Chitin.stuffProps.stuffAdjective>甲壳</Chitin.stuffProps.stuffAdjective>
 
   <Compaste.label>复合胶</Compaste.label>
-  <Compaste.description>A bottle of compound paste, used for various crafting processes. The label reads: "DO NOT DRINK! Avoid sticking your fingers on surfaces after use!".</Compaste.description>
+  <Compaste.description>A bottle of compound paste, used for various crafting processes. The label reads: "DO NOT DRINK! Avoid sticking your fingers on surfaces after use!"。</Compaste.description>
 
 
   <!--[Core] <Cloth.label>布</Cloth.label>-->
@@ -147,28 +147,28 @@
   <!--[Core] <Hyperweave.description>高科技纳米纤维织成的布。稍微有点重，但是几乎不可能破损。其生产技术只有最先进的闪耀世界才掌握。</Hyperweave.description>-->
   <!--[Core] <Hyperweave.stuffProps.stuffAdjective>超织物</Hyperweave.stuffProps.stuffAdjective>-->
   <!--<Cloth.label>Cloth</Cloth.label>-->
-  <!--<Cloth.description>Cloth is woven from the raw organic fibers of a Cotton Bush. These fibers are called Raw Cotton.</Cloth.description>-->
+  <!--<Cloth.description>Cloth is woven from the raw organic fibers of a Cotton Bush. These fibers are called Raw Cotton。</Cloth.description>-->
   <!--<Cloth.stuffProps.stuffAdjective>Cloth</Cloth.stuffProps.stuffAdjective>-->
   <!--<WoolMegasloth.label>Megasloth wool</WoolMegasloth.label>-->
-  <!--<WoolMegasloth.description>While somewhat coarse, Megasloth wool's long fibers make it very strong. It is very warm.</WoolMegasloth.description>-->
+  <!--<WoolMegasloth.description>While somewhat coarse, Megasloth wool's long fibers make it very strong. It is very warm。</WoolMegasloth.description>-->
   <!--<WoolMegasloth.stuffProps.stuffAdjective>Megasloth wool</WoolMegasloth.stuffProps.stuffAdjective>-->
   <!--<WoolMuffalo.label>Muffalo Wool</WoolMuffalo.label>-->
-  <!--<WoolMuffalo.description>Muffalo Wool is soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</WoolMuffalo.description>-->
+  <!--<WoolMuffalo.description>Muffalo Wool is soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions。</WoolMuffalo.description>-->
   <!--<WoolMuffalo.stuffProps.stuffAdjective>Muffalo Wool</WoolMuffalo.stuffProps.stuffAdjective>-->
   <!--<WoolCamel.label>Dromedary Hair</WoolCamel.label>-->
-  <!--<WoolCamel.description>Dromedary Hair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</WoolCamel.description>-->
+  <!--<WoolCamel.description>Dromedary Hair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties。</WoolCamel.description>-->
   <!--<WoolCamel.stuffProps.stuffAdjective>Dromedary Hair</WoolCamel.stuffProps.stuffAdjective>-->
   <!--<WoolAlpaca.label>Alpaca Wool</WoolAlpaca.label>-->
-  <!--<WoolAlpaca.description>This is the remarkably soft wool of an Alpaca. It is useful for clothing.</WoolAlpaca.description>-->
+  <!--<WoolAlpaca.description>This is the remarkably soft wool of an Alpaca. It is useful for clothing。</WoolAlpaca.description>-->
   <!--<WoolAlpaca.stuffProps.stuffAdjective>Alpaca Wool</WoolAlpaca.stuffProps.stuffAdjective>-->
   <!--<DevilstrandCloth.label>Devilstrand Cloth</DevilstrandCloth.label>-->
-  <!--<DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand Mushrooms. Very tough, but insulates no better than Cloth.</DevilstrandCloth.description>-->
+  <!--<DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand Mushrooms. Very tough, but insulates no better than Cloth。</DevilstrandCloth.description>-->
   <!--<DevilstrandCloth.stuffProps.stuffAdjective>Devilstrand Cloth</DevilstrandCloth.stuffProps.stuffAdjective>-->
   <!--<Synthread.label>Synthread</Synthread.label>-->
-  <!--<Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>-->
+  <!--<Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well。</Synthread.description>-->
   <!--<Synthread.stuffProps.stuffAdjective>Synthread</Synthread.stuffProps.stuffAdjective>-->
   <!--<Hyperweave.label>Hyperweave</Hyperweave.label>-->
-  <!--<Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced GlitterWorld cultures.</Hyperweave.description>-->
+  <!--<Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced GlitterWorld cultures。</Hyperweave.description>-->
   <!--<Hyperweave.stuffProps.stuffAdjective>Hyperweave</Hyperweave.stuffProps.stuffAdjective>-->
   <!-- Temporary removal until leather processing is ready
 	<ThingDef ParentName="ResourceBase">

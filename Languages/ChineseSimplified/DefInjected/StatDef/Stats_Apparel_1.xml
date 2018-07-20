@@ -2,22 +2,22 @@
 <LanguageData>
 
   <ArmorRating_Blunt.label>Armor - Blunt</ArmorRating_Blunt.label>
-  <ArmorRating_Blunt.description>Armor against blunt damage like club attacks, rock falls, and explosions.</ArmorRating_Blunt.description>
+  <ArmorRating_Blunt.description>Armor against blunt damage like club attacks, rock falls, and explosions。</ArmorRating_Blunt.description>
 
   <ArmorRating_Sharp.label>Armor - Sharp</ArmorRating_Sharp.label>
-  <ArmorRating_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</ArmorRating_Sharp.description>
+  <ArmorRating_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites。</ArmorRating_Sharp.description>
 
   <ArmorRating_Heat.label>Armor - Heat</ArmorRating_Heat.label>
-  <ArmorRating_Heat.description>Armor against temperature-related damage like burns.</ArmorRating_Heat.description>
+  <ArmorRating_Heat.description>Armor against temperature-related damage like burns。</ArmorRating_Heat.description>
 
   <ArmorRating_Electric.label>Armor - Electric </ArmorRating_Electric.label>
-  <ArmorRating_Electric.description>Armor against electric damage like EMP pulses.</ArmorRating_Electric.description>
+  <ArmorRating_Electric.description>Armor against electric damage like EMP pulses。</ArmorRating_Electric.description>
 
   <Insulation_Cold.label>Insulation - Cold</Insulation_Cold.label>
-  <Insulation_Cold.description>How much this apparel offsets a wearer's minimum comfortable temperature when worn.</Insulation_Cold.description>
+  <Insulation_Cold.description>How much this apparel offsets a wearer's minimum comfortable temperature when worn。</Insulation_Cold.description>
 
   <Insulation_Heat.label>Insulation - Heat</Insulation_Heat.label>
-  <Insulation_Heat.description>How much this apparel offsets a wearer's maximum comfortable temperature when worn.</Insulation_Heat.description>
+  <Insulation_Heat.description>How much this apparel offsets a wearer's maximum comfortable temperature when worn。</Insulation_Heat.description>
 
 
   <!--[Core] <ArmorRating_Blunt.label>护甲 - 钝器</ArmorRating_Blunt.label>-->
@@ -33,16 +33,16 @@
   <!--[Core] <Insulation_Heat.label>隔温 - 炎热</Insulation_Heat.label>-->
   <!--[Core] <Insulation_Heat.description>对穿戴者最高舒适温度的修改偏移量。</Insulation_Heat.description>-->
   <!--<ArmorRating_Blunt.label>Armor - Blunt</ArmorRating_Blunt.label>-->
-  <!--<ArmorRating_Blunt.description>Armor against blunt damage like club attacks, rock falls, and explosions.</ArmorRating_Blunt.description>-->
+  <!--<ArmorRating_Blunt.description>Armor against blunt damage like club attacks, rock falls, and explosions。</ArmorRating_Blunt.description>-->
   <!--<ArmorRating_Sharp.label>Armor - Sharp</ArmorRating_Sharp.label>-->
-  <!--<ArmorRating_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</ArmorRating_Sharp.description>-->
+  <!--<ArmorRating_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites。</ArmorRating_Sharp.description>-->
   <!--<ArmorRating_Heat.label>Armor - Heat</ArmorRating_Heat.label>-->
-  <!--<ArmorRating_Heat.description>Armor against temperature-related damage like burns.</ArmorRating_Heat.description>-->
+  <!--<ArmorRating_Heat.description>Armor against temperature-related damage like burns。</ArmorRating_Heat.description>-->
   <!--<ArmorRating_Electric.label>Armor - Electric </ArmorRating_Electric.label>-->
-  <!--<ArmorRating_Electric.description>Armor against electric damage like EMP pulses.</ArmorRating_Electric.description>-->
+  <!--<ArmorRating_Electric.description>Armor against electric damage like EMP pulses。</ArmorRating_Electric.description>-->
   <!--<Insulation_Cold.label>Insulation - Cold</Insulation_Cold.label>-->
-  <!--<Insulation_Cold.description>How much this apparel offsets a wearer's minimum comfortable temperature when worn.</Insulation_Cold.description>-->
+  <!--<Insulation_Cold.description>How much this apparel offsets a wearer's minimum comfortable temperature when worn。</Insulation_Cold.description>-->
   <!--<Insulation_Heat.label>Insulation - Heat</Insulation_Heat.label>-->
-  <!--<Insulation_Heat.description>How much this apparel offsets a wearer's maximum comfortable temperature when worn.</Insulation_Heat.description>-->
+  <!--<Insulation_Heat.description>How much this apparel offsets a wearer's maximum comfortable temperature when worn。</Insulation_Heat.description>-->
 
 </LanguageData>

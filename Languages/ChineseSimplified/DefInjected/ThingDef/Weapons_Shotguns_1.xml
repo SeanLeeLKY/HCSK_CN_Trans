@@ -4,7 +4,7 @@
   <!-- M37A2 -->
 
   <Gun_M37A2_USCM.label>M37A2 泵动霰弹枪</Gun_M37A2_USCM.label>
-  <Gun_M37A2_USCM.description>The M37A2 Pump Shotgun, also known as the M37A2 Combat Shotgun, is a pump-action combat shotgun manufactured by Armat Battlefield Systems. The M37A2 is a simple and effective pump-action shotgun; its "classic" pump-action allows extremely powerful shells to be fired reliably. The M37A2 is employed by the United States Colonial Marine Corps and Weyland-Yutani PMCs.</Gun_M37A2_USCM.description>
+  <Gun_M37A2_USCM.description>The M37A2 Pump Shotgun, also known as the M37A2 Combat Shotgun, is a pump-action combat shotgun manufactured by Armat Battlefield Systems. The M37A2 is a simple and effective pump-action shotgun; its "classic" pump-action allows extremely powerful shells to be fired reliably. The M37A2 is employed by the United States Colonial Marine Corps and Weyland-Yutani PMCs。</Gun_M37A2_USCM.description>
   <Gun_M37A2_USCM.tools.0.label>stock</Gun_M37A2_USCM.tools.0.label>
   <Gun_M37A2_USCM.tools.1.label>barrel</Gun_M37A2_USCM.tools.1.label>
   <Gun_M37A2_USCM.tools.2.label>muzzle</Gun_M37A2_USCM.tools.2.label>
@@ -13,7 +13,7 @@
   <!-- STRIKER SG -->
 
   <Gun_ChainShotgun.label>Striker shotgun</Gun_ChainShotgun.label>
-  <Gun_ChainShotgun.description>A cheap-looking semi-automatic shotgun. Has a higher fire rate and high damage output, but low range.</Gun_ChainShotgun.description>
+  <Gun_ChainShotgun.description>A cheap-looking semi-automatic shotgun. Has a higher fire rate and high damage output, but low range。</Gun_ChainShotgun.description>
   <Gun_ChainShotgun.tools.0.label>stock</Gun_ChainShotgun.tools.0.label>
   <Gun_ChainShotgun.tools.1.label>barrel</Gun_ChainShotgun.tools.1.label>
   <Gun_ChainShotgun.tools.2.label>muzzle</Gun_ChainShotgun.tools.2.label>
@@ -22,7 +22,7 @@
   <!-- M45 -->
 
   <Gun_TacticalShotgun.label>M45 战术霰弹枪</Gun_TacticalShotgun.label>
-  <Gun_TacticalShotgun.description>The M45 Tactical Shotgun is a shotgun used by the United Nations Space Command Army.</Gun_TacticalShotgun.description>
+  <Gun_TacticalShotgun.description>The M45 Tactical Shotgun is a shotgun used by the United Nations Space Command Army。</Gun_TacticalShotgun.description>
   <Gun_TacticalShotgun.tools.0.label>stock</Gun_TacticalShotgun.tools.0.label>
   <Gun_TacticalShotgun.tools.1.label>barrel</Gun_TacticalShotgun.tools.1.label>
   <Gun_TacticalShotgun.tools.2.label>muzzle</Gun_TacticalShotgun.tools.2.label>
@@ -31,7 +31,7 @@
   <!-- AA-12 -->
 
   <RF_Gun_AAtwelve.label>艾奇逊 AA-12 突击霰弹枪</RF_Gun_AAtwelve.label>
-  <RF_Gun_AAtwelve.description>An automatic shotgun with almost no recoil. Burstfires, moderately accurate just under rifle range, and has high damage output.</RF_Gun_AAtwelve.description>
+  <RF_Gun_AAtwelve.description>An automatic shotgun with almost no recoil. Burstfires, moderately accurate just under rifle range, and has high damage output。</RF_Gun_AAtwelve.description>
   <RF_Gun_AAtwelve.tools.0.label>stock</RF_Gun_AAtwelve.tools.0.label>
   <RF_Gun_AAtwelve.tools.1.label>barrel</RF_Gun_AAtwelve.tools.1.label>
   <RF_Gun_AAtwelve.tools.2.label>muzzle</RF_Gun_AAtwelve.tools.2.label>
@@ -40,7 +40,7 @@
   <!-- M-90 CAWS -->
 
   <Gun_TacticalAutoshotgun.label>M90 自动战术霰弹枪</Gun_TacticalAutoshotgun.label>
-  <Gun_TacticalAutoshotgun.description>The M90 Close Assault Weapon System (M90 CAWS) is the UNSC's primary shotgun and is one of the most effective close range infantry weapons used by front line forces.</Gun_TacticalAutoshotgun.description>
+  <Gun_TacticalAutoshotgun.description>The M90 Close Assault Weapon System (M90 CAWS) is the UNSC's primary shotgun and is one of the most effective close range infantry weapons used by front line forces。</Gun_TacticalAutoshotgun.description>
   <Gun_TacticalAutoshotgun.tools.0.label>stock</Gun_TacticalAutoshotgun.tools.0.label>
   <Gun_TacticalAutoshotgun.tools.1.label>barrel</Gun_TacticalAutoshotgun.tools.1.label>
   <Gun_TacticalAutoshotgun.tools.2.label>muzzle</Gun_TacticalAutoshotgun.tools.2.label>
@@ -51,7 +51,7 @@
   <!--[Core] <Gun_ChainShotgun.tools.0.label>弹匣</Gun_ChainShotgun.tools.0.label>-->
   <!--[Core] <Gun_ChainShotgun.tools.1.label>枪管</Gun_ChainShotgun.tools.1.label>-->
   <!--<Gun_ChainShotgun.label>Striker shotgun</Gun_ChainShotgun.label>-->
-  <!--<Gun_ChainShotgun.description>A cheap-looking semi-automatic shotgun. Has a higher fire rate and high damage output, but low range.</Gun_ChainShotgun.description>-->
+  <!--<Gun_ChainShotgun.description>A cheap-looking semi-automatic shotgun. Has a higher fire rate and high damage output, but low range。</Gun_ChainShotgun.description>-->
   <!--<Gun_ChainShotgun.tools.0.label>stock</Gun_ChainShotgun.tools.0.label>-->
   <!--<Gun_ChainShotgun.tools.1.label>barrel</Gun_ChainShotgun.tools.1.label>-->
   <!--[Core] <Gun_ChainShotgun.description>弹匣供弹全自动霰弹枪。射程短并且精度非常低，但极具威胁性。</Gun_ChainShotgun.description>-->

@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeRoastwMushrooms.label>cook pot roast and mushrooms</MakeRoastwMushrooms.label>
-  <MakeRoastwMushrooms.description>Prepare a roast with seared mushrooms on top. \n\n产出：1.</MakeRoastwMushrooms.description>
-  <MakeRoastwMushrooms.jobString>Cooking pot roast and mushrooms.</MakeRoastwMushrooms.jobString>
+  <MakeRoastwMushrooms.label>烹饪 蘑菇肉汤</MakeRoastwMushrooms.label>
+  <MakeRoastwMushrooms.description>煮一锅肉汤，上面撒点蘑菇。 \n\n产出：1。</MakeRoastwMushrooms.description>
+  <MakeRoastwMushrooms.jobString>正在烹饪 蘑菇肉汤。</MakeRoastwMushrooms.jobString>
 
-  <MakeRoastwMushrooms_Bulk.label>cook pot roast and mushrooms (x4)</MakeRoastwMushrooms_Bulk.label>
-  <MakeRoastwMushrooms_Bulk.description>Prepare a couple of pots and throw in a roast and a couple of mushrooms in each one and wait ... Bam! Pot roast and mushrooms. \n\n产出：4.</MakeRoastwMushrooms_Bulk.description>
-  <MakeRoastwMushrooms_Bulk.jobString>Cooking pot roast and mushrooms.</MakeRoastwMushrooms_Bulk.jobString>
+  <MakeRoastwMushrooms_Bulk.label>烹饪 蘑菇肉汤 (x4)</MakeRoastwMushrooms_Bulk.label>
+  <MakeRoastwMushrooms_Bulk.description>用双倍的锅煮双倍的肉汤，还有给每个锅撒上双倍的蘑菇，然后一起念：“呯！”———— 蘑菇肉汤出现啦！ \n\n产出：4。</MakeRoastwMushrooms_Bulk.description>
+  <MakeRoastwMushrooms_Bulk.jobString>正在烹饪 蘑菇肉汤。</MakeRoastwMushrooms_Bulk.jobString>
 
-  <MakeStewMushrooms.label>cook mushroom stew</MakeStewMushrooms.label>
-  <MakeStewMushrooms.description>Prepares a hearty stew of mushrooms. \n\n产出：1.</MakeStewMushrooms.description>
-  <MakeStewMushrooms.jobString>Cooking mushroom stew.</MakeStewMushrooms.jobString>
+  <MakeStewMushrooms.label>烹饪 炖蘑菇</MakeStewMushrooms.label>
+  <MakeStewMushrooms.description>煮一大锅蘑菇，煮熟就行。 \n\n产出：1。</MakeStewMushrooms.description>
+  <MakeStewMushrooms.jobString>正在烹饪 炖蘑菇。</MakeStewMushrooms.jobString>
 
-  <MakeStewMushrooms_Bulk.label>cook mushroom stew (x4)</MakeStewMushrooms_Bulk.label>
-  <MakeStewMushrooms_Bulk.description>Prepares hearty stews of mushrooms. \n\n产出：4.</MakeStewMushrooms_Bulk.description>
-  <MakeStewMushrooms_Bulk.jobString>Cooking mushroom stews.</MakeStewMushrooms_Bulk.jobString>
+  <MakeStewMushrooms_Bulk.label>烹饪 炖蘑菇 (x4)</MakeStewMushrooms_Bulk.label>
+  <MakeStewMushrooms_Bulk.description>煮更大的一锅蘑菇，煮熟就行。 \n\n产出：4。</MakeStewMushrooms_Bulk.description>
+  <MakeStewMushrooms_Bulk.jobString>正在烹饪 炖蘑菇s。</MakeStewMushrooms_Bulk.jobString>
 
-  <MakeSaladwMushrooms.label>cook mushroom salad</MakeSaladwMushrooms.label>
-  <MakeSaladwMushrooms.description>Prepares a salad of mushrooms. \n\n产出：1.</MakeSaladwMushrooms.description>
-  <MakeSaladwMushrooms.jobString>Preparing mushroom salad.</MakeSaladwMushrooms.jobString>
+  <MakeSaladwMushrooms.label>烹饪 蘑菇沙拉</MakeSaladwMushrooms.label>
+  <MakeSaladwMushrooms.description>烹制蘑菇沙拉。 \n\n产出：1。</MakeSaladwMushrooms.description>
+  <MakeSaladwMushrooms.jobString>正在调制 蘑菇沙拉。</MakeSaladwMushrooms.jobString>
 
-  <MakeSaladwMushrooms_Bulk.label>cook mushroom salads (x4)</MakeSaladwMushrooms_Bulk.label>
-  <MakeSaladwMushrooms_Bulk.description>Prepares several salads of mushrooms. \n\n产出：4.</MakeSaladwMushrooms_Bulk.description>
-  <MakeSaladwMushrooms_Bulk.jobString>Preparing mushroom salads.</MakeSaladwMushrooms_Bulk.jobString>
+  <MakeSaladwMushrooms_Bulk.label>烹饪 蘑菇沙拉 (x4)</MakeSaladwMushrooms_Bulk.label>
+  <MakeSaladwMushrooms_Bulk.description>烹制蘑菇沙拉。 \n\n产出：4。</MakeSaladwMushrooms_Bulk.description>
+  <MakeSaladwMushrooms_Bulk.jobString>正在调制 蘑菇沙拉。</MakeSaladwMushrooms_Bulk.jobString>
 
 
 </LanguageData>

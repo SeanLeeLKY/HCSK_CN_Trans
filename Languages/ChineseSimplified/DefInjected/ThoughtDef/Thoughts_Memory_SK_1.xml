@@ -10,19 +10,19 @@
   <AteFineMeal.stages.0.description>I ate a really tasty fine meal. Yum!</AteFineMeal.stages.0.description>
 
   <AteLavishMeal.stages.0.label>ate lavish meal</AteLavishMeal.stages.0.label>
-  <AteLavishMeal.stages.0.description>That lavish meal was amazing. It nourished my body and my soul.</AteLavishMeal.stages.0.description>
+  <AteLavishMeal.stages.0.description>That lavish meal was amazing. It nourished my body and my soul。</AteLavishMeal.stages.0.description>
 
   <!--[Duplicated] <AteLuxuryMeal.stages.0.label>ate luxury meal</AteLuxuryMeal.stages.0.label>-->
-  <!--[Duplicated] <AteLuxuryMeal.stages.0.description>That luxury meal was excellent. It nourished my body and my soul.</AteLuxuryMeal.stages.0.description>-->
+  <!--[Duplicated] <AteLuxuryMeal.stages.0.description>That luxury meal was excellent. It nourished my body and my soul。</AteLuxuryMeal.stages.0.description>-->
 
   <AteLuxuryMeal.stages.0.label>吃了豪华大餐</AteLuxuryMeal.stages.0.label>
-  <AteLuxuryMeal.stages.0.description>That luxury meal was amazing! It nourished my body and my soul.</AteLuxuryMeal.stages.0.description>
+  <AteLuxuryMeal.stages.0.description>That luxury meal was amazing! It nourished my body and my soul。</AteLuxuryMeal.stages.0.description>
 
 
   <!-- Enviro -->
 
   <AteCannedMeal.stages.0.label>吃了罐装食物</AteCannedMeal.stages.0.label>
-  <AteCannedMeal.stages.0.description>I had to eat canned meal. It gives a metallic taste.</AteCannedMeal.stages.0.description>
+  <AteCannedMeal.stages.0.description>I had to eat canned meal. It gives a metallic taste。</AteCannedMeal.stages.0.description>
 
 
   <!-- Cats -->
@@ -34,7 +34,7 @@
   <!-- Soylent Green -->
 
   <AteSoylentGreen.stages.0.label>吃了营养质</AteSoylentGreen.stages.0.label>
-  <AteSoylentGreen.stages.0.description>I ate Soylent Green made from the meat of another human. This is bad.</AteSoylentGreen.stages.0.description>
+  <AteSoylentGreen.stages.0.description>I ate Soylent Green made from the meat of another human. This is bad。</AteSoylentGreen.stages.0.description>
 
 
   <!-- Caveflora -->
@@ -52,16 +52,16 @@
   <AtePie.stages.0.description>I ate a really tasty pie. It's not a lie!</AtePie.stages.0.description>
 
   <AteCandy.stages.0.label>吃了糖果</AteCandy.stages.0.label>
-  <AteCandy.stages.0.description>I ate a really tasty candy. Now I'm sugar buzzed.</AteCandy.stages.0.description>
+  <AteCandy.stages.0.description>I ate a really tasty candy. Now I'm sugar buzzed。</AteCandy.stages.0.description>
 
   <Hotdrink.stages.0.label>热饮料</Hotdrink.stages.0.label>
-  <Hotdrink.stages.0.description>I drank a really nice hot drink, now I feel better.</Hotdrink.stages.0.description>
+  <Hotdrink.stages.0.description>I drank a really nice hot drink, now I feel better。</Hotdrink.stages.0.description>
 
   <HadTea.stages.0.label>一杯好茶</HadTea.stages.0.label>
-  <HadTea.stages.0.description>Tea is tasty! I like this.</HadTea.stages.0.description>
+  <HadTea.stages.0.description>Tea is tasty! I like this。</HadTea.stages.0.description>
 
   <HadFruitDrink.stages.0.label>水果饮料</HadFruitDrink.stages.0.label>
-  <HadFruitDrink.stages.0.description>That fruit drink was so healthy! I'm feeling good now.</HadFruitDrink.stages.0.description>
+  <HadFruitDrink.stages.0.description>That fruit drink was so healthy! I'm feeling good now。</HadFruitDrink.stages.0.description>
 
 
   <!-- EPOE -->
@@ -73,9 +73,9 @@
   <!-- Medical Drink -->
 
   <MedicalDrink.stages.0.label>Buzzed (Hidden)</MedicalDrink.stages.0.label>
-  <MedicalDrink.stages.0.description>Should not appear.</MedicalDrink.stages.0.description>
+  <MedicalDrink.stages.0.description>Should not appear。</MedicalDrink.stages.0.description>
   <MedicalDrink.stages.1.label>难喝</MedicalDrink.stages.1.label>
-  <MedicalDrink.stages.1.description>I feel slightly better but the taste is just awful.</MedicalDrink.stages.1.description>
+  <MedicalDrink.stages.1.description>I feel slightly better but the taste is just awful。</MedicalDrink.stages.1.description>
   <MedicalDrink.stages.2.label>感觉好点了</MedicalDrink.stages.2.label>
   <MedicalDrink.stages.2.description>I feel much better!</MedicalDrink.stages.2.description>
   <MedicalDrink.stages.3.label>不痛了</MedicalDrink.stages.3.label>
@@ -96,21 +96,21 @@
   <!--<AteFineMeal.stages.0.label>ate fine meal</AteFineMeal.stages.0.label>-->
   <!--<AteFineMeal.stages.0.description>I ate a really tasty fine meal. Yum!</AteFineMeal.stages.0.description>-->
   <!--<AteLavishMeal.stages.0.label>ate lavish meal</AteLavishMeal.stages.0.label>-->
-  <!--<AteLavishMeal.stages.0.description>That lavish meal was amazing. It nourished my body and my soul.</AteLavishMeal.stages.0.description>-->
+  <!--<AteLavishMeal.stages.0.description>That lavish meal was amazing. It nourished my body and my soul。</AteLavishMeal.stages.0.description>-->
   <!-- <AtePie.stages.0.label>吃了派</AtePie.stages.0.label>
   <AtePie.stages.0.description>I ate a really tasty pie. It's not a lie!</AtePie.stages.0.description>
 
   <AteCandy.stages.0.label>吃了糖果</AteCandy.stages.0.label>
-  <AteCandy.stages.0.description>I ate a really tasty candy. Now I'm sugar buzzed.</AteCandy.stages.0.description>
+  <AteCandy.stages.0.description>I ate a really tasty candy. Now I'm sugar buzzed。</AteCandy.stages.0.description>
 
   <Hotdrink.stages.0.label>热饮料</Hotdrink.stages.0.label>
-  <Hotdrink.stages.0.description>I drank a really nice hot drink, now I feel better.</Hotdrink.stages.0.description>
+  <Hotdrink.stages.0.description>I drank a really nice hot drink, now I feel better。</Hotdrink.stages.0.description>
 
   <HadTea.stages.0.label>Drank Cup of Tea</HadTea.stages.0.label>
-  <HadTea.stages.0.description>Tea is tasty! I like this.</HadTea.stages.0.description>
+  <HadTea.stages.0.description>Tea is tasty! I like this。</HadTea.stages.0.description>
 
   <HadFruitDrink.stages.0.label>Drank Fruit Drink</HadFruitDrink.stages.0.label>
-  <HadFruitDrink.stages.0.description>That fruit drink was so healthy! I'm feeling good now.</HadFruitDrink.stages.0.description>
+  <HadFruitDrink.stages.0.description>That fruit drink was so healthy! I'm feeling good now。</HadFruitDrink.stages.0.description>
  -->
   <!-- <SilentJawThought.stages.0.label>Silent Jaw</SilentJawThought.stages.0.label>
   <SilentJawThought.stages.0.description>I just want to talk but I can't. It's so horrible!</SilentJawThought.stages.0.description>
