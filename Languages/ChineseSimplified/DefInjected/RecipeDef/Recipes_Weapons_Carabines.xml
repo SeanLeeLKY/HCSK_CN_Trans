@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildGun_BoltActionRifle.label>Build Lee-Enfield</BuildGun_BoltActionRifle.label>
-  <BuildGun_BoltActionRifle.description>Builds an ancient bolt-action rifle. Good range, good power and low rate of fire.\nCaliber: .303 British</BuildGun_BoltActionRifle.description>
-  <BuildGun_BoltActionRifle.jobString>Building Lee-Enfield。</BuildGun_BoltActionRifle.jobString>
+  <BuildGun_BoltActionRifle.label>制造 李-恩菲尔德 步枪</BuildGun_BoltActionRifle.label>
+  <BuildGun_BoltActionRifle.description>制造一支古老的栓动步枪。射程较远，威力较好，但是射击速度慢。\n弹药： .303 英制弹药</BuildGun_BoltActionRifle.description>
+  <BuildGun_BoltActionRifle.jobString>正在制造 李-恩菲尔德。</BuildGun_BoltActionRifle.jobString>
 
-  <BuildMosinBoltRifle.label>Build Mosin-Nagant M91</BuildMosinBoltRifle.label>
-  <BuildMosinBoltRifle.description>Builds a Mosin-Nagant M91, an ancient bolt-action rifle. Good range, dood power and low rate of fire.\nCaliber: 7.62x54mm R</BuildMosinBoltRifle.description>
-  <BuildMosinBoltRifle.jobString>Building Mosin-Nagant M91。</BuildMosinBoltRifle.jobString>
+  <BuildMosinBoltRifle.label>制造 莫辛-纳甘M91 步枪</BuildMosinBoltRifle.label>
+  <BuildMosinBoltRifle.description>制造一支古老的栓动步枪。射程较远，威力一般，射击速度慢。\n弹药： 7.62x54mm R</BuildMosinBoltRifle.description>
+  <BuildMosinBoltRifle.jobString>正在制造 莫辛-纳甘M91 步枪。</BuildMosinBoltRifle.jobString>
 
-  <BuildCXfour.label>Build Beretta CX4</BuildCXfour.label>
-  <BuildCXfour.description>Builds the Beretta CX4, a highly reliable compact carbine. Below average damage, average fire rate, above average range and fires in two round burst.\nCaliber: 9x19mm Para</BuildCXfour.description>
-  <BuildCXfour.jobString>Building Beretta CX4。</BuildCXfour.jobString>
+  <BuildCXfour.label>制造 伯莱塔Cx4“风暴” 卡宾枪</BuildCXfour.label>
+  <BuildCXfour.description>制造伯莱塔Cx4“风暴”卡宾枪，一种高度可靠的紧凑型卡宾枪。低于平均伤害、平均开火速率，高于平均射程，两轮短点射。\n弹药： 9x19mm 子弹</BuildCXfour.description>
+  <BuildCXfour.jobString>正在制造 伯莱塔Cx4“风暴” 卡宾枪。</BuildCXfour.jobString>
 
-  <BuildPCnine.label>Build Ruger PC-9</BuildPCnine.label>
-  <BuildPCnine.description>Builds the Ruger PC-9, a carbine sidearm with pistol-calibre. Average damage, above average fire rate and average range.\nCaliber: .40 Rimfire</BuildPCnine.description>
-  <BuildPCnine.jobString>Building Ruger PC-9。</BuildPCnine.jobString>
+  <BuildPCnine.label>制造 鲁格PC-9 </BuildPCnine.label>
+  <BuildPCnine.description>制造 鲁格PC-9，一支使用手枪口径子弹的卡宾枪。伤害一般，高于平均开火速率和平均射程。\n弹药： .40 边缘发火弹</BuildPCnine.description>
+  <BuildPCnine.jobString>正在制造 鲁格PC-9 步枪。</BuildPCnine.jobString>
 
-  <BuildUSC.label>Build HK USC</BuildUSC.label>
-  <BuildUSC.description>Builds the HK USC, a stable semi-automatic pistol-calibre carbine with low kickback and an unusual stock design. Average damage, above average fire rate and range that fires three round bursts.\nCaliber: .45 ACP</BuildUSC.description>
-  <BuildUSC.jobString>Building HK USC。</BuildUSC.jobString>
+  <BuildUSC.label>制造 HK USC 半自动卡宾枪</BuildUSC.label>
+  <BuildUSC.description>制造 HK USC 半自动卡宾枪，一种较为稳定的半自动手枪口径卡宾枪，反冲较低，弹仓设计也比较新颖。威力一般，但是开火速率和射程高于同等平均水平，单次开火能发射3发子弹。\n弹药： .45 自动手枪弹</BuildUSC.description>
+  <BuildUSC.jobString>正在制造 HK USC 半自动卡宾枪。</BuildUSC.jobString>
 
-  <BuildAKS74U.label>Build AKS-74U</BuildAKS74U.label>
-  <BuildAKS74U.description>Builds the AKS-74U short assault rifle. Average damage and rate of fire, low range but poor accurracy. \nCaliber: 5.45x39mm R</BuildAKS74U.description>
-  <BuildAKS74U.jobString>Building AKS-74U。</BuildAKS74U.jobString>
+  <BuildAKS74U.label>制造 AKS-74U 短突击步枪</BuildAKS74U.label>
+  <BuildAKS74U.description>制造 AKS-74U 短突击步枪。威力和开火速率一般，射程较高，但是精度堪忧。 \n弹药： 5.45x39mm R</BuildAKS74U.description>
+  <BuildAKS74U.jobString>正在制造 AKS-74U 短突击步枪。</BuildAKS74U.jobString>
 
-  <BuildM4A1Gun.label>Build M4A1 Carbine</BuildM4A1Gun.label>
-  <BuildM4A1Gun.description>Builds the M4A1 Carbine, a shorter and lighter variant of the M16A2 assault rifle. Average damage and range, good rate of fire and good accurracy.\nCaliber: 5.56x45mm NATO</BuildM4A1Gun.description>
-  <BuildM4A1Gun.jobString>Building M4A1 Carbine。</BuildM4A1Gun.jobString>
+  <BuildM4A1Gun.label>制造 M4A1 卡宾枪</BuildM4A1Gun.label>
+  <BuildM4A1Gun.description>制造 M4A1 卡宾枪。基本属于M16A2突击步枪的轻度简化版本，威力和射程一般，但是有较高的开火速率和较好的精度。\n弹药： 5.56x45mm 北约标准弹</BuildM4A1Gun.description>
+  <BuildM4A1Gun.jobString>正在制造 M4A1 卡宾枪。</BuildM4A1Gun.jobString>
 
 
 </LanguageData>

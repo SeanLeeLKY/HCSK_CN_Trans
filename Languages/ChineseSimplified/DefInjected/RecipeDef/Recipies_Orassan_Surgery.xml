@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <InstallOrassanTail.label>Install tail</InstallOrassanTail.label>
-  <InstallOrassanTail.description>Installs tail。</InstallOrassanTail.description>
-  <InstallOrassanTail.jobString>Installing tail。</InstallOrassanTail.jobString>
+  <InstallOrassanTail.label>安装 尾巴</InstallOrassanTail.label>
+  <InstallOrassanTail.description>安装 尾巴。</InstallOrassanTail.description>
+  <InstallOrassanTail.jobString>正在安装 尾巴。</InstallOrassanTail.jobString>
 
-  <InstallCyberneticTail.label>Install cybernetic tail</InstallCyberneticTail.label>
-  <InstallCyberneticTail.description>Installs cybernetic tail。</InstallCyberneticTail.description>
-  <InstallCyberneticTail.jobString>Installing cybernetic tail。</InstallCyberneticTail.jobString>
+  <InstallCyberneticTail.label>安装 神经机械尾</InstallCyberneticTail.label>
+  <InstallCyberneticTail.description>安装 神经机械尾。</InstallCyberneticTail.description>
+  <InstallCyberneticTail.jobString>正在安装 神经机械尾。</InstallCyberneticTail.jobString>
 
-  <InstallPlasteelClaws.label>Install advanced claws</InstallPlasteelClaws.label>
-  <InstallPlasteelClaws.description>Installs advanced claws。</InstallPlasteelClaws.description>
-  <InstallPlasteelClaws.jobString>Installing advanced claws。</InstallPlasteelClaws.jobString>
+  <InstallPlasteelClaws.label>安装 高级爪</InstallPlasteelClaws.label>
+  <InstallPlasteelClaws.description>安装 高级爪。</InstallPlasteelClaws.description>
+  <InstallPlasteelClaws.jobString>正在安装 高级爪。</InstallPlasteelClaws.jobString>
 
-  <InstallClothTail.label>Install cloth tail</InstallClothTail.label>
-  <InstallClothTail.description>Installs cloth tail。</InstallClothTail.description>
-  <InstallClothTail.jobString>Installing cloth tail。</InstallClothTail.jobString>
+  <InstallClothTail.label>安装 布尾</InstallClothTail.label>
+  <InstallClothTail.description>安装 布尾。</InstallClothTail.description>
+  <InstallClothTail.jobString>正在安装 布尾。</InstallClothTail.jobString>
 
-  <InstallBionicTail.label>Install bionic tail</InstallBionicTail.label>
-  <InstallBionicTail.description>Installs bionic tail。</InstallBionicTail.description>
-  <InstallBionicTail.jobString>Installing bionic tail。</InstallBionicTail.jobString>
+  <InstallBionicTail.label>安装 仿生尾</InstallBionicTail.label>
+  <InstallBionicTail.description>安装 仿生尾。</InstallBionicTail.description>
+  <InstallBionicTail.jobString>正在安装 仿生尾。</InstallBionicTail.jobString>
 
 
 </LanguageData>

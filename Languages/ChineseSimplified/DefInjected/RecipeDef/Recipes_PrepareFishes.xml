@@ -3,24 +3,24 @@
 
   <!-- Aquaculture basin breeding -->
 
-  <SupplyMashgonEggs.label>supply mashgon eggs</SupplyMashgonEggs.label>
-  <SupplyMashgonEggs.description>Supply some eggs of a mashgon to breed. You only need to do it when there is no fish in the basin or if you want to change the bred species。</SupplyMashgonEggs.description>
-  <SupplyMashgonEggs.jobString>Supplying mashgon eggs。</SupplyMashgonEggs.jobString>
+  <SupplyMashgonEggs.label>养殖 龙虾</SupplyMashgonEggs.label>
+  <SupplyMashgonEggs.description>提供一些龙虾卵来养殖。你只需要在没有鱼的时候这样做，或者你需要改变繁殖的物种。</SupplyMashgonEggs.description>
+  <SupplyMashgonEggs.jobString>提供龙虾卵中。</SupplyMashgonEggs.jobString>
 
-  <SupplyBluebladeEggs.label>supply blueblade eggs</SupplyBluebladeEggs.label>
-  <SupplyBluebladeEggs.description>Supply some eggs of a blueblade to breed. You only need to do it when there is no fish in the basin or if you want to change the bred species。</SupplyBluebladeEggs.description>
-  <SupplyBluebladeEggs.jobString>Supplying blueblade eggs。</SupplyBluebladeEggs.jobString>
+  <SupplyBluebladeEggs.label>养殖 蓝刀鱼</SupplyBluebladeEggs.label>
+  <SupplyBluebladeEggs.description>提供一些蓝刀鱼卵来养殖。你只需要在没有鱼的时候这样做，或者你需要改变繁殖的物种。</SupplyBluebladeEggs.description>
+  <SupplyBluebladeEggs.jobString>提供蓝刀鱼卵中。</SupplyBluebladeEggs.jobString>
 
-  <SupplyTailteethEggs.label>supply tailteeth eggs</SupplyTailteethEggs.label>
-  <SupplyTailteethEggs.description>Supply some eggs of a tailteeth to breed. You only need to do it when there is no fish in the basin or if you want to change the bred species。</SupplyTailteethEggs.description>
-  <SupplyTailteethEggs.jobString>Supplying tailteeth eggs。</SupplyTailteethEggs.jobString>
+  <SupplyTailteethEggs.label>养殖 尾齿鱼</SupplyTailteethEggs.label>
+  <SupplyTailteethEggs.description>提供一些尾齿鱼卵来养殖。你只需要在没有鱼的时候这样做，或者你需要改变繁殖的物种。</SupplyTailteethEggs.description>
+  <SupplyTailteethEggs.jobString>提供尾齿鱼卵中。</SupplyTailteethEggs.jobString>
 
 
   <!-- Campfire meal -->
 
-  <GrillFishCampfire.label>grill fish</GrillFishCampfire.label>
-  <GrillFishCampfire.description>Grills a fish so it can be eaten. Tasty and crunchy!</GrillFishCampfire.description>
-  <GrillFishCampfire.jobString>Grilling fish。</GrillFishCampfire.jobString>
+  <GrillFishCampfire.label>烹制 烤鱼</GrillFishCampfire.label>
+  <GrillFishCampfire.description>先准备一条鱼，然后上火慢烤，美味又酥脆！</GrillFishCampfire.description>
+  <GrillFishCampfire.jobString>烤鱼中。</GrillFishCampfire.jobString>
 
 
 </LanguageData>

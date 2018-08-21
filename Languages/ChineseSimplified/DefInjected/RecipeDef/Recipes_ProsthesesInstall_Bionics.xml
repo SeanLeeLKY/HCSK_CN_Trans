@@ -3,94 +3,50 @@
 
   <!-- Bionics parts -->
 
-  <InstallPowerArm.label>Install Power Arm</InstallPowerArm.label>
-  <InstallPowerArm.description>Installs a Power Arm。</InstallPowerArm.description>
-  <InstallPowerArm.jobString>Installing Power Arm。</InstallPowerArm.jobString>
+ 
 
-  <InstallBionicHand.label>Install Bionic Hand</InstallBionicHand.label>
-  <InstallBionicHand.description>Installs a Bionic Hand。</InstallBionicHand.description>
-  <InstallBionicHand.jobString>Installing Bionic Hand。</InstallBionicHand.jobString>
+  <InstallPowerArm.label>安装 动力臂</InstallPowerArm.label>
+  <InstallPowerArm.description>安装动力臂。</InstallPowerArm.description>
+  <InstallPowerArm.jobString>正在安装 动力臂。</InstallPowerArm.jobString>
 
+  <InstallBionicHand.label>安装 仿生手</InstallBionicHand.label>
+  <InstallBionicHand.description>安装仿生手。</InstallBionicHand.description>
+  <InstallBionicHand.jobString>正在安装 仿生手。</InstallBionicHand.jobString>
 
-  <!-- <RecipeDef>
-		<defName>InstallAICore</defName>
-		<label>install AI core</label>
-		<description>Installs AI core。</description>
-		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Installing AI core。</jobString>
-		<workAmount>1000</workAmount>
-		<effectWorking>ButcherFlesh</effectWorking>
-		<workSpeedStat>MedicalOperationSpeed</workSpeedStat>
-		<soundWorking>Recipe_ButcherCorpseFlesh</soundWorking>
-		<recipeUsers><li>Human</li></recipeUsers>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Medicine</li>
-					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>AIPersonaCore</li>
-					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>Medicine</li>
-				<li>AIPersonaCore</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<appliedOnFixedBodyParts>
-			<li>Brain</li>
-		</appliedOnFixedBodyParts>
-		<addsHediff>AICore</addsHediff>
-		<skillGains>
-				<Medicine>150</Medicine>
-		</skillGains>
-	</RecipeDef> -->
+  <InstallBionicFoot.label>安装 仿生足</InstallBionicFoot.label>
+  <InstallBionicFoot.description>安装仿生足。</InstallBionicFoot.description>
+  <InstallBionicFoot.jobString>正在安装 仿生足。</InstallBionicFoot.jobString>
 
-  <InstallBionicFoot.label>Install Bionic Foot</InstallBionicFoot.label>
-  <InstallBionicFoot.description>Installs Bionic Foot。</InstallBionicFoot.description>
-  <InstallBionicFoot.jobString>Installing Bionic Foot。</InstallBionicFoot.jobString>
+  <InstallBionicEar.label>安装 仿生耳</InstallBionicEar.label>
+  <InstallBionicEar.description>安装仿生耳。</InstallBionicEar.description>
+  <InstallBionicEar.jobString>正在安装 仿生耳。</InstallBionicEar.jobString>
 
-  <InstallBionicEar.label>Install Bionic Ear Implant</InstallBionicEar.label>
-  <InstallBionicEar.description>Installs a Bionic Ear Implant。</InstallBionicEar.description>
-  <InstallBionicEar.jobString>Installing a Bionic Ear Implant。</InstallBionicEar.jobString>
+  <InstallBionicJaw.label>安装 仿生颌</InstallBionicJaw.label>
+  <InstallBionicJaw.description>安装仿生颌。</InstallBionicJaw.description>
+  <InstallBionicJaw.jobString>正在安装 仿生颌。</InstallBionicJaw.jobString>
 
-  <InstallBionicJaw.label>Install Bionic Jaw Implant</InstallBionicJaw.label>
-  <InstallBionicJaw.description>Installs a Bionic Jaw Implant。</InstallBionicJaw.description>
-  <InstallBionicJaw.jobString>Installing a Bionic Jaw Implant。</InstallBionicJaw.jobString>
+  <InstallSilentJaw.label>安装 静音颌</InstallSilentJaw.label>
+  <InstallSilentJaw.description>安装静音颌。</InstallSilentJaw.description>
+  <InstallSilentJaw.jobString>正在安装 静音颌。</InstallSilentJaw.jobString>
 
-  <InstallSilentJaw.label>Install Silent Jaw Implant</InstallSilentJaw.label>
-  <InstallSilentJaw.description>Installs a Silent Jaw Implant。</InstallSilentJaw.description>
-  <InstallSilentJaw.jobString>Installing a Silent Jaw Implant。</InstallSilentJaw.jobString>
+  <InstallBionicSpine.label>安装 仿生脊椎</InstallBionicSpine.label>
+  <InstallBionicSpine.description>安装仿生脊椎。</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>正在安装 仿生脊椎。</InstallBionicSpine.jobString>
 
-  <InstallBionicSpine.label>Install Bionic Spine</InstallBionicSpine.label>
-  <InstallBionicSpine.description>Installs a Bionic Spine。</InstallBionicSpine.description>
-  <InstallBionicSpine.jobString>Installing a Bionic Spine。</InstallBionicSpine.jobString>
+  <InstallMedicalRib.label>安装 医疗肋骨</InstallMedicalRib.label>
+  <InstallMedicalRib.description>安装医疗肋骨。</InstallMedicalRib.description>
+  <InstallMedicalRib.jobString>正在安装 医疗肋骨。</InstallMedicalRib.jobString>
 
-  <InstallMedicalRib.label>Install Medical Rib Replacement</InstallMedicalRib.label>
-  <InstallMedicalRib.description>Installs a Medical Rib Replacement。</InstallMedicalRib.description>
-  <InstallMedicalRib.jobString>Installing a Medical Rib Replacement。</InstallMedicalRib.jobString>
+  <InstallDruggedRib.label>安装 迷幻肋骨</InstallDruggedRib.label>
+  <InstallDruggedRib.description>安装迷幻肋骨。</InstallDruggedRib.description>
+  <InstallDruggedRib.jobString>正在安装 迷幻肋骨。</InstallDruggedRib.jobString>
 
-  <InstallAdrenalineRib.label>Install Adrenaline Rib</InstallAdrenalineRib.label>
-  <InstallAdrenalineRib.description>Installs an Adrenaline Rib。</InstallAdrenalineRib.description>
-  <InstallAdrenalineRib.jobString>Installing an Adrenaline Rib。</InstallAdrenalineRib.jobString>
+  <InstallAdrenalineRib.label>安装 肾上腺素肋骨</InstallAdrenalineRib.label>
+  <InstallAdrenalineRib.description>安装肾上腺素肋骨。</InstallAdrenalineRib.description>
+  <InstallAdrenalineRib.jobString>正在安装 肾上腺素肋骨。</InstallAdrenalineRib.jobString>
 
-  <InstallDruggedRib.label>install drugged rib</InstallDruggedRib.label>
-  <InstallDruggedRib.description>Installs a drugged rib。</InstallDruggedRib.description>
-  <InstallDruggedRib.jobString>Installing a drugged rib。</InstallDruggedRib.jobString>
-
-  <InstallPainkillerRib.label>install painkiller rib</InstallPainkillerRib.label>
-  <InstallPainkillerRib.description>Installs a painkiller rib。</InstallPainkillerRib.description>
-  <InstallPainkillerRib.jobString>Installing a painkiller rib。</InstallPainkillerRib.jobString>
-
+  <InstallPainkillerRib.label>安装 止痛肋骨</InstallPainkillerRib.label>
+  <InstallPainkillerRib.description>安装止痛肋骨。</InstallPainkillerRib.description>
+  <InstallPainkillerRib.jobString>正在安装 止痛肋骨。</InstallPainkillerRib.jobString>
 
 </LanguageData>

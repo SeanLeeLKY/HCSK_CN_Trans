@@ -3,21 +3,21 @@
 
   <!-- Lifesupport system -->
 
-  <installlifesupportheart.label>Install Blood Pump</installlifesupportheart.label>
-  <installlifesupportheart.description>Installs a Blood Pump。</installlifesupportheart.description>
-  <installlifesupportheart.jobString>Installing Blood Pump。</installlifesupportheart.jobString>
+  <installlifesupportheart.label>安装 血泵</installlifesupportheart.label>
+  <installlifesupportheart.description>安装血泵。</installlifesupportheart.description>
+  <installlifesupportheart.jobString>正在安装 血泵。</installlifesupportheart.jobString>
 
-  <installlifesupportlung.label>Install Respirator</installlifesupportlung.label>
-  <installlifesupportlung.description>Installs a Respirator。</installlifesupportlung.description>
-  <installlifesupportlung.jobString>Installing Respirator。</installlifesupportlung.jobString>
+  <installlifesupportlung.label>安装 呼吸机</installlifesupportlung.label>
+  <installlifesupportlung.description>安装 呼吸机。</installlifesupportlung.description>
+  <installlifesupportlung.jobString>正在安装 呼吸机。</installlifesupportlung.jobString>
 
-  <installlifesupportkidney.label>Install Urine Filter</installlifesupportkidney.label>
-  <installlifesupportkidney.description>Installs Urine Filter。</installlifesupportkidney.description>
-  <installlifesupportkidney.jobString>Installing Urine Filter。</installlifesupportkidney.jobString>
+  <installlifesupportkidney.label>安装 尿液过滤器</installlifesupportkidney.label>
+  <installlifesupportkidney.description>安装尿液过滤器。</installlifesupportkidney.description>
+  <installlifesupportkidney.jobString>正在安装 尿液过滤器。</installlifesupportkidney.jobString>
 
-  <installlifesupportliver.label>Install Blood Filter</installlifesupportliver.label>
-  <installlifesupportliver.description>Installs a Blood Filter。</installlifesupportliver.description>
-  <installlifesupportliver.jobString>Installing Blood Filter。</installlifesupportliver.jobString>
+  <installlifesupportliver.label>安装 血液过滤机</installlifesupportliver.label>
+  <installlifesupportliver.description>安装血液过滤机。</installlifesupportliver.description>
+  <installlifesupportliver.jobString>正在安装 血液过滤机。</installlifesupportliver.jobString>
 
 
 </LanguageData>

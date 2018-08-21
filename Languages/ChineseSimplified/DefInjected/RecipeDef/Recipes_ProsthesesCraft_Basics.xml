@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateSteelArm.label>制造 Metallic Arm</CreateSteelArm.label>
-  <CreateSteelArm.description>Crafts a metallic arm. \n\n产出：1。</CreateSteelArm.description>
-  <CreateSteelArm.jobString>Crafting metallic arm。</CreateSteelArm.jobString>
+  <CreateSteelArm.label>制造 铁臂</CreateSteelArm.label>
+  <CreateSteelArm.description>制造 铁臂。 \n\n产出：1。</CreateSteelArm.description>
+  <CreateSteelArm.jobString>正在制造 铁臂。</CreateSteelArm.jobString>
 
-  <CreatePegLeg.label>制造 Peg Leg</CreatePegLeg.label>
-  <CreatePegLeg.description>Crafts a simple prosthetic peg leg. \n\n产出：1。</CreatePegLeg.description>
-  <CreatePegLeg.jobString>Crafting peg leg。</CreatePegLeg.jobString>
+  <CreatePegLeg.label>制造 木腿</CreatePegLeg.label>
+  <CreatePegLeg.description>制造 木腿。 \n\n产出：1。</CreatePegLeg.description>
+  <CreatePegLeg.jobString>正在制造 木腿。</CreatePegLeg.jobString>
 
-  <CreateEyePatch.label>制造 Eye Patch</CreateEyePatch.label>
-  <CreateEyePatch.description>Tailors an eye patch. \n\n产出：1。</CreateEyePatch.description>
-  <CreateEyePatch.jobString>Crafting eye patch。</CreateEyePatch.jobString>
+  <CreateEyePatch.label>制造 眼罩</CreateEyePatch.label>
+  <CreateEyePatch.description>使用织物缝制眼罩。 \n\n产出：1。</CreateEyePatch.description>
+  <CreateEyePatch.jobString>正在制造 眼罩。</CreateEyePatch.jobString>
 
-  <CreateHookHand.label>制造 Hook Hand</CreateHookHand.label>
-  <CreateHookHand.description>Crafts a hook hand. A sea-faring pirate would be proud. \n\n产出：1。</CreateHookHand.description>
-  <CreateHookHand.jobString>Crafting hook hand。</CreateHookHand.jobString>
+  <CreateHookHand.label>制造 钩手</CreateHookHand.label>
+  <CreateHookHand.description>制造 钩手。 海盗风格！ \n\n产出：1。</CreateHookHand.description>
+  <CreateHookHand.jobString>正在制造 钩手。</CreateHookHand.jobString>
 
-  <CreateDenture.label>制造 Denture</CreateDenture.label>
-  <CreateDenture.description>Crafts a cheap denture. \n\n产出：1。</CreateDenture.description>
-  <CreateDenture.jobString>Crafting denture。</CreateDenture.jobString>
+  <CreateDenture.label>制造 义齿</CreateDenture.label>
+  <CreateDenture.description>制造 义齿。 \n\n产出：1。</CreateDenture.description>
+  <CreateDenture.jobString>正在制造 义齿。</CreateDenture.jobString>
 
-  <CreateWoodenFoot.label>制造 Wooden Foot</CreateWoodenFoot.label>
-  <CreateWoodenFoot.description>Chops wood into a foot-like shape. \n\n产出：1。</CreateWoodenFoot.description>
-  <CreateWoodenFoot.jobString>Crafting wooden foot。</CreateWoodenFoot.jobString>
+  <CreateWoodenFoot.label>制造 木足</CreateWoodenFoot.label>
+  <CreateWoodenFoot.description>把一块木头削成脚的形状。 \n\n产出：1。</CreateWoodenFoot.description>
+  <CreateWoodenFoot.jobString>正在制造 木足。</CreateWoodenFoot.jobString>
 
-  <CreateEarBandage.label>制造 ear bandage</CreateEarBandage.label>
-  <CreateEarBandage.description>Tailors an ear bandage from fabric。</CreateEarBandage.description>
-  <CreateEarBandage.jobString>Crafting prosthesis。</CreateEarBandage.jobString>
+  <CreateEarBandage.label>制造 耳绷带</CreateEarBandage.label>
+  <CreateEarBandage.description>使用织物缝制耳绷带。</CreateEarBandage.description>
+  <CreateEarBandage.jobString>正在制造 耳绷带。</CreateEarBandage.jobString>
 
 
 </LanguageData>

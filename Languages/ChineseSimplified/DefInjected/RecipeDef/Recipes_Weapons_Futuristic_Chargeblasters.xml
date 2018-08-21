@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildChargeRifle.label>R3 Menstruum</BuildChargeRifle.label>
-  <BuildChargeRifle.description>Charged-shot energy/projectile rifle。</BuildChargeRifle.description>
-  <BuildChargeRifle.jobString>Building R3 Charge Rifle。</BuildChargeRifle.jobString>
+  <BuildChargeRifle.label>制造 R3 瓦解者</BuildChargeRifle.label>
+  <BuildChargeRifle.description>制造R3 瓦解者电荷步枪。</BuildChargeRifle.description>
+  <BuildChargeRifle.jobString>正在制造 R3 瓦解者电荷步枪。</BuildChargeRifle.jobString>
 
-  <BuildSplitter.label>Build R6 Splitter</BuildSplitter.label>
-  <BuildSplitter.description>Builds the R6 Splitter Charge Rifle, a charged-shot energy projectile rifle。</BuildSplitter.description>
-  <BuildSplitter.jobString>Building R6 Splitter Charge Rifle。</BuildSplitter.jobString>
+  <BuildSplitter.label>制造 R6 分裂者</BuildSplitter.label>
+  <BuildSplitter.description>制造R6 分裂者电荷步枪。</BuildSplitter.description>
+  <BuildSplitter.jobString>正在制造 R6 分裂者电荷步枪。</BuildSplitter.jobString>
 
 
 </LanguageData>

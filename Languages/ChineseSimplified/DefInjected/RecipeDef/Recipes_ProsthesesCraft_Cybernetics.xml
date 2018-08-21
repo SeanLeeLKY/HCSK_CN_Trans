@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateGTBionicEye.label>Create Cybernetic Bionic Eye</CreateGTBionicEye.label>
-  <CreateGTBionicEye.description>The advanced version of the bionic eye. The second generation of bionic upgrades, typically reserved for top brass military forces. \n\n产出：1。</CreateGTBionicEye.description>
-  <CreateGTBionicEye.jobString>Creating cybernetic bionic eye。</CreateGTBionicEye.jobString>
+  <CreateGTBionicEye.label>制造 神经电子仿生眼</CreateGTBionicEye.label>
+  <CreateGTBionicEye.description>仿生眼的升级版本。属于先进的第二代仿生技术，一般只应用于顶级特战部队。 \n\n产出：1。</CreateGTBionicEye.description>
+  <CreateGTBionicEye.jobString>正在制造 神经电子仿生眼。</CreateGTBionicEye.jobString>
 
-  <CreateGTBionicArm.label>Create Cybernetic Bionic Arm</CreateGTBionicArm.label>
-  <CreateGTBionicArm.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible strength. Not recommended for wardens that want to keep prisoners in one piece. \n\n产出：1。</CreateGTBionicArm.description>
-  <CreateGTBionicArm.jobString>Creating cybernetic bionic arm。</CreateGTBionicArm.jobString>
+  <CreateGTBionicArm.label>制造 神经电子仿生臂</CreateGTBionicArm.label>
+  <CreateGTBionicArm.description>先进的第二代仿生技术成果， 附着有纳米纤维材料制成的高强度、高韧性人造肌肉。能够让使用者得到超越常人的力量。不推荐给那些想把犯人关在一起的典狱长。 \n\n产出：1。</CreateGTBionicArm.description>
+  <CreateGTBionicArm.jobString>正在制造 神经电子仿生臂。</CreateGTBionicArm.jobString>
 
-  <CreateCyberneticPowerArm.label>Upgrade Power Arm</CreateCyberneticPowerArm.label>
-  <CreateCyberneticPowerArm.description>Upgrades a power arm with artifical muscles. \n\n产出：1。</CreateCyberneticPowerArm.description>
-  <CreateCyberneticPowerArm.jobString>Upgrading bionic power arm。</CreateCyberneticPowerArm.jobString>
+  <CreateCyberneticPowerArm.label>升级 动力臂</CreateCyberneticPowerArm.label>
+  <CreateCyberneticPowerArm.description>为动力臂添加人造肌肉和其他微控设施，提高其技术水平。 \n\n产出：1。</CreateCyberneticPowerArm.description>
+  <CreateCyberneticPowerArm.jobString>正在升级 动力臂。</CreateCyberneticPowerArm.jobString>
 
-  <CreateGTBionicHand.label>Create Cybernetic Bionic Hand</CreateGTBionicHand.label>
-  <CreateGTBionicHand.description>The second generation of bionic upgrades that uses nano fibres to produce artificial muscles. The more limited version of arm upgrades, just replacing hands. \n\n产出：1。</CreateGTBionicHand.description>
-  <CreateGTBionicHand.jobString>Creating cybernetic bionic hand。</CreateGTBionicHand.jobString>
+  <CreateGTBionicHand.label>制造 神经电子仿生手</CreateGTBionicHand.label>
+  <CreateGTBionicHand.description>先进的第二代仿生技术成果，添加了大量的人造肌肉、微控单元。这个组件只会替换手部，如果想有更加全面的提升请使用神经电子仿生臂。 \n\n产出：1。</CreateGTBionicHand.description>
+  <CreateGTBionicHand.jobString>正在制造 神经电子仿生手。</CreateGTBionicHand.jobString>
 
-  <CreateGTBionicFoot.label>Create Cybernetic Bionic Foot</CreateGTBionicFoot.label>
-  <CreateGTBionicFoot.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. The more limited version of leg upgrades, just replacing feet. \n\n产出：1。</CreateGTBionicFoot.description>
-  <CreateGTBionicFoot.jobString>Creating cybernetic bionic foot。</CreateGTBionicFoot.jobString>
+  <CreateGTBionicFoot.label>制造 神经电子仿生足</CreateGTBionicFoot.label>
+  <CreateGTBionicFoot.description>先进的第二代仿生技术成果， 附着有纳米纤维材料制成的高强度、高韧性人造肌肉。 这个组件只会替换脚部，如果想有更加全面的提升请使用神经电子仿生腿。 \n\n产出：1。</CreateGTBionicFoot.description>
+  <CreateGTBionicFoot.jobString>正在制造 神经电子仿生足。</CreateGTBionicFoot.jobString>
 
-  <CreateGTBionicLeg.label>Create Cybernetic Bionic Leg</CreateGTBionicLeg.label>
-  <CreateGTBionicLeg.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible speed. \n\n产出：1。</CreateGTBionicLeg.description>
-  <CreateGTBionicLeg.jobString>Creating cybernetic bionic leg。</CreateGTBionicLeg.jobString>
+  <CreateGTBionicLeg.label>制造 神经电子仿生腿</CreateGTBionicLeg.label>
+  <CreateGTBionicLeg.description>先进的第二代仿生技术成果， 附着有纳米纤维材料制成的高强度、高韧性人造肌肉。能让使用者拥有超越常人的行动速度。 \n\n产出：1。</CreateGTBionicLeg.description>
+  <CreateGTBionicLeg.jobString>正在制造 神经电子仿生腿。</CreateGTBionicLeg.jobString>
 
-  <CreateGTBionicJaw.label>Create Cybernetic Bionic Jaw</CreateGTBionicJaw.label>
-  <CreateGTBionicJaw.description>The second generation of bionic upgrades, using nano machinery to break down food instantly with minimal effort. \n\n产出：1。</CreateGTBionicJaw.description>
-  <CreateGTBionicJaw.jobString>Creating cybernetic bionic jaw。</CreateGTBionicJaw.jobString>
+  <CreateGTBionicJaw.label>制造 神经电子仿生颌</CreateGTBionicJaw.label>
+  <CreateGTBionicJaw.description>先进的第二代仿生技术成果， 能够用内置的纳米机器人瞬间分解各种食物，提高饮食效率。 \n\n产出：1。</CreateGTBionicJaw.description>
+  <CreateGTBionicJaw.jobString>正在制造 神经电子仿生颌。</CreateGTBionicJaw.jobString>
 
-  <CreateGTBionicEar.label>Create Cybernetic Bionic Ear</CreateGTBionicEar.label>
-  <CreateGTBionicEar.description>The advanced version of the bionic ear. The second generation of bionic upgrades, typically reserved for top brass military forces. \n\n产出：1。</CreateGTBionicEar.description>
-  <CreateGTBionicEar.jobString>Creating cybernetic bionic ear。</CreateGTBionicEar.jobString>
+  <CreateGTBionicEar.label>制造 神经电子仿生耳</CreateGTBionicEar.label>
+  <CreateGTBionicEar.description>仿生耳的升级版本。 先进的第二代仿生技术成果， 一般只应用于顶级特战部队。 \n\n产出：1。</CreateGTBionicEar.description>
+  <CreateGTBionicEar.jobString>正在制造 神经电子仿生耳。</CreateGTBionicEar.jobString>
 
-  <CreateGTBionicSpine.label>Create Cybernetic Bionic Spine</CreateGTBionicSpine.label>
-  <CreateGTBionicSpine.description>The advanced version of the bionic spine. The second generation of bionic upgrades, typically reserved for top brass military forces. \n\n产出：1。</CreateGTBionicSpine.description>
-  <CreateGTBionicSpine.jobString>Creating cybernetic bionic spine。</CreateGTBionicSpine.jobString>
+  <CreateGTBionicSpine.label>制造 神经电子仿生脊柱</CreateGTBionicSpine.label>
+  <CreateGTBionicSpine.description>仿生脊柱的升级版本。 先进的第二代仿生技术成果， 一般只应用于顶级特战部队。 \n\n产出：1。</CreateGTBionicSpine.description>
+  <CreateGTBionicSpine.jobString>正在制造 神经电子仿生脊柱。</CreateGTBionicSpine.jobString>
 
-  <CreateGTLung.label>Create Cybernetic Lung</CreateGTLung.label>
-  <CreateGTLung.description>A powerful vascular augmentation that replaces a standard human lung. The perfect pairing with a cybernetic heart as this increases circulatory speed which increases overall efficiency. \n\n产出：1。</CreateGTLung.description>
-  <CreateGTLung.jobString>Creating cybernetic lung。</CreateGTLung.jobString>
+  <CreateGTLung.label>制造 神经电子肺</CreateGTLung.label>
+  <CreateGTLung.description>一套非常强大的血氧交换系统，用于替换人类原生肺的功能。与能与神经机械心脏搭配工作能大幅增加血液循环速度，提高整体效率。  \n\n产出：1。</CreateGTLung.description>
+  <CreateGTLung.jobString>正在制造 神经电子肺。</CreateGTLung.jobString>
 
-  <CreateGTStomach.label>Create Cybernetic Stomach</CreateGTStomach.label>
-  <CreateGTStomach.description>A powerful abdominal augmentation that replaces a standard human stomach. It increases digestion efficiency and metabolic efficiency. \n\n产出：1。</CreateGTStomach.description>
-  <CreateGTStomach.jobString>Creating cybernetic stomach。</CreateGTStomach.jobString>
+  <CreateGTStomach.label>制造 神经电子胃</CreateGTStomach.label>
+  <CreateGTStomach.description>高技术含量的胃部替代扩展装置，能够代替人类原生胃的功能，并且能大幅提高食物消化和生理代谢效率。 \n\n产出：1。</CreateGTStomach.description>
+  <CreateGTStomach.jobString>正在制造 神经电子胃。</CreateGTStomach.jobString>
 
-  <CreateGTLiver.label>Create Cybernetic Liver</CreateGTLiver.label>
-  <CreateGTLiver.description>A powerful abdominal augmentation that replaces the standard human liver. It increases blood filtration efficiency and metabolic efficiency. \n\n产出：1。</CreateGTLiver.description>
-  <CreateGTLiver.jobString>Creating cybernetic liver。</CreateGTLiver.jobString>
+  <CreateGTLiver.label>制造 神经电子肝</CreateGTLiver.label>
+  <CreateGTLiver.description>高技术含量的肝脏替代扩展装置，能够代替人类原生肝脏的功能。 能够大幅提高血液过滤和代谢效率。 \n\n产出：1。</CreateGTLiver.description>
+  <CreateGTLiver.jobString>正在制造 神经电子肝。</CreateGTLiver.jobString>
 
-  <CreateGTKidney.label>Create Cybernetic Kidney</CreateGTKidney.label>
-  <CreateGTKidney.description>A powerful abdominal augmentation that replaces a standard human kidney. It increases blood filtration efficiency and metabolic efficiency. \n\n产出：1。</CreateGTKidney.description>
-  <CreateGTKidney.jobString>Creating cybernetic kidney。</CreateGTKidney.jobString>
+  <CreateGTKidney.label>制造 神经电子肾</CreateGTKidney.label>
+  <CreateGTKidney.description>高技术含量的肾脏替代扩展装置，能够代替人类原生肾脏的功能。 能够大幅提高血液过滤和代谢效率。 \n\n产出：1。</CreateGTKidney.description>
+  <CreateGTKidney.jobString>正在制造 神经电子肾。</CreateGTKidney.jobString>
 
-  <CreateGTHeart.label>Create Cybernetic Heart</CreateGTHeart.label>
-  <CreateGTHeart.description>A powerful cardiac augmentation that replaces a standard human heart. Safely manages very high blood flow without overwhelming standard body parts. \n\n产出：1。</CreateGTHeart.description>
-  <CreateGTHeart.jobString>Creating cybernetic heart。</CreateGTHeart.jobString>
+  <CreateGTHeart.label>制造 神经电子心</CreateGTHeart.label>
+  <CreateGTHeart.description>高技术含量的心脏替代扩展装置，能够代替人类原生心脏的功能。 高效安全的分管身体的血液功能，而且能自动调试各个不同类型身体部件的血液压力。 \n\n产出：1。</CreateGTHeart.description>
+  <CreateGTHeart.jobString>正在制造 神经电子心。</CreateGTHeart.jobString>
 
-  <CreateExoskeleton.label>制造 Exoskeleton</CreateExoskeleton.label>
-  <CreateExoskeleton.description>An exoskeleton greatly improves overall body perfomance. \n\n产出：1。</CreateExoskeleton.description>
-  <CreateExoskeleton.jobString>Crafting exoskeleton。</CreateExoskeleton.jobString>
+  <CreateExoskeleton.label>制造 外骨骼</CreateExoskeleton.label>
+  <CreateExoskeleton.description>能够提升人体整体能力的植入式骨骼套件。 \n\n产出：1。</CreateExoskeleton.description>
+  <CreateExoskeleton.jobString>正在制造 外骨骼。</CreateExoskeleton.jobString>
 
 
 </LanguageData>

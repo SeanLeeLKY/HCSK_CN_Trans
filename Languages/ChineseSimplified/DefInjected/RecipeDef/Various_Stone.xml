@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Stone solids, chunks, and blocks -->
+  <!-- Stone solids, chunks, and blocks-->
 
-  <MakeStoneBlocksSandstone.label>制造 Sandstone Blocks</MakeStoneBlocksSandstone.label>
-  <MakeStoneBlocksSandstone.description>Cuts sandstone chunks into usable blocks。</MakeStoneBlocksSandstone.description>
-  <MakeStoneBlocksSandstone.jobString>Cutting stone blocks from chunk。</MakeStoneBlocksSandstone.jobString>
+  <MakeStoneBlocksSandstone.label>制作砂岩砖</MakeStoneBlocksSandstone.label>
+  <MakeStoneBlocksSandstone.description>将砂岩块切割成可用的砖块。</MakeStoneBlocksSandstone.description>
+  <MakeStoneBlocksSandstone.jobString>正在切割石材。</MakeStoneBlocksSandstone.jobString>
 
-  <MakeStoneBlocksGranite.label>制造 Granite Blocks</MakeStoneBlocksGranite.label>
-  <MakeStoneBlocksGranite.description>Cuts granite chunks into usable blocks。</MakeStoneBlocksGranite.description>
-  <MakeStoneBlocksGranite.jobString>Cutting stone blocks from chunk。</MakeStoneBlocksGranite.jobString>
+  <MakeStoneBlocksGranite.label>制作花岗岩砖</MakeStoneBlocksGranite.label>
+  <MakeStoneBlocksGranite.description>将花岗岩块切割成可用的砖块。</MakeStoneBlocksGranite.description>
+  <MakeStoneBlocksGranite.jobString>正在切割石材。</MakeStoneBlocksGranite.jobString>
 
-  <MakeStoneBlocksLimestone.label>制造 Limestone Blocks</MakeStoneBlocksLimestone.label>
-  <MakeStoneBlocksLimestone.description>Cuts limestone chunks into usable blocks。</MakeStoneBlocksLimestone.description>
-  <MakeStoneBlocksLimestone.jobString>Cutting stone blocks from chunk。</MakeStoneBlocksLimestone.jobString>
+  <MakeStoneBlocksLimestone.label>制作石灰岩砖</MakeStoneBlocksLimestone.label>
+  <MakeStoneBlocksLimestone.description>将石灰岩块切割成可用的砖块。</MakeStoneBlocksLimestone.description>
+  <MakeStoneBlocksLimestone.jobString>正在切割石材。</MakeStoneBlocksLimestone.jobString>
 
-  <MakeStoneBlocksSlate.label>制造 Slate Blocks</MakeStoneBlocksSlate.label>
-  <MakeStoneBlocksSlate.description>Cuts slate chunks into usable blocks。</MakeStoneBlocksSlate.description>
-  <MakeStoneBlocksSlate.jobString>Cutting stone blocks from chunk。</MakeStoneBlocksSlate.jobString>
-
-  <MakeStoneBlocksMarble.label>制造 Marble Blocks</MakeStoneBlocksMarble.label>
-  <MakeStoneBlocksMarble.description>Cuts marble chunks into usable blocks。</MakeStoneBlocksMarble.description>
-  <MakeStoneBlocksMarble.jobString>Cutting stone blocks from chunk。</MakeStoneBlocksMarble.jobString>
+  <MakeStoneBlocksSlate.label>制作板岩砖</MakeStoneBlocksSlate.label>
+  <MakeStoneBlocksSlate.description>将板岩块切割成可用的砖块。</MakeStoneBlocksSlate.description>
+  <MakeStoneBlocksSlate.jobString>正在切割石材。</MakeStoneBlocksSlate.jobString>
+  
+  <MakeStoneBlocksMarble.label>制作大理石砖</MakeStoneBlocksMarble.label>
+  <MakeStoneBlocksMarble.description>将大理石块切割成可用的砖块。</MakeStoneBlocksMarble.description>
+  <MakeStoneBlocksMarble.jobString>正在切割石材。</MakeStoneBlocksMarble.jobString>
 
 
 </LanguageData>

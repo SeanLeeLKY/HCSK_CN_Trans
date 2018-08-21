@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MeltSugar.label>melting sugary substances</MeltSugar.label>
-  <MeltSugar.description>Boiling down high sugar substances into a sugar substitute residue \n\n产出：5。</MeltSugar.description>
-  <MeltSugar.jobString>Boiling down sugary substances into sugar residue。</MeltSugar.jobString>
+  <MeltSugar.label>融炼 高糖物质</MeltSugar.label>
+  <MeltSugar.description>把高糖物质煮沸提炼，制作成为糖的替代品。 \n\n产出：5。</MeltSugar.description>
+  <MeltSugar.jobString>正在提炼 高糖物质。</MeltSugar.jobString>
 
-  <MakeSugar.label>榨制 sugarcane</MakeSugar.label>
-  <MakeSugar.description>Beat and grind those canes to get at that sugar! \n\n产出：5。</MakeSugar.description>
-  <MakeSugar.jobString>Grinding sugarcane into sugar。</MakeSugar.jobString>
+  <MakeSugar.label>榨制 甘蔗</MakeSugar.label>
+  <MakeSugar.description>通过物理磨压的方式将甘蔗制成糖! \n\n产出：5。</MakeSugar.description>
+  <MakeSugar.jobString>正在磨压 甘蔗。</MakeSugar.jobString>
 
-  <MakeFlour.label>grind flour</MakeFlour.label>
-  <MakeFlour.description>Grind wheat, corn, rice or oats into flour. \n\n产出：10。</MakeFlour.description>
-  <MakeFlour.jobString>Grinding flour。</MakeFlour.jobString>
+  <MakeFlour.label>磨制 面粉</MakeFlour.label>
+  <MakeFlour.description>将小麦、玉米、稻米或者燕麦磨制成为面粉。 \n\n产出：10。</MakeFlour.description>
+  <MakeFlour.jobString>正在研磨 面粉。</MakeFlour.jobString>
 
-  <MakePotatoFlour.label>grind baked potatoes</MakePotatoFlour.label>
-  <MakePotatoFlour.description>Grinding baked potatoes into flour. \n\n产出：10。</MakePotatoFlour.description>
-  <MakePotatoFlour.jobString>Grinding Baked Potatoes。</MakePotatoFlour.jobString>
+  <MakePotatoFlour.label>磨制 烘焙土豆</MakePotatoFlour.label>
+  <MakePotatoFlour.description>将烘焙土豆研磨成为面粉。 \n\n产出：10。</MakePotatoFlour.description>
+  <MakePotatoFlour.jobString>正在研磨 烘焙土豆。</MakePotatoFlour.jobString>
 
-  <CraftCornmeal.label>grind corn</CraftCornmeal.label>
-  <CraftCornmeal.description>Grind corn into cornmeal. \n\n产出：4。</CraftCornmeal.description>
-  <CraftCornmeal.jobString>Grinding corn。</CraftCornmeal.jobString>
+  <CraftCornmeal.label>磨制 玉米</CraftCornmeal.label>
+  <CraftCornmeal.description>将玉米研磨成为玉米粉。 \n\n产出：4。</CraftCornmeal.description>
+  <CraftCornmeal.jobString>正在研磨 玉米。</CraftCornmeal.jobString>
 
-  <Makesoymilk.label>press soy milk</Makesoymilk.label>
-  <Makesoymilk.description>Press beans into soy milk. \n\n产出：4。</Makesoymilk.description>
-  <Makesoymilk.jobString>Pressing beans into soy milk。</Makesoymilk.jobString>
+  <Makesoymilk.label>榨制 豆浆</Makesoymilk.label>
+  <Makesoymilk.description>将豆子压榨成豆浆这种奶状物。 \n\n产出：4。</Makesoymilk.description>
+  <Makesoymilk.jobString>正在榨制 豆浆。</Makesoymilk.jobString>
 
-  <MakeChocolate.label>Cook chocolates</MakeChocolate.label>
-  <MakeChocolate.description>Roast cocoa beans and sugar to 制造 chocolate, a sweet treat. \n\n产出：5。</MakeChocolate.description>
-  <MakeChocolate.jobString>Roasting cocoa beans into chocolate。</MakeChocolate.jobString>
+  <MakeChocolate.label>制作 巧克力</MakeChocolate.label>
+  <MakeChocolate.description>利用可可豆和糖制作巧克力——一种美味的零食。 \n\n产出：5。</MakeChocolate.description>
+  <MakeChocolate.jobString>正在制作 巧克力。</MakeChocolate.jobString>
 
-  <MakeCaramel.label>Caramelize sugar</MakeCaramel.label>
-  <MakeCaramel.description>Turns sugar into a caramel snacks. \n\n产出：3。</MakeCaramel.description>
-  <MakeCaramel.jobString>Camarelize sugar into caramel。</MakeCaramel.jobString>
+  <MakeCaramel.label>制作 焦糖</MakeCaramel.label>
+  <MakeCaramel.description>将糖制作成为焦糖。 \n\n产出：3。</MakeCaramel.description>
+  <MakeCaramel.jobString>正在制作 焦糖。</MakeCaramel.jobString>
 
-  <MakeBread.label>bake bread loaves</MakeBread.label>
-  <MakeBread.description>Bakes loaves of bread. \n\n产出：2。</MakeBread.description>
-  <MakeBread.jobString>Baking bread loaves。</MakeBread.jobString>
+  <MakeBread.label>烘焙 大块面包</MakeBread.label>
+  <MakeBread.description>烘焙一大块面包。 \n\n产出：2。</MakeBread.description>
+  <MakeBread.jobString>正在烘焙 面包。</MakeBread.jobString>
 
-  <Makecheese.label>process cheese</Makecheese.label>
-  <Makecheese.description>Turns milk or soy milk into cheese. \n\n产出：4。</Makecheese.description>
-  <Makecheese.jobString>Processing milk into cheese。</Makecheese.jobString>
+  <Makecheese.label>制作 芝士</Makecheese.label>
+  <Makecheese.description>将各种奶或者奶的代制品制成芝士。 \n\n产出：4。</Makecheese.description>
+  <Makecheese.jobString>正在制作 芝士。</Makecheese.jobString>
 
 
 </LanguageData>

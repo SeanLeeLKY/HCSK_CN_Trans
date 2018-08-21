@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildFireExtinguisher.label>Build Fire Extinguisher</BuildFireExtinguisher.label>
-  <BuildFireExtinguisher.description>A gun loaded with expanding foam. It can be used to extinguish fires. \n\n产出：1。</BuildFireExtinguisher.description>
-  <BuildFireExtinguisher.jobString>Building Fire Extinguisher。</BuildFireExtinguisher.jobString>
+  <BuildFireExtinguisher.label>制造 灭火器</BuildFireExtinguisher.label>
+  <BuildFireExtinguisher.description>装满膨胀泡沫的枪形装置，可以用来扑灭火灾。 \n\n产出：1。</BuildFireExtinguisher.description>
+  <BuildFireExtinguisher.jobString>正在制造 灭火器。</BuildFireExtinguisher.jobString>
 
 
 </LanguageData>

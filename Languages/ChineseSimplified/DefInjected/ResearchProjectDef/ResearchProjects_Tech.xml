@@ -3,8 +3,8 @@
 
   <!-- Technology -->
 
-  <SK_Technology.label>Technology</SK_Technology.label>
-  <SK_Technology.description>Learn basic elements of survival on this harsh planet. Unlocks Grill, Fueled stove and some beds for your colonists。</SK_Technology.description>
+  <SK_Technology.label>基本科技</SK_Technology.label>
+  <SK_Technology.description>了解在这个残酷星球上生存的基本要素。为你的殖民地解锁烤架、燃料炉和一些床类家具。</SK_Technology.description>
 
 
   <!-- TableGrill
@@ -12,115 +12,115 @@
 			Bed
 			DoubleBed -->
 
-  <Electricity.label>Electricity</Electricity.label>
-  <Electricity.description>A gateway tech into learning how to generate Electricity。</Electricity.description>
+  <Electricity.label>电力</Electricity.label>
+  <Electricity.description>研究如何发电，并将电力用于其他简单的作业。</Electricity.description>
 
-  <SK_ProductionI.label>Production I</SK_ProductionI.label>
-  <SK_ProductionI.description>Learn how to refine and make some useful stuff. Allows your colonists to understand the various uses of weed and tobacco, such as rolling special cigarettes, making hemp and various medicinal uses.
-				\n\nAlso unlocks the candy making table to make sweet treats and Ammo Bench to create some ammo for your guns and turrets。</SK_ProductionI.description>
+  <SK_ProductionI.label>生产 I</SK_ProductionI.label>
+  <SK_ProductionI.description>学习如何提炼和制作一些有用的东西。让你的殖民者了解大麻和烟叶的各种用途，例如制作特殊的卷烟、利用麻纤维和各种医药用途。
+				\n\n同时还解锁糖果工作台来制作一些甜食和弹药工作台来为您的枪和炮塔制造备用弹药。</SK_ProductionI.description>
 
 
   <!-- CandyMaking
 			DrugLab
 			AmmoBench -->
 
-  <SK_ProductionII.label>Production II</SK_ProductionII.label>
-  <SK_ProductionII.description>Learn how to refine and make some useful stuff with power of electricity. Allows your colonists to create a complex coffee machine, which turns coffee beans into hot fragrant drink. You can also brew types of tea here too.
-						\n\nAlso unlocks Electric Stove and Electric Brewery。</SK_ProductionII.description>
+  <SK_ProductionII.label>生产 II</SK_ProductionII.label>
+  <SK_ProductionII.description>学习如何用电能提炼和制造一些有用的东西。允许你的殖民者建造一个复杂的咖啡机，它把咖啡豆变成热饮，而且你也可以用它泡茶。
+						\n\n同时解锁电力炉灶和电力酿造台。</SK_ProductionII.description>
 
 
   <!-- ElectricStove
 					ElectricBrewery
 					TableCoffee -->
 
-  <Brewing.label>Brewing</Brewing.label>
-  <Brewing.description>Allows you to begin brewing your own acholic drinks。</Brewing.description>
+  <Brewing.label>酿造</Brewing.label>
+  <Brewing.description>解锁各种酒精酿造工艺。</Brewing.description>
 
 
   <!-- BrewingTable -->
 
-  <BrewingII.label>Soft Liquor</BrewingII.label>
-  <BrewingII.description>Allows making of Mash for soft liqours。</BrewingII.description>
+  <BrewingII.label>软性酒</BrewingII.label>
+  <BrewingII.description>解锁酿造更多种类的低度饮料。</BrewingII.description>
 
-  <BrewingIII.label>Hard Liquor</BrewingIII.label>
-  <BrewingIII.description>Allows making of mash for harder more complex liqours。</BrewingIII.description>
+  <BrewingIII.label>烈性酒</BrewingIII.label>
+  <BrewingIII.description>解锁酿造更多种类的复杂饮料。</BrewingIII.description>
 
-  <SK_ProductionIII.label>Production III</SK_ProductionIII.label>
-  <SK_ProductionIII.description>Advanced knowledge of how to refine and make some useful stuff with power of electricity. Learn blueprints of an Electric Pressure Cooker - a stove for canning foods, and a Professional Cook Stove - for preparing meals in bulk。</SK_ProductionIII.description>
+  <SK_ProductionIII.label>生产 III</SK_ProductionIII.label>
+  <SK_ProductionIII.description>对如何用电来提炼和制造有用的东西有很深的知识。解锁各类电压力容器——罐头食品压制工作台，以及用来批量生产食物的专业烹调炉。</SK_ProductionIII.description>
 
 
   <!-- ElectricStove_Pro
 								Canningstove -->
 
-  <Refining.label>Сhemistry</Refining.label>
-  <Refining.description>Allows you to use biogen opportunities. A example is making biofuel out of corn。</Refining.description>
+  <Refining.label>化学</Refining.label>
+  <Refining.description>解锁基本的生物化学知识，例如用玉米来制作生物燃料。</Refining.description>
 
 
   <!-- TableComposter
 				BioRefinery -->
 
-  <DrugProduction.label>Drugs research II</DrugProduction.label>
-  <DrugProduction.description>The basics of drug preparation and synthesis. Allows creation of the drug lab. Further research is required to make specific drugs。</DrugProduction.description>
+  <DrugProduction.label>成瘾品研究 II</DrugProduction.label>
+  <DrugProduction.description>了解药物制备和合成的基础知识。解锁建造药物实验台，以及为研究制造特殊药物做知识准备。</DrugProduction.description>
 
 
   <!-- DrugLab
 				MakeHempCloth
 				MakeOil -->
 
-  <PsychiteRefining.label>psychite refining</PsychiteRefining.label>
-  <PsychiteRefining.description>Learn to refine psychoid leaves into flake and yayo, different forms of the euphoric drug psychite。</PsychiteRefining.description>
+  <PsychiteRefining.label>精神药物提炼</PsychiteRefining.label>
+  <PsychiteRefining.description>允许殖民者对精神叶进行精炼，制作「薄片」和「呀呦粉」。。</PsychiteRefining.description>
 
-  <WakeUpProduction.label>wake-up production</WakeUpProduction.label>
-  <WakeUpProduction.description>Your chemists learn the formulas and techniques for synthesizing wake-up, a work performance-enhancing drug。</WakeUpProduction.description>
+  <WakeUpProduction.label>清醒丸制作</WakeUpProduction.label>
+  <WakeUpProduction.description>学会制作「清醒丸」，清醒丸可以延长殖民者的工作时间，使其忘却疲劳，但是带有一些副作用。</WakeUpProduction.description>
 
-  <GoJuiceProduction.label>go-juice production</GoJuiceProduction.label>
-  <GoJuiceProduction.description>Learn to produce the synthetic combat-performance-enhancing drug go-juice。</GoJuiceProduction.description>
+  <GoJuiceProduction.label>活力水制作</GoJuiceProduction.label>
+  <GoJuiceProduction.description>学会制作这种名为「活力水」的合成的战斗增强兴奋剂。</GoJuiceProduction.description>
 
-  <PenoxycylineProduction.label>penoxycyline production</PenoxycylineProduction.label>
-  <PenoxycylineProduction.description>Learn to produce penoxycline, a disease prevention drug。</PenoxycylineProduction.description>
+  <PenoxycylineProduction.label>佩诺西林制作</PenoxycylineProduction.label>
+  <PenoxycylineProduction.description>学会制作「佩诺西林」，一种疾病防治药物。</PenoxycylineProduction.description>
 
-  <SK_BiochemistryII.label>Biochemistry</SK_BiochemistryII.label>
-  <SK_BiochemistryII.description>This allows your colonists to build the Chemical Laboratory, which can be used to create medkits and advanced prosthetic body parts。</SK_BiochemistryII.description>
+  <SK_BiochemistryII.label>生物化学</SK_BiochemistryII.label>
+  <SK_BiochemistryII.description>允许你的殖民者建造化学实验室，可以用来制造医疗器械和先进的假体部件。</SK_BiochemistryII.description>
 
 
   <!-- MakeCarbonAlloy
 				TableChemlab -->
 
-  <SK_Bioenergy.label>Bioenergy</SK_Bioenergy.label>
-  <SK_Bioenergy.description> Learn how to refine different biomaterials into electricity. Unlocks a BioGenerator that produces electricity. Requires BioDiesel or BioMatter for a fuel source。</SK_Bioenergy.description>
+  <SK_Bioenergy.label>生物能源</SK_Bioenergy.label>
+  <SK_Bioenergy.description> 学习如何将不同的生物材料转化成为电力。解锁生物发电机，需要消耗生物柴油或其他生物燃料生产电力。</SK_Bioenergy.description>
 
 
   <!-- TableOrganvat -->
 
-  <NutrientPaste.label>Food synthesizer</NutrientPaste.label>
-  <NutrientPaste.description>Minor Discovery: This allows colonists to build the food synthesizer. While not the most tasty of ways to get a meal, the paste is nutritious and it does free up colonists to do other things。</NutrientPaste.description>
+  <NutrientPaste.label>食物合成机</NutrientPaste.label>
+  <NutrientPaste.description>解锁建造「食物合成机」，能自动将生食高效地合成为营养膏。用于应对食物短缺。</NutrientPaste.description>
 
 
   <!-- NutrientPasteDispenser
 								Hopper -->
 
-  <NutrientPasteII.label>Soylent technology</NutrientPasteII.label>
-  <NutrientPasteII.description>Allows you to build the Soylent Green Machine to make Soylent Green from Humanlike corpses。</NutrientPasteII.description>
+  <NutrientPasteII.label>营养物质学</NutrientPasteII.label>
+  <NutrientPasteII.description>解锁建造绿色营养物质机，能够从人类生物尸体中提炼高能营养物质。</NutrientPasteII.description>
 
 
   <!-- soylenttable -->
 
-  <SK_GlassworkingI.label>Glassworking</SK_GlassworkingI.label>
-  <SK_GlassworkingI.description>Making clear glass is harder than it seems but with some hard work you will find the right formula. Glass is made by a process of heating sand to a very high temperature. Unlocks Glasswork Table。</SK_GlassworkingI.description>
+  <SK_GlassworkingI.label>玻璃工艺</SK_GlassworkingI.label>
+  <SK_GlassworkingI.description>制造纯净的玻璃需要用极高的温度加热沙子，虽然看起来是比较难以达成的，但是需要你用各种方法尝试并且寻找到最具性价比的途径。解锁玻璃工作台。</SK_GlassworkingI.description>
 
 
   <!-- GlassworkTable -->
 
-  <SK_GlassworkingII.label>Fiberglass</SK_GlassworkingII.label>
-  <SK_GlassworkingII.description>Glass is fragile but with the right tools you can make it stronger to expand the potential uses of it。</SK_GlassworkingII.description>
+  <SK_GlassworkingII.label>玻璃纤维</SK_GlassworkingII.label>
+  <SK_GlassworkingII.description>玻璃易碎，但是通过合适的方法提炼加工并强化，你会发觉玻璃有极高极广的使用价值。</SK_GlassworkingII.description>
 
 
   <!-- DoorGlass
 				TeaTable
 				MakeReinforcedGlass -->
 
-  <SK_MedicineI.label>Biology</SK_MedicineI.label>
-  <SK_MedicineI.description>Learn basics of medicine art. Have no leg or arm, or anything else? Start to use simple prosthetics from wood and steel. To make them - build a Prosthetics Workbench。</SK_MedicineI.description>
+  <SK_MedicineI.label>生物学</SK_MedicineI.label>
+  <SK_MedicineI.description>了解基本的医药“艺术”。缺胳膊少腿么？还是缺点其他的东西？没事，拿块木头拿块铁，砰砰砰！搞定！解锁假体工作台。</SK_MedicineI.description>
 
 
   <!-- TableBasicProsthetic
@@ -139,8 +139,8 @@
 				InstallHookHand
 				InstallSteelArm -->
 
-  <HospitalBed.label>Hospital I</HospitalBed.label>
-  <HospitalBed.description>Advanced medicine allows you to treat some simple injuries like Frostbite or Cut. Also you can install some lif esupport to your colonists and make some hospital beds。</HospitalBed.description>
+  <HospitalBed.label>医疗设施 I</HospitalBed.label>
+  <HospitalBed.description>解锁部分医疗设备，你可以更加轻松的治疗一些诸如冻伤、割伤等小问题。你也可以为还有一口气的殖民者安装生命支持系统，或者修建一些病床。</HospitalBed.description>
 
 
   <!-- HospitalBed
@@ -162,8 +162,8 @@
 				CureInjuryCrush
 				CureInjuryBurn -->
 
-  <VitalsMonitor.label>Hospital II</VitalsMonitor.label>
-  <VitalsMonitor.description>Improvements in medical art opens new cosmettic and surgical operations. You can now install some small natural body parts like noses and ears, use artificial bones and cure gut worms, asthma, scars and deep cuts. Allows colonists to build vitals monitors which increase patients treatment quality if placed next to medical beds。</VitalsMonitor.description>
+  <VitalsMonitor.label>医疗设施 II</VitalsMonitor.label>
+  <VitalsMonitor.description>进阶的医疗知识为你提供了更佳的治疗方案。你现在可以为殖民者移植一些小型的次要身体部件类似于鼻子、耳朵之类，或者用人造骨骼来修复一些身体损伤、深度疤痕、割伤等等。亦可以建造生命体征监测仪来提高医疗质量、手术成功率等。</VitalsMonitor.description>
 
 
   <!-- Storage_MedicineCabinet
@@ -183,7 +183,7 @@
 								InstallArtificialBone_Medium
 								InstallArtificialBonePiece_Large -->
 
-  <VitalsMonitorI.label>Hospital III</VitalsMonitorI.label>
+  <VitalsMonitorI.label>医疗设施 III</VitalsMonitorI.label>
   <VitalsMonitorI.description>Improvements in medical art opens new surgical operations. You can now install some internal natural organs like heart and liver, natural body parts such as arms, legs, eyes, as well as make advanced beds specially designed to treat injured people。</VitalsMonitorI.description>
 
 
@@ -199,7 +199,7 @@
 								InstallNaturalLeg
 								InstallNaturalArm -->
 
-  <SK_HospitalIV.label>Hospital IV</SK_HospitalIV.label>
+  <SK_HospitalIV.label>医疗设施 IV</SK_HospitalIV.label>
   <SK_HospitalIV.description>Now your doctors can heal chronic diseases: Heart Artery Blockage, Alzheimer, Muscle Parasites, Dementia, Cataract, Hearing Loss, Frail and Bad Back。</SK_HospitalIV.description>
 
 
@@ -283,7 +283,7 @@
   <!-- TacticalComputer -->
 
   <MicroelectronicsBasics.label>Microelectronics basics</MicroelectronicsBasics.label>
-  <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks production of Integrated Circuits and construction of Mineral Sonars - which is a device that can scan deposits in mountains to identify minerals。</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks 生产 of Integrated Circuits and construction of Mineral Sonars - which is a device that can scan deposits in mountains to identify minerals。</MicroelectronicsBasics.description>
 
 
   <!-- MakeIntegratedCircuits
@@ -293,11 +293,11 @@
   <ResearchMobileMineralSonarEnhancedScan.label>Enhanced scanner</ResearchMobileMineralSonarEnhancedScan.label>
   <ResearchMobileMineralSonarEnhancedScan.description>By doing some code refactoring in the MiSoTech* noise reduction algorithms, your researchers could improve the mobile mineral sonar efficiency.
 					- Improve the MiSoTech* to enhance the mobile mineral sonar efficiency.
-						</ResearchMobileMineralSonarEnhancedScan.description>
+  </ResearchMobileMineralSonarEnhancedScan.description>
   <ResearchMobileMineralSonarEnhancedScan.descriptionDiscovered>MiSoTech* algorithms have been refactored and optimized. The spare CPU time has been reallocated to enhance the scan range and detection algorithms.
 					- Mobile mineral sonar scan range is increased (30 -&gt; 50).
 					- Mobile mineral sonar detection chance is increased.
-						</ResearchMobileMineralSonarEnhancedScan.descriptionDiscovered>
+  </ResearchMobileMineralSonarEnhancedScan.descriptionDiscovered>
 
   <SK_ElectronicsIII.label>Nanoelectronics basics</SK_ElectronicsIII.label>
   <SK_ElectronicsIII.description>This research allows colonists to make Microchip Integrated Circuits, Life-Support device and Brain Stimulator。</SK_ElectronicsIII.description>
@@ -396,7 +396,7 @@
 					MakeCarbon -->
 
   <Machining.label>Machining</Machining.label>
-  <Machining.description>Start in researching of machining arts. Unlocks Electric Sawmill and Mending Workbench with production of mending kits for your apparel。</Machining.description>
+  <Machining.description>Start in researching of machining arts. Unlocks Electric Sawmill and Mending Workbench with 生产 of mending kits for your apparel。</Machining.description>
 
 
   <!-- TableSawmillElectric
@@ -488,7 +488,7 @@
 
   <Personal_Shield_research.label>Nanite shielding</Personal_Shield_research.label>
   <Personal_Shield_research.description>Using nano technology Nanites have been developed that can be implanted in colonists to heal them or protect them from damage. Unfortunately due to the limited power and size of the Nanites they must be replaced from the Colonist Upgrade Station after each use.
-																		</Personal_Shield_research.description>
+  </Personal_Shield_research.description>
 
 
   <!-- <ResearchProjectDef ParentName="IndustrialBase">

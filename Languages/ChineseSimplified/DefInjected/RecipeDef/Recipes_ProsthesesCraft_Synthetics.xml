@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CreateAIChip.label>制造 AI Chip</CreateAIChip.label>
-  <CreateAIChip.description>Crafts an AI chip. It restores brain functions but is very hard to make. \n\n产出：1。</CreateAIChip.description>
-  <CreateAIChip.jobString>Crafting AI chip。</CreateAIChip.jobString>
+  <CreateAIChip.label>制作 AI芯片</CreateAIChip.label>
+  <CreateAIChip.description>制作 AI芯片。这种芯片能恢复脑部功能，但是制作流程非常麻烦。 \n\n产出：1。</CreateAIChip.description>
+  <CreateAIChip.jobString>正在制作 AI芯片。</CreateAIChip.jobString>
 
-  <CreateSyntheticLung.label>Create Synthetic Lung</CreateSyntheticLung.label>
-  <CreateSyntheticLung.description>Creates a synthetic lung. \n\n产出：1。</CreateSyntheticLung.description>
-  <CreateSyntheticLung.jobString>Creating synthetic lung。</CreateSyntheticLung.jobString>
+  <CreateSyntheticLung.label>制作 合成肺</CreateSyntheticLung.label>
+  <CreateSyntheticLung.description>制作合成肺。 \n\n产出：1。</CreateSyntheticLung.description>
+  <CreateSyntheticLung.jobString>正在制作 合成肺。</CreateSyntheticLung.jobString>
 
-  <CreateSyntheticStomach.label>Create Synthetic Stomach</CreateSyntheticStomach.label>
-  <CreateSyntheticStomach.description>Creates a synthetic stomach. \n\n产出：1。</CreateSyntheticStomach.description>
-  <CreateSyntheticStomach.jobString>Creating synthetic stomach。</CreateSyntheticStomach.jobString>
+  <CreateSyntheticStomach.label>制作 合成胃</CreateSyntheticStomach.label>
+  <CreateSyntheticStomach.description>制作合成胃。 \n\n产出：1。</CreateSyntheticStomach.description>
+  <CreateSyntheticStomach.jobString>正在制作 合成胃。</CreateSyntheticStomach.jobString>
 
-  <CreateSyntheticLiver.label>Create Synthetic Liver</CreateSyntheticLiver.label>
-  <CreateSyntheticLiver.description>Creates a synthetic liver. \n\n产出：1。</CreateSyntheticLiver.description>
-  <CreateSyntheticLiver.jobString>Creating synthetic liver。</CreateSyntheticLiver.jobString>
+  <CreateSyntheticLiver.label>制作 合成肝</CreateSyntheticLiver.label>
+  <CreateSyntheticLiver.description>制作合成肝。 \n\n产出：1。</CreateSyntheticLiver.description>
+  <CreateSyntheticLiver.jobString>正在制作 合成肝。</CreateSyntheticLiver.jobString>
 
-  <CreateSyntheticKidney.label>Create Synthetic Kidney</CreateSyntheticKidney.label>
-  <CreateSyntheticKidney.description>Creates a synthetic kidney. \n\n产出：1。</CreateSyntheticKidney.description>
-  <CreateSyntheticKidney.jobString>Creating synthetic kidney。</CreateSyntheticKidney.jobString>
+  <CreateSyntheticKidney.label>制作 合成肾</CreateSyntheticKidney.label>
+  <CreateSyntheticKidney.description>制作合成肾。 \n\n产出：1。</CreateSyntheticKidney.description>
+  <CreateSyntheticKidney.jobString>正在制作 合成肾。</CreateSyntheticKidney.jobString>
 
-  <CreateSyntheticHeart.label>Create Synthetic Heart</CreateSyntheticHeart.label>
-  <CreateSyntheticHeart.description>Creates a synthetic heart. \n\n产出：1。</CreateSyntheticHeart.description>
-  <CreateSyntheticHeart.jobString>Creating synthetic heart。</CreateSyntheticHeart.jobString>
+  <CreateSyntheticHeart.label>制作 合成心</CreateSyntheticHeart.label>
+  <CreateSyntheticHeart.description>制作合成心。 \n\n产出：1。</CreateSyntheticHeart.description>
+  <CreateSyntheticHeart.jobString>正在制作 合成心。</CreateSyntheticHeart.jobString>
 
-  <CreateSyntheticSkin.label>Create Synthetic Skin</CreateSyntheticSkin.label>
-  <CreateSyntheticSkin.description>Creates synthetic skin. \n\n产出：1。</CreateSyntheticSkin.description>
-  <CreateSyntheticSkin.jobString>Creating synthetic skin。</CreateSyntheticSkin.jobString>
+  <CreateSyntheticSkin.label>制作 合成皮肤</CreateSyntheticSkin.label>
+  <CreateSyntheticSkin.description>制作合成皮肤。 \n\n产出：1。</CreateSyntheticSkin.description>
+  <CreateSyntheticSkin.jobString>正在制作 合成皮肤。</CreateSyntheticSkin.jobString>
 
 
 </LanguageData>

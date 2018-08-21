@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildPlasmaPistol.label>Build C1 Ascension</BuildPlasmaPistol.label>
-  <BuildPlasmaPistol.description>A highly accurate plasma pistol。</BuildPlasmaPistol.description>
-  <BuildPlasmaPistol.jobString>Building C1 Ascension</BuildPlasmaPistol.jobString>
+  <BuildPlasmaPistol.label>制造 C1 晋升</BuildPlasmaPistol.label>
+  <BuildPlasmaPistol.description>一种高精度离子手枪。</BuildPlasmaPistol.description>
+  <BuildPlasmaPistol.jobString>正在制造 C1 晋升</BuildPlasmaPistol.jobString>
 
-  <BuildPlasmaPrecision.label>Build C2 Moonspell</BuildPlasmaPrecision.label>
-  <BuildPlasmaPrecision.description>A plasma sniper rifle, highly accurate but with a low rate of fire。</BuildPlasmaPrecision.description>
-  <BuildPlasmaPrecision.jobString>Building C2 Moonspell</BuildPlasmaPrecision.jobString>
+  <BuildPlasmaPrecision.label>制造 C2 月咒</BuildPlasmaPrecision.label>
+  <BuildPlasmaPrecision.description>C2 月咒是一种等离子狙击步枪，拥有较高的射击精度和极低的开火频率。</BuildPlasmaPrecision.description>
+  <BuildPlasmaPrecision.jobString>正在制造 C2 月咒</BuildPlasmaPrecision.jobString>
 
-  <BuildPlasmaCarbine.label>Build C3 Conjurer</BuildPlasmaCarbine.label>
-  <BuildPlasmaCarbine.description>A short range, lightweight plasma rifle。</BuildPlasmaCarbine.description>
-  <BuildPlasmaCarbine.jobString>Building C3 Conjurer。</BuildPlasmaCarbine.jobString>
+  <BuildPlasmaCarbine.label>制造 C3 巫师</BuildPlasmaCarbine.label>
+  <BuildPlasmaCarbine.description>一种中近距离作战使用的轻型离子步枪。</BuildPlasmaCarbine.description>
+  <BuildPlasmaCarbine.jobString>正在制造 C3 巫师。</BuildPlasmaCarbine.jobString>
 
-  <BuildPlasmaShotgun.label>Build C5 Incantator</BuildPlasmaShotgun.label>
-  <BuildPlasmaShotgun.description>Very rare plasma shotgun. Deals high damage at short range; less effective at long range. Effective against armor, shields and biotic barriers. It is of human design but is only used by krogan, due to the fact that the kickback from a single shot has enough force to break a human's arm. Protected by Fabrication Rights Management (FRM) technology, this weapon is nearly impossible to reproduce and is prohibitively expensive。</BuildPlasmaShotgun.description>
-  <BuildPlasmaShotgun.jobString>Building C5 Incantator。</BuildPlasmaShotgun.jobString>
+  <BuildPlasmaShotgun.label>制造 C5 魔咒</BuildPlasmaShotgun.label>
+  <BuildPlasmaShotgun.description>这是一种极其稀少的等离子霰弹枪。 在较近距离上能造成极高的伤害，但是在较远的距离上效果呈指数式下跌。能够有效对抗装甲、护盾以及生物屏障。虽然它是人类设计的武器，但只能让克罗根人使用，因为它产生的单发后坐力几乎可以撞断人类脆弱的手臂。这种武器受到制造权管理(FRM)技术的保护，几乎不可能复制，而且造价昂贵得令人望而却步。</BuildPlasmaShotgun.description>
+  <BuildPlasmaShotgun.jobString>正在制造 C5 魔咒。</BuildPlasmaShotgun.jobString>
 
-  <BuildPlasmaRifle.label>Build C7 StormWizard</BuildPlasmaRifle.label>
-  <BuildPlasmaRifle.description>Builds the Multi-Plasma Blaster, with good stopping power and range。</BuildPlasmaRifle.description>
-  <BuildPlasmaRifle.jobString>Building C7 StormWizard。</BuildPlasmaRifle.jobString>
+  <BuildPlasmaRifle.label>制造 C7 暴雪</BuildPlasmaRifle.label>
+  <BuildPlasmaRifle.description>制造 C7 暴雪 多路等离子急速发射器，拥有极好的停止力和较远的射程。</BuildPlasmaRifle.description>
+  <BuildPlasmaRifle.jobString>正在制造 C7 暴雪。</BuildPlasmaRifle.jobString>
 
 
 </LanguageData>

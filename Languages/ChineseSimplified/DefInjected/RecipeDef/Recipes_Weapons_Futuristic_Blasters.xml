@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildPhalanx.label>Build A-1 Phalanx</BuildPhalanx.label>
-  <BuildPhalanx.description>A close-in weapon to be used with no loss of stopping power in comparison with a soldier's assault rifle. The Phalanx enjoys a ballistics advantage over most heavy pistols. Civilian variants are often purchased by colonists on planets that have particularly dangerous big-game animals。</BuildPhalanx.description>
-  <BuildPhalanx.jobString>Building A-1 Phalanx</BuildPhalanx.jobString>
+  <BuildPhalanx.label>制造 A-1 方阵</BuildPhalanx.label>
+  <BuildPhalanx.description>A1“方阵”重型手枪是星联“攻击型手枪项目”的产物，它的设计目标是在近程战斗中获得不亚于普通突击步枪的阻滞力。与其他重型手枪相比，“方阵”能射得更远更准。各星球的殖民者也经常购买此枪的民用版用以对付危险的大型猛兽。</BuildPhalanx.description>
+  <BuildPhalanx.jobString>正在制造 A-1 方阵</BuildPhalanx.jobString>
 
-  <BuildBlackWidow.label>Build A-1BW Black Widow</BuildBlackWidow.label>
-  <BuildBlackWidow.description>Builds a A-1BW Black Widow Rifle. It is a highly accurate blaster sniper rifle with a high rate of fire. Effective against armor, shields, and biotic barriers。</BuildBlackWidow.description>
-  <BuildBlackWidow.jobString>Building A-1BW Black Widow</BuildBlackWidow.jobString>
+  <BuildBlackWidow.label>制造 A-1BW 黑寡妇</BuildBlackWidow.label>
+  <BuildBlackWidow.description>星联希望在不牺牲阻滞力的同时，缩短原版“寡妇”步枪的装弹时间。解决方法是增加其热能弹夹的载弹量。作为重型狙击步枪，“黑寡妇”的火力能大大弥补其不足。它能有效对抗装甲、护盾和生物屏障。</BuildBlackWidow.description>
+  <BuildBlackWidow.jobString>正在制造 A-1BW 黑寡妇</BuildBlackWidow.jobString>
 
-  <BuildHarrier.label>Build A-6 Cerberus Harrier</BuildHarrier.label>
-  <BuildHarrier.description>These Cerberus blaster are fully automatic. Cerberus gunsmiths reined in the recoil issues, resulting in a gun that stays on target but delivers slightly less punch per round than a standard Mattock. As such, the weapon is typically utilized by Cerberus’s elite troopers who train constantly to 制造 every burst count。</BuildHarrier.description>
-  <BuildHarrier.jobString>Building A-6 Cerberus Harrier</BuildHarrier.jobString>
+  <BuildHarrier.label>制造 A-6 塞伯鲁斯“鹞”</BuildHarrier.label>
+  <BuildHarrier.description>这把经由塞伯鲁斯鹤嘴锄改良的步枪是全自动型的。塞伯鲁斯的枪支专家攻克了后座力问题，使得这把枪与标准型的鹤嘴锄相比，在仅仅牺牲少量的子弹威力的情况下得以在一轮射击中持续瞄准目标。正因为此，这把武器成了塞伯鲁斯精英部队的典型装备，他们所接受的训练是做到弹无虚发。</BuildHarrier.description>
+  <BuildHarrier.jobString>正在制造 A-6 塞伯鲁斯“鹞”</BuildHarrier.jobString>
 
-  <BuildPredator.label>Build A-2S Predator</BuildPredator.label>
-  <BuildPredator.description>Very rare blaster shotgun. Deals high damage at short range; less effective at long range. Effective against armor, shields and biotic barriers. It is of human design but is only used by krogan, due to the fact that the kickback from a single shot has enough force to break a human's arm. Protected by Fabrication Rights Management (FRM) technology, this weapon is nearly impossible to reproduce and is prohibitively expensive。</BuildPredator.description>
-  <BuildPredator.jobString>Building A-2S Predator</BuildPredator.jobString>
+  <BuildPredator.label>制造 A-2S 掠夺者</BuildPredator.label>
+  <BuildPredator.description>非常稀有的克洛根霰弹枪。在短距离上能造成巨大的伤害，但在远距离上效果要打折扣。对护甲、护盾和异能屏障都很有效。弯刀突击霰弹枪的升级版。它是由人类设计的，但只能为克洛根人所用，因为一次射击产生的后座力足以震碎人类的手臂。它的大型子弹对于装甲单位都很有效。而且它还受到“制造版权管理”(FRM)技术的保护，因此这把武器几乎无法复制，可谓价值连城。\n(译者注：上面的这段翻译来自质量效应3中的霰弹枪，M-300“阔剑”Claymore)</BuildPredator.description>
+  <BuildPredator.jobString>正在制造 A-2S 掠夺者</BuildPredator.jobString>
 
-  <BuildHurricane.label>Build A-3S Hurricane</BuildHurricane.label>
-  <BuildHurricane.description>Very rare blaster shotgun. Deals high damage at short range; less effective at long range. Effective against armor, shields and biotic barriers. It is of human design but is only used by krogan, due to the fact that the kickback from a single shot has enough force to break a human's arm. Protected by Fabrication Rights Management (FRM) technology, this weapon is nearly impossible to reproduce and is prohibitively expensive。</BuildHurricane.description>
-  <BuildHurricane.jobString>Building A-3S Hurricane</BuildHurricane.jobString>
+  <BuildHurricane.label>制造 A-3S “飓风”</BuildHurricane.label>
+  <BuildHurricane.description>非常稀有的克洛根霰弹枪。在短距离上能造成巨大的伤害，但在远距离上效果要打折扣。对护甲、护盾和异能屏障都很有效。弯刀突击霰弹枪的升级版。它是由人类设计的，但只能为克洛根人所用，因为一次射击产生的后座力足以震碎人类的手臂。它的大型子弹对于装甲单位都很有效。而且它还受到“制造版权管理”(FRM)技术的保护，因此这把武器几乎无法复制，可谓价值连城。\n（译者注：在质量效应3中，“飓风”是一把冲锋枪。当一部分军队由于“飓风”的低精准度将它抛弃时，星联却觉得该枪迅疾的射速能提供强大的压制火力。一个训练有素的神射手能用此全自动冲锋枪以惊人的速度清扫掉一群目标。军官门对实战结果非常满意，所以该枪已成为很多军队的标配冲锋枪。）。</BuildHurricane.description>
+  <BuildHurricane.jobString>正在制造 A-3S “飓风”</BuildHurricane.jobString>
 
-  <BuildAvengerA.label>Build A-10 Avenger</BuildAvengerA.label>
-  <BuildAvengerA.description>A common, versatile, military-grade assault blaster. Accurate when fired in short bursts, and deadly when fired on full auto。</BuildAvengerA.description>
-  <BuildAvengerA.jobString>Building A-10 Avenger</BuildAvengerA.jobString>
+  <BuildAvengerA.label>制造 A-10 “复仇者”</BuildAvengerA.label>
+  <BuildAvengerA.description>“复仇者”是一种被广泛使用的多功能军用突击步枪。在短距离内较为精准，以全自动模式射击时火力很致命。复仇者可以有效穿透护盾、装甲和异能屏障。模块化的设计和廉价的模块使得复仇者成为军队和佣兵组织最青睐的武器。复仇者以坚固耐用、可靠性高、易于使用且升级性强而著称。由艾克斯联合集团制造。</BuildAvengerA.description>
+  <BuildAvengerA.jobString>正在制造 A-10 “复仇者”</BuildAvengerA.jobString>
 
 
 </LanguageData>
