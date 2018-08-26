@@ -139,7 +139,7 @@
 				InstallHookHand
 				InstallSteelArm -->
 
-  <HospitalBed.label>医疗设施 I</HospitalBed.label>
+  <HospitalBed.label>医疗技术 I</HospitalBed.label>
   <HospitalBed.description>解锁部分医疗设备，你可以更加轻松的治疗一些诸如冻伤、割伤等小问题。你也可以为还有一口气的殖民者安装生命支持系统，或者修建一些病床。</HospitalBed.description>
 
 
@@ -162,7 +162,7 @@
 				CureInjuryCrush
 				CureInjuryBurn -->
 
-  <VitalsMonitor.label>医疗设施 II</VitalsMonitor.label>
+  <VitalsMonitor.label>医疗技术 II</VitalsMonitor.label>
   <VitalsMonitor.description>进阶的医疗知识为你提供了更佳的治疗方案。你现在可以为殖民者移植一些小型的次要身体部件类似于鼻子、耳朵之类，或者用人造骨骼来修复一些身体损伤、深度疤痕、割伤等等。亦可以建造生命体征监测仪来提高医疗质量、手术成功率等。</VitalsMonitor.description>
 
 
@@ -183,8 +183,8 @@
 								InstallArtificialBone_Medium
 								InstallArtificialBonePiece_Large -->
 
-  <VitalsMonitorI.label>医疗设施 III</VitalsMonitorI.label>
-  <VitalsMonitorI.description>Improvements in medical art opens new surgical operations. You can now install some internal natural organs like heart and liver, natural body parts such as arms, legs, eyes, as well as make advanced beds specially designed to treat injured people。</VitalsMonitorI.description>
+  <VitalsMonitorI.label>医疗技术 III</VitalsMonitorI.label>
+  <VitalsMonitorI.description>高级的医疗知识为你提供了更佳的治疗以及手术方案。现在可以移植一些人体的内部器官诸如心脏和肝脏，还有一些复杂的肢体部件例如手臂和腿还有眼睛等等。同时解锁先进医疗床以获取更佳的治疗质量。</VitalsMonitorI.description>
 
 
   <!-- AdvHospitalBed
@@ -199,8 +199,8 @@
 								InstallNaturalLeg
 								InstallNaturalArm -->
 
-  <SK_HospitalIV.label>医疗设施 IV</SK_HospitalIV.label>
-  <SK_HospitalIV.description>Now your doctors can heal chronic diseases: Heart Artery Blockage, Alzheimer, Muscle Parasites, Dementia, Cataract, Hearing Loss, Frail and Bad Back。</SK_HospitalIV.description>
+  <SK_HospitalIV.label>医疗技术 IV</SK_HospitalIV.label>
+  <SK_HospitalIV.description>现在你的医生可以治愈各种慢性、难治疾病：心脏动脉阻塞，阿尔茨海默症，肌肉寄生虫，痴呆，白内障，听力损失，虚弱和背痛等。</SK_HospitalIV.description>
 
 
   <!-- AdvancedVitalsMonitor
@@ -213,102 +213,99 @@
 										CureChronicFrail
 										CureChronicBadBack -->
 
-  <MedicineProduction.label>Medicine</MedicineProduction.label>
-  <MedicineProduction.description>After this research you may build Medical Tables that is used to craft medicine。</MedicineProduction.description>
+  <MedicineProduction.label>医药生产</MedicineProduction.label>
+  <MedicineProduction.description>解锁医药工作台，开启制药生产能力。</MedicineProduction.description>
 
 
   <!-- meditable
 				BrewMedicalDrink -->
 
-  <SK_MedicineIII.label>Genetics</SK_MedicineIII.label>
-  <SK_MedicineIII.description>Breakthrough in genetic manipulation makes it possible to construct Organ Vat, that is used to turn human corpses into biomatter and to grow natural replacement organs。</SK_MedicineIII.description>
+  <SK_MedicineIII.label>基因工程</SK_MedicineIII.label>
+  <SK_MedicineIII.description>突破基因链工程技术，解锁器人体官种植设备。这项技术允许殖民者从生物尸体中提取中性生物质，用于培植各种可用于人体的原生器官。</SK_MedicineIII.description>
 
 
   <!-- TableOrganvat -->
 
-  <ComplexClothing.label>Tailoring I</ComplexClothing.label>
-  <ComplexClothing.description>Learn basics of tailoring art. Unlock Tailor's Loom - a workbench equipped for tailoring basic clothing from textiles。</ComplexClothing.description>
+  <ComplexClothing.label>裁纺技术 I</ComplexClothing.label>
+  <ComplexClothing.description>了解基本的纺织裁缝技术。解锁纺织工作台——可以将各种合适原材料处理成基础纺材（例如布匹等）。</ComplexClothing.description>
 
 
   <!-- HandTailoringBench
 		TableLoom -->
 
-  <CarpetMaking.label>Carpet Making</CarpetMaking.label>
-  <CarpetMaking.description>This allows colonists to build plush carpets that will increase the quality of their environments。</CarpetMaking.description>
+  <CarpetMaking.label>地毯制作</CarpetMaking.label>
+  <CarpetMaking.description>解锁建造「地毯」，用来提升居住环境的品质。。</CarpetMaking.description>
 
 
   <!-- Bunch of terrain thingdefs -->
 
-  <CarpetMakingII.label>Expert carpet making</CarpetMakingII.label>
-  <CarpetMakingII.description>This allows colonists to build plush carpets that will increase the quality of their environments。</CarpetMakingII.description>
+  <CarpetMakingII.label>专业地毯制作</CarpetMakingII.label>
+  <CarpetMakingII.description>解锁建造更多「地毯」，用来提升居住环境的品质。。</CarpetMakingII.description>
 
-  <TailoringII.label>Tailoring II</TailoringII.label>
-  <TailoringII.description>Improvements in tailoring art opens new Electric Tailoring Bench - a workbench with a sewing machine for rapid tailoring of clothes。</TailoringII.description>
+  <TailoringII.label>裁纺技术 II</TailoringII.label>
+  <TailoringII.description>了解更多的裁缝知识，解锁电力裁缝工作台等可以用来制作衣物的工作台。</TailoringII.description>
 
 
   <!-- ElectricTailoringBench
 				BenchRecycle
 				MakeSynthreadCloth -->
 
-  <PoweredArmor.label>Tailoring III</PoweredArmor.label>
-  <PoweredArmor.description>Neuro-memetic robotics and advanced stein weaving technologies allow you to build the power armor and power armor helmets。</PoweredArmor.description>
+  <PoweredArmor.label>裁纺技术 III</PoweredArmor.label>
+  <PoweredArmor.description>将先进的神经模拟机器人和各种新材料应用于衣物技术，解锁制造动力装甲和头盔等高级衣物。</PoweredArmor.description>
 
 
   <!-- HyperTailoringBench
 						MakeHyperweaveCloth -->
 
-  <SK_ElectronicsI.label>Electronics basics</SK_ElectronicsI.label>
-  <SK_ElectronicsI.description>Generate and use electricity for cooking and other simple tasks。</SK_ElectronicsI.description>
+  <SK_ElectronicsI.label>基础电子学</SK_ElectronicsI.label>
+  <SK_ElectronicsI.description>研究如何用最简单的途径生产及使用电力。</SK_ElectronicsI.description>
 
 
   <!-- TableElectronics -->
 
-  <SK_TelecommunicationI.label>Telecommunication</SK_TelecommunicationI.label>
-  <SK_TelecommunicationI.description>This allows colonists to construct communications station like Comms Console and Orbital Trade Beacon, so they may interact with other colonies and trade ships。</SK_TelecommunicationI.description>
+  <SK_TelecommunicationI.label>通讯工程</SK_TelecommunicationI.label>
+  <SK_TelecommunicationI.description>研究基本的通讯知识，以便于殖民地和其他派系聚落以及贸易商船沟通。解锁建造基本的远距离通讯台和轨道贸易信标。</SK_TelecommunicationI.description>
 
 
   <!-- OrbitalTradeBeacon
 				CommsConsole -->
 
-  <SK_TelecommunicationII.label>Orbital Networks</SK_TelecommunicationII.label>
-  <SK_TelecommunicationII.description>This research allows colonists to build Subspace Burst Transponders to contact Ships at a distance and guide them to your colony。</SK_TelecommunicationII.description>
+  <SK_TelecommunicationII.label>轨道通讯网络</SK_TelecommunicationII.label>
+  <SK_TelecommunicationII.description>研究深空通讯的原理知识，解锁建造亚空间脉冲传输设备。这个设备可以联系到超远距离的贸易商船并引导他们来到这个星球。</SK_TelecommunicationII.description>
 
 
   <!-- Buildings_SubspaceBurstTransponder -->
 
-  <SK_TelecommunicationIII.label>Hypercomputing</SK_TelecommunicationIII.label>
-  <SK_TelecommunicationIII.description>Depth of telecommunication knowledge allows colonists to build a computer terminal that provides remote access to some options of the tactical computer。</SK_TelecommunicationIII.description>
+  <SK_TelecommunicationIII.label>高速计算</SK_TelecommunicationIII.label>
+  <SK_TelecommunicationIII.description>对于通讯知识有了极高的理解，允许殖民地建造计算终端，并且为战术计算机提供一些扩展的远程访问功能。</SK_TelecommunicationIII.description>
 
 
   <!-- TacticalComputer -->
 
-  <MicroelectronicsBasics.label>Microelectronics basics</MicroelectronicsBasics.label>
-  <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks 生产 of Integrated Circuits and construction of Mineral Sonars - which is a device that can scan deposits in mountains to identify minerals。</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.label>微电子基础</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.description>用精密复杂的电子进行工作的基础。解锁制造高集成度的芯片产品以及矿物声呐模组。</MicroelectronicsBasics.description>
 
 
   <!-- MakeIntegratedCircuits
 					MakeMineralSonarModule
 					MobileMineralSonar -->
 
-  <ResearchMobileMineralSonarEnhancedScan.label>Enhanced scanner</ResearchMobileMineralSonarEnhancedScan.label>
-  <ResearchMobileMineralSonarEnhancedScan.description>By doing some code refactoring in the MiSoTech* noise reduction algorithms, your researchers could improve the mobile mineral sonar efficiency.
-					- Improve the MiSoTech* to enhance the mobile mineral sonar efficiency.
+  <ResearchMobileMineralSonarEnhancedScan.label>增强扫描技术</ResearchMobileMineralSonarEnhancedScan.label>
+  <ResearchMobileMineralSonarEnhancedScan.description>通过在矿物声纳技术降噪算法做一些代码重构，你的研究人员可以提高矿物扫描雷达效率。\n-提高矿物声纳技术，以提升矿物扫描雷达效率。
   </ResearchMobileMineralSonarEnhancedScan.description>
-  <ResearchMobileMineralSonarEnhancedScan.descriptionDiscovered>MiSoTech* algorithms have been refactored and optimized. The spare CPU time has been reallocated to enhance the scan range and detection algorithms.
-					- Mobile mineral sonar scan range is increased (30 -&gt; 50).
-					- Mobile mineral sonar detection chance is increased.
+  <ResearchMobileMineralSonarEnhancedScan.descriptionDiscovered>研究表明雷达扫描算法已经优化重构。节约出来的多余核心计算资源被用来增强扫描范围和扫描功率。\n- 移动矿物声呐扫描范围增加 (30 -&gt; 50)。\n- 移动矿物声呐发现矿物的几率提高。
   </ResearchMobileMineralSonarEnhancedScan.descriptionDiscovered>
 
-  <SK_ElectronicsIII.label>Nanoelectronics basics</SK_ElectronicsIII.label>
-  <SK_ElectronicsIII.description>This research allows colonists to make Microchip Integrated Circuits, Life-Support device and Brain Stimulator。</SK_ElectronicsIII.description>
+  <SK_ElectronicsIII.label>基础纳米电子学</SK_ElectronicsIII.label>
+  <SK_ElectronicsIII.description>研究纳米层面的电子技术，解锁微芯片集成电路、生命维持装置以及脑刺激器。</SK_ElectronicsIII.description>
 
 
   <!-- makelifesupport
 					MakeMicrochipIntegratedCircuits
 					CreateBrainStimulator -->
 
-  <SK_BionicsI.label>Bionics</SK_BionicsI.label>
-  <SK_BionicsI.description>Discovering the concept of very small motors and circuits, new possibilities of better Synthetic internal organs prostheses and building of Synthetic Organ Assembler are now open for you。</SK_BionicsI.description>
+  <SK_BionicsI.label>仿生学</SK_BionicsI.label>
+  <SK_BionicsI.description>探索微型电路以及动力装置的联合应用路径。发展更好更强的肢体辅助设备，以及人体器官的强化替代方案。解锁仿生器官工作台。</SK_BionicsI.description>
 
 
   <!-- TableSynthetics
@@ -319,8 +316,8 @@
 								InstallSyntheticLung
 								InstallSyntheticStomach -->
 
-  <SK_BionicsII.label>Bio engineering</SK_BionicsII.label>
-  <SK_BionicsII.description>Upgrade regular bionics with BioMaterial to make them even better. Opens Bionics Workbench and different small bionic prostheses。</SK_BionicsII.description>
+  <SK_BionicsII.label>生物工程学</SK_BionicsII.label>
+  <SK_BionicsII.description>利用多种生物材料升级各种常规仿生体。解锁仿生体工作台以及一些小型仿生器件配方。</SK_BionicsII.description>
 
 
   <!-- TableBionics
@@ -335,8 +332,8 @@
 										InstallBionicEar
 										InstallBionicJaw -->
 
-  <SK_BionicsIII.label>Biometallurgy</SK_BionicsIII.label>
-  <SK_BionicsIII.description>Breakthroughs in bionics tech and robotics allow consruction of highly advanced medical facilities。</SK_BionicsIII.description>
+  <SK_BionicsIII.label>生物电子融合学</SK_BionicsIII.label>
+  <SK_BionicsIII.description>突破性的仿生科技和机械工程融合，允许殖民地应用更多更强的生物科技设施和配方。</SK_BionicsIII.description>
 
 
   <!-- UpgradingStation
@@ -352,41 +349,41 @@
 												InstallAdvancedBionicArm
 												InstallAdvancedPowerArm -->
 
-  <Stonecutting.label>Stonecutting</Stonecutting.label>
-  <Stonecutting.description>Build stonecutting tables, which allow you to refine rock chunks into stone blocks that can be used for construction。</Stonecutting.description>
+  <Stonecutting.label>石料切割</Stonecutting.label>
+  <Stonecutting.description>解锁切石工作台，可以用于将各种石块切制成建筑用的标准石砖。</Stonecutting.description>
 
 
   <!-- TableSculpting
 			TableStonecutter -->
 
-  <SK_Quarry.label>Quarry</SK_Quarry.label>
-  <SK_Quarry.description>New research in mining art allows you to build quarry - a large pit for digging up long buried resources。</SK_Quarry.description>
+  <SK_Quarry.label>采石场</SK_Quarry.label>
+  <SK_Quarry.description>对于采矿知识的研究允许殖民地建造采石场——一种可以长期获得矿石资源的大型设施。</SK_Quarry.description>
 
 
   <!-- QuarrySpawner -->
 
-  <SK_MiningI.label>Mining</SK_MiningI.label>
-  <SK_MiningI.description>This research unlocks Drilling Rig - a powerful machine capable of drilling an Oil Fissure in Deposits of Crude Oil。</SK_MiningI.description>
+  <SK_MiningI.label>采矿学</SK_MiningI.label>
+  <SK_MiningI.description>解锁钻孔机，一种可以用于钻开原油地质层，形成稳定出油裂隙的强力钻机。</SK_MiningI.description>
 
 
   <!-- FissureGenerator -->
 
-  <DeepDrilling.label>Geology</DeepDrilling.label>
-  <DeepDrilling.description>Unlocks the Mine Extractor, Clay collector and Oil Extractor. The Mine Extractor is a machine capable of extracting metals from Deposits of Minerals in the earth. The Clay collector collects soft clay from wet areas of ground... An Oil Extractor can then extract Crude Oil from the Oil Fissure。</DeepDrilling.description>
+  <DeepDrilling.label>地质学</DeepDrilling.label>
+  <DeepDrilling.description>解锁矿物提取器，黏土收集器和原油提取器。矿物提取器能够从深地层提取各种矿物。黏土收集器能从周围的湿地收集黏土。原油提取器能够安放在稳定的原油裂隙上提取原油。</DeepDrilling.description>
 
 
   <!-- Extractor
 				OilExtractor
 				ClayCollector -->
 
-  <GroundPenetratingScanner.label>Geophysics</GroundPenetratingScanner.label>
-  <GroundPenetratingScanner.description>Final research in mining art. Unlocks the advanced mine extractor digs deep into the ground to extract rare metal ores。</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.label>地质物理学</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>高深的地质物理知识。解锁先进矿物提取器以采掘各种稀有矿物。</GroundPenetratingScanner.description>
 
 
   <!-- RareExtractor -->
 
-  <SK_Petrochemistry.label>Petrochemical plant</SK_Petrochemistry.label>
-  <SK_Petrochemistry.description>Enables construction of the Petrochemical Plant. This building can refine Crude Oil into usable raw materials, as well as process the materials into finished products such as Rubber and Plastic。</SK_Petrochemistry.description>
+  <SK_Petrochemistry.label>石油化工装置</SK_Petrochemistry.label>
+  <SK_Petrochemistry.description>解锁建造原油精炼装置和化工生产设备。这些功能设施能够将原油转化成为各种粗加工材料，然后通过一系列的复杂转化流程，提炼出诸如合成橡胶、塑料等成品原材料。</SK_Petrochemistry.description>
 
 
   <!-- OilRefinery
@@ -395,39 +392,39 @@
 					MakeSyntheticFibers
 					MakeCarbon -->
 
-  <Machining.label>Machining</Machining.label>
-  <Machining.description>Start in researching of machining arts. Unlocks Electric Sawmill and Mending Workbench with 生产 of mending kits for your apparel。</Machining.description>
+  <Machining.label>机械加工</Machining.label>
+  <Machining.description>研究如果将机械应用到基本生产的模式。解锁电力锯台和维修工作台，解锁修理包配方。</Machining.description>
 
 
   <!-- TableSawmillElectric
 			TableMending
 			MakeMendingKit -->
 
-  <SK_MachiningII.label>Advanced machining</SK_MachiningII.label>
-  <SK_MachiningII.description>Unlocks the Electric Machining Table that can process stone chunks into blocks, rubble or sand. Drill Heads can be made here. Mechanoid bodies can be disassembled here。</SK_MachiningII.description>
+  <SK_MachiningII.label>先进机械加工</SK_MachiningII.label>
+  <SK_MachiningII.description>解锁电力机械工作台，可更加高效的将石块加工成为石砖、碎石以及沙子。可以加工各类钻头以及拆解各种机械体。</SK_MachiningII.description>
 
 
   <!-- TableMachining -->
 
-  <ComponentAssembly.label>3D Printing</ComponentAssembly.label>
-  <ComponentAssembly.description>Unlocks the Electric Assembling Bench - an electric table for the assembling of components, wires, mechanisms, and advanced mechanisms and basic hand tools。</ComponentAssembly.description>
+  <ComponentAssembly.label>3D打印技术</ComponentAssembly.label>
+  <ComponentAssembly.description>解锁电力装配工作台——能够更加高效的组装零部件、线缆、机械组件和先进机械组件的工作台。</ComponentAssembly.description>
 
 
   <!-- AdvToolBench
 							MakeAdvMechanism_Hand
 							MakeAdvMechanism_Electric -->
 
-  <TransportPod.label>Transportation</TransportPod.label>
-  <TransportPod.description>Construct launchable transport pods that you can use to launch people and supplies long distances across the planet's surface。</TransportPod.description>
+  <TransportPod.label>运输舱</TransportPod.label>
+  <TransportPod.description>建造可发射的「运输舱」，可以远距离发射你的人和物资越过行星表面。</TransportPod.description>
 
-  <SK_AppliedPhysicsI.label>Exotic Matter</SK_AppliedPhysicsI.label>
-  <SK_AppliedPhysicsI.description>Unlocks the Inorganic Matter Converter - a converter to turn resources into inorganic matter. Inorganic matter can be used to make other resources。</SK_AppliedPhysicsI.description>
+  <SK_AppliedPhysicsI.label>分子物质学</SK_AppliedPhysicsI.label>
+  <SK_AppliedPhysicsI.description>解锁物质转化器，可以用物质转化器将多种类型的资源转化成为基本无机物。这些基本无机物可以再次转化为各种资源。</SK_AppliedPhysicsI.description>
 
 
   <!-- MatterConverter -->
 
-  <SK_Robotics.label>Robotics</SK_Robotics.label>
-  <SK_Robotics.description>Allows you to build small robots for simple tasks such as cleaning and hauling。</SK_Robotics.description>
+  <SK_Robotics.label>机器人工程</SK_Robotics.label>
+  <SK_Robotics.description>解锁建造简单机器人，比如小巧的清洁机器人和搬运机器人。</SK_Robotics.description>
 
 
   <!-- RobAssem
@@ -435,21 +432,21 @@
 											AIRobot_RechargeStation_Cleaner
 											AIRobot_RechargeStation_Hauler -->
 
-  <SK_NanotechnologyI.label>Nanotechnology</SK_NanotechnologyI.label>
-  <SK_NanotechnologyI.description>Research how to expand your storage capabilities. Allows you to build a specialized storage. Each nano storage can hold up to ten items。</SK_NanotechnologyI.description>
+  <SK_NanotechnologyI.label>纳米技术</SK_NanotechnologyI.label>
+  <SK_NanotechnologyI.description>将纳米工程技术应用到存储装置上可以提高存储能力。解锁建造特殊存储装置，每个纳米存储装置可以存储十样物品。</SK_NanotechnologyI.description>
 
 
   <!-- NanoStorage -->
 
-  <SK_NanotechnologyII.label>NanoReplication</SK_NanotechnologyII.label>
-  <SK_NanotechnologyII.description>Research how to modify your nano bots to replicate objects. Allows you to build a nano printer. It has the capability to replicate scanned items. Also unlocks Nano Scanner that allows the nano printer to scan the internal structure of objects。</SK_NanotechnologyII.description>
+  <SK_NanotechnologyII.label>纳米复制</SK_NanotechnologyII.label>
+  <SK_NanotechnologyII.description>研究突破纳米级别的物品再造能力。解锁建造纳米打印设备和纳米扫描设备。当一个物品经过深度纳米机构扫描后，可以将数据资料输出到纳米打印设备并通过消耗一定资源将其复制出来。</SK_NanotechnologyII.description>
 
 
   <!-- NanoScanner
 															NanoPrinter -->
 
-  <SK_Cybernetics.label>Cybernetics</SK_Cybernetics.label>
-  <SK_Cybernetics.description>Allows you to create new cybernetics body parts in a Chemical Laboratory。</SK_Cybernetics.description>
+  <SK_Cybernetics.label>神经机械学</SK_Cybernetics.label>
+  <SK_Cybernetics.description>解锁制造各种神经机械仿生部件和器官的技术。</SK_Cybernetics.description>
 
 
   <!-- CreateGTHeart
@@ -480,14 +477,14 @@
 																	InstallGTEar
 																	UpgradingStation -->
 
-  <SK_DermalRegenerator.label>Dermal regenerator</SK_DermalRegenerator.label>
-  <SK_DermalRegenerator.description>Allows construction of the Dermal Regenerator. This is a medical device that is able to scan and repair surface tissue scars。</SK_DermalRegenerator.description>
+  <SK_DermalRegenerator.label>表层再生仪</SK_DermalRegenerator.label>
+  <SK_DermalRegenerator.description>解锁建造皮肤再生装置。这台机器可以方便的扫描身体表层伤疤并自动修复。</SK_DermalRegenerator.description>
 
 
   <!-- DermalRegenerator -->
 
-  <Personal_Shield_research.label>Nanite shielding</Personal_Shield_research.label>
-  <Personal_Shield_research.description>Using nano technology Nanites have been developed that can be implanted in colonists to heal them or protect them from damage. Unfortunately due to the limited power and size of the Nanites they must be replaced from the Colonist Upgrade Station after each use.
+  <Personal_Shield_research.label>纳米护盾</Personal_Shield_research.label>
+  <Personal_Shield_research.description>研究高级纳米技术，用于治疗或保护你的殖民者们免受伤害。但是因为技术原因，纳米保护盾在使用后必须到护盾更新站充能。
   </Personal_Shield_research.description>
 
 
@@ -502,21 +499,21 @@
 																		</prerequisites>
 																  </ResearchProjectDef> -->
 
-  <SK_AppliedPhysicsII.label>Quantum mechanics</SK_AppliedPhysicsII.label>
-  <SK_AppliedPhysicsII.description>Unlocks Hadron Collider - an apparatus for accelerating subatomic particles to high velocities by means of electric or electromagnetic fields. The accelerated particles are generally made to collide with other particles, either as a research technique or for the generation of high-energy X-rays and gamma rays。</SK_AppliedPhysicsII.description>
+  <SK_AppliedPhysicsII.label>量子力学</SK_AppliedPhysicsII.label>
+  <SK_AppliedPhysicsII.description>解锁建造强子对撞机——一种通过电场或电磁场将亚原子粒子加速到极高速度的科学装置。加速后的粒子通常会与指定的其他粒子碰撞，作为一种研究物质构成的方式，或者是单纯的为了产生高能x射线和伽马射线。</SK_AppliedPhysicsII.description>
 
 
   <!-- HadronCollider
 											HadronColliderFeeder -->
 
-  <SK_Antimatter.label>Antimatter</SK_Antimatter.label>
-  <SK_Antimatter.description>The antimatter contained separate from the normal matter by magnetic fields so that no unintended reactions take place. The energy would then be extracted in much the same way that nuclear reactors capture the expended heat and light energy from fission reactions。</SK_Antimatter.description>
+  <SK_Antimatter.label>反物质</SK_Antimatter.label>
+  <SK_Antimatter.description>反物质被强磁场从正常物质中分离出来，这样就不会发生意外的湮灭反应。然后，这些能量就会以类似于核反应堆从裂变反应中获取消耗的热能和光能的方式被提取出来加以应该。</SK_Antimatter.description>
 
 
   <!-- AntimatterReactor -->
 
-  <SK_AppliedPhysicsIII.label>Alien Materials</SK_AppliedPhysicsIII.label>
-  <SK_AppliedPhysicsIII.description>Advanced factorization the step in understanding the basics of advanced manufacturing methods, to give your colony access to the latest assembly machinery。</SK_AppliedPhysicsIII.description>
+  <SK_AppliedPhysicsIII.label>外星材料学</SK_AppliedPhysicsIII.label>
+  <SK_AppliedPhysicsIII.description>先进的材料分解技术是应用先进制造方法的基础步骤。为殖民地解锁更加先进的生产设备。</SK_AppliedPhysicsIII.description>
 
 
   <!-- Matterfab
@@ -535,72 +532,72 @@
 														  </ResearchProjectDef>
 															Stargate -->
 
-  <ShipBasics.label>Austronautics</ShipBasics.label>
-  <ShipBasics.description>Allows you to start researching more advanced shipbuilding technologies and eventually build a ship to escape the planet。</ShipBasics.description>
+  <ShipBasics.label>飞船建造基础</ShipBasics.label>
+  <ShipBasics.description>解锁研究更多高级的飞船建造技术，最终能够建造出载人逃离这个星球的飞船。</ShipBasics.description>
 
 
   <!-- Ship_Beam -->
 
-  <ShipSensorCluster.label>ship sensor cluster</ShipSensorCluster.label>
-  <ShipSensorCluster.description>Allows you to construct long-range sensors for a ship。</ShipSensorCluster.description>
+  <ShipSensorCluster.label>飞船集成传感器</ShipSensorCluster.label>
+  <ShipSensorCluster.description>解锁建造用于飞船的远距离传感器。</ShipSensorCluster.description>
 
 
   <!-- Ship_CryptosleepCasket -->
 
-  <ShipCryptosleep.label>Spaceship caskets</ShipCryptosleep.label>
-  <ShipCryptosleep.description>Allows you to construct ship cryptosleep caskets for transporting cryptosleeping colonists between the stars。</ShipCryptosleep.description>
+  <ShipCryptosleep.label>飞船低温休眠舱</ShipCryptosleep.label>
+  <ShipCryptosleep.description>解锁建造「飞船低温休眠舱」，用于星际交通中殖民者休眠。</ShipCryptosleep.description>
 
-  <ShipEngine.label>Spaceship antimatter propulsion</ShipEngine.label>
-  <ShipEngine.description>Allows you to use an antimatter containment core to construct an antimatter drive for a ship。</ShipEngine.description>
+  <ShipEngine.label>反物质飞船推进器</ShipEngine.label>
+  <ShipEngine.description>解锁建造「飞船推进器」。</ShipEngine.description>
 
 
   <!-- Ship_Engine -->
 
-  <ShipReactor.label>Spaceship antimatter reactor</ShipReactor.label>
-  <ShipReactor.description>Allows you to use an antimatter containment core to build a working antimatter reactor to power a ship。</ShipReactor.description>
+  <ShipReactor.label>反物质飞船反应炉</ShipReactor.label>
+  <ShipReactor.description>解锁使用反物质约束核心建造用于给飞船提供动力的反应炉。</ShipReactor.description>
 
 
   <!-- Ship_Reactor -->
 
-  <ShipComputerCore.label>Spaceship computer core</ShipComputerCore.label>
-  <ShipComputerCore.description>Allows coercing an existing AI persona into a usable AI computer core for ship guidance。</ShipComputerCore.description>
+  <ShipComputerCore.label>飞船电脑核心</ShipComputerCore.label>
+  <ShipComputerCore.description>解锁强制将现有的AI伪人格核心装入用于飞船导航的人工智能电脑核心中。</ShipComputerCore.description>
 
 
   <!-- Ship_ComputerCore -->
 
-  <Smithing.label>Smithing</Smithing.label>
-  <Smithing.description>Build smithies for crafting metal weapons and tools。</Smithing.description>
+  <Smithing.label>锻造</Smithing.label>
+  <Smithing.description>解锁建造「锻造台」，将金属打造成武器和工具。</Smithing.description>
 
 
   <!-- FueledSmithy -->
 
-  <LongBlades.label>Weapon smithing</LongBlades.label>
-  <LongBlades.description>Learn how to craft powerful swords and spears。</LongBlades.description>
+  <LongBlades.label>武器锻造</LongBlades.label>
+  <LongBlades.description>解锁锻造更加强力的长剑和长矛等。</LongBlades.description>
 
-  <Greatbows.label>Throwing weapons</Greatbows.label>
-  <Greatbows.description>Learn to craft powerful bows and crossbows。</Greatbows.description>
+  <Greatbows.label>投掷武器</Greatbows.label>
+  <Greatbows.description>解锁制造强弓和弩等强力武器。</Greatbows.description>
 
-  <Gunsmithing.label>Metalworking</Gunsmithing.label>
-  <Gunsmithing.description>Learn how to build electric smithy and Weapon Crafting Workbench.\n\nThe electric smithy allows smithing items without fuel. The Weapon Crafting Workbench produces ranged weapons like pistols and rifles. Can smelt weapons down into metal。</Gunsmithing.description>
+  <Gunsmithing.label>金属工艺</Gunsmithing.label>
+  <Gunsmithing.description>学习如何构建电力锻造台和武器制作工作台。\n\n电力锻造台可以用电力进行驱动，无需添加燃料。武器工作台则可以用于加工某些技术程度不高的枪械诸如手枪、步枪等。也可以将不用的武器回收熔炼成为基础资源。</Gunsmithing.description>
 
 
   <!-- ElectricSmithy
 					WeaponCraftingWorkTable -->
 
-  <BlowbackOperation.label>Advanced metalworking</BlowbackOperation.label>
-  <BlowbackOperation.description>Learn how to construct Advanced Weapon Crafting Workbench that produces advanced ranged weapons like military assault rifles, missile launchers and heavy machine guns。</BlowbackOperation.description>
+  <BlowbackOperation.label>先进金属工艺</BlowbackOperation.label>
+  <BlowbackOperation.description>研究解锁先进武器工作台，可以制造更加强大的各类军用标准突击步枪，便携式导弹发射装置以及重机枪等。</BlowbackOperation.description>
 
 
   <!-- AdvWeaponCraftingWorkTable -->
 
-  <PrecisionRifling.label>Hightech metalworking</PrecisionRifling.label>
-  <PrecisionRifling.description>Learn now to build Mechanoid Weapon Workbench that produces futuristic Mechanoid weapons, such as laser beam rifles。</PrecisionRifling.description>
+  <PrecisionRifling.label>高科技金属工艺</PrecisionRifling.label>
+  <PrecisionRifling.description>研究更高层次的金属加工工艺，解锁更加先进的武器加工设施，让殖民地可以生产诸如光束步枪等能量武器。</PrecisionRifling.description>
 
 
   <!-- MechWeaponCraftingWorkTable -->
 
-  <ElectricSmelting.label>Metallurgy</ElectricSmelting.label>
-  <ElectricSmelting.description>Learn how to build electric smelters. The electric smelters uses heat and strong electromagnets to extract useful metal from slag chunks and other items。</ElectricSmelting.description>
+  <ElectricSmelting.label>冶金学</ElectricSmelting.label>
+  <ElectricSmelting.description>解锁建造「电熔炼器」。\n\n电熔炼器用高温和强磁从钢块渣和其他物品中提炼有用的金属。</ElectricSmelting.description>
 
 
   <!-- ElectricSmelter
@@ -610,8 +607,8 @@
 					MakeSteelBars_Electric
 					MakeBronze_Electric -->
 
-  <SK_MetallurgyII.label>Casting</SK_MetallurgyII.label>
-  <SK_MetallurgyII.description>Learn how to prepare different metals like Aluminium, Cupronicke, Ferromanganese and Ferrosilicon。</SK_MetallurgyII.description>
+  <SK_MetallurgyII.label>铸造</SK_MetallurgyII.label>
+  <SK_MetallurgyII.description>学习如何处理不同种类的金属，如铝，铜镍，锰铁和硅铁等等。</SK_MetallurgyII.description>
 
 
   <!-- MakeAluminiumBars_Hand
@@ -620,8 +617,8 @@
 					MakeCupronickelAlloy
 					MakeFerrosiliconAlloy -->
 
-  <SK_MetallurgyIII.label>Thermodynamics</SK_MetallurgyIII.label>
-  <SK_MetallurgyIII.description>Metal Fabrication allows us to work with hitech alloys. Specifically using complex materials like Ferronickel, CobaltIron, Alnico and Nichrome。</SK_MetallurgyIII.description>
+  <SK_MetallurgyIII.label>热铸熔学</SK_MetallurgyIII.label>
+  <SK_MetallurgyIII.description>研究热铸熔学可以让殖民地制造各种高科技合金原材料。例如镍铁合金、钴钢、阿尔尼科以及镍克罗等特殊用途合金。</SK_MetallurgyIII.description>
 
 
   <!-- ProcessNickelOre
@@ -631,8 +628,8 @@
 							MakeAlnicoAlloy
 							MakeNichromeAlloy -->
 
-  <SK_MetallurgyIV.label>Nano metallurgy</SK_MetallurgyIV.label>
-  <SK_MetallurgyIV.description>Depths of metallurgy art unlocks new recipes for EAP like Titanium, Tungsten, Stellite, Ferrotitanium, Nitino and Pobedite。</SK_MetallurgyIV.description>
+  <SK_MetallurgyIV.label>纳米冶炼</SK_MetallurgyIV.label>
+  <SK_MetallurgyIV.description>利用纳米技术帮助冶炼特殊合金。解锁熔炼钛合金、金属钨、斯特莱特合金、钛铁合金、镍钛诺合金和培博戴特合金。</SK_MetallurgyIV.description>
 
 
   <!-- ProcessTitanium
@@ -642,24 +639,23 @@
 									MakeNitinolAlloy
 									MakePobediteAlloy -->
 
-  <SK_ConstructionI.label>Construction I</SK_ConstructionI.label>
-  <SK_ConstructionI.description>Learn the basics of putting the raw materials of this planet to good use.  This technology unlocks the ability to construct robust structures using metal bars and stone blocks. Also unlocks roofs construction and Hand Concrete Mixer。</SK_ConstructionI.description>
+  <SK_ConstructionI.label>建造 I</SK_ConstructionI.label>
+  <SK_ConstructionI.description>学习如何有效利用本星球的基础材料。解锁利用石砖和金属来建造坚固结构建筑的能力，同时解锁屋顶建造能力和手动混凝土搅拌机。</SK_ConstructionI.description>
 
 
   <!-- ConcreteMixer
 		RoofSupport -->
 
-  <SK_ConstructionII.label>Construction II</SK_ConstructionII.label>
-  <SK_ConstructionII.description>Further advancements in construction, unlock Electric Concrete Mixer.  
-					Also unlocks Motion Sensor Lighted Wall to light up your colonists along their merry way。</SK_ConstructionII.description>
+  <SK_ConstructionII.label>建造 II</SK_ConstructionII.label>
+  <SK_ConstructionII.description>你在建筑工程技术的道路上有了一定的研究，解锁电力混凝土搅拌机以及一些其他的功能性建筑。</SK_ConstructionII.description>
 
 
   <!-- EConcreteMixer
 					WallLighted
 					RDoor -->
 
-  <SK_ConstructionIII.label>Construction III</SK_ConstructionIII.label>
-  <SK_ConstructionIII.description>Nothing says keep out like a steel reinforced door blocking your way. Continued advancement in construction unlocks the ability to secure your base with blast doors。</SK_ConstructionIII.description>
+  <SK_ConstructionIII.label>建造 III</SK_ConstructionIII.label>
+  <SK_ConstructionIII.description>你在建筑工程技术上的深入研究让你的建筑能力突飞猛进。解锁各种钢筋混凝土加固建筑，以及各种强化防爆建筑诸如防爆门等。</SK_ConstructionIII.description>
 
 
 </LanguageData>
