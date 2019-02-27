@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ElectronicCraftingSpeed.label>Electronic crafting speed</ElectronicCraftingSpeed.label>
-  <ElectronicCraftingSpeed.description>Speed at which this person crafts electronic devices。</ElectronicCraftingSpeed.description>
+  <ElectronicCraftingSpeed.label>电子器件制作速度</ElectronicCraftingSpeed.label>
+  <ElectronicCraftingSpeed.description>制作电子器件的工作速度。</ElectronicCraftingSpeed.description>
 
-  <StonecuttingSpeed.label>stonecutting speed</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>Speed at which this person cuts rough stone into blocks。</StonecuttingSpeed.description>
+  <StonecuttingSpeed.label>切石速度</StonecuttingSpeed.label>
+  <StonecuttingSpeed.description>将石块切割成为石砖的速度。</StonecuttingSpeed.description>
 
-  <CollectingSpeed.label>Collecting speed</CollectingSpeed.label>
-  <CollectingSpeed.description>Speed at which this person collects clay, sand, peat, etc。</CollectingSpeed.description>
+  <CollectingSpeed.label>收集速度</CollectingSpeed.label>
+  <CollectingSpeed.description>从地面收集黏土、泥炭等资源的速度。</CollectingSpeed.description>
 
 
 </LanguageData>

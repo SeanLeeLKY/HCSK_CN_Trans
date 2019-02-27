@@ -3,11 +3,11 @@
 
   <!-- Misc -->
 
-  <Pile.label>Pile</Pile.label>
-  <Pile.description>Pile。</Pile.description>
+  <Pile.label>桩柱</Pile.label>
+  <Pile.description>桩柱</Pile.description>
 
-  <EbbPile.label>Ebb pile</EbbPile.label>
-  <EbbPile.description>Ebb pile。</EbbPile.description>
+  <EbbPile.label>退潮桩柱</EbbPile.label>
+  <EbbPile.description>退潮桩柱。</EbbPile.description>
 
 
 </LanguageData>

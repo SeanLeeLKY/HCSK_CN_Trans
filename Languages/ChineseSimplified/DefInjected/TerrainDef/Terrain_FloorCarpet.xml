@@ -3,95 +3,95 @@
 
   <!-- Carpet -->
 
-  <CarpetBeige.label>beige carpet</CarpetBeige.label>
+  <CarpetBeige.label>米色</CarpetBeige.label>
   <CarpetBeige.description>Stunning beige carpet that is soft and relaxing. 
-Beauty: 3。</CarpetBeige.description>
+美观度： 3。</CarpetBeige.description>
 
-  <CarpetRed.label>red carpet</CarpetRed.label>
+  <CarpetRed.label>红色</CarpetRed.label>
   <CarpetRed.description>Plush carpet in a lovely rose hue. 
-Beauty: 3。</CarpetRed.description>
+美观度： 3。</CarpetRed.description>
 
-  <CarpetGreen.label>green carpet</CarpetGreen.label>
+  <CarpetGreen.label>绿色</CarpetGreen.label>
   <CarpetGreen.description>Naturalistic-feeling green carpet. 
-Beauty: 3。</CarpetGreen.description>
+美观度： 3。</CarpetGreen.description>
 
-  <CarpetBlue.label>blue carpet</CarpetBlue.label>
+  <CarpetBlue.label>蓝色</CarpetBlue.label>
   <CarpetBlue.description>Toe-hugging plush carpet in a cool blue color. 
-Beauty: 3。</CarpetBlue.description>
+美观度： 3。</CarpetBlue.description>
 
-  <CarpetCream.label>cream carpet</CarpetCream.label>
+  <CarpetCream.label>奶油色</CarpetCream.label>
   <CarpetCream.description>Inviting cream-colored carpet. 
-Beauty: 3。</CarpetCream.description>
+美观度： 3。</CarpetCream.description>
 
-  <CarpetDark.label>dark carpet</CarpetDark.label>
+  <CarpetDark.label>深灰</CarpetDark.label>
   <CarpetDark.description>Professional-looking dark gray carpet. 
-Beauty: 3。</CarpetDark.description>
+美观度： 3。</CarpetDark.description>
 
 
   <!-- Colored Carpet -->
 
-  <CarpetOrange.label>orange carpet</CarpetOrange.label>
+  <CarpetOrange.label>橙色</CarpetOrange.label>
   <CarpetOrange.description>Soft carpet with a vivid marigold tint. 
-Beauty: 3。</CarpetOrange.description>
+美观度： 3。</CarpetOrange.description>
 
-  <CarpetYellow.label>yellow carpet</CarpetYellow.label>
+  <CarpetYellow.label>黄色</CarpetYellow.label>
   <CarpetYellow.description>A summer yellow-coloured carpet. 
-Beauty: 3。</CarpetYellow.description>
+美观度： 3。</CarpetYellow.description>
 
-  <CarpetTurquoise.label>turquoise carpet</CarpetTurquoise.label>
+  <CarpetTurquoise.label>青绿色</CarpetTurquoise.label>
   <CarpetTurquoise.description>A soothing blue-green carpet. 
-Beauty: 3。</CarpetTurquoise.description>
+美观度： 3。</CarpetTurquoise.description>
 
-  <CarpetPurple.label>purple carpet</CarpetPurple.label>
+  <CarpetPurple.label>紫色</CarpetPurple.label>
   <CarpetPurple.description>Carpet in a majestic purple shade. 
-Beauty: 3。</CarpetPurple.description>
+美观度： 3。</CarpetPurple.description>
 
-  <CarpetWhite.label>white carpet</CarpetWhite.label>
+  <CarpetWhite.label>白色</CarpetWhite.label>
   <CarpetWhite.description>Undyed white carpet. Comfortable underfoot but stains easily. 
-Beauty: 3。</CarpetWhite.description>
+美观度： 3。</CarpetWhite.description>
 
-  <CarpetBlack.label>black Carpet</CarpetBlack.label>
+  <CarpetBlack.label>黑色</CarpetBlack.label>
   <CarpetBlack.description>A carpet in brooding black. 
-Beauty: 3。</CarpetBlack.description>
+美观度： 3。</CarpetBlack.description>
 
 
   <!-- Check carpet -->
 
-  <CheckCarpetRed.label>red checkered carpet</CheckCarpetRed.label>
+  <CheckCarpetRed.label>红色花纹</CheckCarpetRed.label>
   <CheckCarpetRed.description>Checker board pattern carpet in a lovely rose hue. 
-Beauty: 3。</CheckCarpetRed.description>
+美观度： 3。</CheckCarpetRed.description>
 
-  <CheckCarpetOrange.label>orange checkered carpet</CheckCarpetOrange.label>
+  <CheckCarpetOrange.label>橙色花纹</CheckCarpetOrange.label>
   <CheckCarpetOrange.description>Carpeting with a checker board pattern in a vivid marigold tint. 
-Beauty: 3。</CheckCarpetOrange.description>
+美观度： 3。</CheckCarpetOrange.description>
 
-  <CheckCarpetYellow.label>yellow checkered carpet</CheckCarpetYellow.label>
+  <CheckCarpetYellow.label>黄色花纹</CheckCarpetYellow.label>
   <CheckCarpetYellow.description>Summer yellow-colored checker board pattern carpet.
-Beauty: 3。</CheckCarpetYellow.description>
+美观度： 3。</CheckCarpetYellow.description>
 
-  <CheckCarpetGreen.label>green checkered carpet</CheckCarpetGreen.label>
+  <CheckCarpetGreen.label>绿色花纹</CheckCarpetGreen.label>
   <CheckCarpetGreen.description>Naturalistic-feeling green checker board pattern carpet. 
-Beauty: 3。</CheckCarpetGreen.description>
+美观度： 3。</CheckCarpetGreen.description>
 
-  <CheckCarpetTurquoise.label>turquoise checkered carpet</CheckCarpetTurquoise.label>
+  <CheckCarpetTurquoise.label>青绿色花纹</CheckCarpetTurquoise.label>
   <CheckCarpetTurquoise.description>A soothing blue-green checker board pattern carpet. 
-Beauty: 3。</CheckCarpetTurquoise.description>
+美观度： 3。</CheckCarpetTurquoise.description>
 
-  <CheckCarpetBlue.label>blue checkered carpet</CheckCarpetBlue.label>
+  <CheckCarpetBlue.label>蓝色花纹</CheckCarpetBlue.label>
   <CheckCarpetBlue.description>Toe-hugging plush checker board pattern carpet in a cool blue color. 
-Beauty: 3。</CheckCarpetBlue.description>
+美观度： 3。</CheckCarpetBlue.description>
 
-  <CheckCarpetPurple.label>purple checkered carpet</CheckCarpetPurple.label>
+  <CheckCarpetPurple.label>紫色花纹</CheckCarpetPurple.label>
   <CheckCarpetPurple.description>Checker board pattern carpet in a majestic purple shade. 
-Beauty: 3。</CheckCarpetPurple.description>
+美观度： 3。</CheckCarpetPurple.description>
 
-  <CheckCarpetWhite.label>white checkered carpet</CheckCarpetWhite.label>
+  <CheckCarpetWhite.label>白色花纹</CheckCarpetWhite.label>
   <CheckCarpetWhite.description>Undyed white checker board pattern carpet. Comfortable underfoot but stains easily. 
-Beauty: 3。</CheckCarpetWhite.description>
+美观度： 3。</CheckCarpetWhite.description>
 
-  <CheckCarpetBlack.label>black checkered carpet</CheckCarpetBlack.label>
+  <CheckCarpetBlack.label>黑色花纹</CheckCarpetBlack.label>
   <CheckCarpetBlack.description>A checker board pattern carpet in brooding black. 
-Beauty: 3。</CheckCarpetBlack.description>
+美观度： 3。</CheckCarpetBlack.description>
 
 
 </LanguageData>

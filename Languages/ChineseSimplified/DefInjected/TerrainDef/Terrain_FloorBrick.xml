@@ -1,173 +1,173 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ClayBrickTile.label>clay tile</ClayBrickTile.label>
-  <ClayBrickTile.description>Solid clay tiles for a castle feeling.
-Beauty: 2。</ClayBrickTile.description>
+  <ClayBrickTile.label>黏土砖</ClayBrickTile.label>
+  <ClayBrickTile.description>砌成联锁状的砖。
+美观度： 2。</ClayBrickTile.description>
 
-  <MBrickSandstone.label>sandstone bricks</MBrickSandstone.label>
-  <MBrickSandstone.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</MBrickSandstone.description>
+  <MBrickSandstone.label>砂岩砖</MBrickSandstone.label>
+  <MBrickSandstone.description>砌成联锁状的砖。
+	美观度： 2。</MBrickSandstone.description>
 
-  <MBrickGranite.label>granite bricks</MBrickGranite.label>
-  <MBrickGranite.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</MBrickGranite.description>
+  <MBrickGranite.label>花岗岩砖</MBrickGranite.label>
+  <MBrickGranite.description>砌成联锁状的砖。
+	美观度： 2。</MBrickGranite.description>
 
-  <MBrickLimestone.label>limestone bricks</MBrickLimestone.label>
-  <MBrickLimestone.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</MBrickLimestone.description>
+  <MBrickLimestone.label>石灰岩砖</MBrickLimestone.label>
+  <MBrickLimestone.description>砌成联锁状的砖。
+	美观度： 2。</MBrickLimestone.description>
 
-  <MBrickSlate.label>slate bricks</MBrickSlate.label>
-  <MBrickSlate.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</MBrickSlate.description>
+  <MBrickSlate.label>板岩砖</MBrickSlate.label>
+  <MBrickSlate.description>砌成联锁状的砖。
+	美观度： 2。</MBrickSlate.description>
 
-  <MBrickMarble.label>marble bricks</MBrickMarble.label>
-  <MBrickMarble.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</MBrickMarble.description>
+  <MBrickMarble.label>大理石砖</MBrickMarble.label>
+  <MBrickMarble.description>砌成联锁状的砖。
+	美观度： 2。</MBrickMarble.description>
 
-  <MBrickCeramics.label>Ceramic bricks</MBrickCeramics.label>
-  <MBrickCeramics.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</MBrickCeramics.description>
+  <MBrickCeramics.label>陶瓷砖</MBrickCeramics.label>
+  <MBrickCeramics.description>砌成联锁状的砖。
+	美观度： 2。</MBrickCeramics.description>
 
-  <SBrickSandstone.label>sandstone small bricks</SBrickSandstone.label>
-  <SBrickSandstone.description>Smaller bricks laid in an interlocking pattern. Takes slightly longer to make than the regular variety.
-	Beauty: 2。</SBrickSandstone.description>
+  <SBrickSandstone.label>砂岩砖（小）</SBrickSandstone.label>
+  <SBrickSandstone.description>小块砖以联锁的方式砌成。看起来比比普通砖块稍长。
+	美观度： 2。</SBrickSandstone.description>
 
-  <SBrickGranite.label>granite small bricks</SBrickGranite.label>
-  <SBrickGranite.description>Smaller bricks laid in an interlocking pattern. Takes slightly longer to make than the regular variety.
-	Beauty: 2。</SBrickGranite.description>
+  <SBrickGranite.label>花岗岩砖（小）</SBrickGranite.label>
+  <SBrickGranite.description>小块砖以联锁的方式砌成。看起来比比普通砖块稍长。
+	美观度： 2。</SBrickGranite.description>
 
-  <SBrickLimestone.label>limestone small bricks</SBrickLimestone.label>
-  <SBrickLimestone.description>Smaller bricks laid in an interlocking pattern. Takes slightly longer to make than the regular variety.
-	Beauty: 2。</SBrickLimestone.description>
+  <SBrickLimestone.label>石灰岩砖（小）</SBrickLimestone.label>
+  <SBrickLimestone.description>小块砖以联锁的方式砌成。看起来比比普通砖块稍长。
+	美观度： 2。</SBrickLimestone.description>
 
-  <SBrickSlate.label>slate small bricks</SBrickSlate.label>
-  <SBrickSlate.description>Smaller bricks laid in an interlocking pattern. Takes slightly longer to make than the regular variety.
-	Beauty: 2。</SBrickSlate.description>
+  <SBrickSlate.label>板岩砖（小）</SBrickSlate.label>
+  <SBrickSlate.description>小块砖以联锁的方式砌成。看起来比比普通砖块稍长。
+	美观度： 2。</SBrickSlate.description>
 
-  <SBrickMarble.label>marble small bricks</SBrickMarble.label>
-  <SBrickMarble.description>Smaller bricks laid in an interlocking pattern. Takes slightly longer to make than the regular variety.
-	Beauty: 2。</SBrickMarble.description>
+  <SBrickMarble.label>大理石砖（小）</SBrickMarble.label>
+  <SBrickMarble.description>小块砖以联锁的方式砌成。看起来比比普通砖块稍长。
+	美观度： 2。</SBrickMarble.description>
 
-  <SBrickCeramics.label>Ceramic small bricks</SBrickCeramics.label>
-  <SBrickCeramics.description>Smaller bricks laid in an interlocking pattern. Takes slightly longer to make than the regular variety.
-	Beauty: 2。</SBrickCeramics.description>
+  <SBrickCeramics.label>陶瓷砖（小）</SBrickCeramics.label>
+  <SBrickCeramics.description>小块砖以联锁的方式砌成。看起来比比普通砖块稍长。
+	美观度： 2。</SBrickCeramics.description>
 
-  <MedBrickSandstone.label>sandstone Mediterranean bricks</MedBrickSandstone.label>
-  <MedBrickSandstone.description>Bricks laid in a circular interlocking pattern.
-	Beauty: 2。</MedBrickSandstone.description>
+  <MedBrickSandstone.label>砂岩地中海风格砖</MedBrickSandstone.label>
+  <MedBrickSandstone.description>砌成圆形联锁图案的地砖块。
+	美观度： 2。</MedBrickSandstone.description>
 
-  <MedBrickGranite.label>granite Mediterranean bricks</MedBrickGranite.label>
-  <MedBrickGranite.description>Bricks laid in a circular interlocking pattern.
-	Beauty: 2。</MedBrickGranite.description>
+  <MedBrickGranite.label>花岗岩地中海风格砖</MedBrickGranite.label>
+  <MedBrickGranite.description>砌成圆形联锁图案的地砖块。
+	美观度： 2。</MedBrickGranite.description>
 
-  <MedBrickLimestone.label>limestone Mediterranean bricks</MedBrickLimestone.label>
-  <MedBrickLimestone.description>Bricks laid in a circular interlocking pattern.
-	Beauty: 2。</MedBrickLimestone.description>
+  <MedBrickLimestone.label>石灰岩地中海风格砖</MedBrickLimestone.label>
+  <MedBrickLimestone.description>砌成圆形联锁图案的地砖块。
+	美观度： 2。</MedBrickLimestone.description>
 
-  <MedBrickSlate.label>slate Mediterranean bricks</MedBrickSlate.label>
-  <MedBrickSlate.description>Bricks laid in a circular interlocking pattern.
-	Beauty: 2。</MedBrickSlate.description>
+  <MedBrickSlate.label>板岩地中海风格砖</MedBrickSlate.label>
+  <MedBrickSlate.description>砌成圆形联锁图案的地砖块。
+	美观度： 2。</MedBrickSlate.description>
 
-  <MedBrickMarble.label>marble Mediterranean bricks</MedBrickMarble.label>
-  <MedBrickMarble.description>Bricks laid in a circular interlocking pattern.
-	Beauty: 2。</MedBrickMarble.description>
+  <MedBrickMarble.label>大理石地中海风格砖</MedBrickMarble.label>
+  <MedBrickMarble.description>砌成圆形联锁图案的地砖块。
+	美观度： 2。</MedBrickMarble.description>
 
-  <MedBrickCeramics.label>Ceramic Mediterranean bricks</MedBrickCeramics.label>
-  <MedBrickCeramics.description>Bricks laid in a circular interlocking pattern.
-	Beauty: 2。</MedBrickCeramics.description>
+  <MedBrickCeramics.label>陶瓷地中海风格砖</MedBrickCeramics.label>
+  <MedBrickCeramics.description>砌成圆形联锁图案的地砖块。
+	美观度： 2。</MedBrickCeramics.description>
 
-  <CobbleFloorSandstone.label>sandstone cobble floor</CobbleFloorSandstone.label>
-  <CobbleFloorSandstone.description>Simple cobblestone flooring constructed only using small rocks found nearby.
-	Beauty: 1。</CobbleFloorSandstone.description>
+  <CobbleFloorSandstone.label>砂岩卵石风格砖</CobbleFloorSandstone.label>
+  <CobbleFloorSandstone.description>简单的鹅卵石风格铺砌地板。
+	美观度： 1。</CobbleFloorSandstone.description>
 
-  <CobbleFloorGranite.label>granite cobble floor</CobbleFloorGranite.label>
-  <CobbleFloorGranite.description>Simple cobblestone flooring constructed only using small rocks found nearby.
-	Beauty: 1。</CobbleFloorGranite.description>
+  <CobbleFloorGranite.label>花岗岩卵石风格砖</CobbleFloorGranite.label>
+  <CobbleFloorGranite.description>简单的鹅卵石风格铺砌地板。
+	美观度： 1。</CobbleFloorGranite.description>
 
-  <CobbleFloorLimestone.label>limestone cobble floor</CobbleFloorLimestone.label>
-  <CobbleFloorLimestone.description>Simple cobblestone flooring constructed only using small rocks found nearby.
-	Beauty: 1。</CobbleFloorLimestone.description>
+  <CobbleFloorLimestone.label>石灰岩卵石风格砖</CobbleFloorLimestone.label>
+  <CobbleFloorLimestone.description>简单的鹅卵石风格铺砌地板。
+	美观度： 1。</CobbleFloorLimestone.description>
 
-  <CobbleFloorSlate.label>slate cobble floor</CobbleFloorSlate.label>
-  <CobbleFloorSlate.description>Simple cobblestone flooring constructed only using small rocks found nearby.
-	Beauty: 1。</CobbleFloorSlate.description>
+  <CobbleFloorSlate.label>板岩卵石风格砖</CobbleFloorSlate.label>
+  <CobbleFloorSlate.description>简单的鹅卵石风格铺砌地板。
+	美观度： 1。</CobbleFloorSlate.description>
 
-  <CobbleFloorMarble.label>marble cobble floor</CobbleFloorMarble.label>
-  <CobbleFloorMarble.description>Simple cobblestone flooring constructed only using small rocks found nearby.
-	Beauty: 1。</CobbleFloorMarble.description>
+  <CobbleFloorMarble.label>大理石卵石风格砖</CobbleFloorMarble.label>
+  <CobbleFloorMarble.description>简单的鹅卵石风格铺砌地板。
+	美观度： 1。</CobbleFloorMarble.description>
 
-  <UEBrickSandstone.label>sandstone uneven bricks</UEBrickSandstone.label>
-  <UEBrickSandstone.description>Bricks of various sizes laid on the floor. Perfect for that rustic look.
-	Beauty: 2。</UEBrickSandstone.description>
+  <UEBrickSandstone.label>砂岩不规则砖</UEBrickSandstone.label>
+  <UEBrickSandstone.description>大小不一的乡村风格砖。
+	美观度： 2。</UEBrickSandstone.description>
 
-  <UEBrickGranite.label>granite uneven bricks</UEBrickGranite.label>
-  <UEBrickGranite.description>Bricks of various sizes laid on the floor. Perfect for that rustic look.
-	Beauty: 2。</UEBrickGranite.description>
+  <UEBrickGranite.label>花岗岩不规则砖</UEBrickGranite.label>
+  <UEBrickGranite.description>大小不一的乡村风格砖。
+	美观度： 2。</UEBrickGranite.description>
 
-  <UEBrickLimestone.label>limestone uneven bricks</UEBrickLimestone.label>
-  <UEBrickLimestone.description>Bricks of various sizes laid on the floor. Perfect for that rustic look.
-	Beauty: 2。</UEBrickLimestone.description>
+  <UEBrickLimestone.label>石灰岩不规则砖</UEBrickLimestone.label>
+  <UEBrickLimestone.description>大小不一的乡村风格砖。
+	美观度： 2。</UEBrickLimestone.description>
 
-  <UEBrickSlate.label>slate uneven bricks</UEBrickSlate.label>
-  <UEBrickSlate.description>Bricks of various sizes laid on the floor. Perfect for that rustic look.
-	Beauty: 2。</UEBrickSlate.description>
+  <UEBrickSlate.label>板岩不规则砖</UEBrickSlate.label>
+  <UEBrickSlate.description>大小不一的乡村风格砖。
+	美观度： 2。</UEBrickSlate.description>
 
-  <UEBrickMarble.label>marble uneven bricks</UEBrickMarble.label>
-  <UEBrickMarble.description>Bricks of various sizes laid on the floor. Perfect for that rustic look.
-	Beauty: 2。</UEBrickMarble.description>
+  <UEBrickMarble.label>大理石不规则砖</UEBrickMarble.label>
+  <UEBrickMarble.description>大小不一的乡村风格砖。
+	美观度： 2。</UEBrickMarble.description>
 
-  <UEBrickCeramics.label>Ceramic uneven bricks</UEBrickCeramics.label>
-  <UEBrickCeramics.description>Bricks of various sizes laid on the floor. Perfect for that rustic look.
-	Beauty: 2。</UEBrickCeramics.description>
+  <UEBrickCeramics.label>陶瓷不规则砖</UEBrickCeramics.label>
+  <UEBrickCeramics.description>大小不一的乡村风格砖。
+	美观度： 2。</UEBrickCeramics.description>
 
-  <EXF_TileSandstone.label>sandstone tiles</EXF_TileSandstone.label>
-  <EXF_TileSandstone.description>Smoothed and polished stone tiles. Time-consuming to make, but easy to keep clean.
-	Beauty: 2。</EXF_TileSandstone.description>
+  <EXF_TileSandstone.label>砂岩铺砖</EXF_TileSandstone.label>
+  <EXF_TileSandstone.description>平整光滑的地砖，制作非常耗时，但比较美观。
+	美观度： 2。</EXF_TileSandstone.description>
 
-  <EXF_TileGranite.label>granite tiles</EXF_TileGranite.label>
-  <EXF_TileGranite.description>Smoothed and polished stone tiles. Time-consuming to make, but easy to keep clean.
-	Beauty: 2。</EXF_TileGranite.description>
+  <EXF_TileGranite.label>花岗岩铺砖</EXF_TileGranite.label>
+  <EXF_TileGranite.description>平整光滑的地砖，制作非常耗时，但比较美观。
+	美观度： 2。</EXF_TileGranite.description>
 
-  <EXF_TileLimestone.label>limestone tiles</EXF_TileLimestone.label>
-  <EXF_TileLimestone.description>Smoothed and polished stone tiles. Time-consuming to make, but easy to keep clean.
-	Beauty: 2。</EXF_TileLimestone.description>
+  <EXF_TileLimestone.label>石灰岩铺砖</EXF_TileLimestone.label>
+  <EXF_TileLimestone.description>平整光滑的地砖，制作非常耗时，但比较美观。
+	美观度： 2。</EXF_TileLimestone.description>
 
-  <EXF_TileSlate.label>slate tiles</EXF_TileSlate.label>
-  <EXF_TileSlate.description>Smoothed and polished stone tiles. Time-consuming to make, but easy to keep clean.
-	Beauty: 2。</EXF_TileSlate.description>
+  <EXF_TileSlate.label>板岩铺砖</EXF_TileSlate.label>
+  <EXF_TileSlate.description>平整光滑的地砖，制作非常耗时，但比较美观。
+	美观度： 2。</EXF_TileSlate.description>
 
-  <EXF_TileMarble.label>marble tiles</EXF_TileMarble.label>
-  <EXF_TileMarble.description>Smoothed and polished stone tiles. Time-consuming to make, but easy to keep clean.
-	Beauty: 2。</EXF_TileMarble.description>
+  <EXF_TileMarble.label>大理石铺砖</EXF_TileMarble.label>
+  <EXF_TileMarble.description>平整光滑的地砖，制作非常耗时，但比较美观。
+	美观度： 2。</EXF_TileMarble.description>
 
-  <EXF_TileCeramics.label>Ceramic tiles</EXF_TileCeramics.label>
-  <EXF_TileCeramics.description>Smoothed and polished stone tiles. Time-consuming to make, but easy to keep clean.
-	Beauty: 2。</EXF_TileCeramics.description>
+  <EXF_TileCeramics.label>陶瓷铺砖</EXF_TileCeramics.label>
+  <EXF_TileCeramics.description>平整光滑的地砖，制作非常耗时，但比较美观。
+	美观度： 2。</EXF_TileCeramics.description>
 
-  <HerrBrickSandstone.label>sandstone herringbone bricks</HerrBrickSandstone.label>
-  <HerrBrickSandstone.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</HerrBrickSandstone.description>
+  <HerrBrickSandstone.label>砂岩人字砖</HerrBrickSandstone.label>
+  <HerrBrickSandstone.description>砌成联锁状的砖。
+	美观度： 2。</HerrBrickSandstone.description>
 
-  <HerrBrickGranite.label>granite herringbone bricks</HerrBrickGranite.label>
-  <HerrBrickGranite.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</HerrBrickGranite.description>
+  <HerrBrickGranite.label>花岗岩人字砖</HerrBrickGranite.label>
+  <HerrBrickGranite.description>砌成联锁状的砖。
+	美观度： 2。</HerrBrickGranite.description>
 
-  <HerrBrickLimestone.label>limestone herringbone bricks</HerrBrickLimestone.label>
-  <HerrBrickLimestone.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</HerrBrickLimestone.description>
+  <HerrBrickLimestone.label>石灰岩人字砖</HerrBrickLimestone.label>
+  <HerrBrickLimestone.description>砌成联锁状的砖。
+	美观度： 2。</HerrBrickLimestone.description>
 
-  <HerrBrickSlate.label>slate herringbone bricks</HerrBrickSlate.label>
-  <HerrBrickSlate.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</HerrBrickSlate.description>
+  <HerrBrickSlate.label>板岩人字砖</HerrBrickSlate.label>
+  <HerrBrickSlate.description>砌成联锁状的砖。
+	美观度： 2。</HerrBrickSlate.description>
 
-  <HerrBrickMarble.label>marble herringbone bricks</HerrBrickMarble.label>
-  <HerrBrickMarble.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</HerrBrickMarble.description>
+  <HerrBrickMarble.label>大理石人字砖</HerrBrickMarble.label>
+  <HerrBrickMarble.description>砌成联锁状的砖。
+	美观度： 2。</HerrBrickMarble.description>
 
-  <HerrBrickCeramics.label>Ceramic herringbone bricks</HerrBrickCeramics.label>
-  <HerrBrickCeramics.description>Bricks laid in an interlocking pattern.
-	Beauty: 2。</HerrBrickCeramics.description>
+  <HerrBrickCeramics.label>陶瓷人字砖</HerrBrickCeramics.label>
+  <HerrBrickCeramics.description>砌成联锁状的砖。
+	美观度： 2。</HerrBrickCeramics.description>
 
 
 </LanguageData>

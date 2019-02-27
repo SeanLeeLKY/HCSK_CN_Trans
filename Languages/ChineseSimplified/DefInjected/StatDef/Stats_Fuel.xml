@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MaxBurningTempCelsius.label>max burning temperature</MaxBurningTempCelsius.label>
-  <MaxBurningTempCelsius.description>The maximum temperature this fuel type provides when burn。</MaxBurningTempCelsius.description>
+  <MaxBurningTempCelsius.label>最高燃烧温度</MaxBurningTempCelsius.label>
+  <MaxBurningTempCelsius.description>此种物质燃烧时产生的最高温度。</MaxBurningTempCelsius.description>
   <MaxBurningTempCelsius.formatString>{0}°C</MaxBurningTempCelsius.formatString>
 
-  <BurnDurationHours.label>burn duration of single unit</BurnDurationHours.label>
-  <BurnDurationHours.description>How many hours it takes to burn one unit。</BurnDurationHours.description>
+  <BurnDurationHours.label>单个燃烧持续时间</BurnDurationHours.label>
+  <BurnDurationHours.description>一单位物质燃烧持续时间。</BurnDurationHours.description>
 
 
 </LanguageData>

@@ -1,17 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkGiver_HarvestAquacultureBasinProduction.verb>harvest</WorkGiver_HarvestAquacultureBasinProduction.verb>
-  <WorkGiver_HarvestAquacultureBasinProduction.gerund>harvesting</WorkGiver_HarvestAquacultureBasinProduction.gerund>
+  <WorkGiver_HarvestAquacultureBasinProduction.verb>收获</WorkGiver_HarvestAquacultureBasinProduction.verb>
+  <WorkGiver_HarvestAquacultureBasinProduction.gerund>收获</WorkGiver_HarvestAquacultureBasinProduction.gerund>
 
-  <WorkGiver_DoBillsAtAquacultureBasin.verb>supply</WorkGiver_DoBillsAtAquacultureBasin.verb>
-  <WorkGiver_DoBillsAtAquacultureBasin.gerund>supplying</WorkGiver_DoBillsAtAquacultureBasin.gerund>
+  <WorkGiver_DoBillsAtAquacultureBasin.verb>补给</WorkGiver_DoBillsAtAquacultureBasin.verb>
+  <WorkGiver_DoBillsAtAquacultureBasin.gerund>补给</WorkGiver_DoBillsAtAquacultureBasin.gerund>
 
-  <WorkGiver_FishAtFishingPier.verb>fish</WorkGiver_FishAtFishingPier.verb>
-  <WorkGiver_FishAtFishingPier.gerund>fishing</WorkGiver_FishAtFishingPier.gerund>
+  <WorkGiver_FishAtFishingPier.verb>捕鱼</WorkGiver_FishAtFishingPier.verb>
+  <WorkGiver_FishAtFishingPier.gerund>捕鱼于</WorkGiver_FishAtFishingPier.gerund>
+  
+  <FillAquacultureHopper.verb>填装</FillAquacultureHopper.verb>
+  <FillAquacultureHopper.gerund>填装</FillAquacultureHopper.gerund>
 
-  <WorkGiver_FishAtFishingZone.verb>fish</WorkGiver_FishAtFishingZone.verb>
-  <WorkGiver_FishAtFishingZone.gerund>fishing</WorkGiver_FishAtFishingZone.gerund>
+  <WorkGiver_FishAtFishingZone.verb>捕鱼</WorkGiver_FishAtFishingZone.verb>
+  <WorkGiver_FishAtFishingZone.gerund>捕鱼于</WorkGiver_FishAtFishingZone.gerund>
 
 
 </LanguageData>

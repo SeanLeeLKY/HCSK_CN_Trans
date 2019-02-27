@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MentalStateSelfHarm.label>deep depression</MentalStateSelfHarm.label>
+  <MentalStateSelfHarm.label>深度抑郁</MentalStateSelfHarm.label>
   <MentalStateSelfHarm.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] slicing their wrists</MentalStateSelfHarm.rulePack.rulesStrings.0>
   <MentalStateSelfHarm.rulePack.rulesStrings.1>image->[pawn_nameFull] cutting [pawn_possessive] wrists [circumstance_group]</MentalStateSelfHarm.rulePack.rulesStrings.1>
   <MentalStateSelfHarm.rulePack.rulesStrings.2>image->[pawn_nameFull] sitting in a pool of [pawn_possessive] blood [circumstance_group]</MentalStateSelfHarm.rulePack.rulesStrings.2>
@@ -15,7 +15,7 @@
   <MentalStateSelfHarm.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] clothes are stained with blood。</MentalStateSelfHarm.rulePack.rulesStrings.10>
   <MentalStateSelfHarm.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] is sitting on the floor, rocking back and forth。</MentalStateSelfHarm.rulePack.rulesStrings.11>
 
-  <MentalStateApathy.label>apathy</MentalStateApathy.label>
+  <MentalStateApathy.label>冷漠</MentalStateApathy.label>
   <MentalStateApathy.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] wandering around apathetically</MentalStateApathy.rulePack.rulesStrings.0>
   <MentalStateApathy.rulePack.rulesStrings.1>image->[pawn_nameFull] wandering around the colony apathetically [circumstance_group]</MentalStateApathy.rulePack.rulesStrings.1>
   <MentalStateApathy.rulePack.rulesStrings.2>image->[pawn_nameFull] sitting around lethargically [circumstance_group]</MentalStateApathy.rulePack.rulesStrings.2>
@@ -29,7 +29,7 @@
   <MentalStateApathy.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive] arms are crossed。</MentalStateApathy.rulePack.rulesStrings.10>
   <MentalStateApathy.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] looks like [pawn_pronoun] couldn't care less。</MentalStateApathy.rulePack.rulesStrings.11>
 
-  <MentalStateCompulsion.label>compulsion</MentalStateCompulsion.label>
+  <MentalStateCompulsion.label>冲动</MentalStateCompulsion.label>
   <MentalStateCompulsion.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] neurotically cleaning</MentalStateCompulsion.rulePack.rulesStrings.0>
   <MentalStateCompulsion.rulePack.rulesStrings.1>image->[pawn_nameFull] obsessively organizing resources [circumstance_group]</MentalStateCompulsion.rulePack.rulesStrings.1>
   <MentalStateCompulsion.rulePack.rulesStrings.2>image->[pawn_nameFull] covered in dirt and grime [circumstance_group]</MentalStateCompulsion.rulePack.rulesStrings.2>

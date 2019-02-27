@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GrowerHarvest.label>harvest crops</GrowerHarvest.label>
-  <GrowerHarvest.verb>harvest</GrowerHarvest.verb>
-  <GrowerHarvest.gerund>harvesting</GrowerHarvest.gerund>
+  <GrowerHarvest.label>收获作物</GrowerHarvest.label>
+  <GrowerHarvest.verb>收获</GrowerHarvest.verb>
+  <GrowerHarvest.gerund>收获</GrowerHarvest.gerund>
 
-  <GrowerSow.label>sow crops</GrowerSow.label>
-  <GrowerSow.verb>sow</GrowerSow.verb>
-  <GrowerSow.gerund>sowing</GrowerSow.gerund>
+  <GrowerSow.label>播种作物</GrowerSow.label>
+  <GrowerSow.verb>播种</GrowerSow.verb>
+  <GrowerSow.gerund>播种</GrowerSow.gerund>
 
 
 </LanguageData>
