@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--  Cabinet  -->
+  <ClutterImNaked>我赤裸裸的！</ClutterImNaked>
+  <ClutterStylizeHair>发型</ClutterStylizeHair>
+  <ClutterColorCloths>衣服色彩</ClutterColorCloths>
+  <ClutterColorPickerButtonOK>确定</ClutterColorPickerButtonOK>
+  <ClutterColorPickerButtonCancel>取消</ClutterColorPickerButtonCancel>
+  <ClutterColorPickerButtonApply>应用</ClutterColorPickerButtonApply>
+  <ClutterColorChangerLabel>空</ClutterColorChangerLabel>
+  <ClutterColorChangerTitle>选择服装颜色</ClutterColorChangerTitle>
+  <ClutterColorChangerButtonAccept>同意</ClutterColorChangerButtonAccept>
+  <ClutterHairStylerTitle>去疯狂吧！</ClutterHairStylerTitle>
+
+  <!--  Locker  -->
+  <ClutterOwnedBy>未指定</ClutterOwnedBy>
+  <ClutterLockerEmptyTxt1>空</ClutterLockerEmptyTxt1>
+  <ClutterLockerEmptyTxt2>仅深色</ClutterLockerEmptyTxt2>
+  <ClutterLockerEmptyTxt3>集中除尘</ClutterLockerEmptyTxt3>
+  <ClutterLockerEmptyTxt4>逆向工程的袜子</ClutterLockerEmptyTxt4>
+  <ClutterMakeOwnerPart1>使 </ClutterMakeOwnerPart1>
+  <ClutterMakeOwnerPart2> 所有者</ClutterMakeOwnerPart2>
+  <ClutterStoreCloths>存储衣物设置</ClutterStoreCloths>
+  <ClutterSwitchCloths>切换衣物设置</ClutterSwitchCloths>
+  <ClutterButtonForceChange>强制切换</ClutterButtonForceChange>
+  <ClutterStringOwnerIs>所有者是</ClutterStringOwnerIs>
+  <ClutterStringNoOwner>没有所有者。</ClutterStringNoOwner>
+  <ClutterStringStoredGun>存储的枪支: </ClutterStringStoredGun>
+  <ClutterStringStoredApparel>存储的服装: </ClutterStringStoredApparel>
+
+</LanguageData>

@@ -1,6 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Genome>基因组</Genome>
+  <GrowSpeedMult>成长速度: {0}</GrowSpeedMult>
+  <HarvestAmountMult>收获量: {0}</HarvestAmountMult>
+  <BaseSeedChance>基础种子几率: {0}</BaseSeedChance>
+  <AddSeedChance>额外种子几率: {0}</AddSeedChance>
+  <CanSurviveBlight>从枯萎病中存活: {0}</CanSurviveBlight>
+  <CanSurviveFrost>从寒流中存活: {0}</CanSurviveFrost>
+  <CanGrowAtNight>能在夜间生长: {0}</CanGrowAtNight>
+
   <!--  Plasma Generator  -->
   <StringPowerOutput>能量输出: </StringPowerOutput>
   <StringCharging>充能进度: </StringCharging>
@@ -63,8 +72,8 @@
   <!-- LockDoors -->
   <UnlockDoors>解锁</UnlockDoors>
   <LockDoors>上锁</LockDoors>
-  <DoorAreLocked>已经上锁。</DoorAreLocked>
-  <DoorAreUnlocked>没有解锁。</DoorAreUnlocked>
+  <DoorAreLocked>已经锁上。</DoorAreLocked>
+  <DoorAreUnlocked>没有锁上。</DoorAreUnlocked>
   <DoorBlocked>门被阻挡</DoorBlocked>
   <DoorHoldOpen>保持常开</DoorHoldOpen>
   <UnlockingMote>解锁</UnlockingMote>
@@ -127,7 +136,7 @@
   <InternalTemperature>内部温度:</InternalTemperature>
   <OperatingTemperature>操作温度: </OperatingTemperature>
   <CurrentStatus>当前状态:</CurrentStatus>
-  <WStatus> 工作中..。</WStatus>
+  <WStatus> 工作中...</WStatus>
   <LTStatus>温度过低</LTStatus>
   <RefuelAt>添加燃料于</RefuelAt>
   <BurningProgress>燃烧进度:</BurningProgress>
@@ -226,20 +235,11 @@
   <controller_not_ready_IC>离子炮控制器还没准备好。</controller_not_ready_IC>
   <CommunicationSetup_IC>通讯设置: </CommunicationSetup_IC>
   <Connection_IC>连接: </Connection_IC>
-  <Connecting_IC>连接中..。</Connecting_IC>
+  <Connecting_IC>连接中...</Connecting_IC>
   <Connected_IC>已连接</Connected_IC>
   <NoMoreThanOne>这个建筑在地图上只能有一个。</NoMoreThanOne>
 
   <SomeFood>食物预警</SomeFood>
   <SomeFoodDesc>食物问题总是一个容易被忽视的问题。\n\n    所有区域存储的食物数量: {0}\n    殖民者们和囚犯支取的食物数量: {1}\n    可供消耗的天数: {2}\n\n以上就是全面的食物问题数据。</SomeFoodDesc>
-
-  <!--<Genome>基因组</Genome>-->
-  <!--<GrowSpeedMult>成长速度: {0}</GrowSpeedMult>-->
-  <!--<HarvestAmountMult>收获量: {0}</HarvestAmountMult>-->
-  <!--<BaseSeedChance>基础种子几率: {0}</BaseSeedChance>-->
-  <!--<AddSeedChance>额外种子几率: {0}</AddSeedChance>-->
-  <!--<CanSurviveBlight>从枯萎病中存活: {0}</CanSurviveBlight>-->
-  <!--<CanSurviveFrost>从寒流中存活: {0}</CanSurviveFrost>-->
-  <!--<CanGrowAtNight>能在夜间生长: {0}</CanGrowAtNight>-->
 
 </LanguageData>

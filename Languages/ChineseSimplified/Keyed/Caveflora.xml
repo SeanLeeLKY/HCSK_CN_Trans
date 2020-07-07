@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CF_tooCold>无法生长: 太冷.</CF_tooCold>
+  <CF_tooHot>无法生长: 太热.</CF_tooHot>
+  <CF_Growing>生长中...</CF_Growing>
+  <CF_Growth>生长</CF_Growth>
+  <CF_ReadyHarvest>可以收获</CF_ReadyHarvest>
+  <CF_Mature>成熟</CF_Mature>
+  <CF_InCryostasis>生长受抑</CF_InCryostasis>
+  <CF_Dying>死亡中...</CF_Dying>
+  <CF_drying>干燥</CF_drying>
+  <CF_tooDark>太黑</CF_tooDark>
+  <CF_overlit>光照过强</CF_overlit>
+  <CF_unroofed>屋顶下</CF_unroofed>
+  <CF_unadaptedSoil>不合适的土壤</CF_unadaptedSoil>
+  <CF_farFromRock>距离岩石太远</CF_farFromRock>
+  <CF_clusterRootRemoved>主根被移除cluster root removed</CF_clusterRootRemoved>
+  <CF_brokenSymbiosis>共生关系破裂</CF_brokenSymbiosis>
+  <CF_cryostasis>细胞增殖抑制</CF_cryostasis>
+  <BlacklotusLabel>黑莲花</BlacklotusLabel>
+  <BlacklotusDesc>你的一个殖民者沉醉于黑莲花毒气。当心，这些气体是有剧毒性的。</BlacklotusDesc>
+  <CF_BuiltOnRock>菌盆必须建造在粗糙岩石上。</CF_BuiltOnRock>
+  <CF_MustBeRoofed>菌盆必须在屋顶下面。</CF_MustBeRoofed>
+  <CF_OtherFungi>另一个菌盆距离太近。</CF_OtherFungi>
+
+</LanguageData>
