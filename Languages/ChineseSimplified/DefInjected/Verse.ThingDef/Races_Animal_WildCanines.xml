@@ -3,18 +3,21 @@
 
   <!-- WildCanines -->
 
-  <Warg.label>warg</Warg.label>
-  <Warg.description>Wargs are heavily-muscled wolf-like creatures. Scientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god。</Warg.description>
-  <Warg.tools.0.label>left claw</Warg.tools.0.label>
-  <Warg.tools.1.label>right claw</Warg.tools.1.label>
-  <Warg.tools.3.label>head</Warg.tools.3.label>
+ <!-- EN: warg -->
+  <Warg.label>座狼</Warg.label>
+  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
+  <Warg.description>肌肉非常发达的类狼生物。科学家说，座狼是为了抑制人口专门而创造的军用武器级动物的后代。迷信的人把它视为一件愤怒的神的工具。他们只吃肉和新鲜的尸体。</Warg.description>
+  <!-- EN: left claw -->
+  <Warg.tools.left_claw.label>左爪</Warg.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Warg.tools.right_claw.label>右爪</Warg.tools.right_claw.label>
+  <!-- EN: razorfangs -->
+  <Warg.tools.razorfangs.label>獠牙</Warg.tools.razorfangs.label>
+  <!-- EN: head -->
+  <Warg.tools.head.label>头</Warg.tools.head.label>
 
-  <Nightling.label>nightling</Nightling.label>
-  <Nightling.description>A large deformed beast with rows of quills on its back.
-The rim is a violent place and the dead are a common sight. But over the years, disturbing reports of ravaged corpses started to increase in surprising numbers, all gut-wrenching and skewered with spikes. Each dawn shedding light to the aftermath of the night before. The locals soon learned to fear the dark, and the nightmares within them。</Nightling.description>
-  <Nightling.tools.0.label>left claw</Nightling.tools.0.label>
-  <Nightling.tools.1.label>right claw</Nightling.tools.1.label>
-  <Nightling.tools.3.label>head</Nightling.tools.3.label>
+  <Nightling.label>夜灵</Nightling.label>
+  
 
 
 </LanguageData>

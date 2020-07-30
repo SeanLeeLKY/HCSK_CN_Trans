@@ -3,47 +3,50 @@
 
   <!-- Giant -->
 
-  <Elephant.label>elephant</Elephant.label>
-  <Elephant.description>An Elephant is the largest unmodified land mammal. It has a pair of long, ivory tusks that can improvise as tools for moving objects or as deadly weapons. It has a long arm-like trunk on its head that can grip and manipulate objects, much like a hand with fingers would。</Elephant.description>
-  <Elephant.tools.0.label>tusk</Elephant.tools.0.label>
-  <Elephant.tools.1.label>tusk</Elephant.tools.1.label>
-  <Elephant.tools.2.label>left foot</Elephant.tools.2.label>
-  <Elephant.tools.3.label>right foot</Elephant.tools.3.label>
-  <Elephant.tools.4.label>head</Elephant.tools.4.label>
+  <!-- EN: elephant -->
+  <Elephant.label>大象</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>最大的原生陆地动物。它可以用它的长牙作为搬运工具或作为致命的武器。</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>獠牙</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>左足</Elephant.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>右足</Elephant.tools.right_foot.label>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>头</Elephant.tools.head.label>
 
-  <Mammoth.label>mammoth</Mammoth.label>
-  <Mammoth.description></Mammoth.description>
-  <Mammoth.tools.0.label>tusk</Mammoth.tools.0.label>
-  <Mammoth.tools.1.label>tusk</Mammoth.tools.1.label>
-  <Mammoth.tools.2.label>left foot</Mammoth.tools.2.label>
-  <Mammoth.tools.3.label>right foot</Mammoth.tools.3.label>
-  <Mammoth.tools.4.label>head</Mammoth.tools.4.label>
+  <Mammoth.label>猛犸象</Mammoth.label>
+  
 
-  <Megasloth.label>megasloth</Megasloth.label>
-  <Megasloth.description>A type of ground sloth, megasloth are giant, solitary herbivores. Long extinct after being wiped out by the natives of Earth's America continent, the ground sloth was later brought back using advanced cloning and artificial gestators。</Megasloth.description>
-  <Megasloth.tools.0.label>left claw</Megasloth.tools.0.label>
-  <Megasloth.tools.1.label>right claw</Megasloth.tools.1.label>
-  <Megasloth.tools.3.label>head</Megasloth.tools.3.label>
+  <!-- EN: megasloth -->
+  <Megasloth.label>巨懒</Megasloth.label>
+  <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
+  <Megasloth.description>巨型的独居食草动物。巨懒被地球上美洲土著灭绝了很长时间之后，通过先进的克隆技术和人工受精技术重现世间。</Megasloth.description>
+  <!-- EN: left claw -->
+  <Megasloth.tools.left_claw.label>左爪</Megasloth.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Megasloth.tools.right_claw.label>右爪</Megasloth.tools.right_claw.label>
+  <!-- EN: head -->
+  <Megasloth.tools.head.label>头</Megasloth.tools.head.label>
 
-  <Thrumbo.label>thrumbo</Thrumbo.label>
-  <Thrumbo.description>A Thrumbo is a gigantic creature of unknown origin. The Thrumbo is gentle by nature, but extremely dangerous when enraged. Its long fur is exceptionally beautiful and treasured, and its razor-sharp horn is very valuable in most markets. Legends say that an old Thrumbo is the wisest creature in the universe - it simply chooses not to speak。</Thrumbo.description>
-  <Thrumbo.tools.0.label>horn</Thrumbo.tools.0.label>
-  <Thrumbo.tools.1.label>horn</Thrumbo.tools.1.label>
-  <Thrumbo.tools.3.label>left foot</Thrumbo.tools.3.label>
-  <Thrumbo.tools.4.label>right foot</Thrumbo.tools.4.label>
-  <Thrumbo.tools.5.label>head</Thrumbo.tools.5.label>
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>敲击兽</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>一种来源不明的巨型生物。敲击兽生性温和，但被激怒后极其危险。其长毛异常美丽和珍贵，锋利的角在大多数市场中非常贵重。传说古老的敲击兽是宇宙中最聪明的生物，只是选择了不说话。</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>角</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>左足</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>右足</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>头</Thrumbo.tools.head.label>
 
-  <Megabadger.label>megabadger</Megabadger.label>
-  <Megabadger.description>A truly massive badger - roughly the size of an elephant in adulthood. Megabadgers are incredibly dangerous creatures, with jaws able to bite a fully grown tree to splinters and skin thick enough to stop most bullets. They are not without the characteristic vicious attitude known of smaller badger species. \n\nHaving been known to wipe out entire colonies in the rimworlds, it is advisable under almost all circumstances to completely avoid interaction with megabadgers。</Megabadger.description>
-  <Megabadger.tools.0.label>left claw</Megabadger.tools.0.label>
-  <Megabadger.tools.1.label>right claw</Megabadger.tools.1.label>
-  <Megabadger.tools.3.label>head</Megabadger.tools.3.label>
-
-  <WoolyRhino.label>woolly rhino</WoolyRhino.label>
-  <WoolyRhino.description>A rhinoceros almost entirely covered in a coarse fur coat, fit for much colder climates than its hairless cousins。</WoolyRhino.description>
-  <WoolyRhino.tools.0.label>horn</WoolyRhino.tools.0.label>
-  <WoolyRhino.tools.1.label>horn</WoolyRhino.tools.1.label>
-  <WoolyRhino.tools.3.label>head</WoolyRhino.tools.3.label>
+  <Megabadger.label>巨獾</Megabadger.label>
+  
+  <WoolyRhino.label>披毛犀</WoolyRhino.label>
+  
 
 
 </LanguageData>

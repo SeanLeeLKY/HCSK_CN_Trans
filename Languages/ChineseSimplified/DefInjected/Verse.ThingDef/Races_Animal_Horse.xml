@@ -3,24 +3,24 @@
 
   <!-- Horses -->
 
-  <Horse.label>horse</Horse.label>
-  <Horse.description>A large, peaceful herbivore widely known for its great speed and strength. Horses and humans have a history stretching back for millenia, so it is no surprise to see one. Unfortunately, all your colonists are absolutely inept at riding, otherwise it could make a fitting steed。</Horse.description>
-  <Horse.tools.0.label>left hoof</Horse.tools.0.label>
-  <Horse.tools.1.label>left hoof</Horse.tools.1.label>
-  <Horse.tools.2.label>right hoof</Horse.tools.2.label>
-  <Horse.tools.3.label>right hoof</Horse.tools.3.label>
-  <Horse.tools.5.label>head</Horse.tools.5.label>
+  <!-- EN: horse -->
+  <Horse.label>马</Horse.label>
+  <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times. -->
+  <Horse.description>一种大型有蹄哺乳动物。马在很久之前就被古人驯服并用于交通了。</Horse.description>
+  <!-- EN: horse meat -->
+  <Horse.race.meatLabel>马肉</Horse.race.meatLabel>
+  <!-- EN: head -->
+  <Horse.tools.head.label>头</Horse.tools.head.label>
+  <!-- EN: left hoof -->
+  <Horse.tools.left_hoof.label>左蹄</Horse.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Horse.tools.right_hoof.label>右蹄</Horse.tools.right_hoof.label>
 
 
   <!-- Woolly Horse -->
 
-  <WoolyHorse.label>woolly horse</WoolyHorse.label>
-  <WoolyHorse.description>A plump horse covered in a thick fur fit for much colder climates. Oddly enough, woolly horses have a throwback to their slower ancestors- actual toed feet; though much larger and further splayed, so as to act as a snowshoe. Odder yet, they seem to be omnivorous, with a set of large canines to boot。</WoolyHorse.description>
-  <WoolyHorse.tools.0.label>left hoof</WoolyHorse.tools.0.label>
-  <WoolyHorse.tools.1.label>left hoof</WoolyHorse.tools.1.label>
-  <WoolyHorse.tools.2.label>right hoof</WoolyHorse.tools.2.label>
-  <WoolyHorse.tools.3.label>right hoof</WoolyHorse.tools.3.label>
-  <WoolyHorse.tools.5.label>head</WoolyHorse.tools.5.label>
+  <WoolyHorse.label>长鬃马</WoolyHorse.label>
+  
 
 
 </LanguageData>

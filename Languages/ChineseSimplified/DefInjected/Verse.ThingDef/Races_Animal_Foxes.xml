@@ -1,31 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>北极狐</Fox_Arctic.label>
+  <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
+  <Fox_Arctic.description>一种适应了北极的小型肉食动物。通常捕食鼠类这样的小型动物，有时候为了抓住猎物能挖开一米厚的积雪。</Fox_Arctic.description>
+  <!-- EN: left claw -->
+  <Fox_Arctic.tools.left_claw.label>左爪</Fox_Arctic.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Arctic.tools.right_claw.label>右爪</Fox_Arctic.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Arctic.tools.head.label>头</Fox_Arctic.tools.head.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>耳廓狐</Fox_Fennec.label>
+  <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
+  <Fox_Fennec.description>一种小型狐，又叫沙漠狐、迷你狐，源自地球非洲北部。捕食小型动物，有一对非常大的耳朵。</Fox_Fennec.description>
+  <!-- EN: fox meat -->
+  <Fox_Fennec.race.meatLabel>狐肉</Fox_Fennec.race.meatLabel>
+  <!-- EN: left claw -->
+  <Fox_Fennec.tools.left_claw.label>左爪</Fox_Fennec.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Fennec.tools.right_claw.label>右爪</Fox_Fennec.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Fennec.tools.head.label>头</Fox_Fennec.tools.head.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>赤狐</Fox_Red.label>
+  <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
+  <Fox_Red.description>一种小型独居犬科动物，进化适应了在温带气候中捕猎小型猎物。</Fox_Red.description>
+  <!-- EN: left claw -->
+  <Fox_Red.tools.left_claw.label>左爪</Fox_Red.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Red.tools.right_claw.label>右爪</Fox_Red.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Red.tools.head.label>头</Fox_Red.tools.head.label>
+  
   <!-- Fox fennec -->
 
-  <FoxFennec.label>fennec fox</FoxFennec.label>
-  <FoxFennec.description>A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears。</FoxFennec.description>
-  <FoxFennec.tools.0.label>left claw</FoxFennec.tools.0.label>
-  <FoxFennec.tools.1.label>right claw</FoxFennec.tools.1.label>
-  <FoxFennec.tools.3.label>head</FoxFennec.tools.3.label>
-
+  <FoxFennec.label>耳廓狐</FoxFennec.label>
+  
 
   <!-- Fox red -->
 
-  <FoxRed.label>red fox</FoxRed.label>
-  <FoxRed.description>A small solitary canine evolved for hunting small prey in temperate climates。</FoxRed.description>
-  <FoxRed.tools.0.label>left claw</FoxRed.tools.0.label>
-  <FoxRed.tools.1.label>right claw</FoxRed.tools.1.label>
-  <FoxRed.tools.3.label>head</FoxRed.tools.3.label>
+  <FoxRed.label>赤狐</FoxRed.label>
+ 
 
 
   <!-- Fox arctic -->
 
-  <FoxArctic.label>arctic fox</FoxArctic.label>
-  <FoxArctic.description>A small predator adapted for the far north. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey。</FoxArctic.description>
-  <FoxArctic.tools.0.label>left claw</FoxArctic.tools.0.label>
-  <FoxArctic.tools.1.label>right claw</FoxArctic.tools.1.label>
-  <FoxArctic.tools.3.label>head</FoxArctic.tools.3.label>
-
+  <FoxArctic.label>北极狐</FoxArctic.label>
+ 
 
 </LanguageData>

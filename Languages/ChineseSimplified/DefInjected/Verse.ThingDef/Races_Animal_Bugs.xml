@@ -1,35 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Mosquito.label>Mosquito</Mosquito.label>
-  <Mosquito.description>Mosquitoes are small, parasitic, flies whose tube-like mouthparts (called a proboscis) pierce the hosts' skin to consume blood. This rimworld variety has adapted to be omnivorious, but prefers the succelent taste of fresh blood if possible. Mosquitoes are known to carry and spread diseases。</Mosquito.description>
-  <Mosquito.tools.0.label>mouth</Mosquito.tools.0.label>
-  <Mosquito.tools.1.label>head</Mosquito.tools.1.label>
+  <Mosquito.label>蚊子</Mosquito.label>
+  
+  
 
-  <Crashbug.label>Crashbug</Crashbug.label>
-  <Crashbug.description>These fearsome, carnivorous beetle-bugs are small and hard to find, and they can often be fatal if one strikes. They attack by ramming or crashing into their target. This is what earned them their name of Crashbug。</Crashbug.description>
-  <Crashbug.tools.0.label>mouth</Crashbug.tools.0.label>
-  <Crashbug.tools.1.label>head</Crashbug.tools.1.label>
+  <Crashbug.label>异蝗</Crashbug.label>
+  
 
-  <Fly.label>Fly</Fly.label>
-  <Fly.description>The small housefly has evolved on this rimworld to become a common and larger nuisance insect. Flies are known to carry and spread diseases。</Fly.description>
-  <Fly.tools.0.label>mouth</Fly.tools.0.label>
-  <Fly.tools.1.label>head</Fly.tools.1.label>
+  <Fly.label>苍蝇</Fly.label>
+  
 
-  <Flea.label>Flea</Flea.label>
-  <Flea.description>Fleas are wingless insects with mouthparts adapted for piercing skin and sucking blood. Fleas are external parasites, living by hematophagy off the blood of mammals。</Flea.description>
-  <Flea.tools.0.label>mouth</Flea.tools.0.label>
-  <Flea.tools.1.label>head</Flea.tools.1.label>
+  <Flea.label>跳蚤</Flea.label>
+  
 
-  <Cockroach.label>cockroach</Cockroach.label>
-  <Cockroach.description>Cockroaches are omnivorous scavengers. They are attracted particularly to meats, starches, sugars, and fatty foods。</Cockroach.description>
-  <Cockroach.tools.0.label>mouth</Cockroach.tools.0.label>
-  <Cockroach.tools.1.label>head</Cockroach.tools.1.label>
+  <Cockroach.label>蟑螂</Cockroach.label>
+  
 
-  <MiniSpider.label>mini spider</MiniSpider.label>
-  <MiniSpider.description>Small poisonous spiders are omnivorous and danger scavengers. They are attracted particularly to meats, starches, sugars, and fatty foods。</MiniSpider.description>
-  <MiniSpider.tools.0.label>mouth</MiniSpider.tools.0.label>
-  <MiniSpider.tools.1.label>head</MiniSpider.tools.1.label>
-
+  <MiniSpider.label>小蜘蛛</MiniSpider.label>
+ 
 
 </LanguageData>
