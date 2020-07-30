@@ -2,8 +2,11 @@
 <ModMetaData>
 	<name>HCSK-CORE中文翻译文件</name>
 	<author>Sean</author>
-	
-	<targetVersion>0.18.0</targetVersion>
+
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>SeaN.ChineseTransPackage.HCSK</packageId>
 	<description>
 	
 按照提示放置！
@@ -16,7 +19,11 @@ A17：
 B18：
 0.1开启全面汉化工作
 
+1.1.2654
+About.xml文件更新，支持原版1.1。
 
 
-</description>
+
+	</description>
 </ModMetaData>
+
