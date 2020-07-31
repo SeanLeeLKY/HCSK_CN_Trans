@@ -1,41 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Medieval_Ballista_Turret.label>Ballista</Medieval_Ballista_Turret.label>
-  <Medieval_Ballista_Turret.description>A large crossbow-like weapon。</Medieval_Ballista_Turret.description>
-
-  <Artillery_Medieval_Catapult_Top.label>Catapult</Artillery_Medieval_Catapult_Top.label>
-  <Artillery_Medieval_Catapult_Top.description>Incendiary bomb launcher. Lobs fire-starting bombs over walls. Accurate but short-ranged。</Artillery_Medieval_Catapult_Top.description>
-
-
+  <Medieval_Ballista_Turret.label>弩炮</Medieval_Ballista_Turret.label>
+  
+  <Artillery_Medieval_Catapult_Top.label>石弩</Artillery_Medieval_Catapult_Top.label>
+  
   <!-- AGS-17 -->
 
-  <Gun_AGSThirty.label>AGS-17 Grenade launcher</Gun_AGSThirty.label>
-  <Gun_AGSThirty.description>AGS-17 attached to a tripod。</Gun_AGSThirty.description>
-
+  <Gun_AGSThirty.label>AGS-17榴弹发射器</Gun_AGSThirty.label>
+  
 
   <!-- AGS-30 grenade launcher -->
 
-  <Gun_AGS30GrenadeLauncher.label>AGS-30 Grenade launcher</Gun_AGS30GrenadeLauncher.label>
-  <Gun_AGS30GrenadeLauncher.description>30mm grenade launcher attached to a trypod。</Gun_AGS30GrenadeLauncher.description>
-
+  <Gun_AGS30GrenadeLauncher.label>AGS-30榴弹发射器</Gun_AGS30GrenadeLauncher.label>
+ 
 
   <!-- Flak cannon -->
 
-  <Gun_FlakTurret.label>90mm Flak gun</Gun_FlakTurret.label>
-  <Gun_FlakTurret.description>90mm Flak cannon on a stationary emplacement。</Gun_FlakTurret.description>
-
+  <Gun_FlakTurret.label>90mm高炮</Gun_FlakTurret.label>
+  
 
   <!-- 120mm tank gun -->
 
-  <Gun_CannonTurret.label>120mm Tank Cannon</Gun_CannonTurret.label>
-  <Gun_CannonTurret.description>120mm tank cannon to a turret base。</Gun_CannonTurret.description>
-
-
+  <Gun_CannonTurret.label>120mm坦克炮</Gun_CannonTurret.label>
+  
   <!-- 155mm howitzer -->
 
-  <Gun_HowitzerTurret.label>155mm Howitzer Cannon</Gun_HowitzerTurret.label>
-  <Gun_HowitzerTurret.description>155mm Howitzer cannon to a turret base。</Gun_HowitzerTurret.description>
-
+  <Gun_HowitzerTurret.label>155mm榴弹炮</Gun_HowitzerTurret.label>
+ 
 
 </LanguageData>

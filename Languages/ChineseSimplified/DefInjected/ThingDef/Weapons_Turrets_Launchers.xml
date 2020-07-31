@@ -3,23 +3,19 @@
 
   <!-- FGM-148 Javelin -->
 
-  <Gun_ATML.label>MS FGM-148 Javelin</Gun_ATML.label>
-  <Gun_ATML.description>A mounted light missile system MS FGM-148 Javelin on a slab. Uses one rocket。</Gun_ATML.description>
-
-  <Artillery_TOWMissile.label>BGM-71 TOW Missile</Artillery_TOWMissile.label>
-  <Artillery_TOWMissile.description>TOW Missile Launcher. Launches high speed missiles. Medium accuracy with medium range。</Artillery_TOWMissile.description>
-
+  <Gun_ATML.label>FGM-148“标枪”反坦克导弹</Gun_ATML.label>
+  
+  <Artillery_TOWMissile.label>BGM-71“陶式”反坦克导弹</Artillery_TOWMissile.label>
+  
 
   <!-- Medium missile system -->
 
-  <Gun_MissileSystem.label>Medium Missile System</Gun_MissileSystem.label>
-  <Gun_MissileSystem.description>A mounted medium missile system on a turret. Uses three rockets。</Gun_MissileSystem.description>
-
+  <Gun_MissileSystem.label>中型导弹系统</Gun_MissileSystem.label>
+ 
 
   <!-- Heavy missile system -->
 
-  <Gun_RL.label>Heavy Missile System</Gun_RL.label>
-  <Gun_RL.description>A mounted heavy missile system on a turret. Uses six rockets。</Gun_RL.description>
-
+  <Gun_RL.label>重型导弹系统</Gun_RL.label>
+  
 
 </LanguageData>

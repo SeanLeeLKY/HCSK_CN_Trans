@@ -3,49 +3,42 @@
 
   <!-- M240B -->
 
-  <Gun_M240B.label>M240B machine gun</Gun_M240B.label>
-  <Gun_M240B.description>M240B machine gun mounted on a tripod。</Gun_M240B.description>
-
+  <Gun_M240B.label>M240B机枪</Gun_M240B.label>
+  
 
   <!-- MG M2Browning .50cal round -->
 
-  <Gun_M2Browning.label>50BMG M2 Browning MG</Gun_M2Browning.label>
-  <Gun_M2Browning.description>50BMG M2 Browning MG gun attached to a trypod。</Gun_M2Browning.description>
-
+  <Gun_M2Browning.label>M2勃朗宁机枪</Gun_M2Browning.label>
+  
 
   <!-- M134 Minigun -->
 
-  <Gun_TurretMinigun.label>7.62x51mm M134 Minigun</Gun_TurretMinigun.label>
-  <Gun_TurretMinigun.description>M134 minigun attached to a trypod。</Gun_TurretMinigun.description>
-
+  <Gun_TurretMinigun.label>M134型速射机枪</Gun_TurretMinigun.label>
+  
 
   <!-- KPV 14.5mm heavy machine gun -->
 
-  <Gun_KPV.label>14.5mm KPV MG</Gun_KPV.label>
-  <Gun_KPV.description>Heavy machine gun for use against light vehicles。</Gun_KPV.description>
-
+  <Gun_KPV.label>KPV重机枪</Gun_KPV.label>
+  
 
   <!-- Chain gun 30mm round -->
 
-  <Gun_ChainGun.label>30x165mm GSh-30 cannon</Gun_ChainGun.label>
+  <Gun_ChainGun.label>GSh-30机炮</Gun_ChainGun.label>
 
 
   <!-- Avenger 35mm fire cannon -->
 
-  <Gun_Avenger.label>30x173mm Avenger Fire Cannon</Gun_Avenger.label>
-  <Gun_Avenger.description>35mm Avenger fire cannon attached to a turret base。</Gun_Avenger.description>
-
+  <Gun_Avenger.label>复仇者机炮</Gun_Avenger.label>
+  
 
   <!-- 20mm Oerlikon autocannon -->
 
-  <Gun_Oerlikonautocannon.label>20x102mm Oerlikon autocannon</Gun_Oerlikonautocannon.label>
-  <Gun_Oerlikonautocannon.description>20mm Oerlikon autocannon attached to a turret base。</Gun_Oerlikonautocannon.description>
-
+  <Gun_Oerlikonautocannon.label>欧瑞康20mm机炮 </Gun_Oerlikonautocannon.label>
+  
 
   <!-- vulcan cannon gun -->
 
-  <Gun_VulcanCannon.label>20mm Vulcan Cannon</Gun_VulcanCannon.label>
-  <Gun_VulcanCannon.description>Carefully crafted gun attached to a turret。</Gun_VulcanCannon.description>
-
+  <Gun_VulcanCannon.label>20mm火神炮</Gun_VulcanCannon.label>
+  
 
 </LanguageData>

@@ -3,83 +3,44 @@
 
   <!-- TEC-9 -->
 
-  <RF_Gun_Tecnine.label>TEC-9</RF_Gun_Tecnine.label>
-  <RF_Gun_Tecnine.description>A lightweight semi-automatic pistol with a quick draw, low damage and very high firerate. Operates at a short range。</RF_Gun_Tecnine.description>
-  <RF_Gun_Tecnine.tools.0.label>stock</RF_Gun_Tecnine.tools.0.label>
-  <RF_Gun_Tecnine.tools.1.label>barrel</RF_Gun_Tecnine.tools.1.label>
-  <RF_Gun_Tecnine.tools.2.label>muzzle</RF_Gun_Tecnine.tools.2.label>
-
+  <RF_Gun_Tecnine.label>TEC-9冲锋枪</RF_Gun_Tecnine.label>
+  
 
   <!-- M-3 -->
 
-  <RF_Gun_GreaseGun.label>M3 Greasegun</RF_Gun_GreaseGun.label>
-  <RF_Gun_GreaseGun.description>A very simplistic submachinegun design for todays standards. Low damage, high firerate, short range。</RF_Gun_GreaseGun.description>
-  <RF_Gun_GreaseGun.tools.0.label>stock</RF_Gun_GreaseGun.tools.0.label>
-  <RF_Gun_GreaseGun.tools.1.label>barrel</RF_Gun_GreaseGun.tools.1.label>
-  <RF_Gun_GreaseGun.tools.2.label>muzzle</RF_Gun_GreaseGun.tools.2.label>
-
+  <RF_Gun_GreaseGun.label>M3微型冲锋枪</RF_Gun_GreaseGun.label>
+  
 
   <!-- UZI -->
 
-  <Gun_MachinePistol.label>Uzi</Gun_MachinePistol.label>
-  <Gun_MachinePistol.description>A micro-submachine gun. Short range, low power, high rate of fire. Very quick to aim and fire。</Gun_MachinePistol.description>
-  <Gun_MachinePistol.tools.0.label>stock</Gun_MachinePistol.tools.0.label>
-  <Gun_MachinePistol.tools.1.label>barrel</Gun_MachinePistol.tools.1.label>
-  <Gun_MachinePistol.tools.2.label>muzzle</Gun_MachinePistol.tools.2.label>
-
+  <Gun_MachinePistol.label>乌兹冲锋枪</Gun_MachinePistol.label>
+  
 
   <!-- TMP -->
 
-  <RF_Gun_TMP.label>Silenced TMP</RF_Gun_TMP.label>
-  <RF_Gun_TMP.description>A big machinepistol or small submachinegun. Somewhat accurate long range, fast burstfire with low stopping power。</RF_Gun_TMP.description>
-  <RF_Gun_TMP.tools.0.label>stock</RF_Gun_TMP.tools.0.label>
-  <RF_Gun_TMP.tools.1.label>barrel</RF_Gun_TMP.tools.1.label>
-  <RF_Gun_TMP.tools.2.label>muzzle</RF_Gun_TMP.tools.2.label>
-
-
+  <RF_Gun_TMP.label>TMP“沉默”冲锋枪</RF_Gun_TMP.label>
+ 
   <!-- EVO 3 -->
 
-  <RF_Gun_Skorpion.label>Scorpion EVO 3</RF_Gun_Skorpion.label>
-  <RF_Gun_Skorpion.description>A machinepistol or light SMG with a notorious folding stock design. Fires weak ammunition in quick five shot-bursts at pistol range。</RF_Gun_Skorpion.description>
-  <RF_Gun_Skorpion.tools.0.label>stock</RF_Gun_Skorpion.tools.0.label>
-  <RF_Gun_Skorpion.tools.1.label>barrel</RF_Gun_Skorpion.tools.1.label>
-  <RF_Gun_Skorpion.tools.2.label>muzzle</RF_Gun_Skorpion.tools.2.label>
-
-
+  <RF_Gun_Skorpion.label>EVO3“天蝎”冲锋枪</RF_Gun_Skorpion.label>
+  
   <!-- VECTOR K10 -->
 
-  <RF_Gun_Vector.label>Kriss Vector K10</RF_Gun_Vector.label>
-  <RF_Gun_Vector.description>A submachinegun that fires in medium length bursts. Its substantially reduced knockback causes it to be accurate up to medium range, but its bullet drop limits maximal range by a lot。</RF_Gun_Vector.description>
-  <RF_Gun_Vector.tools.0.label>stock</RF_Gun_Vector.tools.0.label>
-  <RF_Gun_Vector.tools.1.label>barrel</RF_Gun_Vector.tools.1.label>
-  <RF_Gun_Vector.tools.2.label>muzzle</RF_Gun_Vector.tools.2.label>
-
-
+  <RF_Gun_Vector.label>K10“短剑”冲锋枪</RF_Gun_Vector.label>
+  
   <!-- MP5-A3 -->
 
-  <Gun_MP5Gun.label>HK MP5A3</Gun_MP5Gun.label>
-  <Gun_MP5Gun.description>The Heckler Koch MP5 is a 9mm submachine gun of German design, developed in the 1960s by a team of engineers from the German small arms manufacturer Heckler Koch GmbH of Oberndorf am Neckar. Low damage and short range, very high rate of fire。</Gun_MP5Gun.description>
-  <Gun_MP5Gun.tools.0.label>stock</Gun_MP5Gun.tools.0.label>
-  <Gun_MP5Gun.tools.1.label>barrel</Gun_MP5Gun.tools.1.label>
-  <Gun_MP5Gun.tools.2.label>muzzle</Gun_MP5Gun.tools.2.label>
-
+  <Gun_MP5Gun.label>HK MP5A3冲锋枪</Gun_MP5Gun.label>
+  
 
   <!-- UMP-45 -->
 
-  <Gun_UMP45Gun.label>HK UMP45</Gun_UMP45Gun.label>
-  <Gun_UMP45Gun.description>The UMP45 is a submachine gun developed and manufactured by Heckler Koch. The UMP45 has been adopted by various agencies such as the U.S. Customs and Border Protection. Heckler Koch developed the UMP45 as a successor to the MP5. Average damage, low range and high rate of fire。</Gun_UMP45Gun.description>
-  <Gun_UMP45Gun.tools.0.label>stock</Gun_UMP45Gun.tools.0.label>
-  <Gun_UMP45Gun.tools.1.label>barrel</Gun_UMP45Gun.tools.1.label>
-  <Gun_UMP45Gun.tools.2.label>muzzle</Gun_UMP45Gun.tools.2.label>
-
+  <Gun_UMP45Gun.label>HK UMP45冲锋枪</Gun_UMP45Gun.label>
+  
 
   <!-- LUGER M4 -->
 
-  <Gun_HeavySMG.label>Spectre M4 Luger</Gun_HeavySMG.label>
-  <Gun_HeavySMG.description>A compact, wide-caliber slug-thrower. Very short range, but it packs a punch and handles quite well。</Gun_HeavySMG.description>
-  <Gun_HeavySMG.tools.0.label>stock</Gun_HeavySMG.tools.0.label>
-  <Gun_HeavySMG.tools.1.label>barrel</Gun_HeavySMG.tools.1.label>
-  <Gun_HeavySMG.tools.2.label>muzzle</Gun_HeavySMG.tools.2.label>
-
+  <Gun_HeavySMG.label>M4式“幽灵”冲锋枪</Gun_HeavySMG.label>
+  
 
 </LanguageData>
