@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlantAgave.label>agave</PlantAgave.label>
-  <PlantAgave.description>A large-leafed desert plant with edible flowers and stalks。</PlantAgave.description>
+  <PlantAgave.label>龙舌兰</PlantAgave.label>
+  <PlantAgave.description>宽大叶子的沙漠植物，花和茎可以食用。</PlantAgave.description>
 
-  <PlantRaspberry.label>raspberry bush</PlantRaspberry.label>
-  <PlantRaspberry.description>Raspberry bushes are plants that produce fragile, red, bumpy fruits called raspberries。</PlantRaspberry.description>
+  <PlantRaspberry.label>野山莓</PlantRaspberry.label>
+  <PlantRaspberry.description>长有好吃的红色浆果的灌木。</PlantRaspberry.description>
 
-  <PlantStrawberry.label>strawberry plant</PlantStrawberry.label>
-  <PlantStrawberry.description>Strawberry plants produce small, tasty red fruits called strawberries. These fruits are delicious even when raw。</PlantStrawberry.description>
+  <PlantStrawberry.label>草莓</PlantStrawberry.label>
+  <PlantStrawberry.description>一种脆弱，但是非常好吃的水果。就算生吃也很可口。</PlantStrawberry.description>
 
-  <Plantblueberry.label>blueberry bush</Plantblueberry.label>
-  <Plantblueberry.description>Blueberry bushes produce tiny, round, blue colored fruits called blueberries. Blueberries are tasty when eaten raw。</Plantblueberry.description>
+  <Plantblueberry.label>蓝莓</Plantblueberry.label>
+  <Plantblueberry.description>一种长有蓝色浆果的灌木。</Plantblueberry.description>
+  
+  <Plantcloudberry.label>云莓</Plantcloudberry.label>
+  <Plantcloudberry.description>寒冷气候中生长的浆果灌木。</Plantcloudberry.description>
 
-  <Plantcloudberry.label>cloudberry bush</Plantcloudberry.label>
-  <Plantcloudberry.description>Cloudberry bushes produce sweet, amber-coloured, raspberry-shaped fruits called cloudberries. Cloudberry bushes are capable of growing well in cold climates。</Plantcloudberry.description>
+  <Plantgooseberry.label>醋栗</Plantgooseberry.label>
+  <Plantgooseberry.description>寒冷气候中生长的浆果灌木。</Plantgooseberry.description>
 
-  <Plantgooseberry.label>gooseberry bush</Plantgooseberry.label>
-  <Plantgooseberry.description>Gooseberry bush produce small, sweet, somewhat hairy fruits called Gooseberries. Gooseberry bushes can grow in cold climates。</Plantgooseberry.description>
+  <Plantcocoa.label>可可树</Plantcocoa.label>
+  <Plantcocoa.description>可可豆能经过发酵、烘焙、研磨，最后加工成巧克力。</Plantcocoa.description>
 
-  <Plantcocoa.label>Cocoa Tree</Plantcocoa.label>
-  <Plantcocoa.description>Cocoa Trees produce seeds in pods that are called Cocoa Beans. Cocoa Beans can be refined into chocolate。</Plantcocoa.description>
+  <PlantAppletree.label>苹果树</PlantAppletree.label>
+  <PlantAppletree.description>苹果树，采摘后能保留树木。</PlantAppletree.description>
 
-  <PlantAppletree.label>Apple Tree</PlantAppletree.label>
-  <PlantAppletree.description>Apple Trees produce round, palm-sized, red fruits called Apples. The Apple Tree will remain after harvesting and will start another cycle of Apple production。</PlantAppletree.description>
+   <PlantBananaTree.label>香蕉树</PlantBananaTree.label>
+  <PlantBananaTree.description>香蕉树，采摘后能保留树木。</PlantBananaTree.description>
 
-  <PlantBananaTree.label>Banana Tree</PlantBananaTree.label>
-  <PlantBananaTree.description>Banana Trees produce long, yellow fruits called Bananas, which eventually soften into a sweet delight. The Banana Tree will remain after harvesting and will start another cycle of Banana production。</PlantBananaTree.description>
+  <PlantorangeTree.label>橙树</PlantorangeTree.label>
+  <PlantorangeTree.description>橙树，采摘后能保留树木。</PlantorangeTree.description>
 
-  <PlantorangeTree.label>Orange Tree</PlantorangeTree.label>
-  <PlantorangeTree.description>Orange Trees produce sweet, citric fruits called Oranges. The Orange Tree will remain after harvesting and will start another cycle of Orange production。</PlantorangeTree.description>
+ <PlantPeachTree.label>桃树</PlantPeachTree.label>
+  <PlantPeachTree.description>桃树，采摘后能保留树木。</PlantPeachTree.description>
 
-  <PlantPeachTree.label>peach tree</PlantPeachTree.label>
-  <PlantPeachTree.description>Peach trees produce soft, fuzzy, sweet fruits called peaches. The peach tree will remain after harvesting and will start another cycle of peach production。</PlantPeachTree.description>
 
-  <Plantgrape.label>grape vine</Plantgrape.label>
-  <Plantgrape.description>Grape vines produce small, sweet berries that grow in clusters on a single branch. These fruits are called grapes。</Plantgrape.description>
-
+  <Plantgrape.label>葡萄</Plantgrape.label>
+  <Plantgrape.description>能在细长藤蔓上结出甜蜜小果实的植物。</Plantgrape.description>
 
 </LanguageData>

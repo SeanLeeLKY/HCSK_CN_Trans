@@ -3,17 +3,15 @@
 
   <!-- Ammo -->
 
-  <Ammo_SPG9Grenade_HEAT.label>SPG-9 grenade (HEAT)</Ammo_SPG9Grenade_HEAT.label>
-  <Ammo_SPG9Grenade_HEAT.description>Rocket-assisted projectile for use with the SPG-9 launcher。</Ammo_SPG9Grenade_HEAT.description>
-
-  <Ammo_SPG9Grenade_Frag.label>SPG-9 grenade (Frag)</Ammo_SPG9Grenade_Frag.label>
-  <Ammo_SPG9Grenade_Frag.description>Rocket-assisted projectile for use with the SPG-9 launcher。</Ammo_SPG9Grenade_Frag.description>
-
+  <Ammo_SPG9Grenade_HEAT.label>SPG-9榴弹（破甲）</Ammo_SPG9Grenade_HEAT.label>
+  
+  <Ammo_SPG9Grenade_Frag.label>SPG-9榴弹（破片）</Ammo_SPG9Grenade_Frag.label>
+  
 
   <!-- Projectiles -->
 
-  <Bullet_SPG9Grenade_HEAT.label>SPG-9 grenade (HEAT)</Bullet_SPG9Grenade_HEAT.label>
-  <Bullet_SPG9Grenade_Frag.label>SPG-9 grenade (Frag)</Bullet_SPG9Grenade_Frag.label>
+  <Bullet_SPG9Grenade_HEAT.label>SPG-9榴弹（破甲）</Bullet_SPG9Grenade_HEAT.label>
+  <Bullet_SPG9Grenade_Frag.label>SPG-9榴弹（破片）</Bullet_SPG9Grenade_Frag.label>
 
 
 </LanguageData>

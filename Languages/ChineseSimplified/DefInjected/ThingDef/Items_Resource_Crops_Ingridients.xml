@@ -1,28 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Sugar.label>sugar</Sugar.label>
-  <Sugar.description>Sugar is the milled product of Sugarcanes. It is used in baking, typically for desserts and candies。</Sugar.description>
-  <Sugar.stuffProps.stuffAdjective>sugar</Sugar.stuffProps.stuffAdjective>
+  <Sugar.label>糖</Sugar.label>
+  
+  <Sugar.stuffProps.stuffAdjective>糖</Sugar.stuffProps.stuffAdjective>
 
-  <Flour.label>flour</Flour.label>
-  <Flour.description>Flour ground from raw Wheat or Oats. It can be used for baking breads。</Flour.description>
-  <Flour.stuffProps.stuffAdjective>flour</Flour.stuffProps.stuffAdjective>
+  <Flour.label>面粉</Flour.label>
+ <Flour.description>简单的面粉，用于烘焙。</Flour.description>
+  <Flour.stuffProps.stuffAdjective>面粉</Flour.stuffProps.stuffAdjective>
 
-  <Milk.label>milk</Milk.label>
-  <Milk.description>Milk is a pale liquid produced by the mammary glands of mammals. It can be consumed as a beverage。</Milk.description>
+  <Milk.label>奶</Milk.label>
+  
+  <InsectJelly.label>虫胶</InsectJelly.label>
+  
 
-  <InsectJelly.label>insect jelly</InsectJelly.label>
-  <InsectJelly.description>Jelly stored and used as food by oversized insects. It is smooth, rich, and brings joy to those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots。</InsectJelly.description>
+  <SoyMilk.label>豆浆</SoyMilk.label>
+  
 
-  <SoyMilk.label>soy milk</SoyMilk.label>
-  <SoyMilk.description>Soy milk is a pale liquid produced from grinding Beans. It is similar to an animal's milk, just produced from plants instead。</SoyMilk.description>
+  <coconutmilk.label>椰浆</coconutmilk.label>
+  
 
-  <coconutmilk.label>coconut milk</coconutmilk.label>
-  <coconutmilk.description>Milk harvested from the coconut fruit。</coconutmilk.description>
-
-  <Tofu.label>tofu</Tofu.label>
-  <Tofu.description>Raw protein-rich tofu, produced from bean pods. Acceptable to eat when raw。</Tofu.description>
+  <Tofu.label>豆腐</Tofu.label>
+  <Tofu.description>富含蛋白质的生豆腐。由黄豆制成。即使生吃味道也不错。</Tofu.description>
 
 
 </LanguageData>

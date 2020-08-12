@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FruitYogurt.label>Fruit Yogurt</FruitYogurt.label>
-  <FruitYogurt.description>A sweet treat made from milk. \n\nFood Effects: Sight and Blood Filtration。</FruitYogurt.description>
+  <FruitYogurt.label>水果酸奶</FruitYogurt.label>
+ 
 
-  <Cuptea.label>Cup of Tea</Cuptea.label>
-  <Cuptea.description>A drink made from brewing tea leaves。</Cuptea.description>
-  <Cuptea.ingestible.ingestCommandString>Drink {0}</Cuptea.ingestible.ingestCommandString>
-  <Cuptea.ingestible.ingestReportString>Drinking {0}。</Cuptea.ingestible.ingestReportString>
+  <Cuptea.label>茶</Cuptea.label>
+  
+  <Cuptea.ingestible.ingestCommandString>喝{0}</Cuptea.ingestible.ingestCommandString>
+  <Cuptea.ingestible.ingestReportString>正在饮用{0}。</Cuptea.ingestible.ingestReportString>
 
-  <CupCoffee.label>Cup of Coffee</CupCoffee.label>
-  <CupCoffee.description>A cup of coffee。</CupCoffee.description>
-  <CupCoffee.ingestible.ingestCommandString>Drink {0}</CupCoffee.ingestible.ingestCommandString>
-  <CupCoffee.ingestible.ingestReportString>Drinking {0}。</CupCoffee.ingestible.ingestReportString>
+  <CupCoffee.label>咖啡</CupCoffee.label>
+  
+  <CupCoffee.ingestible.ingestCommandString>喝{0}</CupCoffee.ingestible.ingestCommandString>
+  <CupCoffee.ingestible.ingestReportString>正在饮用{0}。</CupCoffee.ingestible.ingestReportString>
 
-  <FruitDrink.label>Fruit Drink</FruitDrink.label>
-  <FruitDrink.description>A drink made by pressing fruit for their juice。</FruitDrink.description>
-  <FruitDrink.ingestible.ingestCommandString>Drink {0}</FruitDrink.ingestible.ingestCommandString>
-  <FruitDrink.ingestible.ingestReportString>Drinking {0}。</FruitDrink.ingestible.ingestReportString>
+  <FruitDrink.label>水果饮料</FruitDrink.label>
+  
+  <FruitDrink.ingestible.ingestCommandString>喝{0}</FruitDrink.ingestible.ingestCommandString>
+  <FruitDrink.ingestible.ingestReportString>正在饮用{0}。</FruitDrink.ingestible.ingestReportString>
 
 
 </LanguageData>

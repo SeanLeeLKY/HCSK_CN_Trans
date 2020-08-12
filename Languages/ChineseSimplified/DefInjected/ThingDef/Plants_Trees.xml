@@ -3,44 +3,44 @@
 
   <!-- Trees -->
 
-  <PlantMangrove.label>mangrove</PlantMangrove.label>
-  <PlantMangrove.description>Mangroves are trees or shrubs that grow in salty water in hot places like the tropics。</PlantMangrove.description>
+  <PlantMangrove.label>海榄雌</PlantMangrove.label>
+  
 
-  <PlantTreePalm.label>coconut tree</PlantTreePalm.label>
-  <PlantTreePalm.description></PlantTreePalm.description>
+  <PlantTreePalm.label>椰子树</PlantTreePalm.label>
+  
 
-  <PlantTreeDrago.label>drago tree</PlantTreeDrago.label>
-  <PlantTreeDrago.description>A hardy desert tree topped with thick, pointed leaves。</PlantTreeDrago.description>
+  <PlantTreeDrago.label>龙血树</PlantTreeDrago.label>
+  <PlantTreeDrago.description>一种热带树木，有长而裸露的树干，顶部有一簇树叶。</PlantTreeDrago.description>
 
-  <PlantTreeOak.label>oak tree</PlantTreeOak.label>
-  <PlantTreeOak.description>Oak trees are slow growing, strong, hardwood trees。</PlantTreeOak.description>
+  <PlantTreeOak.label>橡树</PlantTreeOak.label>
+  <PlantTreeOak.description>一种健壮的硬木树。生长缓慢，但是木材非常坚硬。</PlantTreeOak.description>
 
-  <PlantTreePoplar.label>poplar tree</PlantTreePoplar.label>
-  <PlantTreePoplar.description>Poplar trees are quick growing, softwood trees. They produce less wood than oak trees。</PlantTreePoplar.description>
+  <PlantTreePoplar.label>杨树</PlantTreePoplar.label>
+  <PlantTreePoplar.description>一种软木树。生长迅速，但产出的可用木材不多。</PlantTreePoplar.description>
 
-  <PlantTreePine.label>pine tree</PlantTreePine.label>
-  <PlantTreePine.description>Pine trees are large conifer, softwood trees。</PlantTreePine.description>
+  <PlantTreePine.label>松树</PlantTreePine.label>
+  <PlantTreePine.description>一种大型针叶树。</PlantTreePine.description>
 
-  <PlantTreeBirch.label>birch tree</PlantTreeBirch.label>
-  <PlantTreeBirch.description>Birch trees are northern, white trees known for having a thin, paper-like bark。</PlantTreeBirch.description>
+  <PlantTreeBirch.label>桦树</PlantTreeBirch.label>
+  <PlantTreeBirch.description>一种北方树木，因纸一样的薄树皮而出名。</PlantTreeBirch.description>
 
-  <PlantTreeTeak.label>teak tree</PlantTreeTeak.label>
-  <PlantTreeTeak.description>Teak trees are very strong and slow growing hardwood trees. Wood from Teak Trees was used in ancient times to build sailing ships。</PlantTreeTeak.description>
+  <PlantTreeTeak.label>柚木树</PlantTreeTeak.label>
+  <PlantTreeTeak.description>一个非常健壮的硬木树，在远古时用于建造帆船。</PlantTreeTeak.description>
 
-  <PlantTreeCecropia.label>cecropia tree</PlantTreeCecropia.label>
-  <PlantTreeCecropia.description>Cecropia trees are small, common rainforest trees. It grows very fast, but yields little usable wood。</PlantTreeCecropia.description>
+  <PlantTreeCecropia.label>号角树</PlantTreeCecropia.label>
+  <PlantTreeCecropia.description>热带雨林里最常见的树之一。生长非常迅速，但产出的可用木材不多。</PlantTreeCecropia.description>
 
-  <PlantTreeWillow.label>willow tree</PlantTreeWillow.label>
-  <PlantTreeWillow.description>One of the fastest growing shade trees providing a beautiful, thick, leafy canopy. Doesn't yield much usable wood。</PlantTreeWillow.description>
+  <PlantTreeWillow.label>柳树</PlantTreeWillow.label>
+  <PlantTreeWillow.description>生长最快的遮荫树之一，有着美观而又郁郁葱葱的树冠。不会产生很多有用的木材。</PlantTreeWillow.description>
 
-  <PlantTreeCypress.label>cypress tree</PlantTreeCypress.label>
-  <PlantTreeCypress.description>A tall, slow-growing tree. Typically found in swamps. Despite its slow growth, planting these trees can be profitable because they yield much usable wood。</PlantTreeCypress.description>
+  <PlantTreeCypress.label>柏树</PlantTreeCypress.label>
+  <PlantTreeCypress.description>一种树形高大，生长缓慢的树。通常出现在沼泽地中。尽管树木生长缓慢，但种植这些树是有好处的，因为它们能产出大量有用的木材。</PlantTreeCypress.description>
 
-  <PlantTreeMaple.label>maple tree</PlantTreeMaple.label>
-  <PlantTreeMaple.description>A common, medium-sized tree. It's often found in swamps and on moist terrain。</PlantTreeMaple.description>
+  <PlantTreeMaple.label>枫树</PlantTreeMaple.label>
+  <PlantTreeMaple.description>一种常见的中型树。它经常出现在沼泽和潮湿的地形上。</PlantTreeMaple.description>
 
-  <PlantTreeRedwood.label>redwood</PlantTreeRedwood.label>
-  <PlantTreeRedwood.description>A huge, very slow growing tree. Its roots are shallow, and when it gets too large, it topples over. \n\n Yields red wood, which is valuable and rare。</PlantTreeRedwood.description>
+  <PlantTreeRedwood.label>红木</PlantTreeRedwood.label>
+  <PlantTreeRedwood.description>一棵巨大的，非常缓慢生长的树。它的根很浅，当它长得太大时，它颠覆了。\n\n产生红木，这是珍贵的稀有木材。</PlantTreeRedwood.description>
 
 
 </LanguageData>

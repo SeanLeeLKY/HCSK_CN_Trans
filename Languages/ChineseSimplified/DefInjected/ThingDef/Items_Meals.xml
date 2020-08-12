@@ -3,35 +3,33 @@
 
   <!-- REALISTIC PRODUCTION SK MOD -->
 
-  <MealSurvivalPack.label>Packaged Survival Meal</MealSurvivalPack.label>
-  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations。</MealSurvivalPack.description>
+  <MealSurvivalPack.label>包装生存食品</MealSurvivalPack.label>
+  <MealSurvivalPack.description>高品质的包装食品，生产以供极端生存的环境下食用。虽然不会腐烂，但是放在露天环境里依然会劣化，长途旅行的首选食物。</MealSurvivalPack.description>
 
-  <MealSimple.label>Simple Meal</MealSimple.label>
-  <MealSimple.description>A simple meal quickly cooked from a few ingredients。</MealSimple.description>
+  <MealSimple.label>简单的食物</MealSimple.label>
+  <MealSimple.description>用主要原料快速烹饪出的一份简单的食物。</MealSimple.description>
 
-  <MealFine.label>Fine Meal</MealFine.label>
-  <MealFine.description>A complex dish assembled with care from a wide selection of ingredients。</MealFine.description>
+  <MealFine.label>优质的食物</MealFine.label>
+  <MealFine.description>选择多种原料，精心烹饪出的一份相对复杂的食物。</MealFine.description>
 
-  <MealLavish.label>Lavish Meal</MealLavish.label>
-  <MealLavish.description>An elborate concoction of food skillfully prepared into a succulent meal。</MealLavish.description>
+  <MealLavish.label>精致的食物</MealLavish.label>
+  <MealLavish.description>精选原料，工艺复杂，从色香味型上看来都是上乘之作。</MealLavish.description>
 
-  <MealLuxury.label>Luxury Meal</MealLuxury.label>
-  <MealLuxury.description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul。</MealLuxury.description>
+  <MealLuxury.label>奢侈的食物</MealLuxury.label>
+  <MealLuxury.description>厨艺界的大师级作品，这份食物同时滋养了身体、思想和灵魂。</MealLuxury.description>
 
-  <MealSalad.label>Fruit Salad</MealSalad.label>
-  <MealSalad.description>A fruit salad made from gathered fruit。</MealSalad.description>
+  <MealSalad.label>水果沙拉</MealSalad.label>
+  
+  <MealJerky.label>肉干</MealJerky.label>
+  
+  <RoastedMeat.label>烤肉</RoastedMeat.label>
+  <RoastedMeat.description>新鲜的烤肉。</RoastedMeat.description>
 
-  <MealJerky.label>Jerky</MealJerky.label>
-  <MealJerky.description>Jerky made from raw meat.Max 5 eaten at a time。</MealJerky.description>
+  <FriedVegetables.label>炒蔬菜</FriedVegetables.label>
+  
 
-  <RoastedMeat.label>Roasted Meat</RoastedMeat.label>
-  <RoastedMeat.description>Freshly roasted meat。</RoastedMeat.description>
-
-  <FriedVegetables.label>Fried Assorts</FriedVegetables.label>
-  <FriedVegetables.description>A simple fried assortment of vegetables. Not too nutritious or tasty。</FriedVegetables.description>
-
-  <BakedPotato.label>Baked Potato</BakedPotato.label>
-  <BakedPotato.description>A baked Potato. At least it's not raw。</BakedPotato.description>
+  <BakedPotato.label>烤土豆</BakedPotato.label>
+  
 
 
 </LanguageData>

@@ -3,13 +3,12 @@
 
   <!-- Ammo -->
 
-  <Ammo_ChargedLaser.label>Charged Laser beam</Ammo_ChargedLaser.label>
-  <Ammo_ChargedLaser.description></Ammo_ChargedLaser.description>
-
+  <Ammo_ChargedLaser.label>电荷激光束</Ammo_ChargedLaser.label>
+  
 
   <!-- Projectiles -->
 
-  <Bullet_Laserbeam.label>Laser beam</Bullet_Laserbeam.label>
+  <Bullet_Laserbeam.label>激光束</Bullet_Laserbeam.label>
 
 
 </LanguageData>

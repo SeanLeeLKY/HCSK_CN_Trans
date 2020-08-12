@@ -3,23 +3,21 @@
 
   <!-- Bushes -->
 
-  <PlantBush.label>bush</PlantBush.label>
-  <PlantBush.description>Bushes are a type of green, short shrubbery. Unlike other plants this one is incapable of producing fruits or vegetables。</PlantBush.description>
+  <PlantBush.label>灌木</PlantBush.label>
+  <PlantBush.description>低矮的灌木。并不像布什那样爱说话。</PlantBush.description>
 
-  <Rhododendron.label>rhododendron</Rhododendron.label>
-  <Rhododendron.description>An attractive, hardy, and slow-growing shrub known for its beautiful flowers。</Rhododendron.description>
+  <Rhododendron.label>杜鹃</Rhododendron.label>
+ 
+  <PlantSwordFern.label>剑蕨</PlantSwordFern.label>
+  
+  <PlantAlocasia.label>海芋</PlantAlocasia.label>
+  <PlantAlocasia.description>是一种常见的热带阔叶植物。</PlantAlocasia.description>
 
-  <PlantSwordFern.label>PlantSwordFern</PlantSwordFern.label>
-  <PlantSwordFern.description>An attractive and hardy fern. Not eaten by most animals due to toxins and carcinogens。</PlantSwordFern.description>
+  <PlantClivia.label>君子兰</PlantClivia.label>
+  <PlantClivia.description>一种稀有植物，花又高又漂亮。有人称之为“灌木中的百合花”。</PlantClivia.description>
 
-  <PlantAlocasia.label>alocasia</PlantAlocasia.label>
-  <PlantAlocasia.description>A common broadleaf tropical plant。</PlantAlocasia.description>
-
-  <PlantClivia.label>clivia</PlantClivia.label>
-  <PlantClivia.description>An unusual plant with tall, pretty flowers. Some call it the 'bush lily'。</PlantClivia.description>
-
-  <PlantRafflesia.label>giant rafflesia</PlantRafflesia.label>
-  <PlantRafflesia.description>A rare, giant flower. You would think a giant flower would be beautiful, but this one is quite smelly and ugly。</PlantRafflesia.description>
+  <PlantRafflesia.label>大王花</PlantRafflesia.label>
+  <PlantRafflesia.description>一种罕见的巨大的花。你可能会认为巨大的花是美丽的，但这种花却又臭又丑。</PlantRafflesia.description>
 
 
 </LanguageData>
