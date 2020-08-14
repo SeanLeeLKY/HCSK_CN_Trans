@@ -3,56 +3,56 @@
 
   <!-- Bionic parts -->
 
-  <PowerArm.label>Power Arm</PowerArm.label>
-  <PowerArm.description>Unparalleled strength and dexterity, and with retractable claws. This is the ultimate arm upgrade!</PowerArm.description>
+  <PowerArm.label>动力臂</PowerArm.label>
+  <PowerArm.description>更加无与伦比的力量与敏捷，并且带有锋利、可伸缩的利爪。目前手臂的终极升级方案！</PowerArm.description>
 
-  <BionicHand.label>Bionic Hand</BionicHand.label>
-  <BionicHand.description>Allows the user to perform tasks even faster than with regular hands。</BionicHand.description>
+  <BionicHand.label>仿生手</BionicHand.label>
+  <BionicHand.description>比起普通的手，能让使用者更快地完成任务。</BionicHand.description>
 
-  <BionicFoot.label>Bionic Foot</BionicFoot.label>
-  <BionicFoot.description>This prosthesis grants faster walking without stumbling all the time。</BionicFoot.description>
+  <BionicFoot.label>仿生足</BionicFoot.label>
+  <BionicFoot.description>这种假体能给你更快的行走速度，而且任何时候都不会被绊倒。</BionicFoot.description>
 
-  <BionicEar.label>Bionic Ear Implant</BionicEar.label>
-  <BionicEar.description>An advanced device that expands upon the basic functions of the ear drum。</BionicEar.description>
+  <BionicEar.label>仿生耳</BionicEar.label>
+  <BionicEar.description>这个先进设备能扩展耳鼓的基本功能。</BionicEar.description>
 
-  <BionicJaw.label>Bionic Jaw Implant</BionicJaw.label>
-  <BionicJaw.description>Aside from a strong set of teeth, this also comes with a voice modulator。</BionicJaw.description>
+  <BionicJaw.label>仿生颌</BionicJaw.label>
+  <BionicJaw.description>除了一套更强劲的牙齿，还附带一个声音调节器。</BionicJaw.description>
 
-  <SilentJaw.label>Silent Jaw Implant</SilentJaw.label>
-  <SilentJaw.description>This version of the bionic jaw comes without a voice modulator, useful for abrasive patients。</SilentJaw.description>
+  <SilentJaw.label>静音颌</SilentJaw.label>
+  <SilentJaw.description>这是去除了声音调节器的仿生颌版本，对说话粗鲁的人很有用。</SilentJaw.description>
 
-  <BionicSpine.label>Bionic Spine</BionicSpine.label>
-  <BionicSpine.description>This light and impressing device can replace a damaged spine。</BionicSpine.description>
+  <BionicSpine.label>仿生脊椎</BionicSpine.label>
+  <BionicSpine.description>这种轻便且引人注意的设备可以替代受损的脊椎。</BionicSpine.description>
 
-  <BionicEye.label>Bionic Eye</BionicEye.label>
-  <BionicEye.description>Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities。</BionicEye.description>
+  <BionicEye.label>仿生眼</BionicEye.label>
+  <BionicEye.description>高端科技的产物，仿生眼不仅能完全替代自然眼睛的功能，还能赋予使用者超常的视力。</BionicEye.description>
 
-  <BionicArm.label>Bionic Arm</BionicArm.label>
-  <BionicArm.description>One of the most sophisticated arm replacements. It gives extreme strength to its user。</BionicArm.description>
+  <BionicArm.label>仿生臂</BionicArm.label>
+  <BionicArm.description>最精密的手臂替代品之一，赋予使用者爆发出无与伦比的力量。</BionicArm.description>
 
-  <BionicLeg.label>Bionic Leg</BionicLeg.label>
-  <BionicLeg.description>A Bionic Leg uses cutting-edge technology to give its owner extreme walking comfort and strength。</BionicLeg.description>
+  <BionicLeg.label>仿生腿</BionicLeg.label>
+  <BionicLeg.description>尖端科技制成的仿生腿，可以给使用者带来极端的步行舒适度和力量。</BionicLeg.description>
 
-  <PowerClaw.label>Power Claw</PowerClaw.label>
-  <PowerClaw.description>A powerful hand replacement consisting of three deadly claws。</PowerClaw.description>
+  <PowerClaw.label>动力爪</PowerClaw.label>
+  <PowerClaw.description>一种由三个致命利爪组成的强大的手部替代品。</PowerClaw.description>
 
-  <ScytherBlade.label>Scyther Blade</ScytherBlade.label>
-  <ScytherBlade.description>Hand replacement with a telescoping blade. Scavenged from a dead Scyther Mechanoid. Not very comfortable, but quite effective as a close-range weapon。</ScytherBlade.description>
+  <ScytherBlade.label>飞螳镰刃</ScytherBlade.label>
+  <ScytherBlade.description>嵌有镰刃的手部替代品。从机械飞螳上拆下来的。不是很舒服但确实是非常致命的近战武器。</ScytherBlade.description>
 
-  <MedicalRib.label>Medical Rib Replacement</MedicalRib.label>
-  <MedicalRib.description>An artificial rib, equipped with little blood filters and antibiotics-dispensers to keep the user healthy。</MedicalRib.description>
+  <MedicalRib.label>医疗肋骨</MedicalRib.label>
+  <MedicalRib.description>一根人造肋骨，内置小型的血液过滤器和抗生素释放器，让使用者的保持健康。</MedicalRib.description>
 
-  <AdrenalineRib.label>Adrenaline Rib Replacement</AdrenalineRib.label>
-  <AdrenalineRib.description>An artificial rib, equipped with little adrenaline-dispensers to keep the fit and awake。</AdrenalineRib.description>
+  <DruggedRib.label>迷幻肋骨</DruggedRib.label>
+  <DruggedRib.description>一根人造肋骨，内置小型的酒精释放器，让使用者的保持愉悦。</DruggedRib.description>
 
-  <DruggedRib.label>drugged rib replacement</DruggedRib.label>
-  <DruggedRib.description>An artificial rib, equipped with little flake-dispensers to keep the user happy。</DruggedRib.description>
+  <AdrenalineRib.label>肾上腺素肋骨</AdrenalineRib.label>
+  <AdrenalineRib.description>一根人造肋骨，内置小型的肾上腺素释放器，让使用者的保持活力和清醒。</AdrenalineRib.description>
 
-  <BrainStimulator.label>Brain Stimulator</BrainStimulator.label>
-  <BrainStimulator.description>A small device that sends electric shocks to the brain to slightly boost consciousness and mobility。</BrainStimulator.description>
+  <BrainStimulator.label>脑激励器</BrainStimulator.label>
+  <BrainStimulator.description>对大脑剩余部分尽最大可能进行刺激的小设备。建议仅用于严重大脑损伤。</BrainStimulator.description>
 
-  <PainkillerRib.label>painkiller rib replacement</PainkillerRib.label>
-  <PainkillerRib.description>An artificial rib, equipped with little morphine-dispensers to numb the user's pain. Side effects are respiratory ailments。</PainkillerRib.description>
+  <PainkillerRib.label>止痛肋骨</PainkillerRib.label>
+  <PainkillerRib.description>一根人造肋骨，内置小型的吗啡释放器，麻痹使用者的痛觉。副作用是呼吸道疾病。</PainkillerRib.description>
 
 
 </LanguageData>

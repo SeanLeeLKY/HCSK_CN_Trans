@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>HCSK-CORE中文翻译文件</name>
-	<author>Sean</author>
-
+	<author>SeaN</author>
 	<supportedVersions>
+		<li>1.0</li>
 		<li>1.1</li>
 	</supportedVersions>
 	<packageId>SeaN.ChineseTransPackage.HCSK</packageId>
@@ -20,7 +20,7 @@ B18：
 0.1开启全面汉化工作
 
 1.1.2654
-About.xml文件更新，支持原版1.1。
+About.xml文件更新，支持原版1.1,1.0。
 
 
 

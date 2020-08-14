@@ -3,50 +3,35 @@
 
   <!-- cybernetic parts -->
 
-  <GTEar.label>Cybernetic Bionic Ear</GTEar.label>
-  <GTEar.description>The advanced version of the bionic ear. The second generation of bionic upgrades, typically reserved for top brass military forces。</GTEar.description>
-
-  <GTEye.label>Cybernetic Bionic Eye</GTEye.label>
-  <GTEye.description>The advanced version of the bionic eye. The second generation of bionic upgrades, typically reserved for top brass military forces。</GTEye.description>
-
-  <GTArm.label>Cybernetic Bionic Arm</GTArm.label>
-  <GTArm.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible strength. You may destroy your opponents limbs in a fist fight...not recomended for wardens。</GTArm.description>
-
-  <CyberneticPowerArm.label>Cybernetic Power Arm</CyberneticPowerArm.label>
-  <CyberneticPowerArm.description>Even more unparalleled strength and dexterity, and with a sharp, retractable claws. Now it's the ultimate arm upgrade!</CyberneticPowerArm.description>
-
-  <GTLeg.label>Cybernetic Bionic Leg</GTLeg.label>
-  <GTLeg.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Give the owner incredible speed</GTLeg.description>
-
-  <GTHeart.label>Cybernetic Heart</GTHeart.label>
-  <GTHeart.description>A powerful cardiac augmentation, replacing standard human hearts. Safely manages very high blood flow without overwhelming standard body parts。</GTHeart.description>
-
-  <GTLung.label>Cybernetic Lung</GTLung.label>
-  <GTLung.description>A powerful vascular augmentation, replacing standard human lungs. The perfect pairing with a cybernetic heart, this increases circulatory speed, increasing efficiency。</GTLung.description>
-
-  <GTKidney.label>Cybernetic Kidney</GTKidney.label>
-  <GTKidney.description>A powerful abdominal augmentation, replacing standard human kidneys. Increasing blood filtration efficiency。</GTKidney.description>
-
-  <GTLiver.label>Cybernetic Liver</GTLiver.label>
-  <GTLiver.description>A powerful abdominal augmentation, replacing standard human livers. Increasing blood filtration efficiency and metabolic efficiency。</GTLiver.description>
-
-  <GTstomach.label>Cybernetic Stomach</GTstomach.label>
-  <GTstomach.description>A powerful abdominal augmentation, replacing standard human stomachs. Increasing digestion efficiency and metabolic efficiency。</GTstomach.description>
-
-  <GTHand.label>Cybernetic Bionic Hand</GTHand.label>
-  <GTHand.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. The more limited version of arm upgrades, just replacing hands。</GTHand.description>
-
-  <GTFoot.label>Cybernetic Bionic Foot</GTFoot.label>
-  <GTFoot.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. The more limited version of leg upgrades, just replacing feet。</GTFoot.description>
-
-  <GTDentures.label>Cybernetic Bionic Jaw</GTDentures.label>
-  <GTDentures.description>The second generation of bionic upgrades, using nano machinery to break down food instantly with minimal effort。</GTDentures.description>
-
-  <GTSpine.label>Cybernetic Bionic Spine</GTSpine.label>
-  <GTSpine.description>The most crucial part of the human body improved with the best available nano materials. Greatly imroved manipulation and movement。</GTSpine.description>
-
-  <Exoskeleton.label>Exoskeleton</Exoskeleton.label>
-  <Exoskeleton.description>Greatly improves overall body perfomance。</Exoskeleton.description>
-
+  <GTEar.label>神经机械仿生耳</GTEar.label>
+ 
+  <GTEye.label>神经机械仿生眼</GTEye.label>
+ 
+  <GTArm.label>神经机械仿生臂</GTArm.label>
+ 
+  <CyberneticPowerArm.label>神经机械动力臂</CyberneticPowerArm.label>
+ 
+  <GTLeg.label>神经机械仿生腿</GTLeg.label>
+  
+  <GTHeart.label>神经机械心</GTHeart.label>
+ 
+  <GTLung.label>神经机械肺</GTLung.label>
+ 
+  <GTKidney.label>神经机械肾</GTKidney.label>
+ 
+  <GTLiver.label>神经机械肝</GTLiver.label>
+  
+  <GTstomach.label>神经机械胃</GTstomach.label>
+  
+  <GTHand.label>神经机械仿生手</GTHand.label>
+  
+  <GTFoot.label>神经机械仿生足</GTFoot.label>
+  
+  <GTDentures.label>神经机械仿生颌</GTDentures.label>
+  
+  <GTSpine.label>神经机械仿生脊柱</GTSpine.label>
+ 
+  <Exoskeleton.label>外骨骼</Exoskeleton.label>
+  
 
 </LanguageData>

@@ -32,9 +32,9 @@
   <Make_TobaccoCigarChocolate.description>制造 巧克力雪茄。</Make_TobaccoCigarChocolate.description>
   <Make_TobaccoCigarChocolate.jobString>正在制造 巧克力雪茄。</Make_TobaccoCigarChocolate.jobString>
 
-  <Make_TobaccoCigarette.label>制造 卷烟</Make_TobaccoCigarette.label>
-  <Make_TobaccoCigarette.description>制造 卷烟。</Make_TobaccoCigarette.description>
-  <Make_TobaccoCigarette.jobString>正在制造 卷烟。</Make_TobaccoCigarette.jobString>
+  <Make_TobaccoCigarette.label>制造 香烟</Make_TobaccoCigarette.label>
+  <Make_TobaccoCigarette.description>制造 香烟。</Make_TobaccoCigarette.description>
+  <Make_TobaccoCigarette.jobString>正在制造 香烟。</Make_TobaccoCigarette.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->

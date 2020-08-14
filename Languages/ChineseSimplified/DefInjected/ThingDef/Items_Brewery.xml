@@ -3,57 +3,52 @@
 
   <!-- Yeast -->
 
-  <Yeast.label>Yeast</Yeast.label>
-  <Yeast.description>Processed Yeast used in fermentation。</Yeast.description>
-  <Yeast.stuffProps.stuffAdjective>Yeast</Yeast.stuffProps.stuffAdjective>
+  <Yeast.label>酵母</Yeast.label>
+  <Yeast.description>用于发酵过程的基料之一。</Yeast.description>
+  <Yeast.stuffProps.stuffAdjective>酵母</Yeast.stuffProps.stuffAdjective>
 
 
   <!-- Grain Mash -->
 
-  <grainmash.label>Grain Mash</grainmash.label>
-  <grainmash.description>A mixture of yeast and wheat to ferment into Whisky。</grainmash.description>
-
+  <grainmash.label>威士忌酿料</grainmash.label>
+ 
 
   <!-- Saké Mash -->
 
-  <sakemash.label>Saké Mash</sakemash.label>
-  <sakemash.description>A mixture of yeast and rice to ferment into Saké。</sakemash.description>
-
+  <sakemash.label>清酒酿料</sakemash.label>
+ 
 
   <!-- Rum Mash -->
 
-  <rummash.label>Rum Mash</rummash.label>
-  <rummash.description>A mixture of yeast and sugar cane to ferment into Rum。</rummash.description>
+  <rummash.label>朗姆酒酿料</rummash.label>
+  
 
 
   <!-- Cider Mash -->
 
-  <cidermash.label>Cider Mash</cidermash.label>
-  <cidermash.description>A mixture of yeast and apples to ferment into Cider。</cidermash.description>
-
+  <cidermash.label>苹果酒酿料</cidermash.label>
+  
 
   <!-- Berry Mash -->
 
-  <berrymash.label>Berry Mash</berrymash.label>
-  <berrymash.description>A mixture of yeast and various berries to ferment into Berrywine。</berrymash.description>
-
+  <berrymash.label>浆果酒酿料</berrymash.label>
+ 
 
   <!-- Vodka Mash -->
 
-  <vodkamash.label>Vodka Mash</vodkamash.label>
-  <vodkamash.description>A mixture of yeast and raw potatoes to ferment into Vodka。</vodkamash.description>
-
+  <vodkamash.label>伏特加酿料</vodkamash.label>
+ 
 
   <!-- Tequila Mash -->
 
-  <tequilamash.label>Tequila Mash</tequilamash.label>
-  <tequilamash.description>A mixture of yeast and blue agave to ferment into Tequila。</tequilamash.description>
+  <tequilamash.label>龙舌兰酿料</tequilamash.label>
+  
 
 
   <!-- Wine Mash -->
 
-  <winemash.label>Wine Mash</winemash.label>
-  <winemash.description>A mixture of yeast and grapes to ferment into Wine。</winemash.description>
+  <winemash.label>葡萄酒酿料</winemash.label>
+  
 
 
 </LanguageData>

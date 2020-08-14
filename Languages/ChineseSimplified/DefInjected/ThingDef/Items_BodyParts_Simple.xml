@@ -3,29 +3,28 @@
 
   <!-- simple parts -->
 
-  <GlassEye.label>Glass Eye</GlassEye.label>
-  <GlassEye.description>Replaces missing eyes. Prettier than eye patches。</GlassEye.description>
+  <GlassEye.label>玻璃眼</GlassEye.label>
+  
+  <ArtificialNose.label>人造鼻</ArtificialNose.label>
+  <ArtificialNose.description>用来代替缺失的鼻子。填补脸中央的空洞。</ArtificialNose.description>
 
-  <ArtificialNose.label>Artificial Nose</ArtificialNose.label>
-  <ArtificialNose.description>Replaces a missing nose. Covers the hole in the face。</ArtificialNose.description>
+  <HydraulicJaw.label>液压颌</HydraulicJaw.label>
+  <HydraulicJaw.description>用来代替缺失的下颌。要小心极高效率的牙齿！</HydraulicJaw.description>
 
-  <HydraulicJaw.label>Hydraulic Jaw</HydraulicJaw.label>
-  <HydraulicJaw.description>Replaces a missing jaw. Be careful with the extremely efficient teeth!</HydraulicJaw.description>
+  <SimpleProstheticHand.label>简易的假手</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>用来代替缺失的手，不是很舒服但是相当有效。</SimpleProstheticHand.description>
 
-  <SimpleProstheticHand.label>Simple Prosthetic Hand</SimpleProstheticHand.label>
-  <SimpleProstheticHand.description>Replaces missing hands. Way more comfortable and less frightening than the hook hand。</SimpleProstheticHand.description>
+ <SimpleProstheticFoot.label>简易的假足</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>用来代替缺失的脚，不是很舒服但是相当有效。</SimpleProstheticFoot.description>
 
-  <SimpleProstheticFoot.label>Simple Prosthetic Foot</SimpleProstheticFoot.label>
-  <SimpleProstheticFoot.description>Replaces missing feet. Not as cheap as a wood log。</SimpleProstheticFoot.description>
+  <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>用来替换缺失的腿的假肢，不是很舒服但是相当有效。</SimpleProstheticLeg.description>
 
-  <SimpleProstheticLeg.label>Simple Prosthetic Leg</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>Simple prosthesis made to replace missing leg. Not very comfortable but quite efficient。</SimpleProstheticLeg.description>
+  <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>简易但耐用的假臂。</SimpleProstheticArm.description>
 
-  <SimpleProstheticArm.label>Simple Prosthetic Arm</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>A simple but durable arm prosthesis。</SimpleProstheticArm.description>
-
-  <ArtificialPelvis.label>Artificial Pelvis</ArtificialPelvis.label>
-  <ArtificialPelvis.description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite kind of moving around。</ArtificialPelvis.description>
+  <ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
+  <ArtificialPelvis.description>用来代替缺失的骨盆。如果你不想在地上到处爬的话，还是非常有用的。</ArtificialPelvis.description>
 
 
 </LanguageData>
