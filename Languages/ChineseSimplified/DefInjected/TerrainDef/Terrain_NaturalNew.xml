@@ -4,32 +4,25 @@
   <SavannaSoil.label>草原土壤</SavannaSoil.label>
 
   <RockySoil.label>石砾</RockySoil.label>
-  <RockySoil.description>全是石渣的土地，植被稀少。
-肥沃度： 30%。</RockySoil.description>
+  <RockySoil.description>全是石渣的土地，植被稀少。肥沃度： 30%。</RockySoil.description>
 
   <Topsoil.label>表土</Topsoil.label>
-  <Topsoil.description>普通的土壤，可以用于种植。
-肥沃度： 100%。</Topsoil.description>
+  <Topsoil.description>普通的土壤，可以用于种植。肥沃度： 100%。</Topsoil.description>
 
   <DirtFert.label>肥沃土壤</DirtFert.label>
-  <DirtFert.description>肥沃的土壤，优质的植物种植土壤。
-肥沃度： 140%。</DirtFert.description>
+  <DirtFert.description>肥沃的土壤，优质的植物种植土壤。肥沃度： 140%。</DirtFert.description>
 
   <SoilTilled.label>精耕土壤</SoilTilled.label>
-  <SoilTilled.description>精细处理的耕作土壤。
-肥沃度： 180%。</SoilTilled.description>
+  <SoilTilled.description>精细处理的耕作土壤。肥沃度： 180%。</SoilTilled.description>
 
   <PoorSoil.label>贫瘠土地</PoorSoil.label>
-  <PoorSoil.description>缺水少肥的土壤，不适合种植。
-肥沃度： 30%。</PoorSoil.description>
+  <PoorSoil.description>缺水少肥的土壤，不适合种植。肥沃度： 30%。</PoorSoil.description>
 
   <MarginalSoil.label>边角土地</MarginalSoil.label>
-  <MarginalSoil.description>正常土地的边角地带，不适合用于普通种植。
-肥沃度： 70%。</MarginalSoil.description>
+  <MarginalSoil.description>正常土地的边角地带，不适合用于普通种植。肥沃度： 70%。</MarginalSoil.description>
 
   <DustySoil.label>沙土</DustySoil.label>
-  <DustySoil.description>沙漠化的土壤。
-肥沃度： 40%。</DustySoil.description>
+  <DustySoil.description>沙漠化的土壤。肥沃度： 40%。</DustySoil.description>
 
 
 </LanguageData>

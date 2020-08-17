@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FertilizerProductionMachine.label>fertilizer production machine</FertilizerProductionMachine.label>
-  <FertilizerProductionMachine.description>Use compost to produce fertilizer。</FertilizerProductionMachine.description>
-  <FertilizerProductionMachine_Blueprint.label>fertilizer production machine (blueprint)</FertilizerProductionMachine_Blueprint.label>
-  <FertilizerProductionMachine_Blueprint_Install.label>fertilizer production machine (blueprint)</FertilizerProductionMachine_Blueprint_Install.label>
-  <FertilizerProductionMachine_Frame.label>fertilizer production machine (building)</FertilizerProductionMachine_Frame.label>
-  <FertilizerProductionMachine_Frame.description>Use compost to produce fertilizer。</FertilizerProductionMachine_Frame.description>
+  <FertilizerProductionMachine.label>肥料生产机</FertilizerProductionMachine.label>
+  <FertilizerProductionMachine.description>使用堆肥生产肥料。</FertilizerProductionMachine.description>
+  <FertilizerProductionMachine_Blueprint.label>肥料生产机 （蓝图）</FertilizerProductionMachine_Blueprint.label>
+  <FertilizerProductionMachine_Blueprint_Install.label>肥料生产机 （蓝图）</FertilizerProductionMachine_Blueprint_Install.label>
+  <FertilizerProductionMachine_Frame.label>肥料生产机 （建造中）</FertilizerProductionMachine_Frame.label>
+  <FertilizerProductionMachine_Frame.description>使用堆肥生产肥料。</FertilizerProductionMachine_Frame.description>
 
 
 </LanguageData>

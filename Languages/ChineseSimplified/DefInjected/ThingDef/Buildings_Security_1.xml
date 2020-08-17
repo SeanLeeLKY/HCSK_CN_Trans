@@ -128,11 +128,11 @@
 
   <!-- 20mm FF autocannon -->
 
-  <Turret_Oerlikonautocannon.label>20mm 欧瑞康机炮</Turret_Oerlikonautocannon.label>
+  <Turret_Oerlikonautocannon.label>20mm 奥瑞康机炮</Turret_Oerlikonautocannon.label>
   <Turret_Oerlikonautocannon.description>A manned turret mounted with a 20mm Oerlikon autocannon. It deals armor-piercing damage. The turret explodes when heavily damaged. It uses 20x102mm rounds for ammo。</Turret_Oerlikonautocannon.description>
-  <Turret_Oerlikonautocannon_Blueprint.label>20mm 欧瑞康机炮 (蓝图)</Turret_Oerlikonautocannon_Blueprint.label>
-  <Turret_Oerlikonautocannon_Blueprint_Install.label>20mm 欧瑞康机炮 (蓝图)</Turret_Oerlikonautocannon_Blueprint_Install.label>
-  <Turret_Oerlikonautocannon_Frame.label>20mm 欧瑞康机炮 (建造中)</Turret_Oerlikonautocannon_Frame.label>
+  <Turret_Oerlikonautocannon_Blueprint.label>20mm 奥瑞康机炮 (蓝图)</Turret_Oerlikonautocannon_Blueprint.label>
+  <Turret_Oerlikonautocannon_Blueprint_Install.label>20mm 奥瑞康机炮 (蓝图)</Turret_Oerlikonautocannon_Blueprint_Install.label>
+  <Turret_Oerlikonautocannon_Frame.label>20mm 奥瑞康机炮 (建造中)</Turret_Oerlikonautocannon_Frame.label>
   <Turret_Oerlikonautocannon_Frame.description>A manned turret mounted with a 20mm Oerlikon autocannon. It deals armor-piercing damage. The turret explodes when heavily damaged. It uses 20x102mm rounds for ammo。</Turret_Oerlikonautocannon_Frame.description>
 
 
