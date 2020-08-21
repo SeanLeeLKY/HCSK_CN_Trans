@@ -1,47 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Door.label>rustic door</Door.label>
-  <Door.description>Divides rooms. Must be manually opened and closed, which slows people down。</Door.description>
-  <Door_Blueprint.label>rustic door (blueprint)</Door_Blueprint.label>
-  <Door_Frame.label>rustic door (building)</Door_Frame.label>
-  <Door_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down。</Door_Frame.description>
+  <Door.label>门</Door.label>
+  <Door.description>分隔房间。只能手动开关，会减慢人的速度。</Door.description>
+  <Door_Blueprint.label>门 （蓝图）</Door_Blueprint.label>
+  <Door_Frame.label>门 （建造中）</Door_Frame.label>
+  <Door_Frame.description>分隔房间。只能手动开关，会减慢人的速度。</Door_Frame.description>
 
-  <MDoor.label>metal door</MDoor.label>
-  <MDoor.description>Divides rooms. Must be manually opened and closed, which slows people down。</MDoor.description>
-  <MDoor_Blueprint.label>metal door (blueprint)</MDoor_Blueprint.label>
-  <MDoor_Frame.label>metal door (building)</MDoor_Frame.label>
-  <MDoor_Frame.description>Divides rooms. Must be manually opened and closed, which slows people down。</MDoor_Frame.description>
+  <MDoor.label>金属门</MDoor.label>
+  <MDoor.description>分隔房间。只能手动开关，会减慢人的速度。</MDoor.description>
+  <MDoor_Blueprint.label>金属门 （蓝图）</MDoor_Blueprint.label>
+  <MDoor_Frame.label>金属门 （建造中）</MDoor_Frame.label>
+  <MDoor_Frame.description>分隔房间。只能手动开关，会减慢人的速度。</MDoor_Frame.description>
 
-  <CellDoor.label>cell door</CellDoor.label>
-  <CellDoor.description>Door which prisoners as well as colonists can open. It divides rooms。</CellDoor.description>
-  <CellDoor_Blueprint.label>cell door (blueprint)</CellDoor_Blueprint.label>
-  <CellDoor_Frame.label>cell door (building)</CellDoor_Frame.label>
-  <CellDoor_Frame.description>Door which prisoners as well as colonists can open. It divides rooms。</CellDoor_Frame.description>
+  <CellDoor.label>牢门</CellDoor.label>
+  <CellDoor_Blueprint.label>牢门 （蓝图）</CellDoor_Blueprint.label>
+  <CellDoor_Frame.label>牢门 （建造中）</CellDoor_Frame.label>
+ 
+  <Autodoor.label>自动门</Autodoor.label>
+  <Autodoor.description>分隔房间。电力运转，人穿过门不会减速。</Autodoor.description>
+  <Autodoor_Blueprint.label>自动门 （蓝图）</Autodoor_Blueprint.label>
+  <Autodoor_Frame.label>自动门 （建造中）</Autodoor_Frame.label>
+  <Autodoor_Frame.description>分隔房间。电力运转，人穿过门不会减速。</Autodoor_Frame.description>
 
-  <Autodoor.label>autodoor</Autodoor.label>
-  <Autodoor.description>A door divides rooms with a closable opening. Powered operation allows people to move through the door without slowing down。</Autodoor.description>
-  <Autodoor_Blueprint.label>autodoor (blueprint)</Autodoor_Blueprint.label>
-  <Autodoor_Frame.label>autodoor (building)</Autodoor_Frame.label>
-  <Autodoor_Frame.description>A door divides rooms with a closable opening. Powered operation allows people to move through the door without slowing down。</Autodoor_Frame.description>
-
-  <Blastdoor.label>blast autodoor</Blastdoor.label>
-  <Blastdoor.description>A powered, reinforced door that allows people to move through the door without slowing down。</Blastdoor.description>
-  <Blastdoor_Blueprint.label>blast autodoor (blueprint)</Blastdoor_Blueprint.label>
-  <Blastdoor_Frame.label>blast autodoor (building)</Blastdoor_Frame.label>
-  <Blastdoor_Frame.description>A powered, reinforced door that allows people to move through the door without slowing down。</Blastdoor_Frame.description>
-
-  <OpenBlastDoor.label>large armor gate (open)</OpenBlastDoor.label>
-  <OpenBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently open。</OpenBlastDoor.description>
-
-  <ClosedBlastDoor.label>large armor gate (closed)</ClosedBlastDoor.label>
-  <ClosedBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently closed。</ClosedBlastDoor.description>
-  <ClosedBlastDoor_Blueprint.label>large armor gate (closed) (blueprint)</ClosedBlastDoor_Blueprint.label>
-  <ClosedBlastDoor_Frame.label>large armor gate (closed) (building)</ClosedBlastDoor_Frame.label>
-  <ClosedBlastDoor_Frame.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently closed。</ClosedBlastDoor_Frame.description>
-
-  <JammedBlastDoor.label>large armor gate (jammed)</JammedBlastDoor.label>
-  <JammedBlastDoor.description>A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is jammed。</JammedBlastDoor.description>
-
+  <Blastdoor.label>防爆自动门</Blastdoor.label>
+  <Blastdoor_Blueprint.label>防爆自动门 （蓝图）</Blastdoor_Blueprint.label>
+  <Blastdoor_Frame.label>防爆自动门 （建造中）</Blastdoor_Frame.label>
+ 
+  <OpenBlastDoor.label>大型装甲门 （开启）</OpenBlastDoor.label>
+  
+  <ClosedBlastDoor.label>大型装甲门 （关闭）</ClosedBlastDoor.label>
+  <ClosedBlastDoor_Blueprint.label>大型装甲门 （关闭） （蓝图）</ClosedBlastDoor_Blueprint.label>
+  <ClosedBlastDoor_Frame.label>大型装甲门 （关闭） （建造中）</ClosedBlastDoor_Frame.label>
+  
+  <JammedBlastDoor.label>大型装甲门 （阻塞）</JammedBlastDoor.label>
+  
 
 </LanguageData>

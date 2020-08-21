@@ -1,29 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_SimpleHelmet.label>simple helmet</Apparel_SimpleHelmet.label>
-  <Apparel_SimpleHelmet.description>A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons。</Apparel_SimpleHelmet.description>
+  <Apparel_SimpleHelmet.label>简易头盔</Apparel_SimpleHelmet.label>
+  <Apparel_SimpleHelmet.description>提供一定利器攻击防护的简易头盔。抵抗钝器类武器不太有效。</Apparel_SimpleHelmet.description>
 
-  <Apparel_AdvancedHelmet.label>Kevlar Helmet</Apparel_AdvancedHelmet.label>
-  <Apparel_AdvancedHelmet.description>A lightweight armored combat helmet that protects your head and ears。</Apparel_AdvancedHelmet.description>
-
-  <Marine_Helmet.label>Marine Ballistic Helmet</Marine_Helmet.label>
-  <Marine_Helmet.description>A marine helmet designed to protect against ballistics. This is a standard issue item for Colonial Marines。</Marine_Helmet.description>
-
-  <Jaffa_BasicHelmet.label>Scout Helmet</Jaffa_BasicHelmet.label>
-  <Jaffa_BasicHelmet.description>This basic scout helmet doesn't offer great protection, but it is lightweight。</Jaffa_BasicHelmet.description>
-
-  <USCM_CamoHelmet.label>Camo Ballistic Helmet</USCM_CamoHelmet.label>
-  <USCM_CamoHelmet.description>A camouflaged version of the marine ballistic helmet. It is a standard issue item for Colonial Marines。</USCM_CamoHelmet.description>
-
-  <MilitaryHelmetGoggles.label>Military Googled Helmet</MilitaryHelmetGoggles.label>
-  <MilitaryHelmetGoggles.description>A camouflaged marine ballistic helmet with built in goggles. This is a standard issue item for Colonial Marines。</MilitaryHelmetGoggles.description>
-
-  <USCM_PilotHelmet.label>Military Pilot Helmet</USCM_PilotHelmet.label>
-  <USCM_PilotHelmet.description>A standard issue helmet used by pilots across all of the USCM fleets。</USCM_PilotHelmet.description>
-
-  <Tactical_Helmet.label>Tactical Helmet</Tactical_Helmet.label>
-  <Tactical_Helmet.description>A tactical combat helmet used by special forces。</Tactical_Helmet.description>
-
+  <Apparel_AdvancedHelmet.label>凯夫拉头盔</Apparel_AdvancedHelmet.label>
+  
+  <Marine_Helmet.label>士兵防弹头盔</Marine_Helmet.label>
+  
+  <Jaffa_BasicHelmet.label>侦察兵头盔</Jaffa_BasicHelmet.label>
+  
+  <USCM_CamoHelmet.label>迷彩防弹头盔</USCM_CamoHelmet.label>
+  
+  <MilitaryHelmetGoggles.label>军用护目镜头盔</MilitaryHelmetGoggles.label>
+  
+  <USCM_PilotHelmet.label>军用飞行员头盔</USCM_PilotHelmet.label>
+  
+  <Tactical_Helmet.label>战术头盔</Tactical_Helmet.label>
+  
 
 </LanguageData>

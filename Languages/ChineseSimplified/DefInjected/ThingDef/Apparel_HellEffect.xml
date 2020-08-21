@@ -1,29 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_CommandoArmor.label>Asari Armor</Apparel_CommandoArmor.label>
-  <Apparel_CommandoArmor.description>The standart armor worn by Asari Commandos in the field. Light to wear, yet it offers good protection on the battlefield。</Apparel_CommandoArmor.description>
+  <Apparel_CommandoArmor.label>阿萨利装甲</Apparel_CommandoArmor.label>
+  <Apparel_CommandoArmor.description>阿萨利地面突击分队的标准装甲。重量轻，防护力好。</Apparel_CommandoArmor.description>
 
-  <Apparel_PowerArmor.label>Power Armor</Apparel_PowerArmor.label>
-  <Apparel_PowerArmor.description>An advanced suit of armor powered by uranium. It is usually used by assault troops from advanced glitterworld planets。</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.label>动力装甲</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.description>来自先进的闪耀世界行星的动力装甲，通常装备于突击部队。</Apparel_PowerArmor.description>
 
-  <Apparel_PowerArmorHelmet.label>Power Armor Helmet</Apparel_PowerArmorHelmet.label>
-  <Apparel_PowerArmorHelmet.description>The helmet part of power armor set. It is mostly used by heavy infantry。</Apparel_PowerArmorHelmet.description>
+  <Apparel_PowerArmorHelmet.label>动力头盔</Apparel_PowerArmorHelmet.label>
+  <Apparel_PowerArmorHelmet.description>动力装甲套装中的一部分，一般装备于重步兵。</Apparel_PowerArmorHelmet.description>
 
-  <InterstellarArmor.label>Interstellar Armor</InterstellarArmor.label>
-  <InterstellarArmor.description>A special interstellar armor。</InterstellarArmor.description>
+  <InterstellarArmor.label>星际装甲</InterstellarArmor.label>
+  <InterstellarArmor.description>一件特殊的星际空间用装甲。</InterstellarArmor.description>
 
-  <Apparell_Tentakle.label>Tentakle</Apparell_Tentakle.label>
-  <Apparell_Tentakle.description>An awe inspiring tentakle. It makes your subject's hearts beat ever so faster around you。</Apparell_Tentakle.description>
-
-  <Apparel_Tagelmust.label>Tagelmust</Apparel_Tagelmust.label>
-  <Apparel_Tagelmust.description>The tagelmust covers the head and prevents the inhalation of wind-borne sand by its wearers. Vastly appreciated by the desert travelers for its features。</Apparel_Tagelmust.description>
-
-  <Apparel_Ushanka.label>Cosmic Ushanka</Apparel_Ushanka.label>
-  <Apparel_Ushanka.description>Thick and soft hat of ancient design used to keep you warm during coldest winters. Slightly more durable than tuque。</Apparel_Ushanka.description>
-
-  <Apparel_PC.label>Peaked cap</Apparel_PC.label>
-  <Apparel_PC.description>Peaked officer hat. Quite rare these days... Very light and comfy, made out of unknown material. Makes you look like real war hero。</Apparel_PC.description>
-
+  <Apparell_Tentakle.label>恶魔装甲</Apparell_Tentakle.label>
+  
+  <Apparel_Tagelmust.label>缠头巾</Apparel_Tagelmust.label>
+ 
+  <Apparel_Ushanka.label>阔毡帽</Apparel_Ushanka.label>
+  
+  <Apparel_PC.label>鸭舌帽</Apparel_PC.label>
+  
 
 </LanguageData>

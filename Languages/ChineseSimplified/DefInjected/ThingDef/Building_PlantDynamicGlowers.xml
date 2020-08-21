@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ShimmershroomGlowerSmall.label>glowing shimmershroom</ShimmershroomGlowerSmall.label>
-  <ShimmershroomGlowerSmall.description>A small shimmershroom glower。</ShimmershroomGlowerSmall.description>
+  <ShimmershroomGlowerSmall.label>微光菇</ShimmershroomGlowerSmall.label>
+  <ShimmershroomGlowerSmall.description>一朵微光菇。</ShimmershroomGlowerSmall.description>
 
-  <ShimmershroomGlowerMedium.label>glowing shimmershroom</ShimmershroomGlowerMedium.label>
-  <ShimmershroomGlowerMedium.description>A medium shimmershroom glower。</ShimmershroomGlowerMedium.description>
+  <ShimmershroomGlowerMedium.label>微光菇</ShimmershroomGlowerMedium.label>
+  <ShimmershroomGlowerMedium.description>一朵微光菇。</ShimmershroomGlowerMedium.description>
 
-  <ShimmershroomGlowerBig.label>glowing shimmershroom</ShimmershroomGlowerBig.label>
-  <ShimmershroomGlowerBig.description>A big shimmershroom glower。</ShimmershroomGlowerBig.description>
+  <ShimmershroomGlowerBig.label>微光菇</ShimmershroomGlowerBig.label>
+  <ShimmershroomGlowerBig.description>一朵微光菇。</ShimmershroomGlowerBig.description>
 
-  <GlowbulbGlowerSmall.label>glowing glowbulb</GlowbulbGlowerSmall.label>
-  <GlowbulbGlowerSmall.description>A small glowbulb glower。</GlowbulbGlowerSmall.description>
+  <GlowbulbGlowerSmall.label>暗光菇</GlowbulbGlowerSmall.label>
+  <GlowbulbGlowerSmall.description>一朵暗光菇。</GlowbulbGlowerSmall.description>
 
-  <GlowbulbGlowerMedium.label>glowing glowbulb</GlowbulbGlowerMedium.label>
-  <GlowbulbGlowerMedium.description>A medium glowbulb glower。</GlowbulbGlowerMedium.description>
+  <GlowbulbGlowerMedium.label>暗光菇</GlowbulbGlowerMedium.label>
+  <GlowbulbGlowerMedium.description>一朵暗光菇。</GlowbulbGlowerMedium.description>
 
-  <GlowbulbGlowerBig.label>glowing glowbulb</GlowbulbGlowerBig.label>
-  <GlowbulbGlowerBig.description>A big glowbulb glower。</GlowbulbGlowerBig.description>
+  <GlowbulbGlowerBig.label>暗光菇</GlowbulbGlowerBig.label>
+  <GlowbulbGlowerBig.description>一朵暗光菇。</GlowbulbGlowerBig.description>
 
-  <GleamcapGlowerSmall.label>glowing gleamcap</GleamcapGlowerSmall.label>
-  <GleamcapGlowerSmall.description>A small gleamcap glower。</GleamcapGlowerSmall.description>
+  <GleamcapGlowerSmall.label>闪帽菇</GleamcapGlowerSmall.label>
+  <GleamcapGlowerSmall.description>一朵闪帽菇。</GleamcapGlowerSmall.description>
 
-  <GleamcapGlowerMedium.label>glowing gleamcap</GleamcapGlowerMedium.label>
-  <GleamcapGlowerMedium.description>A medium gleamcap glower。</GleamcapGlowerMedium.description>
+  <GleamcapGlowerMedium.label>闪帽菇</GleamcapGlowerMedium.label>
+  <GleamcapGlowerMedium.description>一朵闪帽菇。</GleamcapGlowerMedium.description>
 
-  <GleamcapGlowerBig.label>glowing gleamcap</GleamcapGlowerBig.label>
-  <GleamcapGlowerBig.description>A big gleamcap glower。</GleamcapGlowerBig.description>
+  <GleamcapGlowerBig.label>闪帽菇</GleamcapGlowerBig.label>
+  <GleamcapGlowerBig.description>一朵闪帽菇。</GleamcapGlowerBig.description>
 
-  <GleamcapSporeSpawner.label>spores</GleamcapSporeSpawner.label>
-  <GleamcapSporeSpawner.description>Building used to spawn gleamcap spores。</GleamcapSporeSpawner.description>
+  <GleamcapSporeSpawner.label>孢子</GleamcapSporeSpawner.label>
+  <GleamcapSporeSpawner.description>生成闪帽孢子的东西。</GleamcapSporeSpawner.description>
 
 
   <!-- Brightbells -->
 
-  <BrightbellsGlowerSmall.label>glowing brightbells</BrightbellsGlowerSmall.label>
-  <BrightbellsGlowerSmall.description>A small shimmershroom glower。</BrightbellsGlowerSmall.description>
+  <BrightbellsGlowerSmall.label>耀铃菇</BrightbellsGlowerSmall.label>
+  <BrightbellsGlowerSmall.description>一朵耀铃菇。</BrightbellsGlowerSmall.description>
 
-  <BrightbellsGlowerMedium.label>glowing brightbells</BrightbellsGlowerMedium.label>
-  <BrightbellsGlowerMedium.description>A medium shimmershroom glower。</BrightbellsGlowerMedium.description>
+  <BrightbellsGlowerMedium.label>耀铃菇</BrightbellsGlowerMedium.label>
+  <BrightbellsGlowerMedium.description>一朵耀铃菇。</BrightbellsGlowerMedium.description>
 
-  <BrightbellsGlowerBig.label>glowing brightbells</BrightbellsGlowerBig.label>
-  <BrightbellsGlowerBig.description>A big shimmershroom glower。</BrightbellsGlowerBig.description>
+  <BrightbellsGlowerBig.label>耀铃菇</BrightbellsGlowerBig.label>
+  <BrightbellsGlowerBig.description>一朵耀铃菇。</BrightbellsGlowerBig.description>
 
 
 </LanguageData>

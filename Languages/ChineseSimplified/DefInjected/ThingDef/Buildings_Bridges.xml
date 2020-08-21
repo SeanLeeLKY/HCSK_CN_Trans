@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bridge.label>Basic Bridge</Bridge.label>
-  <Bridge.description>A basic wooden pier-style bridge. Useful for crossing rivers without getting your feet wet. Can be built on shallow water, marsh or mud。</Bridge.description>
-  <Bridge_Blueprint.label>Basic Bridge (blueprint)</Bridge_Blueprint.label>
-  <Bridge_Frame.label>Basic Bridge (building)</Bridge_Frame.label>
-  <Bridge_Frame.description>A basic wooden pier-style bridge. Useful for crossing rivers without getting your feet wet. Can be built on shallow water, marsh or mud。</Bridge_Frame.description>
+  <Bridge.label>基础桥</Bridge.label>
+  <Bridge.description>码头形状的木桥，可以让小人从浅水水面上行走。</Bridge.description>
+  <Bridge_Blueprint.label>基础桥 （蓝图）</Bridge_Blueprint.label>
+  <Bridge_Frame.label>基础桥 （建造中）</Bridge_Frame.label>
+  <Bridge_Frame.description>码头形状的木桥，可以让小人从浅水水面上行走。</Bridge_Frame.description>
 
-  <DeepBridge.label>Deep Water Bridge</DeepBridge.label>
-  <DeepBridge.description>A sturdy, reinforced wooden bridge, designed to allow passage across deeper water. A bit harder to build than a basic bridge. Can only be built on deep water。</DeepBridge.description>
-  <DeepBridge_Blueprint.label>Deep Water Bridge (blueprint)</DeepBridge_Blueprint.label>
-  <DeepBridge_Frame.label>Deep Water Bridge (building)</DeepBridge_Frame.label>
-  <DeepBridge_Frame.description>A sturdy, reinforced wooden bridge, designed to allow passage across deeper water. A bit harder to build than a basic bridge. Can only be built on deep water。</DeepBridge_Frame.description>
+  <DeepBridge.label>深水桥</DeepBridge.label>
+  <DeepBridge.description>坚固、加强过的木桥，可以让小人从深水上通过。制造的工作量比基础桥要高。建造在深水上。</DeepBridge.description>
+  <DeepBridge_Blueprint.label>深水桥 （蓝图）</DeepBridge_Blueprint.label>
+  <DeepBridge_Frame.label>深水桥 （建造中）</DeepBridge_Frame.label>
+  <DeepBridge_Frame.description>坚固、加强过的木桥，可以让小人从深水上通过。制造的工作量比基础桥要高。建造在深水上。</DeepBridge_Frame.description>
 
-  <Boardwalk.label>Boardwalk</Boardwalk.label>
-  <Boardwalk.description>It looks like a bridge, but it sits over land. Use it to put aesthetic finishing touches on your bridges or piers. Can be built on land in close proximity to water。</Boardwalk.description>
-  <Boardwalk_Blueprint.label>Boardwalk (blueprint)</Boardwalk_Blueprint.label>
-  <Boardwalk_Frame.label>Boardwalk (building)</Boardwalk_Frame.label>
-  <Boardwalk_Frame.description>It looks like a bridge, but it sits over land. Use it to put aesthetic finishing touches on your bridges or piers. Can be built on land in close proximity to water。</Boardwalk_Frame.description>
+  <Boardwalk.label>桥板</Boardwalk.label>
+  <Boardwalk.description>外观上看上去和桥一样，但是只能放置在地面上。在你的桥或者码头靠岸的地方建造来提高美观度吧。只能建造在靠近水面的陆地上。</Boardwalk.description>
+  <Boardwalk_Blueprint.label>桥板 （蓝图）</Boardwalk_Blueprint.label>
+  <Boardwalk_Frame.label>桥板 （建造中）</Boardwalk_Frame.label>
+  <Boardwalk_Frame.description>外观上看上去和桥一样，但是只能放置在地面上。在你的桥或者码头靠岸的地方建造来提高美观度吧。只能建造在靠近水面的陆地上。</Boardwalk_Frame.description>
 
 
 </LanguageData>

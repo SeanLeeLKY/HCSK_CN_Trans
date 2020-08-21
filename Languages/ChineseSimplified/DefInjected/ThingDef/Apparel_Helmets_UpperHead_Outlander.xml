@@ -1,35 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_Furhat.label>Fur Hat</Apparello_Furhat.label>
-  <Apparello_Furhat.description>To keep your head warm in cold climates, wear fur! Be warned though that in the right place, the fur wears you!</Apparello_Furhat.description>
+  <Apparello_Furhat.label>皮帽</Apparello_Furhat.label>
+  <Apparello_Furhat.description>在寒冷的气候中保持头部温暖，戴上毛皮！但是，毛皮也穿戴着你！</Apparello_Furhat.description>
 
-  <Apparel_FSFurHat.label>Norbal fur Hat</Apparel_FSFurHat.label>
-  <Apparel_FSFurHat.description>A warm hat made of fur。</Apparel_FSFurHat.description>
+  <Apparel_FSFurHat.label>诺巴皮帽</Apparel_FSFurHat.label>
+  <Apparel_FSFurHat.description>一顶温暖的皮帽。</Apparel_FSFurHat.description>
 
-  <Apparello_Woolcap.label>Woollen Cap</Apparello_Woolcap.label>
-  <Apparello_Woolcap.description>A woollen cap made from very woollen material. Nothing can compete with it in keeping your head warm. The tuft on top keeps your nerves cold!</Apparello_Woolcap.description>
+  <Apparello_Woolcap.label>毛帽</Apparello_Woolcap.label>
+  
+  <Apparello_Bandal.label>棒球帽</Apparello_Bandal.label>
+  <Apparello_Bandal.description>棒球专用的帽子，也许是最有名的古老游戏，你打你的球，然后跑回本垒。这是一个非常暴力的游戏，完全基于诡异的命中和运行战术。谢天谢地，这个时代不需要再练习了。</Apparello_Bandal.description>
 
-  <Apparello_Bandal.label>Baseball Cap</Apparello_Bandal.label>
-  <Apparello_Bandal.description>A common cap. Perhaps most famous from the age old game where you hit a ball with a stick-like bat and then run home。</Apparello_Bandal.description>
+  <Apparello_pieband.label>头巾</Apparello_pieband.label>
+  
+  <Apparel_Tuque.label>花头巾</Apparel_Tuque.label>
+  
+  <Apparello_Fedora.label>软呢帽</Apparello_Fedora.label>
+  <Apparello_Fedora.description>戴这顶帽子的人往往是流氓或者政府官员，反正在边缘世界两者几乎是相同的。</Apparello_Fedora.description>
 
-  <Apparello_pieband.label>Bandana</Apparello_pieband.label>
-  <Apparello_pieband.description>A rather simple piece of cloth worn on the head. It covers your hair。</Apparello_pieband.description>
-
-  <Apparel_Tuque.label>Fancy Bandana</Apparel_Tuque.label>
-  <Apparel_Tuque.description>This bandana is little more than a fancy piece of cloth that is worn on the head. It covers your hair。</Apparel_Tuque.description>
-
-  <Apparello_Fedora.label>Fedora</Apparello_Fedora.label>
-  <Apparello_Fedora.description>Nah, see! These hats are often associated with gangsters and government officials, which are both practically the same。</Apparello_Fedora.description>
-
-  <Apparello_wassupcaptwo.label>Captain's Tricorne</Apparello_wassupcaptwo.label>
-  <Apparello_wassupcaptwo.description>A three-pointed hat with a captain's insignia on it. You're the captain now。</Apparello_wassupcaptwo.description>
-
-  <Warm_Cap.label>Warm Cap</Warm_Cap.label>
-  <Warm_Cap.description>A simple cap. It helps to keep your head warm. It seems a bit small and doesn't quite cover your entire head。</Warm_Cap.description>
-
-  <Apparello_Vandal.label>coif</Apparello_Vandal.label>
-  <Apparello_Vandal.description>Common coif from middle age. Offers protection from hot and cold。</Apparello_Vandal.description>
+  <Apparello_wassupcaptwo.label>船长帽</Apparello_wassupcaptwo.label>
+  
+  <Warm_Cap.label>暖帽</Warm_Cap.label>
+  
+  <Apparello_Vandal.label>围巾</Apparello_Vandal.label>
+  <Apparello_Vandal.description>从中世纪一直流传下来的一种衣物。能够提供一点防寒防暑的功能。</Apparello_Vandal.description>
 
 
 </LanguageData>

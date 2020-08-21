@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_Standissue.label>Standard issue overalls</Apparello_Standissue.label>
-  <Apparello_Standissue.description>Standard military issue air force overalls. Very common amongst orbital drop squads。</Apparello_Standissue.description>
+  <Apparello_Standissue.label>标准工作服/Apparello_Standissue.label>
+  <Apparello_Standissue.description>标准空军军事工作服，在轨道空降部队非常常见。</Apparello_Standissue.description>
 
-  <Apparello_MedicalApron.label>Surgeon's apron</Apparello_MedicalApron.label>
-  <Apparello_MedicalApron.description>Lovely plastic apron for all your bloodspilling needs。</Apparello_MedicalApron.description>
+  <Apparello_MedicalApron.label>外科围裙</Apparello_MedicalApron.label>
+  <Apparello_MedicalApron.description>漂亮的塑胶围裙，在鲜血会喷出的场合下你将会非常需要它。</Apparello_MedicalApron.description>
 
-  <Apparello_Syndicatellorare.label>Wanderer's chestplate</Apparello_Syndicatellorare.label>
-  <Apparello_Syndicatellorare.description>Lone wanderers would wear something like this while on their noble crusade or vendetta。</Apparello_Syndicatellorare.description>
+  <Apparello_Syndicatellorare.label>流浪者胸甲</Apparello_Syndicatellorare.label>
+  <Apparello_Syndicatellorare.description>孤独的流浪者在他们远征或报仇时会穿这样的东西。</Apparello_Syndicatellorare.description>
 
-  <Apparello_Ammobelt.label>Ammo belt</Apparello_Ammobelt.label>
-  <Apparello_Ammobelt.description>Belt designed for carrying ammunition。</Apparello_Ammobelt.description>
+  <Apparello_Ammobelt.label>子弹带</Apparello_Ammobelt.label>
+  <Apparello_Ammobelt.description>为携带弹药而设计的腰带。</Apparello_Ammobelt.description>
 
-  <Apparello_Smithaprontosaurus.label>Bib apron</Apparello_Smithaprontosaurus.label>
-  <Apparello_Smithaprontosaurus.description>These kind of hardened leather aprons are used by professionals of many trades。</Apparello_Smithaprontosaurus.description>
+  <Apparello_Smithaprontosaurus.label>围兜围裙</Apparello_Smithaprontosaurus.label>
+  <Apparello_Smithaprontosaurus.description>这类硬化皮革围裙被许多行业的专业人士使用。</Apparello_Smithaprontosaurus.description>
 
-  <Apparello_Cookaprontosaurus.label>Cook Apron</Apparello_Cookaprontosaurus.label>
-  <Apparello_Cookaprontosaurus.description>Pocketed cloth apron intended for enhancing your housekeeping experience. It's a hygiene thing, you wouldn't understand。</Apparello_Cookaprontosaurus.description>
+  <Apparello_Cookaprontosaurus.label>厨师围裙</Apparello_Cookaprontosaurus.label>
+  <Apparello_Cookaprontosaurus.description>专门用於提高家务经验的独立式围裙。这是一个卫生的东西，你不明白。</Apparello_Cookaprontosaurus.description>
 
-  <Apparello_Trypophobia.label>Trader's coat</Apparello_Trypophobia.label>
-  <Apparello_Trypophobia.description>What is a trader? A miserable little pile of bags -Count Dravania, moments before being lynched by an angry mob。</Apparello_Trypophobia.description>
+  <Apparello_Trypophobia.label>商人大衣</Apparello_Trypophobia.label>
+  <Apparello_Trypophobia.description>"什麽是商人？一堆可怜的袋子" - 在被愤怒的暴民们私刑前的一瞬间 - 德拉瓦尼亚。</Apparello_Trypophobia.description>
 
-  <Apparello_Tribalpad.label>Tribal shoulderpads</Apparello_Tribalpad.label>
-  <Apparello_Tribalpad.description>Ceremonial shoulderguard</Apparello_Tribalpad.description>
+  <Apparello_Tribalpad.label>部落护肩</Apparello_Tribalpad.label>
+  <Apparello_Tribalpad.description>具礼仪性质的护肩。</Apparello_Tribalpad.description>
 
-  <Apparello_Meffectwo.label>Meffect-Headgear</Apparello_Meffectwo.label>
-  <Apparello_Meffectwo.description>Mostly airtight headgear designed for deep-space explorers to combat the hostile bacteria on uninhabitable planets。</Apparello_Meffectwo.description>
+  <Apparello_Meffectwo.label>适应性面罩</Apparello_Meffectwo.label>
+  <Apparello_Meffectwo.description>为深空探索者设计的气密头盔，可以抵御无法居住的行星上的致命细菌。</Apparello_Meffectwo.description>
 
-  <Apparello_MojoFeather.label>Tribal headdress</Apparello_MojoFeather.label>
-  <Apparello_MojoFeather.description>Tribal headdress or a foot bottom torturing device. It's very feathery。</Apparello_MojoFeather.description>
+  <Apparello_MojoFeather.label>部落头饰</Apparello_MojoFeather.label>
+  <Apparello_MojoFeather.description>部落头饰或拿来当脚底酷刑装置。这羽毛真有卵用！</Apparello_MojoFeather.description>
 
-  <Apparello_Lecap.label>Kepi</Apparello_Lecap.label>
-  <Apparello_Lecap.description>The most important piece of many a rebel army uniform。</Apparello_Lecap.description>
+  <Apparello_Lecap.label>克皮帽</Apparello_Lecap.label>
+  <Apparello_Lecap.description>他是许多军队制服中最重要的一部分。</Apparello_Lecap.description>
 
 
   <!-- Sand trader -->
 
-  <Apparello_Sandtrader.label>Caravaneer's hat</Apparello_Sandtrader.label>
-  <Apparello_Sandtrader.description>Roaming merchants use these to protect their face from dust storms and the like。</Apparello_Sandtrader.description>
+  <Apparello_Sandtrader.label>游商帽</Apparello_Sandtrader.label>
+  <Apparello_Sandtrader.description>旅行商人使用它来保护他们的脸免受沙尘暴，有毒的沉积物等。</Apparello_Sandtrader.description>
 
 
 </LanguageData>

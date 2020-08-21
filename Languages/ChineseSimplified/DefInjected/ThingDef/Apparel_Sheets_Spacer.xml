@@ -1,20 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_XcomOne.label>Air Force Overalls</Apparello_XcomOne.label>
-  <Apparello_XcomOne.description>Standard military issue air force overalls. Very common amongst orbital drop squads。</Apparello_XcomOne.description>
+  <Apparello_XcomOne.label>空军罩衣</Apparello_XcomOne.label>
+  <Apparello_XcomOne.description>标准的军用罩衣。在轨道空降部队非常常见。</Apparello_XcomOne.description>
 
-  <Apparello_XcomOneCraft.label>X-Com Overalls</Apparello_XcomOneCraft.label>
-  <Apparello_XcomOneCraft.description>Spaceship engineers all across the galaxy are known to wear these for the resistance they provide; against their worst enemy...electric cables。</Apparello_XcomOneCraft.description>
+  <Apparello_XcomOneCraft.label>幽浮罩衣</Apparello_XcomOneCraft.label>
+  
 
-  <Apparello_GSkin.label>Jumpsuit</Apparello_GSkin.label>
-  <Apparello_GSkin.description>A basic heat absorbing jumpsuit. Normally seen worn on Glitterworld light infantry, officials and firefighters。</Apparello_GSkin.description>
-
-  <Apparello_GSkinSpacer.label>Cryptopod Bodysuit</Apparello_GSkinSpacer.label>
-  <Apparello_GSkinSpacer.description>This is the kind of full body suit that you see worn on occasion by long distance travelers。</Apparello_GSkinSpacer.description>
-
-  <Carbon_overalls.label>Carbon Overalls</Carbon_overalls.label>
-  <Carbon_overalls.description>High tech overalls with carbon fibers woven in. Provides good protection。</Carbon_overalls.description>
-
+  <Apparello_GSkin.label>连身裤</Apparello_GSkin.label>
+  
+  <Apparello_GSkinSpacer.label>休眠仓紧身衣</Apparello_GSkinSpacer.label>
+  
+  <Carbon_overalls.label>碳纤维罩衣</Carbon_overalls.label>
+  
 
 </LanguageData>

@@ -1,27 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_Chefhatplus.label>Tinkercraft Chef Hat</Apparello_Chefhatplus.label>
-  <Apparello_Chefhatplus.description>A hat armed with timers and very basic scent detectors to help anyone cook their meals just right. The chef hat on it is just for declaring the purpose of this headgear。</Apparello_Chefhatplus.description>
+  <Apparello_Chefhatplus.label>创意厨师帽</Apparello_Chefhatplus.label>
+  <Apparello_Chefhatplus.description>配备计时器和非常基本的气味检测器可以帮助任何人正确烹饪膳食。 它上面的厨师帽只是为了宣告这个帽子的目的。</Apparello_Chefhatplus.description>
 
-  <Apparel_Psymask.label>Psy Gas Mask</Apparel_Psymask.label>
-  <Apparel_Psymask.description>The Psy Company's Gasmask has to be their most profiting product of all times. 
-	The built in vision sensor technology allows the wearer to operate in the thickest of toxic clouds and more importantly, survive。</Apparel_Psymask.description>
+  <Apparel_Psymask.label>疯子防毒面具</Apparel_Psymask.label>
+  <Apparel_Psymask.description>允许佩戴者在最厚的毒云中工作，更重要的是，生存。</Apparel_Psymask.description>
 
-  <Apparello_Docteur.label>Surgeon's Headgear</Apparello_Docteur.label>
-  <Apparello_Docteur.description>When fiddling with someone else's vital organs, sanitary equipment is crucial. Wearing these enhances the doctor's sight with the amplifier modules on the goggles. The surgical mask prevents unwanted bacteria entering the vict...patient。</Apparello_Docteur.description>
+  <Apparello_Docteur.label>外科面罩</Apparello_Docteur.label>
+  <Apparello_Docteur.description>在摆弄别人的重要器官时，卫生设备是至关重要的。佩戴护目镜可以增强医生的视力。手术口罩可防止有害细菌进入患者体内。</Apparello_Docteur.description>
 
-  <Apparello_Gas.label>Gasmask</Apparello_Gas.label>
-  <Apparello_Gas.description>As an unwieldy and cumbersome protection from gas attacks, this gasmask is not commonly used anymore due to more advanced, better alternatives. However, it is still favored by raiders for its intimidating look。</Apparello_Gas.description>
+  <Apparello_Gas.label>防毒面具</Apparello_Gas.label>
+  <Apparello_Gas.description>笨重的面具保护免受有毒气体攻击，由於更好的更先进的替代品，不再普遍使用。但仍然受到许多突袭者的青睐。</Apparello_Gas.description>
 
-  <Apparello_ViperGas.label>Elephant Gasmask</Apparello_ViperGas.label>
-  <Apparello_ViperGas.description>The 'Lefant Industries' Gasmask (Or the "Elephant Mask" as it is more commonly known as) was heavily used by the most military outfits, until one very fatal design flaw was found. The air filters would get caught in closing elevator hatches and ladder steps or rungs while descending。</Apparello_ViperGas.description>
-
-  <Apparello_ViperGasTwo.label>Hooded Elephant Gasmask</Apparello_ViperGasTwo.label>
-  <Apparello_ViperGasTwo.description>The 'Lefant Industries' Gasmask (Or the "Elephant Mask" as it is more commonly known as) was heavily used by the most military outfits, until one very fatal design flaw was found. The air filters would get caught in closing elevator hatches and ladder steps or rungs while descending. This one is hooded! It is pretty warm。</Apparello_ViperGasTwo.description>
-
-  <Apparello_Cyninja.label>Tac-Team Headcover</Apparello_Cyninja.label>
-  <Apparello_Cyninja.description>Designed to be used by tactical squads in urban warfare situations, it comes with a pre-installed velocity booster and built-in aiming assist. It does expose the wearer's brain to minimal and totally acceptable levels of radioactivity, which is okay!</Apparello_Cyninja.description>
+  <Apparello_ViperGas.label>象鼻防毒面具</Apparello_ViperGas.label>
+  
+  <Apparello_ViperGasTwo.label>全覆式象鼻防毒面具</Apparello_ViperGasTwo.label>
+  
+  <Apparello_Cyninja.label>战术小队面罩</Apparello_Cyninja.label>
+  <Apparello_Cyninja.description>为了战术小队进行城市巷战的设计。预装了弹道测算和内置瞄准辅助。 它确实将佩戴者的大脑暴露在最低限度和完全可接受的放射性水平，这是可以的！</Apparello_Cyninja.description>
 
 
 </LanguageData>

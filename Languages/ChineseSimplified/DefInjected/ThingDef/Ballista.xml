@@ -3,13 +3,13 @@
 
   <!-- Ammo -->
 
-  <Ammo_BalistaBolt.label>Balista bolt</Ammo_BalistaBolt.label>
-  <Ammo_BalistaBolt.description>A large crossbow-like weapon。</Ammo_BalistaBolt.description>
+  <Ammo_BalistaBolt.label>弩炮箭</Ammo_BalistaBolt.label>
+  <Ammo_BalistaBolt.description>一支巨型弩箭。</Ammo_BalistaBolt.description>
 
 
   <!-- Projectiles -->
 
-  <Projectile_BalistaBolt.label>Ballista Bolt</Projectile_BalistaBolt.label>
+  <Projectile_BalistaBolt.label>弩炮箭</Projectile_BalistaBolt.label>
 
 
 </LanguageData>
