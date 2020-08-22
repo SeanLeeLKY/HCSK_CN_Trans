@@ -3,13 +3,13 @@
 
   <!-- Ammo -->
 
-  <Ammo_9x39mmSoviet_FMJ.label>9x39mm Soviet cartridge (FMJ)</Ammo_9x39mmSoviet_FMJ.label>
+  <Ammo_9x39mmSoviet_FMJ.label>9x39mm Soviet cartridge （全金属被甲弹）</Ammo_9x39mmSoviet_FMJ.label>
   <Ammo_9x39mmSoviet_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles。</Ammo_9x39mmSoviet_FMJ.description>
 
-  <Ammo_9x39mmSoviet_AP.label>9x39mm Soviet cartridge (AP)</Ammo_9x39mmSoviet_AP.label>
+  <Ammo_9x39mmSoviet_AP.label>9x39mm Soviet cartridge （穿甲弹）</Ammo_9x39mmSoviet_AP.label>
   <Ammo_9x39mmSoviet_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles。</Ammo_9x39mmSoviet_AP.description>
 
-  <Ammo_9x39mmSoviet_HP.label>9x39mm Soviet cartridge (HP)</Ammo_9x39mmSoviet_HP.label>
+  <Ammo_9x39mmSoviet_HP.label>9x39mm Soviet cartridge （空尖弹）</Ammo_9x39mmSoviet_HP.label>
   <Ammo_9x39mmSoviet_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles。</Ammo_9x39mmSoviet_HP.description>
 
   <Ammo_9x39mmSoviet_SH.label>9x39mm Soviet cartridge (SH)</Ammo_9x39mmSoviet_SH.label>
@@ -18,9 +18,9 @@
 
   <!-- Projectiles -->
 
-  <Bullet_9x39mmSoviet_FMJ.label>9mm Soviet bullet (FMJ)</Bullet_9x39mmSoviet_FMJ.label>
-  <Bullet_9x39mmSoviet_AP.label>9mm Soviet bullet (AP)</Bullet_9x39mmSoviet_AP.label>
-  <Bullet_9x39mmSoviet_HP.label>9mm Soviet bullet (HP)</Bullet_9x39mmSoviet_HP.label>
+  <Bullet_9x39mmSoviet_FMJ.label>9mm Soviet bullet （全金属被甲弹）</Bullet_9x39mmSoviet_FMJ.label>
+  <Bullet_9x39mmSoviet_AP.label>9mm Soviet bullet （穿甲弹）</Bullet_9x39mmSoviet_AP.label>
+  <Bullet_9x39mmSoviet_HP.label>9mm Soviet bullet （空尖弹）</Bullet_9x39mmSoviet_HP.label>
   <Bullet_9x39mmSoviet_SH.label>9mm Soviet bullet (SH)</Bullet_9x39mmSoviet_SH.label>
 
 

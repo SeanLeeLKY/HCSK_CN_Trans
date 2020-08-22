@@ -1,26 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MedievalTimes_Cloak.label>Long cloak</MedievalTimes_Cloak.label>
-  <MedievalTimes_Cloak.description>A long cloak made of furs and leathers for blocking harsh winds and the bone chilling cold. Neolithic era tech, yet still highly effective. Unless your indoors, in which case you'll likely collapse from a heat stroke。</MedievalTimes_Cloak.description>
-
-  <Apparel_FSFurCoat.label>Long coat</Apparel_FSFurCoat.label>
-  <Apparel_FSFurCoat.description>A warm fur coat。</Apparel_FSFurCoat.description>
-
-  <Apparel_FSDesertRobe.label>Desert robe</Apparel_FSDesertRobe.label>
-  <Apparel_FSDesertRobe.description>Light nomad style robes for warm weather。</Apparel_FSDesertRobe.description>
-
-  <MedievalTimes_Hauberk.label>Scaled Hauberk</MedievalTimes_Hauberk.label>
-  <MedievalTimes_Hauberk.description>A long coat which goes down to the knees. It is covered in scaled steel plates, larger plates and chains have been added throughout for added protection。</MedievalTimes_Hauberk.description>
-
-  <MedievalTimes_Cloaked_Hauberk.label>Scaled Hauberk and Cloak</MedievalTimes_Cloaked_Hauberk.label>
-  <MedievalTimes_Cloaked_Hauberk.description>A long coat which goes down to the knees. It is covered in scaled steel plates, larger plates and chains have been added throughout for added protection。</MedievalTimes_Cloaked_Hauberk.description>
-
-  <MedievalArmor_PlateArmor.label>Full Plate Armor</MedievalArmor_PlateArmor.label>
-  <MedievalArmor_PlateArmor.description>This heavy armour made of many metal plates and leather padded chain-mail. It provides good protection from all sorts of attacks, but at the cost of slowing the wearer down。</MedievalArmor_PlateArmor.description>
-
-  <MedievalTimes_Plates_Full_Cloaked.label>Full Plate Armour and Cloak</MedievalTimes_Plates_Full_Cloaked.label>
-  <MedievalTimes_Plates_Full_Cloaked.description>This heavy armour made of many metal plates and leather padded chain-mail. It provides good protection from all sorts of attacks, but at the cost of slowing the wearer down.This outfit was designed with special attachments so a long cloak made of furs and leathers can be used with it. Because of this it is rather effective at blocking harsh winds and the bone chilling cold. </MedievalTimes_Plates_Full_Cloaked.description>
-
+  <MedievalTimes_Cloak.label>长斗篷</MedievalTimes_Cloak.label>
+  
+  <Apparel_FSFurCoat.label>长外套</Apparel_FSFurCoat.label>
+  
+  <Apparel_FSDesertRobe.label>沙漠罩袍</Apparel_FSDesertRobe.label>
+  
+  <MedievalTimes_Hauberk.label>鳞状锁甲</MedievalTimes_Hauberk.label>
+  
+  <MedievalTimes_Cloaked_Hauberk.label>披风锁甲</MedievalTimes_Cloaked_Hauberk.label>
+  
+  <MedievalArmor_PlateArmor.label>全身板甲</MedievalArmor_PlateArmor.label>
+  
+  <MedievalTimes_Plates_Full_Cloaked.label>披风板甲</MedievalTimes_Plates_Full_Cloaked.label>
+  
 
 </LanguageData>

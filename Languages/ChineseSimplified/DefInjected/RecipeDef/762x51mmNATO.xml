@@ -3,17 +3,17 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_762x51mmNATO_FMJ.label>制造 7.62x51mm (FMJ) 北约标准弹x60</MakeAmmo_762x51mmNATO_FMJ.label>
-  <MakeAmmo_762x51mmNATO_FMJ.description>制造 60 7.62x51mm (FMJ) 北约标准弹。</MakeAmmo_762x51mmNATO_FMJ.description>
-  <MakeAmmo_762x51mmNATO_FMJ.jobString>正在制造 7.62x51mm (FMJ) 北约标准弹。</MakeAmmo_762x51mmNATO_FMJ.jobString>
+  <MakeAmmo_762x51mmNATO_FMJ.label>制造 7.62x51mm （全金属被甲弹） 北约标准弹x60</MakeAmmo_762x51mmNATO_FMJ.label>
+  <MakeAmmo_762x51mmNATO_FMJ.description>制造 60 7.62x51mm （全金属被甲弹） 北约标准弹。</MakeAmmo_762x51mmNATO_FMJ.description>
+  <MakeAmmo_762x51mmNATO_FMJ.jobString>正在制造 7.62x51mm （全金属被甲弹） 北约标准弹。</MakeAmmo_762x51mmNATO_FMJ.jobString>
 
-  <MakeAmmo_762x51mmNATO_AP.label>制造 7.62x51mm (AP) 北约标准弹x60</MakeAmmo_762x51mmNATO_AP.label>
-  <MakeAmmo_762x51mmNATO_AP.description>制造 60 7.62x51mm (AP) 北约标准弹。</MakeAmmo_762x51mmNATO_AP.description>
-  <MakeAmmo_762x51mmNATO_AP.jobString>正在制造 7.62x51mm (AP) 北约标准弹。</MakeAmmo_762x51mmNATO_AP.jobString>
+  <MakeAmmo_762x51mmNATO_AP.label>制造 7.62x51mm （穿甲弹） 北约标准弹x60</MakeAmmo_762x51mmNATO_AP.label>
+  <MakeAmmo_762x51mmNATO_AP.description>制造 60 7.62x51mm （穿甲弹） 北约标准弹。</MakeAmmo_762x51mmNATO_AP.description>
+  <MakeAmmo_762x51mmNATO_AP.jobString>正在制造 7.62x51mm （穿甲弹） 北约标准弹。</MakeAmmo_762x51mmNATO_AP.jobString>
 
-  <MakeAmmo_762x51mmNATO_HP.label>制造 7.62x51mm (HP) 北约标准弹x60</MakeAmmo_762x51mmNATO_HP.label>
-  <MakeAmmo_762x51mmNATO_HP.description>制造 60 7.62x51mm (HP) 北约标准弹。</MakeAmmo_762x51mmNATO_HP.description>
-  <MakeAmmo_762x51mmNATO_HP.jobString>正在制造 7.62x51mm (HP) 北约标准弹。</MakeAmmo_762x51mmNATO_HP.jobString>
+  <MakeAmmo_762x51mmNATO_HP.label>制造 7.62x51mm （空尖弹） 北约标准弹x60</MakeAmmo_762x51mmNATO_HP.label>
+  <MakeAmmo_762x51mmNATO_HP.description>制造 60 7.62x51mm （空尖弹） 北约标准弹。</MakeAmmo_762x51mmNATO_HP.description>
+  <MakeAmmo_762x51mmNATO_HP.jobString>正在制造 7.62x51mm （空尖弹） 北约标准弹。</MakeAmmo_762x51mmNATO_HP.jobString>
 
 
 </LanguageData>

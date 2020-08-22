@@ -3,21 +3,18 @@
 
   <!-- Ammo -->
 
-  <Ammo_556x45mmNATO_FMJ.label>5.56x45mm NATO cartridge (FMJ)</Ammo_556x45mmNATO_FMJ.label>
-  <Ammo_556x45mmNATO_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles。</Ammo_556x45mmNATO_FMJ.description>
-
-  <Ammo_556x45mmNATO_AP.label>5.56x45mm NATO cartridge (AP)</Ammo_556x45mmNATO_AP.label>
-  <Ammo_556x45mmNATO_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles。</Ammo_556x45mmNATO_AP.description>
-
-  <Ammo_556x45mmNATO_HP.label>5.56x45mm NATO cartridge (HP)</Ammo_556x45mmNATO_HP.label>
-  <Ammo_556x45mmNATO_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles。</Ammo_556x45mmNATO_HP.description>
-
+  <Ammo_556x45mmNATO_FMJ.label>5.56x45mm 北约标准弹药（全金属被甲弹）</Ammo_556x45mmNATO_FMJ.label>
+  
+  <Ammo_556x45mmNATO_AP.label>5.56x45mm 北约标准弹药（穿甲弹）</Ammo_556x45mmNATO_AP.label>
+  
+  <Ammo_556x45mmNATO_HP.label>5.56x45mm 北约标准弹药（空尖弹）</Ammo_556x45mmNATO_HP.label>
+  
 
   <!-- Projectiles -->
 
-  <Bullet_556x45mmNATO_FMJ.label>5.56mm NATO bullet (FMJ)</Bullet_556x45mmNATO_FMJ.label>
-  <Bullet_556x45mmNATO_AP.label>5.56mm NATO bullet (AP)</Bullet_556x45mmNATO_AP.label>
-  <Bullet_556x45mmNATO_HP.label>5.56mm NATO bullet (HP)</Bullet_556x45mmNATO_HP.label>
+  <Bullet_556x45mmNATO_FMJ.label>5.56mm 北约标准弹药（全金属被甲弹）</Bullet_556x45mmNATO_FMJ.label>
+  <Bullet_556x45mmNATO_AP.label>5.56mm 北约标准弹药（穿甲弹）</Bullet_556x45mmNATO_AP.label>
+  <Bullet_556x45mmNATO_HP.label>5.56mm 北约标准弹药（空尖弹）</Bullet_556x45mmNATO_HP.label>
 
 
 </LanguageData>

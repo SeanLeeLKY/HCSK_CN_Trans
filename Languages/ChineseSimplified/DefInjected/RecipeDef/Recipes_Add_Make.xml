@@ -58,17 +58,17 @@
   <Make_Apparello_Bandit.description>制造 匪徒围巾。</Make_Apparello_Bandit.description>
   <Make_Apparello_Bandit.jobString>正在制造 匪徒围巾。</Make_Apparello_Bandit.jobString>
 
-  <Make_Apparello_Pilot.label>制造 飞行太阳镜</Make_Apparello_Pilot.label>
-  <Make_Apparello_Pilot.description>制造 飞行太阳镜。</Make_Apparello_Pilot.description>
-  <Make_Apparello_Pilot.jobString>正在制造 飞行太阳镜。</Make_Apparello_Pilot.jobString>
+  <Make_Apparello_Pilot.label>制造 飞行墨镜</Make_Apparello_Pilot.label>
+  <Make_Apparello_Pilot.description>制造 飞行墨镜。</Make_Apparello_Pilot.description>
+  <Make_Apparello_Pilot.jobString>正在制造 飞行墨镜。</Make_Apparello_Pilot.jobString>
 
   <Make_Apparello_Shadess.label>制造 遮阳镜</Make_Apparello_Shadess.label>
   <Make_Apparello_Shadess.description>制造 遮阳镜。</Make_Apparello_Shadess.description>
   <Make_Apparello_Shadess.jobString>正在制造 遮阳镜。</Make_Apparello_Shadess.jobString>
 
-  <Make_Apparello_Brimsk.label>制造 护目镜面罩</Make_Apparello_Brimsk.label>
-  <Make_Apparello_Brimsk.description>制造 护目镜面罩。</Make_Apparello_Brimsk.description>
-  <Make_Apparello_Brimsk.jobString>正在制造 护目镜面罩。</Make_Apparello_Brimsk.jobString>
+  <Make_Apparello_Brimsk.label>制造 滑雪护目镜</Make_Apparello_Brimsk.label>
+  <Make_Apparello_Brimsk.description>制造 滑雪护目镜。</Make_Apparello_Brimsk.description>
+  <Make_Apparello_Brimsk.jobString>正在制造 滑雪护目镜。</Make_Apparello_Brimsk.jobString>
 
   <Make_Marine_BattleMask.label>制造 陆战队防风面罩</Make_Marine_BattleMask.label>
   <Make_Marine_BattleMask.description>制造 陆战队防风面罩。</Make_Marine_BattleMask.description>
@@ -81,9 +81,9 @@
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_Apparello_Visoor.label>制造 飞行员面罩</Make_Apparello_Visoor.label>
-  <Make_Apparello_Visoor.description>制造 飞行员面罩。</Make_Apparello_Visoor.description>
-  <Make_Apparello_Visoor.jobString>正在制造 飞行员面罩。</Make_Apparello_Visoor.jobString>
+  <Make_Apparello_Visoor.label>制造 飞行员护目镜</Make_Apparello_Visoor.label>
+  <Make_Apparello_Visoor.description>制造 飞行员护目镜。</Make_Apparello_Visoor.description>
+  <Make_Apparello_Visoor.jobString>正在制造 飞行员护目镜。</Make_Apparello_Visoor.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
@@ -92,9 +92,9 @@
   <Make_Apparello_Footy.description>制造 瓦盔帽。</Make_Apparello_Footy.description>
   <Make_Apparello_Footy.jobString>正在制造 瓦盔帽。</Make_Apparello_Footy.jobString>
 
-  <Make_Apparel_NSuit.label>制造 陆战队上装</Make_Apparel_NSuit.label>
-  <Make_Apparel_NSuit.description>制造 陆战队上装。</Make_Apparel_NSuit.description>
-  <Make_Apparel_NSuit.jobString>正在制造 陆战队上装。</Make_Apparel_NSuit.jobString>
+  <Make_Apparel_NSuit.label>制造 士兵上装</Make_Apparel_NSuit.label>
+  <Make_Apparel_NSuit.description>制造 士兵上装。</Make_Apparel_NSuit.description>
+  <Make_Apparel_NSuit.jobString>正在制造 士兵上装。</Make_Apparel_NSuit.jobString>
 
   <Make_Apparello_Meditux.label>制造 医师夹克</Make_Apparello_Meditux.label>
   <Make_Apparello_Meditux.description>制造 医师夹克。</Make_Apparello_Meditux.description>
@@ -111,9 +111,9 @@
   <Make_Norballo_Furcoat.description>制造 毛皮大衣。</Make_Norballo_Furcoat.description>
   <Make_Norballo_Furcoat.jobString>正在制造 毛皮大衣。</Make_Norballo_Furcoat.jobString>
 
-  <Make_Apparello_Skull.label>制造 掠夺者夹克</Make_Apparello_Skull.label>
-  <Make_Apparello_Skull.description>制造 掠夺者夹克。</Make_Apparello_Skull.description>
-  <Make_Apparello_Skull.jobString>正在制造 掠夺者夹克。</Make_Apparello_Skull.jobString>
+  <Make_Apparello_Skull.label>制造 突袭者夹克</Make_Apparello_Skull.label>
+  <Make_Apparello_Skull.description>制造 突袭者夹克。</Make_Apparello_Skull.description>
+  <Make_Apparello_Skull.jobString>正在制造 突袭者夹克。</Make_Apparello_Skull.jobString>
 
   <Make_Apparel_Jacket.label>制造 夹克</Make_Apparel_Jacket.label>
   <Make_Apparel_Jacket.description>制造 夹克。</Make_Apparel_Jacket.description>
@@ -123,9 +123,9 @@
   <Make_Apparel_Parka.description>制造 风雪大衣。</Make_Apparel_Parka.description>
   <Make_Apparel_Parka.jobString>正在制造 风雪大衣。</Make_Apparel_Parka.jobString>
 
-  <Make_Apparel_ParkaB.label>制造 棉袄</Make_Apparel_ParkaB.label>
-  <Make_Apparel_ParkaB.description>制造 棉袄。</Make_Apparel_ParkaB.description>
-  <Make_Apparel_ParkaB.jobString>正在制造 棉袄。</Make_Apparel_ParkaB.jobString>
+  <Make_Apparel_ParkaB.label>制造 棉服</Make_Apparel_ParkaB.label>
+  <Make_Apparel_ParkaB.description>制造 棉服。</Make_Apparel_ParkaB.description>
+  <Make_Apparel_ParkaB.jobString>正在制造 棉服。</Make_Apparel_ParkaB.jobString>
 
   <Make_Apparel_Duster.label>制造 防尘大衣</Make_Apparel_Duster.label>
   <Make_Apparel_Duster.description>制造 防尘大衣。</Make_Apparel_Duster.description>
@@ -219,13 +219,13 @@
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_MedievalTimes_Boots_Techno.label>制造 技工靴</Make_MedievalTimes_Boots_Techno.label>
-  <Make_MedievalTimes_Boots_Techno.description>制造 技工靴。</Make_MedievalTimes_Boots_Techno.description>
-  <Make_MedievalTimes_Boots_Techno.jobString>正在制造 技工靴。</Make_MedievalTimes_Boots_Techno.jobString>
+  <Make_MedievalTimes_Boots_Techno.label>制造 科技战靴</Make_MedievalTimes_Boots_Techno.label>
+  <Make_MedievalTimes_Boots_Techno.description>制造 科技战靴。</Make_MedievalTimes_Boots_Techno.description>
+  <Make_MedievalTimes_Boots_Techno.jobString>正在制造 科技战靴。</Make_MedievalTimes_Boots_Techno.jobString>
 
-  <Make_Apparello_Spboots.label>制造 助行靴</Make_Apparello_Spboots.label>
-  <Make_Apparello_Spboots.description>制造 助行靴。</Make_Apparello_Spboots.description>
-  <Make_Apparello_Spboots.jobString>正在制造 助行靴。</Make_Apparello_Spboots.jobString>
+  <Make_Apparello_Spboots.label>制造 平衡靴</Make_Apparello_Spboots.label>
+  <Make_Apparello_Spboots.description>制造 平衡靴。</Make_Apparello_Spboots.description>
+  <Make_Apparello_Spboots.jobString>正在制造 平衡靴。</Make_Apparello_Spboots.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
@@ -274,9 +274,9 @@
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Marine_Armor.label>制造 陆战队个人护甲</Make_Marine_Armor.label>
-  <Make_Marine_Armor.description>制造 陆战队个人护甲。</Make_Marine_Armor.description>
-  <Make_Marine_Armor.jobString>正在制造 陆战队个人护甲。</Make_Marine_Armor.jobString>
+  <Make_Marine_Armor.label>制造 士兵个人护甲</Make_Marine_Armor.label>
+  <Make_Marine_Armor.description>制造 士兵个人护甲。</Make_Marine_Armor.description>
+  <Make_Marine_Armor.jobString>正在制造 士兵个人护甲。</Make_Marine_Armor.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
@@ -323,17 +323,17 @@
   <Make_Apparello_HA.description>制造 蜂巢装甲。</Make_Apparello_HA.description>
   <Make_Apparello_HA.jobString>正在制造 蜂巢装甲。</Make_Apparello_HA.jobString>
 
-  <Make_Apparello_Steamhull.label>制造 氮气护甲</Make_Apparello_Steamhull.label>
-  <Make_Apparello_Steamhull.description>制造 氮气护甲。</Make_Apparello_Steamhull.description>
-  <Make_Apparello_Steamhull.jobString>正在制造 氮气护甲。</Make_Apparello_Steamhull.jobString>
+  <Make_Apparello_Steamhull.label>制造 蒸汽护甲</Make_Apparello_Steamhull.label>
+  <Make_Apparello_Steamhull.description>制造 蒸汽护甲。</Make_Apparello_Steamhull.description>
+  <Make_Apparello_Steamhull.jobString>正在制造 蒸汽护甲。</Make_Apparello_Steamhull.jobString>
 
   <Make_Apparel_HellPowerArmor.label>制造 地狱装甲MK2</Make_Apparel_HellPowerArmor.label>
   <Make_Apparel_HellPowerArmor.description>制造 地狱装甲MK2。</Make_Apparel_HellPowerArmor.description>
   <Make_Apparel_HellPowerArmor.jobString>正在制造 地狱装甲MK2。</Make_Apparel_HellPowerArmor.jobString>
 
-  <Make_Rimarsenal_InteractorCloak.label>制造 耦合斗篷</Make_Rimarsenal_InteractorCloak.label>
-  <Make_Rimarsenal_InteractorCloak.description>制造 耦合斗篷。</Make_Rimarsenal_InteractorCloak.description>
-  <Make_Rimarsenal_InteractorCloak.jobString>正在制造 耦合斗篷。</Make_Rimarsenal_InteractorCloak.jobString>
+  <Make_Rimarsenal_InteractorCloak.label>制造 交互斗篷</Make_Rimarsenal_InteractorCloak.label>
+  <Make_Rimarsenal_InteractorCloak.description>制造 交互斗篷。</Make_Rimarsenal_InteractorCloak.description>
+  <Make_Rimarsenal_InteractorCloak.jobString>正在制造 交互斗篷。</Make_Rimarsenal_InteractorCloak.jobString>
 
   <Make_Siegearmor.label>制造 攻城装甲</Make_Siegearmor.label>
   <Make_Siegearmor.description>制造 攻城装甲。</Make_Siegearmor.description>
@@ -406,21 +406,21 @@
   <Make_Apparello_docglovetwo.description>制造 医疗钳。</Make_Apparello_docglovetwo.description>
   <Make_Apparello_docglovetwo.jobString>正在制造 医疗钳。</Make_Apparello_docglovetwo.jobString>
 
-  <Make_Apparello_Snipeglovetwo.label>制造 放电手套</Make_Apparello_Snipeglovetwo.label>
-  <Make_Apparello_Snipeglovetwo.description>制造 放电手套。</Make_Apparello_Snipeglovetwo.description>
-  <Make_Apparello_Snipeglovetwo.jobString>正在制造 放电手套。</Make_Apparello_Snipeglovetwo.jobString>
+  <Make_Apparello_Snipeglovetwo.label>制造 微调手套</Make_Apparello_Snipeglovetwo.label>
+  <Make_Apparello_Snipeglovetwo.description>制造 微调手套。</Make_Apparello_Snipeglovetwo.description>
+  <Make_Apparello_Snipeglovetwo.jobString>正在制造 微调手套。</Make_Apparello_Snipeglovetwo.jobString>
 
   <Make_Apparello_CalmingLove.label>制造 镇定手套</Make_Apparello_CalmingLove.label>
   <Make_Apparello_CalmingLove.description>制造 镇定手套。</Make_Apparello_CalmingLove.description>
   <Make_Apparello_CalmingLove.jobString>正在制造 镇定手套。</Make_Apparello_CalmingLove.jobString>
 
-  <Make_MedievalTimes_Gauntlets_Techno.label>制造 技工护手</Make_MedievalTimes_Gauntlets_Techno.label>
-  <Make_MedievalTimes_Gauntlets_Techno.description>制造 技工护手。</Make_MedievalTimes_Gauntlets_Techno.description>
-  <Make_MedievalTimes_Gauntlets_Techno.jobString>正在制造 技工护手。</Make_MedievalTimes_Gauntlets_Techno.jobString>
+  <Make_MedievalTimes_Gauntlets_Techno.label>制造 科技护手</Make_MedievalTimes_Gauntlets_Techno.label>
+  <Make_MedievalTimes_Gauntlets_Techno.description>制造 科技护手。</Make_MedievalTimes_Gauntlets_Techno.description>
+  <Make_MedievalTimes_Gauntlets_Techno.jobString>正在制造 科技护手。</Make_MedievalTimes_Gauntlets_Techno.jobString>
 
-  <Make_Apparello_Gamerglove.label>制造 力量手套</Make_Apparello_Gamerglove.label>
-  <Make_Apparello_Gamerglove.description>制造 力量手套。</Make_Apparello_Gamerglove.description>
-  <Make_Apparello_Gamerglove.jobString>正在制造 力量手套。</Make_Apparello_Gamerglove.jobString>
+  <Make_Apparello_Gamerglove.label>制造 动力手套</Make_Apparello_Gamerglove.label>
+  <Make_Apparello_Gamerglove.description>制造 动力手套。</Make_Apparello_Gamerglove.description>
+  <Make_Apparello_Gamerglove.jobString>正在制造 动力手套。</Make_Apparello_Gamerglove.jobString>
 
   <Make_Apparel_CommandoArmor.label>制造 阿萨利装甲</Make_Apparel_CommandoArmor.label>
   <Make_Apparel_CommandoArmor.description>制造 阿萨利装甲。</Make_Apparel_CommandoArmor.description>
@@ -764,16 +764,16 @@
   <Make_Apparello_pieband.description>制造 头巾。</Make_Apparello_pieband.description>
   <Make_Apparello_pieband.jobString>正在制造 头巾。</Make_Apparello_pieband.jobString>
 
-  <Make_Apparel_Tuque.label>制造 花式头巾</Make_Apparel_Tuque.label>
-  <Make_Apparel_Tuque.description>制造 花式头巾。</Make_Apparel_Tuque.description>
-  <Make_Apparel_Tuque.jobString>正在制造 花式头巾。</Make_Apparel_Tuque.jobString>
+  <Make_Apparel_Tuque.label>制造 花头巾</Make_Apparel_Tuque.label>
+  <Make_Apparel_Tuque.description>制造 花头巾。</Make_Apparel_Tuque.description>
+  <Make_Apparel_Tuque.jobString>正在制造 花头巾。</Make_Apparel_Tuque.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
 
-  <Make_Apparello_Fedora.label>制造 卷檐软呢帽</Make_Apparello_Fedora.label>
-  <Make_Apparello_Fedora.description>制造 卷檐软呢帽。</Make_Apparello_Fedora.description>
-  <Make_Apparello_Fedora.jobString>正在制造 卷檐软呢帽。</Make_Apparello_Fedora.jobString>
+  <Make_Apparello_Fedora.label>制造 软呢帽</Make_Apparello_Fedora.label>
+  <Make_Apparello_Fedora.description>制造 软呢帽。</Make_Apparello_Fedora.description>
+  <Make_Apparello_Fedora.jobString>正在制造 软呢帽。</Make_Apparello_Fedora.jobString>
 
   <Make_Apparello_wassupcaptwo.label>制造 船长帽</Make_Apparello_wassupcaptwo.label>
   <Make_Apparello_wassupcaptwo.description>制造 船长帽。</Make_Apparello_wassupcaptwo.description>
@@ -790,9 +790,9 @@
   <Make_Apparello_Vandal.description>制造 盖头巾。</Make_Apparello_Vandal.description>
   <Make_Apparello_Vandal.jobString>正在制造 盖头巾。</Make_Apparello_Vandal.jobString>
 
-  <Make_Apparel_CowboyHat.label>制造 决斗帽</Make_Apparel_CowboyHat.label>
-  <Make_Apparel_CowboyHat.description>制造 决斗帽。</Make_Apparel_CowboyHat.description>
-  <Make_Apparel_CowboyHat.jobString>正在制造 决斗帽。</Make_Apparel_CowboyHat.jobString>
+  <Make_Apparel_CowboyHat.label>制造 牛仔帽</Make_Apparel_CowboyHat.label>
+  <Make_Apparel_CowboyHat.description>制造 牛仔帽。</Make_Apparel_CowboyHat.description>
+  <Make_Apparel_CowboyHat.jobString>正在制造 牛仔帽。</Make_Apparel_CowboyHat.jobString>
 
   <Make_Apparel_Kufiya.label>制造 包头巾</Make_Apparel_Kufiya.label>
   <Make_Apparel_Kufiya.description>制造 包头巾。</Make_Apparel_Kufiya.description>
@@ -810,9 +810,9 @@
   <Make_Apparello_Chefhat.description>制造 厨师帽。</Make_Apparello_Chefhat.description>
   <Make_Apparello_Chefhat.jobString>正在制造 厨师帽。</Make_Apparello_Chefhat.jobString>
 
-  <Make_Apparello_Commissar.label>制造 大檐帽</Make_Apparello_Commissar.label>
-  <Make_Apparello_Commissar.description>制造 大檐帽。</Make_Apparello_Commissar.description>
-  <Make_Apparello_Commissar.jobString>正在制造 大檐帽。</Make_Apparello_Commissar.jobString>
+  <Make_Apparello_Commissar.label>制造 大盘帽</Make_Apparello_Commissar.label>
+  <Make_Apparello_Commissar.description>制造 大盘帽。</Make_Apparello_Commissar.description>
+  <Make_Apparello_Commissar.jobString>正在制造 大盘帽。</Make_Apparello_Commissar.jobString>
 
   <Make_Apparello_Tricorn.label>制造 三角帽</Make_Apparello_Tricorn.label>
   <Make_Apparello_Tricorn.description>制造 三角帽。</Make_Apparello_Tricorn.description>
@@ -834,36 +834,36 @@
   <Make_Winter_Cap.description>制造 冬帽。</Make_Winter_Cap.description>
   <Make_Winter_Cap.jobString>正在制造 冬帽。</Make_Winter_Cap.jobString>
 
-  <Make_Apparel_BeanieCat.label>制造 小猫帽</Make_Apparel_BeanieCat.label>
-  <Make_Apparel_BeanieCat.description>制造 小猫帽。</Make_Apparel_BeanieCat.description>
-  <Make_Apparel_BeanieCat.jobString>正在制造 小猫帽。</Make_Apparel_BeanieCat.jobString>
+  <Make_Apparel_BeanieCat.label>制造 猫耳帽</Make_Apparel_BeanieCat.label>
+  <Make_Apparel_BeanieCat.description>制造 猫耳帽。</Make_Apparel_BeanieCat.description>
+  <Make_Apparel_BeanieCat.jobString>正在制造 猫耳帽。</Make_Apparel_BeanieCat.jobString>
 
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_Apparello_Hood.label>制造 辛迪加面甲</Make_Apparello_Hood.label>
-  <Make_Apparello_Hood.description>制造 辛迪加面甲。</Make_Apparello_Hood.description>
-  <Make_Apparello_Hood.jobString>正在制造 辛迪加面甲。</Make_Apparello_Hood.jobString>
+  <Make_Apparello_Hood.label>制造 辛迪加头罩</Make_Apparello_Hood.label>
+  <Make_Apparello_Hood.description>制造 辛迪加头罩。</Make_Apparello_Hood.description>
+  <Make_Apparello_Hood.jobString>正在制造 辛迪加头罩。</Make_Apparello_Hood.jobString>
 
   <Make_Apparel_PhaseHelmet.label>制造 相位头盔</Make_Apparel_PhaseHelmet.label>
   <Make_Apparel_PhaseHelmet.description>制造 相位头盔。</Make_Apparel_PhaseHelmet.description>
   <Make_Apparel_PhaseHelmet.jobString>正在制造 相位头盔。</Make_Apparel_PhaseHelmet.jobString>
 
-  <Make_Interactor_Helmet.label>制造 耦合面甲</Make_Interactor_Helmet.label>
-  <Make_Interactor_Helmet.description>制造 耦合面甲。</Make_Interactor_Helmet.description>
-  <Make_Interactor_Helmet.jobString>正在制造 耦合面甲。</Make_Interactor_Helmet.jobString>
+  <Make_Interactor_Helmet.label>制造 交互面甲</Make_Interactor_Helmet.label>
+  <Make_Interactor_Helmet.description>制造 交互面甲。</Make_Interactor_Helmet.description>
+  <Make_Interactor_Helmet.jobString>正在制造 交互面甲。</Make_Interactor_Helmet.jobString>
 
-  <Make_Apparello_Raz.label>制造 乐丝头盔</Make_Apparello_Raz.label>
-  <Make_Apparello_Raz.description>制造 乐丝头盔。</Make_Apparello_Raz.description>
-  <Make_Apparello_Raz.jobString>正在制造 乐丝头盔。</Make_Apparello_Raz.jobString>
+  <Make_Apparello_Raz.label>制造 乐丝面甲</Make_Apparello_Raz.label>
+  <Make_Apparello_Raz.description>制造 乐丝面甲。</Make_Apparello_Raz.description>
+  <Make_Apparello_Raz.jobString>正在制造 乐丝面甲。</Make_Apparello_Raz.jobString>
 
   <Make_Apparello_Quote.label>制造 战地工程师面甲</Make_Apparello_Quote.label>
   <Make_Apparello_Quote.description>制造 战地工程师面甲。</Make_Apparello_Quote.description>
   <Make_Apparello_Quote.jobString>正在制造 战地工程师面甲。</Make_Apparello_Quote.jobString>
 
-  <Make_Apparello_Rockman.label>制造 航天飞机头盔</Make_Apparello_Rockman.label>
-  <Make_Apparello_Rockman.description>制造 航天飞机头盔。</Make_Apparello_Rockman.description>
-  <Make_Apparello_Rockman.jobString>正在制造 航天飞机头盔。</Make_Apparello_Rockman.jobString>
+  <Make_Apparello_Rockman.label>制造 穿梭机头盔</Make_Apparello_Rockman.label>
+  <Make_Apparello_Rockman.description>制造 穿梭机头盔。</Make_Apparello_Rockman.description>
+  <Make_Apparello_Rockman.jobString>正在制造 穿梭机头盔。</Make_Apparello_Rockman.jobString>
 
   <Make_Apparel_PsychicFoilHelmet.label>制造 心灵防护头盔</Make_Apparel_PsychicFoilHelmet.label>
   <Make_Apparel_PsychicFoilHelmet.description>制造 心灵防护头盔。</Make_Apparel_PsychicFoilHelmet.description>
@@ -887,9 +887,9 @@
 
   <!-- Recipe Users: LeatherworkerTable -->
 
-  <Make_Apparel_TribalBackpack.label>制造 原始挎包</Make_Apparel_TribalBackpack.label>
-  <Make_Apparel_TribalBackpack.description>制造 原始挎包。</Make_Apparel_TribalBackpack.description>
-  <Make_Apparel_TribalBackpack.jobString>正在制造 原始挎包。</Make_Apparel_TribalBackpack.jobString>
+  <Make_Apparel_TribalBackpack.label>制造 部落背包</Make_Apparel_TribalBackpack.label>
+  <Make_Apparel_TribalBackpack.description>制造 部落背包。</Make_Apparel_TribalBackpack.description>
+  <Make_Apparel_TribalBackpack.jobString>正在制造 部落背包。</Make_Apparel_TribalBackpack.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
@@ -971,9 +971,9 @@
   <Make_Apparello_Spants.description>制造 太空陆战队护腿。</Make_Apparello_Spants.description>
   <Make_Apparello_Spants.jobString>正在制造 太空陆战队护腿。</Make_Apparello_Spants.jobString>
 
-  <Make_Apparello_Cryptonautpants.label>制造 助行裤</Make_Apparello_Cryptonautpants.label>
-  <Make_Apparello_Cryptonautpants.description>制造 助行裤。</Make_Apparello_Cryptonautpants.description>
-  <Make_Apparello_Cryptonautpants.jobString>正在制造 助行裤。</Make_Apparello_Cryptonautpants.jobString>
+  <Make_Apparello_Cryptonautpants.label>制造 平衡裤</Make_Apparello_Cryptonautpants.label>
+  <Make_Apparello_Cryptonautpants.description>制造 平衡裤。</Make_Apparello_Cryptonautpants.description>
+  <Make_Apparello_Cryptonautpants.jobString>正在制造 平衡裤。</Make_Apparello_Cryptonautpants.jobString>
 
   <Make_Apparello_Standissue.label>制造 标准工作服</Make_Apparello_Standissue.label>
   <Make_Apparello_Standissue.description>制造 标准工作服。</Make_Apparello_Standissue.description>

@@ -1,35 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_Clawboots.label>Clawed Boots</Apparello_Clawboots.label>
-  <Apparello_Clawboots.description>Boots with claws on them. They give a steady grip on rough terrain。</Apparello_Clawboots.description>
+  <Apparello_Clawboots.label>爪靴</Apparello_Clawboots.label>
+  
+  <Apparello_Shoes.label>鞋子</Apparello_Shoes.label>
+  
 
-  <Apparello_Shoes.label>Shoes</Apparello_Shoes.label>
-  <Apparello_Shoes.description>Very basic shoes. Helps with moving through terrain。</Apparello_Shoes.description>
-
-  <MedievalTimes_Boots_Steel_Plated.label>Plated Boots</MedievalTimes_Boots_Steel_Plated.label>
-  <MedievalTimes_Boots_Steel_Plated.description>A pair of leather boots with steel plates strapped on。</MedievalTimes_Boots_Steel_Plated.description>
-
-  <Apparello_MetalBoots.label>Metal Boots</Apparello_MetalBoots.label>
-  <Apparello_MetalBoots.description>Metal boots. Ain't nobody stepping on your toes now!</Apparello_MetalBoots.description>
-
-  <Apparello_Snowboots.label>Snow Boots</Apparello_Snowboots.label>
-  <Apparello_Snowboots.description>Boots designed for cold snow. They are exceptionally warm and comfy。</Apparello_Snowboots.description>
-
-  <Apparello_NorbalMuffshoes.label>Fur Boots</Apparello_NorbalMuffshoes.label>
-  <Apparello_NorbalMuffshoes.description>Very furry and warm boots. They can help with moving through terrain。</Apparello_NorbalMuffshoes.description>
-
-  <Apparello_Boots.label>Spurred Boots</Apparello_Boots.label>
-  <Apparello_Boots.description>Leather boots with spurs. The spurs help with moving through terrain。</Apparello_Boots.description>
-
-  <MedievalTimes_Boots_Combat.label>Combat Boots</MedievalTimes_Boots_Combat.label>
-  <MedievalTimes_Boots_Combat.description>Adjustments in the design straps, Hyper-Gel insoles and contouring Hyper-Foam ensure a comfortable fit for any foot type。</MedievalTimes_Boots_Combat.description>
-
-  <MedievalTimes_Boots_Techno.label>Techno Boots</MedievalTimes_Boots_Techno.label>
-  <MedievalTimes_Boots_Techno.description>Custom made by Rocket Industries, these marvels of modern engineering come complete with metal plating, nanite recursive fibers, gravity assist hydraulics, Omega-weave electric stranding and thermo-dynamic assist functions. Even with all that they found room for the Hyper-Gel insoles and contouring Hyper-Foam, not that its needed with nanite recursive fibers。</MedievalTimes_Boots_Techno.description>
-
-  <Apparello_Spboots.label>Cryptonaut Springers</Apparello_Spboots.label>
-  <Apparello_Spboots.description>A pair of footwear designed for ultimate balance. Stride through the environment like a rabbit on dope。</Apparello_Spboots.description>
-
+  <MedievalTimes_Boots_Steel_Plated.label>板甲靴</MedievalTimes_Boots_Steel_Plated.label>
+  
+  <Apparello_MetalBoots.label>金属靴</Apparello_MetalBoots.label>
+  
+  <Apparello_Snowboots.label>雪地靴</Apparello_Snowboots.label>
+  
+  <Apparello_NorbalMuffshoes.label>毛皮靴</Apparello_NorbalMuffshoes.label>
+  
+  <Apparello_Boots.label>马靴</Apparello_Boots.label>
+  
+  <MedievalTimes_Boots_Combat.label>战靴</MedievalTimes_Boots_Combat.label>
+  
+  <MedievalTimes_Boots_Techno.label>科技战靴</MedievalTimes_Boots_Techno.label>
+  
+  <Apparello_Spboots.label>平衡靴</Apparello_Spboots.label>
+  
 
 </LanguageData>

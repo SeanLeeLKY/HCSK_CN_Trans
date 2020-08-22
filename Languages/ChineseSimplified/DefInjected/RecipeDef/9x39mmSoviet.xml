@@ -4,16 +4,16 @@
   <!-- Recipes -->
 
    <MakeAmmo_9x39mmSoviet_FMJ.label>制造 9x39mm 苏制弹药（FMJ） x60</MakeAmmo_9x39mmSoviet_FMJ.label>
-  <MakeAmmo_9x39mmSoviet_FMJ.description>制造 60 9x39mm 苏制(FMJ) 弹药。</MakeAmmo_9x39mmSoviet_FMJ.description>
-  <MakeAmmo_9x39mmSoviet_FMJ.jobString>正在制造 9x39mm 苏制(FMJ) 弹药。</MakeAmmo_9x39mmSoviet_FMJ.jobString>
+  <MakeAmmo_9x39mmSoviet_FMJ.description>制造 60 9x39mm 苏制（全金属被甲弹） 弹药。</MakeAmmo_9x39mmSoviet_FMJ.description>
+  <MakeAmmo_9x39mmSoviet_FMJ.jobString>正在制造 9x39mm 苏制（全金属被甲弹） 弹药。</MakeAmmo_9x39mmSoviet_FMJ.jobString>
 
   <MakeAmmo_9x39mmSoviet_AP.label>制造 9x39mm 苏制弹药（AP） x60</MakeAmmo_9x39mmSoviet_AP.label>
-  <MakeAmmo_9x39mmSoviet_AP.description>制造 60 9x39mm 苏制(AP) 弹药。</MakeAmmo_9x39mmSoviet_AP.description>
-  <MakeAmmo_9x39mmSoviet_AP.jobString>正在制造 9x39mm 苏制(AP) 弹药。</MakeAmmo_9x39mmSoviet_AP.jobString>
+  <MakeAmmo_9x39mmSoviet_AP.description>制造 60 9x39mm 苏制（穿甲弹） 弹药。</MakeAmmo_9x39mmSoviet_AP.description>
+  <MakeAmmo_9x39mmSoviet_AP.jobString>正在制造 9x39mm 苏制（穿甲弹） 弹药。</MakeAmmo_9x39mmSoviet_AP.jobString>
 
   <MakeAmmo_9x39mmSoviet_HP.label>制造 9x39mm 苏制弹药（HP） x60</MakeAmmo_9x39mmSoviet_HP.label>
-  <MakeAmmo_9x39mmSoviet_HP.description>制造 60 9x39mm 苏制(HP) 弹药。</MakeAmmo_9x39mmSoviet_HP.description>
-  <MakeAmmo_9x39mmSoviet_HP.jobString>正在制造 9x39mm 苏制(HP) 弹药。</MakeAmmo_9x39mmSoviet_HP.jobString>
+  <MakeAmmo_9x39mmSoviet_HP.description>制造 60 9x39mm 苏制（空尖弹） 弹药。</MakeAmmo_9x39mmSoviet_HP.description>
+  <MakeAmmo_9x39mmSoviet_HP.jobString>正在制造 9x39mm 苏制（空尖弹） 弹药。</MakeAmmo_9x39mmSoviet_HP.jobString>
 
   <MakeAmmo_9x39mmSoviet_SH.label>制造 9x39mm 苏制弹药（SH） x60</MakeAmmo_9x39mmSoviet_SH.label>
   <MakeAmmo_9x39mmSoviet_SH.description>制造 60 9x39mm 苏制(SH) 弹药。</MakeAmmo_9x39mmSoviet_SH.description>

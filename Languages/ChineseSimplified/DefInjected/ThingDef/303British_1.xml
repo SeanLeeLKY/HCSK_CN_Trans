@@ -3,21 +3,21 @@
 
   <!-- Ammo -->
 
-  <Ammo_303British_FMJ.label>.303 英制子弹 (FMJ)</Ammo_303British_FMJ.label>
+  <Ammo_303British_FMJ.label>.303 英制子弹 （全金属被甲弹）</Ammo_303British_FMJ.label>
   <Ammo_303British_FMJ.description>Large rifle bullet found mostly in outdated bolt-action firearms。</Ammo_303British_FMJ.description>
 
-  <Ammo_303British_AP.label>.303 英制子弹 (AP)</Ammo_303British_AP.label>
+  <Ammo_303British_AP.label>.303 英制子弹 （穿甲弹）</Ammo_303British_AP.label>
   <Ammo_303British_AP.description>Large rifle bullet found mostly in outdated bolt-action firearms。</Ammo_303British_AP.description>
 
-  <Ammo_303British_HP.label>.303 英制子弹 (HP)</Ammo_303British_HP.label>
+  <Ammo_303British_HP.label>.303 英制子弹 （空尖弹）</Ammo_303British_HP.label>
   <Ammo_303British_HP.description>Large rifle bullet found mostly in outdated bolt-action firearms。</Ammo_303British_HP.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_303British_FMJ.label>.303 英制子弹 (FMJ)</Bullet_303British_FMJ.label>
-  <Bullet_303British_AP.label>.303 英制子弹 (AP)</Bullet_303British_AP.label>
-  <Bullet_303British_HP.label>.303 英制子弹 (HP)</Bullet_303British_HP.label>
+  <Bullet_303British_FMJ.label>.303 英制子弹 （全金属被甲弹）</Bullet_303British_FMJ.label>
+  <Bullet_303British_AP.label>.303 英制子弹 （穿甲弹）</Bullet_303British_AP.label>
+  <Bullet_303British_HP.label>.303 英制子弹 （空尖弹）</Bullet_303British_HP.label>
 
 
 </LanguageData>
