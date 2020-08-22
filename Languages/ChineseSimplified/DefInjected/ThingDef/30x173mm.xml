@@ -3,21 +3,18 @@
 
   <!-- Ammo -->
 
-  <Ammo_30x173mm_FMJ.label>30x173mm cartridge （全金属被甲弹）</Ammo_30x173mm_FMJ.label>
-  <Ammo_30x173mm_FMJ.description>The 30x173mm caliber is a specific size of cannon and autocannon ammunition。</Ammo_30x173mm_FMJ.description>
-
-  <Ammo_30x173mm_HE.label>30x173mm cartridge （高爆弹）</Ammo_30x173mm_HE.label>
-  <Ammo_30x173mm_HE.description>The 30x173mm caliber is a specific size of cannon and autocannon ammunition。</Ammo_30x173mm_HE.description>
-
-  <Ammo_30x173mm_Incendiary.label>30x173mm cartridge （穿甲燃烧弹）</Ammo_30x173mm_Incendiary.label>
-  <Ammo_30x173mm_Incendiary.description>The 30x173mm caliber is a specific size of cannon and autocannon ammunition。</Ammo_30x173mm_Incendiary.description>
-
+  <Ammo_30x173mm_FMJ.label>30x173mm 弹药（全金属被甲弹）</Ammo_30x173mm_FMJ.label>
+  
+  <Ammo_30x173mm_HE.label>30x173mm 弹药（高爆弹）</Ammo_30x173mm_HE.label>
+  
+  <Ammo_30x173mm_Incendiary.label>30x173mm 弹药（穿甲燃烧弹）</Ammo_30x173mm_Incendiary.label>
+  
 
   <!-- Projectiles -->
 
-  <Bullet_30x173mm_FMJ.label>30x173mm bullet （全金属被甲弹）</Bullet_30x173mm_FMJ.label>
-  <Bullet_30x173mm_HE.label>30x173mm bullet （高爆弹）</Bullet_30x173mm_HE.label>
-  <Bullet_30x173mm_Incendiary.label>30x173mm bullet （穿甲燃烧弹）</Bullet_30x173mm_Incendiary.label>
+  <Bullet_30x173mm_FMJ.label>30x173mm 子弹（全金属被甲弹）</Bullet_30x173mm_FMJ.label>
+  <Bullet_30x173mm_HE.label>30x173mm 子弹（高爆弹）</Bullet_30x173mm_HE.label>
+  <Bullet_30x173mm_Incendiary.label>30x173mm 子弹（穿甲燃烧弹）</Bullet_30x173mm_Incendiary.label>
 
 
 </LanguageData>

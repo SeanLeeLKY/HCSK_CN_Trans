@@ -1395,13 +1395,13 @@
   <Make_HowitzerTurretGun.description>制造 155mm 榴弹炮。</Make_HowitzerTurretGun.description>
   <Make_HowitzerTurretGun.jobString>正在制造 155mm 榴弹炮。</Make_HowitzerTurretGun.jobString>
 
-  <Make_Turret_TOWLauncher.label>制造 BGM-71 TOW</Make_Turret_TOWLauncher.label>
-  <Make_Turret_TOWLauncher.description>制造 BGM-71 TOW。</Make_Turret_TOWLauncher.description>
-  <Make_Turret_TOWLauncher.jobString>正在制造 BGM-71 TOW。</Make_Turret_TOWLauncher.jobString>
+  <Make_Turret_TOWLauncher.label>制造 BGM-71“陶氏”反坦克导弹系统</Make_Turret_TOWLauncher.label>
+  <Make_Turret_TOWLauncher.description>制造 BGM-71“陶氏”反坦克导弹系统。</Make_Turret_TOWLauncher.description>
+  <Make_Turret_TOWLauncher.jobString>正在制造 BGM-71“陶氏”反坦克导弹系统。</Make_Turret_TOWLauncher.jobString>
 
-  <Make_LightMissileSystem.label>制造 MS FGM-148 标枪导弹系统</Make_LightMissileSystem.label>
-  <Make_LightMissileSystem.description>制造 MS FGM-148 标枪导弹系统。</Make_LightMissileSystem.description>
-  <Make_LightMissileSystem.jobString>正在制造 MS FGM-148 标枪导弹系统。</Make_LightMissileSystem.jobString>
+  <Make_LightMissileSystem.label>制造 FGM-148“标枪”反坦克导弹系统</Make_LightMissileSystem.label>
+  <Make_LightMissileSystem.description>制造 FGM-148“标枪”反坦克导弹系统。</Make_LightMissileSystem.description>
+  <Make_LightMissileSystem.jobString>正在制造 FGM-148“标枪”反坦克导弹系统。</Make_LightMissileSystem.jobString>
 
   <Make_MediumMissileSystem.label>制造 中型导弹发射系统</Make_MediumMissileSystem.label>
   <Make_MediumMissileSystem.description>制造 中型导弹发射系统。</Make_MediumMissileSystem.description>

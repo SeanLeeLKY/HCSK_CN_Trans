@@ -3,21 +3,18 @@
 
   <!-- Ammo -->
 
-  <Ammo_9x19mmPara_FMJ.label>9x19mm Para cartridge （全金属被甲弹）</Ammo_9x19mmPara_FMJ.label>
-  <Ammo_9x19mmPara_FMJ.description>Common pistol cartridge used by a variety of handguns and SMGs。</Ammo_9x19mmPara_FMJ.description>
-
-  <Ammo_9x19mmPara_AP.label>9x19mm Para cartridge （穿甲弹）</Ammo_9x19mmPara_AP.label>
-  <Ammo_9x19mmPara_AP.description>Common pistol cartridge used by a variety of handguns and SMGs。</Ammo_9x19mmPara_AP.description>
-
-  <Ammo_9x19mmPara_HP.label>9x19mm Para cartridge （空尖弹）</Ammo_9x19mmPara_HP.label>
-  <Ammo_9x19mmPara_HP.description>Common pistol cartridge used by a variety of handguns and SMGs。</Ammo_9x19mmPara_HP.description>
-
+  <Ammo_9x19mmPara_FMJ.label>9x19mm 手枪弹（全金属被甲弹）</Ammo_9x19mmPara_FMJ.label>
+  
+  <Ammo_9x19mmPara_AP.label>9x19mm 手枪弹（穿甲弹）</Ammo_9x19mmPara_AP.label>
+  
+  <Ammo_9x19mmPara_HP.label>9x19mm 手枪弹（空尖弹）</Ammo_9x19mmPara_HP.label>
+  
 
   <!-- Projectiles -->
 
-  <Bullet_9x19mmPara_FMJ.label>9mm Para bullet （全金属被甲弹）</Bullet_9x19mmPara_FMJ.label>
-  <Bullet_9x19mmPara_AP.label>9mm Para bullet （穿甲弹）</Bullet_9x19mmPara_AP.label>
-  <Bullet_9x19mmPara_HP.label>9mm Para bullet （空尖弹）</Bullet_9x19mmPara_HP.label>
+  <Bullet_9x19mmPara_FMJ.label>9mm 手枪弹（全金属被甲弹）</Bullet_9x19mmPara_FMJ.label>
+  <Bullet_9x19mmPara_AP.label>9mm 手枪弹（穿甲弹）</Bullet_9x19mmPara_AP.label>
+  <Bullet_9x19mmPara_HP.label>9mm 手枪弹（空尖弹）</Bullet_9x19mmPara_HP.label>
 
 
 </LanguageData>
