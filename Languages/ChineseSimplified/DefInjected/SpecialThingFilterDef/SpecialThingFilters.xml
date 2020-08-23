@@ -1,14 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <allowFresh.label>允许新鲜物品</allowFresh.label>
-  <allowFresh.description>允许新鲜物品</allowFresh.description>
+  <HumanlikeMeat.label>human meat</HumanlikeMeat.label>
+  <HumanlikeMeat.description>Allow humanlike meat</HumanlikeMeat.description>
 
-  <HumanlikeMeat.label>人肉</HumanlikeMeat.label>
-  <HumanlikeMeat.description>允许人肉</HumanlikeMeat.description>
-
-  <InsectMeat.label>虫肉</InsectMeat.label>
-  <InsectMeat.description>允许虫肉</InsectMeat.description>
+  <InsectMeat.label>insect meat</InsectMeat.label>
+  <InsectMeat.description>Allow insect meat</InsectMeat.description>
 
 
 </LanguageData>

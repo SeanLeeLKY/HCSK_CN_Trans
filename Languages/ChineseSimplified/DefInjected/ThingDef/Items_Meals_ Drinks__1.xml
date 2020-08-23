@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FruitYogurt.label>水果酸奶</FruitYogurt.label>
+ 
+
+  <Cuptea.label>茶</Cuptea.label>
+  
+  <Cuptea.ingestible.ingestCommandString>喝{0}</Cuptea.ingestible.ingestCommandString>
+  <Cuptea.ingestible.ingestReportString>正在饮用{0}。</Cuptea.ingestible.ingestReportString>
+
+  <CupCoffee.label>咖啡</CupCoffee.label>
+  
+  <CupCoffee.ingestible.ingestCommandString>喝{0}</CupCoffee.ingestible.ingestCommandString>
+  <CupCoffee.ingestible.ingestReportString>正在饮用{0}。</CupCoffee.ingestible.ingestReportString>
+
+  <FruitDrink.label>水果饮料</FruitDrink.label>
+  
+  <FruitDrink.ingestible.ingestCommandString>喝{0}</FruitDrink.ingestible.ingestCommandString>
+  <FruitDrink.ingestible.ingestReportString>正在饮用{0}。</FruitDrink.ingestible.ingestReportString>
+
+
+</LanguageData>

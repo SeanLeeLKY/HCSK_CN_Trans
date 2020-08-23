@@ -3,17 +3,17 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_30x173mm_FMJ.label>制造 30x173mm （全金属被甲弹） 弹药x25</MakeAmmo_30x173mm_FMJ.label>
-  <MakeAmmo_30x173mm_FMJ.description>制造 25 30x173mm （全金属被甲弹） 弹药。</MakeAmmo_30x173mm_FMJ.description>
-  <MakeAmmo_30x173mm_FMJ.jobString>正在制造 25x173mm （全金属被甲弹） 弹药。</MakeAmmo_30x173mm_FMJ.jobString>
+  <MakeAmmo_30x173mm_FMJ.label>make 30x173mm (FMJ) cartridge x30</MakeAmmo_30x173mm_FMJ.label>
+  <MakeAmmo_30x173mm_FMJ.description>Craft 30 30x173mm (FMJ) cartridges.</MakeAmmo_30x173mm_FMJ.description>
+  <MakeAmmo_30x173mm_FMJ.jobString>Making 30x173mm (FMJ) cartridges.</MakeAmmo_30x173mm_FMJ.jobString>
 
-  <MakeAmmo_30x173mm_HE.label>制造 30x173mm （高爆弹） 弹药x25</MakeAmmo_30x173mm_HE.label>
-  <MakeAmmo_30x173mm_HE.description>制造 25 30x173mm （高爆弹） 弹药。</MakeAmmo_30x173mm_HE.description>
-  <MakeAmmo_30x173mm_HE.jobString>正在制造 30x173mm （高爆弹） 弹药。</MakeAmmo_30x173mm_HE.jobString>
+  <MakeAmmo_30x173mm_HE.label>make 30x173mm (HE) cartridge x30</MakeAmmo_30x173mm_HE.label>
+  <MakeAmmo_30x173mm_HE.description>Craft 30 30x173mm (HE) cartridges.</MakeAmmo_30x173mm_HE.description>
+  <MakeAmmo_30x173mm_HE.jobString>Making 30x173mm (HE) cartridges.</MakeAmmo_30x173mm_HE.jobString>
 
-  <MakeAmmo_30x173mm_Incendiary.label>制造 30x173mm （穿甲燃烧弹） 弹药x25</MakeAmmo_30x173mm_Incendiary.label>
-  <MakeAmmo_30x173mm_Incendiary.description>制造 25 30x173mm （穿甲燃烧弹） 弹药。</MakeAmmo_30x173mm_Incendiary.description>
-  <MakeAmmo_30x173mm_Incendiary.jobString>正在制造 30x173mm （穿甲燃烧弹） 弹药。</MakeAmmo_30x173mm_Incendiary.jobString>
+  <MakeAmmo_30x173mm_Incendiary.label>make 30x173mm (AP-I) cartridge x30</MakeAmmo_30x173mm_Incendiary.label>
+  <MakeAmmo_30x173mm_Incendiary.description>Craft 30 30x173mm (AP-I) cartridges.</MakeAmmo_30x173mm_Incendiary.description>
+  <MakeAmmo_30x173mm_Incendiary.jobString>Making 30x173mm (AP-I) cartridges.</MakeAmmo_30x173mm_Incendiary.jobString>
 
 
 </LanguageData>

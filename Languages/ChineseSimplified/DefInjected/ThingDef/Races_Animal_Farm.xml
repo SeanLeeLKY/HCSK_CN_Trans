@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Farm -->
+
+  <Chicken.label>chicken</Chicken.label>
+  <Chicken.description>The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often.</Chicken.description>
+  <Chicken.tools.0.label>claws</Chicken.tools.0.label>
+  <Chicken.tools.1.label>beak</Chicken.tools.1.label>
+  <Chicken.tools.2.label>head</Chicken.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Elephant -->
+  <Chicken_Corpse.label>chicken corpse</Chicken_Corpse.label>
+  <Chicken_Corpse.description>chicken corpse</Chicken_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Pig.label>pig</Pig.label>
+  <Pig.description>The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks.</Pig.description>
+  <Pig.tools.1.label>head</Pig.tools.1.label>
+  <Pig_Leather.label>pig leather</Pig_Leather.label>
+  <Pig_Leather.description>pig leather</Pig_Leather.description>
+  <Pig_Leather.stuffProps.stuffAdjective>pig leather</Pig_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Pig_Corpse.label>pig corpse</Pig_Corpse.label>
+  <Pig_Corpse.description>pig corpse</Pig_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Cow.label>cow</Cow.label>
+  <Cow.description>A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild.</Cow.description>
+  <Cow.tools.1.label>head</Cow.tools.1.label>
+  <Cow.tools.2.label>horns</Cow.tools.2.label>
+  <Cow_Leather.label>cow leather</Cow_Leather.label>
+  <Cow_Leather.description>cow leather</Cow_Leather.description>
+  <Cow_Leather.stuffProps.stuffAdjective>cow leather</Cow_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Cow_Corpse.label>cow corpse</Cow_Corpse.label>
+  <Cow_Corpse.description>cow corpse</Cow_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Alpaca.label>alpaca</Alpaca.label>
+  <Alpaca.description>A medium-sized ungulate closely related to the llama, the alpaca is often farmed for its remarkably soft wool.</Alpaca.description>
+  <Alpaca.tools.0.label>left hoof</Alpaca.tools.0.label>
+  <Alpaca.tools.1.label>right hoof</Alpaca.tools.1.label>
+  <Alpaca.tools.3.label>head</Alpaca.tools.3.label>
+  <Alpaca_Leather.label>alpaca leather</Alpaca_Leather.label>
+  <Alpaca_Leather.description>alpaca leather</Alpaca_Leather.description>
+  <Alpaca_Leather.stuffProps.stuffAdjective>alpaca leather</Alpaca_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Alpaca_Corpse.label>alpaca corpse</Alpaca_Corpse.label>
+  <Alpaca_Corpse.description>alpaca corpse</Alpaca_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Duck.label>duck</Duck.label>
+  <Duck.description>A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely.</Duck.description>
+  <Duck.tools.0.label>claws</Duck.tools.0.label>
+  <Duck.tools.1.label>beak</Duck.tools.1.label>
+  <Duck.tools.2.label>head</Duck.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Elephant -->
+  <Duck_Corpse.label>duck corpse</Duck_Corpse.label>
+  <Duck_Corpse.description>duck corpse</Duck_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Bison.label>bison</Bison.label>
+  <Bison.description>A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous.</Bison.description>
+  <Bison.tools.0.label>left hoof</Bison.tools.0.label>
+  <Bison.tools.1.label>left hoof</Bison.tools.1.label>
+  <Bison.tools.2.label>right hoof</Bison.tools.2.label>
+  <Bison.tools.3.label>right hoof</Bison.tools.3.label>
+  <Bison.tools.5.label>head</Bison.tools.5.label>
+  <Bison_Leather.label>bison leather</Bison_Leather.label>
+  <Bison_Leather.description>bison leather</Bison_Leather.description>
+  <Bison_Leather.stuffProps.stuffAdjective>bison leather</Bison_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Bison_Corpse.label>bison corpse</Bison_Corpse.label>
+  <Bison_Corpse.description>bison corpse</Bison_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Goat.label>goat</Goat.label>
+  <Goat.description>Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind.</Goat.description>
+  <Goat.tools.0.label>head</Goat.tools.0.label>
+  <Goat_Leather.label>goat leather</Goat_Leather.label>
+  <Goat_Leather.description>goat leather</Goat_Leather.description>
+  <Goat_Leather.stuffProps.stuffAdjective>goat leather</Goat_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Goat_Corpse.label>goat corpse</Goat_Corpse.label>
+  <Goat_Corpse.description>goat corpse</Goat_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Goose.label>goose</Goose.label>
+  <Goose.description>A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch.</Goose.description>
+  <Goose.tools.0.label>claws</Goose.tools.0.label>
+  <Goose.tools.1.label>beak</Goose.tools.1.label>
+  <Goose.tools.2.label>head</Goose.tools.2.label>
+  <Goose_Leather.label>goose leather</Goose_Leather.label>
+  <Goose_Leather.description>goose leather</Goose_Leather.description>
+  <Goose_Leather.stuffProps.stuffAdjective>goose leather</Goose_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Goose_Corpse.label>goose corpse</Goose_Corpse.label>
+  <Goose_Corpse.description>goose corpse</Goose_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Yak.label>yak</Yak.label>
+  <Yak.description>Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow.</Yak.description>
+  <Yak.tools.0.label>left hoof</Yak.tools.0.label>
+  <Yak.tools.1.label>left hoof</Yak.tools.1.label>
+  <Yak.tools.2.label>right hoof</Yak.tools.2.label>
+  <Yak.tools.3.label>right hoof</Yak.tools.3.label>
+  <Yak.tools.5.label>head</Yak.tools.5.label>
+  <Yak_Leather.label>yak leather</Yak_Leather.label>
+  <Yak_Leather.description>yak leather</Yak_Leather.description>
+  <Yak_Leather.stuffProps.stuffAdjective>yak leather</Yak_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Yak_Corpse.label>yak corpse</Yak_Corpse.label>
+  <Yak_Corpse.description>yak corpse</Yak_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <GuineaPig.label>guinea pig</GuineaPig.label>
+  <GuineaPig.description>Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner.</GuineaPig.description>
+  <GuineaPig.tools.0.label>left claw</GuineaPig.tools.0.label>
+  <GuineaPig.tools.1.label>right claw</GuineaPig.tools.1.label>
+  <GuineaPig.tools.3.label>head</GuineaPig.tools.3.label>
+  <GuineaPig_Leather.label>guinea pig leather</GuineaPig_Leather.label>
+  <GuineaPig_Leather.description>guinea pig leather</GuineaPig_Leather.description>
+  <GuineaPig_Leather.stuffProps.stuffAdjective>guinea pig leather</GuineaPig_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <GuineaPig_Corpse.label>guinea pig corpse</GuineaPig_Corpse.label>
+  <GuineaPig_Corpse.description>guinea pig corpse</GuineaPig_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Donkey.label>donkey</Donkey.label>
+  <Donkey.description>A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.</Donkey.description>
+  <Donkey.tools.0.label>left hoof</Donkey.tools.0.label>
+  <Donkey.tools.1.label>right hoof</Donkey.tools.1.label>
+  <Donkey.tools.3.label>head</Donkey.tools.3.label>
+  <Donkey_Leather.label>donkey leather</Donkey_Leather.label>
+  <Donkey_Leather.description>donkey leather</Donkey_Leather.description>
+  <Donkey_Leather.stuffProps.stuffAdjective>donkey leather</Donkey_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Donkey_Corpse.label>donkey corpse</Donkey_Corpse.label>
+  <Donkey_Corpse.description>donkey corpse</Donkey_Corpse.description>
+
+
+</LanguageData>

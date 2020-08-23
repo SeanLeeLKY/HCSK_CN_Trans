@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExoskeletonSuit.label>exoskeleton suit</ExoskeletonSuit.label>
+  <ExoskeletonSuit.description>A high tech device made out of two components: a light skeletal structure to relieve the back and servomotors to make the user stronger.</ExoskeletonSuit.description>
+
+
+  <!-- Protective exoskeleton -->
+
+  <ProtectiveExoskeleton.label>protective exoskeleton</ProtectiveExoskeleton.label>
+  <ProtectiveExoskeleton.description>A high tech device made out of a light skeletal structure and servomotors to support itself and the damage mitigation system used to protect the user.</ProtectiveExoskeleton.description>
+
+
+</LanguageData>

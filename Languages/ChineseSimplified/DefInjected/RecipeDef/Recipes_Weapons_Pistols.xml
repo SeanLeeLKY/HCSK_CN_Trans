@@ -1,45 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildHandGun.label>制造 柯尔特M1911 自动手枪</BuildHandGun.label>
-  <BuildHandGun.description>一把经典的手枪。射程和威力都不高，但是射速很快。\n弹药： .45 自动手枪弹</BuildHandGun.description>
-  <BuildHandGun.jobString>正在制造 柯尔特M1911 自动手枪。</BuildHandGun.jobString>
+  <BuildHandGun.label>Build Colt M1911</BuildHandGun.label>
+  <BuildHandGun.description>Builds an ancient pattern automatic pistol. Weak and short range, but quick.\nCaliber: .45 ACP</BuildHandGun.description>
+  <BuildHandGun.jobString>Building Colt M1911.</BuildHandGun.jobString>
 
-  <BuildP226Gun.label>制造 西格绍尔 P226 手枪</BuildP226Gun.label>
-  <BuildP226Gun.description>SIG P226是一把由德国枪械公司西格&绍尔研制及生产的一把全尺寸军用型半自动手枪。威力一般，但是精度不错，射速也不俗。\n弹药： .40 边缘发火弹</BuildP226Gun.description>
-  <BuildP226Gun.jobString>正在制造 西格绍尔 P226 手枪。</BuildP226Gun.jobString>
+  <BuildDeringerPistol.label>Build Smith&amp;Wesson M1917</BuildDeringerPistol.label>
+  <BuildDeringerPistol.description>Builds a Smith&amp;Wesson M1917 revolver. Accurate at short range only.  Moderately damaging with a short aim and cooldown period.\nCaliber: .45 ACP</BuildDeringerPistol.description>
+  <BuildDeringerPistol.jobString>Building Smith&amp;Wesson M1917.</BuildDeringerPistol.jobString>
 
-  <BuildDeringerPistol.label>制造 雷明顿M95德林格 手枪</BuildDeringerPistol.label>
-  <BuildDeringerPistol.description>制造 雷明顿M95德林格，一把主要用于装饰的小左轮手枪。在近距离的情况下，威力和精度都不错，并且瞄准时间很短，适合于快速交战场合。\n弹药： .45 自动手枪弹</BuildDeringerPistol.description>
-  <BuildDeringerPistol.jobString>正在制造 雷明顿M95德林格 手枪。</BuildDeringerPistol.jobString>
+  <BuildSphinxPistol.label>Build Sphinx AT 2000</BuildSphinxPistol.label>
+  <BuildSphinxPistol.description>Builds a Sphinx AT 2000, a high quality and highly durable handgun that is used by elite forces and sport shooters. Great accuracy, moderate damage but a tad slow.\nCaliber: 9x19mm Para</BuildSphinxPistol.description>
+  <BuildSphinxPistol.jobString>Building Sphinx AT 2000.</BuildSphinxPistol.jobString>
 
-  <BuildSphinxPistol.label>制造 斯芬克斯AT2000 手枪</BuildSphinxPistol.label>
-  <BuildSphinxPistol.description>制造 斯芬克斯AT2000 手枪，这是一种质量和耐用度都不错的武器，十分受精英部队和体育射击者青睐。精度非常不错，而且威力还行，但是射速较慢。\n弹药： 9x19mm 子弹</BuildSphinxPistol.description>
-  <BuildSphinxPistol.jobString>正在制造 斯芬克斯AT2000 手枪。</BuildSphinxPistol.jobString>
+  <BuildVektorCP.label>Build Vektor CP1</BuildVektorCP.label>
+  <BuildVektorCP.description>Builds a Vektor CP1, an ergonomical handgun with a drastically non-rectangular design. Good accuracy and low recoil, but weak with a slightly lower range.\nCaliber: 9x19mm Para</BuildVektorCP.description>
+  <BuildVektorCP.jobString>Building Vektor CP1.</BuildVektorCP.jobString>
 
-  <BuildVektorCP.label>制造 维克多CP1 手枪</BuildVektorCP.label>
-  <BuildVektorCP.description>制造 维克多CP1 手枪，一把复合人体工学的武器，非全矩形的设计显得独具匠心。 精度很好，而且后坐力很小，但是相应的，威力和射程都不尽人意。\n弹药： 9x19mm 子弹</BuildVektorCP.description>
-  <BuildVektorCP.jobString>正在制造 维克多CP1 手枪。</BuildVektorCP.jobString>
+  <BuildParaOrdnancePFourteenFortyfive.label>Build Para Ordnance P14-45</BuildParaOrdnancePFourteenFortyfive.label>
+  <BuildParaOrdnancePFourteenFortyfive.description>Builds a Para Ordnance P14-45m. High accuracy and above average range, average fire rate and damage.\nCaliber: .45 ACP</BuildParaOrdnancePFourteenFortyfive.description>
+  <BuildParaOrdnancePFourteenFortyfive.jobString>Building Para Ordnance P14-45</BuildParaOrdnancePFourteenFortyfive.jobString>
 
-  <BuildParaOrdnancePFourteenFortyfive.label>制造 “帕拉兵器”P14 手枪</BuildParaOrdnancePFourteenFortyfive.label>
-  <BuildParaOrdnancePFourteenFortyfive.description>制造 “帕拉兵器”P14 手枪。 精度较高并且射程尚可，射速和威力都在平均水平。\n弹药： .45 自动手枪弹</BuildParaOrdnancePFourteenFortyfive.description>
-  <BuildParaOrdnancePFourteenFortyfive.jobString>正在制造 “帕拉兵器”P14 手枪</BuildParaOrdnancePFourteenFortyfive.jobString>
+  <BuildTecnine.label>Build TEC-9</BuildTecnine.label>
+  <BuildTecnine.description>Builds a Tec-9 lightweight semi-automatic pistol with a quick draw, low damage and very high firerate. Operates at a short range.\nCaliber: 9x19mm Para</BuildTecnine.description>
+  <BuildTecnine.jobString>Building TEC-9.</BuildTecnine.jobString>
 
-  <BuildTecnine.label>制造 TEC-9 自动手枪</BuildTecnine.label>
-  <BuildTecnine.description>制造 TEC-9 自动手枪，一种质量轻，便于快速瞄准，射速高、伤害低，射程也很近的武器。\n弹药： 9x19mm 子弹</BuildTecnine.description>
-  <BuildTecnine.jobString>正在制造 TEC-9 自动手枪。</BuildTecnine.jobString>
-
-  <Build93RBurstPistol.label>制造 贝瑞塔93R 冲锋手枪</Build93RBurstPistol.label>
-  <Build93RBurstPistol.description>制造 贝瑞塔93R 冲锋手枪，一种可以启用爆发开火模式的全自动手枪。 停止力较低，并且只适合近距离作战。\n弹药： 9x19mm 子弹</Build93RBurstPistol.description>
-  <Build93RBurstPistol.jobString>正在制造 贝瑞塔93R 冲锋手枪。</Build93RBurstPistol.jobString>
-
-  <BuildMagnum.label>制造 .44雷明顿马格南 手枪</BuildMagnum.label>
-  <BuildMagnum.description>制造 .44雷明顿马格南 手枪。质量较轻，适合在中距离上作战使用。\n弹药： .44 马格南子弹</BuildMagnum.description>
-  <BuildMagnum.jobString>正在制造 .44雷明顿马格南 手枪。</BuildMagnum.jobString>
-
-  <BuildDesertEagle.label>制造 .50AE沙漠之鹰 手枪</BuildDesertEagle.label>
-  <BuildDesertEagle.description>制造 .50AE沙漠之鹰 手枪，一把名声赫赫的武器。精度较高，射速较快，并且便于携带。\n弹药： .50 AE子弹</BuildDesertEagle.description>
-  <BuildDesertEagle.jobString>正在制造 .50AE沙漠之鹰 手枪。</BuildDesertEagle.jobString>
+  <Build93RBurstPistol.label>Build Beretta 93R</Build93RBurstPistol.label>
+  <Build93RBurstPistol.description>Builds a Beretta 93R, a nice-looking machinepistol with a very fast burstfire mode. Low stopping power and hits up to pistol range.\nCaliber: 9x19mm Para</Build93RBurstPistol.description>
+  <Build93RBurstPistol.jobString>Building Beretta 93R.</Build93RBurstPistol.jobString>
 
 
 </LanguageData>

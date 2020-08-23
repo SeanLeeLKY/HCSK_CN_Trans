@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallBionicLung.label>Install synthetic lung</InstallBionicLung.label>
+  <InstallBionicLung.description>Installs a synthetic lung.</InstallBionicLung.description>
+  <InstallBionicLung.jobString>Installing Synthetic Lung.</InstallBionicLung.jobString>
+
+  <InstallBionicStomach.label>Install synthetic stomach</InstallBionicStomach.label>
+  <InstallBionicStomach.description>Installs a Synthetic Stomach.</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>Installing Synthetic Stomach.</InstallBionicStomach.jobString>
+
+  <InstallBionicLiver.label>Install Synthetic Liver</InstallBionicLiver.label>
+  <InstallBionicLiver.description>Installs a Synthetic Liver.</InstallBionicLiver.description>
+  <InstallBionicLiver.jobString>Installing Synthetic Liver.</InstallBionicLiver.jobString>
+
+  <InstallBionicKidney.label>Install synthetic kidney</InstallBionicKidney.label>
+  <InstallBionicKidney.description>Installs a Synthetic Kidney.</InstallBionicKidney.description>
+  <InstallBionicKidney.jobString>Installing Synthetic Kidney.</InstallBionicKidney.jobString>
+
+  <InstallBionicHeart.label>Install bionic heart</InstallBionicHeart.label>
+  <InstallBionicHeart.description>Installs a bionic heart.</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>Installing Synthetic Heart.</InstallBionicHeart.jobString>
+
+  <InstallJoywire.label>Install Joywire</InstallJoywire.label>
+  <InstallJoywire.description>Installs joywire.</InstallJoywire.description>
+  <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
+
+  <InstallPainstopper.label>Install Painstopper</InstallPainstopper.label>
+  <InstallPainstopper.description>Installs painstopper.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
+
+
+  <!-- Muscle stimulator -->
+
+  <InstallMuscleStimulatorArms.label>install muscle stimulator</InstallMuscleStimulatorArms.label>
+  <InstallMuscleStimulatorArms.description>Installs muscle stimulator in the arm.</InstallMuscleStimulatorArms.description>
+  <InstallMuscleStimulatorArms.jobString>Installing muscle stimulator.</InstallMuscleStimulatorArms.jobString>
+
+  <InstallMuscleStimulatorLegs.label>install muscle stimulator</InstallMuscleStimulatorLegs.label>
+  <InstallMuscleStimulatorLegs.description>Installs muscle stimulator in the leg.</InstallMuscleStimulatorLegs.description>
+  <InstallMuscleStimulatorLegs.jobString>Installing muscle stimulator.</InstallMuscleStimulatorLegs.jobString>
+
+
+</LanguageData>

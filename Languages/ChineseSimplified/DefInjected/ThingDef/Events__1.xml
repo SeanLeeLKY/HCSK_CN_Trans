@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <CosmicRAD.label>辐射尘</CosmicRAD.label>
+ 
+
+  <NFRAD.label>辐射尘</NFRAD.label>
+ 
+
+  <NuclearStrikeIncoming.label>“剃刀之雨”（临近中）</NuclearStrikeIncoming.label>
+  <RazorRainIncoming.label>“剃刀之雨”（临近中）</RazorRainIncoming.label>
+  <Thing_RazorSpawner.label>Razor生成器</Thing_RazorSpawner.label>
+
+
+  <!-- Misc Resources -->
+
+  <VGlower.label>光</VGlower.label>
+  
+
+  <FixedMeteoriteIncoming.label>陨石（临近中）</FixedMeteoriteIncoming.label>
+  <ShipChunkIncomingFlame.label>飞船碎片（临近中）</ShipChunkIncomingFlame.label>
+  <FixedMeteoriteIncomingFlame.label>陨石 （临近中）</FixedMeteoriteIncomingFlame.label>
+  <MechanoidShipIncoming.label>机械族飞船（临近中）</MechanoidShipIncoming.label>
+
+
+</LanguageData>

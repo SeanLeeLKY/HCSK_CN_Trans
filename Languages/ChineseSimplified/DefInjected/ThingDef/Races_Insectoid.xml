@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Antis.label>antis</Antis.label>
+  <Antis.description>A quiet stalker and merciless killer, the Antis (ant mantis) is a warrior caste of the insectoid hive. This species was created to fight the Mechanoid invasion, but poses a danger to people, too. It is a social creature that cannot reproduce individually.</Antis.description>
+  <Antis.tools.0.label>Left foreleg</Antis.tools.0.label>
+  <Antis.tools.1.label>Right foreleg</Antis.tools.1.label>
+  <Antis.tools.3.label>head</Antis.tools.3.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Megaspider -->
+  <Antis_Corpse.label>antis corpse</Antis_Corpse.label>
+  <Antis_Corpse.description>antis corpse</Antis_Corpse.description>
+
+  <Gnawler.label>gnawler</Gnawler.label>
+  <Gnawler.description>Gnawlers are a "grunt" caste of the insectoid hive. They are much smaller than the "warrior" caste and isn't particular dangerous when alone. Gnawlers can be very dangerous when they form into packs. It is a social creature that cannot reproduce individually.</Gnawler.description>
+  <Gnawler.tools.0.label>Left foreleg</Gnawler.tools.0.label>
+  <Gnawler.tools.1.label>Right foreleg</Gnawler.tools.1.label>
+  <Gnawler.tools.3.label>head</Gnawler.tools.3.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Megaspider -->
+  <Gnawler_Corpse.label>gnawler corpse</Gnawler_Corpse.label>
+  <Gnawler_Corpse.description>gnawler corpse</Gnawler_Corpse.description>
+
+
+</LanguageData>

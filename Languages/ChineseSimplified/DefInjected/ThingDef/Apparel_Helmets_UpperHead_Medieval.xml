@@ -1,16 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_iratemoron.label>高顶头盔</Apparello_iratemoron.label>
-  
+  <Apparello_Moron.label>Kettlehat</Apparello_Moron.label>
+  <Apparello_Moron.description>A helmet with a large metal brim for extra protection; favored by peasant but seen as unfit for nobility.</Apparello_Moron.description>
 
-  <Apparello_Moron.label>圆边头盔</Apparello_Moron.label>
-  
-  <MedievalArmor_NasalHelmet.label>护鼻头盔</MedievalArmor_NasalHelmet.label>
-  
-  <MedievalTimes_Headwrap.label>衬垫头罩</MedievalTimes_Headwrap.label>
-  
-  <Apparello_NorbalKing.label>角盔</Apparello_NorbalKing.label>
-  
+  <MedievalArmor_NasalHelmet.label>Nasal Helmet</MedievalArmor_NasalHelmet.label>
+  <MedievalArmor_NasalHelmet.description>A simple helmet with a slight innovation: a bar that extended down over the nose, provding better protection to the face but somewhat obscuring vision.</MedievalArmor_NasalHelmet.description>
+
+  <Apparello_NorbalKing.label>Horned Cap</Apparello_NorbalKing.label>
+  <Apparello_NorbalKing.description>A decorated, hardened leather cap. Often worn by the most revered and skilled combatants of Norbal communities.</Apparello_NorbalKing.description>
+
 
 </LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakePsychicInsanityLance.label>Assemble psychic insanity lance</MakePsychicInsanityLance.label>
+  <MakePsychicInsanityLance.description>Assemble a psychic insanity lance that drives any character into a berserk state from any distance and through any nearby walls. Very powerful weapon. Produces 1.</MakePsychicInsanityLance.description>
+  <MakePsychicInsanityLance.jobString>Assembling psychic insanity lance.</MakePsychicInsanityLance.jobString>
+
+  <MakePsychicShockLance.label>Assemble psychic shock lance</MakePsychicShockLance.label>
+  <MakePsychicShockLance.description>One-use artifact that directs psychic disturbances towards one character, dropping them into a state of psychic shock for some time. Large risk of brain damage. Produces 1.</MakePsychicShockLance.description>
+  <MakePsychicShockLance.jobString>Assembling psychic shock lance.</MakePsychicShockLance.jobString>
+
+  <MakePsychicAnimalPulser.label>Assemble psychic animal pulser</MakePsychicAnimalPulser.label>
+  <MakePsychicAnimalPulser.description>One-use artifact that drives all animals in the region into a manhunting rage. Produces 1.</MakePsychicAnimalPulser.description>
+  <MakePsychicAnimalPulser.jobString>Assembling psychic animal pulser.</MakePsychicAnimalPulser.jobString>
+
+  <MakePsychicSoothePulser.label>Assemble psychic soothe pulser</MakePsychicSoothePulser.label>
+  <MakePsychicSoothePulser.description>One-use artifact which gives a temporary mood boost to everyone on the map. Produces 1.</MakePsychicSoothePulser.description>
+  <MakePsychicSoothePulser.jobString>Assembling psychic soothe pulser.</MakePsychicSoothePulser.jobString>
+
+
+</LanguageData>

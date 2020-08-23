@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ClothTail.label>cloth tail</ClothTail.label>
+  <ClothTail.description>An installed very poor tail replacement. Looks bad, feels bad, is bad.</ClothTail.description>
+  <ClothTail.labelNoun>a cloth tail</ClothTail.labelNoun>
+
+  <BionicTail.label>bionic tail</BionicTail.label>
+  <BionicTail.description>An installed bionic prehensile tail.</BionicTail.description>
+  <BionicTail.labelNoun>a bionic tail</BionicTail.labelNoun>
+
+  <PlasteelClaws.label>advanced claws</PlasteelClaws.label>
+  <PlasteelClaws.description>An installed advanced claws. Replaces an Orassan's retractable claws with metal ones.</PlasteelClaws.description>
+  <PlasteelClaws.comps.0.tools.0.label>fist</PlasteelClaws.comps.0.tools.0.label>
+  <PlasteelClaws.labelNoun>an advanced claws</PlasteelClaws.labelNoun>
+
+  <CyberneticTail.label>cybernetic tail</CyberneticTail.label>
+  <CyberneticTail.description>An installed cybernetic tail. It's almost like having a third hand!</CyberneticTail.description>
+  <CyberneticTail.labelNoun>a cybernetic tail</CyberneticTail.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medical rib -->
+
+  <MedicalRib.label>medical rib</MedicalRib.label>
+  <MedicalRib.description>An installed medical rib implant.</MedicalRib.description>
+  <MedicalRib.labelNoun>a medical rib</MedicalRib.labelNoun>
+
+
+  <!-- Drugged rib -->
+
+  <DruggedRib.label>drugged rib</DruggedRib.label>
+  <DruggedRib.description>An installed drugged rib implant.</DruggedRib.description>
+  <DruggedRib.labelNoun>a drugged rib</DruggedRib.labelNoun>
+
+
+  <!-- Adrenaline rib -->
+
+  <AdrenalineRib.label>adrenaline rib</AdrenalineRib.label>
+  <AdrenalineRib.description>An installed adrenaline rib implant.</AdrenalineRib.description>
+  <AdrenalineRib.labelNoun>an adrenaline rib</AdrenalineRib.labelNoun>
+
+
+  <!-- Painkiller rib -->
+
+  <PainkillerRib.label>painkiller rib</PainkillerRib.label>
+  <PainkillerRib.description>An installed painkiller rib implant.</PainkillerRib.description>
+  <PainkillerRib.labelNoun>a painkiller rib</PainkillerRib.labelNoun>
+
+
+  <!-- Heater rib -->
+
+  <HeaterRib.label>heating rib</HeaterRib.label>
+  <HeaterRib.description>An installed heater rib implant.</HeaterRib.description>
+
+
+  <!-- Cooler rib -->
+
+  <CoolerRib.label>cooling rib</CoolerRib.label>
+  <CoolerRib.description>An installed cooler rib implant.</CoolerRib.description>
+
+
+  <!-- Coagulator rib -->
+
+  <CoagulatorRib.label>coagulator rib</CoagulatorRib.label>
+  <CoagulatorRib.description>An installed coagulator rib implant.</CoagulatorRib.description>
+
+
+</LanguageData>

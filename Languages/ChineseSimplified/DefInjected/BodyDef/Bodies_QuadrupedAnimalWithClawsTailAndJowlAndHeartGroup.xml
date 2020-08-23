@@ -1,7 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.label>四足动物</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.label>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.label>quadruped animal</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.label>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.4.customLabel>left lung</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.4.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.5.customLabel>right lung</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.5.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.6.customLabel>left kidney</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.6.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.7.customLabel>right kidney</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.7.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.9.parts.0.parts.1.customLabel>left eye</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.9.parts.0.parts.1.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.9.parts.0.parts.2.customLabel>right eye</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.9.parts.0.parts.2.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.9.parts.0.parts.3.customLabel>left ear</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.9.parts.0.parts.3.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.9.parts.0.parts.4.customLabel>right ear</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.9.parts.0.parts.4.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.parts.0.customLabel>front left leg first claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.parts.0.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.parts.1.customLabel>front left leg second claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.parts.1.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.parts.2.customLabel>front left leg third claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.parts.2.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.parts.3.customLabel>front left leg fourth claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.parts.3.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.parts.4.customLabel>front left leg fifth claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.parts.4.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.customLabel>front left leg</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.10.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.parts.0.customLabel>front right leg first claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.parts.0.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.parts.1.customLabel>front right leg second claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.parts.1.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.parts.2.customLabel>front right leg third claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.parts.2.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.parts.3.customLabel>front right leg fourth claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.parts.3.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.parts.4.customLabel>front right leg fifth claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.parts.4.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.customLabel>front right leg</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.11.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.parts.0.customLabel>rear left leg first claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.parts.0.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.parts.1.customLabel>rear left leg second claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.parts.1.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.parts.2.customLabel>rear left leg third claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.parts.2.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.parts.3.customLabel>rear left leg fourth claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.parts.3.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.parts.4.customLabel>rear left leg fifth claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.parts.4.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.customLabel>rear left leg</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.12.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.parts.0.customLabel>rear right leg first claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.parts.0.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.parts.1.customLabel>rear right leg second claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.parts.1.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.parts.2.customLabel>rear right leg third claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.parts.2.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.parts.3.customLabel>rear right leg fourth claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.parts.3.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.parts.4.customLabel>rear right leg fifth claw</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.parts.4.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.customLabel>rear right leg</QuadrupedAnimalWithClawsTailAndJowlAndHeartGroup.corePart.parts.13.customLabel>
 
 
 </LanguageData>

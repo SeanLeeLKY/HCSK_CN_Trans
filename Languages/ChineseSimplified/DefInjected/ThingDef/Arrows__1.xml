@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_Arrow_Stone.label>箭（石）</Ammo_Arrow_Stone.label>
+  <Ammo_Arrow_Stone.description>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Stone.description>
+
+  <Ammo_Arrow_Steel.label>箭（金属）</Ammo_Arrow_Steel.label>
+  <Ammo_Arrow_Steel.description>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Steel.description>
+
+  <Ammo_Arrow_Poison.label>箭（毒）</Ammo_Arrow_Poison.label>
+  <Ammo_Arrow_Poison.description>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Poison.description>
+
+  <Ammo_Arrow_Explosive.label>箭（爆炸）</Ammo_Arrow_Explosive.label>
+  <Ammo_Arrow_Explosive.description>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Explosive.description>
+
+
+  <!-- Projectiles -->
+
+  <Projectile_Arrow_Stone.label>箭（石）</Projectile_Arrow_Stone.label>
+  <Projectile_Arrow_Steel.label>箭（金属）</Projectile_Arrow_Steel.label>
+  <Projectile_Arrow_Poison.label>箭（毒）</Projectile_Arrow_Poison.label>
+  <Projectile_Arrow_Explosive.label>箭（爆炸）</Projectile_Arrow_Explosive.label>
+
+
+</LanguageData>

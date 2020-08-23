@@ -1,28 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_Sheet.label>衬垫背心</Apparello_Sheet.label>
-  <Apparello_Sheet.description>粗糙的皮革衬垫用以增加保护，免於钝器伤害。</Apparello_Sheet.description>
+  <Apparello_MedicalApron.label>Surgeon's apron</Apparello_MedicalApron.label>
+  <Apparello_MedicalApron.description>Lovely plastic apron for all your bloodspilling needs.</Apparello_MedicalApron.description>
 
-  <Apparello_Brocade.label>丝绸背心</Apparello_Brocade.label>
-  <Apparello_Brocade.description>始终保持沉稳和自律。</Apparello_Brocade.description>
+  <Apparello_Smithaprontosaurus.label>Bib apron</Apparello_Smithaprontosaurus.label>
+  <Apparello_Smithaprontosaurus.description>These kind of hardened leather aprons are used by professionals of many trades.</Apparello_Smithaprontosaurus.description>
 
-  <MedievalArmor_Hauberk.label>锁子甲</MedievalArmor_Hauberk.label>
-  
-  <MedievalTimes_PaddedJacket.label>衬垫夹克</MedievalTimes_PaddedJacket.label>
-  
-  <MedievalTimes_PaddedJacket_Leather.label>衬垫皮夹克</MedievalTimes_PaddedJacket_Leather.label>
-  
-  <MedievalTimes_Plates_Steel_Middle.label>护胸甲</MedievalTimes_Plates_Steel_Middle.label>
-  
-  <Apparel_FlakVest.label>防弹背心</Apparel_FlakVest.label>
-  <Apparel_FlakVest.description>前胸和后背处装配有凯芙拉装甲板的战斗背心，有效对抗枪火射击，但无法防护近战攻击。</Apparel_FlakVest.description>
+  <Apparello_Cookaprontosaurus.label>Cook Apron</Apparello_Cookaprontosaurus.label>
+  <Apparello_Cookaprontosaurus.description>Pocketed cloth apron intended for enhancing your housekeeping experience. It's a hygiene thing, you wouldn't understand.</Apparello_Cookaprontosaurus.description>
 
-  <Rimarsenal_VestPlate.label>战术胸甲</Rimarsenal_VestPlate.label>
-  <Rimarsenal_VestPlate.description>前胸和后背处装配有装甲板的战斗背心，有效对抗枪弹。</Rimarsenal_VestPlate.description>
+  <Apparello_Sheet.label>Padded Vest</Apparello_Sheet.label>
+  <Apparello_Sheet.description>A vest with crude leather padding for added protection against blunt damage.</Apparello_Sheet.description>
 
-  <Apparello_Gspot.label>合金胸甲</Apparello_Gspot.label>
-  <Apparello_Gspot.description>闪耀世界的标准战斗护具，由多层高强度、低重量的合金制成。</Apparello_Gspot.description>
+  <Apparello_Brocade.label>Brocade Vest</Apparello_Brocade.label>
+  <Apparello_Brocade.description>To always keep calm and collected, wear a brocade vest. The definite go to piece of apparel for any gentleguy or gal.</Apparello_Brocade.description>
+
+  <MedievalArmor_Hauberk.label>Hauberk</MedievalArmor_Hauberk.label>
+  <MedievalArmor_Hauberk.description>A long coat of interlocking metal rings, which provides good protection from slicing attacks.</MedievalArmor_Hauberk.description>
+
+  <MedievalTimes_PaddedJacket.label>Padded Jacket</MedievalTimes_PaddedJacket.label>
+  <MedievalTimes_PaddedJacket.description>A long coat which is heavily padded to help protect the wearer. It is also referred to as an aketon or gambeson and is good for defence against blunt weapons. It is designed to be worn under another heavier set of armour. Since this one is made of fabrics, the coat breathes and doesn't get nearly as hot as one might suspect.</MedievalTimes_PaddedJacket.description>
+
+  <MedievalTimes_Plates_Steel_Middle.label>Sleek Plates</MedievalTimes_Plates_Steel_Middle.label>
+  <MedievalTimes_Plates_Steel_Middle.description>A vest made of steel plates strapped to the chest and back. Shoulder plates and jack chains have also been added for extra protection. This is as basic as plate armour gets, maximizing locations and minimizing materials. This particular set has been polished and modified so it can be worn underneath clothes without catching, tearing or harming the wearer.</MedievalTimes_Plates_Steel_Middle.description>
+
+  <Apparel_FlakVest.label>flak vest</Apparel_FlakVest.label>
+  <Apparel_FlakVest.description>Padded vest made from bullet-resistant materials. Provides limited protection against shrapnel and gunfire at relatively low weight.</Apparel_FlakVest.description>
+
+  <Rimarsenal_VestPlate.label>Tactical Vestplate</Rimarsenal_VestPlate.label>
+  <Rimarsenal_VestPlate.description>A vest with armor plates inserted on the chest and back. Protects against gunfire.</Rimarsenal_VestPlate.description>
+
+  <Apparello_Gspot.label>Alloy Vest</Apparello_Gspot.label>
+  <Apparello_Gspot.description>Standard issue protective vest on the glitterworlds. Made of multiple layers of extremely light but strong alloy.</Apparello_Gspot.description>
 
 
 </LanguageData>

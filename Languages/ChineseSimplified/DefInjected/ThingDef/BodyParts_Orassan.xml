@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Claws.label>claws</Claws.label>
+  <Claws.description>A set of Orassan claws.</Claws.description>
+
+  <Tail.label>Tail</Tail.label>
+  <Tail.description>An Orassan tail.</Tail.description>
+
+  <ClothTail.label>Cloth tail</ClothTail.label>
+  <ClothTail.description>A very poor tail replacement. Looks bad, feels bad, is bad.</ClothTail.description>
+
+  <BionicTail.label>Bionic tail</BionicTail.label>
+  <BionicTail.description>A bionic prehensile tail.</BionicTail.description>
+
+  <PlasteelClaws.label>Advanced claws</PlasteelClaws.label>
+  <PlasteelClaws.description>Replaces an Orassan's retractable claws with metal ones.</PlasteelClaws.description>
+
+  <CyberneticTail.label>Cybernetic tail</CyberneticTail.label>
+  <CyberneticTail.description>An even better tail. It's almost like having a third hand!</CyberneticTail.description>
+
+
+</LanguageData>

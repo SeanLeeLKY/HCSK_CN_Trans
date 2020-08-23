@@ -3,15 +3,16 @@
 
   <!-- Glass -->
 
-  <GlassBatch.label>玻璃生料</GlassBatch.label>
-  
-  <Glass.label>玻璃块</Glass.label>
- 
-  <Glass.stuffProps.stuffAdjective>玻璃</Glass.stuffProps.stuffAdjective>
+  <GlassBatch.label>Glass Batch</GlassBatch.label>
+  <GlassBatch.description>Raw Glass Batch that was made from Sand. It would be more useful when it is refined into Glass Frames.</GlassBatch.description>
 
-  <ReinforcedGlass.label>强化玻璃块</ReinforcedGlass.label>
-  
-  <ReinforcedGlass.stuffProps.stuffAdjective>强化玻璃</ReinforcedGlass.stuffProps.stuffAdjective>
+  <Glass.label>Glass Frame</Glass.label>
+  <Glass.description>A transparent material that is quite popular despite being fragile. Glass is produced from Glass Batch, which is made from Sand.</Glass.description>
+  <Glass.stuffProps.stuffAdjective>glass</Glass.stuffProps.stuffAdjective>
+
+  <ReinforcedGlass.label>Reinforced Glass Frame</ReinforcedGlass.label>
+  <ReinforcedGlass.description>A stronger version of Glass Frames that is harder to work with, but has more potential uses.</ReinforcedGlass.description>
+  <ReinforcedGlass.stuffProps.stuffAdjective>Reinforced Glass</ReinforcedGlass.stuffProps.stuffAdjective>
 
 
 </LanguageData>

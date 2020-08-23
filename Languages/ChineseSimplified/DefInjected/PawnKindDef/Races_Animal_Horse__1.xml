@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 马 -->
+
+  <Horse.label>马</Horse.label>
+  <Horse.labelPlural>马</Horse.labelPlural>
+  <Horse.lifeStages.0.label>马</Horse.lifeStages.0.label>
+  <Horse.lifeStages.0.labelPlural>马</Horse.lifeStages.0.labelPlural>
+  <Horse.lifeStages.0.labelMale>公马驹</Horse.lifeStages.0.labelMale>
+  <Horse.lifeStages.0.labelMalePlural>公马驹</Horse.lifeStages.0.labelMalePlural>
+  <Horse.lifeStages.0.labelFemale>母马驹</Horse.lifeStages.0.labelFemale>
+  <Horse.lifeStages.0.labelFemalePlural>母马驹</Horse.lifeStages.0.labelFemalePlural>
+  <Horse.lifeStages.1.label>马</Horse.lifeStages.1.label>
+  <Horse.lifeStages.1.labelPlural>马</Horse.lifeStages.1.labelPlural>
+  <Horse.lifeStages.1.labelMale>公马驹</Horse.lifeStages.1.labelMale>
+  <Horse.lifeStages.1.labelMalePlural>公马驹</Horse.lifeStages.1.labelMalePlural>
+  <Horse.lifeStages.1.labelFemale>母马驹</Horse.lifeStages.1.labelFemale>
+  <Horse.lifeStages.1.labelFemalePlural>母马驹</Horse.lifeStages.1.labelFemalePlural>
+  <Horse.lifeStages.2.label>马</Horse.lifeStages.2.label>
+  <Horse.lifeStages.2.labelPlural>马</Horse.lifeStages.2.labelPlural>
+  <Horse.lifeStages.2.labelMale>公马</Horse.lifeStages.2.labelMale>
+  <Horse.lifeStages.2.labelMalePlural>公马</Horse.lifeStages.2.labelMalePlural>
+  <Horse.lifeStages.2.labelFemale>母马</Horse.lifeStages.2.labelFemale>
+  <Horse.lifeStages.2.labelFemalePlural>母马</Horse.lifeStages.2.labelFemalePlural>
+  <Horse.labelMale>公马</Horse.labelMale>
+  <Horse.labelMalePlural>公马</Horse.labelMalePlural>
+  <Horse.labelFemale>母马</Horse.labelFemale>
+  <Horse.labelFemalePlural>母马</Horse.labelFemalePlural>
+
+
+  <!-- 长鬃马 -->
+
+  <WoolyHorse.label>长鬃马</WoolyHorse.label>
+  <WoolyHorse.labelPlural>长鬃马</WoolyHorse.labelPlural>
+  <WoolyHorse.lifeStages.0.label>长鬃马</WoolyHorse.lifeStages.0.label>
+  <WoolyHorse.lifeStages.0.labelPlural>长鬃马</WoolyHorse.lifeStages.0.labelPlural>
+  <WoolyHorse.lifeStages.0.labelMale>长鬃马马驹</WoolyHorse.lifeStages.0.labelMale>
+  <WoolyHorse.lifeStages.0.labelMalePlural>长鬃马马驹</WoolyHorse.lifeStages.0.labelMalePlural>
+  <WoolyHorse.lifeStages.0.labelFemale>长鬃马小母马</WoolyHorse.lifeStages.0.labelFemale>
+  <WoolyHorse.lifeStages.0.labelFemalePlural>长鬃马小母马</WoolyHorse.lifeStages.0.labelFemalePlural>
+  <WoolyHorse.lifeStages.1.label>长鬃马</WoolyHorse.lifeStages.1.label>
+  <WoolyHorse.lifeStages.1.labelPlural>长鬃马</WoolyHorse.lifeStages.1.labelPlural>
+  <WoolyHorse.lifeStages.1.labelMale>长鬃马马驹</WoolyHorse.lifeStages.1.labelMale>
+  <WoolyHorse.lifeStages.1.labelMalePlural>长鬃马马驹</WoolyHorse.lifeStages.1.labelMalePlural>
+  <WoolyHorse.lifeStages.1.labelFemale>长鬃马小母马</WoolyHorse.lifeStages.1.labelFemale>
+  <WoolyHorse.lifeStages.1.labelFemalePlural>长鬃马小母马</WoolyHorse.lifeStages.1.labelFemalePlural>
+  <WoolyHorse.lifeStages.2.label>长鬃马</WoolyHorse.lifeStages.2.label>
+  <WoolyHorse.lifeStages.2.labelPlural>长鬃马</WoolyHorse.lifeStages.2.labelPlural>
+  <WoolyHorse.lifeStages.2.labelMale>长鬃马公马</WoolyHorse.lifeStages.2.labelMale>
+  <WoolyHorse.lifeStages.2.labelMalePlural>雄性长鬃马</WoolyHorse.lifeStages.2.labelMalePlural>
+  <WoolyHorse.lifeStages.2.labelFemale>长鬃马母马</WoolyHorse.lifeStages.2.labelFemale>
+  <WoolyHorse.lifeStages.2.labelFemalePlural>雌性长鬃马</WoolyHorse.lifeStages.2.labelFemalePlural>
+  <WoolyHorse.labelMale>长鬃马公马</WoolyHorse.labelMale>
+  <WoolyHorse.labelMalePlural>长鬃马公马</WoolyHorse.labelMalePlural>
+  <WoolyHorse.labelFemale>长鬃马母马</WoolyHorse.labelFemale>
+  <WoolyHorse.labelFemalePlural>长鬃马母马</WoolyHorse.labelFemalePlural>
+
+
+</LanguageData>

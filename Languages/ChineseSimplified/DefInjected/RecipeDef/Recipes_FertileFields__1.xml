@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeCompost.label>制造 堆肥</MakeCompost.label>
+  <MakeCompost.description>用有机物制造堆肥(25 肉类和 5 植物/灰烬)。</MakeCompost.description>
+  <MakeCompost.jobString>正在制造 堆肥</MakeCompost.jobString>
+
+  <MakeFertilizer.label>制造 肥料</MakeFertilizer.label>
+  <MakeFertilizer.jobString>正在制造 肥料。</MakeFertilizer.jobString>
+
+
+</LanguageData>

@@ -1,32 +1,111 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <KirinColdsnap.label>异常寒流</KirinColdsnap.label>
-  <KirinColdsnap.description>一场异常的寒流正在冻结整个地区。</KirinColdsnap.description>
-  <KirinColdsnap.endMessage>温度恢复正常。</KirinColdsnap.endMessage>
+  <Wildfire.label>wildfire</Wildfire.label>
+  <Wildfire.description>Wildfire</Wildfire.description>
+  <Wildfire.endMessage>The wildfire has ended.</Wildfire.endMessage>
 
-  <NuclearFallout.label>核辐射</NuclearFallout.label>
-  <NuclearFallout.description>你的殖民地被一枚低当量的核武器击中，爆炸之后，一股放射性粒子被送入低层大气，阻挡阳光照射并使该区域被辐射笼罩。 气温将会降低，人们和动物将受到辐射伤害。</NuclearFallout.description>
-  <NuclearFallout.endMessage>恭喜你!辐射很快就会达到自然的正常水平。如果你收到了这条信息，也许你是RimWorld高手之一！</NuclearFallout.endMessage>
+  <ExtremeCold.label>Cold superstorm</ExtremeCold.label>
+  <ExtremeCold.description>Huge heavy clouds covered your territory, depriving you of sunlight, and causing incredible temperature phenomena in your territory, including severe freezing, hail and the threat of hypothermia. Wear a hat!</ExtremeCold.description>
+  <ExtremeCold.endMessage>Hopefully, the cold superstorm has finished.</ExtremeCold.endMessage>
 
-  <CosmicRadiation.label>耀斑辐射</CosmicRadiation.label>
-  <CosmicRadiation.description>巨大的太阳耀斑触发了不正常的宇宙辐射！</CosmicRadiation.description>
-  <CosmicRadiation.endMessage>看起来辐射水平恢复到正常状态。</CosmicRadiation.endMessage>
+  <ExtremeHot.label>Inferno</ExtremeHot.label>
+  <ExtremeHot.description>An extremely powerful heat wave travels across the area, increasing the likelihood of droughts and forest fires. Take care of your head!</ExtremeHot.description>
+  <ExtremeHot.endMessage>Hopefully, the inferno accident has finished.</ExtremeHot.endMessage>
 
-  <Epidemic.label>疫病</Epidemic.label>
-  <Epidemic.description>在本地区，一场疫病开始爆发。</Epidemic.description>
-  <Epidemic.endMessage>疫病已经消退。</Epidemic.endMessage>
+  <SandTornado.label>Sandstorm</SandTornado.label>
+  <SandTornado.description>Sandstorm is coming!\n\nPowerful dust vortices will cut a path of destruction through the area.</SandTornado.description>
+  <SandTornado.endMessage>The sandstorm has finished, dust vortices are gone.</SandTornado.endMessage>
+
+  <ToxicWeather.label>toxic weather</ToxicWeather.label>
+  <ToxicWeather.description>Toxic rain due to toxic emissions from some distant source is falling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will may corrode.</ToxicWeather.description>
+  <ToxicWeather.endMessage>The worst of the toxic rain has finished.</ToxicWeather.endMessage>
+  <ToxicWeather.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic rain.</ToxicWeather.letterText>
+
+  <HailStorm.label>Hail Storm</HailStorm.label>
+  <HailStorm.description>A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets.</HailStorm.description>
+  <HailStorm.endMessage>The hail storm is ending.</HailStorm.endMessage>
+
+  <Drought.label>Drought</Drought.label>
+  <Drought.description>An unusual drought has set in.
+
+Drought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can.</Drought.description>
+  <Drought.endMessage>The drought is ending.</Drought.endMessage>
+
+  <IceAge.label>Ice Age</IceAge.label>
+  <IceAge.description>Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.
+
+Flora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.
+
+It will last anywhere between a season to several years.</IceAge.description>
+  <IceAge.endMessage>The ice age is ending</IceAge.endMessage>
+
+  <GlobalWarming.label>Global Warming</GlobalWarming.label>
+  <GlobalWarming.description>Global temperatures have suddenly risen to dangerous levels.
+
+Flora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.
+
+It will last anywhere between a season to several years.</GlobalWarming.description>
+  <GlobalWarming.endMessage>The global warming is ending</GlobalWarming.endMessage>
+
+  <PsychicRain.label>Psychic Rain</PsychicRain.label>
+  <PsychicRain.description>A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.
+
+A seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.
+
+It will last anywhere between a season to several years.</PsychicRain.description>
+  <PsychicRain.endMessage>The psychic rain is ending</PsychicRain.endMessage>
+
+  <LongNight.label>Long Night</LongNight.label>
+  <LongNight.description>A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.
+
+Terrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.
+
+It will last anywhere between a season to several years.</LongNight.description>
+  <LongNight.endMessage>The long night is ending</LongNight.endMessage>
+
+  <KirinColdsnap.label>Unusual cold</KirinColdsnap.label>
+  <KirinColdsnap.description>An unusual cold snap is freezing the region.</KirinColdsnap.description>
+  <KirinColdsnap.endMessage>Temperatures are back to normal.</KirinColdsnap.endMessage>
+
+  <NuclearFallout.label>Nuclear fallout</NuclearFallout.label>
+  <NuclearFallout.description>You colony has been struck by a low-yield nuclear weapon, in addition to the explosion, it has lofted a plume of radioactive particles into the lower atmosphere, blocking sunlight and irradiating the area. Temperatures will be lowered and exposed people and animals will take radiation damage.</NuclearFallout.description>
+  <NuclearFallout.endMessage>Congratulations! Radiation soon goes to natural normal level. If you have received this message, probably you are one of the best Rimworld players!</NuclearFallout.endMessage>
+
+  <CosmicRadiation.label>Radiation effect</CosmicRadiation.label>
+  <CosmicRadiation.description>Too much radiation from the solar flare has triggered cosmic radiation.</CosmicRadiation.description>
+  <CosmicRadiation.endMessage>It seems radiation effect soon goes to normal level.</CosmicRadiation.endMessage>
+
+  <Epidemic.label>Epidemic</Epidemic.label>
+  <Epidemic.description>In our area, an epidemic of disease.</Epidemic.description>
+  <Epidemic.endMessage>The epidemic has ended.</Epidemic.endMessage>
 
 
   <!-- Just for avoid error -->
 
-  <Darkness.label>黑暗降临</Darkness.label>
-  <Darkness.description>一场不寻常的漆黑冷夜。</Darkness.description>
-  <Darkness.endMessage>暗夜消散..。</Darkness.endMessage>
+  <Darkness.label>Darkness</Darkness.label>
+  <Darkness.description>An unusual dark and cold... night.</Darkness.description>
+  <Darkness.endMessage>The darkness is gone</Darkness.endMessage>
 
-  <Earthquake.label>地震活动</Earthquake.label>
-  <Earthquake.description>地质活动频发，强度升高。</Earthquake.description>
-  <Earthquake.endMessage>地震活动已经趋于平稳。</Earthquake.endMessage>
+  <StorytellerFrenzy.label>storyteller frenzy</StorytellerFrenzy.label>
+  <StorytellerFrenzy.description>You have angered the storyteller, we shouldn't expect anything good in the future.</StorytellerFrenzy.description>
+  <StorytellerFrenzy.endMessage>Storyteller forgot the insults.</StorytellerFrenzy.endMessage>
+
+  <StorytellerFrenzyRandom.label>storyteller frenzy</StorytellerFrenzyRandom.label>
+  <StorytellerFrenzyRandom.description>You have angered the storyteller, we shouldn't expect anything good in the future.</StorytellerFrenzyRandom.description>
+  <StorytellerFrenzyRandom.endMessage>Storyteller forgot the insults.</StorytellerFrenzyRandom.endMessage>
+
+  <Earthquake.label>Seismic activity</Earthquake.label>
+  <Earthquake.description>Underground shocks of a certain intensity.</Earthquake.description>
+  <Earthquake.endMessage>The seismic activity has ended.</Earthquake.endMessage>
+
+  <BombardmentCondition.label>bombardment</BombardmentCondition.label>
+  <BombardmentCondition.description>Enemy faction are not pleased with you.. so they will bomb you to hell.</BombardmentCondition.description>
+  <BombardmentCondition.endMessage>The bombardment threat is over.</BombardmentCondition.endMessage>
+
+  <PowerBeamStrikeCondition.label>beam strike</PowerBeamStrikeCondition.label>
+  <PowerBeamStrikeCondition.description>Enemy faction are not pleased with you.. so they will bomb you to hell.</PowerBeamStrikeCondition.description>
+  <PowerBeamStrikeCondition.endMessage>The beam strike threat is over.</PowerBeamStrikeCondition.endMessage>
 
 
 </LanguageData>

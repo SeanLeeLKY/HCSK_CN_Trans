@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Guard -->
+
+  <BrotherhoodGuard.label>兄弟会卫兵</BrotherhoodGuard.label>
+  <BrotherhoodGuard.labelPlural>兄弟会卫兵</BrotherhoodGuard.labelPlural>
+
+
+  <!-- Trader -->
+
+  <BrotherhoodTrader.label>兄弟会商人</BrotherhoodTrader.label>
+  <BrotherhoodTrader.labelPlural>兄弟会商人</BrotherhoodTrader.labelPlural>
+
+
+  <!-- Striker -->
+
+  <BrotherhoodStriker.label>兄弟会袭击者</BrotherhoodStriker.label>
+  <BrotherhoodStriker.labelPlural>兄弟会袭击者</BrotherhoodStriker.labelPlural>
+
+
+  <!-- Protector -->
+
+  <BrotherhoodProtector.label>兄弟会保卫者</BrotherhoodProtector.label>
+  <BrotherhoodProtector.labelPlural>兄弟会保卫者</BrotherhoodProtector.labelPlural>
+
+
+  <!-- Demolisher -->
+
+  <BrotherhoodDemolisher.label>兄弟会破坏者</BrotherhoodDemolisher.label>
+  <BrotherhoodDemolisher.labelPlural>兄弟会破坏者</BrotherhoodDemolisher.labelPlural>
+
+
+  <!-- Scout -->
+
+  <BrotherhoodScout.label>兄弟会侦察兵</BrotherhoodScout.label>
+  <BrotherhoodScout.labelPlural>兄弟会侦察兵</BrotherhoodScout.labelPlural>
+
+
+  <!-- Destroyer -->
+
+  <BrotherhoodDestroyer.label>兄弟会毁灭者</BrotherhoodDestroyer.label>
+  <BrotherhoodDestroyer.labelPlural>兄弟会毁灭者</BrotherhoodDestroyer.labelPlural>
+
+
+  <!-- Sentinel -->
+
+  <BrotherhoodSentinel.label>兄弟会哨兵</BrotherhoodSentinel.label>
+  <BrotherhoodSentinel.labelPlural>兄弟会哨兵</BrotherhoodSentinel.labelPlural>
+
+  <!-- Bombardier -->
+  <BrotherhoodBombardier.label>兄弟会炮兵</BrotherhoodBombardier.label>
+  <BrotherhoodBombardier.labelPlural>兄弟会炮兵</BrotherhoodBombardier.labelPlural>
+
+</LanguageData>

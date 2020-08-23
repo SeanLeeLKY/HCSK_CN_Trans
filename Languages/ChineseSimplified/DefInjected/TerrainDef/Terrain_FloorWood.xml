@@ -3,37 +3,81 @@
 
   <!-- Wood Tile -->
 
-  <ClutterWoodTileA.label>暗色木地板</ClutterWoodTileA.label>
-  <ClutterWoodTileA.description>暗色木地板
-美观度: 2。</ClutterWoodTileA.description>
+  <ClutterWoodTileA.label>dark wood tiles</ClutterWoodTileA.label>
+  <ClutterWoodTileA.description>Dark wood panels with a dark border around each tile.
+Beauty: 3.</ClutterWoodTileA.description>
 
-  <WoodPlankFloor.label>橡木色地板</WoodPlankFloor.label>
-  <WoodPlankFloor.description>橡木色地板
-美观度: 3。</WoodPlankFloor.description>
+  <WoodPlankFloor.label>oak planks</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Unfinished oak. Long horizontal planks with a light coloring.
+Beauty: 2.</WoodPlankFloor.description>
 
-  <WoodPlankFloor2.label>棕色木地板</WoodPlankFloor2.label>
-  <WoodPlankFloor2.description>棕色木地板
-美观度: 3。</WoodPlankFloor2.description>
+  <WoodPlankFloorTwo.label>brown wood floor</WoodPlankFloorTwo.label>
+  <WoodPlankFloorTwo.description>Thin vertical brown planks. For that warm homey feeling.
+Beauty: 2.</WoodPlankFloorTwo.description>
 
-  <WoodPlankFloor3.label>亮色木地板</WoodPlankFloor3.label>
-  <WoodPlankFloor3.description>亮色木地板
-美观度: 3。</WoodPlankFloor3.description>
+  <WoodPlankFloorThree.label>light wood planks</WoodPlankFloorThree.label>
+  <WoodPlankFloorThree.description>Staggered joint, light colored wood flooring in short, horizontal planks.
+Beauty: 2.</WoodPlankFloorThree.description>
 
-  <WoodPlankFloor4.label>风格化木地板</WoodPlankFloor4.label>
-  <WoodPlankFloor4.description>风格化木地板
-美观度: 3。</WoodPlankFloor4.description>
+  <WoodPlankFloorFour.label>styled wood floor</WoodPlankFloorFour.label>
+  <WoodPlankFloorFour.description>Three small planks per tile that alternate from horizontal to vertical every other tile. Reddish brown in color.
+Beauty: 3.</WoodPlankFloorFour.description>
 
-  <WoodPlankFloor5.label>褐色木地板</WoodPlankFloor5.label>
-  <WoodPlankFloor5.description>褐色木地板
-美观度: 4。</WoodPlankFloor5.description>
+  <WoodPlankFloorFive.label>brown wood planks</WoodPlankFloorFive.label>
+  <WoodPlankFloorFive.description>Vertical medium sized planks with staggered joints. Brown in color.
+Beauty: 4.</WoodPlankFloorFive.description>
 
-  <WoodPlankFloor6.label>黄褐色木地板</WoodPlankFloor6.label>
-  <WoodPlankFloor6.description>黄褐色木地板
-美观度: 4。</WoodPlankFloor6.description>
+  <WoodPlankFloorSix.label>tan wood planks</WoodPlankFloorSix.label>
+  <WoodPlankFloorSix.description>Medium sized planks in a horizontal pattern with a tanned wood look.
+Beauty: 4.</WoodPlankFloorSix.description>
 
-  <ParquetFloor.label>拼花地板</ParquetFloor.label>
-  <ParquetFloor.description>拼花地板
-美观度: 3。</ParquetFloor.description>
+  <ParquetFloor.label>parquet</ParquetFloor.label>
+  <ParquetFloor.description>Herringbone flooring. Regal elegance for the sophisticated colonist. Takes some time to build. 
+Beauty: 4.</ParquetFloor.description>
+
+  <BambooFloor.label>Bamboo panels</BambooFloor.label>
+  <BambooFloor.description>Bamboo panels.
+Beauty: 3.</BambooFloor.description>
+
+  <BambooFloorB.label>Bamboo Floor</BambooFloorB.label>
+  <BambooFloorB.description>Woven bamboo flooring.
+Beauty: 3.</BambooFloorB.description>
+
+  <BambooFloorC.label>Polished bamboo </BambooFloorC.label>
+  <BambooFloorC.description>Flooring made of polished bamboo planks.
+Beauty: 4.</BambooFloorC.description>
+
+  <BambooFloorD.label>Bamboo parquet</BambooFloorD.label>
+  <BambooFloorD.description>Bamboo planks neatly framed in the pattern.
+Beauty: 4.</BambooFloorD.description>
+
+  <BambooFloorE.label>Hexagonal parquet</BambooFloorE.label>
+  <BambooFloorE.description>Parquet made of hexagonal tiles.
+Beauty: 5.</BambooFloorE.description>
+
+  <BambooFloorF.label>Art bamboo parquet</BambooFloorF.label>
+  <BambooFloorF.description>Parquet with an abstract pattern of triangles.
+Beauty: 5.</BambooFloorF.description>
+
+  <RedWoodFloor.label>Mahogany floor</RedWoodFloor.label>
+  <RedWoodFloor.description>A floor of mahogany from roughly worked boards.
+Beauty: 3.</RedWoodFloor.description>
+
+  <RedWoodFloorB.label>Mahogany parquet</RedWoodFloorB.label>
+  <RedWoodFloorB.description>Bright, red parquet from neatly crafted mahogany boards.
+Beauty: 4.</RedWoodFloorB.description>
+
+  <RedWoodFloorC.label>Pale mahogany parquet</RedWoodFloorC.label>
+  <RedWoodFloorC.description>Pale, beautiful parquet made from neatly crafted mahogany planks.
+Beauty: 4.</RedWoodFloorC.description>
+
+  <RedWoodFloorD.label>Star mahogany parquet</RedWoodFloorD.label>
+  <RedWoodFloorD.description>Luxurious mahogany flooring. For the most sophisticated rooms and demanding colonists.
+Beauty: 5.</RedWoodFloorD.description>
+
+  <RedWoodFloorE.label>Dark mahogany parquet</RedWoodFloorE.label>
+  <RedWoodFloorE.description>Exquisite mahogany flooring. It will give an atmosphere of luxury and sophistication to any room.
+Beauty: 5.</RedWoodFloorE.description>
 
 
 </LanguageData>

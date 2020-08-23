@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Improvised turret gun -->
+
+  <Gun_TurretImprovised.label>轻型哨戒炮</Gun_TurretImprovised.label>
+  
+
+  <!-- Blaster Turret -->
+
+  <Gun_BlasterTurret.label>6x24mm爆破哨戒炮</Gun_BlasterTurret.label>
+ 
+  <!-- turret laser gun -->
+
+  <Gun_Laserbeamturret.label>炮塔激光枪</Gun_Laserbeamturret.label>
+  
+
+  <!-- Heavy Turret -->
+
+  <Gun_HeavyTurret.label>重型哨戒炮</Gun_HeavyTurret.label>
+  
+
+  <!-- Automated security gun -->
+
+  <Gun_NavalGun.label>哨戒机炮</Gun_NavalGun.label>
+ 
+
+  <!-- Sentry rocket launcher -->
+
+  <Gun_SentryRocketLauncher.label>哨戒火箭发射器</Gun_SentryRocketLauncher.label>
+  
+
+</LanguageData>

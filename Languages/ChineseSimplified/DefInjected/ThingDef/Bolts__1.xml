@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_Bolt_Metallic.label>金属箭</Ammo_Bolt_Metallic.label>
+  
+  <Ammo_Bolt_Poison.label>毒箭</Ammo_Bolt_Poison.label>
+  
+  <Ammo_Bolt_Explosive.label>爆炸箭</Ammo_Bolt_Explosive.label>
+  
+
+  <!-- Projectiles -->
+
+  <Projectile_MetallicBolt.label>金属箭</Projectile_MetallicBolt.label>
+  <Projectile_PoisonBolt.label>毒箭</Projectile_PoisonBolt.label>
+  <Projectile_ExplosiveBolt.label>爆炸箭</Projectile_ExplosiveBolt.label>
+
+
+</LanguageData>

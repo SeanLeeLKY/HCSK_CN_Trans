@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dummy jobdefs for Survival tools compat. -->
+
+  <FellTree.reportString>felling TargetA.</FellTree.reportString>
+  <FellTreeDesignated.reportString>felling TargetA.</FellTreeDesignated.reportString>
+  <HarvestTree.reportString>felling TargetA.</HarvestTree.reportString>
+  <HarvestTreeDesignated.reportString>felling TargetA.</HarvestTreeDesignated.reportString>
+  <SowWithSeeds.reportString>sowing TargetA.</SowWithSeeds.reportString>
+
+
+</LanguageData>

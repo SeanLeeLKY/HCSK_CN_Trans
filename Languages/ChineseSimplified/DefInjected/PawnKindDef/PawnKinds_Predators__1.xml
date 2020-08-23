@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <!-- Raven -->
+
+  <PredatorsRaven.label>掠夺者渡鸦</PredatorsRaven.label>
+  <PredatorsRaven.labelPlural>掠夺者渡鸦</PredatorsRaven.labelPlural>
+  <PredatorsRaven.labelMale>男性掠夺者渡鸦</PredatorsRaven.labelMale>
+  <PredatorsRaven.labelMalePlural>男性掠夺者渡鸦</PredatorsRaven.labelMalePlural>
+  <PredatorsRaven.labelFemale>女性掠夺者渡鸦</PredatorsRaven.labelFemale>
+  <PredatorsRaven.labelFemalePlural>女性掠夺者渡鸦</PredatorsRaven.labelFemalePlural>
+
+
+  <!-- Lynx -->
+
+  <PredatorsLynx.label>掠夺之豹</PredatorsLynx.label>
+  <PredatorsLynx.labelPlural>掠夺之豹</PredatorsLynx.labelPlural>
+
+
+  <!-- Wolf -->
+
+  <PredatorsWolf.label>掠夺之狼</PredatorsWolf.label>
+  <PredatorsWolf.labelPlural>掠夺之狼</PredatorsWolf.labelPlural>
+
+
+  <!-- Hawkeye -->
+
+  <PredatorsHawkeye.label>掠夺者鹰眼</PredatorsHawkeye.label>
+  <PredatorsHawkeye.labelPlural>掠夺者鹰眼</PredatorsHawkeye.labelPlural>
+
+
+  <!-- Bomber -->
+
+  <PredatorsBomber.label>掠夺者掷弹兵</PredatorsBomber.label>
+  <PredatorsBomber.labelPlural>掠夺者掷弹兵</PredatorsBomber.labelPlural>
+
+
+  <!-- Shaman -->
+
+  <PredatorsShaman.label>掠夺者萨满</PredatorsShaman.label>
+  <PredatorsShaman.labelPlural>掠夺者萨满</PredatorsShaman.labelPlural>
+
+
+  <!-- Slasher -->
+
+  <PredatorsSlasher.label>掠夺者切割者</PredatorsSlasher.label>
+  <PredatorsSlasher.labelPlural>掠夺者切割者</PredatorsSlasher.labelPlural>
+  <PredatorsSlasher.labelMale>男性掠夺者切割者</PredatorsSlasher.labelMale>
+  <PredatorsSlasher.labelMalePlural>男性掠夺者切割者</PredatorsSlasher.labelMalePlural>
+  <PredatorsSlasher.labelFemale>女性掠夺者切割者</PredatorsSlasher.labelFemale>
+  <PredatorsSlasher.labelFemalePlural>女性掠夺者切割者</PredatorsSlasher.labelFemalePlural>
+
+
+  <!-- Trader -->
+
+  <PredatorsTrader.label>掠夺者商人</PredatorsTrader.label>
+  <PredatorsTrader.labelPlural>掠夺者商人</PredatorsTrader.labelPlural>
+  <PredatorsTrader.labelMale>男性掠夺者商人</PredatorsTrader.labelMale>
+  <PredatorsTrader.labelMalePlural>男性掠夺者商人</PredatorsTrader.labelMalePlural>
+  <PredatorsTrader.labelFemale>女性掠夺者商人</PredatorsTrader.labelFemale>
+  <PredatorsTrader.labelFemalePlural>女性掠夺者商人</PredatorsTrader.labelFemalePlural>
+
+
+</LanguageData>

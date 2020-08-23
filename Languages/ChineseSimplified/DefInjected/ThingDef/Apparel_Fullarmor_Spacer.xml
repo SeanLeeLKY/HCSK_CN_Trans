@@ -1,22 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_PhaseArmor.label>相位装甲</Apparel_PhaseArmor.label>
-  
-  <Apparello_HA.label>蜂巢装甲</Apparello_HA.label>
-  
-  <Apparello_Steamhull.label>蒸汽护甲</Apparello_Steamhull.label>
-  
-  <Apparel_HellPowerArmor.label>地狱装甲MK2</Apparel_HellPowerArmor.label>
-  
-  <Rimarsenal_InteractorCloak.label>交互斗篷</Rimarsenal_InteractorCloak.label>
-  
-  <Siegearmor.label>攻城装甲</Siegearmor.label>
-  
-  <CCArmor.label>格斗装甲</CCArmor.label>
-  
-  <ValkyrieArmor.label>女武神装甲</ValkyrieArmor.label>
-  <ValkyrieArmor.description>一件传奇装甲，只有女性才能穿着。</ValkyrieArmor.description>
+  <Apparel_PowerArmor.label>Power Armor</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.description>An advanced suit of armor powered by uranium. It is usually used by assault troops from advanced glitterworld planets.</Apparel_PowerArmor.description>
+
+  <Apparel_PhaseArmor.label>Phase Armor</Apparel_PhaseArmor.label>
+  <Apparel_PhaseArmor.description>Reinforced medium armor for uncommon operations.</Apparel_PhaseArmor.description>
+
+  <Apparel_ArmorRecon.label>recon armor</Apparel_ArmorRecon.label>
+  <Apparel_ArmorRecon.description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces.</Apparel_ArmorRecon.description>
+
+  <Apparello_HA.label>Hive Armor</Apparello_HA.label>
+  <Apparello_HA.description>Armor that is fashioned after the centipede body structure. This extremely bulky armor is nigh indestructable. The sheer weight of this piece of armor drastically hinders mobility.</Apparello_HA.description>
+
+  <Apparello_Steamhull.label>Steamhull</Apparello_Steamhull.label>
+  <Apparello_Steamhull.description>A combination of mobility enhancing components of the Scyther frame and heavy plating of the Hive armor.
+	The increased energy consumption from the added scyther frame servos have forced the shock dampeners to work on lesser capacity,
+	thus rendering the wearer more vulnerable to injuries but the higher mobility under combat situations is well worth it. It generates absurd amounts of heat though.</Apparello_Steamhull.description>
+
+  <Apparel_HellPowerArmor.label>Hell Armor MK2</Apparel_HellPowerArmor.label>
+  <Apparel_HellPowerArmor.description>An advanced suit of armor powered by uranium. It is usually used by assault troops from advanced glitterworld planets.</Apparel_HellPowerArmor.description>
+
+  <Rimarsenal_InteractorCloak.label>Interactor Cloak</Rimarsenal_InteractorCloak.label>
+  <Rimarsenal_InteractorCloak.description>A special interactor cloak. Provides good insulation from heat and cold.</Rimarsenal_InteractorCloak.description>
+
+  <Siegearmor.label>Siege Armor</Siegearmor.label>
+  <Siegearmor.description>This is a set of JE-342A7 "Dvergr (Dwarf)" siege armor, minus the helmet. Like many other fort-world corporation products, Dvergr siege armor has a single main purpose. In this case, the main purpose is the survival of the wearer at any cost.</Siegearmor.description>
+
+  <CCArmor.label>Close Combat Armor</CCArmor.label>
+  <CCArmor.description>The JE-257A1 "Einherjar" close combat armor is a modified version of "Dvergr" siege armor. Some of the thick armor plates have been removed so that high powered actuators and fast recharging shields could be installed.</CCArmor.description>
 
 
 </LanguageData>

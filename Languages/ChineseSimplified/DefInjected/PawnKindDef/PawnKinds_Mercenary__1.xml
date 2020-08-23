@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gunner -->
+
+  <MercenaryGunner.label>雇佣枪手</MercenaryGunner.label>
+  <MercenaryGunner.labelPlural>雇佣枪手</MercenaryGunner.labelPlural>
+
+
+  <!-- Fusilier -->
+
+  <MercenarySniper.label>雇佣狙击手</MercenarySniper.label>
+  <MercenarySniper.labelPlural>雇佣狙击手</MercenarySniper.labelPlural>
+
+
+  <!-- Grenadier -->
+
+  <GrenadierDestructive.label>雇佣掷弹兵</GrenadierDestructive.label>
+  <GrenadierDestructive.labelPlural>雇佣掷弹兵</GrenadierDestructive.labelPlural>
+
+
+  <!-- Grenadier EMP -->
+
+  <GrenadierEMP.label>雇佣EMP掷弹兵</GrenadierEMP.label>
+  <GrenadierEMP.labelPlural>雇佣EMP掷弹兵</GrenadierEMP.labelPlural>
+
+
+  <!-- Slasher -->
+
+  <MercenarySlasher.label>雇佣刀手</MercenarySlasher.label>
+  <MercenarySlasher.labelPlural>雇佣刀手</MercenarySlasher.labelPlural>
+
+
+  <!-- Heavy Mercenary -->
+
+  <MercenaryHeavy.label>重装雇佣兵</MercenaryHeavy.label>
+  <MercenaryHeavy.labelPlural>重装雇佣兵</MercenaryHeavy.labelPlural>
+
+
+</LanguageData>

@@ -1,7 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HumanoidTerminator.label>人形终结者</HumanoidTerminator.label>
+  <HumanoidTerminator.label>humanoid terminator</HumanoidTerminator.label>
+  <HumanoidTerminator.corePart.parts.5.parts.0.parts.1.customLabel>left eye</HumanoidTerminator.corePart.parts.5.parts.0.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.5.parts.0.parts.2.customLabel>right eye</HumanoidTerminator.corePart.parts.5.parts.0.parts.2.customLabel>
+  <HumanoidTerminator.corePart.parts.5.parts.0.parts.3.customLabel>left ear</HumanoidTerminator.corePart.parts.5.parts.0.parts.3.customLabel>
+  <HumanoidTerminator.corePart.parts.5.parts.0.parts.4.customLabel>right ear</HumanoidTerminator.corePart.parts.5.parts.0.parts.4.customLabel>
+  <HumanoidTerminator.corePart.parts.6.parts.0.customLabel>left clavicle</HumanoidTerminator.corePart.parts.6.parts.0.customLabel>
+  <HumanoidTerminator.corePart.parts.6.parts.1.parts.0.customLabel>left humerus</HumanoidTerminator.corePart.parts.6.parts.1.parts.0.customLabel>
+  <HumanoidTerminator.corePart.parts.6.parts.1.parts.1.customLabel>left radius</HumanoidTerminator.corePart.parts.6.parts.1.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.0.customLabel>left pinky</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.0.customLabel>
+  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.1.customLabel>left ring finger</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.2.customLabel>left middle finger</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.2.customLabel>
+  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.3.customLabel>left index finger</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.3.customLabel>
+  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.4.customLabel>left thumb</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.4.customLabel>
+  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.customLabel>left hand</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.customLabel>
+  <HumanoidTerminator.corePart.parts.6.parts.1.customLabel>left arm</HumanoidTerminator.corePart.parts.6.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.6.customLabel>left shoulder</HumanoidTerminator.corePart.parts.6.customLabel>
+  <HumanoidTerminator.corePart.parts.7.parts.0.customLabel>right clavicle</HumanoidTerminator.corePart.parts.7.parts.0.customLabel>
+  <HumanoidTerminator.corePart.parts.7.parts.1.parts.0.customLabel>right humerus</HumanoidTerminator.corePart.parts.7.parts.1.parts.0.customLabel>
+  <HumanoidTerminator.corePart.parts.7.parts.1.parts.1.customLabel>right radius</HumanoidTerminator.corePart.parts.7.parts.1.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.0.customLabel>right pinky</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.0.customLabel>
+  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.1.customLabel>right ring finger</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.2.customLabel>right middle finger</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.2.customLabel>
+  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.3.customLabel>right index finger</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.3.customLabel>
+  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.4.customLabel>right thumb</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.4.customLabel>
+  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.customLabel>right hand</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.customLabel>
+  <HumanoidTerminator.corePart.parts.7.parts.1.customLabel>right arm</HumanoidTerminator.corePart.parts.7.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.7.customLabel>right shoulder</HumanoidTerminator.corePart.parts.7.customLabel>
+  <HumanoidTerminator.corePart.parts.9.parts.0.customLabel>left femur</HumanoidTerminator.corePart.parts.9.parts.0.customLabel>
+  <HumanoidTerminator.corePart.parts.9.parts.1.customLabel>left tibia</HumanoidTerminator.corePart.parts.9.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.9.parts.2.parts.0.customLabel>left little toe</HumanoidTerminator.corePart.parts.9.parts.2.parts.0.customLabel>
+  <HumanoidTerminator.corePart.parts.9.parts.2.parts.1.customLabel>left fourth toe</HumanoidTerminator.corePart.parts.9.parts.2.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.9.parts.2.parts.2.customLabel>left middle toe</HumanoidTerminator.corePart.parts.9.parts.2.parts.2.customLabel>
+  <HumanoidTerminator.corePart.parts.9.parts.2.parts.3.customLabel>left second toe</HumanoidTerminator.corePart.parts.9.parts.2.parts.3.customLabel>
+  <HumanoidTerminator.corePart.parts.9.parts.2.parts.4.customLabel>left big toe</HumanoidTerminator.corePart.parts.9.parts.2.parts.4.customLabel>
+  <HumanoidTerminator.corePart.parts.9.parts.2.customLabel>left foot</HumanoidTerminator.corePart.parts.9.parts.2.customLabel>
+  <HumanoidTerminator.corePart.parts.9.customLabel>left leg</HumanoidTerminator.corePart.parts.9.customLabel>
+  <HumanoidTerminator.corePart.parts.10.parts.0.customLabel>right femur</HumanoidTerminator.corePart.parts.10.parts.0.customLabel>
+  <HumanoidTerminator.corePart.parts.10.parts.1.customLabel>right tibia</HumanoidTerminator.corePart.parts.10.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.10.parts.2.parts.0.customLabel>right little toe</HumanoidTerminator.corePart.parts.10.parts.2.parts.0.customLabel>
+  <HumanoidTerminator.corePart.parts.10.parts.2.parts.1.customLabel>right fourth toe</HumanoidTerminator.corePart.parts.10.parts.2.parts.1.customLabel>
+  <HumanoidTerminator.corePart.parts.10.parts.2.parts.2.customLabel>right middle toe</HumanoidTerminator.corePart.parts.10.parts.2.parts.2.customLabel>
+  <HumanoidTerminator.corePart.parts.10.parts.2.parts.3.customLabel>right second toe</HumanoidTerminator.corePart.parts.10.parts.2.parts.3.customLabel>
+  <HumanoidTerminator.corePart.parts.10.parts.2.parts.4.customLabel>right big toe</HumanoidTerminator.corePart.parts.10.parts.2.parts.4.customLabel>
+  <HumanoidTerminator.corePart.parts.10.parts.2.customLabel>right foot</HumanoidTerminator.corePart.parts.10.parts.2.customLabel>
+  <HumanoidTerminator.corePart.parts.10.customLabel>right leg</HumanoidTerminator.corePart.parts.10.customLabel>
 
 
 </LanguageData>

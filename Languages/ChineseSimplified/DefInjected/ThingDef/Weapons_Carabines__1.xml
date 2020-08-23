@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MOSIN-NAGANT M91 -->
+
+  <RF_Gun_Mosin.label>M91莫辛-纳甘</RF_Gun_Mosin.label>
+  
+
+  <!-- AKS-74U -->
+
+  <Gun_AKS74U.label>AKS-74U卡宾枪</Gun_AKS74U.label>
+  
+
+  <!-- BERETTA CX4 -->
+
+  <RF_Gun_CXfour.label>贝瑞塔CX4卡宾枪</RF_Gun_CXfour.label>
+  
+
+  <!-- RUGER PC-9 -->
+
+  <RF_Gun_PCnine.label>鲁格PC-9</RF_Gun_PCnine.label>
+  
+
+  <!-- HK USC -->
+
+  <RF_Gun_USC.label>HK USC卡宾枪</RF_Gun_USC.label>
+  
+
+  <!-- M4A1 -->
+
+  <Gun_M4A1Gun.label>M4A1卡宾枪</Gun_M4A1Gun.label>
+  
+
+</LanguageData>

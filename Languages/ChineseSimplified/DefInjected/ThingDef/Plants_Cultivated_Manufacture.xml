@@ -1,46 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlantCotton.label>棉花</PlantCotton.label>
-  
-  <PlantFlax.label>亚麻花</PlantFlax.label>
-  <PlantFlax.description>这种花的纤维可以被编织成亚麻布。</PlantFlax.description>
+  <Plant_Cotton.label>Cotton Bush</Plant_Cotton.label>
+  <Plant_Cotton.description>Cotton Bushes produce Cotton, a fine plant fiber that can be spun from the Tailor's Workbench into a textile called Cloth.</Plant_Cotton.description>
 
-  <PlantDevilstrand.label>恶魔菇</PlantDevilstrand.label>
-  <PlantDevilstrand.description>这种经过基因工程改造的脆弱蘑菇能够产出最高级的丝质纤维。据传这种蘑菇拥有非常神秘的特性，它的名称源自它在人群中所激发出的贪欲。</PlantDevilstrand.description>
+  <Plant_Flax.label>Flax flower</Plant_Flax.label>
+  <Plant_Flax.description>A flower thats fibers are use to spin into cloth.</Plant_Flax.description>
 
-  <PlantHops.label>啤酒花</PlantHops.label>
-  <PlantHops.description>又名蛇麻草，一种开花植物，产出啤酒花，啤酒原料的必需品。</PlantHops.description>
+  <Plant_Devilstrand.label>Devilstrand Mushroom</Plant_Devilstrand.label>
+  <Plant_Devilstrand.description>Devilstrand Mushrooms are slow growing fungi that produce Devilstrand Puffballs, which can be spun into a textile called Devilstrand Cloth. This fungi was genetically engineered to produce a silk net of the highest grade. It is long rumored to have mystical properties and it owes its name to the devilish greed it inspires in people.</Plant_Devilstrand.description>
 
-  <Plantsugarcane.label>甘蔗</Plantsugarcane.label>
-  <Plantsugarcane.description>甘蔗用于提炼蔗糖。</Plantsugarcane.description>
+  <Plant_Hops.label>Hops Plant</Plant_Hops.label>
+  <Plant_Hops.description>A Hop Plant is a flowering plant that yields Hops, an essential ingredient in brewing Wort from the Brewery.</Plant_Hops.description>
 
+  <Plant_Sugarcane.label>Sugarcane Plant</Plant_Sugarcane.label>
+  <Plant_Sugarcane.description>Sugarcane Plants produce a type of long grass stalk called Sugarcane. The grass stalks are rich in sucrose, which can be milled from the Butcher Table to produce Sugar.</Plant_Sugarcane.description>
 
-  <PlantTreeBamboo.label>竹</PlantTreeBamboo.label>
-  <PlantTreeBamboo.description>一种成群生长而又生长迅速的物种，类似于普通的树。可从竹子中收获类似木材的材料。这种植物本身并不好看。</PlantTreeBamboo.description>
+  <Plant_TreeBamboo.label>bamboo tree</Plant_TreeBamboo.label>
+  <Plant_TreeBamboo.description>Bamboo stalks produce Bamboo. Bamboo is a fast growing grass that functions as a wood alternative.</Plant_TreeBamboo.description>
 
-  <Plantoats.label>燕麦</Plantoats.label>
-  
-  <Plantwheat.label>小麦</Plantwheat.label>
-  <Plantwheat.description>小麦是一种谷物，收获后能制成面粉。</Plantwheat.description>
+  <Plantwheat.label>Wheat Grass</Plantwheat.label>
+  <Plantwheat.description>Wheat Grass is a cereal grain that produces Wheat. Wheat can be milled from the Butcher Table into Flour, which can be baked into Bread Leaves from the Electric Oven.</Plantwheat.description>
 
-  <PlantSmokeleaf.label>烟叶</PlantSmokeleaf.label>
-  <PlantSmokeleaf.description>一种多叶植物，烟叶叶可以在手工加工点处被制成烟卷。</PlantSmokeleaf.description>
+  <Plant_Smokeleaf.label>smokeleaf plant</Plant_Smokeleaf.label>
+  <Plant_Smokeleaf.description>A leafy plant cultivated for its psychological effects. Smokeleaf leaves can be prepared into joints at the crafting spot.</Plant_Smokeleaf.description>
 
-  <PlantPsychoid.label>精神叶</PlantPsychoid.label>
-  <PlantPsychoid.description>一种多叶植物，叶子可以被精炼制成多种精神药物。</PlantPsychoid.description>
+  <Plant_Psychoid.label>psychoid plant</Plant_Psychoid.label>
+  <Plant_Psychoid.description>A leafy plant. Its leaves can be refined into various forms of the psychoid drug.</Plant_Psychoid.description>
 
-  <PlantTobacco.label>雪茄烟草</PlantTobacco.label>
-  
+  <Plant_Tobacco.label>Tobacco Plant</Plant_Tobacco.label>
+  <Plant_Tobacco.description>Tobacco Plants are a green, leafy member of the nightshade family. Unlike other nightshade plants that produce fruits, Tobacco Plants are grown for their Tobacco Leaves. These leaves are rolled from the Tobacco Rolling Bench and smoked as an addictive drug.</Plant_Tobacco.description>
 
-  <PlantCoffee.label>咖啡树</PlantCoffee.label>
-  <PlantCoffee.description>这种矮小的树木结出的红色果实酷似樱桃，种子经过发酵晾晒等工艺，或煮、或研磨成粉冲泡，最后成为美味的饮料。</PlantCoffee.description>
+  <Plant_Coffee.label>Coffee Plant</Plant_Coffee.label>
+  <Plant_Coffee.description>Coffee Plants are green, leafy plants that produce red cherries. Coffee Beans are inside of the cherries, and when the Coffee Beans are ground they are can be brewed into a tasty beverage called Coffee from the Coffee Machine.</Plant_Coffee.description>
 
-  <PlantTea.label>茶树</PlantTea.label>
-  <PlantTea.description>一种灌木。叶子可以冲泡成美味的饮料。</PlantTea.description>
+  <Plant_Tea.label>Tea Shrub</Plant_Tea.label>
+  <Plant_Tea.description>Tea Shrubs produce aromatic Tea Leaves. When these leaves are brewed with hot water they make a tasty beverage from the Coffee Machine called Tea.</Plant_Tea.description>
 
-  <PlantHeveaTree.label>橡胶树</PlantHeveaTree.label>
-  <PlantHeveaTree.description>橡胶树能产生一种天然粘稠的胶状树液，称为橡胶树液。可以在石化工厂中通过硫化工艺进一步提炼出可用橡胶。</PlantHeveaTree.description>
+  <Plant_TreeHevea.label>Hevea Tree</Plant_TreeHevea.label>
+  <Plant_TreeHevea.description>Hevea Trees produce a natural latex, rubber-like sap called Caoutchouc. Caoutchouc can be refined in the Petrochemical Plant through a progress known as vulcanization to create Rubber.</Plant_TreeHevea.description>
 
 
 </LanguageData>

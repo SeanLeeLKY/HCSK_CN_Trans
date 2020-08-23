@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GoodHappy.label>感觉不错！</GoodHappy.label>
-  <GoodHappy.stages.0.label>暖暖的</GoodHappy.stages.0.label>
-  <GoodHappy.stages.1.label>健康饮料，感觉好多了。</GoodHappy.stages.1.label>
+  <GoodHappy.label>Fresh fruit drink</GoodHappy.label>
+  <GoodHappy.description>A fresh drink made by pressing fruit for their juice.</GoodHappy.description>
+  <GoodHappy.stages.0.label>warmfuzzy</GoodHappy.stages.0.label>
+  <GoodHappy.stages.1.label>Healty Drink, Feeling Better.</GoodHappy.stages.1.label>
 
 
 </LanguageData>

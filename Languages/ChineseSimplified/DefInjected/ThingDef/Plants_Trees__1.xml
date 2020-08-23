@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Trees -->
+
+  <PlantMangrove.label>海榄雌</PlantMangrove.label>
+  
+
+  <PlantTreePalm.label>椰子树</PlantTreePalm.label>
+  
+
+  <PlantTreeDrago.label>龙血树</PlantTreeDrago.label>
+  <PlantTreeDrago.description>一种热带树木，有长而裸露的树干，顶部有一簇树叶。</PlantTreeDrago.description>
+
+  <PlantTreeOak.label>橡树</PlantTreeOak.label>
+  <PlantTreeOak.description>一种健壮的硬木树。生长缓慢，但是木材非常坚硬。</PlantTreeOak.description>
+
+  <PlantTreePoplar.label>杨树</PlantTreePoplar.label>
+  <PlantTreePoplar.description>一种软木树。生长迅速，但产出的可用木材不多。</PlantTreePoplar.description>
+
+  <PlantTreePine.label>松树</PlantTreePine.label>
+  <PlantTreePine.description>一种大型针叶树。</PlantTreePine.description>
+
+  <PlantTreeBirch.label>桦树</PlantTreeBirch.label>
+  <PlantTreeBirch.description>一种北方树木，因纸一样的薄树皮而出名。</PlantTreeBirch.description>
+
+  <PlantTreeTeak.label>柚木树</PlantTreeTeak.label>
+  <PlantTreeTeak.description>一个非常健壮的硬木树，在远古时用于建造帆船。</PlantTreeTeak.description>
+
+  <PlantTreeCecropia.label>号角树</PlantTreeCecropia.label>
+  <PlantTreeCecropia.description>热带雨林里最常见的树之一。生长非常迅速，但产出的可用木材不多。</PlantTreeCecropia.description>
+
+  <PlantTreeWillow.label>柳树</PlantTreeWillow.label>
+  <PlantTreeWillow.description>生长最快的遮荫树之一，有着美观而又郁郁葱葱的树冠。不会产生很多有用的木材。</PlantTreeWillow.description>
+
+  <PlantTreeCypress.label>柏树</PlantTreeCypress.label>
+  <PlantTreeCypress.description>一种树形高大，生长缓慢的树。通常出现在沼泽地中。尽管树木生长缓慢，但种植这些树是有好处的，因为它们能产出大量有用的木材。</PlantTreeCypress.description>
+
+  <PlantTreeMaple.label>枫树</PlantTreeMaple.label>
+  <PlantTreeMaple.description>一种常见的中型树。它经常出现在沼泽和潮湿的地形上。</PlantTreeMaple.description>
+
+  <PlantTreeRedwood.label>红木</PlantTreeRedwood.label>
+  <PlantTreeRedwood.description>一棵巨大的，非常缓慢生长的树。它的根很浅，当它长得太大时，它颠覆了。\n\n产生红木，这是珍贵的稀有木材。</PlantTreeRedwood.description>
+
+
+</LanguageData>

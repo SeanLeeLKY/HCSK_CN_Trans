@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchTimerSwitch.label>时间控制开关</ResearchTimerSwitch.label>
+  <ResearchTimerSwitch.description>研究定时功能开关。可以在特定时间让开关自动开启关闭。</ResearchTimerSwitch.description>
+  <ResearchTimerSwitch.descriptionDiscovered>现在你可以设置开关在特定时间开启或者关闭。\n\n注意：不要将你的灯、炮台等直接连接到电力开关上！应该连接到延伸出来的电缆上！</ResearchTimerSwitch.descriptionDiscovered>
+
+
+</LanguageData>

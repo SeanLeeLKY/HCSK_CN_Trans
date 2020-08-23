@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AmmoAdvanced.label>先进弹药</AmmoAdvanced.label>
-  <AmmoGrenades.label>手榴弹</AmmoGrenades.label>
-  <AmmoHighCaliber.label>现代弹药</AmmoHighCaliber.label>
-  <AmmoPistols.label>手枪</AmmoPistols.label>
-  <AmmoRifles.label>步枪</AmmoRifles.label>
-  <AmmoShotguns.label>霰弹枪</AmmoShotguns.label>
-  <AmmoRockets.label>火箭弹</AmmoRockets.label>
-  <AmmoShells.label>炮弹</AmmoShells.label>
-  <AmmoNeolithic.label>原始</AmmoNeolithic.label>
+  <Ammo.label>ammunition</Ammo.label>
+  <AmmoAdvanced.label>advanced</AmmoAdvanced.label>
+  <AmmoGrenades.label>grenade</AmmoGrenades.label>
+  <AmmoHighCaliber.label>high caliber</AmmoHighCaliber.label>
+  <AmmoPistols.label>pistol</AmmoPistols.label>
+  <AmmoRifles.label>rifle</AmmoRifles.label>
+  <AmmoShotguns.label>shotgun</AmmoShotguns.label>
+  <AmmoRockets.label>rocket</AmmoRockets.label>
+  <AmmoShells.label>shell</AmmoShells.label>
+  <AmmoNeolithic.label>neolithic</AmmoNeolithic.label>
 
 
 </LanguageData>

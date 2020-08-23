@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- FGM-148 Javelin -->
+
+  <Gun_ATML.label>FGM-148“标枪”反坦克导弹</Gun_ATML.label>
+  
+  <Artillery_TOWMissile.label>BGM-71“陶式”反坦克导弹</Artillery_TOWMissile.label>
+  
+
+  <!-- Medium missile system -->
+
+  <Gun_MissileSystem.label>中型导弹系统</Gun_MissileSystem.label>
+ 
+
+  <!-- Heavy missile system -->
+
+  <Gun_RL.label>重型导弹系统</Gun_RL.label>
+  
+
+</LanguageData>

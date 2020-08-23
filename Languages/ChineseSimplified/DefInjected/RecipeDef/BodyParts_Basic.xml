@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- basic parts -->
+
+  <InstallEyePatch.label>Install Eye Patch</InstallEyePatch.label>
+  <InstallEyePatch.description>Installs an Eye Patch.</InstallEyePatch.description>
+  <InstallEyePatch.jobString>Installing Eye Patch.</InstallEyePatch.jobString>
+
+  <InstallHookHand.label>Install Hook Hand</InstallHookHand.label>
+  <InstallHookHand.description>Installs a Hook Hand.</InstallHookHand.description>
+  <InstallHookHand.jobString>Installing Hook Hand.</InstallHookHand.jobString>
+
+  <InstallDenture.label>Install Denture</InstallDenture.label>
+  <InstallDenture.description>Installs a simple Denture.</InstallDenture.description>
+  <InstallDenture.jobString>Installing Denture.</InstallDenture.jobString>
+
+  <InstallPegLeg.label>Install Peg Leg</InstallPegLeg.label>
+  <InstallPegLeg.description>Installs a Peg Leg.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Installing Peg Leg.</InstallPegLeg.jobString>
+
+  <InstallWoodenHand.label>install wooden hand</InstallWoodenHand.label>
+  <InstallWoodenHand.description>Install a wooden hand.</InstallWoodenHand.description>
+  <InstallWoodenHand.jobString>Installing Wooden Foot.</InstallWoodenHand.jobString>
+
+  <InstallWoodenFoot.label>Install Wooden Foot</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>Installs a Wooden Foot.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Installing Wooden Foot.</InstallWoodenFoot.jobString>
+
+  <InstallCochlearImplant.label>install cochlear implant</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>Install a cochlear implant.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>Installing cochlear implant.</InstallCochlearImplant.jobString>
+
+  <InstallSimpleProstheticHeart.label>install prosthetic heart</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>Install a prosthetic heart.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>Installing prosthetic heart.</InstallSimpleProstheticHeart.jobString>
+
+
+</LanguageData>

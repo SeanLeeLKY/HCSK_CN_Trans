@@ -3,9 +3,13 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_ChargedLaser.label>制造 电荷光束弹 x40</MakeAmmo_ChargedLaser.label>
-  <MakeAmmo_ChargedLaser.description>制造 40 电荷光束弹。</MakeAmmo_ChargedLaser.description>
-  <MakeAmmo_ChargedLaser.jobString>正在制造 电荷光束弹。</MakeAmmo_ChargedLaser.jobString>
+  <MakeAmmo_ChargedLaser.label>make Charged Laser beam cartridge x40</MakeAmmo_ChargedLaser.label>
+  <MakeAmmo_ChargedLaser.description>Craft 40 Charged Laser beam cartridges.</MakeAmmo_ChargedLaser.description>
+  <MakeAmmo_ChargedLaser.jobString>Making Charged Laser beam cartridges.</MakeAmmo_ChargedLaser.jobString>
+
+  <MakeAmmo_ChargedLaser_Stable.label>make Charged Laser beam (Stable) cartridge x40</MakeAmmo_ChargedLaser_Stable.label>
+  <MakeAmmo_ChargedLaser_Stable.description>Craft 40 Charged Laser beam (Stable) cartridges.</MakeAmmo_ChargedLaser_Stable.description>
+  <MakeAmmo_ChargedLaser_Stable.jobString>Making Charged Laser beam (Stable) cartridges.</MakeAmmo_ChargedLaser_Stable.jobString>
 
 
 </LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Villager -->
+
+  <Villager.label>城镇居民</Villager.label>
+  <Villager.labelPlural>城镇居民</Villager.labelPlural>
+
+
+  <!-- Councilman -->
+
+  <TownCouncilman.label>城镇议员</TownCouncilman.label>
+  <TownCouncilman.labelPlural>城镇议员</TownCouncilman.labelPlural>
+
+
+  <!-- Trader -->
+
+  <TownTrader.label>城镇商人</TownTrader.label>
+  <TownTrader.labelPlural>城镇商人</TownTrader.labelPlural>
+
+
+  <!-- Guard -->
+
+  <TownGuard.label>城镇守卫</TownGuard.label>
+  <TownGuard.labelPlural>城镇守卫</TownGuard.labelPlural>
+
+
+</LanguageData>

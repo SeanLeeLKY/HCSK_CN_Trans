@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShieldEmitterDecayRate.label>Shield decay rate</ShieldEmitterDecayRate.label>
+  <ShieldEmitterDecayRate.description>The rate at which a shield loses energy.</ShieldEmitterDecayRate.description>
+  <ShieldEmitterDecayRate.formatString>{0}/s</ShieldEmitterDecayRate.formatString>
+
+  <ShieldEmitterRadius.label>shield emitter radius</ShieldEmitterRadius.label>
+  <ShieldEmitterRadius.description>The area shielded when a shield emitter detonates.</ShieldEmitterRadius.description>
+  <ShieldEmitterRadius.formatString>{0} cells</ShieldEmitterRadius.formatString>
+
+
+</LanguageData>

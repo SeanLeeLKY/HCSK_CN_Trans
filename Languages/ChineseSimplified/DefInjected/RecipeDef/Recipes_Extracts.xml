@@ -1,44 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ExtractMetalFromSlag.label>熔炼 钢渣块</ExtractMetalFromSlag.label>
-  <ExtractMetalFromSlag.description>用强热和电磁铁从钢渣块中提炼出有用的金属。</ExtractMetalFromSlag.description>
-  <ExtractMetalFromSlag.jobString>正在熔炼 钢渣块。</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.label>smelt metal from slag</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Use heat and strong electromagnets to separate useful metal from slag chunks.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Smelting metal from slag.</ExtractMetalFromSlag.jobString>
 
-  <SmeltWeapon.label>熔炼 武器</SmeltWeapon.label>
-  <SmeltWeapon.description>用强热和电磁铁将武器分解成有用的金属。</SmeltWeapon.description>
-  <SmeltWeapon.jobString>正在熔炼 武器。</SmeltWeapon.jobString>
+  <SmeltWeapon.label>smelt metal from weapon</SmeltWeapon.label>
+  <SmeltWeapon.description>Use heat and strong electromagnets to separate useful metal from weapons.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>Smelting metal from weapon.</SmeltWeapon.jobString>
 
-  <DestroyWeapon.label>销毁 武器</DestroyWeapon.label>
-  <DestroyWeapon.description>用强热销毁不想要的武器。比熔炼快，用于不可熔炼的物品，但不产出资源。</DestroyWeapon.description>
-  <DestroyWeapon.jobString>正在销毁 武器。</DestroyWeapon.jobString>
+  <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
+  <DestroyWeapon.description>Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
+  <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
 
-  <ButcherCorpseFlesh.label>屠宰 尸体</ButcherCorpseFlesh.label>
-  <ButcherCorpseFlesh.description>屠宰尸体以获取可用的肉。</ButcherCorpseFlesh.description>
-  <ButcherCorpseFlesh.jobString>正在屠宰。</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseFlesh.label>butcher corpse</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Butcher a creature to obtain its meat, leather, and other body products.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Butchering.</ButcherCorpseFlesh.jobString>
 
-  <MakeStoneBlocksAny.label>制作 石砖</MakeStoneBlocksAny.label>
-  <MakeStoneBlocksAny.description>将岩石块切割成可用的石块。 \n\n产出：20 沙子和 5 碎石以及相应的石砖。</MakeStoneBlocksAny.description>
-  <MakeStoneBlocksAny.jobString>正在切割石材。</MakeStoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.label>cut stone blocks</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.description>Cuts a stone chunk into usable stone blocks.</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.jobString>Cutting stone chunk into blocks.</Make_StoneBlocksAny.jobString>
 
-  <MakeStoneBlocks_Electric.label>制作 石砖</MakeStoneBlocks_Electric.label>
-  <MakeStoneBlocks_Electric.description>将岩石块切割成可用的石块。 \n\n产出：20 沙子和 5 碎石以及相应的石砖。</MakeStoneBlocks_Electric.description>
-  <MakeStoneBlocks_Electric.jobString>正在切割石材。</MakeStoneBlocks_Electric.jobString>
+  <ExtractBiomatterCorpse.label>extract biomatter from corpse</ExtractBiomatterCorpse.label>
+  <ExtractBiomatterCorpse.description>Extracts BioMatter from a corpse. Produces 35.</ExtractBiomatterCorpse.description>
+  <ExtractBiomatterCorpse.jobString>Extracting BioMatter from corpse.</ExtractBiomatterCorpse.jobString>
 
-  <ExtractBiomatterCorpse.label>提取 生物质（人类尸体）</ExtractBiomatterCorpse.label>
-  <ExtractBiomatterCorpse.description>从人类尸体中提取生物质。 \n\n产出：35。</ExtractBiomatterCorpse.description>
-  <ExtractBiomatterCorpse.jobString>正在提取生物质。</ExtractBiomatterCorpse.jobString>
-
-  <ExtractBiomatterAnimal.label>提取 生物质（动物尸体）</ExtractBiomatterAnimal.label>
-  <ExtractBiomatterAnimal.description>从动物尸体中提取生物质。 \n\n产出：10。</ExtractBiomatterAnimal.description>
-  <ExtractBiomatterAnimal.jobString>正在提取生物质。</ExtractBiomatterAnimal.jobString>
+  <ExtractBiomatterAnimal.label>extract biomatter from animal corpse</ExtractBiomatterAnimal.label>
+  <ExtractBiomatterAnimal.description>Extracts BioMatter from an animal corpse. Produces 10.</ExtractBiomatterAnimal.description>
+  <ExtractBiomatterAnimal.jobString>Extracting BioMatter from animal corpse.</ExtractBiomatterAnimal.jobString>
 
 
   <!-- SOYLENT GREEN -->
 
-  <makesoylentgreen.label>提取 绿色营养物质</makesoylentgreen.label>
-  <makesoylentgreen.description>从人类生物的尸体中提取高质量营养物质。 \n\n产出：45。</makesoylentgreen.description>
-  <makesoylentgreen.jobString>正在提取绿色营养物质。</makesoylentgreen.jobString>
+  <Make_SoylentGreen.label>obtain soylent green</Make_SoylentGreen.label>
+  <Make_SoylentGreen.description>Obtain Soylent Green from a humanlike corpse. Produces 45.</Make_SoylentGreen.description>
+  <Make_SoylentGreen.jobString>Obtaining Soylent Green.</Make_SoylentGreen.jobString>
 
 
 </LanguageData>

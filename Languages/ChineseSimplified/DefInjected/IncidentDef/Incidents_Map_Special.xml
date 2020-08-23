@@ -3,29 +3,39 @@
 
   <!-- ShipChunkDrop -->
 
-  <ShipChunkDrop.label>飞船残骸坠落</ShipChunkDrop.label>
+  <ShipChunkDrop.label>ship chunk drop</ShipChunkDrop.label>
 
 
   <!-- OrbitalVisitor -->
 
-  <OrbitalTraderArrival.label>轨道贸易商</OrbitalTraderArrival.label>
+  <OrbitalTraderArrival.label>orbital trader arrival</OrbitalTraderArrival.label>
+  <OrbitalTraderArrivalSBT.label>orbital trader arrival</OrbitalTraderArrivalSBT.label>
 
 
   <!-- AllyArrival -->
 
-  <TraderCaravanArrival.label>贸易商队</TraderCaravanArrival.label>
-  <VisitorGroup.label>访客</VisitorGroup.label>
-  <TravelerGroup.label>旅行者</TravelerGroup.label>
+  <TraderCaravanArrival.label>trader caravan arrival</TraderCaravanArrival.label>
+  <VisitorGroup.label>visitor group</VisitorGroup.label>
+  <TravelerGroup.label>traveler group</TravelerGroup.label>
 
 
   <!-- AllyAssistance -->
 
-  <RaidFriendly.label>援军</RaidFriendly.label>
+  <RaidFriendly.label>friendly raid</RaidFriendly.label>
 
 
-  <!-- Raid-beacon-attracted events -->
+  <!-- Good - special -->
 
-  <RaidEnemyEscapeShip.label>敌袭</RaidEnemyEscapeShip.label>
+  <StrangerInBlackJoin.label>man in black</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.letterText>Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts?</StrangerInBlackJoin.letterText>
+  <StrangerInBlackJoin.letterLabel>Man in black</StrangerInBlackJoin.letterLabel>
+
+
+  <!-- event attracted events -->
+
+  <RaidEnemyDummy.label>enemy raid ice age</RaidEnemyDummy.label>
+  <ManhunterPackDummy.label>manhunter pack</ManhunterPackDummy.label>
+  <AnimalInsanityMassDummy.label>mass animal insanity</AnimalInsanityMassDummy.label>
 
 
 </LanguageData>

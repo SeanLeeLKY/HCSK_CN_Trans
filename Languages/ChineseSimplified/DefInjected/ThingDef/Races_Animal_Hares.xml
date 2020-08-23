@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hares -->
+
+  <Hare.label>hare</Hare.label>
+  <Hare.description>This small, solitary herbivore can swiftly hop away from danger.</Hare.description>
+  <Hare.tools.1.label>head</Hare.tools.1.label>
+  <Hare_Leather.label>hare leather</Hare_Leather.label>
+  <Hare_Leather.description>hare leather</Hare_Leather.description>
+  <Hare_Leather.stuffProps.stuffAdjective>hare leather</Hare_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Hare_Corpse.label>hare corpse</Hare_Corpse.label>
+  <Hare_Corpse.description>hare corpse</Hare_Corpse.description>
+
+
+  <!-- Hares -->
+
+  <Snowhare.label>snow hare</Snowhare.label>
+  <Snowhare.description>This hardy, animal survives the brutal winters of the north by burrowing through snow and finding prey underneath, or hibernating the worst months away.</Snowhare.description>
+  <Snowhare.tools.1.label>head</Snowhare.tools.1.label>
+  <Snowhare_Leather.label>snow hare leather</Snowhare_Leather.label>
+  <Snowhare_Leather.description>snow hare leather</Snowhare_Leather.description>
+  <Snowhare_Leather.stuffProps.stuffAdjective>snow hare leather</Snowhare_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Snowhare_Corpse.label>snow hare corpse</Snowhare_Corpse.label>
+  <Snowhare_Corpse.description>snow hare corpse</Snowhare_Corpse.description>
+
+
+</LanguageData>

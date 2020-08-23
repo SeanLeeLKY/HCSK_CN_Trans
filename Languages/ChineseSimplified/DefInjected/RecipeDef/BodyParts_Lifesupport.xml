@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- lifesupport system -->
+
+  <InstallLifeSupportHeart.label>Install Blood Pump</InstallLifeSupportHeart.label>
+  <InstallLifeSupportHeart.description>Installs a Blood Pump.</InstallLifeSupportHeart.description>
+  <InstallLifeSupportHeart.jobString>Installing Blood Pump.</InstallLifeSupportHeart.jobString>
+
+  <InstallLifeSupportLung.label>Install Respirator</InstallLifeSupportLung.label>
+  <InstallLifeSupportLung.description>Installs a Respirator.</InstallLifeSupportLung.description>
+  <InstallLifeSupportLung.jobString>Installing Respirator.</InstallLifeSupportLung.jobString>
+
+  <InstallLifeSupportKidney.label>Install Urine Filter</InstallLifeSupportKidney.label>
+  <InstallLifeSupportKidney.description>Installs Urine Filter.</InstallLifeSupportKidney.description>
+  <InstallLifeSupportKidney.jobString>Installing Urine Filter.</InstallLifeSupportKidney.jobString>
+
+  <InstallLifeSupportLiver.label>Install Blood Filter</InstallLifeSupportLiver.label>
+  <InstallLifeSupportLiver.description>Installs a Blood Filter.</InstallLifeSupportLiver.description>
+  <InstallLifeSupportLiver.jobString>Installing Blood Filter.</InstallLifeSupportLiver.jobString>
+
+  <InstallLifeSupportStomach.label>Install Feeding Tube</InstallLifeSupportStomach.label>
+  <InstallLifeSupportStomach.description>Installs a Feeding Tube.</InstallLifeSupportStomach.description>
+  <InstallLifeSupportStomach.jobString>Installing Feeding Tube.</InstallLifeSupportStomach.jobString>
+
+
+</LanguageData>

@@ -1,9 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FishingPierFloorDeepWater.label>钓鱼码头地板</FishingPierFloorDeepWater.label>
-  <FishingPierFloorShallowWater.label>钓鱼码头地板</FishingPierFloorShallowWater.label>
-  <FishingPierFloorMarsh.label>钓鱼码头地板</FishingPierFloorMarsh.label>
+  <!-- Deep -->
+
+  <FishingPierFloorDeepWater.label>Fishing pier floor</FishingPierFloorDeepWater.label>
+  <FishingPierFloorDeepWater.tools.0.label>water</FishingPierFloorDeepWater.tools.0.label>
+
+  <FishingPierFloorShallowWater.label>Fishing pier floor</FishingPierFloorShallowWater.label>
+  <FishingPierFloorShallowWater.tools.0.label>water</FishingPierFloorShallowWater.tools.0.label>
+
+  <FishingPierFloorMarsh.label>Fishing pier floor</FishingPierFloorMarsh.label>
+  <FishingPierFloorMarsh.tools.0.label>water</FishingPierFloorMarsh.tools.0.label>
+  <FishingPierFloorMarsh.tools.1.label>mud</FishingPierFloorMarsh.tools.1.label>
 
 
 </LanguageData>

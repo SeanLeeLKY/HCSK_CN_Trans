@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallOrassanTail.label>Install tail</InstallOrassanTail.label>
+  <InstallOrassanTail.description>Installs tail.</InstallOrassanTail.description>
+  <InstallOrassanTail.jobString>Installing tail.</InstallOrassanTail.jobString>
+
+  <InstallClothTail.label>Install cloth tail</InstallClothTail.label>
+  <InstallClothTail.description>Installs cloth tail.</InstallClothTail.description>
+  <InstallClothTail.jobString>Installing cloth tail.</InstallClothTail.jobString>
+
+  <InstallBionicTail.label>Install bionic tail</InstallBionicTail.label>
+  <InstallBionicTail.description>Installs bionic tail.</InstallBionicTail.description>
+  <InstallBionicTail.jobString>Installing bionic tail.</InstallBionicTail.jobString>
+
+  <InstallPlasteelClaws.label>Install advanced claws</InstallPlasteelClaws.label>
+  <InstallPlasteelClaws.description>Installs advanced claws.</InstallPlasteelClaws.description>
+  <InstallPlasteelClaws.jobString>Installing advanced claws.</InstallPlasteelClaws.jobString>
+
+  <InstallCyberneticTail.label>Install cybernetic tail</InstallCyberneticTail.label>
+  <InstallCyberneticTail.description>Installs cybernetic tail.</InstallCyberneticTail.description>
+  <InstallCyberneticTail.jobString>Installing cybernetic tail.</InstallCyberneticTail.jobString>
+
+
+</LanguageData>

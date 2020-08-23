@@ -3,38 +3,74 @@
 
   <!-- Gunner -->
 
-  <MercenaryGunner.label>雇佣枪手</MercenaryGunner.label>
-  <MercenaryGunner.labelPlural>雇佣枪手</MercenaryGunner.labelPlural>
+  <Mercenary_Gunner.label>Mercenary Gunner</Mercenary_Gunner.label>
+  <Mercenary_Gunner.labelPlural>Mercenary Gunners</Mercenary_Gunner.labelPlural>
+
+  <Mercenary_Gunner_Acidifier.label>Mercenary Gunner</Mercenary_Gunner_Acidifier.label>
+  <Mercenary_Gunner_Acidifier.labelPlural>Mercenary Gunners</Mercenary_Gunner_Acidifier.labelPlural>
 
 
   <!-- Fusilier -->
 
-  <MercenarySniper.label>雇佣狙击手</MercenarySniper.label>
-  <MercenarySniper.labelPlural>雇佣狙击手</MercenarySniper.labelPlural>
+  <Mercenary_Sniper.label>Mercenary fusilier</Mercenary_Sniper.label>
+  <Mercenary_Sniper.labelPlural>Mercenary fusiliers</Mercenary_Sniper.labelPlural>
+
+  <Mercenary_Sniper_Acidifier.label>Mercenary fusilier</Mercenary_Sniper_Acidifier.label>
+  <Mercenary_Sniper_Acidifier.labelPlural>Mercenary fusiliers</Mercenary_Sniper_Acidifier.labelPlural>
 
 
   <!-- Grenadier -->
 
-  <GrenadierDestructive.label>雇佣掷弹兵</GrenadierDestructive.label>
-  <GrenadierDestructive.labelPlural>雇佣掷弹兵</GrenadierDestructive.labelPlural>
+  <Grenadier_Destructive.label>Grenadier</Grenadier_Destructive.label>
+  <Grenadier_Destructive.labelPlural>Grenadiers</Grenadier_Destructive.labelPlural>
+
+  <Grenadier_Destructive_Acidifier.label>Grenadier</Grenadier_Destructive_Acidifier.label>
+  <Grenadier_Destructive_Acidifier.labelPlural>Grenadiers</Grenadier_Destructive_Acidifier.labelPlural>
 
 
   <!-- Grenadier EMP -->
 
-  <GrenadierEMP.label>雇佣EMP掷弹兵</GrenadierEMP.label>
-  <GrenadierEMP.labelPlural>雇佣EMP掷弹兵</GrenadierEMP.labelPlural>
+  <Grenadier_EMP.label>EMP grenadier</Grenadier_EMP.label>
+  <Grenadier_EMP.labelPlural>EMP grenadiers</Grenadier_EMP.labelPlural>
+
+
+  <!-- Grenadier Smoke -->
+
+  <Grenadier_Smoke.label>Smoke grenadier</Grenadier_Smoke.label>
+  <Grenadier_Smoke.labelPlural>Smoke grenadiers</Grenadier_Smoke.labelPlural>
 
 
   <!-- Slasher -->
 
-  <MercenarySlasher.label>雇佣刀手</MercenarySlasher.label>
-  <MercenarySlasher.labelPlural>雇佣刀手</MercenarySlasher.labelPlural>
+  <Mercenary_Slasher.label>Mercenary Slasher</Mercenary_Slasher.label>
+  <Mercenary_Slasher.labelPlural>Mercenary Slashers</Mercenary_Slasher.labelPlural>
+
+  <Mercenary_Slasher_Acidifier.label>Mercenary Slasher</Mercenary_Slasher_Acidifier.label>
+  <Mercenary_Slasher_Acidifier.labelPlural>Mercenary Slashers</Mercenary_Slasher_Acidifier.labelPlural>
 
 
   <!-- Heavy Mercenary -->
 
-  <MercenaryHeavy.label>重装雇佣兵</MercenaryHeavy.label>
-  <MercenaryHeavy.labelPlural>重装雇佣兵</MercenaryHeavy.labelPlural>
+  <Mercenary_Heavy.label>Heavy Mercenary</Mercenary_Heavy.label>
+  <Mercenary_Heavy.labelPlural>heavy mercenaries</Mercenary_Heavy.labelPlural>
+
+  <Mercenary_Heavy_Acidifier.label>Heavy Mercenary</Mercenary_Heavy_Acidifier.label>
+  <Mercenary_Heavy_Acidifier.labelPlural>heavy mercenaries</Mercenary_Heavy_Acidifier.labelPlural>
+
+
+  <!-- Boss -->
+
+  <PirateBoss.label>Boss</PirateBoss.label>
+  <PirateBoss.labelPlural>bosses</PirateBoss.labelPlural>
+
+
+  <!-- Elite -->
+
+  <Mercenary_Elite.label>elite mercenary</Mercenary_Elite.label>
+  <Mercenary_Elite.labelPlural>elite mercenaries</Mercenary_Elite.labelPlural>
+
+  <Mercenary_Elite_Acidifier.label>elite mercenary</Mercenary_Elite_Acidifier.label>
+  <Mercenary_Elite_Acidifier.labelPlural>elite mercenaries</Mercenary_Elite_Acidifier.labelPlural>
 
 
 </LanguageData>

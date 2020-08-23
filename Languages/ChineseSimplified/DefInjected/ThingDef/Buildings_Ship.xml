@@ -3,56 +3,56 @@
 
   <!-- Beam -->
 
-  <Ship_Beam.label>飞船结构梁</Ship_Beam.label>
-  <Ship_Beam.description>一根用来支撑星际飞船其他部分的结构梁，包括通信、电力和材料运输所需的所有线缆和运输管道。在其周围能建造飞船。</Ship_Beam.description>
-  <Ship_Beam_Blueprint.label>飞船结构梁 （蓝图）</Ship_Beam_Blueprint.label>
-  <Ship_Beam_Frame.label>飞船结构梁 （建造中）</Ship_Beam_Frame.label>
-  <Ship_Beam_Frame.description>一根用来支撑星际飞船其他部分的结构梁，包括通信、电力和材料运输所需的所有线缆和运输管道。在其周围能建造飞船。</Ship_Beam_Frame.description>
+  <Ship_Beam.label>ship structural beam</Ship_Beam.label>
+  <Ship_Beam.description>A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport.</Ship_Beam.description>
+  <Ship_Beam_Blueprint.label>ship structural beam (blueprint)</Ship_Beam_Blueprint.label>
+  <Ship_Beam_Frame.label>ship structural beam (building)</Ship_Beam_Frame.label>
+  <Ship_Beam_Frame.description>A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport.</Ship_Beam_Frame.description>
 
 
   <!-- Cryptosleep casket -->
 
-  <Ship_CryptosleepCasket.label>飞船低温休眠舱</Ship_CryptosleepCasket.label>
-  <Ship_CryptosleepCasket.description>一个经过强化可以抵抗太空中威胁的低温休眠舱。可以维持一个人在太空中持续休眠几个世纪并可以安全再入大气层。</Ship_CryptosleepCasket.description>
-  <Ship_CryptosleepCasket_Blueprint.label>飞船低温休眠舱 （蓝图）</Ship_CryptosleepCasket_Blueprint.label>
-  <Ship_CryptosleepCasket_Frame.label>飞船低温休眠舱 （建造中）</Ship_CryptosleepCasket_Frame.label>
-  <Ship_CryptosleepCasket_Frame.description>一个经过强化可以抵抗太空中威胁的低温休眠舱。可以维持一个人在太空中持续休眠几个世纪并可以安全再入大气层。</Ship_CryptosleepCasket_Frame.description>
+  <Ship_CryptosleepCasket.label>ship cryptosleep casket</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry.</Ship_CryptosleepCasket.description>
+  <Ship_CryptosleepCasket_Blueprint.label>ship cryptosleep casket (blueprint)</Ship_CryptosleepCasket_Blueprint.label>
+  <Ship_CryptosleepCasket_Frame.label>ship cryptosleep casket (building)</Ship_CryptosleepCasket_Frame.label>
+  <Ship_CryptosleepCasket_Frame.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry.</Ship_CryptosleepCasket_Frame.description>
 
 
   <!-- Computer core -->
 
-  <Ship_ComputerCore.label>飞船电脑核心</Ship_ComputerCore.label>
-  <Ship_ComputerCore.description>一个计算机核心，装载有类似于超人一般的人工智能，可以带领星际飞船在数十年的星际航行里经受任何挑战。</Ship_ComputerCore.description>
-  <Ship_ComputerCore_Blueprint.label>飞船电脑核心 （蓝图）</Ship_ComputerCore_Blueprint.label>
-  <Ship_ComputerCore_Frame.label>飞船电脑核心 （建造中）</Ship_ComputerCore_Frame.label>
-  <Ship_ComputerCore_Frame.description>一个计算机核心，装载有类似于超人一般的人工智能，可以带领星际飞船在数十年的星际航行里经受任何挑战。</Ship_ComputerCore_Frame.description>
+  <Ship_ComputerCore.label>ship computer core</Ship_ComputerCore.label>
+  <Ship_ComputerCore.description>A computer core capable of housing a superhuman-like AI who can guide a ship through any challenge.</Ship_ComputerCore.description>
+  <Ship_ComputerCore_Blueprint.label>ship computer core (blueprint)</Ship_ComputerCore_Blueprint.label>
+  <Ship_ComputerCore_Frame.label>ship computer core (building)</Ship_ComputerCore_Frame.label>
+  <Ship_ComputerCore_Frame.description>A computer core capable of housing a superhuman-like AI who can guide a ship through any challenge.</Ship_ComputerCore_Frame.description>
 
 
   <!-- Reactor -->
 
-  <Ship_Reactor.label>飞船反应堆</Ship_Reactor.label>
-  <Ship_Reactor.description>在太空的漫长旅途中给飞船提供能量。在起飞时需要经过长时间的启动程序，这可能会吸引袭击者。</Ship_Reactor.description>
-  <Ship_Reactor_Blueprint.label>飞船反应堆 （蓝图）</Ship_Reactor_Blueprint.label>
-  <Ship_Reactor_Frame.label>飞船反应堆 （建造中）</Ship_Reactor_Frame.label>
-  <Ship_Reactor_Frame.description>在太空的漫长旅途中给飞船提供能量。在起飞时需要经过长时间的启动程序，这可能会吸引袭击者。</Ship_Reactor_Frame.description>
+  <Ship_Reactor.label>ship reactor</Ship_Reactor.label>
+  <Ship_Reactor.description>Powers a ship on its journey between stars. Takeoff requires a long powerup process that is likely to attract raiders.</Ship_Reactor.description>
+  <Ship_Reactor_Blueprint.label>ship reactor (blueprint)</Ship_Reactor_Blueprint.label>
+  <Ship_Reactor_Frame.label>ship reactor (building)</Ship_Reactor_Frame.label>
+  <Ship_Reactor_Frame.description>Powers a ship on its journey between stars. Takeoff requires a long powerup process that is likely to attract raiders.</Ship_Reactor_Frame.description>
 
 
   <!-- Engine -->
 
-  <Ship_Engine.label>飞船推进器</Ship_Engine.label>
-  <Ship_Engine.description>一种反物质能源推进器，能够将星际飞船送入太空并且穿过广阔的星际空间。</Ship_Engine.description>
-  <Ship_Engine_Blueprint.label>飞船推进器 （蓝图）</Ship_Engine_Blueprint.label>
-  <Ship_Engine_Frame.label>飞船推进器 （建造中）</Ship_Engine_Frame.label>
-  <Ship_Engine_Frame.description>一种反物质能源推进器，能够将星际飞船送入太空并且穿过广阔的星际空间。</Ship_Engine_Frame.description>
+  <Ship_Engine.label>ship engine</Ship_Engine.label>
+  <Ship_Engine.description>A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars.</Ship_Engine.description>
+  <Ship_Engine_Blueprint.label>ship engine (blueprint)</Ship_Engine_Blueprint.label>
+  <Ship_Engine_Frame.label>ship engine (building)</Ship_Engine_Frame.label>
+  <Ship_Engine_Frame.description>A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars.</Ship_Engine_Frame.description>
 
 
-  <!-- 集成传感器 -->
+  <!-- Sensor cluster -->
 
-  <Ship_SensorCluster.label>集成传感器</Ship_SensorCluster.label>
-  <Ship_SensorCluster.description>一个多功能的传感器模块，能够跨越虚空扫描和传递信号进行通讯、威胁探测、欺骗、干扰等行为。</Ship_SensorCluster.description>
-  <Ship_SensorCluster_Blueprint.label>集成传感器 （蓝图）</Ship_SensorCluster_Blueprint.label>
-  <Ship_SensorCluster_Frame.label>集成传感器 （建造中）</Ship_SensorCluster_Frame.label>
-  <Ship_SensorCluster_Frame.description>一个多功能的传感器模块，能够跨越虚空扫描和传递信号进行通讯、威胁探测、欺骗、干扰等行为。</Ship_SensorCluster_Frame.description>
+  <Ship_SensorCluster.label>sensor cluster</Ship_SensorCluster.label>
+  <Ship_SensorCluster.description>A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes.</Ship_SensorCluster.description>
+  <Ship_SensorCluster_Blueprint.label>sensor cluster (blueprint)</Ship_SensorCluster_Blueprint.label>
+  <Ship_SensorCluster_Frame.label>sensor cluster (building)</Ship_SensorCluster_Frame.label>
+  <Ship_SensorCluster_Frame.description>A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes.</Ship_SensorCluster_Frame.description>
 
 
 </LanguageData>

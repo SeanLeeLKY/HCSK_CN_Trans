@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- basic parts -->
+
+  <EyePatch.label>eye patch</EyePatch.label>
+  <EyePatch.description>Covers the eye socket.</EyePatch.description>
+  <EyePatch.labelNoun>an eye patch</EyePatch.labelNoun>
+
+  <HookHand.label>hook hand</HookHand.label>
+  <HookHand.description>An installed missing hand with hook hand! Pretty scary. Yarr.</HookHand.description>
+  <HookHand.comps.0.tools.0.label>fist</HookHand.comps.0.tools.0.label>
+  <HookHand.labelNoun>a hook hand</HookHand.labelNoun>
+
+  <Denture.label>denture</Denture.label>
+  <Denture.description>An installed wooden teeth. Smells a bit.</Denture.description>
+  <Denture.labelNoun>a denture</Denture.labelNoun>
+
+  <PegLeg.label>peg leg</PegLeg.label>
+  <PegLeg.description>An installed peg leg. Out of fashion but it does its job pretty well.</PegLeg.description>
+  <PegLeg.labelNoun>a peg leg</PegLeg.labelNoun>
+
+  <WoodenHand.label>wooden hand</WoodenHand.label>
+  <WoodenHand.description>An installed wooden hand.</WoodenHand.description>
+  <WoodenHand.labelNoun>a wooden hand</WoodenHand.labelNoun>
+
+  <WoodenFoot.label>wooden foot</WoodenFoot.label>
+  <WoodenFoot.description>An installed wooden foot. At least it's more comfortable than hopping around.</WoodenFoot.description>
+  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
+
+  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <CochlearImplant.description>An installed implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf.</CochlearImplant.description>
+  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
+
+  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.description>An installed prosthetic heart, which contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative.</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
+
+
+</LanguageData>

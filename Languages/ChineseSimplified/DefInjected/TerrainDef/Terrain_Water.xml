@@ -1,12 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WaterDeep.label>深水</WaterDeep.label>
-  <WaterOceanDeep.label>海水（深）</WaterOceanDeep.label>
-  <WaterMovingDeep.label>流动的深水</WaterMovingDeep.label>
-  <WaterShallow.label>浅水</WaterShallow.label>
-  <WaterMovingShallow.label>流动的浅水</WaterMovingShallow.label>
-  <WaterOceanShallow.label>海水（浅）</WaterOceanShallow.label>
+  <!-- Deep -->
+
+  <WaterDeep.label>deep water</WaterDeep.label>
+  <WaterDeep.tools.0.label>water</WaterDeep.tools.0.label>
+
+  <WaterOceanDeep.label>deep ocean water</WaterOceanDeep.label>
+  <WaterOceanDeep.tools.0.label>water</WaterOceanDeep.tools.0.label>
+
+  <WaterMovingChestDeep.label>chest-deep moving water</WaterMovingChestDeep.label>
+  <WaterMovingChestDeep.tools.0.label>water</WaterMovingChestDeep.tools.0.label>
 
 
 </LanguageData>

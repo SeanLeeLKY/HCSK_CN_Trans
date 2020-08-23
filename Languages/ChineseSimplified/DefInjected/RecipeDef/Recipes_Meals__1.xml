@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookMealSalad.label>烹饪 水果沙拉</CookMealSalad.label>
+  <CookMealSalad.description>将各种水果制成一盘沙拉。 \n\n产出：1。</CookMealSalad.description>
+  <CookMealSalad.jobString>正在烹饪 水果沙拉。</CookMealSalad.jobString>
+
+  <CookMealSalad_Bulk.label>烹饪 水果沙拉 (x4)</CookMealSalad_Bulk.label>
+  <CookMealSalad_Bulk.description>将各种水果制成一盘沙拉。 \n\n产出：4。</CookMealSalad_Bulk.description>
+  <CookMealSalad_Bulk.jobString>正在烹饪 水果沙拉。</CookMealSalad_Bulk.jobString>
+
+  <CookRoastedMeat.label>烹饪 烤肉</CookRoastedMeat.label>
+  <CookRoastedMeat.description>烹饪烤肉. \n\n产出：1。</CookRoastedMeat.description>
+  <CookRoastedMeat.jobString>正在烤肉。</CookRoastedMeat.jobString>
+
+  <CookRoastedMeatCampfire.label>烹饪 烤肉</CookRoastedMeatCampfire.label>
+  <CookRoastedMeatCampfire.description>烹饪烤肉. \n\n产出：1。</CookRoastedMeatCampfire.description>
+  <CookRoastedMeatCampfire.jobString>正在烤肉。</CookRoastedMeatCampfire.jobString>
+
+  <CookRoadMeatx4.label>烹饪 烤肉 (x4)</CookRoadMeatx4.label>
+  <CookRoadMeatx4.description>烹饪烤肉. \n\n产出：4。</CookRoadMeatx4.description>
+  <CookRoadMeatx4.jobString>正在烤肉。</CookRoadMeatx4.jobString>
+
+  <CookMealSimple.label>烹饪 简单的食物</CookMealSimple.label>
+  <CookMealSimple.description>用单种材料烹饪一份简单的食物。 \n\n产出：1。</CookMealSimple.description>
+  <CookMealSimple.jobString>正在烹饪 简单的食物。</CookMealSimple.jobString>
+
+  <CookMealSimpleCampfire.label>烹饪 简单的食物</CookMealSimpleCampfire.label>
+  <CookMealSimpleCampfire.description>用单种材料烹饪一份简单的食物。 \n\n产出：1。</CookMealSimpleCampfire.description>
+  <CookMealSimpleCampfire.jobString>正在烹饪 简单的食物。</CookMealSimpleCampfire.jobString>
+
+  <CookMealSimple_Bulk.label>烹饪 简单的食物 (x4)</CookMealSimple_Bulk.label>
+  <CookMealSimple_Bulk.description>用单种材料烹饪4份简单的食物。</CookMealSimple_Bulk.description>
+  <CookMealSimple_Bulk.jobString>正在烹饪 简单的食物。</CookMealSimple_Bulk.jobString>
+
+  <CookMealFine.label>烹饪 精致的食物</CookMealFine.label>
+  <CookMealFine.description>将生肉和素食材料组合，烹饪一份相对复杂的食物。 \n\n产出：1。</CookMealFine.description>
+  <CookMealFine.jobString>正在烹饪 精致的食物。</CookMealFine.jobString>
+
+  <CookMealFine_Bulk.label>烹饪 精致的食物 (x4)</CookMealFine_Bulk.label>
+  <CookMealFine_Bulk.description>将生肉和素食材料组合，烹饪出相对复杂的食物。 \n\n产出：4。</CookMealFine_Bulk.description>
+  <CookMealFine_Bulk.jobString>正在烹饪 精致的食物。</CookMealFine_Bulk.jobString>
+
+  <CookMealLavish.label>烹饪 奢侈的食物</CookMealLavish.label>
+  <CookMealLavish.description>将生肉和素食材料组合，烹饪一份非常复杂的食物。 \n\n产出：1。</CookMealLavish.description>
+  <CookMealLavish.jobString>正在烹饪 奢侈的食物。</CookMealLavish.jobString>
+
+  <CookMealLavish_Bulk.label>烹饪 奢侈的食物 (x4)</CookMealLavish_Bulk.label>
+  <CookMealLavish_Bulk.description>将生肉和素食材料组合，烹饪出非常复杂的食物。 \n\n产出：4。</CookMealLavish_Bulk.description>
+  <CookMealLavish_Bulk.jobString>正在烹饪 奢侈的食物。</CookMealLavish_Bulk.jobString>
+
+  <CookMealLuxury.label>烹饪 豪华套餐</CookMealLuxury.label>
+  <CookMealLuxury.description>将生肉和素食材料组合，烹饪一份色香味俱佳的食物。烹饪中只会选择食材最优质的部分，其它大部分材料会被浪费。 \n\n产出：1。</CookMealLuxury.description>
+  <CookMealLuxury.jobString>正在烹饪 豪华套餐。</CookMealLuxury.jobString>
+
+  <CookMealLuxury_Bulk.label>烹饪 豪华套餐 (x4)</CookMealLuxury_Bulk.label>
+  <CookMealLuxury_Bulk.description>将生肉和素食材料组合，烹饪出色香味俱佳的食物。烹饪中只会选择食材最优质的部分，其它大部分材料会被浪费。 \n\n产出：4。</CookMealLuxury_Bulk.description>
+  <CookMealLuxury_Bulk.jobString>正在烹饪 豪华套餐。</CookMealLuxury_Bulk.jobString>
+
+  <MakeTofu.label>压制 豆腐</MakeTofu.label>
+  <MakeTofu.description>将豆类食材转化成豆腐。豆腐可以被用来作为肉的替代品，也可以直接生吃。 \n\n产出：5。</MakeTofu.description>
+  <MakeTofu.jobString>正在压制 豆腐。</MakeTofu.jobString>
+
+  <MakeVegetables.label>烹饪 炒蔬菜</MakeVegetables.label>
+  <MakeVegetables.description>烹饪一份简单的蔬菜合炒。 \n\n产出：1。</MakeVegetables.description>
+  <MakeVegetables.jobString>正在烹饪 炒蔬菜。</MakeVegetables.jobString>
+
+  <BakePotato.label>烤制 土豆</BakePotato.label>
+  <BakePotato.description>将生土豆烤熟。 \n\n产出：4。</BakePotato.description>
+  <BakePotato.jobString>正在烤制 土豆。</BakePotato.jobString>
+
+  <HalfCoconut.label>劈开 椰子</HalfCoconut.label>
+  <HalfCoconut.description>将椰子劈成两半，还能获取椰奶。 \n\n产出：5。</HalfCoconut.description>
+  <HalfCoconut.jobString>正在劈 椰子。</HalfCoconut.jobString>
+
+  <CookMealSurvival.label>烹饪 包装生存食品</CookMealSurvival.label>
+  <CookMealSurvival.description>将生肉和素食材料组合，烹饪一分包装生存食品。大部分材料会被浪费。</CookMealSurvival.description>
+  <CookMealSurvival.jobString>正在烹饪 包装生存食品。</CookMealSurvival.jobString>
+
+
+</LanguageData>

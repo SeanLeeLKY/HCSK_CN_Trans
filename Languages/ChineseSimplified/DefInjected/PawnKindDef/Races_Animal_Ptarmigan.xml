@@ -3,30 +3,30 @@
 
   <!-- Animal -->
 
-  <Ptarmigan.label>松鸡</Ptarmigan.label>
-  <Ptarmigan.labelPlural>松鸡</Ptarmigan.labelPlural>
-  <Ptarmigan.lifeStages.0.label>小鸡</Ptarmigan.lifeStages.0.label>
-  <Ptarmigan.lifeStages.0.labelPlural>小鸡</Ptarmigan.lifeStages.0.labelPlural>
-  <Ptarmigan.lifeStages.0.labelMale>雄性小鸡</Ptarmigan.lifeStages.0.labelMale>
-  <Ptarmigan.lifeStages.0.labelMalePlural>雄性小鸡</Ptarmigan.lifeStages.0.labelMalePlural>
-  <Ptarmigan.lifeStages.0.labelFemale>雌性小鸡</Ptarmigan.lifeStages.0.labelFemale>
-  <Ptarmigan.lifeStages.0.labelFemalePlural>雌性小鸡</Ptarmigan.lifeStages.0.labelFemalePlural>
-  <Ptarmigan.lifeStages.1.label>松鸡</Ptarmigan.lifeStages.1.label>
-  <Ptarmigan.lifeStages.1.labelPlural>松鸡</Ptarmigan.lifeStages.1.labelPlural>
-  <Ptarmigan.lifeStages.1.labelMale>小公鸡</Ptarmigan.lifeStages.1.labelMale>
-  <Ptarmigan.lifeStages.1.labelMalePlural>小公鸡</Ptarmigan.lifeStages.1.labelMalePlural>
-  <Ptarmigan.lifeStages.1.labelFemale>母鸡</Ptarmigan.lifeStages.1.labelFemale>
-  <Ptarmigan.lifeStages.1.labelFemalePlural>雌性松鸡</Ptarmigan.lifeStages.1.labelFemalePlural>
-  <Ptarmigan.lifeStages.2.label>松鸡</Ptarmigan.lifeStages.2.label>
-  <Ptarmigan.lifeStages.2.labelPlural>松鸡</Ptarmigan.lifeStages.2.labelPlural>
-  <Ptarmigan.lifeStages.2.labelMale>公鸡</Ptarmigan.lifeStages.2.labelMale>
-  <Ptarmigan.lifeStages.2.labelMalePlural>雄性松鸡</Ptarmigan.lifeStages.2.labelMalePlural>
-  <Ptarmigan.lifeStages.2.labelFemale>母鸡</Ptarmigan.lifeStages.2.labelFemale>
-  <Ptarmigan.lifeStages.2.labelFemalePlural>雌性松鸡</Ptarmigan.lifeStages.2.labelFemalePlural>
-  <Ptarmigan.labelMale>公鸡</Ptarmigan.labelMale>
-  <Ptarmigan.labelMalePlural>公鸡</Ptarmigan.labelMalePlural>
-  <Ptarmigan.labelFemale>母鸡</Ptarmigan.labelFemale>
-  <Ptarmigan.labelFemalePlural>母鸡</Ptarmigan.labelFemalePlural>
+  <Ptarmigan.label>ptarmigan</Ptarmigan.label>
+  <Ptarmigan.labelPlural>ptarmigans</Ptarmigan.labelPlural>
+  <Ptarmigan.lifeStages.0.label>chick</Ptarmigan.lifeStages.0.label>
+  <Ptarmigan.lifeStages.0.labelPlural>chicks</Ptarmigan.lifeStages.0.labelPlural>
+  <Ptarmigan.lifeStages.0.labelMale>male chick</Ptarmigan.lifeStages.0.labelMale>
+  <Ptarmigan.lifeStages.0.labelMalePlural>male chicks</Ptarmigan.lifeStages.0.labelMalePlural>
+  <Ptarmigan.lifeStages.0.labelFemale>female chick</Ptarmigan.lifeStages.0.labelFemale>
+  <Ptarmigan.lifeStages.0.labelFemalePlural>female chicks</Ptarmigan.lifeStages.0.labelFemalePlural>
+  <Ptarmigan.lifeStages.1.label>ptarmigan</Ptarmigan.lifeStages.1.label>
+  <Ptarmigan.lifeStages.1.labelPlural>ptarmigan</Ptarmigan.lifeStages.1.labelPlural>
+  <Ptarmigan.lifeStages.1.labelMale>cockerel</Ptarmigan.lifeStages.1.labelMale>
+  <Ptarmigan.lifeStages.1.labelMalePlural>cockerels</Ptarmigan.lifeStages.1.labelMalePlural>
+  <Ptarmigan.lifeStages.1.labelFemale>ptarmigan hen</Ptarmigan.lifeStages.1.labelFemale>
+  <Ptarmigan.lifeStages.1.labelFemalePlural>female ptarmigans</Ptarmigan.lifeStages.1.labelFemalePlural>
+  <Ptarmigan.lifeStages.2.label>ptarmigan</Ptarmigan.lifeStages.2.label>
+  <Ptarmigan.lifeStages.2.labelPlural>ptarmigan</Ptarmigan.lifeStages.2.labelPlural>
+  <Ptarmigan.lifeStages.2.labelMale>ptarmigan cock</Ptarmigan.lifeStages.2.labelMale>
+  <Ptarmigan.lifeStages.2.labelMalePlural>male ptarmigans</Ptarmigan.lifeStages.2.labelMalePlural>
+  <Ptarmigan.lifeStages.2.labelFemale>ptarmigan hen</Ptarmigan.lifeStages.2.labelFemale>
+  <Ptarmigan.lifeStages.2.labelFemalePlural>female ptarmigans</Ptarmigan.lifeStages.2.labelFemalePlural>
+  <Ptarmigan.labelMale>ptarmigan cock</Ptarmigan.labelMale>
+  <Ptarmigan.labelMalePlural>ptarmigan cocks</Ptarmigan.labelMalePlural>
+  <Ptarmigan.labelFemale>ptarmigan hen</Ptarmigan.labelFemale>
+  <Ptarmigan.labelFemalePlural>ptarmigan hens</Ptarmigan.labelFemalePlural>
 
 
 </LanguageData>

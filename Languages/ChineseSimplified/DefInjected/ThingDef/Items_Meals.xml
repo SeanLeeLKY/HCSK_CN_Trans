@@ -3,33 +3,93 @@
 
   <!-- REALISTIC PRODUCTION SK MOD -->
 
-  <MealSurvivalPack.label>包装生存食品</MealSurvivalPack.label>
-  <MealSurvivalPack.description>高品质的包装食品，生产以供极端生存的环境下食用。虽然不会腐烂，但是放在露天环境里依然会劣化，长途旅行的首选食物。</MealSurvivalPack.description>
+  <MealSurvivalPack.label>Packaged Survival Meal</MealSurvivalPack.label>
+  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations.</MealSurvivalPack.description>
 
-  <MealSimple.label>简单的食物</MealSimple.label>
-  <MealSimple.description>用主要原料快速烹饪出的一份简单的食物。</MealSimple.description>
 
-  <MealFine.label>优质的食物</MealFine.label>
-  <MealFine.description>选择多种原料，精心烹饪出的一份相对复杂的食物。</MealFine.description>
+  <!-- <ThingDef ParentName="SK_MealBase">
+		<defName>MealSimple</defName>
+		<label>Simple Meal</label>
+		<description>A simple meal quickly cooked from a few ingredients.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/Simple</texPath>
+			<graphicClass>Graphic_StackCount</graphicClass>
+		</graphicData>
+		<statBases>
+			<DeteriorationRate>10</DeteriorationRate>
+			<MarketValue>25</MarketValue>
+			<WorkToMake>300</WorkToMake>
+			<Bulk>1.30</Bulk>
+			<Mass>1.00</Mass>
+			<Nutrition>0.85</Nutrition>
+		</statBases>
+		<ingestible>
+			<preferability>MealSimple</preferability>
+			<ingestEffect>EatVegetarian</ingestEffect>
+			<ingestSound>Meal_Eat</ingestSound>
+		</ingestible>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>4</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+	</ThingDef> -->
 
-  <MealLavish.label>精致的食物</MealLavish.label>
-  <MealLavish.description>精选原料，工艺复杂，从色香味型上看来都是上乘之作。</MealLavish.description>
+  <MealFine.label>Fine Meal</MealFine.label>
+  <MealFine.description>A complex dish assembled with care from a wide selection of ingredients.</MealFine.description>
 
-  <MealLuxury.label>奢侈的食物</MealLuxury.label>
-  <MealLuxury.description>厨艺界的大师级作品，这份食物同时滋养了身体、思想和灵魂。</MealLuxury.description>
+  <MealLavish.label>Lavish Meal</MealLavish.label>
+  <MealLavish.description>An elborate concoction of food skillfully prepared into a succulent meal.</MealLavish.description>
 
-  <MealSalad.label>水果沙拉</MealSalad.label>
-  
-  <MealJerky.label>肉干</MealJerky.label>
-  
-  <RoastedMeat.label>烤肉</RoastedMeat.label>
-  <RoastedMeat.description>新鲜的烤肉。</RoastedMeat.description>
 
-  <FriedVegetables.label>炒蔬菜</FriedVegetables.label>
-  
+  <!-- <ThingDef ParentName="SK_MealBase">
+		<defName>MealLuxury</defName>
+		<label>Luxury Meal</label>
+		<description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/Lavish</texPath>
+			<graphicClass>Graphic_StackCount</graphicClass>
+		</graphicData>
+		<statBases>
+			<DeteriorationRate>10</DeteriorationRate>
+			<MarketValue>50</MarketValue>
+			<WorkToMake>800</WorkToMake>
+			<Bulk>1.50</Bulk>
+			<Mass>1.20</Mass>
+			<Nutrition>1</Nutrition>
+		</statBases>
+		<ingestible>
+			<preferability>MealLavish</preferability>
+			<tasteThought>AteLuxuryMeal</tasteThought>
+			<ingestEffect>EatVegetarian</ingestEffect>
+			<ingestSound>Meal_Eat</ingestSound>
+		</ingestible>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>4</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+	</ThingDef> -->
 
-  <BakedPotato.label>烤土豆</BakedPotato.label>
-  
+  <MealSalad.label>Fruit Salad</MealSalad.label>
+  <MealSalad.description>A fruit salad made from gathered fruit.</MealSalad.description>
+
+  <MealJerky.label>Jerky</MealJerky.label>
+  <MealJerky.description>Jerky made from raw meat. Max 5 eaten at a time.</MealJerky.description>
+
+  <RoastedMeat.label>Roasted Meat</RoastedMeat.label>
+  <RoastedMeat.description>Freshly roasted meat.</RoastedMeat.description>
+
+  <ScrambledEggs.label>Scrambled Eggs</ScrambledEggs.label>
+  <ScrambledEggs.description>A dish made from eggs stirred or beaten together while being gently heated.</ScrambledEggs.description>
+
+  <FriedMushrooms.label>fried cave mushrooms</FriedMushrooms.label>
+  <FriedMushrooms.description>Fried cave mushrooms. Rich with proteins and are able to replace meat in some recipes.</FriedMushrooms.description>
+
+  <FriedVegetables.label>Fried Assorts</FriedVegetables.label>
+  <FriedVegetables.description>A simple fried assortment of vegetables. Not too nutritious or tasty.</FriedVegetables.description>
 
 
 </LanguageData>

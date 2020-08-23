@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeHerbMedicine.label>制造 中成药</MakeHerbMedicine.label>
+  <MakeHerbMedicine.description>用生药草制作中成药。 \n\n产出：1。</MakeHerbMedicine.description>
+  <MakeHerbMedicine.jobString>正在制造 中成药。</MakeHerbMedicine.jobString>
+
+  <makemedicine.label>制造 药物</makemedicine.label>
+  <makemedicine.description>用中成药和其它多种原材料制造标准药物。 \n\n产出：1。</makemedicine.description>
+  <makemedicine.jobString>正在制造 药物。</makemedicine.jobString>
+
+  <makelifesupport.label>制造 生命支持系统</makelifesupport.label>
+  <makelifesupport.description>制造生命支持系统。 \n\n产出：1。</makelifesupport.description>
+  <makelifesupport.jobString>正在制造 生命支持系统。</makelifesupport.jobString>
+
+  <makeadvmedicine.label>制造 高级药物</makeadvmedicine.label>
+  <makeadvmedicine.description>从具备高药效的作物和材料中提取有效成分，合成高效力药物。 \n\n产出：1。</makeadvmedicine.description>
+  <makeadvmedicine.jobString>正在制造 高级药物。</makeadvmedicine.jobString>
+
+
+</LanguageData>

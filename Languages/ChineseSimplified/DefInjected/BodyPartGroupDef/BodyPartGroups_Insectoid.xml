@@ -1,10 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LeftLegClaws.label>左脚爪</LeftLegClaws.label>
-  <RightLegClaws.label>右脚爪</RightLegClaws.label>
-  <LeftAntisForeleg.label>左前腿</LeftAntisForeleg.label>
-  <RightAntisForeleg.label>右前腿</RightAntisForeleg.label>
+  <LegLeftClaws.label>left leg claws</LegLeftClaws.label>
+  <LegLeftClaws.labelShort>claws</LegLeftClaws.labelShort>
+
+  <LegRightClaws.label>right leg claws</LegRightClaws.label>
+  <LegRightClaws.labelShort>claws</LegRightClaws.labelShort>
+
+  <AntisLeftForeleg.label>left foreleg</AntisLeftForeleg.label>
+  <AntisLeftForeleg.labelShort>foreleg</AntisLeftForeleg.labelShort>
+
+  <AntisRightForeleg.label>right foreleg</AntisRightForeleg.label>
+  <AntisRightForeleg.labelShort>foreleg</AntisRightForeleg.labelShort>
 
 
 </LanguageData>

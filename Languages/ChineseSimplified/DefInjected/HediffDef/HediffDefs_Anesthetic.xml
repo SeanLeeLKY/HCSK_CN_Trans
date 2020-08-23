@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AnestheticInjected.label>麻醉</AnestheticInjected.label>
+  <AnestheticInjected.label>anesthetic</AnestheticInjected.label>
+  <AnestheticInjected.description>The anesthetic blocked pain messages</AnestheticInjected.description>
+  <AnestheticInjected.labelNoun>an anesthetic</AnestheticInjected.labelNoun>
 
 
 </LanguageData>

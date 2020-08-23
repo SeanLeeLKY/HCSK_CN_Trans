@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IntestinalFailure.label>intestinal failure</IntestinalFailure.label>
+  <IntestinalFailure.description>Your intestines are not working well</IntestinalFailure.description>
+  <IntestinalFailure.stages.2.label>near-death</IntestinalFailure.stages.2.label>
+  <IntestinalFailure.labelNoun>an intestinal failure</IntestinalFailure.labelNoun>
+
+  <LiverFailure.label>acute liver failure</LiverFailure.label>
+  <LiverFailure.description>Your liver is not working well</LiverFailure.description>
+  <LiverFailure.stages.1.label>near-death</LiverFailure.stages.1.label>
+  <LiverFailure.labelNoun>an acute liver failure</LiverFailure.labelNoun>
+
+  <KidneyFailure.label>acute renal failure</KidneyFailure.label>
+  <KidneyFailure.description>Your renal is not working well</KidneyFailure.description>
+  <KidneyFailure.stages.1.label>near-death</KidneyFailure.stages.1.label>
+  <KidneyFailure.labelNoun>an acute renal failure</KidneyFailure.labelNoun>
+
+  <ClinicalDeathNoHeartbeat.label>no pulse</ClinicalDeathNoHeartbeat.label>
+  <ClinicalDeathNoHeartbeat.description>Heart is stop beating</ClinicalDeathNoHeartbeat.description>
+  <ClinicalDeathNoHeartbeat.stages.1.label>clinical death</ClinicalDeathNoHeartbeat.stages.1.label>
+  <ClinicalDeathNoHeartbeat.labelNoun>a clinical death</ClinicalDeathNoHeartbeat.labelNoun>
+
+  <ClinicalDeathAsphyxiation.label>oxygen deprivation</ClinicalDeathAsphyxiation.label>
+  <ClinicalDeathAsphyxiation.description>Breath stopped</ClinicalDeathAsphyxiation.description>
+  <ClinicalDeathAsphyxiation.stages.1.label>clinical death</ClinicalDeathAsphyxiation.stages.1.label>
+  <ClinicalDeathAsphyxiation.labelNoun>an oxygen deprivation</ClinicalDeathAsphyxiation.labelNoun>
+
+  <Coma.label>coma</Coma.label>
+  <Coma.description>Fell into a coma</Coma.description>
+  <Coma.labelNoun>a coma</Coma.labelNoun>
+
+  <BrainDamage.label>brain damage</BrainDamage.label>
+  <BrainDamage.description>Brain is damaged</BrainDamage.description>
+
+  <SevereBrainDamage.label>severe brain damage</SevereBrainDamage.label>
+  <SevereBrainDamage.description>Brain is seriously damaged</SevereBrainDamage.description>
+
+  <VegetativeState.label>vegetative state</VegetativeState.label>
+  <VegetativeState.description>Is in a vegetative state</VegetativeState.description>
+
+
+</LanguageData>

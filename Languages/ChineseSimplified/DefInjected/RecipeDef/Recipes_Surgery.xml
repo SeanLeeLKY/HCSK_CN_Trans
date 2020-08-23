@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- The surgery recipes to remove parts in a pawn -->
+
+  <RepairBurn.label>cure burn</RepairBurn.label>
+  <RepairBurn.description>Cure a burn scar.</RepairBurn.description>
+  <RepairBurn.jobString>Mending burn scar.</RepairBurn.jobString>
+  <RepairBurn.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s burn scar.</RepairBurn.successfullyRemovedHediffMessage>
+
+  <RepairCut.label>cure cut</RepairCut.label>
+  <RepairCut.description>Cure a cut scar.</RepairCut.description>
+  <RepairCut.jobString>Mending cut scar.</RepairCut.jobString>
+  <RepairCut.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s cut scar.</RepairCut.successfullyRemovedHediffMessage>
+
+  <RepairSurgicalCut.label>cure surgical cut</RepairSurgicalCut.label>
+  <RepairSurgicalCut.description>Cure a surgical cut scar.</RepairSurgicalCut.description>
+  <RepairSurgicalCut.jobString>Mending surgical cut scar.</RepairSurgicalCut.jobString>
+  <RepairSurgicalCut.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s surgical cut scar.</RepairSurgicalCut.successfullyRemovedHediffMessage>
+
+  <RepairScratch.label>cure scratch</RepairScratch.label>
+  <RepairScratch.description>Cure a scratch scar.</RepairScratch.description>
+  <RepairScratch.jobString>Mending scratch scar.</RepairScratch.jobString>
+  <RepairScratch.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s scratch scar.</RepairScratch.successfullyRemovedHediffMessage>
+
+  <RepairBite.label>cure bite</RepairBite.label>
+  <RepairBite.description>Cure a bite scar.</RepairBite.description>
+  <RepairBite.jobString>Mending bite scar.</RepairBite.jobString>
+  <RepairBite.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s bite scar.</RepairBite.successfullyRemovedHediffMessage>
+
+  <RepairStab.label>cure stab</RepairStab.label>
+  <RepairStab.description>Cure a stab scar.</RepairStab.description>
+  <RepairStab.jobString>Mending stab scar.</RepairStab.jobString>
+  <RepairStab.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s stab scar.</RepairStab.successfullyRemovedHediffMessage>
+
+  <RepairGunshot.label>cure gunshot</RepairGunshot.label>
+  <RepairGunshot.description>Cure a gunshot scar.</RepairGunshot.description>
+  <RepairGunshot.jobString>Mending gunshot scar.</RepairGunshot.jobString>
+  <RepairGunshot.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s gunshot scar.</RepairGunshot.successfullyRemovedHediffMessage>
+
+  <RepairFrostbite.label>cure frostbite</RepairFrostbite.label>
+  <RepairFrostbite.description>Cure a frostbite scar.</RepairFrostbite.description>
+  <RepairFrostbite.jobString>Mending frostbite scar.</RepairFrostbite.jobString>
+  <RepairFrostbite.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s frostbite scar.</RepairFrostbite.successfullyRemovedHediffMessage>
+
+  <RepairChemicalBurn.label>cure chemical burn</RepairChemicalBurn.label>
+  <RepairChemicalBurn.description>Cure a chemical burn scar.</RepairChemicalBurn.description>
+  <RepairChemicalBurn.jobString>Mending chemical burn scar.</RepairChemicalBurn.jobString>
+  <RepairChemicalBurn.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s chemical burn scar.</RepairChemicalBurn.successfullyRemovedHediffMessage>
+
+  <RepairShredded.label>cure shredded</RepairShredded.label>
+  <RepairShredded.description>Cure a shredded scar.</RepairShredded.description>
+  <RepairShredded.jobString>Mending shredded scar.</RepairShredded.jobString>
+  <RepairShredded.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s shredded scar.</RepairShredded.successfullyRemovedHediffMessage>
+
+  <RepairCrush.label>cure mangled crush scar</RepairCrush.label>
+  <RepairCrush.description>Cure a mangled scar.</RepairCrush.description>
+  <RepairCrush.jobString>Mending mangled scar.</RepairCrush.jobString>
+  <RepairCrush.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s mangled scar.</RepairCrush.successfullyRemovedHediffMessage>
+
+  <RepairCrack.label>cure mangled crack scar</RepairCrack.label>
+  <RepairCrack.description>Cure a mangled scar.</RepairCrack.description>
+  <RepairCrack.jobString>Mending mangled scar.</RepairCrack.jobString>
+  <RepairCrack.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s mangled scar.</RepairCrack.successfullyRemovedHediffMessage>
+
+  <RepairBruise.label>cure mangled bruise scar</RepairBruise.label>
+  <RepairBruise.description>Cure a mangled scar.</RepairBruise.description>
+  <RepairBruise.jobString>Mending mangled scar.</RepairBruise.jobString>
+  <RepairBruise.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s mangled scar.</RepairBruise.successfullyRemovedHediffMessage>
+
+  <RepairBrainBurn.label>cure burn</RepairBrainBurn.label>
+  <RepairBrainBurn.description>Cure a burn scar.</RepairBrainBurn.description>
+  <RepairBrainBurn.jobString>Mending burn scar.</RepairBrainBurn.jobString>
+  <RepairBrainBurn.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s burn scar.</RepairBrainBurn.successfullyRemovedHediffMessage>
+
+  <RepairBrainCut.label>cure cut</RepairBrainCut.label>
+  <RepairBrainCut.description>Cure a cut scar.</RepairBrainCut.description>
+  <RepairBrainCut.jobString>Mending cut scar.</RepairBrainCut.jobString>
+  <RepairBrainCut.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s cut scar.</RepairBrainCut.successfullyRemovedHediffMessage>
+
+  <RepairBrainSurgicalCut.label>cure surgical cut</RepairBrainSurgicalCut.label>
+  <RepairBrainSurgicalCut.description>Cure a surgical cut scar.</RepairBrainSurgicalCut.description>
+  <RepairBrainSurgicalCut.jobString>Mending surgical cut scar.</RepairBrainSurgicalCut.jobString>
+  <RepairBrainSurgicalCut.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s surgical cut scar.</RepairBrainSurgicalCut.successfullyRemovedHediffMessage>
+
+  <RepairBrainScratch.label>cure scratch</RepairBrainScratch.label>
+  <RepairBrainScratch.description>Cure a scratch scar.</RepairBrainScratch.description>
+  <RepairBrainScratch.jobString>Mending scratch scar.</RepairBrainScratch.jobString>
+  <RepairBrainScratch.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s scratch scar.</RepairBrainScratch.successfullyRemovedHediffMessage>
+
+  <RepairBrainBite.label>cure bite</RepairBrainBite.label>
+  <RepairBrainBite.description>Cure a bite scar.</RepairBrainBite.description>
+  <RepairBrainBite.jobString>Mending bite scar.</RepairBrainBite.jobString>
+  <RepairBrainBite.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s bite scar.</RepairBrainBite.successfullyRemovedHediffMessage>
+
+  <RepairBrainStab.label>cure stab</RepairBrainStab.label>
+  <RepairBrainStab.description>Cure a stab scar.</RepairBrainStab.description>
+  <RepairBrainStab.jobString>Mending stab scar.</RepairBrainStab.jobString>
+  <RepairBrainStab.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s stab scar.</RepairBrainStab.successfullyRemovedHediffMessage>
+
+  <RepairBrainGunshot.label>cure gunshot</RepairBrainGunshot.label>
+  <RepairBrainGunshot.description>Cure a gunshot scar.</RepairBrainGunshot.description>
+  <RepairBrainGunshot.jobString>Mending gunshot scar.</RepairBrainGunshot.jobString>
+  <RepairBrainGunshot.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s gunshot scar.</RepairBrainGunshot.successfullyRemovedHediffMessage>
+
+  <RepairBrainFrostbite.label>cure frostbite</RepairBrainFrostbite.label>
+  <RepairBrainFrostbite.description>Cure a frostbite scar.</RepairBrainFrostbite.description>
+  <RepairBrainFrostbite.jobString>Mending frostbite scar.</RepairBrainFrostbite.jobString>
+  <RepairBrainFrostbite.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s frostbite scar.</RepairBrainFrostbite.successfullyRemovedHediffMessage>
+
+  <RepairBrainChemicalBurn.label>cure chemical burn</RepairBrainChemicalBurn.label>
+  <RepairBrainChemicalBurn.description>Cure a chemical burn scar.</RepairBrainChemicalBurn.description>
+  <RepairBrainChemicalBurn.jobString>Mending chemical burn scar.</RepairBrainChemicalBurn.jobString>
+  <RepairBrainChemicalBurn.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s chemical burn scar.</RepairBrainChemicalBurn.successfullyRemovedHediffMessage>
+
+  <RepairBrainShredded.label>cure shredded</RepairBrainShredded.label>
+  <RepairBrainShredded.description>Cure a shredded scar.</RepairBrainShredded.description>
+  <RepairBrainShredded.jobString>Mending shredded scar.</RepairBrainShredded.jobString>
+  <RepairBrainShredded.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s shredded scar.</RepairBrainShredded.successfullyRemovedHediffMessage>
+
+  <RepairBrainCrush.label>cure mangled crush scar</RepairBrainCrush.label>
+  <RepairBrainCrush.description>Cure a mangled scar.</RepairBrainCrush.description>
+  <RepairBrainCrush.jobString>Mending mangled scar.</RepairBrainCrush.jobString>
+  <RepairBrainCrush.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s mangled scar.</RepairBrainCrush.successfullyRemovedHediffMessage>
+
+  <RepairBrainCrack.label>cure mangled crack scar</RepairBrainCrack.label>
+  <RepairBrainCrack.description>Cure a mangled scar.</RepairBrainCrack.description>
+  <RepairBrainCrack.jobString>Mending mangled scar.</RepairBrainCrack.jobString>
+  <RepairBrainCrack.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s mangled scar.</RepairBrainCrack.successfullyRemovedHediffMessage>
+
+  <RepairBrainBruise.label>cure mangled bruise scar</RepairBrainBruise.label>
+  <RepairBrainBruise.description>Cure a mangled scar.</RepairBrainBruise.description>
+  <RepairBrainBruise.jobString>Mending mangled scar.</RepairBrainBruise.jobString>
+  <RepairBrainBruise.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s mangled scar.</RepairBrainBruise.successfullyRemovedHediffMessage>
+
+
+  <!-- Cosmetic: Ear -->
+
+  <RepairCosmeticEar.label>Repair ear</RepairCosmeticEar.label>
+  <RepairCosmeticEar.description>Repair ear</RepairCosmeticEar.description>
+  <RepairCosmeticEar.jobString>Repairing ear</RepairCosmeticEar.jobString>
+
+
+  <!-- Cosmetic: Nose -->
+
+  <RepairCosmeticNose.label>Repair nose</RepairCosmeticNose.label>
+  <RepairCosmeticNose.description>Repair nose</RepairCosmeticNose.description>
+  <RepairCosmeticNose.jobString>Repairing nose</RepairCosmeticNose.jobString>
+
+  <RepairFinger.label>Repair finger</RepairFinger.label>
+  <RepairFinger.description>Repair finger</RepairFinger.description>
+  <RepairFinger.jobString>Repairing finger</RepairFinger.jobString>
+
+  <RepairToe.label>Repair toe</RepairToe.label>
+  <RepairToe.description>Repair toe</RepairToe.description>
+  <RepairToe.jobString>Repairing toe</RepairToe.jobString>
+
+
+  <!-- Chronic: BadBack -->
+
+  <CureChronicBadBack.label>Cure bad back</CureChronicBadBack.label>
+  <CureChronicBadBack.description>Install a neuromuscular framework to repair a bad back.</CureChronicBadBack.description>
+  <CureChronicBadBack.jobString>Curing bad back.</CureChronicBadBack.jobString>
+  <CureChronicBadBack.successfullyRemovedHediffMessage>{0} has successfully healed {1}'s bad back.</CureChronicBadBack.successfullyRemovedHediffMessage>
+
+
+  <!-- Chronic: Frail -->
+
+  <CureChronicFrail.label>Cure frail</CureChronicFrail.label>
+  <CureChronicFrail.description>Cure frail.</CureChronicFrail.description>
+  <CureChronicFrail.jobString>Curing frail.</CureChronicFrail.jobString>
+  <CureChronicFrail.successfullyRemovedHediffMessage>{0} has successfully healed {1}'s frailty.</CureChronicFrail.successfullyRemovedHediffMessage>
+
+
+  <!-- Chronic: Cataract -->
+
+  <CureChronicCataract.label>Cure cataract</CureChronicCataract.label>
+  <CureChronicCataract.description>Cure cataract.</CureChronicCataract.description>
+  <CureChronicCataract.jobString>Curing cataract.</CureChronicCataract.jobString>
+
+
+  <!-- Chronic: HearingLoss -->
+
+  <CureChronicHearingLoss.label>Cure hearing loss</CureChronicHearingLoss.label>
+  <CureChronicHearingLoss.description>Cure hearing loss.</CureChronicHearingLoss.description>
+  <CureChronicHearingLoss.jobString>Curing hearing loss.</CureChronicHearingLoss.jobString>
+
+
+  <!-- Chronic: Dementia -->
+
+  <CureChronicDementia.label>Cure dementia</CureChronicDementia.label>
+  <CureChronicDementia.description>Install a neuro-cure framework to treat dementia.</CureChronicDementia.description>
+  <CureChronicDementia.jobString>Curing dementia.</CureChronicDementia.jobString>
+  <CureChronicDementia.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s dementia.</CureChronicDementia.successfullyRemovedHediffMessage>
+
+  <CureMuscleParasites.label>Cure muscle parasites</CureMuscleParasites.label>
+  <CureMuscleParasites.description>Cure muscle parasites.</CureMuscleParasites.description>
+  <CureMuscleParasites.jobString>Curing muscle parasites.</CureMuscleParasites.jobString>
+
+  <CureGutWorms.label>cure gut worms</CureGutWorms.label>
+  <CureGutWorms.description>Cure gut worms.</CureGutWorms.description>
+  <CureGutWorms.jobString>Curing gut worms.</CureGutWorms.jobString>
+
+
+  <!-- Chronic: Alzheimers -->
+
+  <CureChronicAlzheimers.label>Cure alzheimers</CureChronicAlzheimers.label>
+  <CureChronicAlzheimers.description>Install a neuro-cure framework to treat alzheimers.</CureChronicAlzheimers.description>
+  <CureChronicAlzheimers.jobString>Curing alzheimers.</CureChronicAlzheimers.jobString>
+  <CureChronicAlzheimers.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s alzheimers.</CureChronicAlzheimers.successfullyRemovedHediffMessage>
+
+
+  <!-- Chronic: Asthma -->
+
+  <CureChronicAsthma.label>Cure asthma</CureChronicAsthma.label>
+  <CureChronicAsthma.description>Cure asthma.</CureChronicAsthma.description>
+  <CureChronicAsthma.jobString>Curing asthma.</CureChronicAsthma.jobString>
+
+
+  <!-- Chronic: HeartArteryBlockage -->
+
+  <CureChronicHeartArteryBlockage.label>Cure artery blockage</CureChronicHeartArteryBlockage.label>
+  <CureChronicHeartArteryBlockage.description>Cure artery blockage.</CureChronicHeartArteryBlockage.description>
+  <CureChronicHeartArteryBlockage.jobString>Curing artery blockage.</CureChronicHeartArteryBlockage.jobString>
+
+  <InjectMedicine.label>Inject anesthetic</InjectMedicine.label>
+  <InjectMedicine.description>Inject anesthetic medicine.</InjectMedicine.description>
+  <InjectMedicine.jobString>Injecting anesthetic medicine.</InjectMedicine.jobString>
+
+
+</LanguageData>

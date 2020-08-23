@@ -1,26 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TribalWarrior.label>勇士</TribalWarrior.label>
-  <TribalWarrior.labelPlural>勇士</TribalWarrior.labelPlural>
+  <Tribal_Penitent.label>penitent</Tribal_Penitent.label>
+  <Tribal_Penitent.labelPlural>penitents</Tribal_Penitent.labelPlural>
 
-  <TribalBerserker.label>狂战士</TribalBerserker.label>
-  <TribalBerserker.labelPlural>狂战士</TribalBerserker.labelPlural>
+  <Tribal_Warrior.label>Warrior</Tribal_Warrior.label>
+  <Tribal_Warrior.labelPlural>Warriors</Tribal_Warrior.labelPlural>
 
-  <TribalArcher.label>弓箭手</TribalArcher.label>
-  <TribalArcher.labelPlural>弓箭手</TribalArcher.labelPlural>
+  <Tribal_Berserker.label>Berserker</Tribal_Berserker.label>
+  <Tribal_Berserker.labelPlural>Berserkers</Tribal_Berserker.labelPlural>
 
-  <TribalHunter.label>猎人</TribalHunter.label>
-  <TribalHunter.labelPlural>猎人</TribalHunter.labelPlural>
+  <Tribal_Archer.label>Archer</Tribal_Archer.label>
+  <Tribal_Archer.labelPlural>Archers</Tribal_Archer.labelPlural>
 
-  <TribalHeavyArcher.label>重弓手</TribalHeavyArcher.label>
-  <TribalHeavyArcher.labelPlural>重弓手s</TribalHeavyArcher.labelPlural>
+  <Tribal_Hunter.label>Hunter</Tribal_Hunter.label>
+  <Tribal_Hunter.labelPlural>Hunters</Tribal_Hunter.labelPlural>
 
-  <TribalChief.label>酋长</TribalChief.label>
-  <TribalChief.labelPlural>酋长</TribalChief.labelPlural>
+  <Tribal_HeavyArcher.label>Heavy archer</Tribal_HeavyArcher.label>
+  <Tribal_HeavyArcher.labelPlural>Heavy archers</Tribal_HeavyArcher.labelPlural>
 
-  <TribalTrader.label>商人</TribalTrader.label>
-  <TribalTrader.labelPlural>商人</TribalTrader.labelPlural>
+  <Tribal_Demoman.label>Demoman</Tribal_Demoman.label>
+  <Tribal_Demoman.labelPlural>Demomans</Tribal_Demoman.labelPlural>
+
+  <Tribal_ChiefMelee.label>berserker chief</Tribal_ChiefMelee.label>
+  <Tribal_ChiefMelee.labelPlural>berserker chiefs</Tribal_ChiefMelee.labelPlural>
+
+  <Tribal_ChiefRanged.label>archer chief</Tribal_ChiefRanged.label>
+  <Tribal_ChiefRanged.labelPlural>archer chiefs</Tribal_ChiefRanged.labelPlural>
+
+  <Tribal_Trader.label>Tribal trader</Tribal_Trader.label>
+  <Tribal_Trader.labelPlural>Tribal traders</Tribal_Trader.labelPlural>
 
 
 </LanguageData>

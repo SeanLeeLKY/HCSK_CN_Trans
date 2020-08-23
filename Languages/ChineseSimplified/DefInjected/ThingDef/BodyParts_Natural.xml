@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Natural parts - can be harvested, or grown in the organ vat -->
+
+  <Eye.label>Eye</Eye.label>
+  <Eye.description>A replacement eye that was either removed from a live body, or fabricated from BioMatter.</Eye.description>
+
+  <Ear.label>Ear</Ear.label>
+  <Ear.description>A replacement ear fabricated from BioMatter.</Ear.description>
+
+  <Nose.label>Nose</Nose.label>
+  <Nose.description>A replacement nose fabricated from BioMatter.</Nose.description>
+
+  <Heart.label>Heart</Heart.label>
+  <Heart.description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.</Heart.description>
+
+  <Lung.label>Lung</Lung.label>
+  <Lung.description>An essential part of the respiratory system.</Lung.description>
+
+  <Liver.label>Liver</Liver.label>
+  <Liver.description>Plays an important role in metabolism.</Liver.description>
+
+  <Kidney.label>Kidney</Kidney.label>
+  <Kidney.description>Filters and removes waste products from the blood.</Kidney.description>
+
+  <Stomach.label>Stomach</Stomach.label>
+  <Stomach.description>Digests food and turns it into energy and nutrients.</Stomach.description>
+
+  <Jaw.label>Jaw</Jaw.label>
+  <Jaw.description>A nice set of teeth for chewing food and talking.</Jaw.description>
+
+  <Leg.label>Leg</Leg.label>
+  <Leg.description>They're long meaty sticks that let you move around.</Leg.description>
+
+
+  <!-- <ThingDef ParentName="BodyPartBase_Natural">
+	<defName>Brain</defName>
+    <label>brain</label>
+	<description>Lets you know whos in charge</description>
+	<graphicPath>Things/Item/BodyPart/MedOrgan</graphicPath>
+	<graphicClass>Graphic_Single</graphicClass>
+	<statBases>
+	  <MarketValue>500</MarketValue>
+    </statBases>
+</ThingDef> -->
+
+  <Arm.label>Arm</Arm.label>
+  <Arm.description>Arms are like legs, except you can carry stuff with them.</Arm.description>
+
+  <Foot.label>foot</Foot.label>
+  <Foot.description>The thing you can put shoes on.</Foot.description>
+
+  <Hand.label>hand</Hand.label>
+  <Hand.description>A man's best friend.</Hand.description>
+
+
+</LanguageData>

@@ -3,13 +3,47 @@
 
   <!-- Eggs -->
 
-  <EggFRaptorFertilized.label>迅猛龙蛋 (已受精)</EggFRaptorFertilized.label>
- 
+  <EggFRaptorUnfertilized.label>Raptor Egg (Unfertilized)</EggFRaptorUnfertilized.label>
+  <EggFRaptorUnfertilized.description>An unfertilized egg of a Raptor.</EggFRaptorUnfertilized.description>
 
-  <EggLacosdileFertilized.label>雷科斯代巨蜥蛋 (已受精)</EggLacosdileFertilized.label>
-  
+  <EggFRaptorFertilized.label>Raptor Egg (Fertilized)</EggFRaptorFertilized.label>
+  <EggFRaptorFertilized.description>A fertilized egg of a Raptor. If all goes well, it should hatch into a Baby Raptor. Eggs can be eaten raw, but are much better when cooked.</EggFRaptorFertilized.description>
 
-  <EggNightlingFertilized.label>夜灵蛋 (已受精)</EggNightlingFertilized.label>
- 
+  <EggFenixUnfertilized.label>Fenix Egg (Unfertilized)</EggFenixUnfertilized.label>
+  <EggFenixUnfertilized.description>An unfertilized egg of a Fenix.</EggFenixUnfertilized.description>
+
+  <EggFenixFertilized.label>Fenix Egg (Fertilized)</EggFenixFertilized.label>
+  <EggFenixFertilized.description>A fertilized egg of a Fenix. If Eggs can be eaten raw, but are much better when cooked.</EggFenixFertilized.description>
+
+  <EggGreenWyvernUnfertilized.label>Green wyvern Egg (Unfertilized)</EggGreenWyvernUnfertilized.label>
+  <EggGreenWyvernUnfertilized.description>An unfertilized egg of a  Green wyvern.</EggGreenWyvernUnfertilized.description>
+
+  <EggGreenWyvernFertilized.label>Green wyvern Egg (Fertilized)</EggGreenWyvernFertilized.label>
+  <EggGreenWyvernFertilized.description>A fertilized egg of a Green wyvern. If Eggs can be eaten raw, but are much better when cooked.</EggGreenWyvernFertilized.description>
+
+  <EggBehirUnfertilized.label>Behir Egg (Unfertilized)</EggBehirUnfertilized.label>
+  <EggBehirUnfertilized.description>An unfertilized egg of a Behir. If Eggs can be eaten raw, but are much better when cooked.</EggBehirUnfertilized.description>
+
+  <EggBehirFertilized.label>Behir Egg (Fertilized)</EggBehirFertilized.label>
+  <EggBehirFertilized.description>A fertilized egg of a Behir. If Eggs can be eaten raw, but are much better when cooked.</EggBehirFertilized.description>
+
+  <EggLacosdileUnfertilized.label>Lacosdile Egg (Unfertilized)</EggLacosdileUnfertilized.label>
+  <EggLacosdileUnfertilized.description>An unfertilized egg of a Lacosdile. Eggs can be eaten raw, but are much better when cooked.</EggLacosdileUnfertilized.description>
+
+  <EggLacosdileFertilized.label>Lacosdile Egg (Fertilized)</EggLacosdileFertilized.label>
+  <EggLacosdileFertilized.description>A fertilized egg of a Lacosdile. If all goes well, it should hatch into a Baby Lacosdile. Eggs can be eaten raw, but are much better when cooked.</EggLacosdileFertilized.description>
+
+  <EggNightlingUnfertilized.label>Nightling egg (Unfertilized)</EggNightlingUnfertilized.label>
+  <EggNightlingUnfertilized.description>An unfertilized Nightling egg. It can be eaten raw, but it's much better cooked.</EggNightlingUnfertilized.description>
+
+  <EggNightlingFertilized.label>Nightling egg (Fertilized)</EggNightlingFertilized.label>
+  <EggNightlingFertilized.description>Fertilized Nightling egg. If all goes well, it should hatch into a baby Nightling. It can be eaten raw, but it's much better cooked.</EggNightlingFertilized.description>
+
+  <EggPtarmiganUnfertilized.label>ptarmigan egg (Unfertilized)</EggPtarmiganUnfertilized.label>
+  <EggPtarmiganUnfertilized.description>Unfertilized ptarmigan egg. It can be eaten raw, but it's much, much better cooked.</EggPtarmiganUnfertilized.description>
+
+  <EggPtarmiganFertilized.label>ptarmigan egg (Fertilized)</EggPtarmiganFertilized.label>
+  <EggPtarmiganFertilized.description>Fertilized ptarmigan egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked.</EggPtarmiganFertilized.description>
+
 
 </LanguageData>

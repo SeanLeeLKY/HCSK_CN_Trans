@@ -3,13 +3,13 @@
 
   <!-- Ammo -->
 
-  <Ammo_130mmRocketMissile.label>130mm 火箭弹（高爆弹）</Ammo_130mmRocketMissile.label>
-  <Ammo_130mmRocketMissile.description>130mm 火箭弹。</Ammo_130mmRocketMissile.description>
+  <Ammo_130mmRocketMissile.label>130mm rocket missile (HE)</Ammo_130mmRocketMissile.label>
+  <Ammo_130mmRocketMissile.description>130mm rocket missile.</Ammo_130mmRocketMissile.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_130mmRocketMissile.label>130mm 火箭弹（高爆弹）</Bullet_130mmRocketMissile.label>
+  <Bullet_130mmRocketMissile.label>130mm HE Rocket missile</Bullet_130mmRocketMissile.label>
 
 
 </LanguageData>

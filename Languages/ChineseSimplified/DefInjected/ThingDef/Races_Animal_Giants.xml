@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Giant -->
+
+  <Rhinoceros.label>rhinoceros</Rhinoceros.label>
+  <Rhinoceros.description>Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body.</Rhinoceros.description>
+  <Rhinoceros.tools.0.label>horn</Rhinoceros.tools.0.label>
+  <Rhinoceros.tools.1.label>horn</Rhinoceros.tools.1.label>
+  <Rhinoceros.tools.3.label>head</Rhinoceros.tools.3.label>
+  <Rhinoceros_Leather.label>rhinoceros leather</Rhinoceros_Leather.label>
+  <Rhinoceros_Leather.description>rhinoceros leather</Rhinoceros_Leather.description>
+  <Rhinoceros_Leather.stuffProps.stuffAdjective>rhinoceros leather</Rhinoceros_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Rhinoceros_Corpse.label>rhinoceros corpse</Rhinoceros_Corpse.label>
+  <Rhinoceros_Corpse.description>rhinoceros corpse</Rhinoceros_Corpse.description>
+
+
+  <!-- Giant -->
+
+  <Elephant.label>elephant</Elephant.label>
+  <Elephant.description>The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before.</Elephant.description>
+  <Elephant.tools.0.label>tusk</Elephant.tools.0.label>
+  <Elephant.tools.1.label>left foot</Elephant.tools.1.label>
+  <Elephant.tools.2.label>right foot</Elephant.tools.2.label>
+  <Elephant.tools.3.label>head</Elephant.tools.3.label>
+  <Elephant_Leather.label>elephant leather</Elephant_Leather.label>
+  <Elephant_Leather.description>elephant leather</Elephant_Leather.description>
+  <Elephant_Leather.stuffProps.stuffAdjective>elephant leather</Elephant_Leather.stuffProps.stuffAdjective>
+  <Elephant_Meat.label>Raw Meat</Elephant_Meat.label>
+  <Elephant_Meat.description>Raw Meat</Elephant_Meat.description>
+  <Elephant_Corpse.label>elephant corpse</Elephant_Corpse.label>
+  <Elephant_Corpse.description>elephant corpse</Elephant_Corpse.description>
+
+  <Mammoth.label>mammoth</Mammoth.label>
+  <Mammoth.tools.0.label>tusk</Mammoth.tools.0.label>
+  <Mammoth.tools.1.label>left foot</Mammoth.tools.1.label>
+  <Mammoth.tools.2.label>right foot</Mammoth.tools.2.label>
+  <Mammoth.tools.3.label>head</Mammoth.tools.3.label>
+  <Mammoth_Leather.label>mammoth leather</Mammoth_Leather.label>
+  <Mammoth_Leather.description>mammoth leather</Mammoth_Leather.description>
+  <Mammoth_Leather.stuffProps.stuffAdjective>mammoth leather</Mammoth_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Mammoth_Corpse.label>mammoth corpse</Mammoth_Corpse.label>
+  <Mammoth_Corpse.description>mammoth corpse</Mammoth_Corpse.description>
+
+
+  <!-- Giant -->
+
+  <Megasloth.label>megasloth</Megasloth.label>
+  <Megasloth.description>A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws.</Megasloth.description>
+  <Megasloth.tools.0.label>left claw</Megasloth.tools.0.label>
+  <Megasloth.tools.1.label>right claw</Megasloth.tools.1.label>
+  <Megasloth.tools.2.label>head</Megasloth.tools.2.label>
+  <Megasloth_Leather.label>megasloth leather</Megasloth_Leather.label>
+  <Megasloth_Leather.description>megasloth leather</Megasloth_Leather.description>
+  <Megasloth_Leather.stuffProps.stuffAdjective>megasloth leather</Megasloth_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Megasloth_Corpse.label>megasloth corpse</Megasloth_Corpse.label>
+  <Megasloth_Corpse.description>megasloth corpse</Megasloth_Corpse.description>
+
+
+  <!-- Giant -->
+
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <Thrumbo.description>A Thrumbo is a gigantic creature of unknown origin. The Thrumbo is gentle by nature, but extremely dangerous when enraged. Its long fur is exceptionally beautiful and treasured, and its razor-sharp horn is very valuable in most markets. Legends say that an old Thrumbo is the wisest creature in the universe - it simply chooses not to speak.</Thrumbo.description>
+  <Thrumbo.tools.0.label>horn</Thrumbo.tools.0.label>
+  <Thrumbo.tools.1.label>horn</Thrumbo.tools.1.label>
+  <Thrumbo.tools.2.label>left foot</Thrumbo.tools.2.label>
+  <Thrumbo.tools.3.label>right foot</Thrumbo.tools.3.label>
+  <Thrumbo.tools.5.label>head</Thrumbo.tools.5.label>
+  <Thrumbo_Leather.label>thrumbo leather</Thrumbo_Leather.label>
+  <Thrumbo_Leather.description>thrumbo leather</Thrumbo_Leather.description>
+  <Thrumbo_Leather.stuffProps.stuffAdjective>thrumbo leather</Thrumbo_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Thrumbo_Corpse.label>thrumbo corpse</Thrumbo_Corpse.label>
+  <Thrumbo_Corpse.description>thrumbo corpse</Thrumbo_Corpse.description>
+
+
+  <!-- Giant -->
+
+  <Megabadger.label>megabadger</Megabadger.label>
+  <Megabadger.description>A truly massive badger - roughly the size of an elephant in adulthood. Megabadgers are incredibly dangerous creatures, with jaws able to bite a fully grown tree to splinters and skin thick enough to stop most bullets. They are not without the characteristic vicious attitude known of smaller badger species. \n\nHaving been known to wipe out entire colonies in the rimworlds, it is advisable under almost all circumstances to completely avoid interaction with megabadgers.</Megabadger.description>
+  <Megabadger.tools.0.label>left claw</Megabadger.tools.0.label>
+  <Megabadger.tools.1.label>right claw</Megabadger.tools.1.label>
+  <Megabadger.tools.3.label>head</Megabadger.tools.3.label>
+  <Megabadger_Leather.label>megabadger leather</Megabadger_Leather.label>
+  <Megabadger_Leather.description>megabadger leather</Megabadger_Leather.description>
+  <Megabadger_Leather.stuffProps.stuffAdjective>megabadger leather</Megabadger_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Megabadger_Corpse.label>megabadger corpse</Megabadger_Corpse.label>
+  <Megabadger_Corpse.description>megabadger corpse</Megabadger_Corpse.description>
+
+
+  <!-- Giant -->
+
+  <Rhino_Wooly.label>woolly rhino</Rhino_Wooly.label>
+  <Rhino_Wooly.description>A rhinoceros almost entirely covered in a coarse fur coat, fit for much colder climates than its hairless cousins.</Rhino_Wooly.description>
+  <Rhino_Wooly.tools.0.label>horn</Rhino_Wooly.tools.0.label>
+  <Rhino_Wooly.tools.1.label>horn</Rhino_Wooly.tools.1.label>
+  <Rhino_Wooly.tools.3.label>head</Rhino_Wooly.tools.3.label>
+  <Rhino_Wooly_Leather.label>woolly rhino leather</Rhino_Wooly_Leather.label>
+  <Rhino_Wooly_Leather.description>woolly rhino leather</Rhino_Wooly_Leather.description>
+  <Rhino_Wooly_Leather.stuffProps.stuffAdjective>woolly rhino leather</Rhino_Wooly_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Rhino_Wooly_Corpse.label>woolly rhino corpse</Rhino_Wooly_Corpse.label>
+  <Rhino_Wooly_Corpse.description>woolly rhino corpse</Rhino_Wooly_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wolves -->
+
+  <Wolf_Timber.label>timber wolf</Wolf_Timber.label>
+  <Wolf_Timber.description>A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have a complex social life and are fiercely intelligent.</Wolf_Timber.description>
+  <Wolf_Timber.tools.0.label>left claw</Wolf_Timber.tools.0.label>
+  <Wolf_Timber.tools.1.label>right claw</Wolf_Timber.tools.1.label>
+  <Wolf_Timber.tools.3.label>head</Wolf_Timber.tools.3.label>
+  <Wolf_Timber_Leather.label>timber wolf leather</Wolf_Timber_Leather.label>
+  <Wolf_Timber_Leather.description>timber wolf leather</Wolf_Timber_Leather.description>
+  <Wolf_Timber_Leather.stuffProps.stuffAdjective>timber wolf leather</Wolf_Timber_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Wolf_Timber_Corpse.label>timber wolf corpse</Wolf_Timber_Corpse.label>
+  <Wolf_Timber_Corpse.description>timber wolf corpse</Wolf_Timber_Corpse.description>
+
+
+  <!-- Wolves -->
+
+  <Wolf_Arctic.label>arctic wolf</Wolf_Arctic.label>
+  <Wolf_Arctic.description>An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent.</Wolf_Arctic.description>
+  <Wolf_Arctic.tools.0.label>left claw</Wolf_Arctic.tools.0.label>
+  <Wolf_Arctic.tools.1.label>right claw</Wolf_Arctic.tools.1.label>
+  <Wolf_Arctic.tools.3.label>head</Wolf_Arctic.tools.3.label>
+  <Wolf_Arctic_Leather.label>arctic wolf leather</Wolf_Arctic_Leather.label>
+  <Wolf_Arctic_Leather.description>arctic wolf leather</Wolf_Arctic_Leather.description>
+  <Wolf_Arctic_Leather.stuffProps.stuffAdjective>arctic wolf leather</Wolf_Arctic_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Wolf_Arctic_Corpse.label>arctic wolf corpse</Wolf_Arctic_Corpse.label>
+  <Wolf_Arctic_Corpse.description>arctic wolf corpse</Wolf_Arctic_Corpse.description>
+
+
+  <!-- Wolves -->
+
+  <Rimwolf.label>black wolf</Rimwolf.label>
+  <Rimwolf.description>These intelligent creatures have evolved from the wild wolves of Earth which were released on this backwater planet long ago. They are fearsome predators and can quickly overpower large prey that carelessly lets itself get surrounded by them.</Rimwolf.description>
+  <Rimwolf.tools.0.label>left claw</Rimwolf.tools.0.label>
+  <Rimwolf.tools.1.label>right claw</Rimwolf.tools.1.label>
+  <Rimwolf.tools.3.label>head</Rimwolf.tools.3.label>
+  <Rimwolf_Leather.label>black wolf leather</Rimwolf_Leather.label>
+  <Rimwolf_Leather.description>black wolf leather</Rimwolf_Leather.description>
+  <Rimwolf_Leather.stuffProps.stuffAdjective>black wolf leather</Rimwolf_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Rimwolf_Corpse.label>black wolf corpse</Rimwolf_Corpse.label>
+  <Rimwolf_Corpse.description>black wolf corpse</Rimwolf_Corpse.description>
+
+
+</LanguageData>

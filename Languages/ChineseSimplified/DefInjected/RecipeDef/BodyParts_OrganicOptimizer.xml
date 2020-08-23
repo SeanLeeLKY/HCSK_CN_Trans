@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Organic optimizing nanobots -->
+
+  <OrganicOptimizing.label>Optimize natural body part</OrganicOptimizing.label>
+  <OrganicOptimizing.description>Improve and bring out the potential of a natural body part with the organic optimizing nanobots, with the surgeon carefully monitoring the initial application and progress.</OrganicOptimizing.description>
+  <OrganicOptimizing.jobString>Optimizing natural body part.</OrganicOptimizing.jobString>
+
+
+  <!-- Eyes: Improved reactive pupil -->
+
+  <InstinctOptimizingEyes.label>Improve reactive pupil</InstinctOptimizingEyes.label>
+  <InstinctOptimizingEyes.description>Improve the instinctual reaction of the eyes with instinct optimizing nanobots, improving hit and aim accuracy. The surgeon carefully monitoring the initial application and progress.</InstinctOptimizingEyes.description>
+  <InstinctOptimizingEyes.jobString>Optimizing natural body part.</InstinctOptimizingEyes.jobString>
+
+
+  <!-- Hand: Improved hand reflex -->
+
+  <InstinctOptimizingHands.label>Improve hand reflex</InstinctOptimizingHands.label>
+  <InstinctOptimizingHands.description>Improve the instinctual reaction of the hands with instinct optimizing nanobots, improving the speed of aiming, striking with a melee weapon and general repetative work. with the surgeon carefully monitoring the initial application and progress.</InstinctOptimizingHands.description>
+  <InstinctOptimizingHands.jobString>Optimizing natural body part.</InstinctOptimizingHands.jobString>
+
+
+  <!-- Foot: nimble instinct -->
+
+  <InstinctOptimizingFoot.label>Improve nimble instinct</InstinctOptimizingFoot.label>
+  <InstinctOptimizingFoot.description>Improve the instinctual reaction of the feet with instinct optimizing nanobots, improving the ability to dodge incoming melee attacks. The surgeon carefully monitoring the initial application and progress.</InstinctOptimizingFoot.description>
+  <InstinctOptimizingFoot.jobString>Optimizing natural body part.</InstinctOptimizingFoot.jobString>
+
+
+</LanguageData>

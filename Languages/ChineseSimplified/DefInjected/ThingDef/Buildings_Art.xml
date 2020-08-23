@@ -3,53 +3,63 @@
 
   <!-- Sculptures -->
 
-  <SculptureSmall.label>小雕塑</SculptureSmall.label>
-  <SculptureSmall.description>由一块躯干大小的材料塑造而成的艺术品。</SculptureSmall.description>
-  <SculptureSmall_Blueprint_Install.label>小雕塑 （蓝图）</SculptureSmall_Blueprint_Install.label>
+  <SculptureSmall.label>small sculpture</SculptureSmall.label>
+  <SculptureSmall.description>A torso-sized piece of material sculpted into an artistic form.</SculptureSmall.description>
+  <SculptureSmall_Blueprint_Install.label>small sculpture (blueprint)</SculptureSmall_Blueprint_Install.label>
 
-  <SculptureLarge.label>大雕塑</SculptureLarge.label>
-  <SculptureLarge.description>由一块成人大小的材料塑造而成的艺术品。</SculptureLarge.description>
-  <SculptureLarge_Blueprint_Install.label>大雕塑 （蓝图）</SculptureLarge_Blueprint_Install.label>
+  <SculptureLarge.label>large sculpture</SculptureLarge.label>
+  <SculptureLarge.description>A person-sized piece of material sculpted into an artistic form.</SculptureLarge.description>
+  <SculptureLarge_Blueprint_Install.label>large sculpture (blueprint)</SculptureLarge_Blueprint_Install.label>
 
-  <SculptureGrand.label>宏伟雕塑</SculptureGrand.label>
-  <SculptureGrand.description>由一块汽车大小的材料塑造而成的艺术品。</SculptureGrand.description>
-  <SculptureGrand_Blueprint_Install.label>宏伟雕塑 （蓝图）</SculptureGrand_Blueprint_Install.label>
+  <SculptureGrand.label>grand sculpture</SculptureGrand.label>
+  <SculptureGrand.description>A car-sized piece of material sculpted into an artistic form.</SculptureGrand.description>
+  <SculptureGrand_Blueprint_Install.label>grand sculpture (blueprint)</SculptureGrand_Blueprint_Install.label>
 
-  <MuffaloArt.label>野牛雕塑</MuffaloArt.label>
-  <MuffaloArt_Blueprint_Install.label>野牛雕塑 （蓝图）</MuffaloArt_Blueprint_Install.label>
+  <MuffaloArt.label>muffalo sculpture</MuffaloArt.label>
+  <MuffaloArt.description>The holy Muffalo is a creature worshiped by the Cheda of the Indigo Gerbil Tribe on Alioth Posterius.</MuffaloArt.description>
+  <MuffaloArt_Blueprint_Install.label>muffalo sculpture (blueprint)</MuffaloArt_Blueprint_Install.label>
 
-  <QueenArt.label>皇后雕塑</QueenArt.label>
-  <QueenArt_Blueprint_Install.label>皇后雕塑 （蓝图）</QueenArt_Blueprint_Install.label>
+  <QueenArt.label>queen sculpture</QueenArt.label>
+  <QueenArt.description>This stunning statue is a likeness of "Anha the Graceful" a matriarch of the Gray People Tribe known to be a dazzling and exquisite beauty.</QueenArt.description>
+  <QueenArt_Blueprint_Install.label>queen sculpture (blueprint)</QueenArt_Blueprint_Install.label>
 
-  <NymphArt.label>仙女雕塑</NymphArt.label>
-  <NymphArt_Blueprint_Install.label>仙女雕塑 （蓝图）</NymphArt_Blueprint_Install.label>
+  <NymphArt.label>Muza sculpture</NymphArt.label>
+  <NymphArt.description>This stunning statue is a likeness of "Nadezhda the Muse", the most beautiful girl in the legends.</NymphArt.description>
+  <NymphArt_Blueprint_Install.label>Muza sculpture (blueprint)</NymphArt_Blueprint_Install.label>
 
-  <GreenyArt.label>绿神雕塑</GreenyArt.label>
-  <GreenyArt_Blueprint_Install.label>绿神雕塑 （蓝图）</GreenyArt_Blueprint_Install.label>
+  <GreenyArt.label>Green god</GreenyArt.label>
+  <GreenyArt.description>This stunning statue of Greeny.</GreenyArt.description>
+  <GreenyArt_Blueprint_Install.label>Green god (blueprint)</GreenyArt_Blueprint_Install.label>
 
-  <WolfArt.label>野狼雕塑</WolfArt.label>
-  <WolfArt_Blueprint_Install.label>野狼雕塑 （蓝图）</WolfArt_Blueprint_Install.label>
+  <WolfArt.label>wolf sculpture</WolfArt.label>
+  <WolfArt.description>This statue depicts the wolf-like god named "LORDI", worshiped by the Purple Lobster Crouca on Aldhafera XI</WolfArt.description>
+  <WolfArt_Blueprint_Install.label>wolf sculpture (blueprint)</WolfArt_Blueprint_Install.label>
 
-  <DragonArt.label>龙蛇雕塑</DragonArt.label>
-  <DragonArt_Blueprint_Install.label>龙蛇雕塑 （蓝图）</DragonArt_Blueprint_Install.label>
+  <DragonArt.label>behir sculpture</DragonArt.label>
+  <DragonArt.description>This stunning huge statue of magical beast with a crocodilian head.</DragonArt.description>
+  <DragonArt_Blueprint_Install.label>behir sculpture (blueprint)</DragonArt_Blueprint_Install.label>
 
-  <ZeonArt.label>吉恩雕塑</ZeonArt.label>
-  <ZeonArt_Blueprint_Install.label>吉恩雕塑 （蓝图）</ZeonArt_Blueprint_Install.label>
+  <ZeonArt.label>zeon sculpture</ZeonArt.label>
+  <ZeonArt.description>A sculpture of Zeon. You only hope in building this he decides to not come to visit.</ZeonArt.description>
+  <ZeonArt_Blueprint_Install.label>zeon sculpture (blueprint)</ZeonArt_Blueprint_Install.label>
 
-  <DecorativeUrnSmall.label>装饰瓮</DecorativeUrnSmall.label>
-  <DecorativeUrnSmall_Blueprint_Install.label>装饰瓮 （蓝图）</DecorativeUrnSmall_Blueprint_Install.label>
+  <DecorativeUrnSmall.label>decorative urn</DecorativeUrnSmall.label>
+  <DecorativeUrnSmall.description>A small piece of decorative pottery.</DecorativeUrnSmall.description>
+  <DecorativeUrnSmall_Blueprint_Install.label>decorative urn (blueprint)</DecorativeUrnSmall_Blueprint_Install.label>
 
-  <SmallPottery.label>装饰陶壶</SmallPottery.label>
-  <SmallPottery_Blueprint_Install.label>装饰陶壶 （蓝图）</SmallPottery_Blueprint_Install.label>
+  <SmallPottery.label>decorative pottery</SmallPottery.label>
+  <SmallPottery.description>A small pieces of pottery decorated with various pictures and carvings. They have no practical use.</SmallPottery.description>
+  <SmallPottery_Blueprint_Install.label>decorative pottery (blueprint)</SmallPottery_Blueprint_Install.label>
 
-  <PotteryDisplay.label>陶艺展示架</PotteryDisplay.label>
-  <PotteryDisplay_Blueprint_Install.label>陶艺展示架 （蓝图）</PotteryDisplay_Blueprint_Install.label>
+  <PotteryDisplay.label>pottery display stand</PotteryDisplay.label>
+  <PotteryDisplay.description>A display stand showing various pieces of decorative pottery. Many of these have painted or carved pictures on them.</PotteryDisplay.description>
+  <PotteryDisplay_Blueprint_Install.label>pottery display stand (blueprint)</PotteryDisplay_Blueprint_Install.label>
 
 
   <!-- Snowman -->
 
-  <Snowman.label>雪人</Snowman.label>
-  <Snowman.description>一组大雪球堆叠在一起，做成类似人的形状。</Snowman.description>
+  <Snowman.label>snowman</Snowman.label>
+  <Snowman.description>A set of large snowballs piled and shaped to resemble a person.</Snowman.description>
 
 
 </LanguageData>

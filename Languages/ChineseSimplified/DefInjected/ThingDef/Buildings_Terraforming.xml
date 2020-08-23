@@ -1,217 +1,274 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- AL -->
+  <!-- –––––––––––––––––––––––––––––––––   Rocky dirt   ––––––––––––––––––––––––––––––––– -->
 
-  <PoorSoil-MarginalSoil.label>贫瘠土地转边角土地</PoorSoil-MarginalSoil.label>
-  <PoorSoil-MarginalSoil.description>放置于： 贫瘠土地\n取得： 边角土地</PoorSoil-MarginalSoil.description>
-  <PoorSoil-MarginalSoil_Blueprint.label>贫瘠土地转边角土地 （蓝图）</PoorSoil-MarginalSoil_Blueprint.label>
-  <PoorSoil-MarginalSoil_Frame.label>贫瘠土地转边角土地 （建造中）</PoorSoil-MarginalSoil_Frame.label>
-  <PoorSoil-MarginalSoil_Frame.description>放置于： 贫瘠土地\n取得： 边角土地</PoorSoil-MarginalSoil_Frame.description>
+  <RockyDirt-Stone.label>Rough stone</RockyDirt-Stone.label>
+  <RockyDirt-Stone.description>↑ Rocky dirt\n\n↓ Rough stone</RockyDirt-Stone.description>
+  <RockyDirt-Stone_Blueprint.label>Rough stone (blueprint)</RockyDirt-Stone_Blueprint.label>
+  <RockyDirt-Stone_Frame.label>Rough stone (building)</RockyDirt-Stone_Frame.label>
+  <RockyDirt-Stone_Frame.description>↑ Rocky dirt\n\n↓ Rough stone</RockyDirt-Stone_Frame.description>
 
-  <MarginalSoil-Soil.label>边角土地转普通土地</MarginalSoil-Soil.label>
-  <MarginalSoil-Soil.description>放置于： 边角土地\n取得： 土地</MarginalSoil-Soil.description>
-  <MarginalSoil-Soil_Blueprint.label>边角土地转普通土地 （蓝图）</MarginalSoil-Soil_Blueprint.label>
-  <MarginalSoil-Soil_Frame.label>边角土地转普通土地 （建造中）</MarginalSoil-Soil_Frame.label>
-  <MarginalSoil-Soil_Frame.description>放置于： 边角土地\n取得： 土地</MarginalSoil-Soil_Frame.description>
+  <RockyDirt-Sand.label>Sand</RockyDirt-Sand.label>
+  <RockyDirt-Sand.description>↑ Rocky dirt\n\n↓ Sand</RockyDirt-Sand.description>
+  <RockyDirt-Sand_Blueprint.label>Sand (blueprint)</RockyDirt-Sand_Blueprint.label>
+  <RockyDirt-Sand_Frame.label>Sand (building)</RockyDirt-Sand_Frame.label>
+  <RockyDirt-Sand_Frame.description>↑ Rocky dirt\n\n↓ Sand</RockyDirt-Sand_Frame.description>
 
-  <LichenCoveredDirt-Soil.label>苔藓地转普通土地</LichenCoveredDirt-Soil.label>
-  <LichenCoveredDirt-Soil.description>放置于： 苔藓地\n取得： 土地</LichenCoveredDirt-Soil.description>
-  <LichenCoveredDirt-Soil_Blueprint.label>苔藓地转普通土地 （蓝图）</LichenCoveredDirt-Soil_Blueprint.label>
-  <LichenCoveredDirt-Soil_Frame.label>苔藓地转普通土地 （建造中）</LichenCoveredDirt-Soil_Frame.label>
-  <LichenCoveredDirt-Soil_Frame.description>放置于： 苔藓地\n取得： 土地</LichenCoveredDirt-Soil_Frame.description>
-
-
-  <!-- end AL -->
-
-  <RockyDirt-Stone.label>石砾转粗糙石面</RockyDirt-Stone.label>
-  <RockyDirt-Stone.description>放置于： 石砾\n取得： 粗糙石面</RockyDirt-Stone.description>
-  <RockyDirt-Stone_Blueprint.label>石砾转粗糙石面 （蓝图）</RockyDirt-Stone_Blueprint.label>
-  <RockyDirt-Stone_Frame.label>石砾转粗糙石面 （建造中）</RockyDirt-Stone_Frame.label>
-  <RockyDirt-Stone_Frame.description>放置于： 石砾\n取得： 粗糙石面</RockyDirt-Stone_Frame.description>
-
-  <Stone-RockyDirt.label>石地面转石砾</Stone-RockyDirt.label>
-  <Stone-RockyDirt.description>放置于： 粗糙或打磨石面 \n取得： 石砾\n收集物：碎石 (有几率)</Stone-RockyDirt.description>
-  <Stone-RockyDirt_Blueprint.label>石地面转石砾 （蓝图）</Stone-RockyDirt_Blueprint.label>
-  <Stone-RockyDirt_Frame.label>石地面转石砾 （建造中）</Stone-RockyDirt_Frame.label>
-  <Stone-RockyDirt_Frame.description>放置于： 粗糙或打磨石面 \n取得： 石砾\n收集物：碎石 (有几率)</Stone-RockyDirt_Frame.description>
-
-  <Sand-RockyDirt.label>沙地转石砾</Sand-RockyDirt.label>
-  <Sand-RockyDirt.description>放置于： 沙地\n取得： 石砾\n收集物：一堆沙</Sand-RockyDirt.description>
-  <Sand-RockyDirt_Blueprint.label>沙地转石砾 （蓝图）</Sand-RockyDirt_Blueprint.label>
-  <Sand-RockyDirt_Frame.label>沙地转石砾 （建造中）</Sand-RockyDirt_Frame.label>
-  <Sand-RockyDirt_Frame.description>放置于： 沙地\n取得： 石砾\n收集物：一堆沙</Sand-RockyDirt_Frame.description>
-
-  <Gravel-RockyDirt.label>砂砾转石砾</Gravel-RockyDirt.label>
-  <Gravel-RockyDirt.description>放置于： 砂砾\n取得： 石砾\n收集物：碎石和一堆土</Gravel-RockyDirt.description>
-  <Gravel-RockyDirt_Blueprint.label>砂砾转石砾 （蓝图）</Gravel-RockyDirt_Blueprint.label>
-  <Gravel-RockyDirt_Frame.label>砂砾转石砾 （建造中）</Gravel-RockyDirt_Frame.label>
-  <Gravel-RockyDirt_Frame.description>放置于： 砂砾\n取得： 石砾\n收集物：碎石和一堆土</Gravel-RockyDirt_Frame.description>
-
-  <SoilF-RockyDirt.label>土地转石砾</SoilF-RockyDirt.label>
-  <SoilF-RockyDirt.description>放置于： 肥沃土地\n取得： 石砾\n收集物：三堆土</SoilF-RockyDirt.description>
-  <SoilF-RockyDirt_Blueprint.label>土地转石砾 （蓝图）</SoilF-RockyDirt_Blueprint.label>
-  <SoilF-RockyDirt_Frame.label>土地转石砾 （建造中）</SoilF-RockyDirt_Frame.label>
-  <SoilF-RockyDirt_Frame.description>放置于： 肥沃土地\n取得： 石砾\n收集物：三堆土</SoilF-RockyDirt_Frame.description>
-
-  <SoilMarshy-RockyDirt.label>泥沼地转石砾</SoilMarshy-RockyDirt.label>
-  <SoilMarshy-RockyDirt.description>放置于： 泥沼地\n取得： 石砾\n收集物：两堆土</SoilMarshy-RockyDirt.description>
-  <SoilMarshy-RockyDirt_Blueprint.label>泥沼地转石砾 （蓝图）</SoilMarshy-RockyDirt_Blueprint.label>
-  <SoilMarshy-RockyDirt_Frame.label>泥沼地转石砾 （建造中）</SoilMarshy-RockyDirt_Frame.label>
-  <SoilMarshy-RockyDirt_Frame.description>放置于： 泥沼地\n取得： 石砾\n收集物：两堆土</SoilMarshy-RockyDirt_Frame.description>
-
-  <RockyDirt-Sand.label>石砾转沙地</RockyDirt-Sand.label>
-  <RockyDirt-Sand.description>放置于： 石砾\n取得： 沙地</RockyDirt-Sand.description>
-  <RockyDirt-Sand_Blueprint.label>石砾转沙地 （蓝图）</RockyDirt-Sand_Blueprint.label>
-  <RockyDirt-Sand_Frame.label>石砾转沙地 （建造中）</RockyDirt-Sand_Frame.label>
-  <RockyDirt-Sand_Frame.description>放置于： 石砾\n取得： 沙地</RockyDirt-Sand_Frame.description>
-
-  <Gravel-Sand.label>砂砾转沙地</Gravel-Sand.label>
-  <Gravel-Sand.description>放置于： 砂砾\n取得： 沙地\n收集物：碎石</Gravel-Sand.description>
-  <Gravel-Sand_Blueprint.label>砂砾转沙地 （蓝图）</Gravel-Sand_Blueprint.label>
-  <Gravel-Sand_Frame.label>砂砾转沙地 （建造中）</Gravel-Sand_Frame.label>
-  <Gravel-Sand_Frame.description>放置于： 砂砾\n取得： 沙地\n收集物：碎石</Gravel-Sand_Frame.description>
-
-  <SoilF-Sand.label>土地转沙地</SoilF-Sand.label>
-  <SoilF-Sand.description>放置于： 肥沃土地\n取得： 沙地\n收集物：两堆土</SoilF-Sand.description>
-  <SoilF-Sand_Blueprint.label>土地转沙地 （蓝图）</SoilF-Sand_Blueprint.label>
-  <SoilF-Sand_Frame.label>土地转沙地 （建造中）</SoilF-Sand_Frame.label>
-  <SoilF-Sand_Frame.description>放置于： 肥沃土地\n取得： 沙地\n收集物：两堆土</SoilF-Sand_Frame.description>
-
-  <WaterShallow-Sand.label>浅水转沙地</WaterShallow-Sand.label>
-  <WaterShallow-Sand.description>放置于： 浅水\n取得： 沙地</WaterShallow-Sand.description>
-  <WaterShallow-Sand_Blueprint.label>浅水转沙地 （蓝图）</WaterShallow-Sand_Blueprint.label>
-  <WaterShallow-Sand_Frame.label>浅水转沙地 （建造中）</WaterShallow-Sand_Frame.label>
-  <WaterShallow-Sand_Frame.description>放置于： 浅水\n取得： 沙地</WaterShallow-Sand_Frame.description>
-
-  <RockyDirt-Gravel.label>石砾转砂砾</RockyDirt-Gravel.label>
-  <RockyDirt-Gravel.description>放置于： 石砾\n取得： 砂砾</RockyDirt-Gravel.description>
-  <RockyDirt-Gravel_Blueprint.label>石砾转砂砾 （蓝图）</RockyDirt-Gravel_Blueprint.label>
-  <RockyDirt-Gravel_Frame.label>石砾转砂砾 （建造中）</RockyDirt-Gravel_Frame.label>
-  <RockyDirt-Gravel_Frame.description>放置于： 石砾\n取得： 砂砾</RockyDirt-Gravel_Frame.description>
-
-  <Sand-Gravel.label>沙地转砂砾</Sand-Gravel.label>
-  <Sand-Gravel.description>放置于： 沙地\n取得： 砂砾</Sand-Gravel.description>
-  <Sand-Gravel_Blueprint.label>沙地转砂砾 （蓝图）</Sand-Gravel_Blueprint.label>
-  <Sand-Gravel_Frame.label>沙地转砂砾 （建造中）</Sand-Gravel_Frame.label>
-  <Sand-Gravel_Frame.description>放置于： 沙地\n取得： 砂砾</Sand-Gravel_Frame.description>
-
-  <SoilF-Gravel.label>土地转砂砾</SoilF-Gravel.label>
-  <SoilF-Gravel.description>放置于： 肥沃土地\n取得： 砂砾\n收集物：一堆土</SoilF-Gravel.description>
-  <SoilF-Gravel_Blueprint.label>土地转砂砾 （蓝图）</SoilF-Gravel_Blueprint.label>
-  <SoilF-Gravel_Frame.label>土地转砂砾 （建造中）</SoilF-Gravel_Frame.label>
-  <SoilF-Gravel_Frame.description>放置于： 肥沃土地\n取得： 砂砾\n收集物：一堆土</SoilF-Gravel_Frame.description>
-
-  <SoilF-PackedDirt.label>土地转压实泥土</SoilF-PackedDirt.label>
-  <SoilF-PackedDirt.description>放置于： 土地\n取得： 压实泥土</SoilF-PackedDirt.description>
-  <SoilF-PackedDirt_Blueprint.label>土地转压实泥土 （蓝图）</SoilF-PackedDirt_Blueprint.label>
-  <SoilF-PackedDirt_Frame.label>土地转压实泥土 （建造中）</SoilF-PackedDirt_Frame.label>
-  <SoilF-PackedDirt_Frame.description>放置于： 土地\n取得： 压实泥土</SoilF-PackedDirt_Frame.description>
-
-  <Sand-SoilF.label>沙地转土地</Sand-SoilF.label>
-  <Sand-SoilF.description>放置于： 沙地\n取得： 土地</Sand-SoilF.description>
-  <Sand-SoilF_Blueprint.label>沙地转土地 （蓝图）</Sand-SoilF_Blueprint.label>
-  <Sand-SoilF_Frame.label>沙地转土地 （建造中）</Sand-SoilF_Frame.label>
-  <Sand-SoilF_Frame.description>放置于： 沙地\n取得： 土地</Sand-SoilF_Frame.description>
-
-  <Gravel-SoilF.label>砂砾转土地</Gravel-SoilF.label>
-  <Gravel-SoilF.description>放置于： 砂砾\n取得： 土地</Gravel-SoilF.description>
-  <Gravel-SoilF_Blueprint.label>砂砾转土地 （蓝图）</Gravel-SoilF_Blueprint.label>
-  <Gravel-SoilF_Frame.label>砂砾转土地 （建造中）</Gravel-SoilF_Frame.label>
-  <Gravel-SoilF_Frame.description>放置于： 砂砾\n取得： 土地</Gravel-SoilF_Frame.description>
-
-  <PackedDirt-SoilF.label>压实泥土转土地</PackedDirt-SoilF.label>
-  <PackedDirt-SoilF.description>放置于： 压实泥土\n取得： 土地</PackedDirt-SoilF.description>
-  <PackedDirt-SoilF_Blueprint.label>压实泥土转土地 （蓝图）</PackedDirt-SoilF_Blueprint.label>
-  <PackedDirt-SoilF_Frame.label>压实泥土转土地 （建造中）</PackedDirt-SoilF_Frame.label>
-  <PackedDirt-SoilF_Frame.description>放置于： 压实泥土\n取得： 土地</PackedDirt-SoilF_Frame.description>
-
-  <SoilMarshy-SoilF.label>泥沼地转土地</SoilMarshy-SoilF.label>
-  <SoilMarshy-SoilF.description>放置于： 泥沼地\n取得： 土地</SoilMarshy-SoilF.description>
-  <SoilMarshy-SoilF_Blueprint.label>泥沼地转土地 （蓝图）</SoilMarshy-SoilF_Blueprint.label>
-  <SoilMarshy-SoilF_Frame.label>泥沼地转土地 （建造中）</SoilMarshy-SoilF_Frame.label>
-  <SoilMarshy-SoilF_Frame.description>放置于： 泥沼地\n取得： 土地</SoilMarshy-SoilF_Frame.description>
-
-  <Marsh-SoilMarshy.label>沼泽转泥沼地</Marsh-SoilMarshy.label>
-  <Marsh-SoilMarshy.description>放置于： 沼泽或泥地\n取得： 泥沼地</Marsh-SoilMarshy.description>
-  <Marsh-SoilMarshy_Blueprint.label>沼泽转泥沼地 （蓝图）</Marsh-SoilMarshy_Blueprint.label>
-  <Marsh-SoilMarshy_Frame.label>沼泽转泥沼地 （建造中）</Marsh-SoilMarshy_Frame.label>
-  <Marsh-SoilMarshy_Frame.description>放置于： 沼泽或泥地\n取得： 泥沼地</Marsh-SoilMarshy_Frame.description>
-
-  <SoilF-Marsh.label>土地转沼泽</SoilF-Marsh.label>
-  <SoilF-Marsh.description>放置于： 土地\n取得： 沼泽\n收集物：两堆土</SoilF-Marsh.description>
-  <SoilF-Marsh_Blueprint.label>土地转沼泽 （蓝图）</SoilF-Marsh_Blueprint.label>
-  <SoilF-Marsh_Frame.label>土地转沼泽 （建造中）</SoilF-Marsh_Frame.label>
-  <SoilF-Marsh_Frame.description>放置于： 土地\n取得： 沼泽\n收集物：两堆土</SoilF-Marsh_Frame.description>
-
-  <SoilMarshy-Marsh.label>泥沼地转沼泽</SoilMarshy-Marsh.label>
-  <SoilMarshy-Marsh.description>放置于： 泥沼地\n取得： 沼泽\n收集物：一堆土</SoilMarshy-Marsh.description>
-  <SoilMarshy-Marsh_Blueprint.label>泥沼地转沼泽 （蓝图）</SoilMarshy-Marsh_Blueprint.label>
-  <SoilMarshy-Marsh_Frame.label>泥沼地转沼泽 （建造中）</SoilMarshy-Marsh_Frame.label>
-  <SoilMarshy-Marsh_Frame.description>放置于： 泥沼地\n取得： 沼泽\n收集物：一堆土</SoilMarshy-Marsh_Frame.description>
-
-  <WaterShallow-Marsh.label>浅水转沼泽</WaterShallow-Marsh.label>
-  <WaterShallow-Marsh.description>放置于： 浅水\n取得： 沼泽</WaterShallow-Marsh.description>
-  <WaterShallow-Marsh_Blueprint.label>浅水转沼泽 （蓝图）</WaterShallow-Marsh_Blueprint.label>
-  <WaterShallow-Marsh_Frame.label>浅水转沼泽 （建造中）</WaterShallow-Marsh_Frame.label>
-  <WaterShallow-Marsh_Frame.description>放置于： 浅水\n取得： 沼泽</WaterShallow-Marsh_Frame.description>
-
-  <Sand-WaterShallow.label>沙地转浅水</Sand-WaterShallow.label>
-  <Sand-WaterShallow.description>放置于： 沙地 (靠近水边)\n取得： 浅水\n收集物：五堆沙</Sand-WaterShallow.description>
-  <Sand-WaterShallow_Blueprint.label>沙地转浅水 （蓝图）</Sand-WaterShallow_Blueprint.label>
-  <Sand-WaterShallow_Frame.label>沙地转浅水 （建造中）</Sand-WaterShallow_Frame.label>
-  <Sand-WaterShallow_Frame.description>放置于： 沙地 (靠近水边)\n取得： 浅水\n收集物：五堆沙</Sand-WaterShallow_Frame.description>
-
-  <Marsh-WaterShallow.label>沼泽转浅水</Marsh-WaterShallow.label>
-  <Marsh-WaterShallow.description>放置于： 浅水\n取得： 沼泽</Marsh-WaterShallow.description>
-  <Marsh-WaterShallow_Blueprint.label>沼泽转浅水 （蓝图）</Marsh-WaterShallow_Blueprint.label>
-  <Marsh-WaterShallow_Frame.label>沼泽转浅水 （建造中）</Marsh-WaterShallow_Frame.label>
-  <Marsh-WaterShallow_Frame.description>放置于： 浅水\n取得： 沼泽</Marsh-WaterShallow_Frame.description>
-
-  <WaterDeep-WaterShallow.label>深水转浅水</WaterDeep-WaterShallow.label>
-  <WaterDeep-WaterShallow.description>放置于： 深水\n取得： 浅水</WaterDeep-WaterShallow.description>
-  <WaterDeep-WaterShallow_Blueprint.label>深水转浅水 （蓝图）</WaterDeep-WaterShallow_Blueprint.label>
-  <WaterDeep-WaterShallow_Frame.label>深水转浅水 （建造中）</WaterDeep-WaterShallow_Frame.label>
-  <WaterDeep-WaterShallow_Frame.description>放置于： 深水\n取得： 浅水</WaterDeep-WaterShallow_Frame.description>
-
-  <Ice-WaterShallow.label>冰面转浅水</Ice-WaterShallow.label>
-  <Ice-WaterShallow.description>放置于： 冰面\n取得： 浅水</Ice-WaterShallow.description>
-  <Ice-WaterShallow_Blueprint.label>冰面转浅水 （蓝图）</Ice-WaterShallow_Blueprint.label>
-  <Ice-WaterShallow_Frame.label>冰面转浅水 （建造中）</Ice-WaterShallow_Frame.label>
-  <Ice-WaterShallow_Frame.description>放置于： 冰面\n取得： 浅水</Ice-WaterShallow_Frame.description>
-
-  <WaterShallow-WaterDeep.label>浅水转深水</WaterShallow-WaterDeep.label>
-  <WaterShallow-WaterDeep.description>放置于： 浅水\n取得： 深水\n收集物：十堆土\n\n注意: 放置在不可逾越的地形上时，有可能导致游戏错误。请谨慎使用！</WaterShallow-WaterDeep.description>
-  <WaterShallow-WaterDeep_Blueprint.label>浅水转深水 （蓝图）</WaterShallow-WaterDeep_Blueprint.label>
-  <WaterShallow-WaterDeep_Frame.label>浅水转深水 （建造中）</WaterShallow-WaterDeep_Frame.label>
-  <WaterShallow-WaterDeep_Frame.description>放置于： 浅水\n取得： 深水\n收集物：十堆土\n\n注意: 放置在不可逾越的地形上时，有可能导致游戏错误。请谨慎使用！</WaterShallow-WaterDeep_Frame.description>
+  <RockyDirt-Gravel.label>Gravel</RockyDirt-Gravel.label>
+  <RockyDirt-Gravel.description>↑ Rocky dirt\n\n↓ Gravel</RockyDirt-Gravel.description>
+  <RockyDirt-Gravel_Blueprint.label>Gravel (blueprint)</RockyDirt-Gravel_Blueprint.label>
+  <RockyDirt-Gravel_Frame.label>Gravel (building)</RockyDirt-Gravel_Frame.label>
+  <RockyDirt-Gravel_Frame.description>↑ Rocky dirt\n\n↓ Gravel</RockyDirt-Gravel_Frame.description>
 
 
-  <!-- Farming -->
+  <!-- –––––––––––––––––––––––––––––––––   Sand   ––––––––––––––––––––––––––––––––– -->
 
-  <Stone-Topsoil.label>表土</Stone-Topsoil.label>
-  <Stone-Topsoil.description>放置于： 打磨过的石面\n取得： 表土\n\n注意: 可用“移除地板”命令处理</Stone-Topsoil.description>
-  <Stone-Topsoil_Blueprint.label>表土 （蓝图）</Stone-Topsoil_Blueprint.label>
-  <Stone-Topsoil_Frame.label>表土 （建造中）</Stone-Topsoil_Frame.label>
-  <Stone-Topsoil_Frame.description>放置于： 打磨过的石面\n取得： 表土\n\n注意: 可用“移除地板”命令处理</Stone-Topsoil_Frame.description>
+  <Sand-RockyDirt.label>Rocky dirt</Sand-RockyDirt.label>
+  <Sand-RockyDirt.description>↑ Sand\n↑ Soft sand\n\n↓ Rocky dirt\n\n  ▪ 5 rubble\n  ▪ 10 dirt\n  ▪ 40 sand</Sand-RockyDirt.description>
+  <Sand-RockyDirt_Blueprint.label>Rocky dirt (blueprint)</Sand-RockyDirt_Blueprint.label>
+  <Sand-RockyDirt_Frame.label>Rocky dirt (building)</Sand-RockyDirt_Frame.label>
+  <Sand-RockyDirt_Frame.description>↑ Sand\n↑ Soft sand\n\n↓ Rocky dirt\n\n  ▪ 5 rubble\n  ▪ 10 dirt\n  ▪ 40 sand</Sand-RockyDirt_Frame.description>
 
-  <Topsoil-DirtFert.label>肥化表土</Topsoil-DirtFert.label>
-  <Topsoil-DirtFert.description>放置于： 表土\n取得： 肥化表土\n\n注意: 可用“移除地板”命令处理</Topsoil-DirtFert.description>
-  <Topsoil-DirtFert_Blueprint.label>肥化表土 （蓝图）</Topsoil-DirtFert_Blueprint.label>
-  <Topsoil-DirtFert_Frame.label>肥化表土 （建造中）</Topsoil-DirtFert_Frame.label>
-  <Topsoil-DirtFert_Frame.description>放置于： 表土\n取得： 肥化表土\n\n注意: 可用“移除地板”命令处理</Topsoil-DirtFert_Frame.description>
+  <Sand-Gravel.label>Gravel</Sand-Gravel.label>
+  <Sand-Gravel.description>↑ Sand \n\n↓ Gravel</Sand-Gravel.description>
+  <Sand-Gravel_Blueprint.label>Gravel (blueprint)</Sand-Gravel_Blueprint.label>
+  <Sand-Gravel_Frame.label>Gravel (building)</Sand-Gravel_Frame.label>
+  <Sand-Gravel_Frame.description>↑ Sand \n\n↓ Gravel</Sand-Gravel_Frame.description>
 
-  <SoilF-SoilRich.label>土地转肥沃土地</SoilF-SoilRich.label>
-  <SoilF-SoilRich.description>放置于： 土地或苔藓地\n取得： 肥沃土地</SoilF-SoilRich.description>
-  <SoilF-SoilRich_Blueprint.label>土地转肥沃土地 （蓝图）</SoilF-SoilRich_Blueprint.label>
-  <SoilF-SoilRich_Frame.label>土地转肥沃土地 （建造中）</SoilF-SoilRich_Frame.label>
-  <SoilF-SoilRich_Frame.description>放置于： 土地或苔藓地\n取得： 肥沃土地</SoilF-SoilRich_Frame.description>
+  <Sand-SoilF.label>Soil</Sand-SoilF.label>
+  <Sand-SoilF.description>↑ Sand \n\n↓ Soil</Sand-SoilF.description>
+  <Sand-SoilF_Blueprint.label>Soil (blueprint)</Sand-SoilF_Blueprint.label>
+  <Sand-SoilF_Frame.label>Soil (building)</Sand-SoilF_Frame.label>
+  <Sand-SoilF_Frame.description>↑ Sand \n\n↓ Soil</Sand-SoilF_Frame.description>
 
-  <SoilRich-SoilTilled.label>精耕土地</SoilRich-SoilTilled.label>
-  <SoilRich-SoilTilled.description>放置于： 肥沃土地\n取得： 精耕土地\n\n注意: 可用“移除地板”命令处理</SoilRich-SoilTilled.description>
-  <SoilRich-SoilTilled_Blueprint.label>精耕土地 （蓝图）</SoilRich-SoilTilled_Blueprint.label>
-  <SoilRich-SoilTilled_Frame.label>精耕土地 （建造中）</SoilRich-SoilTilled_Frame.label>
-  <SoilRich-SoilTilled_Frame.description>放置于： 肥沃土地\n取得： 精耕土地\n\n注意: 可用“移除地板”命令处理</SoilRich-SoilTilled_Frame.description>
+  <Sand-WaterShallow.label>Shallow water</Sand-WaterShallow.label>
+  <Sand-WaterShallow.description>↑ Sand (near water)\n\n↓ Shallow water\n\n  ▪ 10 rubble\n  ▪ 10 dirt\n  ▪ 20 clay\n  ▪ 80 sand</Sand-WaterShallow.description>
+  <Sand-WaterShallow_Blueprint.label>Shallow water (blueprint)</Sand-WaterShallow_Blueprint.label>
+  <Sand-WaterShallow_Frame.label>Shallow water (building)</Sand-WaterShallow_Frame.label>
+  <Sand-WaterShallow_Frame.description>↑ Sand (near water)\n\n↓ Shallow water\n\n  ▪ 10 rubble\n  ▪ 10 dirt\n  ▪ 20 clay\n  ▪ 80 sand</Sand-WaterShallow_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Gravel   ––––––––––––––––––––––––––––––––– -->
+
+  <Gravel-RockyDirt.label>Rocky dirt</Gravel-RockyDirt.label>
+  <Gravel-RockyDirt.description>↑ Gravel \n\n↓ Rocky dirt\n\n  ▪ 30 rubble\n  ▪ 8 dirt\n  ▪ 8 sand</Gravel-RockyDirt.description>
+  <Gravel-RockyDirt_Blueprint.label>Rocky dirt (blueprint)</Gravel-RockyDirt_Blueprint.label>
+  <Gravel-RockyDirt_Frame.label>Rocky dirt (building)</Gravel-RockyDirt_Frame.label>
+  <Gravel-RockyDirt_Frame.description>↑ Gravel \n\n↓ Rocky dirt\n\n  ▪ 30 rubble\n  ▪ 8 dirt\n  ▪ 8 sand</Gravel-RockyDirt_Frame.description>
+
+  <Gravel-Sand.label>Sand</Gravel-Sand.label>
+  <Gravel-Sand.description>↑ Gravel \n\n↓ Sand\n\n  ▪ 50 rubble\n  ▪ 10 dirt</Gravel-Sand.description>
+  <Gravel-Sand_Blueprint.label>Sand (blueprint)</Gravel-Sand_Blueprint.label>
+  <Gravel-Sand_Frame.label>Sand (building)</Gravel-Sand_Frame.label>
+  <Gravel-Sand_Frame.description>↑ Gravel \n\n↓ Sand\n\n  ▪ 50 rubble\n  ▪ 10 dirt</Gravel-Sand_Frame.description>
+
+  <Gravel-SoilF.label>Soil</Gravel-SoilF.label>
+  <Gravel-SoilF.description>↑ Gravel\n\n↓ Soil</Gravel-SoilF.description>
+  <Gravel-SoilF_Blueprint.label>Soil (blueprint)</Gravel-SoilF_Blueprint.label>
+  <Gravel-SoilF_Frame.label>Soil (building)</Gravel-SoilF_Frame.label>
+  <Gravel-SoilF_Frame.description>↑ Gravel\n\n↓ Soil</Gravel-SoilF_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Soil   ––––––––––––––––––––––––––––––––– -->
+
+  <SoilF-RockyDirt.label>Rocky dirt</SoilF-RockyDirt.label>
+  <SoilF-RockyDirt.description>↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n↑ Poor soil \n\n↓ Rocky dirt\n\n  ▪ 10 rubble\n  ▪ 45 dirt\n  ▪ 10 clay\n  ▪ 5 peat\n  ▪ 15 sand\n  ▪ 2 fertilizer</SoilF-RockyDirt.description>
+  <SoilF-RockyDirt_Blueprint.label>Rocky dirt (blueprint)</SoilF-RockyDirt_Blueprint.label>
+  <SoilF-RockyDirt_Frame.label>Rocky dirt (building)</SoilF-RockyDirt_Frame.label>
+  <SoilF-RockyDirt_Frame.description>↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n↑ Poor soil \n\n↓ Rocky dirt\n\n  ▪ 10 rubble\n  ▪ 45 dirt\n  ▪ 10 clay\n  ▪ 5 peat\n  ▪ 15 sand\n  ▪ 2 fertilizer</SoilF-RockyDirt_Frame.description>
+
+  <SoilF-Sand.label>Sand</SoilF-Sand.label>
+  <SoilF-Sand.description>↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n↑ Dusty soil \n↑ Poor soil \n\n↓ Sand\n\n  ▪ 20 rubble\n  ▪ 50 dirt\n  ▪ 20 clay\n  ▪ 15 peat\n  ▪ 4 fertilizer</SoilF-Sand.description>
+  <SoilF-Sand_Blueprint.label>Sand (blueprint)</SoilF-Sand_Blueprint.label>
+  <SoilF-Sand_Frame.label>Sand (building)</SoilF-Sand_Frame.label>
+  <SoilF-Sand_Frame.description>↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n↑ Dusty soil \n↑ Poor soil \n\n↓ Sand\n\n  ▪ 20 rubble\n  ▪ 50 dirt\n  ▪ 20 clay\n  ▪ 15 peat\n  ▪ 4 fertilizer</SoilF-Sand_Frame.description>
+
+  <SoilF-Gravel.label>Gravel</SoilF-Gravel.label>
+  <SoilF-Gravel.description>↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n\n↓ Gravel\n\n  ▪ 30 dirt\n  ▪ 20 clay\n  ▪ 5 peat\n  ▪ 10 sand</SoilF-Gravel.description>
+  <SoilF-Gravel_Blueprint.label>Gravel (blueprint)</SoilF-Gravel_Blueprint.label>
+  <SoilF-Gravel_Frame.label>Gravel (building)</SoilF-Gravel_Frame.label>
+  <SoilF-Gravel_Frame.description>↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n\n↓ Gravel\n\n  ▪ 30 dirt\n  ▪ 20 clay\n  ▪ 5 peat\n  ▪ 10 sand</SoilF-Gravel_Frame.description>
+
+  <SoilF-Marsh.label>Marshy soil</SoilF-Marsh.label>
+  <SoilF-Marsh.description>↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n\n↓ Marshy soil\n\n  ▪ 10 rubble\n  ▪ 30 dirt\n  ▪ 30 clay\n  ▪ 5 peat\n  ▪ 20 sand\n  ▪ 2 fertilizer</SoilF-Marsh.description>
+  <SoilF-Marsh_Blueprint.label>Marshy soil (blueprint)</SoilF-Marsh_Blueprint.label>
+  <SoilF-Marsh_Frame.label>Marshy soil (building)</SoilF-Marsh_Frame.label>
+  <SoilF-Marsh_Frame.description>↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n\n↓ Marshy soil\n\n  ▪ 10 rubble\n  ▪ 30 dirt\n  ▪ 30 clay\n  ▪ 5 peat\n  ▪ 20 sand\n  ▪ 2 fertilizer</SoilF-Marsh_Frame.description>
+
+  <SoilF-PackedDirt.label>Packed dirt</SoilF-PackedDirt.label>
+  <SoilF-PackedDirt.description>↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Lichen-covered dirt\n\n↓ Packed dirt</SoilF-PackedDirt.description>
+  <SoilF-PackedDirt_Blueprint.label>Packed dirt (blueprint)</SoilF-PackedDirt_Blueprint.label>
+  <SoilF-PackedDirt_Frame.label>Packed dirt (building)</SoilF-PackedDirt_Frame.label>
+  <SoilF-PackedDirt_Frame.description>↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Lichen-covered dirt\n\n↓ Packed dirt</SoilF-PackedDirt_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Shallow Water   ––––––––––––––––––––––––––––––––– -->
+
+  <WaterShallow-Sand.label>Sand</WaterShallow-Sand.label>
+  <WaterShallow-Sand.description>↑ Shallow Water\n\n↓ Sand</WaterShallow-Sand.description>
+  <WaterShallow-Sand_Blueprint.label>Sand (blueprint)</WaterShallow-Sand_Blueprint.label>
+  <WaterShallow-Sand_Frame.label>Sand (building)</WaterShallow-Sand_Frame.label>
+  <WaterShallow-Sand_Frame.description>↑ Shallow Water\n\n↓ Sand</WaterShallow-Sand_Frame.description>
+
+  <WaterShallow-Marsh.label>Marsh</WaterShallow-Marsh.label>
+  <WaterShallow-Marsh.description>↑ Shallow water\n\n↓ Marsh</WaterShallow-Marsh.description>
+  <WaterShallow-Marsh_Blueprint.label>Marsh (blueprint)</WaterShallow-Marsh_Blueprint.label>
+  <WaterShallow-Marsh_Frame.label>Marsh (building)</WaterShallow-Marsh_Frame.label>
+  <WaterShallow-Marsh_Frame.description>↑ Shallow water\n\n↓ Marsh</WaterShallow-Marsh_Frame.description>
+
+  <WaterShallow-WaterDeep.label>Deep water</WaterShallow-WaterDeep.label>
+  <WaterShallow-WaterDeep.description>↑ Shallow water\n\n↓ Deep water\n\n  ▪ 5 rubble\n  ▪ 70 dirt\n  ▪ 70 clay\n  ▪ 40 peat\n  ▪ 120 sand\n\n► Placing impassable terrain on the map is overpowered and potentially game-breaking. Use with caution!</WaterShallow-WaterDeep.description>
+  <WaterShallow-WaterDeep_Blueprint.label>Deep water (blueprint)</WaterShallow-WaterDeep_Blueprint.label>
+  <WaterShallow-WaterDeep_Frame.label>Deep water (building)</WaterShallow-WaterDeep_Frame.label>
+  <WaterShallow-WaterDeep_Frame.description>↑ Shallow water\n\n↓ Deep water\n\n  ▪ 5 rubble\n  ▪ 70 dirt\n  ▪ 70 clay\n  ▪ 40 peat\n  ▪ 120 sand\n\n► Placing impassable terrain on the map is overpowered and potentially game-breaking. Use with caution!</WaterShallow-WaterDeep_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Marshy soil   ––––––––––––––––––––––––––––––––– -->
+
+  <SoilMarshy-SoilF.label>Soil</SoilMarshy-SoilF.label>
+  <SoilMarshy-SoilF.description>↑ Marshy soil\n\n↓ Soil</SoilMarshy-SoilF.description>
+  <SoilMarshy-SoilF_Blueprint.label>Soil (blueprint)</SoilMarshy-SoilF_Blueprint.label>
+  <SoilMarshy-SoilF_Frame.label>Soil (building)</SoilMarshy-SoilF_Frame.label>
+  <SoilMarshy-SoilF_Frame.description>↑ Marshy soil\n\n↓ Soil</SoilMarshy-SoilF_Frame.description>
+
+  <SoilMarshy-RockyDirt.label>Rocky dirt</SoilMarshy-RockyDirt.label>
+  <SoilMarshy-RockyDirt.description>↑ Marshy soil\n\n↓ Rocky dirt\n\n  ▪ 15 rubble\n  ▪ 30 dirt\n  ▪ 5 clay\n  ▪ 5 peat\n  ▪ 25 sand\n  ▪ 2 Fertilizer</SoilMarshy-RockyDirt.description>
+  <SoilMarshy-RockyDirt_Blueprint.label>Rocky dirt (blueprint)</SoilMarshy-RockyDirt_Blueprint.label>
+  <SoilMarshy-RockyDirt_Frame.label>Rocky dirt (building)</SoilMarshy-RockyDirt_Frame.label>
+  <SoilMarshy-RockyDirt_Frame.description>↑ Marshy soil\n\n↓ Rocky dirt\n\n  ▪ 15 rubble\n  ▪ 30 dirt\n  ▪ 5 clay\n  ▪ 5 peat\n  ▪ 25 sand\n  ▪ 2 Fertilizer</SoilMarshy-RockyDirt_Frame.description>
+
+  <SoilMarshy-Marsh.label>Marsh</SoilMarshy-Marsh.label>
+  <SoilMarshy-Marsh.description>↑ Marshy soil\n\n↓ Marsh\n\n  ▪ 15 dirt\n  ▪ 20 clay\n  ▪ 20 peat\n  ▪ 5 sand\n  ▪ 4 Fertilizer</SoilMarshy-Marsh.description>
+  <SoilMarshy-Marsh_Blueprint.label>Marsh (blueprint)</SoilMarshy-Marsh_Blueprint.label>
+  <SoilMarshy-Marsh_Frame.label>Marsh (building)</SoilMarshy-Marsh_Frame.label>
+  <SoilMarshy-Marsh_Frame.description>↑ Marshy soil\n\n↓ Marsh\n\n  ▪ 15 dirt\n  ▪ 20 clay\n  ▪ 20 peat\n  ▪ 5 sand\n  ▪ 4 Fertilizer</SoilMarshy-Marsh_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Marsh   ––––––––––––––––––––––––––––––––– -->
+
+  <Marsh-SoilMarshy.label>Marshy soil</Marsh-SoilMarshy.label>
+  <Marsh-SoilMarshy.description>↑ Marsh\n↑ Mud\n\n↓ Marshy soil</Marsh-SoilMarshy.description>
+  <Marsh-SoilMarshy_Blueprint.label>Marshy soil (blueprint)</Marsh-SoilMarshy_Blueprint.label>
+  <Marsh-SoilMarshy_Frame.label>Marshy soil (building)</Marsh-SoilMarshy_Frame.label>
+  <Marsh-SoilMarshy_Frame.description>↑ Marsh\n↑ Mud\n\n↓ Marshy soil</Marsh-SoilMarshy_Frame.description>
+
+  <Marsh-WaterShallow.label>Shallow water</Marsh-WaterShallow.label>
+  <Marsh-WaterShallow.description>↑ Shallow water\n\n↓ Marsh\n\n  ▪ 20 rubble\n  ▪ 20 dirt\n  ▪ 10 clay\n  ▪ 15 peat\n  ▪ 10 sand\n  ▪ 4 Fertilizer</Marsh-WaterShallow.description>
+  <Marsh-WaterShallow_Blueprint.label>Shallow water (blueprint)</Marsh-WaterShallow_Blueprint.label>
+  <Marsh-WaterShallow_Frame.label>Shallow water (building)</Marsh-WaterShallow_Frame.label>
+  <Marsh-WaterShallow_Frame.description>↑ Shallow water\n\n↓ Marsh\n\n  ▪ 20 rubble\n  ▪ 20 dirt\n  ▪ 10 clay\n  ▪ 15 peat\n  ▪ 10 sand\n  ▪ 4 Fertilizer</Marsh-WaterShallow_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Cultivation   ––––––––––––––––––––––––––––––––– -->
+
+  <PoorSoil-MarginalSoil.label>Poor soil ► Marginal soil</PoorSoil-MarginalSoil.label>
+  <PoorSoil-MarginalSoil.description>↑ Poor soil\n\n↓ Marginal soil</PoorSoil-MarginalSoil.description>
+  <PoorSoil-MarginalSoil_Blueprint.label>Poor soil ► Marginal soil (blueprint)</PoorSoil-MarginalSoil_Blueprint.label>
+  <PoorSoil-MarginalSoil_Frame.label>Poor soil ► Marginal soil (building)</PoorSoil-MarginalSoil_Frame.label>
+  <PoorSoil-MarginalSoil_Frame.description>↑ Poor soil\n\n↓ Marginal soil</PoorSoil-MarginalSoil_Frame.description>
+
+  <MarginalSoil-Soil.label>Marginal soil ► Soil</MarginalSoil-Soil.label>
+  <MarginalSoil-Soil.description>↑ Marginal soil\n↑ Savanna soil\n↑ Reclaimed soil\n\n↓ Soil</MarginalSoil-Soil.description>
+  <MarginalSoil-Soil_Blueprint.label>Marginal soil ► Soil (blueprint)</MarginalSoil-Soil_Blueprint.label>
+  <MarginalSoil-Soil_Frame.label>Marginal soil ► Soil (building)</MarginalSoil-Soil_Frame.label>
+  <MarginalSoil-Soil_Frame.description>↑ Marginal soil\n↑ Savanna soil\n↑ Reclaimed soil\n\n↓ Soil</MarginalSoil-Soil_Frame.description>
+
+  <LichenCoveredDirt-Soil.label>Lichen-covered dirt ► Soil</LichenCoveredDirt-Soil.label>
+  <LichenCoveredDirt-Soil.description>↑ Lichen-covered dirt\n\n↓ Soil</LichenCoveredDirt-Soil.description>
+  <LichenCoveredDirt-Soil_Blueprint.label>Lichen-covered dirt ► Soil (blueprint)</LichenCoveredDirt-Soil_Blueprint.label>
+  <LichenCoveredDirt-Soil_Frame.label>Lichen-covered dirt ► Soil (building)</LichenCoveredDirt-Soil_Frame.label>
+  <LichenCoveredDirt-Soil_Frame.description>↑ Lichen-covered dirt\n\n↓ Soil</LichenCoveredDirt-Soil_Frame.description>
+
+  <PackedDirt-SoilF.label>Packed dirt ► Soil</PackedDirt-SoilF.label>
+  <PackedDirt-SoilF.description>↑ Packed dirt\n\n↓ Soil</PackedDirt-SoilF.description>
+  <PackedDirt-SoilF_Blueprint.label>Packed dirt ► Soil (blueprint)</PackedDirt-SoilF_Blueprint.label>
+  <PackedDirt-SoilF_Frame.label>Packed dirt ► Soil (building)</PackedDirt-SoilF_Frame.label>
+  <PackedDirt-SoilF_Frame.description>↑ Packed dirt\n\n↓ Soil</PackedDirt-SoilF_Frame.description>
+
+  <Stone-Topsoil.label>Stone ► Topsoil</Stone-Topsoil.label>
+  <Stone-Topsoil.description>↑ Smooth stone\n\n↓ Topsoil\n\n► Topsoil can be removed with the "Remove Floor" tool.</Stone-Topsoil.description>
+  <Stone-Topsoil_Blueprint.label>Stone ► Topsoil (blueprint)</Stone-Topsoil_Blueprint.label>
+  <Stone-Topsoil_Frame.label>Stone ► Topsoil (building)</Stone-Topsoil_Frame.label>
+  <Stone-Topsoil_Frame.description>↑ Smooth stone\n\n↓ Topsoil\n\n► Topsoil can be removed with the "Remove Floor" tool.</Stone-Topsoil_Frame.description>
+
+  <Topsoil-DirtFert.label>Fertilized topsoil</Topsoil-DirtFert.label>
+  <Topsoil-DirtFert.description>↑ Topsoil\n\n↓ Fertilized topsoil\n\n► Fertilized topsoil can be removed with the "Remove Floor" tool.</Topsoil-DirtFert.description>
+  <Topsoil-DirtFert_Blueprint.label>Fertilized topsoil (blueprint)</Topsoil-DirtFert_Blueprint.label>
+  <Topsoil-DirtFert_Frame.label>Fertilized topsoil (building)</Topsoil-DirtFert_Frame.label>
+  <Topsoil-DirtFert_Frame.description>↑ Topsoil\n\n↓ Fertilized topsoil\n\n► Fertilized topsoil can be removed with the "Remove Floor" tool.</Topsoil-DirtFert_Frame.description>
+
+  <SoilF-SoilRich.label>Rich soil</SoilF-SoilRich.label>
+  <SoilF-SoilRich.description>↑ Soil\n↑ Lichen-covered dirt\n\n↓ Rich soil</SoilF-SoilRich.description>
+  <SoilF-SoilRich_Blueprint.label>Rich soil (blueprint)</SoilF-SoilRich_Blueprint.label>
+  <SoilF-SoilRich_Frame.label>Rich soil (building)</SoilF-SoilRich_Frame.label>
+  <SoilF-SoilRich_Frame.description>↑ Soil\n↑ Lichen-covered dirt\n\n↓ Rich soil</SoilF-SoilRich_Frame.description>
+
+  <SoilRich-SoilTilled.label>Plowed soil</SoilRich-SoilTilled.label>
+  <SoilRich-SoilTilled.description>↑ Rich soil\n↑ Fertilized topsoil\n\n↓ Plowed soil\n\n► Plowed soil can be removed with the "Remove Floor" tool.</SoilRich-SoilTilled.description>
+  <SoilRich-SoilTilled_Blueprint.label>Plowed soil (blueprint)</SoilRich-SoilTilled_Blueprint.label>
+  <SoilRich-SoilTilled_Frame.label>Plowed soil (building)</SoilRich-SoilTilled_Frame.label>
+  <SoilRich-SoilTilled_Frame.description>↑ Rich soil\n↑ Fertilized topsoil\n\n↓ Plowed soil\n\n► Plowed soil can be removed with the "Remove Floor" tool.</SoilRich-SoilTilled_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Misc   ––––––––––––––––––––––––––––––––– -->
+
+  <Stone-RockyDirt.label>Stone ► Rocky dirt</Stone-RockyDirt.label>
+  <Stone-RockyDirt.description>↑ Rough or Smooth stone\n\n↓ Rocky dirt\n\n  ▪ Rock chunk (sometimes)</Stone-RockyDirt.description>
+  <Stone-RockyDirt_Blueprint.label>Stone ► Rocky dirt (blueprint)</Stone-RockyDirt_Blueprint.label>
+  <Stone-RockyDirt_Frame.label>Stone ► Rocky dirt (building)</Stone-RockyDirt_Frame.label>
+  <Stone-RockyDirt_Frame.description>↑ Rough or Smooth stone\n\n↓ Rocky dirt\n\n  ▪ Rock chunk (sometimes)</Stone-RockyDirt_Frame.description>
+
+  <Wasteland-Gravel.label>Wasteland ► Gravel</Wasteland-Gravel.label>
+  <Wasteland-Gravel.description>↑ Wasteland radiated terrain\n\n↓ Gravel</Wasteland-Gravel.description>
+  <Wasteland-Gravel_Blueprint.label>Wasteland ► Gravel (blueprint)</Wasteland-Gravel_Blueprint.label>
+  <Wasteland-Gravel_Frame.label>Wasteland ► Gravel (building)</Wasteland-Gravel_Frame.label>
+  <Wasteland-Gravel_Frame.description>↑ Wasteland radiated terrain\n\n↓ Gravel</Wasteland-Gravel_Frame.description>
+
+  <WaterDeep-WaterShallow.label>Deep water ► Shallow water</WaterDeep-WaterShallow.label>
+  <WaterDeep-WaterShallow.description>↑ Deep water\n\n↓ Shallow water</WaterDeep-WaterShallow.description>
+  <WaterDeep-WaterShallow_Blueprint.label>Deep water ► Shallow water (blueprint)</WaterDeep-WaterShallow_Blueprint.label>
+  <WaterDeep-WaterShallow_Frame.label>Deep water ► Shallow water (building)</WaterDeep-WaterShallow_Frame.label>
+  <WaterDeep-WaterShallow_Frame.description>↑ Deep water\n\n↓ Shallow water</WaterDeep-WaterShallow_Frame.description>
+
+  <Ice-WaterShallow.label>Ice ► Shallow water</Ice-WaterShallow.label>
+  <Ice-WaterShallow.description>↑ Ice\n\n↓ Shallow water</Ice-WaterShallow.description>
+  <Ice-WaterShallow_Blueprint.label>Ice ► Shallow water (blueprint)</Ice-WaterShallow_Blueprint.label>
+  <Ice-WaterShallow_Frame.label>Ice ► Shallow water (building)</Ice-WaterShallow_Frame.label>
+  <Ice-WaterShallow_Frame.description>↑ Ice\n\n↓ Shallow water</Ice-WaterShallow_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Peat,Clay,rubble and Sand   ––––––––––––––––––––––––––––––––– -->
+
+  <Peat-WaterShallow.label>Peat from soil</Peat-WaterShallow.label>
+  <Peat-WaterShallow.description>↑ Lichen-covered dirt\n↑ Marsh\n↑ Mud\n\n↓ Shallow water\n\n  ▪ 5 rubble\n  ▪ 10 dirt\n  ▪ 15 clay\n  ▪ 20 peat\n  ▪ 5 sand</Peat-WaterShallow.description>
+  <Peat-WaterShallow_Blueprint.label>Peat from soil (blueprint)</Peat-WaterShallow_Blueprint.label>
+  <Peat-WaterShallow_Frame.label>Peat from soil (building)</Peat-WaterShallow_Frame.label>
+  <Peat-WaterShallow_Frame.description>↑ Lichen-covered dirt\n↑ Marsh\n↑ Mud\n\n↓ Shallow water\n\n  ▪ 5 rubble\n  ▪ 10 dirt\n  ▪ 15 clay\n  ▪ 20 peat\n  ▪ 5 sand</Peat-WaterShallow_Frame.description>
+
+  <Peat-SoilRich.label>Peat from rich soil</Peat-SoilRich.label>
+  <Peat-SoilRich.description>↑ Rich soil\n↑ Lichen-covered dirt\n\n↓ Rocky soil\n\n  ▪ 10 rubble\n  ▪ 20 dirt\n  ▪ 5 clay\n  ▪ 15 peat\n  ▪ 15 sand</Peat-SoilRich.description>
+  <Peat-SoilRich_Blueprint.label>Peat from rich soil (blueprint)</Peat-SoilRich_Blueprint.label>
+  <Peat-SoilRich_Frame.label>Peat from rich soil (building)</Peat-SoilRich_Frame.label>
+  <Peat-SoilRich_Frame.description>↑ Rich soil\n↑ Lichen-covered dirt\n\n↓ Rocky soil\n\n  ▪ 10 rubble\n  ▪ 20 dirt\n  ▪ 5 clay\n  ▪ 15 peat\n  ▪ 15 sand</Peat-SoilRich_Frame.description>
+
+  <Peat-SavannaSoil.label>Peat from savanna soil</Peat-SavannaSoil.label>
+  <Peat-SavannaSoil.description>↑ Marginal soil\n↑ Savanna soil\n\n↓ Rocky soil\n\n  ▪ 5 rubble\n  ▪ 10 dirt\n  ▪ 15 clay\n  ▪ 10 peat\n  ▪ 5 sand</Peat-SavannaSoil.description>
+  <Peat-SavannaSoil_Blueprint.label>Peat from savanna soil (blueprint)</Peat-SavannaSoil_Blueprint.label>
+  <Peat-SavannaSoil_Frame.label>Peat from savanna soil (building)</Peat-SavannaSoil_Frame.label>
+  <Peat-SavannaSoil_Frame.description>↑ Marginal soil\n↑ Savanna soil\n\n↓ Rocky soil\n\n  ▪ 5 rubble\n  ▪ 10 dirt\n  ▪ 15 clay\n  ▪ 10 peat\n  ▪ 5 sand</Peat-SavannaSoil_Frame.description>
+
+  <SoftClay-WaterShallow.label>Clay from swamps</SoftClay-WaterShallow.label>
+  <SoftClay-WaterShallow.description>↑ Marshy terrain\n↑ Marsh\n↑ Mud\n\n↓ Shallow water\n\n  ▪ 10 dirt\n  ▪ 50 clay\n  ▪ 5 peat\n  ▪ 20 sand</SoftClay-WaterShallow.description>
+  <SoftClay-WaterShallow_Blueprint.label>Clay from swamps (blueprint)</SoftClay-WaterShallow_Blueprint.label>
+  <SoftClay-WaterShallow_Frame.label>Clay from swamps (building)</SoftClay-WaterShallow_Frame.label>
+  <SoftClay-WaterShallow_Frame.description>↑ Marshy terrain\n↑ Marsh\n↑ Mud\n\n↓ Shallow water\n\n  ▪ 10 dirt\n  ▪ 50 clay\n  ▪ 5 peat\n  ▪ 20 sand</SoftClay-WaterShallow_Frame.description>
+
+  <SoftClay-SoilRich.label>Clay from rich soil</SoftClay-SoilRich.label>
+  <SoftClay-SoilRich.description>↑ Rich soil\n↑ Lichen-covered dirt\n\n↓ Rocky dirt\n\n  ▪ 10 rubble\n  ▪ 10 dirt\n  ▪ 30 clay\n  ▪ 5 peat\n  ▪ 10 sand</SoftClay-SoilRich.description>
+  <SoftClay-SoilRich_Blueprint.label>Clay from rich soil (blueprint)</SoftClay-SoilRich_Blueprint.label>
+  <SoftClay-SoilRich_Frame.label>Clay from rich soil (building)</SoftClay-SoilRich_Frame.label>
+  <SoftClay-SoilRich_Frame.description>↑ Rich soil\n↑ Lichen-covered dirt\n\n↓ Rocky dirt\n\n  ▪ 10 rubble\n  ▪ 10 dirt\n  ▪ 30 clay\n  ▪ 5 peat\n  ▪ 10 sand</SoftClay-SoilRich_Frame.description>
 
 
 </LanguageData>

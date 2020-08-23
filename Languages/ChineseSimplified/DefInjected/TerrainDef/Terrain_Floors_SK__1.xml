@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Outside Tile -->
+
+  <Concrete.label>混凝土地面</Concrete.label>
+  <Concrete.description>迅速浇灌的混凝土。在上面走很迅速，但是比较难看。你需要把地面挖开才能浇灌混凝土。
+美观： 2。</Concrete.description>
+
+  <DarkConcrete.label>暗色混凝土</DarkConcrete.label>
+  <DarkConcrete.description>迅速浇灌的混凝土。在上面走很迅速，但是比较难看。你需要把地面挖开才能浇灌混凝土。 
+美观： 2。</DarkConcrete.description>
+
+  <CeramicTile.label>瓷砖</CeramicTile.label>
+  <CeramicTile.description>又小又白的瓷砖块。在上面没有移动力惩罚。
+美观： 3。</CeramicTile.description>
+
+  <PavedTile.label>铺装地砖</PavedTile.label>
+  <PavedTile.description>实用的混凝土地砖。在上面没有移动力惩罚。
+美观： 3。</PavedTile.description>
+
+
+  <!-- Tile stone -->
+
+  <TileSandstone.label>砂岩地砖</TileSandstone.label>
+  <TileSandstone.description>坚固的石质地砖给人以城堡一样的感觉。
+美观： 2。</TileSandstone.description>
+
+  <TileGranite.label>花岗岩地砖</TileGranite.label>
+  <TileGranite.description>坚固的石质地砖给人以城堡一样的感觉。
+美观： 2。</TileGranite.description>
+
+  <TileLimestone.label>石灰岩地砖</TileLimestone.label>
+  <TileLimestone.description>坚固的石质地砖给人以城堡一样的感觉。
+美观： 2。</TileLimestone.description>
+
+  <TileSlate.label>板岩地砖</TileSlate.label>
+  <TileSlate.description>坚固的石质地砖给人以城堡一样的感觉。
+美观： 2。</TileSlate.description>
+
+  <TileMarble.label>大理石地砖</TileMarble.label>
+  <TileMarble.description>坚固的石质地砖给人以城堡一样的感觉。
+美观： 2。</TileMarble.description>
+
+  <TileCeramics.label>陶瓷瓷砖</TileCeramics.label>
+  <TileCeramics.description>坚固的石质地砖给人以城堡一样的感觉。
+美观： 2。</TileCeramics.description>
+
+
+  <!-- Rough Sandstone -->
+
+  <RoughSandstoneFloor.label>粗糙的砂岩</RoughSandstoneFloor.label>
+  <RoughSandstoneFloor.description>粗糙坎凿、杂乱无章的岩面。
+美观： -1。</RoughSandstoneFloor.description>
+
+
+  <!-- Rough Granite -->
+
+  <RoughGraniteFloor.label>粗糙的花岗岩</RoughGraniteFloor.label>
+  <RoughGraniteFloor.description>粗糙坎凿、杂乱无章的岩面。
+美观： -1。</RoughGraniteFloor.description>
+
+
+  <!-- Rough Limestone -->
+
+  <RoughLimestoneFloor.label>粗糙的石灰岩</RoughLimestoneFloor.label>
+  <RoughLimestoneFloor.description>粗糙坎凿、杂乱无章的岩面。
+美观： -1。</RoughLimestoneFloor.description>
+
+
+  <!-- Rough Slate -->
+
+  <RoughSlateFloor.label>粗糙的板岩</RoughSlateFloor.label>
+  <RoughSlateFloor.description>粗糙坎凿、杂乱无章的岩面。
+美观： -1。</RoughSlateFloor.description>
+
+
+  <!-- Rough Marble -->
+
+  <RoughMarbleFloor.label>粗糙的大理石</RoughMarbleFloor.label>
+  <RoughMarbleFloor.description>粗糙坎凿、杂乱无章的岩面。
+美观： -1。</RoughMarbleFloor.description>
+
+
+  <!-- Rough Ceramics -->
+
+  <RoughCeramicsFloor.label>粗糙的瓷砖</RoughCeramicsFloor.label>
+  <RoughCeramicsFloor.description>粗糙坎凿、杂乱无章的岩面。
+美观： -1。</RoughCeramicsFloor.description>
+
+
+</LanguageData>

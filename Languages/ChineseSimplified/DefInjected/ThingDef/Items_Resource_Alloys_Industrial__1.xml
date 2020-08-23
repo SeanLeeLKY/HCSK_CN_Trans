@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Manganese.label>锰合金</Manganese.label>
+  
+
+  <Chromium.label>铬合金</Chromium.label>
+  
+
+  <NickelBar.label>镍合金</NickelBar.label>
+  
+
+  <Cobalt.label>钴合金</Cobalt.label>
+  
+
+  <AluminiumBar.label>铝合金</AluminiumBar.label>
+  
+  <AluminiumBar.stuffProps.stuffAdjective>铝合金</AluminiumBar.stuffProps.stuffAdjective>
+
+  <Plasteel.label>钢铁</Plasteel.label>
+  
+  <Plasteel.stuffProps.stuffAdjective>钢铁</Plasteel.stuffProps.stuffAdjective>
+
+  <FerrosiliconAlloy.label>斯特合金（铁硅铝磁合金）</FerrosiliconAlloy.label>
+  
+  <FerrosiliconAlloy.stuffProps.stuffAdjective>斯特合金</FerrosiliconAlloy.stuffProps.stuffAdjective>
+
+  <CupronickelAlloy.label>梅尔基奥合金（铜镍铝合金）</CupronickelAlloy.label>
+  
+  <CupronickelAlloy.stuffProps.stuffAdjective>梅尔基奥合金</CupronickelAlloy.stuffProps.stuffAdjective>
+
+  <SteelBar.label>斯坦合金</SteelBar.label>
+ 
+  <SteelBar.stuffProps.stuffAdjective>斯坦合金</SteelBar.stuffProps.stuffAdjective>
+
+  <AlnicoAlloy.label>亚力可合金（铝镍钴合金）</AlnicoAlloy.label>
+  
+  <AlnicoAlloy.stuffProps.stuffAdjective>亚力可合金</AlnicoAlloy.stuffProps.stuffAdjective>
+
+  <DepletedUranium.label>贫铀金属</DepletedUranium.label>
+  
+  <DepletedUranium.stuffProps.stuffAdjective>贫铀</DepletedUranium.stuffProps.stuffAdjective>
+
+  <CarbonAlloy.label>碳纤维锭</CarbonAlloy.label>
+  
+  <CarbonAlloy.stuffProps.stuffAdjective>碳纤维</CarbonAlloy.stuffProps.stuffAdjective>
+
+
+</LanguageData>

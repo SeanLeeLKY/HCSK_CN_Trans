@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildLMG.label>制造 L-15 轻机枪</BuildLMG.label>
-  <BuildLMG.description>L-15 作为一种便携式轻机枪可以用于个人防卫用途，它能提供单次15发的急速压制射击能力，但是其重量也决定了不方便长途行军使用。 \n 弹药： 5.56x45mm 北约标准弹</BuildLMG.description>
-  <BuildLMG.jobString>正在制造 L-15 轻机枪</BuildLMG.jobString>
+  <BuildLMG.label>Build L-15 LMG</BuildLMG.label>
+  <BuildLMG.description>Builds the L-15 LMG for personal defense. As a portable light machine gun the L-15 is heavy to carry around but is capable of providing 15-round bursts for suppressing fire.\nCaliber: 5.56x45mm NATO</BuildLMG.description>
+  <BuildLMG.jobString>Building L-15 LMG</BuildLMG.jobString>
 
-  <BuildM56_USCM.label>制造 M56 智能机枪</BuildM56_USCM.label>
-  <BuildM56_USCM.description>M56 智能机枪是一种能够自动追踪目标的便携式机枪。 \n 弹药： .50 机枪弹</BuildM56_USCM.description>
-  <BuildM56_USCM.jobString>正在制造 M56 智能机枪。</BuildM56_USCM.jobString>
+  <BuildM56_USCM.label>Build M56 Smart Gun</BuildM56_USCM.label>
+  <BuildM56_USCM.description>The M56 Smart Gun is a portable heavy machine gun with automatic targeting capabilities.\nCaliber: .50 BMG</BuildM56_USCM.description>
+  <BuildM56_USCM.jobString>Building M56 smart gun.</BuildM56_USCM.jobString>
 
-  <BuildMinigun.label>制造 XM214 速射机枪</BuildMinigun.label>
-  <BuildMinigun.description>XM214 速射机枪是一种多管式机枪，独特的射击方式给予它极高的开火频率。 \n 弹药： 5.56x45mm 北约标准弹</BuildMinigun.description>
-  <BuildMinigun.jobString>正在制造 XM214 速射机枪。</BuildMinigun.jobString>
+  <BuildMinigun.label>Build XM214 Microgun</BuildMinigun.label>
+  <BuildMinigun.description>Builds the XM214 Microgun, which is a multi-barrel machine gun with an extremely high rate of fire.\nCaliber: 5.56x45mm NATO</BuildMinigun.description>
+  <BuildMinigun.jobString>Building XM214 Microgun.</BuildMinigun.jobString>
 
-  <BuildGalilBurstRifle.label>制造 RPK-74</BuildGalilBurstRifle.label>
-  <BuildGalilBurstRifle.description>制造 RPK-47, 一种经典的军用步枪。可以使用单次8发的爆炸开火模式，伤害能力较低但是开火频率较高。 \n 弹药： 7.62x39mm 苏制标准弹</BuildGalilBurstRifle.description>
-  <BuildGalilBurstRifle.jobString>正在制造 RPK-74。</BuildGalilBurstRifle.jobString>
+  <BuildGalilBurstRifle.label>Build RPK-47</BuildGalilBurstRifle.label>
+  <BuildGalilBurstRifle.description>Builds the RPK-47, an ancient pattern military rifle. Fires an 8-round burst. Good range, low power and high rate of fire.\nCaliber: 7.62x39mm Soviet</BuildGalilBurstRifle.description>
+  <BuildGalilBurstRifle.jobString>Building RPK-47.</BuildGalilBurstRifle.jobString>
 
-  <BuildHeavyCombatRifle.label>制造 MA39X ICWS</BuildHeavyCombatRifle.label>
-  <BuildHeavyCombatRifle.description>MA39X 个人战斗武器系统（ICWS）是在联合国授权下使用的一种近距离战斗武器系统。12发单次的爆炸开火模式，精度和威力都中规中矩。 \n 弹药： 5.56x45mm 北约标准弹</BuildHeavyCombatRifle.description>
-  <BuildHeavyCombatRifle.jobString>正在制造 MA39X ICWS。</BuildHeavyCombatRifle.jobString>
+  <BuildHeavyCombatRifle.label>Build MA39X ICWS</BuildHeavyCombatRifle.label>
+  <BuildHeavyCombatRifle.description>Builds the MA39X Individual Combat Weapon System, a close combat service rifle of the UNSC. Fires a 12-round burst with average medium range accuracy.\nCaliber: 5.56x45mm NATO</BuildHeavyCombatRifle.description>
+  <BuildHeavyCombatRifle.jobString>Building MA39X ICWS.</BuildHeavyCombatRifle.jobString>
 
-  <BuildM249.label>制造 M249 班用机枪</BuildM249.label>
-  <BuildM249.description>M249 班用机枪是一种单兵使用的重型机枪，它有一个120发子弹的弹匣和单次20发的爆炸开火模式。准确度较低，但是能够提供较为强大的压制火力。 \n 弹药： 5.56x45mm 北约标准弹</BuildM249.description>
-  <BuildM249.jobString>正在制造 M249 班用机枪。</BuildM249.jobString>
+  <BuildM249.label>Build M249 LMG SAW MG</BuildM249.label>
+  <BuildM249.description>Builds the M249 LMG SAW MG, a heavy machinegun. It has a 120 round magazine and fires in 20 round bursts. Not very accurate but good at providing suppressing fire.\nCaliber: 5.56x45mm NATO</BuildM249.description>
+  <BuildM249.jobString>Building M249 SAW MG.</BuildM249.jobString>
 
 
 </LanguageData>

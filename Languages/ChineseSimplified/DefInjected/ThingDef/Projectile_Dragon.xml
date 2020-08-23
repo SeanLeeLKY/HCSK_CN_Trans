@@ -3,18 +3,19 @@
 
   <!-- For Dragon Mod -->
 
-  <DragonFireBreathAlpha.label>火焰</DragonFireBreathAlpha.label>
-  <DragonFireBreathBeta.label>火焰</DragonFireBreathBeta.label>
+  <DragonFireBreathAlpha.label>flame</DragonFireBreathAlpha.label>
+  <DragonFireBreathBeta.label>flame</DragonFireBreathBeta.label>
 
 
   <!-- Most dangerous of firebreath for only the most dangerous of creature -->
 
-  <DragonFireBreathOmega.label>火焰</DragonFireBreathOmega.label>
+  <DragonFireBreathOmega.label>flame</DragonFireBreathOmega.label>
 
 
   <!-- We can have some fun with projectile, fireball, cryo flame -->
 
-  <DragonCryo.label>冷焰</DragonCryo.label>
+  <DragonCryo.label>cryo_flame</DragonCryo.label>
+  <BigFireBall.label>flame</BigFireBall.label>
 
 
 </LanguageData>

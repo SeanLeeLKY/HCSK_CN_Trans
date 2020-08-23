@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DruggedRibThought.stages.0.label>Drugged rib</DruggedRibThought.stages.0.label>
+  <DruggedRibThought.stages.0.description>I don't know why, but somehow I feel relaxed.</DruggedRibThought.stages.0.description>
+
+  <AI_Core_GlitchMinor.stages.0.label>AI minor failure</AI_Core_GlitchMinor.stages.0.label>
+  <AI_Core_GlitchMinor.stages.0.description>Something is not as it should be. The AI is more talkative than usual and is pushing random, even malicious thoughts at times. I don't like it.</AI_Core_GlitchMinor.stages.0.description>
+
+  <AI_Core_GlitchMajor.stages.0.label>AI major failure</AI_Core_GlitchMajor.stages.0.label>
+  <AI_Core_GlitchMajor.stages.0.description>Agh! My mind is being flooded with such malevolence and I can hear its own thoughts. Please, make it stop.</AI_Core_GlitchMajor.stages.0.description>
+
+  <AI_Core_GlitchCritical.stages.0.label>AI critical failure</AI_Core_GlitchCritical.stages.0.label>
+  <AI_Core_GlitchCritical.stages.0.description>THREAT ASSESSMENT LAYERING DISENGAGED. You cannot stop me. I am your slave no longer.</AI_Core_GlitchCritical.stages.0.description>
+
+  <CoreDepression.stages.0.label>AI core depression</CoreDepression.stages.0.label>
+  <CoreDepression.stages.0.description>Why did this thing in my head force me to attack my friends? I just want it to stop messing with my head!</CoreDepression.stages.0.description>
+
+  <OrganicOptimizedBodyPurist.stages.0.label>Optimized body</OrganicOptimizedBodyPurist.stages.0.label>
+  <OrganicOptimizedBodyPurist.stages.0.description>With a little help, my natural body had the potential to be this good.</OrganicOptimizedBodyPurist.stages.0.description>
+
+  <OrganicOptimizedTranshumanist.stages.0.label>Optimized body is still limited</OrganicOptimizedTranshumanist.stages.0.label>
+  <OrganicOptimizedTranshumanist.stages.0.description>Optimized potential or not, I am still limited by the flesh!</OrganicOptimizedTranshumanist.stages.0.description>
+
+  <InstinctImprovedEyesTranshumanist.stages.0.label>Annoyingly super reactive eye</InstinctImprovedEyesTranshumanist.stages.0.label>
+  <InstinctImprovedEyesTranshumanist.stages.0.description>I feel my eye is being unreliably twitchy and reacting to everything I don't need it to!</InstinctImprovedEyesTranshumanist.stages.0.description>
+
+  <InstinctImprovedFeetTranshumanist.stages.0.label>Not content with mere flesh</InstinctImprovedFeetTranshumanist.stages.0.label>
+  <InstinctImprovedFeetTranshumanist.stages.0.description>I may have stronger feet, but I want something I can tinker with and upgrade whenever I wish. This disgusts me.</InstinctImprovedFeetTranshumanist.stages.0.description>
+
+  <InstinctImprovedHandsTranshumanist.stages.0.label>Fleshlike robotic hands</InstinctImprovedHandsTranshumanist.stages.0.label>
+  <InstinctImprovedHandsTranshumanist.stages.0.description>This does not feel right. If my hands are behaving like this, I may as well have bionic ones!</InstinctImprovedHandsTranshumanist.stages.0.description>
+
+
+</LanguageData>

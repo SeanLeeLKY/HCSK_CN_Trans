@@ -1,17 +1,91 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SoilRich.label>肥沃的土地</SoilRich.label>
-  <SoilRich.description>非常适合种植的肥沃土地。肥沃度： 150%。</SoilRich.description>
+  <!-- Standard soils -->
 
-  <Sand.label>沙地</Sand.label>
-  <Sand.description>沙子是细分化的岩石和矿物颗粒。大量分布于沙漠和沙滩。美观度： -1。</Sand.description>
+  <Soil.label>soil</Soil.label>
+  <Soil.tools.0.label>dirt</Soil.tools.0.label>
 
-  <Mud.label>泥地</Mud.label>
-  <Marsh.label>沼泽</Marsh.label>
+  <MossyTerrain.label>lichen-covered soil</MossyTerrain.label>
 
-  <Gravel.label>砂砾</Gravel.label>
-  <Gravel.description>砾石地带是由不同大小的小岩石组成的。可以从上面收集碎石。美观度： -1。</Gravel.description>
+  <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
+  <MarshyTerrain.tools.0.label>mud</MarshyTerrain.tools.0.label>
+
+
+  <!-- Rich soils -->
+
+  <SoilRich.label>rich soil</SoilRich.label>
+  <SoilRich.description>Soil that has been enriched with Fertilizer to improve crop growth.
+Fertility: 150%.</SoilRich.description>
+  <SoilRich.tools.0.label>dirt</SoilRich.tools.0.label>
+
+
+  <!-- Poor soils -->
+
+  <Gravel.label>gravel</Gravel.label>
+  <Gravel.description>Gravel is a composition of small rocks of varying sizes. Rubble can be gathered from it.
+Beauty: -1.</Gravel.description>
+  <Gravel.tools.0.label>gravel</Gravel.tools.0.label>
+
+
+  <!-- Sand -->
+
+  <Sand.label>sand</Sand.label>
+  <Sand.description>Sand is finely divided rock and mineral particles. Naturally found on beaches and deserts.
+Beauty: -1.</Sand.description>
+  <Sand.tools.0.label>sand</Sand.tools.0.label>
+
+  <SoftSand.label>soft sand</SoftSand.label>
+  <SoftSand.description>Sand is finely divided rock and mineral particles. Naturally found on beaches and deserts.
+Beauty: -1.</SoftSand.description>
+  <SoftSand.tools.0.label>sand</SoftSand.tools.0.label>
+
+
+  <!-- Infertile ground -->
+
+  <Mud.label>mud</Mud.label>
+  <Mud.tools.0.label>mud</Mud.tools.0.label>
+
+  <Marsh.label>marsh</Marsh.label>
+  <Marsh.tools.0.label>mud</Marsh.tools.0.label>
+
+  <SavannaSoil.label>savanna soil</SavannaSoil.label>
+  <SavannaSoil.tools.0.label>dirt</SavannaSoil.tools.0.label>
+
+  <RockySoil.label>rocky dirt</RockySoil.label>
+  <RockySoil.description>Rocky area, not good for plants.
+Fertility: 30%.</RockySoil.description>
+  <RockySoil.tools.0.label>dirt</RockySoil.tools.0.label>
+
+  <Topsoil.label>topsoil</Topsoil.label>
+  <Topsoil.description>Fertilized soil, alright for plant growth.
+Fertility: 100%.</Topsoil.description>
+  <Topsoil.tools.0.label>dirt</Topsoil.tools.0.label>
+
+  <DirtFert.label>fertilized topsoil</DirtFert.label>
+  <DirtFert.description>Fertilized soil, good for plant growth.
+Fertility: 140%.</DirtFert.description>
+  <DirtFert.tools.0.label>dirt</DirtFert.tools.0.label>
+
+  <SoilTilled.label>plowed soil</SoilTilled.label>
+  <SoilTilled.description>Plowed soil, excelent for plant growth.
+Fertility: 180%.</SoilTilled.description>
+  <SoilTilled.tools.0.label>dirt</SoilTilled.tools.0.label>
+
+  <PoorSoil.label>poor soil</PoorSoil.label>
+  <PoorSoil.description>Poor soil lacks the nutrients required to support plant growth.
+Fertility: 30%.</PoorSoil.description>
+  <PoorSoil.tools.0.label>dirt</PoorSoil.tools.0.label>
+
+  <MarginalSoil.label>marginal soil</MarginalSoil.label>
+  <MarginalSoil.description>Marginal soil lacks enough nutrients to support plant growth.
+Fertility: 70%.</MarginalSoil.description>
+  <MarginalSoil.tools.0.label>dirt</MarginalSoil.tools.0.label>
+
+  <DustySoil.label>dusty soil</DustySoil.label>
+  <DustySoil.description>Dusty soil, too dry and barren to support plant growth.
+Fertility: 40%.</DustySoil.description>
+  <DustySoil.tools.0.label>dirt</DustySoil.tools.0.label>
 
 
 </LanguageData>

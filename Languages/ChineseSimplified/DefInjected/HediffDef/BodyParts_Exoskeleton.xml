@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExoskeletonSuit.label>exoskeleton suit</ExoskeletonSuit.label>
+  <ExoskeletonSuit.description>An installed exoskeleton. Greatly improves overall body perfomance.</ExoskeletonSuit.description>
+  <ExoskeletonSuit.labelNoun>an exoskeleton</ExoskeletonSuit.labelNoun>
+
+
+  <!-- Protective exoskeleton -->
+
+  <ProtectiveExoskeleton.label>protective exoskeleton</ProtectiveExoskeleton.label>
+  <ProtectiveExoskeleton.description>An installed protective exoskeleton.</ProtectiveExoskeleton.description>
+
+
+</LanguageData>

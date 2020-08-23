@@ -1,22 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_Hood.label>辛迪加头罩</Apparello_Hood.label>
-  <Apparello_Hood.description>极致的防风体验！在黑暗的小巷里，你看到的那种黑衣人的穿着，用闪闪发光的眼睛瞪着你，白刀子进，红刀子出！</Apparello_Hood.description>
+  <Apparello_Hood.label>Syndicate Hood</Apparello_Hood.label>
+  <Apparello_Hood.description>Ultimate protection from the wind! The kind of headwear you see worn by shady characters in dark alleys, glaring at you, with gleaming eyes, Ready to stab yo... *gurgle*</Apparello_Hood.description>
 
-  <Apparel_PhaseHelmet.label>相位头盔</Apparel_PhaseHelmet.label>
-  
-  <Interactor_Helmet.label>交互面甲</Interactor_Helmet.label>
-  
-  <Apparello_Raz.label>乐丝面甲</Apparello_Raz.label>
-  
-  <Apparello_Quote.label>战地工程师面甲</Apparello_Quote.label>
-  
+  <Apparel_PhaseHelmet.label>Phase Helmet</Apparel_PhaseHelmet.label>
+  <Apparel_PhaseHelmet.description>Helmet of the Phase armor.</Apparel_PhaseHelmet.description>
 
-  <Apparello_Rockman.label>穿梭机头盔</Apparello_Rockman.label>
-  
-  <Apparel_PsychicFoilHelmet.label>心灵防护头盔</Apparel_PsychicFoilHelmet.label>
-  <Apparel_PsychicFoilHelmet.description>一顶轻薄的头盔，内含由「心灵吸收箔」精细调校而成的薄板。降低心灵事件的影响。</Apparel_PsychicFoilHelmet.description>
+  <Interactor_Helmet.label>Interactor Hood</Interactor_Helmet.label>
+  <Interactor_Helmet.description>An interactor hood to pair with the interactor cloak.</Interactor_Helmet.description>
+
+  <Apparello_Raz.label>Joywirer's Cap</Apparello_Raz.label>
+  <Apparello_Raz.description>Hardened leather and snazzy goggles. It is almost as if you could pilot your way through someone's psyche with this cap equipped!</Apparello_Raz.description>
+
+  <Apparello_Quote.label>War Engineer's Comm-Link</Apparello_Quote.label>
+  <Apparello_Quote.description>Often referred to as Redcaps, the war-engineers were in charge of keeping the supply lines up and running. The are stories of one heroic forward scout war-engineer crashlanding on a Tunnelworld during a war in the local star system. Said engineer eventually escaped the planet after somehow managing to activate a nuclear device in the planet's core, which left the planet uninhabitable. 
+		It is not known whether his tale of the Tunnelworld being under dictatorship of a powerhungry scientist was true or not. The ramblings about speedrunning through hell with his girlfriend on tow was big blow on his credibility. The only truth in whole story is that the Tunnelworld did indeed blow up!</Apparello_Quote.description>
+
+  <Apparello_Rockman.label>Shuttle Pilot Helm</Apparello_Rockman.label>
+  <Apparello_Rockman.description>All the famous shuttle pilots wore one of these, some were more adorned than others. This is one of the more practical and basic ones.</Apparello_Rockman.description>
+
+  <Apparel_PsychicFoilHelmet.label>Psychic Foil Helmet</Apparel_PsychicFoilHelmet.label>
+  <Apparel_PsychicFoilHelmet.description>A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic events.</Apparel_PsychicFoilHelmet.description>
 
 
 </LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Door.label>门</Door.label>
+  <Door.description>分隔房间。只能手动开关，会减慢人的速度。</Door.description>
+  <Door_Blueprint.label>门 （蓝图）</Door_Blueprint.label>
+  <Door_Frame.label>门 （建造中）</Door_Frame.label>
+  <Door_Frame.description>分隔房间。只能手动开关，会减慢人的速度。</Door_Frame.description>
+
+  <MDoor.label>金属门</MDoor.label>
+  <MDoor.description>分隔房间。只能手动开关，会减慢人的速度。</MDoor.description>
+  <MDoor_Blueprint.label>金属门 （蓝图）</MDoor_Blueprint.label>
+  <MDoor_Frame.label>金属门 （建造中）</MDoor_Frame.label>
+  <MDoor_Frame.description>分隔房间。只能手动开关，会减慢人的速度。</MDoor_Frame.description>
+
+  <CellDoor.label>牢门</CellDoor.label>
+  <CellDoor_Blueprint.label>牢门 （蓝图）</CellDoor_Blueprint.label>
+  <CellDoor_Frame.label>牢门 （建造中）</CellDoor_Frame.label>
+ 
+  <Autodoor.label>自动门</Autodoor.label>
+  <Autodoor.description>分隔房间。电力运转，人穿过门不会减速。</Autodoor.description>
+  <Autodoor_Blueprint.label>自动门 （蓝图）</Autodoor_Blueprint.label>
+  <Autodoor_Frame.label>自动门 （建造中）</Autodoor_Frame.label>
+  <Autodoor_Frame.description>分隔房间。电力运转，人穿过门不会减速。</Autodoor_Frame.description>
+
+  <Blastdoor.label>防爆自动门</Blastdoor.label>
+  <Blastdoor_Blueprint.label>防爆自动门 （蓝图）</Blastdoor_Blueprint.label>
+  <Blastdoor_Frame.label>防爆自动门 （建造中）</Blastdoor_Frame.label>
+ 
+  <OpenBlastDoor.label>大型装甲门 （开启）</OpenBlastDoor.label>
+  
+  <ClosedBlastDoor.label>大型装甲门 （关闭）</ClosedBlastDoor.label>
+  <ClosedBlastDoor_Blueprint.label>大型装甲门 （关闭） （蓝图）</ClosedBlastDoor_Blueprint.label>
+  <ClosedBlastDoor_Frame.label>大型装甲门 （关闭） （建造中）</ClosedBlastDoor_Frame.label>
+  
+  <JammedBlastDoor.label>大型装甲门 （阻塞）</JammedBlastDoor.label>
+  
+
+</LanguageData>

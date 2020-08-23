@@ -3,13 +3,14 @@
 
   <!-- Raw Materials -->
 
-  <RawCotton.label>原棉</RawCotton.label>
-  
+  <RawCotton.label>Raw Cotton</RawCotton.label>
+  <RawCotton.description>Raw Cotton from a Cotton Bush. It can be spun into Cloth at a Tailor's Workbench.</RawCotton.description>
 
-  <RawFlax.label>生亚麻</RawFlax.label>
-  
+  <RawFlax.label>Raw flax</RawFlax.label>
+  <RawFlax.description>Raw flax. It can be spun into cloth or sold to a trader.</RawFlax.description>
 
-  <RawDevilstrand.label>生魔布菇</RawDevilstrand.label>
-  
+  <RawDevilstrand.label>Raw Devilstrand</RawDevilstrand.label>
+  <RawDevilstrand.description>Raw Devilstrand from a Devilstrand Mushroom. It can be spun into Devilstrand Cloth at a Tailor's Workbench.</RawDevilstrand.description>
+
 
 </LanguageData>

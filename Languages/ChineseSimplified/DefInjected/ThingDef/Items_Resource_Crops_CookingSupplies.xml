@@ -1,49 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RawCorn.label>玉米</RawCorn.label>
- 
-  <RawCorn.stuffProps.stuffAdjective>玉米</RawCorn.stuffProps.stuffAdjective>
+  <RawCorn.label>Corn</RawCorn.label>
+  <RawCorn.description>Corn comes from the Corn Plant. The leafy stalk of the plant produces ears which contain the grain. Corn can be cooked for food or made into Ethanol Fuel. Corn is also known as Maize.</RawCorn.description>
+  <RawCorn.stuffProps.stuffAdjective>Corn</RawCorn.stuffProps.stuffAdjective>
 
-  <RawRice.label>稻米</RawRice.label>
- 
-  <RawRice.stuffProps.stuffAdjective>稻米</RawRice.stuffProps.stuffAdjective>
+  <RawRice.label>Rice</RawRice.label>
+  <RawRice.description>Rice are the small edible seeds of the Rice Plant. Not enjoyable when eaten raw, as the seeds are hard and numerous. It is a quick growing food source that can also be used for Ethanol Fuel or the alcoholic drink called Sake.</RawRice.description>
+  <RawRice.stuffProps.stuffAdjective>Rice</RawRice.stuffProps.stuffAdjective>
 
-  <Rawwheat.label>小麦</Rawwheat.label>
- <Rawwheat.description>小麦是一种谷物，用于磨制成面粉。</Rawwheat.description>
-  <Rawwheat.stuffProps.stuffAdjective>小麦</Rawwheat.stuffProps.stuffAdjective>
+  <Rawwheat.label>Wheat</Rawwheat.label>
+  <Rawwheat.description>Wheat is a cereal grain. It can be milled into Flour for use in baking bread.</Rawwheat.description>
+  <Rawwheat.stuffProps.stuffAdjective>Wheat</Rawwheat.stuffProps.stuffAdjective>
 
-  <Rawoats.label>燕麦</Rawoats.label>
-  
-  <Rawoats.stuffProps.stuffAdjective>燕麦</Rawoats.stuffProps.stuffAdjective>
+  <Rawcocoa.label>Cocoa Beans</Rawcocoa.label>
+  <Rawcocoa.description>Cocoa Beans are the seeds of cocoa pods from a Cocoa Tree. They can be refined into chocolate.</Rawcocoa.description>
+  <Rawcocoa.stuffProps.stuffAdjective>Cocoa Beans</Rawcocoa.stuffProps.stuffAdjective>
 
-  <Rawcocoa.label>可可豆</Rawcocoa.label>
-  <Rawcocoa.description>可可豆经过发酵、烘焙、研磨，最后加工成巧克力。</Rawcocoa.description>
-  <Rawcocoa.stuffProps.stuffAdjective>可可豆</Rawcocoa.stuffProps.stuffAdjective>
+  <Rawsugarcane.label>Sugarcane</Rawsugarcane.label>
+  <Rawsugarcane.description>Sugarcane is a type of long grass from the Sugarcane Plant. The grass stalks are rich in sucrose, which can be milled to produce Sugar.</Rawsugarcane.description>
+  <Rawsugarcane.stuffProps.stuffAdjective>Sugarcane</Rawsugarcane.stuffProps.stuffAdjective>
 
-  <Rawsugarcane.label>甘蔗</Rawsugarcane.label>
-  
-  <Rawsugarcane.stuffProps.stuffAdjective>甘蔗</Rawsugarcane.stuffProps.stuffAdjective>
+  <RawTobacco.label>Tobacco Leaves</RawTobacco.label>
+  <RawTobacco.description>Raw Tobacco Leaves from a Tobacco Plant. Not recommended for eating. Tobacco can be rolled and smoked as a stimulating drug. They are addicting and are associated with a number of health problems for long term use.</RawTobacco.description>
+  <RawTobacco.stuffProps.stuffAdjective>Tobacco Leaves</RawTobacco.stuffProps.stuffAdjective>
 
-  <RawTobacco.label>雪茄烟叶</RawTobacco.label>
- 
-  <RawTobacco.stuffProps.stuffAdjective>雪茄烟叶</RawTobacco.stuffProps.stuffAdjective>
+  <Cornmeal.label>Cornmeal</Cornmeal.label>
+  <Cornmeal.description>Simple cornmeal, used in baking.</Cornmeal.description>
+  <Cornmeal.stuffProps.stuffAdjective>Cornmeal</Cornmeal.stuffProps.stuffAdjective>
 
-  <Cornmeal.label>玉米粉</Cornmeal.label>
-  <Cornmeal.description>简单的玉米粉，用于烘焙。</Cornmeal.description>
-  <Cornmeal.stuffProps.stuffAdjective>玉米粉</Cornmeal.stuffProps.stuffAdjective>
+  <RawCoffee.label>Coffee Beans</RawCoffee.label>
+  <RawCoffee.description>Raw Coffee Beans from a Coffee Plant. When roasted with water, they make for a delicious beverage called Coffee.</RawCoffee.description>
+  <RawCoffee.stuffProps.stuffAdjective>Coffee Beans</RawCoffee.stuffProps.stuffAdjective>
 
-  <RawCoffee.label>咖啡豆</RawCoffee.label>
-  
-  <RawCoffee.stuffProps.stuffAdjective>咖啡豆</RawCoffee.stuffProps.stuffAdjective>
+  <RawTea.label>Tea Leaves</RawTea.label>
+  <RawTea.description>Tea Leaves from a Tea Shrub. When brewed with water, it produces a relaxing beverage called Tea.</RawTea.description>
+  <RawTea.stuffProps.stuffAdjective>Tea Leaves</RawTea.stuffProps.stuffAdjective>
 
-  <RawTea.label>茶叶</RawTea.label>
- 
-  <RawTea.stuffProps.stuffAdjective>茶叶</RawTea.stuffProps.stuffAdjective>
-
-  <RawFungus.label>生菌菇</RawFungus.label>
-  <RawFungus.description>生菌菇。</RawFungus.description>
-  <RawFungus.stuffProps.stuffAdjective>菌菇</RawFungus.stuffProps.stuffAdjective>
+  <RawFungus.label>raw fungus</RawFungus.label>
+  <RawFungus.description>Raw fungus.</RawFungus.description>
+  <RawFungus.stuffProps.stuffAdjective>raw fungus</RawFungus.stuffProps.stuffAdjective>
 
 
 </LanguageData>

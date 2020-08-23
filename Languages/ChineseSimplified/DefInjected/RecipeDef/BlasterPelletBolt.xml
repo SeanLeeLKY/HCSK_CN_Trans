@@ -3,9 +3,9 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_BlasterPelletBolt.label>制造 爆炸电荷球弹 x80</MakeAmmo_BlasterPelletBolt.label>
-  <MakeAmmo_BlasterPelletBolt.description>制造 80 爆炸电荷球弹。</MakeAmmo_BlasterPelletBolt.description>
-  <MakeAmmo_BlasterPelletBolt.jobString>正在制造 爆炸电荷球弹。</MakeAmmo_BlasterPelletBolt.jobString>
+  <MakeAmmo_BlasterPelletBolt.label>make Blaster Charged pellet bolt cartridge x80</MakeAmmo_BlasterPelletBolt.label>
+  <MakeAmmo_BlasterPelletBolt.description>Craft 80 Blaster Charged  pellet bolt cartridges.</MakeAmmo_BlasterPelletBolt.description>
+  <MakeAmmo_BlasterPelletBolt.jobString>Making Blaster Charged pellet bolt cartridges.</MakeAmmo_BlasterPelletBolt.jobString>
 
 
 </LanguageData>

@@ -1,102 +1,105 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
- <Cassowary.label>鹤鸵</Cassowary.label>
-  <Cassowary.labelPlural>鹤鸵</Cassowary.labelPlural>
-  <Cassowary.lifeStages.0.label>鹤鸵仔</Cassowary.lifeStages.0.label>
-  <Cassowary.lifeStages.0.labelPlural>鹤鸵仔</Cassowary.lifeStages.0.labelPlural>
-  <Cassowary.lifeStages.0.labelMale>鹤鸵仔</Cassowary.lifeStages.0.labelMale>
-  <Cassowary.lifeStages.0.labelMalePlural>鹤鸵仔</Cassowary.lifeStages.0.labelMalePlural>
-  <Cassowary.lifeStages.0.labelFemale>鹤鸵仔</Cassowary.lifeStages.0.labelFemale>
-  <Cassowary.lifeStages.0.labelFemalePlural>鹤鸵仔</Cassowary.lifeStages.0.labelFemalePlural>
-  <Cassowary.lifeStages.1.label>幼年鹤鸵</Cassowary.lifeStages.1.label>
-  <Cassowary.lifeStages.1.labelPlural>幼年鹤鸵</Cassowary.lifeStages.1.labelPlural>
-  <Cassowary.lifeStages.1.labelMale>幼年公鹤鸵</Cassowary.lifeStages.1.labelMale>
-  <Cassowary.lifeStages.1.labelMalePlural>幼年公鹤鸵</Cassowary.lifeStages.1.labelMalePlural>
-  <Cassowary.lifeStages.1.labelFemale>幼年母鹤鸵</Cassowary.lifeStages.1.labelFemale>
-  <Cassowary.lifeStages.1.labelFemalePlural>幼年母鹤鸵</Cassowary.lifeStages.1.labelFemalePlural>
-  <Cassowary.lifeStages.2.label>鹤鸵</Cassowary.lifeStages.2.label>
-  <Cassowary.lifeStages.2.labelPlural>鹤鸵</Cassowary.lifeStages.2.labelPlural>
-  <Cassowary.lifeStages.2.labelMale>公鹤鸵</Cassowary.lifeStages.2.labelMale>
-  <Cassowary.lifeStages.2.labelMalePlural>公鹤鸵</Cassowary.lifeStages.2.labelMalePlural>
-  <Cassowary.lifeStages.2.labelFemale>母鹤鸵</Cassowary.lifeStages.2.labelFemale>
-  <Cassowary.lifeStages.2.labelFemalePlural>母鹤鸵</Cassowary.lifeStages.2.labelFemalePlural>
-  <Cassowary.labelMale>公鹤鸵</Cassowary.labelMale>
-  <Cassowary.labelMalePlural>公鹤鸵</Cassowary.labelMalePlural>
-  <Cassowary.labelFemale>母鹤鸵</Cassowary.labelFemale>
-  <Cassowary.labelFemalePlural>母鹤鸵</Cassowary.labelFemalePlural>
-  <Emu.label>鸸鹋</Emu.label>
-  <Emu.labelPlural>鸸鹋</Emu.labelPlural>
-  <Emu.lifeStages.0.label>鸸鹋仔</Emu.lifeStages.0.label>
-  <Emu.lifeStages.0.labelPlural>鸸鹋仔</Emu.lifeStages.0.labelPlural>
-  <Emu.lifeStages.0.labelMale>鸸鹋仔</Emu.lifeStages.0.labelMale>
-  <Emu.lifeStages.0.labelMalePlural>鸸鹋仔</Emu.lifeStages.0.labelMalePlural>
-  <Emu.lifeStages.0.labelFemale>鸸鹋仔</Emu.lifeStages.0.labelFemale>
-  <Emu.lifeStages.0.labelFemalePlural>鸸鹋仔</Emu.lifeStages.0.labelFemalePlural>
-  <Emu.lifeStages.1.label>幼年鸸鹋</Emu.lifeStages.1.label>
-  <Emu.lifeStages.1.labelPlural>幼年鸸鹋</Emu.lifeStages.1.labelPlural>
-  <Emu.lifeStages.1.labelMale>幼年公鸸鹋</Emu.lifeStages.1.labelMale>
-  <Emu.lifeStages.1.labelMalePlural>幼年公鸸鹋</Emu.lifeStages.1.labelMalePlural>
-  <Emu.lifeStages.1.labelFemale>幼年母鸸鹋</Emu.lifeStages.1.labelFemale>
-  <Emu.lifeStages.1.labelFemalePlural>幼年母鸸鹋</Emu.lifeStages.1.labelFemalePlural>
-  <Emu.lifeStages.2.label>鸸鹋</Emu.lifeStages.2.label>
-  <Emu.lifeStages.2.labelPlural>鸸鹋</Emu.lifeStages.2.labelPlural>
-  <Emu.lifeStages.2.labelMale>公鸸鹋</Emu.lifeStages.2.labelMale>
-  <Emu.lifeStages.2.labelMalePlural>公鸸鹋</Emu.lifeStages.2.labelMalePlural>
-  <Emu.lifeStages.2.labelFemale>母鸸鹋</Emu.lifeStages.2.labelFemale>
-  <Emu.lifeStages.2.labelFemalePlural>母鸸鹋</Emu.lifeStages.2.labelFemalePlural>
-  <Emu.labelMale>公鸸鹋</Emu.labelMale>
-  <Emu.labelMalePlural>公鸸鹋</Emu.labelMalePlural>
-  <Emu.labelFemale>母鸸鹋</Emu.labelFemale>
-  <Emu.labelFemalePlural>母鸸鹋</Emu.labelFemalePlural>
-  <Ostrich.label>鸵鸟</Ostrich.label>
-  <Ostrich.labelPlural>鸵鸟</Ostrich.labelPlural>
-  <Ostrich.lifeStages.0.label>鸵鸟仔</Ostrich.lifeStages.0.label>
-  <Ostrich.lifeStages.0.labelPlural>鸵鸟仔</Ostrich.lifeStages.0.labelPlural>
-  <Ostrich.lifeStages.0.labelMale>鸵鸟仔</Ostrich.lifeStages.0.labelMale>
-  <Ostrich.lifeStages.0.labelMalePlural>鸵鸟仔</Ostrich.lifeStages.0.labelMalePlural>
-  <Ostrich.lifeStages.0.labelFemale>鸵鸟仔</Ostrich.lifeStages.0.labelFemale>
-  <Ostrich.lifeStages.0.labelFemalePlural>鸵鸟仔</Ostrich.lifeStages.0.labelFemalePlural>
-  <Ostrich.lifeStages.1.label>幼年鸵鸟</Ostrich.lifeStages.1.label>
-  <Ostrich.lifeStages.1.labelPlural>幼年鸵鸟</Ostrich.lifeStages.1.labelPlural>
-  <Ostrich.lifeStages.1.labelMale>幼年公鸵鸟</Ostrich.lifeStages.1.labelMale>
-  <Ostrich.lifeStages.1.labelMalePlural>幼年公鸵鸟</Ostrich.lifeStages.1.labelMalePlural>
-  <Ostrich.lifeStages.1.labelFemale>幼年母鸵鸟</Ostrich.lifeStages.1.labelFemale>
-  <Ostrich.lifeStages.1.labelFemalePlural>幼年母鸵鸟</Ostrich.lifeStages.1.labelFemalePlural>
-  <Ostrich.lifeStages.2.label>鸵鸟</Ostrich.lifeStages.2.label>
-  <Ostrich.lifeStages.2.labelPlural>鸵鸟</Ostrich.lifeStages.2.labelPlural>
-  <Ostrich.lifeStages.2.labelMale>公鸵鸟</Ostrich.lifeStages.2.labelMale>
-  <Ostrich.lifeStages.2.labelMalePlural>公鸵鸟</Ostrich.lifeStages.2.labelMalePlural>
-  <Ostrich.lifeStages.2.labelFemale>母鸵鸟</Ostrich.lifeStages.2.labelFemale>
-  <Ostrich.lifeStages.2.labelFemalePlural>母鸵鸟</Ostrich.lifeStages.2.labelFemalePlural>
-  <Ostrich.labelMale>公鸵鸟</Ostrich.labelMale>
-  <Ostrich.labelMalePlural>公鸵鸟</Ostrich.labelMalePlural>
-  <Ostrich.labelFemale>母鸵鸟</Ostrich.labelFemale>
-  <Ostrich.labelFemalePlural>母鸵鸟</Ostrich.labelFemalePlural>
-  <Turkey.label>火鸡</Turkey.label>
-  <Turkey.labelPlural>火鸡</Turkey.labelPlural>
-  <Turkey.lifeStages.0.label>火鸡仔</Turkey.lifeStages.0.label>
-  <Turkey.lifeStages.0.labelPlural>火鸡仔</Turkey.lifeStages.0.labelPlural>
-  <Turkey.lifeStages.0.labelMale>火鸡仔</Turkey.lifeStages.0.labelMale>
-  <Turkey.lifeStages.0.labelMalePlural>火鸡仔</Turkey.lifeStages.0.labelMalePlural>
-  <Turkey.lifeStages.0.labelFemale>火鸡仔</Turkey.lifeStages.0.labelFemale>
-  <Turkey.lifeStages.0.labelFemalePlural>火鸡仔</Turkey.lifeStages.0.labelFemalePlural>
-  <Turkey.lifeStages.1.label>幼年火鸡</Turkey.lifeStages.1.label>
-  <Turkey.lifeStages.1.labelPlural>幼年火鸡</Turkey.lifeStages.1.labelPlural>
-  <Turkey.lifeStages.1.labelMale>幼年公火鸡</Turkey.lifeStages.1.labelMale>
-  <Turkey.lifeStages.1.labelMalePlural>幼年公火鸡</Turkey.lifeStages.1.labelMalePlural>
-  <Turkey.lifeStages.1.labelFemale>幼年母火鸡</Turkey.lifeStages.1.labelFemale>
-  <Turkey.lifeStages.1.labelFemalePlural>幼年母火鸡</Turkey.lifeStages.1.labelFemalePlural>
-  <Turkey.lifeStages.2.label>火鸡</Turkey.lifeStages.2.label>
-  <Turkey.lifeStages.2.labelPlural>火鸡</Turkey.lifeStages.2.labelPlural>
-  <Turkey.lifeStages.2.labelMale>公火鸡</Turkey.lifeStages.2.labelMale>
-  <Turkey.lifeStages.2.labelMalePlural>公火鸡</Turkey.lifeStages.2.labelMalePlural>
-  <Turkey.lifeStages.2.labelFemale>母火鸡</Turkey.lifeStages.2.labelFemale>
-  <Turkey.lifeStages.2.labelFemalePlural>母火鸡</Turkey.lifeStages.2.labelFemalePlural>
-  <Turkey.labelMale>公火鸡</Turkey.labelMale>
-  <Turkey.labelMalePlural>公火鸡</Turkey.labelMalePlural>
-  <Turkey.labelFemale>母火鸡</Turkey.labelFemale>
-  <Turkey.labelFemalePlural>母火鸡</Turkey.labelFemalePlural>
+  <Cassowary.label>cassowary</Cassowary.label>
+  <Cassowary.labelPlural>cassowaries</Cassowary.labelPlural>
+  <Cassowary.lifeStages.0.label>cassowary</Cassowary.lifeStages.0.label>
+  <Cassowary.lifeStages.0.labelPlural>cassowaries</Cassowary.lifeStages.0.labelPlural>
+  <Cassowary.lifeStages.0.labelMale>male cassowary</Cassowary.lifeStages.0.labelMale>
+  <Cassowary.lifeStages.0.labelMalePlural>male cassowarys</Cassowary.lifeStages.0.labelMalePlural>
+  <Cassowary.lifeStages.0.labelFemale>female cassowary</Cassowary.lifeStages.0.labelFemale>
+  <Cassowary.lifeStages.0.labelFemalePlural>female cassowarys</Cassowary.lifeStages.0.labelFemalePlural>
+  <Cassowary.lifeStages.1.label>cassowary</Cassowary.lifeStages.1.label>
+  <Cassowary.lifeStages.1.labelPlural>cassowaries</Cassowary.lifeStages.1.labelPlural>
+  <Cassowary.lifeStages.1.labelMale>male cassowary</Cassowary.lifeStages.1.labelMale>
+  <Cassowary.lifeStages.1.labelMalePlural>male cassowarys</Cassowary.lifeStages.1.labelMalePlural>
+  <Cassowary.lifeStages.1.labelFemale>female cassowary</Cassowary.lifeStages.1.labelFemale>
+  <Cassowary.lifeStages.1.labelFemalePlural>female cassowarys</Cassowary.lifeStages.1.labelFemalePlural>
+  <Cassowary.lifeStages.2.label>cassowary</Cassowary.lifeStages.2.label>
+  <Cassowary.lifeStages.2.labelPlural>cassowaries</Cassowary.lifeStages.2.labelPlural>
+  <Cassowary.lifeStages.2.labelMale>male cassowary</Cassowary.lifeStages.2.labelMale>
+  <Cassowary.lifeStages.2.labelMalePlural>male cassowarys</Cassowary.lifeStages.2.labelMalePlural>
+  <Cassowary.lifeStages.2.labelFemale>female cassowary</Cassowary.lifeStages.2.labelFemale>
+  <Cassowary.lifeStages.2.labelFemalePlural>female cassowarys</Cassowary.lifeStages.2.labelFemalePlural>
+  <Cassowary.labelMale>male cassowary</Cassowary.labelMale>
+  <Cassowary.labelMalePlural>male cassowaries</Cassowary.labelMalePlural>
+  <Cassowary.labelFemale>female cassowary</Cassowary.labelFemale>
+  <Cassowary.labelFemalePlural>female cassowaries</Cassowary.labelFemalePlural>
+
+  <Emu.label>emu</Emu.label>
+  <Emu.labelPlural>emus</Emu.labelPlural>
+  <Emu.lifeStages.0.label>emu</Emu.lifeStages.0.label>
+  <Emu.lifeStages.0.labelPlural>emu</Emu.lifeStages.0.labelPlural>
+  <Emu.lifeStages.0.labelMale>male emu</Emu.lifeStages.0.labelMale>
+  <Emu.lifeStages.0.labelMalePlural>male emus</Emu.lifeStages.0.labelMalePlural>
+  <Emu.lifeStages.0.labelFemale>female emu</Emu.lifeStages.0.labelFemale>
+  <Emu.lifeStages.0.labelFemalePlural>female emus</Emu.lifeStages.0.labelFemalePlural>
+  <Emu.lifeStages.1.label>emu</Emu.lifeStages.1.label>
+  <Emu.lifeStages.1.labelPlural>emu</Emu.lifeStages.1.labelPlural>
+  <Emu.lifeStages.1.labelMale>male emu</Emu.lifeStages.1.labelMale>
+  <Emu.lifeStages.1.labelMalePlural>male emus</Emu.lifeStages.1.labelMalePlural>
+  <Emu.lifeStages.1.labelFemale>female emu</Emu.lifeStages.1.labelFemale>
+  <Emu.lifeStages.1.labelFemalePlural>female emus</Emu.lifeStages.1.labelFemalePlural>
+  <Emu.lifeStages.2.label>emu</Emu.lifeStages.2.label>
+  <Emu.lifeStages.2.labelPlural>emu</Emu.lifeStages.2.labelPlural>
+  <Emu.lifeStages.2.labelMale>male emu</Emu.lifeStages.2.labelMale>
+  <Emu.lifeStages.2.labelMalePlural>male emus</Emu.lifeStages.2.labelMalePlural>
+  <Emu.lifeStages.2.labelFemale>female emu</Emu.lifeStages.2.labelFemale>
+  <Emu.lifeStages.2.labelFemalePlural>female emus</Emu.lifeStages.2.labelFemalePlural>
+  <Emu.labelMale>male emu</Emu.labelMale>
+  <Emu.labelMalePlural>male emus</Emu.labelMalePlural>
+  <Emu.labelFemale>female emu</Emu.labelFemale>
+  <Emu.labelFemalePlural>female emus</Emu.labelFemalePlural>
+
+  <Ostrich.label>ostrich</Ostrich.label>
+  <Ostrich.labelPlural>ostriches</Ostrich.labelPlural>
+  <Ostrich.lifeStages.0.label>ostrich</Ostrich.lifeStages.0.label>
+  <Ostrich.lifeStages.0.labelPlural>ostriches</Ostrich.lifeStages.0.labelPlural>
+  <Ostrich.lifeStages.0.labelMale>male ostrich</Ostrich.lifeStages.0.labelMale>
+  <Ostrich.lifeStages.0.labelMalePlural>male ostrichs</Ostrich.lifeStages.0.labelMalePlural>
+  <Ostrich.lifeStages.0.labelFemale>female ostrich</Ostrich.lifeStages.0.labelFemale>
+  <Ostrich.lifeStages.0.labelFemalePlural>female ostrichs</Ostrich.lifeStages.0.labelFemalePlural>
+  <Ostrich.lifeStages.1.label>ostrich</Ostrich.lifeStages.1.label>
+  <Ostrich.lifeStages.1.labelPlural>ostriches</Ostrich.lifeStages.1.labelPlural>
+  <Ostrich.lifeStages.1.labelMale>male ostrich</Ostrich.lifeStages.1.labelMale>
+  <Ostrich.lifeStages.1.labelMalePlural>male ostrichs</Ostrich.lifeStages.1.labelMalePlural>
+  <Ostrich.lifeStages.1.labelFemale>female ostrich</Ostrich.lifeStages.1.labelFemale>
+  <Ostrich.lifeStages.1.labelFemalePlural>female ostrichs</Ostrich.lifeStages.1.labelFemalePlural>
+  <Ostrich.lifeStages.2.label>ostrich</Ostrich.lifeStages.2.label>
+  <Ostrich.lifeStages.2.labelPlural>ostriches</Ostrich.lifeStages.2.labelPlural>
+  <Ostrich.lifeStages.2.labelMale>male ostrich</Ostrich.lifeStages.2.labelMale>
+  <Ostrich.lifeStages.2.labelMalePlural>male ostrichs</Ostrich.lifeStages.2.labelMalePlural>
+  <Ostrich.lifeStages.2.labelFemale>female ostrich</Ostrich.lifeStages.2.labelFemale>
+  <Ostrich.lifeStages.2.labelFemalePlural>female ostrichs</Ostrich.lifeStages.2.labelFemalePlural>
+  <Ostrich.labelMale>male ostrich</Ostrich.labelMale>
+  <Ostrich.labelMalePlural>male ostriches</Ostrich.labelMalePlural>
+  <Ostrich.labelFemale>female ostrich</Ostrich.labelFemale>
+  <Ostrich.labelFemalePlural>female ostriches</Ostrich.labelFemalePlural>
+
+  <Turkey.label>turkey</Turkey.label>
+  <Turkey.labelPlural>turkeys</Turkey.labelPlural>
+  <Turkey.lifeStages.0.label>turkey</Turkey.lifeStages.0.label>
+  <Turkey.lifeStages.0.labelPlural>turkey</Turkey.lifeStages.0.labelPlural>
+  <Turkey.lifeStages.0.labelMale>male turkey</Turkey.lifeStages.0.labelMale>
+  <Turkey.lifeStages.0.labelMalePlural>male turkeys</Turkey.lifeStages.0.labelMalePlural>
+  <Turkey.lifeStages.0.labelFemale>female turkey</Turkey.lifeStages.0.labelFemale>
+  <Turkey.lifeStages.0.labelFemalePlural>female turkeys</Turkey.lifeStages.0.labelFemalePlural>
+  <Turkey.lifeStages.1.label>turkey</Turkey.lifeStages.1.label>
+  <Turkey.lifeStages.1.labelPlural>turkey</Turkey.lifeStages.1.labelPlural>
+  <Turkey.lifeStages.1.labelMale>male turkey</Turkey.lifeStages.1.labelMale>
+  <Turkey.lifeStages.1.labelMalePlural>male turkeys</Turkey.lifeStages.1.labelMalePlural>
+  <Turkey.lifeStages.1.labelFemale>female turkey</Turkey.lifeStages.1.labelFemale>
+  <Turkey.lifeStages.1.labelFemalePlural>female turkeys</Turkey.lifeStages.1.labelFemalePlural>
+  <Turkey.lifeStages.2.label>turkey</Turkey.lifeStages.2.label>
+  <Turkey.lifeStages.2.labelPlural>turkey</Turkey.lifeStages.2.labelPlural>
+  <Turkey.lifeStages.2.labelMale>male turkey</Turkey.lifeStages.2.labelMale>
+  <Turkey.lifeStages.2.labelMalePlural>male turkeys</Turkey.lifeStages.2.labelMalePlural>
+  <Turkey.lifeStages.2.labelFemale>female turkey</Turkey.lifeStages.2.labelFemale>
+  <Turkey.lifeStages.2.labelFemalePlural>female turkeys</Turkey.lifeStages.2.labelFemalePlural>
+  <Turkey.labelMale>male turkey</Turkey.labelMale>
+  <Turkey.labelMalePlural>male turkeys</Turkey.labelMalePlural>
+  <Turkey.labelFemale>female turkey</Turkey.labelFemale>
+  <Turkey.labelFemalePlural>female turkeys</Turkey.labelFemalePlural>
 
 
 </LanguageData>

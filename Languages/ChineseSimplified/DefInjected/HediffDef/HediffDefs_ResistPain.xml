@@ -1,13 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UndeadPassive.label>不死特性</UndeadPassive.label>
-  <ResistPainPassive.label>痛觉阻抗</ResistPainPassive.label>
-  <UnstoppablePassive.label>不可阻挡</UnstoppablePassive.label>
-  <FuriousPassive.label>凶猛特性</FuriousPassive.label>
-  <BerserkPassive.label>狂暴特性</BerserkPassive.label>
-  <HardPassive.label>硬皮</HardPassive.label>
-  <ThickPassive.label>厚皮</ThickPassive.label>
+  <UndeadPassive.label>undead</UndeadPassive.label>
+  <UndeadPassive.description>Can't die twice...</UndeadPassive.description>
+  <UndeadPassive.labelNoun>an undead</UndeadPassive.labelNoun>
+
+  <ResistPainPassive.label>heavy pain resist</ResistPainPassive.label>
+  <ResistPainPassive.description>Don't know what pain is</ResistPainPassive.description>
+  <ResistPainPassive.labelNoun>a heavy pain resist</ResistPainPassive.labelNoun>
+
+  <UnstoppablePassive.label>unstoppable state</UnstoppablePassive.label>
+  <UnstoppablePassive.description>Can only go forward.</UnstoppablePassive.description>
+  <UnstoppablePassive.labelNoun>an unstoppable state</UnstoppablePassive.labelNoun>
+
+  <FuriousPassive.label>Furious state</FuriousPassive.label>
+  <FuriousPassive.description>Don't stand in his way</FuriousPassive.description>
+  <FuriousPassive.labelNoun>a furious state</FuriousPassive.labelNoun>
+
+  <BerserkPassive.label>berserk state</BerserkPassive.label>
+  <BerserkPassive.description>Real berserker</BerserkPassive.description>
+  <BerserkPassive.labelNoun>a berserk state</BerserkPassive.labelNoun>
+
+  <HardPassive.label>hard leather</HardPassive.label>
+  <HardPassive.description>It's hard to break this skin</HardPassive.description>
+  <HardPassive.labelNoun>hard leather</HardPassive.labelNoun>
+
+  <ThickPassive.label>thick leather</ThickPassive.label>
+  <ThickPassive.description>This skin softens any bumps.</ThickPassive.description>
+  <ThickPassive.labelNoun>a thick leather</ThickPassive.labelNoun>
 
 
 </LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Meerkat.label>meerkat</Meerkat.label>
+  <Meerkat.description>The meerkat or suricate (Suricata suricatta) is a small carnivoran belonging to the mongoose family (Herpestidae). It is the only member of the genus Suricata. A group of meerkats is called a "mob", "gang" or "clan". A meerkat clan often contains about 20 meerkats, but some super-families have 50 or more members. In captivity, meerkats have an average life span of 12–14 years, and about half this in the wild.</Meerkat.description>
+  <Meerkat.tools.0.label>left claw</Meerkat.tools.0.label>
+  <Meerkat.tools.1.label>right claw</Meerkat.tools.1.label>
+  <Meerkat.tools.3.label>head</Meerkat.tools.3.label>
+  <Meerkat_Leather.label>meerkat leather</Meerkat_Leather.label>
+  <Meerkat_Leather.description>meerkat leather</Meerkat_Leather.description>
+  <Meerkat_Leather.stuffProps.stuffAdjective>meerkat leather</Meerkat_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Meerkat_Corpse.label>meerkat corpse</Meerkat_Corpse.label>
+  <Meerkat_Corpse.description>meerkat corpse</Meerkat_Corpse.description>
+
+
+</LanguageData>

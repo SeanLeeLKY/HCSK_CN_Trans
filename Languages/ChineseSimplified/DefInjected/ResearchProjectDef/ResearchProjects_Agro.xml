@@ -3,220 +3,220 @@
 
   <!-- Agriculture -->
 
-  <SK_Agriculture.label>农业</SK_Agriculture.label>
-  <SK_Agriculture.description>研究适宜在本星球上进行农业生产的基本技术。培植能够适应新环境的各种作物。解锁各种基础作物例如玉米、稻子以及浆果。同时解锁菌类培育，还有能够阻隔小动物的农场栅栏等设施。</SK_Agriculture.description>
+  <SK_Agriculture.label>Agriculture</SK_Agriculture.label>
+  <SK_Agriculture.description>Learn the basics of agriculture on this new world.  Allows the growing of new crops which are native to this planet.  Unlocks the ability to cultivate corn, rice and strawberries. Unlocks the secret of hydroponic gardening. Also unlocks fences to help with your outdoor aesthetic needs.</SK_Agriculture.description>
 
-  <SK_VegetablesI.label>蔬菜种植 I</SK_VegetablesI.label>
-  <SK_VegetablesI.description>解锁一些基础的蔬菜和作物，比如胡萝卜和洋葱。</SK_VegetablesI.description>
+  <SK_VegetablesI.label>Vegetables Research I</SK_VegetablesI.label>
+  <SK_VegetablesI.description>Allows the growing of some basic vegetables and plants, such as carrots and onions.</SK_VegetablesI.description>
 
 
   <!-- PlantCarrot
-					Plantonion
+					Plant_Onion
 					MakeVegetables -->
 
-  <SK_VegetablesII.label>蔬菜种植 II</SK_VegetablesII.label>
-  <SK_VegetablesII.description>我们对蔬菜种植技术有了进一步的研究，现在我们的殖民者可以种植新的蔬菜和作物，如卷心菜和茄子。</SK_VegetablesII.description>
+  <SK_VegetablesII.label>Vegetables Research II</SK_VegetablesII.label>
+  <SK_VegetablesII.description>Further advancements in agriculture enables the ability for your colonists to grow new vegetables and plants, such as Cabbage and eggplants.</SK_VegetablesII.description>
 
 
   <!-- PlantCabbage
 					Planteggplant -->
 
-  <SK_VegetablesIII.label>蔬菜种植 III</SK_VegetablesIII.label>
-  <SK_VegetablesIII.description>我们对蔬菜种植技术有了更深的研究，现在我们的殖民者可以种植以及利用新的蔬菜和作物，比如豆类作物。</SK_VegetablesIII.description>
+  <SK_FruitsI.label>Fruits Research I</SK_FruitsI.label>
+  <SK_FruitsI.description>Allows the growing of different fruits, such as cloudberry and gooseberry.</SK_FruitsI.description>
 
 
-  <!-- Plantbean
-							Makesoymilk
-							MakeTofu -->
+  <!-- Plant_Agave -->
 
-  <SK_FruitsI.label>水果培育 I</SK_FruitsI.label>
-  <SK_FruitsI.description>研究了解水果的培育技术，允许殖民者种植不同的水果，如云莓和醋栗。</SK_FruitsI.description>
+  <SK_FruitsII.label>Fruits Research II</SK_FruitsII.label>
+  <SK_FruitsII.description>Further advancements in agriculture gives your colonists the ability to grow blueberries</SK_FruitsII.description>
 
 
-  <!-- PlantAgave
-							Plantcloudberry
-							Plantgooseberry -->
+  <!-- MakeFruitDrink -->
 
-  <SK_FruitsII.label>水果培育 II</SK_FruitsII.label>
-  <SK_FruitsII.description>对水果的培育技术有了进一步的了解，现在殖民者们可以种植培育蓝莓。</SK_FruitsII.description>
+  <SK_CerealsI.label>Cereals Research I</SK_CerealsI.label>
+  <SK_CerealsI.description>Allows the growing of different cereals, such as oats.</SK_CerealsI.description>
 
 
-  <!-- Plantblueberry
-					MakeFruitDrink -->
+  <!-- MakeFlour -->
 
-  <SK_FruitsIII.label>水果培育 III</SK_FruitsIII.label>
-  <SK_FruitsIII.description>深入研究水果的培育技术，允许殖民者种植许多不同的水果和作物，如草莓和番茄。</SK_FruitsIII.description>
-
-
-  <!-- PlantStrawberry
-							PlantTomato
-							Plantgrape -->
-
-  <SK_CerealsI.label>谷物种植 I</SK_CerealsI.label>
-  <SK_CerealsI.description>解锁谷物的基本种植技术，现在可以种植和利用燕麦。</SK_CerealsI.description>
+  <SK_CerealsII.label>Cereals Research II</SK_CerealsII.label>
+  <SK_CerealsII.description>Further advancements in agriculture gives your colonists the ability to grow corn and wheat.</SK_CerealsII.description>
 
 
-  <!-- Plantoats
-							MakeFlour -->
-
-  <SK_CerealsII.label>谷物种植 II</SK_CerealsII.label>
-  <SK_CerealsII.description>对谷物的培育技术有了进一步的了解，现在殖民者们可以种植培育玉米和小麦。</SK_CerealsII.description>
-
-
-  <!-- PlantCorn
+  <!-- Plant_Corn
 							Plantwheat -->
 
-  <SK_CerealsIII.label>谷物种植 III</SK_CerealsIII.label>
-  <SK_CerealsIII.description>对谷物的培育技术有了更深的了解，现在殖民者们可以种植培育稻子。</SK_CerealsIII.description>
+  <SK_CerealsIII.label>Cereals Research III</SK_CerealsIII.label>
+  <SK_CerealsIII.description>Even further advancements in agriculture gives your colonists the ability to grow new cereals, such as rice.</SK_CerealsIII.description>
 
 
-  <!-- PlantRice -->
+  <!-- Plant_Rice -->
 
-  <SK_OrchardsI.label>果园园艺 I</SK_OrchardsI.label>
-  <SK_OrchardsI.description>研究可以进行规模化种植的果树，解锁橙树和梨树。</SK_OrchardsI.description>
-
-
-  <!-- PlantorangeTree
-			PlantPeachTree -->
-
-  <SK_OrchardsII.label>果园园艺 II</SK_OrchardsII.label>
-  <SK_OrchardsII.description>对果树的培育技术有了进一步的了解，现在殖民者们可以种植培育葡萄和香蕉。</SK_OrchardsII.description>
+  <SK_OrchardsI.label>Orchards cultivation I</SK_OrchardsI.label>
+  <SK_OrchardsI.description>Allows the growing of amazing orchards, consist of oranges and peaches.</SK_OrchardsI.description>
 
 
-  <!-- PlantBananaTree
-						Plantgrape -->
+  <!-- Plant_TreeOrange
+			Plant_TreePeach -->
 
-  <SK_OrchardsIII.label>果园园艺 III</SK_OrchardsIII.label>
-  <SK_OrchardsIII.description>对果树的培育技术有了更深的研究，现在殖民者们可以种植培育苹果。</SK_OrchardsIII.description>
-
-
-  <!-- PlantAppletree -->
-
-  <SK_TreesI.label>树木种植 I</SK_TreesI.label>
-  <SK_TreesI.description>研究如何种植培育树木，解锁天蚕树和竹子。</SK_TreesI.description>
+  <SK_OrchardsII.label>Orchards cultivation II</SK_OrchardsII.label>
+  <SK_OrchardsII.description>Further advancements in agriculture gives your colonists the ability to grow grape and bananas.</SK_OrchardsII.description>
 
 
-  <!-- PlantTreeBamboo
-			PlantTreeCecropia -->
+  <!-- Plant_TreeBanana
+						Plant_TreeGrape -->
 
-  <SK_TreesII.label>树木种植 II</SK_TreesII.label>
-  <SK_TreesII.description>对树木的培育技术有了进一步的了解，现在殖民者们可以种植培桦树和杨树。</SK_TreesII.description>
-
-
-  <!-- PlantTreeBirch
-					PlantTreePoplar -->
-
-  <SK_TreesIII.label>树木种植 III</SK_TreesIII.label>
-  <SK_TreesIII.description>对树木的培育技术有了更深的研究，现在殖民者们可以种植培育橡树、松树和柚木。</SK_TreesIII.description>
+  <SK_OrchardsIII.label>Orchards cultivation III</SK_OrchardsIII.label>
+  <SK_OrchardsIII.description>Even further advancements in agriculture gives your colonists the ability to grow new orchard trees, such as apples.</SK_OrchardsIII.description>
 
 
-  <!-- PlantTreePine
-							PlantTreeOak
-							PlantTreeTeak -->
+  <!-- Plant_TreeApple -->
 
-  <SK_FiberCropsI.label>纤纺农业 I</SK_FiberCropsI.label>
-  <SK_FiberCropsI.description>研究可以用于提取纤维进行纺织的农作物以及相关技术，解锁种植棉花以及纺线篮等设施。</SK_FiberCropsI.description>
+  <TreeSowing.label>Trees cultivation I</TreeSowing.label>
+  <TreeSowing.description>Allows the growing of bamboo and cecropia trees for lumber.</TreeSowing.description>
 
 
-  <!-- PlantCotton
+  <!-- Plant_TreeBamboo
+			Plant_TreeCecropia -->
+
+  <SK_TreesII.label>Trees cultivation II</SK_TreesII.label>
+  <SK_TreesII.description>Further advancements in agriculture gives your colonists the ability to grow birches and poplars.</SK_TreesII.description>
+
+
+  <!-- Plant_TreeBirch
+					Plant_TreePoplar -->
+
+  <Cocoa.label>Trees cultivation III</Cocoa.label>
+  <Cocoa.description>Even further advancements in agriculture gives your colonists the ability to grow new trees, such as oaks, pines and teaks.</Cocoa.description>
+
+
+  <!-- Plant_TreePine
+							Plant_TreeOak
+							Plant_TreeTeak -->
+
+  <SK_FiberCropsI.label>Fiber agriculture I</SK_FiberCropsI.label>
+  <SK_FiberCropsI.description>Allows the growing of fiber crops, such as cotton and building Fabric Hamper for tailoring.</SK_FiberCropsI.description>
+
+
+  <!-- Plant_Cotton
 		Storage_FabricHamper -->
 
-  <Devilstrand.label>纤纺农业 II</Devilstrand.label>
-  <Devilstrand.description>对农作物的培育技术有了进一步的了解，现在殖民者们可以种植培魔鬼绳。</Devilstrand.description>
+  <Devilstrand.label>Fiber agriculture II</Devilstrand.label>
+  <Devilstrand.description>Further advancements in agriculture gives your colonists the ability to grow devilstrand.</Devilstrand.description>
 
 
-  <!-- PlantDevilstrand
+  <!-- Plant_Devilstrand
 		MakeDevilstrand -->
 
-  <DevilstrandI.label>纤纺农业 III</DevilstrandI.label>
-  <DevilstrandI.description>对农作物的培育技术有了更深的研究，现在殖民者们可以种植培育橡胶树。</DevilstrandI.description>
+  <DevilstrandI.label>Fiber agriculture III</DevilstrandI.label>
+  <DevilstrandI.description>Even further advancements in agriculture gives your colonists the ability to grow hevea trees.</DevilstrandI.description>
 
 
-  <!-- PlantHeveaTree -->
+  <!-- Plant_TreeHevea -->
 
-  <SK_MedicalCropsI.label>医药农业 I</SK_MedicalCropsI.label>
-  <SK_MedicalCropsI.description>研究如何种植用于医药生产的作物。</SK_MedicalCropsI.description>
-
-
-  <!-- PlantHealroot -->
-
-  <SK_MedicalCropsII.label>医药农业 II</SK_MedicalCropsII.label>
-  <SK_MedicalCropsII.description>对农作物的培育技术有了进一步的了解，现在殖民者们可以种植芦荟。</SK_MedicalCropsII.description>
+  <SK_MedicalCropsI.label>Medical agriculture I</SK_MedicalCropsI.label>
+  <SK_MedicalCropsI.description>Allows the growing of medical crops.</SK_MedicalCropsI.description>
 
 
-  <!-- PlantWildHealroot -->
+  <!-- Plant_Healroot -->
 
-  <SK_MedicalCropsIII.label>医药农业 III</SK_MedicalCropsIII.label>
-  <SK_MedicalCropsIII.description>对农作物的培育技术有了更深的研究，现在殖民者们可以在水培盆里种植金丝桃、薄荷和野玫瑰。</SK_MedicalCropsIII.description>
+  <SK_MedicalCropsII.label>Medical agriculture II</SK_MedicalCropsII.label>
+  <SK_MedicalCropsII.description>Further advancements in medical agriculture gives your colonists the ability to grow aloe.</SK_MedicalCropsII.description>
+
+
+  <!-- Plant_HealrootWild -->
+
+  <SK_MedicalCropsIII.label>Medical agriculture III</SK_MedicalCropsIII.label>
+  <SK_MedicalCropsIII.description>Even further advancements in medical agriculture gives your colonists the ability to grow hypericum, mint and wild rose, but only in Hydroponic Basins.</SK_MedicalCropsIII.description>
 
 
   <!-- mediplant
 						mediplantg
 						mediplanty -->
 
-  <SK_TropicalCropsI.label>热带作物 I</SK_TropicalCropsI.label>
-  <SK_TropicalCropsI.description>研究如何种植一些热带经济作物，现在可以种植甘蔗。</SK_TropicalCropsI.description>
+  <SK_TropicalCropsI.label>Tropical cultivation I</SK_TropicalCropsI.label>
+  <SK_TropicalCropsI.description>Allows the growing of sugarcane.</SK_TropicalCropsI.description>
 
 
-  <!-- Plantsugarcane
+  <!-- Plant_Sugarcane
 			MakeSugar -->
 
-  <SK_TropicalCropsII.label>热带作物 II</SK_TropicalCropsII.label>
-  <SK_TropicalCropsII.description>对农作物的培育技术有了进一步的了解，现在殖民者们可以种植可可。</SK_TropicalCropsII.description>
+  <SK_TropicalCropsII.label>Tropical cultivation II</SK_TropicalCropsII.label>
+  <SK_TropicalCropsII.description>Further advancements in agriculture gives your colonists the ability to grow cocoa.</SK_TropicalCropsII.description>
 
 
-  <!-- Plantcocoa -->
+  <!-- Plant_TreeCocoa -->
 
-  <SK_TropicalCropsIII.label>热带作物 III</SK_TropicalCropsIII.label>
-  <SK_TropicalCropsIII.description>对农作物的培育技术有了更深的研究，现在殖民者们可以种植咖啡和茶叶。同时解锁用于制作热饮的咖啡工作台。</SK_TropicalCropsIII.description>
+  <SK_TropicalCropsIII.label>Tropical cultivation III</SK_TropicalCropsIII.label>
+  <SK_TropicalCropsIII.description>Even further advancements in agriculture gives your colonists the ability to grow coffee and tea. Also unlocks Coffee Table for making some hot drinks.</SK_TropicalCropsIII.description>
 
 
   <!-- TableCoffee
-							PlantTea
-							PlantCoffee
+							Plant_Tea
+							Plant_Coffee
 							BrewCoffee
 							BrewTea -->
 
-  <SK_DrugCropsI.label>成瘾品研究 I</SK_DrugCropsI.label>
-  <SK_DrugCropsI.description>研究如何利用一些特殊的植物来提炼成瘾品。</SK_DrugCropsI.description>
+  <SK_DrugCropsI.label>Drugs research I</SK_DrugCropsI.label>
+  <SK_DrugCropsI.description>Allows the growing some plants for making drugs.</SK_DrugCropsI.description>
 
 
-  <!-- PlantSmokeleaf
-				PlantPsychoid -->
+  <!-- Plant_Smokeleaf
+				Plant_Psychoid -->
 
-  <SK_FlowersI.label>花卉培植 I</SK_FlowersI.label>
-  <SK_FlowersI.description>解锁培植一些普通花卉：黄芪、番红花、维纳斯、夹竹桃和蒲公英。同时解锁种植盆。</SK_FlowersI.description>
+  <DrugProduction.label>Drugs research II</DrugProduction.label>
+  <DrugProduction.description>The basics of drug preparation and synthesis. Allows creation of the drug lab. Further research is required to make specific drugs.</DrugProduction.description>
+
+
+  <!-- DrugLab
+				MakeHempCloth
+				MakeOil -->
+
+  <PsychiteRefining.label>psychite refining</PsychiteRefining.label>
+  <PsychiteRefining.description>Learn to refine psychoid leaves into flake and yayo, different forms of the euphoric drug psychite.</PsychiteRefining.description>
+
+  <WakeUpProduction.label>wake-up production</WakeUpProduction.label>
+  <WakeUpProduction.description>Your chemists learn the formulas and techniques for synthesizing wake-up, a work performance-enhancing drug.</WakeUpProduction.description>
+
+  <GoJuiceProduction.label>go-juice production</GoJuiceProduction.label>
+  <GoJuiceProduction.description>Learn to produce the synthetic combat-performance-enhancing drug go-juice.</GoJuiceProduction.description>
+
+  <PenoxycylineProduction.label>penoxycyline production</PenoxycylineProduction.label>
+  <PenoxycylineProduction.description>Learn to produce penoxycline, a disease prevention drug.</PenoxycylineProduction.description>
+
+  <SK_FlowersI.label>Flowers cultivation I</SK_FlowersI.label>
+  <SK_FlowersI.description>Allows the growing of simple flowers: Astralagus, Crocus, Venus, Rosebay and Dandelion. Also your colonists may build Plant Pot now.</SK_FlowersI.description>
 
 
   <!-- PlantPot
-						PlantCrocus
-						PlantAstragalus
-						PlantDandelion
-						PlantRosebay -->
+						Plant_Crocus
+						Plant_Astragalus
+						Plant_Dandelion
+						Plant_Rosebay -->
 
-  <SK_FlowersII.label>花卉培植 II</SK_FlowersII.label>
-  <SK_FlowersII.description>解锁培植一些普通花卉：白玫瑰、黄花和翠雀草。</SK_FlowersII.description>
+  <SK_FlowersII.label>Flowers cultivation II</SK_FlowersII.label>
+  <SK_FlowersII.description>Allows the growing of more simple flowers: White rose, Daylily and Delphinium.</SK_FlowersII.description>
 
 
-  <!-- LongPlantPot
-						PlantRosebay
-						PlantDaylily
-						PlantRose
+  <!-- DecoratedPot
+						Plant_Rosebay
+						Plant_Daylily
+						Plant_Rose
 						PlantDelphinium
-						PlantCrocus -->
+						Plant_Crocus -->
 
-  <SK_FlowersIII.label>花卉培植 III</SK_FlowersIII.label>
-  <SK_FlowersIII.description>解锁种植玫瑰。</SK_FlowersIII.description>
+  <SK_FlowersIII.label>Flowers cultivation III</SK_FlowersIII.label>
+  <SK_FlowersIII.description>Further advancements in agriculture and flowers gives your colonists the ability to grow beautiful roses.</SK_FlowersIII.description>
 
-  <SK_LivestockI.label>畜牧业 I</SK_LivestockI.label>
-  <SK_LivestockI.description>解锁建造家畜睡眠箱，同时解锁干草培植的能力。</SK_LivestockI.description>
+  <SK_LivestockI.label>Animal husbandry I</SK_LivestockI.label>
+  <SK_LivestockI.description>Allows the building of Animal Sleeping Box and growing hay for some domestic animals.</SK_LivestockI.description>
 
 
   <!-- AnimalSleepingBox
-			PlantHaygrass -->
+			Plant_Haygrass -->
 
-  <SK_LivestockII.label>畜牧业 II</SK_LivestockII.label>
-  <SK_LivestockII.description>解锁制造青储饲料的配方，以及动物挠抓柱和喂食盆。</SK_LivestockII.description>
+  <SK_LivestockII.label>Animal husbandry II</SK_LivestockII.label>
+  <SK_LivestockII.description>This allows your colonists to make silage, scratching post and food bowl for animals.</SK_LivestockII.description>
 
 
   <!-- MakeSilage
@@ -224,14 +224,14 @@
 					ScratchingPole
 					FeedingBowl -->
 
-  <SK_LivestockIII.label>畜牧业 III</SK_LivestockIII.label>
-  <SK_LivestockIII.description>解锁动物小床的建筑配方，让殖民者们可以给小宠物修建一个舒适的小窝。</SK_LivestockIII.description>
+  <SK_LivestockIII.label>Animal husbandry III</SK_LivestockIII.label>
+  <SK_LivestockIII.description>Allows your colonists to build Animal Beds for their pets.</SK_LivestockIII.description>
 
 
   <!-- AnimalBed -->
 
-  <SK_FishingI.label>渔业 I</SK_FishingI.label>
-  <SK_FishingI.description>解锁建造钓鱼码头的工程技术，能够让你的殖民者有个能舒服钓鱼的地方。</SK_FishingI.description>
+  <SK_FishingI.label>Fishing I</SK_FishingI.label>
+  <SK_FishingI.description>Allows your colonists to build Fishing Pier near deep water for fishing.</SK_FishingI.description>
 
 
   <!-- FishingPierSpawner
@@ -242,84 +242,96 @@
 			PrepareSduiggles
 			ShellMashgon -->
 
-  <SK_FishingII.label>渔业 II</SK_FishingII.label>
-  <SK_FishingII.description>现在你可以在饲养槽里养鱼了。</SK_FishingII.description>
+  <SK_FishingII.label>Fishing II</SK_FishingII.label>
+  <SK_FishingII.description>Allows your colonists to build Aquaculture Basin for growing fish.</SK_FishingII.description>
 
 
   <!-- AquacultureBasin
 					AquacultureHopper -->
 
-  <SK_SoilFertillizationI.label>土壤肥力 I</SK_SoilFertillizationI.label>
-  <SK_SoilFertillizationI.description>经过对农业技术的进一步开发，现在你的殖民者们可以通过各种养护方式让土壤变得更加肥沃，而且也能改变一些普通地形作为他用。</SK_SoilFertillizationI.description>
+  <SK_SoilFertillizationI.label>Soil fertillization I</SK_SoilFertillizationI.label>
+  <SK_SoilFertillizationI.description>Further advancements in agriculture give your colonists the ability to fertilize the soil and do minor terraforming.</SK_SoilFertillizationI.description>
 
 
   <!-- SoilRich -->
 
-  <LandReclamation.label>地形改造</LandReclamation.label>
-  <LandReclamation.description>地形改造技术是我们改变这个星球生态环境的第一步，但是这一步是基础。你不会喜欢自己的脚每天都泡在稀泥烂汤里面，同样，你的敌人也不喜欢。解锁改造水面地形的能力，同时也能让你的殖民者们填补深水地形，改造成为普通地形，随后你就可以在上面修建你想修建的东西了。</LandReclamation.description>
+  <LandReclamation.label>Terraforming</LandReclamation.label>
+  <LandReclamation.description>Time to get your feet wet or the ones of your enemies. A work intensive time awaits your colonists if they want to form the planet to their needs. Unlocks the potential to place water or floors anywhere. Enables your colonists to fill deep water holes to shallow ones and build there.</LandReclamation.description>
 
-  <SK_SoilFertillizationII.label>土壤肥力 II</SK_SoilFertillizationII.label>
-  <SK_SoilFertillizationII.description>解锁改变更多种类地形的能力。</SK_SoilFertillizationII.description>
+  <SK_SoilFertillizationII.label>Soil fertillization II</SK_SoilFertillizationII.label>
+  <SK_SoilFertillizationII.description>Even further advancements in teraforming give your colonists the ability to change the terrain.</SK_SoilFertillizationII.description>
 
 
   <!-- SoilTilled -->
 
-  <SK_Bridges.label>桥梁</SK_Bridges.label>
-  <SK_Bridges.description>遇到阻碍是绕路还是架桥？解锁在浅水中安放基柱的工程技术。你可以在上面放置桥梁或者其他建筑平台。</SK_Bridges.description>
+  <SK_Bridges.label>Bridges</SK_Bridges.label>
+  <SK_Bridges.description>Mind the gap or use a bridge to cross it. Enables your colonists to place foundations in shallow water. On these you can place bridges or platforms.</SK_Bridges.description>
 
-  <FertilizerProduction.label>堆肥生产</FertilizerProduction.label>
-  <FertilizerProduction.description>解锁建造肥料发酵设备。</FertilizerProduction.description>
 
-  <MoisturePump.label>土壤肥力 III</MoisturePump.label>
-  <MoisturePump.description>随着对本地环境的更进一步研究，现在殖民地已经可以建造更加复杂的地形改造设备了。解锁肥料泵和抽水泵，这些设施可以缓慢的将普通地形改造成为可耕种土壤。</MoisturePump.description>
+  <!-- <ResearchProjectDef ParentName="IndustrialBase">
+		<defName>FertilizerProduction</defName>
+		<label>Compost production</label>
+		<description>Allows you to build Fertilizer Production.</description>
+		<baseCost>800</baseCost>
+		<techLevel>Industrial</techLevel>
+		<tab>Agriculture</tab>
+		<prerequisites>
+			<li>SK_SoilFertillizationII</li>
+		</prerequisites>
+		<researchViewX>4.52</researchViewX>
+		<researchViewY>3.73</researchViewY>
+	</ResearchProjectDef> -->
+
+  <MoisturePump.label>Soil fertillization III</MoisturePump.label>
+  <MoisturePump.description>Advanced knowledge of this planet's environment gives your colonists the ability to terraform.  This unlocks the Fertilizer Pump and Moisture Pump which allows you to slowly create farmable soil anywhere.</MoisturePump.description>
 
 
   <!-- FertilizerPump
 					MoisturePump -->
 
-  <SK_IndoorFarming.label>室内农业</SK_IndoorFarming.label>
-  <SK_IndoorFarming.description>现在，殖民地可以开启室内种植作物（温室大棚技术）技术的大门。此项研究是各类室内种植技术的前置要求。</SK_IndoorFarming.description>
+  <SK_IndoorFarming.label>Indoor farming</SK_IndoorFarming.label>
+  <SK_IndoorFarming.description>A gateway tech into learning to grow crops indoors. More research needed to actualy use the reserach.</SK_IndoorFarming.description>
 
 
   <!-- PremitiveHydroponic
 			SunLamp -->
 
-  <Hydroponics.label>水栽培 I</Hydroponics.label>
-  <Hydroponics.description>农业技术的发展突破了土地种植的限制，殖民地能够解锁水栽培技术。这项技术也是室内农业的重要支撑技术。</Hydroponics.description>
+  <Hydroponics.label>Hydroponics I</Hydroponics.label>
+  <Hydroponics.description>Increased familiarity with the planet's environment unlocks the secret of hydroponic gardening.  This allows your colonists to build the hydroponic basin to allow for indoor gardening.</Hydroponics.description>
 
 
   <!-- HydroponicsBasin
 			Agrarian -->
 
-  <SK_HydroponicsII.label>水栽培 II</SK_HydroponicsII.label>
-  <SK_HydroponicsII.description>解锁先进水培技术，能够使用高级水培箱。</SK_HydroponicsII.description>
+  <SK_HydroponicsII.label>Hydroponics II</SK_HydroponicsII.label>
+  <SK_HydroponicsII.description>Unlocks the secret of advanced hydroponic gardening with Advanced Hydroponic Basin.</SK_HydroponicsII.description>
 
 
   <!-- NewHydroponicsBasin
 					ClutterAlloyHydroponicsBasinVS
 					GatherHerbsCollection -->
 
-  <Fungiponics.label>菌类培育 I</Fungiponics.label>
-  <Fungiponics.description>解锁菌类培育盆，用于种植各类洞穴真菌和植物。例如蘑菇或者炽光蘑菇等。</Fungiponics.description>
+  <Fungiponics.label>Fungi I</Fungiponics.label>
+  <Fungiponics.description>Research how to adapt the hydroponics tables to grow cave plants, such as champignon and glowbuld. Also unlocks Fungiponics Basin for them.</Fungiponics.description>
 
 
   <!-- FungiponicsBasin
-					Glowbulb
-					Plantmushroom
+					Glowstool
+					Plant_Mushroom
 					MakeSaladwMushrooms
 					MakeSaladwMushrooms_Bulk
 					Brightbells -->
 
-  <SK_FungiII.label>菌类培育 II</SK_FungiII.label>
-  <SK_FungiII.description>解锁种植微光蘑菇。</SK_FungiII.description>
+  <SK_FungiII.label>Fungi II</SK_FungiII.label>
+  <SK_FungiII.description>Allows the growing of shimmershrooms on your Fungiponics Basins.</SK_FungiII.description>
 
 
   <!-- Shimmershroom
 					MakeRoastwMushrooms
 					MakeRoastwMushrooms_Bulk -->
 
-  <SK_FungiIII.label>菌类培育 III</SK_FungiIII.label>
-  <SK_FungiIII.description>解锁种植闪帽蘑菇。</SK_FungiIII.description>
+  <SK_FungiIII.label>Fungi III</SK_FungiIII.label>
+  <SK_FungiIII.description>Allows the growing of gleamcap on your Fungiponics Basins.</SK_FungiIII.description>
 
 
 </LanguageData>

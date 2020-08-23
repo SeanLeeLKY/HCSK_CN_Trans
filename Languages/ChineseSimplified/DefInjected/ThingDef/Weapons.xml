@@ -3,13 +3,13 @@
 
   <!-- PROJECTILE -->
 
-  <Bullet_FireExtinguisher.label>泡沫</Bullet_FireExtinguisher.label>
+  <Bullet_FireExtinguisher.label>foam</Bullet_FireExtinguisher.label>
 
 
   <!-- FIRE EXTINGUISHER -->
 
-  <Gun_FireExtinguisher.label>灭火器</Gun_FireExtinguisher.label>
-  <Gun_FireExtinguisher.description>一种能够喷出大量泡沫的工具，一般用来灭火。</Gun_FireExtinguisher.description>
+  <Gun_FireExtinguisher.label>Fire Extinguisher</Gun_FireExtinguisher.label>
+  <Gun_FireExtinguisher.description>A gun loaded with expanding foam, used to extinguish fires.</Gun_FireExtinguisher.description>
 
 
 </LanguageData>

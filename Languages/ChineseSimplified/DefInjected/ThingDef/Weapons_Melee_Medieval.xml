@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval -->
+
+  <MeleeWeapon_Dagger.label>Dagger</MeleeWeapon_Dagger.label>
+  <MeleeWeapon_Dagger.description>Used to thrust into unprotected parts of the knight's armor, the dagger is surprisingly useful as an every day tool.</MeleeWeapon_Dagger.description>
+  <MeleeWeapon_Dagger.tools.0.label>handle</MeleeWeapon_Dagger.tools.0.label>
+  <MeleeWeapon_Dagger.tools.1.label>point</MeleeWeapon_Dagger.tools.1.label>
+
+  <MeleeWeapon_Gladius.label>Gladius</MeleeWeapon_Gladius.label>
+  <MeleeWeapon_Gladius.description>A short one-handed sword. Good for stabbing from behind the shield</MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.tools.0.label>pommel</MeleeWeapon_Gladius.tools.0.label>
+  <MeleeWeapon_Gladius.tools.1.label>point</MeleeWeapon_Gladius.tools.1.label>
+  <MeleeWeapon_Gladius.tools.2.label>edge</MeleeWeapon_Gladius.tools.2.label>
+
+  <MeleeWeapon_LongSword.label>Longsword</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_LongSword.description>Noble two-handed weapon of the ancients, the longsword can be used for slashing or stabbing and is deadly in the right hands.</MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.tools.0.label>pommel</MeleeWeapon_LongSword.tools.0.label>
+  <MeleeWeapon_LongSword.tools.1.label>point</MeleeWeapon_LongSword.tools.1.label>
+  <MeleeWeapon_LongSword.tools.2.label>edge</MeleeWeapon_LongSword.tools.2.label>
+
+  <MeleeWeapon_GreatSword.label>Greatsword</MeleeWeapon_GreatSword.label>
+  <MeleeWeapon_GreatSword.description>A large two-handed sword from the medieval era.</MeleeWeapon_GreatSword.description>
+  <MeleeWeapon_GreatSword.tools.0.label>pommel</MeleeWeapon_GreatSword.tools.0.label>
+  <MeleeWeapon_GreatSword.tools.1.label>point</MeleeWeapon_GreatSword.tools.1.label>
+  <MeleeWeapon_GreatSword.tools.2.label>edge</MeleeWeapon_GreatSword.tools.2.label>
+
+  <MeleeWeapon_Morningstar.label>Morningstar</MeleeWeapon_Morningstar.label>
+  <MeleeWeapon_Morningstar.description>A spiked one-handed mace, intended for piercing trough enemy armor with its weight.</MeleeWeapon_Morningstar.description>
+  <MeleeWeapon_Morningstar.tools.0.label>head</MeleeWeapon_Morningstar.tools.0.label>
+
+  <MeleeWeapon_Scimitar.label>Scimitar</MeleeWeapon_Scimitar.label>
+  <MeleeWeapon_Scimitar.description>One-handed sword with a heavy curved blade, making more powerful but somewhat slower than a standard sword.</MeleeWeapon_Scimitar.description>
+  <MeleeWeapon_Scimitar.tools.0.label>pommel</MeleeWeapon_Scimitar.tools.0.label>
+  <MeleeWeapon_Scimitar.tools.1.label>point</MeleeWeapon_Scimitar.tools.1.label>
+  <MeleeWeapon_Scimitar.tools.2.label>edge</MeleeWeapon_Scimitar.tools.2.label>
+
+  <MeleeWeapon_Glaive.label>Glaive</MeleeWeapon_Glaive.label>
+  <MeleeWeapon_Glaive.description>A two-handed polearm with a long curved blade on the end.</MeleeWeapon_Glaive.description>
+  <MeleeWeapon_Glaive.tools.0.label>handle</MeleeWeapon_Glaive.tools.0.label>
+  <MeleeWeapon_Glaive.tools.1.label>head</MeleeWeapon_Glaive.tools.1.label>
+  <MeleeWeapon_Glaive.tools.2.label>edge</MeleeWeapon_Glaive.tools.2.label>
+
+  <MeleeWeapon_Partisan.label>Halberd</MeleeWeapon_Partisan.label>
+  <MeleeWeapon_Partisan.description>A two-handed polearm with an axe head and a slunder.</MeleeWeapon_Partisan.description>
+  <MeleeWeapon_Partisan.tools.0.label>handle</MeleeWeapon_Partisan.tools.0.label>
+  <MeleeWeapon_Partisan.tools.1.label>head</MeleeWeapon_Partisan.tools.1.label>
+  <MeleeWeapon_Partisan.tools.2.label>edge</MeleeWeapon_Partisan.tools.2.label>
+
+  <NorbalMeleeWeapon_ShortSwordtwo.label>Norbal Sword</NorbalMeleeWeapon_ShortSwordtwo.label>
+  <NorbalMeleeWeapon_ShortSwordtwo.description>Reliable and deadly one-handed sword. Comes with added Nordic flair.</NorbalMeleeWeapon_ShortSwordtwo.description>
+  <NorbalMeleeWeapon_ShortSwordtwo.tools.0.label>pommel</NorbalMeleeWeapon_ShortSwordtwo.tools.0.label>
+  <NorbalMeleeWeapon_ShortSwordtwo.tools.1.label>point</NorbalMeleeWeapon_ShortSwordtwo.tools.1.label>
+  <NorbalMeleeWeapon_ShortSwordtwo.tools.2.label>edge</NorbalMeleeWeapon_ShortSwordtwo.tools.2.label>
+
+  <NorbalMeleeWeapon_ShortSword.label>Heroic Sword</NorbalMeleeWeapon_ShortSword.label>
+  <NorbalMeleeWeapon_ShortSword.description>A sharp two-handed sword used only by the fiercest norbal warriors.</NorbalMeleeWeapon_ShortSword.description>
+  <NorbalMeleeWeapon_ShortSword.tools.0.label>pommel</NorbalMeleeWeapon_ShortSword.tools.0.label>
+  <NorbalMeleeWeapon_ShortSword.tools.1.label>point</NorbalMeleeWeapon_ShortSword.tools.1.label>
+  <NorbalMeleeWeapon_ShortSword.tools.2.label>edge</NorbalMeleeWeapon_ShortSword.tools.2.label>
+
+  <NorbalMeleeWeapon_Ax.label>Norbal War Axe</NorbalMeleeWeapon_Ax.label>
+  <NorbalMeleeWeapon_Ax.description>Medieval one-handed axe.</NorbalMeleeWeapon_Ax.description>
+  <NorbalMeleeWeapon_Ax.tools.0.label>handle</NorbalMeleeWeapon_Ax.tools.0.label>
+  <NorbalMeleeWeapon_Ax.tools.1.label>edge</NorbalMeleeWeapon_Ax.tools.1.label>
+
+  <NorbalMeleeWeapon_Bigax.label>Battleaxe</NorbalMeleeWeapon_Bigax.label>
+  <NorbalMeleeWeapon_Bigax.description>The ultimate two-handed Norbal beheader.</NorbalMeleeWeapon_Bigax.description>
+  <NorbalMeleeWeapon_Bigax.tools.0.label>handle</NorbalMeleeWeapon_Bigax.tools.0.label>
+  <NorbalMeleeWeapon_Bigax.tools.1.label>edge</NorbalMeleeWeapon_Bigax.tools.1.label>
+
+
+</LanguageData>

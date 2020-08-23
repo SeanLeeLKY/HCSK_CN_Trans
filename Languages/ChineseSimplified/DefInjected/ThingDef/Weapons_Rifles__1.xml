@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- M16 -->
+
+  <Gun_AssaultRifle.label>M16突击步枪</Gun_AssaultRifle.label>
+  
+
+  <!-- HK XM8 -->
+
+  <RF_Gun_XMeight.label>HK XM8军用步枪</RF_Gun_XMeight.label>
+ 
+
+  <!-- FAMAS G2 -->
+
+  <Gun_FAMAS.label>法玛斯G2突击步枪</Gun_FAMAS.label>
+  
+
+  <!-- AK-47 -->
+
+  <Gun_AK47Gun.label>AK-47突击步枪</Gun_AK47Gun.label>
+  
+
+  <!-- TAVOR TAR-21 -->
+
+  <Gun_MarineSturmRifle.label>塔沃尔TAR-21突击步枪</Gun_MarineSturmRifle.label>
+ 
+
+  <!-- MA5 ICWS -->
+
+  <Gun_TacticalCombatRifle.label>MA5 ICWS突击步枪</Gun_TacticalCombatRifle.label>
+ 
+  <!-- SIG SG553 -->
+
+  <Gun_SG553Gun.label>西格SG553突击步枪</Gun_SG553Gun.label>
+ 
+
+  <!-- STEYR AUG A3 -->
+
+  <Gun_AUG.label>斯太尔AUG突击步枪</Gun_AUG.label>
+  
+  <!-- FN SCAR-H -->
+
+  <Gun_SCAR_H.label>FN SCAR-H突击步枪</Gun_SCAR_H.label>
+  
+
+</LanguageData>

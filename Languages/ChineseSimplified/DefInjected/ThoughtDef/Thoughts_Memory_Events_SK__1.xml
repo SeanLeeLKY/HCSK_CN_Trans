@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sick.stages.0.label>生病</Sick.stages.0.label>
+  
+  <Nauseated.stages.0.label>恶心</Nauseated.stages.0.label>
+  
+  <Anemic.stages.0.label>贫血</Anemic.stages.0.label>
+  
+  <Amnesia.stages.0.label>失忆</Amnesia.stages.0.label>
+  
+  <Scurvy.stages.0.label>坏血病</Scurvy.stages.0.label>
+  
+  <TookMedicine.stages.0.label>吃了药</TookMedicine.stages.0.label>
+  
+  <ColonistBasicSickness.stages.0.label>一个同伴病了</ColonistBasicSickness.stages.0.label>
+  
+  <ColonistPassedAwayNatural.stages.0.label>一个殖民者老死了。</ColonistPassedAwayNatural.stages.0.label>
+  
+  <ColonistPassedAwayWounds.stages.0.label>一个殖民者重伤不治。</ColonistPassedAwayWounds.stages.0.label>
+  
+  <ColonistStroke.stages.0.label>一个殖民者中风摔倒</ColonistStroke.stages.0.label>
+  
+  <EclipseSubEventAFeral.stages.0.label>古怪的噩梦</EclipseSubEventAFeral.stages.0.label>
+  
+
+  <EclipseSubEventBMeteor.stages.0.label>从陨石灾变中存活</EclipseSubEventBMeteor.stages.0.label>
+  
+
+  <Rescued.stages.0.label>我可以回家了。</Rescued.stages.0.label>
+  
+
+  <MeteorShower.stages.0.label>我看见了一场流星雨。</MeteorShower.stages.0.label>
+  
+  <PrisonBreak.stages.0.label>囚犯越狱。</PrisonBreak.stages.0.label>
+  
+  <PrisonerSuicide.stages.0.label>囚犯自杀。</PrisonerSuicide.stages.0.label>
+  
+  <PrisonRiot.stages.0.label>监狱暴动</PrisonRiot.stages.0.label>
+  
+
+  <RaiderSyndicate.stages.0.label>叛徒！</RaiderSyndicate.stages.0.label>
+  
+
+  <SolarFlareSubEventACosmicRadiation.stages.0.label>创伤事件</SolarFlareSubEventACosmicRadiation.stages.0.label>
+  
+  <NuclearFalloutThought.stages.0.label>核事故</NuclearFalloutThought.stages.0.label>
+  
+</LanguageData>

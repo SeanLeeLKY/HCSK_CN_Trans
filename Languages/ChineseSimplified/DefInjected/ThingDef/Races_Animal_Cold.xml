@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Snork.label>snork</Snork.label>
+  <Snork.description>There's a distinct resemblance between snorks and walruses but it's impossible to tell which came first as lot of the datalogs of Earthen fauna has been poorly kept and corrupted. Their tusks are a very high demand luxury item.</Snork.description>
+  <Snork.tools.1.label>head</Snork.tools.1.label>
+  <Snork_Leather.label>snork leather</Snork_Leather.label>
+  <Snork_Leather.description>snork leather</Snork_Leather.description>
+  <Snork_Leather.stuffProps.stuffAdjective>snork leather</Snork_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Snork_Corpse.label>snork corpse</Snork_Corpse.label>
+  <Snork_Corpse.description>snork corpse</Snork_Corpse.description>
+
+  <Terramorph.label>terramorph</Terramorph.label>
+  <Terramorph.description>Terramorphs are a type of large beetle with a pair of sharp tusks, thick chitin plating and a toxic bite. They are well adapted to survive in extreme temperatures, be it glacial environments or scorching deserts.</Terramorph.description>
+  <Terramorph.tools.1.label>head</Terramorph.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Megaspider -->
+  <Terramorph_Corpse.label>terramorph corpse</Terramorph_Corpse.label>
+  <Terramorph_Corpse.description>terramorph corpse</Terramorph_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_120mmCannonShell_HEAT.label>120mm 炮弹（破甲弹）</Ammo_120mmCannonShell_HEAT.label>
+  
+  <Ammo_120mmCannonShell_HE.label>120mm 炮弹（高爆弹）</Ammo_120mmCannonShell_HE.label>
+  
+  <Ammo_120mmCannonShell_EMP.label>120mm 炮弹（EMP）</Ammo_120mmCannonShell_EMP.label>
+  
+
+  <!-- Projectiles -->
+
+  <Bullet_120mmCannonShell_HEAT.label>120mm 炮弹（破甲弹）</Bullet_120mmCannonShell_HEAT.label>
+  <Bullet_120mmCannonShell_HE.label>120mm 炮弹（高爆弹）</Bullet_120mmCannonShell_HE.label>
+  <Bullet_120mmCannonShell_EMP.label>120mm 炮弹（EMP）</Bullet_120mmCannonShell_EMP.label>
+
+
+</LanguageData>

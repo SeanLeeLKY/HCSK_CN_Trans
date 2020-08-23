@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SoilRich.label>肥沃的土地</SoilRich.label>
+  <SoilRich.description>非常适合种植的肥沃土地。肥沃度： 150%。</SoilRich.description>
+
+  <Sand.label>沙地</Sand.label>
+  <Sand.description>沙子是细分化的岩石和矿物颗粒。大量分布于沙漠和沙滩。美观度： -1。</Sand.description>
+
+  <Mud.label>泥地</Mud.label>
+  <Marsh.label>沼泽</Marsh.label>
+
+  <Gravel.label>砂砾</Gravel.label>
+  <Gravel.description>砾石地带是由不同大小的小岩石组成的。可以从上面收集碎石。美观度： -1。</Gravel.description>
+
+
+</LanguageData>

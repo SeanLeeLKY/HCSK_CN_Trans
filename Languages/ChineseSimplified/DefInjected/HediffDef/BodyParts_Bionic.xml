@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic parts -->
+
+  <BionicHand.label>bionic hand</BionicHand.label>
+  <BionicHand.description>An installed bionic hand. Allows the user to perform tasks even faster than with regular hands.</BionicHand.description>
+  <BionicHand.labelNoun>a bionic hand</BionicHand.labelNoun>
+
+  <BionicFoot.label>bionic Foot</BionicFoot.label>
+  <BionicFoot.description>An installed bionic Foot. Grants faster walking without stumbling all the time.</BionicFoot.description>
+  <BionicFoot.labelNoun>a bionic foot</BionicFoot.labelNoun>
+
+  <BionicEar.label>bionic ear</BionicEar.label>
+  <BionicEar.description>An installed advanced device that expands upon the basic functions of the ear drum.</BionicEar.description>
+  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+
+  <BionicJaw.label>bionic jaw implant</BionicJaw.label>
+  <BionicJaw.description>An installed strong set of teeth, this also comes with a voice modulator.</BionicJaw.description>
+  <BionicJaw.labelNoun>a bionic jaw implant</BionicJaw.labelNoun>
+
+  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.description>An installed light and impressing bionic spine.</BionicSpine.description>
+  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
+
+  <BionicEye.label>bionic eye</BionicEye.label>
+  <BionicEye.description>An installed bionic eye. Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities.</BionicEye.description>
+  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
+
+  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.description>An installed bionic arm. One of the most sophisticated arm replacements. It gives extreme strength to its user.</BionicArm.description>
+  <BionicArm.comps.0.tools.0.label>fist</BionicArm.comps.0.tools.0.label>
+  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
+
+  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.description>An installed bionic leg. Uses cutting-edge technology to give its owner extreme walking comfort and strength.</BionicLeg.description>
+  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
+
+  <PowerClaw.label>power claw</PowerClaw.label>
+  <PowerClaw.description>An installed powerful hand replacement consisting of three deadly claws.</PowerClaw.description>
+  <PowerClaw.comps.0.tools.0.label>claw</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
+
+  <BrainStimulator.label>brain stimulator</BrainStimulator.label>
+  <BrainStimulator.description>An installed small device that sends electric shocks to the brain to slightly boost consciousness and mobility.</BrainStimulator.description>
+  <BrainStimulator.labelNoun> a brain stimulator</BrainStimulator.labelNoun>
+
+  <AIChip.label>AI chip</AIChip.label>
+  <AIChip.description>An installed little chip is able to significantly boost the users consciousness and mobility.</AIChip.description>
+  <AIChip.labelNoun>an AI chip</AIChip.labelNoun>
+
+
+</LanguageData>

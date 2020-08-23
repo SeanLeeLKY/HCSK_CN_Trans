@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakePainting.label>绘制 艺术画</MakePainting.label>
+  <MakePainting.description>用布匹和颜料来绘制一幅图画作品。 \n\n产出：1。</MakePainting.description>
+  <MakePainting.jobString>正在欢快的涂画。</MakePainting.jobString>
+
+  <CookPaint.label>制造 绘画耗材</CookPaint.label>
+  <CookPaint.description>利用将花朵煮沸的方法来制作颜料，直到胶水和色素完全粘合在一起，最后配合木质容器制成可以用于绘画的材料套组。 \n\n产出：1。</CookPaint.description>
+  <CookPaint.jobString>正在制造 耗材。</CookPaint.jobString>
+
+
+  <!-- mai items -->
+
+  <MakeRobotParts.label>组装 机器人部件</MakeRobotParts.label>
+  <MakeRobotParts.description>组装机器人部件。 \n\n产出：25。</MakeRobotParts.description>
+  <MakeRobotParts.jobString>正在组装 机器人部件。</MakeRobotParts.jobString>
+
+  <MakeDepletedUraniumCore.label>制作 贫铀核心</MakeDepletedUraniumCore.label>
+  <MakeDepletedUraniumCore.description>制作贫铀核心。 \n\n产出：1。</MakeDepletedUraniumCore.description>
+  <MakeDepletedUraniumCore.jobString>正在加工 贫铀核心。</MakeDepletedUraniumCore.jobString>
+
+
+</LanguageData>

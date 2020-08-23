@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Natural parts - can be harvested, or grown in the organ vat -->
+
+  <Eye.label>eye</Eye.label>
+  <Eye.description>An installed biological eye.</Eye.description>
+
+  <Heart.label>heart</Heart.label>
+  <Heart.description>An installed natural heart. Supplies blood and oxygen to all parts of the body. Ready to find a new owner.</Heart.description>
+
+  <Stomach.label>stomach</Stomach.label>
+  <Stomach.description>An installed natural stomach. Digests food and turns it into energy and nutrients.</Stomach.description>
+
+  <Jaw.label>jaw</Jaw.label>
+  <Jaw.description>An installed natural stomach. A nice set of teeth for chewing food and talking.</Jaw.description>
+
+  <Leg.label>leg</Leg.label>
+  <Leg.description>An installed natural leg. They're long meaty sticks that let you move around.</Leg.description>
+
+
+  <!-- <ThingDef ParentName="BodyPartBase_Natural">
+	<defName>Brain</defName>
+    <label>brain</label>
+	<description>Lets you know whos in charge</description>
+	<graphicPath>Things/Item/BodyPart/MedOrgan</graphicPath>
+	<graphicClass>Graphic_Single</graphicClass>
+	<statBases>
+	  <MarketValue>500</MarketValue>
+    </statBases>
+</ThingDef> -->
+
+  <Arm.label>arm</Arm.label>
+  <Arm.description>An installed natural arm. Arms are like legs, except you can carry stuff with them.</Arm.description>
+
+
+</LanguageData>

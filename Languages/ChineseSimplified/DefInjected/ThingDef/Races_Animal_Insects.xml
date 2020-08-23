@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insects -->
+
+  <Megascarab.label>Megascarab</Megascarab.label>
+  <Megascarab.description>A large, genetically-engineered beetle. What was once the worker caste of an artifical ecosystem of insectoids designed to fight Mechanoid invasions, it is now usually seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. An eusocial creature, it cannot reproduce individually.</Megascarab.description>
+  <Megascarab.tools.1.label>head</Megascarab.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Megaspider -->
+  <Megascarab_Corpse.label>Megascarab corpse</Megascarab_Corpse.label>
+  <Megascarab_Corpse.description>Megascarab corpse</Megascarab_Corpse.description>
+
+
+  <!-- Insects -->
+
+  <Spelopede.label>Spelopede</Spelopede.label>
+  <Spelopede.description>A medium-sized bioengineered bug the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its claws.</Spelopede.description>
+  <Spelopede.tools.1.label>head</Spelopede.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Megaspider -->
+  <Spelopede_Corpse.label>Spelopede corpse</Spelopede_Corpse.label>
+  <Spelopede_Corpse.description>Spelopede corpse</Spelopede_Corpse.description>
+
+
+  <!-- Insects -->
+
+  <Megaspider.label>megaspider</Megaspider.label>
+  <Megaspider.description>Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long deadly ripper-blades make it deadly.</Megaspider.description>
+  <Megaspider.tools.2.label>head</Megaspider.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <Megaspider_Meat.label>insect meat</Megaspider_Meat.label>
+  <Megaspider_Meat.description>insect meat</Megaspider_Meat.description>
+  <Megaspider_Corpse.label>megaspider corpse</Megaspider_Corpse.label>
+  <Megaspider_Corpse.description>megaspider corpse</Megaspider_Corpse.description>
+
+
+  <!-- Insects -->
+
+  <Scorpion.label>Scorpion</Scorpion.label>
+  <Scorpion.description>Scorpions are predatory arachnids with eight legs. The two frontal legs consist of a pair of sharp, grasping claws. They have a segmented tail that ends with a venomous stinger.</Scorpion.description>
+  <Scorpion.tools.1.label>head</Scorpion.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Megaspider -->
+  <Scorpion_Corpse.label>Scorpion corpse</Scorpion_Corpse.label>
+  <Scorpion_Corpse.description>Scorpion corpse</Scorpion_Corpse.description>
+
+
+</LanguageData>

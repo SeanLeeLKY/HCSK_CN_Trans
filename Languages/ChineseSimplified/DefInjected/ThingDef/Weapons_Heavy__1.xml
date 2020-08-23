@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RPK-74 -->
+
+  <RF_Gun_Galil.label>RPK-74轻机枪</RF_Gun_Galil.label>
+ 
+
+  <!-- L-15 LMG -->
+
+  <Gun_LMG.label>L-15轻机枪</Gun_LMG.label>
+  
+
+  <!-- MA39X ICWS -->
+
+  <Gun_HeavyCombatRifle.label>MA39X单兵战斗武器系统</Gun_HeavyCombatRifle.label>
+ 
+
+  <!-- M249 LMG SAW MG -->
+
+  <Gun_HHMG.label>M249轻机枪</Gun_HHMG.label>
+  
+
+  <!-- XM214 MICROGUN -->
+
+  <Gun_Minigun.label>XM214速射机枪</Gun_Minigun.label>
+  
+
+  <!-- M56 SMARTGUN -->
+
+  <Gun_M56_USCM.label>M56智能机枪</Gun_M56_USCM.label>
+  
+
+</LanguageData>

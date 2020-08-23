@@ -1,204 +1,498 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ElectricStove.label>电力炉灶</ElectricStove.label>
-  <ElectricStove_Blueprint.label>电力炉灶 （蓝图）</ElectricStove_Blueprint.label>
-  <ElectricStove_Frame.label>电力炉灶 （建造中）</ElectricStove_Frame.label>
-  
+  <ElectricStove.label>electric stove</ElectricStove.label>
+  <ElectricStove.description>A simple stove and attached countertop for preparing meals. Requires power.</ElectricStove.description>
+  <ElectricStove_Blueprint.label>electric stove (blueprint)</ElectricStove_Blueprint.label>
+  <ElectricStove_Frame.label>electric stove (building)</ElectricStove_Frame.label>
+  <ElectricStove_Frame.description>A simple stove and attached countertop for preparing meals. Requires power.</ElectricStove_Frame.description>
 
-  <ElectricStove_Pro.label>专业化烹饪炉</ElectricStove_Pro.label>
-  <ElectricStove_Pro_Blueprint.label>专业化烹饪炉 （蓝图）</ElectricStove_Pro_Blueprint.label>
-  <ElectricStove_Pro_Frame.label>专业化烹饪炉 （建造中）</ElectricStove_Pro_Frame.label>
- 
-  <Canningstove.label>电压力锅</Canningstove.label>
-  <Canningstove_Blueprint.label>电压力锅 （蓝图）</Canningstove_Blueprint.label>
-  <Canningstove_Frame.label>电压力锅 （建造中）</Canningstove_Frame.label>
- 
+  <ElectricStove_Pro.label>professional cook stove</ElectricStove_Pro.label>
+  <ElectricStove_Pro.description>A professional-quality stove and attached countertop for preparing meals in bulk. Requires power.</ElectricStove_Pro.description>
+  <ElectricStove_Pro_Blueprint.label>professional cook stove (blueprint)</ElectricStove_Pro_Blueprint.label>
+  <ElectricStove_Pro_Frame.label>professional cook stove (building)</ElectricStove_Pro_Frame.label>
+  <ElectricStove_Pro_Frame.description>A professional-quality stove and attached countertop for preparing meals in bulk. Requires power.</ElectricStove_Pro_Frame.description>
 
-  <soylenttable.label>营养物质机</soylenttable.label>
-  <soylenttable_Blueprint.label>营养物质机 （蓝图）</soylenttable_Blueprint.label>
-  <soylenttable_Frame.label>营养物质机 （建造中）</soylenttable_Frame.label>
- 
+  <Canningstove.label>electric pressure cooker</Canningstove.label>
+  <Canningstove.description>A stove for canning foods, drying fruit, and making tofu. Requires power.</Canningstove.description>
+  <Canningstove_Blueprint.label>electric pressure cooker (blueprint)</Canningstove_Blueprint.label>
+  <Canningstove_Frame.label>electric pressure cooker (building)</Canningstove_Frame.label>
+  <Canningstove_Frame.description>A stove for canning foods, drying fruit, and making tofu. Requires power.</Canningstove_Frame.description>
 
-  <TableSawmillElectric.label>电动锯木台</TableSawmillElectric.label>
- 
-  <TableSawmillElectric_Blueprint.label>电动锯木台 （蓝图）</TableSawmillElectric_Blueprint.label>
-  <TableSawmillElectric_Frame.label>电动锯木台 （建造中）</TableSawmillElectric_Frame.label>
- 
+  <soylenttable.label>soylent machine</soylenttable.label>
+  <soylenttable.description>A machine to produce Soylent Green from humanlike corpses. Requires power.</soylenttable.description>
+  <soylenttable_Blueprint.label>soylent machine (blueprint)</soylenttable_Blueprint.label>
+  <soylenttable_Frame.label>soylent machine (building)</soylenttable_Frame.label>
+  <soylenttable_Frame.description>A machine to produce Soylent Green from humanlike corpses. Requires power.</soylenttable_Frame.description>
 
-  <ElectricSmelter.label>电熔炼器</ElectricSmelter.label>
-  <ElectricSmelter_Blueprint.label>电熔炼器 （蓝图）</ElectricSmelter_Blueprint.label>
-  <ElectricSmelter_Frame.label>电熔炼器 （建造中）</ElectricSmelter_Frame.label>
- 
+  <TableSawmillElectric.label>electric sawmill</TableSawmillElectric.label>
+  <TableSawmillElectric.description>An electric saw for cutting logs into planks and kindling. Requires power.</TableSawmillElectric.description>
+  <TableSawmillElectric_Blueprint.label>electric sawmill (blueprint)</TableSawmillElectric_Blueprint.label>
+  <TableSawmillElectric_Frame.label>electric sawmill (building)</TableSawmillElectric_Frame.label>
+  <TableSawmillElectric_Frame.description>An electric saw for cutting logs into planks and kindling. Requires power.</TableSawmillElectric_Frame.description>
 
-  <TableMachining.label>电动机械加工台</TableMachining.label>
-  <TableMachining_Blueprint.label>电动机械加工台 （蓝图）</TableMachining_Blueprint.label>
-  <TableMachining_Frame.label>电动机械加工台 （建造中）</TableMachining_Frame.label>
- 
+  <ElectricSmelter.label>electric smelting furnace</ElectricSmelter.label>
+  <ElectricSmelter.description>A furnace used for smelting more advanced metal ores, slag, and sand into metal alloys and silicon-based alloys. Can make metal cans and produce charcoal from logs. Requires power.</ElectricSmelter.description>
+  <ElectricSmelter_Blueprint.label>electric smelting furnace (blueprint)</ElectricSmelter_Blueprint.label>
+  <ElectricSmelter_Frame.label>electric smelting furnace (building)</ElectricSmelter_Frame.label>
+  <ElectricSmelter_Frame.description>A furnace used for smelting more advanced metal ores, slag, and sand into metal alloys and silicon-based alloys. Can make metal cans and produce charcoal from logs. Requires power.</ElectricSmelter_Frame.description>
 
-  <TableElectronics.label>电子器件工作台</TableElectronics.label>
-  <TableElectronics_Blueprint.label>电子器件工作台 （蓝图）</TableElectronics_Blueprint.label>
-  <TableElectronics_Frame.label>电子器件工作台 （建造中）</TableElectronics_Frame.label>
-  
-  <HyperTailoringBench.label>先进纺织工作台</HyperTailoringBench.label>
-  <HyperTailoringBench_Blueprint.label>先进纺织工作台 （蓝图）</HyperTailoringBench_Blueprint.label>
-  <HyperTailoringBench_Frame.label>先进纺织工作台 （建造中）</HyperTailoringBench_Frame.label>
-  
+  <TableMachining.label>electric machining table</TableMachining.label>
+  <TableMachining.description>An electric table that can process stone chunks into blocks, rubble or sand. Can also make drill heads, create reinforced concrete and disassemble mechanoids. Requires power.</TableMachining.description>
+  <TableMachining_Blueprint.label>electric machining table (blueprint)</TableMachining_Blueprint.label>
+  <TableMachining_Frame.label>electric machining table (building)</TableMachining_Frame.label>
+  <TableMachining_Frame.description>An electric table that can process stone chunks into blocks, rubble or sand. Can also make drill heads, create reinforced concrete and disassemble mechanoids. Requires power.</TableMachining_Frame.description>
 
-  <MatterConverter.label>无机物转化器</MatterConverter.label>
-  <MatterConverter_Blueprint.label>无机物转化器 （蓝图）</MatterConverter_Blueprint.label>
-  <MatterConverter_Frame.label>无机物转化器 （建造中）</MatterConverter_Frame.label>
-  
+  <TableElectronics.label>electronics table</TableElectronics.label>
+  <TableElectronics.description>A table with tools for crafting electronic chips, robot parts, and the mobile mineral sonar. Requires power.</TableElectronics.description>
+  <TableElectronics_Blueprint.label>electronics table (blueprint)</TableElectronics_Blueprint.label>
+  <TableElectronics_Frame.label>electronics table (building)</TableElectronics_Frame.label>
+  <TableElectronics_Frame.description>A table with tools for crafting electronic chips, robot parts, and the mobile mineral sonar. Requires power.</TableElectronics_Frame.description>
 
-  <AdvToolBench.label>电动装配台</AdvToolBench.label>
-  <AdvToolBench_Blueprint.label>电动装配台 （蓝图）</AdvToolBench_Blueprint.label>
-  <AdvToolBench_Frame.label>电动装配台 （建造中）</AdvToolBench_Frame.label>
-  
+  <HyperTailoringBench.label>hyper tailoring bench</HyperTailoringBench.label>
+  <HyperTailoringBench.description>A sophisticated workbench equipped for tailoring and smithing advanced combat clothing, power armor, enhanced gloves and battle helmets. Requires power.</HyperTailoringBench.description>
+  <HyperTailoringBench_Blueprint.label>hyper tailoring bench (blueprint)</HyperTailoringBench_Blueprint.label>
+  <HyperTailoringBench_Frame.label>hyper tailoring bench (building)</HyperTailoringBench_Frame.label>
+  <HyperTailoringBench_Frame.description>A sophisticated workbench equipped for tailoring and smithing advanced combat clothing, power armor, enhanced gloves and battle helmets. Requires power.</HyperTailoringBench_Frame.description>
 
-  <ElectricSmithy.label>电力锻造台</ElectricSmithy.label>
-  <ElectricSmithy_Blueprint.label>电力锻造台 （蓝图）</ElectricSmithy_Blueprint.label>
-  <ElectricSmithy_Frame.label>电力锻造台 （建造中）</ElectricSmithy_Frame.label>
-  
+  <MatterConverter.label>inorganic matter converter</MatterConverter.label>
+  <MatterConverter.description>A converter to turn resources into inorganic matter. Inorganic matter can be used to make other resources. Requires power.</MatterConverter.description>
+  <MatterConverter_Blueprint.label>inorganic matter converter (blueprint)</MatterConverter_Blueprint.label>
+  <MatterConverter_Frame.label>inorganic matter converter (building)</MatterConverter_Frame.label>
+  <MatterConverter_Frame.description>A converter to turn resources into inorganic matter. Inorganic matter can be used to make other resources. Requires power.</MatterConverter_Frame.description>
 
-  <EAF.label>电弧炉</EAF.label>
-  <EAF_Blueprint.label>电弧炉 （蓝图）</EAF_Blueprint.label>
-  <EAF_Frame.label>电弧炉 （建造中）</EAF_Frame.label>
- 
+  <AdvToolBench.label>electric assembling bench</AdvToolBench.label>
+  <AdvToolBench.description>An electric table for the assembling of components, wires, mechanisms, and advanced mechanisms. Requires power.</AdvToolBench.description>
+  <AdvToolBench_Blueprint.label>electric assembling bench (blueprint)</AdvToolBench_Blueprint.label>
+  <AdvToolBench_Frame.label>electric assembling bench (building)</AdvToolBench_Frame.label>
+  <AdvToolBench_Frame.description>An electric table for the assembling of components, wires, mechanisms, and advanced mechanisms. Requires power.</AdvToolBench_Frame.description>
 
-  <EConcreteMixer.label>电动混凝土搅拌机</EConcreteMixer.label>
-  <EConcreteMixer_Blueprint.label>电动混凝土搅拌机 （蓝图）</EConcreteMixer_Blueprint.label>
-  <EConcreteMixer_Frame.label>电动混凝土搅拌机 （建造中）</EConcreteMixer_Frame.label>
- 
+  <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
+  <ElectricSmithy.description>A smithing table equipped for basic weapon and protective apparel production. Requires power.</ElectricSmithy.description>
+  <ElectricSmithy_Blueprint.label>electric smithy (blueprint)</ElectricSmithy_Blueprint.label>
+  <ElectricSmithy_Frame.label>electric smithy (building)</ElectricSmithy_Frame.label>
+  <ElectricSmithy_Frame.description>A smithing table equipped for basic weapon and protective apparel production. Requires power.</ElectricSmithy_Frame.description>
 
-  <DeepDrill.label>深钻井</DeepDrill.label>
-  <DeepDrill.description>一个用于开采位于地下深处矿石的钻井装置，使用地质扫描仪来勘探地下资源。</DeepDrill.description>
+  <EAF.label>electric arc furnace</EAF.label>
+  <EAF.description>An electric arc furnace for advanced metal alloy smelting. Efficient, but requires a lot of power.</EAF.description>
+  <EAF_Blueprint.label>electric arc furnace (blueprint)</EAF_Blueprint.label>
+  <EAF_Frame.label>electric arc furnace (building)</EAF_Frame.label>
+  <EAF_Frame.description>An electric arc furnace for advanced metal alloy smelting. Efficient, but requires a lot of power.</EAF_Frame.description>
 
-  <Extractor.label>矿物提取器</Extractor.label>
-  <Extractor_Blueprint.label>矿物提取器 （蓝图）</Extractor_Blueprint.label>
-  <Extractor_Frame.label>矿物提取器 （建造中）</Extractor_Frame.label>
- 
+  <EConcreteMixer.label>electric concrete mixer</EConcreteMixer.label>
+  <EConcreteMixer.description>An electric concrete mixer. Concrete is mixed from rubble and sand. Requires power.</EConcreteMixer.description>
+  <EConcreteMixer_Blueprint.label>electric concrete mixer (blueprint)</EConcreteMixer_Blueprint.label>
+  <EConcreteMixer_Frame.label>electric concrete mixer (building)</EConcreteMixer_Frame.label>
+  <EConcreteMixer_Frame.description>An electric concrete mixer. Concrete is mixed from rubble and sand. Requires power.</EConcreteMixer_Frame.description>
 
-  <ExtractorDebris.label>耗尽的矿物提取器</ExtractorDebris.label>
- 
+  <DeepDrill.label>deep drill</DeepDrill.label>
+  <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely.</DeepDrill.description>
+  <DeepDrill_Blueprint.label>deep drill (blueprint)</DeepDrill_Blueprint.label>
+  <DeepDrill_Blueprint_Install.label>deep drill (blueprint)</DeepDrill_Blueprint_Install.label>
+  <DeepDrill_Frame.label>deep drill (building)</DeepDrill_Frame.label>
+  <DeepDrill_Frame.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely.</DeepDrill_Frame.description>
 
-  <RareExtractor.label>先进矿物提取器</RareExtractor.label>
-  <RareExtractor_Blueprint.label>先进矿物提取器 （蓝图）</RareExtractor_Blueprint.label>
-  <RareExtractor_Frame.label>先进矿物提取器 （建造中）</RareExtractor_Frame.label>
-  
+  <Extractor.label>mine extractor</Extractor.label>
+  <Extractor.description>The mine extractor digs deep into the ground to extract metal ores and rocks. Use a ground-penetrating scanner to detect the resources, drill will yield stone chunks if no resources are present. Requires power.</Extractor.description>
+  <Extractor_Blueprint.label>mine extractor (blueprint)</Extractor_Blueprint.label>
+  <Extractor_Frame.label>mine extractor (building)</Extractor_Frame.label>
+  <Extractor_Frame.description>The mine extractor digs deep into the ground to extract metal ores and rocks. Use a ground-penetrating scanner to detect the resources, drill will yield stone chunks if no resources are present. Requires power.</Extractor_Frame.description>
 
-  <ExtractorDebrisRare.label>耗尽的先进矿物提取器</ExtractorDebrisRare.label>
- 
-
-  <OilExtractor.label>原油提取器</OilExtractor.label>
-  <OilExtractor_Blueprint.label>原油提取器 （蓝图）</OilExtractor_Blueprint.label>
-  <OilExtractor_Frame.label>原油提取器 （建造中）</OilExtractor_Frame.label>
- 
-
-  <Fissure.label>原油裂隙</Fissure.label>
- 
-
-  <FissureGenerator.label>钻探机</FissureGenerator.label>
-  <FissureGenerator_Blueprint.label>钻探机 （蓝图）</FissureGenerator_Blueprint.label>
-  <FissureGenerator_Frame.label>钻探机 （建造中）</FissureGenerator_Frame.label>
-  
-
-  <Refinery.label>精炼设备</Refinery.label>
-  <Refinery.description>一台大型化工提炼设备。用于从木材中提炼化合燃料。</Refinery.description>
-  <Refinery_Blueprint.label>精炼设备 （蓝图）</Refinery_Blueprint.label>
-  <Refinery_Frame.label>精炼设备 （建造中）</Refinery_Frame.label>
-  <Refinery_Frame.description>一台大型化工提炼设备。用于从木材中提炼化合燃料。</Refinery_Frame.description>
-
-  <OilRefinery.label>原油精炼器</OilRefinery.label>
-  <OilRefinery_Blueprint.label>原油精炼器 （蓝图）</OilRefinery_Blueprint.label>
-  <OilRefinery_Frame.label>原油精炼器 （建造中）</OilRefinery_Frame.label>
- 
-
-  <OilFeeder.label>原油精炼器料斗</OilFeeder.label>
-  <OilFeeder_Blueprint.label>原油精炼器料斗 （蓝图）</OilFeeder_Blueprint.label>
-  <OilFeeder_Blueprint_Install.label>原油精炼器料斗 （蓝图）</OilFeeder_Blueprint_Install.label>
-  <OilFeeder_Frame.label>原油精炼器料斗 （建造中）</OilFeeder_Frame.label>
-  
-  <GC.label>气体离心机</GC.label>
-  <GC_Blueprint.label>气体离心机 （蓝图）</GC_Blueprint.label>
-  <GC_Frame.label>气体离心机 （建造中）</GC_Frame.label>
-  
-
-  <CentrifugeFeeder.label>气体离心机料斗</CentrifugeFeeder.label>
-  <CentrifugeFeeder_Blueprint.label>气体离心机料斗 （蓝图）</CentrifugeFeeder_Blueprint.label>
-  <CentrifugeFeeder_Blueprint_Install.label>气体离心机料斗 （蓝图）</CentrifugeFeeder_Blueprint_Install.label>
-  <CentrifugeFeeder_Frame.label>气体离心机料斗 （建造中）</CentrifugeFeeder_Frame.label>
+  <RareExtractor.label>advanced mine extractor</RareExtractor.label>
+  <RareExtractor.description>The advanced mine extractor digs deep into the ground to extract metal ores. Works faster than regular extractor. However Deep Drill manned by experienced Miner can still be faster.</RareExtractor.description>
+  <RareExtractor_Blueprint.label>advanced mine extractor (blueprint)</RareExtractor_Blueprint.label>
+  <RareExtractor_Frame.label>advanced mine extractor (building)</RareExtractor_Frame.label>
+  <RareExtractor_Frame.description>The advanced mine extractor digs deep into the ground to extract metal ores. Works faster than regular extractor. However Deep Drill manned by experienced Miner can still be faster.</RareExtractor_Frame.description>
 
 
-  <ElectricCrematorium.label>电力火化炉</ElectricCrematorium.label>
-  <ElectricCrematorium_Blueprint.label>电力火化炉 （蓝图）</ElectricCrematorium_Blueprint.label>
-  <ElectricCrematorium_Frame.label>电力火化炉 （建造中）</ElectricCrematorium_Frame.label>
+  <!-- <ThingDef ParentName="StandartBuilding">
+		<defName>OilExtractor</defName>
+		<label>oil extractor</label>
+		<description>The oil extractor digs deep into the ground and extracts crude oil. Must be placed on an oil fissure created by a drilling rig. Requires power.</description>
+		<thingClass>SK.Building_OilExtractor</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Production/OilExtractor/Oil_pit</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,3)</drawSize>
+			<shadowData>
+				<volume>(2.7, 1.0, 2.7)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<passability>Impassable</passability>
+		<fillPercent>1</fillPercent>
+		<hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,-2)</interactionCellOffset>
+		<statBases>
+			<WorkToBuild>12500</WorkToBuild>
+			<MaxHitPoints>250</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<Beauty>-60</Beauty>
+			<Cleanliness>-20</Cleanliness>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>2500</basePowerConsumption>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>50</heatPerSecond>
+				<heatPushMaxTemperature>1500</heatPushMaxTemperature>
+			</li>
+			<li Class="CompProperties_Flickable"/>
+		</comps>
+		<size>(3,3)</size>
+		<stuffCategories>
+			<li>StrongMetallic</li>
+		</stuffCategories>
+		<costStuffCount>140</costStuffCount>
+		<costList>
+			<ReinforcedConcrete>50</ReinforcedConcrete>
+			<ComponentIndustrial>15</ComponentIndustrial>
+			<Mechanism>8</Mechanism>
+			<ElectronicComponents>8</ElectronicComponents>
+		</costList>
+		<placeWorkers>
+			<li>SK.PlacementRestrictor_OnFissure</li>
+		</placeWorkers>
+		<killedLeavings>
+			<ChunkSlagSteel>6</ChunkSlagSteel>
+		</killedLeavings>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Production</designationCategory>
+		<researchPrerequisites>
+			<li>DeepDrilling</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+	</ThingDef>
 
-  <meditable.label>医药工作台</meditable.label>
-  <meditable_Blueprint.label>医药工作台 （蓝图）</meditable_Blueprint.label>
-  <meditable_Frame.label>医药工作台 （建造中）</meditable_Frame.label>
+	<ThingDef ParentName="SK_BuildingNaturalBase">
+		<category>Ethereal</category>
+		<label>oil fissure</label>
+		<defName>Fissure</defName>
+		<thingClass>SK.Fissure</thingClass>
+		<graphicData>
+			<texPath>Terrain/Fissure</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+		</graphicData>
+		<altitudeLayer>Floor</altitudeLayer>
+		<destroyable>true</destroyable>
+		<useHitPoints>false</useHitPoints>
+		<selectable>true</selectable>
+		<description>A fissure that cuts deep into the earth. An oil extractor can extract crude oil from this.</description>
+		<size>(1,1)</size>
+		<neverOverlapFloors>true</neverOverlapFloors>
+		<blockPlants>true</blockPlants>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_LifespanFissure">
+				<lifespanTicks>3500000</lifespanTicks>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<ThingDef ParentName="StandartBuilding">
+		<defName>FissureGenerator</defName>
+		<label>drilling rig</label>
+		<description>A powerful machine designed to create a deep fissure. Must be placed on a Deposit of Crude Oil. Requires power.</description>
+		<thingClass>SK.Building_FissureGenerator</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Production/FissureGenerator/FissureGenerator</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,3)</drawSize>
+			<shadowData>
+				<volume>(2.7, 1.0, 2.7)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<passability>PassThroughOnly</passability>
+		<pathCost>90</pathCost>
+		<fillPercent>1</fillPercent>
+		<statBases>
+			<MaxHitPoints>250</MaxHitPoints>
+			<WorkToBuild>12000</WorkToBuild>
+			<Flammability>1.0</Flammability>
+			<Beauty>-40</Beauty>
+			<Cleanliness>-20</Cleanliness>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<size>(3,3)</size>
+		<stuffCategories>
+			<li>StrongMetallic</li>
+		</stuffCategories>
+		<costStuffCount>150</costStuffCount>
+		<costList>
+			<ComponentIndustrial>12</ComponentIndustrial>
+			<Mechanism>6</Mechanism>
+			<ElectronicComponents>4</ElectronicComponents>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>1800</basePowerConsumption>
+			</li>
+			<li Class="SK.CompProperties_RestrictedPlacement">
+				<compClass>SK.CompRestrictedPlacement</compClass>
+				<restrictedThing>
+					<li>Oilfield</li>
+				</restrictedThing>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>100</heatPerSecond>
+				<heatPushMaxTemperature>1500</heatPushMaxTemperature>
+			</li>
+			<li Class="CompProperties_Flickable"/>
+		</comps>
+		<killedLeavings>
+			<ChunkSlagSteel>3</ChunkSlagSteel>
+		</killedLeavings>
+		<placeWorkers>
+			<li>SK.PlaceWorker_OnlyOnThing</li>
+		</placeWorkers>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Production</designationCategory>
+		<researchPrerequisites>
+			<li>SK_MiningI</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+	</ThingDef> -->
+
+  <BiofuelRefinery.label>bio refinery</BiofuelRefinery.label>
+  <BiofuelRefinery.description>Refines biological matter like wood or plant matter into chemfuel.</BiofuelRefinery.description>
+  <BiofuelRefinery_Blueprint.label>bio refinery (blueprint)</BiofuelRefinery_Blueprint.label>
+  <BiofuelRefinery_Frame.label>bio refinery (building)</BiofuelRefinery_Frame.label>
+  <BiofuelRefinery_Frame.description>Refines biological matter like wood or plant matter into chemfuel.</BiofuelRefinery_Frame.description>
 
 
-  <TableChemlab.label>石化产品实验室</TableChemlab.label>
-  <TableChemlab_Blueprint.label>石化产品实验室 （蓝图）</TableChemlab_Blueprint.label>
-  <TableChemlab_Frame.label>石化产品实验室 （建造中）</TableChemlab_Frame.label>
+  <!-- <ThingDef ParentName="StandartBuilding">
+		<defName>GC</defName>
+		<label>gas centrifuge</label>
+		<description>A thermal diffusion gas centrifuge is a device that performs isotope separation of gases. A centrifuge relies on the principles of centrifugal force accelerating molecules so that particles of different masses are physically separated in a gradient along the radius of a rotating container. A prominent use of gas centrifuges is for the separation uranium-235 from natural uranium-237.</description>
+		<thingClass>SK.Building_GC</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Production/GasCentrifuge/GC_off</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,3)</drawSize>
+			<drawRotated>false</drawRotated>
+			<shadowData>
+				<volume>(2.7, 1.0, 2.7)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<uiIconPath>Things/Building/Production/GasCentrifuge/GC_off</uiIconPath>
+		<passability>Impassable</passability>
+		<fillPercent>1</fillPercent>
+		<hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,-2)</interactionCellOffset>
+		<canOverlapZones>false</canOverlapZones>
+		<statBases>
+			<WorkToBuild>11500</WorkToBuild>
+			<MaxHitPoints>340</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<Cleanliness>-10</Cleanliness>
+			<Beauty>-60</Beauty>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>-1</basePowerConsumption>
+				<transmitsPower>true</transmitsPower>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>4</glowRadius>
+				<glowColor>(0,255,246,1)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>75</heatPerSecond>
+				<heatPushMaxTemperature>1500</heatPushMaxTemperature>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<size>(3,3)</size>
+		<stuffCategories>
+			<li>RuggedMetallic</li>
+		</stuffCategories>
+		<costStuffCount>270</costStuffCount>
+		<costList>
+			<ReinforcedConcrete>90</ReinforcedConcrete>
+			<SyntheticFibers>35</SyntheticFibers>
+			<ComponentIndustrial>15</ComponentIndustrial>
+			<Mechanism>15</Mechanism>
+		</costList>
+		<building>
+			<soundAmbient>GeothermalPlant_Ambience</soundAmbient>
+			<wantsHopperAdjacent>true</wantsHopperAdjacent>
+		</building>
+		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Production</designationCategory>
+		<researchPrerequisites>
+			<li>SK_NuclearI</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>15</constructionSkillPrerequisite>
+	</ThingDef>
 
 
-  <TableOrganvat.label>器官实验室</TableOrganvat.label>
-  <TableOrganvat_Blueprint.label>器官实验室 （蓝图）</TableOrganvat_Blueprint.label>
-  <TableOrganvat_Frame.label>器官实验室 （建造中）</TableOrganvat_Frame.label>
+	<ThingDef ParentName="HopperBase">
+		<defName>CentrifugeFeeder</defName>
+		<label>gas centrifuge hopper</label>
+		<description>Holds Uranium Ore for a gas centrifuge.</description>
+		<graphicData>
+			<texPath>Things/Building/Misc/hopper</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(2,2)</drawSize>
+		</graphicData>
+		<statBases>
+			<WorkToBuild>450</WorkToBuild>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<Mass>30</Mass>
+		</statBases>
+		<stuffCategories>
+			<li>StrongMetallic</li>
+		</stuffCategories>
+		<costStuffCount>20</costStuffCount>
+		<costList>
+			<ComponentIndustrial>2</ComponentIndustrial>
+		</costList>
+		<building>
+			<fixedStorageSettings>
+				<priority>Important</priority>
+				<filter>
+					<thingDefs>
+						<li>Uranium</li>
+					</thingDefs>
+				</filter>
+			</fixedStorageSettings>
+			<defaultStorageSettings>
+				<priority>Important</priority>
+				<filter>
+					<thingDefs>
+						<li>Uranium</li>
+					</thingDefs>
+				</filter>
+			</defaultStorageSettings>
+		</building>
+		<designationCategory>Production</designationCategory>
+		<researchPrerequisites>
+			<li>SK_NuclearI</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>15</constructionSkillPrerequisite>
+	</ThingDef> -->
 
+  <ElectricCrematorium.label>crematorium</ElectricCrematorium.label>
+  <ElectricCrematorium.description>Cremates corpses, apparel or various resources into ashes. Requires power.</ElectricCrematorium.description>
+  <ElectricCrematorium_Blueprint.label>crematorium (blueprint)</ElectricCrematorium_Blueprint.label>
+  <ElectricCrematorium_Frame.label>crematorium (building)</ElectricCrematorium_Frame.label>
+  <ElectricCrematorium_Frame.description>Cremates corpses, apparel or various resources into ashes. Requires power.</ElectricCrematorium_Frame.description>
 
-  <BioRefinery.label>生物精炼器</BioRefinery.label>
-  <BioRefinery_Blueprint.label>生物精炼器 （蓝图）</BioRefinery_Blueprint.label>
-  <BioRefinery_Frame.label>生物精炼器 （建造中）</BioRefinery_Frame.label>
+  <meditable.label>medical table</meditable.label>
+  <meditable.description>A table that is used to craft medicine and life support devices. Requires power.</meditable.description>
+  <meditable_Blueprint.label>medical table (blueprint)</meditable_Blueprint.label>
+  <meditable_Frame.label>medical table (building)</meditable_Frame.label>
+  <meditable_Frame.description>A table that is used to craft medicine and life support devices. Requires power.</meditable_Frame.description>
 
+  <TableChemlab.label>Petrochemical Laboratory</TableChemlab.label>
+  <TableChemlab.description>A Petrochemical Laboratory where you can make byproducts of crude oil. Requires power.</TableChemlab.description>
+  <TableChemlab_Blueprint.label>Petrochemical Laboratory (blueprint)</TableChemlab_Blueprint.label>
+  <TableChemlab_Frame.label>Petrochemical Laboratory (building)</TableChemlab_Frame.label>
+  <TableChemlab_Frame.description>A Petrochemical Laboratory where you can make byproducts of crude oil. Requires power.</TableChemlab_Frame.description>
 
-  <MechWeaponCraftingWorkTable.label>未来武器工作台</MechWeaponCraftingWorkTable.label>
-  <MechWeaponCraftingWorkTable_Blueprint.label>未来武器工作台 （蓝图）</MechWeaponCraftingWorkTable_Blueprint.label>
-  <MechWeaponCraftingWorkTable_Frame.label>未来武器工作台 （建造中）</MechWeaponCraftingWorkTable_Frame.label>
+  <TableOrganvat.label>organ vat</TableOrganvat.label>
+  <TableOrganvat.description>A large vat used to turn human corpses into biomatter and grow natural replacement organs. Requires power.</TableOrganvat.description>
+  <TableOrganvat_Blueprint.label>organ vat (blueprint)</TableOrganvat_Blueprint.label>
+  <TableOrganvat_Frame.label>organ vat (building)</TableOrganvat_Frame.label>
+  <TableOrganvat_Frame.description>A large vat used to turn human corpses into biomatter and grow natural replacement organs. Requires power.</TableOrganvat_Frame.description>
 
-  <TableSynthetics.label>人造器官组装台</TableSynthetics.label>
-  <TableSynthetics_Blueprint.label>人造器官组装台 （蓝图）</TableSynthetics_Blueprint.label>
-  <TableSynthetics_Frame.label>人造器官组装台 （建造中）</TableSynthetics_Frame.label>
+  <BioRefinery.label>bio-refinery</BioRefinery.label>
+  <BioRefinery.description>A machine for making biodiesel and silage.</BioRefinery.description>
+  <BioRefinery_Blueprint.label>bio-refinery (blueprint)</BioRefinery_Blueprint.label>
+  <BioRefinery_Frame.label>bio-refinery (building)</BioRefinery_Frame.label>
+  <BioRefinery_Frame.description>A machine for making biodiesel and silage.</BioRefinery_Frame.description>
 
-  <TableBionics.label>仿生体工作台</TableBionics.label>
-  <TableBionics_Blueprint.label>仿生体工作台 （蓝图）</TableBionics_Blueprint.label>
-  <TableBionics_Frame.label>仿生体工作台 （建造中）</TableBionics_Frame.label>
+  <MechWeaponCraftingWorkTable.label>futuristic weapon workbench</MechWeaponCraftingWorkTable.label>
+  <MechWeaponCraftingWorkTable.description>A workbench that produces futuristic Mechanoid weapons, such as laser beam rifles. Requires power.</MechWeaponCraftingWorkTable.description>
+  <MechWeaponCraftingWorkTable_Blueprint.label>futuristic weapon workbench (blueprint)</MechWeaponCraftingWorkTable_Blueprint.label>
+  <MechWeaponCraftingWorkTable_Frame.label>futuristic weapon workbench (building)</MechWeaponCraftingWorkTable_Frame.label>
+  <MechWeaponCraftingWorkTable_Frame.description>A workbench that produces futuristic Mechanoid weapons, such as laser beam rifles. Requires power.</MechWeaponCraftingWorkTable_Frame.description>
 
+  <TableSynthetics.label>synthetic organ assembler</TableSynthetics.label>
+  <TableSynthetics.description>A workstation fully equipped with an extremely powerful nano-printer capable of producing synthetic organs and AI chips. Requires power.</TableSynthetics.description>
+  <TableSynthetics_Blueprint.label>synthetic organ assembler (blueprint)</TableSynthetics_Blueprint.label>
+  <TableSynthetics_Frame.label>synthetic organ assembler (building)</TableSynthetics_Frame.label>
+  <TableSynthetics_Frame.description>A workstation fully equipped with an extremely powerful nano-printer capable of producing synthetic organs and AI chips. Requires power.</TableSynthetics_Frame.description>
 
-  <UpgradingStation.label>神经机械体工作台</UpgradingStation.label>
-  <UpgradingStation_Blueprint.label>神经机械体工作台 （蓝图）</UpgradingStation_Blueprint.label>
-  <UpgradingStation_Frame.label>神经机械体工作台 （建造中）</UpgradingStation_Frame.label>
+  <TableBionics.label>bionics workbench</TableBionics.label>
+  <TableBionics.description>A workbench equipped for production of high-tech bionic prosthetics. Requires power.</TableBionics.description>
+  <TableBionics_Blueprint.label>bionics workbench (blueprint)</TableBionics_Blueprint.label>
+  <TableBionics_Frame.label>bionics workbench (building)</TableBionics_Frame.label>
+  <TableBionics_Frame.description>A workbench equipped for production of high-tech bionic prosthetics. Requires power.</TableBionics_Frame.description>
 
+  <UpgradingStation.label>cybernetics workbench</UpgradingStation.label>
+  <UpgradingStation.description>A workbench equipped for production of cybernetic implants. Requires power.</UpgradingStation.description>
+  <UpgradingStation_Blueprint.label>cybernetics workbench (blueprint)</UpgradingStation_Blueprint.label>
+  <UpgradingStation_Frame.label>cybernetics workbench (building)</UpgradingStation_Frame.label>
+  <UpgradingStation_Frame.description>A workbench equipped for production of cybernetic implants. Requires power.</UpgradingStation_Frame.description>
 
 
   <!-- Robotic assembler -->
 
-  <RobAssem.label>自动化装配器</RobAssem.label>
-  <RobAssem_Blueprint.label>自动化装配器 （蓝图）</RobAssem_Blueprint.label>
-  <RobAssem_Frame.label>自动化装配器 （建造中）</RobAssem_Frame.label>
- 
+  <RobAssem.label>robotic assembler</RobAssem.label>
+  <RobAssem.description>A machine that applies state of the art robotics to construct machine components too intricate for simple human hands. Requires 5000W power when active.</RobAssem.description>
+  <RobAssem_Blueprint.label>robotic assembler (blueprint)</RobAssem_Blueprint.label>
+  <RobAssem_Frame.label>robotic assembler (building)</RobAssem_Frame.label>
+  <RobAssem_Frame.description>A machine that applies state of the art robotics to construct machine components too intricate for simple human hands. Requires 5000W power when active.</RobAssem_Frame.description>
 
 
   <!-- Matter fabricator -->
 
-  <Matterfab.label>量子加工台</Matterfab.label>
-  <Matterfab_Blueprint.label>量子加工台 （蓝图）</Matterfab_Blueprint.label>
-  <Matterfab_Frame.label>量子加工台 （建造中）</Matterfab_Frame.label>
-  
+  <Matterfab.label>quantum fabricator</Matterfab.label>
+  <Matterfab.description>The quantum fabricator is the forefront of quantum thermodynamics and plasma spectrometry. This machine disassembles elements into base subatomic particles and re-assembles them into powerful artificial elements. Requires power.</Matterfab.description>
+  <Matterfab_Blueprint.label>quantum fabricator (blueprint)</Matterfab_Blueprint.label>
+  <Matterfab_Frame.label>quantum fabricator (building)</Matterfab_Frame.label>
+  <Matterfab_Frame.description>The quantum fabricator is the forefront of quantum thermodynamics and plasma spectrometry. This machine disassembles elements into base subatomic particles and re-assembles them into powerful artificial elements. Requires power.</Matterfab_Frame.description>
 
 
   <!-- Hadron Collider -->
 
-  <HadronCollider.label>强子对撞机</HadronCollider.label>
-  <HadronCollider_Blueprint.label>强子对撞机 （蓝图）</HadronCollider_Blueprint.label>
-  <HadronCollider_Frame.label>强子对撞机 （建造中）</HadronCollider_Frame.label>
-  
-  <HadronColliderFeeder.label>强子对撞机料斗</HadronColliderFeeder.label>
-  <HadronColliderFeeder_Blueprint.label>强子对撞机料斗 （蓝图）</HadronColliderFeeder_Blueprint.label>
-  <HadronColliderFeeder_Blueprint_Install.label>强子对撞机料斗 （蓝图）</HadronColliderFeeder_Blueprint_Install.label>
-  <HadronColliderFeeder_Frame.label>强子对撞机料斗 （建造中）</HadronColliderFeeder_Frame.label>
+  <HadronCollider.label>hadron collider</HadronCollider.label>
+  <HadronCollider.description>An apparatus for accelerating subatomic particles to high velocities by means of electric or electromagnetic fields. The accelerated particles are generally made to collide with other particles, either as a research technique or for the generation of high-energy X-rays and gamma rays.</HadronCollider.description>
+  <HadronCollider_Blueprint.label>hadron collider (blueprint)</HadronCollider_Blueprint.label>
+  <HadronCollider_Frame.label>hadron collider (building)</HadronCollider_Frame.label>
+  <HadronCollider_Frame.description>An apparatus for accelerating subatomic particles to high velocities by means of electric or electromagnetic fields. The accelerated particles are generally made to collide with other particles, either as a research technique or for the generation of high-energy X-rays and gamma rays.</HadronCollider_Frame.description>
 
+  <HadronColliderFeeder.label>hadron collider hopper</HadronColliderFeeder.label>
+  <HadronColliderFeeder.description>Holds inorganic matter for the hadron collider.</HadronColliderFeeder.description>
+  <HadronColliderFeeder_Blueprint.label>hadron collider hopper (blueprint)</HadronColliderFeeder_Blueprint.label>
+  <HadronColliderFeeder_Blueprint_Install.label>hadron collider hopper (blueprint)</HadronColliderFeeder_Blueprint_Install.label>
+  <HadronColliderFeeder_Frame.label>hadron collider hopper (building)</HadronColliderFeeder_Frame.label>
+  <HadronColliderFeeder_Frame.description>Holds inorganic matter for the hadron collider.</HadronColliderFeeder_Frame.description>
 
 
 </LanguageData>

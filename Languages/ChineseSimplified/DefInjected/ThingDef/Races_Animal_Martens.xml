@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fishercat.label>fisher</Fishercat.label>
+  <Fishercat.description>A small mammal of the Marten genus, the Fisher- or alternatively 'Fisher Cat' is neither a fish eater nor a cat. Genetically closer to a weasel, fishers are long bodied but short lived. Considering their small size, fishers are known to be particularly vicious; hunting unusual prey such as porcupines and even young deer.\n\nDespite their cute appearance, fishers are very much wild and not likely to make a good pet.</Fishercat.description>
+  <Fishercat.tools.0.label>left claw</Fishercat.tools.0.label>
+  <Fishercat.tools.1.label>right claw</Fishercat.tools.1.label>
+  <Fishercat.tools.3.label>head</Fishercat.tools.3.label>
+  <Fishercat_Leather.label>fisher leather</Fishercat_Leather.label>
+  <Fishercat_Leather.description>fisher leather</Fishercat_Leather.description>
+  <Fishercat_Leather.stuffProps.stuffAdjective>fisher leather</Fishercat_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Fishercat_Corpse.label>fisher corpse</Fishercat_Corpse.label>
+  <Fishercat_Corpse.description>fisher corpse</Fishercat_Corpse.description>
+
+  <Ermine.label>ermine</Ermine.label>
+  <Ermine.description>A nearly pure-white stoat; a smaller member of the weasel family.</Ermine.description>
+  <Ermine.tools.0.label>left claw</Ermine.tools.0.label>
+  <Ermine.tools.1.label>right claw</Ermine.tools.1.label>
+  <Ermine.tools.3.label>head</Ermine.tools.3.label>
+  <Ermine_Leather.label>ermine leather</Ermine_Leather.label>
+  <Ermine_Leather.description>ermine leather</Ermine_Leather.description>
+  <Ermine_Leather.stuffProps.stuffAdjective>ermine leather</Ermine_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Ermine_Corpse.label>ermine corpse</Ermine_Corpse.label>
+  <Ermine_Corpse.description>ermine corpse</Ermine_Corpse.description>
+
+
+</LanguageData>

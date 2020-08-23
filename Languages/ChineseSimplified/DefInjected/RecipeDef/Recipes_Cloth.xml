@@ -1,40 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeCloth.label>纺织布</MakeCloth.label>
-  <MakeCloth.description>将棉花纺织成布。\n\n产出：20</MakeCloth.description>
-  <MakeCloth.jobString>正在纺织布。</MakeCloth.jobString>
+  <Make_Patchleather.label>make patchleather</Make_Patchleather.label>
+  <Make_Patchleather.description>Combine various types of leather to create weak patchleather.</Make_Patchleather.description>
+  <Make_Patchleather.jobString>Making patchleather.</Make_Patchleather.jobString>
 
-  <MakeLinen.label>纺织亚麻布</MakeLinen.label>
-  <MakeLinen.description>将亚麻织成亚麻布。\n\n产出：10</MakeLinen.description>
-  <MakeLinen.jobString>正在纺织亚麻布。</MakeLinen.jobString>
+  <MakeCloth.label>Spin cloth</MakeCloth.label>
+  <MakeCloth.description>Spin cloth from raw cotton. Produces 20.</MakeCloth.description>
+  <MakeCloth.jobString>Spinning cloth from raw cotton.</MakeCloth.jobString>
 
-  <MakeHempCloth.label>纺织大麻布</MakeHempCloth.label>
-  <MakeHempCloth.description>将大麻纤维纺织成大麻布。\n\n产出：15</MakeHempCloth.description>
-  <MakeHempCloth.jobString>正在纺织大麻布。</MakeHempCloth.jobString>
+  <MakeLinen.label>Spin linen cloth</MakeLinen.label>
+  <MakeLinen.description>Spin linen cloth from raw flax. Produces 10.</MakeLinen.description>
+  <MakeLinen.jobString>Spinning linen cloth from raw flax.</MakeLinen.jobString>
 
-  <MakeSynthreadCloth.label>制作合成纤维</MakeSynthreadCloth.label>
-  <MakeSynthreadCloth.description>将棉花纤维和人造纤维纺织成合成纤维。 \n\n产出：10</MakeSynthreadCloth.description>
-  <MakeSynthreadCloth.jobString>正在制作合成纤维。</MakeSynthreadCloth.jobString>
+  <MakeHempCloth.label>Spin hemp</MakeHempCloth.label>
+  <MakeHempCloth.description>Spin weed into hemp. Produces 15.</MakeHempCloth.description>
+  <MakeHempCloth.jobString>Spinning hemp from weed.</MakeHempCloth.jobString>
 
-  <MakeDevilstrand.label>纺织魔菇布</MakeDevilstrand.label>
-  <MakeDevilstrand.description>将恶魔菇制成魔菇布。\n\n产出：15</MakeDevilstrand.description>
-  <MakeDevilstrand.jobString>正在制作魔菇布。</MakeDevilstrand.jobString>
+  <MakeSynthreadCloth.label>Spin synthread</MakeSynthreadCloth.label>
+  <MakeSynthreadCloth.description>Spin synthread from raw cotton and synthetic fibers. Produces 10.</MakeSynthreadCloth.description>
+  <MakeSynthreadCloth.jobString>Spinning synthread from synthetic fibers.</MakeSynthreadCloth.jobString>
 
-  <MakeHyperweaveCloth.label>纺织超织物</MakeHyperweaveCloth.label>
-  <MakeHyperweaveCloth.description>将人造纤维和魔菇布制成成超织物。\n\n产出：10</MakeHyperweaveCloth.description>
-  <MakeHyperweaveCloth.jobString>正在制作超超织物。</MakeHyperweaveCloth.jobString>
+  <MakeDevilstrand.label>Spin devilstrand cloth</MakeDevilstrand.label>
+  <MakeDevilstrand.description>Spin devilstrand cloth from synthetic fibers. Produces 15.</MakeDevilstrand.description>
+  <MakeDevilstrand.jobString>Spinning devilstrand cloth from synthetic fibers.</MakeDevilstrand.jobString>
 
-  <MakeVelour.label>纺织丝绒</MakeVelour.label>
-  <MakeVelour.description>纺织丝绒，一种类似天鹅绒的毛绒机织物，主要用于制造柔软的家具、休闲服装和帽子。 \n\n产出：25</MakeVelour.description>
-  <MakeVelour.jobString>正在纺织丝绒。</MakeVelour.jobString>
+  <MakeHyperweaveCloth.label>Spin hyperweave</MakeHyperweaveCloth.label>
+  <MakeHyperweaveCloth.description>Spin hyperweave from synthread and devilstrand cloth. Produces 10.</MakeHyperweaveCloth.description>
+  <MakeHyperweaveCloth.jobString>Spinning hyperweave from devilstrand and synthread.</MakeHyperweaveCloth.jobString>
+
+  <MakeVelour.label>Spin velour</MakeVelour.label>
+  <MakeVelour.description>Spin velour, a plush woven fabric resembling velvet, chiefly used for soft furnishings, casual clothing, and hats. Produces 25.</MakeVelour.description>
+  <MakeVelour.jobString>Spinning velour from various materials.</MakeVelour.jobString>
+
+  <MakeKevlar.label>Create kevlar</MakeKevlar.label>
+  <MakeKevlar.description>Create kevlar from plastic and synthetic fibers. Produces 10.</MakeKevlar.description>
+  <MakeKevlar.jobString>Creating kevlar.</MakeKevlar.jobString>
 
 
   <!-- Hex cell -->
 
-  <MakeHexcell.label>制作动力核</MakeHexcell.label>
-  <MakeHexcell.description>制作动力核。主要用于各类高科技盔甲的内置能量源。 \n\n产出：10</MakeHexcell.description>
-  <MakeHexcell.jobString>正在制作动力核。</MakeHexcell.jobString>
+  <MakeHexcell.label>Craft hex-cells</MakeHexcell.label>
+  <MakeHexcell.description>Craft hex-cells. These are used as power source in various pieces of high-tech armor. Produces 10.</MakeHexcell.description>
+  <MakeHexcell.jobString>Crafting hex-cells.</MakeHexcell.jobString>
 
 
 </LanguageData>

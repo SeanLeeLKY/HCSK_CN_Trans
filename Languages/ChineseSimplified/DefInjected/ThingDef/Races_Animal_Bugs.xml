@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mosquito.label>Mosquito</Mosquito.label>
+  <Mosquito.description>Mosquitoes are small, parasitic, flies whose tube-like mouthparts (called a proboscis) pierce the hosts' skin to consume blood. This rimworld variety has adapted to be omnivorious, but prefers the succelent taste of fresh blood if possible. Mosquitoes are known to carry and spread diseases.</Mosquito.description>
+  <Mosquito.tools.0.label>mouth</Mosquito.tools.0.label>
+  <Mosquito.tools.1.label>head</Mosquito.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Mosquito_Corpse.label>Mosquito corpse</Mosquito_Corpse.label>
+  <Mosquito_Corpse.description>Mosquito corpse</Mosquito_Corpse.description>
+
+  <Crashbug.label>Crashbug</Crashbug.label>
+  <Crashbug.description>These fearsome, carnivorous beetle-bugs are small and hard to find, and they can often be fatal if one strikes. They attack by ramming or crashing into their target. This is what earned them their name of Crashbug.</Crashbug.description>
+  <Crashbug.tools.0.label>mouth</Crashbug.tools.0.label>
+  <Crashbug.tools.1.label>head</Crashbug.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Crashbug_Corpse.label>Crashbug corpse</Crashbug_Corpse.label>
+  <Crashbug_Corpse.description>Crashbug corpse</Crashbug_Corpse.description>
+
+  <Fly.label>Fly</Fly.label>
+  <Fly.description>The small housefly has evolved on this rimworld to become a common and larger nuisance insect. Flies are known to carry and spread diseases.</Fly.description>
+  <Fly.tools.0.label>mouth</Fly.tools.0.label>
+  <Fly.tools.1.label>head</Fly.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Fly_Corpse.label>Fly corpse</Fly_Corpse.label>
+  <Fly_Corpse.description>Fly corpse</Fly_Corpse.description>
+
+  <Flea.label>Flea</Flea.label>
+  <Flea.description>Fleas are wingless insects with mouthparts adapted for piercing skin and sucking blood. Fleas are external parasites, living by hematophagy off the blood of mammals.</Flea.description>
+  <Flea.tools.0.label>mouth</Flea.tools.0.label>
+  <Flea.tools.1.label>head</Flea.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Flea_Corpse.label>Flea corpse</Flea_Corpse.label>
+  <Flea_Corpse.description>Flea corpse</Flea_Corpse.description>
+
+  <Cockroach.label>cockroach</Cockroach.label>
+  <Cockroach.description>Cockroaches are omnivorous scavengers. They are attracted particularly to meats, starches, sugars, and fatty foods.</Cockroach.description>
+  <Cockroach.tools.0.label>mouth</Cockroach.tools.0.label>
+  <Cockroach.tools.1.label>head</Cockroach.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Cockroach_Corpse.label>cockroach corpse</Cockroach_Corpse.label>
+  <Cockroach_Corpse.description>cockroach corpse</Cockroach_Corpse.description>
+
+  <CropEaterInsect.label>Cropeater</CropEaterInsect.label>
+  <CropEaterInsect.description>A small beetle that enjoys devouring plants.</CropEaterInsect.description>
+  <CropEaterInsect.tools.1.label>head</CropEaterInsect.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <CropEaterInsect_Corpse.label>Cropeater corpse</CropEaterInsect_Corpse.label>
+  <CropEaterInsect_Corpse.description>Cropeater corpse</CropEaterInsect_Corpse.description>
+
+
+</LanguageData>

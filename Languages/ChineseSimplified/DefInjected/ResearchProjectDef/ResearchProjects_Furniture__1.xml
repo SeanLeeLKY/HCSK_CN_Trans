@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Furniture -->
+
+  <SK_Glowstone.label>耀石灯</SK_Glowstone.label>
+  <SK_Glowstone.description>解锁如何用漂亮的耀石建造灯具。</SK_Glowstone.description>
+
+
+  <!-- GlowstoneLamp -->
+
+  <BagBeds.label>餐厅家具 I</BagBeds.label>
+  <BagBeds.description>解锁建造一部分餐厅家具，例如长桌、凳子等。</BagBeds.description>
+
+
+  <!-- Stool
+	Bench
+	Table2x4c -->
+
+  <SK_DiningRoomII.label>餐厅家具 II</SK_DiningRoomII.label>
+  <SK_DiningRoomII.description>解锁建造更加舒适的餐厅家具，例如餐椅等。</SK_DiningRoomII.description>
+
+
+  <!-- DiningChair
+			RoundedTable2x4c -->
+
+  <SK_DiningRoomIII.label>餐厅家具 III</SK_DiningRoomIII.label>
+  <SK_DiningRoomIII.description>解锁建造现代风格的桌子和服务桌等餐厅家具。</SK_DiningRoomIII.description>
+
+
+  <!-- TeaTable
+				ClutterSmallTableModern
+				ClutterMediumTableModern -->
+
+  <SK_DiningRoomIV.label>餐厅家具 IV</SK_DiningRoomIV.label>
+  <SK_DiningRoomIV.description>解锁建造很多漂亮舒适的椅子。</SK_DiningRoomIV.description>
+
+
+  <!-- PodChair -->
+
+  <SK_RecreationRoomI.label>休闲家具 I</SK_RecreationRoomI.label>
+  <SK_RecreationRoomI.description>生存是一件很艰难的事情，殖民者们有时候会抱怨工作充斥着整个生活。解锁一些游戏娱乐方式，例如一些传统的马蹄钉等游戏。</SK_RecreationRoomI.description>
+
+
+  <!-- HorseshoesPin
+	Easel
+	ArcheryTarget -->
+
+  <SK_RecreationRoomII.label>休闲家具 II</SK_RecreationRoomII.label>
+  <SK_RecreationRoomII.description>努力让生活变得更加舒适也是一项非常重要的内容，为殖民地解锁一些桌游、阅读的休闲方式，以及一些让你感觉温馨的家具。</SK_RecreationRoomII.description>
+
+
+  <!-- ClutterCouchA их два
+				ReversiTable
+				CardTable
+				Bookcase
+				ReadingTable
+				ChessTable
+				GoTable -->
+
+  <TubeTelevision.label>休闲家具 III</TubeTelevision.label>
+  <TubeTelevision.description>努力让生活变得更加舒适也是一项非常重要的内容，为殖民地解锁台球桌以及电视机。</TubeTelevision.description>
+
+
+  <!-- JournalTable
+					BilliardsTable
+					TubeTelevision
+					Telescope -->
+
+  <SK_RecreationRoomIV.label>休闲家具 IV</SK_RecreationRoomIV.label>
+  <SK_RecreationRoomIV.description>努力让生活变得更加舒适也是一项非常重要的内容，为殖民地解锁望远镜和更好的电视机。</SK_RecreationRoomIV.description>
+
+
+  <!-- SixSixRoundRug
+							GlassMonitorLarge
+							FlatscreenTelevision
+							MegascreenTelevision
+							
+							HoloEmitter 
+							HoloFlyingDots 
+							HoloSciSign -->
+
+  <Bedrolls.label>中古风格家具</Bedrolls.label>
+  <Bedrolls.description>解锁建造能够让殖民者们感觉舒适的简单家具，包括床和桌子。</Bedrolls.description>
+
+
+  <!-- Bedroll
+			BedrollDouble
+			EndTableSimple
+			ClutterStylist
+			OneOneSquareRug -->
+
+  <Beds.label>文艺复兴风格家具</Beds.label>
+  <Beds.description>解锁建造文艺复兴时期风格的家具，包括床和桌子。</Beds.description>
+
+
+  <!-- Bed
+			DoubleBed
+			Dresser
+			ComfyBed -->
+
+  <SK_BedroomII.label>皇室风格家具</SK_BedroomII.label>
+  <SK_BedroomII.description>解锁建造一些舒适的皇室风格的家具，包括床和桌子。</SK_BedroomII.description>
+
+
+  <!-- TwoTwoSquareRug
+			ThreeThreeSquareRug
+			RoyalBed
+			Commode -->
+
+  <SK_BedroomIndustrial.label>工业风格家具</SK_BedroomIndustrial.label>
+  <SK_BedroomIndustrial.description>解锁建造一些舒适的工业风格的家具，包括床和桌子。</SK_BedroomIndustrial.description>
+
+
+  <!-- industrial_single_bed
+			industrial_double_bed
+			prison_single_bed_LB
+			prison_single_bed_RT -->
+
+  <SK_BedroomIII.label>奢华风格家具</SK_BedroomIII.label>
+  <SK_BedroomIII.description>解锁一些更加奢华的桌椅和卧具，让殖民者享受完美的异星生活。</SK_BedroomIII.description>
+
+
+  <!-- FourFourSquareRug
+					FiveFiveSquareRug
+					EndTable
+					Armchair
+					bedred
+					bedgreen
+					bedblue
+					royalbedred
+					royalbedgreen
+					royalbedblue -->
+
+  <SK_BedroomIV.label>纳米时代卧室家具</SK_BedroomIV.label>
+  <SK_BedroomIV.description>纳米时代的科技应用于家居制品能够为殖民地解锁更加符合人体工学的舒适桌椅和卧具。</SK_BedroomIV.description>
+
+
+  <!-- SixSixSquareRug
+							SevenSevenSquareRug
+							PodBed
+							ClutterBedA
+							ClutterEkieBed -->
+
+  <SK_BedroomV.label>宇航风格卧室家具</SK_BedroomV.label>
+  <SK_BedroomV.description>解锁宇宙游轮风格的卧室家居。</SK_BedroomV.description>
+
+
+  <!-- space_single_bed
+										cryo_double_bed
+										space_double_bed
+										cryo_single_bed -->
+
+  <SK_ErgonomicsI.label>工效学 I</SK_ErgonomicsI.label>
+  <SK_ErgonomicsI.description>通过数据分析得出优解工作流程，能够让殖民地建造一些初级的提高工作效率的设施。解锁小型工具柜和厨具柜。</SK_ErgonomicsI.description>
+
+
+  <!-- Small_ToolCabinet
+	CookingTools -->
+
+  <SK_ErgonomicsII.label>工效学 II</SK_ErgonomicsII.label>
+  <SK_ErgonomicsII.description>通过先进的数据分析得出更加优解的工作流程，能够让殖民地建造一些提高工作效率的设施。解锁文件柜和更多种类的工具柜。</SK_ErgonomicsII.description>
+
+
+  <!-- FileCabinet
+					Patterner -->
+
+  <MultiAnalyzer.label>工效学 III</MultiAnalyzer.label>
+  <MultiAnalyzer.description>通过进一步的数据分析得出更加优解的工作流程，能够让殖民地建造提高工作效率的设施。解锁多元分析仪。</MultiAnalyzer.description>
+
+
+  <!-- ToolCabinet
+					MultiAnalyzer -->
+
+  <SK_HygleneI.label>卫生 I</SK_HygleneI.label>
+  <SK_HygleneI.description>这是打造一个干净卫生的殖民地的第一步：减少因为行走带来的各种尘土飞扬和卫生感染。解锁一些地毯以及其它设施。</SK_HygleneI.description>
+
+
+  <!-- OneTwoRunner
+		OneThreeRunner
+		OneFourRunner
+		Kiln -->
+
+  <ElectricCremation.label>卫生 II</ElectricCremation.label>
+  <ElectricCremation.description>解锁电力焚化装置，能够用来焚化尸体、服装以及你不想看见的其它东西。</ElectricCremation.description>
+
+
+  <!-- OneFiveRunner Six Seven
+			ElectricCrematorium
+			ClutterTrashBin -->
+
+  <SK_StorageI.label>存储设施 I</SK_StorageI.label>
+  <SK_StorageI.description>“这么一团糟的地方，我的枪应该放哪里？”\n 解锁饲养盆、篮子和托架。</SK_StorageI.description>
+
+
+  <!-- Storage_WoodenPalletSmall
+	Storage_FabricHamper
+	Shelf
+	ClutterShelf
+	ClutterLocker
+	Candle а фиг его знает что тут свечка делает -->
+
+  <SK_StorageII.label>存储设施 II</SK_StorageII.label>
+  <SK_StorageII.description>解锁一些更加有效率的存储设施。解锁壁柜、储物架、箕斗以及晾晒架。</SK_StorageII.description>
+
+
+  <!-- Storage_SkipBig
+			Storage_Locker
+			ClutterSmallServingTable
+			ClutterMedicKitTable -->
+
+  <SK_StorageIII.label>存储设施 III</SK_StorageIII.label>
+  <SK_StorageIII.description>“一捆、一捆、又一捆...额，说真的，这玩意儿该怎么用？” \n 研究一种高效的存储解决方案。当把这个装置放置在存储区中的时候，它会自动的将周围的物品规整堆叠起来，远远超过正常存储的数量限制。同时解锁危险品容器和冷藏容器。</SK_StorageIII.description>
+
+
+  <!-- RefrigeratedTrayRack
+					Storage_HazMatContainer
+					ClutterResourceTable
+					ClutterLockerA -->
+
+  <SK_TrainingFacilitiesI.label>训练设施 I</SK_TrainingFacilitiesI.label>
+  <SK_TrainingFacilitiesI.description>这项科技能够让殖民地解锁建造尸体解剖台，医生可以通过这个设施来研究生物体构造情况，提高医疗技能；同时解锁拳击袋，殖民者们可以利用这个设备来练习近战技能。</SK_TrainingFacilitiesI.description>
+
+
+  <!-- PunchingBag
+			MartialArtsTarget -->
+
+  <SK_TrainingFacilitiesII.label>训练设施 II</SK_TrainingFacilitiesII.label>
+  <SK_TrainingFacilitiesII.description>这项科技能够解锁建造全息互动面板，殖民者们可以利用这个设施来练习他们的社交技能。</SK_TrainingFacilitiesII.description>
+
+
+  <!-- ShootingRangeTarget
+			Holodeck -->
+
+  <FloorArt.label>地板 I</FloorArt.label>
+  <FloorArt.description>解锁建造各种美化或者特殊用途的地板。</FloorArt.description>
+
+
+  <!-- Bunch of terrain thingdefs ? -->
+
+  <FloorArtII.label>地板 II</FloorArtII.label>
+  <FloorArtII.description>解锁建造各种美化或者特殊用途的地板。</FloorArtII.description>
+
+  <FloorArtIII.label>地板 III</FloorArtIII.label>
+  <FloorArtIII.description>解锁建造各种美化或者特殊用途的地板。</FloorArtIII.description>
+
+  <FloorArtIV.label>地板 IV</FloorArtIV.label>
+  <FloorArtIV.description>解锁建造各种美化或者特殊用途的地板。</FloorArtIV.description>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- basic parts -->
+
+  <EyePatch.label>eye patch</EyePatch.label>
+  <EyePatch.description>Covers the eye socket. Intimidating.</EyePatch.description>
+
+  <HookHand.label>hook hand</HookHand.label>
+  <HookHand.description>Replaces missing hands. Pretty scary. Yarr.</HookHand.description>
+
+  <Denture.label>denture</Denture.label>
+  <Denture.description>Replaces a missing jaw with wooden teeth. Smells a bit.</Denture.description>
+
+  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <CochlearImplant.description>An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf.</CochlearImplant.description>
+
+  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.description>A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative.</SimpleProstheticHeart.description>
+
+
+</LanguageData>

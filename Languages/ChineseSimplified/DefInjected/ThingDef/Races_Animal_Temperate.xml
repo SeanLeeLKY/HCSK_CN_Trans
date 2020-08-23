@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Temperate -->
+
+  <Deer.label>deer</Deer.label>
+  <Deer.description>A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick.</Deer.description>
+  <Deer.tools.0.label>left hoof</Deer.tools.0.label>
+  <Deer.tools.1.label>right hoof</Deer.tools.1.label>
+  <Deer.tools.3.label>head</Deer.tools.3.label>
+  <Deer.tools.4.label>antlers</Deer.tools.4.label>
+  <Deer_Leather.label>deer leather</Deer_Leather.label>
+  <Deer_Leather.description>deer leather</Deer_Leather.description>
+  <Deer_Leather.stuffProps.stuffAdjective>deer leather</Deer_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Deer_Corpse.label>deer corpse</Deer_Corpse.label>
+  <Deer_Corpse.description>deer corpse</Deer_Corpse.description>
+
+
+  <!-- Temperate -->
+
+  <Ibex.label>ibex</Ibex.label>
+  <Ibex.description>The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack.</Ibex.description>
+  <Ibex.tools.0.label>left hoof</Ibex.tools.0.label>
+  <Ibex.tools.1.label>right hoof</Ibex.tools.1.label>
+  <Ibex.tools.3.label>head</Ibex.tools.3.label>
+  <Ibex.tools.4.label>antlers</Ibex.tools.4.label>
+  <Ibex_Leather.label>ibex leather</Ibex_Leather.label>
+  <Ibex_Leather.description>ibex leather</Ibex_Leather.description>
+  <Ibex_Leather.stuffProps.stuffAdjective>ibex leather</Ibex_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Ibex_Corpse.label>ibex corpse</Ibex_Corpse.label>
+  <Ibex_Corpse.description>ibex corpse</Ibex_Corpse.description>
+
+
+  <!-- Temperate -->
+
+  <Elk.label>elk</Elk.label>
+  <Elk.description>A moose or elk is a larger member of the deer family. It is well-adapted to life in cold climates.</Elk.description>
+  <Elk.tools.0.label>left hoof</Elk.tools.0.label>
+  <Elk.tools.1.label>right hoof</Elk.tools.1.label>
+  <Elk.tools.3.label>head</Elk.tools.3.label>
+  <Elk.tools.4.label>antlers</Elk.tools.4.label>
+  <Elk_Leather.label>elk leather</Elk_Leather.label>
+  <Elk_Leather.description>elk leather</Elk_Leather.description>
+  <Elk_Leather.stuffProps.stuffAdjective>elk leather</Elk_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Elk_Corpse.label>elk corpse</Elk_Corpse.label>
+  <Elk_Corpse.description>elk corpse</Elk_Corpse.description>
+
+
+  <!-- Temperate -->
+
+  <Caribou.label>caribou</Caribou.label>
+  <Caribou.description>A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs.</Caribou.description>
+  <Caribou.tools.0.label>left hoof</Caribou.tools.0.label>
+  <Caribou.tools.1.label>right hoof</Caribou.tools.1.label>
+  <Caribou.tools.3.label>head</Caribou.tools.3.label>
+  <Caribou.tools.4.label>antlers</Caribou.tools.4.label>
+  <Caribou_Leather.label>caribou leather</Caribou_Leather.label>
+  <Caribou_Leather.description>caribou leather</Caribou_Leather.description>
+  <Caribou_Leather.stuffProps.stuffAdjective>caribou leather</Caribou_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Caribou_Corpse.label>caribou corpse</Caribou_Corpse.label>
+  <Caribou_Corpse.description>caribou corpse</Caribou_Corpse.description>
+
+
+  <!-- Temperate -->
+
+  <WildBoar.label>wild boar</WildBoar.label>
+  <WildBoar.description>This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks.</WildBoar.description>
+  <WildBoar.tools.0.label>tusk</WildBoar.tools.0.label>
+  <WildBoar.tools.1.label>tusk</WildBoar.tools.1.label>
+  <WildBoar.tools.3.label>head</WildBoar.tools.3.label>
+  <WildBoar_Leather.label>wild boar leather</WildBoar_Leather.label>
+  <WildBoar_Leather.description>wild boar leather</WildBoar_Leather.description>
+  <WildBoar_Leather.stuffProps.stuffAdjective>wild boar leather</WildBoar_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <WildBoar_Corpse.label>wild boar corpse</WildBoar_Corpse.label>
+  <WildBoar_Corpse.description>wild boar corpse</WildBoar_Corpse.description>
+
+
+  <!-- Temperate -->
+
+  <Tortoise.label>tortoise</Tortoise.label>
+  <Tortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights.</Tortoise.description>
+  <Tortoise.tools.1.label>head</Tortoise.tools.1.label>
+  <Tortoise_Leather.label>tortoise leather</Tortoise_Leather.label>
+  <Tortoise_Leather.description>tortoise leather</Tortoise_Leather.description>
+  <Tortoise_Leather.stuffProps.stuffAdjective>tortoise leather</Tortoise_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Tortoise_Corpse.label>tortoise corpse</Tortoise_Corpse.label>
+  <Tortoise_Corpse.description>tortoise corpse</Tortoise_Corpse.description>
+
+
+</LanguageData>

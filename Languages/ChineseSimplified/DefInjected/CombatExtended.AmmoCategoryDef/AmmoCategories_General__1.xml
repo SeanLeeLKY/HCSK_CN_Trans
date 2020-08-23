@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FullMetalJacket.label>全金属被甲弹</FullMetalJacket.label>
+  <FullMetalJacket.labelShort>FMJ</FullMetalJacket.labelShort>
+  <FullMetalJacket.description>软铅芯被包裹在坚硬的金属壳体中，拥有中等强度的停止力和装甲穿透力。</FullMetalJacket.description>
+
+  <ArmorPiercing.label>穿甲弹</ArmorPiercing.label>
+  <ArmorPiercing.labelShort>AP</ArmorPiercing.labelShort>
+  <ArmorPiercing.description>淬硬钢制成的弹头给予较强的装甲穿透力。</ArmorPiercing.description>
+
+  <HollowPoint.label>空尖弹</HollowPoint.label>
+  <HollowPoint.labelShort>HP</HollowPoint.labelShort>
+  <HollowPoint.description>空心的尖端会使子弹在撞击时膨胀，大大增加软组织伤害，但是装甲穿透力较低。</HollowPoint.description>
+
+  <Sabot.label>脱壳穿甲弹</Sabot.label>
+  <Sabot.labelShort>Sabot</Sabot.labelShort>
+  <Sabot.description>配备抛弃式托柄的弹药，能够将较小的弹丸以一个极高的速度射出，极大地提高装甲穿透力。</Sabot.description>
+
+  <IncendiaryAP.label>穿甲燃烧弹</IncendiaryAP.label>
+  <IncendiaryAP.labelShort>AP-I</IncendiaryAP.labelShort>
+  <IncendiaryAP.description>装满易燃制剂的硬化弹头在击中敌人时能够造成额外的火焰伤害，并附带点燃目标。</IncendiaryAP.description>
+
+  <ExplosiveAP.label>穿甲高爆弹</ExplosiveAP.label>
+  <ExplosiveAP.labelShort>AP-HE</ExplosiveAP.labelShort>
+  <ExplosiveAP.description>充满高爆炸药的弹头，可以造成额外伤害。</ExplosiveAP.description>
+
+
+</LanguageData>

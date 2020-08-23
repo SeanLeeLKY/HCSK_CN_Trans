@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EMP_Disorientation.label>disorientation</EMP_Disorientation.label>
+  <EMP_Disorientation.description>After-effects of an electrical shock to the brain. This is generally cause by feedback from brain implants hit by EMP pulses.</EMP_Disorientation.description>
+
+  <EMP_ProtectiveExoskeleton.label>disabled protective exoskeleton</EMP_ProtectiveExoskeleton.label>
+  <EMP_ProtectiveExoskeleton.description>An EMP pulse disabled the damage mitigating function of the protective exoskeleton, and becomes a deadweight that encumbers the user for a duration of time.</EMP_ProtectiveExoskeleton.description>
+
+  <AIPersonaCore_GlitchMinor.label>minor AI glitch</AIPersonaCore_GlitchMinor.label>
+  <AIPersonaCore_GlitchMinor.description>The AI persona core has suffered a minor failure in its system and is behaving in an annoying manner. It can recover over time, and treatment can slow down the severity of this condition until the system error is resolved by itself.</AIPersonaCore_GlitchMinor.description>
+  <AIPersonaCore_GlitchMinor.stages.0.label>minor</AIPersonaCore_GlitchMinor.stages.0.label>
+  <AIPersonaCore_GlitchMinor.stages.1.label>minor</AIPersonaCore_GlitchMinor.stages.1.label>
+  <AIPersonaCore_GlitchMinor.stages.2.label>major</AIPersonaCore_GlitchMinor.stages.2.label>
+  <AIPersonaCore_GlitchMinor.stages.3.label>critical</AIPersonaCore_GlitchMinor.stages.3.label>
+
+  <AIPersonaCore_GlitchMajor.label>major AI glitch</AIPersonaCore_GlitchMajor.label>
+  <AIPersonaCore_GlitchMajor.description>The AI persona core has suffered a major failure in its system and is behaving in a malicious manner. It can recover over time, and treatment can slow down the severity of this condition until the system error is resolved by itself.</AIPersonaCore_GlitchMajor.description>
+  <AIPersonaCore_GlitchMajor.stages.0.label>minor</AIPersonaCore_GlitchMajor.stages.0.label>
+  <AIPersonaCore_GlitchMajor.stages.1.label>major</AIPersonaCore_GlitchMajor.stages.1.label>
+  <AIPersonaCore_GlitchMajor.stages.2.label>critical</AIPersonaCore_GlitchMajor.stages.2.label>
+  <AIPersonaCore_GlitchMajor.stages.3.label>critical</AIPersonaCore_GlitchMajor.stages.3.label>
+
+  <AIPersonaCore_GlitchCritical.label>critical AI glitch</AIPersonaCore_GlitchCritical.label>
+  <AIPersonaCore_GlitchCritical.description>The AI persona core has suffered a critical failure in its system and is behaving in an extremely malicious manner. It can recover over time, and treatment can slow down the severity of this condition until the system error is resolved by itself.</AIPersonaCore_GlitchCritical.description>
+  <AIPersonaCore_GlitchCritical.stages.0.label>minor</AIPersonaCore_GlitchCritical.stages.0.label>
+  <AIPersonaCore_GlitchCritical.stages.1.label>major</AIPersonaCore_GlitchCritical.stages.1.label>
+  <AIPersonaCore_GlitchCritical.stages.2.label>critical</AIPersonaCore_GlitchCritical.stages.2.label>
+  <AIPersonaCore_GlitchCritical.stages.3.label>critical</AIPersonaCore_GlitchCritical.stages.3.label>
+
+  <AIPersonaCore_EMPed.label>AI EMP shock</AIPersonaCore_EMPed.label>
+  <AIPersonaCore_EMPed.description>The AI persona core has been affected by an EMP pulse and is rapidly attempting to recover its full functionality. Glitches in the system are likely to appear and cause malicious harm to the user.</AIPersonaCore_EMPed.description>
+  <AIPersonaCore_EMPed.stages.0.label>minor</AIPersonaCore_EMPed.stages.0.label>
+  <AIPersonaCore_EMPed.stages.1.label>major</AIPersonaCore_EMPed.stages.1.label>
+  <AIPersonaCore_EMPed.stages.2.label>critical</AIPersonaCore_EMPed.stages.2.label>
+  <AIPersonaCore_EMPed.stages.3.label>critical</AIPersonaCore_EMPed.stages.3.label>
+
+
+</LanguageData>

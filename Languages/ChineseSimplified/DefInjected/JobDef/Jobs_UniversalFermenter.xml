@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UF_FillUniversalFermenter.reportString>填装 TargetA。</UF_FillUniversalFermenter.reportString>
-  <UF_TakeProductOutOfUniversalFermenter.reportString>从 TargetA 取出产品。</UF_TakeProductOutOfUniversalFermenter.reportString>
+  <FillUniversalFermenter.reportString>filling TargetA.</FillUniversalFermenter.reportString>
+  <TakeProductOutOfUniversalFermenter.reportString>taking product out of TargetA.</TakeProductOutOfUniversalFermenter.reportString>
 
 
 </LanguageData>

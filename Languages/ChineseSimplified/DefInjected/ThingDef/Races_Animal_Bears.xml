@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bear_Grizzly.label>grizzly bear</Bear_Grizzly.label>
+  <Bear_Grizzly.description>Huge omnivorous mammals adapted for cold climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</Bear_Grizzly.description>
+  <Bear_Grizzly.tools.0.label>left claw</Bear_Grizzly.tools.0.label>
+  <Bear_Grizzly.tools.1.label>right claw</Bear_Grizzly.tools.1.label>
+  <Bear_Grizzly.tools.3.label>head</Bear_Grizzly.tools.3.label>
+  <Bear_Grizzly_Leather.label>grizzly bear leather</Bear_Grizzly_Leather.label>
+  <Bear_Grizzly_Leather.description>grizzly bear leather</Bear_Grizzly_Leather.description>
+  <Bear_Grizzly_Leather.stuffProps.stuffAdjective>grizzly bear leather</Bear_Grizzly_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Bear_Grizzly_Corpse.label>grizzly bear corpse</Bear_Grizzly_Corpse.label>
+  <Bear_Grizzly_Corpse.description>grizzly bear corpse</Bear_Grizzly_Corpse.description>
+
+  <Bear_Polar.label>polar bear</Bear_Polar.label>
+  <Bear_Polar.description>A great white bear that lives in the far north. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear is more than capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</Bear_Polar.description>
+  <Bear_Polar.tools.0.label>left claw</Bear_Polar.tools.0.label>
+  <Bear_Polar.tools.1.label>right claw</Bear_Polar.tools.1.label>
+  <Bear_Polar.tools.3.label>head</Bear_Polar.tools.3.label>
+  <Bear_Polar_Leather.label>polar bear leather</Bear_Polar_Leather.label>
+  <Bear_Polar_Leather.description>polar bear leather</Bear_Polar_Leather.description>
+  <Bear_Polar_Leather.stuffProps.stuffAdjective>polar bear leather</Bear_Polar_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Bear_Polar_Corpse.label>polar bear corpse</Bear_Polar_Corpse.label>
+  <Bear_Polar_Corpse.description>polar bear corpse</Bear_Polar_Corpse.description>
+
+  <PandaBear.label>panda bear</PandaBear.label>
+  <PandaBear.description>The giant panda -black and white cat-foot, also known as panda bear or simply panda, is a bear. It is easily recognized by the large, distinctive black patches around its eyes, over the ears, and across its round body. Giant pandas in the wild will occasionally eat other grasses, wild tubers, or even meat in the form of birds, rodents or carrion.</PandaBear.description>
+  <PandaBear.tools.0.label>left claw</PandaBear.tools.0.label>
+  <PandaBear.tools.1.label>right claw</PandaBear.tools.1.label>
+  <PandaBear.tools.3.label>head</PandaBear.tools.3.label>
+  <PandaBear_Leather.label>panda bear leather</PandaBear_Leather.label>
+  <PandaBear_Leather.description>panda bear leather</PandaBear_Leather.description>
+  <PandaBear_Leather.stuffProps.stuffAdjective>panda bear leather</PandaBear_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <PandaBear_Corpse.label>panda bear corpse</PandaBear_Corpse.label>
+  <PandaBear_Corpse.description>panda bear corpse</PandaBear_Corpse.description>
+
+
+</LanguageData>

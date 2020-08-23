@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CatatonicBreakdown.label>catatonic breakdown</CatatonicBreakdown.label>
+  <CatatonicBreakdown.description>Is in a catatonic breakdown</CatatonicBreakdown.description>
+  <CatatonicBreakdown.labelNoun>a catatonic breakdown</CatatonicBreakdown.labelNoun>
+
+  <FoodPoisoning.label>food poisoning</FoodPoisoning.label>
+  <FoodPoisoning.description>Poisoned by food</FoodPoisoning.description>
+  <FoodPoisoning.stages.0.label>recovering</FoodPoisoning.stages.0.label>
+  <FoodPoisoning.stages.1.label>major</FoodPoisoning.stages.1.label>
+  <FoodPoisoning.stages.2.label>initial</FoodPoisoning.stages.2.label>
+
+
+</LanguageData>

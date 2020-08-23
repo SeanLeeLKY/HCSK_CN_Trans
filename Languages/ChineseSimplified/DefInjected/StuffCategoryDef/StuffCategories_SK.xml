@@ -1,28 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Matty.label>Matty（物品？？）</Matty.label>
-  <Precious.label>贵重品</Precious.label>
-  <Metallic.label>金属类</Metallic.label>
-  <RareMetallic.label>稀有金属</RareMetallic.label>
-  <SolidMetallic.label>硬质金属</SolidMetallic.label>
-  <Woody.label>木材类</Woody.label>
-  <Stony.label>石材类</Stony.label>
-  <Bricks.label>砖块</Bricks.label>
-  <Fabric.label>纤维类</Fabric.label>
-  <HF.label>高科技织物</HF.label>
-  <Leathery.label>皮革类</Leathery.label>
-  <Plastic.label>塑料</Plastic.label>
-  <Ceramic.label>陶瓷</Ceramic.label>
-  <Glass.label>玻璃</Glass.label>
-  <Parts.label>部件</Parts.label>
-  <WoodLogs.label>原木</WoodLogs.label>
-  <Kindlingstuff.label>可燃物</Kindlingstuff.label>
-  <Foods.label>食物</Foods.label>
-  <Stuff.label>材料</Stuff.label>
-  <Chemical.label>化学品</Chemical.label>
-  <Hydrocarbons.label>烃类物</Hydrocarbons.label>
-  <Paint.label>油漆</Paint.label>
+  <Matty.label>Matty</Matty.label>
+  <Precious.label>Precious</Precious.label>
+  <Metallic.label>Metallic</Metallic.label>
+  <RareMetallic.label>Rare metallic</RareMetallic.label>
+  <SolidMetallic.label>Solid metallic</SolidMetallic.label>
+  <HeavyMetallic.label>Heavy metallic</HeavyMetallic.label>
+  <StrongMetallic.label>Strong metallic</StrongMetallic.label>
+  <RuggedMetallic.label>Rugged metallic</RuggedMetallic.label>
+  <Woody.label>Wooden</Woody.label>
+  <Stony.label>Stony</Stony.label>
+  <Bricks.label>Bricks</Bricks.label>
+  <Fabric.label>Fabric</Fabric.label>
+  <HF.label>Hitech Fabric</HF.label>
+  <Leathery.label>Leathery</Leathery.label>
+  <Plastic.label>Plastic</Plastic.label>
+  <Ceramic.label>Ceramic</Ceramic.label>
+  <Glass.label>Glass</Glass.label>
+  <Parts.label>Parts</Parts.label>
+  <WoodLogs.label>Wood Logs</WoodLogs.label>
+  <Kindlingstuff.label>Kindling</Kindlingstuff.label>
+  <Foods.label>Foods</Foods.label>
+  <Stuff.label>Stuff</Stuff.label>
+  <Chemical.label>Chemical</Chemical.label>
+  <Hydrocarbons.label>Hydrocarbons</Hydrocarbons.label>
+  <Paint.label>Paint</Paint.label>
 
 
 </LanguageData>

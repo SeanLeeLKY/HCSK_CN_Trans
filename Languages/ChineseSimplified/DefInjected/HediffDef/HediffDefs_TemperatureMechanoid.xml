@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OverheatMechanoid.label>overheat</OverheatMechanoid.label>
+  <OverheatMechanoid.description>Overheating causes system failure</OverheatMechanoid.description>
+  <OverheatMechanoid.stages.0.label>initial</OverheatMechanoid.stages.0.label>
+  <OverheatMechanoid.stages.1.label>initial</OverheatMechanoid.stages.1.label>
+  <OverheatMechanoid.stages.2.label>minor</OverheatMechanoid.stages.2.label>
+  <OverheatMechanoid.stages.3.label>serious</OverheatMechanoid.stages.3.label>
+  <OverheatMechanoid.stages.4.label>extreme</OverheatMechanoid.stages.4.label>
+
+  <GlaciationMechanoid.label>glaciation</GlaciationMechanoid.label>
+  <GlaciationMechanoid.description>Glaciation causes system failure</GlaciationMechanoid.description>
+  <GlaciationMechanoid.stages.0.label>minor</GlaciationMechanoid.stages.0.label>
+  <GlaciationMechanoid.stages.1.label>minor</GlaciationMechanoid.stages.1.label>
+  <GlaciationMechanoid.stages.2.label>moderate</GlaciationMechanoid.stages.2.label>
+  <GlaciationMechanoid.stages.3.label>serious</GlaciationMechanoid.stages.3.label>
+  <GlaciationMechanoid.stages.4.label>extreme</GlaciationMechanoid.stages.4.label>
+
+
+</LanguageData>

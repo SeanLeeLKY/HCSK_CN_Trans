@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tropical -->
+
+  <Cobra.label>cobra</Cobra.label>
+  <Cobra.description>A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</Cobra.description>
+  <Cobra.tools.0.label>venom-fangs</Cobra.tools.0.label>
+  <Cobra.tools.1.label>head</Cobra.tools.1.label>
+  <Cobra_Leather.label>cobra leather</Cobra_Leather.label>
+  <Cobra_Leather.description>cobra leather</Cobra_Leather.description>
+  <Cobra_Leather.stuffProps.stuffAdjective>cobra leather</Cobra_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Cobra_Corpse.label>cobra corpse</Cobra_Corpse.label>
+  <Cobra_Corpse.description>cobra corpse</Cobra_Corpse.description>
+
+
+  <!-- Tropical -->
+
+  <Monkey.label>monkey</Monkey.label>
+  <Monkey.description>A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks.</Monkey.description>
+  <Monkey.tools.0.label>left fist</Monkey.tools.0.label>
+  <Monkey.tools.1.label>right fist</Monkey.tools.1.label>
+  <Monkey.tools.3.label>head</Monkey.tools.3.label>
+  <Monkey_Leather.label>monkey leather</Monkey_Leather.label>
+  <Monkey_Leather.description>monkey leather</Monkey_Leather.description>
+  <Monkey_Leather.stuffProps.stuffAdjective>monkey leather</Monkey_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Monkey_Corpse.label>monkey corpse</Monkey_Corpse.label>
+  <Monkey_Corpse.description>monkey corpse</Monkey_Corpse.description>
+
+
+  <!-- Tropical -->
+
+  <Boomalope.label>boomalope</Boomalope.label>
+  <Boomalope.description>Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully.</Boomalope.description>
+  <Boomalope.tools.0.label>head</Boomalope.tools.0.label>
+  <Boomalope_Leather.label>boomalope leather</Boomalope_Leather.label>
+  <Boomalope_Leather.description>boomalope leather</Boomalope_Leather.description>
+  <Boomalope_Leather.stuffProps.stuffAdjective>boomalope leather</Boomalope_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Boomalope_Corpse.label>boomalope corpse</Boomalope_Corpse.label>
+  <Boomalope_Corpse.description>boomalope corpse</Boomalope_Corpse.description>
+
+
+  <!-- Tropical -->
+
+  <Lacosdile.label>lacosdile</Lacosdile.label>
+  <Lacosdile.description>A lacosdile is a crossbred and genetically manipulated lizard originally created as part of clever fragrance marketing gig. Being herbivorous and barely dangerous made them very common pets. However as the trends passed lacosdiles were soon found flooding the sewage systems, and in desperation were carried off across the galaxy to the furthest reaches of space. As a result the species now flourish on desolate rimworlds, where they have adapted to become omnivorous.</Lacosdile.description>
+  <Lacosdile.tools.0.label>left claw</Lacosdile.tools.0.label>
+  <Lacosdile.tools.1.label>right claw</Lacosdile.tools.1.label>
+  <Lacosdile.tools.3.label>head</Lacosdile.tools.3.label>
+  <Lacosdile_Leather.label>lacosdile leather</Lacosdile_Leather.label>
+  <Lacosdile_Leather.description>lacosdile leather</Lacosdile_Leather.description>
+  <Lacosdile_Leather.stuffProps.stuffAdjective>lacosdile leather</Lacosdile_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Lacosdile_Corpse.label>lacosdile corpse</Lacosdile_Corpse.label>
+  <Lacosdile_Corpse.description>lacosdile corpse</Lacosdile_Corpse.description>
+
+
+  <!-- Tropical -->
+
+  <Okapi.label>okapi</Okapi.label>
+  <Okapi.description>A giraffid artiodactyl mammal. Okapis are primarily diurnal but may be active for a few hours in darkness. They are essentially solitary, coming together only to breed. Okapis are herbivores, feeding on tree leaves and buds, grasses, ferns, fruits, and fungi. Okapis inhabit canopy forests at altitudes of 500–1,500 m (1,600–4,900 ft).</Okapi.description>
+  <Okapi.tools.0.label>left hoof</Okapi.tools.0.label>
+  <Okapi.tools.1.label>right hoof</Okapi.tools.1.label>
+  <Okapi.tools.2.label>teeth</Okapi.tools.2.label>
+  <Okapi.tools.3.label>head</Okapi.tools.3.label>
+  <Okapi_Leather.label>okapi leather</Okapi_Leather.label>
+  <Okapi_Leather.description>okapi leather</Okapi_Leather.description>
+  <Okapi_Leather.stuffProps.stuffAdjective>okapi leather</Okapi_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Okapi_Corpse.label>okapi corpse</Okapi_Corpse.label>
+  <Okapi_Corpse.description>okapi corpse</Okapi_Corpse.description>
+
+
+</LanguageData>

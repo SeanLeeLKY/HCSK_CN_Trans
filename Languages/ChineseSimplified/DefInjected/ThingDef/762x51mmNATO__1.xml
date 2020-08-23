@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_762x51mmNATO_FMJ.label>7.62x51mm 北约标准弹药（全金属被甲弹）</Ammo_762x51mmNATO_FMJ.label>
+  
+  <Ammo_762x51mmNATO_AP.label>7.62x51mm 北约标准弹药（穿甲弹）</Ammo_762x51mmNATO_AP.label>
+  
+  <Ammo_762x51mmNATO_HP.label>7.62x51mm 北约标准弹药（空尖弹）</Ammo_762x51mmNATO_HP.label>
+  
+
+  <!-- Projectiles -->
+
+  <Bullet_762x51mmNATO_FMJ.label>7.62mm 北约标准弹药（全金属被甲弹）</Bullet_762x51mmNATO_FMJ.label>
+  <Bullet_762x51mmNATO_AP.label>7.62mm 北约标准弹药（穿甲弹）</Bullet_762x51mmNATO_AP.label>
+  <Bullet_762x51mmNATO_HP.label>7.62mm 北约标准弹药（空尖弹）</Bullet_762x51mmNATO_HP.label>
+
+
+</LanguageData>

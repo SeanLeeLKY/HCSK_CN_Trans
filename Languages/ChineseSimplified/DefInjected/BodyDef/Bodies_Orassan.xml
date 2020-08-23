@@ -1,7 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Orassan.label>奥瑞森</Orassan.label>
+  <Orassan.label>Orassan</Orassan.label>
+  <Orassan.corePart.parts.7.customLabel>left lung</Orassan.corePart.parts.7.customLabel>
+  <Orassan.corePart.parts.8.customLabel>right lung</Orassan.corePart.parts.8.customLabel>
+  <Orassan.corePart.parts.9.customLabel>left kidney</Orassan.corePart.parts.9.customLabel>
+  <Orassan.corePart.parts.10.customLabel>right kidney</Orassan.corePart.parts.10.customLabel>
+  <Orassan.corePart.parts.12.parts.0.parts.1.customLabel>left eye</Orassan.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Orassan.corePart.parts.12.parts.0.parts.2.customLabel>right eye</Orassan.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Orassan.corePart.parts.12.parts.0.parts.3.customLabel>left ear</Orassan.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Orassan.corePart.parts.12.parts.0.parts.4.customLabel>right ear</Orassan.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Orassan.corePart.parts.13.parts.0.customLabel>left clavicle</Orassan.corePart.parts.13.parts.0.customLabel>
+  <Orassan.corePart.parts.13.parts.1.parts.0.customLabel>left humerus</Orassan.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Orassan.corePart.parts.13.parts.1.parts.1.customLabel>left radius</Orassan.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Orassan.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>left claw</Orassan.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Orassan.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>left ring claw</Orassan.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Orassan.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>left middle claw</Orassan.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Orassan.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>left index claw</Orassan.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Orassan.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>left thumb claw</Orassan.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Orassan.corePart.parts.13.parts.1.parts.2.customLabel>left claw</Orassan.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Orassan.corePart.parts.13.parts.1.customLabel>left arm</Orassan.corePart.parts.13.parts.1.customLabel>
+  <Orassan.corePart.parts.13.customLabel>left shoulder</Orassan.corePart.parts.13.customLabel>
+  <Orassan.corePart.parts.14.parts.0.customLabel>right clavicle</Orassan.corePart.parts.14.parts.0.customLabel>
+  <Orassan.corePart.parts.14.parts.1.parts.0.customLabel>right humerus</Orassan.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Orassan.corePart.parts.14.parts.1.parts.1.customLabel>right radius</Orassan.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Orassan.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>right claw</Orassan.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Orassan.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>right ring claw</Orassan.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Orassan.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>right middle claw</Orassan.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Orassan.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>right index claw</Orassan.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Orassan.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>right thumb claw</Orassan.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Orassan.corePart.parts.14.parts.1.parts.2.customLabel>right claw</Orassan.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Orassan.corePart.parts.14.parts.1.customLabel>right arm</Orassan.corePart.parts.14.parts.1.customLabel>
+  <Orassan.corePart.parts.14.customLabel>right shoulder</Orassan.corePart.parts.14.customLabel>
+  <Orassan.corePart.parts.16.parts.0.customLabel>left femur</Orassan.corePart.parts.16.parts.0.customLabel>
+  <Orassan.corePart.parts.16.parts.1.customLabel>left tibia</Orassan.corePart.parts.16.parts.1.customLabel>
+  <Orassan.corePart.parts.16.parts.2.parts.0.customLabel>left little toe</Orassan.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Orassan.corePart.parts.16.parts.2.parts.1.customLabel>left fourth toe</Orassan.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Orassan.corePart.parts.16.parts.2.parts.2.customLabel>left middle toe</Orassan.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Orassan.corePart.parts.16.parts.2.parts.3.customLabel>left second toe</Orassan.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Orassan.corePart.parts.16.parts.2.parts.4.customLabel>left big toe</Orassan.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Orassan.corePart.parts.16.parts.2.customLabel>left foot</Orassan.corePart.parts.16.parts.2.customLabel>
+  <Orassan.corePart.parts.16.customLabel>left leg</Orassan.corePart.parts.16.customLabel>
+  <Orassan.corePart.parts.17.parts.0.customLabel>right femur</Orassan.corePart.parts.17.parts.0.customLabel>
+  <Orassan.corePart.parts.17.parts.1.customLabel>right tibia</Orassan.corePart.parts.17.parts.1.customLabel>
+  <Orassan.corePart.parts.17.parts.2.parts.0.customLabel>right little toe</Orassan.corePart.parts.17.parts.2.parts.0.customLabel>
+  <Orassan.corePart.parts.17.parts.2.parts.1.customLabel>right fourth toe</Orassan.corePart.parts.17.parts.2.parts.1.customLabel>
+  <Orassan.corePart.parts.17.parts.2.parts.2.customLabel>right middle toe</Orassan.corePart.parts.17.parts.2.parts.2.customLabel>
+  <Orassan.corePart.parts.17.parts.2.parts.3.customLabel>right second toe</Orassan.corePart.parts.17.parts.2.parts.3.customLabel>
+  <Orassan.corePart.parts.17.parts.2.parts.4.customLabel>right big toe</Orassan.corePart.parts.17.parts.2.parts.4.customLabel>
+  <Orassan.corePart.parts.17.parts.2.customLabel>right foot</Orassan.corePart.parts.17.parts.2.customLabel>
+  <Orassan.corePart.parts.17.customLabel>right leg</Orassan.corePart.parts.17.customLabel>
 
 
 </LanguageData>

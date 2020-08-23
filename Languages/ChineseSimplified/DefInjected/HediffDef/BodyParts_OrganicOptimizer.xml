@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Organic optimizing nanobots -->
+
+  <OrganicOptimized.label>optimized</OrganicOptimized.label>
+  <OrganicOptimized.description>An optimized natural body part using organic optimizing nanobots.</OrganicOptimized.description>
+  <OrganicOptimized.stages.0.label>Fresh</OrganicOptimized.stages.0.label>
+  <OrganicOptimized.stages.1.label>Adapting</OrganicOptimized.stages.1.label>
+  <OrganicOptimized.stages.2.label>Optimizing</OrganicOptimized.stages.2.label>
+
+
+  <!-- Eyes: Improved reactive pupil -->
+
+  <InstinctOptimizedEyes.label>improved reactive pupil</InstinctOptimizedEyes.label>
+  <InstinctOptimizedEyes.description>The natural eyes are optimized using instinct optimizing nanobots.</InstinctOptimizedEyes.description>
+  <InstinctOptimizedEyes.stages.0.label>Fresh</InstinctOptimizedEyes.stages.0.label>
+  <InstinctOptimizedEyes.stages.1.label>Adapting</InstinctOptimizedEyes.stages.1.label>
+  <InstinctOptimizedEyes.stages.2.label>Optimizing</InstinctOptimizedEyes.stages.2.label>
+
+
+  <!-- Hand: Improved hand reflex -->
+
+  <InstinctOptimizedHand.label>improved hand reflex</InstinctOptimizedHand.label>
+  <InstinctOptimizedHand.description>The natural hands are optimized using instinct optimizing nanobots.</InstinctOptimizedHand.description>
+  <InstinctOptimizedHand.stages.0.label>Fresh</InstinctOptimizedHand.stages.0.label>
+  <InstinctOptimizedHand.stages.1.label>Adapting</InstinctOptimizedHand.stages.1.label>
+  <InstinctOptimizedHand.stages.2.label>Optimizing</InstinctOptimizedHand.stages.2.label>
+
+
+  <!-- Foot: nimble instinct -->
+
+  <InstinctOptimizedFoot.label>nimble instinct</InstinctOptimizedFoot.label>
+  <InstinctOptimizedFoot.description>The natural foot are optimized using instinct optimizing nanobots.</InstinctOptimizedFoot.description>
+  <InstinctOptimizedFoot.stages.0.label>Fresh</InstinctOptimizedFoot.stages.0.label>
+  <InstinctOptimizedFoot.stages.1.label>Adapting</InstinctOptimizedFoot.stages.1.label>
+  <InstinctOptimizedFoot.stages.2.label>Optimizing</InstinctOptimizedFoot.stages.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Refugee -->
+
+  <NovaRefugee.label>新星难民</NovaRefugee.label>
+  <NovaRefugee.labelPlural>新星难民</NovaRefugee.labelPlural>
+  <NovaRefugee.labelMale>男性新星难民</NovaRefugee.labelMale>
+  <NovaRefugee.labelMalePlural>男性新星难民</NovaRefugee.labelMalePlural>
+  <NovaRefugee.labelFemale>女性新星难民</NovaRefugee.labelFemale>
+  <NovaRefugee.labelFemalePlural>女性新星难民</NovaRefugee.labelFemalePlural>
+
+
+  <!-- Soldier -->
+
+  <NovaAllianceSoldier.label>新星联盟士兵</NovaAllianceSoldier.label>
+  <NovaAllianceSoldier.labelPlural>新星联盟士兵</NovaAllianceSoldier.labelPlural>
+  <NovaAllianceSoldier.labelMale>男性新星联盟士兵</NovaAllianceSoldier.labelMale>
+  <NovaAllianceSoldier.labelMalePlural>男性新星联盟士兵</NovaAllianceSoldier.labelMalePlural>
+  <NovaAllianceSoldier.labelFemale>女性新星联盟士兵</NovaAllianceSoldier.labelFemale>
+  <NovaAllianceSoldier.labelFemalePlural>女性新星联盟士兵</NovaAllianceSoldier.labelFemalePlural>
+
+
+  <!-- Trader -->
+
+  <NovaTrader.label>新星商人</NovaTrader.label>
+  <NovaTrader.labelPlural>新星商人</NovaTrader.labelPlural>
+  <NovaTrader.labelMale>男性新星商人</NovaTrader.labelMale>
+  <NovaTrader.labelMalePlural>男性新星商人</NovaTrader.labelMalePlural>
+  <NovaTrader.labelFemale>女性新星商人</NovaTrader.labelFemale>
+  <NovaTrader.labelFemalePlural>女性新星商人</NovaTrader.labelFemalePlural>
+
+  <NovaAllianceAssault.label>新星联盟突击队</NovaAllianceAssault.label>
+  <NovaAllianceAssault.labelPlural>新星联盟突击队</NovaAllianceAssault.labelPlural>
+  <NovaAllianceAssault.labelMale>男性新星联盟突击队</NovaAllianceAssault.labelMale>
+  <NovaAllianceAssault.labelMalePlural>男性新星联盟突击队</NovaAllianceAssault.labelMalePlural>
+  <NovaAllianceAssault.labelFemale>女性新星联盟突击队</NovaAllianceAssault.labelFemale>
+  <NovaAllianceAssault.labelFemalePlural>女性新星联盟突击队</NovaAllianceAssault.labelFemalePlural>
+
+
+  <!--工兵 -->
+
+  <NovaAllianceSapper.label>新星联盟工兵</NovaAllianceSapper.label>
+  <NovaAllianceSapper.labelPlural>新星联盟工兵</NovaAllianceSapper.labelPlural>
+  <NovaAllianceSapper.labelMale>男性新星联盟工兵</NovaAllianceSapper.labelMale>
+  <NovaAllianceSapper.labelMalePlural>男性新星联盟工兵</NovaAllianceSapper.labelMalePlural>
+  <NovaAllianceSapper.labelFemale>女性新星联盟工兵</NovaAllianceSapper.labelFemale>
+  <NovaAllianceSapper.labelFemalePlural>女性新星联盟工兵</NovaAllianceSapper.labelFemalePlural>
+
+
+  <!-- Commander -->
+
+  <NovaCommander.label>新星指挥官</NovaCommander.label>
+  <NovaCommander.labelPlural>新星指挥官</NovaCommander.labelPlural>
+  <NovaCommander.labelMale>男性新星指挥官</NovaCommander.labelMale>
+  <NovaCommander.labelMalePlural>男性新星指挥官</NovaCommander.labelMalePlural>
+  <NovaCommander.labelFemale>女性新星指挥官</NovaCommander.labelFemale>
+  <NovaCommander.labelFemalePlural>女性新星指挥官</NovaCommander.labelFemalePlural>
+
+
+</LanguageData>

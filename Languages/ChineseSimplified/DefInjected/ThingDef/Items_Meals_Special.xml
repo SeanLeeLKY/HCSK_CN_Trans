@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeatSoup.label>Meat Soup</MeatSoup.label>
+  <MeatSoup.description>Boiling stuff allows to extract every bit of nutrition. Not the most delicious dish, but it saves ingredients.</MeatSoup.description>
+
+
+  <!-- Fine Meals -->
+
+  <HeartyStew.label>Hearty Stew</HeartyStew.label>
+  <HeartyStew.description>Warming food that gives you sense of home.\n\nLowers pain tolerance\nImproves metabolism\nImproves cold resistance</HeartyStew.description>
+
+  <MakiRolls.label>Maki Rolls</MakiRolls.label>
+  <MakiRolls.description>A rice cylinder with seaweed. It’s usually stuffed with fish in the middle.\n\nImproves consciousness\nImproves moving\nImproves skill learning speed</MakiRolls.description>
+
+  <GrilledCheese.label>grilled cheese sandwich</GrilledCheese.label>
+  <GrilledCheese.description>Two slices of bread grilled with cheese melt in the middle.\n\nImproves metabolism</GrilledCheese.description>
+
+  <Kebab.label>Kebab</Kebab.label>
+  <Kebab.description>A dish of pieces of meat, fish, vegetables and mushrooms roasted on a skewer.\n\nImproves talking\nImproves moving\nReduces hunger rate</Kebab.description>
+
+  <MushroomMadness.label>Mushroom madness</MushroomMadness.label>
+  <MushroomMadness.description>Only the most proficient disciples of the Fungus know how to cook mushrooms in a way that amplifies their hallucinogenic properties without significantly harming one's mind.\n\nReduces consciousness\nSignificantly improves sight\nSignificantly improves hearing</MushroomMadness.description>
+
+  <CoconutCurry.label>Coconut Curry</CoconutCurry.label>
+  <CoconutCurry.description>Exotic dish that allows you to stay in the heat for longer.\n\nImproves moving\nImproves sight\nHeat resistance</CoconutCurry.description>
+
+
+  <!-- Lavish Meals -->
+
+  <CheeseBurger.label>cheese burger</CheeseBurger.label>
+  <CheeseBurger.description>A delicious cheese burger made of only the finest meat.\n\nImproves pain resistance\nImproves moving\nReduces hunger rate</CheeseBurger.description>
+
+  <MisoSoup.label>Miso Soup</MisoSoup.label>
+  <MisoSoup.description>A healthy vegan food that boosts your body and mind. Even learning things becomes easier.\n\nImproves consciousness\nImproves moving\nImproves skill learning speed</MisoSoup.description>
+
+
+</LanguageData>

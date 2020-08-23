@@ -1,41 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlayerColony.label>新移民</PlayerColony.label>
-  <PlayerColony.description>这是你自己的社区团体。</PlayerColony.description>
-  <PlayerColony.pawnsPlural>殖民者</PlayerColony.pawnsPlural>
+  <PlayerColony.label>New Arrivals</PlayerColony.label>
+  <PlayerColony.description>A colony of recently-arrived off-worlders.</PlayerColony.description>
+  <PlayerColony.pawnsPlural>colonists</PlayerColony.pawnsPlural>
 
-  <PlayerNova.label>新移民</PlayerNova.label>
-  <PlayerNova.description>这是你自己的社区团体。</PlayerNova.description>
-  <PlayerNova.pawnsPlural>殖民者</PlayerNova.pawnsPlural>
+  <PlayerNova.label>New Arrivals</PlayerNova.label>
+  <PlayerNova.description>A colony of recently-arrived off-worlders.</PlayerNova.description>
+  <PlayerNova.pawnsPlural>colonists</PlayerNova.pawnsPlural>
 
-  <PlayerExiled.label>新移民</PlayerExiled.label>
-  <PlayerExiled.description>这是你自己的社区团体。</PlayerExiled.description>
-  <PlayerExiled.pawnsPlural>殖民者</PlayerExiled.pawnsPlural>
+  <PlayerExiled.label>New Arrivals</PlayerExiled.label>
+  <PlayerExiled.description>A colony of recently-arrived off-worlders.</PlayerExiled.description>
+  <PlayerExiled.pawnsPlural>colonists</PlayerExiled.pawnsPlural>
 
-  <PlayerTribe.label>新部落</PlayerTribe.label>
-  <PlayerTribe.description>这是你自己的部落。</PlayerTribe.description>
-  <PlayerTribe.pawnsPlural>部众</PlayerTribe.pawnsPlural>
+  <PlayerTribe.label>New Tribe</PlayerTribe.label>
+  <PlayerTribe.description>A small tribe.</PlayerTribe.description>
+  <PlayerTribe.pawnsPlural>tribespeople</PlayerTribe.pawnsPlural>
 
-  <PlayerNorbal.label>诺巴部族</PlayerNorbal.label>
-  <PlayerNorbal.description>这是你自己的部族。</PlayerNorbal.description>
-  <PlayerNorbal.pawnsPlural>诺巴</PlayerNorbal.pawnsPlural>
+  <PlayerNorbal.label>New soveingard</PlayerNorbal.label>
+  <PlayerNorbal.description>Are small group of norbals.</PlayerNorbal.description>
+  <PlayerNorbal.pawnsPlural>norbals</PlayerNorbal.pawnsPlural>
 
-  <PlayerSurvivor.label>幸存者</PlayerSurvivor.label>
-  <PlayerSurvivor.description>这是你自己的社区团体。</PlayerSurvivor.description>
-  <PlayerSurvivor.pawnsPlural>幸存者</PlayerSurvivor.pawnsPlural>
+  <PlayerSurvivor.label>New Survivors</PlayerSurvivor.label>
+  <PlayerSurvivor.description>A colony of recently-arrived off-worlders.</PlayerSurvivor.description>
+  <PlayerSurvivor.pawnsPlural>survivors</PlayerSurvivor.pawnsPlural>
 
-  <OrassanPlayerColony.label>奥瑞森飞地</OrassanPlayerColony.label>
-  <OrassanPlayerColony.description>这是你自己的社区团体。</OrassanPlayerColony.description>
-  <OrassanPlayerColony.pawnsPlural>殖民者</OrassanPlayerColony.pawnsPlural>
+  <OrassanPlayerColony.label>Orassan Enclaves</OrassanPlayerColony.label>
+  <OrassanPlayerColony.description>A colony of recently-arrived off-worlders.</OrassanPlayerColony.description>
+  <OrassanPlayerColony.pawnsPlural>colonists</OrassanPlayerColony.pawnsPlural>
 
-  <AsariPlayerColony.label>阿萨利新区</AsariPlayerColony.label>
-  <AsariPlayerColony.description>这是你自己的社区团体。</AsariPlayerColony.description>
-  <AsariPlayerColony.pawnsPlural>殖民者</AsariPlayerColony.pawnsPlural>
-
-  <NuclearColonySurvivor.label>新移民</NuclearColonySurvivor.label>
-  <NuclearColonySurvivor.description>这是你自己的社区团体。</NuclearColonySurvivor.description>
-  <NuclearColonySurvivor.pawnsPlural>殖民者</NuclearColonySurvivor.pawnsPlural>
+  <NuclearColonySurvivor.label>New Arrivals</NuclearColonySurvivor.label>
+  <NuclearColonySurvivor.description>A colony of recently-arrived off-worlders.</NuclearColonySurvivor.description>
+  <NuclearColonySurvivor.pawnsPlural>colonists</NuclearColonySurvivor.pawnsPlural>
 
 
 </LanguageData>

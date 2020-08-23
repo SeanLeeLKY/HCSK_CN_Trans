@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant matter (inedible by people) -->
+
+  <Kibble.label>粗饲料</Kibble.label>
+  <Kibble.description>将肉和植物原料混合而成的动物粗饲料。人也能吃，但真的、真的没人喜欢。</Kibble.description>
+
+  <Pemmican.label>干肉饼</Pemmican.label>
+  <Pemmican.description>一种由肉食和素食混合脱水制成的食物。味道平平但又不会让人讨厌。无需冷藏即能保存很长时间，适合长途旅行。</Pemmican.description>
+
+  <Hay.label>干草</Hay.label>
+  <Hay.description>营养丰富的草和幼芽，收获并压缩储存起来。干草是很好的饲料，但对于人类来说难以下咽。</Hay.description>
+
+  <Silage.label>青贮饲料</Silage.label>
+  <Silage.description>由干草和谷物发酵而成营养丰富的动物饲料。发酵可以防止青贮饲料腐坏。</Silage.description>
+
+  <RawHops.label>啤酒花</RawHops.label>
+  <RawHops.description>生的啤酒花。是酿制啤酒时必需的调味剂和保鲜剂。</RawHops.description>
+
+  <PsychoidLeaves.label>精神叶</PsychoidLeaves.label>
+  <PsychoidLeaves.description>从精神叶上收获的新鲜叶子。</PsychoidLeaves.description>
+
+  <SmokeleafLeaves.label>烟叶</SmokeleafLeaves.label>
+  <SmokeleafLeaves.description>从烟草植物上收获的新鲜叶子，可以在手工加工点处被制成烟卷。</SmokeleafLeaves.description>
+
+  <NeutroPetals.label>中性花</NeutroPetals.label>
+  <NeutroPetals.description>中性花的漂亮黄橙色花瓣。用于制作中性胺和药物。</NeutroPetals.description>
+
+  <aloe.label>芦荟叶</aloe.label>
+  
+
+  <RawCaoutchouc.label>天然橡胶</RawCaoutchouc.label>
+ 
+
+
+</LanguageData>

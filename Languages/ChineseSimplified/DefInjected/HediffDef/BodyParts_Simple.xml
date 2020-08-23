@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- simple parts -->
+
+  <GlassEye.label>glass eye</GlassEye.label>
+  <GlassEye.description>An installed glass eye. Prettier than eye patches.</GlassEye.description>
+  <GlassEye.labelNoun>a glass eye</GlassEye.labelNoun>
+
+  <ArtificialNose.label>artificial nose</ArtificialNose.label>
+  <ArtificialNose.description>An installed artificial nose. Covers the hole in the face.</ArtificialNose.description>
+  <ArtificialNose.labelNoun>an artificial nose</ArtificialNose.labelNoun>
+
+  <SimpleProstheticHand.label>simple prosthetic hand</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>An installed prosthetic hand. Way more comfortable and less frightening than the hook hand.</SimpleProstheticHand.description>
+  <SimpleProstheticHand.labelNoun>a glass eye</SimpleProstheticHand.labelNoun>
+
+  <SimpleProstheticFoot.label>simple prosthetic foot</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>An installed prosthetic foot. Not as cheap as a wood log.</SimpleProstheticFoot.description>
+  <SimpleProstheticFoot.labelNoun>a simple prosthetic foot</SimpleProstheticFoot.labelNoun>
+
+  <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>An installed prosthetic leg. Not very comfortable but quite efficient.</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.labelNoun>a simple prosthetic leg</SimpleProstheticLeg.labelNoun>
+
+  <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>An installed prosthetic arm. Simple but durable arm prosthesis.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>a simple prosthetic arm</SimpleProstheticArm.labelNoun>
+
+  <ArtificialPelvis.label>artificial pelvis</ArtificialPelvis.label>
+  <ArtificialPelvis.description>An installed artificial pelvis. Pretty useful if crawling is not your favourite kind of moving around.</ArtificialPelvis.description>
+  <ArtificialPelvis.labelNoun>an artificial pelvis</ArtificialPelvis.labelNoun>
+
+
+</LanguageData>

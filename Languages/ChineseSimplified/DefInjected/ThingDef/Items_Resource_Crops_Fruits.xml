@@ -1,34 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RawBerries.label>草莓</RawBerries.label>
-  
-  <RawAgave.label>龙舌兰果</RawAgave.label>
-  
-  <Rawapple.label>苹果</Rawapple.label>
-  
+  <RawBerries.label>Strawberries</RawBerries.label>
+  <RawBerries.description>Strawberries are small, red, soft fruits of a Strawberry Plant. They are good when eaten raw.</RawBerries.description>
 
-  <Rawbanana.label>香蕉</Rawbanana.label>
- 
+  <RawAgave.label>Agave Fruit</RawAgave.label>
+  <RawAgave.description>The Agave Fruit is edible stalks and flowers of a wild Agave Plant. Agave Plants are native to deserts. The fruits are foul when eaten raw.</RawAgave.description>
 
-  <Rawgrape.label>葡萄</Rawgrape.label>
-  
-  <Raworange.label>橙</Raworange.label>
- 
+  <Rawapple.label>Apples</Rawapple.label>
+  <Rawapple.description>Apples are a round, red fruit that grows on Apple Trees. Commonly used in cooking for deserts due to its sweet taste, it can also be brewed into Apple Cider. Delectable to eat even when raw.</Rawapple.description>
 
-  <Rawpeach.label>桃子</Rawpeach.label>
- 
+  <Rawbanana.label>Banana</Rawbanana.label>
+  <Rawbanana.description>A Banana is a long, soft, yellow, sweet fruit that grows on Banana Trees. Yummy to eat when raw.</Rawbanana.description>
 
-  <Rawblueberry.label>蓝莓</Rawblueberry.label>
-  
+  <Rawgrape.label>Grapes</Rawgrape.label>
+  <Rawgrape.description>Grapes are small, sweet, berry fruits that grow in clusters on Grape Vines. Tantalizing to eat even when raw.</Rawgrape.description>
 
-  <Rawgooseberry.label>醋栗</Rawgooseberry.label>
-  
+  <Raworange.label>Orange</Raworange.label>
+  <Raworange.description>Oranges are a sweet, citric fruit that grows on Orange Trees. A tough outer rind protects the soft pulpy flesh inside. Pleasant to eat when raw.</Raworange.description>
 
-  <Rawcloudberry.label>云莓</Rawcloudberry.label>
-  
-  <RawCoconut.label>椰子</RawCoconut.label>
+  <Rawpeach.label>Peach</Rawpeach.label>
+  <Rawpeach.description>Peaches are a soft, fuzzy, sweet fruit that grows on Peach Trees. They have a large, hard pit at the core of the fruit. Splendid to eat when raw.</Rawpeach.description>
 
+  <RawCoconut.label>Coconut</RawCoconut.label>
+  <RawCoconut.description>Coconut.</RawCoconut.description>
 
 
 </LanguageData>

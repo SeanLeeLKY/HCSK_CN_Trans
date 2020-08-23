@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sculptures -->
+
+  <SculptureSmall.label>小雕塑</SculptureSmall.label>
+  <SculptureSmall.description>由一块躯干大小的材料塑造而成的艺术品。</SculptureSmall.description>
+  <SculptureSmall_Blueprint_Install.label>小雕塑 （蓝图）</SculptureSmall_Blueprint_Install.label>
+
+  <SculptureLarge.label>大雕塑</SculptureLarge.label>
+  <SculptureLarge.description>由一块成人大小的材料塑造而成的艺术品。</SculptureLarge.description>
+  <SculptureLarge_Blueprint_Install.label>大雕塑 （蓝图）</SculptureLarge_Blueprint_Install.label>
+
+  <SculptureGrand.label>宏伟雕塑</SculptureGrand.label>
+  <SculptureGrand.description>由一块汽车大小的材料塑造而成的艺术品。</SculptureGrand.description>
+  <SculptureGrand_Blueprint_Install.label>宏伟雕塑 （蓝图）</SculptureGrand_Blueprint_Install.label>
+
+  <MuffaloArt.label>野牛雕塑</MuffaloArt.label>
+  <MuffaloArt_Blueprint_Install.label>野牛雕塑 （蓝图）</MuffaloArt_Blueprint_Install.label>
+
+  <QueenArt.label>皇后雕塑</QueenArt.label>
+  <QueenArt_Blueprint_Install.label>皇后雕塑 （蓝图）</QueenArt_Blueprint_Install.label>
+
+  <NymphArt.label>仙女雕塑</NymphArt.label>
+  <NymphArt_Blueprint_Install.label>仙女雕塑 （蓝图）</NymphArt_Blueprint_Install.label>
+
+  <GreenyArt.label>绿神雕塑</GreenyArt.label>
+  <GreenyArt_Blueprint_Install.label>绿神雕塑 （蓝图）</GreenyArt_Blueprint_Install.label>
+
+  <WolfArt.label>野狼雕塑</WolfArt.label>
+  <WolfArt_Blueprint_Install.label>野狼雕塑 （蓝图）</WolfArt_Blueprint_Install.label>
+
+  <DragonArt.label>龙蛇雕塑</DragonArt.label>
+  <DragonArt_Blueprint_Install.label>龙蛇雕塑 （蓝图）</DragonArt_Blueprint_Install.label>
+
+  <ZeonArt.label>吉恩雕塑</ZeonArt.label>
+  <ZeonArt_Blueprint_Install.label>吉恩雕塑 （蓝图）</ZeonArt_Blueprint_Install.label>
+
+  <DecorativeUrnSmall.label>装饰瓮</DecorativeUrnSmall.label>
+  <DecorativeUrnSmall_Blueprint_Install.label>装饰瓮 （蓝图）</DecorativeUrnSmall_Blueprint_Install.label>
+
+  <SmallPottery.label>装饰陶壶</SmallPottery.label>
+  <SmallPottery_Blueprint_Install.label>装饰陶壶 （蓝图）</SmallPottery_Blueprint_Install.label>
+
+  <PotteryDisplay.label>陶艺展示架</PotteryDisplay.label>
+  <PotteryDisplay_Blueprint_Install.label>陶艺展示架 （蓝图）</PotteryDisplay_Blueprint_Install.label>
+
+
+  <!-- Snowman -->
+
+  <Snowman.label>雪人</Snowman.label>
+  <Snowman.description>一组大雪球堆叠在一起，做成类似人的形状。</Snowman.description>
+
+
+</LanguageData>

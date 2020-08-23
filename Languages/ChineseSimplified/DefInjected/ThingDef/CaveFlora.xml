@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cluster.label>cluster root</Cluster.label>
+
+  <BryoluxGlowerSmall.label>glowing shimmershroom</BryoluxGlowerSmall.label>
+  <BryoluxGlowerSmall.description>A small shimmershroom glower.</BryoluxGlowerSmall.description>
+
+  <BryoluxGlowerMedium.label>glowing shimmershroom</BryoluxGlowerMedium.label>
+  <BryoluxGlowerMedium.description>A medium shimmershroom glower.</BryoluxGlowerMedium.description>
+
+  <BryoluxGlowerBig.label>glowing shimmershroom</BryoluxGlowerBig.label>
+  <BryoluxGlowerBig.description>A big shimmershroom glower.</BryoluxGlowerBig.description>
+
+  <GlowstoolGlowerSmall.label>glowing glowbulb</GlowstoolGlowerSmall.label>
+  <GlowstoolGlowerSmall.description>A small glowbulb glower.</GlowstoolGlowerSmall.description>
+
+  <GlowstoolGlowerMedium.label>glowing glowbulb</GlowstoolGlowerMedium.label>
+  <GlowstoolGlowerMedium.description>A medium glowbulb glower.</GlowstoolGlowerMedium.description>
+
+  <GlowstoolGlowerBig.label>glowing glowbulb</GlowstoolGlowerBig.label>
+  <GlowstoolGlowerBig.description>A big glowbulb glower.</GlowstoolGlowerBig.description>
+
+  <AgariluxGlowerSmall.label>glowing gleamcap</AgariluxGlowerSmall.label>
+  <AgariluxGlowerSmall.description>A small gleamcap glower.</AgariluxGlowerSmall.description>
+
+  <AgariluxGlowerMedium.label>glowing gleamcap</AgariluxGlowerMedium.label>
+  <AgariluxGlowerMedium.description>A medium gleamcap glower.</AgariluxGlowerMedium.description>
+
+  <AgariluxGlowerBig.label>glowing gleamcap</AgariluxGlowerBig.label>
+  <AgariluxGlowerBig.description>A big gleamcap glower.</AgariluxGlowerBig.description>
+
+  <AgariluxSporeSpawner.label>spores</AgariluxSporeSpawner.label>
+  <AgariluxSporeSpawner.description>Building used to spawn gleamcap spores.</AgariluxSporeSpawner.description>
+
+
+  <!-- Brightbells -->
+
+  <BrightbellsGlowerSmall.label>glowing brightbells</BrightbellsGlowerSmall.label>
+  <BrightbellsGlowerSmall.description>A small shimmershroom glower.</BrightbellsGlowerSmall.description>
+
+  <BrightbellsGlowerMedium.label>glowing brightbells</BrightbellsGlowerMedium.label>
+  <BrightbellsGlowerMedium.description>A medium shimmershroom glower.</BrightbellsGlowerMedium.description>
+
+  <BrightbellsGlowerBig.label>glowing brightbells</BrightbellsGlowerBig.label>
+  <BrightbellsGlowerBig.description>A big shimmershroom glower.</BrightbellsGlowerBig.description>
+
+  <StoneGrassGlower.label>glowing stone grass</StoneGrassGlower.label>
+  <StoneGrassGlower.description>Soft light of stone grass.</StoneGrassGlower.description>
+
+  <GiantLeafGlower.label>glowing giant leaf</GiantLeafGlower.label>
+  <GiantLeafGlower.description>Energizing light of a juicy giant leaf.</GiantLeafGlower.description>
+
+  <DevilTongueGlower.label>glowing devil's tongue</DevilTongueGlower.label>
+  <DevilTongueGlower.description>Crimson light of an open devil's tongue.</DevilTongueGlower.description>
+
+  <CaveVineGlower.label>glowing cave vine</CaveVineGlower.label>
+  <CaveVineGlower.description>Deem light of a giant cave tree.</CaveVineGlower.description>
+
+  <CaveLaceGlower.label>glowing cave lace</CaveLaceGlower.label>
+  <CaveLaceGlower.description>Crystal and subtle light of a cave lace.</CaveLaceGlower.description>
+
+
+</LanguageData>

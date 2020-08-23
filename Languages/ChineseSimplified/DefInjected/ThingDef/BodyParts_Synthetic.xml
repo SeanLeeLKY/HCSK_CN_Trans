@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicLung.label>synthetic lung</BionicLung.label>
+  <BionicLung.description>A high-tech breathing replacement. Makes a soft whirring sound.</BionicLung.description>
+
+  <BionicStomach.label>synthetic stomach</BionicStomach.label>
+  <BionicStomach.description>An enhanced stomach augmented with synthetic fibres to decrease rejection rate.</BionicStomach.description>
+
+  <BionicLiver.label>synthetic liver</BionicLiver.label>
+  <BionicLiver.description>An enhanced liver augmented with synthetic fibers to decrease rejection rate.</BionicLiver.description>
+
+  <BionicKidney.label>synthetic kidney</BionicKidney.label>
+  <BionicKidney.description>An enhanced kidney augmented with synthetic fibers to decrease rejection rate.</BionicKidney.description>
+
+  <BionicHeart.label>bionic heart</BionicHeart.label>
+  <BionicHeart.description>An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way.</BionicHeart.description>
+
+  <Joywire.label>joywire</Joywire.label>
+  <Joywire.description>This little brain implant will make you feel happy and relaxed. Requires brain surgery research before installing.</Joywire.description>
+
+  <Painstopper.label>painstopper</Painstopper.label>
+  <Painstopper.description>This brain implant will make you not feel pain. Requires brain surgery research before installing.</Painstopper.description>
+
+
+  <!-- Muscle stimulator -->
+
+  <MuscleStimulator.label>muscle stimulator</MuscleStimulator.label>
+  <MuscleStimulator.description>Through special chemicals and electric shocks this little chip is able to stimulate the muscles so they can operate at above maximum performance.</MuscleStimulator.description>
+
+
+</LanguageData>

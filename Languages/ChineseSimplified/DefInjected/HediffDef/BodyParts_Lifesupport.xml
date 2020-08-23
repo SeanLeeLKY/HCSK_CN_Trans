@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- lifesupport system -->
+
+  <LifesupportHeart.label>blood pump</LifesupportHeart.label>
+  <LifesupportHeart.description>An installed blood pump. A basic piece of technology made to keep the victim/patient alive.</LifesupportHeart.description>
+  <LifesupportHeart.labelNoun>a blood pump</LifesupportHeart.labelNoun>
+
+  <LifesupportLung.label>respirator</LifesupportLung.label>
+  <LifesupportLung.description>An installed lung respirator. A basic piece of technology made to keep the victim/patient alive.</LifesupportLung.description>
+  <LifesupportLung.labelNoun>a respirator</LifesupportLung.labelNoun>
+
+  <LifesupportKidney.label>urine filter</LifesupportKidney.label>
+  <LifesupportKidney.description>An installed urine filter. A basic piece of technology made to keep the victim/patient alive.</LifesupportKidney.description>
+  <LifesupportKidney.labelNoun>an urine filter</LifesupportKidney.labelNoun>
+
+  <LifesupportLiver.label>blood filter</LifesupportLiver.label>
+  <LifesupportLiver.description>An installed blood filter. A basic piece of technology made to keep the victim/patient alive.</LifesupportLiver.description>
+  <LifesupportLiver.labelNoun>a blood filter</LifesupportLiver.labelNoun>
+
+  <LifesupportStomach.label>feedingtube</LifesupportStomach.label>
+  <LifesupportStomach.description>An installed feedingtube. A basic piece of technology made to keep the victim/patient alive.</LifesupportStomach.description>
+  <LifesupportStomach.labelNoun>a feeding tube</LifesupportStomach.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Horses -->
+
+  <Horse.label>horse</Horse.label>
+  <Horse.description>A large, peaceful herbivore widely known for its great speed and strength. Horses and humans have a history stretching back for millenia, so it is no surprise to see one. Unfortunately, all your colonists are absolutely inept at riding, otherwise it could make a fitting steed.</Horse.description>
+  <Horse.tools.0.label>left hoof</Horse.tools.0.label>
+  <Horse.tools.1.label>right hoof</Horse.tools.1.label>
+  <Horse.tools.3.label>head</Horse.tools.3.label>
+  <Horse_Leather.label>horse leather</Horse_Leather.label>
+  <Horse_Leather.description>horse leather</Horse_Leather.description>
+  <Horse_Leather.stuffProps.stuffAdjective>horse leather</Horse_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Horse_Corpse.label>horse corpse</Horse_Corpse.label>
+  <Horse_Corpse.description>horse corpse</Horse_Corpse.description>
+
+
+  <!-- Woolly Horse -->
+
+  <Horse_Wooly.label>woolly horse</Horse_Wooly.label>
+  <Horse_Wooly.description>A plump horse covered in a thick fur fit for much colder climates. Oddly enough, woolly horses have a throwback to their slower ancestors- actual toed feet; though much larger and further splayed, so as to act as a snowshoe. Odder yet, they seem to be omnivorous, with a set of large canines to boot.</Horse_Wooly.description>
+  <Horse_Wooly.tools.0.label>left hoof</Horse_Wooly.tools.0.label>
+  <Horse_Wooly.tools.1.label>right hoof</Horse_Wooly.tools.1.label>
+  <Horse_Wooly.tools.3.label>head</Horse_Wooly.tools.3.label>
+  <Horse_Wooly_Leather.label>woolly horse leather</Horse_Wooly_Leather.label>
+  <Horse_Wooly_Leather.description>woolly horse leather</Horse_Wooly_Leather.description>
+  <Horse_Wooly_Leather.stuffProps.stuffAdjective>woolly horse leather</Horse_Wooly_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Horse_Wooly_Corpse.label>woolly horse corpse</Horse_Wooly_Corpse.label>
+  <Horse_Wooly_Corpse.description>woolly horse corpse</Horse_Wooly_Corpse.description>
+
+
+</LanguageData>

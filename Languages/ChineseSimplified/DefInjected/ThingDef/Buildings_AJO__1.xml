@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Joy Tables -->
+
+  <GoTable.label>军棋</GoTable.label>
+  <GoTable_Blueprint.label>军棋 （蓝图）</GoTable_Blueprint.label>
+  <GoTable_Blueprint_Install.label>军棋 （蓝图）</GoTable_Blueprint_Install.label>
+  <GoTable_Frame.label>军棋 （建造中）</GoTable_Frame.label>
+  
+  <ReversiTable.label>黑白棋</ReversiTable.label>
+  <ReversiTable_Blueprint.label>黑白棋 （蓝图）</ReversiTable_Blueprint.label>
+  <ReversiTable_Blueprint_Install.label>黑白棋 （蓝图）</ReversiTable_Blueprint_Install.label>
+  <ReversiTable_Frame.label>黑白棋 （建造中）</ReversiTable_Frame.label>
+  
+  <CardTable.label>牌桌</CardTable.label>
+  <CardTable_Blueprint.label>牌桌 （蓝图）</CardTable_Blueprint.label>
+  <CardTable_Blueprint_Install.label>牌桌 （蓝图）</CardTable_Blueprint_Install.label>
+  <CardTable_Frame.label>牌桌 （建造中）</CardTable_Frame.label>
+  
+  <RimColony.label>边缘殖民地</RimColony.label>
+  <RimColony.description>边缘殖民地（RimColony）是一款讲述迫降在边缘世界星球后，建设殖民地的游戏。一些商人把这款游戏带到殖民地这个过程不得不说充满了黑色幽默。</RimColony.description>
+  <RimColony_Blueprint_Install.label>边缘殖民 （蓝图）</RimColony_Blueprint_Install.label>
+
+
+  <!-- Furniture -->
+
+  <ReadingTable.label>阅读桌</ReadingTable.label>
+  <ReadingTable.description>一个非常适合读书的小桌子。内置一个可以放几本书的小隔板。</ReadingTable.description>
+  <ReadingTable_Blueprint.label>阅读桌 （蓝图）</ReadingTable_Blueprint.label>
+  <ReadingTable_Blueprint_Install.label>阅读桌 （蓝图）</ReadingTable_Blueprint_Install.label>
+  <ReadingTable_Frame.label>阅读桌 （建造中）</ReadingTable_Frame.label>
+  <ReadingTable_Frame.description>一个非常适合读书的小桌子。内置一个可以放几本书的小隔板。</ReadingTable_Frame.description>
+
+  <Painting.label>绘画</Painting.label>
+  <Painting.description>一幅画。可以用来遮盖墙上的破洞，而且还能赏心悦目。</Painting.description>
+  <Painting_Blueprint_Install.label>绘画 （蓝图）</Painting_Blueprint_Install.label>
+
+
+  <!-- Production -->
+
+  <Easel.label>画架</Easel.label>
+  <Easel.description>用来创作绘画作品的画架。</Easel.description>
+  <Easel_Blueprint.label>画架 （蓝图）</Easel_Blueprint.label>
+  <Easel_Blueprint_Install.label>画架 （蓝图）</Easel_Blueprint_Install.label>
+  <Easel_Frame.label>画架 （建造中）</Easel_Frame.label>
+  <Easel_Frame.description>用来创作绘画作品的画架。</Easel_Frame.description>
+
+
+  <!-- Arcades -->
+
+  <ArcadeRS.label>游戏机： 朗姆旋风</ArcadeRS.label>
+  <ArcadeRS_Blueprint_Install.label>游戏机： 朗姆旋风 （蓝图）</ArcadeRS_Blueprint_Install.label>
+
+  <ArcadeMC.label>游戏机： 薄荷争霸</ArcadeMC.label>
+  <ArcadeMC_Blueprint_Install.label>游戏机： 薄荷争霸 （蓝图）</ArcadeMC_Blueprint_Install.label>
+
+  <ArcadeHL.label>游戏机： 哈瓦之命</ArcadeHL.label>
+  <ArcadeHL_Blueprint_Install.label>游戏机： 哈瓦之命 （蓝图）</ArcadeHL_Blueprint_Install.label>
+
+  <ArcadeES.label>游戏机： 上古卷饼</ArcadeES.label>
+  <ArcadeES_Blueprint_Install.label>游戏机： 上古卷饼 （蓝图）</ArcadeES_Blueprint_Install.label>
+
+  <ArcadeBG.label>游戏机： 法棍战争</ArcadeBG.label>
+  <ArcadeBG_Blueprint_Install.label>游戏机： 法棍战争 （蓝图）</ArcadeBG_Blueprint_Install.label>
+
+  <ArcadeCB.label>游戏机： 厨师巴巴</ArcadeCB.label>
+  <ArcadeCB_Blueprint_Install.label>游戏机： 厨师巴巴 （蓝图）</ArcadeCB_Blueprint_Install.label>
+
+  <ArcadePS.label>游戏机： 植物大战萨拉米斯</ArcadePS.label>
+  <ArcadePS_Blueprint_Install.label>游戏机： 植物大战萨拉米斯 （蓝图）</ArcadePS_Blueprint_Install.label>
+
+  <ArcadePK.label>游戏机： 心愿之结</ArcadePK.label>
+  <ArcadePK_Blueprint_Install.label>游戏机： 心愿之结 （蓝图）</ArcadePK_Blueprint_Install.label>
+
+  <ArcadeSP.label>游戏机： 矿洞余生</ArcadeSP.label>
+  <ArcadeSP_Blueprint_Install.label>游戏机： 矿洞余生 （蓝图）</ArcadeSP_Blueprint_Install.label>
+
+  <ArcadeTZ.label>游戏机： 模拟人生</ArcadeTZ.label>
+  <ArcadeTZ_Blueprint_Install.label>游戏机： 模拟人生 （蓝图）</ArcadeTZ_Blueprint_Install.label>
+
+  <ArcadeTV.label>游戏机： 急救中心</ArcadeTV.label>
+  <ArcadeTV_Blueprint_Install.label>游戏机： 急救中心 （蓝图）</ArcadeTV_Blueprint_Install.label>
+
+
+  <!-- Minified things -->
+
+  <MinifiedPainting.label>绘画</MinifiedPainting.label>
+
+
+</LanguageData>

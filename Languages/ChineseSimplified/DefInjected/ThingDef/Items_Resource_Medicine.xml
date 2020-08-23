@@ -1,16 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HerbalMedicine.label>生草药</HerbalMedicine.label>
-  <HerbalMedicine.description>一包从草药植物提取而来的草药混合物。比起工业医药效果稍差，但总好过没有。</HerbalMedicine.description>
+  <MedicineHerbal.label>Raw herbal medicine</MedicineHerbal.label>
+  <MedicineHerbal.description>A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing.</MedicineHerbal.description>
 
-  <Medicine.label>医药</Medicine.label>
-  <Medicine.description>医疗人员用医药来治疗病人和伤员。</Medicine.description>
+  <HerbMedicine.label>Herbal Medicine</HerbMedicine.label>
+  <HerbMedicine.description>Herbal Medicine is a basic collection of plant-based supplies that medical staff use to treat the wounded.</HerbMedicine.description>
 
-  <GlitterworldMedicine.label>闪耀世界医药</GlitterworldMedicine.label>
-  <GlitterworldMedicine.description>来自高科技的闪耀世界的高级医药。</GlitterworldMedicine.description>
+  <MedicineIndustrial.label>Medicine</MedicineIndustrial.label>
+  <MedicineIndustrial.description>A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids.</MedicineIndustrial.description>
 
-  <HerbMedicine.label>中草药</HerbMedicine.label>
-  
+  <MedicineUltratech.label>Advanced Medicine</MedicineUltratech.label>
+  <MedicineUltratech.description>A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools.</MedicineUltratech.description>
+
 
 </LanguageData>

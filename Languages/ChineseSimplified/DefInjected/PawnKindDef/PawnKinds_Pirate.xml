@@ -3,20 +3,26 @@
 
   <!-- Drifter -->
 
-  <Drifter.label>流浪者</Drifter.label>
-  <Drifter.labelPlural>流浪者</Drifter.labelPlural>
+  <Drifter.label>drifter</Drifter.label>
+  <Drifter.labelPlural>drifters</Drifter.labelPlural>
+
+
+  <!-- Scavenger -->
+
+  <Scavenger.label>scavenger</Scavenger.label>
+  <Scavenger.labelPlural>scavengers</Scavenger.labelPlural>
 
 
   <!-- Thrasher -->
 
-  <Thrasher.label>打手</Thrasher.label>
-  <Thrasher.labelPlural>打手</Thrasher.labelPlural>
+  <Thrasher.label>thrasher</Thrasher.label>
+  <Thrasher.labelPlural>thrashers</Thrasher.labelPlural>
 
 
   <!-- Pirate -->
 
-  <Pirate.label>海盗</Pirate.label>
-  <Pirate.labelPlural>海盗</Pirate.labelPlural>
+  <Pirate.label>pirate gunner</Pirate.label>
+  <Pirate.labelPlural>pirate gunners</Pirate.labelPlural>
 
 
 </LanguageData>

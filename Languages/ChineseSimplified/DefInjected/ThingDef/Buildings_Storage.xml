@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Template:
+//// Basics
+<ThingDef Name="OPTIONAL-Unique_Name-Optional_but_you_can_use_it_as_ParentName_later_if_you_want"
+            ParentName="LWM_DeepStorage"> - ParentName="LWM_DeepStorage" is NOT optional
+  <defName>YourTag_Unique_defName_goes_here</defName> - not user visible.  Only _ and letters; *no numbers*
+  <label>Furniture Name (for humans to read)</label>
+  <description>A short description.
+
+This template demonstrates that whitespace is obeyed in the description.\n\nSo are newline characters</description>
+
+//// Graphic stuff
+  <graphicData>
+    <graphicClass>common ones are Graphic_Multi and Graphic_Single(1x1 only?)</graphicClass>
+    <texPath>Things/Building/StorageTest/path to texture, e.g., myFurniture should point to myFurniture.png</texPath>
+         For example, myFurniture/myFurniture if you have myFurniture/myFurniture_east.png
+    <drawSize>(X,Y) - how big the texture pictures are.  If you have a half-square border around (2,1), it's (3,2)</drawSize>
+       If you have a full square border, it's (4,3), etc.
+    <shaderType>Optional.  CutoutComplex - if you use it, I have no idea what it does</shaderType>
+    // Shadows
+    <shadowData>This is one option for shadows.  If you use this, don't use anything else
+      <volume>(X,Y,Z) where Y is heigh of shadow above ground.  A short (2,1) object might want (1.8,.1,.8)</volume>
+      <offset>(X,0,Z) if you want the shadow offset for whatever reason</offset>
+          +Z diretion means to the South
+          -X direction is off to the right??
+    </shadowData>
+    // see below for more shadow options
+  </graphicData>
+  <castEdgeShadows>true</castEdgeShadows>  makes soft fuzzy shadowy rectangle around object's foot
+      (Can't use shadow volume above; ...as of 1.0, you can?  If you want that look.)
+  <staticSunShadowHeight>0.5</staticSunShadowHeight>makes sharp rectangular shadow this high
+      (Can't use shadow volume above...now can?)
+
+//// Building basics
+  <size>(2,1) is default</size>Default is (2,1) - you only need to set something if it's different
+  <statBases>
+    <MaxHitPoints>50 is not many</MaxHitPoints>
+    <WorkToBuild>Chess table has 1000 (wooden gives "117" in game); bed has around 150? Ish?</WorkToBuild>
+    <Flammability>1.0 is flammable?  0 is not?</Flammability>
+    <Beauty>how beautiful.  Negative numbers are ugly.</Beauty>
+    <Mass>10</Mass> in kg
+    </statBases>
+    <pathCost>150</pathCost> - Hard to walk thru.  Best to leave it.
+/// Cost:
+  <stuffCategories>What it can be made from
+    <li>Leathery</li>
+    <li>Fabric</li>
+    <li>Metallic</li>
+    <li>Woody</li>
+    <li>Stony</li>
+  </stuffCategories>
+  <costStuffCount>45</costStuffCount>How much it costs.
+     To do things with fixed costs (in addition to stuff costs or whatever):
+  <costList><Cloth>25</Cloth><Steel>20</Steel><etc></etc></costList>
+     Note that it's impossible (so far) to have more than one "stuff" choice
+/// Research  Prereqs:
+  <researchPrerequisites Inherit="false">OPTIONAL  - false to remove or change research Prereqs away from ComplexFurniture
+    <li>...<li> - leave empty (with false above) for no prereqs, change with false, or just add new ones
+  </researchPrerequisites>
+// Storage:  (What can be stored)
+  <building>
+    <preventDeteriorationOnTop>false</etc>Optional - you can turn off preventing deterioration if you want.  Default is true
+    <ignoreStoredThingsBeauty>false</etc>Optional - you can stop ignoring things' beauty if you want.  Default is true.
+    <fixedStorageSettings> - what it is CAPABLE of storing
+      <filter>
+        <categories> See the core Defs/ThingCategoryDefs/ThingCategories.xml
+          <li>FoodRaw</li>
+          <li>PlantMatter</li>
+          <li>Textiles</li>
+          <li>Medicine</li>
+          <li>Weapons</li>
+          <li>Etc - you can find more</li>
+        </categories>
+        <thingDefs>
+          <li>RocketLauncherThingDef</li>
+          <li>ThingDefForPrettyHatFromAMod</li>
+          <li>Gold</li>
+          <li>Etc - single items, look up the defName</li>
+          <li>sometimes, it's WoodLog, not Wood, so be careful</li>
+        </thingDefs>
+      </filter>
+      <disallowedCategories>
+        <li>AnotherCategoryThatDoesNOTGoInStorage</li>
+      </disallowedCategories>
+    </fixedStorageSettings>  // There are more filter settings if you want to search the code base
+  <defaultStorageSettings> Optional - IF YOU WANT (defaults to nothing) - What the building is ready to accept
+    // (I don't like this, because pawns may haul things there I don't want before I change the settings.
+        There's a mod "No Default Shelf Storage" that turns this off for vanilla shelves.
+        This is turned ON for Combat Extended weapons lockers.)
+    <priority>Low up to Critical</priority> - defaults to important
+      <filter>
+        As above.  If you leave this section out, storage units won't start with things checked off,
+        which can be very nice.
+      </filter>
+    </defaultStorageSettings>
+  </building>
+/// Deep Storage!
+  <comps>
+    <li Class="LWM.DeepStorage.Properties" >
+      <maxNumberStacks>2</maxNumberStacks> - how many stacks can be in each cell at once
+      <minNumberStacks>1</minNumberStacks> - per cell
+      Two ways to say how long storing takes:  (users can always scale storing time in mod options)
+      Flat storing time:
+      <timeStoringTakes>1000</timeStoringTakes> - how many Ticks storing takes
+         1000 is a long while, 300 is a bit, 0 is no time at all (like a vanilla shelf)
+      Scaling storing time:
+      <minTimeStoringTakes>300</minTimeStoringTakes>
+      <additionalTimeEachStack>100</additionalTimeEachStack> - each stack already in that cell
+          So if you are putting catfood in a bowl, but it already has 2 dogfood and 1 fishfood,
+          this will get added three times.
+      <additionalTimeEachDef>200</additionalTimeEachDef> - each different type of thing
+          Technically, each item that cannot stack with other items.
+          So if you are putting catfood in a bowl, but it already has 2 dogfood and 1 fishfood,
+          this will get added twice.  If you were adding fishfood, it would get added once.
+      <additionalTimeStackSize>10</additionalTimeStackSize> - if you have 75 in the stack, takes an extra 750 ticks.
+      Mass restrictions:
+      <maxTotalMass></maxTotalMass> - per cell
+      <maxMassOfStoredItem></maxMassOfStoredItem> - per item.  Items bigger than this just cannot fit
+      <altStat></altStat> - to use something besides vanilla mass.  E.g., CombatExtended's Bulk.
+      Display:
+      <showContents>true</showContents> - default
+      Pick an overlay:
+      <overlayType>Normal</overlayType> - topmost item shows its usual overlay
+      <overlayType>CountOfAllStacks</overlayType> - centered on the DSU - for non-stackable items?
+      <overlayType>CountOfStacksPerCell</overlayType> - standard overlay position for each cell
+      <overlayType>SumOfAllItems</overlayType> - centered on DSU, for stackable items
+      <overlayType>SumOfItemsPerCell</overlayType> - etc.
+      <overlayType>None</overlayType> - if you want this for some reason?
+    </li>
+    <li><compClass>CompQuality</compClass></li> - if you want the item to have quality, which affects beauty
+  </comps>
+</ThingDef> -->
+
+  <LWM_DeepStorage_Blueprint.label>LWM_DeepStorage (blueprint)</LWM_DeepStorage_Blueprint.label>
+  <LWM_DeepStorage_Blueprint_Install.label>LWM_DeepStorage (blueprint)</LWM_DeepStorage_Blueprint_Install.label>
+  <LWM_DeepStorage_Frame.label>LWM_DeepStorage (building)</LWM_DeepStorage_Frame.label>
+  <LWM_DeepStorage_Frame.description>LWM_DeepStorage</LWM_DeepStorage_Frame.description>
+
+  <LWM_Pallet.label>Pallet</LWM_Pallet.label>
+  <LWM_Pallet.description>A flat pallet for packing things.  Does not protect against the weather.  Sometimes difficult to manage, but useful nonetheless.</LWM_Pallet.description>
+  <LWM_Pallet_Blueprint.label>Pallet (blueprint)</LWM_Pallet_Blueprint.label>
+  <LWM_Pallet_Blueprint_Install.label>Pallet (blueprint)</LWM_Pallet_Blueprint_Install.label>
+  <LWM_Pallet_Frame.label>Pallet (building)</LWM_Pallet_Frame.label>
+  <LWM_Pallet_Frame.description>A flat pallet for packing things.  Does not protect against the weather.  Sometimes difficult to manage, but useful nonetheless.</LWM_Pallet_Frame.description>
+
+  <LWM_DeepStorage_Skip.label>Skip</LWM_DeepStorage_Skip.label>
+  <LWM_DeepStorage_Skip.description>A large metal bin for tossing heavy things in.  These skips are not covered; they are open to the weather.</LWM_DeepStorage_Skip.description>
+  <LWM_DeepStorage_Skip_Blueprint.label>Skip (blueprint)</LWM_DeepStorage_Skip_Blueprint.label>
+  <LWM_DeepStorage_Skip_Blueprint_Install.label>Skip (blueprint)</LWM_DeepStorage_Skip_Blueprint_Install.label>
+  <LWM_DeepStorage_Skip_Frame.label>Skip (building)</LWM_DeepStorage_Skip_Frame.label>
+  <LWM_DeepStorage_Skip_Frame.description>A large metal bin for tossing heavy things in.  These skips are not covered; they are open to the weather.</LWM_DeepStorage_Skip_Frame.description>
+
+  <Pot.label>pot</Pot.label>
+  <Pot.description>A big pot made of wood, metal or ceramics; used to preserve food. Slows rotting process.</Pot.description>
+  <Pot_Blueprint.label>pot (blueprint)</Pot_Blueprint.label>
+  <Pot_Blueprint_Install.label>pot (blueprint)</Pot_Blueprint_Install.label>
+  <Pot_Frame.label>pot (building)</Pot_Frame.label>
+  <Pot_Frame.description>A big pot made of wood, metal or ceramics; used to preserve food. Slows rotting process.</Pot_Frame.description>
+
+  <Basket.label>basket</Basket.label>
+  <Basket.description>A basket made of leather or textile. Used to store various things inside. Up to 6 items.</Basket.description>
+  <Basket_Blueprint.label>basket (blueprint)</Basket_Blueprint.label>
+  <Basket_Blueprint_Install.label>basket (blueprint)</Basket_Blueprint_Install.label>
+  <Basket_Frame.label>basket (building)</Basket_Frame.label>
+  <Basket_Frame.description>A basket made of leather or textile. Used to store various things inside. Up to 6 items.</Basket_Frame.description>
+
+  <Barrel.label>barrel</Barrel.label>
+  <Barrel.description>A barrel made of wood or metal. Used to store various things inside. Up to 5 items.</Barrel.description>
+  <Barrel_Blueprint.label>barrel (blueprint)</Barrel_Blueprint.label>
+  <Barrel_Blueprint_Install.label>barrel (blueprint)</Barrel_Blueprint_Install.label>
+  <Barrel_Frame.label>barrel (building)</Barrel_Frame.label>
+  <Barrel_Frame.description>A barrel made of wood or metal. Used to store various things inside. Up to 5 items.</Barrel_Frame.description>
+
+  <Chest.label>chest</Chest.label>
+  <Chest.description>A simple chest. Used to store various things inside. Up to 6 items.</Chest.description>
+  <Chest_Blueprint.label>chest (blueprint)</Chest_Blueprint.label>
+  <Chest_Blueprint_Install.label>chest (blueprint)</Chest_Blueprint_Install.label>
+  <Chest_Frame.label>chest (building)</Chest_Frame.label>
+  <Chest_Frame.description>A simple chest. Used to store various things inside. Up to 6 items.</Chest_Frame.description>
+
+  <IndustrialChest.label>armored chest</IndustrialChest.label>
+  <IndustrialChest.description>An armored chest made of metal. Used to store various things inside. Up to 6 items.</IndustrialChest.description>
+  <IndustrialChest_Blueprint.label>armored chest (blueprint)</IndustrialChest_Blueprint.label>
+  <IndustrialChest_Blueprint_Install.label>armored chest (blueprint)</IndustrialChest_Blueprint_Install.label>
+  <IndustrialChest_Frame.label>armored chest (building)</IndustrialChest_Frame.label>
+  <IndustrialChest_Frame.description>An armored chest made of metal. Used to store various things inside. Up to 6 items.</IndustrialChest_Frame.description>
+
+  <LWM_Meat_Hook.label>Meat Hook</LWM_Meat_Hook.label>
+  <LWM_Meat_Hook.description>A tall metal frame with several hooks hanging from chains.  A simple crank allows hoisting several hanging things into the air.  A way to store the dead bodies of fellow animals you have killed, before cutting them up and consuming their flesh.  You monster.
+
+			Note that you can only fit so many giant corpses into one space, even if you stack them.  The frame will only hold so much weight.</LWM_Meat_Hook.description>
+  <LWM_Meat_Hook_Blueprint.label>Meat Hook (blueprint)</LWM_Meat_Hook_Blueprint.label>
+  <LWM_Meat_Hook_Blueprint_Install.label>Meat Hook (blueprint)</LWM_Meat_Hook_Blueprint_Install.label>
+  <LWM_Meat_Hook_Frame.label>Meat Hook (building)</LWM_Meat_Hook_Frame.label>
+  <LWM_Meat_Hook_Frame.description>A tall metal frame with several hooks hanging from chains.  A simple crank allows hoisting several hanging things into the air.  A way to store the dead bodies of fellow animals you have killed, before cutting them up and consuming their flesh.  You monster.
+
+			Note that you can only fit so many giant corpses into one space, even if you stack them.  The frame will only hold so much weight.</LWM_Meat_Hook_Frame.description>
+
+  <FeedingBowl.label>feeding bowl</FeedingBowl.label>
+  <FeedingBowl.description>Your animals will love this bowl so much that they'll go eat out of here first!</FeedingBowl.description>
+  <FeedingBowl_Blueprint.label>feeding bowl (blueprint)</FeedingBowl_Blueprint.label>
+  <FeedingBowl_Blueprint_Install.label>feeding bowl (blueprint)</FeedingBowl_Blueprint_Install.label>
+  <FeedingBowl_Frame.label>feeding bowl (building)</FeedingBowl_Frame.label>
+  <FeedingBowl_Frame.description>Your animals will love this bowl so much that they'll go eat out of here first!</FeedingBowl_Frame.description>
+
+  <FabricHamperSingle.label>Hamper</FabricHamperSingle.label>
+  <FabricHamperSingle.description>This is a smaller hamper made out of fabric.  The various pockets allow storing large amounts of diverse small items with ease.</FabricHamperSingle.description>
+  <FabricHamperSingle_Blueprint.label>Hamper (blueprint)</FabricHamperSingle_Blueprint.label>
+  <FabricHamperSingle_Blueprint_Install.label>Hamper (blueprint)</FabricHamperSingle_Blueprint_Install.label>
+  <FabricHamperSingle_Frame.label>Hamper (building)</FabricHamperSingle_Frame.label>
+  <FabricHamperSingle_Frame.description>This is a smaller hamper made out of fabric.  The various pockets allow storing large amounts of diverse small items with ease.</FabricHamperSingle_Frame.description>
+
+  <LWM_BigShelf.label>Double Shelf</LWM_BigShelf.label>
+  <LWM_BigShelf.description>A shelf for storing miscellaneous items, from artillery shells to artwork, from bionic arms to bricks, from chairs to corpses.  It doesn't ask questions, it just stores things.\n\nItems stored in this will not deteriorate, even if outside.\n\nThis shelf holds twice as much as the regular one.</LWM_BigShelf.description>
+  <LWM_BigShelf_Blueprint.label>Double Shelf (blueprint)</LWM_BigShelf_Blueprint.label>
+  <LWM_BigShelf_Blueprint_Install.label>Double Shelf (blueprint)</LWM_BigShelf_Blueprint_Install.label>
+  <LWM_BigShelf_Frame.label>Double Shelf (building)</LWM_BigShelf_Frame.label>
+  <LWM_BigShelf_Frame.description>A shelf for storing miscellaneous items, from artillery shells to artwork, from bionic arms to bricks, from chairs to corpses.  It doesn't ask questions, it just stores things.\n\nItems stored in this will not deteriorate, even if outside.\n\nThis shelf holds twice as much as the regular one.</LWM_BigShelf_Frame.description>
+
+  <LWM_VeryBigShelf.label>tall shelf</LWM_VeryBigShelf.label>
+  <LWM_VeryBigShelf.description>A set of tall covered shelves for storing miscellaneous items, from artillery shells to artwork, from bionic arms to bricks, from chairs to corpses. It doesn't ask questions, it just stores things.</LWM_VeryBigShelf.description>
+  <LWM_VeryBigShelf_Blueprint.label>tall shelf (blueprint)</LWM_VeryBigShelf_Blueprint.label>
+  <LWM_VeryBigShelf_Blueprint_Install.label>tall shelf (blueprint)</LWM_VeryBigShelf_Blueprint_Install.label>
+  <LWM_VeryBigShelf_Frame.label>tall shelf (building)</LWM_VeryBigShelf_Frame.label>
+  <LWM_VeryBigShelf_Frame.description>A set of tall covered shelves for storing miscellaneous items, from artillery shells to artwork, from bionic arms to bricks, from chairs to corpses. It doesn't ask questions, it just stores things.</LWM_VeryBigShelf_Frame.description>
+
+  <TrayRackSingle.label>serving table</TrayRackSingle.label>
+  <TrayRackSingle.description>This is a smaller tall tray rack; haulers carry meals and treats here for storage.</TrayRackSingle.description>
+  <TrayRackSingle_Blueprint.label>serving table (blueprint)</TrayRackSingle_Blueprint.label>
+  <TrayRackSingle_Blueprint_Install.label>serving table (blueprint)</TrayRackSingle_Blueprint_Install.label>
+  <TrayRackSingle_Frame.label>serving table (building)</TrayRackSingle_Frame.label>
+  <TrayRackSingle_Frame.description>This is a smaller tall tray rack; haulers carry meals and treats here for storage.</TrayRackSingle_Frame.description>
+
+  <LWM_Hayloft.label>Hayloft</LWM_Hayloft.label>
+  <LWM_Hayloft.description>This structure can be used to store hay, silage, and various other plant materials off of damp floors. You probably want to build it under a (very tall) roof.</LWM_Hayloft.description>
+  <LWM_Hayloft_Blueprint.label>Hayloft (blueprint)</LWM_Hayloft_Blueprint.label>
+  <LWM_Hayloft_Blueprint_Install.label>Hayloft (blueprint)</LWM_Hayloft_Blueprint_Install.label>
+  <LWM_Hayloft_Frame.label>Hayloft (building)</LWM_Hayloft_Frame.label>
+  <LWM_Hayloft_Frame.description>This structure can be used to store hay, silage, and various other plant materials off of damp floors. You probably want to build it under a (very tall) roof.</LWM_Hayloft_Frame.description>
+
+  <LWM_Medicine_Cabinet.label>Medicine Cabinet</LWM_Medicine_Cabinet.label>
+  <LWM_Medicine_Cabinet.description>A set of cabinets and shelves for stocking medicines and drugs.  Recommended: keep an eye on children.</LWM_Medicine_Cabinet.description>
+  <LWM_Medicine_Cabinet_Blueprint.label>Medicine Cabinet (blueprint)</LWM_Medicine_Cabinet_Blueprint.label>
+  <LWM_Medicine_Cabinet_Blueprint_Install.label>Medicine Cabinet (blueprint)</LWM_Medicine_Cabinet_Blueprint_Install.label>
+  <LWM_Medicine_Cabinet_Frame.label>Medicine Cabinet (building)</LWM_Medicine_Cabinet_Frame.label>
+  <LWM_Medicine_Cabinet_Frame.description>A set of cabinets and shelves for stocking medicines and drugs.  Recommended: keep an eye on children.</LWM_Medicine_Cabinet_Frame.description>
+
+  <Shelf.label>Clothing Rack</Shelf.label>
+  <Shelf.description>A covered rack for storing clothing for easy, quick access and a tidy room.</Shelf.description>
+  <Shelf_Blueprint.label>Clothing Rack (blueprint)</Shelf_Blueprint.label>
+  <Shelf_Blueprint_Install.label>Clothing Rack (blueprint)</Shelf_Blueprint_Install.label>
+  <Shelf_Frame.label>Clothing Rack (building)</Shelf_Frame.label>
+  <Shelf_Frame.description>A covered rack for storing clothing for easy, quick access and a tidy room.</Shelf_Frame.description>
+
+  <LWM_WeaponsCabinet.label>Weapons Cabinet</LWM_WeaponsCabinet.label>
+  <LWM_WeaponsCabinet.description>A sturdy cabinet for storing multiple weapons. Items stored in this will not deteriorate, even if outside.</LWM_WeaponsCabinet.description>
+  <LWM_WeaponsCabinet_Blueprint.label>Weapons Cabinet (blueprint)</LWM_WeaponsCabinet_Blueprint.label>
+  <LWM_WeaponsCabinet_Blueprint_Install.label>Weapons Cabinet (blueprint)</LWM_WeaponsCabinet_Blueprint_Install.label>
+  <LWM_WeaponsCabinet_Frame.label>Weapons Cabinet (building)</LWM_WeaponsCabinet_Frame.label>
+  <LWM_WeaponsCabinet_Frame.description>A sturdy cabinet for storing multiple weapons. Items stored in this will not deteriorate, even if outside.</LWM_WeaponsCabinet_Frame.description>
+
+
+  <!-- or for anyone who builds some good careful metal-working tools -->
+
+  <LWM_WeaponsLocker.label>Weapons Locker</LWM_WeaponsLocker.label>
+  <LWM_WeaponsLocker.description>A high-capacity metal locker for securely storing many weapons. Items stored in this will not deteriorate, even if outside.</LWM_WeaponsLocker.description>
+  <LWM_WeaponsLocker_Blueprint.label>Weapons Locker (blueprint)</LWM_WeaponsLocker_Blueprint.label>
+  <LWM_WeaponsLocker_Blueprint_Install.label>Weapons Locker (blueprint)</LWM_WeaponsLocker_Blueprint_Install.label>
+  <LWM_WeaponsLocker_Frame.label>Weapons Locker (building)</LWM_WeaponsLocker_Frame.label>
+  <LWM_WeaponsLocker_Frame.description>A high-capacity metal locker for securely storing many weapons. Items stored in this will not deteriorate, even if outside.</LWM_WeaponsLocker_Frame.description>
+
+  <Storage_HazMatContainer.label>ammo box</Storage_HazMatContainer.label>
+  <Storage_HazMatContainer.description>Stores ammos; prevents deterioration. Up to 8 items.</Storage_HazMatContainer.description>
+  <Storage_HazMatContainer_Blueprint.label>ammo box (blueprint)</Storage_HazMatContainer_Blueprint.label>
+  <Storage_HazMatContainer_Blueprint_Install.label>ammo box (blueprint)</Storage_HazMatContainer_Blueprint_Install.label>
+  <Storage_HazMatContainer_Frame.label>ammo box (building)</Storage_HazMatContainer_Frame.label>
+  <Storage_HazMatContainer_Frame.description>Stores ammos; prevents deterioration. Up to 8 items.</Storage_HazMatContainer_Frame.description>
+
+  <Storage_ExplosiveContainer.label>armored ammo box</Storage_ExplosiveContainer.label>
+  <Storage_ExplosiveContainer.description>Stores ammos; prevents deterioration. Up to 8 items.</Storage_ExplosiveContainer.description>
+  <Storage_ExplosiveContainer_Blueprint.label>armored ammo box (blueprint)</Storage_ExplosiveContainer_Blueprint.label>
+  <Storage_ExplosiveContainer_Blueprint_Install.label>armored ammo box (blueprint)</Storage_ExplosiveContainer_Blueprint_Install.label>
+  <Storage_ExplosiveContainer_Frame.label>armored ammo box (building)</Storage_ExplosiveContainer_Frame.label>
+  <Storage_ExplosiveContainer_Frame.description>Stores ammos; prevents deterioration. Up to 8 items.</Storage_ExplosiveContainer_Frame.description>
+
+  <ClutterLockerA.label>armored box</ClutterLockerA.label>
+  <ClutterLockerA.description>Stores weapons, weapon parts, weapon crates, ammo and apparel; prevents deterioration. Up to 8 items.</ClutterLockerA.description>
+  <ClutterLockerA_Blueprint.label>armored box (blueprint)</ClutterLockerA_Blueprint.label>
+  <ClutterLockerA_Blueprint_Install.label>armored box (blueprint)</ClutterLockerA_Blueprint_Install.label>
+  <ClutterLockerA_Frame.label>armored box (building)</ClutterLockerA_Frame.label>
+  <ClutterLockerA_Frame.description>Stores weapons, weapon parts, weapon crates, ammo and apparel; prevents deterioration. Up to 8 items.</ClutterLockerA_Frame.description>
+
+  <Commode.label>commode</Commode.label>
+  <Commode.description>A place for colonist to store personal belongings. When placed with a bed it will increase comfort and rest effectiveness slightly. Up to 8 items.</Commode.description>
+  <Commode_Blueprint.label>commode (blueprint)</Commode_Blueprint.label>
+  <Commode_Blueprint_Install.label>commode (blueprint)</Commode_Blueprint_Install.label>
+  <Commode_Frame.label>commode (building)</Commode_Frame.label>
+  <Commode_Frame.description>A place for colonist to store personal belongings. When placed with a bed it will increase comfort and rest effectiveness slightly. Up to 8 items.</Commode_Frame.description>
+
+
+</LanguageData>

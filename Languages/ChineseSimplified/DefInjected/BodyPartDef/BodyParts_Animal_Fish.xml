@@ -1,18 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FishMouth.label>嘴</FishMouth.label>
-  <LeftGill.label>左腮</LeftGill.label>
-  <RightGill.label>右腮</RightGill.label>
-  <LeftFin.label>左鳍</LeftFin.label>
-  <RightFin.label>右鳍</RightFin.label>
-  <DorsalFin.label>右鳍</DorsalFin.label>
-  <VentralFin.label>左鳍</VentralFin.label>
-  <CaudalFin.label>右鳍</CaudalFin.label>
-  <SquidBody.label>身体</SquidBody.label>
-  <SquidHead.label>头</SquidHead.label>
-  <SquidMouth.label>嘴</SquidMouth.label>
-  <Tentacle.label>右鳍</Tentacle.label>
+  <FishMouth.label>mouth</FishMouth.label>
+  <Gill.label>gill</Gill.label>
+  <Fin.label>fin</Fin.label>
+  <DorsalFin.label>right fin</DorsalFin.label>
+  <VentralFin.label>left fin</VentralFin.label>
+  <CaudalFin.label>right fin</CaudalFin.label>
+  <SquidBody.label>body</SquidBody.label>
+  <SquidHead.label>head</SquidHead.label>
+  <SquidMouth.label>mouth</SquidMouth.label>
+  <Tentacle.label>right fin</Tentacle.label>
 
 
 </LanguageData>

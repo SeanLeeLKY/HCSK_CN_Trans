@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- cybernetic parts -->
+
+  <InstallGTEar.label>Install Cybernetic Bionic Ear</InstallGTEar.label>
+  <InstallGTEar.description>Installs a Cybernetic Bionic Ear.</InstallGTEar.description>
+  <InstallGTEar.jobString>Installing Cybernetic Bionic Ear.</InstallGTEar.jobString>
+
+  <InstallArchotechEye.label>Install Cybernetic Bionic Eye</InstallArchotechEye.label>
+  <InstallArchotechEye.description>Installs a Cybernetic Bionic Eye.</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>Installing Cybernetic Bionic Eye.</InstallArchotechEye.jobString>
+
+  <InstallArchotechArm.label>Install Cybernetic Bionic Arm</InstallArchotechArm.label>
+  <InstallArchotechArm.description>Installs Cybernetic Bionic Arm.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>Installing Cybernetic Bionic Arm.</InstallArchotechArm.jobString>
+
+  <InstallArchotechLeg.label>Install Cybernetic Bionic Leg</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>Installs a Cybernetic Bionic Leg.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>Installing Cybernetic Bionic Leg.</InstallArchotechLeg.jobString>
+
+  <InstallGTHeart.label>Install Cybernetic Heart</InstallGTHeart.label>
+  <InstallGTHeart.description>Installs a Cybernetic Heart.</InstallGTHeart.description>
+  <InstallGTHeart.jobString>Installing Cybernetic Heart.</InstallGTHeart.jobString>
+
+  <InstallGTLung.label>Install Cybernetic Lung</InstallGTLung.label>
+  <InstallGTLung.description>Installs a Cybernetic Lung.</InstallGTLung.description>
+  <InstallGTLung.jobString>Installing Cybernetic Lung.</InstallGTLung.jobString>
+
+  <InstallGTKidney.label>Install Cybernetic Kidney</InstallGTKidney.label>
+  <InstallGTKidney.description>Installs a Cybernetic Kidney.</InstallGTKidney.description>
+  <InstallGTKidney.jobString>Installing Cybernetic Kidney.</InstallGTKidney.jobString>
+
+  <InstallGTLiver.label>Install Cybernetic Liver</InstallGTLiver.label>
+  <InstallGTLiver.description>Installs a Cybernetic Liver.</InstallGTLiver.description>
+  <InstallGTLiver.jobString>Installing Cybernetic Liver.</InstallGTLiver.jobString>
+
+  <InstallGTStomach.label>Install Cybernetic Stomach</InstallGTStomach.label>
+  <InstallGTStomach.description>Installs a Cybernetic Stomach.</InstallGTStomach.description>
+  <InstallGTStomach.jobString>Installing Cybernetic Stomach.</InstallGTStomach.jobString>
+
+  <InstallGTHand.label>Install Cybernetic Bionic Hand</InstallGTHand.label>
+  <InstallGTHand.description>Installs a Cybernetic Bionic Hand.</InstallGTHand.description>
+  <InstallGTHand.jobString>Installing Cybernetic Bionic Hand.</InstallGTHand.jobString>
+
+  <InstallGTFoot.label>Install Cybernetic Bionic Foot</InstallGTFoot.label>
+  <InstallGTFoot.description>Installs a Cybernetic Bionic Foot.</InstallGTFoot.description>
+  <InstallGTFoot.jobString>Installing Cybernetic Bionic Foot.</InstallGTFoot.jobString>
+
+  <InstallGTDentures.label>Install Cybernetic Denture</InstallGTDentures.label>
+  <InstallGTDentures.description>Installs a Cybernetic Denture.</InstallGTDentures.description>
+  <InstallGTDentures.jobString>Installing Cybernetic Denture.</InstallGTDentures.jobString>
+
+  <InstallGTSpine.label>Install Cybernetic Bionic Spine</InstallGTSpine.label>
+  <InstallGTSpine.description>Installs a Cybernetic Bionic Spine.</InstallGTSpine.description>
+  <InstallGTSpine.jobString>Installing Bionic Spine.</InstallGTSpine.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Natural parts - can be harvested, or grown in the organ vat -->
+
+  <InstallNaturalEye.label>Install Eye</InstallNaturalEye.label>
+  <InstallNaturalEye.description>Installs a natural Eye.</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>Installing Eye.</InstallNaturalEye.jobString>
+
+  <InstallNaturalHeart.label>Install Heart</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Installs a naturally grown Heart.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Installing Heart.</InstallNaturalHeart.jobString>
+
+  <InstallNaturalLung.label>Install Lung</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Installs a natural Lung.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Installing Lung.</InstallNaturalLung.jobString>
+
+  <InstallNaturalLiver.label>Install Liver</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Installs a natural Liver.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Installing Liver.</InstallNaturalLiver.jobString>
+
+  <InstallNaturalKidney.label>Install Kidney</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Installs a natural Kidney.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Installing Kidney.</InstallNaturalKidney.jobString>
+
+  <InstallNaturalStomach.label>Install Stomach</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>Installs a natural Stomach.</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>Installing Stomach.</InstallNaturalStomach.jobString>
+
+  <InstallNaturalJaw.label>Install Jaw</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>Installs a natural Jaw.</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>Installing Jaw.</InstallNaturalJaw.jobString>
+
+  <InstallNaturalLeg.label>Install Leg</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>Installs a natural Leg.</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>Installing Leg.</InstallNaturalLeg.jobString>
+
+
+  <!-- <ThingDef ParentName="BodyPartBase_Natural">
+	<defName>Brain</defName>
+    <label>brain</label>
+	<description>Lets you know whos in charge</description>
+	<graphicPath>Things/Item/BodyPart/MedOrgan</graphicPath>
+	<graphicClass>Graphic_Single</graphicClass>
+	<statBases>
+	  <MarketValue>500</MarketValue>
+    </statBases>
+</ThingDef> -->
+
+  <InstallNaturalArm.label>Install Arm</InstallNaturalArm.label>
+  <InstallNaturalArm.description>Installs a natural Arm.</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>Installing Arm.</InstallNaturalArm.jobString>
+
+
+</LanguageData>

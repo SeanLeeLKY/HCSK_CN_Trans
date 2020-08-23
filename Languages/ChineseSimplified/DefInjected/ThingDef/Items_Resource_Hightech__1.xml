@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Antimatter -->
+
+  <Antimatter.label>反物质</Antimatter.label>
+  <Antimatter.description>以反原子形式存在的反物质是最难以制造的物质之一。然而，以单个反粒子形式存在的反物质通常是由粒子加速器和某些类型的放射性衰变产生的。</Antimatter.description>
+
+
+  <!-- Magnetic material -->
+
+  <MagneticMaterial.label>磁性材料</MagneticMaterial.label>
+  
+
+
+  <!-- Biosynthetic material -->
+
+  <BiosyntheticMaterial.label>生物合成材料</BiosyntheticMaterial.label>
+  
+  <Hexcell.label>动力电池</Hexcell.label>
+  
+
+
+</LanguageData>

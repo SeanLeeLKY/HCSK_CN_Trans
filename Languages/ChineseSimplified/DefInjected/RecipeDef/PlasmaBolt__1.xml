@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_PlasmaBolt.label>制造 等离子电荷弹 x80</MakeAmmo_PlasmaBolt.label>
+  <MakeAmmo_PlasmaBolt.description>制造 80 等离子电荷弹。</MakeAmmo_PlasmaBolt.description>
+  <MakeAmmo_PlasmaBolt.jobString>正在制造 等离子电荷弹。</MakeAmmo_PlasmaBolt.jobString>
+
+
+</LanguageData>

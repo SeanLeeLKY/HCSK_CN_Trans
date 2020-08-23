@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insects -->
+
+  <Megascarab.label>巨型甲虫</Megascarab.label>
+  <Megascarab.labelPlural>巨型甲虫</Megascarab.labelPlural>
+  <Megascarab.lifeStages.0.label>巨型甲虫幼体</Megascarab.lifeStages.0.label>
+  <Megascarab.lifeStages.0.labelPlural>巨型甲虫幼体</Megascarab.lifeStages.0.labelPlural>
+  <Megascarab.lifeStages.0.labelMale>巨型甲虫幼体</Megascarab.lifeStages.0.labelMale>
+  <Megascarab.lifeStages.0.labelMalePlural>巨型甲虫幼体</Megascarab.lifeStages.0.labelMalePlural>
+  <Megascarab.lifeStages.0.labelFemale>巨型甲虫幼体</Megascarab.lifeStages.0.labelFemale>
+  <Megascarab.lifeStages.0.labelFemalePlural>巨型甲虫幼体</Megascarab.lifeStages.0.labelFemalePlural>
+  <Megascarab.lifeStages.1.label>巨型甲虫成长体</Megascarab.lifeStages.1.label>
+  <Megascarab.lifeStages.1.labelPlural>巨型甲虫成长体</Megascarab.lifeStages.1.labelPlural>
+  <Megascarab.lifeStages.1.labelMale>巨型甲虫成长体</Megascarab.lifeStages.1.labelMale>
+  <Megascarab.lifeStages.1.labelMalePlural>巨型甲虫成长体</Megascarab.lifeStages.1.labelMalePlural>
+  <Megascarab.lifeStages.1.labelFemale>巨型甲虫成长体</Megascarab.lifeStages.1.labelFemale>
+  <Megascarab.lifeStages.1.labelFemalePlural>巨型甲虫成长体</Megascarab.lifeStages.1.labelFemalePlural>
+  <Megascarab.lifeStages.2.label>巨型甲虫</Megascarab.lifeStages.2.label>
+  <Megascarab.lifeStages.2.labelPlural>巨型甲虫</Megascarab.lifeStages.2.labelPlural>
+  <Megascarab.lifeStages.2.labelMale>巨型甲虫</Megascarab.lifeStages.2.labelMale>
+  <Megascarab.lifeStages.2.labelMalePlural>巨型甲虫</Megascarab.lifeStages.2.labelMalePlural>
+  <Megascarab.lifeStages.2.labelFemale>巨型甲虫</Megascarab.lifeStages.2.labelFemale>
+  <Megascarab.lifeStages.2.labelFemalePlural>巨型甲虫</Megascarab.lifeStages.2.labelFemalePlural>
+  <Megascarab.labelMale>巨型甲虫</Megascarab.labelMale>
+  <Megascarab.labelMalePlural>巨型甲虫</Megascarab.labelMalePlural>
+  <Megascarab.labelFemale>巨型甲虫</Megascarab.labelFemale>
+  <Megascarab.labelFemalePlural>巨型甲虫</Megascarab.labelFemalePlural>
+  <Spelopede.label>洞穴阔步虫</Spelopede.label>
+  <Spelopede.labelPlural>洞穴阔步虫</Spelopede.labelPlural>
+  <Spelopede.lifeStages.0.label>洞穴阔步虫幼体</Spelopede.lifeStages.0.label>
+  <Spelopede.lifeStages.0.labelPlural>洞穴阔步虫幼体</Spelopede.lifeStages.0.labelPlural>
+  <Spelopede.lifeStages.0.labelMale>洞穴阔步虫幼体</Spelopede.lifeStages.0.labelMale>
+  <Spelopede.lifeStages.0.labelMalePlural>洞穴阔步虫幼体</Spelopede.lifeStages.0.labelMalePlural>
+  <Spelopede.lifeStages.0.labelFemale>洞穴阔步虫幼体</Spelopede.lifeStages.0.labelFemale>
+  <Spelopede.lifeStages.0.labelFemalePlural>洞穴阔步虫幼体</Spelopede.lifeStages.0.labelFemalePlural>
+  <Spelopede.lifeStages.1.label>洞穴阔步虫成长体</Spelopede.lifeStages.1.label>
+  <Spelopede.lifeStages.1.labelPlural>洞穴阔步虫成长体</Spelopede.lifeStages.1.labelPlural>
+  <Spelopede.lifeStages.1.labelMale>洞穴阔步虫成长体</Spelopede.lifeStages.1.labelMale>
+  <Spelopede.lifeStages.1.labelMalePlural>洞穴阔步虫成长体</Spelopede.lifeStages.1.labelMalePlural>
+  <Spelopede.lifeStages.1.labelFemale>洞穴阔步虫成长体</Spelopede.lifeStages.1.labelFemale>
+  <Spelopede.lifeStages.1.labelFemalePlural>洞穴阔步虫成长体</Spelopede.lifeStages.1.labelFemalePlural>
+  <Spelopede.lifeStages.2.label>洞穴阔步虫</Spelopede.lifeStages.2.label>
+  <Spelopede.lifeStages.2.labelPlural>洞穴阔步虫</Spelopede.lifeStages.2.labelPlural>
+  <Spelopede.lifeStages.2.labelMale>洞穴阔步虫</Spelopede.lifeStages.2.labelMale>
+  <Spelopede.lifeStages.2.labelMalePlural>洞穴阔步虫</Spelopede.lifeStages.2.labelMalePlural>
+  <Spelopede.lifeStages.2.labelFemale>洞穴阔步虫</Spelopede.lifeStages.2.labelFemale>
+  <Spelopede.lifeStages.2.labelFemalePlural>洞穴阔步虫</Spelopede.lifeStages.2.labelFemalePlural>
+  <Spelopede.labelMale>洞穴阔步虫</Spelopede.labelMale>
+  <Spelopede.labelMalePlural>洞穴阔步虫</Spelopede.labelMalePlural>
+  <Spelopede.labelFemale>洞穴阔步虫</Spelopede.labelFemale>
+  <Spelopede.labelFemalePlural>洞穴阔步虫</Spelopede.labelFemalePlural>
+  <Megaspider.label>巨型蜘蛛</Megaspider.label>
+  <Megaspider.labelPlural>巨型蜘蛛</Megaspider.labelPlural>
+  <Megaspider.lifeStages.0.label>巨型蜘蛛幼体</Megaspider.lifeStages.0.label>
+  <Megaspider.lifeStages.0.labelPlural>巨型蜘蛛幼体</Megaspider.lifeStages.0.labelPlural>
+  <Megaspider.lifeStages.0.labelMale>巨型蜘蛛幼体</Megaspider.lifeStages.0.labelMale>
+  <Megaspider.lifeStages.0.labelMalePlural>巨型蜘蛛幼体</Megaspider.lifeStages.0.labelMalePlural>
+  <Megaspider.lifeStages.0.labelFemale>巨型蜘蛛幼体</Megaspider.lifeStages.0.labelFemale>
+  <Megaspider.lifeStages.0.labelFemalePlural>巨型蜘蛛幼体</Megaspider.lifeStages.0.labelFemalePlural>
+  <Megaspider.lifeStages.1.label>巨型蜘蛛成长体</Megaspider.lifeStages.1.label>
+  <Megaspider.lifeStages.1.labelPlural>巨型蜘蛛成长体</Megaspider.lifeStages.1.labelPlural>
+  <Megaspider.lifeStages.1.labelMale>巨型蜘蛛成长体</Megaspider.lifeStages.1.labelMale>
+  <Megaspider.lifeStages.1.labelMalePlural>巨型蜘蛛成长体</Megaspider.lifeStages.1.labelMalePlural>
+  <Megaspider.lifeStages.1.labelFemale>巨型蜘蛛成长体</Megaspider.lifeStages.1.labelFemale>
+  <Megaspider.lifeStages.1.labelFemalePlural>巨型蜘蛛成长体</Megaspider.lifeStages.1.labelFemalePlural>
+  <Megaspider.lifeStages.2.label>巨型蜘蛛</Megaspider.lifeStages.2.label>
+  <Megaspider.lifeStages.2.labelPlural>巨型蜘蛛</Megaspider.lifeStages.2.labelPlural>
+  <Megaspider.lifeStages.2.labelMale>巨型蜘蛛</Megaspider.lifeStages.2.labelMale>
+  <Megaspider.lifeStages.2.labelMalePlural>巨型蜘蛛</Megaspider.lifeStages.2.labelMalePlural>
+  <Megaspider.lifeStages.2.labelFemale>巨型蜘蛛</Megaspider.lifeStages.2.labelFemale>
+  <Megaspider.lifeStages.2.labelFemalePlural>巨型蜘蛛</Megaspider.lifeStages.2.labelFemalePlural>
+  <Megaspider.labelMale>巨型蜘蛛</Megaspider.labelMale>
+  <Megaspider.labelMalePlural>巨型蜘蛛</Megaspider.labelMalePlural>
+  <Megaspider.labelFemale>巨型蜘蛛</Megaspider.labelFemale>
+  <Megaspider.labelFemalePlural>巨型蜘蛛</Megaspider.labelFemalePlural>
+
+  <Scorpion.label>蝎子</Scorpion.label>
+  <Scorpion.labelPlural>蝎子</Scorpion.labelPlural>
+  <Scorpion.lifeStages.0.label>蝎子</Scorpion.lifeStages.0.label>
+  <Scorpion.lifeStages.0.labelPlural>蝎子</Scorpion.lifeStages.0.labelPlural>
+  <Scorpion.lifeStages.0.labelMale>雄性蝎子</Scorpion.lifeStages.0.labelMale>
+  <Scorpion.lifeStages.0.labelMalePlural>雄性蝎子</Scorpion.lifeStages.0.labelMalePlural>
+  <Scorpion.lifeStages.0.labelFemale>雌性蝎子</Scorpion.lifeStages.0.labelFemale>
+  <Scorpion.lifeStages.0.labelFemalePlural>雌性蝎子</Scorpion.lifeStages.0.labelFemalePlural>
+  <Scorpion.lifeStages.1.label>蝎子</Scorpion.lifeStages.1.label>
+  <Scorpion.lifeStages.1.labelPlural>蝎子</Scorpion.lifeStages.1.labelPlural>
+  <Scorpion.lifeStages.1.labelMale>雄性蝎子</Scorpion.lifeStages.1.labelMale>
+  <Scorpion.lifeStages.1.labelMalePlural>雄性蝎子</Scorpion.lifeStages.1.labelMalePlural>
+  <Scorpion.lifeStages.1.labelFemale>雌性蝎子</Scorpion.lifeStages.1.labelFemale>
+  <Scorpion.lifeStages.1.labelFemalePlural>雌性蝎子</Scorpion.lifeStages.1.labelFemalePlural>
+  <Scorpion.lifeStages.2.label>蝎子</Scorpion.lifeStages.2.label>
+  <Scorpion.lifeStages.2.labelPlural>蝎子</Scorpion.lifeStages.2.labelPlural>
+  <Scorpion.lifeStages.2.labelMale>雄性蝎子</Scorpion.lifeStages.2.labelMale>
+  <Scorpion.lifeStages.2.labelMalePlural>雄性蝎子</Scorpion.lifeStages.2.labelMalePlural>
+  <Scorpion.lifeStages.2.labelFemale>雌性蝎子</Scorpion.lifeStages.2.labelFemale>
+  <Scorpion.lifeStages.2.labelFemalePlural>雌性蝎子</Scorpion.lifeStages.2.labelFemalePlural>
+  <Scorpion.labelMale>雄性蝎子</Scorpion.labelMale>
+  <Scorpion.labelMalePlural>雄性蝎子</Scorpion.labelMalePlural>
+  <Scorpion.labelFemale>雌性蝎子</Scorpion.labelFemale>
+  <Scorpion.labelFemalePlural>雌性蝎子</Scorpion.labelFemalePlural>
+
+
+</LanguageData>

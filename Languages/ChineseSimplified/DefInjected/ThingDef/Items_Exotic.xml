@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThrumboHorn.label>thrumbo horn</ThrumboHorn.label>
+  <ThrumboHorn.description>The horn from a previously living thrumbo. It's razor-sharp, very hard and priceless in most markets. This is a true trophy.</ThrumboHorn.description>
+  <ThrumboHorn.tools.0.label>handle</ThrumboHorn.tools.0.label>
+  <ThrumboHorn.tools.1.label>point</ThrumboHorn.tools.1.label>
+
+  <ElephantTusk.label>elephant tusk</ElephantTusk.label>
+  <ElephantTusk.description>An elephant's tusk. Very durable and valuable. Deadly but somewhat unwieldy as a weapon.</ElephantTusk.description>
+  <ElephantTusk.tools.0.label>handle</ElephantTusk.tools.0.label>
+  <ElephantTusk.tools.1.label>point</ElephantTusk.tools.1.label>
+
+  <WeatherControllerCore.label>Weather controller core</WeatherControllerCore.label>
+  <WeatherControllerCore.description>An advanced device designed to controller the local weather. This is a jewel of technology for farming planets and a feared weapon on contested ones.</WeatherControllerCore.description>
+
+
+</LanguageData>

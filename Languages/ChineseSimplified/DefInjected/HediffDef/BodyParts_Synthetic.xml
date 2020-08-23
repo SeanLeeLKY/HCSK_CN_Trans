@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicLung.label>synthetic lung</BionicLung.label>
+  <BionicLung.description>An installed high-tech breathing replacement. Makes a soft whirring sound.</BionicLung.description>
+  <BionicLung.labelNoun>a synthetic lung</BionicLung.labelNoun>
+
+  <BionicStomach.label>synthetic stomach</BionicStomach.label>
+  <BionicStomach.description>An installed enhanced stomach augmented with synthetic fibres to decrease rejection rate.</BionicStomach.description>
+  <BionicStomach.labelNoun>a synthetic stomach</BionicStomach.labelNoun>
+
+  <BionicLiver.label>synthetic liver</BionicLiver.label>
+  <BionicLiver.description>An installed enhanced liver augmented with synthetic fibers to decrease rejection rate.</BionicLiver.description>
+  <BionicLiver.labelNoun>a synthetic liver</BionicLiver.labelNoun>
+
+  <BionicKidney.label>synthetic kidney</BionicKidney.label>
+  <BionicKidney.description>An installed enhanced kidney augmented with synthetic fibers to decrease rejection rate.</BionicKidney.description>
+  <BionicKidney.labelNoun>a synthetic kidney</BionicKidney.labelNoun>
+
+  <BionicHeart.label>bionic heart</BionicHeart.label>
+  <BionicHeart.description>An installed advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way.</BionicHeart.description>
+  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
+
+  <Joywire.label>joywire</Joywire.label>
+  <Joywire.description>An installed brain implant will make you feel happy and relaxed. Requires brain surgery research before installing.</Joywire.description>
+  <Joywire.labelNoun>a joywire</Joywire.labelNoun>
+
+  <Painstopper.label>painstopper</Painstopper.label>
+  <Painstopper.description>An installed brain implant will make you not feel pain. Requires brain surgery research before installing.</Painstopper.description>
+  <Painstopper.labelNoun>a painstopper</Painstopper.labelNoun>
+
+
+  <!-- Muscle stimulator -->
+
+  <MuscleStimulatorArms.label>muscle stimulator</MuscleStimulatorArms.label>
+  <MuscleStimulatorArms.description>An installed muscle stimulator in the arms.</MuscleStimulatorArms.description>
+
+  <MuscleStimulatorLegs.label>muscle stimulator</MuscleStimulatorLegs.label>
+  <MuscleStimulatorLegs.description>An installed muscle stimulator in the legs.</MuscleStimulatorLegs.description>
+
+
+</LanguageData>

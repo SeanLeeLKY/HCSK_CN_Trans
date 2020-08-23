@@ -3,17 +3,17 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_9x19mmPara_FMJ.label>制造 9x19mm 帕拉（全金属被甲弹）手枪弹x100</MakeAmmo_9x19mmPara_FMJ.label>
-  <MakeAmmo_9x19mmPara_FMJ.description>制造 100 9x19mm 帕拉（全金属被甲弹）手枪弹。</MakeAmmo_9x19mmPara_FMJ.description>
-  <MakeAmmo_9x19mmPara_FMJ.jobString>正在制造 9x19mm 帕拉（全金属被甲弹）手枪弹。</MakeAmmo_9x19mmPara_FMJ.jobString>
+  <MakeAmmo_9x19mmPara_FMJ.label>make 9x19mm Parabellum (FMJ) cartridge x100</MakeAmmo_9x19mmPara_FMJ.label>
+  <MakeAmmo_9x19mmPara_FMJ.description>Craft 100 9x19mm Parabellum (FMJ) cartridges.</MakeAmmo_9x19mmPara_FMJ.description>
+  <MakeAmmo_9x19mmPara_FMJ.jobString>Making 9x19mm Parabellum (FMJ) cartridges.</MakeAmmo_9x19mmPara_FMJ.jobString>
 
-  <MakeAmmo_9x19mmPara_AP.label>制造 9x19mm 帕拉（穿甲弹）手枪弹x100</MakeAmmo_9x19mmPara_AP.label>
-  <MakeAmmo_9x19mmPara_AP.description>制造 100 9x19mm 帕拉（穿甲弹）手枪弹。</MakeAmmo_9x19mmPara_AP.description>
-  <MakeAmmo_9x19mmPara_AP.jobString>正在制造 9x19mm 帕拉（穿甲弹）手枪弹。</MakeAmmo_9x19mmPara_AP.jobString>
+  <MakeAmmo_9x19mmPara_AP.label>make 9x19mm Parabellum (AP) cartridge x100</MakeAmmo_9x19mmPara_AP.label>
+  <MakeAmmo_9x19mmPara_AP.description>Craft 100 9x19mm Parabellum (AP) cartridges.</MakeAmmo_9x19mmPara_AP.description>
+  <MakeAmmo_9x19mmPara_AP.jobString>Making 9x19mm Parabellum (AP) cartridges.</MakeAmmo_9x19mmPara_AP.jobString>
 
-  <MakeAmmo_9x19mmPara_HP.label>制造 9x19mm 帕拉（空尖弹）手枪弹x100</MakeAmmo_9x19mmPara_HP.label>
-  <MakeAmmo_9x19mmPara_HP.description>制造 100 9x19mm 帕拉（空尖弹）手枪弹。</MakeAmmo_9x19mmPara_HP.description>
-  <MakeAmmo_9x19mmPara_HP.jobString>正在制造 9x19mm 帕拉（空尖弹）手枪弹。</MakeAmmo_9x19mmPara_HP.jobString>
+  <MakeAmmo_9x19mmPara_HP.label>make 9x19mm Parabellum (HP) cartridge x100</MakeAmmo_9x19mmPara_HP.label>
+  <MakeAmmo_9x19mmPara_HP.description>Craft 100 9x19mm Parabellum (HP) cartridges.</MakeAmmo_9x19mmPara_HP.description>
+  <MakeAmmo_9x19mmPara_HP.jobString>Making 9x19mm Parabellum (HP) cartridges.</MakeAmmo_9x19mmPara_HP.jobString>
 
 
 </LanguageData>

@@ -1,58 +1,145 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MalariaRaid.label>疟疾爆发</MalariaRaid.label>
-  <MalariaRaid.letterText>疫病：疟疾</MalariaRaid.letterText>
+  <Wildfire.label>wildfire</Wildfire.label>
+  <Wildfire.letterText>A large wildfire has broken out nearby and is now spreading to your location.</Wildfire.letterText>
+  <Wildfire.letterLabel>Wild fire</Wildfire.letterLabel>
 
-  <FleaRaid.label>瘟疫爆发</FleaRaid.label>
-  <FleaRaid.letterLabel>疫病： 瘟疫</FleaRaid.letterLabel>
+  <SandTornado.label>Sandstorm</SandTornado.label>
+  <SandTornado.letterText>Sandstorm is coming!\n\nPowerful dust vortices will cut a path of destruction through the area.</SandTornado.letterText>
+  <SandTornado.letterLabel>Sandstorm</SandTornado.letterLabel>
 
-  <SkyFall.label>天坠</SkyFall.label>
-  <MoonFall.label>月陨</MoonFall.label>
-  <HungryCritters.label>饿疯的动物</HungryCritters.label>
-  <DevourersOfCrops.label>作物吞噬者</DevourersOfCrops.label>
-  <Swarm.label>虫群</Swarm.label>
-  <ZeonIncoming.label>Zeon来袭！</ZeonIncoming.label>
-  <Accident.label>意外事故</Accident.label>
-  <FeenixPasses.label>芬尼克斯出现！</FeenixPasses.label>
+  <ColdSuperstorm.label>Cold superstorm</ColdSuperstorm.label>
+  <ColdSuperstorm.letterText>Huge heavy clouds covered your territory, depriving you of sunlight, and causing incredible temperature phenomena in your territory, including severe freezing, hail and the threat of hypothermia. Wear a hat!</ColdSuperstorm.letterText>
+  <ColdSuperstorm.letterLabel>Cold superstorm</ColdSuperstorm.letterLabel>
 
-  <IcicatPasses.label>冰麟出现！</IcicatPasses.label>
-  <IcicatPasses.letterText>一场不寻常的寒流已经开始了。注意防护低温病和保护农作物。</IcicatPasses.letterText>
-  <IcicatPasses.letterLabel>寒潮</IcicatPasses.letterLabel>
+  <Inferno.label>Inferno</Inferno.label>
+  <Inferno.letterText>An extremely powerful heat wave travels across the area, increasing the likelihood of droughts and forest fires. Take care of your head!</Inferno.letterText>
+  <Inferno.letterLabel>Inferno</Inferno.letterLabel>
 
-  <RaptorPasses.label>猛禽路过</RaptorPasses.label>
-  <TribeMigration.label>部落迁徙</TribeMigration.label>
-  <BoulderMassHit.label>巨石轰击</BoulderMassHit.label>
-  <RazorRain.label>“剃刀之雨”</RazorRain.label>
-  <HungryLocusts.label>饥饿之蝗</HungryLocusts.label>
-  <Plunderers.label>掠夺者</Plunderers.label>
-  <Earthquake.label>地震</Earthquake.label>
-  <SeismicActivity.label>地质活动</SeismicActivity.label>
-  <AnimalGenocide.label>动物灭绝</AnimalGenocide.label>
-  <PrisonSuicide.label>囚犯自杀</PrisonSuicide.label>
-  <NuclearIncident.label>核事故</NuclearIncident.label>
-  <NuclearFallout.label>核辐射</NuclearFallout.label>
-  <CosmicRadiation.label>宇宙辐射</CosmicRadiation.label>
-  <AccidentalExplosion.label>意外爆炸</AccidentalExplosion.label>
-  <ColonistStash.label>殖民地藏匿物</ColonistStash.label>
-  <EclipseFeral.label>奇异日食</EclipseFeral.label>
-  <EclipseMeteorImpact.label>陨星日食</EclipseMeteorImpact.label>
-  <MysteriousTransmission.label>诡秘信息</MysteriousTransmission.label>
-  <MajorRescue.label>大型营救</MajorRescue.label>
-  <HiddenResources.label>隐藏资源</HiddenResources.label>
-  <Thanksgiving.label>感恩</Thanksgiving.label>
-  <OrassianFound.label>发现奥瑞森</OrassianFound.label>
-  <TraitChange.label>特性变更</TraitChange.label>
-  <TraitRemove.label>特性移除</TraitRemove.label>
+  <IceAge.label>ice age</IceAge.label>
+  <IceAge.letterText>Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.
 
-  <!--<BoulderHit.label>巨石轰击</BoulderHit.label>-->
-  <!--<AnimalMigration.label>动物迁徙</AnimalMigration.label>-->
-  <!--<Stroke.label>中风</Stroke.label>-->
-  <!--<SickNausea.label>恶心反胃</SickNausea.label>-->
-  <!--<OrassanBombardmentIncident.label>轨道轰炸</OrassanBombardmentIncident.label>-->
-  <!--<OrassanBombardmentIncident.letterText>奥瑞森人对你极其不满，他们在轨道上的军舰对你开炮了！</OrassanBombardmentIncident.letterText>-->
-  <!--<OrassanBombardmentIncident.letterLabel>轨道轰炸</OrassanBombardmentIncident.letterLabel>-->
-  <!--<UnexpectedGuest.label>不速之客</UnexpectedGuest.label>-->
+Flora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.
+
+It will last anywhere between a season to several years. (Visual changes will only appear upon saving/reloading the current save)</IceAge.letterText>
+  <IceAge.letterLabel>Ice Age</IceAge.letterLabel>
+
+  <GlobalWarming.label>global warming</GlobalWarming.label>
+  <GlobalWarming.letterText>Global temperatures have suddenly risen to dangerous levels.
+
+Flora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.
+
+It will last anywhere between a season to several years. (Visual changes will only appear upon saving/reloading the current save)</GlobalWarming.letterText>
+  <GlobalWarming.letterLabel>Global Warming</GlobalWarming.letterLabel>
+
+  <PsychicRain.label>psychic rain</PsychicRain.label>
+  <PsychicRain.letterText>A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.
+
+A seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.</PsychicRain.letterText>
+  <PsychicRain.letterLabel>Psychic Rain</PsychicRain.letterLabel>
+
+  <LongNight.label>long night</LongNight.label>
+  <LongNight.letterText>A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.
+
+Terrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.
+
+It will last anywhere between a season to several years.</LongNight.letterText>
+  <LongNight.letterLabel>Long Night</LongNight.letterLabel>
+
+
+  <!-- Regular events -->
+
+  <HailStorm.label>hail storm</HailStorm.label>
+  <HailStorm.letterText>A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets.</HailStorm.letterText>
+  <HailStorm.letterLabel>Hail Storm</HailStorm.letterLabel>
+
+  <WandererJoinTraitor.label>wanderer join</WandererJoinTraitor.label>
+  <WandererJoinTraitor.letterText>A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing.</WandererJoinTraitor.letterText>
+  <WandererJoinTraitor.letterLabel>Wanderer joins</WandererJoinTraitor.letterLabel>
+
+  <CaravanAnimalsWanderIn.label>caravan animals wander in</CaravanAnimalsWanderIn.label>
+  <CropSprout.label>crop sprout</CropSprout.label>
+  <BattleAnimalsWanderIn.label>battle animals wander in</BattleAnimalsWanderIn.label>
+
+  <Drought.label>drought</Drought.label>
+  <Drought.letterText>An unusual drought has set in.
+
+Drought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can.</Drought.letterText>
+  <Drought.letterLabel>Drought</Drought.letterLabel>
+
+  <WildMenGroupWanderIn.label>wild men group wander in</WildMenGroupWanderIn.label>
+  <HuntingParty.label>hunting party</HuntingParty.label>
+
+  <ToxicWeather.label>toxic weather</ToxicWeather.label>
+  <ToxicWeather.letterLabel>Toxic weather</ToxicWeather.letterLabel>
+
+  <MalariaRaid.label>malaria epidemic</MalariaRaid.label>
+  <MalariaRaid.letterText></MalariaRaid.letterText>
+
+  <FleaRaid.label>plague epidemic</FleaRaid.label>
+  <FleaRaid.letterLabel>Epidemic: Plague</FleaRaid.letterLabel>
+
+  <StorytellerFrenzyEvent.label>storyteller frenzy</StorytellerFrenzyEvent.label>
+  <StorytellerFrenzyEvent.letterText></StorytellerFrenzyEvent.letterText>
+
+  <GeoStorm.label>GeoStorm</GeoStorm.label>
+  <SkyFall.label>skyfall</SkyFall.label>
+  <MoonFall.label>moonfall</MoonFall.label>
+  <HungryCritters.label>Hungry critters</HungryCritters.label>
+  <DevourersOfCrops.label>Devourers of crops</DevourersOfCrops.label>
+  <Swarm.label>Swarm</Swarm.label>
+  <ZeonIncoming.label>Zeon incoming</ZeonIncoming.label>
+  <Accident.label>Accident</Accident.label>
+  <FeenixPasses.label>fenix passes</FeenixPasses.label>
+
+  <IcicatPasses.label>Kirin passes</IcicatPasses.label>
+  <IcicatPasses.letterText>An unusual cold snap has set in. Watch out for hypothermia and dying crops.</IcicatPasses.letterText>
+  <IcicatPasses.letterLabel>Cold Snap</IcicatPasses.letterLabel>
+
+  <RaptorPasses.label>raptor passes</RaptorPasses.label>
+  <TribeMigration.label>tribe migration</TribeMigration.label>
+  <BoulderMassHit.label>boulder masshit</BoulderMassHit.label>
+  <RazorRain.label>razor rain</RazorRain.label>
+  <HungryLocusts.label>hungry locusts</HungryLocusts.label>
+  <Plunderers.label>plunderers</Plunderers.label>
+  <Earthquake.label>earthquake</Earthquake.label>
+  <SeismicActivity.label>Seismic activity</SeismicActivity.label>
+  <AnimalGenocide.label>animal genocide</AnimalGenocide.label>
+  <NuclearIncident.label>nuclear incident</NuclearIncident.label>
+  <NuclearFallout.label>nuclear fallout</NuclearFallout.label>
+  <CosmicRadiation.label>cosmic radiation</CosmicRadiation.label>
+  <AccidentalExplosion.label>accidental explosion</AccidentalExplosion.label>
+  <ColonistStash.label>colonist stash</ColonistStash.label>
+  <EclipseFeral.label>eclipse feral</EclipseFeral.label>
+  <EclipseMeteorImpact.label>eclipse meteor impact</EclipseMeteorImpact.label>
+  <MysteriousTransmission.label>mysterious transmission</MysteriousTransmission.label>
+  <MajorRescue.label>major rescue</MajorRescue.label>
+  <HiddenResources.label>hidden resources</HiddenResources.label>
+  <Thanksgiving.label>thanksgiving</Thanksgiving.label>
+  <OrassianFound.label>orassian found</OrassianFound.label>
+  <TraitChange.label>trait change</TraitChange.label>
+  <TraitRemove.label>trait removed</TraitRemove.label>
+
+  <EnemyShip.label>Enemy ship</EnemyShip.label>
+  <EnemyShip.letterText>An enemy ship landed near our colony!</EnemyShip.letterText>
+  <EnemyShip.letterLabel>Enemy ship incoming</EnemyShip.letterLabel>
+
+  <PortalRaid.label>portal raid</PortalRaid.label>
+  <PortalRaid.letterText>The enemy faction are not pleased with you, they open up a portal to raid you.</PortalRaid.letterText>
+  <PortalRaid.letterLabel>Portal Raid</PortalRaid.letterLabel>
+
+  <BombardmentIncident.label>Bombardment threat</BombardmentIncident.label>
+  <BombardmentIncident.letterText>The enemy faction are not pleased with you, their warship will shoot at you from orbit.</BombardmentIncident.letterText>
+  <BombardmentIncident.letterLabel>Bombardment</BombardmentIncident.letterLabel>
+
+  <Tornado.label>tornado</Tornado.label>
+  <Tornado.letterText>A tornado has formed!\n\nIt will cut a path of destruction through the area.</Tornado.letterText>
+  <Tornado.letterLabel>Tornado</Tornado.letterLabel>
+
+  <PowerBeamStrikeIncident.label>Bombardment</PowerBeamStrikeIncident.label>
+  <PowerBeamStrikeIncident.letterText>The enemy faction are not pleased with you, their warship will shoot at you from orbit.</PowerBeamStrikeIncident.letterText>
+  <PowerBeamStrikeIncident.letterLabel>Beam strike threat</PowerBeamStrikeIncident.letterLabel>
 
 
 </LanguageData>

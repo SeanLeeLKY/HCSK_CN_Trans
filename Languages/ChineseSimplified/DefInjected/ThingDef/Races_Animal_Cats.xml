@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cat.label>common cat</Cat.label>
+  <Cat.description>Cats are small, furry, domesticated, and carnivorous mammals that come in a variety of breeds. With their small sharp claws, they are often referenced as "fluffy balls of DEATH!".</Cat.description>
+  <Cat.tools.0.label>left claw</Cat.tools.0.label>
+  <Cat.tools.1.label>right claw</Cat.tools.1.label>
+  <Cat.tools.3.label>head</Cat.tools.3.label>
+  <Cat_Leather.label>common cat leather</Cat_Leather.label>
+  <Cat_Leather.description>common cat leather</Cat_Leather.description>
+  <Cat_Leather.stuffProps.stuffAdjective>common cat leather</Cat_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Cat_Corpse.label>common cat corpse</Cat_Corpse.label>
+  <Cat_Corpse.description>common cat corpse</Cat_Corpse.description>
+
+
+</LanguageData>

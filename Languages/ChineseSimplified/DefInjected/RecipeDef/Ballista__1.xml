@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_BalistaBolt.label>制造 金属头弩炮箭 x10</MakeAmmo_BalistaBolt.label>
+  <MakeAmmo_BalistaBolt.description>制造 10 金属头弩炮箭。</MakeAmmo_BalistaBolt.description>
+  <MakeAmmo_BalistaBolt.jobString>正在制造 弩炮箭。</MakeAmmo_BalistaBolt.jobString>
+
+
+</LanguageData>

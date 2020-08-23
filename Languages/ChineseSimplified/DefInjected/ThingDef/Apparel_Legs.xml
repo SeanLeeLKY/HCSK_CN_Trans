@@ -1,32 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_Lederhose.label>皮裤</Apparello_Lederhose.label>
-  <Apparello_Lederhose.description>皮裤（有时甚至是真皮！）穿这些的朋克们总会感到幸运。</Apparello_Lederhose.description>
+  <Apparello_Lederhose.label>Leather Pants</Apparello_Lederhose.label>
+  <Apparello_Lederhose.description>These are a pair of leather pants (sometimes even real leather!). The punk wearing these will always feel lucky.</Apparello_Lederhose.description>
 
-  <Norballo_Loincloth.label>束带</Norballo_Loincloth.label>
-  
-  <MedievalTimes_Pants_Suspenders.label>背带裤</MedievalTimes_Pants_Suspenders.label>
-  
-  <MedievalTimes_Pants_Suspenders_Striped.label>条纹背带裤</MedievalTimes_Pants_Suspenders_Striped.label>
-  
-  <Apparello_Jeans.label>牛仔裤</Apparello_Jeans.label>
-  <Apparello_Jeans.description>农夫们特别喜爱。</Apparello_Jeans.description>
+  <Norballo_Loincloth.label>Loincloth</Norballo_Loincloth.label>
+  <Norballo_Loincloth.description>A tribal loincloth. It covers parts of you, sort of.</Norballo_Loincloth.description>
 
-  <Apparello_Suspender.label>工装裤</Apparello_Suspender.label>
-  <Apparello_Suspender.description>穿着它看起来是不是像一个诚实的家伙。有了这些装备的人，应该感到更加舒适，即使附近有泥土和污垢也能倾向於完成工作不会分心。</Apparello_Suspender.description>
+  <MedievalTimes_Pants_Suspenders.label>Suspended Trousers</MedievalTimes_Pants_Suspenders.label>
+  <MedievalTimes_Pants_Suspenders.description>Medieval era pants, they fit awkwardly and are stitched together with clearly visible leather laces. You need a pair of suspenders to keep these up.</MedievalTimes_Pants_Suspenders.description>
 
-  <Apparel_Pants.label>背带裤</Apparel_Pants.label>
-  
-  <Apparello_Armorpants.label>护甲裤</Apparello_Armorpants.label>
-  <Apparello_Armorpants.description>一条裤子，在关键位置有额外的保护。</Apparello_Armorpants.description>
+  <MedievalTimes_Pants_Suspenders_Striped.label>Suspended Striped Trousers</MedievalTimes_Pants_Suspenders_Striped.label>
+  <MedievalTimes_Pants_Suspenders_Striped.description>Medieval era pants, they fit awkwardly and are stitched together with clearly visible leather laces. You need a pair of suspenders to keep these up. At least they have strips to show the owners originality.</MedievalTimes_Pants_Suspenders_Striped.description>
 
-  <Apparello_Holdem.label>花哨裤子</Apparello_Holdem.label>
-  
-  <Apparello_Scrapants.label>补丁长裤</Apparello_Scrapants.label>
-  <Apparello_Scrapants.description>非常粗糙丑陋的一条裤子。</Apparello_Scrapants.description>
+  <Apparello_Jeans.label>Jeans</Apparello_Jeans.label>
+  <Apparello_Jeans.description>Sturdy farmer pants.</Apparello_Jeans.description>
 
-  <Apparello_Holser.label>皮套裤</Apparello_Holser.label>
-  
+  <Apparello_Suspender.label>Stablehand Trousers</Apparello_Suspender.label>
+  <Apparello_Suspender.description>Ain't a chap on earf lookin' as honest as one wearin' these. With these equipped one should feel more comfortable wading through mud and filth and therefore more inclined to get the job done without distractions.</Apparello_Suspender.description>
+
+  <Apparel_Pants.label>Suspender Pants</Apparel_Pants.label>
+  <Apparel_Pants.description>A simple set of pants with suspenders that drape over the shoulders to hold the pants up.</Apparel_Pants.description>
+
+  <Apparel_FlakPants.label>flak pants</Apparel_FlakPants.label>
+  <Apparel_FlakPants.description>A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.</Apparel_FlakPants.description>
+
+  <Apparello_Holdem.label>Fancy Pants</Apparello_Holdem.label>
+  <Apparello_Holdem.description>Fancy Pants are for elegant colonists. Your legs will be the star of the show!</Apparello_Holdem.description>
+
+  <Apparello_Holser.label>Holstered Chaps</Apparello_Holser.label>
+  <Apparello_Holser.description>A pair of chaps with holsters. All of the fastest shooters wore these. They usually got shot in the back.</Apparello_Holser.description>
+
 
 </LanguageData>

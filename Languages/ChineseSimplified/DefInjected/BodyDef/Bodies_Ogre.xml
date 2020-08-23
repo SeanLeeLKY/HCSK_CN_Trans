@@ -1,7 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Ogre.label>食人魔</Ogre.label>
+  <Ogre.label>ogre</Ogre.label>
+  <Ogre.corePart.parts.6.customLabel>left lung</Ogre.corePart.parts.6.customLabel>
+  <Ogre.corePart.parts.7.customLabel>right lung</Ogre.corePart.parts.7.customLabel>
+  <Ogre.corePart.parts.8.customLabel>left kidney</Ogre.corePart.parts.8.customLabel>
+  <Ogre.corePart.parts.9.customLabel>right kidney</Ogre.corePart.parts.9.customLabel>
+  <Ogre.corePart.parts.11.parts.0.parts.1.customLabel>left eye</Ogre.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Ogre.corePart.parts.11.parts.0.parts.2.customLabel>right eye</Ogre.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Ogre.corePart.parts.11.parts.0.parts.3.customLabel>left ear</Ogre.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Ogre.corePart.parts.11.parts.0.parts.4.customLabel>right ear</Ogre.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Ogre.corePart.parts.12.parts.0.customLabel>left clavicle</Ogre.corePart.parts.12.parts.0.customLabel>
+  <Ogre.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</Ogre.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Ogre.corePart.parts.12.parts.1.parts.1.customLabel>left radius</Ogre.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Ogre.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left pinky</Ogre.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Ogre.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left ring finger</Ogre.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Ogre.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left middle finger</Ogre.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Ogre.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left index finger</Ogre.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Ogre.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left thumb</Ogre.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Ogre.corePart.parts.12.parts.1.parts.2.customLabel>left hand</Ogre.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Ogre.corePart.parts.12.parts.1.customLabel>left arm</Ogre.corePart.parts.12.parts.1.customLabel>
+  <Ogre.corePart.parts.12.customLabel>left shoulder</Ogre.corePart.parts.12.customLabel>
+  <Ogre.corePart.parts.13.parts.0.customLabel>right clavicle</Ogre.corePart.parts.13.parts.0.customLabel>
+  <Ogre.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</Ogre.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Ogre.corePart.parts.13.parts.1.parts.1.customLabel>right radius</Ogre.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Ogre.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right pinky</Ogre.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Ogre.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right ring finger</Ogre.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Ogre.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right middle finger</Ogre.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Ogre.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>right index finger</Ogre.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Ogre.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>right thumb</Ogre.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Ogre.corePart.parts.13.parts.1.parts.2.customLabel>right hand</Ogre.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Ogre.corePart.parts.13.parts.1.customLabel>right arm</Ogre.corePart.parts.13.parts.1.customLabel>
+  <Ogre.corePart.parts.13.customLabel>right shoulder</Ogre.corePart.parts.13.customLabel>
+  <Ogre.corePart.parts.15.parts.0.customLabel>left femur</Ogre.corePart.parts.15.parts.0.customLabel>
+  <Ogre.corePart.parts.15.parts.1.customLabel>left tibia</Ogre.corePart.parts.15.parts.1.customLabel>
+  <Ogre.corePart.parts.15.parts.2.parts.0.customLabel>left little toe</Ogre.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Ogre.corePart.parts.15.parts.2.parts.1.customLabel>left fourth toe</Ogre.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Ogre.corePart.parts.15.parts.2.parts.2.customLabel>left middle toe</Ogre.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Ogre.corePart.parts.15.parts.2.parts.3.customLabel>left second toe</Ogre.corePart.parts.15.parts.2.parts.3.customLabel>
+  <Ogre.corePart.parts.15.parts.2.parts.4.customLabel>left big toe</Ogre.corePart.parts.15.parts.2.parts.4.customLabel>
+  <Ogre.corePart.parts.15.parts.2.customLabel>left foot</Ogre.corePart.parts.15.parts.2.customLabel>
+  <Ogre.corePart.parts.15.customLabel>left leg</Ogre.corePart.parts.15.customLabel>
+  <Ogre.corePart.parts.16.parts.0.customLabel>right femur</Ogre.corePart.parts.16.parts.0.customLabel>
+  <Ogre.corePart.parts.16.parts.1.customLabel>right tibia</Ogre.corePart.parts.16.parts.1.customLabel>
+  <Ogre.corePart.parts.16.parts.2.parts.0.customLabel>right little toe</Ogre.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Ogre.corePart.parts.16.parts.2.parts.1.customLabel>right fourth toe</Ogre.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Ogre.corePart.parts.16.parts.2.parts.2.customLabel>right middle toe</Ogre.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Ogre.corePart.parts.16.parts.2.parts.3.customLabel>right second toe</Ogre.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Ogre.corePart.parts.16.parts.2.parts.4.customLabel>right big toe</Ogre.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Ogre.corePart.parts.16.parts.2.customLabel>right foot</Ogre.corePart.parts.16.parts.2.customLabel>
+  <Ogre.corePart.parts.16.customLabel>right leg</Ogre.corePart.parts.16.customLabel>
 
 
 </LanguageData>

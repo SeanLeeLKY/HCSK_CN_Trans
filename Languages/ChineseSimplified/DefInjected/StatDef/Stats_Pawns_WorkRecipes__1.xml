@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ElectronicCraftingSpeed.label>电子器件制作速度</ElectronicCraftingSpeed.label>
+  <ElectronicCraftingSpeed.description>制作电子器件的工作速度。</ElectronicCraftingSpeed.description>
+
+  <StonecuttingSpeed.label>切石速度</StonecuttingSpeed.label>
+  <StonecuttingSpeed.description>将石块切割成为石砖的速度。</StonecuttingSpeed.description>
+
+  <CollectingSpeed.label>收集速度</CollectingSpeed.label>
+  <CollectingSpeed.description>从地面收集黏土、泥炭等资源的速度。</CollectingSpeed.description>
+
+
+</LanguageData>

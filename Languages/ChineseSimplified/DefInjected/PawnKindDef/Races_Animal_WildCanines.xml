@@ -3,56 +3,55 @@
 
   <!-- WildCanines -->
 
-  <Warg.label>座狼</Warg.label>
-  <Warg.labelPlural>座狼</Warg.labelPlural>
-  <Warg.lifeStages.0.label>座狼幼崽</Warg.lifeStages.0.label>
-  <Warg.lifeStages.0.labelPlural>座狼幼崽</Warg.lifeStages.0.labelPlural>
-  <Warg.lifeStages.0.labelMale>座狼幼崽</Warg.lifeStages.0.labelMale>
-  <Warg.lifeStages.0.labelMalePlural>座狼幼崽</Warg.lifeStages.0.labelMalePlural>
-  <Warg.lifeStages.0.labelFemale>座狼幼崽</Warg.lifeStages.0.labelFemale>
-  <Warg.lifeStages.0.labelFemalePlural>座狼幼崽</Warg.lifeStages.0.labelFemalePlural>
-  <Warg.lifeStages.1.label>幼年座狼</Warg.lifeStages.1.label>
-  <Warg.lifeStages.1.labelPlural>幼年座狼</Warg.lifeStages.1.labelPlural>
-  <Warg.lifeStages.1.labelMale>幼年公座狼</Warg.lifeStages.1.labelMale>
-  <Warg.lifeStages.1.labelMalePlural>幼年公座狼</Warg.lifeStages.1.labelMalePlural>
-  <Warg.lifeStages.1.labelFemale>幼年母座狼</Warg.lifeStages.1.labelFemale>
-  <Warg.lifeStages.1.labelFemalePlural>幼年母座狼</Warg.lifeStages.1.labelFemalePlural>
-  <Warg.lifeStages.2.label>座狼</Warg.lifeStages.2.label>
-  <Warg.lifeStages.2.labelPlural>座狼</Warg.lifeStages.2.labelPlural>
-  <Warg.lifeStages.2.labelMale>公座狼</Warg.lifeStages.2.labelMale>
-  <Warg.lifeStages.2.labelMalePlural>公座狼</Warg.lifeStages.2.labelMalePlural>
-  <Warg.lifeStages.2.labelFemale>母座狼</Warg.lifeStages.2.labelFemale>
-  <Warg.lifeStages.2.labelFemalePlural>母座狼</Warg.lifeStages.2.labelFemalePlural>
-  <Warg.labelMale>公座狼</Warg.labelMale>
-  <Warg.labelMalePlural>公座狼</Warg.labelMalePlural>
-  <Warg.labelFemale>母座狼</Warg.labelFemale>
-  <Warg.labelFemalePlural>母座狼</Warg.labelFemalePlural>
+  <Warg.label>Warg</Warg.label>
+  <Warg.labelPlural>Wargs</Warg.labelPlural>
+  <Warg.lifeStages.0.label>warg puppy</Warg.lifeStages.0.label>
+  <Warg.lifeStages.0.labelPlural>warg puppys</Warg.lifeStages.0.labelPlural>
+  <Warg.lifeStages.0.labelMale>male warg puppy</Warg.lifeStages.0.labelMale>
+  <Warg.lifeStages.0.labelMalePlural>male warg puppys</Warg.lifeStages.0.labelMalePlural>
+  <Warg.lifeStages.0.labelFemale>female warg puppy</Warg.lifeStages.0.labelFemale>
+  <Warg.lifeStages.0.labelFemalePlural>female warg puppys</Warg.lifeStages.0.labelFemalePlural>
+  <Warg.lifeStages.1.label>Warg</Warg.lifeStages.1.label>
+  <Warg.lifeStages.1.labelPlural>Warg</Warg.lifeStages.1.labelPlural>
+  <Warg.lifeStages.1.labelMale>male Warg</Warg.lifeStages.1.labelMale>
+  <Warg.lifeStages.1.labelMalePlural>male Wargs</Warg.lifeStages.1.labelMalePlural>
+  <Warg.lifeStages.1.labelFemale>female Warg</Warg.lifeStages.1.labelFemale>
+  <Warg.lifeStages.1.labelFemalePlural>female Wargs</Warg.lifeStages.1.labelFemalePlural>
+  <Warg.lifeStages.2.label>Warg</Warg.lifeStages.2.label>
+  <Warg.lifeStages.2.labelPlural>Warg</Warg.lifeStages.2.labelPlural>
+  <Warg.lifeStages.2.labelMale>male Warg</Warg.lifeStages.2.labelMale>
+  <Warg.lifeStages.2.labelMalePlural>male Wargs</Warg.lifeStages.2.labelMalePlural>
+  <Warg.lifeStages.2.labelFemale>female Warg</Warg.lifeStages.2.labelFemale>
+  <Warg.lifeStages.2.labelFemalePlural>female Wargs</Warg.lifeStages.2.labelFemalePlural>
+  <Warg.labelMale>male Warg</Warg.labelMale>
+  <Warg.labelMalePlural>male Wargs</Warg.labelMalePlural>
+  <Warg.labelFemale>female Warg</Warg.labelFemale>
+  <Warg.labelFemalePlural>female Wargs</Warg.labelFemalePlural>
 
-
-  <Nightling.label>夜灵</Nightling.label>
-  <Nightling.labelPlural>夜灵</Nightling.labelPlural>
-  <Nightling.lifeStages.0.label>夜灵幼崽</Nightling.lifeStages.0.label>
-  <Nightling.lifeStages.0.labelPlural>夜灵幼崽</Nightling.lifeStages.0.labelPlural>
-  <Nightling.lifeStages.0.labelMale>雄性夜灵幼崽</Nightling.lifeStages.0.labelMale>
-  <Nightling.lifeStages.0.labelMalePlural>雄性夜灵幼崽</Nightling.lifeStages.0.labelMalePlural>
-  <Nightling.lifeStages.0.labelFemale>雌性夜灵幼崽</Nightling.lifeStages.0.labelFemale>
-  <Nightling.lifeStages.0.labelFemalePlural>雌性夜灵幼崽</Nightling.lifeStages.0.labelFemalePlural>
-  <Nightling.lifeStages.1.label>夜灵</Nightling.lifeStages.1.label>
-  <Nightling.lifeStages.1.labelPlural>夜灵</Nightling.lifeStages.1.labelPlural>
-  <Nightling.lifeStages.1.labelMale>雄性夜灵</Nightling.lifeStages.1.labelMale>
-  <Nightling.lifeStages.1.labelMalePlural>雄性夜灵</Nightling.lifeStages.1.labelMalePlural>
-  <Nightling.lifeStages.1.labelFemale>雌性夜灵</Nightling.lifeStages.1.labelFemale>
-  <Nightling.lifeStages.1.labelFemalePlural>雌性夜灵</Nightling.lifeStages.1.labelFemalePlural>
-  <Nightling.lifeStages.2.label>夜灵</Nightling.lifeStages.2.label>
-  <Nightling.lifeStages.2.labelPlural>夜灵</Nightling.lifeStages.2.labelPlural>
-  <Nightling.lifeStages.2.labelMale>雄性夜灵</Nightling.lifeStages.2.labelMale>
-  <Nightling.lifeStages.2.labelMalePlural>雄性夜灵</Nightling.lifeStages.2.labelMalePlural>
-  <Nightling.lifeStages.2.labelFemale>雌性夜灵</Nightling.lifeStages.2.labelFemale>
-  <Nightling.lifeStages.2.labelFemalePlural>雌性夜灵</Nightling.lifeStages.2.labelFemalePlural>
-  <Nightling.labelMale>雄性夜灵</Nightling.labelMale>
-  <Nightling.labelMalePlural>雄性夜灵</Nightling.labelMalePlural>
-  <Nightling.labelFemale>雌性夜灵</Nightling.labelFemale>
-  <Nightling.labelFemalePlural>雌性夜灵</Nightling.labelFemalePlural>
+  <Nightling.label>Nightling</Nightling.label>
+  <Nightling.labelPlural>Nightlings</Nightling.labelPlural>
+  <Nightling.lifeStages.0.label>Nightling Cup</Nightling.lifeStages.0.label>
+  <Nightling.lifeStages.0.labelPlural>Nightling Cups</Nightling.lifeStages.0.labelPlural>
+  <Nightling.lifeStages.0.labelMale>male Nightling Cup</Nightling.lifeStages.0.labelMale>
+  <Nightling.lifeStages.0.labelMalePlural>male Nightling Cups</Nightling.lifeStages.0.labelMalePlural>
+  <Nightling.lifeStages.0.labelFemale>female Nightling Cup</Nightling.lifeStages.0.labelFemale>
+  <Nightling.lifeStages.0.labelFemalePlural>female Nightling Cups</Nightling.lifeStages.0.labelFemalePlural>
+  <Nightling.lifeStages.1.label>Nightling</Nightling.lifeStages.1.label>
+  <Nightling.lifeStages.1.labelPlural>Nightling</Nightling.lifeStages.1.labelPlural>
+  <Nightling.lifeStages.1.labelMale>male Nightling</Nightling.lifeStages.1.labelMale>
+  <Nightling.lifeStages.1.labelMalePlural>male Nightlings</Nightling.lifeStages.1.labelMalePlural>
+  <Nightling.lifeStages.1.labelFemale>female Nightling</Nightling.lifeStages.1.labelFemale>
+  <Nightling.lifeStages.1.labelFemalePlural>female Nightlings</Nightling.lifeStages.1.labelFemalePlural>
+  <Nightling.lifeStages.2.label>Nightling</Nightling.lifeStages.2.label>
+  <Nightling.lifeStages.2.labelPlural>Nightling</Nightling.lifeStages.2.labelPlural>
+  <Nightling.lifeStages.2.labelMale>male Nightling</Nightling.lifeStages.2.labelMale>
+  <Nightling.lifeStages.2.labelMalePlural>male Nightlings</Nightling.lifeStages.2.labelMalePlural>
+  <Nightling.lifeStages.2.labelFemale>female Nightling</Nightling.lifeStages.2.labelFemale>
+  <Nightling.lifeStages.2.labelFemalePlural>female Nightlings</Nightling.lifeStages.2.labelFemalePlural>
+  <Nightling.labelMale>male Nightling</Nightling.labelMale>
+  <Nightling.labelMalePlural>male Nightlings</Nightling.labelMalePlural>
+  <Nightling.labelFemale>female Nightling</Nightling.labelFemale>
+  <Nightling.labelFemalePlural>female Nightlings</Nightling.labelFemalePlural>
 
 
 </LanguageData>

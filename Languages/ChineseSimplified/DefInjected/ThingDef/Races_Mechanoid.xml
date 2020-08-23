@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Centipede -->
+
+  <Mech_Centipede.label>Centipede</Mech_Centipede.label>
+  <Mech_Centipede.description>Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics.</Mech_Centipede.description>
+  <Mech_Centipede.tools.0.label>head</Mech_Centipede.tools.0.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Centipede_Corpse.label>Centipede corpse</Mech_Centipede_Corpse.label>
+  <Mech_Centipede_Corpse.description>Centipede corpse</Mech_Centipede_Corpse.description>
+
+
+  <!-- Scyther -->
+
+  <Mech_Scyther.label>Scyther</Mech_Scyther.label>
+  <Mech_Scyther.description>Scythers are fast, spindly, armored human-sized combat Mechanoids. They usually carry one primary ranged weapon, and their bodies are adorned with two articulated blades to make them deadly in melee combat. They don't use cover. They are best handled by concentrated, overwhelming force.</Mech_Scyther.description>
+  <Mech_Scyther.tools.0.label>left blade</Mech_Scyther.tools.0.label>
+  <Mech_Scyther.tools.1.label>left blade</Mech_Scyther.tools.1.label>
+  <Mech_Scyther.tools.2.label>right blade</Mech_Scyther.tools.2.label>
+  <Mech_Scyther.tools.3.label>right blade</Mech_Scyther.tools.3.label>
+  <Mech_Scyther.tools.4.label>head</Mech_Scyther.tools.4.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Scyther_Corpse.label>Scyther corpse</Mech_Scyther_Corpse.label>
+  <Mech_Scyther_Corpse.description>Scyther corpse</Mech_Scyther_Corpse.description>
+
+
+  <!-- Stalker -->
+
+  <Mech_Lancer.label>Lancer</Mech_Lancer.label>
+  <Mech_Lancer.description>Lancer are agile, lanky, human-sized combat Mechanoids. They usually carry one primary ranged weapon, and their bodies are adorned with two articulated blades to make them deadly in melee combat. They don't use cover. Best handled by concentrated, overwhelming force.</Mech_Lancer.description>
+  <Mech_Lancer.tools.0.label>left fist</Mech_Lancer.tools.0.label>
+  <Mech_Lancer.tools.1.label>right fist</Mech_Lancer.tools.1.label>
+  <Mech_Lancer.tools.2.label>head</Mech_Lancer.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Lancer_Corpse.label>Lancer corpse</Mech_Lancer_Corpse.label>
+  <Mech_Lancer_Corpse.description>Lancer corpse</Mech_Lancer_Corpse.description>
+
+
+  <!-- New 1.1 update mechanoid. Temp. based on Lancer -->
+
+  <Mech_Pikeman.label>Pikeman</Mech_Pikeman.label>
+  <Mech_Pikeman.description>A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it.</Mech_Pikeman.description>
+  <Mech_Pikeman.tools.0.label>left fist</Mech_Pikeman.tools.0.label>
+  <Mech_Pikeman.tools.1.label>right fist</Mech_Pikeman.tools.1.label>
+  <Mech_Pikeman.tools.2.label>head</Mech_Pikeman.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Pikeman_Corpse.label>Pikeman corpse</Mech_Pikeman_Corpse.label>
+  <Mech_Pikeman_Corpse.description>Pikeman corpse</Mech_Pikeman_Corpse.description>
+
+
+  <!-- Crawler -->
+
+  <Mech_Crawler.label>Crawler</Mech_Crawler.label>
+  <Mech_Crawler.description>Crawlers are small spider-like Mechanoids. While not particularly sturdy, their speed, size and numbers more than make up for it. A tiny plasma cutter at their front allows them to cut through metal like butter. Their favorite passtime is open surgery.</Mech_Crawler.description>
+  <Mech_Crawler.tools.0.label>left blade</Mech_Crawler.tools.0.label>
+  <Mech_Crawler.tools.1.label>right blade</Mech_Crawler.tools.1.label>
+  <Mech_Crawler.tools.2.label>head</Mech_Crawler.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Crawler_Corpse.label>Crawler corpse</Mech_Crawler_Corpse.label>
+  <Mech_Crawler_Corpse.description>Crawler corpse</Mech_Crawler_Corpse.description>
+
+
+</LanguageData>

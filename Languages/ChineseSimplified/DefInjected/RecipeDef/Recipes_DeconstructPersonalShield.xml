@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DeconstructPersonalShield.label>拆解个人盾牌</DeconstructPersonalShield.label>
-  <DeconstructPersonalShield.description>拆解不用的个人护盾，以回收某些制造原料。可返还30钢锭和2集成电路（参考）。</DeconstructPersonalShield.description>
-  <DeconstructPersonalShield.jobString>拆解个人盾牌。</DeconstructPersonalShield.jobString>
+  <DeconstructPersonalShield.label>Deconstruct personal shield</DeconstructPersonalShield.label>
+  <DeconstructPersonalShield.description>Deconstructs a personal shield to retrieve some of the materials used to make it. Produces 30 steel bars and 2 integrated circuits.</DeconstructPersonalShield.description>
+  <DeconstructPersonalShield.jobString>Deconstructing personal shield.</DeconstructPersonalShield.jobString>
 
 
 </LanguageData>

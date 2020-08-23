@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AteWithoutTable.stages.0.label>ate without table</AteWithoutTable.stages.0.label>
+  <AteWithoutTable.stages.0.description>I had to eat a meal off the ground. Can't we get a table around here?</AteWithoutTable.stages.0.description>
+
+
+  <!-- Disturbed Sleep Thoughts already in RCT thoughts
+	<ThoughtDef>
+		<defName>SleepDisturbed</defName>
+		<icon>Things/Mote/ThoughtSymbol/SleepZ</icon>
+		<showBubble>true</showBubble>
+		<durationDays>0.5</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.35</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>disturbed sleep</label>
+				<description>I was disturbed during sleep by people moving around nearby. A private room would solve this.</description>
+				<baseMoodEffect>-3</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef> -->
+
+  <NewColonyOptimism.stages.0.label>new colony optimism</NewColonyOptimism.stages.0.label>
+  <NewColonyOptimism.stages.0.description>We just landed here. It's a tough situation, but I'm excited to be founding a new colony.</NewColonyOptimism.stages.0.description>
+
+  <NewColonyHope.stages.0.label>new colony hope</NewColonyHope.stages.0.label>
+  <NewColonyHope.stages.0.description>I'm getting used to this, but it's still an exciting new situation. I hope this works out...</NewColonyHope.stages.0.description>
+
+  <SleptOutside.stages.0.label>slept outside</SleptOutside.stages.0.label>
+  <SleptOutside.stages.0.description>I had to sleep outdoors without any protection from the elements.</SleptOutside.stages.0.description>
+
+  <SleptOnGround.stages.0.label>slept on ground</SleptOnGround.stages.0.label>
+  <SleptOnGround.stages.0.description>I had to sleep on the ground like an animal.</SleptOnGround.stages.0.description>
+
+  <SleptInCold.stages.0.label>slept in the cold</SleptInCold.stages.0.label>
+  <SleptInCold.stages.0.description>I had to sleep in the cold. We really need some heaters.</SleptInCold.stages.0.description>
+
+  <SleptInHeat.stages.0.label>slept in the heat</SleptInHeat.stages.0.label>
+  <SleptInHeat.stages.0.description>I had to sleep in unbearable heat. Can't we have air conditioning?</SleptInHeat.stages.0.description>
+
+  <KnowPrisonerSold.stages.0.label>a prisoner was sold</KnowPrisonerSold.stages.0.label>
+  <KnowPrisonerSold.stages.0.description>This colony sold a prisoner into slavery. That's a worrying thought.</KnowPrisonerSold.stages.0.description>
+
+  <FreedFromSlavery.stages.0.label>freed from slavery</FreedFromSlavery.stages.0.label>
+  <FreedFromSlavery.stages.0.description>I have been freed from slavery. I'm so thankful!</FreedFromSlavery.stages.0.description>
+
+  <ReleasedHealthyPrisoner.stages.0.label>prisoner released</ReleasedHealthyPrisoner.stages.0.label>
+  <ReleasedHealthyPrisoner.stages.0.description>We released a healthy prisoner. It feels good to know we even treat prisoners well.</ReleasedHealthyPrisoner.stages.0.description>
+
+  <KnowGuestOrganHarvested.stages.0.label>someone's organ harvested</KnowGuestOrganHarvested.stages.0.label>
+  <KnowGuestOrganHarvested.stages.0.description>The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice.</KnowGuestOrganHarvested.stages.0.description>
+
+  <MyOrganHarvested.stages.0.label>my organ harvested</MyOrganHarvested.stages.0.label>
+  <MyOrganHarvested.stages.0.description>The colony harvested body parts from me! They're breaking me down like an old engine!</MyOrganHarvested.stages.0.description>
+
+  <Catharsis.stages.0.label>catharsis</Catharsis.stages.0.label>
+  <Catharsis.stages.0.description>It felt good to finally unbottle my feelings.</Catharsis.stages.0.description>
+
+  <Nuzzled.stages.0.label>nuzzled</Nuzzled.stages.0.label>
+  <Nuzzled.stages.0.description>A cute animal nuzzled me.</Nuzzled.stages.0.description>
+
+
+  <!-- Human corpse butchering -->
+
+  <ButcheredHumanlikeCorpse.stages.0.label>I butchered humanlike</ButcheredHumanlikeCorpse.stages.0.label>
+  <ButcheredHumanlikeCorpse.stages.0.description>I butchered someone up like an animal.</ButcheredHumanlikeCorpse.stages.0.description>
+
+  <KnowButcheredHumanlikeCorpse.stages.0.label>We butchered humanlike</KnowButcheredHumanlikeCorpse.stages.0.label>
+  <KnowButcheredHumanlikeCorpse.stages.0.description>We butchered someone up like an animal.</KnowButcheredHumanlikeCorpse.stages.0.description>
+
+
+  <!-- Combat -->
+
+  <ObservedLayingCorpse.stages.0.label>observed corpse</ObservedLayingCorpse.stages.0.label>
+  <ObservedLayingCorpse.stages.0.description>I saw a dead body laying on the ground. It was disturbing.</ObservedLayingCorpse.stages.0.description>
+
+  <ObservedLayingRottingCorpse.stages.0.label>observed rotting corpse</ObservedLayingRottingCorpse.stages.0.label>
+  <ObservedLayingRottingCorpse.stages.0.description>I saw a rotting corpse laying on the ground. It was disgusting.</ObservedLayingRottingCorpse.stages.0.description>
+
+  <WitnessedDeathAlly.stages.0.label>witnessed ally's death</WitnessedDeathAlly.stages.0.label>
+  <WitnessedDeathAlly.stages.0.description>I saw one of my people die. They were alive one moment, and dead the next.</WitnessedDeathAlly.stages.0.description>
+
+  <WitnessedDeathNonAlly.stages.0.label>witnessed outsider's death</WitnessedDeathNonAlly.stages.0.label>
+  <WitnessedDeathNonAlly.stages.0.description>I saw someone die. They were alive one moment, and dead the next.</WitnessedDeathNonAlly.stages.0.description>
+
+  <WitnessedDeathFamily.stages.0.label>witnessed family member's death</WitnessedDeathFamily.stages.0.label>
+  <WitnessedDeathFamily.stages.0.description>I saw a member of my family die. My own flesh and blood...</WitnessedDeathFamily.stages.0.description>
+
+  <WitnessedDeathBloodlust.stages.0.label>witnessed death with bloodlust</WitnessedDeathBloodlust.stages.0.label>
+  <WitnessedDeathBloodlust.stages.0.description>I saw someone die! That was intense!</WitnessedDeathBloodlust.stages.0.description>
+
+  <KilledHumanlikeBloodlust.stages.0.label>killed someone</KilledHumanlikeBloodlust.stages.0.label>
+  <KilledHumanlikeBloodlust.stages.0.description>I killed someone! What a rush!</KilledHumanlikeBloodlust.stages.0.description>
+
+
+  <!-- Rescue quest -->
+
+  <FailedToRescueRelative.stages.0.label>failed to rescue {0}</FailedToRescueRelative.stages.0.label>
+  <FailedToRescueRelative.stages.0.description>We failed to rescue one of my relatives. Knowing that I could have helped him makes it even harder to cope with the death of my loved one.</FailedToRescueRelative.stages.0.description>
+
+  <RescuedRelative.stages.0.label>rescued {0}</RescuedRelative.stages.0.label>
+  <RescuedRelative.stages.0.description>We rescued one of my relatives. Now that I know he's safe, I'm finally able to breathe a sigh of relief.</RescuedRelative.stages.0.description>
+
+
+</LanguageData>

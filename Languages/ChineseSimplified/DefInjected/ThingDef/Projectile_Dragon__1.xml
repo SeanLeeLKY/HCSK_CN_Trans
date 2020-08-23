@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- For Dragon Mod -->
+
+  <DragonFireBreathAlpha.label>火焰</DragonFireBreathAlpha.label>
+  <DragonFireBreathBeta.label>火焰</DragonFireBreathBeta.label>
+
+
+  <!-- Most dangerous of firebreath for only the most dangerous of creature -->
+
+  <DragonFireBreathOmega.label>火焰</DragonFireBreathOmega.label>
+
+
+  <!-- We can have some fun with projectile, fireball, cryo flame -->
+
+  <DragonCryo.label>冷焰</DragonCryo.label>
+
+
+</LanguageData>

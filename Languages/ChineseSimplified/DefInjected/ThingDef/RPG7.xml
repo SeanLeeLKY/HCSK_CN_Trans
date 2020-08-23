@@ -3,21 +3,21 @@
 
   <!-- Ammo -->
 
-  <Ammo_RPG7Grenade_HEAT.label>RPG-7榴弹（破甲）</Ammo_RPG7Grenade_HEAT.label>
-  
+  <Ammo_RPG7Grenade_HEAT.label>RPG-7 grenade (HEAT)</Ammo_RPG7Grenade_HEAT.label>
+  <Ammo_RPG7Grenade_HEAT.description>Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG7Grenade_HEAT.description>
 
-  <Ammo_RPG7Grenade_Thermobaric.label>RPG-7榴弹（温压）</Ammo_RPG7Grenade_Thermobaric.label>
-  
+  <Ammo_RPG7Grenade_Thermobaric.label>RPG-7 grenade (Thermobaric)</Ammo_RPG7Grenade_Thermobaric.label>
+  <Ammo_RPG7Grenade_Thermobaric.description>Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG7Grenade_Thermobaric.description>
 
-  <Ammo_RPG7Grenade_Frag.label>RPG-7榴弹（破片）</Ammo_RPG7Grenade_Frag.label>
-  
+  <Ammo_RPG7Grenade_Frag.label>RPG-7 grenade (Frag)</Ammo_RPG7Grenade_Frag.label>
+  <Ammo_RPG7Grenade_Frag.description>Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG7Grenade_Frag.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_RPG7Grenade_HEAT.label>RPG-7榴弹（破甲）</Bullet_RPG7Grenade_HEAT.label>
-  <Bullet_RPG7Grenade_Thermobaric.label>RPG-7榴弹（温压）</Bullet_RPG7Grenade_Thermobaric.label>
-  <Bullet_RPG7Grenade_Frag.label>RPG-7榴弹（破片）</Bullet_RPG7Grenade_Frag.label>
+  <Bullet_RPG7Grenade_HEAT.label>RPG-7 grenade (HEAT)</Bullet_RPG7Grenade_HEAT.label>
+  <Bullet_RPG7Grenade_Thermobaric.label>RPG-7 grenade (Thermobaric)</Bullet_RPG7Grenade_Thermobaric.label>
+  <Bullet_RPG7Grenade_Frag.label>RPG-7 grenade (Frag)</Bullet_RPG7Grenade_Frag.label>
 
 
 </LanguageData>

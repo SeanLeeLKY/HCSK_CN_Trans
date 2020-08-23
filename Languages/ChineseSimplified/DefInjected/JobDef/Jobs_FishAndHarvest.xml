@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <JobDef_FishAtFishingPier.reportString>在码头上钓鱼。</JobDef_FishAtFishingPier.reportString>
-  <JobDef_FishAtFishingZone.reportString>钓鱼。</JobDef_FishAtFishingZone.reportString>
-  <JobDef_HarvestAquacultureBasinProduction.reportString>收获 TargetA。</JobDef_HarvestAquacultureBasinProduction.reportString>
+  <JobDef_FishAtFishingPier.reportString>Fishing on pier.</JobDef_FishAtFishingPier.reportString>
+  <JobDef_FishAtFishingZone.reportString>Fishing.</JobDef_FishAtFishingZone.reportString>
+  <JobDef_AquacultureBasinHarvest.reportString>Harvesting TargetA.</JobDef_AquacultureBasinHarvest.reportString>
+  <JobDef_AquacultureBasinChangeSpecies.reportString>Changing species at TargetA.</JobDef_AquacultureBasinChangeSpecies.reportString>
+  <JobDef_AquacultureBasinMaintain.reportString>Maintaining TargetA.</JobDef_AquacultureBasinMaintain.reportString>
 
 
 </LanguageData>

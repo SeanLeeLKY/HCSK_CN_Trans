@@ -3,75 +3,91 @@
 
   <!-- REALISTIC PRODUCTION SK MOD -->
 
-  <Component.label>零部件</Component.label>
-  <Component.description>各种基础机械部件。装配复杂机械或电子产品的必需品。</Component.description>
+  <ComponentMedieval.label>primitive component</ComponentMedieval.label>
+  <ComponentMedieval.description>Miscellaneous various wooden components from medieval era.</ComponentMedieval.description>
 
-  <MetalCan.label>金属罐</MetalCan.label>
-  
+  <ComponentIndustrial.label>component</ComponentIndustrial.label>
+  <ComponentIndustrial.description>Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics.</ComponentIndustrial.description>
 
-  <Wire.label>电线</Wire.label>
-  
+  <ComponentAdvanced.label>advanced component</ComponentAdvanced.label>
+  <ComponentAdvanced.description>Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics.</ComponentAdvanced.description>
 
-  <Weapon_Parts.label>武器部件</Weapon_Parts.label>
-  <Weapon_Parts.stuffProps.stuffAdjective>武器部件</Weapon_Parts.stuffProps.stuffAdjective>
+  <ComponentSpacer.label>spacer component</ComponentSpacer.label>
+  <ComponentSpacer.description>Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications.</ComponentSpacer.description>
 
-  <Pistol_Component.label>手枪部件</Pistol_Component.label>
-  
-  <Pistol_Component.stuffProps.stuffAdjective>手枪部件</Pistol_Component.stuffProps.stuffAdjective>
+  <ComponentUltra.label>ultra component</ComponentUltra.label>
+  <ComponentUltra.description>Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications.</ComponentUltra.description>
 
-  <SMG_Component.label>冲锋枪部件</SMG_Component.label>
-  
-  <SMG_Component.stuffProps.stuffAdjective>冲锋枪部件</SMG_Component.stuffProps.stuffAdjective>
+  <MetalCan.label>metal can</MetalCan.label>
+  <MetalCan.description>Empty metal cans are needed for canned meals.</MetalCan.description>
 
-  <Shotgun_Component.label>霰弹枪部件</Shotgun_Component.label>
-  
-  <Shotgun_Component.stuffProps.stuffAdjective>霰弹枪部件</Shotgun_Component.stuffProps.stuffAdjective>
+  <Wire.label>wire</Wire.label>
+  <Wire.description>Wire is produced from high conductivity metals. It is useful for carrying electric currents in electrical devices.</Wire.description>
 
-  <Rifle_Component.label>步枪部件</Rifle_Component.label>
-  
-  <Rifle_Component.stuffProps.stuffAdjective>步枪部件</Rifle_Component.stuffProps.stuffAdjective>
+  <Pipe.label>pipe</Pipe.label>
+  <Pipe.description>Pipes is produced from tough metals and need to work producing oil rigs.</Pipe.description>
 
-  <AdvRifle_Component.label>先进步枪部件</AdvRifle_Component.label>
- 
-  <AdvRifle_Component.stuffProps.stuffAdjective>先进步枪部件</AdvRifle_Component.stuffProps.stuffAdjective>
+  <Weapon_Parts.label>weapon parts</Weapon_Parts.label>
+  <Weapon_Parts.description>Parts of disassembled weapons.</Weapon_Parts.description>
+  <Weapon_Parts.stuffProps.stuffAdjective>weapon parts</Weapon_Parts.stuffProps.stuffAdjective>
 
-  <Sniper_Component.label>狙击枪部件</Sniper_Component.label>
- 
-  <Sniper_Component.stuffProps.stuffAdjective>狙击枪部件</Sniper_Component.stuffProps.stuffAdjective>
+  <Pistol_Component.label>pistol component</Pistol_Component.label>
+  <Pistol_Component.description>Main components for pistol weapons.</Pistol_Component.description>
+  <Pistol_Component.stuffProps.stuffAdjective>pistol component</Pistol_Component.stuffProps.stuffAdjective>
 
-  <AdvSniper_Component.label>先进狙击枪部件</AdvSniper_Component.label>
- 
-  <AdvSniper_Component.stuffProps.stuffAdjective>先进狙击枪部件</AdvSniper_Component.stuffProps.stuffAdjective>
+  <SMG_Component.label>SMG component</SMG_Component.label>
+  <SMG_Component.description>Main components for SMG weapons.</SMG_Component.description>
+  <SMG_Component.stuffProps.stuffAdjective>SMG component</SMG_Component.stuffProps.stuffAdjective>
 
-  <Heavy_Component.label>重型武器部件</Heavy_Component.label>
- 
-  <Heavy_Component.stuffProps.stuffAdjective>重型武器部件</Heavy_Component.stuffProps.stuffAdjective>
+  <Shotgun_Component.label>shotgun component</Shotgun_Component.label>
+  <Shotgun_Component.description>Main components for shotgun weapons.</Shotgun_Component.description>
+  <Shotgun_Component.stuffProps.stuffAdjective>shotgun component</Shotgun_Component.stuffProps.stuffAdjective>
 
-  <Cannon_Component.label>火炮武器部件</Cannon_Component.label>
-  
-  <Cannon_Component.stuffProps.stuffAdjective>火炮武器部件</Cannon_Component.stuffProps.stuffAdjective>
+  <Rifle_Component.label>rifle component</Rifle_Component.label>
+  <Rifle_Component.description>Main components for rifle weapons.</Rifle_Component.description>
+  <Rifle_Component.stuffProps.stuffAdjective>rifle component</Rifle_Component.stuffProps.stuffAdjective>
 
-  <Launcher_Component.label>发射器部件</Launcher_Component.label>
-  
-  <Launcher_Component.stuffProps.stuffAdjective>发射器部件</Launcher_Component.stuffProps.stuffAdjective>
+  <AdvRifle_Component.label>advanced rifle component</AdvRifle_Component.label>
+  <AdvRifle_Component.description>Main components for advanced rifle weapons.</AdvRifle_Component.description>
+  <AdvRifle_Component.stuffProps.stuffAdjective>advanced rifle component</AdvRifle_Component.stuffProps.stuffAdjective>
 
-  <Plasma_Component.label>离子武器部件</Plasma_Component.label>
-  
-  <Plasma_Component.stuffProps.stuffAdjective>离子武器部件</Plasma_Component.stuffProps.stuffAdjective>
+  <Sniper_Component.label>sniper component</Sniper_Component.label>
+  <Sniper_Component.description>Main components for sniper weapons.</Sniper_Component.description>
+  <Sniper_Component.stuffProps.stuffAdjective>sniper component</Sniper_Component.stuffProps.stuffAdjective>
 
-  <Laser_Component.label>激光枪部件</Laser_Component.label>
-  
-  <Laser_Component.stuffProps.stuffAdjective>激光枪部件</Laser_Component.stuffProps.stuffAdjective>
+  <AdvSniper_Component.label>advanced sniper component</AdvSniper_Component.label>
+  <AdvSniper_Component.description>Main components for advanced sniper weapons.</AdvSniper_Component.description>
+  <AdvSniper_Component.stuffProps.stuffAdjective>advanced sniper component</AdvSniper_Component.stuffProps.stuffAdjective>
 
-  <ReinforcedConcrete.label>钢筋混凝土</ReinforcedConcrete.label>
-  
-  <ReinforcedConcrete.stuffProps.stuffAdjective>钢筋混凝土</ReinforcedConcrete.stuffProps.stuffAdjective>
+  <Heavy_Component.label>heavy weapon component</Heavy_Component.label>
+  <Heavy_Component.description>Main components for heavy weapons.</Heavy_Component.description>
+  <Heavy_Component.stuffProps.stuffAdjective>heavy weapon component</Heavy_Component.stuffProps.stuffAdjective>
 
-  <Mechanism.label>机械组件</Mechanism.label>
-  <Mechanism.description>用于简单机械的组成部件。大概就是长得像齿轮的一些东西。</Mechanism.description>
+  <Cannon_Component.label>cannon weapon component</Cannon_Component.label>
+  <Cannon_Component.description>Main components for cannons.</Cannon_Component.description>
+  <Cannon_Component.stuffProps.stuffAdjective>cannon weapon component</Cannon_Component.stuffProps.stuffAdjective>
 
-  <AdvMechanism.label>先进机械组件</AdvMechanism.label>
-  <AdvMechanism.description>用于构成复杂机械结构的组件。例如一些高精度、高强度的齿轮、轴杆等等。</AdvMechanism.description>
+  <Launcher_Component.label>launcher weapon component</Launcher_Component.label>
+  <Launcher_Component.description>Main components for rocket launcher weapons.</Launcher_Component.description>
+  <Launcher_Component.stuffProps.stuffAdjective>launcher weapon component</Launcher_Component.stuffProps.stuffAdjective>
+
+  <Plasma_Component.label>plasma weapon component</Plasma_Component.label>
+  <Plasma_Component.description>Main components for plasma weapons.</Plasma_Component.description>
+  <Plasma_Component.stuffProps.stuffAdjective>plasma weapon component</Plasma_Component.stuffProps.stuffAdjective>
+
+  <Laser_Component.label>laser rifle component</Laser_Component.label>
+  <Laser_Component.description>Main components for laser rifle weapons.</Laser_Component.description>
+  <Laser_Component.stuffProps.stuffAdjective>laser rifle component</Laser_Component.stuffProps.stuffAdjective>
+
+  <ReinforcedConcrete.label>reinforced concrete</ReinforcedConcrete.label>
+  <ReinforcedConcrete.description>Reinforced concrete is made from concrete and metal in order to strengthen the mixture.</ReinforcedConcrete.description>
+  <ReinforcedConcrete.stuffProps.stuffAdjective>Reinforced Concrete</ReinforcedConcrete.stuffProps.stuffAdjective>
+
+  <Mechanism.label>mechanism</Mechanism.label>
+  <Mechanism.description>Simple mechanisms are used in simple machines. They are gear-like parts.</Mechanism.description>
+
+  <AdvMechanism.label>advanced mechanism</AdvMechanism.label>
+  <AdvMechanism.description>Advanced mechanism are used in complex machines. They are intricate gear-like parts.</AdvMechanism.description>
 
 
 </LanguageData>

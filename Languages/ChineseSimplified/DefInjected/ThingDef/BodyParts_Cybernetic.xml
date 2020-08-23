@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- cybernetic parts -->
+
+  <GTEar.label>Cybernetic Bionic Ear</GTEar.label>
+  <GTEar.description>The advanced version of the bionic ear. The second generation of bionic upgrades, typically reserved for top brass military forces.</GTEar.description>
+
+  <ArchotechEye.label>Cybernetic Bionic Eye</ArchotechEye.label>
+  <ArchotechEye.description>The advanced version of the bionic eye. The second generation of bionic upgrades, typically reserved for top brass military forces.</ArchotechEye.description>
+
+  <ArchotechArm.label>Cybernetic Bionic Arm</ArchotechArm.label>
+  <ArchotechArm.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible strength. You may destroy your opponents limbs in a fist fight...not recomended for wardens.</ArchotechArm.description>
+
+  <ArchotechLeg.label>Cybernetic Bionic Leg</ArchotechLeg.label>
+  <ArchotechLeg.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Give the owner incredible speed</ArchotechLeg.description>
+
+  <GTHeart.label>Cybernetic Heart</GTHeart.label>
+  <GTHeart.description>A powerful cardiac augmentation, replacing standard human hearts. Safely manages very high blood flow without overwhelming standard body parts.</GTHeart.description>
+
+  <GTLung.label>Cybernetic Lung</GTLung.label>
+  <GTLung.description>A powerful vascular augmentation, replacing standard human lungs. The perfect pairing with a cybernetic heart, this increases circulatory speed, increasing efficiency.</GTLung.description>
+
+  <GTKidney.label>Cybernetic Kidney</GTKidney.label>
+  <GTKidney.description>A powerful abdominal augmentation, replacing standard human kidneys. Increasing blood filtration efficiency.</GTKidney.description>
+
+  <GTLiver.label>Cybernetic Liver</GTLiver.label>
+  <GTLiver.description>A powerful abdominal augmentation, replacing standard human livers. Increasing blood filtration efficiency and metabolic efficiency.</GTLiver.description>
+
+  <GTstomach.label>Cybernetic Stomach</GTstomach.label>
+  <GTstomach.description>A powerful abdominal augmentation, replacing standard human stomachs. Increasing digestion efficiency and metabolic efficiency.</GTstomach.description>
+
+  <GTHand.label>Cybernetic Bionic Hand</GTHand.label>
+  <GTHand.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. The more limited version of arm upgrades, just replacing hands.</GTHand.description>
+
+  <GTFoot.label>Cybernetic Bionic Foot</GTFoot.label>
+  <GTFoot.description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. The more limited version of leg upgrades, just replacing feet.</GTFoot.description>
+
+  <GTDentures.label>Cybernetic Bionic Jaw</GTDentures.label>
+  <GTDentures.description>The second generation of bionic upgrades, using nano machinery to break down food instantly with minimal effort.</GTDentures.description>
+
+  <GTSpine.label>Cybernetic Bionic Spine</GTSpine.label>
+  <GTSpine.description>The most crucial part of the human body improved with the best available nano materials. Greatly imroved manipulation and movement.</GTSpine.description>
+
+
+</LanguageData>

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlantHealroot.label>药草</PlantHealroot.label>
-  <PlantHealroot.description>一种生长缓慢的植物，可以收获草药。\n\n已经被殖民者们选择育种了几个世纪。因其五大医疗功效，被部落人誉为「医者之手」。</PlantHealroot.description>
+  <Plant_Healroot.label>Healroot Plant</Plant_Healroot.label>
+  <Plant_Healroot.description>A slow-growing plant which yields raw herbal medicine when harvested.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.</Plant_Healroot.description>
 
-  <PlantWildHealroot.label>芦荟</PlantWildHealroot.label>
-  <PlantWildHealroot.description>芦荟的植株可以收获芦荟叶。这种叶子与药草有着类似的医疗效果，而且可以通过加工制成中草药包。</PlantWildHealroot.description>
+  <Plant_HealrootWild.label>Aloe Plant</Plant_HealrootWild.label>
+  <Plant_HealrootWild.description>Aloe Plants produce Aloe Leaves, which are similar to Healroots but can be produced as Herbal Medicine Kits from the Canning Stove.</Plant_HealrootWild.description>
 
-  <PlantNeutroFlower.label>中性花</PlantNeutroFlower.label>
-  <PlantNeutroFlower.description>一种漂亮黄橙色花朵。用于制作中性胺和药物。</PlantNeutroFlower.description>
+  <Plant_NeutroFlower.label>Neutro Flower</Plant_NeutroFlower.label>
+  <Plant_NeutroFlower.description>A beautiful Yellow-Orange Flower. Used to make Neutroamine, a medicine base.</Plant_NeutroFlower.description>
 
 
 </LanguageData>

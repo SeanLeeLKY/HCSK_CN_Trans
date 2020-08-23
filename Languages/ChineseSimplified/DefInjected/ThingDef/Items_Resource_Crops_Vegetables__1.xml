@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RawPotatoes.label>土豆</RawPotatoes.label>
+  <RawPotatoes.stuffProps.stuffAdjective>土豆</RawPotatoes.stuffProps.stuffAdjective>
+
+  <Raweggplant.label>茄子</Raweggplant.label>
+  <Raweggplant.description>紫色的茄子。生吃时有涩味、而且辣嘴。</Raweggplant.description>
+  <Raweggplant.stuffProps.stuffAdjective>茄子</Raweggplant.stuffProps.stuffAdjective>
+
+  <Rawbean.label>豆荚</Rawbean.label>
+ 
+  <Rawbean.stuffProps.stuffAdjective>豆荚</Rawbean.stuffProps.stuffAdjective>
+
+  <RawTomatoes.label>番茄</RawTomatoes.label>
+  
+  <RawTomatoes.stuffProps.stuffAdjective>番茄</RawTomatoes.stuffProps.stuffAdjective>
+
+  <RawLettuce.label>卷心菜</RawLettuce.label>
+ 
+  <RawLettuce.stuffProps.stuffAdjective>卷心菜</RawLettuce.stuffProps.stuffAdjective>
+
+  <RawCarrots.label>胡萝卜</RawCarrots.label>
+  
+  <RawCarrots.stuffProps.stuffAdjective>胡萝卜</RawCarrots.stuffProps.stuffAdjective>
+
+  <Rawmushroom.label>香菇</Rawmushroom.label>
+ 
+  <Rawmushroom.stuffProps.stuffAdjective>香菇</Rawmushroom.stuffProps.stuffAdjective>
+
+  <RawAlgae.label>水藻</RawAlgae.label>
+  <RawAlgae.description>水藻。</RawAlgae.description>
+  <RawAlgae.stuffProps.stuffAdjective>水藻</RawAlgae.stuffProps.stuffAdjective>
+
+
+</LanguageData>

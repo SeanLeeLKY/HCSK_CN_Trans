@@ -1,23 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_NorbalSagecowl.label>大兜帽</Apparello_NorbalSagecowl.label>
-  
-  <Apparello_NorbalArcher.label>骷髅帽</Apparello_NorbalArcher.label>
-  
-  <Apparello_NorbalThunder.label>瓜皮帽</Apparello_NorbalThunder.label>
-  
-  <Apparello_NorbalWarrior.label>锁链头盔</Apparello_NorbalWarrior.label>
-  
-  <MedievalTimes_Helmet_Bascinet.label>巴萨内特盔</MedievalTimes_Helmet_Bascinet.label>
-  
-  <MedievalArmor_Armet.label>活动头盔</MedievalArmor_Armet.label>
-  
-  <MedievalArmor_GreatHelm.label>十字军盔</MedievalArmor_GreatHelm.label>
-  
-  <MedievalTimes_Helmet_Domed.label>圆顶头盔</MedievalTimes_Helmet_Domed.label>
-  
-  <MedievalTimes_Helmet_Sallet.label>轻头盔</MedievalTimes_Helmet_Sallet.label>
-  
+  <Apparello_Sandtrader.label>Caravaneer's hat</Apparello_Sandtrader.label>
+  <Apparello_Sandtrader.description>Roaming merchants use these to protect their face from dust storms and the like.</Apparello_Sandtrader.description>
+
+  <Apparello_NorbalSagecowl.label>Cowl</Apparello_NorbalSagecowl.label>
+  <Apparello_NorbalSagecowl.description>A hardened leather cowl. Often worn by the sages of the Norbal communities.</Apparello_NorbalSagecowl.description>
+
+  <Apparello_NorbalArcher.label>Skull Cap</Apparello_NorbalArcher.label>
+  <Apparello_NorbalArcher.description>An adorned cap that protects the entire head.</Apparello_NorbalArcher.description>
+
+  <Apparello_NorbalThunder.label>Winged Skullcap</Apparello_NorbalThunder.label>
+  <Apparello_NorbalThunder.description>An adorned cap that protects the entire head, now with wings attached!</Apparello_NorbalThunder.description>
+
+  <Apparello_NorbalWarrior.label>Chain Helmet</Apparello_NorbalWarrior.label>
+  <Apparello_NorbalWarrior.description>A bascinet is a warrior's helmet that protects the entire head.</Apparello_NorbalWarrior.description>
+
+  <MedievalTimes_Helmet_Bascinet.label>Bascinet</MedievalTimes_Helmet_Bascinet.label>
+  <MedievalTimes_Helmet_Bascinet.description>A soft cap made of leather and cloth padding. This layer is covered in a chain-mail coif and topped with a large bucket helmet. The helmet is a bascinet, meaning the front/facial portion can be lifted or removed. All these pieces together provide excellent protection without hampering either mobility or visibility. The extra layers means it is also great for keeping warm in winter.</MedievalTimes_Helmet_Bascinet.description>
+
+  <MedievalTimes_Helmet_Domed.label>Domed Helmet</MedievalTimes_Helmet_Domed.label>
+  <MedievalTimes_Helmet_Domed.description>A soft cap made of leather and cloth padding. This layer is covered in a chain-mail coif and topped with a large domed helmet. All these pieces together provide excellent protection without hampering either mobility or visibility. The extra layers means it is also great for keeping warm in winter.</MedievalTimes_Helmet_Domed.description>
+
+  <MedievalTimes_Helmet_Sallet.label>Sallet Helmet</MedievalTimes_Helmet_Sallet.label>
+  <MedievalTimes_Helmet_Sallet.description>A soft cap made of leather and cloth padding. This layer is covered in a chain-mail coif and topped with a large Sallet helmet. All these pieces together provide excellent protection without hampering either mobility or visibility. The extra layers means it is also great for keeping warm in winter.</MedievalTimes_Helmet_Sallet.description>
+
 
 </LanguageData>

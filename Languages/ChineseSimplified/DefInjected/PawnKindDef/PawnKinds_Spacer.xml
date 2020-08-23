@@ -1,11 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SpaceRefugee.label>星际难民</SpaceRefugee.label>
-  <SpaceRefugee.labelPlural>星际难民</SpaceRefugee.labelPlural>
+  <!--[Duplicated] <SpaceRefugee.label>Space Refugee</SpaceRefugee.label>-->
+  <!--[Duplicated] <SpaceRefugee.labelPlural>Space Refugees</SpaceRefugee.labelPlural>-->
 
-  <SpaceSoldier.label>星际战士</SpaceSoldier.label>
-  <SpaceSoldier.labelPlural>星际战士</SpaceSoldier.labelPlural>
+  <SpaceRefugee.label>space refugee</SpaceRefugee.label>
+  <SpaceRefugee.labelPlural>space refugees</SpaceRefugee.labelPlural>
+
+  <SpaceRefugee_Clothed.label>space refugee</SpaceRefugee_Clothed.label>
+  <SpaceRefugee_Clothed.labelPlural>space refugees</SpaceRefugee_Clothed.labelPlural>
+
+  <AncientSoldier.label>ancient soldier</AncientSoldier.label>
+  <AncientSoldier.labelPlural>ancient soldiers</AncientSoldier.labelPlural>
 
 
 </LanguageData>

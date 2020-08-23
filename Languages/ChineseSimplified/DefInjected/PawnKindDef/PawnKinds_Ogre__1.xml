@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 奥格Bases -->
+
+  <Ogre.label>奥格</Ogre.label>
+  <Ogre.labelPlural>奥格</Ogre.labelPlural>
+  <Ogre.labelMale>男性奥格</Ogre.labelMale>
+  <Ogre.labelMalePlural>男性奥格</Ogre.labelMalePlural>
+  <Ogre.labelFemale>女性奥格</Ogre.labelFemale>
+  <Ogre.labelFemalePlural>女性奥格</Ogre.labelFemalePlural>
+
+
+  <!-- Destroyer -->
+
+  <OgreDES.label>奥格破坏者</OgreDES.label>
+  <OgreDES.labelPlural>奥格破坏者</OgreDES.labelPlural>
+  <OgreDES.labelMale>男性奥格破坏者</OgreDES.labelMale>
+  <OgreDES.labelMalePlural>男性奥格破坏者</OgreDES.labelMalePlural>
+  <OgreDES.labelFemale>女性奥格破坏者</OgreDES.labelFemale>
+  <OgreDES.labelFemalePlural>女性奥格破坏者</OgreDES.labelFemalePlural>
+
+
+  <!-- Devastator -->
+
+  <OgreDEV.label>奥格毁灭者</OgreDEV.label>
+  <OgreDEV.labelPlural>奥格毁灭者</OgreDEV.labelPlural>
+  <OgreDEV.labelMale>男性奥格毁灭者</OgreDEV.labelMale>
+  <OgreDEV.labelMalePlural>男性奥格毁灭者</OgreDEV.labelMalePlural>
+  <OgreDEV.labelFemale>女性奥格毁灭者</OgreDEV.labelFemale>
+  <OgreDEV.labelFemalePlural>女性奥格毁灭者</OgreDEV.labelFemalePlural>
+
+
+</LanguageData>

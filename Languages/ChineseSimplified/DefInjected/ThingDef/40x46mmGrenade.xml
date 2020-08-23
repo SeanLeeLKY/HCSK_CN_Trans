@@ -3,15 +3,17 @@
 
   <!-- Ammo -->
 
-  <Ammo_40x46mmGrenade_HE.label>40x46mm 榴弹（高爆）</Ammo_40x46mmGrenade_HE.label>
-  
-  <Ammo_40x46mmGrenade_EMP.label>40x46mm 榴弹（EMP）</Ammo_40x46mmGrenade_EMP.label>
-  
+  <Ammo_40x46mmGrenade_HE.label>40x46mm grenade (HE)</Ammo_40x46mmGrenade_HE.label>
+  <Ammo_40x46mmGrenade_HE.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_HE.description>
+
+  <Ammo_40x46mmGrenade_EMP.label>40x46mm grenade (EMP)</Ammo_40x46mmGrenade_EMP.label>
+  <Ammo_40x46mmGrenade_EMP.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_EMP.description>
+
 
   <!-- Projectiles -->
 
-  <Bullet_40x46mmGrenade_HE.label>30x29mm 榴弹（高爆）</Bullet_40x46mmGrenade_HE.label>
-  <Bullet_40x46mmGrenade_EMP.label>30x29mm 榴弹（EMP）</Bullet_40x46mmGrenade_EMP.label>
+  <Bullet_40x46mmGrenade_HE.label>40x46mm grenade (HE)</Bullet_40x46mmGrenade_HE.label>
+  <Bullet_40x46mmGrenade_EMP.label>40x46mm grenade (EMP)</Bullet_40x46mmGrenade_EMP.label>
 
 
 </LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallExoskeletonSuit.label>Install Exoskeleton suit</InstallExoskeletonSuit.label>
+  <InstallExoskeletonSuit.description>Installs an Exoskeleton.</InstallExoskeletonSuit.description>
+  <InstallExoskeletonSuit.jobString>Installing Exoskeleton.</InstallExoskeletonSuit.jobString>
+
+  <RemoveExoskeletonSuit.label>remove exoskeleton suit</RemoveExoskeletonSuit.label>
+  <RemoveExoskeletonSuit.description>Remove exoskeleton suit.</RemoveExoskeletonSuit.description>
+  <RemoveExoskeletonSuit.jobString>Removing exoskeleton suit.</RemoveExoskeletonSuit.jobString>
+
+
+  <!-- Protective exoskeleton -->
+
+  <InstallProtectiveExoskeleton.label>install protective exoskeleton</InstallProtectiveExoskeleton.label>
+  <InstallProtectiveExoskeleton.description>Installs protective exoskeleton.</InstallProtectiveExoskeleton.description>
+  <InstallProtectiveExoskeleton.jobString>Installing protective exoskeleton.</InstallProtectiveExoskeleton.jobString>
+
+  <RemoveProtectiveExoskeleton.label>remove protective exoskeleton</RemoveProtectiveExoskeleton.label>
+  <RemoveProtectiveExoskeleton.description>Remove protective exoskeleton.</RemoveProtectiveExoskeleton.description>
+  <RemoveProtectiveExoskeleton.jobString>Removing protective exoskeleton.</RemoveProtectiveExoskeleton.jobString>
+
+
+</LanguageData>

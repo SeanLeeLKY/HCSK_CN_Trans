@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- simple parts -->
+
+  <GlassEye.label>Glass Eye</GlassEye.label>
+  <GlassEye.description>Replaces missing eyes. Prettier than eye patches.</GlassEye.description>
+
+  <ArtificialNose.label>Artificial Nose</ArtificialNose.label>
+  <ArtificialNose.description>Replaces a missing nose. Covers the hole in the face.</ArtificialNose.description>
+
+  <SimpleProstheticHand.label>Simple Prosthetic Hand</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>Replaces missing hands. Way more comfortable and less frightening than the hook hand.</SimpleProstheticHand.description>
+
+  <SimpleProstheticFoot.label>Simple Prosthetic Foot</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>Replaces missing feet. Not as cheap as a wood log.</SimpleProstheticFoot.description>
+
+  <SimpleProstheticLeg.label>Simple Prosthetic Leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>Simple prosthesis made to replace missing leg. Not very comfortable but quite efficient.</SimpleProstheticLeg.description>
+
+  <SimpleProstheticArm.label>Simple Prosthetic Arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>A simple but durable arm prosthesis.</SimpleProstheticArm.description>
+
+  <ArtificialPelvis.label>Artificial Pelvis</ArtificialPelvis.label>
+  <ArtificialPelvis.description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite kind of moving around.</ArtificialPelvis.description>
+
+
+</LanguageData>

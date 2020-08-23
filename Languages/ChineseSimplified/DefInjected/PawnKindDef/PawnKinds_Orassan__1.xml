@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Refugee -->
+
+  <OrassanRefugee.label>奥瑞森难民</OrassanRefugee.label>
+  <OrassanRefugee.labelPlural>奥瑞森难民</OrassanRefugee.labelPlural>
+  <OrassanRefugee.labelMale>男性奥瑞森难民</OrassanRefugee.labelMale>
+  <OrassanRefugee.labelMalePlural>男性奥瑞森难民</OrassanRefugee.labelMalePlural>
+  <OrassanRefugee.labelFemale>女性奥瑞森难民</OrassanRefugee.labelFemale>
+  <OrassanRefugee.labelFemalePlural>女性奥瑞森难民</OrassanRefugee.labelFemalePlural>
+
+
+  <!-- Villager -->
+
+  <OrassanVillager.label>奥瑞森村民</OrassanVillager.label>
+  <OrassanVillager.labelPlural>奥瑞森村民</OrassanVillager.labelPlural>
+  <OrassanVillager.labelMale>男性奥瑞森村民</OrassanVillager.labelMale>
+  <OrassanVillager.labelMalePlural>男性奥瑞森村民</OrassanVillager.labelMalePlural>
+  <OrassanVillager.labelFemale>女性奥瑞森村民</OrassanVillager.labelFemale>
+  <OrassanVillager.labelFemalePlural>女性奥瑞森村民</OrassanVillager.labelFemalePlural>
+
+
+  <!-- Windrunner -->
+
+  <OrassanWindrunner.label>奥瑞森风行者</OrassanWindrunner.label>
+  <OrassanWindrunner.labelPlural>奥瑞森风行者</OrassanWindrunner.labelPlural>
+  <OrassanWindrunner.labelMale>男性奥瑞森风行者</OrassanWindrunner.labelMale>
+  <OrassanWindrunner.labelMalePlural>男性奥瑞森风行者</OrassanWindrunner.labelMalePlural>
+  <OrassanWindrunner.labelFemale>女性奥瑞森风行者</OrassanWindrunner.labelFemale>
+  <OrassanWindrunner.labelFemalePlural>女性奥瑞森风行者</OrassanWindrunner.labelFemalePlural>
+
+
+  <!-- Elder -->
+
+  <OrassanElder.label>奥瑞森长老</OrassanElder.label>
+  <OrassanElder.labelPlural>奥瑞森长老</OrassanElder.labelPlural>
+  <OrassanElder.labelMale>男性奥瑞森长老</OrassanElder.labelMale>
+  <OrassanElder.labelMalePlural>男性奥瑞森长老</OrassanElder.labelMalePlural>
+  <OrassanElder.labelFemale>女性奥瑞森长老</OrassanElder.labelFemale>
+  <OrassanElder.labelFemalePlural>女性奥瑞森长老</OrassanElder.labelFemalePlural>
+
+
+  <!-- Trader -->
+
+  <OrassanTrader.label>奥瑞森交易员</OrassanTrader.label>
+  <OrassanTrader.labelPlural>奥瑞森交易员</OrassanTrader.labelPlural>
+  <OrassanTrader.labelMale>男性奥瑞森交易员</OrassanTrader.labelMale>
+  <OrassanTrader.labelMalePlural>男性奥瑞森交易员</OrassanTrader.labelMalePlural>
+  <OrassanTrader.labelFemale>女性奥瑞森交易员</OrassanTrader.labelFemale>
+  <OrassanTrader.labelFemalePlural>女性奥瑞森交易员</OrassanTrader.labelFemalePlural>
+
+
+  <!-- Adventurer -->
+
+  <OrassanAdventurer.label>奥瑞森探险家</OrassanAdventurer.label>
+  <OrassanAdventurer.labelPlural>奥瑞森探险家</OrassanAdventurer.labelPlural>
+  <OrassanAdventurer.labelMale>男性奥瑞森探险家</OrassanAdventurer.labelMale>
+  <OrassanAdventurer.labelMalePlural>男性奥瑞森探险家</OrassanAdventurer.labelMalePlural>
+  <OrassanAdventurer.labelFemale>女性奥瑞森探险家</OrassanAdventurer.labelFemale>
+  <OrassanAdventurer.labelFemalePlural>女性奥瑞森探险家</OrassanAdventurer.labelFemalePlural>
+
+
+  <!-- Hunter -->
+
+  <OrassanHunter.label>奥瑞森猎手</OrassanHunter.label>
+  <OrassanHunter.labelPlural>奥瑞森猎手</OrassanHunter.labelPlural>
+  <OrassanHunter.labelMale>男性奥瑞森猎手</OrassanHunter.labelMale>
+  <OrassanHunter.labelMalePlural>男性奥瑞森猎手</OrassanHunter.labelMalePlural>
+  <OrassanHunter.labelFemale>女性奥瑞森猎手</OrassanHunter.labelFemale>
+  <OrassanHunter.labelFemalePlural>女性奥瑞森猎手</OrassanHunter.labelFemalePlural>
+
+
+  <!-- Predator -->
+
+  <OrassanPredator.label>奥瑞森掠夺者</OrassanPredator.label>
+  <OrassanPredator.labelPlural>奥瑞森掠夺者</OrassanPredator.labelPlural>
+  <OrassanPredator.labelMale>男性奥瑞森掠夺者</OrassanPredator.labelMale>
+  <OrassanPredator.labelMalePlural>男性奥瑞森掠夺者</OrassanPredator.labelMalePlural>
+  <OrassanPredator.labelFemale>女性奥瑞森掠夺者</OrassanPredator.labelFemale>
+  <OrassanPredator.labelFemalePlural>女性奥瑞森掠夺者</OrassanPredator.labelFemalePlural>
+
+
+</LanguageData>

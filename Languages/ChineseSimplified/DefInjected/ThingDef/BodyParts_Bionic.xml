@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic parts -->
+
+  <BionicHand.label>bionic hand</BionicHand.label>
+  <BionicHand.description>Allows the user to perform tasks even faster than with regular hands.</BionicHand.description>
+
+  <BionicFoot.label>bionic foot</BionicFoot.label>
+  <BionicFoot.description>This prosthesis grants faster walking without stumbling all the time.</BionicFoot.description>
+
+  <BionicEar.label>bionic ear implant</BionicEar.label>
+  <BionicEar.description>An advanced device that expands upon the basic functions of the ear drum.</BionicEar.description>
+
+  <BionicJaw.label>bionic jaw implant</BionicJaw.label>
+  <BionicJaw.description>Aside from a strong set of teeth, this also comes with a voice modulator.</BionicJaw.description>
+
+  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.description>This light and impressing device can replace a damaged spine.</BionicSpine.description>
+
+  <BionicEye.label>bionic eye</BionicEye.label>
+  <BionicEye.description>Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities.</BionicEye.description>
+
+  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.description>One of the most sophisticated arm replacements. It gives extreme strength to its user.</BionicArm.description>
+
+  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.description>A Bionic Leg uses cutting-edge technology to give its owner extreme walking comfort and strength.</BionicLeg.description>
+
+  <PowerClaw.label>power claw</PowerClaw.label>
+  <PowerClaw.description>Powerful hand replacement consisting of three deadly claws.</PowerClaw.description>
+
+  <BrainStimulator.label>brain stimulator</BrainStimulator.label>
+  <BrainStimulator.description>A small device that sends electric shocks to the brain to slightly boost consciousness and mobility.</BrainStimulator.description>
+
+  <AIChip.label>AI Chip</AIChip.label>
+  <AIChip.description>Through special chemicals and electric shocks this little chip is able to significantly boost the users consciousness and mobility.</AIChip.description>
+
+
+</LanguageData>

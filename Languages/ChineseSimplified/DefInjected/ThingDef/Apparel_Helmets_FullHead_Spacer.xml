@@ -1,33 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SiegearmorHelmet.label>攻城头盔</SiegearmorHelmet.label>
-  
+  <Apparel_PowerArmorHelmet.label>Power Armor Helmet</Apparel_PowerArmorHelmet.label>
+  <Apparel_PowerArmorHelmet.description>The helmet part of power armor set. It is mostly used by heavy infantry.</Apparel_PowerArmorHelmet.description>
 
-  <CCArmorHelmet.label>格斗头盔</CCArmorHelmet.label>
-  
-  <Apparello_Proto.label>精神力头饰</Apparello_Proto.label>
-  <Apparello_Proto.description>旨在提高突触反应速率的创新头饰原型。它有一些非常令人厌恶的副作用，如过度的紧张，耳鸣，奇怪的背景噪音和声音。</Apparello_Proto.description>
+  <SiegearmorHelmet.label>Siege Armor Helmet</SiegearmorHelmet.label>
+  <SiegearmorHelmet.description>This is a helmet of the JE-342A7 "Dvergr (Dwarf)" siege armor. A rugged and trustworthy helmet to protect a soft, fleshy head from even the nastiest of enemies.</SiegearmorHelmet.description>
 
-  <Apparello_ProtoFin.label>心灵冲击头饰</Apparello_ProtoFin.label>
-  <Apparello_ProtoFin.description>旨在提高突触反应率的创新头饰。尽管没有以前那麽糟糕，但它仍然有一些非常令人厌恶的副作用。把先进的AI核心放在它上面似乎解决了大部分的问题。不幸的是，人工智能的核心也放大了佩戴者的精神敏感度，使他们的精神力量极其脆弱。</Apparello_ProtoFin.description>
+  <CCArmorHelmet.label>Close Combat Helmet</CCArmorHelmet.label>
+  <CCArmorHelmet.description>The JE-257A1 "Einherjar" close combat armor is a modified version of "Dvergr" siege armor.  Some of the thick armor plates have been removed so that high powered actuators and fast recharging shields could be installed.</CCArmorHelmet.description>
 
-  <Apparello_Antsyhat.label>反对者头饰</Apparello_Antsyhat.label>
-  
-  <Apparello_Meffect.label>适应性面罩</Apparello_Meffect.label>
-  <Apparello_Meffect.description>为深空探索者设计的气密头盔，可以抵御无法居住的行星上的致命细菌。</Apparello_Meffect.description>
+  <Apparel_ArmorHelmetRecon.label>recon helmet</Apparel_ArmorHelmetRecon.label>
+  <Apparel_ArmorHelmetRecon.description>A high-tech armored helmet with a built-in status computer and a protective plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces.</Apparel_ArmorHelmetRecon.description>
 
-  <Apparello_Hivehat.label>蜂巢头盔</Apparello_Hivehat.label>
-  
-  <Apparello_Hivehell.label>蒸汽头盔</Apparello_Hivehell.label>
-  
-  <Apparello_LPow.label>轻型动力装甲头盔</Apparello_LPow.label>
-  
-  <Apparel_DoomHelmet.label>末日头盔</Apparel_DoomHelmet.label>
-  
-  <Apparel_HellPowerArmorHelmet.label>地狱头盔</Apparel_HellPowerArmorHelmet.label>
-  
-  <ValkyrieHelmet.label>女武神头盔</ValkyrieHelmet.label>
-  
+  <Apparello_Proto.label>PowerMind-Headgear</Apparello_Proto.label>
+  <Apparello_Proto.description>A prototype of a very innovative headgear aimed to enhance synaptic reaction rates. It has some very unsavory side effects such as overbearing nervousness, ringing ears, strange background noises and/or voices.</Apparello_Proto.description>
+
+  <Apparello_ProtoFin.label>MindBlast-Headgear</Apparello_ProtoFin.label>
+  <Apparello_ProtoFin.description>A very innovative headgear aimed to enhance synaptic reaction rates. It still has some very unsavory side effects although not as bad as before. Placing an advanced AI core on it seemed to work out most of the kinks. Unfortunately, the AI core also amplifies wearer psychic sensitivity, leaving them extremely vulnerable to psychic powers.</Apparello_ProtoFin.description>
+
+  <Apparello_Antsyhat.label>Antis-Headgear</Apparello_Antsyhat.label>
+  <Apparello_Antsyhat.description>A very curious piece of technology, the final iteration of the prototype. Negates the awkward effects even further.</Apparello_Antsyhat.description>
+
+  <Apparello_Meffect.label>Enviro-Headgear</Apparello_Meffect.label>
+  <Apparello_Meffect.description>Most importantly airtight headgear designed for deep-space explorers to combat the hostile bacteria on uninhabitable planets.</Apparello_Meffect.description>
+
+  <Apparello_Hivehat.label>Hive Helmet</Apparello_Hivehat.label>
+  <Apparello_Hivehat.description>Coupled with the Hive armor, the beastly visage of this helmet could very well cause that 'wet trousers' symptom in your foes.</Apparello_Hivehat.description>
+
+  <Apparello_Hivehell.label>Steam Helmet</Apparello_Hivehell.label>
+  <Apparello_Hivehell.description>Bulky headgear designed to match the steamhull. For some reason it reminds everyone of a choo choo train, huh.</Apparello_Hivehell.description>
+
+  <Apparello_LPow.label>Light Power Armor Helmet</Apparello_LPow.label>
+  <Apparello_LPow.description>A part of powered light armor set, mostly used by light infantry.</Apparello_LPow.description>
+
+  <Apparel_DoomHelmet.label>Doom Helmet</Apparel_DoomHelmet.label>
+  <Apparel_DoomHelmet.description>The helmet part of power armor set. It is mostly used by heavy infantry.</Apparel_DoomHelmet.description>
+
+  <Apparel_HellPowerArmorHelmet.label>Hell Helmet</Apparel_HellPowerArmorHelmet.label>
+  <Apparel_HellPowerArmorHelmet.description>The helmet part of power armor set. It is mostly used by heavy infantry.</Apparel_HellPowerArmorHelmet.description>
+
+  <Apparello_Meffectwo.label>Meffect-Headgear</Apparello_Meffectwo.label>
+  <Apparello_Meffectwo.description>Mostly airtight headgear designed for deep-space explorers to combat the hostile bacteria on uninhabitable planets.</Apparello_Meffectwo.description>
+
 
 </LanguageData>

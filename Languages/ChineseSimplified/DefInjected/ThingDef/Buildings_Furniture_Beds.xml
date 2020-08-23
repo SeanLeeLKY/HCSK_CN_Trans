@@ -1,149 +1,184 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SleepingSpot.label>睡眠点</SleepingSpot.label>
-  <SleepingSpot.description>在地板上指定一个给人睡觉的位置。既不舒服，也不健康。</SleepingSpot.description>
-  <SleepingSpot_Blueprint.label>睡眠点 （蓝图）</SleepingSpot_Blueprint.label>
-  <SleepingSpot_Blueprint_Install.label>睡眠点 （蓝图）</SleepingSpot_Blueprint_Install.label>
-  <SleepingSpot_Frame.label>睡眠点 （建造中）</SleepingSpot_Frame.label>
-  <SleepingSpot_Frame.description>在地板上指定一个给人睡觉的位置。既不舒服，也不健康。</SleepingSpot_Frame.description>
+  <SleepingSpot.label>sleeping spot</SleepingSpot.label>
+  <SleepingSpot.description>Designates a spot on the ground where people should sleep. Neither comfortable, nor healthy.</SleepingSpot.description>
+  <SleepingSpot_Blueprint.label>sleeping spot (blueprint)</SleepingSpot_Blueprint.label>
+  <SleepingSpot_Blueprint_Install.label>sleeping spot (blueprint)</SleepingSpot_Blueprint_Install.label>
+  <SleepingSpot_Frame.label>sleeping spot (building)</SleepingSpot_Frame.label>
+  <SleepingSpot_Frame.description>Designates a spot on the ground where people should sleep. Neither comfortable, nor healthy.</SleepingSpot_Frame.description>
 
-  <BagBed.label>睡袋</BagBed.label>
-  <BagBed.description>可以用于在野外露营时休息的寝具。轻柔而且舒服。</BagBed.description>
-  <BagBed_Blueprint.label>睡袋 （蓝图）</BagBed_Blueprint.label>
-  <BagBed_Blueprint_Install.label>睡袋 （蓝图）</BagBed_Blueprint_Install.label>
-  <BagBed_Frame.label>睡袋 （建造中）</BagBed_Frame.label>
-  <BagBed_Frame.description>可以用于在野外露营时休息的寝具。轻柔而且舒服。</BagBed_Frame.description>
+  <DoubleSleepingSpot.label>double sleeping spot</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.description>Designates a spot on the ground where two people should sleep together. Not comfortable.</DoubleSleepingSpot.description>
+  <DoubleSleepingSpot_Blueprint.label>double sleeping spot (blueprint)</DoubleSleepingSpot_Blueprint.label>
+  <DoubleSleepingSpot_Blueprint_Install.label>double sleeping spot (blueprint)</DoubleSleepingSpot_Blueprint_Install.label>
+  <DoubleSleepingSpot_Frame.label>double sleeping spot (building)</DoubleSleepingSpot_Frame.label>
+  <DoubleSleepingSpot_Frame.description>Designates a spot on the ground where two people should sleep together. Not comfortable.</DoubleSleepingSpot_Frame.description>
 
-  <HayBed.label>茅草床</HayBed.label>
-  <HayBed_Blueprint.label>茅草床 （蓝图）</HayBed_Blueprint.label>
-  <HayBed_Blueprint_Install.label>茅草床 （蓝图）</HayBed_Blueprint_Install.label>
-  <HayBed_Frame.label>茅草床 （建造中）</HayBed_Frame.label>
-  
-  <HideBed.label>兽皮床</HideBed.label>
-  <HideBed_Blueprint.label>兽皮床 （蓝图）</HideBed_Blueprint.label>
-  <HideBed_Blueprint_Install.label>兽皮床 （蓝图）</HideBed_Blueprint_Install.label>
-  <HideBed_Frame.label>兽皮床 （建造中）</HideBed_Frame.label>
-  
-  <HideBedDouble.label>兽皮双人床</HideBedDouble.label>
-  <HideBedDouble_Blueprint.label>兽皮双人床 （蓝图）</HideBedDouble_Blueprint.label>
-  <HideBedDouble_Blueprint_Install.label>兽皮双人床 （蓝图）</HideBedDouble_Blueprint_Install.label>
-  <HideBedDouble_Frame.label>兽皮双人床 （建造中）</HideBedDouble_Frame.label>
-  
-  <Bedroll.label>垫子床</Bedroll.label>
-  <Bedroll_Blueprint.label>垫子床 （蓝图）</Bedroll_Blueprint.label>
-  <Bedroll_Blueprint_Install.label>垫子床 （蓝图）</Bedroll_Blueprint_Install.label>
-  <Bedroll_Frame.label>垫子床 （建造中）</Bedroll_Frame.label>
-  
-  <BedrollDouble.label>垫子双人床</BedrollDouble.label>
-  <BedrollDouble_Blueprint.label>垫子双人床 （蓝图）</BedrollDouble_Blueprint.label>
-  <BedrollDouble_Blueprint_Install.label>垫子双人床 （蓝图）</BedrollDouble_Blueprint_Install.label>
-  <BedrollDouble_Frame.label>垫子双人床 （建造中）</BedrollDouble_Frame.label>
-  
-  <Bed.label>单人床</Bed.label>
-  <Bed.description>一张单人床，在框架上铺了舒适的床垫和床单用于休息。</Bed.description>
-  <Bed_Blueprint.label>单人床 （蓝图）</Bed_Blueprint.label>
-  <Bed_Blueprint_Install.label>单人床 （蓝图）</Bed_Blueprint_Install.label>
-  <Bed_Frame.label>单人床 （建造中）</Bed_Frame.label>
-  <Bed_Frame.description>一张单人床，在框架上铺了舒适的床垫和床单用于休息。</Bed_Frame.description>
+  <BagBed.label>sleeping bag</BagBed.label>
+  <BagBed.description>A sleeping bag for sleeping in the wild. Lightweigh and comfy.</BagBed.description>
+  <BagBed_Blueprint.label>sleeping bag (blueprint)</BagBed_Blueprint.label>
+  <BagBed_Blueprint_Install.label>sleeping bag (blueprint)</BagBed_Blueprint_Install.label>
+  <BagBed_Frame.label>sleeping bag (building)</BagBed_Frame.label>
+  <BagBed_Frame.description>A sleeping bag for sleeping in the wild. Lightweigh and comfy.</BagBed_Frame.description>
 
-  <DoubleBed.label>双人床</DoubleBed.label>
-  <DoubleBed.description>一张适合两个人使用的普通双人床。</DoubleBed.description>
-  <DoubleBed_Blueprint.label>双人床 （蓝图）</DoubleBed_Blueprint.label>
-  <DoubleBed_Blueprint_Install.label>双人床 （蓝图）</DoubleBed_Blueprint_Install.label>
-  <DoubleBed_Frame.label>双人床 （建造中）</DoubleBed_Frame.label>
-  <DoubleBed_Frame.description>一张适合两个人使用的普通双人床。</DoubleBed_Frame.description>
+  <HayBed.label>hay bed</HayBed.label>
+  <HayBed.description>A makeshift bed, made of hay and small branches. Just a step above sleeping on the ground. Not very healthy to sleep on.</HayBed.description>
+  <HayBed_Blueprint.label>hay bed (blueprint)</HayBed_Blueprint.label>
+  <HayBed_Blueprint_Install.label>hay bed (blueprint)</HayBed_Blueprint_Install.label>
+  <HayBed_Frame.label>hay bed (building)</HayBed_Frame.label>
+  <HayBed_Frame.description>A makeshift bed, made of hay and small branches. Just a step above sleeping on the ground. Not very healthy to sleep on.</HayBed_Frame.description>
 
-  <industrial_single_bed.label>精制单人床</industrial_single_bed.label>
-  <industrial_single_bed_Blueprint.label>精制单人床 （蓝图）</industrial_single_bed_Blueprint.label>
-  <industrial_single_bed_Blueprint_Install.label>精制单人床 （蓝图）</industrial_single_bed_Blueprint_Install.label>
-  <industrial_single_bed_Frame.label>精制单人床 （建造中）</industrial_single_bed_Frame.label>
-  
-  <industrial_double_bed.label>精制双人床</industrial_double_bed.label>
-  <industrial_double_bed_Blueprint.label>精制双人床 （蓝图）</industrial_double_bed_Blueprint.label>
-  <industrial_double_bed_Blueprint_Install.label>精制双人床 （蓝图）</industrial_double_bed_Blueprint_Install.label>
-  <industrial_double_bed_Frame.label>精制双人床 （建造中）</industrial_double_bed_Frame.label>
-  
+  <HideBed.label>norbal bed</HideBed.label>
+  <HideBed.description>This is an improvised bed made by placing leather hides over a platform of logs. Not the most comfortable bed in the world, but it'll do.</HideBed.description>
+  <HideBed_Blueprint.label>norbal bed (blueprint)</HideBed_Blueprint.label>
+  <HideBed_Blueprint_Install.label>norbal bed (blueprint)</HideBed_Blueprint_Install.label>
+  <HideBed_Frame.label>norbal bed (building)</HideBed_Frame.label>
+  <HideBed_Frame.description>This is an improvised bed made by placing leather hides over a platform of logs. Not the most comfortable bed in the world, but it'll do.</HideBed_Frame.description>
+
+  <HideBedDouble.label>double norbal bed</HideBedDouble.label>
+  <HideBedDouble.description>This is an improvised bed made by placing leather hides over a platform of logs. Not the most comfortable bed in the world, but it'll do.</HideBedDouble.description>
+  <HideBedDouble_Blueprint.label>double norbal bed (blueprint)</HideBedDouble_Blueprint.label>
+  <HideBedDouble_Blueprint_Install.label>double norbal bed (blueprint)</HideBedDouble_Blueprint_Install.label>
+  <HideBedDouble_Frame.label>double norbal bed (building)</HideBedDouble_Frame.label>
+  <HideBedDouble_Frame.description>This is an improvised bed made by placing leather hides over a platform of logs. Not the most comfortable bed in the world, but it'll do.</HideBedDouble_Frame.description>
+
+  <Bedroll.label>mattress bed</Bedroll.label>
+  <Bedroll.description>Sleeping on a platform of logs is as well and good, but a bit of padding goes a long way for a good night's sleep.</Bedroll.description>
+  <Bedroll_Blueprint.label>mattress bed (blueprint)</Bedroll_Blueprint.label>
+  <Bedroll_Blueprint_Install.label>mattress bed (blueprint)</Bedroll_Blueprint_Install.label>
+  <Bedroll_Frame.label>mattress bed (building)</Bedroll_Frame.label>
+  <Bedroll_Frame.description>Sleeping on a platform of logs is as well and good, but a bit of padding goes a long way for a good night's sleep.</Bedroll_Frame.description>
+
+  <BedrollDouble.label>mattress double bed</BedrollDouble.label>
+  <BedrollDouble.description>Sleeping on a platform of logs is as well and good, but a bit of padding goes a long way for a good night's sleep. Just big enough for accommodate two.</BedrollDouble.description>
+  <BedrollDouble_Blueprint.label>mattress double bed (blueprint)</BedrollDouble_Blueprint.label>
+  <BedrollDouble_Blueprint_Install.label>mattress double bed (blueprint)</BedrollDouble_Blueprint_Install.label>
+  <BedrollDouble_Frame.label>mattress double bed (building)</BedrollDouble_Frame.label>
+  <BedrollDouble_Frame.description>Sleeping on a platform of logs is as well and good, but a bit of padding goes a long way for a good night's sleep. Just big enough for accommodate two.</BedrollDouble_Frame.description>
+
+  <Bed.label>simple bed</Bed.label>
+  <Bed.description>A cozy mattress with sheets on a metal frame for resting.</Bed.description>
+  <Bed_Blueprint.label>simple bed (blueprint)</Bed_Blueprint.label>
+  <Bed_Blueprint_Install.label>simple bed (blueprint)</Bed_Blueprint_Install.label>
+  <Bed_Frame.label>simple bed (building)</Bed_Frame.label>
+  <Bed_Frame.description>A cozy mattress with sheets on a metal frame for resting.</Bed_Frame.description>
+
+  <DoubleBed.label>double bed</DoubleBed.label>
+  <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>
+  <DoubleBed_Blueprint.label>double bed (blueprint)</DoubleBed_Blueprint.label>
+  <DoubleBed_Blueprint_Install.label>double bed (blueprint)</DoubleBed_Blueprint_Install.label>
+  <DoubleBed_Frame.label>double bed (building)</DoubleBed_Frame.label>
+  <DoubleBed_Frame.description>A simple double-wide bed that fits two people.</DoubleBed_Frame.description>
+
+  <industrial_single_bed.label>industrial bed</industrial_single_bed.label>
+  <industrial_single_bed.description>A comfy bed. Fits one. The boom of industrial production led to the need of more qualified workers on the more developed Rimworlds. The constraints of space drove the development of more advanced furniture. As a result this quite simple bed design emerged.</industrial_single_bed.description>
+  <industrial_single_bed_Blueprint.label>industrial bed (blueprint)</industrial_single_bed_Blueprint.label>
+  <industrial_single_bed_Blueprint_Install.label>industrial bed (blueprint)</industrial_single_bed_Blueprint_Install.label>
+  <industrial_single_bed_Frame.label>industrial bed (building)</industrial_single_bed_Frame.label>
+  <industrial_single_bed_Frame.description>A comfy bed. Fits one. The boom of industrial production led to the need of more qualified workers on the more developed Rimworlds. The constraints of space drove the development of more advanced furniture. As a result this quite simple bed design emerged.</industrial_single_bed_Frame.description>
+
+  <industrial_double_bed.label>industrial double bed</industrial_double_bed.label>
+  <industrial_double_bed.description>A comfy bed. Fits two. The boom of industrial production led to the need of more qualified workers on the more developed Rimworlds. The constraints of space drove the development of more advanced furniture. As a result this quite simple bed design emerged.</industrial_double_bed.description>
+  <industrial_double_bed_Blueprint.label>industrial double bed (blueprint)</industrial_double_bed_Blueprint.label>
+  <industrial_double_bed_Blueprint_Install.label>industrial double bed (blueprint)</industrial_double_bed_Blueprint_Install.label>
+  <industrial_double_bed_Frame.label>industrial double bed (building)</industrial_double_bed_Frame.label>
+  <industrial_double_bed_Frame.description>A comfy bed. Fits two. The boom of industrial production led to the need of more qualified workers on the more developed Rimworlds. The constraints of space drove the development of more advanced furniture. As a result this quite simple bed design emerged.</industrial_double_bed_Frame.description>
+
 
   <!-- prison bed single right+top -->
 
-  <prison_single_bed_RT.label>囚床 (R)</prison_single_bed_RT.label>
-  <prison_single_bed_RT_Blueprint.label>囚床 (R) （蓝图）</prison_single_bed_RT_Blueprint.label>
-  <prison_single_bed_RT_Blueprint_Install.label>囚床 (R) （蓝图）</prison_single_bed_RT_Blueprint_Install.label>
-  <prison_single_bed_RT_Frame.label>囚床 (R) （建造中）</prison_single_bed_RT_Frame.label>
-  
+  <prison_single_bed_RT.label>prison bed (R)</prison_single_bed_RT.label>
+  <prison_single_bed_RT.description>A bed on a wall for your prisoners. Fits only one. No effort was spared to make this bed look like it came out of the darkest deepest dungeon. The least amount of comfort and a hard surface to sleep will let your prisoners stay alert to finer things of their stay. An art well known among the medieval lords of the Rimworlds.</prison_single_bed_RT.description>
+  <prison_single_bed_RT_Blueprint.label>prison bed (R) (blueprint)</prison_single_bed_RT_Blueprint.label>
+  <prison_single_bed_RT_Blueprint_Install.label>prison bed (R) (blueprint)</prison_single_bed_RT_Blueprint_Install.label>
+  <prison_single_bed_RT_Frame.label>prison bed (R) (building)</prison_single_bed_RT_Frame.label>
+  <prison_single_bed_RT_Frame.description>A bed on a wall for your prisoners. Fits only one. No effort was spared to make this bed look like it came out of the darkest deepest dungeon. The least amount of comfort and a hard surface to sleep will let your prisoners stay alert to finer things of their stay. An art well known among the medieval lords of the Rimworlds.</prison_single_bed_RT_Frame.description>
+
 
   <!-- prison bed single left+bottom -->
 
-  <prison_single_bed_LB.label>囚床 (L)</prison_single_bed_LB.label>
-  <prison_single_bed_LB_Blueprint.label>囚床 (L) （蓝图）</prison_single_bed_LB_Blueprint.label>
-  <prison_single_bed_LB_Blueprint_Install.label>囚床 (L) （蓝图）</prison_single_bed_LB_Blueprint_Install.label>
-  <prison_single_bed_LB_Frame.label>囚床 (L) （建造中）</prison_single_bed_LB_Frame.label>
-  
-  <MilleniumBed.label>千禧单人床</MilleniumBed.label>
-  <MilleniumBed.description>千禧风格单人床。</MilleniumBed.description>
-  <MilleniumBed_Blueprint.label>千禧单人床 （蓝图）</MilleniumBed_Blueprint.label>
-  <MilleniumBed_Blueprint_Install.label>千禧单人床 （蓝图）</MilleniumBed_Blueprint_Install.label>
-  <MilleniumBed_Frame.label>千禧单人床 （建造中）</MilleniumBed_Frame.label>
-  <MilleniumBed_Frame.description>千禧风格单人床。</MilleniumBed_Frame.description>
+  <prison_single_bed_LB.label>prison bed (L)</prison_single_bed_LB.label>
+  <prison_single_bed_LB.description>A bed on a wall for your prisoners. Fits only one. No effort was spared to make this bed look like it came out of the darkest deepest dungeon. The least amount of comfort and a hard surface to sleep will let your prisoners stay alert to finer things of their stay. An art well known among the medieval lords of the Rimworlds.</prison_single_bed_LB.description>
+  <prison_single_bed_LB_Blueprint.label>prison bed (L) (blueprint)</prison_single_bed_LB_Blueprint.label>
+  <prison_single_bed_LB_Blueprint_Install.label>prison bed (L) (blueprint)</prison_single_bed_LB_Blueprint_Install.label>
+  <prison_single_bed_LB_Frame.label>prison bed (L) (building)</prison_single_bed_LB_Frame.label>
+  <prison_single_bed_LB_Frame.description>A bed on a wall for your prisoners. Fits only one. No effort was spared to make this bed look like it came out of the darkest deepest dungeon. The least amount of comfort and a hard surface to sleep will let your prisoners stay alert to finer things of their stay. An art well known among the medieval lords of the Rimworlds.</prison_single_bed_LB_Frame.description>
 
-  <MilleniumDoubleBed.label>千禧双人床</MilleniumDoubleBed.label>
-  <MilleniumDoubleBed.description>千禧风格双人床。</MilleniumDoubleBed.description>
-  <MilleniumDoubleBed_Blueprint.label>千禧双人床 （蓝图）</MilleniumDoubleBed_Blueprint.label>
-  <MilleniumDoubleBed_Blueprint_Install.label>千禧双人床 （蓝图）</MilleniumDoubleBed_Blueprint_Install.label>
-  <MilleniumDoubleBed_Frame.label>千禧双人床 （建造中）</MilleniumDoubleBed_Frame.label>
-  <MilleniumDoubleBed_Frame.description>千禧风格双人床。</MilleniumDoubleBed_Frame.description>
+  <MilleniumBed.label>millenium bed</MilleniumBed.label>
+  <MilleniumBed.description>Millenium Line Bed.</MilleniumBed.description>
+  <MilleniumBed_Blueprint.label>millenium bed (blueprint)</MilleniumBed_Blueprint.label>
+  <MilleniumBed_Blueprint_Install.label>millenium bed (blueprint)</MilleniumBed_Blueprint_Install.label>
+  <MilleniumBed_Frame.label>millenium bed (building)</MilleniumBed_Frame.label>
+  <MilleniumBed_Frame.description>Millenium Line Bed.</MilleniumBed_Frame.description>
+
+  <MilleniumDoubleBed.label>millenium double bed</MilleniumDoubleBed.label>
+  <MilleniumDoubleBed.description>Millenium Line Double bed.</MilleniumDoubleBed.description>
+  <MilleniumDoubleBed_Blueprint.label>millenium double bed (blueprint)</MilleniumDoubleBed_Blueprint.label>
+  <MilleniumDoubleBed_Blueprint_Install.label>millenium double bed (blueprint)</MilleniumDoubleBed_Blueprint_Install.label>
+  <MilleniumDoubleBed_Frame.label>millenium double bed (building)</MilleniumDoubleBed_Frame.label>
+  <MilleniumDoubleBed_Frame.description>Millenium Line Double bed.</MilleniumDoubleBed_Frame.description>
 
 
   <!-- heart double bed -->
 
-  <RoyalBed.label>爱之巢双人床</RoyalBed.label>
-  <RoyalBed_Blueprint.label>爱之巢双人床 （蓝图）</RoyalBed_Blueprint.label>
-  <RoyalBed_Blueprint_Install.label>爱之巢双人床 （蓝图）</RoyalBed_Blueprint_Install.label>
-  <RoyalBed_Frame.label>爱之巢双人床 （建造中）</RoyalBed_Frame.label>
-  
+  <RoyalBed.label>lover's double bed</RoyalBed.label>
+  <RoyalBed.description>A comfy bed for your lovers. Fits two. The Model "heart-3000" is very popular in the more develpoed Rimworlds. It's mostly bought by couples and owners of certain establishments. Due to the Rimworlds not being the safest place and in the face of a possible sudden death the delieveries to the colonies in the Rimworlds have doubled over the years. Followed by a "mysterious" increase in population on these planets.</RoyalBed.description>
+  <RoyalBed_Blueprint.label>lover's double bed (blueprint)</RoyalBed_Blueprint.label>
+  <RoyalBed_Blueprint_Install.label>lover's double bed (blueprint)</RoyalBed_Blueprint_Install.label>
+  <RoyalBed_Frame.label>lover's double bed (building)</RoyalBed_Frame.label>
+  <RoyalBed_Frame.description>A comfy bed for your lovers. Fits two. The Model "heart-3000" is very popular in the more develpoed Rimworlds. It's mostly bought by couples and owners of certain establishments. Due to the Rimworlds not being the safest place and in the face of a possible sudden death the delieveries to the colonies in the Rimworlds have doubled over the years. Followed by a "mysterious" increase in population on these planets.</RoyalBed_Frame.description>
+
 
   <!-- pod beds -->
 
-  <PodBed.label>休息仓</PodBed.label>
-  <PodBed_Blueprint.label>休息仓 （蓝图）</PodBed_Blueprint.label>
-  <PodBed_Blueprint_Install.label>休息仓 （蓝图）</PodBed_Blueprint_Install.label>
-  <PodBed_Frame.label>休息仓 （建造中）</PodBed_Frame.label>
-  
-  <space_double_bed.label>双人休息仓</space_double_bed.label>
-  <space_double_bed_Blueprint.label>双人休息仓 （蓝图）</space_double_bed_Blueprint.label>
-  <space_double_bed_Blueprint_Install.label>双人休息仓 （蓝图）</space_double_bed_Blueprint_Install.label>
-  <space_double_bed_Frame.label>双人休息仓 （建造中）</space_double_bed_Frame.label>
-  
+  <PodBed.label>pod bed</PodBed.label>
+  <PodBed.description>A futuristic bed with high rest effectiveness.</PodBed.description>
+  <PodBed_Blueprint.label>pod bed (blueprint)</PodBed_Blueprint.label>
+  <PodBed_Blueprint_Install.label>pod bed (blueprint)</PodBed_Blueprint_Install.label>
+  <PodBed_Frame.label>pod bed (building)</PodBed_Frame.label>
+  <PodBed_Frame.description>A futuristic bed with high rest effectiveness.</PodBed_Frame.description>
+
+  <space_double_bed.label>double pod bed</space_double_bed.label>
+  <space_double_bed.description>A comfy bed. Fits two. On the task of "going to space" this bed was literally first developed as a small spacecraft. After this fatal first mistake the possibility to sleep inside and a bit more comfort was added. This didn't prevent the advertising agency from using the terms "fly in your sleep" and "sleeping on clouds". After several lawsuits from customers with strange injuries the advertisment changed to a more down-to-earth direction.</space_double_bed.description>
+  <space_double_bed_Blueprint.label>double pod bed (blueprint)</space_double_bed_Blueprint.label>
+  <space_double_bed_Blueprint_Install.label>double pod bed (blueprint)</space_double_bed_Blueprint_Install.label>
+  <space_double_bed_Frame.label>double pod bed (building)</space_double_bed_Frame.label>
+  <space_double_bed_Frame.description>A comfy bed. Fits two. On the task of "going to space" this bed was literally first developed as a small spacecraft. After this fatal first mistake the possibility to sleep inside and a bit more comfort was added. This didn't prevent the advertising agency from using the terms "fly in your sleep" and "sleeping on clouds". After several lawsuits from customers with strange injuries the advertisment changed to a more down-to-earth direction.</space_double_bed_Frame.description>
+
 
   <!-- cryo beds -->
 
-  <cryo_single_bed.label>未来型单人床</cryo_single_bed.label>
-  <cryo_single_bed_Blueprint.label>未来型单人床 （蓝图）</cryo_single_bed_Blueprint.label>
-  <cryo_single_bed_Blueprint_Install.label>未来型单人床 （蓝图）</cryo_single_bed_Blueprint_Install.label>
-  <cryo_single_bed_Frame.label>未来型单人床 （建造中）</cryo_single_bed_Frame.label>
-  
-  <cryo_double_bed.label>未来型双人床</cryo_double_bed.label>
-  <cryo_double_bed_Blueprint.label>未来型双人床 （蓝图）</cryo_double_bed_Blueprint.label>
-  <cryo_double_bed_Blueprint_Install.label>未来型双人床 （蓝图）</cryo_double_bed_Blueprint_Install.label>
-  <cryo_double_bed_Frame.label>未来型双人床 （建造中）</cryo_double_bed_Frame.label>
-  
+  <cryo_single_bed.label>futuristic single bed</cryo_single_bed.label>
+  <cryo_single_bed.description>A comfy futuristic bed. Fits one. During the research of cryptosleep the possibilty of a short sleeping cycle based on this technology emerged. However most people still refuse to use these beds in fear of never waking up or losing several years by accident. This lead to several Rimworld legends although all exposed by scientists as fictional storys many people fear the device.</cryo_single_bed.description>
+  <cryo_single_bed_Blueprint.label>futuristic single bed (blueprint)</cryo_single_bed_Blueprint.label>
+  <cryo_single_bed_Blueprint_Install.label>futuristic single bed (blueprint)</cryo_single_bed_Blueprint_Install.label>
+  <cryo_single_bed_Frame.label>futuristic single bed (building)</cryo_single_bed_Frame.label>
+  <cryo_single_bed_Frame.description>A comfy futuristic bed. Fits one. During the research of cryptosleep the possibilty of a short sleeping cycle based on this technology emerged. However most people still refuse to use these beds in fear of never waking up or losing several years by accident. This lead to several Rimworld legends although all exposed by scientists as fictional storys many people fear the device.</cryo_single_bed_Frame.description>
+
+  <cryo_double_bed.label>futuristic double bed</cryo_double_bed.label>
+  <cryo_double_bed.description>A comfy futuristic bed. Fits two. During the research of cryptosleep the possibilty of a short sleeping cycle based on this technology emerged. However most people still refuse to use these beds in fear of never waking up or losing several years by accident. This lead to several Rimworld legends although all exposed by scientists as fictional storys many people fear the device.</cryo_double_bed.description>
+  <cryo_double_bed_Blueprint.label>futuristic double bed (blueprint)</cryo_double_bed_Blueprint.label>
+  <cryo_double_bed_Blueprint_Install.label>futuristic double bed (blueprint)</cryo_double_bed_Blueprint_Install.label>
+  <cryo_double_bed_Frame.label>futuristic double bed (building)</cryo_double_bed_Frame.label>
+  <cryo_double_bed_Frame.description>A comfy futuristic bed. Fits two. During the research of cryptosleep the possibilty of a short sleeping cycle based on this technology emerged. However most people still refuse to use these beds in fear of never waking up or losing several years by accident. This lead to several Rimworld legends although all exposed by scientists as fictional storys many people fear the device.</cryo_double_bed_Frame.description>
+
 
   <!-- hospital beds -->
 
-  <HospitalBed.label>医疗床</HospitalBed.label>
-  <HospitalBed.description>一张专为伤员设计的床。可以增加治疗的成功率。</HospitalBed.description>
-  <HospitalBed_Blueprint.label>医疗床 （蓝图）</HospitalBed_Blueprint.label>
-  <HospitalBed_Blueprint_Install.label>医疗床 （蓝图）</HospitalBed_Blueprint_Install.label>
-  <HospitalBed_Frame.label>医疗床 （建造中）</HospitalBed_Frame.label>
-  <HospitalBed_Frame.description>一张专为伤员设计的床。可以增加治疗的成功率。</HospitalBed_Frame.description>
+  <HospitalBed.label>hospital bed</HospitalBed.label>
+  <HospitalBed.description>A bed specially designed for injured people. Improves the chance of successful medical work.</HospitalBed.description>
+  <HospitalBed_Blueprint.label>hospital bed (blueprint)</HospitalBed_Blueprint.label>
+  <HospitalBed_Blueprint_Install.label>hospital bed (blueprint)</HospitalBed_Blueprint_Install.label>
+  <HospitalBed_Frame.label>hospital bed (building)</HospitalBed_Frame.label>
+  <HospitalBed_Frame.description>A bed specially designed for injured people. Improves the chance of successful medical work.</HospitalBed_Frame.description>
 
-  <AdvHospitalBed.label>先进医疗床</AdvHospitalBed.label>
-  <AdvHospitalBed.description>一张技术程度更高的专为医疗工作设计的床。可以大大增加治疗的成功率。</AdvHospitalBed.description>
-  <AdvHospitalBed_Blueprint.label>先进医疗床 （蓝图）</AdvHospitalBed_Blueprint.label>
-  <AdvHospitalBed_Blueprint_Install.label>先进医疗床 （蓝图）</AdvHospitalBed_Blueprint_Install.label>
-  <AdvHospitalBed_Frame.label>先进医疗床 （建造中）</AdvHospitalBed_Frame.label>
-  <AdvHospitalBed_Frame.description>一张技术程度更高的专为医疗工作设计的床。可以大大增加治疗的成功率。</AdvHospitalBed_Frame.description>
+  <AdvHospitalBed.label>advanced hospital bed</AdvHospitalBed.label>
+  <AdvHospitalBed.description>An advanced bed specially designed to treat injured people. Improves the chance of successful medical work even more than the hospital bed.</AdvHospitalBed.description>
+  <AdvHospitalBed_Blueprint.label>advanced hospital bed (blueprint)</AdvHospitalBed_Blueprint.label>
+  <AdvHospitalBed_Blueprint_Install.label>advanced hospital bed (blueprint)</AdvHospitalBed_Blueprint_Install.label>
+  <AdvHospitalBed_Frame.label>advanced hospital bed (building)</AdvHospitalBed_Frame.label>
+  <AdvHospitalBed_Frame.description>An advanced bed specially designed to treat injured people. Improves the chance of successful medical work even more than the hospital bed.</AdvHospitalBed_Frame.description>
 
 
 </LanguageData>

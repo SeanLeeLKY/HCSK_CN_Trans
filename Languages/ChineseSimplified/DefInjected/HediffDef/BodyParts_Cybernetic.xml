@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- cybernetic parts -->
+
+  <GTEar.label>cybernetic bionic ear</GTEar.label>
+  <GTEar.description>An installed the advanced version of the bionic ear. The second generation of bionic upgrades, typically reserved for top brass military forces.</GTEar.description>
+  <GTEar.labelNoun>a cybernetic bionic ear</GTEar.labelNoun>
+
+  <ArchotechEye.label>cybernetic bionic eye</ArchotechEye.label>
+  <ArchotechEye.description>An installed the advanced version of the bionic eye. The second generation of bionic upgrades, typically reserved for top brass military forces.</ArchotechEye.description>
+  <ArchotechEye.labelNoun>a cybernetic bionic eye</ArchotechEye.labelNoun>
+
+  <ArchotechArm.label>cybernetic bionic arm</ArchotechArm.label>
+  <ArchotechArm.description>An installed the second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible strength. You may destroy your opponents limbs in a fist fight...not recomended for wardens.</ArchotechArm.description>
+  <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechArm.labelNoun>a cybernetic bionic arm</ArchotechArm.labelNoun>
+
+  <ArchotechLeg.label>cybernetic bionic leg</ArchotechLeg.label>
+  <ArchotechLeg.description>An installed the second generation of bionic upgrades, using nano fibres to produce artificial muscles. Give the owner incredible speed</ArchotechLeg.description>
+  <ArchotechLeg.labelNoun>a cybernetic bionic leg</ArchotechLeg.labelNoun>
+
+  <GTHeart.label>cybernetic heart</GTHeart.label>
+  <GTHeart.description>An installed powerful cardiac augmentation, replacing standard human hearts. Safely manages very high blood flow without overwhelming standard body parts.</GTHeart.description>
+  <GTHeart.labelNoun>a cybernetic heart</GTHeart.labelNoun>
+
+  <GTLung.label>cybernetic lung</GTLung.label>
+  <GTLung.description>An installed powerful vascular augmentation, replacing standard human lungs. The perfect pairing with a cybernetic heart, this increases circulatory speed, increasing efficiency.</GTLung.description>
+  <GTLung.labelNoun>a cybernetic lung</GTLung.labelNoun>
+
+  <GTKidney.label>cybernetic kidney</GTKidney.label>
+  <GTKidney.description>An installed powerful abdominal augmentation, replacing standard human kidneys. Increasing blood filtration efficiency.</GTKidney.description>
+  <GTKidney.labelNoun>a cybernetic kidney</GTKidney.labelNoun>
+
+  <GTLiver.label>cybernetic liver</GTLiver.label>
+  <GTLiver.description>An installed powerful abdominal augmentation, replacing standard human livers. Increasing blood filtration efficiency and metabolic efficiency.</GTLiver.description>
+  <GTLiver.labelNoun>a cybernetic liver</GTLiver.labelNoun>
+
+  <GTStomach.label>cybernetic stomach</GTStomach.label>
+  <GTStomach.description>An installed powerful abdominal augmentation, replacing standard human stomachs. Increasing digestion efficiency and metabolic efficiency.</GTStomach.description>
+  <GTStomach.labelNoun>a cybernetic stomach</GTStomach.labelNoun>
+
+  <GTHand.label>cybernetic bionic hand</GTHand.label>
+  <GTHand.description>An installed powerful abdominal augmentation, replacing standard human stomachs. Increasing digestion efficiency and metabolic efficiency.</GTHand.description>
+  <GTHand.labelNoun>a cybernetic bionic hand</GTHand.labelNoun>
+
+  <GTFoot.label>cybernetic bionic foot</GTFoot.label>
+  <GTFoot.description>An installed the second generation of bionic upgrades, using nano fibres to produce artificial muscles. The more limited version of leg upgrades, just replacing feet.</GTFoot.description>
+  <GTFoot.labelNoun>a cybernetic bionic foot</GTFoot.labelNoun>
+
+  <GTDentures.label>cybernetic jaw implant</GTDentures.label>
+  <GTDentures.description>An installed the second generation of bionic upgrades, using nano machinery to break down food instantly with minimal effort.</GTDentures.description>
+  <GTDentures.labelNoun>a cybernetic jaw implant</GTDentures.labelNoun>
+
+  <GTSpine.label>cybernetic bionic spine</GTSpine.label>
+  <GTSpine.description>An installed the most crucial part of the human body improved with the best available nano materials. Greatly imroved manipulation and movement.</GTSpine.description>
+  <GTSpine.labelNoun>a cybernetic bionic spine</GTSpine.labelNoun>
+
+
+</LanguageData>

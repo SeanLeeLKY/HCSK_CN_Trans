@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildAssaultRifle.label>制造 M16 突击步枪</BuildAssaultRifle.label>
-  <BuildAssaultRifle.description>制造一把M16突击步枪，一种可以通用于城市交战或者野战的武器。可以设置3发短点射模式。\n弹药： 5.56x45mm 北约标准弹</BuildAssaultRifle.description>
-  <BuildAssaultRifle.jobString>正在制造 M16 突击步枪。</BuildAssaultRifle.jobString>
+  <BuildAssaultRifle.label>Build M16 Rifle</BuildAssaultRifle.label>
+  <BuildAssaultRifle.description>Builds a general-purpose military assault rifle for field or urban combat. Fires a 3-round burst.\nCaliber: 5.56x45mm NATO</BuildAssaultRifle.description>
+  <BuildAssaultRifle.jobString>Building M16 Rifle.</BuildAssaultRifle.jobString>
 
-  <BuildSG553Gun.label>制造 SIG SG553 突击步枪</BuildSG553Gun.label>
-  <BuildSG553Gun.description>SIG SG553突击步枪是SG552的改进型，属于SIG SG550类型武器中的SBR(短管步枪)版本。威力和射程都比较平均，射速和精度较为不错。\n弹药： 5.56x45mm 北约标准弹</BuildSG553Gun.description>
-  <BuildSG553Gun.jobString>正在制造 SIG SG553 突击步枪。</BuildSG553Gun.jobString>
+  <BuildSG553Gun.label>Build SIG SG553</BuildSG553Gun.label>
+  <BuildSG553Gun.description>The SIG SG553, a slightly improved version of the SG552, is the SBR (Short Barrel Rifle) version of the SIG SG550. Average damage and range, good rate of fire and accurracy.\nCaliber: 5.56x45mm NATO</BuildSG553Gun.description>
+  <BuildSG553Gun.jobString>Building SIG SG553.</BuildSG553Gun.jobString>
 
-  <BuildAUG.label>制造 斯太尔 AUG A3 突击步枪</BuildAUG.label>
-  <BuildAUG.description>斯太尔AUG伞兵用冲锋枪是1977年奥地利斯太尔-曼利夏（Steyr Mannlicher）公司推出的军用自动步枪，是史上首次正式列装、实际采用无托式设计的军用步枪。 威力一般，但是射程和精度都不错，射击速率较低。\n弹药： 5.56x45mm 北约标准弹</BuildAUG.description>
-  <BuildAUG.jobString>正在制造 斯太尔 AUG A3 突击步枪。</BuildAUG.jobString>
+  <BuildAUG.label>Build Steyr AUG A3</BuildAUG.label>
+  <BuildAUG.description>The Steyr AUG  A3 is an Austrian bullpup 5.56×45mm NATO assault rifle, designed in the 1960s by Steyr Mannlicher GmbH. Average damage, good range, good accuracy and low rate of fire.\nCaliber: 5.56x45mm NATO</BuildAUG.description>
+  <BuildAUG.jobString>Building Steyr AUG A3.</BuildAUG.jobString>
 
-  <BuildSCAR_H.label>制造 FN SCAR-H 突击步枪</BuildSCAR_H.label>
-  <BuildSCAR_H.description>特种作战部队战斗突击步枪（Special Operations Forces Combat Assault Rifle——SCAR）是一种配有旋转螺栓的气动自装载步枪。威力较强，射程和精度也不错，但是射击速率较低。\n弹药： 7.62x51mm 北约标准弹</BuildSCAR_H.description>
-  <BuildSCAR_H.jobString>正在制造 FN SCAR-H 突击步枪。</BuildSCAR_H.jobString>
+  <BuildSCAR_H.label>Build FN SCAR-H</BuildSCAR_H.label>
+  <BuildSCAR_H.description>The Special Operations Forces Combat Assault Rifle (SCAR) is a gas-operated self-loading rifle with a rotating bolt. Good damage, good range, good accuracy and low rate of fire.\nCaliber: 7.62x51mm NATO</BuildSCAR_H.description>
+  <BuildSCAR_H.jobString>Building FN SCAR-H.</BuildSCAR_H.jobString>
 
-  <BuildFAMAS.label>制造 FAMAS G2 突击步枪</BuildFAMAS.label>
-  <BuildFAMAS.description>FAMAS G2 是一种无托结构的突击步枪。射程和威力较为一般，但是射速和精度还算不错。\n弹药： 5.56x45mm 北约标准弹</BuildFAMAS.description>
-  <BuildFAMAS.jobString>正在制造 FAMAS G2 突击步枪。</BuildFAMAS.jobString>
+  <BuildFAMAS.label>Build FAMAS G2</BuildFAMAS.label>
+  <BuildFAMAS.description>The FAMAS is a bullpup-styled assault rifle. Average damage and range, good rate of fire and accurracy.\nCaliber: 5.56x45mm NATO</BuildFAMAS.description>
+  <BuildFAMAS.jobString>Building FAMAS G2.</BuildFAMAS.jobString>
 
-  <BuildXM8MilitaryRifle.label>制造 HK XM8 军用突击步枪</BuildXM8MilitaryRifle.label>
-  <BuildXM8MilitaryRifle.description>制造 HK XM8 军用突击步枪，一种经典型号的军用制式武器。 拥有3发点射模式。射程较佳，威力不高但是射速不错。\n弹药： 5.56x45mm 北约标准弹</BuildXM8MilitaryRifle.description>
-  <BuildXM8MilitaryRifle.jobString>正在制造 HK XM8 军用突击步枪。</BuildXM8MilitaryRifle.jobString>
+  <BuildXM8MilitaryRifle.label>Build HK XM8 Military Rifle</BuildXM8MilitaryRifle.label>
+  <BuildXM8MilitaryRifle.description>Builds the HK XM8 Military Rifle, an ancient pattern military weapon. Three-round burst. Good range, low power an high rate of fire.\nCaliber: 5.56x45mm NATO</BuildXM8MilitaryRifle.description>
+  <BuildXM8MilitaryRifle.jobString>Building HK XM8 Military Rifle.</BuildXM8MilitaryRifle.jobString>
 
-  <BuildAK47Gun.label>制造 AK-47 突击步枪</BuildAK47Gun.label>
-  <BuildAK47Gun.description>制造 AK-47 突击步枪，一种气动自装填式的突击步枪，皮实耐操。 威力不俗，但是射程和射速都比较普通，精度较低。\n弹药： 7.62x39mm 苏制弹药</BuildAK47Gun.description>
-  <BuildAK47Gun.jobString>正在制造 AK-47 突击步枪。</BuildAK47Gun.jobString>
+  <BuildAK47Gun.label>Build AK-47</BuildAK47Gun.label>
+  <BuildAK47Gun.description>Builds the AK-47, a selective-fire, gas-operated assault rifle. Good damage, average range and rate of fire but poor accuracy.\nCaliber: 7.62x39mm Soviet</BuildAK47Gun.description>
+  <BuildAK47Gun.jobString>Building AK-47.</BuildAK47Gun.jobString>
 
-  <BuildTacticalCombatrifle.label>制造 MA5 突击步枪</BuildTacticalCombatrifle.label>
-  <BuildTacticalCombatrifle.description>制造 MA5 （Individual Combat Weapon System——ICWS单兵战斗武器系统）突击步枪。是UNSC防卫力量主力制式制式单兵战斗武器系统。（PS：此武器来源于《光晕》）\n弹药： 5.56x45mm 北约标准弹</BuildTacticalCombatrifle.description>
-  <BuildTacticalCombatrifle.jobString>正在制造 MA5 突击步枪。</BuildTacticalCombatrifle.jobString>
+  <BuildTacticalCombatrifle.label>Build MA5 ICWS</BuildTacticalCombatrifle.label>
+  <BuildTacticalCombatrifle.description>Builds the MA5 Individual Combat Weapon System (MA5 ICWS or MA5 Assault rifle). It is a standard-issue service rifle of the UNSC Marines.\nCaliber: 5.56x45mm NATO</BuildTacticalCombatrifle.description>
+  <BuildTacticalCombatrifle.jobString>Building MA5 ICWS.</BuildTacticalCombatrifle.jobString>
 
-  <BuildMarineSturmRifle.label>制造 塔沃尔 TAR-21 突击步枪</BuildMarineSturmRifle.label>
-  <BuildMarineSturmRifle.description>制造 塔沃尔 TAR-21 突击步枪，拥有5发短点射模式。\n弹药： 5.56x45mm 北约标准弹</BuildMarineSturmRifle.description>
-  <BuildMarineSturmRifle.jobString>正在制造 TAR-21 突击步枪。</BuildMarineSturmRifle.jobString>
+  <BuildMarineSturmRifle.label>Build Tavor TAR-21</BuildMarineSturmRifle.label>
+  <BuildMarineSturmRifle.description>Builds the Tavor TAR-21. Fires a 5 round burst.\nCaliber: 5.56x45mm NATO</BuildMarineSturmRifle.description>
+  <BuildMarineSturmRifle.jobString>Building TAR-21.</BuildMarineSturmRifle.jobString>
 
 
 </LanguageData>

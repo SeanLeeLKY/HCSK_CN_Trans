@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mutant_Ogre.label>Mutant</Mutant_Ogre.label>
+  <Mutant_Ogre.description>Originally designed for construction and heavy industry, the Ogron™ is a large, tough, thickheaded xenohuman. In rimworld condition, Many feral clans use them as brutal war beasts.</Mutant_Ogre.description>
+  <Mutant_Ogre.tools.0.label>left fist</Mutant_Ogre.tools.0.label>
+  <Mutant_Ogre.tools.1.label>right fist</Mutant_Ogre.tools.1.label>
+  <Mutant_Ogre.tools.2.label>head</Mutant_Ogre.tools.2.label>
+  <Mutant_Ogre_Leather.label>Mutant leather</Mutant_Ogre_Leather.label>
+  <Mutant_Ogre_Leather.description>Mutant leather</Mutant_Ogre_Leather.description>
+  <Mutant_Ogre_Leather.stuffProps.stuffAdjective>Mutant leather</Mutant_Ogre_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Mutant_Ogre_Corpse.label>Mutant corpse</Mutant_Ogre_Corpse.label>
+  <Mutant_Ogre_Corpse.description>Mutant corpse</Mutant_Ogre_Corpse.description>
+
+
+</LanguageData>

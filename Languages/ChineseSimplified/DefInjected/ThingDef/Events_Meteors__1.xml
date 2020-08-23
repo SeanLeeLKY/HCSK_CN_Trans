@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SandstoneBoulder.label>砂岩陨石</SandstoneBoulder.label>
+  
+
+  <SlateBoulder.label>板岩陨石</SlateBoulder.label>
+  <SlateBoulder.description>A Meteorite mineable for Slate。</SlateBoulder.description>
+
+  <IronBoulder.label>铁核陨石</IronBoulder.label>
+ 
+
+  <LimestoneBoulder.label>石灰岩陨石</LimestoneBoulder.label>
+ 
+  <GraniteBoulder.label>花岗岩陨石</GraniteBoulder.label>
+   
+
+  <CopperBoulder.label>铜核陨石</CopperBoulder.label>
+  
+  <MarbleBoulder.label>大理石陨石</MarbleBoulder.label>
+  
+  <MineralBoulder.label>铁核陨石</MineralBoulder.label>
+   
+  <SilverBoulder.label>银核陨石</SilverBoulder.label>
+  
+  <AluminiumBoulder.label>铝核陨石</AluminiumBoulder.label>
+  
+  <UraniumBoulder.label>铀核陨石</UraniumBoulder.label>
+  
+  <BigIronBoulder.label>巨型陨石</BigIronBoulder.label>
+ 
+  <MeteorIncoming.label>陨石来袭！</MeteorIncoming.label>
+  <Thing_MeteorSpawner.label>陨石生成器</Thing_MeteorSpawner.label>
+  <Meteor.label>陨石</Meteor.label>
+
+
+</LanguageData>

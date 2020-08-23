@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimFridge_SingleWallRefrigerator.label>Wall Single Refrigerator</RimFridge_SingleWallRefrigerator.label>
+  <RimFridge_SingleWallRefrigerator.description>Rottable things stored in this will not spoil.</RimFridge_SingleWallRefrigerator.description>
+  <RimFridge_SingleWallRefrigerator_Blueprint.label>Wall Single Refrigerator (blueprint)</RimFridge_SingleWallRefrigerator_Blueprint.label>
+  <RimFridge_SingleWallRefrigerator_Blueprint_Install.label>Wall Single Refrigerator (blueprint)</RimFridge_SingleWallRefrigerator_Blueprint_Install.label>
+  <RimFridge_SingleWallRefrigerator_Frame.label>Wall Single Refrigerator (building)</RimFridge_SingleWallRefrigerator_Frame.label>
+  <RimFridge_SingleWallRefrigerator_Frame.description>Rottable things stored in this will not spoil.</RimFridge_SingleWallRefrigerator_Frame.description>
+
+  <RimFridge_WallRefrigerator.label>Wall Dual Refrigerator</RimFridge_WallRefrigerator.label>
+  <RimFridge_WallRefrigerator.description>Rottable things stored in this will not spoil.</RimFridge_WallRefrigerator.description>
+  <RimFridge_WallRefrigerator_Blueprint.label>Wall Dual Refrigerator (blueprint)</RimFridge_WallRefrigerator_Blueprint.label>
+  <RimFridge_WallRefrigerator_Blueprint_Install.label>Wall Dual Refrigerator (blueprint)</RimFridge_WallRefrigerator_Blueprint_Install.label>
+  <RimFridge_WallRefrigerator_Frame.label>Wall Dual Refrigerator (building)</RimFridge_WallRefrigerator_Frame.label>
+  <RimFridge_WallRefrigerator_Frame.description>Rottable things stored in this will not spoil.</RimFridge_WallRefrigerator_Frame.description>
+
+
+</LanguageData>

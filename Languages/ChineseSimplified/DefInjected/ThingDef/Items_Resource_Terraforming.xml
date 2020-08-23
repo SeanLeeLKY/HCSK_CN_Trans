@@ -3,23 +3,26 @@
 
   <!-- Terraforming -->
 
-  <Dirt.label>土堆</Dirt.label>
-  
-  <Sand.label>沙</Sand.label>
-  
-  <CrushedStone.label>碎石</CrushedStone.label>
-  
-  <Compost.label>堆肥料</Compost.label>
- 
+  <Dirt.label>Pile of dirt</Dirt.label>
+  <Dirt.description>Simple soil dug out of the ground.</Dirt.description>
 
-  <Fertilizer.label>肥料</Fertilizer.label>
- 
+  <SandResource.label>Sand</SandResource.label>
+  <SandResource.description>Sand can be crushed from Rubble or gathered from the ground. It is a necessary ingredient in making Glass Batch and Silicon.</SandResource.description>
 
-  <RottedMeat.label>腐肉</RottedMeat.label>
-  
+  <CrushedStone.label>rubble</CrushedStone.label>
+  <CrushedStone.description>Rough Rubble stones are created by smashing stone chunks or blocks. It can be gathered from gravel on the ground. It is a useful ingredient for concrete. It can also be smashed further to produce Sand.</CrushedStone.description>
 
-  <RottedMush.label>腐烂物</RottedMush.label>
-  
+  <Compost.label>compost</Compost.label>
+  <Compost.description>A mix of food wastes. Rather disgusting, but useful if you want to make fertilizer.</Compost.description>
+
+  <Fertilizer.label>fertilizer</Fertilizer.label>
+  <Fertilizer.description>Fertilizer enhances soil to speed the growth of plants.</Fertilizer.description>
+
+  <RottedMeat.label>rotted meat</RottedMeat.label>
+  <RottedMeat.description>This apparently used to be meat of some sort, but now it's just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else.</RottedMeat.description>
+
+  <RottedMush.label>rotted mush</RottedMush.label>
+  <RottedMush.description>Whatever this used to be, it's now just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else.</RottedMush.description>
 
 
 </LanguageData>

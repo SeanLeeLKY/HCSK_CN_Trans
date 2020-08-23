@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doors -->
+
+  <AutoDoorGlass.label>autodoor</AutoDoorGlass.label>
+  <AutoDoorGlass.description>Divides rooms. Powered operation allows people to move through the door without slowing down. Allows light to pass through.</AutoDoorGlass.description>
+  <AutoDoorGlass_Blueprint.label>autodoor (blueprint)</AutoDoorGlass_Blueprint.label>
+  <AutoDoorGlass_Frame.label>autodoor (building)</AutoDoorGlass_Frame.label>
+  <AutoDoorGlass_Frame.description>Divides rooms. Powered operation allows people to move through the door without slowing down. Allows light to pass through.</AutoDoorGlass_Frame.description>
+
+  <DoorGlass.label>door</DoorGlass.label>
+  <DoorGlass.description>Divides rooms. Allows light to pass through.</DoorGlass.description>
+  <DoorGlass_Blueprint.label>door (blueprint)</DoorGlass_Blueprint.label>
+  <DoorGlass_Frame.label>door (building)</DoorGlass_Frame.label>
+  <DoorGlass_Frame.description>Divides rooms. Allows light to pass through.</DoorGlass_Frame.description>
+
+
+  <!-- Walls -->
+
+  <Window.label>window</Window.label>
+  <Window.description>It's like a wall but it lets light through.</Window.description>
+  <Window_Blueprint.label>window (blueprint)</Window_Blueprint.label>
+  <Window_Frame.label>window (building)</Window_Frame.label>
+  <Window_Frame.description>It's like a wall but it lets light through.</Window_Frame.description>
+
+
+</LanguageData>

@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HungerState.label>饥饿状态</HungerState.label>
-  <HungerState.beginLetter>动物处于攻击状态</HungerState.beginLetter>
-  <HungerState.beginLetterLabel>攻击状态</HungerState.beginLetterLabel>
-  <HungerState.recoveryMessage></HungerState.recoveryMessage>
-  <HungerState.baseInspectLine>精神状态: 饥饿引发的攻击状态</HungerState.baseInspectLine>
+  <HungerState.label>hunger state</HungerState.label>
+  <HungerState.beginLetter>{0} has in aggressive state!</HungerState.beginLetter>
+  <HungerState.recoveryMessage>{0}'s aggressive bloodlust has come to an end.</HungerState.recoveryMessage>
+  <HungerState.baseInspectLine>Mental state: The hunger made aggressive</HungerState.baseInspectLine>
 
 
 </LanguageData>

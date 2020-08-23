@@ -1,34 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- MOSIN-NAGANT M91 -->
+  <!-- LEE-ENFIELD -->
 
-  <RF_Gun_Mosin.label>M91莫辛-纳甘</RF_Gun_Mosin.label>
-  
+  <Gun_BoltActionRifle.label>Lee-Enfield</Gun_BoltActionRifle.label>
+  <Gun_BoltActionRifle.description>Ancient bolt-action rifle. Good range, Good power, low rate of fire.</Gun_BoltActionRifle.description>
+  <Gun_BoltActionRifle.tools.0.label>stock</Gun_BoltActionRifle.tools.0.label>
+  <Gun_BoltActionRifle.tools.1.label>barrel</Gun_BoltActionRifle.tools.1.label>
+  <Gun_BoltActionRifle.tools.2.label>muzzle</Gun_BoltActionRifle.tools.2.label>
 
-  <!-- AKS-74U -->
-
-  <Gun_AKS74U.label>AKS-74U卡宾枪</Gun_AKS74U.label>
-  
 
   <!-- BERETTA CX4 -->
 
-  <RF_Gun_CXfour.label>贝瑞塔CX4卡宾枪</RF_Gun_CXfour.label>
-  
+  <RF_Gun_CXfour.label>Beretta CX4</RF_Gun_CXfour.label>
+  <RF_Gun_CXfour.description>A highly reliable, compact pistol calibre carbine designed to fire pistol rounds up to rifle range. Below average damage, average fire rate, above average range and fires in two round burst.</RF_Gun_CXfour.description>
+  <RF_Gun_CXfour.tools.0.label>stock</RF_Gun_CXfour.tools.0.label>
+  <RF_Gun_CXfour.tools.1.label>barrel</RF_Gun_CXfour.tools.1.label>
+  <RF_Gun_CXfour.tools.2.label>muzzle</RF_Gun_CXfour.tools.2.label>
 
-  <!-- RUGER PC-9 -->
-
-  <RF_Gun_PCnine.label>鲁格PC-9</RF_Gun_PCnine.label>
-  
 
   <!-- HK USC -->
 
-  <RF_Gun_USC.label>HK USC卡宾枪</RF_Gun_USC.label>
-  
+  <RF_Gun_USC.label>HK USC</RF_Gun_USC.label>
+  <RF_Gun_USC.description>A stable semi-automatic pistol calibre carbine with low kickback and an unusual stock design. Average damage, above average fire rate and range, fires three round bursts.</RF_Gun_USC.description>
+  <RF_Gun_USC.tools.0.label>stock</RF_Gun_USC.tools.0.label>
+  <RF_Gun_USC.tools.1.label>barrel</RF_Gun_USC.tools.1.label>
+  <RF_Gun_USC.tools.2.label>muzzle</RF_Gun_USC.tools.2.label>
+
 
   <!-- M4A1 -->
 
-  <Gun_M4A1Gun.label>M4A1卡宾枪</Gun_M4A1Gun.label>
-  
+  <Gun_M4A1Gun.label>M4A1 Carbine</Gun_M4A1Gun.label>
+  <Gun_M4A1Gun.description>The M4 Carbine is a shorter and lighter variant of the M16A2 assault rifle, is heavily used by the United States Armed Forces and is replacing the M16 rifle in most United States Army and United States Marine Corps combat units as the primary infantry weapon. Average damage and range, good rate of fire and accurracy.</Gun_M4A1Gun.description>
+  <Gun_M4A1Gun.tools.0.label>stock</Gun_M4A1Gun.tools.0.label>
+  <Gun_M4A1Gun.tools.1.label>barrel</Gun_M4A1Gun.tools.1.label>
+  <Gun_M4A1Gun.tools.2.label>muzzle</Gun_M4A1Gun.tools.2.label>
+
 
 </LanguageData>
