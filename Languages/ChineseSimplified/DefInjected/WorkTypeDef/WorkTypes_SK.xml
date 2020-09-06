@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <QuarryMining.label>Quarry</QuarryMining.label>
-  <QuarryMining.description>Collecting resources, digging and drilling in a quarry.</QuarryMining.description>
-  <QuarryMining.labelShort>Quarry</QuarryMining.labelShort>
-  <QuarryMining.pawnLabel>Miner</QuarryMining.pawnLabel>
-  <QuarryMining.gerundLabel>mining</QuarryMining.gerundLabel>
-  <QuarryMining.verb>Mine</QuarryMining.verb>
+  <QuarryMining.label>采石</QuarryMining.label>
+  <QuarryMining.description>搜集资源，在采石场开挖和采掘。</QuarryMining.description>
+  <QuarryMining.labelShort>采石</QuarryMining.labelShort>
+  <QuarryMining.pawnLabel>矿工</QuarryMining.pawnLabel>
+  <QuarryMining.gerundLabel>开采</QuarryMining.gerundLabel>
+  <QuarryMining.verb>开采</QuarryMining.verb>
 
 
 </LanguageData>

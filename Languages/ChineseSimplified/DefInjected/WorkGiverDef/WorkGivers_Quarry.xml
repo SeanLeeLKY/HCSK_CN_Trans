@@ -3,9 +3,9 @@
 
   <!-- Mine -->
 
-  <QRY_MineQuarry.label>mine a quarry for resources</QRY_MineQuarry.label>
-  <QRY_MineQuarry.verb>mine at</QRY_MineQuarry.verb>
-  <QRY_MineQuarry.gerund>mining at</QRY_MineQuarry.gerund>
+  <QRY_MineQuarry.label>在采石场开采资源</QRY_MineQuarry.label>
+  <QRY_MineQuarry.verb>开采于</QRY_MineQuarry.verb>
+  <QRY_MineQuarry.gerund>正在开采于</QRY_MineQuarry.gerund>
 
 
 </LanguageData>

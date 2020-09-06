@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkGiver_UseAquacultureBasin.verb>use</WorkGiver_UseAquacultureBasin.verb>
-  <WorkGiver_UseAquacultureBasin.gerund>using</WorkGiver_UseAquacultureBasin.gerund>
+  <WorkGiver_UseAquacultureBasin.verb>使用</WorkGiver_UseAquacultureBasin.verb>
+  <WorkGiver_UseAquacultureBasin.gerund>正在使用</WorkGiver_UseAquacultureBasin.gerund>
 
-  <WorkGiver_FishAtFishingPier.verb>fish</WorkGiver_FishAtFishingPier.verb>
-  <WorkGiver_FishAtFishingPier.gerund>fishing</WorkGiver_FishAtFishingPier.gerund>
+  <WorkGiver_FishAtFishingPier.verb>捕鱼</WorkGiver_FishAtFishingPier.verb>
+  <WorkGiver_FishAtFishingPier.gerund>捕鱼于</WorkGiver_FishAtFishingPier.gerund>
 
-  <WorkGiver_FishAtFishingZone.verb>fish</WorkGiver_FishAtFishingZone.verb>
-  <WorkGiver_FishAtFishingZone.gerund>fishing</WorkGiver_FishAtFishingZone.gerund>
+  <WorkGiver_FishAtFishingZone.verb>捕鱼</WorkGiver_FishAtFishingZone.verb>
+  <WorkGiver_FishAtFishingZone.gerund>捕鱼于</WorkGiver_FishAtFishingZone.gerund>
 
-  <DoBillsMakeFishingBait.label>do fishing baits</DoBillsMakeFishingBait.label>
-  <DoBillsMakeFishingBait.verb>work</DoBillsMakeFishingBait.verb>
-  <DoBillsMakeFishingBait.gerund>working</DoBillsMakeFishingBait.gerund>
+  <DoBillsMakeFishingBait.label>制作鱼饵</DoBillsMakeFishingBait.label>
+  <DoBillsMakeFishingBait.verb>工作</DoBillsMakeFishingBait.verb>
+  <DoBillsMakeFishingBait.gerund>正在工作</DoBillsMakeFishingBait.gerund>
 
 
 </LanguageData>
