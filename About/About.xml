@@ -8,9 +8,19 @@
 		<li>1.2</li>
 	</supportedVersions>
 	<packageId>SeaN.ChineseTransPackage.HCSK</packageId>
+	<modDependencies>
+		<li>
+			<packageId>skyarkhangel.HSK</packageId>
+			<displayName>Hardcore SK</displayName>
+			<downloadUrl>https://github.com/skyarkhangel/Hardcore-SK</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>skyarkhangel.HSK</li>
+	</loadAfter>
 	<description>
 	
-按照提示放置！
+放置于Core_SK之后！
 A17：
 0.01版 基础标签翻译。
 0.02版基础标签翻译。
