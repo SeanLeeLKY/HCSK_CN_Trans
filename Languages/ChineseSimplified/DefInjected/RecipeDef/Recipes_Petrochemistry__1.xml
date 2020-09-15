@@ -24,9 +24,9 @@
   <MakeCompaste.description>制造一批复合胶水，这种辅料广泛用于各种服装、护甲的生产消耗。\n\n产出：20。</MakeCompaste.description>
   <MakeCompaste.jobString>正在制造 复合粘剂。</MakeCompaste.jobString>
 
-  <MakeCarbon.label>制造 复合碳材</MakeCarbon.label>
-  <MakeCarbon.description>利用聚合物、橡胶以及高碳矿物制造复合碳材料。 \n\n产出：12。</MakeCarbon.description>
-  <MakeCarbon.jobString>正在制造 复合碳材。</MakeCarbon.jobString>
+  <MakeCarbon.label>制造 碳聚物</MakeCarbon.label>
+  <MakeCarbon.description>利用聚合物、橡胶以及高碳矿物制造复合碳聚物。 \n\n产出：12。</MakeCarbon.description>
+  <MakeCarbon.jobString>正在制造 碳聚物。</MakeCarbon.jobString>
 
   <MakeKevlar.label>制造 凯夫拉</MakeKevlar.label>
   <MakeKevlar.description>利用人造纤维以及塑料制造凯夫拉材料。 \n\n产出：10。</MakeKevlar.description>
