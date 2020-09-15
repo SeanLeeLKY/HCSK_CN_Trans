@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Settings -->
+  <UF_SettingsCategory>通用发酵器</UF_SettingsCategory>
+  <UF_ShowProcessIcon>显示进度图标</UF_ShowProcessIcon>
+  <UF_ShowProcessIconTooltip>如果启用，进度图标将在启用的建筑物上显示，否则将不会在建筑物上显示图标（默认值：启用）</UF_ShowProcessIconTooltip>
+  <UF_ProcessIconSize>进度图标大小</UF_ProcessIconSize>
+  <UF_ProcessIconSizeTooltip>为某些工作建筑设置进度图标大小（默认值：60%）</UF_ProcessIconSizeTooltip>
+  <UF_ShowCurrentQualityIcon>显示当前品质图标</UF_ShowCurrentQualityIcon>
+  <UF_ShowCurrentQualityIconTooltip>在进度条旁边显示一个指示产品当前质量的图标。（默认值：启用）</UF_ShowCurrentQualityIconTooltip>
+  <UF_ShowTargetQualityIcon>显示目标品质图标</UF_ShowTargetQualityIcon>
+  <UF_ShowTargetQualityIconTooltip>在进度图标旁边显示一个预期目标品质的图标，只有“显示进度图标”设置为“启用”状态时才会生效。（默认值：禁用）</UF_ShowTargetQualityIconTooltip>
+  <UF_SingleItemIcon>单个物品图标</UF_SingleItemIcon>
+  <UF_SingleItemIconTooltip>如果启用，将使用类似于单个物品的图标，否则将使用复数堆叠的图标（默认值：启用）</UF_SingleItemIconTooltip>
+  <UF_SortAlphabetically>按字母排序</UF_SortAlphabetically>
+  <UF_SortAlphabeticallyTooltip>启用时，点击按钮将按照进度字母列表排序，否则将按照thingDef列表进行排序。（默认值：禁用）</UF_SortAlphabeticallyTooltip>
+  <UF_DefaultSettings>重置为默认</UF_DefaultSettings>
+  <UF_DefaultSettingsTooltip>将参数设定为默认值。</UF_DefaultSettingsTooltip>
+
+  <!-- Universal Fermenter Strings -->
+  <UF_ContainsIngredient>包含 {0} / {1} {2}</UF_ContainsIngredient>
+  <UF_ContainsProduct>包含 {0} / {1} {2}</UF_ContainsProduct>
+  <UF_NoIngredient>需要原料</UF_NoIngredient>
+  <UF_Progress>工作进度： {0} ({1})</UF_Progress>
+  <UF_NonIdealInfluences>非理想条件 {0}</UF_NonIdealInfluences>
+  <UF_NonIdealSpeedFactor>速度： {0}</UF_NonIdealSpeedFactor>
+  <UF_IdealSafeProductionTemperature>理想的（安全）工作温度</UF_IdealSafeProductionTemperature>
+  <UF_Finished>已完成</UF_Finished>
+  <UF_Ideal>理想</UF_Ideal>
+  <UF_Safe>安全</UF_Safe>
+
+  <UF_WeatherTemperature>温度</UF_WeatherTemperature>
+  <UF_WeatherSunshine>晴</UF_WeatherSunshine>
+  <UF_WeatherRain>雨</UF_WeatherRain>
+  <UF_WeatherSnow>雪</UF_WeatherSnow>
+  <UF_WeatherWind>风</UF_WeatherWind>
+
+  <UF_NextDesc>使用{1}生产{0}。</UF_NextDesc>
+  <UF_SetQualityDesc>设定目标质量。</UF_SetQualityDesc>
+
+</LanguageData>

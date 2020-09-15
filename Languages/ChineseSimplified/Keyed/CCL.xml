@@ -38,7 +38,7 @@
   <SK_CommandGroupOfThingsByDefInRoomLabel>同步室内的所有 {0}</SK_CommandGroupOfThingsByDefInRoomLabel>
   <SK_CommandGroupOfThingsByLinkerInRoomLabel>同步室内所有链接的 {0} </SK_CommandGroupOfThingsByLinkerInRoomLabel>
 
-  <SK_RefrigeratedStorage>于冷库</SK_RefrigeratedStorage>
+  <SK_RefrigeratedStorage>在冷库</SK_RefrigeratedStorage>
 
   <!-- PlaceWorkers -->
   <SK_MessagePlacementItemSurface>必须放置在物品表面！</SK_MessagePlacementItemSurface>

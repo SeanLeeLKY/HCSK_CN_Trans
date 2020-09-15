@@ -15,12 +15,23 @@
   <!-- SmartSpeed -->
   <EventSpeed>事件速度</EventSpeed>
   <EventSpeedLabel>改变事件速度</EventSpeedLabel>
-  <Slow>减慢</Slow>
-  <Normal>普通</Normal>
-  <Fast>加快</Fast>
-  <Half>一半</Half>
+  <Slow>缓慢</Slow>
+  <Normal>正常</Normal>
+  <Fast>快速</Fast>
+  <Half>半速</Half>
 
   <CannotUseNow>目前不能使用</CannotUseNow>
+
+  <WrongTerrainType>错误的地形类型</WrongTerrainType>
+
+  <StorytellerFrenzyLabel>疯狂</StorytellerFrenzyLabel>
+
+  <ReyText>你知道“疯狂”是什么意思吗？当然，你马上就会知道了...</ReyText>
+  <KaraText>当我试图从那里逃出来的时候，那里的守卫威胁要杀死我。你知道后来发生了什么吗？我直接割断了他的喉咙。</KaraText>
+  <ZeroText>我看到火焰离我如此之近，以至于我觉得皮肤都快融化了...不知道你需要多少？</ZeroText>
+  <RendyText>我喜欢创作有不同结果的故事。赶快结束你的一切，或者让我再折磨你一会，怎么样？</RendyText>
+  <PhoebeText>看来我对你太好了，让你放松了...这样会让你显得毫无价值。</PhoebeText>
+  <CasText>我会对敌人们非常“友好”，当然，前提是他们还活着...</CasText>
 
   <!-- TraitChanger -->
   <TraitChangedLabel>特性改变</TraitChangedLabel>
@@ -29,14 +40,15 @@
   <TraitGoodMoodA>由于长时间保持良好心情</TraitGoodMoodA>
   <TraitGoodMoodB>改善它的整体情绪。</TraitGoodMoodB>
   <TraitBadMoodA>由于长时间处于不好情绪</TraitBadMoodA>
-  <TraitBadMoodB>变得沮丧。</TraitBadMoodB>
+  <TraitBadMoodB>变得沮丧。需要经过风雨磨砺和生存压力的打熬让性格变得更加坚强。</TraitBadMoodB>
   <TraitCannibal>已经意识到在吃了人肉之后...其实味道不错！</TraitCannibal>
+  <TraitHardened>学会了不遗余力地实现目标和获得新的特性。</TraitHardened>
 
   <!-- Miner -->
-  <LightAuto>灯光： 自动</LightAuto>
-  <LightOn>灯光： 开</LightOn>
-  <LightOff>灯光： 关</LightOff>
-  <SwitchMode>改变模式。</SwitchMode>
+  <LightAuto>灯光：自动</LightAuto>
+  <LightOn>灯光：开</LightOn>
+  <LightOff>灯光：关</LightOff>
+  <SwitchMode>改变模式</SwitchMode>
 
   <!-- PlaceWorkers -->
   <MessagePlacementOnSupport>必须放在支撑结构上！</MessagePlacementOnSupport>
@@ -46,40 +58,40 @@
   <PlaceWorker.InteractivePointMustshore>交互点必须放在岸上。</PlaceWorker.InteractivePointMustshore>
   <PlaceWorker.AlreadyPile>地形已经是桩柱了。</PlaceWorker.AlreadyPile>
   <ImpassableDoor>必须要两边有支撑结构，并且通道上未被阻挡的情况下才能将门放置在此处。</ImpassableDoor>
-  <OnMudOrWaterReportString>无法收集物资，请选择合适的地形例如水边或者泥地等。</OnMudOrWaterReportString>
-  <NeedGenBioHopper>需要生物质反应堆料斗</NeedGenBioHopper>
-  <NeedGenBioHopperDesc>你的生物质反应堆没有填料装置。\n\n生物质反应堆正常工作的时候需要料斗供应反应物质。\n\n在生物质反应堆旁边修建一个料斗。</NeedGenBioHopperDesc>
+  <OnMudOrWaterReportString>无法采集，请选择合适的地形例如水边或者沼泽泥地等。</OnMudOrWaterReportString>
+  <NeedGenBioHopper>需要生物质发电机料斗</NeedGenBioHopper>
+  <NeedGenBioHopperDesc>你的生物质发电机没有填料装置。\n\n生物质发电机正常工作的时候需要料斗供应反应物质。\n\n在生物质发电机旁边修建一个料斗。</NeedGenBioHopperDesc>
   <NeedFuelFeeder>需要燃料料斗</NeedFuelFeeder>
-  <NeedFuelFeederDesc>你的燃料发电站没有填料装置。\n\n燃料发电站正常工作的时候需要料斗供应反应物质。\n\n在燃料发电站旁边修建一个料斗。</NeedFuelFeederDesc>
-  <NeedGenHopper>需要蒸汽反应器料斗</NeedGenHopper>
-  <NeedGenHopperDesc>你的工业装置没有填料装置。\n\n这个装置正常工作的时候需要料斗供应反应物质。\n\n请在装置旁边修建一个料斗。</NeedGenHopperDesc>
-  <NeedPlasmaGenFeeder>需要离子反应器料斗</NeedPlasmaGenFeeder>
-  <NeedPlasmaGenFeederDesc>你的工业装置没有填料装置。\n\n这个装置正常工作的时候需要料斗供应反应物质。\n\n请在装置旁边修建一个料斗。</NeedPlasmaGenFeederDesc>
+  <NeedFuelFeederDesc>你的燃料发电机没有填料装置。\n\n燃料发电机正常工作的时候需要料斗供应燃料。\n\n在燃料发电机旁边修建一个料斗。</NeedFuelFeederDesc>
+  <NeedGenHopper>需要蒸汽发电机料斗</NeedGenHopper>
+  <NeedGenHopperDesc>你的蒸汽发电机没有填料装置。\n\n蒸汽发电机正常工作的时候需要料斗供应如柴火或者化合燃料等反应物。\n\n在蒸汽发电机旁边修建一个料斗。</NeedGenHopperDesc>
+  <NeedPlasmaGenFeeder>需要等离子反应堆料斗</NeedPlasmaGenFeeder>
+  <NeedPlasmaGenFeederDesc>你的等离子反应堆缺少填料装置。\n\n等离子反应堆工作的时候需要料斗提供铝土矿作为反应物料。\n\n请在装置旁边修建一个料斗。</NeedPlasmaGenFeederDesc>
   <NeedNuclearFeeder>需要核电站料斗</NeedNuclearFeeder>
-  <NeedNuclearFeederDesc>你的工业装置没有填料装置。\n\n这个装置正常工作的时候需要料斗供应反应物质。\n\n请在装置旁边修建一个料斗。</NeedNuclearFeederDesc>
+  <NeedNuclearFeederDesc>你的核电设施缺少填料装置。\n\n核电设施工作的时候需要料斗提供浓缩铀作为反应物料。\n\n请在设施旁边修建一个料斗。</NeedNuclearFeederDesc>
   <NeedCentrifugeFeeder>需要气体离心机料斗</NeedCentrifugeFeeder>
-  <NeedCentrifugeFeederDesc>你的工业装置没有填料装置。\n\n这个装置正常工作的时候需要料斗供应反应物质。\n\n请在装置旁边修建一个料斗。</NeedCentrifugeFeederDesc>
+  <NeedCentrifugeFeederDesc>你的气体离心机缺少填料装置。\n\n离心机工作的时候需要料斗提供铀矿作为反应物料。\n\n请在设施旁边修建一个料斗。</NeedCentrifugeFeederDesc>
   <NeedElectronicFeeder>需要电子工作站料斗</NeedElectronicFeeder>
-  <NeedElectronicFeederDesc>你的工业装置没有填料装置。\n\n这个装置正常工作的时候需要料斗供应反应物质。\n\n请在装置旁边修建一个料斗。</NeedElectronicFeederDesc>
-  <NeedCoalFeeder>需要燃煤发电站料斗</NeedCoalFeeder>
-  <NeedCoalFeederDesc>你的工业装置没有填料装置。\n\n这个装置正常工作的时候需要料斗供应反应物质。\n\n请在装置旁边修建一个料斗。</NeedCoalFeederDesc>
-  <AnotherGH>离另一个地热加热器太近了。</AnotherGH>
-  <NoGeothemalSource>附近没有地热资源。</NoGeothemalSource>
-  <AnotherPG>离另一个等离子发电机太近了。</AnotherPG>
-  <NoPlasmaGeothermalPlant>附近没有等离子发生器。</NoPlasmaGeothermalPlant>
-  <AnotherME>距离另一个采矿器太近。</AnotherME>
-  <AnotherPGR>离另一个等离子体反应堆太近了。</AnotherPGR>
-  <AnotherFG>离另一个钻井平台太近了。</AnotherFG>
-  <AnotherGG>离另一个地热发电机太近了。</AnotherGG>
-  <NeedOilFeeder>需要炼油厂料斗</NeedOilFeeder>
-  <NeedOilFeederDesc>你的工业装置没有填料装置。\n\n这个装置正常工作的时候需要料斗供应反应物质。\n\n请在装置旁边修建一个料斗。</NeedOilFeederDesc>
+  <NeedElectronicFeederDesc>你的电子工作站缺少填料装置。\n\n电子工作站工作的时候需要料斗提供电子元件作为工作物料。\n\n请在设施旁边修建一个料斗。</NeedElectronicFeederDesc>
+  <NeedCoalFeeder>需要燃煤发电机料斗</NeedCoalFeeder>
+  <NeedCoalFeederDesc>你的燃煤发电机缺少填料装置。\n\n燃煤发电机工作的时候需要料斗提供煤炭、木炭或者泥炭作为反应物料。\n\n请在设施旁边修建一个料斗。</NeedCoalFeederDesc>
+  <AnotherGH>距离另一个地质加热器过近。</AnotherGH>
+  <NoGeothemalSource>附近没有可用的地热源。</NoGeothemalSource>
+  <AnotherPG>距离另一个等离子发电机太近。</AnotherPG>
+  <NoPlasmaGeothermalPlant>附近没有等离子反应堆。</NoPlasmaGeothermalPlant>
+  <AnotherME>距离另一个矿物提取器过近。</AnotherME>
+  <AnotherPGR>距离另一个等离子反应堆过近。</AnotherPGR>
+  <AnotherFG>距离另一个钻孔过近。</AnotherFG>
+  <AnotherGG>距离另一个地热发电机过近。</AnotherGG>
+  <NeedOilFeeder>需要原油精炼器料斗</NeedOilFeeder>
+  <NeedOilFeederDesc>你的原油精炼器缺少填料装置。\n\n原油精炼器工作的时候需要料斗提供原油作为反应物料。\n\n请在设施旁边修建一个料斗。</NeedOilFeederDesc>
   <NeedHeaterHopper>需要燃煤料斗</NeedHeaterHopper>
-  <NeedHeaterHopperDesc>你的工业装置没有填料装置。\n\n这个装置正常工作的时候需要料斗供应反应物质。\n\n请在装置旁边修建一个料斗。</NeedHeaterHopperDesc>
-  <NearWithAnotherFissure>太靠近另一个裂缝或挖矿机。</NearWithAnotherFissure>
+  <NeedHeaterHopperDesc>你的煤炭燃烧器缺少填料装置。\n\n煤炭燃烧器工作的时候需要料斗提供煤炭、木炭或者泥炭作为反应物料。\n\n请在设施旁边修建一个料斗。</NeedHeaterHopperDesc>
+  <NearWithAnotherFissure>距离另一个裂隙或者矿物提取器过近。</NearWithAnotherFissure>
   <NeedAntimatterReactorFeeder>需要反物质反应堆料斗</NeedAntimatterReactorFeeder>
-  <NeedAntimatterReactorFeederDesc>你的工业装置没有填料装置。\n\n这个装置正常工作的时候需要料斗供应反应物质。\n\n请在装置旁边修建一个料斗。</NeedAntimatterReactorFeederDesc>
+  <NeedAntimatterReactorFeederDesc>你的反物质反应堆缺少填料装置。\n\n反物质反应堆工作的时候需要料斗提供反物质作为反应物料。\n\n请在设施旁边修建一个料斗。</NeedAntimatterReactorFeederDesc>
   <NeedHadronColliderFeeder>需要强子对撞机料斗</NeedHadronColliderFeeder>
-  <NeedHadronColliderFeederDesc>你的工业装置没有填料装置。\n\n这个装置正常工作的时候需要料斗供应反应物质。\n\n请在装置旁边修建一个料斗。</NeedHadronColliderFeederDesc>
+  <NeedHadronColliderFeederDesc>你的强子对撞机缺少填料装置。\n\n强子对撞机工作的时候需要料斗提供无机物作为反应物料。\n\n请在设施旁边修建一个料斗。</NeedHadronColliderFeederDesc>
 
 
   <!-- TradingSpot -->
@@ -104,9 +116,9 @@
 
   <!--  Temperature Gauge  -->
   <TempGaugeAlert>温度超出测量范围</TempGaugeAlert>
-  <TempGaugeAlertDesc>某一个或多个温度计报告温度超过警戒值。</TempGaugeAlertDesc>
+  <TempGaugeAlertDesc>一个或多个温度计报告温度超过警戒值。</TempGaugeAlertDesc>
   <TempGaugeAlertHot>温度过高</TempGaugeAlertHot>
-  <TempGaugeAlertHotDesc>温度计附近的温度已经超过了 {0}。</TempGaugeAlertHotDesc>
+  <TempGaugeAlertHotDesc>温度计附近的温度已经超过了{0}。</TempGaugeAlertHotDesc>
   <TempGaugeAlertCold>温度过低</TempGaugeAlertCold>
   <TempGaugeAlertColdDesc>温度计附近的温度已经降到了{0}以下。</TempGaugeAlertColdDesc>
   <AlertOff>禁用警报</AlertOff>
@@ -115,41 +127,41 @@
   <AlertOffDesc>警报已禁用。</AlertOffDesc>
   <AlertOnHighTemperatureDesc>温度高于{0}时发出警报。</AlertOnHighTemperatureDesc>
   <AlertOnLowTemperatureDesc>温度低于{0}时发出警报。</AlertOnLowTemperatureDesc>
-  <AlertGizmoDesc>当温度未在指定范围时，温度计是否发出警报。</AlertGizmoDesc>
+  <AlertGizmoDesc>当超过指定温度时，温度计是否发出警报。</AlertGizmoDesc>
 
   <!--  Nanite shield  -->
   <ChargeShieldsLabel>护盾充能</ChargeShieldsLabel>
   <ChargeShieldsDesc>启用护盾充能</ChargeShieldsDesc>
   <ChargeShieldsOffDesc>禁用护盾充能</ChargeShieldsOffDesc>
   <UpgradeNanoShieldLabel>获取纳米护盾</UpgradeNanoShieldLabel>
-  <ShieldsChargingLabel>充能进度: </ShieldsChargingLabel>
-  <ShieldsLabel>护盾: </ShieldsLabel>
+  <ShieldsChargingLabel>充能进度：</ShieldsChargingLabel>
+  <ShieldsLabel>护盾：</ShieldsLabel>
 
   <!--  PlantGrowerLinked  -->
   <PGLLabel>设置到整个房间</PGLLabel>
   <PGLDesc>使整个房间内的栽培盆都种植同一种作物。</PGLDesc>
 
   <!--  Plasma Generator  -->
-  <StringPowerOutput>能量输出: </StringPowerOutput>
-  <StringCharging>充能进度: </StringCharging>
+  <StringPowerOutput>能量输出：</StringPowerOutput>
+  <StringCharging>充能进度：</StringCharging>
 
   <!--  Powerplants  -->
-  <EfficiencyTEG>效率: </EfficiencyTEG>
-  <DeltaTEG>Delta？？？: </DeltaTEG>
-  <StatusWorking>状态: 工作中...</StatusWorking>
+  <EfficiencyTEG>效率：</EfficiencyTEG>
+  <DeltaTEG>增量：</DeltaTEG>
+  <StatusWorking>状态: 运行中...</StatusWorking>
   <StatusCooling>状态: 冷却中...</StatusCooling>
 
 
   <!--  Subspace Burst Transponder  -->
   <CallShipLabel>呼叫商船</CallShipLabel>
-  <CallShipDesc>当亚空间高频发射器充能完毕时，你能用它来呼叫一艘太空商船。</CallShipDesc>
-  <ChargingProcess>充能进度: </ChargingProcess>
+  <CallShipDesc>当亚空间脉冲信号发射器充能完毕时，你能用它来呼叫一艘太空商船。</CallShipDesc>
+  <ChargingProcess>充能进度：</ChargingProcess>
   <FullyCharged>充能完成</FullyCharged>
-  <TransmittingProcess>传输信息: </TransmittingProcess>
+  <TransmittingProcess>传输信息：</TransmittingProcess>
   <InsufficientChargeLevel>能量不足，无法联系到任何飞船。</InsufficientChargeLevel>
-  <MSPowerNeeded>需要能量: </MSPowerNeeded>
-  <MSScanProcess>扫描进度: </MSScanProcess>
-  <MSScanRange>当前/最大 扫描半径: </MSScanRange>
+  <MSPowerNeeded>需要能量：</MSPowerNeeded>
+  <MSScanProcess>扫描进度：</MSScanProcess>
+  <MSScanRange>当前/最大 扫描半径：</MSScanRange>
 
   <!--  Stargate  -->
   <SGAddResourcesLabel>添加资源</SGAddResourcesLabel>
@@ -170,8 +182,8 @@
   <InsPTEC>能量不足，无法建立连接。</InsPTEC>
   <RecOfft>召回外星探险队</RecOfft>
   <OffNotFound>未找到外星探险队</OffNotFound>
-  <BufferItemsSG>缓冲物品: </BufferItemsSG>
-  <CapacitorChargeSG>电容充电: </CapacitorChargeSG>
+  <BufferItemsSG>缓冲物品：</BufferItemsSG>
+  <CapacitorChargeSG>电容充电：</CapacitorChargeSG>
 
   <!--  HaulPriority  -->
   <IncHaulPriorityLabel>增加搬运优先级</IncHaulPriorityLabel>
@@ -179,19 +191,19 @@
   <NothingTohaul>没有可以搬运的东西！</NothingTohaul>
   <AlreadyDesignated>已经标记</AlreadyDesignated>
   <PlsCancelOD>请取消重复的标记！</PlsCancelOD>
-  <OverHaulPriorityLabel>覆盖搬运优先级</OverHaulPriorityLabel>
+  <OverHaulPriorityLabel>覆写搬运优先级</OverHaulPriorityLabel>
   <OverHaulPriorityDesc>覆写物品的搬运优先级。</OverHaulPriorityDesc>
   <AlreadyHighPriority>已经是最高优先级！</AlreadyHighPriority>
 
   <!-- Itab container -->
-  <StoredItemsCount>已存储的物品计数:</StoredItemsCount>
+  <StoredItemsCount>已存储的物品计数：</StoredItemsCount>
   <Remove>移除</Remove>
 
   <!-- LockDoors -->
   <UnlockDoors>解锁</UnlockDoors>
   <LockDoors>上锁</LockDoors>
-  <DoorAreLocked>已经上锁。</DoorAreLocked>
-  <DoorAreUnlocked>没有解锁。</DoorAreUnlocked>
+  <DoorAreLocked>门已上锁</DoorAreLocked>
+  <DoorAreUnlocked>门已解锁</DoorAreUnlocked>
   <DoorBlocked>门被阻挡</DoorBlocked>
   <DoorHoldOpen>保持常开</DoorHoldOpen>
   <UnlockingMote>解锁</UnlockingMote>
@@ -232,16 +244,22 @@
 
   <!-- Alerts -->
   <FishIndustry.NeedHopperLabel>需要生态养殖槽进料口</FishIndustry.NeedHopperLabel>
-  <FishIndustry.NeedHopperExplanation>你有一个未连接进料口生态养殖槽。\n\n必须要有一个装填了生素食的生态养殖槽进料口供给原料，生态养殖槽才能正常工作。\n\n在生态养殖槽旁建造一个生态养殖槽供进料口。</FishIndustry.NeedHopperExplanation>
+  <FishIndustry.NeedHopperExplanation>你有一个未连接进料口生态养殖槽。\n\n必须要有一个装填了生素食或者动物产物的生态养殖槽进料口供给原料，生态养殖槽才能正常工作。\n\n在生态养殖槽旁建造一个生态养殖槽供进料口。</FishIndustry.NeedHopperExplanation>
 
   <FishIndustry.IdleAquacultureBasinLabel>空闲的生态养殖槽</FishIndustry.IdleAquacultureBasinLabel>
   <FishIndustry.IdleAquacultureBasinExplanation>你有一个空闲的生态养殖槽\n\n你应该提供一些鱼卵以开始养殖。\n\n使用清单标签进行操作并确保你有一位指派了狩猎工作的殖民者。</FishIndustry.IdleAquacultureBasinExplanation>
 
+  <FishIndustry.CriticalIssueLabel>生态养殖槽出现重大问题</FishIndustry.CriticalIssueLabel>
+  <FishIndustry.CriticalIssueExplanation>你的一个生态养殖槽出现了重大问题。\n\n如果不尽快解决的话，鱼类将会批量死亡！你应该立刻开始检查如下事项：\n——电力供应是否充足，\n——食物供应是否充足，\n——设施维护是否及时到位。</FishIndustry.CriticalIssueExplanation>
+
   <!-- Message -->
-  <FishIndustry.KillBredSpecies>生态养殖槽中养殖的鱼类死亡。你应该检查其状态。</FishIndustry.KillBredSpecies>
-  <FishIndustry.FisherBitten> 在捕鱼的时候被尾齿鱼咬伤。</FishIndustry.FisherBitten>
+  <FishIndustry.FishesDied>生态养殖槽中养殖的鱼类死亡。你应该检查其状态。</FishIndustry.FishesDied>
+  <FishIndustry.FisherBitten>在捕鱼的时候被尾齿鱼咬伤。</FishIndustry.FisherBitten>
 
   <!-- Gizmo -->
+  <FishIndustry.ChangeSpecies>改变品种</FishIndustry.ChangeSpecies>
+  <FishIndustry.ChangeSpeciesDescription1>生态养殖槽即将开始运作</FishIndustry.ChangeSpeciesDescription1>
+  <FishIndustry.ChangeSpeciesDescription2>一旦某个殖民者过来激活改变设置。请选择想要改变的品种。</FishIndustry.ChangeSpeciesDescription2>
   <FishIndustry.FishLabelPluralMashgon>龙虾</FishIndustry.FishLabelPluralMashgon>
   <FishIndustry.FishLabelPluralBlueblade>蓝刀鱼</FishIndustry.FishLabelPluralBlueblade>
   <FishIndustry.FishLabelPluralTailteeth>尾齿鱼</FishIndustry.FishLabelPluralTailteeth>
@@ -251,13 +269,13 @@
   <FishIndustry.Breeding>繁殖</FishIndustry.Breeding>
   <FishIndustry.BasinIsBreeding>正在繁殖</FishIndustry.BasinIsBreeding>
   <FishIndustry.WaitingForEggs>需要鱼卵</FishIndustry.WaitingForEggs>
-  <FishIndustry.ClickToCancel>点击取消繁殖 </FishIndustry.ClickToCancel>
+  <FishIndustry.ClickToCancel>点击取消繁殖</FishIndustry.ClickToCancel>
   <FishIndustry.EnsureHaveHunterAndEggs>确定你已经为殖民者指派了狩猎工作，并且有足够的鱼卵（一片肉）进行繁殖。</FishIndustry.EnsureHaveHunterAndEggs>
-  <FishIndustry.Breed>繁殖 </FishIndustry.Breed>
-  <FishIndustry.ClickToStart>点击开始繁殖 </FishIndustry.ClickToStart>
+  <FishIndustry.Breed>繁殖</FishIndustry.Breed>
+  <FishIndustry.ClickToStart>点击开始繁殖</FishIndustry.ClickToStart>
   <FishIndustry.BreedingRequestedMashgon>龙虾需要繁殖。</FishIndustry.BreedingRequestedMashgon>
   <FishIndustry.BreedingRequestedBlueblade>蓝刀鱼需要繁殖。</FishIndustry.BreedingRequestedBlueblade>
-  <FishIndustry.BreedingRequestedTailteeth>龙虾需要繁殖。</FishIndustry.BreedingRequestedTailteeth>
+  <FishIndustry.BreedingRequestedTailteeth>尾齿鱼需要繁殖。</FishIndustry.BreedingRequestedTailteeth>
   <FishIndustry.BreedingRequestedButNoEggsMashgon>需要足够的卵进行繁殖工作，请确保你有足够的龙虾卵。</FishIndustry.BreedingRequestedButNoEggsMashgon>
   <FishIndustry.BreedingRequestedButNoEggsBlueblade>需要足够的卵进行繁殖工作，请确保你有足够的蓝刀鱼卵。</FishIndustry.BreedingRequestedButNoEggsBlueblade>
   <FishIndustry.BreedingRequestedButNoEggsTailteeth>需要足够的卵进行繁殖工作，请确保你有足够的尾齿鱼卵。</FishIndustry.BreedingRequestedButNoEggsTailteeth>
@@ -265,25 +283,29 @@
   <FishIndustry.AllowFishingLabel>允许捕鱼</FishIndustry.AllowFishingLabel>
   <FishIndustry.AllowFishingDesc>允许你的殖民者在这个区域捕鱼。</FishIndustry.AllowFishingDesc>
   <FishIndustry.AllowUsingCornLabel>允许使用窝料</FishIndustry.AllowUsingCornLabel>
-  <FishIndustry.AllowUsingCornDesc>允许殖民者使用玉米等物品来打窝，可以增加捕鱼速度。</FishIndustry.AllowUsingCornDesc>
+  <FishIndustry.AllowUsingCornDesc>A允许殖民者使用诱饵等物品来打窝，可以增加捕鱼速度。</FishIndustry.AllowUsingCornDesc>
 
   <!-- Inspect String -->
-  <FishIndustry.ProgressLabel>进度: {0}</FishIndustry.ProgressLabel>
-  <FishIndustry.Problem_NoFood>(缺乏食物)</FishIndustry.Problem_NoFood>
-  <FishIndustry.Problem_WaterQualityCritical>（水质危急）</FishIndustry.Problem_WaterQualityCritical>
-  <FishIndustry.Problem_MicroFungus>(真菌繁殖)</FishIndustry.Problem_MicroFungus>
-  <FishIndustry.BredSpecies>饲养种类： {0}</FishIndustry.BredSpecies>
-  <FishIndustry.WaterQualityFishesHealth>水质/鱼类健康状态: {0}</FishIndustry.WaterQualityFishesHealth>
-  <FishIndustry.FishStock>鱼储量: {0}</FishIndustry.FishStock>
+  <FishIndustry.ProgressLabel>进度：</FishIndustry.ProgressLabel>
+  <FishIndustry.ProgressLabelNotBreeding>进度：未繁殖</FishIndustry.ProgressLabelNotBreeding>
+  <FishIndustry.WaterQuality>水质：{0}%</FishIndustry.WaterQuality>
+  <FishIndustry.WaterQualityFishesHealth>水质/鱼类健康状态：{0}%/{1}%</FishIndustry.WaterQualityFishesHealth>
+  <FishIndustry.NeedsMaintenanceNow>需要立刻维护</FishIndustry.NeedsMaintenanceNow>
+  <FishIndustry.Issue>问题</FishIndustry.Issue>
+  <FishIndustry.Issues>问题</FishIndustry.Issues>
+  <FishIndustry.Issue_MicroFungus>真菌繁殖</FishIndustry.Issue_MicroFungus>
+  <FishIndustry.Issue_NoFood>没有食物</FishIndustry.Issue_NoFood>
+  <FishIndustry.Issue_CriticalWaterQuality>水质危急</FishIndustry.Issue_CriticalWaterQuality>
+  <FishIndustry.Issue_BadlyMaintained>缺乏维护</FishIndustry.Issue_BadlyMaintained>
+
+  <FishIndustry.FishStock>鱼储量：{0}</FishIndustry.FishStock>
   <FishIndustry.TooSmallZone>区域太小</FishIndustry.TooSmallZone>
   <FishIndustry.NotViableNow>目前不可用</FishIndustry.NotViableNow>
-  <FishIndustry.SpeciesInZone>区域种群: </FishIndustry.SpeciesInZone>
-  <FishIndustry.AffectedBy>影响因素: </FishIndustry.AffectedBy>
+  <FishIndustry.SpeciesInZone>区域种群：</FishIndustry.SpeciesInZone>
+  <FishIndustry.AffectedBy>影响因素：</FishIndustry.AffectedBy>
   <FishIndustry.AffectedByBiome>种群</FishIndustry.AffectedByBiome>
   <FishIndustry.AffectedByToxicFallout>毒性尘埃</FishIndustry.AffectedByToxicFallout>
   <FishIndustry.AffectedByBadTemperature>温度不适宜</FishIndustry.AffectedByBadTemperature>
-  <DeadMarineLabel>死亡的士兵</DeadMarineLabel>
-  <DeadMarineDesc> 在钓鱼的时候居然发现了一具尸体。\n\n对于这件事情真的令人非常烦恼，不过从这具尸体的衣服来看，他生前应该是某个矿业公司的安保人员。我也很好奇在他身上发生了什么事情...\n</DeadMarineDesc>
 
   <!-- Letters -->
   <FishIndustry.LetterLabelMicroFungus>真菌</FishIndustry.LetterLabelMicroFungus>
@@ -292,24 +314,27 @@
   <FishIndustry.LetterLabelSunkenTreasure>水下宝藏！</FishIndustry.LetterLabelSunkenTreasure>
   <FishIndustry.SunkenTreasure>{0}在钓鱼的时候发现了水下宝藏！意外之喜！\n</FishIndustry.SunkenTreasure>
 
+  <DeadMarineLabel>死亡的士兵</DeadMarineLabel>
+  <DeadMarineDesc>在钓鱼的时候居然发现了一具尸体。\n\n对于这件事情真的令人非常烦恼，不过从这具尸体的衣服来看，他生前应该是某个矿业公司的安保人员。我也很好奇在他身上发生了什么事情...\n</DeadMarineDesc>
+
   <!-- Zone -->
   <FishIndustry.FishingZone>捕鱼区域</FishIndustry.FishingZone>
   <FishIndustry.DesignatorFishingZoneDesc>设置一个用于捕鱼的区域。</FishIndustry.DesignatorFishingZoneDesc>
 
   <!-- Fuel -->
   <FuelFilter>燃料配置</FuelFilter>
-  <InternalTemperature>内部温度:</InternalTemperature>
-  <OperatingTemperature>工作温度: </OperatingTemperature>
-  <CurrentStatus>当前状态:</CurrentStatus>
-  <WStatus> 工作中..。</WStatus>
+  <InternalTemperature>内部温度：</InternalTemperature>
+  <OperatingTemperature>工作温度：</OperatingTemperature>
+  <CurrentStatus>当前状态：</CurrentStatus>
+  <WStatus>工作中..。</WStatus>
   <LTStatus>温度过低</LTStatus>
   <RefuelAt>添加燃料于</RefuelAt>
-  <BurningProgress>燃烧进度:</BurningProgress>
-  <FuelAmount>最大燃料: </FuelAmount>
-  <DepletesAfter>耗尽于: </DepletesAfter>
-  <MaxTempertarure>最高温度: </MaxTempertarure>
+  <BurningProgress>燃烧进度：</BurningProgress>
+  <FuelAmount>最大燃料：</FuelAmount>
+  <DepletesAfter>耗尽于：</DepletesAfter>
+  <MaxTempertarure>最高温度：</MaxTempertarure>
   <NoFuel>没有燃料</NoFuel>
-  <FuelDrop>燃料下降</FuelDrop>
+  <FuelDrop>燃料降低</FuelDrop>
   <FuelInfo>燃料信息</FuelInfo>
   <ytime>年</ytime>
   <mtime>月</mtime>
@@ -320,7 +345,7 @@
 
   <!-- Infestation event fix -->
   <InsectHuntMessage>一只掠食性昆虫离开巢穴开始捕猎。</InsectHuntMessage>
-  <SpawnManHuntInspect>猎杀事件发生于: </SpawnManHuntInspect>
+  <SpawnManHuntInspect>猎杀事件发生于：</SpawnManHuntInspect>
 
   <!-- Dash -->
   <DashEnabled>启用冲击模式</DashEnabled>
@@ -350,8 +375,8 @@
 
   <!-- Spawned buildings -->
   <LootLabel>打开</LootLabel>
-  <LootDesc>搜寻可用的物品。 </LootDesc>
-  <LootThe>搜寻 </LootThe>
+  <LootDesc>搜寻可用的物品。</LootDesc>
+  <LootThe>搜寻</LootThe>
 
   <!-- CompAutoFlicker -->
   <AutoFlickingLabel>自动开闭</AutoFlickingLabel>
@@ -368,26 +393,27 @@
   <SearchLabel>搜索</SearchLabel>
 
   <!-- Earthquake  -->
-  <EQMess>地震来袭! 检查是否有人受伤? \n\n这次地震似乎损坏了很多建筑物。</EQMess>
-  <EQMessLow>地震来袭! 检查是否有人受伤? \n\n这次地震似乎损坏了一些建筑物。</EQMessLow>
-  <EQRichterScale>\n震级: </EQRichterScale>
-  <DescEQ>危险！ 地震！ 注意落石！</DescEQ>
+  <EQMess>地震来袭！检查是否有人受伤？\n\n这次地震似乎损坏了很多建筑物。</EQMess>
+  <EQMessLow>地震来袭！检查是否有人受伤？\n\n这次地震似乎损坏了一些建筑物。</EQMessLow>
+  <EQRichterScale>\n里氏震级：</EQRichterScale>
+  <DescEQ>危险！地震！注意落石！</DescEQ>
   <LabelEQ>地震！</LabelEQ>
 
   <!-- Seismic activity -->
   <SALabel>地质活动</SALabel>
-  <SAMess>本地区地质活动频繁。 \n\n山区将会有大量落石，请注意安全！</SAMess>
-  <SARichterScale>\n震级: </SARichterScale>
+  <SAMess>本地区地质活动频繁。\n\n山区将会有大量落石，请注意安全！</SAMess>
+  <SARichterScale>\n里氏震级：</SARichterScale>
 
   <!-- Orassan shipcrash -->
   <LookLabel>发现飞船坠毁</LookLabel>
-  <LookDiscA>我们找到了飞船残骸的位置，或许还有生还的宇航员。</LookDiscA>
+  <LookDiscA>我们找到了飞船残骸的位置，或许还有生还的人员。</LookDiscA>
 
   <!-- RefugeeChased -->
   <SkilledWith>精通</SkilledWith>
-  <RescuedInitial_AcceptSK>同意 HIM</RescuedInitial_AcceptSK>
-  <RescuedInitial_RejectSK>拒绝 HIS 要求</RescuedInitial_RejectSK>
-  <WandererInitialSK>来自{0}的NAME 旅行到附近时发现了这个殖民地并且非常看好这里. HECAP 希望加入你的伟大事业。</WandererInitialSK>
+  <RescuedInitial_AcceptSK>同意</RescuedInitial_AcceptSK>
+  <RescuedInitial_RejectSK>拒绝</RescuedInitial_RejectSK>
+  <WandererInitialSK>来自{0}的{PAWN_nameDef}旅行到附近时发现了这个殖民地并非常看好这里未来的发展。{PAWN_pronoun}希望加入你的伟大事业。</WandererInitialSK>
+  <PassionLabel>（很棒）</PassionLabel>
 
   <!-- Found hidden resources -->
   <MDLabel>发现隐藏资源点</MDLabel>
@@ -399,11 +425,11 @@
 
   <!-- Found treasure  -->
   <FoundTreasure>发现宝物</FoundTreasure>
-  <HeStash> 决定慷慨的捐献出一把珍藏已久的枪给殖民地。 \n\n他拿出了</HeStash>
-  <SheStash> 决定慷慨的捐献出一把珍藏已久的枪给殖民地。 \n\n她拿出了 </SheStash>
-  <GunStash> 枪。</GunStash>
-  <HeMoney> 决定拿出自己的一部分财物用于殖民地发展。\n\n他决定捐献 </HeMoney>
-  <SheMoney> 决定拿出自己的一部分财物用于殖民地发展。\n\n她决定捐献 </SheMoney>
+  <HeStash>决定慷慨的捐献出一把珍藏已久的枪给殖民地。\n\n他拿出了</HeStash>
+  <SheStash>决定慷慨的捐献出一把珍藏已久的枪给殖民地。\n\n她拿出了</SheStash>
+  <GunStash>枪。</GunStash>
+  <HeMoney>决定拿出自己的一部分财物用于殖民地发展。\n\n他决定捐献 </HeMoney>
+  <SheMoney>决定拿出自己的一部分财物用于殖民地发展。\n\n她决定捐献 </SheMoney>
   <SilverStash> 银给殖民地。</SilverStash>
 
   <!-- Amnesia -->
@@ -417,7 +443,7 @@
 
   <!-- Thanksgiving -->
   <ThanksgivingLabel>馈赠</ThanksgivingLabel>
-  <ThanksgivingDesc>一个部落注意到你们快要挨饿，所以他们送给你一些食物帮你度过难关，而且没有任何附加条件。\n\n他们如此善良，并希望你们的友谊地久天长。</ThanksgivingDesc>
+  <ThanksgivingDesc>一个部落注意到你们快要挨饿，所以他们送给你一些食物帮你度过难关，而且没有任何附加条件。\n\n他们如此善良，希望你们的友谊地久天长。</ThanksgivingDesc>
 
   <!-- Locusts Attack -->
   <LabelBug>异蝗成群</LabelBug>
@@ -425,68 +451,71 @@
 
 
   <!-- The Thing -->
-  <WarnFalling>警报： 一艘未知的宇宙飞船正在坠落！</WarnFalling>
+  <WarnFalling>警报：一艘未知的宇宙飞船正在坠落！</WarnFalling>
   <LabelMT>有点不对劲</LabelMT>
   <DescMT>逃生舱里的人看起来惊恐害怕得难以置信。他们应该是经历了什么可怕的事情吧！</DescMT>
   <TheThingLabel>憎恶！</TheThingLabel>
-  <TheThingDesc>转变成了一个巨大的憎恶怪兽! 谁也不清楚是什么导致了突变。 \n\n赶快消灭这个怪物，不然你的殖民者们都会被它撕成碎片。</TheThingDesc>
+  <TheThingDesc>转变成了一个巨大的憎恶怪兽! 谁也不清楚是什么导致了突变。\n\n赶快消灭这个怪物，不然你的殖民者们都会被它撕成碎片。</TheThingDesc>
 
   <!-- Zeon -->
-  <LetterLabelZeonPasses>Zeon</LetterLabelZeonPasses>
-  <LetterZeonPasses>许多人都将自己的小命交代在了这个机械族BOSS——Zeon的手中。也许你应该考虑放弃你的殖民地了。</LetterZeonPasses>
+  <LetterLabelZeonPasses>Zeon（吉恩）</LetterLabelZeonPasses>
+  <LetterZeonPasses>许多人都将自己的小命交代在了这个机械族BOSS——Zeon（吉恩）的手中。也许你应该考虑放弃你的殖民地了。</LetterZeonPasses>
 
   <!-- ResquePlayer -->
   <RescueStay>留在这里</RescueStay>
   <RescueGoAway>获得拯救</RescueGoAway>
-  <EndGame>附近一艘来自另一个星系团的飞船收到了失事地点的简略情报，这是根据你在飞船被摧毁时发出的遇险信号得到的。他们决定来救援你的殖民者们。你可以选择现在就让救援船队来解救你们并结束游戏，或者选择留下来探索这个边缘世界，决定权在你手里。</EndGame>
+  <EndGame>来自另一个星系团的一艘飞船收到了你的飞船被摧毁时发出的遇险信号简报。他们决定来救援你的殖民者们。你可以选择现在就让救援船队来解救你们并结束游戏，或者选择留下来探索这个边缘世界，决定权在你手里。</EndGame>
 
   <!-- Confusion -->
   <ConfusionLabel>困惑</ConfusionLabel>
-  <ConfusionDesc> 突然感觉有点困惑。</ConfusionDesc>
+  <ConfusionDesc>突然感觉有点困惑。</ConfusionDesc>
 
   <!-- Hungry animal -->
   <LetterLabelHungryAnimal>饥饿野兽！</LetterLabelHungryAnimal>
   <HungryAnimal>有一只野兽开始发疯般的攻击你的殖民者和家畜！</HungryAnimal>
 
   <!-- Feenix passes -->
-  <LetterLabelFeenixPasses>芬尼克斯！</LetterLabelFeenixPasses>
-  <LetterFeenixPasses>一只芬尼克斯正路过这个地区。\n\n这种传奇生物就是火焰的化身。没错，它就是一个活的火源，芬尼克斯的心在黑市上是属于有价无市的东西。  \n\n这是一种伴随着火焰的生物，如果激怒了它，你会看到整个殖民地都被火焰吞噬。\n\n们可以被驯服，但是只有最勇敢的人才能完成这项艰巨的任务，当然，还要提一句，这个人还要不怕火！</LetterFeenixPasses>
+  <LetterLabelFeenixPasses>流浪的芬尼克斯！</LetterLabelFeenixPasses>
+  <LetterFeenixPasses>一只芬尼克斯正路过这个地区。\n\n这种传奇生物就是火焰的化身。没错，它就是一个活的火源，芬尼克斯的心在黑市上是属于有价无市的东西。\n\n这是一种伴随着火焰的生物，如果激怒了它，你会看到整个殖民地都被火焰吞噬。\n\n们可以被驯服，但是只有最勇敢的人才能完成这项艰巨的任务，当然，还要提一句，这个人还要不怕火！</LetterFeenixPasses>
 
   <!-- Kirin passes -->
-  <LetterLabelIcicatPasses>冰麟！</LetterLabelIcicatPasses>
-  <LetterIcicatPasses>一只冰麟路过这个地区。\n\n这是一种孤寂而平和的传奇生物，它也被称为“冰霜化身”。没错，它就是一个活的冰雪之源，冰麟的心在黑市上是属于有价无市的东西。 \n\n虽然性情温顺，但是一头愤怒的冰麟一定会让你终身难忘。\n\n它们可以被驯服，但是只有最勇敢的人才能完成这项艰巨的任务，当然，还要提一句，这个人还要不怕冷！</LetterIcicatPasses>
+  <LetterLabelIcicatPasses>流浪的冰麟！</LetterLabelIcicatPasses>
+  <LetterIcicatPasses>一只冰麟路过这个地区。\n\n这是一种孤寂而平和的传奇生物，它也被称为“冰霜化身”。没错，它就是一个活的冰雪之源，冰麟的心在黑市上是属于有价无市的东西。\n\n虽然性情温顺，但是一头愤怒的冰麟一定会让你终身难忘。\n\n它们可以被驯服，但是只有最勇敢的人才能完成这项艰巨的任务，当然，还要提一句，这个人还要不怕冷！</LetterIcicatPasses>
 
   <!-- Raptor Arrived -->
-  <LetterLabelRaptorArrived>翼猛龙！</LetterLabelRaptorArrived>
-  <RaptorArrived>一群翼猛龙正在本区域猎食！最好离它们远点！哈，是的！远远的，你不知道它们什么时候会出现在你面前，当你看见它们的时候，剩下的念头就只有一个——跑吧！或许还有一个，尖叫！！！</RaptorArrived>
+  <LetterLabelRaptorArrived>迅猛龙群！</LetterLabelRaptorArrived>
+  <RaptorArrived>不知道哪儿来的一群迅猛龙来到本区域猎食！最好离它们远点！哈，是的！远远的，你不知道它们什么时候会出现在你面前，当你看见它们的时候，剩下的念头就只有一个——跑吧！或许还有一个，尖叫！！！</RaptorArrived>
 
   <!-- DevourersCrops -->
   <DevourersCropsTitle>害虫肆虐</DevourersCropsTitle>
   <DevourersCropsText>你的殖民地里不知道从哪里冒出一堆奇怪的害虫，它们好像什么东西都吃，你最好尽快把有用的东西搬离害虫活动区域。</DevourersCropsText>
 
   <!-- Hungry critters -->
-  <HungryFlockTitle>发疯的小动物！</HungryFlockTitle>
-  <HungryFlockText>一群不知道受了什么刺激的小动物出现在这个地区，它们疯了一般冲向你的殖民者们。你可以想办法把它们变成你的存粮，或者找个安全的地方躲避，过两天它们就会离开。</HungryFlockText>
+  <HungryFlockTitle>小虫子（污秽环境）</HungryFlockTitle>
+  <HungryFlockText>你的一个房间太脏了，变成了很多小虫子的安乐窝，它们能在这里找到想要的一切，不过你可能不会喜欢的！</HungryFlockText>
 
   <!-- Malaria raid -->
   <LabelMalariaRaid>疟疾散播</LabelMalariaRaid>
-  <DescMalariaRaid>本地的大量蚊子导致疟疾横行，你最好小心那些蚊子！</DescMalariaRaid>
+  <DescMalariaRaid>本地突发疟疾横行，你最好小心那些蚊子！</DescMalariaRaid>
 
   <!-- Flea raid -->
   <LabelFleaRaid>瘟疫散播</LabelFleaRaid>
-  <DescFleaRaid>本地的大量跳蚤导致瘟疫迅速传播，你最好处理下不停增长的跳蚤！</DescFleaRaid>
+  <DescFleaRaid>本地突发瘟疫散播，你最好处理下数量不停增长的跳蚤！</DescFleaRaid>
+
+  <GeostormLabel>地质风暴</GeostormLabel>
+  <GeostormDesc>一场行星级别的灾难事件导致全球规模的严重自然灾害。\n明天？也许没有明天了。</GeostormDesc>
 
   <!-- Swarm -->
   <LetterLabelSwarm>虫群！</LetterLabelSwarm>
-  <SwarmArrived>一大群具有极强攻击性的虫子突然出现在这个地区。 \n别想其他的了，赶快回到基地，剩下的就只有等虫子们自己散去了！</SwarmArrived>
+  <SwarmArrived>一大群具有极强攻击性的虫子突然出现在这个地区。\n别想其他的了，赶快回到基地，剩下的就只有等虫子们自己散去了！</SwarmArrived>
 
   <!-- Pests -->
-  <PestsLabel>害虫!</PestsLabel>
-  <PestsDesc>你的殖民地田地里不知道从哪里冒出一堆作物害虫，你最好在它们把你的农作物啃光前处理掉它们。</PestsDesc>
+  <PestsLabel>害虫！</PestsLabel>
+  <PestsDesc>你殖民地的田地里不知道从哪里冒出一堆作物害虫，你最好在它们把你的农作物啃光前处理掉它们。</PestsDesc>
 
   <!-- Animal Genocide -->
   <LabelAG>动物灭绝</LabelAG>
-  <DescAG>随着一股神秘气息的飘过，这个区域的动物开始不断死亡。 \n但是，你却发现，所有的人类生物却毫发无伤，真是奇怪！</DescAG>
+  <DescAG>随着一股神秘气息的飘过，这个区域的动物开始不断死亡。\n但是，你却发现，所有的人类生物却毫发无伤，这说明了在这个边缘世界一定还有某种你所不知的神秘力量！</DescAG>
 
   <!-- Accidental Explosion -->
   <LabelAE>意外爆炸</LabelAE>
@@ -510,13 +539,13 @@
   <DescHC>一群饥饿的肉食动物出现在本地区，它们四处寻找食物！对，别看了，你的殖民者们就很像是合适的食物！！！</DescHC>
 
   <!-- Nuclear Incident -->
-  <NEDesc>警告!!! 核反应堆发生爆炸！</NEDesc>
+  <NEDesc>警告！！！核反应堆发生爆炸！</NEDesc>
   <NELabel>核事故</NELabel>
 
   <!-- Rage Virus -->
-  <LabelRVH>警告：狂犬病毒!</LabelRVH>
+  <LabelRVH>警告：狂怒病毒！</LabelRVH>
   <DescRVH>一种奇怪的病毒在殖民地爆发开来！本地区的绝大部分人类因为病毒的影响变得疯狂，并且不停的攻击彼此！你的一半殖民者也受到这一影响，你最好赶紧做好补救措施！</DescRVH>
-  <LabelRV>狂犬病毒</LabelRV>
+  <LabelRV>狂怒病毒</LabelRV>
   <DescRV>免疫这种奇怪的病毒！</DescRV>
 
   <!-- Tribal migration -->
@@ -538,382 +567,439 @@
   <CosmicRadiationLevel>看起来辐射强度已经恢复到正常水平了。</CosmicRadiationLevel>
   <LabelCR>强宇宙辐射</LabelCR>
   <DescCR>熬过了强辐射，正努力帮助其他殖民者</DescCR>
-  <DescHCR>来自太阳的过量耀斑辐射已经开始影响本区域的人类生物了。 \n\n每个人都感到焦虑、紧张，而且，这种情况在老年人身上更加明显。</DescHCR>
+  <DescHCR>来自太阳的过量耀斑辐射已经开始影响本区域的人类生物了。 \n\n每个人都感到焦虑、紧张，而且，这种情况在老年人身上更加明显，他们需要更多的休养。</DescHCR>
 
   <!-- Nuclear Fallout -->
   <LabelNF>核辐射</LabelNF>
-  <DescNF>我的天！辐射尘四处弥漫！生物都在慢慢死亡！要整整100天我们才能熬过铀元素的半衰期！</DescNF>
+  <DescNF>我的天！辐射尘四处弥漫！生物都在慢慢死亡！要知道铀元素的半衰期要整整100天！（译者注：此处请勿对照现实）</DescNF>
 
   <!-- Plunderers -->
   <LetterLabelPlunderersArrived>怪虫猎手！</LetterLabelPlunderersArrived>
-  <PlunderersArrived>Some scouts from perhaps a nearby insectoid hive are poking around your territory. They will no doubt act as menace to both your colonists and ecosystem while they look about. Careful, it looks as though they'll engage any colonists that get too close!</PlunderersArrived>
-  <KillingSpree> 准备袭击 </KillingSpree>
+  <PlunderersArrived>一些可能是来自附近区域虫巢的侦查猎手虫出现在你殖民地附近。要注意这些危险的虫子，它们无疑会对你的殖民地造成威胁。一定要小心，它们会突然攻击那些距离较近的的殖民者！</PlunderersArrived>
+  <KillingSpree>准备袭击</KillingSpree>
+
+  <!-- DeepResourcesDeposits -->
+  <DeepResourcesFoundLabel>发现深矿资源</DeepResourcesFoundLabel>
+  <DeepResourcesFoundA>说起来，我们本来是准备在这里种点土豆的，谁知道发现了</DeepResourcesFoundA>
+  <DeepResourcesFoundB>\n\n或许我们应该在这里建一个矿场？</DeepResourcesFoundB>
 
   <!-- MoonFall -->
-  <MoonFallMessageMeteorSwarm>A swarm of meteors -- possibly smaller pieces of your ship -- crosses the sky, burning up in the atmosphere。</MoonFallMessageMeteorSwarm>
-  <MoonFallMessageMeteorSwarmTribal>A swarm of meteors flame across the sky, but none crash to the ground near you。</MoonFallMessageMeteorSwarmTribal>
-  <SkyFallLetterLabelMeteorite>Large Ship Chunk</SkyFallLetterLabelMeteorite>
-  <SkyFallMeteorite>A lump of {0} just crashed to the ground. It was presumably once part of your ship, but the forces that ripped the ship apart, followed by the heat of uncontrolled reentry, have left nothing but a misshapen mass。</SkyFallMeteorite>
-  <MoonFallLetterLabelMeteoriteTribal>Meteorite</MoonFallLetterLabelMeteoriteTribal>
-  <MoonFallMeteoriteTribal>A large meteorite has struck ground in the area. It has left behind a lump of {0}。</MoonFallMeteoriteTribal>
-  <MoonFallLetterLabelFlashstorm>Flashstorm</MoonFallLetterLabelFlashstorm>
-  <MoonFallFlashstorm>Ionization in the atmosphere from the recent cascade of ship chunks and meteorites has caused a localized flashstorm. This can cause massive fires。</MoonFallFlashstorm>
-  <MoonFallFlashstormTribal>The gods are angry again, but instead of hurling rocks, they now hurl lightning. A flashstorm has begun. Beware of fires。</MoonFallFlashstormTribal>
-  <SkyFallRefugeePodCrash>You've detected an escape pod crashing hard nearby.\n\nThe occupant is an old acquaintance from your ship, who's agreed to join you。</SkyFallRefugeePodCrash>
+  <MoonFallMessageMeteorSwarm>一大堆的流星————也有可能是你飞船的小碎片————剧烈燃烧着划过天空。</MoonFallMessageMeteorSwarm>
+  <MoonFallMessageMeteorSwarmTribal>成片的流星划过天空，但却没有落到你的周围。</MoonFallMessageMeteorSwarmTribal>
+  <SkyFallLetterLabelMeteorite>大型飞船残骸</SkyFallLetterLabelMeteorite>
+  <SkyFallMeteorite>一大块{0}刚刚坠毁到地面上。这东西看起来应该是你曾经飞船的一部分，不过因为结构性损坏产生的巨大撕扯力以及无控制坠落摩擦产生的热量灼烧，这东西现在已经变成了一团奇形怪状的东西。</SkyFallMeteorite>
+  <MoonFallLetterLabelMeteoriteTribal>陨星</MoonFallLetterLabelMeteoriteTribal>
+  <MoonFallMeteoriteTribal>一颗巨大的陨石撞到了地上。它留下了一块{0}。</MoonFallMeteoriteTribal>
+  <MoonFallLetterLabelFlashstorm>闪电风暴</MoonFallLetterLabelFlashstorm>
+  <MoonFallFlashstorm>最近一连串的飞船碎片和陨石在大气中产生的电离作用造成了局部的闪电风暴。这可能会导致大规模的火灾。</MoonFallFlashstorm>
+  <MoonFallFlashstormTribal>众神再次愤怒，但他们不再扔星星，而是释放闪电。一场闪电风暴已经开始。当心火灾。</MoonFallFlashstormTribal>
+  <SkyFallRefugeePodCrash>你发现有一个逃生舱掉落在附近。\n\n根据它发出的信号你能确认仓里的人是你在飞船上认识的某个人，这个人应该会加入你的殖民地。</SkyFallRefugeePodCrash>
 
   <!-- Suicide event  -->
-  <LabelTrySuicide>Attempted Suicide</LabelTrySuicide>
-  <DescTrySuicide> tried to commit suicide, but it did not work out。</DescTrySuicide>
-  <LabelSuicide>Prisoner Suicide</LabelSuicide>
-  <DescSuicide_A>One of your prisoners died in the cell and has left a final message behind. It reads: "Cameras everywhere. Watching. Always watching. The walls all around are moving, watching. Can't sleep, always watching. You see me and I don't see you! No lights here, no no. Watch you in the dark they do. Cameras, eyes of spies! You'll watch me no more!"</DescSuicide_A>
-  <DescSuicide_B>Your prisoner smashed it's head against the wall and has died. A small piece of paper nearby has a message that was hastily scrawled. It reads: "I thought there would be easy cash in this Colony...but instead I got trapped into something horrible. I think I'm going crazy. This food...the Warden said it was "yummy, tasty, mmm" but I don't believe it. Something tastes wrong about it. My old injuries still haunt me, like a nightmare that never ends. Even the barely audible sound of the door causes me to shudder as if it were thunder"。</DescSuicide_B>
-  <DescSuicide_C>A prisoner has committed suicide shortly after asking a Colonist: "Where are my meals? I need nourishment! Muffalo meat or something! GIVE ME FOOD!"</DescSuicide_C>
-  <DescSuicide_D>A prisoner who was found dead had kept a diary with multiple entries. It reads: "A rough cough. I feel cold and hot. I caught something, a flu maybe? No ventilation in here. Cough getting worse. My mouth is dry, it tastes like rust*blood splatter covers some words*rible. I see people sometimes, they promised me a future. To think I even liked it! I was promised food, a good bed and could one day use my skills again. I believed that, but not anymore. I need*blood splatter covers more words* worth a try。</DescSuicide_D>
-  <DescSuicide_E>A prisoner was found deceased under the bed. A small note was crumpled up nearby. It angrily reads: "They wanted to operate on me! They were going to harvest me for organs! These people are crazies! YOU WON'T HARVEST ME ALIVE! I WON'T LET YOU!</DescSuicide_E>
-  <DescSuicide_F>A prisoner has succumbed. A quick look at the body shows signs of infection and gangrene in hidden areas. The pain must have be extruciating。</DescSuicide_F>
-  <DescSuicide_G>A prisoner has perished. Scrawled into the floor is a note. It reads: "Suddenly no one comes? Am I going to die here like an abandoned dog in a cage?"。</DescSuicide_G>
-  <DescSuicide_H>One of your prisoners suddenly couldn't stand up. The doctor's first thought was that the prisoner's psyche was tender, overwhelmed by the anxiety and depression from imprisonment. Then the prisoner suddenly died! Upon the autopsy examination, a long fat stick was found up the prisoner's rear and had gouged the intestines. What an unfortunate circumstance。</DescSuicide_H>
-  <DescSuicide_I>A prisoner has died under mysterious circumstances. The body was found in the fetal position with its hands covering its eyes. The prisoner seems to have choked when it swallowed its own tongue。</DescSuicide_I>
-  <DescSuicide_J>A prisoner has died under mysterious circumstances. A quick inspection of the body tells the tale. The prisoner seems to have tried hanging itself with a boot lace, but the lace broke. The prisoner then tried to gnaw off the door handle, as indicated by the bloody bite marks on the door. Failing that the prisoner swallowed part of the boot, where it got lodged in the throat and the prisoner suffocated。</DescSuicide_J>
-  <DescSuicide_K>The prisoner died under mysterious circumstances. A medical summary paper was found nearby. It reads: "Patient has distemper, intestinal ticks and show signs of being in a delirious state. Patient has tried to eat it's own feet and hands. I recommend isolating the patient and attempting experimental procedures. It might have lupus."</DescSuicide_K>
-  <DescSuicide_L>A prisoner has been found dead under the bed, and a scrap of paper was found nearby. It looks like a mission report and it reads: "Here is your job. Land at the listed co-ordinates and grab some weapons, ammunition, rations and armor. Then follow us and assault the illegal colony. They shouldn't be here and we're going to enforce that. You may be a rookie but this will be easy. They won't know what hit 'em!"。</DescSuicide_L>
-  <DescSuicide_M>A prisoner has died. A message was found in a notebook. It reads: "We were waiting for orders when suddenly some air defense shot down our ship! I survived by jumping in the escape pod. When the pod opened I was immediately under fire. I was caught and imprisoned. I don't know what happened to the others. I don't think I'll be leaving this place alive. If you're still monitoring me, let them know what happened and tell them to stay away from this place"。</DescSuicide_M>
-  <DescSuicide_N>A prisoner has suddenly died. A strange message was found scrawed on a medical paper. It reads "They wanted to do a test procedure on me with experimental bionics and regenerative tissue. They wanted to cut off my leg. So, I passed. I'll show them that I don't need medical help! My flesh and blood is my own, a little infection won't stop me! I AM INVINCIBLE!"</DescSuicide_N>
+  <LabelTrySuicide>自杀未遂</LabelTrySuicide>
+  <DescTrySuicide>试图自杀，但没有成功。</DescTrySuicide>
+  <LabelSuicide>囚犯自杀</LabelSuicide>
+  <DescSuicide_A>你的一个囚犯死在牢房里，留下一段信息。上面写着：“到处都是摄像头。监视，一直在监视。四周的墙都在动，不停的监视。无法入睡，不停监视。你看见我，我却看不见你！这里没有灯，什么都没有，而他们却能在黑暗中监视你。那些摄像头就像间谍的眼睛！你再也没法监视我了！”</DescSuicide_A>
+  <DescSuicide_B>你的囚犯用头撞墙死了。旁边的一张小纸条上写着潦草的信息。上面写着：我以为在这个殖民地很容易赚钱……但我却陷入了可怕的困境。我想我要疯了。这种食物……监狱长说它“好吃，好吃，嗯”，但我不相信。味道有点不对劲。我的旧伤仍然困扰着我，就像一个永无尽头的噩梦。即使是勉强听得见的开门声也会使我像听见雷声一样瑟瑟发抖。</DescSuicide_B>
+  <DescSuicide_C>一名囚犯在问殖民者：“我的食物在哪里？我需要营养！雪牛肉什么的都行！我要食物！”，之后不久就自杀了。</DescSuicide_C>
+  <DescSuicide_D>一名被发现死亡的囚犯曾写过一本有多项记录的日记。上面写着:“剧烈咳嗽。我觉得又冷又热。我得了什么，也许是流感?这里不通风。咳嗽越来越严重。口干舌燥，尝起来像铁锈”鲜血飞溅覆盖了一些文字。“我有时见到一些人，他们承诺给我一个未来。想想我甚至喜欢它！他们答应给我食物，一张好床，而且有一天我还能再次使用我的技能。我相信，但不再相信了。我需要*血迹覆盖更多的话*值得一试”。</DescSuicide_D>
+  <DescSuicide_E>一名囚犯被发现死在床下。旁边有一张小纸条揉成一团。上面愤怒地写道：“他们想给我做手术！”他们要收割我的器官！这些人都是疯子！你们不会得逞的！我不会让你得逞的！</DescSuicide_E>
+  <DescSuicide_F>一个囚犯死亡了。经过快速检查尸体，在隐藏的地方有感染和坏疽的迹象，这人死前一定承受了很大的痛苦。</DescSuicide_F>
+  <DescSuicide_G>一个囚犯死亡。地板上有一张纸条。上面写着：“突然没人来了？难道我会像只被遗弃在笼子里的狗一样，在这里死去吗？”</DescSuicide_G>
+  <DescSuicide_H>你的一个囚犯突然站不起来了。医生首先想到的是，囚犯的心理很脆弱，被监禁带来的焦虑和抑郁压垮了。然后囚犯突然死亡！经过尸检，在犯人的屁股上发现了一根又长又粗的棍子，把他的肠子凿开了。真不幸！</DescSuicide_H>
+  <DescSuicide_I>一名囚犯神秘死亡。尸体被发现时是蜷缩成一团的姿势，用双手蒙住眼睛。囚犯似乎已经窒息,因为这家伙在试图吞下自己舌头的时候噎住了。</DescSuicide_I>
+  <DescSuicide_J>一名囚犯神秘死亡。对尸体的快速检查还原了当时的部分情况：囚犯似乎试图用鞋带上吊，但鞋带断了。然后，从门上血迹斑斑的咬痕可以看出，囚犯曾经试图咬掉门把手，但是也没有成功，然后，犯人吞下了靴子的一部分，结果靴子卡在喉咙里，犯人窒息而死。</DescSuicide_J>
+  <DescSuicide_K>囚犯神秘死亡。在附近发现了一篇医检报告。上面写道：“病人有腹胀、肠道蠕虫，并伴有神志不清的迹象。病人曾试图吃掉自己的手和脚。建议立刻隔离患者并尝试实验医疗程序。此外，可能还伴有狼疮。”</DescSuicide_K>
+  <DescSuicide_L>一名囚犯被发现死在床下，附近还发现了一张纸片。它看起来像一份任务报告，上面写着：“这是你的工作。在列出的坐标地空降，拿取一些武器弹药、口粮和其他装备。然后跟着我们，攻击那里的非法殖民地。他们不应该出现在这里，我们要主动出击。你也许是第一次执行这样的任务，但这非常简单。他们不会知道是怎么遭受袭击的！”</DescSuicide_L>
+  <DescSuicide_M>一个囚犯死了。在一个笔记本里发现了一条信息。上面写着：“我们正在等待命令，突然防空部队击落了我们的船！”我跳进逃生舱才活了下来。当逃生舱打开时，我立即遭到了攻击并被抓了起来，关进了监狱。我不知道其他人怎么样了。我想我无法活着离开这里了。如果你还在监视我，让他们知道发生了什么，告诉其他人远离这个地方。”</DescSuicide_M>
+  <DescSuicide_N>一个囚犯突然死了。在一份医检报告上发现了一条奇怪的信息。上面写着：“他们想用实验仿生学装置和再生组织部件在我身上做实验。他们想切掉我的腿。我挺过去了。我要让他们知道我不需要任何医疗！我的身体由我做主，一点小小的感染没法撼动我。我！不可战胜！”。</DescSuicide_N>
 
   <!-- Tent -->
-  <RepTent>Repair the tent</RepTent>
-  <TentneededRes>needed</TentneededRes>
-  <DamagedTent>Damaged tent deployed. Some walls will be missing。</DamagedTent>
-  <TentPlacementBlocked>Tent placement blocked by a item, pawn or a building. Please deploy on a suitable space。</TentPlacementBlocked>
-  <NoResFoundOne>There is no</NoResFoundOne>
-  <NoResFoundTwo>available to repair the tent</NoResFoundTwo>
-  <NoResFoundTh>Need</NoResFoundTh>
-  <TentPlacementBlockedTree>Tent placement blocked by a tree. Please deploy on a suitable space。</TentPlacementBlockedTree>
-  <TentPlacementBlockedSimple>Tent placement blocked. Please deploy on a suitable space。</TentPlacementBlockedSimple>
-  <CantPlaceTent>Cannot place a fully damaged tent。</CantPlaceTent>
-  <DeployTentAt>Deploy tent at </DeployTentAt>
+  <RepTent>修理帐篷</RepTent>
+  <TentneededRes>需求</TentneededRes>
+  <DamagedTent>部署损坏的帐篷。有些墙可能不见了。</DamagedTent>
+  <TentPlacementBlocked>帐篷部署进程被某些物品、任务或者建筑所中断。请将帐篷部署在空旷的开阔地！</TentPlacementBlocked>
+  <NoResFoundOne>这儿没有</NoResFoundOne>
+  <NoResFoundTwo>可用于修理帐篷</NoResFoundTwo>
+  <NoResFoundTh>需要</NoResFoundTh>
+  <TentPlacementBlockedTree>帐篷部署进程被某些树木中断。请将帐篷部署在空旷的开阔地！</TentPlacementBlockedTree>
+  <TentPlacementBlockedSimple>帐篷部署进程被中断。请将帐篷部署在空旷的开阔地！</TentPlacementBlockedSimple>
+  <CantPlaceTent>不能部署一个完全损坏的帐篷。</CantPlaceTent>
+  <DeployTentAt>部署帐篷于</DeployTentAt>
 
   <!-- Cond. deconstructor -->
-  <DeconstructConduitsLabel>Deconstruct Conduits</DeconstructConduitsLabel>
+  <DeconstructConduitsLabel>拆除电线</DeconstructConduitsLabel>
 
   <!-- Lightning Rod -->
-  <RL_CannotChangeMod>Cannot change mode now, rod still discharging。</RL_CannotChangeMod>
-  <RL_ChangeMode>Change Mode</RL_ChangeMode>
-  <RL_PowerSavingMode>Power saving mode(Click to change modes): Does not consume power when idle, outputs a lot of power when struck, but only has a</RL_PowerSavingMode>
-  <RL_ChanceToAttract>chance to attract a lightning bolt and cools down</RL_ChanceToAttract>
-  <RL_Slower>slower</RL_Slower>
-  <RL_NormalMode>Normal mode(Click to change modes): Consumes a bit of power when idle, outputs enough power to sustain itself in a storm and has a 100% chance to attract a lightning bolt. Can attract lightning at a</RL_NormalMode>
-  <RL_ChanceOverwhelmed>chance when overwhelmed。</RL_ChanceOverwhelmed>
-  <RL_FastCooldown>Fast cooldown mode(Click to change modes): Cools down 4x faster than normal but consumes triple the amount of power. Has a 100% chance to attract a lightning bolt. Can attract lightning at a</RL_FastCooldown>
-  <RL_Cooldown>Cooldown</RL_Cooldown>
-  <RL_Standby>Standby。</RL_Standby>
-  <RL_Discharging>Discharging。</RL_Discharging>
-  <RL_Overwhelmed>Overwhelmed。</RL_Overwhelmed>
-  <RL_PowerConsumption>Power consumption</RL_PowerConsumption>
+  <RL_CannotChangeMod>无法改变模式, 针体仍然在放电。</RL_CannotChangeMod>
+  <RL_ChangeMode>改变模式</RL_ChangeMode>
+  <RL_PowerSavingMode>节能模式（点击改变模式）：闲置时不消耗能量，被击中时释放大量能量，但是仅有</RL_PowerSavingMode>
+  <RL_ChanceToAttract>的几率吸引闪电和冷却</RL_ChanceToAttract>
+  <RL_Slower>减缓</RL_Slower>
+  <RL_NormalMode>普通模式（点击改变模式）：空闲时消耗少量能源，能够在风暴中输出足够的能量来维持自身，并有100%的几率吸引到闪电。 有</RL_NormalMode>
+  <RL_ChanceOverwhelmed>的几率在被覆盖时吸引到闪电。</RL_ChanceOverwhelmed>
+  <RL_FastCooldown>快速冷却模式（点击改变模式）：消耗3倍于普通模式的电量来达到4倍的冷却速度。100% 的几率吸引到闪电。有</RL_FastCooldown>
+  <RL_Cooldown>冷却</RL_Cooldown>
+  <RL_Standby>待命。</RL_Standby>
+  <RL_Discharging>放电。</RL_Discharging>
+  <RL_Overwhelmed>覆盖。</RL_Overwhelmed>
+  <RL_PowerConsumption>能源消耗</RL_PowerConsumption>
 
 
   <!-- IonSatelliteBroadcaster -->
-  <supervize_sientist_IC>The ion cannon controller is not supervized by a skilled scientist (level 10 research)。</supervize_sientist_IC>
-  <supervize_controller_IC>The ion cannon controller is not supervized。</supervize_controller_IC>
-  <controller_not_ready_IC>The ion cannon controller is not ready。</controller_not_ready_IC>
-  <CommunicationSetup_IC>Communication setup: </CommunicationSetup_IC>
-  <Connection_IC>Connection: </Connection_IC>
-  <Connecting_IC>connecting</Connecting_IC>
-  <Connected_IC>connected</Connected_IC>
+  <supervize_sientist_IC>离子炮控制器未被高级别科学家操作（智识10级）。</supervize_sientist_IC>
+  <supervize_controller_IC>离子炮控制器有被操作。</supervize_controller_IC>
+  <controller_not_ready_IC>离子炮控制器还没准备好。</controller_not_ready_IC>
+  <CommunicationSetup_IC>通讯设置：</CommunicationSetup_IC>
+  <Connection_IC>连接：</Connection_IC>
+  <Connecting_IC>连接中...</Connecting_IC>
+  <Connected_IC>已连接</Connected_IC>
 
   <!-- NoMoreThanOne -->
-  <NoMoreThanOne>Can't to build more then one for the map!</NoMoreThanOne>
+  <NoMoreThanOne>这个建筑在地图上只能有一个。</NoMoreThanOne>
 
   <!-- Extractors -->
-  <ChangeResourceLabel>Change resource</ChangeResourceLabel>
-  <ChangeResourceDesc>Click to change resource</ChangeResourceDesc>
-  <SelectedResourceLabel>Selected Resource: {0}</SelectedResourceLabel>
-  <OnFissureReportString>Require fissure first!</OnFissureReportString>
-  <FillFissureDesc>Fills the fissure in</FillFissureDesc>
-  <FillFissureLabel>Fill in fissure</FillFissureLabel>
-  <FillFissureReq>Are you sure you wish to fill in this fissure?</FillFissureReq>
-  <BeginDrillLabel>Start Drill</BeginDrillLabel>
-  <BeginDrillDesc>Click here to begin the drilling process。</BeginDrillDesc>
-  <PauseDrillLabel>Pause Drill</PauseDrillLabel>
-  <PauseDrillDesc>Click here to pause the drilling process。</PauseDrillDesc>
-  <ResumeDrillLabel>Resume Drill</ResumeDrillLabel>
-  <ResumeDrillDesc>Click here to resume the drilling process。</ResumeDrillDesc>
-  <OperationNotBegun>Operation has not begun</OperationNotBegun>
-  <DrillProgress>Progress: </DrillProgress>
-  <Exhaustresource>Exhaust resource in: </Exhaustresource>
-  <LetterLabelExhaustedMine>Exhausted Mine</LetterLabelExhaustedMine>
-  <ExhaustedMine>One of your Mine Extractors is exhausted. Disassemble it and build a new one。</ExhaustedMine>
-  <LetterLabelExhaustedFissure>Exhausted Oil Fissure</LetterLabelExhaustedFissure>
-  <ExhaustedFissure>One of your Oil Fissures is exhausted. Disassemble the Oil Extrator and drill a new Oil Fissure。</ExhaustedFissure>
+  <ChangeResourceLabel>改变资源</ChangeResourceLabel>
+  <ChangeResourceDesc>点击改变资源</ChangeResourceDesc>
+  <SelectedResourceLabel>已选择资源：{0}</SelectedResourceLabel>
+  <OnFissureReportString>需要裂缝！</OnFissureReportString>
+  <FillFissureDesc>回填裂隙于</FillFissureDesc>
+  <FillFissureLabel>回填裂隙</FillFissureLabel>
+  <FillFissureReq>你确定要回填这个裂隙？</FillFissureReq>
+  <BeginDrillLabel>开始钻孔</BeginDrillLabel>
+  <BeginDrillDesc>点击开始钻孔工作。</BeginDrillDesc>
+  <PauseDrillLabel>暂停钻孔</PauseDrillLabel>
+  <PauseDrillDesc>点击暂停钻孔工作。</PauseDrillDesc>
+  <ResumeDrillLabel>继续钻孔</ResumeDrillLabel>
+  <ResumeDrillDesc>点击继续钻孔工作。</ResumeDrillDesc>
+  <OperationNotBegun>操作没有开始</OperationNotBegun>
+  <DrillProgress>进度：</DrillProgress>
+  <Exhaustresource>资源耗尽于：</Exhaustresource>
+  <LetterLabelExhaustedMine>矿藏耗尽</LetterLabelExhaustedMine>
+  <ExhaustedMine>你的一个采矿机耗尽了。你可以拆除它并造一个新的。</ExhaustedMine>
+  <LetterLabelExhaustedFissure>耗尽的原油裂隙</LetterLabelExhaustedFissure>
+  <ExhaustedFissure>你的一个原油裂隙耗尽了。拆除原油提取器，再钻一个新的原油裂隙。</ExhaustedFissure>
 
   <!-- Containers -->
-  <Items>Items</Items>
-  <Container_StoredItemsCount>Stored items count: {0} / {1}</Container_StoredItemsCount>
-  <Container_Info>Info</Container_Info>
-  <Container_Drop>Drop</Container_Drop>
-  <RotMultiplier>Rot multiplier</RotMultiplier>
+  <Items>物品</Items>
+  <Container_StoredItemsCount>存储物品计数：{0}/{1}</Container_StoredItemsCount>
+  <Container_Info>信息</Container_Info>
+  <Container_Drop>丢弃</Container_Drop>
+  <RotMultiplier>腐败系数</RotMultiplier>
 
   <!-- Chop wood designator -->
-  <ChopWoodLabel>Cut Tree</ChopWoodLabel>
-  <ChopWoodDesc>Marks fully grown trees to be chopped down for Wood Logs。</ChopWoodDesc>
+  <ChopWoodLabel>砍树</ChopWoodLabel>
+  <ChopWoodDesc>标记完全长成的树木用于砍伐成为原木。</ChopWoodDesc>
 
   <!-- HarvestEdibles designator -->
-  <DesignatorPlantsHarvestEdibles>Harvest Edibles</DesignatorPlantsHarvestEdibles>
-  <DesignatorPlantsHarvestEdiblesDesc>Marks human edible plants to be harvested for their food or other products。</DesignatorPlantsHarvestEdiblesDesc>
-  <MessageMustDesignateHarvestableFruits>Must designate harvestable sufficiently-grown human edible plants。</MessageMustDesignateHarvestableFruits>
+  <DesignatorPlantsHarvestEdibles>收获（可食用）</DesignatorPlantsHarvestEdibles>
+  <DesignatorPlantsHarvestEdiblesDesc>标记收获可以食用的植物或者其它用途。</DesignatorPlantsHarvestEdiblesDesc>
+  <MessageMustDesignateHarvestableFruits>必须指定成熟度足够的可食用植物。</MessageMustDesignateHarvestableFruits>
 
 
   <!-- Collect designators -->
-  <DesignatorCollectSandLabel>Collect Sand</DesignatorCollectSandLabel>
-  <DesignatorCollectSandDesc>Use this to collect Sand. This is a low priority "Mining" task。</DesignatorCollectSandDesc>
-  <DesignatorCollectSandReportString>You can not collect here. You need sand terrain to collect Sand。</DesignatorCollectSandReportString>
+  <DesignatorCollectSandLabel>收集沙子</DesignatorCollectSandLabel>
+  <DesignatorCollectSandDesc>用于收集沙子。这是一项低优先级的“开采”工作。</DesignatorCollectSandDesc>
+  <DesignatorCollectSandReportString>这里无法收集。请在沙地地形收集沙子。</DesignatorCollectSandReportString>
 
-  <DesignatorCollectPeatLabel>Collect Peat</DesignatorCollectPeatLabel>
-  <DesignatorCollectPeatDesc>Use this to collect peat. This is a low priority "Mining" task。</DesignatorCollectPeatDesc>
-  <DesignatorCollectPeatReportString>You can not collect here. You need swamp terrain to collect Peat。</DesignatorCollectPeatReportString>
+  <DesignatorCollectPeatLabel>收集泥炭</DesignatorCollectPeatLabel>
+  <DesignatorCollectPeatDesc>用于收集泥炭。这是一项低优先级的“开采”工作。</DesignatorCollectPeatDesc>
+  <DesignatorCollectPeatReportString>这里无法收集。请在沼泽等湿软地形收集。</DesignatorCollectPeatReportString>
 
-  <DesignatorCollectCrushedstoneLabel>Collect Rubble</DesignatorCollectCrushedstoneLabel>
-  <DesignatorCollectCrushedstoneDesc>Use this to collect Rubble. This is a low priority "Mining" task。</DesignatorCollectCrushedstoneDesc>
-  <DesignatorCollectCrushedstoneReportString>You can not collect here. You need gravel terrain to collect Rubble。</DesignatorCollectCrushedstoneReportString>
+  <DesignatorCollectCrushedstoneLabel>收集碎石</DesignatorCollectCrushedstoneLabel>
+  <DesignatorCollectCrushedstoneDesc>用于收集碎石。这是一项低优先级的“开采”工作。</DesignatorCollectCrushedstoneDesc>
+  <DesignatorCollectCrushedstoneReportString>这里无法收集。请在砂砾地形收集。</DesignatorCollectCrushedstoneReportString>
 
-  <DesignatorCollectSoftClayLabel>Collect Soft Clay</DesignatorCollectSoftClayLabel>
-  <DesignatorCollectSoftClayDesc>Designate areas of mud or shallow water to collect Soft Clay. This is a low priority "Mining" task。</DesignatorCollectSoftClayDesc>
-  <DesignatorCollectSoftClayReportString>You can not collect here. You need water or mud terrain to collect Soft Clay。</DesignatorCollectSoftClayReportString>
+  <DesignatorCollectSoftClayLabel>收集软黏土</DesignatorCollectSoftClayLabel>
+  <DesignatorCollectSoftClayDesc>在泥地或者浅水地形收集软黏土。这是一项低优先级的“开采”工作。</DesignatorCollectSoftClayDesc>
+  <DesignatorCollectSoftClayReportString>这里无法收集。请在泥地或者浅水地形收集。</DesignatorCollectSoftClayReportString>
 
 
   <!-- Apparel mote -->
-  <EvasionLabel>Evasion</EvasionLabel>
-  <AbsorbedLabel>Absorbed</AbsorbedLabel>
+  <EvasionLabel>闪避</EvasionLabel>
+  <AbsorbedLabel>吸收</AbsorbedLabel>
 
   <!-- Dermal Regenerator -->
-  <UseDermalRegenerator>Use Dermal Regenerator</UseDermalRegenerator>
-  <Waitingforpatient>Waiting for patient。</Waitingforpatient>
-  <ScanningTotalProgress>Scanning... Total Progress: </ScanningTotalProgress>
-  <TreatingTotalProgress>Treating... Total Progress: </TreatingTotalProgress>
-  <DermalRegeneratorInUse>Dermal Regenerator in use。</DermalRegeneratorInUse>
-  <DermalRegeneratorNoPower>Dermal Regenerator doesnt have power。</DermalRegeneratorNoPower>
-  <DermalRegeneratorPowerInterupted>Dermal Regenerator power interupted。</DermalRegeneratorPowerInterupted>
-  <DermalRegeneratorPowerTreatmentComplete>Treatment complete。</DermalRegeneratorPowerTreatmentComplete>
-  <DermalRegeneratorNoInjuries>No surface injuries discovered。</DermalRegeneratorNoInjuries>
+  <UseDermalRegenerator>使用皮肤再生设备</UseDermalRegenerator>
+  <Waitingforpatient>等待病人。</Waitingforpatient>
+  <ScanningTotalProgress>扫描中... 全程进度：</ScanningTotalProgress>
+  <TreatingTotalProgress>治疗中... 全程进度：</TreatingTotalProgress>
+  <DermalRegeneratorInUse>皮肤再生仪使用中。</DermalRegeneratorInUse>
+  <DermalRegeneratorNoPower>皮肤再生仪未接入电力。</DermalRegeneratorNoPower>
+  <DermalRegeneratorPowerInterupted>皮肤再生仪断电。</DermalRegeneratorPowerInterupted>
+  <DermalRegeneratorPowerTreatmentComplete>治疗完成。</DermalRegeneratorPowerTreatmentComplete>
+  <DermalRegeneratorNoInjuries>未发现皮肤损害。</DermalRegeneratorNoInjuries>
 
 
   <!-- Clutter -->
   <!--  Cabinet  -->
-  <ClutterImNaked>Im naked!</ClutterImNaked>
-  <ClutterStylizeHair>Stylize Hair</ClutterStylizeHair>
-  <ClutterColorCloths>Colorize Cloths</ClutterColorCloths>
-  <ClutterColorPickerButtonOK>OK</ClutterColorPickerButtonOK>
-  <ClutterColorPickerButtonCancel>Cancel</ClutterColorPickerButtonCancel>
-  <ClutterColorPickerButtonApply>Apply</ClutterColorPickerButtonApply>
-  <ClutterColorChangerLabel>empty</ClutterColorChangerLabel>
-  <ClutterColorChangerTitle>Select Apparel Colour</ClutterColorChangerTitle>
-  <ClutterColorChangerButtonAccept>Accept</ClutterColorChangerButtonAccept>
-  <ClutterHairStylerTitle>Go Crazy!</ClutterHairStylerTitle>
+  <ClutterImNaked>我赤裸裸的！</ClutterImNaked>
+  <ClutterStylizeHair>发型</ClutterStylizeHair>
+  <ClutterColorCloths>衣服色彩</ClutterColorCloths>
+  <ClutterColorPickerButtonOK>确定</ClutterColorPickerButtonOK>
+  <ClutterColorPickerButtonCancel>取消</ClutterColorPickerButtonCancel>
+  <ClutterColorPickerButtonApply>应用</ClutterColorPickerButtonApply>
+  <ClutterColorChangerLabel>空</ClutterColorChangerLabel>
+  <ClutterColorChangerTitle>选择服装颜色</ClutterColorChangerTitle>
+  <ClutterColorChangerButtonAccept>同意</ClutterColorChangerButtonAccept>
+  <ClutterHairStylerTitle>去疯狂吧！</ClutterHairStylerTitle>
 
   <!--  Locker  -->
-  <ClutterOwnedBy>nobody</ClutterOwnedBy>
-  <ClutterLockerEmptyTxt1> Empty</ClutterLockerEmptyTxt1>
-  <ClutterLockerEmptyTxt2> Only darkness</ClutterLockerEmptyTxt2>
-  <ClutterLockerEmptyTxt3> Concentrated dust</ClutterLockerEmptyTxt3>
-  <ClutterLockerEmptyTxt4> Reverse engineered sock</ClutterLockerEmptyTxt4>
-  <ClutterMakeOwnerPart1>Make </ClutterMakeOwnerPart1>
-  <ClutterMakeOwnerPart2> owner</ClutterMakeOwnerPart2>
-  <ClutterStoreCloths>Store Cloth Set</ClutterStoreCloths>
-  <ClutterSwitchCloths>Switch Cloth Sets</ClutterSwitchCloths>
-  <ClutterButtonForceChange>Force gear change</ClutterButtonForceChange>
-  <ClutterStringOwnerIs> owner is </ClutterStringOwnerIs>
-  <ClutterStringNoOwner> has no owner。</ClutterStringNoOwner>
-  <ClutterStringStoredGun>Stored Gun: </ClutterStringStoredGun>
-  <ClutterStringStoredApparel>Stored Apparel: </ClutterStringStoredApparel>
+  <ClutterOwnedBy>未指定</ClutterOwnedBy>
+  <ClutterLockerEmptyTxt1>空</ClutterLockerEmptyTxt1>
+  <ClutterLockerEmptyTxt2>仅深色</ClutterLockerEmptyTxt2>
+  <ClutterLockerEmptyTxt3>清洁除尘</ClutterLockerEmptyTxt3>
+  <ClutterLockerEmptyTxt4>逆向工程的袜子</ClutterLockerEmptyTxt4>
+  <ClutterMakeOwnerPart1>使</ClutterMakeOwnerPart1>
+  <ClutterMakeOwnerPart2>所有者</ClutterMakeOwnerPart2>
+  <ClutterStoreCloths>存储衣物设置</ClutterStoreCloths>
+  <ClutterSwitchCloths>切换衣物设置</ClutterSwitchCloths>
+  <ClutterButtonForceChange>强制切换</ClutterButtonForceChange>
+  <ClutterStringOwnerIs>所有者是</ClutterStringOwnerIs>
+  <ClutterStringNoOwner>没有所有者。</ClutterStringNoOwner>
+  <ClutterStringStoredGun>存储的枪支：</ClutterStringStoredGun>
+  <ClutterStringStoredApparel>存储的服装：</ClutterStringStoredApparel>
 
   <!-- BlastDoor -->
-  <BlastDoorJammed>The Blast Door has jammed from taking damage.\nRepair it now in order to close it immediately。</BlastDoorJammed>
-  <BlastDoorClosingSix>Blast Door closing in 6。</BlastDoorClosingSix>
-  <BlastDoorClosingFive>Blast Door closing in 5。</BlastDoorClosingFive>
-  <BlastDoorClosingFour>Blast Door closing in 4。</BlastDoorClosingFour>
-  <BlastDoorClosingThree>Blast Door closing in 3。</BlastDoorClosingThree>
-  <BlastDoorClosingTwo>Blast Door closing in 2。</BlastDoorClosingTwo>
-  <BlastDoorClosingOne>Blast Door closing in 1。</BlastDoorClosingOne>
-  <BlastDoorClosed>Blast Door closed。</BlastDoorClosed>
-  <JammedRepaired>The Jammed Blast Door has been repaired and is now closed。</JammedRepaired>
-  <JammedBudgedClosed>The Jammed Blast Door budged and is now closed。</JammedBudgedClosed>
-  <JammedBudgedWontClose>The Jammed Blast Door budged but it won't close。</JammedBudgedWontClose>
-  <BlastDoorLacksPower>Blast Door lacks power!</BlastDoorLacksPower>
-  <BlastDoorOpeningSix>Blast Door opening in 6。</BlastDoorOpeningSix>
-  <BlastDoorOpeningFive>Blast Door opening in 5。</BlastDoorOpeningFive>
-  <BlastDoorOpeningFour>Blast Door opening in 4。</BlastDoorOpeningFour>
-  <BlastDoorOpeningThree>Blast Door opening in 3。</BlastDoorOpeningThree>
-  <BlastDoorOpeningTwo>Blast Door opening in 2。</BlastDoorOpeningTwo>
-  <BlastDoorOpeningOne>Blast Door opening in 1。</BlastDoorOpeningOne>
-  <BlastDoorOpen>Blast Door open。</BlastDoorOpen>
-  <OpenBlastDoorLabel>Open</OpenBlastDoorLabel>
-  <OpenBlastDoorDesc>Open Blast Door。</OpenBlastDoorDesc>
-  <CloseBlastDoorLabel>Close</CloseBlastDoorLabel>
-  <CloseBlastDoorDesc>Closed Blast Door。</CloseBlastDoorDesc>
+  <BlastDoorJammed>防爆门因为承受伤害而卡住了。\n修复问题才能关门。</BlastDoorJammed>
+  <BlastDoorClosingSix>防爆门关闭倒计时：6</BlastDoorClosingSix>
+  <BlastDoorClosingFive>防爆门关闭倒计时：5</BlastDoorClosingFive>
+  <BlastDoorClosingFour>防爆门关闭倒计时：4</BlastDoorClosingFour>
+  <BlastDoorClosingThree>防爆门关闭倒计时：3</BlastDoorClosingThree>
+  <BlastDoorClosingTwo>防爆门关闭倒计时：2</BlastDoorClosingTwo>
+  <BlastDoorClosingOne>防爆门关闭倒计时：1</BlastDoorClosingOne>
+  <BlastDoorClosed>防爆门已关闭。</BlastDoorClosed>
+  <JammedRepaired>卡住的防爆门现在已经修好并且可以关闭。</JammedRepaired>
+  <JammedBudgedClosed>卡住的防爆门动了一下，现在被关上了。</JammedBudgedClosed>
+  <JammedBudgedWontClose>卡住的防爆门动了一下，但是没有关上。</JammedBudgedWontClose>
+  <BlastDoorLacksPower>防爆门缺乏电力！</BlastDoorLacksPower>
+  <BlastDoorOpeningSix>防爆门开启倒计时：6</BlastDoorOpeningSix>
+  <BlastDoorOpeningFive>防爆门开启倒计时：5</BlastDoorOpeningFive>
+  <BlastDoorOpeningFour>防爆门开启倒计时：4</BlastDoorOpeningFour>
+  <BlastDoorOpeningThree>防爆门开启倒计时：3</BlastDoorOpeningThree>
+  <BlastDoorOpeningTwo>防爆门开启倒计时：2</BlastDoorOpeningTwo>
+  <BlastDoorOpeningOne>防爆门开启倒计时：1</BlastDoorOpeningOne>
+  <BlastDoorOpen>防爆门已开启。</BlastDoorOpen>
+  <OpenBlastDoorLabel>开启</OpenBlastDoorLabel>
+  <OpenBlastDoorDesc>开启防爆门。</OpenBlastDoorDesc>
+  <CloseBlastDoorLabel>关闭</CloseBlastDoorLabel>
+  <CloseBlastDoorDesc>关闭防爆门。</CloseBlastDoorDesc>
 
   <!-- Nuclear Reactor -->
-  <NuclearMeltdownStart>WARNING: Nuclear reactor overheating..。</NuclearMeltdownStart>
+  <NuclearMeltdownStart>警报：核反应堆过热...</NuclearMeltdownStart>
 
   <!-- PL -->
-  <PowerAccumulatedLabel>Power accumulated: </PowerAccumulatedLabel>
+  <PowerAccumulatedLabel>能量积累：</PowerAccumulatedLabel>
 
   <!-- Radiation -->
-  <CommandAddDangerZoneLabel>Create allow area</CommandAddDangerZoneLabel>
-  <CommandAddDangerZoneDesc>Creates an area outside radiation danger radius。</CommandAddDangerZoneDesc>
-  <DangerZoneLabel>Radiation danger area</DangerZoneLabel>
-
+  <CommandAddDangerZoneLabel>创建允许区域</CommandAddDangerZoneLabel>
+  <CommandAddDangerZoneDesc>创建辐射危险半径以外的区域。</CommandAddDangerZoneDesc>
+  <DangerZoneLabel>危险区域</DangerZoneLabel>
+  <RadZoneLabel>辐射危险区</RadZoneLabel>
   <!-- WildAnimal -->
-  <WildAnimalHunting>Animal Hunting</WildAnimalHunting>
-  <WildAnimalHuntingDesc>A wild animal is currently hunting a member of your colony。</WildAnimalHuntingDesc>
+  <WildAnimalHunting>野兽袭击</WildAnimalHunting>
+  <WildAnimalHuntingDesc>一只野兽正在攻击你的殖民者或者牲畜！</WildAnimalHuntingDesc>
 
   <!-- Feast -->
-  <FeastPartyLabel>Start a feast party!</FeastPartyLabel>
-  <FeastPartyDesc>Click to start a feast party。</FeastPartyDesc>
-  <FeastNoDrafted>Not enough colonists near the table to start feast! Please draft more colonists。</FeastNoDrafted>
+  <FeastPartyLabel>举办宴会派对！</FeastPartyLabel>
+  <FeastPartyDesc>点击开始举办宴会派对！</FeastPartyDesc>
+  <FeastNoDrafted>桌子附近没有足够开展宴会的殖民者数量！邀请更多的人来吧！</FeastNoDrafted>
+  <FeastReqAlcogol>需要最少</FeastReqAlcogol>
+  <FeastAlcogolNotFound>开展宴会派对！</FeastAlcogolNotFound>
 
   <!-- VeinMiner -->
-  <MineBrushLabel>Mine Brush</MineBrushLabel>
-  <MineBrushDesc>Finally a brush for mining. Use q and e to change size。</MineBrushDesc>
-  <StripMinerLabel>Strip Miner</StripMinerLabel>
-  <StripMinerDesc>Drag an area to strip mine. Use 8,4,5,6 on your !NUMBLOCK! to change spacing between strips。</StripMinerDesc>
-  <VeinMinerLabel>Vein Miner</VeinMinerLabel>
-  <VeinMinerDesc>Click on a visible ore and you will mine the whole vein。</VeinMinerDesc>
-  <VeinMinerReport>Must designate mineable and accessable ore!</VeinMinerReport>
+  <MineBrushLabel>采矿笔刷</MineBrushLabel>
+  <MineBrushDesc>指定一个笔刷用于开采。使用「Q」和「E」来改变笔刷尺寸。</MineBrushDesc>
+  <StripMinerLabel>矿道笔刷</StripMinerLabel>
+  <StripMinerDesc>拖拽一个区域来开采矿道。使用小键盘上的「8,4,5,6」来改变间隔和距离。</StripMinerDesc>
+  <VeinMinerLabel>矿脉笔刷</VeinMinerLabel>
+  <VeinMinerDesc>点击一块可视矿物来标记整块相连矿物。</VeinMinerDesc>
+  <VeinMinerReport>必须指定可开采而且可到达的矿物！</VeinMinerReport>
+
+  <DiseaseSpreadLabel>疫情：疾病传播</DiseaseSpreadLabel>
+  <DiseaseSpreadDesc>感染了</DiseaseSpreadDesc>
 
   <!-- CaveworldFlora -->
   <!-- Fungiponics Basin -->
-  <CaveworldFlora.CannotGrowTooCold>Cannot grow now: too cold。</CaveworldFlora.CannotGrowTooCold>
-  <CaveworldFlora.CannotGrowTooHot>Cannot grow now: too hot。</CaveworldFlora.CannotGrowTooHot>
-  <CaveworldFlora.Growing>Growing。</CaveworldFlora.Growing>
-  <CaveworldFlora.MustOnRoughRock>Fungiponics basin must be built on rough rock。</CaveworldFlora.MustOnRoughRock>
-  <CaveworldFlora.MustBeRoofed>Fungiponics basin must be roofed。</CaveworldFlora.MustBeRoofed>
-  <CaveworldFlora.TooClose>An other fungiponics basin is too close。</CaveworldFlora.TooClose>
+  <CaveworldFlora.CannotGrowTooCold>无法生长：过冷。</CaveworldFlora.CannotGrowTooCold>
+  <CaveworldFlora.CannotGrowTooHot>无法生长：过热。</CaveworldFlora.CannotGrowTooHot>
+  <CaveworldFlora.Growing>生长中。</CaveworldFlora.Growing>
+  <CaveworldFlora.MustOnRoughRock>菌盆必须放在粗糙的岩面上。</CaveworldFlora.MustOnRoughRock>
+  <CaveworldFlora.MustBeRoofed>菌盆不能置于露天环境。</CaveworldFlora.MustBeRoofed>
+  <CaveworldFlora.TooClose>距离另一个菌盆太近。</CaveworldFlora.TooClose>
 
   <!-- Tend -->
-  <Tend_rescue>Tend to downed pawn </Tend_rescue>
-  <Tend_floatMenu>Patch up {0}</Tend_floatMenu>
-  <Tend_notEnoughSkill> Requires a colonist with a medical skill of 8 or higher to tend prisoner。</Tend_notEnoughSkill>
-  <target_position_is_null>target position is null!</target_position_is_null>
+  <Tend_rescue>帮助倒地人员</Tend_rescue>
+  <Tend_floatMenu>包扎{0}</Tend_floatMenu>
+  <Tend_notEnoughSkill>需要医疗等级8以上的殖民者才能进行处理。</Tend_notEnoughSkill>
+  <target_position_is_null>目标位置为空！</target_position_is_null>
 
   <!-- Flora Plant -->
-  <CaveworldFlora.InCryostasis>In cryostasis</CaveworldFlora.InCryostasis>
-  <CaveworldFlora.Dying>Dying</CaveworldFlora.Dying>
-  <CaveworldFlora.Drying>drying</CaveworldFlora.Drying>
-  <CaveworldFlora.TooDark>too dark</CaveworldFlora.TooDark>
-  <CaveworldFlora.Overlit>overlit</CaveworldFlora.Overlit>
-  <CaveworldFlora.Unroofed>unroofed</CaveworldFlora.Unroofed>
-  <CaveworldFlora.UnadaptedSoil>unadapted soil</CaveworldFlora.UnadaptedSoil>
-  <CaveworldFlora.TooFarFromRock>too far from rock</CaveworldFlora.TooFarFromRock>
-  <CaveworldFlora.ClusterRootRemoved>cluster root removed</CaveworldFlora.ClusterRootRemoved>
-  <CaveworldFlora.BrokenSymbiosis>broken symbiosis</CaveworldFlora.BrokenSymbiosis>
-  <CaveworldFlora.Cryostasis>cryostasis</CaveworldFlora.Cryostasis>
+  <CaveworldFlora.InCryostasis>生长受抑制</CaveworldFlora.InCryostasis>
+  <CaveworldFlora.Dying>死亡中</CaveworldFlora.Dying>
+  <CaveworldFlora.Drying>干枯中</CaveworldFlora.Drying>
+  <CaveworldFlora.TooDark>太黑</CaveworldFlora.TooDark>
+  <CaveworldFlora.Overlit>过亮</CaveworldFlora.Overlit>
+  <CaveworldFlora.Unroofed>无顶</CaveworldFlora.Unroofed>
+  <CaveworldFlora.UnadaptedSoil>不合适的土壤</CaveworldFlora.UnadaptedSoil>
+  <CaveworldFlora.TooFarFromRock>距离岩石太远</CaveworldFlora.TooFarFromRock>
+  <CaveworldFlora.ClusterRootRemoved>主根被移除</CaveworldFlora.ClusterRootRemoved>
+  <CaveworldFlora.BrokenSymbiosis>共生关系破裂</CaveworldFlora.BrokenSymbiosis>
+  <CaveworldFlora.Cryostasis>增殖抑制</CaveworldFlora.Cryostasis>
 
   <!-- Black Lotus -->
-  <CaveworldFlora.LetterLabelBlackLotus>Black lotus</CaveworldFlora.LetterLabelBlackLotus>
-  <CaveworldFlora.BlackLotus>One of your colonists has been intoxicated by the effluvium of a black lotus. Beware, those emanations are extremely toxic。</CaveworldFlora.BlackLotus>
+  <CaveworldFlora.LetterLabelBlackLotus>黑莲花</CaveworldFlora.LetterLabelBlackLotus>
+  <CaveworldFlora.BlackLotus>你的一个殖民者沉醉于黑莲花毒气。当心，这些气体是有剧毒性的。</CaveworldFlora.BlackLotus>
 
   <!-- Terraformer -->
-  <studyreport>### Study report ###\n\nStudy subject: strange mechanoid artifact\n\n- Artifact location: </studyreport>
-  <observation>\n- Observations:\n  1. the artifact has deployed underground foundations.\n  2. some pylons have been erected near the main structure.\n  3. the artifact seems to generate powerful artificial thunderstorms.\n\n- Deductions:\n  1. this device appears to be a mechanoid terraformer.\n  2. its purpose is to re-shape the surface of this planet to prepare a large-scale invasion.\n\n- Recommandations:\n  1. proceed with *extreme* caution when attempting anything on the artifact!\n  2. deactivating the onboard beacon should be a priority to avoid future invasion.\n  3. consider re-routing the power generated during artificial thunderstorms.\n  4. further research may allow us to take advantage of those artificial thunderstorms.\n</observation>
-  <Studyreportrec>Study report</Studyreportrec>
-  <Extractionprogress>Extraction progress</Extractionprogress>
-  <Reroutingprogress>Rerouting progress</Reroutingprogress>
-  <paused>(paused)</paused>
-  <Studyprogress>Study progress</Studyprogress>
-  <Displaystudyreport>Display study report</Displaystudyreport>
-  <Pauseweathercontrollerextraction>Pause weather controller extraction</Pauseweathercontrollerextraction>
-  <Disablebeacon>Disable beacon</Disablebeacon>
-  <Extractweathercontroller>Extract weather controller</Extractweathercontroller>
-  <noskill> is not skilled enough to extract the terraformer weather controller (research level</noskill>
-  <request>is required)。</request>
-  <Reroutepowernetwork>Reroute power network</Reroutepowernetwork>
-  <Pausepowerrerouting>Pause power rerouting</Pausepowerrerouting>
-  <noskill_net> is not skilled enough to reroute the terraformer power network (research level</noskill_net>
-  <request_net>is required)。</request_net>
-  <Extractweathercontroller_2> 2) Extract weather controller</Extractweathercontroller_2>
-  <noskilk_ext> is not skilled enough to extract the terraformer weather controller (research level</noskilk_ext>
-  <request_ext>is required)。</request_ext>
-  <reroute_power>1) Reroute power network OR</reroute_power>
-  <noskill_rer> is not skilled enough to reroute the terraformer power network (research level</noskill_rer>
-  <request_rer>is required)。</request_rer>
-  <Startstudy>Start study</Startstudy>
-  <Pausestudy>Pause study</Pausestudy>
-  <noskill_study> is not skilled enough to study the strange artifact (research level </noskill_study>
-  <request_study>is required)。</request_study>
-  <Scoutstrangeartifact>Scout strange artifact</Scoutstrangeartifact>
-  <Securestrangeartifact>Secure strange artifact</Securestrangeartifact>
-  <Cannot_use_incapacitated>Cannot_use_incapacitated</Cannot_use_incapacitated>
-  <Cannot_use_reserved>Cannot_use_reserved</Cannot_use_reserved>
-  <Cannot_use_no_path>Cannot_use_no_path</Cannot_use_no_path>
-  <attack>   Attacking the artifact seems to be a bad idea. You have detected some sort of emergency call sent from it.\nWhatever it is, this does not sound good at all..。</attack>
-  <Invasion>Invasion</Invasion>
-  <Before_extraction>   Before its extraction, the mechanoid terraformer AI core controller somehow detected your attempts at shutting it down.\nIt had enough time to emit an emergency call. Be prepared to welcome the incoming terrafomer defending force。</Before_extraction>
-  <ResearchSkywrathController>Research Skywrath Controller</ResearchSkywrathController>
-  <Extraction>Extraction</Extraction>
-  <success_extract>   You have successfully extracted the weather controller from the mechanoid terraformer.\n\nYou can now build your own one to unleash the sky's wrath on your ennemies。</success_extract>
-  <Rerouting>Rerouting</Rerouting>
-  <success_reroute>   You have successfully rerouted the power network of the mechanoid terraformer.\n\nRemember that you need some batteries to stock the brief surges of energy generated by the thunderstorms。</success_reroute>
-  <invaders>   Beware! The mechanoid invasion has begun. This world will soon become a new mechanoid hive!</invaders>
-  <strange_thing>   You have detected a strange thing falling from the sky. It is quite bigger than a drop pod and does not emit the standard trading federation emergency call.\nYou should send someone to scout it but be careful, this stinks mechanoid technology..。</strange_thing>
-  <Artifact>Artifact</Artifact>
-  <some_knowledge>has some knowledge about alien technology but </some_knowledge>
-  <terr_beacon>still failed at properly disabling the terraformer beacon.\n\nBe prepared to welcome the incoming terrafomer defending force。</terr_beacon>
-  <success_disabling> successfully disabled the terraformer beacon!\n\nYou have nothing to fear from it anymore。</success_disabling>
-  <alien_about> is not the best about alien technology, </alien_about>
-  <Evenif>Evenif</Evenif>
+  <studyreport>### 研究报告 ###\n\n研究项目：奇怪的机械族设施\n\n——目标位置:</studyreport>
+  <observation>\n——观察结果：\n  1.设施被部署位置有部分位于地下的不可视部分，共同组成设置地基。\n  2.主体建筑物周围环绕有数个类似节点的装置。\n  3. the artifact seems to generate powerful artificial thunderstorms.\n\n——演绎推论：\n  1.这个设施很有可能是机械族的某种转化装置。\n  2.这个装置的功能是重塑星球地表形态，以便于大批量投放机械族部队。\n\n——处理建议：\n  1.当对这个设施进行下一步行动的时候要***「极度谨慎！」***。\n  2.关闭设施顶部的信标装置应该能切断与机械族的联系，可以终止未来的的大批量投放行动。\n  3.可以考虑将设施制造的闪电风暴能量重定向到我们的电力网络。\n  4.对设施进行深层次的研究将使我们对于人工制造闪电风暴拥有更多的理解。\n</observation>
+  <Studyreportrec>研究报告</Studyreportrec>
+  <Extractionprogress>提取进度</Extractionprogress>
+  <Reroutingprogress>重定向进度</Reroutingprogress>
+  <paused>（暂停）</paused>
+  <Studyprogress>研究报告</Studyprogress>
+  <Displaystudyreport>显示研究报告</Displaystudyreport>
+  <Pauseweathercontrollerextraction>暂停天气控制器提取作业</Pauseweathercontrollerextraction>
+  <Disablebeacon>禁用信标</Disablebeacon>
+  <Extractweathercontroller>提取天气控制器</Extractweathercontroller>
+  <noskill>没有足够的技能等级提取转化器天气控制核心（需要智识</noskill>
+  <request>）。</request>
+  <Reroutepowernetwork>重定向电力网络</Reroutepowernetwork>
+  <Pausepowerrerouting>暂停重定向作业</Pausepowerrerouting>
+  <noskill_net>没有足够的技能等级重定向电力网络（需要智识</noskill_net>
+  <request_net>）。</request_net>
+  <Extractweathercontroller_2>2）提取天气控制器</Extractweathercontroller_2>
+  <noskilk_ext>没有足够的技能等级提取转化器天气控制核心（需要智识</noskilk_ext>
+  <request_ext>）。</request_ext>
+  <reroute_power>1）重定向电力网络或</reroute_power>
+  <noskill_rer>没有足够的技能等级重定向电力网络（需要智识</noskill_rer>
+  <request_rer>）。</request_rer>
+  <Startstudy>开始研究</Startstudy>
+  <Pausestudy>暂停研究</Pausestudy>
+  <noskill_study>没有足够的技能等级研究机械族设施（需要智识</noskill_study>
+  <request_study>）。</request_study>
+  <Scoutstrangeartifact>检查奇怪的设施</Scoutstrangeartifact>
+  <Securestrangeartifact>解除安全协议</Securestrangeartifact>
+  <Cannot_use_incapacitated>无法使用（无能力）</Cannot_use_incapacitated>
+  <Cannot_use_reserved>无法使用（已保留）</Cannot_use_reserved>
+  <Cannot_use_no_path>无法使用（无路径）</Cannot_use_no_path>
+  <attack>攻击这个奇怪的设施貌似不是一个好主意，因为刚刚侦测到这个设施发出了一组紧急信号。\n不管那是什么东西，反正感觉不是什么好玩意...</attack>
+  <Invasion>入侵</Invasion>
+  <Before_extraction>在你操作完成前，这个机械族转化器的AI核心侦测到了你试图绕过其安全协议的举动。\n它发出了一系列的紧急信号。看样子你要准备好“欢迎”马上来临的机械族防御部队了。</Before_extraction>
+  <ResearchSkywrathController>研究天怒控制器</ResearchSkywrathController>
+  <Extraction>提取</Extraction>
+  <success_extract>你已经成功的从机械族转化器中提取出天气控制核心。\n\n现在，你能够建造自己可用的天气控制器，尽情的把天庭之怒释放到你敌人头上吧！</success_extract>
+  <Rerouting>重定向</Rerouting>
+  <success_reroute>你已经成功的重定了机械族转化器的电力输出网络。\n\n记住，多造几个电池来存储从短暂的闪电风暴中收集的电力。</success_reroute>
+  <invaders>当心！机械族已经开始入侵！不久之后，这里就会变成一个新的机械族巢穴！</invaders>
+  <strange_thing>你侦测到一个奇怪的东西正从天而降。这东西看起来比正常的空降仓大得多，而且也没有发射标准的交易联盟紧急信号。\n你可能需要派几个人去看看，但是，这东西怎么看怎么像是机械族的东西...</strange_thing>
+  <Artifact>人造物</Artifact>
+  <some_knowledge>虽然拥有丰富的外星科技经验，但是</some_knowledge>
+  <terr_beacon>仍然没有找到合适的方法关闭转化器信标。\n\n那么，准备好“迎接”即将到来的机械族防御部队吧！</terr_beacon>
+  <success_disabling>成功的关闭了转化器信标！\n\n你再也不用害怕有什么玩意砸到你家客厅里了！</success_disabling>
+  <alien_about>不是最好的外星技术专家，</alien_about>
+  <Evenif>尽管</Evenif>
   <Beacondisabled />
-  <real_crack> is a real crack in alien technology. Disabling the terraformer beacon was just another game for </real_crack>
-  <no_fear>\n\nYou have nothing to fear from it anymore。</no_fear>
-  <try_to_disable> has tried to disable the terraformer beacon but technology is not </try_to_disable>
-  <bigpassion> big passion... </bigpassion>
-  <button_press> just pressed on every button alerting by the way every nearby mechanoid shuttles.\n\nBe prepared to welcome some nasty and numerous visitors from nearby mechanoid hives!</button_press>
-  <he>he</he>
-  <his>his</his>
-  <him>him</him>
-  <she>she</she>
-  <her>her</her>
-  <it>it</it>
-  <its>its</its>
-  <Droppods>Droppods</Droppods>
-  <hear> hears the loud noise of incoming drop pods.\n\nYou should better take </hear>
-  <strange_building> is just arriving near the strange building when </strange_building>
-  <to_safety> to safety... and fast!\n</to_safety>
-  <Artifactsecured />
-  <secure_artifact>   You have secured the strange building.\n\nYou are now sure of one thing: this is a mechanoid device.\nAs usual when dealing with mechanoid technology, be really careful. You should better be prepared for anything...\n</secure_artifact>
-  <Mechanoidterraformer>Mechanoid terraformer</Mechanoidterraformer>
-  <Researcher>\nResearcher: </Researcher>
-  <repstudy> report is quite alarming!\n\n\n### Study references ###\n\nDate: </repstudy>
-  <finish_study> has finished the study of the strange artifact. </finish_study>
-  <Hurtinglanding>Hurtinglanding</Hurtinglanding>
-  <isalreadysixfeetunderRIP>isalreadysixfeetunderRIP</isalreadysixfeetunderRIP>
-  <Dontbotherlookingfor>'. Don't bother looking for </Dontbotherlookingfor>
-  <Poorrr>- Poor </Poorrr>
-  <strange_building_crash>This strange building has crushed anything under it upon landing。</strange_building_crash>
-  <things_fall>The following things have been crushed:</things_fall>
-  <Mech_drop>Mechanoid terraformer dropped on roof at </Mech_drop>
-  <offline>offline</offline>
-  <charging>charging</charging>
-  <ready>ready</ready>
-  <channeling>channeling</channeling>
-  <Supervizor_none>Supervizor: none</Supervizor_none>
-  <Supervizor>Supervizor: </Supervizor>
-  <Supervizor_sientist>Supervizor: (need a skilled scientist, min level 10 research)</Supervizor_sientist>
-  <Charge_progress>Charge progress: </Charge_progress>
-  <State>State: </State>
-  <Connect_r_s>Connected rate/stored: </Connect_r_s>
-  <Powerneeded>Power needed: </Powerneeded>
-  <supervize_sientist>The skywrath controller is not supervized by a skilled scientist (level 10 research)。</supervize_sientist>
-  <supervize_controller>The skywrath controller is not supervized。</supervize_controller>
-  <controller_not_ready>The skywrath controller is not ready。</controller_not_ready>
-  <cannot_target>Cannot target a fogged position。</cannot_target>
-  <idlestate>idle</idlestate>
-  <landingstate>landing</landingstate>
-  <DeployingPylon>deploying pylon</DeployingPylon>
-  <StartingGenerator>starting generator</StartingGenerator>
-  <HarnessingPower>harnessing power</HarnessingPower>
-  <StoppingGenerator>stopping generator</StoppingGenerator>
-  <DeployingLightTurrets>deploying light turrets</DeployingLightTurrets>
-  <DeployingHeavyTurrets>deploying heavy turrets</DeployingHeavyTurrets>
+  <real_crack>是外星科技的一大突破。关闭转化器信标也只是像一个游戏一样，对于</real_crack>
+  <no_fear>\n\n你再也不用担心什么东西了。</no_fear>
+  <try_to_disable>试图关闭转化器信标，但是科技不是</try_to_disable>
+  <bigpassion>充满热情...</bigpassion>
+  <button_press>刚刚把所有按钮挨个按了一遍，这一举动直接激活了周边所有的机械族运载设备。\n\n准备迎接附近机械族巢穴投送的大量“客人”吧！</button_press>
+  <he>他</he>
+  <his>他的</his>
+  <him>他</him>
+  <she>她</she>
+  <her>她的</her>
+  <it>它</it>
+  <its>它的</its>
+  <Droppods>空降仓</Droppods>
+  <hear>听见了临近空降仓发出的巨大噪音。\n\n你最好</hear>
+  <strange_building>正在到达那个奇怪的建筑物附近，同时</strange_building>
+  <to_safety>安全...还有，赶快！\n</to_safety>
+  <Artifactsecured>设施安全协议已解除</Artifactsecured>
+  <secure_artifact>你已经成功的解除了这个奇怪建筑物的安全协议。\n\n你现在可以确定一件事：这个东西是一种机械族装置。\n通常情况下，在处理和机械族有关的任何东西的时候，你都要做好一切应对手段，因为你有可能面对各种突发情况...\n</secure_artifact>
+  <Mechanoidterraformer>机械族转化器</Mechanoidterraformer>
+  <Researcher>\n研究员：</Researcher>
+  <repstudy>报告研究成果相当惊人！\n\n\n### 研究参考 ###\n\n数据：</repstudy>
+  <finish_study>已经完成对于这个奇怪设施的研究工作。</finish_study>
+  <Hurtinglanding>失事</Hurtinglanding>
+  <isalreadysixfeetunderRIP>已经埋到了六英尺的地下，也不用再去挖掘了！</isalreadysixfeetunderRIP>
+  <Dontbotherlookingfor>。也不用费心寻找</Dontbotherlookingfor>
+  <Poorrr>——可怜</Poorrr>
+  <strange_building_crash>这个奇怪设施在降落的时候已经压碎了着陆点的所有东西。</strange_building_crash>
+  <things_fall>这些东西被碾碎了：</things_fall>
+  <Mech_drop>机械族转化器降落于屋顶上，位于</Mech_drop>
+  <offline>离线</offline>
+  <charging>充能中</charging>
+  <ready>就绪</ready>
+  <channeling>沟通中</channeling>
+  <Supervizor_none>管理员：无</Supervizor_none>
+  <Supervizor>管理员：</Supervizor>
+  <Supervizor_sientist>管理员：（需要高智识技能的科学家，最低10级）</Supervizor_sientist>
+  <Charge_progress>充能进度：</Charge_progress>
+  <MT_State>状态：</MT_State>
+  <Connect_r_s>连接速率/存储：</Connect_r_s>
+  <Powerneeded>电力需求：</Powerneeded>
+  <supervize_sientist>天怒控制器需要技能足够（智识10级）的操作管理员。</supervize_sientist>
+  <supervize_controller>天怒控制器没有操作人员。</supervize_controller>
+  <controller_not_ready>天怒控制器未就绪。</controller_not_ready>
+  <cannot_target>无法瞄准迷雾区域。</cannot_target>
+  <idlestate>闲置</idlestate>
+  <landingstate>降落中</landingstate>
+  <DeployingPylon>正在部署节点</DeployingPylon>
+  <StartingGenerator>起动发电机</StartingGenerator>
+  <HarnessingPower>利用电力</HarnessingPower>
+  <StoppingGenerator>停止发电机</StoppingGenerator>
+  <DeployingLightTurrets>正在部署轻型炮塔</DeployingLightTurrets>
+  <DeployingHeavyTurrets>正在部署重型炮塔</DeployingHeavyTurrets>
 
+  <RimFridge.TargetTemperature>目标温度</RimFridge.TargetTemperature>
+  <RimFridge.CurrentTemperature>当前温度</RimFridge.CurrentTemperature>
+  <RimFridge.Power>电力</RimFridge.Power>
+  <RimFridge.RenameTheRefrigerator>重命名冰箱</RimFridge.RenameTheRefrigerator>
+
+  <OrbitalShieldBlockBombardment>轨道能量护盾阻挡了敌人的轨道轰炸打击！</OrbitalShieldBlockBombardment>
+  <OrbitalShieldBlockPowerBeam>轨道能量护盾阻挡了敌人的轨道能量光束打击！</OrbitalShieldBlockPowerBeam>
+
+  <AJLabel>获救动物加入</AJLabel>
+  <AJLetter>你救援的动物加入了殖民地</AJLetter>
+  <ADJLabel>获救动物未加入</ADJLabel>
+  <ADJLetter>你救援的动物没有加入了殖民地</ADJLetter>
+  <!-- Traitor -->
+  <TraitorLabel>叛徒！</TraitorLabel>
+  <Traitor>一位加入你殖民地，名叫{PAWN_nameDef}的殖民者原来是来自{PAWN_factionName}的间谍。\n抓住这个人后，你可以重新招募或者用于奴役，你知道该怎么办！</Traitor>
+
+  <!-- Caravan animals wander in -->
+  <CAWILabel>游荡的驮运动物</CAWILabel>
+  <CAWI>一群被遗弃或迷路的{PAWN_kind}游荡到本地区。\n\n他们似乎属于某个商队，而且仍然随身携带贵重物品。如果你驯服或杀死它们，你可以得到这些物品。否则，它们将在几天后离开该地区。</CAWI>
+
+  <!-- Crop sprout -->
+  <CSLabel>作物萌芽</CSLabel>
+  <CS1>一大片</CS1>
+  <CS2>在附近发芽了，如果等待它生长，您将能够收获大量食物！注意看准时间，它们将逐渐枯萎。</CS2>
+
+  <!-- Battle animals wander in -->
+  <BAWILabel>游荡的战兽加入</BAWILabel>
+  <BAWI>一群被遗弃或迷路的{0}游荡到本地区。\n\n它们似乎习惯与人类相处，并且加入了殖民地。</BAWI>
+
+  <!-- wild men wander in -->
+  <WMWILabel>游荡的野人</WMWILabel>
+  <WMWI>一支小型新石器时代野人部族游荡到此地，你可以试着驯服他们。</WMWI>
+
+  <!-- Hunting party -->
+  <HPLabel>狩猎聚会</HPLabel>
+  <HP>一群来自{0}的猎人正经过这个地区。他们会在这里打猎几个小时，然后继续前进。</HP>
+
+  <LetterLabelManhunterPackArrived>猎杀人类</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>一群猎杀人类的{0}已经进入该地区。他们被狂暴症逼疯了，将四处游荡猎杀人类。\n\n它们不会从门进来，所以如果你呆在室内并关好门应该是安全的。他们也不会攻击关闭的炮塔，所以如果你想避免炮台被拆可以停止对炮塔供电。\n\n{0}将会在几天后离开。你可以躲起来等它们离开，或者与它们战斗。</ManhunterPackArrived>
+
+  <AncientStargate>星门</AncientStargate>
+  <AncientStargate_Report1>已经完成了对这个奇特人造物的研究工作。</AncientStargate_Report1>
+  <AncientStargate_Report2>报告研究成果相当神奇！\n\n\n### 研究参考 ###\n\n数据：</AncientStargate_Report2>
+  <AncientStargate_StudyReport>### 研究报告 ###\n\n研究项目：跨维度古代文物。\n\n——文物位置：</AncientStargate_StudyReport>
+  <AncientStargate_Observation>\n——观察结果：\n  1.文物由几个直径约3.14米的圆环嵌套组成。\n  2.组成材料未知，推测是由某个远古文明建造。\n  3.当内圆环转动时，将会在此圆环和某个未知位置的遥远圆环之间建立一条稳定的单向人工虫洞，通过虫洞可以把人或者物体瞬间传输到目的地。\n\n——结论：
+\n  1.我们给这个建筑命名——星门。\n  2.研究表明，此装置因为缺失了一些部件，只能用于作为到达目的地装置使用，也就是说这个装置只是个“接收器”。
+\n——建议：\n  1.对这个装置进行的任何下一步行动都要**万分小心**！\n  2.或许我们可以对装置进行深度研究，以期可以在未来的某个时刻进行维度穿梭，到达另一个宇宙！\n  3.从另一个角度讲，这个装置的组成材料拥有难以想象的强度和表现力，或许这个也是我们下一步行动的一个可行方向。\n</AncientStargate_Observation>
 
 </LanguageData>
