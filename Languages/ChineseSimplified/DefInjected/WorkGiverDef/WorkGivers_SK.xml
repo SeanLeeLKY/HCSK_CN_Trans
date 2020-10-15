@@ -1,35 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Refueling -->
-
-  <RefuelBurner.label>添加燃料</RefuelBurner.label>
-  <RefuelBurner.verb>添加燃料</RefuelBurner.verb>
-  <RefuelBurner.gerund>添加燃料于</RefuelBurner.gerund>
-
-
   <!-- Hauling -->
 
   <DoBillsCremate.label>焚化工作</DoBillsCremate.label>
   <DoBillsCremate.verb>焚烧</DoBillsCremate.verb>
-  <DoBillsCremate.gerund>焚化于</DoBillsCremate.gerund>
-
-  <UF_WorkGiver_TakeProductOutOfUniversalFermenter.label>将产品从发酵罐中取出</UF_WorkGiver_TakeProductOutOfUniversalFermenter.label>
-  <UF_WorkGiver_TakeProductOutOfUniversalFermenter.verb>取出产品</UF_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
-  <UF_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>取出产品于</UF_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
-
-  <UF_WorkGiver_FillUniversalFermenter.label>填装发酵桶</UF_WorkGiver_FillUniversalFermenter.label>
-  <UF_WorkGiver_FillUniversalFermenter.verb>填装</UF_WorkGiver_FillUniversalFermenter.verb>
-  <UF_WorkGiver_FillUniversalFermenter.gerund>填装</UF_WorkGiver_FillUniversalFermenter.gerund>
+  <DoBillsCremate.gerund>焚烧于</DoBillsCremate.gerund>
 
 
   <!-- Hauling: Deliver resources -->
 
-  <HaulDeliverResourcesToFrames.label>递送资源到框架 (搬运工)</HaulDeliverResourcesToFrames.label>
+  <HaulDeliverResourcesToFrames.label>递送资源到框架（搬运工）</HaulDeliverResourcesToFrames.label>
   <HaulDeliverResourcesToFrames.verb>递送资源到</HaulDeliverResourcesToFrames.verb>
   <HaulDeliverResourcesToFrames.gerund>递送资源到</HaulDeliverResourcesToFrames.gerund>
 
-  <HaulDeliverResourcesToBlueprints.label>递送资源到蓝图 (搬运工)</HaulDeliverResourcesToBlueprints.label>
+  <HaulDeliverResourcesToBlueprints.label>递送资源到蓝图（搬运工）</HaulDeliverResourcesToBlueprints.label>
   <HaulDeliverResourcesToBlueprints.verb>递送资源到</HaulDeliverResourcesToBlueprints.verb>
   <HaulDeliverResourcesToBlueprints.gerund>递送资源到</HaulDeliverResourcesToBlueprints.gerund>
 
@@ -43,6 +28,7 @@
   <HaulPriorityMisc.label>搬运优先级</HaulPriorityMisc.label>
   <HaulPriorityMisc.verb>搬运</HaulPriorityMisc.verb>
   <HaulPriorityMisc.gerund>搬运</HaulPriorityMisc.gerund>
+
 
   <!-- Collecting -->
 
@@ -62,6 +48,7 @@
   <CollectCrushedstone.verb>收集</CollectCrushedstone.verb>
   <CollectCrushedstone.gerund>收集</CollectCrushedstone.gerund>
 
+
   <!-- Firefighter -->
 
   <FightFires.label>灭火</FightFires.label>
@@ -71,42 +58,44 @@
 
   <!-- Cooking -->
 
-  <CookRefuel.label>添加炉灶燃料</CookRefuel.label>
-  <CookRefuel.verb>添加燃料</CookRefuel.verb>
-  <CookRefuel.gerund>添加燃料于</CookRefuel.gerund>
-
   <DoBillsButcherFlesh.label>屠宰尸体</DoBillsButcherFlesh.label>
   <DoBillsButcherFlesh.verb>屠宰</DoBillsButcherFlesh.verb>
   <DoBillsButcherFlesh.gerund>屠宰于</DoBillsButcherFlesh.gerund>
 
-  <DoBillsCook.label>在炉灶烹饪食物</DoBillsCook.label>
+  <DoBillsKitchenTable.label>准备餐食</DoBillsKitchenTable.label>
+  <DoBillsKitchenTable.verb>准备</DoBillsKitchenTable.verb>
+  <DoBillsKitchenTable.gerund>正在准备</DoBillsKitchenTable.gerund>
+
+  <DoBillsCook.label>烹饪餐食</DoBillsCook.label>
   <DoBillsCook.verb>烹饪</DoBillsCook.verb>
   <DoBillsCook.gerund>烹饪于</DoBillsCook.gerund>
 
-  <DoBillsCookCampfire.label>在篝火烹饪食物</DoBillsCookCampfire.label>
+  <DoBillsCookCampfire.label>在篝火烹饪餐食</DoBillsCookCampfire.label>
   <DoBillsCookCampfire.verb>烹饪</DoBillsCookCampfire.verb>
   <DoBillsCookCampfire.gerund>烹饪于</DoBillsCookCampfire.gerund>
 
   <DoBillsBake.label>糖果桌工作</DoBillsBake.label>
   <DoBillsBake.verb>制糖</DoBillsBake.verb>
-  <DoBillsBake.gerund>制糖于</DoBillsBake.gerund>
+  <DoBillsBake.gerund>正在制糖</DoBillsBake.gerund>
 
   <DoBillsGrindStone.label>研磨工作</DoBillsGrindStone.label>
   <DoBillsGrindStone.verb>研磨</DoBillsGrindStone.verb>
-  <DoBillsGrindStone.gerund>研磨于</DoBillsGrindStone.gerund>
+  <DoBillsGrindStone.gerund>正在研磨</DoBillsGrindStone.gerund>
 
 
   <!-- Smithing -->
 
-  <DoBillsMakeWeapons.label>锻造武器</DoBillsMakeWeapons.label>
+  <DoBillsMakeWeapons.label>锻造工作</DoBillsMakeWeapons.label>
   <DoBillsMakeWeapons.verb>锻造</DoBillsMakeWeapons.verb>
   <DoBillsMakeWeapons.gerund>锻造于</DoBillsMakeWeapons.gerund>
-  <DoBillsBrew.label>在酿造台酿酒</DoBillsBrew.label>
+
+  <DoBillsBrew.label>酿酒工作</DoBillsBrew.label>
   <DoBillsBrew.verb>酿造</DoBillsBrew.verb>
   <DoBillsBrew.gerund>酿造于</DoBillsBrew.gerund>
-  <DoBillsComponentAssemblyBench.label>装配零部件</DoBillsComponentAssemblyBench.label>
-  <DoBillsComponentAssemblyBench.verb>加工</DoBillsComponentAssemblyBench.verb>
-  <DoBillsComponentAssemblyBench.gerund>加工于</DoBillsComponentAssemblyBench.gerund>
+
+  <DoBillsFabricationBench.label>装配工作</DoBillsFabricationBench.label>
+  <DoBillsFabricationBench.verb>生产零件</DoBillsFabricationBench.verb>
+  <DoBillsFabricationBench.gerund>生产零件于</DoBillsFabricationBench.gerund>
 
 
   <!-- Crafting - apparel -->
@@ -114,6 +103,7 @@
   <DoBillsMakeApparel.label>缝制衣物</DoBillsMakeApparel.label>
   <DoBillsMakeApparel.verb>缝制</DoBillsMakeApparel.verb>
   <DoBillsMakeApparel.gerund>缝制于</DoBillsMakeApparel.gerund>
+
 
   <!-- Crafting - Misc -->
 
@@ -137,17 +127,17 @@
   <DoBillsTableLoom.verb>纺织</DoBillsTableLoom.verb>
   <DoBillsTableLoom.gerund>纺织于</DoBillsTableLoom.gerund>
 
-  <DoBillsStonecut.label>cut stone</DoBillsStonecut.label>
-  <DoBillsStonecut.verb>stonecut</DoBillsStonecut.verb>
-  <DoBillsStonecut.gerund>stonecutting at</DoBillsStonecut.gerund>
+  <DoBillsStonecut.label>切割石块</DoBillsStonecut.label>
+  <DoBillsStonecut.verb>切石</DoBillsStonecut.verb>
+  <DoBillsStonecut.gerund>切石于</DoBillsStonecut.gerund>
 
-  <DoBillsUseCraftingSpot.label>do bills at neolitic craft</DoBillsUseCraftingSpot.label>
-  <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
-  <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
+  <DoBillsUseCraftingSpot.label>原始手工工作</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.verb>制作</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.gerund>制作于</DoBillsUseCraftingSpot.gerund>
 
   <DoBillsMatterfab.label>物质装配</DoBillsMatterfab.label>
-  <DoBillsMatterfab.verb>装配</DoBillsMatterfab.verb>
-  <DoBillsMatterfab.gerund>装配于</DoBillsMatterfab.gerund>
+  <DoBillsMatterfab.verb>制造</DoBillsMatterfab.verb>
+  <DoBillsMatterfab.gerund>制造于</DoBillsMatterfab.gerund>
 
   <DoBillsTableSurrogates.label>假肢制作</DoBillsTableSurrogates.label>
   <DoBillsTableSurrogates.verb>制作</DoBillsTableSurrogates.verb>
@@ -158,14 +148,10 @@
   <DoBillsMixconcrete.gerund>搅拌于</DoBillsMixconcrete.gerund>
 
   <DoBillsTableChemlab.label>化学工作</DoBillsTableChemlab.label>
-  <DoBillsTableChemlab.verb>制作</DoBillsTableChemlab.verb>
-  <DoBillsTableChemlab.gerund>制作于</DoBillsTableChemlab.gerund>
+  <DoBillsTableChemlab.verb>制造</DoBillsTableChemlab.verb>
+  <DoBillsTableChemlab.gerund>制造于</DoBillsTableChemlab.gerund>
 
-  <DoBillOilRefinery.label>石化工作</DoBillOilRefinery.label>
-  <DoBillOilRefinery.verb>工作</DoBillOilRefinery.verb>
-  <DoBillOilRefinery.gerund>工作于</DoBillOilRefinery.gerund>
-
-  <DoBillsMakeGlass.label>玻璃工作</DoBillsMakeGlass.label>
+  <DoBillsMakeGlass.label>玻璃烧制工作</DoBillsMakeGlass.label>
   <DoBillsMakeGlass.verb>制作玻璃于</DoBillsMakeGlass.verb>
   <DoBillsMakeGlass.gerund>制作玻璃于</DoBillsMakeGlass.gerund>
 
@@ -192,8 +178,8 @@
   <!-- Doctor -->
 
   <DoBillsMedical.label>医药工作</DoBillsMedical.label>
-  <DoBillsMedical.verb>制作</DoBillsMedical.verb>
-  <DoBillsMedical.gerund>制作于</DoBillsMedical.gerund>
+  <DoBillsMedical.verb>提取</DoBillsMedical.verb>
+  <DoBillsMedical.gerund>提取于</DoBillsMedical.gerund>
 
 
   <!-- Art -->
@@ -202,23 +188,9 @@
   <DoBillsMakePainting.verb>绘画</DoBillsMakePainting.verb>
   <DoBillsMakePainting.gerund>绘画于</DoBillsMakePainting.gerund>
 
-
-  <!-- Mine -->
-
-  <QRY_MineQuarry.label>采石场工作</QRY_MineQuarry.label>
-  <QRY_MineQuarry.verb>采掘</QRY_MineQuarry.verb>
-  <QRY_MineQuarry.gerund>采掘于</QRY_MineQuarry.gerund>
-
-  <DoBillsUseSaltMine.label>挖盐工作</DoBillsUseSaltMine.label>
+  <DoBillsUseSaltMine.label>盐矿工作</DoBillsUseSaltMine.label>
   <DoBillsUseSaltMine.verb>挖掘</DoBillsUseSaltMine.verb>
   <DoBillsUseSaltMine.gerund>挖掘于</DoBillsUseSaltMine.gerund>
-
-
-  <!-- Research -->
-
-  <StudyMechanoidTerraformer.label>研究机械族转化器</StudyMechanoidTerraformer.label>
-  <StudyMechanoidTerraformer.verb>研究奇特人造物</StudyMechanoidTerraformer.verb>
-  <StudyMechanoidTerraformer.gerund>研究奇特人造物</StudyMechanoidTerraformer.gerund>
 
 
 </LanguageData>
