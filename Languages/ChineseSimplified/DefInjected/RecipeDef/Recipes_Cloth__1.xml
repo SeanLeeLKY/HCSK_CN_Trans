@@ -32,9 +32,9 @@
 
   <!-- Hex cell -->
 
-  <MakeHexcell.label>制作动力核</MakeHexcell.label>
-  <MakeHexcell.description>制作动力核。主要用于各类高科技盔甲的内置能量源。 \n\n产出：10</MakeHexcell.description>
-  <MakeHexcell.jobString>正在制作动力核。</MakeHexcell.jobString>
+  <MakeHexcell.label>制作动力电池</MakeHexcell.label>
+  <MakeHexcell.description>制作动力电池。主要用于各类高科技盔甲的内置能量源。 \n\n产出：10</MakeHexcell.description>
+  <MakeHexcell.jobString>正在制作动力电池。</MakeHexcell.jobString>
 
 
 </LanguageData>
