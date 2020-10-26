@@ -1,40 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <oHead.label>head</oHead.label>
-  <oSkull.label>skull</oSkull.label>
-  <oBrain.label>brain</oBrain.label>
-  <oEye.label>eye</oEye.label>
-  <oEar.label>ear</oEar.label>
-  <oNose.label>nose</oNose.label>
-  <oJaw.label>jaw</oJaw.label>
-  <oNeck.label>neck</oNeck.label>
-  <oRibcage.label>ribcage</oRibcage.label>
-  <oSpine.label>spine</oSpine.label>
-  <oLeg.label>leg</oLeg.label>
-  <oFoot.label>foot</oFoot.label>
-  <oHeart.label>heart</oHeart.label>
-  <oLung.label>lung</oLung.label>
-  <oKidney.label>kidney</oKidney.label>
-  <oLiver.label>liver</oLiver.label>
-  <oStomach.label>stomach</oStomach.label>
-  <oTorso.label>torso</oTorso.label>
-  <oShoulder.label>shoulder</oShoulder.label>
-  <oArm.label>arm</oArm.label>
-  <oHand.label>hand</oHand.label>
-  <oFinger.label>finger</oFinger.label>
-  <oToe.label>toe</oToe.label>
+  <oHead.label>头</oHead.label>
+  <oSkull.label>颅骨</oSkull.label>
+  <oBrain.label>大脑</oBrain.label>
+  <oEye.label>眼</oEye.label>
+  <oEar.label>儿</oEar.label>
+  <oNose.label>鼻</oNose.label>
+  <oJaw.label>下颌</oJaw.label>
+  <oNeck.label>颈</oNeck.label>
+  <oRib.label>肋骨</oRib.label>
+  <oSpine.label>脊柱</oSpine.label>
+  <oLeg.label>腿</oLeg.label>
+  <oFoot.label>足</oFoot.label>
+  <oHeart.label>心</oHeart.label>
+  <oLung.label>肺</oLung.label>
+  <oKidney.label>肾</oKidney.label>
+  <oLiver.label>肝</oLiver.label>
+  <oStomach.label>胃</oStomach.label>
+  <oTorso.label>躯干</oTorso.label>
+  <oShoulder.label>肩</oShoulder.label>
+  <oArm.label>臂</oArm.label>
+  <oHand.label>手</oHand.label>
+  <oFinger.label>手指</oFinger.label>
+  <oToe.label>脚趾</oToe.label>
 
 
   <!-- Bones -->
 
-  <oClavicle.label>clavicle</oClavicle.label>
-  <oSternum.label>sternum</oSternum.label>
-  <oHumerus.label>humerus</oHumerus.label>
-  <oRadius.label>radius</oRadius.label>
-  <oPelvis.label>pelvis</oPelvis.label>
-  <oFemur.label>femur</oFemur.label>
-  <oTibia.label>tibia</oTibia.label>
+  <oClavicle.label>锁骨</oClavicle.label>
+  <oSternum.label>胸骨</oSternum.label>
+  <oHumerus.label>肱骨</oHumerus.label>
+  <oRadius.label>桡骨</oRadius.label>
+  <oPelvis.label>骨盆</oPelvis.label>
+  <oFemur.label>股骨</oFemur.label>
+  <oTibia.label>胫骨</oTibia.label>
 
 
 </LanguageData>

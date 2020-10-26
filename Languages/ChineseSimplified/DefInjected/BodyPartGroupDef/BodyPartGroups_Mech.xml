@@ -3,13 +3,13 @@
 
   <!-- Crawler -->
 
-  <PlasmaCutter.label>Plasma cutter</PlasmaCutter.label>
+  <PlasmaCutter.label>离子光刃</PlasmaCutter.label>
 
-  <FrontLeftMechanicalLeg.label>front left leg</FrontLeftMechanicalLeg.label>
-  <FrontLeftMechanicalLeg.labelShort>legs</FrontLeftMechanicalLeg.labelShort>
+  <FrontLeftMechanicalLeg.label>左前腿</FrontLeftMechanicalLeg.label>
+  <FrontLeftMechanicalLeg.labelShort>腿</FrontLeftMechanicalLeg.labelShort>
 
-  <FrontRightMechanicalLeg.label>front right leg</FrontRightMechanicalLeg.label>
-  <FrontRightMechanicalLeg.labelShort>legs</FrontRightMechanicalLeg.labelShort>
+  <FrontRightMechanicalLeg.label>右前腿</FrontRightMechanicalLeg.label>
+  <FrontRightMechanicalLeg.labelShort>腿</FrontRightMechanicalLeg.labelShort>
 
 
 </LanguageData>

@@ -3,12 +3,12 @@
 
   <!-- Crawler -->
 
-  <MechanicalShell.label>Shell</MechanicalShell.label>
-  <PlasmaCutter.label>Plasma cutter</PlasmaCutter.label>
-  <MechanicalAntenna.label>Antenna</MechanicalAntenna.label>
-  <MechanicalCore.label>Core</MechanicalCore.label>
-  <MechanicalLeg.label>Front left leg</MechanicalLeg.label>
-  <MechanicalGearBox.label>Gear box</MechanicalGearBox.label>
+  <MechanicalShell.label>外壳</MechanicalShell.label>
+  <PlasmaCutter.label>离子光刃</PlasmaCutter.label>
+  <MechanicalAntenna.label>天线</MechanicalAntenna.label>
+  <MechanicalCore.label>内核</MechanicalCore.label>
+  <MechanicalLeg.label>左前腿</MechanicalLeg.label>
+  <MechanicalGearBox.label>传动结构</MechanicalGearBox.label>
 
 
 </LanguageData>
