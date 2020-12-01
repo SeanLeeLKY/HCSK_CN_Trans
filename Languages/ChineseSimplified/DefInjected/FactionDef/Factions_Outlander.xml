@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <OutlanderCivil.label>civil outlander</OutlanderCivil.label>
-  <OutlanderCivil.description>These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard.</OutlanderCivil.description>
-  <OutlanderCivil.pawnsPlural>outlanders</OutlanderCivil.pawnsPlural>
-  <OutlanderCivil.leaderTitle>Prime councilor</OutlanderCivil.leaderTitle>
+  <OutlanderCivil.label>文明的外来者联盟</OutlanderCivil.label>
+  <OutlanderCivil.description>这些人可能已经在这里生活了数十年甚至上百年，之前所掌握的大部分科技成果基本都已经失传了。他们现在通常使用简单的机械工具，并使用高级的火药武器自卫。\n\n他们比较关心诸如贸易、信任以及生存等更为实际的事情。\n\n这个团体高度重视文明的行为。</OutlanderCivil.description>
+  <OutlanderCivil.pawnsPlural>外来者</OutlanderCivil.pawnsPlural>
+  <OutlanderCivil.leaderTitle>首席议员</OutlanderCivil.leaderTitle>
 
-  <OutlanderRough.label>Bandits</OutlanderRough.label>
-  <OutlanderRough.description>Members of the criminal underworld who came to the Zone for different reasons: to make money by selling artifacts, hide from the law or trade in weapons. The Zone is full of bandits, ranging from common thugs to serious criminals, most of whom are members of one gang or another. Although the Zone gangs frequently fight among themselves, the criminal element still poses a serious problem for normal stalkers.</OutlanderRough.description>
-  <OutlanderRough.pawnsPlural>bandits</OutlanderRough.pawnsPlural>
-  <OutlanderRough.leaderTitle>Prime councilor</OutlanderRough.leaderTitle>
+  <OutlanderRough.label>盗匪</OutlanderRough.label>
+  <OutlanderRough.description>犯罪集团的成员出于不同的原因来到这个区域:通过出售文物来赚钱，躲避法律或武器交易。这个地区到处都是土匪，有普通的暴徒，也有严重的罪犯，其中大多数都是某个帮派的成员。虽然区域帮派之间经常互相争斗，但犯罪分子仍然对普通人团体构成严重威胁。</OutlanderRough.description>
+  <OutlanderRough.pawnsPlural>盗匪</OutlanderRough.pawnsPlural>
+  <OutlanderRough.leaderTitle>首席</OutlanderRough.leaderTitle>
 
 
 </LanguageData>

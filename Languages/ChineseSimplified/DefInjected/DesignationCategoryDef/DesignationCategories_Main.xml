@@ -1,8 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Zone.label>zone/Area</Zone.label>
-  <Orders.label>orders</Orders.label>
+  <Zone.label>区域</Zone.label>
+  <Zone.description>指定殖民者做某些事情的区域。</Zone.description>
+
+  <Orders.label>命令</Orders.label>
+  <Orders.description>对特定的目标向你的殖民者下达一个特定的指令。</Orders.description>
+
 
 
 </LanguageData>

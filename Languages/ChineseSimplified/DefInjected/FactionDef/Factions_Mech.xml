@@ -3,9 +3,9 @@
 
   <!-- Special sub-humanlike factions -->
 
-  <Mechanoid.label>Mechanoid hive</Mechanoid.label>
-  <Mechanoid.description>A hive of ancient self-replicating machines.</Mechanoid.description>
-  <Mechanoid.pawnsPlural>mechanoids</Mechanoid.pawnsPlural>
+  <Mechanoid.label>机械族巢穴</Mechanoid.label>
+  <Mechanoid.description>能自我复制的远古机械体的巢穴。</Mechanoid.description>
+  <Mechanoid.pawnsPlural>机械体</Mechanoid.pawnsPlural>
 
 
 </LanguageData>

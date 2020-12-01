@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <StoneArrow.label>stone arrow</StoneArrow.label>
-  <StoneArrow.description>A sharpened stone is attached as an arrow head. Cuts exposed tissue fairly well but is ineffective against any kind of armor.</StoneArrow.description>
+  <StoneArrow.label>石箭</StoneArrow.label>
+  <StoneArrow.description>箭头是一块磨制得非常锋利的石头。对于无护甲目标具有有效的杀伤效果，但是对于任何种类的护甲效果都不是很理想。</StoneArrow.description>
 
-  <MetallicArrow.label>metallic arrow</MetallicArrow.label>
-  <MetallicArrow.description>The arrow head is made from steel to enhance armor penetration.</MetallicArrow.description>
+  <MetallicArrow.label>金属箭</MetallicArrow.label>
+  <MetallicArrow.description>金属制成的箭头，增加了护甲穿透能力。</MetallicArrow.description>
 
-  <ExplosiveArrow.label>explosive arrow</ExplosiveArrow.label>
-  <ExplosiveArrow.description>Fitted with a explosive head to make additional explosion damage.</ExplosiveArrow.description>
+  <ExplosiveArrow.label>爆炸箭</ExplosiveArrow.label>
+  <ExplosiveArrow.description>箭头装有炸药，能造成额外的爆炸伤害。</ExplosiveArrow.description>
 
-  <BalistaBolt.label>balista bolt</BalistaBolt.label>
-  <BalistaBolt.description>The balista bolt head is made from steel to enhance armor penetration.</BalistaBolt.description>
+  <BalistaBolt.label>弩炮箭</BalistaBolt.label>
+  <BalistaBolt.description>由金属制成的弩炮箭头，大大增强了穿透能力。</BalistaBolt.description>
 
-  <StoneBall.label>stone ball</StoneBall.label>
-  <StoneBall.description>A stone ball used for catapult.</StoneBall.description>
+  <StoneBall.label>石球</StoneBall.label>
+  <StoneBall.description>石弩用的弹药。</StoneBall.description>
 
-  <ExplosiveBall.label>explosive ball</ExplosiveBall.label>
-  <ExplosiveBall.description>An explosive ball used for catapult.</ExplosiveBall.description>
+  <ExplosiveBall.label>爆炸球</ExplosiveBall.label>
+  <ExplosiveBall.description>石弩用爆炸弹药。</ExplosiveBall.description>
 
-  <Poison.label>poison</Poison.label>
-  <Poison.description>Weapon with poison effect.</Poison.description>
+  <Poison.label>毒性</Poison.label>
+  <Poison.description>带毒性效果的武器。</Poison.description>
 
-  <Shock.label>shock</Shock.label>
-  <Shock.description>Special non-lethal shock type ammo.</Shock.description>
+  <Shock.label>震撼</Shock.label>
+  <Shock.description>特种非致命冲击弹药。</Shock.description>
 
 
 </LanguageData>
