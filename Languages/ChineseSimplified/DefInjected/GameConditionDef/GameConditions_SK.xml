@@ -1,111 +1,93 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Wildfire.label>wildfire</Wildfire.label>
-  <Wildfire.description>Wildfire</Wildfire.description>
-  <Wildfire.endMessage>The wildfire has ended.</Wildfire.endMessage>
+  <Wildfire.label>野火</Wildfire.label>
+  <Wildfire.description>野火</Wildfire.description>
+  <Wildfire.endMessage>野火已经结束。</Wildfire.endMessage>
 
-  <ExtremeCold.label>Cold superstorm</ExtremeCold.label>
-  <ExtremeCold.description>Huge heavy clouds covered your territory, depriving you of sunlight, and causing incredible temperature phenomena in your territory, including severe freezing, hail and the threat of hypothermia. Wear a hat!</ExtremeCold.description>
-  <ExtremeCold.endMessage>Hopefully, the cold superstorm has finished.</ExtremeCold.endMessage>
+  <ExtremeCold.label>超级寒流</ExtremeCold.label>
+  <ExtremeCold.description>厚重的云层正在你殖民地的上空成型，阻挡了绝大部分阳光，强烈的冷空气使得本地气温急速下降，短时可能发生严重的霜冻现象，可能还会伴随大量的冰雹等极端天气。你得尽快启动寒潮天气应对方案。别忘了给殖民者们穿衣戴帽、防寒保暖！</ExtremeCold.description>
+  <ExtremeCold.endMessage>赞美世界，这股超级寒流终于结束了！</ExtremeCold.endMessage>
 
-  <ExtremeHot.label>Inferno</ExtremeHot.label>
-  <ExtremeHot.description>An extremely powerful heat wave travels across the area, increasing the likelihood of droughts and forest fires. Take care of your head!</ExtremeHot.description>
-  <ExtremeHot.endMessage>Hopefully, the inferno accident has finished.</ExtremeHot.endMessage>
+  <ExtremeHot.label>炼狱热浪</ExtremeHot.label>
+  <ExtremeHot.description>一股极其强大的热浪正席卷整个大地，所到之处皆尽干旱和林木火灾。照顾好殖民者们，小心脑袋被晒伤了！</ExtremeHot.description>
+  <ExtremeHot.endMessage>赞美世界，这炼狱热浪终于结束了！</ExtremeHot.endMessage>
 
-  <SandTornado.label>Sandstorm</SandTornado.label>
-  <SandTornado.description>Sandstorm is coming!\n\nPowerful dust vortices will cut a path of destruction through the area.</SandTornado.description>
-  <SandTornado.endMessage>The sandstorm has finished, dust vortices are gone.</SandTornado.endMessage>
+  <SandTornado.label>沙尘暴</SandTornado.label>
+  <SandTornado.description>沙！尘！暴！袭！来!\n\n具有强大威力的沙龙卷正在本地肆意破坏！</SandTornado.description>
+  <SandTornado.endMessage>沙尘暴终于结束了，沙龙卷也在本地销声匿迹！</SandTornado.endMessage>
 
-  <ToxicWeather.label>toxic weather</ToxicWeather.label>
-  <ToxicWeather.description>Toxic rain due to toxic emissions from some distant source is falling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will may corrode.</ToxicWeather.description>
-  <ToxicWeather.endMessage>The worst of the toxic rain has finished.</ToxicWeather.endMessage>
-  <ToxicWeather.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic rain.</ToxicWeather.letterText>
+  <ToxicWeather.label>毒雨</ToxicWeather.label>
+  <ToxicWeather.description>由于来自某些遥远源头的有毒物质排放而导致大气循环产生的有毒云层正在整个区域内造成毒性降水。 任何不在屋檐下的生物都会被缓慢毒化，留在室外的物品可能会加速腐蚀。</ToxicWeather.description>
+  <ToxicWeather.endMessage>这场该死的毒雨终于结束了。</ToxicWeather.endMessage>
+  <ToxicWeather.letterText>遥远地方的一起化学品火灾释放的有毒尘气体充斥着整个大气。\n\n不在屋顶下的人类和动物都会慢慢因为空气中的化学粉尘或者降雨中毒致病。</ToxicWeather.letterText>
 
-  <HailStorm.label>Hail Storm</HailStorm.label>
-  <HailStorm.description>A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets.</HailStorm.description>
-  <HailStorm.endMessage>The hail storm is ending.</HailStorm.endMessage>
+  <HailStorm.label>冰暴</HailStorm.label>
+  <HailStorm.description>一场反常的小规模暴风雨携带着冰雹风暴正在此地肆虐。任何不在屋顶下的人类和动物都有被冰雹砸伤的风险。</HailStorm.description>
+  <HailStorm.endMessage>冰暴停止肆虐。</HailStorm.endMessage>
 
-  <Drought.label>Drought</Drought.label>
-  <Drought.description>An unusual drought has set in.
+  <Drought.label>旱灾</Drought.label>
+  <Drought.description>一场异乎寻常的干旱袭击了本地。\n\n旱灾将会极快的使地面作物脱水死亡，处于正常情况下的水栽培则不会受到影响。请尽快抢收作物，以免更大的损失。</Drought.description>
+  <Drought.endMessage>旱灾结束了。</Drought.endMessage>
 
-Drought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can.</Drought.description>
-  <Drought.endMessage>The drought is ending.</Drought.endMessage>
+  <IceAge.label>冰河时代</IceAge.label>
+  <IceAge.description>全球气候剧变导致温度显著下降。动植物为适应寒冷气候出现了不同幅度的转变，各地的生物群系也随之变化。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。</IceAge.description>
+  <IceAge.endMessage>冰河时代结束了。</IceAge.endMessage>
 
-  <IceAge.label>Ice Age</IceAge.label>
-  <IceAge.description>Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.
+  <GlobalWarming.label>全球变暖</GlobalWarming.label>
+  <GlobalWarming.description>全球气候剧变导致温度显著上升。动植物为适应炎热气候出现了不同幅度的转变，各地的生物群系也随之变化。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。</GlobalWarming.description>
+  <GlobalWarming.endMessage>全球变暖的情况消退了。</GlobalWarming.endMessage>
 
-Flora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.
+  <PsychicRain.label>灵能雾雨</PsychicRain.label>
+  <PsychicRain.description>一种危险的精神实体正在引发亚原子扰动，使大气层的粒子也产生共振。一场似乎永无尽头的超自然雾雨已经开始，时间结构被打乱。任何不在屋顶下的人类和动物都会加速衰老。这场全球范围的气候异常将持续至少一个季度，至多数年。</PsychicRain.description>
+  <PsychicRain.endMessage>灵能雾雨消散了。</PsychicRain.endMessage>
 
-It will last anywhere between a season to several years.</IceAge.description>
-  <IceAge.endMessage>The ice age is ending</IceAge.endMessage>
+  <LongNight.label>无尽长夜</LongNight.label>
+  <LongNight.description>一个巨型空间实体遮住了恒星的光芒，引发了一场漫长的日食现象。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。</LongNight.description>
+  <LongNight.endMessage>晨曦已露，长夜终尽。</LongNight.endMessage>
 
-  <GlobalWarming.label>Global Warming</GlobalWarming.label>
-  <GlobalWarming.description>Global temperatures have suddenly risen to dangerous levels.
+  <KirinColdsnap.label>异常寒流</KirinColdsnap.label>
+  <KirinColdsnap.description>一股奇怪的寒流正在冻结整个地区。</KirinColdsnap.description>
+  <KirinColdsnap.endMessage>气温已经恢复到正常状态。</KirinColdsnap.endMessage>
 
-Flora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.
+  <NuclearFallout.label>核辐射</NuclearFallout.label>
+  <NuclearFallout.description>你的殖民地被一颗低当量的核弹头攻击了，除了巨大的核爆炸意外，由核爆炸产生的放射性烟雾和粉尘已扩散至空气中，产生的核冬天效应将阻挡阳光照射地面，气温也会下降到较低水平。暴露在核污染环境中的人和动物会受到持续的辐射伤害。</NuclearFallout.description>
+  <NuclearFallout.endMessage>祝贺你！辐射强度已经开始恢复到自然水平。如果你能收到这条信息，那么你可能是一位精通Rimworld的厉害玩家！再次祝贺！</NuclearFallout.endMessage>
 
-It will last anywhere between a season to several years.</GlobalWarming.description>
-  <GlobalWarming.endMessage>The global warming is ending</GlobalWarming.endMessage>
+  <CosmicRadiation.label>辐射效应</CosmicRadiation.label>
+  <CosmicRadiation.description>来自太阳耀斑的过量辐射触发了大量来自深层宇宙空间的辐射。</CosmicRadiation.description>
+  <CosmicRadiation.endMessage>似乎辐射效应已经恢复到正常水平。</CosmicRadiation.endMessage>
 
-  <PsychicRain.label>Psychic Rain</PsychicRain.label>
-  <PsychicRain.description>A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.
-
-A seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.
-
-It will last anywhere between a season to several years.</PsychicRain.description>
-  <PsychicRain.endMessage>The psychic rain is ending</PsychicRain.endMessage>
-
-  <LongNight.label>Long Night</LongNight.label>
-  <LongNight.description>A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.
-
-Terrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.
-
-It will last anywhere between a season to several years.</LongNight.description>
-  <LongNight.endMessage>The long night is ending</LongNight.endMessage>
-
-  <KirinColdsnap.label>Unusual cold</KirinColdsnap.label>
-  <KirinColdsnap.description>An unusual cold snap is freezing the region.</KirinColdsnap.description>
-  <KirinColdsnap.endMessage>Temperatures are back to normal.</KirinColdsnap.endMessage>
-
-  <NuclearFallout.label>Nuclear fallout</NuclearFallout.label>
-  <NuclearFallout.description>You colony has been struck by a low-yield nuclear weapon, in addition to the explosion, it has lofted a plume of radioactive particles into the lower atmosphere, blocking sunlight and irradiating the area. Temperatures will be lowered and exposed people and animals will take radiation damage.</NuclearFallout.description>
-  <NuclearFallout.endMessage>Congratulations! Radiation soon goes to natural normal level. If you have received this message, probably you are one of the best Rimworld players!</NuclearFallout.endMessage>
-
-  <CosmicRadiation.label>Radiation effect</CosmicRadiation.label>
-  <CosmicRadiation.description>Too much radiation from the solar flare has triggered cosmic radiation.</CosmicRadiation.description>
-  <CosmicRadiation.endMessage>It seems radiation effect soon goes to normal level.</CosmicRadiation.endMessage>
-
-  <Epidemic.label>Epidemic</Epidemic.label>
-  <Epidemic.description>In our area, an epidemic of disease.</Epidemic.description>
-  <Epidemic.endMessage>The epidemic has ended.</Epidemic.endMessage>
+  <Epidemic.label>疫病</Epidemic.label>
+  <Epidemic.description>一场疫病正在本地蔓延。</Epidemic.description>
+  <Epidemic.endMessage>疫病已经消退。</Epidemic.endMessage>
 
 
   <!-- Just for avoid error -->
 
-  <Darkness.label>Darkness</Darkness.label>
-  <Darkness.description>An unusual dark and cold... night.</Darkness.description>
-  <Darkness.endMessage>The darkness is gone</Darkness.endMessage>
+  <Darkness.label>漆黑之夜</Darkness.label>
+  <Darkness.description>一个不寻常的寒冷之夜。</Darkness.description>
+  <Darkness.endMessage>黑暗消散了。</Darkness.endMessage>
 
-  <StorytellerFrenzy.label>storyteller frenzy</StorytellerFrenzy.label>
-  <StorytellerFrenzy.description>You have angered the storyteller, we shouldn't expect anything good in the future.</StorytellerFrenzy.description>
-  <StorytellerFrenzy.endMessage>Storyteller forgot the insults.</StorytellerFrenzy.endMessage>
+  <StorytellerFrenzy.label>叙事者疯狂</StorytellerFrenzy.label>
+  <StorytellerFrenzy.description>你做了什么让叙事者疯狂的事情，我们接下来估计没什么好结果了。</StorytellerFrenzy.description>
+  <StorytellerFrenzy.endMessage>叙事者已经忘了发生的事情了。</StorytellerFrenzy.endMessage>
 
-  <StorytellerFrenzyRandom.label>storyteller frenzy</StorytellerFrenzyRandom.label>
-  <StorytellerFrenzyRandom.description>You have angered the storyteller, we shouldn't expect anything good in the future.</StorytellerFrenzyRandom.description>
-  <StorytellerFrenzyRandom.endMessage>Storyteller forgot the insults.</StorytellerFrenzyRandom.endMessage>
+  <StorytellerFrenzyRandom.label>叙事者疯狂</StorytellerFrenzyRandom.label>
+  <StorytellerFrenzyRandom.description>你做了什么让叙事者疯狂的事情，我们接下来估计没什么好结果了。</StorytellerFrenzyRandom.description>
+  <StorytellerFrenzyRandom.endMessage>叙事者已经忘了发生的事情了。</StorytellerFrenzyRandom.endMessage>
 
-  <Earthquake.label>Seismic activity</Earthquake.label>
-  <Earthquake.description>Underground shocks of a certain intensity.</Earthquake.description>
-  <Earthquake.endMessage>The seismic activity has ended.</Earthquake.endMessage>
+  <Earthquake.label>地震活动</Earthquake.label>
+  <Earthquake.description>地质活动频发，强度升高。</Earthquake.description>
+  <Earthquake.endMessage>地震活动已经趋于平稳。</Earthquake.endMessage>
 
-  <BombardmentCondition.label>bombardment</BombardmentCondition.label>
-  <BombardmentCondition.description>Enemy faction are not pleased with you.. so they will bomb you to hell.</BombardmentCondition.description>
-  <BombardmentCondition.endMessage>The bombardment threat is over.</BombardmentCondition.endMessage>
+  <BombardmentCondition.label>轰炸</BombardmentCondition.label>
+  <BombardmentCondition.description>敌对派系对你非常不满，他们决定把你炸到地狱去。</BombardmentCondition.description>
+  <BombardmentCondition.endMessage>轰炸已结束。</BombardmentCondition.endMessage>
 
-  <PowerBeamStrikeCondition.label>beam strike</PowerBeamStrikeCondition.label>
-  <PowerBeamStrikeCondition.description>Enemy faction are not pleased with you.. so they will bomb you to hell.</PowerBeamStrikeCondition.description>
-  <PowerBeamStrikeCondition.endMessage>The beam strike threat is over.</PowerBeamStrikeCondition.endMessage>
+  <PowerBeamStrikeCondition.label>光束打击</PowerBeamStrikeCondition.label>
+  <PowerBeamStrikeCondition.description>敌对派系对你非常不满，他们决定把你炸到地狱去。</PowerBeamStrikeCondition.description>
+  <PowerBeamStrikeCondition.endMessage>光束打击已结束。</PowerBeamStrikeCondition.endMessage>
 
 
 </LanguageData>
