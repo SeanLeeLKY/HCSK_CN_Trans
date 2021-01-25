@@ -1,25 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HedStew.label>ate stew</HedStew.label>
-  <HedStew.description>A stew containing mushrooms.</HedStew.description>
-  <HedStew.stages.0.label>Well Fed: Stew</HedStew.stages.0.label>
+  <HedStew.label>吃了炖菜</HedStew.label>
+  <HedStew.description>有着新鲜蘑菇的炖菜。</HedStew.description>
+  <HedStew.stages.0.label>美食：炖菜</HedStew.stages.0.label>
 
-  <HedPizza.label>ate pizza</HedPizza.label>
-  <HedPizza.description>The best cutted food in the world!</HedPizza.description>
-  <HedPizza.stages.0.label>Well Fed: Pizza</HedPizza.stages.0.label>
+  <HedPizza.label>吃了披萨</HedPizza.label>
+  <HedPizza.description>可能是这世界上最美味的刀切食物。</HedPizza.description>
+  <HedPizza.stages.0.label>美食：披萨</HedPizza.stages.0.label>
 
-  <HedYogurt.label>ate yogurt</HedYogurt.label>
-  <HedYogurt.description>Delicate creamy taste gives a great mood</HedYogurt.description>
-  <HedYogurt.stages.0.label>Well Fed: Yogurt</HedYogurt.stages.0.label>
+  <HedYogurt.label>吃了酸奶</HedYogurt.label>
+  <HedYogurt.description>能够让人心情愉悦的膏状食物。</HedYogurt.description>
+  <HedYogurt.stages.0.label>美食：酸奶</HedYogurt.stages.0.label>
 
-  <HedGrilledchz.label>ate grilled cheese</HedGrilledchz.label>
-  <HedGrilledchz.description>And can I still have a portion of this grilled yummy?</HedGrilledchz.description>
-  <HedGrilledchz.stages.0.label>Well Fed: Grilledcheese</HedGrilledchz.stages.0.label>
+  <HedGrilledchz.label>吃了烤芝士</HedGrilledchz.label>
+  <HedGrilledchz.description>能再来一份吗？</HedGrilledchz.description>
+  <HedGrilledchz.stages.0.label>美食：烤芝士</HedGrilledchz.stages.0.label>
 
-  <HedSweetbun.label>ate a baked good.</HedSweetbun.label>
-  <HedSweetbun.description>I'm full of energy and moving like a Flash</HedSweetbun.description>
-  <HedSweetbun.stages.0.label>Well Fed: Baked Good</HedSweetbun.stages.0.label>
+  <HedSweetbun.label>吃了烘焙食物</HedSweetbun.label>
+  <HedSweetbun.description>我感觉浑身充满了能量！</HedSweetbun.description>
+  <HedSweetbun.stages.0.label>美食：烘焙食物</HedSweetbun.stages.0.label>
+ 
+  <HedGmeat.label>吃了烤肉</HedGmeat.label>
+  <HedGmeat.stages.0.label>美食：烤制食物</HedGmeat.stages.0.label>
 
+  <HedIceCream.label>吃了冰激凌</HedIceCream.label>
+  <HedIceCream.stages.0.label>美食：冰激凌</HedIceCream.stages.0.label>
+
+  <HedPorridge.label>吃了粥 </HedPorridge.label>
+  <HedPorridge.stages.0.label>美食：粥</HedPorridge.stages.0.label>
+
+  <HedSmoothie.label>吃了奶昔</HedSmoothie.label>
+  <HedSmoothie.stages.0.label>美食：奶昔</HedSmoothie.stages.0.label>
+
+  <HedStirfry.label>吃了炒菜</HedStirfry.label>
+  <HedStirfry.stages.0.label>美食：炒菜</HedStirfry.stages.0.label>
+
+  <HedTacos.label>吃了卷饼</HedTacos.label>
+  <HedTacos.stages.0.label>美食：卷饼</HedTacos.stages.0.label>
+
+  <HedPolenta.label>吃了玉米糊</HedPolenta.label>
+  <HedPolenta.stages.0.label>美食：玉米糊</HedPolenta.stages.0.label>
 
 </LanguageData>

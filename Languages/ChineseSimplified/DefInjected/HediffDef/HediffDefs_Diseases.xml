@@ -1,53 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CommonCold.label>Common cold</CommonCold.label>
-  <CommonCold.description>A common cold makes your life more boring</CommonCold.description>
-  <CommonCold.labelNoun>a common cold</CommonCold.labelNoun>
+  <CommonCold.label>感冒</CommonCold.label>
+  <CommonCold.description>一场普通感冒，会让你感觉不太舒服。</CommonCold.description>
+  <CommonCold.labelNoun>感冒</CommonCold.labelNoun>
 
-  <StrepThroat.label>strep throat</StrepThroat.label>
-  <StrepThroat.description>It’s hard to talk with a strep throat</StrepThroat.description>
-  <StrepThroat.labelNoun>a strep throat</StrepThroat.labelNoun>
+  <StrepThroat.label>咽喉炎</StrepThroat.label>
+  <StrepThroat.description>一张口就疼，不是很想说话。</StrepThroat.description>
+  <StrepThroat.labelNoun>咽喉炎</StrepThroat.labelNoun>
 
-  <Earache.label>ear ache</Earache.label>
-  <Earache.description>You hear worse with ear ache</Earache.description>
-  <Earache.labelNoun>an ear ache</Earache.labelNoun>
+  <Earache.label>耳痛</Earache.label>
+  <Earache.description>耳朵不知道出了什么毛病，听见声音就疼。</Earache.description>
+  <Earache.labelNoun>耳痛</Earache.labelNoun>
 
-  <Fever.label>fever</Fever.label>
-  <Fever.description>You are shaking and reeling from a fever</Fever.description>
-  <Fever.labelNoun>a fever</Fever.labelNoun>
+  <Fever.label>发烧</Fever.label>
+  <Fever.description>发烧了，你需要休息。</Fever.description>
+  <Fever.labelNoun>发烧</Fever.labelNoun>
 
-  <Ebola.label>ebola</Ebola.label>
-  <Ebola.description>Your chances of survival are drastically reduced with ebola</Ebola.description>
-  <Ebola.stages.0.label>minor-hidden</Ebola.stages.0.label>
-  <Ebola.stages.1.label>minor</Ebola.stages.1.label>
-  <Ebola.stages.2.label>major</Ebola.stages.2.label>
-  <Ebola.stages.3.label>extreme</Ebola.stages.3.label>
-  <Ebola.labelNoun>an ebola</Ebola.labelNoun>
+  <Ebola.label>埃博拉</Ebola.label>
+  <Ebola.description>一种严重病毒，你觉得你还有多少的生存几率？</Ebola.description>
+  <Ebola.stages.0.label>轻度-隐藏</Ebola.stages.0.label>
+  <Ebola.stages.1.label>轻度</Ebola.stages.1.label>
+  <Ebola.stages.2.label>严重</Ebola.stages.2.label>
+  <Ebola.stages.3.label>极重</Ebola.stages.3.label>
+  <Ebola.labelNoun>埃博拉</Ebola.labelNoun>
 
-  <Measles.label>measles</Measles.label>
-  <Measles.description>The most contagious disease is already here</Measles.description>
-  <Measles.stages.0.label>minor-hidden</Measles.stages.0.label>
-  <Measles.stages.1.label>minor</Measles.stages.1.label>
-  <Measles.stages.2.label>major</Measles.stages.2.label>
-  <Measles.stages.3.label>extreme</Measles.stages.3.label>
-  <Measles.labelNoun>a measles</Measles.labelNoun>
+  <Measles.label>麻疹</Measles.label>
+  <Measles.description>极具传染力的疾病。</Measles.description>
+  <Measles.stages.0.label>轻度-隐藏</Measles.stages.0.label>
+  <Measles.stages.1.label>轻度</Measles.stages.1.label>
+  <Measles.stages.2.label>严重</Measles.stages.2.label>
+  <Measles.stages.3.label>极重</Measles.stages.3.label>
+  <Measles.labelNoun>麻疹</Measles.labelNoun>
 
-  <Pneumonia.label>pneumonia</Pneumonia.label>
-  <Pneumonia.description>Your lungs are inflamed. It may end badly.</Pneumonia.description>
-  <Pneumonia.stages.0.label>minor-hidden</Pneumonia.stages.0.label>
-  <Pneumonia.stages.1.label>minor</Pneumonia.stages.1.label>
-  <Pneumonia.stages.2.label>major</Pneumonia.stages.2.label>
-  <Pneumonia.stages.3.label>extreme</Pneumonia.stages.3.label>
-  <Pneumonia.labelNoun>a pneumonia</Pneumonia.labelNoun>
+  <Pneumonia.label>肺炎</Pneumonia.label>
+  <Pneumonia.description>肺部感觉像是着火了一样。这感觉————糟透了！</Pneumonia.description>
+  <Pneumonia.stages.0.label>轻度-隐藏</Pneumonia.stages.0.label>
+  <Pneumonia.stages.1.label>轻度</Pneumonia.stages.1.label>
+  <Pneumonia.stages.2.label>严重</Pneumonia.stages.2.label>
+  <Pneumonia.stages.3.label>极重</Pneumonia.stages.3.label>
+  <Pneumonia.labelNoun>肺炎</Pneumonia.labelNoun>
 
-  <Coronavirus.label>Coronavirus</Coronavirus.label>
-  <Coronavirus.description>An infectious virus that causes respiratory symptoms, patients require isolation and constant care.</Coronavirus.description>
-  <Coronavirus.stages.0.label>minor-hidden</Coronavirus.stages.0.label>
-  <Coronavirus.stages.1.label>minor</Coronavirus.stages.1.label>
-  <Coronavirus.stages.2.label>major</Coronavirus.stages.2.label>
-  <Coronavirus.stages.3.label>extreme</Coronavirus.stages.3.label>
-  <Coronavirus.labelNoun>a coronavirus</Coronavirus.labelNoun>
+  <Coronavirus.label>冠状病毒</Coronavirus.label>
+  <Coronavirus.description>一种能引起呼吸道症状的传染性病毒，病人需要单独隔离和长期护理。</Coronavirus.description>
+  <Coronavirus.stages.0.label>轻度-隐藏</Coronavirus.stages.0.label>
+  <Coronavirus.stages.1.label>轻度</Coronavirus.stages.1.label>
+  <Coronavirus.stages.2.label>严重</Coronavirus.stages.2.label>
+  <Coronavirus.stages.3.label>极重</Coronavirus.stages.3.label>
+  <Coronavirus.labelNoun>冠状病毒</Coronavirus.labelNoun>
 
 
 </LanguageData>

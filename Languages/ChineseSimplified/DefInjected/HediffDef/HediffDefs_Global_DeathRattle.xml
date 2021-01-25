@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <IntestinalFailure.label>intestinal failure</IntestinalFailure.label>
-  <IntestinalFailure.description>Your intestines are not working well</IntestinalFailure.description>
-  <IntestinalFailure.stages.2.label>near-death</IntestinalFailure.stages.2.label>
-  <IntestinalFailure.labelNoun>an intestinal failure</IntestinalFailure.labelNoun>
+  <IntestinalFailure.label>肠衰竭</IntestinalFailure.label>
+  <IntestinalFailure.description>肠道工作状态不是很好。</IntestinalFailure.description>
+  <IntestinalFailure.stages.2.label>濒死</IntestinalFailure.stages.2.label>
+  <IntestinalFailure.labelNoun>肠衰竭</IntestinalFailure.labelNoun>
 
-  <LiverFailure.label>acute liver failure</LiverFailure.label>
-  <LiverFailure.description>Your liver is not working well</LiverFailure.description>
-  <LiverFailure.stages.1.label>near-death</LiverFailure.stages.1.label>
-  <LiverFailure.labelNoun>an acute liver failure</LiverFailure.labelNoun>
+  <LiverFailure.label>急性肝功能衰竭</LiverFailure.label>
+  <LiverFailure.description>肝脏工作状态不是很好。</LiverFailure.description>
+  <LiverFailure.stages.1.label>濒死</LiverFailure.stages.1.label>
+  <LiverFailure.labelNoun>急性肝功能衰竭</LiverFailure.labelNoun>
 
-  <KidneyFailure.label>acute renal failure</KidneyFailure.label>
-  <KidneyFailure.description>Your renal is not working well</KidneyFailure.description>
-  <KidneyFailure.stages.1.label>near-death</KidneyFailure.stages.1.label>
-  <KidneyFailure.labelNoun>an acute renal failure</KidneyFailure.labelNoun>
+  <KidneyFailure.label>急性肾功能衰竭</KidneyFailure.label>
+  <KidneyFailure.description>肾脏工作状态不是很好。</KidneyFailure.description>
+  <KidneyFailure.stages.1.label>濒死</KidneyFailure.stages.1.label>
+  <KidneyFailure.labelNoun>急性肾功能衰竭</KidneyFailure.labelNoun>
 
-  <ClinicalDeathNoHeartbeat.label>no pulse</ClinicalDeathNoHeartbeat.label>
-  <ClinicalDeathNoHeartbeat.description>Heart is stop beating</ClinicalDeathNoHeartbeat.description>
-  <ClinicalDeathNoHeartbeat.stages.1.label>clinical death</ClinicalDeathNoHeartbeat.stages.1.label>
-  <ClinicalDeathNoHeartbeat.labelNoun>a clinical death</ClinicalDeathNoHeartbeat.labelNoun>
+  <ClinicalDeathNoHeartbeat.label>没有脉搏</ClinicalDeathNoHeartbeat.label>
+  <ClinicalDeathNoHeartbeat.description>心脏停跳。</ClinicalDeathNoHeartbeat.description>
+  <ClinicalDeathNoHeartbeat.stages.1.label>临床死亡</ClinicalDeathNoHeartbeat.stages.1.label>
+  <ClinicalDeathNoHeartbeat.labelNoun>临床死亡</ClinicalDeathNoHeartbeat.labelNoun>
 
-  <ClinicalDeathAsphyxiation.label>oxygen deprivation</ClinicalDeathAsphyxiation.label>
-  <ClinicalDeathAsphyxiation.description>Breath stopped</ClinicalDeathAsphyxiation.description>
-  <ClinicalDeathAsphyxiation.stages.1.label>clinical death</ClinicalDeathAsphyxiation.stages.1.label>
-  <ClinicalDeathAsphyxiation.labelNoun>an oxygen deprivation</ClinicalDeathAsphyxiation.labelNoun>
+  <ClinicalDeathAsphyxiation.label>缺氧</ClinicalDeathAsphyxiation.label>
+  <ClinicalDeathAsphyxiation.description>呼吸停止。</ClinicalDeathAsphyxiation.description>
+  <ClinicalDeathAsphyxiation.stages.1.label>临床死亡</ClinicalDeathAsphyxiation.stages.1.label>
+  <ClinicalDeathAsphyxiation.labelNoun>缺氧</ClinicalDeathAsphyxiation.labelNoun>
 
-  <Coma.label>coma</Coma.label>
-  <Coma.description>Fell into a coma</Coma.description>
-  <Coma.labelNoun>a coma</Coma.labelNoun>
+  <Coma.label>昏迷</Coma.label>
+  <Coma.description>陷入昏迷。</Coma.description>
+  <Coma.labelNoun>昏迷</Coma.labelNoun>
 
-  <BrainDamage.label>brain damage</BrainDamage.label>
-  <BrainDamage.description>Brain is damaged</BrainDamage.description>
+  <BrainDamage.label>脑损伤</BrainDamage.label>
+  <BrainDamage.description>脑部损害。</BrainDamage.description>
 
-  <SevereBrainDamage.label>severe brain damage</SevereBrainDamage.label>
-  <SevereBrainDamage.description>Brain is seriously damaged</SevereBrainDamage.description>
+  <SevereBrainDamage.label>严重脑损伤</SevereBrainDamage.label>
+  <SevereBrainDamage.description>脑部严重损害。</SevereBrainDamage.description>
 
-  <VegetativeState.label>vegetative state</VegetativeState.label>
-  <VegetativeState.description>Is in a vegetative state</VegetativeState.description>
+  <VegetativeState.label>植物人</VegetativeState.label>
+  <VegetativeState.description>陷入植物人状态。</VegetativeState.description>
 
 
 </LanguageData>

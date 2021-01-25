@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Soporific.label>soporific buildup</Soporific.label>
-  <Soporific.description>Immersed in a dream</Soporific.description>
-  <Soporific.stages.0.label>initial</Soporific.stages.0.label>
-  <Soporific.stages.1.label>minor</Soporific.stages.1.label>
-  <Soporific.stages.2.label>moderate</Soporific.stages.2.label>
-  <Soporific.stages.3.label>sufficient</Soporific.stages.3.label>
-  <Soporific.stages.4.label>overdose</Soporific.stages.4.label>
-  <Soporific.stages.5.label>extreme overdose</Soporific.stages.5.label>
-  <Soporific.labelNoun>a soporific buildup</Soporific.labelNoun>
+  <Soporific.label>催眠</Soporific.label>
+  <Soporific.description>沉浸在梦中。</Soporific.description>
+  <Soporific.stages.0.label>初始</Soporific.stages.0.label>
+  <Soporific.stages.1.label>轻度</Soporific.stages.1.label>
+  <Soporific.stages.2.label>中度</Soporific.stages.2.label>
+  <Soporific.stages.3.label>较高</Soporific.stages.3.label>
+  <Soporific.stages.4.label>重度</Soporific.stages.4.label>
+  <Soporific.stages.5.label>极度</Soporific.stages.5.label>
+  <Soporific.labelNoun>增生</Soporific.labelNoun>
 
 
 </LanguageData>
