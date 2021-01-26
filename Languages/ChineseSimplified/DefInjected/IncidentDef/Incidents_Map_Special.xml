@@ -3,39 +3,39 @@
 
   <!-- ShipChunkDrop -->
 
-  <ShipChunkDrop.label>ship chunk drop</ShipChunkDrop.label>
+  <ShipChunkDrop.label>飞船残骸坠落</ShipChunkDrop.label>
 
 
   <!-- OrbitalVisitor -->
 
-  <OrbitalTraderArrival.label>orbital trader arrival</OrbitalTraderArrival.label>
-  <OrbitalTraderArrivalSBT.label>orbital trader arrival</OrbitalTraderArrivalSBT.label>
+  <OrbitalTraderArrival.label>轨道贸易商</OrbitalTraderArrival.label>
+  <OrbitalTraderArrivalSBT.label>轨道贸易商</OrbitalTraderArrivalSBT.label>
 
 
   <!-- AllyArrival -->
 
-  <TraderCaravanArrival.label>trader caravan arrival</TraderCaravanArrival.label>
-  <VisitorGroup.label>visitor group</VisitorGroup.label>
-  <TravelerGroup.label>traveler group</TravelerGroup.label>
+  <TraderCaravanArrival.label>贸易商队</TraderCaravanArrival.label>
+  <VisitorGroup.label>访客</VisitorGroup.label>
+  <TravelerGroup.label>旅行者</TravelerGroup.label>
 
 
   <!-- AllyAssistance -->
 
-  <RaidFriendly.label>friendly raid</RaidFriendly.label>
+  <RaidFriendly.label>援军</RaidFriendly.label>
 
 
   <!-- Good - special -->
 
-  <StrangerInBlackJoin.label>man in black</StrangerInBlackJoin.label>
-  <StrangerInBlackJoin.letterText>Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts?</StrangerInBlackJoin.letterText>
-  <StrangerInBlackJoin.letterLabel>Man in black</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.label>黑衣人</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.letterText>仿佛嗅到危机的气息，一位神秘的[PAWN_kind]出现。\n\n那么[PAWN_pronoun]能不能解决这一切呢？</StrangerInBlackJoin.letterText>
+  <StrangerInBlackJoin.letterLabel>黑衣人</StrangerInBlackJoin.letterLabel>
 
 
   <!-- event attracted events -->
 
-  <RaidEnemyDummy.label>enemy raid ice age</RaidEnemyDummy.label>
-  <ManhunterPackDummy.label>manhunter pack</ManhunterPackDummy.label>
-  <AnimalInsanityMassDummy.label>mass animal insanity</AnimalInsanityMassDummy.label>
+  <RaidEnemyDummy.label>冰河时代敌袭</RaidEnemyDummy.label>
+  <ManhunterPackDummy.label>猎杀人类</ManhunterPackDummy.label>
+  <AnimalInsanityMassDummy.label>大群动物发疯</AnimalInsanityMassDummy.label>
 
 
 </LanguageData>
