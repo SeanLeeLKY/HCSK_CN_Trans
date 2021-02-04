@@ -1,11 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Kill.reportString>Kill TargetA.</Kill.reportString>
-  <Segmentation.reportString>Segmentation through TargetA.</Segmentation.reportString>
-  <CrushDoor.reportString>Crush TargetB.</CrushDoor.reportString>
-  <Absorb.reportString>Absorbs TargetA.</Absorb.reportString>
-  <SuckBlood.reportString>Suck TargetA blood.</SuckBlood.reportString>
+  <Kill.reportString>猎杀 TargetA。</Kill.reportString>
+  <Segmentation.reportString>切割 TargetA。</Segmentation.reportString>
+  <CrushDoor.reportString>摧毁 TargetB。</CrushDoor.reportString>
+  <Absorb.reportString>吸吮 TargetA。</Absorb.reportString>
+  <SuckBlood.reportString>吸取 TargetA 的血。</SuckBlood.reportString>
+
+  <DrawEnergyFromApparel.reportString>吞食 TargetA。</DrawEnergyFromApparel.reportString>
+  <Malaria.reportString>吸取 TargetA 的血。</Malaria.reportString>
+  <FleaPlague.reportString>吸取 TargetA 的血。</FleaPlague.reportString>
+
 
 
 </LanguageData>

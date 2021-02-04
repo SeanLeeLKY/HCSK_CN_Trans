@@ -5,7 +5,7 @@
   <Charged.description>电荷子弹对于装甲和组织拥有一样的伤害力。</Charged.description>
 
   <ChargedST.label>稳态电荷弹</ChargedST.label>
-  <ChargedST.description>稳态电荷弹不会点燃武器。</ChargedST.description>
+  <ChargedST.description>稳态电荷弹不会点燃物体。</ChargedST.description>
 
   <ChargedAP.label>聚能电荷弹</ChargedAP.label>
   <ChargedAP.labelShort>聚能</ChargedAP.labelShort>

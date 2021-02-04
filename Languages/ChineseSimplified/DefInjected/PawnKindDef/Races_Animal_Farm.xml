@@ -3,280 +3,280 @@
 
   <!-- Farm -->
 
-  <Chicken.label>chicken</Chicken.label>
-  <Chicken.labelPlural>chickens</Chicken.labelPlural>
-  <Chicken.lifeStages.0.label>chick</Chicken.lifeStages.0.label>
-  <Chicken.lifeStages.0.labelPlural>chicks</Chicken.lifeStages.0.labelPlural>
-  <Chicken.lifeStages.0.labelMale>male chick</Chicken.lifeStages.0.labelMale>
-  <Chicken.lifeStages.0.labelMalePlural>male chicks</Chicken.lifeStages.0.labelMalePlural>
-  <Chicken.lifeStages.0.labelFemale>female chick</Chicken.lifeStages.0.labelFemale>
-  <Chicken.lifeStages.0.labelFemalePlural>female chicks</Chicken.lifeStages.0.labelFemalePlural>
-  <Chicken.lifeStages.1.label>chicken</Chicken.lifeStages.1.label>
-  <Chicken.lifeStages.1.labelPlural>chicken</Chicken.lifeStages.1.labelPlural>
-  <Chicken.lifeStages.1.labelMale>cockerel</Chicken.lifeStages.1.labelMale>
-  <Chicken.lifeStages.1.labelMalePlural>cockerels</Chicken.lifeStages.1.labelMalePlural>
-  <Chicken.lifeStages.1.labelFemale>hen</Chicken.lifeStages.1.labelFemale>
-  <Chicken.lifeStages.1.labelFemalePlural>female chickens</Chicken.lifeStages.1.labelFemalePlural>
-  <Chicken.lifeStages.2.label>chicken</Chicken.lifeStages.2.label>
-  <Chicken.lifeStages.2.labelPlural>chicken</Chicken.lifeStages.2.labelPlural>
-  <Chicken.lifeStages.2.labelMale>rooster</Chicken.lifeStages.2.labelMale>
-  <Chicken.lifeStages.2.labelMalePlural>male chickens</Chicken.lifeStages.2.labelMalePlural>
-  <Chicken.lifeStages.2.labelFemale>hen</Chicken.lifeStages.2.labelFemale>
-  <Chicken.lifeStages.2.labelFemalePlural>female chickens</Chicken.lifeStages.2.labelFemalePlural>
-  <Chicken.labelMale>rooster</Chicken.labelMale>
-  <Chicken.labelMalePlural>roosters</Chicken.labelMalePlural>
-  <Chicken.labelFemale>hen</Chicken.labelFemale>
-  <Chicken.labelFemalePlural>hens</Chicken.labelFemalePlural>
+  <Chicken.label>鸡</Chicken.label>
+  <Chicken.labelPlural>鸡</Chicken.labelPlural>
+  <Chicken.lifeStages.0.label>鸡仔</Chicken.lifeStages.0.label>
+  <Chicken.lifeStages.0.labelPlural>鸡仔</Chicken.lifeStages.0.labelPlural>
+  <Chicken.lifeStages.0.labelMale>鸡仔</Chicken.lifeStages.0.labelMale>
+  <Chicken.lifeStages.0.labelMalePlural>鸡仔</Chicken.lifeStages.0.labelMalePlural>
+  <Chicken.lifeStages.0.labelFemale>鸡仔</Chicken.lifeStages.0.labelFemale>
+  <Chicken.lifeStages.0.labelFemalePlural>鸡仔</Chicken.lifeStages.0.labelFemalePlural>
+  <Chicken.lifeStages.1.label>幼年鸡</Chicken.lifeStages.1.label>
+  <Chicken.lifeStages.1.labelPlural>幼年鸡</Chicken.lifeStages.1.labelPlural>
+  <Chicken.lifeStages.1.labelMale>幼年公鸡</Chicken.lifeStages.1.labelMale>
+  <Chicken.lifeStages.1.labelMalePlural>幼年公鸡</Chicken.lifeStages.1.labelMalePlural>
+  <Chicken.lifeStages.1.labelFemale>幼年母鸡</Chicken.lifeStages.1.labelFemale>
+  <Chicken.lifeStages.1.labelFemalePlural>幼年母鸡</Chicken.lifeStages.1.labelFemalePlural>
+  <Chicken.lifeStages.2.label>鸡</Chicken.lifeStages.2.label>
+  <Chicken.lifeStages.2.labelPlural>鸡</Chicken.lifeStages.2.labelPlural>
+  <Chicken.lifeStages.2.labelMale>公鸡</Chicken.lifeStages.2.labelMale>
+  <Chicken.lifeStages.2.labelMalePlural>公鸡</Chicken.lifeStages.2.labelMalePlural>
+  <Chicken.lifeStages.2.labelFemale>母鸡</Chicken.lifeStages.2.labelFemale>
+  <Chicken.lifeStages.2.labelFemalePlural>母鸡</Chicken.lifeStages.2.labelFemalePlural>
+  <Chicken.labelMale>公鸡</Chicken.labelMale>
+  <Chicken.labelMalePlural>公鸡</Chicken.labelMalePlural>
+  <Chicken.labelFemale>母鸡</Chicken.labelFemale>
+  <Chicken.labelFemalePlural>母鸡</Chicken.labelFemalePlural>
 
-  <Pig.label>pig</Pig.label>
-  <Pig.labelPlural>pigs</Pig.labelPlural>
-  <Pig.lifeStages.0.label>piglet</Pig.lifeStages.0.label>
-  <Pig.lifeStages.0.labelPlural>piglets</Pig.lifeStages.0.labelPlural>
-  <Pig.lifeStages.0.labelMale>male piglet</Pig.lifeStages.0.labelMale>
-  <Pig.lifeStages.0.labelMalePlural>male piglets</Pig.lifeStages.0.labelMalePlural>
-  <Pig.lifeStages.0.labelFemale>female piglet</Pig.lifeStages.0.labelFemale>
-  <Pig.lifeStages.0.labelFemalePlural>female piglets</Pig.lifeStages.0.labelFemalePlural>
-  <Pig.lifeStages.1.label>pig</Pig.lifeStages.1.label>
-  <Pig.lifeStages.1.labelPlural>pig</Pig.lifeStages.1.labelPlural>
-  <Pig.lifeStages.1.labelMale>male pig</Pig.lifeStages.1.labelMale>
-  <Pig.lifeStages.1.labelMalePlural>male pigs</Pig.lifeStages.1.labelMalePlural>
-  <Pig.lifeStages.1.labelFemale>sow</Pig.lifeStages.1.labelFemale>
-  <Pig.lifeStages.1.labelFemalePlural>female pigs</Pig.lifeStages.1.labelFemalePlural>
-  <Pig.lifeStages.2.label>pig</Pig.lifeStages.2.label>
-  <Pig.lifeStages.2.labelPlural>pig</Pig.lifeStages.2.labelPlural>
-  <Pig.lifeStages.2.labelMale>male pig</Pig.lifeStages.2.labelMale>
-  <Pig.lifeStages.2.labelMalePlural>male pigs</Pig.lifeStages.2.labelMalePlural>
-  <Pig.lifeStages.2.labelFemale>sow</Pig.lifeStages.2.labelFemale>
-  <Pig.lifeStages.2.labelFemalePlural>female pigs</Pig.lifeStages.2.labelFemalePlural>
-  <Pig.labelMale>male pig</Pig.labelMale>
-  <Pig.labelMalePlural>male pigs</Pig.labelMalePlural>
-  <Pig.labelFemale>sow</Pig.labelFemale>
-  <Pig.labelFemalePlural>sows</Pig.labelFemalePlural>
+  <Pig.label>猪</Pig.label>
+  <Pig.labelPlural>猪</Pig.labelPlural>
+  <Pig.lifeStages.0.label>乳猪</Pig.lifeStages.0.label>
+  <Pig.lifeStages.0.labelPlural>乳猪</Pig.lifeStages.0.labelPlural>
+  <Pig.lifeStages.0.labelMale>乳猪</Pig.lifeStages.0.labelMale>
+  <Pig.lifeStages.0.labelMalePlural>乳猪</Pig.lifeStages.0.labelMalePlural>
+  <Pig.lifeStages.0.labelFemale>乳猪</Pig.lifeStages.0.labelFemale>
+  <Pig.lifeStages.0.labelFemalePlural>乳猪</Pig.lifeStages.0.labelFemalePlural>
+  <Pig.lifeStages.1.label>幼年猪</Pig.lifeStages.1.label>
+  <Pig.lifeStages.1.labelPlural>幼年猪</Pig.lifeStages.1.labelPlural>
+  <Pig.lifeStages.1.labelMale>幼年公猪</Pig.lifeStages.1.labelMale>
+  <Pig.lifeStages.1.labelMalePlural>幼年公猪</Pig.lifeStages.1.labelMalePlural>
+  <Pig.lifeStages.1.labelFemale>幼年母猪</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.1.labelFemalePlural>幼年母猪</Pig.lifeStages.1.labelFemalePlural>
+  <Pig.lifeStages.2.label>猪</Pig.lifeStages.2.label>
+  <Pig.lifeStages.2.labelPlural>猪</Pig.lifeStages.2.labelPlural>
+  <Pig.lifeStages.2.labelMale>公猪</Pig.lifeStages.2.labelMale>
+  <Pig.lifeStages.2.labelMalePlural>公猪</Pig.lifeStages.2.labelMalePlural>
+  <Pig.lifeStages.2.labelFemale>母猪</Pig.lifeStages.2.labelFemale>
+  <Pig.lifeStages.2.labelFemalePlural>母猪</Pig.lifeStages.2.labelFemalePlural>
+  <Pig.labelMale>公猪</Pig.labelMale>
+  <Pig.labelMalePlural>公猪</Pig.labelMalePlural>
+  <Pig.labelFemale>母猪</Pig.labelFemale>
+  <Pig.labelFemalePlural>母猪</Pig.labelFemalePlural>
 
-  <Cow.label>cow</Cow.label>
-  <Cow.labelPlural>cows</Cow.labelPlural>
-  <Cow.lifeStages.0.label>calf</Cow.lifeStages.0.label>
-  <Cow.lifeStages.0.labelPlural>calfs</Cow.lifeStages.0.labelPlural>
-  <Cow.lifeStages.0.labelMale>male calf</Cow.lifeStages.0.labelMale>
-  <Cow.lifeStages.0.labelMalePlural>male calfs</Cow.lifeStages.0.labelMalePlural>
-  <Cow.lifeStages.0.labelFemale>female calf</Cow.lifeStages.0.labelFemale>
-  <Cow.lifeStages.0.labelFemalePlural>female calfs</Cow.lifeStages.0.labelFemalePlural>
-  <Cow.lifeStages.1.label>cow</Cow.lifeStages.1.label>
-  <Cow.lifeStages.1.labelPlural>cow</Cow.lifeStages.1.labelPlural>
-  <Cow.lifeStages.1.labelMale>bull</Cow.lifeStages.1.labelMale>
-  <Cow.lifeStages.1.labelMalePlural>male cows</Cow.lifeStages.1.labelMalePlural>
-  <Cow.lifeStages.1.labelFemale>cow</Cow.lifeStages.1.labelFemale>
-  <Cow.lifeStages.1.labelFemalePlural>female cows</Cow.lifeStages.1.labelFemalePlural>
-  <Cow.lifeStages.2.label>cow</Cow.lifeStages.2.label>
-  <Cow.lifeStages.2.labelPlural>cow</Cow.lifeStages.2.labelPlural>
-  <Cow.lifeStages.2.labelMale>bull</Cow.lifeStages.2.labelMale>
-  <Cow.lifeStages.2.labelMalePlural>male cows</Cow.lifeStages.2.labelMalePlural>
-  <Cow.lifeStages.2.labelFemale>cow</Cow.lifeStages.2.labelFemale>
-  <Cow.lifeStages.2.labelFemalePlural>female cows</Cow.lifeStages.2.labelFemalePlural>
-  <Cow.labelMale>bull</Cow.labelMale>
-  <Cow.labelMalePlural>bulls</Cow.labelMalePlural>
-  <Cow.labelFemale>cow</Cow.labelFemale>
-  <Cow.labelFemalePlural>cows</Cow.labelFemalePlural>
+  <Cow.label>牛</Cow.label>
+  <Cow.labelPlural>牛</Cow.labelPlural>
+  <Cow.lifeStages.0.label>牛犊</Cow.lifeStages.0.label>
+  <Cow.lifeStages.0.labelPlural>牛犊</Cow.lifeStages.0.labelPlural>
+  <Cow.lifeStages.0.labelMale>牛犊</Cow.lifeStages.0.labelMale>
+  <Cow.lifeStages.0.labelMalePlural>牛犊</Cow.lifeStages.0.labelMalePlural>
+  <Cow.lifeStages.0.labelFemale>牛犊</Cow.lifeStages.0.labelFemale>
+  <Cow.lifeStages.0.labelFemalePlural>牛犊</Cow.lifeStages.0.labelFemalePlural>
+  <Cow.lifeStages.1.label>幼年牛</Cow.lifeStages.1.label>
+  <Cow.lifeStages.1.labelPlural>幼年牛</Cow.lifeStages.1.labelPlural>
+  <Cow.lifeStages.1.labelMale>幼年公牛</Cow.lifeStages.1.labelMale>
+  <Cow.lifeStages.1.labelMalePlural>幼年公牛</Cow.lifeStages.1.labelMalePlural>
+  <Cow.lifeStages.1.labelFemale>幼年母牛</Cow.lifeStages.1.labelFemale>
+  <Cow.lifeStages.1.labelFemalePlural>幼年母牛</Cow.lifeStages.1.labelFemalePlural>
+  <Cow.lifeStages.2.label>牛</Cow.lifeStages.2.label>
+  <Cow.lifeStages.2.labelPlural>牛</Cow.lifeStages.2.labelPlural>
+  <Cow.lifeStages.2.labelMale>公牛</Cow.lifeStages.2.labelMale>
+  <Cow.lifeStages.2.labelMalePlural>公牛</Cow.lifeStages.2.labelMalePlural>
+  <Cow.lifeStages.2.labelFemale>母牛</Cow.lifeStages.2.labelFemale>
+  <Cow.lifeStages.2.labelFemalePlural>母牛</Cow.lifeStages.2.labelFemalePlural>
+  <Cow.labelMale>公牛</Cow.labelMale>
+  <Cow.labelMalePlural>公牛</Cow.labelMalePlural>
+  <Cow.labelFemale>母牛</Cow.labelFemale>
+  <Cow.labelFemalePlural>母牛</Cow.labelFemalePlural>
+  
+  <Alpaca.label>羊驼</Alpaca.label>
+  <Alpaca.labelPlural>羊驼</Alpaca.labelPlural>
+  <Alpaca.lifeStages.0.label>羊驼幼崽</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.0.labelPlural>羊驼幼崽</Alpaca.lifeStages.0.labelPlural>
+  <Alpaca.lifeStages.0.labelMale>羊驼幼崽</Alpaca.lifeStages.0.labelMale>
+  <Alpaca.lifeStages.0.labelMalePlural>羊驼幼崽</Alpaca.lifeStages.0.labelMalePlural>
+  <Alpaca.lifeStages.0.labelFemale>羊驼幼崽</Alpaca.lifeStages.0.labelFemale>
+  <Alpaca.lifeStages.0.labelFemalePlural>羊驼幼崽</Alpaca.lifeStages.0.labelFemalePlural>
+  <Alpaca.lifeStages.1.label>幼年羊驼</Alpaca.lifeStages.1.label>
+  <Alpaca.lifeStages.1.labelPlural>幼年羊驼</Alpaca.lifeStages.1.labelPlural>
+  <Alpaca.lifeStages.1.labelMale>幼年公羊驼</Alpaca.lifeStages.1.labelMale>
+  <Alpaca.lifeStages.1.labelMalePlural>幼年公羊驼</Alpaca.lifeStages.1.labelMalePlural>
+  <Alpaca.lifeStages.1.labelFemale>幼年母羊驼</Alpaca.lifeStages.1.labelFemale>
+  <Alpaca.lifeStages.1.labelFemalePlural>幼年母羊驼</Alpaca.lifeStages.1.labelFemalePlural>
+  <Alpaca.lifeStages.2.label>羊驼</Alpaca.lifeStages.2.label>
+  <Alpaca.lifeStages.2.labelPlural>羊驼</Alpaca.lifeStages.2.labelPlural>
+  <Alpaca.lifeStages.2.labelMale>公羊驼</Alpaca.lifeStages.2.labelMale>
+  <Alpaca.lifeStages.2.labelMalePlural>公羊驼</Alpaca.lifeStages.2.labelMalePlural>
+  <Alpaca.lifeStages.2.labelFemale>母羊驼</Alpaca.lifeStages.2.labelFemale>
+  <Alpaca.lifeStages.2.labelFemalePlural>母羊驼</Alpaca.lifeStages.2.labelFemalePlural>
+  <Alpaca.labelMale>公羊驼</Alpaca.labelMale>
+  <Alpaca.labelMalePlural>公羊驼</Alpaca.labelMalePlural>
+  <Alpaca.labelFemale>母羊驼</Alpaca.labelFemale>
+  <Alpaca.labelFemalePlural>母羊驼</Alpaca.labelFemalePlural>
 
-  <Alpaca.label>Alpaca</Alpaca.label>
-  <Alpaca.labelPlural>Alpacas</Alpaca.labelPlural>
-  <Alpaca.lifeStages.0.label>Alpaca</Alpaca.lifeStages.0.label>
-  <Alpaca.lifeStages.0.labelPlural>Alpaca</Alpaca.lifeStages.0.labelPlural>
-  <Alpaca.lifeStages.0.labelMale>male Alpaca</Alpaca.lifeStages.0.labelMale>
-  <Alpaca.lifeStages.0.labelMalePlural>male Alpacas</Alpaca.lifeStages.0.labelMalePlural>
-  <Alpaca.lifeStages.0.labelFemale>female Alpaca</Alpaca.lifeStages.0.labelFemale>
-  <Alpaca.lifeStages.0.labelFemalePlural>female Alpacas</Alpaca.lifeStages.0.labelFemalePlural>
-  <Alpaca.lifeStages.1.label>Alpaca</Alpaca.lifeStages.1.label>
-  <Alpaca.lifeStages.1.labelPlural>Alpaca</Alpaca.lifeStages.1.labelPlural>
-  <Alpaca.lifeStages.1.labelMale>male Alpaca</Alpaca.lifeStages.1.labelMale>
-  <Alpaca.lifeStages.1.labelMalePlural>male Alpacas</Alpaca.lifeStages.1.labelMalePlural>
-  <Alpaca.lifeStages.1.labelFemale>female Alpaca</Alpaca.lifeStages.1.labelFemale>
-  <Alpaca.lifeStages.1.labelFemalePlural>female Alpacas</Alpaca.lifeStages.1.labelFemalePlural>
-  <Alpaca.lifeStages.2.label>Alpaca</Alpaca.lifeStages.2.label>
-  <Alpaca.lifeStages.2.labelPlural>Alpaca</Alpaca.lifeStages.2.labelPlural>
-  <Alpaca.lifeStages.2.labelMale>male Alpaca</Alpaca.lifeStages.2.labelMale>
-  <Alpaca.lifeStages.2.labelMalePlural>male Alpacas</Alpaca.lifeStages.2.labelMalePlural>
-  <Alpaca.lifeStages.2.labelFemale>female Alpaca</Alpaca.lifeStages.2.labelFemale>
-  <Alpaca.lifeStages.2.labelFemalePlural>female Alpacas</Alpaca.lifeStages.2.labelFemalePlural>
-  <Alpaca.labelMale>male Alpaca</Alpaca.labelMale>
-  <Alpaca.labelMalePlural>male Alpacas</Alpaca.labelMalePlural>
-  <Alpaca.labelFemale>female Alpaca</Alpaca.labelFemale>
-  <Alpaca.labelFemalePlural>female Alpacas</Alpaca.labelFemalePlural>
+  <Duck.label>鸭</Duck.label>
+  <Duck.labelPlural>鸭</Duck.labelPlural>
+  <Duck.lifeStages.0.label>鸭仔</Duck.lifeStages.0.label>
+  <Duck.lifeStages.0.labelPlural>鸭仔</Duck.lifeStages.0.labelPlural>
+  <Duck.lifeStages.0.labelMale>公鸭仔</Duck.lifeStages.0.labelMale>
+  <Duck.lifeStages.0.labelMalePlural>公鸭仔</Duck.lifeStages.0.labelMalePlural>
+  <Duck.lifeStages.0.labelFemale>母鸭仔</Duck.lifeStages.0.labelFemale>
+  <Duck.lifeStages.0.labelFemalePlural>母鸭仔</Duck.lifeStages.0.labelFemalePlural>
+  <Duck.lifeStages.1.label>鸭</Duck.lifeStages.1.label>
+  <Duck.lifeStages.1.labelPlural>鸭</Duck.lifeStages.1.labelPlural>
+  <Duck.lifeStages.1.labelMale>公鸭</Duck.lifeStages.1.labelMale>
+  <Duck.lifeStages.1.labelMalePlural>公鸭</Duck.lifeStages.1.labelMalePlural>
+  <Duck.lifeStages.1.labelFemale>母鸭</Duck.lifeStages.1.labelFemale>
+  <Duck.lifeStages.1.labelFemalePlural>母鸭</Duck.lifeStages.1.labelFemalePlural>
+  <Duck.lifeStages.2.label>鸭</Duck.lifeStages.2.label>
+  <Duck.lifeStages.2.labelPlural>鸭</Duck.lifeStages.2.labelPlural>
+  <Duck.lifeStages.2.labelMale>公鸭</Duck.lifeStages.2.labelMale>
+  <Duck.lifeStages.2.labelMalePlural>公鸭</Duck.lifeStages.2.labelMalePlural>
+  <Duck.lifeStages.2.labelFemale>母鸭</Duck.lifeStages.2.labelFemale>
+  <Duck.lifeStages.2.labelFemalePlural>母鸭</Duck.lifeStages.2.labelFemalePlural>
+  <Duck.labelMale>公鸭</Duck.labelMale>
+  <Duck.labelMalePlural>公鸭</Duck.labelMalePlural>
+  <Duck.labelFemale>母鸭</Duck.labelFemale>
+  <Duck.labelFemalePlural>母鸭</Duck.labelFemalePlural>
 
-  <Duck.label>duck</Duck.label>
-  <Duck.labelPlural>ducks</Duck.labelPlural>
-  <Duck.lifeStages.0.label>duckling</Duck.lifeStages.0.label>
-  <Duck.lifeStages.0.labelPlural>ducklings</Duck.lifeStages.0.labelPlural>
-  <Duck.lifeStages.0.labelMale>male duckling</Duck.lifeStages.0.labelMale>
-  <Duck.lifeStages.0.labelMalePlural>male ducklings</Duck.lifeStages.0.labelMalePlural>
-  <Duck.lifeStages.0.labelFemale>female duckling</Duck.lifeStages.0.labelFemale>
-  <Duck.lifeStages.0.labelFemalePlural>female ducklings</Duck.lifeStages.0.labelFemalePlural>
-  <Duck.lifeStages.1.label>duck</Duck.lifeStages.1.label>
-  <Duck.lifeStages.1.labelPlural>duck</Duck.lifeStages.1.labelPlural>
-  <Duck.lifeStages.1.labelMale>male duck</Duck.lifeStages.1.labelMale>
-  <Duck.lifeStages.1.labelMalePlural>male ducks</Duck.lifeStages.1.labelMalePlural>
-  <Duck.lifeStages.1.labelFemale>female duck</Duck.lifeStages.1.labelFemale>
-  <Duck.lifeStages.1.labelFemalePlural>female ducks</Duck.lifeStages.1.labelFemalePlural>
-  <Duck.lifeStages.2.label>duck</Duck.lifeStages.2.label>
-  <Duck.lifeStages.2.labelPlural>duck</Duck.lifeStages.2.labelPlural>
-  <Duck.lifeStages.2.labelMale>male duck</Duck.lifeStages.2.labelMale>
-  <Duck.lifeStages.2.labelMalePlural>male ducks</Duck.lifeStages.2.labelMalePlural>
-  <Duck.lifeStages.2.labelFemale>female duck</Duck.lifeStages.2.labelFemale>
-  <Duck.lifeStages.2.labelFemalePlural>female ducks</Duck.lifeStages.2.labelFemalePlural>
-  <Duck.labelMale>male duck</Duck.labelMale>
-  <Duck.labelMalePlural>male ducks</Duck.labelMalePlural>
-  <Duck.labelFemale>female duck</Duck.labelFemale>
-  <Duck.labelFemalePlural>female ducks</Duck.labelFemalePlural>
+  <Bison.label>野牛</Bison.label>
+  <Bison.labelPlural>野牛</Bison.labelPlural>
+  <Bison.lifeStages.0.label>牛崽</Bison.lifeStages.0.label>
+  <Bison.lifeStages.0.labelPlural>牛崽</Bison.lifeStages.0.labelPlural>
+  <Bison.lifeStages.0.labelMale>公牛崽</Bison.lifeStages.0.labelMale>
+  <Bison.lifeStages.0.labelMalePlural>公牛崽</Bison.lifeStages.0.labelMalePlural>
+  <Bison.lifeStages.0.labelFemale>母牛崽</Bison.lifeStages.0.labelFemale>
+  <Bison.lifeStages.0.labelFemalePlural>母牛崽</Bison.lifeStages.0.labelFemalePlural>
+  <Bison.lifeStages.1.label>野牛</Bison.lifeStages.1.label>
+  <Bison.lifeStages.1.labelPlural>野牛</Bison.lifeStages.1.labelPlural>
+  <Bison.lifeStages.1.labelMale>公野牛</Bison.lifeStages.1.labelMale>
+  <Bison.lifeStages.1.labelMalePlural>公野牛</Bison.lifeStages.1.labelMalePlural>
+  <Bison.lifeStages.1.labelFemale>母野牛</Bison.lifeStages.1.labelFemale>
+  <Bison.lifeStages.1.labelFemalePlural>母野牛</Bison.lifeStages.1.labelFemalePlural>
+  <Bison.lifeStages.2.label>野牛</Bison.lifeStages.2.label>
+  <Bison.lifeStages.2.labelPlural>野牛</Bison.lifeStages.2.labelPlural>
+  <Bison.lifeStages.2.labelMale>公野牛</Bison.lifeStages.2.labelMale>
+  <Bison.lifeStages.2.labelMalePlural>公野牛</Bison.lifeStages.2.labelMalePlural>
+  <Bison.lifeStages.2.labelFemale>母野牛</Bison.lifeStages.2.labelFemale>
+  <Bison.lifeStages.2.labelFemalePlural>母野牛</Bison.lifeStages.2.labelFemalePlural>
+  <Bison.labelMale>公野牛</Bison.labelMale>
+  <Bison.labelMalePlural>公野牛</Bison.labelMalePlural>
+  <Bison.labelFemale>母野牛</Bison.labelFemale>
+  <Bison.labelFemalePlural>母野牛</Bison.labelFemalePlural>
 
-  <Bison.label>bison</Bison.label>
-  <Bison.labelPlural>bisons</Bison.labelPlural>
-  <Bison.lifeStages.0.label>bison calf</Bison.lifeStages.0.label>
-  <Bison.lifeStages.0.labelPlural>bison calves</Bison.lifeStages.0.labelPlural>
-  <Bison.lifeStages.0.labelMale>male bison calf</Bison.lifeStages.0.labelMale>
-  <Bison.lifeStages.0.labelMalePlural>male bison calves</Bison.lifeStages.0.labelMalePlural>
-  <Bison.lifeStages.0.labelFemale>female bison calf</Bison.lifeStages.0.labelFemale>
-  <Bison.lifeStages.0.labelFemalePlural>female bison calves</Bison.lifeStages.0.labelFemalePlural>
-  <Bison.lifeStages.1.label>bison</Bison.lifeStages.1.label>
-  <Bison.lifeStages.1.labelPlural>bison</Bison.lifeStages.1.labelPlural>
-  <Bison.lifeStages.1.labelMale>male bison</Bison.lifeStages.1.labelMale>
-  <Bison.lifeStages.1.labelMalePlural>male bisons</Bison.lifeStages.1.labelMalePlural>
-  <Bison.lifeStages.1.labelFemale>female bison</Bison.lifeStages.1.labelFemale>
-  <Bison.lifeStages.1.labelFemalePlural>female bisons</Bison.lifeStages.1.labelFemalePlural>
-  <Bison.lifeStages.2.label>bison</Bison.lifeStages.2.label>
-  <Bison.lifeStages.2.labelPlural>bison</Bison.lifeStages.2.labelPlural>
-  <Bison.lifeStages.2.labelMale>male bison</Bison.lifeStages.2.labelMale>
-  <Bison.lifeStages.2.labelMalePlural>male bisons</Bison.lifeStages.2.labelMalePlural>
-  <Bison.lifeStages.2.labelFemale>female bison</Bison.lifeStages.2.labelFemale>
-  <Bison.lifeStages.2.labelFemalePlural>female bisons</Bison.lifeStages.2.labelFemalePlural>
-  <Bison.labelMale>male bison</Bison.labelMale>
-  <Bison.labelMalePlural>male bisons</Bison.labelMalePlural>
-  <Bison.labelFemale>female bison</Bison.labelFemale>
-  <Bison.labelFemalePlural>female bisons</Bison.labelFemalePlural>
-
-  <Goat.label>goat</Goat.label>
-  <Goat.labelPlural>goats</Goat.labelPlural>
-  <Goat.lifeStages.0.label>baby goat</Goat.lifeStages.0.label>
-  <Goat.lifeStages.0.labelPlural>baby goats</Goat.lifeStages.0.labelPlural>
-  <Goat.lifeStages.0.labelMale>male baby goat</Goat.lifeStages.0.labelMale>
-  <Goat.lifeStages.0.labelMalePlural>male baby goats</Goat.lifeStages.0.labelMalePlural>
-  <Goat.lifeStages.0.labelFemale>female baby goat</Goat.lifeStages.0.labelFemale>
-  <Goat.lifeStages.0.labelFemalePlural>female baby goats</Goat.lifeStages.0.labelFemalePlural>
-  <Goat.lifeStages.1.label>goat</Goat.lifeStages.1.label>
-  <Goat.lifeStages.1.labelPlural>goat</Goat.lifeStages.1.labelPlural>
-  <Goat.lifeStages.1.labelMale>male goat</Goat.lifeStages.1.labelMale>
-  <Goat.lifeStages.1.labelMalePlural>male goats</Goat.lifeStages.1.labelMalePlural>
+  <Goat.label>山羊</Goat.label>
+  <Goat.labelPlural>山羊</Goat.labelPlural>
+  <Goat.lifeStages.0.label>山羊崽</Goat.lifeStages.0.label>
+  <Goat.lifeStages.0.labelPlural>山羊崽</Goat.lifeStages.0.labelPlural>
+  <Goat.lifeStages.0.labelMale>公山羊崽</Goat.lifeStages.0.labelMale>
+  <Goat.lifeStages.0.labelMalePlural>公山羊崽</Goat.lifeStages.0.labelMalePlural>
+  <Goat.lifeStages.0.labelFemale>母山羊崽</Goat.lifeStages.0.labelFemale>
+  <Goat.lifeStages.0.labelFemalePlural>母山羊崽</Goat.lifeStages.0.labelFemalePlural>
+  <Goat.lifeStages.1.label>山羊</Goat.lifeStages.1.label>
+  <Goat.lifeStages.1.labelPlural>山羊</Goat.lifeStages.1.labelPlural>
+  <Goat.lifeStages.1.labelMale>公山羊</Goat.lifeStages.1.labelMale>
+  <Goat.lifeStages.1.labelMalePlural>公山羊</Goat.lifeStages.1.labelMalePlural>
   <Goat.lifeStages.1.labelFemale>goat doe</Goat.lifeStages.1.labelFemale>
-  <Goat.lifeStages.1.labelFemalePlural>female goats</Goat.lifeStages.1.labelFemalePlural>
-  <Goat.lifeStages.2.label>goat</Goat.lifeStages.2.label>
-  <Goat.lifeStages.2.labelPlural>goat</Goat.lifeStages.2.labelPlural>
-  <Goat.lifeStages.2.labelMale>male goat</Goat.lifeStages.2.labelMale>
-  <Goat.lifeStages.2.labelMalePlural>male goats</Goat.lifeStages.2.labelMalePlural>
+  <Goat.lifeStages.1.labelFemalePlural>母山羊</Goat.lifeStages.1.labelFemalePlural>
+  <Goat.lifeStages.2.label>山羊</Goat.lifeStages.2.label>
+  <Goat.lifeStages.2.labelPlural>山羊</Goat.lifeStages.2.labelPlural>
+  <Goat.lifeStages.2.labelMale>公山羊</Goat.lifeStages.2.labelMale>
+  <Goat.lifeStages.2.labelMalePlural>公山羊</Goat.lifeStages.2.labelMalePlural>
   <Goat.lifeStages.2.labelFemale>goat doe</Goat.lifeStages.2.labelFemale>
-  <Goat.lifeStages.2.labelFemalePlural>female goats</Goat.lifeStages.2.labelFemalePlural>
-  <Goat.labelMale>male goat</Goat.labelMale>
-  <Goat.labelMalePlural>male goats</Goat.labelMalePlural>
+  <Goat.lifeStages.2.labelFemalePlural>母山羊</Goat.lifeStages.2.labelFemalePlural>
+  <Goat.labelMale>公山羊</Goat.labelMale>
+  <Goat.labelMalePlural>公山羊</Goat.labelMalePlural>
   <Goat.labelFemale>goat doe</Goat.labelFemale>
   <Goat.labelFemalePlural>goat does</Goat.labelFemalePlural>
 
-  <Goose.label>goose</Goose.label>
-  <Goose.labelPlural>geese</Goose.labelPlural>
-  <Goose.lifeStages.0.label>goose</Goose.lifeStages.0.label>
-  <Goose.lifeStages.0.labelPlural>geese</Goose.lifeStages.0.labelPlural>
-  <Goose.lifeStages.0.labelMale>male goose</Goose.lifeStages.0.labelMale>
-  <Goose.lifeStages.0.labelMalePlural>male gooses</Goose.lifeStages.0.labelMalePlural>
-  <Goose.lifeStages.0.labelFemale>female goose</Goose.lifeStages.0.labelFemale>
-  <Goose.lifeStages.0.labelFemalePlural>female gooses</Goose.lifeStages.0.labelFemalePlural>
-  <Goose.lifeStages.1.label>goose</Goose.lifeStages.1.label>
-  <Goose.lifeStages.1.labelPlural>geese</Goose.lifeStages.1.labelPlural>
-  <Goose.lifeStages.1.labelMale>male goose</Goose.lifeStages.1.labelMale>
-  <Goose.lifeStages.1.labelMalePlural>male gooses</Goose.lifeStages.1.labelMalePlural>
-  <Goose.lifeStages.1.labelFemale>female goose</Goose.lifeStages.1.labelFemale>
-  <Goose.lifeStages.1.labelFemalePlural>female gooses</Goose.lifeStages.1.labelFemalePlural>
-  <Goose.lifeStages.2.label>goose</Goose.lifeStages.2.label>
-  <Goose.lifeStages.2.labelPlural>geese</Goose.lifeStages.2.labelPlural>
-  <Goose.lifeStages.2.labelMale>male goose</Goose.lifeStages.2.labelMale>
-  <Goose.lifeStages.2.labelMalePlural>male gooses</Goose.lifeStages.2.labelMalePlural>
-  <Goose.lifeStages.2.labelFemale>female goose</Goose.lifeStages.2.labelFemale>
-  <Goose.lifeStages.2.labelFemalePlural>female gooses</Goose.lifeStages.2.labelFemalePlural>
-  <Goose.labelMale>male goose</Goose.labelMale>
-  <Goose.labelMalePlural>male geese</Goose.labelMalePlural>
-  <Goose.labelFemale>female goose</Goose.labelFemale>
-  <Goose.labelFemalePlural>female geese</Goose.labelFemalePlural>
+  <Goose.label>鹅</Goose.label>
+  <Goose.labelPlural>鹅</Goose.labelPlural>
+  <Goose.lifeStages.0.label>鹅</Goose.lifeStages.0.label>
+  <Goose.lifeStages.0.labelPlural>鹅</Goose.lifeStages.0.labelPlural>
+  <Goose.lifeStages.0.labelMale>公鹅</Goose.lifeStages.0.labelMale>
+  <Goose.lifeStages.0.labelMalePlural>公鹅</Goose.lifeStages.0.labelMalePlural>
+  <Goose.lifeStages.0.labelFemale>母鹅</Goose.lifeStages.0.labelFemale>
+  <Goose.lifeStages.0.labelFemalePlural>母鹅</Goose.lifeStages.0.labelFemalePlural>
+  <Goose.lifeStages.1.label>鹅</Goose.lifeStages.1.label>
+  <Goose.lifeStages.1.labelPlural>鹅</Goose.lifeStages.1.labelPlural>
+  <Goose.lifeStages.1.labelMale>公鹅</Goose.lifeStages.1.labelMale>
+  <Goose.lifeStages.1.labelMalePlural>公鹅</Goose.lifeStages.1.labelMalePlural>
+  <Goose.lifeStages.1.labelFemale>母鹅</Goose.lifeStages.1.labelFemale>
+  <Goose.lifeStages.1.labelFemalePlural>母鹅</Goose.lifeStages.1.labelFemalePlural>
+  <Goose.lifeStages.2.label>鹅</Goose.lifeStages.2.label>
+  <Goose.lifeStages.2.labelPlural>鹅</Goose.lifeStages.2.labelPlural>
+  <Goose.lifeStages.2.labelMale>公鹅</Goose.lifeStages.2.labelMale>
+  <Goose.lifeStages.2.labelMalePlural>公鹅</Goose.lifeStages.2.labelMalePlural>
+  <Goose.lifeStages.2.labelFemale>母鹅</Goose.lifeStages.2.labelFemale>
+  <Goose.lifeStages.2.labelFemalePlural>母鹅</Goose.lifeStages.2.labelFemalePlural>
+  <Goose.labelMale>公鹅</Goose.labelMale>
+  <Goose.labelMalePlural>公鹅</Goose.labelMalePlural>
+  <Goose.labelFemale>母鹅</Goose.labelFemale>
+  <Goose.labelFemalePlural>母鹅</Goose.labelFemalePlural>
 
-  <Yak.label>yak</Yak.label>
-  <Yak.labelPlural>yaks</Yak.labelPlural>
-  <Yak.lifeStages.0.label>yak calf</Yak.lifeStages.0.label>
-  <Yak.lifeStages.0.labelPlural>yak calves</Yak.lifeStages.0.labelPlural>
-  <Yak.lifeStages.0.labelMale>male yak calf</Yak.lifeStages.0.labelMale>
-  <Yak.lifeStages.0.labelMalePlural>male yak calves</Yak.lifeStages.0.labelMalePlural>
-  <Yak.lifeStages.0.labelFemale>female yak calf</Yak.lifeStages.0.labelFemale>
-  <Yak.lifeStages.0.labelFemalePlural>female yak calves</Yak.lifeStages.0.labelFemalePlural>
-  <Yak.lifeStages.1.label>yak</Yak.lifeStages.1.label>
-  <Yak.lifeStages.1.labelPlural>yak</Yak.lifeStages.1.labelPlural>
-  <Yak.lifeStages.1.labelMale>yak</Yak.lifeStages.1.labelMale>
-  <Yak.lifeStages.1.labelMalePlural>male yaks</Yak.lifeStages.1.labelMalePlural>
-  <Yak.lifeStages.1.labelFemale>female yak</Yak.lifeStages.1.labelFemale>
-  <Yak.lifeStages.1.labelFemalePlural>female yaks</Yak.lifeStages.1.labelFemalePlural>
-  <Yak.lifeStages.2.label>yak</Yak.lifeStages.2.label>
-  <Yak.lifeStages.2.labelPlural>yak</Yak.lifeStages.2.labelPlural>
-  <Yak.lifeStages.2.labelMale>yak</Yak.lifeStages.2.labelMale>
-  <Yak.lifeStages.2.labelMalePlural>male yaks</Yak.lifeStages.2.labelMalePlural>
-  <Yak.lifeStages.2.labelFemale>female yak</Yak.lifeStages.2.labelFemale>
-  <Yak.lifeStages.2.labelFemalePlural>female yaks</Yak.lifeStages.2.labelFemalePlural>
-  <Yak.labelMale>yak</Yak.labelMale>
-  <Yak.labelMalePlural>yaks</Yak.labelMalePlural>
-  <Yak.labelFemale>female yak</Yak.labelFemale>
-  <Yak.labelFemalePlural>female yaks</Yak.labelFemalePlural>
+  <Yak.label>牦牛</Yak.label>
+  <Yak.labelPlural>牦牛</Yak.labelPlural>
+  <Yak.lifeStages.0.label>牛崽</Yak.lifeStages.0.label>
+  <Yak.lifeStages.0.labelPlural>牛崽</Yak.lifeStages.0.labelPlural>
+  <Yak.lifeStages.0.labelMale>公牛崽</Yak.lifeStages.0.labelMale>
+  <Yak.lifeStages.0.labelMalePlural>公牛崽</Yak.lifeStages.0.labelMalePlural>
+  <Yak.lifeStages.0.labelFemale>母牛崽</Yak.lifeStages.0.labelFemale>
+  <Yak.lifeStages.0.labelFemalePlural>母牛崽</Yak.lifeStages.0.labelFemalePlural>
+  <Yak.lifeStages.1.label>牦牛</Yak.lifeStages.1.label>
+  <Yak.lifeStages.1.labelPlural>牦牛</Yak.lifeStages.1.labelPlural>
+  <Yak.lifeStages.1.labelMale>牦牛</Yak.lifeStages.1.labelMale>
+  <Yak.lifeStages.1.labelMalePlural>公牦牛</Yak.lifeStages.1.labelMalePlural>
+  <Yak.lifeStages.1.labelFemale>母牦牛</Yak.lifeStages.1.labelFemale>
+  <Yak.lifeStages.1.labelFemalePlural>母牦牛</Yak.lifeStages.1.labelFemalePlural>
+  <Yak.lifeStages.2.label>牦牛</Yak.lifeStages.2.label>
+  <Yak.lifeStages.2.labelPlural>牦牛</Yak.lifeStages.2.labelPlural>
+  <Yak.lifeStages.2.labelMale>牦牛</Yak.lifeStages.2.labelMale>
+  <Yak.lifeStages.2.labelMalePlural>公牦牛</Yak.lifeStages.2.labelMalePlural>
+  <Yak.lifeStages.2.labelFemale>母牦牛</Yak.lifeStages.2.labelFemale>
+  <Yak.lifeStages.2.labelFemalePlural>母牦牛</Yak.lifeStages.2.labelFemalePlural>
+  <Yak.labelMale>牦牛</Yak.labelMale>
+  <Yak.labelMalePlural>牦牛</Yak.labelMalePlural>
+  <Yak.labelFemale>母牦牛</Yak.labelFemale>
+  <Yak.labelFemalePlural>母牦牛</Yak.labelFemalePlural>
 
-  <GuineaPig.label>guinea pig</GuineaPig.label>
-  <GuineaPig.labelPlural>guinea pigs</GuineaPig.labelPlural>
-  <GuineaPig.lifeStages.0.label>guinea pig</GuineaPig.lifeStages.0.label>
-  <GuineaPig.lifeStages.0.labelPlural>guinea pig</GuineaPig.lifeStages.0.labelPlural>
-  <GuineaPig.lifeStages.0.labelMale>male guinea pig</GuineaPig.lifeStages.0.labelMale>
-  <GuineaPig.lifeStages.0.labelMalePlural>male guinea pigs</GuineaPig.lifeStages.0.labelMalePlural>
-  <GuineaPig.lifeStages.0.labelFemale>female guinea pig</GuineaPig.lifeStages.0.labelFemale>
-  <GuineaPig.lifeStages.0.labelFemalePlural>female guinea pigs</GuineaPig.lifeStages.0.labelFemalePlural>
-  <GuineaPig.lifeStages.1.label>guinea pig</GuineaPig.lifeStages.1.label>
-  <GuineaPig.lifeStages.1.labelPlural>guinea pig</GuineaPig.lifeStages.1.labelPlural>
-  <GuineaPig.lifeStages.1.labelMale>male guinea pig</GuineaPig.lifeStages.1.labelMale>
-  <GuineaPig.lifeStages.1.labelMalePlural>male guinea pigs</GuineaPig.lifeStages.1.labelMalePlural>
-  <GuineaPig.lifeStages.1.labelFemale>female guinea pig</GuineaPig.lifeStages.1.labelFemale>
-  <GuineaPig.lifeStages.1.labelFemalePlural>female guinea pigs</GuineaPig.lifeStages.1.labelFemalePlural>
-  <GuineaPig.lifeStages.2.label>guinea pig</GuineaPig.lifeStages.2.label>
-  <GuineaPig.lifeStages.2.labelPlural>guinea pig</GuineaPig.lifeStages.2.labelPlural>
-  <GuineaPig.lifeStages.2.labelMale>male guinea pig</GuineaPig.lifeStages.2.labelMale>
-  <GuineaPig.lifeStages.2.labelMalePlural>male guinea pigs</GuineaPig.lifeStages.2.labelMalePlural>
-  <GuineaPig.lifeStages.2.labelFemale>female guinea pig</GuineaPig.lifeStages.2.labelFemale>
-  <GuineaPig.lifeStages.2.labelFemalePlural>female guinea pigs</GuineaPig.lifeStages.2.labelFemalePlural>
-  <GuineaPig.labelMale>male guinea pig</GuineaPig.labelMale>
-  <GuineaPig.labelMalePlural>male guinea pigs</GuineaPig.labelMalePlural>
-  <GuineaPig.labelFemale>female guinea pig</GuineaPig.labelFemale>
-  <GuineaPig.labelFemalePlural>female guinea pigs</GuineaPig.labelFemalePlural>
+  <GuineaPig.label>豚鼠</GuineaPig.label>
+  <GuineaPig.labelPlural>豚鼠</GuineaPig.labelPlural>
+  <GuineaPig.lifeStages.0.label>豚鼠</GuineaPig.lifeStages.0.label>
+  <GuineaPig.lifeStages.0.labelPlural>豚鼠</GuineaPig.lifeStages.0.labelPlural>
+  <GuineaPig.lifeStages.0.labelMale>公豚鼠</GuineaPig.lifeStages.0.labelMale>
+  <GuineaPig.lifeStages.0.labelMalePlural>公豚鼠</GuineaPig.lifeStages.0.labelMalePlural>
+  <GuineaPig.lifeStages.0.labelFemale>母豚鼠</GuineaPig.lifeStages.0.labelFemale>
+  <GuineaPig.lifeStages.0.labelFemalePlural>母豚鼠</GuineaPig.lifeStages.0.labelFemalePlural>
+  <GuineaPig.lifeStages.1.label>豚鼠</GuineaPig.lifeStages.1.label>
+  <GuineaPig.lifeStages.1.labelPlural>豚鼠</GuineaPig.lifeStages.1.labelPlural>
+  <GuineaPig.lifeStages.1.labelMale>公豚鼠</GuineaPig.lifeStages.1.labelMale>
+  <GuineaPig.lifeStages.1.labelMalePlural>公豚鼠</GuineaPig.lifeStages.1.labelMalePlural>
+  <GuineaPig.lifeStages.1.labelFemale>母豚鼠</GuineaPig.lifeStages.1.labelFemale>
+  <GuineaPig.lifeStages.1.labelFemalePlural>母豚鼠</GuineaPig.lifeStages.1.labelFemalePlural>
+  <GuineaPig.lifeStages.2.label>豚鼠</GuineaPig.lifeStages.2.label>
+  <GuineaPig.lifeStages.2.labelPlural>豚鼠</GuineaPig.lifeStages.2.labelPlural>
+  <GuineaPig.lifeStages.2.labelMale>公豚鼠</GuineaPig.lifeStages.2.labelMale>
+  <GuineaPig.lifeStages.2.labelMalePlural>公豚鼠</GuineaPig.lifeStages.2.labelMalePlural>
+  <GuineaPig.lifeStages.2.labelFemale>母豚鼠</GuineaPig.lifeStages.2.labelFemale>
+  <GuineaPig.lifeStages.2.labelFemalePlural>母豚鼠</GuineaPig.lifeStages.2.labelFemalePlural>
+  <GuineaPig.labelMale>公豚鼠</GuineaPig.labelMale>
+  <GuineaPig.labelMalePlural>公豚鼠</GuineaPig.labelMalePlural>
+  <GuineaPig.labelFemale>母豚鼠</GuineaPig.labelFemale>
+  <GuineaPig.labelFemalePlural>母豚鼠</GuineaPig.labelFemalePlural>
 
-  <Donkey.label>donkey</Donkey.label>
-  <Donkey.labelPlural>donkeys</Donkey.labelPlural>
-  <Donkey.lifeStages.0.label>donkey foal</Donkey.lifeStages.0.label>
-  <Donkey.lifeStages.0.labelPlural>donkey foals</Donkey.lifeStages.0.labelPlural>
-  <Donkey.lifeStages.0.labelMale>male donkey foal</Donkey.lifeStages.0.labelMale>
-  <Donkey.lifeStages.0.labelMalePlural>male donkey foals</Donkey.lifeStages.0.labelMalePlural>
-  <Donkey.lifeStages.0.labelFemale>female donkey foal</Donkey.lifeStages.0.labelFemale>
-  <Donkey.lifeStages.0.labelFemalePlural>female donkey foals</Donkey.lifeStages.0.labelFemalePlural>
-  <Donkey.lifeStages.1.label>donkey</Donkey.lifeStages.1.label>
-  <Donkey.lifeStages.1.labelPlural>donkey</Donkey.lifeStages.1.labelPlural>
-  <Donkey.lifeStages.1.labelMale>male donkey</Donkey.lifeStages.1.labelMale>
-  <Donkey.lifeStages.1.labelMalePlural>male donkeys</Donkey.lifeStages.1.labelMalePlural>
-  <Donkey.lifeStages.1.labelFemale>female donkey</Donkey.lifeStages.1.labelFemale>
-  <Donkey.lifeStages.1.labelFemalePlural>female donkeys</Donkey.lifeStages.1.labelFemalePlural>
-  <Donkey.lifeStages.2.label>donkey</Donkey.lifeStages.2.label>
-  <Donkey.lifeStages.2.labelPlural>donkey</Donkey.lifeStages.2.labelPlural>
-  <Donkey.lifeStages.2.labelMale>male donkey</Donkey.lifeStages.2.labelMale>
-  <Donkey.lifeStages.2.labelMalePlural>male donkeys</Donkey.lifeStages.2.labelMalePlural>
-  <Donkey.lifeStages.2.labelFemale>female donkey</Donkey.lifeStages.2.labelFemale>
-  <Donkey.lifeStages.2.labelFemalePlural>female donkeys</Donkey.lifeStages.2.labelFemalePlural>
-  <Donkey.labelMale>male donkey</Donkey.labelMale>
-  <Donkey.labelMalePlural>male donkeys</Donkey.labelMalePlural>
-  <Donkey.labelFemale>female donkey</Donkey.labelFemale>
-  <Donkey.labelFemalePlural>female donkeys</Donkey.labelFemalePlural>
+  <Donkey.label>驴</Donkey.label>
+  <Donkey.labelPlural>驴</Donkey.labelPlural>
+  <Donkey.lifeStages.0.label>驴驹</Donkey.lifeStages.0.label>
+  <Donkey.lifeStages.0.labelPlural>驴驹</Donkey.lifeStages.0.labelPlural>
+  <Donkey.lifeStages.0.labelMale>公驴驹</Donkey.lifeStages.0.labelMale>
+  <Donkey.lifeStages.0.labelMalePlural>公驴驹</Donkey.lifeStages.0.labelMalePlural>
+  <Donkey.lifeStages.0.labelFemale>母驴驹</Donkey.lifeStages.0.labelFemale>
+  <Donkey.lifeStages.0.labelFemalePlural>母驴驹</Donkey.lifeStages.0.labelFemalePlural>
+  <Donkey.lifeStages.1.label>驴</Donkey.lifeStages.1.label>
+  <Donkey.lifeStages.1.labelPlural>驴</Donkey.lifeStages.1.labelPlural>
+  <Donkey.lifeStages.1.labelMale>公驴</Donkey.lifeStages.1.labelMale>
+  <Donkey.lifeStages.1.labelMalePlural>公驴</Donkey.lifeStages.1.labelMalePlural>
+  <Donkey.lifeStages.1.labelFemale>母驴</Donkey.lifeStages.1.labelFemale>
+  <Donkey.lifeStages.1.labelFemalePlural>母驴</Donkey.lifeStages.1.labelFemalePlural>
+  <Donkey.lifeStages.2.label>驴</Donkey.lifeStages.2.label>
+  <Donkey.lifeStages.2.labelPlural>驴</Donkey.lifeStages.2.labelPlural>
+  <Donkey.lifeStages.2.labelMale>公驴</Donkey.lifeStages.2.labelMale>
+  <Donkey.lifeStages.2.labelMalePlural>公驴</Donkey.lifeStages.2.labelMalePlural>
+  <Donkey.lifeStages.2.labelFemale>母驴</Donkey.lifeStages.2.labelFemale>
+  <Donkey.lifeStages.2.labelFemalePlural>母驴</Donkey.lifeStages.2.labelFemalePlural>
+  <Donkey.labelMale>公驴</Donkey.labelMale>
+  <Donkey.labelMalePlural>公驴</Donkey.labelMalePlural>
+  <Donkey.labelFemale>母驴</Donkey.labelFemale>
+  <Donkey.labelFemalePlural>母驴</Donkey.labelFemalePlural>
 
 
 </LanguageData>

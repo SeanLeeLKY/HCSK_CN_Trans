@@ -3,86 +3,86 @@
 
   <!-- Colonist -->
 
-  <Colonist.label>colonist</Colonist.label>
-  <Colonist.labelPlural>colonists</Colonist.labelPlural>
+  <Colonist.label>殖民者</Colonist.label>
+  <Colonist.labelPlural>殖民者</Colonist.labelPlural>
 
-  <DovaColonist.label>colonist</DovaColonist.label>
-  <DovaColonist.labelPlural>colonists</DovaColonist.labelPlural>
-  <DovaColonist.labelMale>male colonist</DovaColonist.labelMale>
-  <DovaColonist.labelMalePlural>male colonists</DovaColonist.labelMalePlural>
-  <DovaColonist.labelFemale>female colonist</DovaColonist.labelFemale>
-  <DovaColonist.labelFemalePlural>female colonists</DovaColonist.labelFemalePlural>
+  <DovaColonist.label>殖民者</DovaColonist.label>
+  <DovaColonist.labelPlural>殖民者</DovaColonist.labelPlural>
+  <DovaColonist.labelMale>男性殖民者</DovaColonist.labelMale>
+  <DovaColonist.labelMalePlural>男性殖民者</DovaColonist.labelMalePlural>
+  <DovaColonist.labelFemale>女性殖民者</DovaColonist.labelFemale>
+  <DovaColonist.labelFemalePlural>女性殖民者</DovaColonist.labelFemalePlural>
 
 
   <!-- Exiled -->
 
-  <ColonistExiled.label>colonist</ColonistExiled.label>
-  <ColonistExiled.labelPlural>colonists</ColonistExiled.labelPlural>
+  <ColonistExiled.label>殖民者</ColonistExiled.label>
+  <ColonistExiled.labelPlural>殖民者</ColonistExiled.labelPlural>
 
 
   <!-- Nova -->
 
-  <NovaColonist.label>colonist</NovaColonist.label>
-  <NovaColonist.labelPlural>colonists</NovaColonist.labelPlural>
-  <NovaColonist.labelMale>male colonist</NovaColonist.labelMale>
-  <NovaColonist.labelMalePlural>male colonists</NovaColonist.labelMalePlural>
-  <NovaColonist.labelFemale>female colonist</NovaColonist.labelFemale>
-  <NovaColonist.labelFemalePlural>female colonists</NovaColonist.labelFemalePlural>
+  <NovaColonist.label>殖民者</NovaColonist.label>
+  <NovaColonist.labelPlural>殖民者</NovaColonist.labelPlural>
+  <NovaColonist.labelMale>男性殖民者</NovaColonist.labelMale>
+  <NovaColonist.labelMalePlural>男性殖民者</NovaColonist.labelMalePlural>
+  <NovaColonist.labelFemale>女性殖民者</NovaColonist.labelFemale>
+  <NovaColonist.labelFemalePlural>女性殖民者</NovaColonist.labelFemalePlural>
 
-  <Nova.label>colonist</Nova.label>
-  <Nova.labelPlural>colonists</Nova.labelPlural>
-  <Nova.labelMale>male colonist</Nova.labelMale>
-  <Nova.labelMalePlural>male colonists</Nova.labelMalePlural>
-  <Nova.labelFemale>female colonist</Nova.labelFemale>
-  <Nova.labelFemalePlural>female colonists</Nova.labelFemalePlural>
+  <Nova.label>殖民者</Nova.label>
+  <Nova.labelPlural>殖民者</Nova.labelPlural>
+  <Nova.labelMale>男性殖民者</Nova.labelMale>
+  <Nova.labelMalePlural>男性殖民者</Nova.labelMalePlural>
+  <Nova.labelFemale>女性殖民者</Nova.labelFemale>
+  <Nova.labelFemalePlural>女性殖民者</Nova.labelFemalePlural>
 
 
   <!-- Survivor -->
 
-  <Survivor.label>colonist</Survivor.label>
-  <Survivor.labelPlural>colonists</Survivor.labelPlural>
+  <Survivor.label>殖民者</Survivor.label>
+  <Survivor.labelPlural>殖民者</Survivor.labelPlural>
 
 
   <!-- Tribal -->
 
-  <Tribesperson.label>member</Tribesperson.label>
-  <Tribesperson.labelPlural>members</Tribesperson.labelPlural>
+  <Tribesperson.label>部众</Tribesperson.label>
+  <Tribesperson.labelPlural>部众</Tribesperson.labelPlural>
 
 
   <!-- Norbal -->
 
-  <Norbalperson.label>member</Norbalperson.label>
-  <Norbalperson.labelPlural>members</Norbalperson.labelPlural>
-  <Norbalperson.labelMale>male member</Norbalperson.labelMale>
-  <Norbalperson.labelMalePlural>male members</Norbalperson.labelMalePlural>
-  <Norbalperson.labelFemale>female member</Norbalperson.labelFemale>
-  <Norbalperson.labelFemalePlural>female members</Norbalperson.labelFemalePlural>
+  <Norbalperson.label>部众</Norbalperson.label>
+  <Norbalperson.labelPlural>部众</Norbalperson.labelPlural>
+  <Norbalperson.labelMale>男性部众</Norbalperson.labelMale>
+  <Norbalperson.labelMalePlural>男性部众</Norbalperson.labelMalePlural>
+  <Norbalperson.labelFemale>女性部众</Norbalperson.labelFemale>
+  <Norbalperson.labelFemalePlural>女性部众</Norbalperson.labelFemalePlural>
 
 
   <!-- Orassan Base -->
 
-  <OrassanColonist.label>colonist</OrassanColonist.label>
-  <OrassanColonist.labelPlural>colonists</OrassanColonist.labelPlural>
-  <OrassanColonist.labelMale>male colonist</OrassanColonist.labelMale>
-  <OrassanColonist.labelMalePlural>male colonists</OrassanColonist.labelMalePlural>
-  <OrassanColonist.labelFemale>female colonist</OrassanColonist.labelFemale>
-  <OrassanColonist.labelFemalePlural>female colonists</OrassanColonist.labelFemalePlural>
+  <OrassanColonist.label>殖民者</OrassanColonist.label>
+  <OrassanColonist.labelPlural>殖民者</OrassanColonist.labelPlural>
+  <OrassanColonist.labelMale>男性殖民者</OrassanColonist.labelMale>
+  <OrassanColonist.labelMalePlural>男性殖民者</OrassanColonist.labelMalePlural>
+  <OrassanColonist.labelFemale>女性殖民者</OrassanColonist.labelFemale>
+  <OrassanColonist.labelFemalePlural>女性殖民者</OrassanColonist.labelFemalePlural>
 
 
   <!-- Orassan Colonist -->
 
-  <Orassan.label>colonist</Orassan.label>
-  <Orassan.labelPlural>colonists</Orassan.labelPlural>
-  <Orassan.labelMale>male colonist</Orassan.labelMale>
-  <Orassan.labelMalePlural>male colonists</Orassan.labelMalePlural>
-  <Orassan.labelFemale>female colonist</Orassan.labelFemale>
-  <Orassan.labelFemalePlural>female colonists</Orassan.labelFemalePlural>
+  <Orassan.label>殖民者</Orassan.label>
+  <Orassan.labelPlural>殖民者</Orassan.labelPlural>
+  <Orassan.labelMale>男性殖民者</Orassan.labelMale>
+  <Orassan.labelMalePlural>男性殖民者</Orassan.labelMalePlural>
+  <Orassan.labelFemale>女性殖民者</Orassan.labelFemale>
+  <Orassan.labelFemalePlural>女性殖民者</Orassan.labelFemalePlural>
 
 
   <!-- Nuclear Survivor -->
 
-  <NuclearSurvivor.label>colonist</NuclearSurvivor.label>
-  <NuclearSurvivor.labelPlural>colonists</NuclearSurvivor.labelPlural>
+  <NuclearSurvivor.label>殖民者</NuclearSurvivor.label>
+  <NuclearSurvivor.labelPlural>殖民者</NuclearSurvivor.labelPlural>
 
 
 </LanguageData>

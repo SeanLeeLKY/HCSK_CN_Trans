@@ -3,59 +3,58 @@
 
   <!-- Refugee -->
 
-  <NovaRefugee.label>Nova refugee</NovaRefugee.label>
-  <NovaRefugee.labelPlural>Nova refugees</NovaRefugee.labelPlural>
-  <NovaRefugee.labelMale>male Nova refugee</NovaRefugee.labelMale>
-  <NovaRefugee.labelMalePlural>male Nova refugees</NovaRefugee.labelMalePlural>
-  <NovaRefugee.labelFemale>female Nova refugee</NovaRefugee.labelFemale>
-  <NovaRefugee.labelFemalePlural>female Nova refugees</NovaRefugee.labelFemalePlural>
+  <NovaRefugee.label>诺瓦难民</NovaRefugee.label>
+  <NovaRefugee.labelPlural>诺瓦难民</NovaRefugee.labelPlural>
+  <NovaRefugee.labelMale>男性诺瓦难民</NovaRefugee.labelMale>
+  <NovaRefugee.labelMalePlural>男性诺瓦难民</NovaRefugee.labelMalePlural>
+  <NovaRefugee.labelFemale>女性诺瓦难民</NovaRefugee.labelFemale>
+  <NovaRefugee.labelFemalePlural>女性诺瓦难民</NovaRefugee.labelFemalePlural>
 
 
   <!-- Soldier -->
 
-  <NovaAllianceSoldier.label>Nova Corps Soldier</NovaAllianceSoldier.label>
-  <NovaAllianceSoldier.labelPlural>Nova Corps Soldiers</NovaAllianceSoldier.labelPlural>
-  <NovaAllianceSoldier.labelMale>male Nova Corps Soldier</NovaAllianceSoldier.labelMale>
-  <NovaAllianceSoldier.labelMalePlural>male Nova Corps Soldiers</NovaAllianceSoldier.labelMalePlural>
-  <NovaAllianceSoldier.labelFemale>female Nova Corps Soldier</NovaAllianceSoldier.labelFemale>
-  <NovaAllianceSoldier.labelFemalePlural>female Nova Corps Soldiers</NovaAllianceSoldier.labelFemalePlural>
+  <NovaAllianceSoldier.label>诺瓦联盟士兵</NovaAllianceSoldier.label>
+  <NovaAllianceSoldier.labelPlural>诺瓦联盟士兵</NovaAllianceSoldier.labelPlural>
+  <NovaAllianceSoldier.labelMale>男性诺瓦联盟士兵</NovaAllianceSoldier.labelMale>
+  <NovaAllianceSoldier.labelMalePlural>男性诺瓦联盟士兵</NovaAllianceSoldier.labelMalePlural>
+  <NovaAllianceSoldier.labelFemale>女性诺瓦联盟士兵</NovaAllianceSoldier.labelFemale>
+  <NovaAllianceSoldier.labelFemalePlural>女性诺瓦联盟士兵</NovaAllianceSoldier.labelFemalePlural>
 
 
   <!-- Trader -->
 
-  <NovaTrader.label>Nova trader</NovaTrader.label>
-  <NovaTrader.labelPlural>Nova traders</NovaTrader.labelPlural>
-  <NovaTrader.labelMale>male Nova trader</NovaTrader.labelMale>
-  <NovaTrader.labelMalePlural>male Nova traders</NovaTrader.labelMalePlural>
-  <NovaTrader.labelFemale>female Nova trader</NovaTrader.labelFemale>
-  <NovaTrader.labelFemalePlural>female Nova traders</NovaTrader.labelFemalePlural>
+  <NovaTrader.label>诺瓦商人</NovaTrader.label>
+  <NovaTrader.labelPlural>诺瓦商人</NovaTrader.labelPlural>
+  <NovaTrader.labelMale>男性诺瓦商人</NovaTrader.labelMale>
+  <NovaTrader.labelMalePlural>男性诺瓦商人</NovaTrader.labelMalePlural>
+  <NovaTrader.labelFemale>女性诺瓦商人</NovaTrader.labelFemale>
+  <NovaTrader.labelFemalePlural>女性诺瓦商人</NovaTrader.labelFemalePlural>
 
-  <NovaAllianceAssault.label>Nova Corps Assault</NovaAllianceAssault.label>
-  <NovaAllianceAssault.labelPlural>Nova Corps Assaults</NovaAllianceAssault.labelPlural>
-  <NovaAllianceAssault.labelMale>male Nova Corps Assault</NovaAllianceAssault.labelMale>
-  <NovaAllianceAssault.labelMalePlural>male Nova Corps Assaults</NovaAllianceAssault.labelMalePlural>
-  <NovaAllianceAssault.labelFemale>female Nova Corps Assault</NovaAllianceAssault.labelFemale>
-  <NovaAllianceAssault.labelFemalePlural>female Nova Corps Assaults</NovaAllianceAssault.labelFemalePlural>
-
+  <NovaAllianceAssault.label>诺瓦联盟突击队</NovaAllianceAssault.label>
+  <NovaAllianceAssault.labelPlural>诺瓦联盟突击队</NovaAllianceAssault.labelPlural>
+  <NovaAllianceAssault.labelMale>男性诺瓦联盟突击队</NovaAllianceAssault.labelMale>
+  <NovaAllianceAssault.labelMalePlural>男性诺瓦联盟突击队</NovaAllianceAssault.labelMalePlural>
+  <NovaAllianceAssault.labelFemale>女性诺瓦联盟突击队</NovaAllianceAssault.labelFemale>
+  <NovaAllianceAssault.labelFemalePlural>女性诺瓦联盟突击队</NovaAllianceAssault.labelFemalePlural>
 
   <!-- Sapper -->
 
-  <NovaAllianceSapper.label>Nova Corps Sapper</NovaAllianceSapper.label>
-  <NovaAllianceSapper.labelPlural>Nova Corps Sappers</NovaAllianceSapper.labelPlural>
-  <NovaAllianceSapper.labelMale>male Nova Corps Sapper</NovaAllianceSapper.labelMale>
-  <NovaAllianceSapper.labelMalePlural>male Nova Corps Sappers</NovaAllianceSapper.labelMalePlural>
-  <NovaAllianceSapper.labelFemale>female Nova Corps Sapper</NovaAllianceSapper.labelFemale>
-  <NovaAllianceSapper.labelFemalePlural>female Nova Corps Sappers</NovaAllianceSapper.labelFemalePlural>
+  <NovaAllianceSapper.label>诺瓦联盟工兵</NovaAllianceSapper.label>
+  <NovaAllianceSapper.labelPlural>诺瓦联盟工兵</NovaAllianceSapper.labelPlural>
+  <NovaAllianceSapper.labelMale>男性诺瓦联盟工兵</NovaAllianceSapper.labelMale>
+  <NovaAllianceSapper.labelMalePlural>男性诺瓦联盟工兵</NovaAllianceSapper.labelMalePlural>
+  <NovaAllianceSapper.labelFemale>女性诺瓦联盟工兵</NovaAllianceSapper.labelFemale>
+  <NovaAllianceSapper.labelFemalePlural>女性诺瓦联盟工兵</NovaAllianceSapper.labelFemalePlural>
 
 
   <!-- Commander -->
 
-  <NovaCommander.label>Nova commander</NovaCommander.label>
-  <NovaCommander.labelPlural>Nova commanders</NovaCommander.labelPlural>
-  <NovaCommander.labelMale>male Nova commander</NovaCommander.labelMale>
-  <NovaCommander.labelMalePlural>male Nova commanders</NovaCommander.labelMalePlural>
-  <NovaCommander.labelFemale>female Nova commander</NovaCommander.labelFemale>
-  <NovaCommander.labelFemalePlural>female Nova commanders</NovaCommander.labelFemalePlural>
+  <NovaCommander.label>诺瓦指挥官</NovaCommander.label>
+  <NovaCommander.labelPlural>诺瓦指挥官</NovaCommander.labelPlural>
+  <NovaCommander.labelMale>男性诺瓦指挥官</NovaCommander.labelMale>
+  <NovaCommander.labelMalePlural>男性诺瓦指挥官</NovaCommander.labelMalePlural>
+  <NovaCommander.labelFemale>女性诺瓦指挥官</NovaCommander.labelFemale>
+  <NovaCommander.labelFemalePlural>女性诺瓦指挥官</NovaCommander.labelFemalePlural>
 
 
 </LanguageData>

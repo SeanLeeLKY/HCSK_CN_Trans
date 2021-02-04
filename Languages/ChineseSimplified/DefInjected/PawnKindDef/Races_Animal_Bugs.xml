@@ -1,155 +1,180 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Mosquito.label>Mosquito</Mosquito.label>
-  <Mosquito.labelPlural>Mosquitos</Mosquito.labelPlural>
-  <Mosquito.lifeStages.0.label>Mosquito</Mosquito.lifeStages.0.label>
-  <Mosquito.lifeStages.0.labelPlural>Mosquito</Mosquito.lifeStages.0.labelPlural>
-  <Mosquito.lifeStages.0.labelMale>male Mosquito</Mosquito.lifeStages.0.labelMale>
-  <Mosquito.lifeStages.0.labelMalePlural>male Mosquitos</Mosquito.lifeStages.0.labelMalePlural>
-  <Mosquito.lifeStages.0.labelFemale>female Mosquito</Mosquito.lifeStages.0.labelFemale>
-  <Mosquito.lifeStages.0.labelFemalePlural>female Mosquitos</Mosquito.lifeStages.0.labelFemalePlural>
-  <Mosquito.lifeStages.1.label>Mosquito</Mosquito.lifeStages.1.label>
-  <Mosquito.lifeStages.1.labelPlural>Mosquito</Mosquito.lifeStages.1.labelPlural>
-  <Mosquito.lifeStages.1.labelMale>male Mosquito</Mosquito.lifeStages.1.labelMale>
-  <Mosquito.lifeStages.1.labelMalePlural>male Mosquitos</Mosquito.lifeStages.1.labelMalePlural>
-  <Mosquito.lifeStages.1.labelFemale>female Mosquito</Mosquito.lifeStages.1.labelFemale>
-  <Mosquito.lifeStages.1.labelFemalePlural>female Mosquitos</Mosquito.lifeStages.1.labelFemalePlural>
-  <Mosquito.lifeStages.2.label>Mosquito</Mosquito.lifeStages.2.label>
-  <Mosquito.lifeStages.2.labelPlural>Mosquito</Mosquito.lifeStages.2.labelPlural>
-  <Mosquito.lifeStages.2.labelMale>male Mosquito</Mosquito.lifeStages.2.labelMale>
-  <Mosquito.lifeStages.2.labelMalePlural>male Mosquitos</Mosquito.lifeStages.2.labelMalePlural>
-  <Mosquito.lifeStages.2.labelFemale>female Mosquito</Mosquito.lifeStages.2.labelFemale>
-  <Mosquito.lifeStages.2.labelFemalePlural>female Mosquitos</Mosquito.lifeStages.2.labelFemalePlural>
-  <Mosquito.labelMale>male Mosquito</Mosquito.labelMale>
-  <Mosquito.labelMalePlural>male Mosquitos</Mosquito.labelMalePlural>
-  <Mosquito.labelFemale>female Mosquito</Mosquito.labelFemale>
-  <Mosquito.labelFemalePlural>female Mosquitos</Mosquito.labelFemalePlural>
+  <Mosquito.label>蚊子</Mosquito.label>
+  <Mosquito.labelPlural>蚊子</Mosquito.labelPlural>
+  <Mosquito.lifeStages.0.label>蚊子</Mosquito.lifeStages.0.label>
+  <Mosquito.lifeStages.0.labelPlural>蚊子</Mosquito.lifeStages.0.labelPlural>
+  <Mosquito.lifeStages.0.labelMale>雄性蚊子</Mosquito.lifeStages.0.labelMale>
+  <Mosquito.lifeStages.0.labelMalePlural>雄性蚊子</Mosquito.lifeStages.0.labelMalePlural>
+  <Mosquito.lifeStages.0.labelFemale>雌性蚊子</Mosquito.lifeStages.0.labelFemale>
+  <Mosquito.lifeStages.0.labelFemalePlural>雌性蚊子</Mosquito.lifeStages.0.labelFemalePlural>
+  <Mosquito.lifeStages.1.label>蚊子</Mosquito.lifeStages.1.label>
+  <Mosquito.lifeStages.1.labelPlural>蚊子</Mosquito.lifeStages.1.labelPlural>
+  <Mosquito.lifeStages.1.labelMale>雄性蚊子</Mosquito.lifeStages.1.labelMale>
+  <Mosquito.lifeStages.1.labelMalePlural>雄性蚊子</Mosquito.lifeStages.1.labelMalePlural>
+  <Mosquito.lifeStages.1.labelFemale>雌性蚊子</Mosquito.lifeStages.1.labelFemale>
+  <Mosquito.lifeStages.1.labelFemalePlural>雌性蚊子</Mosquito.lifeStages.1.labelFemalePlural>
+  <Mosquito.lifeStages.2.label>蚊子</Mosquito.lifeStages.2.label>
+  <Mosquito.lifeStages.2.labelPlural>蚊子</Mosquito.lifeStages.2.labelPlural>
+  <Mosquito.lifeStages.2.labelMale>雄性蚊子</Mosquito.lifeStages.2.labelMale>
+  <Mosquito.lifeStages.2.labelMalePlural>雄性蚊子</Mosquito.lifeStages.2.labelMalePlural>
+  <Mosquito.lifeStages.2.labelFemale>雌性蚊子</Mosquito.lifeStages.2.labelFemale>
+  <Mosquito.lifeStages.2.labelFemalePlural>雌性蚊子</Mosquito.lifeStages.2.labelFemalePlural>
+  <Mosquito.labelMale>雄性蚊子</Mosquito.labelMale>
+  <Mosquito.labelMalePlural>雄性蚊子</Mosquito.labelMalePlural>
+  <Mosquito.labelFemale>雌性蚊子</Mosquito.labelFemale>
+  <Mosquito.labelFemalePlural>雌性蚊子</Mosquito.labelFemalePlural>
 
-  <Crashbug.label>Crashbug</Crashbug.label>
-  <Crashbug.labelPlural>Crashbugs</Crashbug.labelPlural>
-  <Crashbug.lifeStages.0.label>Crashbug</Crashbug.lifeStages.0.label>
-  <Crashbug.lifeStages.0.labelPlural>Crashbug</Crashbug.lifeStages.0.labelPlural>
-  <Crashbug.lifeStages.0.labelMale>male Crashbug</Crashbug.lifeStages.0.labelMale>
-  <Crashbug.lifeStages.0.labelMalePlural>male Crashbugs</Crashbug.lifeStages.0.labelMalePlural>
-  <Crashbug.lifeStages.0.labelFemale>female Crashbug</Crashbug.lifeStages.0.labelFemale>
-  <Crashbug.lifeStages.0.labelFemalePlural>female Crashbugs</Crashbug.lifeStages.0.labelFemalePlural>
-  <Crashbug.lifeStages.1.label>Crashbug</Crashbug.lifeStages.1.label>
-  <Crashbug.lifeStages.1.labelPlural>Crashbug</Crashbug.lifeStages.1.labelPlural>
-  <Crashbug.lifeStages.1.labelMale>male Crashbug</Crashbug.lifeStages.1.labelMale>
-  <Crashbug.lifeStages.1.labelMalePlural>male Crashbugs</Crashbug.lifeStages.1.labelMalePlural>
-  <Crashbug.lifeStages.1.labelFemale>female Crashbug</Crashbug.lifeStages.1.labelFemale>
-  <Crashbug.lifeStages.1.labelFemalePlural>female Crashbugs</Crashbug.lifeStages.1.labelFemalePlural>
-  <Crashbug.lifeStages.2.label>Crashbug</Crashbug.lifeStages.2.label>
-  <Crashbug.lifeStages.2.labelPlural>Crashbug</Crashbug.lifeStages.2.labelPlural>
-  <Crashbug.lifeStages.2.labelMale>male Crashbug</Crashbug.lifeStages.2.labelMale>
-  <Crashbug.lifeStages.2.labelMalePlural>male Crashbugs</Crashbug.lifeStages.2.labelMalePlural>
-  <Crashbug.lifeStages.2.labelFemale>female Crashbug</Crashbug.lifeStages.2.labelFemale>
-  <Crashbug.lifeStages.2.labelFemalePlural>female Crashbugs</Crashbug.lifeStages.2.labelFemalePlural>
-  <Crashbug.labelMale>male Crashbug</Crashbug.labelMale>
-  <Crashbug.labelMalePlural>male Crashbugs</Crashbug.labelMalePlural>
-  <Crashbug.labelFemale>female Crashbug</Crashbug.labelFemale>
-  <Crashbug.labelFemalePlural>female Crashbugs</Crashbug.labelFemalePlural>
+  <Crashbug.label>皮蠹甲虫</Crashbug.label>
+  <Crashbug.labelPlural>皮蠹甲虫</Crashbug.labelPlural>
+  <Crashbug.lifeStages.0.label>皮蠹甲虫</Crashbug.lifeStages.0.label>
+  <Crashbug.lifeStages.0.labelPlural>皮蠹甲虫</Crashbug.lifeStages.0.labelPlural>
+  <Crashbug.lifeStages.0.labelMale>雄性皮蠹甲虫</Crashbug.lifeStages.0.labelMale>
+  <Crashbug.lifeStages.0.labelMalePlural>雄性皮蠹甲虫</Crashbug.lifeStages.0.labelMalePlural>
+  <Crashbug.lifeStages.0.labelFemale>雌性皮蠹甲虫</Crashbug.lifeStages.0.labelFemale>
+  <Crashbug.lifeStages.0.labelFemalePlural>雌性皮蠹甲虫</Crashbug.lifeStages.0.labelFemalePlural>
+  <Crashbug.lifeStages.1.label>皮蠹甲虫</Crashbug.lifeStages.1.label>
+  <Crashbug.lifeStages.1.labelPlural>皮蠹甲虫</Crashbug.lifeStages.1.labelPlural>
+  <Crashbug.lifeStages.1.labelMale>雄性皮蠹甲虫</Crashbug.lifeStages.1.labelMale>
+  <Crashbug.lifeStages.1.labelMalePlural>雄性皮蠹甲虫</Crashbug.lifeStages.1.labelMalePlural>
+  <Crashbug.lifeStages.1.labelFemale>雌性皮蠹甲虫</Crashbug.lifeStages.1.labelFemale>
+  <Crashbug.lifeStages.1.labelFemalePlural>雌性皮蠹甲虫</Crashbug.lifeStages.1.labelFemalePlural>
+  <Crashbug.lifeStages.2.label>皮蠹甲虫</Crashbug.lifeStages.2.label>
+  <Crashbug.lifeStages.2.labelPlural>皮蠹甲虫</Crashbug.lifeStages.2.labelPlural>
+  <Crashbug.lifeStages.2.labelMale>雄性皮蠹甲虫</Crashbug.lifeStages.2.labelMale>
+  <Crashbug.lifeStages.2.labelMalePlural>雄性皮蠹甲虫</Crashbug.lifeStages.2.labelMalePlural>
+  <Crashbug.lifeStages.2.labelFemale>雌性皮蠹甲虫</Crashbug.lifeStages.2.labelFemale>
+  <Crashbug.lifeStages.2.labelFemalePlural>雌性皮蠹甲虫</Crashbug.lifeStages.2.labelFemalePlural>
+  <Crashbug.labelMale>雄性皮蠹甲虫</Crashbug.labelMale>
+  <Crashbug.labelMalePlural>雄性皮蠹甲虫</Crashbug.labelMalePlural>
+  <Crashbug.labelFemale>雌性皮蠹甲虫</Crashbug.labelFemale>
+  <Crashbug.labelFemalePlural>雌性皮蠹甲虫</Crashbug.labelFemalePlural>
 
-  <Fly.label>Fly</Fly.label>
-  <Fly.labelPlural>Flys</Fly.labelPlural>
-  <Fly.lifeStages.0.label>Fly</Fly.lifeStages.0.label>
-  <Fly.lifeStages.0.labelPlural>Fly</Fly.lifeStages.0.labelPlural>
-  <Fly.lifeStages.0.labelMale>male Fly</Fly.lifeStages.0.labelMale>
-  <Fly.lifeStages.0.labelMalePlural>male Flys</Fly.lifeStages.0.labelMalePlural>
-  <Fly.lifeStages.0.labelFemale>female Fly</Fly.lifeStages.0.labelFemale>
-  <Fly.lifeStages.0.labelFemalePlural>female Flys</Fly.lifeStages.0.labelFemalePlural>
-  <Fly.lifeStages.1.label>Fly</Fly.lifeStages.1.label>
-  <Fly.lifeStages.1.labelPlural>Fly</Fly.lifeStages.1.labelPlural>
-  <Fly.lifeStages.1.labelMale>male Fly</Fly.lifeStages.1.labelMale>
-  <Fly.lifeStages.1.labelMalePlural>male Flys</Fly.lifeStages.1.labelMalePlural>
-  <Fly.lifeStages.1.labelFemale>female Fly</Fly.lifeStages.1.labelFemale>
-  <Fly.lifeStages.1.labelFemalePlural>female Flys</Fly.lifeStages.1.labelFemalePlural>
-  <Fly.lifeStages.2.label>Fly</Fly.lifeStages.2.label>
-  <Fly.lifeStages.2.labelPlural>Fly</Fly.lifeStages.2.labelPlural>
-  <Fly.lifeStages.2.labelMale>male Fly</Fly.lifeStages.2.labelMale>
-  <Fly.lifeStages.2.labelMalePlural>male Flys</Fly.lifeStages.2.labelMalePlural>
-  <Fly.lifeStages.2.labelFemale>female Fly</Fly.lifeStages.2.labelFemale>
-  <Fly.lifeStages.2.labelFemalePlural>female Flys</Fly.lifeStages.2.labelFemalePlural>
-  <Fly.labelMale>male Fly</Fly.labelMale>
-  <Fly.labelMalePlural>male Flys</Fly.labelMalePlural>
-  <Fly.labelFemale>female Fly</Fly.labelFemale>
-  <Fly.labelFemalePlural>female Flys</Fly.labelFemalePlural>
+  <Fly.label>苍蝇</Fly.label>
+  <Fly.labelPlural>苍蝇</Fly.labelPlural>
+  <Fly.lifeStages.0.label>苍蝇</Fly.lifeStages.0.label>
+  <Fly.lifeStages.0.labelPlural>苍蝇</Fly.lifeStages.0.labelPlural>
+  <Fly.lifeStages.0.labelMale>雄性苍蝇</Fly.lifeStages.0.labelMale>
+  <Fly.lifeStages.0.labelMalePlural>雄性苍蝇</Fly.lifeStages.0.labelMalePlural>
+  <Fly.lifeStages.0.labelFemale>雌性苍蝇</Fly.lifeStages.0.labelFemale>
+  <Fly.lifeStages.0.labelFemalePlural>雌性苍蝇</Fly.lifeStages.0.labelFemalePlural>
+  <Fly.lifeStages.1.label>苍蝇</Fly.lifeStages.1.label>
+  <Fly.lifeStages.1.labelPlural>苍蝇</Fly.lifeStages.1.labelPlural>
+  <Fly.lifeStages.1.labelMale>雄性苍蝇</Fly.lifeStages.1.labelMale>
+  <Fly.lifeStages.1.labelMalePlural>雄性苍蝇</Fly.lifeStages.1.labelMalePlural>
+  <Fly.lifeStages.1.labelFemale>雌性苍蝇</Fly.lifeStages.1.labelFemale>
+  <Fly.lifeStages.1.labelFemalePlural>雌性苍蝇</Fly.lifeStages.1.labelFemalePlural>
+  <Fly.lifeStages.2.label>苍蝇</Fly.lifeStages.2.label>
+  <Fly.lifeStages.2.labelPlural>苍蝇</Fly.lifeStages.2.labelPlural>
+  <Fly.lifeStages.2.labelMale>雄性苍蝇</Fly.lifeStages.2.labelMale>
+  <Fly.lifeStages.2.labelMalePlural>雄性苍蝇</Fly.lifeStages.2.labelMalePlural>
+  <Fly.lifeStages.2.labelFemale>雌性苍蝇</Fly.lifeStages.2.labelFemale>
+  <Fly.lifeStages.2.labelFemalePlural>雌性苍蝇</Fly.lifeStages.2.labelFemalePlural>
+  <Fly.labelMale>雄性苍蝇</Fly.labelMale>
+  <Fly.labelMalePlural>雄性苍蝇</Fly.labelMalePlural>
+  <Fly.labelFemale>雌性苍蝇</Fly.labelFemale>
+  <Fly.labelFemalePlural>雌性苍蝇</Fly.labelFemalePlural>
 
-  <Flea.label>Flea</Flea.label>
-  <Flea.labelPlural>Fleas</Flea.labelPlural>
-  <Flea.lifeStages.0.label>Flea</Flea.lifeStages.0.label>
-  <Flea.lifeStages.0.labelPlural>Flea</Flea.lifeStages.0.labelPlural>
-  <Flea.lifeStages.0.labelMale>male Flea</Flea.lifeStages.0.labelMale>
-  <Flea.lifeStages.0.labelMalePlural>male Fleas</Flea.lifeStages.0.labelMalePlural>
-  <Flea.lifeStages.0.labelFemale>female Flea</Flea.lifeStages.0.labelFemale>
-  <Flea.lifeStages.0.labelFemalePlural>female Fleas</Flea.lifeStages.0.labelFemalePlural>
-  <Flea.lifeStages.1.label>Flea</Flea.lifeStages.1.label>
-  <Flea.lifeStages.1.labelPlural>Flea</Flea.lifeStages.1.labelPlural>
-  <Flea.lifeStages.1.labelMale>male Flea</Flea.lifeStages.1.labelMale>
-  <Flea.lifeStages.1.labelMalePlural>male Fleas</Flea.lifeStages.1.labelMalePlural>
-  <Flea.lifeStages.1.labelFemale>female Flea</Flea.lifeStages.1.labelFemale>
-  <Flea.lifeStages.1.labelFemalePlural>female Fleas</Flea.lifeStages.1.labelFemalePlural>
-  <Flea.lifeStages.2.label>Flea</Flea.lifeStages.2.label>
-  <Flea.lifeStages.2.labelPlural>Flea</Flea.lifeStages.2.labelPlural>
-  <Flea.lifeStages.2.labelMale>male Flea</Flea.lifeStages.2.labelMale>
-  <Flea.lifeStages.2.labelMalePlural>male Fleas</Flea.lifeStages.2.labelMalePlural>
-  <Flea.lifeStages.2.labelFemale>female Flea</Flea.lifeStages.2.labelFemale>
-  <Flea.lifeStages.2.labelFemalePlural>female Fleas</Flea.lifeStages.2.labelFemalePlural>
-  <Flea.labelMale>male Flea</Flea.labelMale>
-  <Flea.labelMalePlural>male Fleas</Flea.labelMalePlural>
-  <Flea.labelFemale>female Flea</Flea.labelFemale>
-  <Flea.labelFemalePlural>female Fleas</Flea.labelFemalePlural>
+  <Flea.label>跳蚤</Flea.label>
+  <Flea.labelPlural>跳蚤</Flea.labelPlural>
+  <Flea.lifeStages.0.label>跳蚤</Flea.lifeStages.0.label>
+  <Flea.lifeStages.0.labelPlural>跳蚤</Flea.lifeStages.0.labelPlural>
+  <Flea.lifeStages.0.labelMale>雄性跳蚤</Flea.lifeStages.0.labelMale>
+  <Flea.lifeStages.0.labelMalePlural>雄性跳蚤</Flea.lifeStages.0.labelMalePlural>
+  <Flea.lifeStages.0.labelFemale>雌性跳蚤</Flea.lifeStages.0.labelFemale>
+  <Flea.lifeStages.0.labelFemalePlural>雌性跳蚤</Flea.lifeStages.0.labelFemalePlural>
+  <Flea.lifeStages.1.label>跳蚤</Flea.lifeStages.1.label>
+  <Flea.lifeStages.1.labelPlural>跳蚤</Flea.lifeStages.1.labelPlural>
+  <Flea.lifeStages.1.labelMale>雄性跳蚤</Flea.lifeStages.1.labelMale>
+  <Flea.lifeStages.1.labelMalePlural>雄性跳蚤</Flea.lifeStages.1.labelMalePlural>
+  <Flea.lifeStages.1.labelFemale>雌性跳蚤</Flea.lifeStages.1.labelFemale>
+  <Flea.lifeStages.1.labelFemalePlural>雌性跳蚤</Flea.lifeStages.1.labelFemalePlural>
+  <Flea.lifeStages.2.label>跳蚤</Flea.lifeStages.2.label>
+  <Flea.lifeStages.2.labelPlural>跳蚤</Flea.lifeStages.2.labelPlural>
+  <Flea.lifeStages.2.labelMale>雄性跳蚤</Flea.lifeStages.2.labelMale>
+  <Flea.lifeStages.2.labelMalePlural>雄性跳蚤</Flea.lifeStages.2.labelMalePlural>
+  <Flea.lifeStages.2.labelFemale>雌性跳蚤</Flea.lifeStages.2.labelFemale>
+  <Flea.lifeStages.2.labelFemalePlural>雌性跳蚤</Flea.lifeStages.2.labelFemalePlural>
+  <Flea.labelMale>雄性跳蚤</Flea.labelMale>
+  <Flea.labelMalePlural>雄性跳蚤</Flea.labelMalePlural>
+  <Flea.labelFemale>雌性跳蚤</Flea.labelFemale>
+  <Flea.labelFemalePlural>雌性跳蚤</Flea.labelFemalePlural>
 
-  <Cockroach.label>Cockroach</Cockroach.label>
-  <Cockroach.labelPlural>Cockroachs</Cockroach.labelPlural>
-  <Cockroach.lifeStages.0.label>Cockroach</Cockroach.lifeStages.0.label>
-  <Cockroach.lifeStages.0.labelPlural>Cockroach</Cockroach.lifeStages.0.labelPlural>
-  <Cockroach.lifeStages.0.labelMale>male Cockroach</Cockroach.lifeStages.0.labelMale>
-  <Cockroach.lifeStages.0.labelMalePlural>male Cockroachs</Cockroach.lifeStages.0.labelMalePlural>
-  <Cockroach.lifeStages.0.labelFemale>female Cockroach</Cockroach.lifeStages.0.labelFemale>
-  <Cockroach.lifeStages.0.labelFemalePlural>female Cockroachs</Cockroach.lifeStages.0.labelFemalePlural>
-  <Cockroach.lifeStages.1.label>Cockroach</Cockroach.lifeStages.1.label>
-  <Cockroach.lifeStages.1.labelPlural>Cockroach</Cockroach.lifeStages.1.labelPlural>
-  <Cockroach.lifeStages.1.labelMale>male Cockroach</Cockroach.lifeStages.1.labelMale>
-  <Cockroach.lifeStages.1.labelMalePlural>male Cockroachs</Cockroach.lifeStages.1.labelMalePlural>
-  <Cockroach.lifeStages.1.labelFemale>female Cockroach</Cockroach.lifeStages.1.labelFemale>
-  <Cockroach.lifeStages.1.labelFemalePlural>female Cockroachs</Cockroach.lifeStages.1.labelFemalePlural>
-  <Cockroach.lifeStages.2.label>Cockroach</Cockroach.lifeStages.2.label>
-  <Cockroach.lifeStages.2.labelPlural>Cockroach</Cockroach.lifeStages.2.labelPlural>
-  <Cockroach.lifeStages.2.labelMale>male Cockroach</Cockroach.lifeStages.2.labelMale>
-  <Cockroach.lifeStages.2.labelMalePlural>male Cockroachs</Cockroach.lifeStages.2.labelMalePlural>
-  <Cockroach.lifeStages.2.labelFemale>female Cockroach</Cockroach.lifeStages.2.labelFemale>
-  <Cockroach.lifeStages.2.labelFemalePlural>female Cockroachs</Cockroach.lifeStages.2.labelFemalePlural>
-  <Cockroach.labelMale>male Cockroach</Cockroach.labelMale>
-  <Cockroach.labelMalePlural>male Cockroachs</Cockroach.labelMalePlural>
-  <Cockroach.labelFemale>female Cockroach</Cockroach.labelFemale>
-  <Cockroach.labelFemalePlural>female Cockroachs</Cockroach.labelFemalePlural>
+  <Cockroach.label>蟑螂</Cockroach.label>
+  <Cockroach.labelPlural>蟑螂</Cockroach.labelPlural>
+  <Cockroach.lifeStages.0.label>蟑螂</Cockroach.lifeStages.0.label>
+  <Cockroach.lifeStages.0.labelPlural>蟑螂</Cockroach.lifeStages.0.labelPlural>
+  <Cockroach.lifeStages.0.labelMale>雄性蟑螂</Cockroach.lifeStages.0.labelMale>
+  <Cockroach.lifeStages.0.labelMalePlural>雄性蟑螂</Cockroach.lifeStages.0.labelMalePlural>
+  <Cockroach.lifeStages.0.labelFemale>雌性蟑螂</Cockroach.lifeStages.0.labelFemale>
+  <Cockroach.lifeStages.0.labelFemalePlural>雌性蟑螂</Cockroach.lifeStages.0.labelFemalePlural>
+  <Cockroach.lifeStages.1.label>蟑螂</Cockroach.lifeStages.1.label>
+  <Cockroach.lifeStages.1.labelPlural>蟑螂</Cockroach.lifeStages.1.labelPlural>
+  <Cockroach.lifeStages.1.labelMale>雄性蟑螂</Cockroach.lifeStages.1.labelMale>
+  <Cockroach.lifeStages.1.labelMalePlural>雄性蟑螂</Cockroach.lifeStages.1.labelMalePlural>
+  <Cockroach.lifeStages.1.labelFemale>雌性蟑螂</Cockroach.lifeStages.1.labelFemale>
+  <Cockroach.lifeStages.1.labelFemalePlural>雌性蟑螂</Cockroach.lifeStages.1.labelFemalePlural>
+  <Cockroach.lifeStages.2.label>蟑螂</Cockroach.lifeStages.2.label>
+  <Cockroach.lifeStages.2.labelPlural>蟑螂</Cockroach.lifeStages.2.labelPlural>
+  <Cockroach.lifeStages.2.labelMale>雄性蟑螂</Cockroach.lifeStages.2.labelMale>
+  <Cockroach.lifeStages.2.labelMalePlural>雄性蟑螂</Cockroach.lifeStages.2.labelMalePlural>
+  <Cockroach.lifeStages.2.labelFemale>雌性蟑螂</Cockroach.lifeStages.2.labelFemale>
+  <Cockroach.lifeStages.2.labelFemalePlural>雌性蟑螂</Cockroach.lifeStages.2.labelFemalePlural>
+  <Cockroach.labelMale>雄性蟑螂</Cockroach.labelMale>
+  <Cockroach.labelMalePlural>雄性蟑螂</Cockroach.labelMalePlural>
+  <Cockroach.labelFemale>雌性蟑螂</Cockroach.labelFemale>
+  <Cockroach.labelFemalePlural>雌性蟑螂</Cockroach.labelFemalePlural>
 
-  <CropEaterInsect.label>Cropeater</CropEaterInsect.label>
-  <CropEaterInsect.labelPlural>Cropeaters</CropEaterInsect.labelPlural>
-  <CropEaterInsect.lifeStages.0.label>Cropeater</CropEaterInsect.lifeStages.0.label>
-  <CropEaterInsect.lifeStages.0.labelPlural>Cropeater</CropEaterInsect.lifeStages.0.labelPlural>
-  <CropEaterInsect.lifeStages.0.labelMale>male Cropeater</CropEaterInsect.lifeStages.0.labelMale>
-  <CropEaterInsect.lifeStages.0.labelMalePlural>male Cropeaters</CropEaterInsect.lifeStages.0.labelMalePlural>
-  <CropEaterInsect.lifeStages.0.labelFemale>female Cropeater</CropEaterInsect.lifeStages.0.labelFemale>
-  <CropEaterInsect.lifeStages.0.labelFemalePlural>female Cropeaters</CropEaterInsect.lifeStages.0.labelFemalePlural>
-  <CropEaterInsect.lifeStages.1.label>Cropeater</CropEaterInsect.lifeStages.1.label>
-  <CropEaterInsect.lifeStages.1.labelPlural>Cropeater</CropEaterInsect.lifeStages.1.labelPlural>
-  <CropEaterInsect.lifeStages.1.labelMale>male Cropeater</CropEaterInsect.lifeStages.1.labelMale>
-  <CropEaterInsect.lifeStages.1.labelMalePlural>male Cropeaters</CropEaterInsect.lifeStages.1.labelMalePlural>
-  <CropEaterInsect.lifeStages.1.labelFemale>female Cropeater</CropEaterInsect.lifeStages.1.labelFemale>
-  <CropEaterInsect.lifeStages.1.labelFemalePlural>female Cropeaters</CropEaterInsect.lifeStages.1.labelFemalePlural>
-  <CropEaterInsect.lifeStages.2.label>Cropeater</CropEaterInsect.lifeStages.2.label>
-  <CropEaterInsect.lifeStages.2.labelPlural>Cropeater</CropEaterInsect.lifeStages.2.labelPlural>
-  <CropEaterInsect.lifeStages.2.labelMale>male Cropeater</CropEaterInsect.lifeStages.2.labelMale>
-  <CropEaterInsect.lifeStages.2.labelMalePlural>male Cropeaters</CropEaterInsect.lifeStages.2.labelMalePlural>
-  <CropEaterInsect.lifeStages.2.labelFemale>female Cropeater</CropEaterInsect.lifeStages.2.labelFemale>
-  <CropEaterInsect.lifeStages.2.labelFemalePlural>female Cropeaters</CropEaterInsect.lifeStages.2.labelFemalePlural>
-  <CropEaterInsect.labelMale>male Cropeater</CropEaterInsect.labelMale>
-  <CropEaterInsect.labelMalePlural>male Cropeaters</CropEaterInsect.labelMalePlural>
-  <CropEaterInsect.labelFemale>female Cropeater</CropEaterInsect.labelFemale>
-  <CropEaterInsect.labelFemalePlural>female Cropeaters</CropEaterInsect.labelFemalePlural>
+  <MiniSpider.label>小蜘蛛</MiniSpider.label>
+  <MiniSpider.labelPlural>小蜘蛛</MiniSpider.labelPlural>
+  <MiniSpider.lifeStages.0.label>小蜘蛛</MiniSpider.lifeStages.0.label>
+  <MiniSpider.lifeStages.0.labelPlural>小蜘蛛</MiniSpider.lifeStages.0.labelPlural>
+  <MiniSpider.lifeStages.0.labelMale>雄性小蜘蛛</MiniSpider.lifeStages.0.labelMale>
+  <MiniSpider.lifeStages.0.labelMalePlural>雄性小蜘蛛</MiniSpider.lifeStages.0.labelMalePlural>
+  <MiniSpider.lifeStages.0.labelFemale>雌性小蜘蛛</MiniSpider.lifeStages.0.labelFemale>
+  <MiniSpider.lifeStages.0.labelFemalePlural>雌性小蜘蛛</MiniSpider.lifeStages.0.labelFemalePlural>
+  <MiniSpider.lifeStages.1.label>小蜘蛛</MiniSpider.lifeStages.1.label>
+  <MiniSpider.lifeStages.1.labelPlural>小蜘蛛</MiniSpider.lifeStages.1.labelPlural>
+  <MiniSpider.lifeStages.1.labelMale>雄性小蜘蛛</MiniSpider.lifeStages.1.labelMale>
+  <MiniSpider.lifeStages.1.labelMalePlural>雄性小蜘蛛</MiniSpider.lifeStages.1.labelMalePlural>
+  <MiniSpider.lifeStages.1.labelFemale>雌性小蜘蛛</MiniSpider.lifeStages.1.labelFemale>
+  <MiniSpider.lifeStages.1.labelFemalePlural>雌性小蜘蛛</MiniSpider.lifeStages.1.labelFemalePlural>
+  <MiniSpider.lifeStages.2.label>小蜘蛛</MiniSpider.lifeStages.2.label>
+  <MiniSpider.lifeStages.2.labelPlural>小蜘蛛</MiniSpider.lifeStages.2.labelPlural>
+  <MiniSpider.lifeStages.2.labelMale>雄性小蜘蛛</MiniSpider.lifeStages.2.labelMale>
+  <MiniSpider.lifeStages.2.labelMalePlural>雄性小蜘蛛</MiniSpider.lifeStages.2.labelMalePlural>
+  <MiniSpider.lifeStages.2.labelFemale>雌性小蜘蛛</MiniSpider.lifeStages.2.labelFemale>
+  <MiniSpider.lifeStages.2.labelFemalePlural>雌性小蜘蛛</MiniSpider.lifeStages.2.labelFemalePlural>
+  <MiniSpider.labelMale>雄性小蜘蛛</MiniSpider.labelMale>
+  <MiniSpider.labelMalePlural>雄性小蜘蛛</MiniSpider.labelMalePlural>
+  <MiniSpider.labelFemale>雌性小蜘蛛</MiniSpider.labelFemale>
+  <MiniSpider.labelFemalePlural>雌性小蜘蛛</MiniSpider.labelFemalePlural>
+
+  <CropEaterInsect.label>害虫</CropEaterInsect.label>
+  <CropEaterInsect.labelPlural>害虫</CropEaterInsect.labelPlural>
+  <CropEaterInsect.lifeStages.0.label>害虫</CropEaterInsect.lifeStages.0.label>
+  <CropEaterInsect.lifeStages.0.labelPlural>害虫</CropEaterInsect.lifeStages.0.labelPlural>
+  <CropEaterInsect.lifeStages.0.labelMale>雄性害虫</CropEaterInsect.lifeStages.0.labelMale>
+  <CropEaterInsect.lifeStages.0.labelMalePlural>雄性害虫</CropEaterInsect.lifeStages.0.labelMalePlural>
+  <CropEaterInsect.lifeStages.0.labelFemale>雌性害虫</CropEaterInsect.lifeStages.0.labelFemale>
+  <CropEaterInsect.lifeStages.0.labelFemalePlural>雌性害虫</CropEaterInsect.lifeStages.0.labelFemalePlural>
+  <CropEaterInsect.lifeStages.1.label>害虫</CropEaterInsect.lifeStages.1.label>
+  <CropEaterInsect.lifeStages.1.labelPlural>害虫</CropEaterInsect.lifeStages.1.labelPlural>
+  <CropEaterInsect.lifeStages.1.labelMale>雄性害虫</CropEaterInsect.lifeStages.1.labelMale>
+  <CropEaterInsect.lifeStages.1.labelMalePlural>雄性害虫</CropEaterInsect.lifeStages.1.labelMalePlural>
+  <CropEaterInsect.lifeStages.1.labelFemale>雌性害虫</CropEaterInsect.lifeStages.1.labelFemale>
+  <CropEaterInsect.lifeStages.1.labelFemalePlural>雌性害虫</CropEaterInsect.lifeStages.1.labelFemalePlural>
+  <CropEaterInsect.lifeStages.2.label>害虫</CropEaterInsect.lifeStages.2.label>
+  <CropEaterInsect.lifeStages.2.labelPlural>害虫</CropEaterInsect.lifeStages.2.labelPlural>
+  <CropEaterInsect.lifeStages.2.labelMale>雄性害虫</CropEaterInsect.lifeStages.2.labelMale>
+  <CropEaterInsect.lifeStages.2.labelMalePlural>雄性害虫</CropEaterInsect.lifeStages.2.labelMalePlural>
+  <CropEaterInsect.lifeStages.2.labelFemale>雌性害虫</CropEaterInsect.lifeStages.2.labelFemale>
+  <CropEaterInsect.lifeStages.2.labelFemalePlural>雌性害虫</CropEaterInsect.lifeStages.2.labelFemalePlural>
+  <CropEaterInsect.labelMale>雄性害虫</CropEaterInsect.labelMale>
+  <CropEaterInsect.labelMalePlural>雄性害虫</CropEaterInsect.labelMalePlural>
+  <CropEaterInsect.labelFemale>雌性害虫</CropEaterInsect.labelFemale>
+  <CropEaterInsect.labelFemalePlural>雌性害虫</CropEaterInsect.labelFemalePlural>
 
 
 </LanguageData>

@@ -3,130 +3,131 @@
 
   <!-- Tropical -->
 
-  <Cobra.label>cobra</Cobra.label>
-  <Cobra.labelPlural>cobras</Cobra.labelPlural>
-  <Cobra.lifeStages.0.label>cobra</Cobra.lifeStages.0.label>
-  <Cobra.lifeStages.0.labelPlural>cobra</Cobra.lifeStages.0.labelPlural>
-  <Cobra.lifeStages.0.labelMale>male cobra</Cobra.lifeStages.0.labelMale>
-  <Cobra.lifeStages.0.labelMalePlural>male cobras</Cobra.lifeStages.0.labelMalePlural>
-  <Cobra.lifeStages.0.labelFemale>female cobra</Cobra.lifeStages.0.labelFemale>
-  <Cobra.lifeStages.0.labelFemalePlural>female cobras</Cobra.lifeStages.0.labelFemalePlural>
-  <Cobra.lifeStages.1.label>cobra</Cobra.lifeStages.1.label>
-  <Cobra.lifeStages.1.labelPlural>cobra</Cobra.lifeStages.1.labelPlural>
-  <Cobra.lifeStages.1.labelMale>male cobra</Cobra.lifeStages.1.labelMale>
-  <Cobra.lifeStages.1.labelMalePlural>male cobras</Cobra.lifeStages.1.labelMalePlural>
-  <Cobra.lifeStages.1.labelFemale>female cobra</Cobra.lifeStages.1.labelFemale>
-  <Cobra.lifeStages.1.labelFemalePlural>female cobras</Cobra.lifeStages.1.labelFemalePlural>
-  <Cobra.lifeStages.2.label>cobra</Cobra.lifeStages.2.label>
-  <Cobra.lifeStages.2.labelPlural>cobra</Cobra.lifeStages.2.labelPlural>
-  <Cobra.lifeStages.2.labelMale>male cobra</Cobra.lifeStages.2.labelMale>
-  <Cobra.lifeStages.2.labelMalePlural>male cobras</Cobra.lifeStages.2.labelMalePlural>
-  <Cobra.lifeStages.2.labelFemale>female cobra</Cobra.lifeStages.2.labelFemale>
-  <Cobra.lifeStages.2.labelFemalePlural>female cobras</Cobra.lifeStages.2.labelFemalePlural>
-  <Cobra.labelMale>male cobra</Cobra.labelMale>
-  <Cobra.labelMalePlural>male cobras</Cobra.labelMalePlural>
-  <Cobra.labelFemale>female cobra</Cobra.labelFemale>
-  <Cobra.labelFemalePlural>female cobras</Cobra.labelFemalePlural>
+  <Cobra.label>眼镜蛇</Cobra.label>
+  <Cobra.labelPlural>眼镜蛇</Cobra.labelPlural>
+  <Cobra.lifeStages.0.label>眼镜蛇幼崽</Cobra.lifeStages.0.label>
+  <Cobra.lifeStages.0.labelPlural>眼镜蛇幼崽</Cobra.lifeStages.0.labelPlural>
+  <Cobra.lifeStages.0.labelMale>眼镜蛇幼崽</Cobra.lifeStages.0.labelMale>
+  <Cobra.lifeStages.0.labelMalePlural>眼镜蛇幼崽</Cobra.lifeStages.0.labelMalePlural>
+  <Cobra.lifeStages.0.labelFemale>眼镜蛇幼崽</Cobra.lifeStages.0.labelFemale>
+  <Cobra.lifeStages.0.labelFemalePlural>眼镜蛇幼崽</Cobra.lifeStages.0.labelFemalePlural>
+  <Cobra.lifeStages.1.label>幼年眼镜蛇</Cobra.lifeStages.1.label>
+  <Cobra.lifeStages.1.labelPlural>幼年眼镜蛇</Cobra.lifeStages.1.labelPlural>
+  <Cobra.lifeStages.1.labelMale>幼年公眼镜蛇</Cobra.lifeStages.1.labelMale>
+  <Cobra.lifeStages.1.labelMalePlural>幼年公眼镜蛇</Cobra.lifeStages.1.labelMalePlural>
+  <Cobra.lifeStages.1.labelFemale>幼年母眼镜蛇</Cobra.lifeStages.1.labelFemale>
+  <Cobra.lifeStages.1.labelFemalePlural>幼年母眼镜蛇</Cobra.lifeStages.1.labelFemalePlural>
+  <Cobra.lifeStages.2.label>眼镜蛇</Cobra.lifeStages.2.label>
+  <Cobra.lifeStages.2.labelPlural>眼镜蛇</Cobra.lifeStages.2.labelPlural>
+  <Cobra.lifeStages.2.labelMale>公眼镜蛇</Cobra.lifeStages.2.labelMale>
+  <Cobra.lifeStages.2.labelMalePlural>公眼镜蛇</Cobra.lifeStages.2.labelMalePlural>
+  <Cobra.lifeStages.2.labelFemale>母眼镜蛇</Cobra.lifeStages.2.labelFemale>
+  <Cobra.lifeStages.2.labelFemalePlural>母眼镜蛇</Cobra.lifeStages.2.labelFemalePlural>
+  <Cobra.labelMale>公眼镜蛇</Cobra.labelMale>
+  <Cobra.labelMalePlural>公眼镜蛇</Cobra.labelMalePlural>
+  <Cobra.labelFemale>母眼镜蛇</Cobra.labelFemale>
+  <Cobra.labelFemalePlural>母眼镜蛇</Cobra.labelFemalePlural>
 
-  <Monkey.label>monkey</Monkey.label>
-  <Monkey.labelPlural>monkeys</Monkey.labelPlural>
-  <Monkey.lifeStages.0.label>monkey</Monkey.lifeStages.0.label>
-  <Monkey.lifeStages.0.labelPlural>monkey</Monkey.lifeStages.0.labelPlural>
-  <Monkey.lifeStages.0.labelMale>male monkey</Monkey.lifeStages.0.labelMale>
-  <Monkey.lifeStages.0.labelMalePlural>male monkeys</Monkey.lifeStages.0.labelMalePlural>
-  <Monkey.lifeStages.0.labelFemale>female monkey</Monkey.lifeStages.0.labelFemale>
-  <Monkey.lifeStages.0.labelFemalePlural>female monkeys</Monkey.lifeStages.0.labelFemalePlural>
-  <Monkey.lifeStages.1.label>monkey</Monkey.lifeStages.1.label>
-  <Monkey.lifeStages.1.labelPlural>monkey</Monkey.lifeStages.1.labelPlural>
-  <Monkey.lifeStages.1.labelMale>male monkey</Monkey.lifeStages.1.labelMale>
-  <Monkey.lifeStages.1.labelMalePlural>male monkeys</Monkey.lifeStages.1.labelMalePlural>
-  <Monkey.lifeStages.1.labelFemale>female monkey</Monkey.lifeStages.1.labelFemale>
-  <Monkey.lifeStages.1.labelFemalePlural>female monkeys</Monkey.lifeStages.1.labelFemalePlural>
-  <Monkey.lifeStages.2.label>monkey</Monkey.lifeStages.2.label>
-  <Monkey.lifeStages.2.labelPlural>monkey</Monkey.lifeStages.2.labelPlural>
-  <Monkey.lifeStages.2.labelMale>male monkey</Monkey.lifeStages.2.labelMale>
-  <Monkey.lifeStages.2.labelMalePlural>male monkeys</Monkey.lifeStages.2.labelMalePlural>
-  <Monkey.lifeStages.2.labelFemale>female monkey</Monkey.lifeStages.2.labelFemale>
-  <Monkey.lifeStages.2.labelFemalePlural>female monkeys</Monkey.lifeStages.2.labelFemalePlural>
-  <Monkey.labelMale>male monkey</Monkey.labelMale>
-  <Monkey.labelMalePlural>male monkeys</Monkey.labelMalePlural>
-  <Monkey.labelFemale>female monkey</Monkey.labelFemale>
-  <Monkey.labelFemalePlural>female monkeys</Monkey.labelFemalePlural>
+  <Monkey.label>猴</Monkey.label>
+  <Monkey.labelPlural>猴</Monkey.labelPlural>
+  <Monkey.lifeStages.0.label>幼猴</Monkey.lifeStages.0.label>
+  <Monkey.lifeStages.0.labelPlural>幼猴</Monkey.lifeStages.0.labelPlural>
+  <Monkey.lifeStages.0.labelMale>幼猴</Monkey.lifeStages.0.labelMale>
+  <Monkey.lifeStages.0.labelMalePlural>幼猴</Monkey.lifeStages.0.labelMalePlural>
+  <Monkey.lifeStages.0.labelFemale>幼猴</Monkey.lifeStages.0.labelFemale>
+  <Monkey.lifeStages.0.labelFemalePlural>幼猴</Monkey.lifeStages.0.labelFemalePlural>
+  <Monkey.lifeStages.1.label>幼年猴</Monkey.lifeStages.1.label>
+  <Monkey.lifeStages.1.labelPlural>幼年猴</Monkey.lifeStages.1.labelPlural>
+  <Monkey.lifeStages.1.labelMale>幼年公猴</Monkey.lifeStages.1.labelMale>
+  <Monkey.lifeStages.1.labelMalePlural>幼年公猴</Monkey.lifeStages.1.labelMalePlural>
+  <Monkey.lifeStages.1.labelFemale>幼年母猴</Monkey.lifeStages.1.labelFemale>
+  <Monkey.lifeStages.1.labelFemalePlural>幼年母猴</Monkey.lifeStages.1.labelFemalePlural>
+  <Monkey.lifeStages.2.label>猴</Monkey.lifeStages.2.label>
+  <Monkey.lifeStages.2.labelPlural>猴</Monkey.lifeStages.2.labelPlural>
+  <Monkey.lifeStages.2.labelMale>公猴</Monkey.lifeStages.2.labelMale>
+  <Monkey.lifeStages.2.labelMalePlural>公猴</Monkey.lifeStages.2.labelMalePlural>
+  <Monkey.lifeStages.2.labelFemale>母猴</Monkey.lifeStages.2.labelFemale>
+  <Monkey.lifeStages.2.labelFemalePlural>母猴</Monkey.lifeStages.2.labelFemalePlural>
+  <Monkey.labelMale>公猴</Monkey.labelMale>
+  <Monkey.labelMalePlural>公猴</Monkey.labelMalePlural>
+  <Monkey.labelFemale>母猴</Monkey.labelFemale>
+  <Monkey.labelFemalePlural>母猴</Monkey.labelFemalePlural>
+  
+  <Boomalope.label>爆炸羊</Boomalope.label>
+  <Boomalope.labelPlural>爆炸羊</Boomalope.labelPlural>
+  <Boomalope.lifeStages.0.label>爆炸羊幼崽</Boomalope.lifeStages.0.label>
+  <Boomalope.lifeStages.0.labelPlural>爆炸羊幼崽</Boomalope.lifeStages.0.labelPlural>
+  <Boomalope.lifeStages.0.labelMale>爆炸羊幼崽</Boomalope.lifeStages.0.labelMale>
+  <Boomalope.lifeStages.0.labelMalePlural>爆炸羊幼崽</Boomalope.lifeStages.0.labelMalePlural>
+  <Boomalope.lifeStages.0.labelFemale>爆炸羊幼崽</Boomalope.lifeStages.0.labelFemale>
+  <Boomalope.lifeStages.0.labelFemalePlural>爆炸羊幼崽</Boomalope.lifeStages.0.labelFemalePlural>
+  <Boomalope.lifeStages.1.label>幼年爆炸羊</Boomalope.lifeStages.1.label>
+  <Boomalope.lifeStages.1.labelPlural>幼年爆炸羊</Boomalope.lifeStages.1.labelPlural>
+  <Boomalope.lifeStages.1.labelMale>幼年公爆炸羊</Boomalope.lifeStages.1.labelMale>
+  <Boomalope.lifeStages.1.labelMalePlural>幼年公爆炸羊</Boomalope.lifeStages.1.labelMalePlural>
+  <Boomalope.lifeStages.1.labelFemale>幼年母爆炸羊</Boomalope.lifeStages.1.labelFemale>
+  <Boomalope.lifeStages.1.labelFemalePlural>幼年母爆炸羊</Boomalope.lifeStages.1.labelFemalePlural>
+  <Boomalope.lifeStages.2.label>爆炸羊</Boomalope.lifeStages.2.label>
+  <Boomalope.lifeStages.2.labelPlural>爆炸羊</Boomalope.lifeStages.2.labelPlural>
+  <Boomalope.lifeStages.2.labelMale>公爆炸羊</Boomalope.lifeStages.2.labelMale>
+  <Boomalope.lifeStages.2.labelMalePlural>公爆炸羊</Boomalope.lifeStages.2.labelMalePlural>
+  <Boomalope.lifeStages.2.labelFemale>母爆炸羊</Boomalope.lifeStages.2.labelFemale>
+  <Boomalope.lifeStages.2.labelFemalePlural>母爆炸羊</Boomalope.lifeStages.2.labelFemalePlural>
+  <Boomalope.labelMale>公爆炸羊</Boomalope.labelMale>
+  <Boomalope.labelMalePlural>公爆炸羊</Boomalope.labelMalePlural>
+  <Boomalope.labelFemale>母爆炸羊</Boomalope.labelFemale>
+  <Boomalope.labelFemalePlural>母爆炸羊</Boomalope.labelFemalePlural>
 
-  <Boomalope.label>boomalope</Boomalope.label>
-  <Boomalope.labelPlural>boomalopes</Boomalope.labelPlural>
-  <Boomalope.lifeStages.0.label>boomalope calf</Boomalope.lifeStages.0.label>
-  <Boomalope.lifeStages.0.labelPlural>boomalope calves</Boomalope.lifeStages.0.labelPlural>
-  <Boomalope.lifeStages.0.labelMale>male boomalope calf</Boomalope.lifeStages.0.labelMale>
-  <Boomalope.lifeStages.0.labelMalePlural>male boomalope calves</Boomalope.lifeStages.0.labelMalePlural>
-  <Boomalope.lifeStages.0.labelFemale>female boomalope calf</Boomalope.lifeStages.0.labelFemale>
-  <Boomalope.lifeStages.0.labelFemalePlural>female boomalope calves</Boomalope.lifeStages.0.labelFemalePlural>
-  <Boomalope.lifeStages.1.label>boomalope</Boomalope.lifeStages.1.label>
-  <Boomalope.lifeStages.1.labelPlural>boomalope</Boomalope.lifeStages.1.labelPlural>
-  <Boomalope.lifeStages.1.labelMale>male boomalope</Boomalope.lifeStages.1.labelMale>
-  <Boomalope.lifeStages.1.labelMalePlural>male boomalopes</Boomalope.lifeStages.1.labelMalePlural>
-  <Boomalope.lifeStages.1.labelFemale>female boomalope</Boomalope.lifeStages.1.labelFemale>
-  <Boomalope.lifeStages.1.labelFemalePlural>female boomalopes</Boomalope.lifeStages.1.labelFemalePlural>
-  <Boomalope.lifeStages.2.label>boomalope</Boomalope.lifeStages.2.label>
-  <Boomalope.lifeStages.2.labelPlural>boomalope</Boomalope.lifeStages.2.labelPlural>
-  <Boomalope.lifeStages.2.labelMale>male boomalope</Boomalope.lifeStages.2.labelMale>
-  <Boomalope.lifeStages.2.labelMalePlural>male boomalopes</Boomalope.lifeStages.2.labelMalePlural>
-  <Boomalope.lifeStages.2.labelFemale>female boomalope</Boomalope.lifeStages.2.labelFemale>
-  <Boomalope.lifeStages.2.labelFemalePlural>female boomalopes</Boomalope.lifeStages.2.labelFemalePlural>
-  <Boomalope.labelMale>male boomalope</Boomalope.labelMale>
-  <Boomalope.labelMalePlural>male boomalopes</Boomalope.labelMalePlural>
-  <Boomalope.labelFemale>female boomalope</Boomalope.labelFemale>
-  <Boomalope.labelFemalePlural>female boomalopes</Boomalope.labelFemalePlural>
+  <Lacosdile.label>雷科斯代巨蜥</Lacosdile.label>
+  <Lacosdile.labelPlural>雷科斯代巨蜥</Lacosdile.labelPlural>
+  <Lacosdile.lifeStages.0.label>雷科斯代巨蜥</Lacosdile.lifeStages.0.label>
+  <Lacosdile.lifeStages.0.labelPlural>雷科斯代巨蜥</Lacosdile.lifeStages.0.labelPlural>
+  <Lacosdile.lifeStages.0.labelMale>雄性雷科斯代巨蜥</Lacosdile.lifeStages.0.labelMale>
+  <Lacosdile.lifeStages.0.labelMalePlural>雄性雷科斯代巨蜥</Lacosdile.lifeStages.0.labelMalePlural>
+  <Lacosdile.lifeStages.0.labelFemale>雌性雷科斯代巨蜥</Lacosdile.lifeStages.0.labelFemale>
+  <Lacosdile.lifeStages.0.labelFemalePlural>雌性雷科斯代巨蜥</Lacosdile.lifeStages.0.labelFemalePlural>
+  <Lacosdile.lifeStages.1.label>雷科斯代巨蜥</Lacosdile.lifeStages.1.label>
+  <Lacosdile.lifeStages.1.labelPlural>雷科斯代巨蜥</Lacosdile.lifeStages.1.labelPlural>
+  <Lacosdile.lifeStages.1.labelMale>雄性雷科斯代巨蜥</Lacosdile.lifeStages.1.labelMale>
+  <Lacosdile.lifeStages.1.labelMalePlural>雄性雷科斯代巨蜥</Lacosdile.lifeStages.1.labelMalePlural>
+  <Lacosdile.lifeStages.1.labelFemale>雌性雷科斯代巨蜥</Lacosdile.lifeStages.1.labelFemale>
+  <Lacosdile.lifeStages.1.labelFemalePlural>雌性雷科斯代巨蜥</Lacosdile.lifeStages.1.labelFemalePlural>
+  <Lacosdile.lifeStages.2.label>雷科斯代巨蜥</Lacosdile.lifeStages.2.label>
+  <Lacosdile.lifeStages.2.labelPlural>雷科斯代巨蜥</Lacosdile.lifeStages.2.labelPlural>
+  <Lacosdile.lifeStages.2.labelMale>雄性雷科斯代巨蜥</Lacosdile.lifeStages.2.labelMale>
+  <Lacosdile.lifeStages.2.labelMalePlural>雄性雷科斯代巨蜥</Lacosdile.lifeStages.2.labelMalePlural>
+  <Lacosdile.lifeStages.2.labelFemale>雌性雷科斯代巨蜥</Lacosdile.lifeStages.2.labelFemale>
+  <Lacosdile.lifeStages.2.labelFemalePlural>雌性雷科斯代巨蜥</Lacosdile.lifeStages.2.labelFemalePlural>
+  <Lacosdile.labelMale>雄性雷科斯代巨蜥</Lacosdile.labelMale>
+  <Lacosdile.labelMalePlural>雄性雷科斯代巨蜥</Lacosdile.labelMalePlural>
+  <Lacosdile.labelFemale>雌性雷科斯代巨蜥</Lacosdile.labelFemale>
+  <Lacosdile.labelFemalePlural>雌性雷科斯代巨蜥</Lacosdile.labelFemalePlural>
 
-  <Lacosdile.label>lacosdile</Lacosdile.label>
-  <Lacosdile.labelPlural>lacosdiles</Lacosdile.labelPlural>
-  <Lacosdile.lifeStages.0.label>lacosdile</Lacosdile.lifeStages.0.label>
-  <Lacosdile.lifeStages.0.labelPlural>lacosdile</Lacosdile.lifeStages.0.labelPlural>
-  <Lacosdile.lifeStages.0.labelMale>male lacosdile</Lacosdile.lifeStages.0.labelMale>
-  <Lacosdile.lifeStages.0.labelMalePlural>male lacosdiles</Lacosdile.lifeStages.0.labelMalePlural>
-  <Lacosdile.lifeStages.0.labelFemale>female lacosdile</Lacosdile.lifeStages.0.labelFemale>
-  <Lacosdile.lifeStages.0.labelFemalePlural>female lacosdiles</Lacosdile.lifeStages.0.labelFemalePlural>
-  <Lacosdile.lifeStages.1.label>lacosdile</Lacosdile.lifeStages.1.label>
-  <Lacosdile.lifeStages.1.labelPlural>lacosdile</Lacosdile.lifeStages.1.labelPlural>
-  <Lacosdile.lifeStages.1.labelMale>male lacosdile</Lacosdile.lifeStages.1.labelMale>
-  <Lacosdile.lifeStages.1.labelMalePlural>male lacosdiles</Lacosdile.lifeStages.1.labelMalePlural>
-  <Lacosdile.lifeStages.1.labelFemale>female lacosdile</Lacosdile.lifeStages.1.labelFemale>
-  <Lacosdile.lifeStages.1.labelFemalePlural>female lacosdiles</Lacosdile.lifeStages.1.labelFemalePlural>
-  <Lacosdile.lifeStages.2.label>lacosdile</Lacosdile.lifeStages.2.label>
-  <Lacosdile.lifeStages.2.labelPlural>lacosdile</Lacosdile.lifeStages.2.labelPlural>
-  <Lacosdile.lifeStages.2.labelMale>male lacosdile</Lacosdile.lifeStages.2.labelMale>
-  <Lacosdile.lifeStages.2.labelMalePlural>male lacosdiles</Lacosdile.lifeStages.2.labelMalePlural>
-  <Lacosdile.lifeStages.2.labelFemale>female lacosdile</Lacosdile.lifeStages.2.labelFemale>
-  <Lacosdile.lifeStages.2.labelFemalePlural>female lacosdiles</Lacosdile.lifeStages.2.labelFemalePlural>
-  <Lacosdile.labelMale>male lacosdile</Lacosdile.labelMale>
-  <Lacosdile.labelMalePlural>male lacosdiles</Lacosdile.labelMalePlural>
-  <Lacosdile.labelFemale>female lacosdile</Lacosdile.labelFemale>
-  <Lacosdile.labelFemalePlural>female lacosdiles</Lacosdile.labelFemalePlural>
+  <Okapi.label>霍加皮</Okapi.label>
+  <Okapi.labelPlural>霍加皮</Okapi.labelPlural>
+  <Okapi.lifeStages.0.label>霍加皮</Okapi.lifeStages.0.label>
+  <Okapi.lifeStages.0.labelPlural>霍加皮</Okapi.lifeStages.0.labelPlural>
+  <Okapi.lifeStages.0.labelMale>雄性霍加皮</Okapi.lifeStages.0.labelMale>
+  <Okapi.lifeStages.0.labelMalePlural>雄性霍加皮</Okapi.lifeStages.0.labelMalePlural>
+  <Okapi.lifeStages.0.labelFemale>雌性霍加皮</Okapi.lifeStages.0.labelFemale>
+  <Okapi.lifeStages.0.labelFemalePlural>雌性霍加皮</Okapi.lifeStages.0.labelFemalePlural>
+  <Okapi.lifeStages.1.label>霍加皮</Okapi.lifeStages.1.label>
+  <Okapi.lifeStages.1.labelPlural>霍加皮</Okapi.lifeStages.1.labelPlural>
+  <Okapi.lifeStages.1.labelMale>雄性霍加皮</Okapi.lifeStages.1.labelMale>
+  <Okapi.lifeStages.1.labelMalePlural>雄性霍加皮</Okapi.lifeStages.1.labelMalePlural>
+  <Okapi.lifeStages.1.labelFemale>雌性霍加皮</Okapi.lifeStages.1.labelFemale>
+  <Okapi.lifeStages.1.labelFemalePlural>雌性霍加皮</Okapi.lifeStages.1.labelFemalePlural>
+  <Okapi.lifeStages.2.label>霍加皮</Okapi.lifeStages.2.label>
+  <Okapi.lifeStages.2.labelPlural>霍加皮</Okapi.lifeStages.2.labelPlural>
+  <Okapi.lifeStages.2.labelMale>雄性霍加皮</Okapi.lifeStages.2.labelMale>
+  <Okapi.lifeStages.2.labelMalePlural>雄性霍加皮</Okapi.lifeStages.2.labelMalePlural>
+  <Okapi.lifeStages.2.labelFemale>雌性霍加皮</Okapi.lifeStages.2.labelFemale>
+  <Okapi.lifeStages.2.labelFemalePlural>雌性霍加皮</Okapi.lifeStages.2.labelFemalePlural>
+  <Okapi.labelMale>雄性霍加皮</Okapi.labelMale>
+  <Okapi.labelMalePlural>雄性霍加皮</Okapi.labelMalePlural>
+  <Okapi.labelFemale>雌性霍加皮</Okapi.labelFemale>
+  <Okapi.labelFemalePlural>雌性霍加皮</Okapi.labelFemalePlural>
 
-  <Okapi.label>okapi</Okapi.label>
-  <Okapi.labelPlural>okapis</Okapi.labelPlural>
-  <Okapi.lifeStages.0.label>okapi</Okapi.lifeStages.0.label>
-  <Okapi.lifeStages.0.labelPlural>okapi</Okapi.lifeStages.0.labelPlural>
-  <Okapi.lifeStages.0.labelMale>male okapi</Okapi.lifeStages.0.labelMale>
-  <Okapi.lifeStages.0.labelMalePlural>male okapis</Okapi.lifeStages.0.labelMalePlural>
-  <Okapi.lifeStages.0.labelFemale>female okapi</Okapi.lifeStages.0.labelFemale>
-  <Okapi.lifeStages.0.labelFemalePlural>female okapis</Okapi.lifeStages.0.labelFemalePlural>
-  <Okapi.lifeStages.1.label>okapi</Okapi.lifeStages.1.label>
-  <Okapi.lifeStages.1.labelPlural>okapi</Okapi.lifeStages.1.labelPlural>
-  <Okapi.lifeStages.1.labelMale>male okapi</Okapi.lifeStages.1.labelMale>
-  <Okapi.lifeStages.1.labelMalePlural>male okapis</Okapi.lifeStages.1.labelMalePlural>
-  <Okapi.lifeStages.1.labelFemale>female okapi</Okapi.lifeStages.1.labelFemale>
-  <Okapi.lifeStages.1.labelFemalePlural>female okapis</Okapi.lifeStages.1.labelFemalePlural>
-  <Okapi.lifeStages.2.label>okapi</Okapi.lifeStages.2.label>
-  <Okapi.lifeStages.2.labelPlural>okapi</Okapi.lifeStages.2.labelPlural>
-  <Okapi.lifeStages.2.labelMale>male okapi</Okapi.lifeStages.2.labelMale>
-  <Okapi.lifeStages.2.labelMalePlural>male okapis</Okapi.lifeStages.2.labelMalePlural>
-  <Okapi.lifeStages.2.labelFemale>female okapi</Okapi.lifeStages.2.labelFemale>
-  <Okapi.lifeStages.2.labelFemalePlural>female okapis</Okapi.lifeStages.2.labelFemalePlural>
-  <Okapi.labelMale>male okapi</Okapi.labelMale>
-  <Okapi.labelMalePlural>male okapis</Okapi.labelMalePlural>
-  <Okapi.labelFemale>female okapi</Okapi.labelFemale>
-  <Okapi.labelFemalePlural>female okapis</Okapi.labelFemalePlural>
 
 
 </LanguageData>

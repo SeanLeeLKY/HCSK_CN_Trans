@@ -3,16 +3,16 @@
 
   <!-- Special mental states not from mental breaks -->
 
-  <WanderConfusedCore.label>confused wandering</WanderConfusedCore.label>
-  <WanderConfusedCore.beginLetter>{0}'s mind is being flooded with terrible pictures and sounds by the AI persona core.</WanderConfusedCore.beginLetter>
-  <WanderConfusedCore.beginLetterLabel>confusion</WanderConfusedCore.beginLetterLabel>
-  <WanderConfusedCore.recoveryMessage>{0}'s AI persona core has been contained.</WanderConfusedCore.recoveryMessage>
-  <WanderConfusedCore.baseInspectLine>Mental state: Confused and wandering</WanderConfusedCore.baseInspectLine>
+  <WanderConfusedCore.label>迷茫徘徊</WanderConfusedCore.label>
+  <WanderConfusedCore.beginLetter>{0}的脑海中充斥着伪人格核心制造的可怕幻象和回音。</WanderConfusedCore.beginLetter>
+  <WanderConfusedCore.beginLetterLabel>迷茫</WanderConfusedCore.beginLetterLabel>
+  <WanderConfusedCore.recoveryMessage>{0}的伪人格核心被遏制了。</WanderConfusedCore.recoveryMessage>
+  <WanderConfusedCore.baseInspectLine>心理状态：迷茫徘徊</WanderConfusedCore.baseInspectLine>
 
-  <BerserkCore.label>AI takeover</BerserkCore.label>
-  <BerserkCore.beginLetter>{0}'s AI persona core has assumed direct control!\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees.</BerserkCore.beginLetter>
-  <BerserkCore.recoveryMessage>{0}'s AI persona core has been contained.</BerserkCore.recoveryMessage>
-  <BerserkCore.baseInspectLine>Mental state: AI takeover</BerserkCore.baseInspectLine>
+  <BerserkCore.label>失控AI</BerserkCore.label>
+  <BerserkCore.beginLetter>{0}的大脑被AI核心直接控制！\n\n[PAWN_pronoun]会攻击[PAWN_pronoun]视野中的任何人。</BerserkCore.beginLetter>
+  <BerserkCore.recoveryMessage>{0}的伪人格核心被遏制了。</BerserkCore.recoveryMessage>
+  <BerserkCore.baseInspectLine>心理状态：失控AI</BerserkCore.baseInspectLine>
 
 
 </LanguageData>

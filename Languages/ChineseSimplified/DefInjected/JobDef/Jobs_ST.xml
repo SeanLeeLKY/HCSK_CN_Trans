@@ -3,11 +3,11 @@
 
   <!-- Dummy jobdefs for Survival tools compat. -->
 
-  <FellTree.reportString>felling TargetA.</FellTree.reportString>
-  <FellTreeDesignated.reportString>felling TargetA.</FellTreeDesignated.reportString>
-  <HarvestTree.reportString>felling TargetA.</HarvestTree.reportString>
-  <HarvestTreeDesignated.reportString>felling TargetA.</HarvestTreeDesignated.reportString>
-  <SowWithSeeds.reportString>sowing TargetA.</SowWithSeeds.reportString>
+  <FellTree.reportString>砍伐 TargetA。</FellTree.reportString>
+  <FellTreeDesignated.reportString>砍伐 TargetA。</FellTreeDesignated.reportString>
+  <HarvestTree.reportString>砍伐 TargetA。</HarvestTree.reportString>
+  <HarvestTreeDesignated.reportString>砍伐 TargetA。</HarvestTreeDesignated.reportString>
+  <SowWithSeeds.reportString>播种 TargetA。</SowWithSeeds.reportString>
 
 
 </LanguageData>
