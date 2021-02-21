@@ -3,12 +3,12 @@
 
   <!-- To add a research tab, make a new ResearchTabDef here and then set the <tab> field of your research project to match it -->
 
-  <Main.label>Industry</Main.label>
-  <SpacerTech.label>Post Industry</SpacerTech.label>
-  <Agriculture.label>Agriculture</Agriculture.label>
-  <Furniture.label>Interior</Furniture.label>
-  <Power.label>Power</Power.label>
-  <Security.label>Security</Security.label>
+  <Main.label>工业</Main.label>
+  <SpacerTech.label>极致工业</SpacerTech.label>
+  <Agriculture.label>农业</Agriculture.label>
+  <Furniture.label>内饰</Furniture.label>
+  <Power.label>能源</Power.label>
+  <Security.label>安防</Security.label>
 
 
 </LanguageData>

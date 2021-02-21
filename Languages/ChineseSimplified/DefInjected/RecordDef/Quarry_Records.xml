@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <QRY_CellsMined.label>quarry m³ mined</QRY_CellsMined.label>
-  <QRY_CellsMined.description>The number of cubic meters I have mined out of a quarry.</QRY_CellsMined.description>
+  <QRY_CellsMined.label>已采掘的体积m³</QRY_CellsMined.label>
+  <QRY_CellsMined.description>我已经从采石场采掘的石土体积。</QRY_CellsMined.description>
 
 
 </LanguageData>
