@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NuzzledAllergic.stages.0.label>nuzzled</NuzzledAllergic.stages.0.label>
-  <NuzzledAllergic.stages.0.description>A filthy animal nuzzled me.</NuzzledAllergic.stages.0.description>
+  <NuzzledAllergic.stages.0.label>被亲昵</NuzzledAllergic.stages.0.label>
+  <NuzzledAllergic.stages.0.description>一只脏脏的小动物蹭了我一下。</NuzzledAllergic.stages.0.description>
 
-  <NuzzledAnimalLover.stages.0.label>nuzzled</NuzzledAnimalLover.stages.0.label>
-  <NuzzledAnimalLover.stages.0.description>A very cute animal nuzzled me.</NuzzledAnimalLover.stages.0.description>
+  <NuzzledAnimalLover.stages.0.label>被亲昵</NuzzledAnimalLover.stages.0.label>
+  <NuzzledAnimalLover.stages.0.description>一只可爱的小动物蹭了我一下。</NuzzledAnimalLover.stages.0.description>
 
 
   <!-- Combat -->
 
-  <WitnessedDeathReaver.stages.0.label>witnessed death as Reaver</WitnessedDeathReaver.stages.0.label>
-  <WitnessedDeathReaver.stages.0.description>I saw someone die! That was intense!</WitnessedDeathReaver.stages.0.description>
+  <WitnessedDeathReaver.stages.0.label>目睹死亡</WitnessedDeathReaver.stages.0.label>
+  <WitnessedDeathReaver.stages.0.description>我看见有人死了！真刺激！</WitnessedDeathReaver.stages.0.description>
 
-  <KilledHumanlikeReaver.stages.0.label>killed someone</KilledHumanlikeReaver.stages.0.label>
-  <KilledHumanlikeReaver.stages.0.description>I killed someone! What a rush!</KilledHumanlikeReaver.stages.0.description>
+  <KilledHumanlikeReaver.stages.0.label>杀了人</KilledHumanlikeReaver.stages.0.label>
+  <KilledHumanlikeReaver.stages.0.description>我亲手杀了一个人！爽爆了！</KilledHumanlikeReaver.stages.0.description>
 
 
 </LanguageData>

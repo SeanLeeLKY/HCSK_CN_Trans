@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AIPawn_BaseTrait.degreeDatas.0.label>Android</AIPawn_BaseTrait.degreeDatas.0.label>
-  <AIPawn_BaseTrait.degreeDatas.0.description>{PAWN_nameDef} is an android. As an android {PAWN_pronoun} is a bit faster and not really sensible for psychic phenomena.</AIPawn_BaseTrait.degreeDatas.0.description>
+  <AIPawn_BaseTrait.degreeDatas.0.label>人形机器人</AIPawn_BaseTrait.degreeDatas.0.label>
+  <AIPawn_BaseTrait.degreeDatas.0.description>{PAWN_nameDef}是一个人形机器人。作为一个机器人{PAWN_pronoun}移动较快而且几乎没有心理活动。</AIPawn_BaseTrait.degreeDatas.0.description>
 
-  <AIRobot_BaseTrait.degreeDatas.0.label>Robot</AIRobot_BaseTrait.degreeDatas.0.label>
-  <AIRobot_BaseTrait.degreeDatas.0.description>{PAWN_nameDef} is an robot. As a robot {PAWN_pronoun} is a bit faster and not really sensible for psychic phenomena.</AIRobot_BaseTrait.degreeDatas.0.description>
+  <AIRobot_BaseTrait.degreeDatas.0.label>机器人</AIRobot_BaseTrait.degreeDatas.0.label>
+  <AIRobot_BaseTrait.degreeDatas.0.description>{PAWN_nameDef}是一个机器人。作为一个机器人{PAWN_pronoun}移动较快而且几乎没有心理活动。</AIRobot_BaseTrait.degreeDatas.0.description>
 
 
 </LanguageData>

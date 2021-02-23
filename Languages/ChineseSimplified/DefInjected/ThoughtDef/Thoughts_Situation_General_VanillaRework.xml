@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ApparelDamaged.stages.0.label>ratty apparel</ApparelDamaged.stages.0.label>
-  <ApparelDamaged.stages.0.description>The holes in my outfit are annoyingly large. Can't I get something new to wear?</ApparelDamaged.stages.0.description>
-  <ApparelDamaged.stages.1.label>tattered apparel</ApparelDamaged.stages.1.label>
-  <ApparelDamaged.stages.1.description>This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap?</ApparelDamaged.stages.1.description>
+  <ApparelDamaged.stages.0.label>穿着磨损的衣服</ApparelDamaged.stages.0.label>
+  <ApparelDamaged.stages.0.description>我的衣服看起来有点破，我就不能有件体面的衣服吗？</ApparelDamaged.stages.0.description>
+  <ApparelDamaged.stages.1.label>穿着破烂的衣服</ApparelDamaged.stages.1.label>
+  <ApparelDamaged.stages.1.description>我的衣服就是几条破布，我就不能有件体面的衣服吗？</ApparelDamaged.stages.1.description>
 
-  <DeadMansApparel.stages.0.label>tainted {0}</DeadMansApparel.stages.0.label>
-  <DeadMansApparel.stages.0.description>I am wearing apparel that someone died in. It creeps me out and feels dirty.</DeadMansApparel.stages.0.description>
-  <DeadMansApparel.stages.1.label>tainted {0} (+1)</DeadMansApparel.stages.1.label>
-  <DeadMansApparel.stages.1.description>I am wearing two pieces of apparel that someone died in. It creeps me out and feels dirty.</DeadMansApparel.stages.1.description>
-  <DeadMansApparel.stages.2.label>tainted {0} (+2)</DeadMansApparel.stages.2.label>
-  <DeadMansApparel.stages.2.description>I am wearing three pieces of apparel that someone died in. It creeps me out and feels dirty.</DeadMansApparel.stages.2.description>
-  <DeadMansApparel.stages.3.label>tainted {0} etc</DeadMansApparel.stages.3.label>
-  <DeadMansApparel.stages.3.description>I am wearing more than three pieces of apparel that someone died in. It creeps me out and feels dirty.</DeadMansApparel.stages.3.description>
+  <DeadMansApparel.stages.0.label>死人的{0}</DeadMansApparel.stages.0.label>
+  <DeadMansApparel.stages.0.description>我穿着一件死人的衣服。这让我毛骨悚然，总觉得有什么脏东西。</DeadMansApparel.stages.0.description>
+  <DeadMansApparel.stages.1.label>死人的{0}（2件）</DeadMansApparel.stages.1.label>
+  <DeadMansApparel.stages.1.description>我穿着两件死人的衣服。这让我毛骨悚然，总觉得有什么脏东西。</DeadMansApparel.stages.1.description>
+  <DeadMansApparel.stages.2.label>死人的{0}（3件）</DeadMansApparel.stages.2.label>
+  <DeadMansApparel.stages.2.description>我穿着三件死人的衣服。这让我毛骨悚然，总觉得有什么脏东西。</DeadMansApparel.stages.2.description>
+  <DeadMansApparel.stages.3.label>死人的{0}（多件）</DeadMansApparel.stages.3.label>
+  <DeadMansApparel.stages.3.description>我穿着好几件死人的衣服。这让我毛骨悚然，总觉得有什么脏东西。</DeadMansApparel.stages.3.description>
 
 
 </LanguageData>

@@ -3,66 +3,66 @@
 
   <!-- HARDCORE SK: THOUGHTS -->
 
-  <AteReplicatedMeal.stages.0.label>Ate Replicated Meal</AteReplicatedMeal.stages.0.label>
-  <AteReplicatedMeal.stages.0.description>I ate a Replicated Meal. It wasn't fancy, but it was filling!</AteReplicatedMeal.stages.0.description>
+  <AteReplicatedMeal.stages.0.label>吃了代餐</AteReplicatedMeal.stages.0.label>
+  <AteReplicatedMeal.stages.0.description>我吃了一顿代餐。虽然味道不怎么样，不过还好能吃饱！</AteReplicatedMeal.stages.0.description>
 
-  <FrostyBeer.stages.0.label>enjoyed a cold one</FrostyBeer.stages.0.label>
-  <FrostyBeer.stages.0.description>Nothing better then a frosty beverage!</FrostyBeer.stages.0.description>
+  <FrostyBeer.stages.0.label>尽享冰爽</FrostyBeer.stages.0.label>
+  <FrostyBeer.stages.0.description>没有什么比一杯冰镇饮品更好了！</FrostyBeer.stages.0.description>
 
-  <AteLuxuryMeal.stages.0.label>ate luxury meal</AteLuxuryMeal.stages.0.label>
-  <AteLuxuryMeal.stages.0.description>That luxury meal was excellent. It nourished my body and my soul.</AteLuxuryMeal.stages.0.description>
+  <AteLuxuryMeal.stages.0.label>吃了豪华大餐</AteLuxuryMeal.stages.0.label>
+  <AteLuxuryMeal.stages.0.description>那顿大餐真是太棒了。吃完令我回味无穷！</AteLuxuryMeal.stages.0.description>
 
 
   <!-- Enviro -->
 
-  <AteCannedMeal.stages.0.label>Ate Canned meal</AteCannedMeal.stages.0.label>
-  <AteCannedMeal.stages.0.description>I had to eat canned meal. It gives a metallic taste.</AteCannedMeal.stages.0.description>
+  <AteCannedMeal.stages.0.label>吃了罐装食物</AteCannedMeal.stages.0.label>
+  <AteCannedMeal.stages.0.description>我吃了一盒罐头食品。闻起来一股铁锈味。</AteCannedMeal.stages.0.description>
 
 
   <!-- Cats -->
 
-  <AteCatFood.stages.0.label>Ate Cat Food</AteCatFood.stages.0.label>
-  <AteCatFood.stages.0.description>I had to eat cat food. What kind of colony is this where we feed the cats first, and the colonists later?</AteCatFood.stages.0.description>
+  <AteCatFood.stages.0.label>吃了猫粮</AteCatFood.stages.0.label>
+  <AteCatFood.stages.0.description>我不得不吃了一罐猫粮。我在想什么鬼地方才会像我们这样先喂猫，再养人？</AteCatFood.stages.0.description>
 
 
   <!-- Soylent Green -->
 
-  <AteSoylentGreen.stages.0.label>Ate Soylent Green</AteSoylentGreen.stages.0.label>
-  <AteSoylentGreen.stages.0.description>I ate Soylent Green made from the meat of another human. This is bad.</AteSoylentGreen.stages.0.description>
+  <AteSoylentGreen.stages.0.label>吃了营养质</AteSoylentGreen.stages.0.label>
+  <AteSoylentGreen.stages.0.description>我吃了一些用其他人类蛋白质制成的绿色营养质。简直是噩梦一般的感觉。</AteSoylentGreen.stages.0.description>
 
 
   <!-- VG -->
 
-  <AtePie.stages.0.label>Ate Pie</AtePie.stages.0.label>
-  <AtePie.stages.0.description>I ate a really tasty pie. It's not a lie!</AtePie.stages.0.description>
+  <AtePie.stages.0.label>吃了派</AtePie.stages.0.label>
+  <AtePie.stages.0.description>我吃了一块真资格的派。我没有骗人！</AtePie.stages.0.description>
 
-  <AteCandy.stages.0.label>Ate Candy</AteCandy.stages.0.label>
-  <AteCandy.stages.0.description>I ate a really tasty candy. Now I'm sugar buzzed.</AteCandy.stages.0.description>
+  <AteCandy.stages.0.label>吃了糖果</AteCandy.stages.0.label>
+  <AteCandy.stages.0.description>我吃了真正的糖果。哎呀，我有点“晕糖”！</AteCandy.stages.0.description>
 
-  <Hotdrink.stages.0.label>Hot Drink</Hotdrink.stages.0.label>
-  <Hotdrink.stages.0.description>I drank a really nice hot drink, now I feel better.</Hotdrink.stages.0.description>
+  <Hotdrink.stages.0.label>热饮料</Hotdrink.stages.0.label>
+  <Hotdrink.stages.0.description>我喝了一杯热饮，感觉真不错！</Hotdrink.stages.0.description>
 
-  <HadTea.stages.0.label>Drank Cup of Tea</HadTea.stages.0.label>
-  <HadTea.stages.0.description>Tea is tasty! I like this.</HadTea.stages.0.description>
+  <HadTea.stages.0.label>一杯好茶</HadTea.stages.0.label>
+  <HadTea.stages.0.description>一杯好茶，真是太棒了！</HadTea.stages.0.description>
 
-  <HadFruitDrink.stages.0.label>Drank Fruit Drink</HadFruitDrink.stages.0.label>
-  <HadFruitDrink.stages.0.description>That fruit drink was so healthy! I'm feeling good now.</HadFruitDrink.stages.0.description>
+  <HadFruitDrink.stages.0.label>水果饮料</HadFruitDrink.stages.0.label>
+  <HadFruitDrink.stages.0.description>喝了健康的水果饮料，让我感觉好多了！</HadFruitDrink.stages.0.description>
 
 
   <!-- Medical Drink -->
 
-  <MedicalDrink.stages.0.label>Buzzed (Hidden)</MedicalDrink.stages.0.label>
-  <MedicalDrink.stages.0.description>Should not appear.</MedicalDrink.stages.0.description>
-  <MedicalDrink.stages.1.label>Awful Taste</MedicalDrink.stages.1.label>
-  <MedicalDrink.stages.1.description>I feel slightly better but the taste is just awful.</MedicalDrink.stages.1.description>
-  <MedicalDrink.stages.2.label>Feeling Better</MedicalDrink.stages.2.label>
-  <MedicalDrink.stages.2.description>I feel much better!</MedicalDrink.stages.2.description>
-  <MedicalDrink.stages.3.label>No Pain</MedicalDrink.stages.3.label>
-  <MedicalDrink.stages.3.description>There's no pain anymore, it's great!</MedicalDrink.stages.3.description>
-  <MedicalDrink.stages.4.label>Overdosed</MedicalDrink.stages.4.label>
-  <MedicalDrink.stages.4.description>Uhh! I see funny shapes everywhere!</MedicalDrink.stages.4.description>
-  <MedicalDrink.stages.5.label>Completely Overdosed</MedicalDrink.stages.5.label>
-  <MedicalDrink.stages.5.description>I feel like I'm flying! Please don't wake me up!</MedicalDrink.stages.5.description>
+  <MedicalDrink.stages.0.label>嗡嗡作响</MedicalDrink.stages.0.label>
+  <MedicalDrink.stages.0.description>不会显示。</MedicalDrink.stages.0.description>
+  <MedicalDrink.stages.1.label>难喝</MedicalDrink.stages.1.label>
+  <MedicalDrink.stages.1.description>我感觉好一点了，不过这东西味道真不咋样！</MedicalDrink.stages.1.description>
+  <MedicalDrink.stages.2.label>感觉好点了</MedicalDrink.stages.2.label>
+  <MedicalDrink.stages.2.description>感觉好多了！</MedicalDrink.stages.2.description>
+  <MedicalDrink.stages.3.label>不痛了</MedicalDrink.stages.3.label>
+  <MedicalDrink.stages.3.description>我感觉不怎么痛了，真是好消息！</MedicalDrink.stages.3.description>
+  <MedicalDrink.stages.4.label>过量</MedicalDrink.stages.4.label>
+  <MedicalDrink.stages.4.description>额！我怎么感觉周围好多星星！</MedicalDrink.stages.4.description>
+  <MedicalDrink.stages.5.label>超量</MedicalDrink.stages.5.label>
+  <MedicalDrink.stages.5.description>我要飞升啦！谁都别打扰我！</MedicalDrink.stages.5.description>
 
 
 </LanguageData>

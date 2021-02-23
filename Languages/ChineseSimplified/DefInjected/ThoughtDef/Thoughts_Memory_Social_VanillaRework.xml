@@ -3,23 +3,23 @@
 
   <!-- Romance -->
 
-  <RebuffedMyRomanceAttemptMood.stages.0.label>rebuffed by {0}</RebuffedMyRomanceAttemptMood.stages.0.label>
-  <RebuffedMyRomanceAttemptMood.stages.0.description>I attempted to create a romance, but I got the cold shoulder. Feels bad man.</RebuffedMyRomanceAttemptMood.stages.0.description>
+  <RebuffedMyRomanceAttemptMood.stages.0.label>被{0}拒绝</RebuffedMyRomanceAttemptMood.stages.0.label>
+  <RebuffedMyRomanceAttemptMood.stages.0.description>我想谈一次恋爱，却遭到冷遇，这让我很难过。</RebuffedMyRomanceAttemptMood.stages.0.description>
 
-  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>had to rebuff {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
-  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>Someone I don't like tried to romance me.</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>不得不拒绝{0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>我不喜欢的人想要和我谈恋爱。</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
 
-  <BrokeUpWithMeMood.stages.0.label>broken up with by {0}</BrokeUpWithMeMood.stages.0.label>
-  <BrokeUpWithMeMood.stages.0.description>I was just dumped like a load of garbage.</BrokeUpWithMeMood.stages.0.description>
+  <BrokeUpWithMeMood.stages.0.label>和{0}分手</BrokeUpWithMeMood.stages.0.label>
+  <BrokeUpWithMeMood.stages.0.description>我就像一包垃圾一样被甩了。</BrokeUpWithMeMood.stages.0.description>
 
-  <CheatedOnMeMood.stages.0.label>cheated on by {0}</CheatedOnMeMood.stages.0.label>
-  <CheatedOnMeMood.stages.0.description>How could someone cheat on me!</CheatedOnMeMood.stages.0.description>
+  <CheatedOnMeMood.stages.0.label>被{0}背叛</CheatedOnMeMood.stages.0.label>
+  <CheatedOnMeMood.stages.0.description>怎么可以背叛我！</CheatedOnMeMood.stages.0.description>
 
-  <DivorcedMeMood.stages.0.label>divorced by {0}</DivorcedMeMood.stages.0.label>
-  <DivorcedMeMood.stages.0.description>We made a commitment, and they just tore it apart.</DivorcedMeMood.stages.0.description>
+  <DivorcedMeMood.stages.0.label>和{0}离婚</DivorcedMeMood.stages.0.label>
+  <DivorcedMeMood.stages.0.description>曾经的山盟海誓，在现实面前狗屁都不是。</DivorcedMeMood.stages.0.description>
 
-  <RejectedMyProposalMood.stages.0.label>my proposal was rejected by {0}</RejectedMyProposalMood.stages.0.label>
-  <RejectedMyProposalMood.stages.0.description>I thought we were meant to marry. But I was just shot down.</RejectedMyProposalMood.stages.0.description>
+  <RejectedMyProposalMood.stages.0.label>被{0}拒绝了求婚</RejectedMyProposalMood.stages.0.label>
+  <RejectedMyProposalMood.stages.0.description>我以为我们真心相爱，厮守终身。然而这只是我一厢情愿。</RejectedMyProposalMood.stages.0.description>
 
 
 </LanguageData>

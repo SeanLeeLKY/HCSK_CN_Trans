@@ -55,21 +55,21 @@
   <MakeFerronickelAlloy.description>斯坦合金由铁、镍、锰组成，而且这种金属的硬度甚至超过了斯特合金。 \n\n产出：20</MakeFerronickelAlloy.description>
   <MakeFerronickelAlloy.jobString>正在提炼斯坦合金。</MakeFerronickelAlloy.jobString>
 
-  <MakeStelliteAlloy.label>提炼 斯特莱特合金</MakeStelliteAlloy.label>
-  <MakeStelliteAlloy.description>斯特莱特合金是由钴、铬和钨组成的合金。其最突出的特点就是耐磨性非常优秀。 \n\n产出：20</MakeStelliteAlloy.description>
-  <MakeStelliteAlloy.jobString>正在提炼斯特莱特合金。</MakeStelliteAlloy.jobString>
+  <MakeStelliteAlloy.label>提炼 司太立合金</MakeStelliteAlloy.label>
+  <MakeStelliteAlloy.description>司太立合金是由钴、铬和钨组成的合金。其最突出的特点就是耐磨性非常优秀。 \n\n产出：20</MakeStelliteAlloy.description>
+  <MakeStelliteAlloy.jobString>正在提炼司太立合金。</MakeStelliteAlloy.jobString>
 
-  <MakeNichromeAlloy.label>提炼 镍克罗合金</MakeNichromeAlloy.label>
-  <MakeNichromeAlloy.description>提炼镍克罗合金, 一种镍、铬和锰组成的金属， 镍克罗通常用于高阻防漏电缆的铺设。 \n\n产出：20</MakeNichromeAlloy.description>
-  <MakeNichromeAlloy.jobString>正在提炼镍克罗合金。</MakeNichromeAlloy.jobString>
+  <MakeNichromeAlloy.label>提炼 镍铬合金</MakeNichromeAlloy.label>
+  <MakeNichromeAlloy.description>提炼镍铬合金, 一种镍、铬和锰组成的金属， 镍铬通常用于高阻防漏电缆的铺设。 \n\n产出：20</MakeNichromeAlloy.description>
+  <MakeNichromeAlloy.jobString>正在提炼镍铬合金。</MakeNichromeAlloy.jobString>
 
-  <MakeAlnicoAlloy.label>提炼 亚力可合金</MakeAlnicoAlloy.label>
-  <MakeAlnicoAlloy.description>提炼亚力可合金, 一种由铁、镍、铝、钴组成的合金。亚力可合金一般用于制造超强永磁体，这种材料可以强化磁体的磁场。 \n\n产出：20</MakeAlnicoAlloy.description>
-  <MakeAlnicoAlloy.jobString>提炼 亚力可合金。</MakeAlnicoAlloy.jobString>
+  <MakeAlnicoAlloy.label>提炼 阿尔尼科合金</MakeAlnicoAlloy.label>
+  <MakeAlnicoAlloy.description>提炼阿尔尼科合金, 一种由铁、镍、铝、钴组成的合金。阿尔尼科合金一般用于制造超强永磁体，这种材料可以强化磁体的磁场。 \n\n产出：20</MakeAlnicoAlloy.description>
+  <MakeAlnicoAlloy.jobString>提炼 阿尔尼科合金。</MakeAlnicoAlloy.jobString>
 
-  <MakePobediteAlloy.label>提炼 培博戴特合金</MakePobediteAlloy.label>
-  <MakePobediteAlloy.description>提炼培博戴特合金, 一种由碳纤维、钨和钴组成的合金。这种复合合金具有极高的硬度。 \n\n产出：10</MakePobediteAlloy.description>
-  <MakePobediteAlloy.jobString>提炼 培博戴特合金。</MakePobediteAlloy.jobString>
+  <MakePobediteAlloy.label>提炼 钨钴合金</MakePobediteAlloy.label>
+  <MakePobediteAlloy.description>提炼钨钴合金, 一种由碳纤维、钨和钴组成的合金。这种复合合金具有极高的硬度。 \n\n产出：10</MakePobediteAlloy.description>
+  <MakePobediteAlloy.jobString>提炼 钨钴合金。</MakePobediteAlloy.jobString>
 
   <MakeGoldBars_Hand.label>提炼 黄金</MakeGoldBars_Hand.label>
   <MakeGoldBars_Hand.description>提炼黄金，一种美丽、珍贵的金属。大部分成分是金，复合有少量的铜或铝的合金。 \n\n产出：15</MakeGoldBars_Hand.description>
@@ -115,9 +115,9 @@
   <MakeFerrotitaniumAlloy.description>冶炼钛铁合金，一种非常耐用的合金，由钢、钛和碳纤维组成。 \n\n产出：15</MakeFerrotitaniumAlloy.description>
   <MakeFerrotitaniumAlloy.jobString>提炼钛铁合金。</MakeFerrotitaniumAlloy.jobString>
 
-  <MakeNitinolAlloy.label>提炼 镍钛诺合金</MakeNitinolAlloy.label>
-  <MakeNitinolAlloy.description>提炼镍钛诺合金, 一种镍和钛的合金。它十分耐用，而且光泽色彩也很漂亮，但是制作流程非常复杂。 \n\n产出：15</MakeNitinolAlloy.description>
-  <MakeNitinolAlloy.jobString>提炼镍钛诺合金。</MakeNitinolAlloy.jobString>
+  <MakeNitinolAlloy.label>提炼 镍钛合金</MakeNitinolAlloy.label>
+  <MakeNitinolAlloy.description>提炼镍钛合金, 一种镍和钛的合金。它十分耐用，而且光泽色彩也很漂亮，但是制作流程非常复杂。 \n\n产出：15</MakeNitinolAlloy.description>
+  <MakeNitinolAlloy.jobString>提炼镍钛合金。</MakeNitinolAlloy.jobString>
 
   <MakeCarbonAlloy.label>提炼 碳纤维</MakeCarbonAlloy.label>
   <MakeCarbonAlloy.description>提炼碳纤维锭，这是一种在树脂基体中，多股交织排列的碳纤维束聚合而成的复合材料。 \n\n产出：10</MakeCarbonAlloy.description>
