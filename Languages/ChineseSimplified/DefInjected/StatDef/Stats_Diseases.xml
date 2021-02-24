@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GermResistance.label>germ resistance</GermResistance.label>
-  <GermResistance.description>The ability of this equipment to prevent healthy individuals from getting sick.</GermResistance.description>
+  <GermResistance.label>病菌抵抗力</GermResistance.label>
+  <GermResistance.description>这件装备防止健康人员生病的能力。</GermResistance.description>
 
-  <GermContainment.label>germ containment</GermContainment.label>
-  <GermContainment.description>The ability of this equipment to prevent sick individuals from spreading germs.</GermContainment.description>
+  <GermContainment.label>病菌遏制力</GermContainment.label>
+  <GermContainment.description>这件装备防止生病人员传播病菌的能力。</GermContainment.description>
 
 
 </LanguageData>

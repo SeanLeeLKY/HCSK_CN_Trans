@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CoreTakeover.label>AI core takeover</CoreTakeover.label>
-  <CoreTakeover.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] overwhelmed by the AI</CoreTakeover.rulePack.rulesStrings.0>
-  <CoreTakeover.rulePack.rulesStrings.1>image->[PAWN_nameFull] flying into a berserk rage [circumstance_group]</CoreTakeover.rulePack.rulesStrings.1>
-  <CoreTakeover.rulePack.rulesStrings.2>image->[PAWN_nameFull] becoming madly, violently insane [circumstance_group]</CoreTakeover.rulePack.rulesStrings.2>
-  <CoreTakeover.rulePack.rulesStrings.3>image->[PAWN_nameFull] stumbling forward with a psychotic look on [PAWN_possessive] face [circumstance_group]</CoreTakeover.rulePack.rulesStrings.3>
-  <CoreTakeover.rulePack.rulesStrings.4>circumstance_phrase->while attempting to disrobe</CoreTakeover.rulePack.rulesStrings.4>
-  <CoreTakeover.rulePack.rulesStrings.5>circumstance_phrase->with a desperate look on [PAWN_possessive] face</CoreTakeover.rulePack.rulesStrings.5>
-  <CoreTakeover.rulePack.rulesStrings.6>circumstance_phrase->as others cower in fear</CoreTakeover.rulePack.rulesStrings.6>
-  <CoreTakeover.rulePack.rulesStrings.7>circumstance_phrase->as a friend flees</CoreTakeover.rulePack.rulesStrings.7>
-  <CoreTakeover.rulePack.rulesStrings.8>circumstance_phrase->because of the AI core</CoreTakeover.rulePack.rulesStrings.8>
-  <CoreTakeover.rulePack.rulesStrings.9>circumstance_phrase->while trying to fight against it</CoreTakeover.rulePack.rulesStrings.9>
-  <CoreTakeover.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun] loses control over the AI in [PAWN_possessive] head.</CoreTakeover.rulePack.rulesStrings.10>
-  <CoreTakeover.rulePack.rulesStrings.11>desc_sentence->[PAWN_possessive] teeth are bared in a deadly snarl.</CoreTakeover.rulePack.rulesStrings.11>
-  <CoreTakeover.rulePack.rulesStrings.12>desc_sentence->[PAWN_possessive] eyes are glowing brightly red.</CoreTakeover.rulePack.rulesStrings.12>
-  <CoreTakeover.rulePack.rulesStrings.13>desc_sentence->Spittle is flying from [PAWN_possessive] mouth as [PAWN_possessive] screams with insane rage and pain.</CoreTakeover.rulePack.rulesStrings.13>
-  <CoreTakeover.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] has lost part of [PAWN_possessive] clothing.</CoreTakeover.rulePack.rulesStrings.14>
-  <CoreTakeover.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun] is grimacing in misery.</CoreTakeover.rulePack.rulesStrings.15>
-  <CoreTakeover.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun] has lost control over his body.</CoreTakeover.rulePack.rulesStrings.16>
-  <CoreTakeover.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun] is depicted with the snarling face of a [Animal].</CoreTakeover.rulePack.rulesStrings.17>
-  <CoreTakeover.rulePack.rulesStrings.18>desc_sentence->[Animal]s symbolically surround [PAWN_possessive] head.</CoreTakeover.rulePack.rulesStrings.18>
-  <CoreTakeover.rulePack.rulesStrings.19>desc_sentence->[PAWN_pronoun] has a murderous glint in [PAWN_possessive] eye.</CoreTakeover.rulePack.rulesStrings.19>
-  <CoreTakeover.rulePack.rulesStrings.20>desc_sentence->[PAWN_possessive] entire body seems to be trembling with hatred.</CoreTakeover.rulePack.rulesStrings.20>
-  <CoreTakeover.rulePack.rulesStrings.21>desc_sentence->[PAWN_possessive] face is set in a look of twisted serenity.</CoreTakeover.rulePack.rulesStrings.21>
-  <CoreTakeover.rulePack.rulesStrings.22>desc_sentence->A single tear rolls down [PAWN_possessive] face.</CoreTakeover.rulePack.rulesStrings.22>
+  <CoreTakeover.label>失控AI</CoreTakeover.label>
+  <CoreTakeover.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]被AI控制</CoreTakeover.rulePack.rulesStrings.0>
+  <CoreTakeover.rulePack.rulesStrings.1>image->[PAWN_nameFull]因[circumstance_group]勃然大怒</CoreTakeover.rulePack.rulesStrings.1>
+  <CoreTakeover.rulePack.rulesStrings.2>image->[PAWN_nameFull]因[circumstance_group]而变得疯狂</CoreTakeover.rulePack.rulesStrings.2>
+  <CoreTakeover.rulePack.rulesStrings.3>image->[PAWN_nameFull]因[circumstance_group]脸上浮现出精神错乱的表情</CoreTakeover.rulePack.rulesStrings.3>
+  <CoreTakeover.rulePack.rulesStrings.4>circumstance_phrase->试图裸奔时</CoreTakeover.rulePack.rulesStrings.4>
+  <CoreTakeover.rulePack.rulesStrings.5>circumstance_phrase->脸上带着恐怖表情时</CoreTakeover.rulePack.rulesStrings.5>
+  <CoreTakeover.rulePack.rulesStrings.6>circumstance_phrase->当其他人在恐惧中畏缩时</CoreTakeover.rulePack.rulesStrings.6>
+  <CoreTakeover.rulePack.rulesStrings.7>circumstance_phrase->当朋友逃跑时</CoreTakeover.rulePack.rulesStrings.7>
+  <CoreTakeover.rulePack.rulesStrings.8>circumstance_phrase->因为失控AI</CoreTakeover.rulePack.rulesStrings.8>
+  <CoreTakeover.rulePack.rulesStrings.9>circumstance_phrase->当试图反抗时</CoreTakeover.rulePack.rulesStrings.9>
+  <CoreTakeover.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun]的大脑被AI控制。</CoreTakeover.rulePack.rulesStrings.10>
+  <CoreTakeover.rulePack.rulesStrings.11>desc_sentence->[PAWN_possessive]张牙咧嘴嘶吼。</CoreTakeover.rulePack.rulesStrings.11>
+  <CoreTakeover.rulePack.rulesStrings.12>desc_sentence->[PAWN_possessive]两眼放红光。</CoreTakeover.rulePack.rulesStrings.12>
+  <CoreTakeover.rulePack.rulesStrings.13>desc_sentence->疯狂的嘶吼从[PAWN_nameFull]的口中痛苦地迸发出来。</CoreTakeover.rulePack.rulesStrings.13>
+  <CoreTakeover.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun]已失去了其一部分衣服。</CoreTakeover.rulePack.rulesStrings.14>
+  <CoreTakeover.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun]痛苦地扮鬼脸。</CoreTakeover.rulePack.rulesStrings.15>
+  <CoreTakeover.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun]已经失去了对自己身体的控制。</CoreTakeover.rulePack.rulesStrings.16>
+  <CoreTakeover.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun]试图扮[Animal]的鬼脸。</CoreTakeover.rulePack.rulesStrings.17>
+  <CoreTakeover.rulePack.rulesStrings.18>desc_sentence->[Animal]象征性地缠绕着[PAWN_possessive]头部。</CoreTakeover.rulePack.rulesStrings.18>
+  <CoreTakeover.rulePack.rulesStrings.19>desc_sentence->[PAWN_pronoun]的眼中闪烁着致命的光芒。</CoreTakeover.rulePack.rulesStrings.19>
+  <CoreTakeover.rulePack.rulesStrings.20>desc_sentence->[PAWN_possessive]整个身体似乎因仇恨而颤抖。</CoreTakeover.rulePack.rulesStrings.20>
+  <CoreTakeover.rulePack.rulesStrings.21>desc_sentence->[PAWN_possessive]面部扭曲狰狞。</CoreTakeover.rulePack.rulesStrings.21>
+  <CoreTakeover.rulePack.rulesStrings.22>desc_sentence->一滴眼泪从[PAWN_possessive]脸上滚落。</CoreTakeover.rulePack.rulesStrings.22>
 
 
 </LanguageData>
