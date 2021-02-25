@@ -1,58 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SilverTile.label>silver tile</SilverTile.label>
-  <SilverTile.description>Expensive and slow to build. Soft grey tiles with a grey bordering. 
-Beauty: 8.</SilverTile.description>
+  <SilverTile.label>银质地砖</SilverTile.label>
+  <SilverTile.description>昂贵且建造缓慢。 带有灰色边框的软灰色地砖。\n美观度：8。</SilverTile.description>
 
-  <SterileTile.label>sterile tile</SterileTile.label>
-  <SterileTile.description>Sterile tiles are clean, light grey squares. Very useful in hospitals to help prevent infections. Quite slow to build. 
-Beauty: 0.</SterileTile.description>
+  <SterileTile.label>无菌地砖</SterileTile.label>
+  <SterileTile.description>无菌地砖具有特殊的增强清洁度特性。超洁净的房间能够更好地担当医务室和研究室的功能。这种地砖铺设十分缓慢。\n美观度：0。</SterileTile.description>
 
-  <MetalTile.label>white metal tile</MetalTile.label>
-  <MetalTile.description>White metal square tiles, for that spaceship look. 
-Beauty: 4.</MetalTile.description>
+  <MetalTile.label>金属地砖（白）</MetalTile.label>
+  <MetalTile.description>白色钢质的地砖，拥有宇宙飞船般的外表。\n美观度：4。</MetalTile.description>
 
-  <MetalTileTwo.label>black metal tile</MetalTileTwo.label>
-  <MetalTileTwo.description>Black metal square tiles, for that spaceship look. 
-Beauty: 4.</MetalTileTwo.description>
+  <MetalTileTwo.label>金属地砖（黑）</MetalTileTwo.label>
+  <MetalTileTwo.description>黑色钢质的地砖，拥有宇宙飞船般的外表。\n美观度：4。</MetalTileTwo.description>
 
-  <MetalTileThree.label>grey metal tile</MetalTileThree.label>
-  <MetalTileThree.description>Square grey metal tiles with thin borders. 
-Beauty: 4.</MetalTileThree.description>
+  <MetalTileThree.label>金属地砖（灰）</MetalTileThree.label>
+  <MetalTileThree.description>带有薄边框的方形灰色金属砖。\n美观度：4。</MetalTileThree.description>
 
-  <MetalTileFour.label>patterned metal tile</MetalTileFour.label>
-  <MetalTileFour.description>Grey metal tiles with fancy patterns. 
-Beauty: 4.</MetalTileFour.description>
+  <MetalTileFour.label>金属地砖（图案）</MetalTileFour.label>
+  <MetalTileFour.description>有花梢样式的灰色金属砖。\n美观度：4。</MetalTileFour.description>
 
 
   <!-- Gold Tile -->
 
-  <GoldTile.label>gold tile</GoldTile.label>
-  <GoldTile.description>Gold tiles, because you're worth it. 
-Beauty: 5.</GoldTile.description>
+  <GoldTile.label>金质地砖</GoldTile.label>
+  <GoldTile.description>没有什么比黄金地砖更加挥霍和傲慢了。它们非常的昂贵和美丽，如果你真的在这上面生活的话，那是因为你值得。\n美观度：5。</GoldTile.description>
 
-  <GoldSolid.label>solid gold</GoldSolid.label>
-  <GoldSolid.description>Solid gold, because you're wasteful.
-Beauty: 10.</GoldSolid.description>
+  <GoldSolid.label>赤金板</GoldSolid.label>
+  <GoldSolid.description>硬化的赤金地砖，没啥其他意思，就是钱多。\n美观度：10。</GoldSolid.description>
 
-  <PlateCopperBar.label>Copper plates</PlateCopperBar.label>
-  <PlateCopperBar.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateCopperBar.description>
+  <PlateCopperBar.label>铜地砖</PlateCopperBar.label>
+  <PlateCopperBar.description>铜板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateCopperBar.description>
 
-  <PlateSilver.label>Silver plated plates</PlateSilver.label>
-  <PlateSilver.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateSilver.description>
+  <PlateSilver.label>镀银地砖</PlateSilver.label>
+  <PlateSilver.description>镀银板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateSilver.description>
 
-  <PlateGold.label>Gold plated plates</PlateGold.label>
-  <PlateGold.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateGold.description>
+  <PlateGold.label>镀金地砖</PlateGold.label>
+  <PlateGold.description>镀金板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateGold.description>
 
-  <PlateSteel.label>Steel plates</PlateSteel.label>
-  <PlateSteel.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateSteel.description>
+  <PlateSteel.label>钢板</PlateSteel.label>
+  <PlateSteel.description>钢板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateSteel.description>
 
-  <PlateCupronickelAlloy.label>Melchior plates</PlateCupronickelAlloy.label>
-  <PlateCupronickelAlloy.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateCupronickelAlloy.description>
+  <PlateCupronickelAlloy.label>梅尔基奥板</PlateCupronickelAlloy.label>
+  <PlateCupronickelAlloy.description>梅尔基奥金属板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateCupronickelAlloy.description>
 
-  <PlateCeramics.label>Ceramics plates</PlateCeramics.label>
-  <PlateCeramics.description>Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2.</PlateCeramics.description>
+  <PlateCeramics.label>陶瓷板</PlateCeramics.label>
+  <PlateCeramics.description>陶瓷板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateCeramics.description>
 
 
 </LanguageData>

@@ -3,14 +3,14 @@
 
   <!-- Deep -->
 
-  <WaterDeep.label>deep water</WaterDeep.label>
-  <WaterDeep.tools.0.label>water</WaterDeep.tools.0.label>
+  <WaterDeep.label>深水</WaterDeep.label>
+  <WaterDeep.tools.0.label>水面</WaterDeep.tools.0.label>
 
-  <WaterOceanDeep.label>deep ocean water</WaterOceanDeep.label>
-  <WaterOceanDeep.tools.0.label>water</WaterOceanDeep.tools.0.label>
+  <WaterOceanDeep.label>海水（深）</WaterOceanDeep.label>
+  <WaterOceanDeep.tools.0.label>水面</WaterOceanDeep.tools.0.label>
 
-  <WaterMovingChestDeep.label>chest-deep moving water</WaterMovingChestDeep.label>
-  <WaterMovingChestDeep.tools.0.label>water</WaterMovingChestDeep.tools.0.label>
+  <WaterMovingChestDeep.label>流动的深水</WaterMovingChestDeep.label>
+  <WaterMovingChestDeep.tools.0.label>水面</WaterMovingChestDeep.tools.0.label>
 
 
 </LanguageData>
