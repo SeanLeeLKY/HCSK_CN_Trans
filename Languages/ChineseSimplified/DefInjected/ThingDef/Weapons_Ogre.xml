@@ -3,14 +3,14 @@
 
   <!-- FATSO GUN -->
 
-  <Gun_SawGun.label>Saw Gun</Gun_SawGun.label>
-  <Gun_SawGun.tools.0.label>barrel</Gun_SawGun.tools.0.label>
+  <Gun_SawGun.label>链锯枪</Gun_SawGun.label>
+  <Gun_SawGun.tools.0.label>枪管</Gun_SawGun.tools.0.label>
 
 
   <!-- ROCKET LANCE -->
 
-  <Gun_RocketLance.label>Rocket lance</Gun_RocketLance.label>
-  <Gun_RocketLance.tools.0.label>barrel</Gun_RocketLance.tools.0.label>
+  <Gun_RocketLance.label>火箭标枪</Gun_RocketLance.label>
+  <Gun_RocketLance.tools.0.label>枪管</Gun_RocketLance.tools.0.label>
 
 
 </LanguageData>

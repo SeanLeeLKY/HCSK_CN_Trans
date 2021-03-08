@@ -3,7 +3,7 @@
 
   <!-- RL T9 BURNING SUN -->
 
-  <Gun_IncendiaryLauncher.label>RL T9 Burning Sun</Gun_IncendiaryLauncher.label>
+  <Gun_IncendiaryLauncher.label>T9“炎阳”燃烧弹发射器</Gun_IncendiaryLauncher.label>
   <Gun_IncendiaryLauncher.description>Incendiary bolt launcher. Starts fires.</Gun_IncendiaryLauncher.description>
   <Gun_IncendiaryLauncher.tools.0.label>barrel</Gun_IncendiaryLauncher.tools.0.label>
 
@@ -38,14 +38,14 @@
 
   <!-- R3 DOOMSDAY RL -->
 
-  <Gun_DoomsdayRocket.label>R3 Doomsday Rocket Launcher</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.label>R3“末日”火箭发射器</Gun_DoomsdayRocket.label>
   <Gun_DoomsdayRocket.description>A skynets doomsday rocket launcher.</Gun_DoomsdayRocket.description>
   <Gun_DoomsdayRocket.tools.0.label>barrel</Gun_DoomsdayRocket.tools.0.label>
 
 
   <!-- R3 BRL -->
 
-  <Gun_TripleRocket.label>R3 Blast-Rocket Launcher</Gun_TripleRocket.label>
+  <Gun_TripleRocket.label>R3“冲击波”火箭发射器</Gun_TripleRocket.label>
   <Gun_TripleRocket.description>A single-use rocket launcher that fires 3 projectiles in quick succession.</Gun_TripleRocket.description>
   <Gun_TripleRocket.tools.0.label>barrel</Gun_TripleRocket.tools.0.label>
 

@@ -3,74 +3,74 @@
 
   <!-- SHORT BOW -->
 
-  <Bow_Short.label>Short Bow</Bow_Short.label>
-  <Bow_Short.description>A simple short bow. It was made with skill from primitive technology.</Bow_Short.description>
-  <Bow_Short.tools.0.label>limb</Bow_Short.tools.0.label>
-  <Bow_Short.tools.1.label>nock</Bow_Short.tools.1.label>
+  <Bow_Short.label>短弓</Bow_Short.label>
+  <Bow_Short.description>一把简单的短弓，制作技艺精湛，但是科技水平非常原始。</Bow_Short.description>
+  <Bow_Short.tools.0.label>弓背</Bow_Short.tools.0.label>
+  <Bow_Short.tools.1.label>弦口</Bow_Short.tools.1.label>
 
 
   <!-- PILA -->
 
-  <Pila.label>javelins</Pila.label>
-  <Pila.description>A throwing spear which may be thrown on its own.</Pila.description>
-  <Pila.tools.0.label>shaft</Pila.tools.0.label>
-  <Pila.tools.1.label>point</Pila.tools.1.label>
+  <Pila.label>标枪</Pila.label>
+  <Pila.description>标枪是用于投掷的长柄武器。</Pila.description>
+  <Pila.tools.0.label>杆</Pila.tools.0.label>
+  <Pila.tools.1.label>尖头</Pila.tools.1.label>
 
 
   <!-- GREAT BOW -->
 
-  <Bow_Great.label>Great Bow</Bow_Great.label>
-  <Bow_Great.description>A powerful great bow. It fires a heavy arrow over long distances.</Bow_Great.description>
-  <Bow_Great.tools.0.label>limb</Bow_Great.tools.0.label>
-  <Bow_Great.tools.1.label>nock</Bow_Great.tools.1.label>
+  <Bow_Great.label>巨弓</Bow_Great.label>
+  <Bow_Great.description>一把强力的巨弓，射出远距离的重箭。</Bow_Great.description>
+  <Bow_Great.tools.0.label>弓背</Bow_Great.tools.0.label>
+  <Bow_Great.tools.1.label>弦口</Bow_Great.tools.1.label>
 
 
   <!-- SCORPION -->
 
-  <Norbal_Scorpion.label>Scorpion Crossbow</Norbal_Scorpion.label>
-  <Norbal_Scorpion.description>Fearsome crossbow. Deadly but slow.</Norbal_Scorpion.description>
-  <Norbal_Scorpion.tools.0.label>limb</Norbal_Scorpion.tools.0.label>
-  <Norbal_Scorpion.tools.1.label>nock</Norbal_Scorpion.tools.1.label>
+  <Norbal_Scorpion.label>蝎弩</Norbal_Scorpion.label>
+  <Norbal_Scorpion.description>一种非常可怕的弩。发射速度慢，但是很致命。</Norbal_Scorpion.description>
+  <Norbal_Scorpion.tools.0.label>弓背</Norbal_Scorpion.tools.0.label>
+  <Norbal_Scorpion.tools.1.label>弦口</Norbal_Scorpion.tools.1.label>
 
 
   <!-- ARBALEST -->
 
-  <Arbalest.label>Arbalest</Arbalest.label>
-  <Arbalest.description>A large crossbow with a special mechanism for drawing back and releasing the string.</Arbalest.description>
-  <Arbalest.tools.0.label>limb</Arbalest.tools.0.label>
-  <Arbalest.tools.1.label>nock</Arbalest.tools.1.label>
+  <Arbalest.label>劲弩</Arbalest.label>
+  <Arbalest.description>一种大型弩，可以使用特殊机制抽回和发射弩箭。</Arbalest.description>
+  <Arbalest.tools.0.label>弓背</Arbalest.tools.0.label>
+  <Arbalest.tools.1.label>弦口</Arbalest.tools.1.label>
 
 
   <!-- CROSSBOW -->
 
-  <Crossbow.label>Crossbow</Crossbow.label>
-  <Crossbow.description>A weapon consisting of a bow fixed crosswise on a wooden stock.</Crossbow.description>
-  <Crossbow.tools.0.label>limb</Crossbow.tools.0.label>
-  <Crossbow.tools.1.label>nock</Crossbow.tools.1.label>
+  <Crossbow.label>弩</Crossbow.label>
+  <Crossbow.description>一种将强弓固定在木托上的远程武器。</Crossbow.description>
+  <Crossbow.tools.0.label>弓背</Crossbow.tools.0.label>
+  <Crossbow.tools.1.label>弦口</Crossbow.tools.1.label>
 
 
   <!-- RECURVE BOW -->
 
-  <Bow_Recurve.label>Recurve Bow</Bow_Recurve.label>
-  <Bow_Recurve.description>A recurve bow stores more energy and delivers energy more efficiently than the equivalent straight-limbed bow.</Bow_Recurve.description>
-  <Bow_Recurve.tools.0.label>limb</Bow_Recurve.tools.0.label>
-  <Bow_Recurve.tools.1.label>nock</Bow_Recurve.tools.1.label>
+  <Bow_Recurve.label>反曲弓</Bow_Recurve.label>
+  <Bow_Recurve.description>一把高级的反曲弓。其结构就像一个紧致的弹簧，更有效地储存能量并射出更高速的箭矢。</Bow_Recurve.description>
+  <Bow_Recurve.tools.0.label>弓背</Bow_Recurve.tools.0.label>
+  <Bow_Recurve.tools.1.label>弦口</Bow_Recurve.tools.1.label>
 
 
   <!-- SCYTHIAN BOW -->
 
-  <NorbalBow_Grape.label>Norbal Bow</NorbalBow_Grape.label>
-  <NorbalBow_Grape.description>A powerful Norbal bow. Fires heavy arrows at long distances.</NorbalBow_Grape.description>
-  <NorbalBow_Grape.tools.0.label>limb</NorbalBow_Grape.tools.0.label>
-  <NorbalBow_Grape.tools.1.label>nock</NorbalBow_Grape.tools.1.label>
+  <NorbalBow_Grape.label>诺巴弓</NorbalBow_Grape.label>
+  <NorbalBow_Grape.description>一把强力的诺巴制弓。能够将重型箭矢射出很远的距离。</NorbalBow_Grape.description>
+  <NorbalBow_Grape.tools.0.label>弓背</NorbalBow_Grape.tools.0.label>
+  <NorbalBow_Grape.tools.1.label>弦口</NorbalBow_Grape.tools.1.label>
 
 
   <!-- BLOWGUN -->
 
-  <blowgun.label>blowgun</blowgun.label>
-  <blowgun.description>A blowgun with a set of poison darts.</blowgun.description>
-  <blowgun.tools.0.label>limb</blowgun.tools.0.label>
-  <blowgun.tools.1.label>nock</blowgun.tools.1.label>
+  <blowgun.label>吹箭筒</blowgun.label>
+  <blowgun.description>可以使用毒镖的一种箭筒。</blowgun.description>
+  <blowgun.tools.0.label>弓背</blowgun.tools.0.label>
+  <blowgun.tools.1.label>弦口</blowgun.tools.1.label>
 
 
 </LanguageData>

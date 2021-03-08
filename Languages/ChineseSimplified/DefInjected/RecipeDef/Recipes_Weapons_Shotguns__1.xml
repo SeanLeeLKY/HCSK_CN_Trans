@@ -23,9 +23,9 @@
   <BuildAA12AutoShotgun.description>制造 艾奇逊AA-12战斗霰弹枪，一种后坐力较低的自动霰弹枪。拥有较高的爆发输出能力，而且在步枪战斗射程内也有中等的精度水平，伤害输出能力较好。\n弹药： 12 号子弹</BuildAA12AutoShotgun.description>
   <BuildAA12AutoShotgun.jobString>正在制造 艾奇逊AA-12战斗霰弹枪。</BuildAA12AutoShotgun.jobString>
 
-  <BuildTacticalAutoshotgun.label>制造 M90 近程攻击霰弹枪</BuildTacticalAutoshotgun.label>
+  <BuildTacticalAutoshotgun.label>制造 M90 近程突击霰弹枪</BuildTacticalAutoshotgun.label>
   <BuildTacticalAutoshotgun.description>制造 M90 近程攻击霰弹枪，其全称为M90 Close Assault Weapon System (M90 近距离突击武器系统)。 它是联邦理事会下属部队的主打近距离战斗武器，也是前线部队使用的最有效的近程步兵武器之一。\n弹药： 12 号子弹</BuildTacticalAutoshotgun.description>
-  <BuildTacticalAutoshotgun.jobString>正在制造 M90 近程攻击霰弹枪。</BuildTacticalAutoshotgun.jobString>
+  <BuildTacticalAutoshotgun.jobString>正在制造 M90 近程突击霰弹枪。</BuildTacticalAutoshotgun.jobString>
 
 
 </LanguageData>

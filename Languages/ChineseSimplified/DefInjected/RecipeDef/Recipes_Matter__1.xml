@@ -66,9 +66,9 @@
 
   <!-- silver -->
 
-  <ConvertToSilver.label>转化为 银矿石</ConvertToSilver.label>
-  <ConvertToSilver.description>将无机物转化为 银矿石。 \n\n产出：50。</ConvertToSilver.description>
-  <ConvertToSilver.jobString>正在将无机物转化为 银矿石。</ConvertToSilver.jobString>
+  <ConvertToSilver.label>转化为 白银</ConvertToSilver.label>
+  <ConvertToSilver.description>将无机物转化为 白银。 \n\n产出：50。</ConvertToSilver.description>
+  <ConvertToSilver.jobString>正在将无机物转化为 白银。</ConvertToSilver.jobString>
 
 
   <!-- gold -->
