@@ -8,13 +8,13 @@
 
   <MossyTerrain.label>苔藓地面</MossyTerrain.label>
 
-  <MarshyTerrain.label>湿软的土地</MarshyTerrain.label>
+  <MarshyTerrain.label>湿软土地</MarshyTerrain.label>
   <MarshyTerrain.tools.0.label>泥地</MarshyTerrain.tools.0.label>
 
 
   <!-- Rich soils -->
 
-  <SoilRich.label>肥沃的土地</SoilRich.label>
+  <SoilRich.label>肥沃土地</SoilRich.label>
   <SoilRich.description>富含肥料以改善作物生长的土壤。肥沃度：150％。</SoilRich.description>
   <SoilRich.tools.0.label>尘土</SoilRich.tools.0.label>
 
@@ -22,7 +22,7 @@
   <!-- Poor soils -->
 
   <Gravel.label>砂砾</Gravel.label>
-  <Gravel.description>G砾石地带是由不同大小的小岩石组成的。可以从上面收集碎石。美观度：-1。</Gravel.description>
+  <Gravel.description>砾石地带是由不同大小的小岩石组成的。可以从上面收集碎石。美观度：-1。</Gravel.description>
   <Gravel.tools.0.label>砂砾</Gravel.tools.0.label>
 
 

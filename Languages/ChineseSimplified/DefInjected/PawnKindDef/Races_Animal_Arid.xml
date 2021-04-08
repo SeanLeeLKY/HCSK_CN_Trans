@@ -3,30 +3,30 @@
 
   <!-- Arid -->
 
-  <Muffalo.label>野牦牛</Muffalo.label>
-  <Muffalo.labelPlural>野牦牛</Muffalo.labelPlural>
-  <Muffalo.lifeStages.0.label>野牦牛犊</Muffalo.lifeStages.0.label>
-  <Muffalo.lifeStages.0.labelPlural>野牦牛犊</Muffalo.lifeStages.0.labelPlural>
-  <Muffalo.lifeStages.0.labelMale>野牦牛犊</Muffalo.lifeStages.0.labelMale>
-  <Muffalo.lifeStages.0.labelMalePlural>野牦牛犊</Muffalo.lifeStages.0.labelMalePlural>
-  <Muffalo.lifeStages.0.labelFemale>野牦牛犊</Muffalo.lifeStages.0.labelFemale>
-  <Muffalo.lifeStages.0.labelFemalePlural>野牦牛犊</Muffalo.lifeStages.0.labelFemalePlural>
-  <Muffalo.lifeStages.1.label>幼年野牦牛</Muffalo.lifeStages.1.label>
-  <Muffalo.lifeStages.1.labelPlural>幼年野牦牛</Muffalo.lifeStages.1.labelPlural>
-  <Muffalo.lifeStages.1.labelMale>幼年公野牦牛</Muffalo.lifeStages.1.labelMale>
-  <Muffalo.lifeStages.1.labelMalePlural>幼年公野牦牛</Muffalo.lifeStages.1.labelMalePlural>
-  <Muffalo.lifeStages.1.labelFemale>幼年母野牦牛</Muffalo.lifeStages.1.labelFemale>
-  <Muffalo.lifeStages.1.labelFemalePlural>幼年母野牦牛</Muffalo.lifeStages.1.labelFemalePlural>
-  <Muffalo.lifeStages.2.label>野牦牛</Muffalo.lifeStages.2.label>
-  <Muffalo.lifeStages.2.labelPlural>野牦牛</Muffalo.lifeStages.2.labelPlural>
-  <Muffalo.lifeStages.2.labelMale>公野牦牛</Muffalo.lifeStages.2.labelMale>
-  <Muffalo.lifeStages.2.labelMalePlural>公野牦牛</Muffalo.lifeStages.2.labelMalePlural>
-  <Muffalo.lifeStages.2.labelFemale>母野牦牛</Muffalo.lifeStages.2.labelFemale>
-  <Muffalo.lifeStages.2.labelFemalePlural>母野牦牛</Muffalo.lifeStages.2.labelFemalePlural>
-  <Muffalo.labelMale>公野牦牛</Muffalo.labelMale>
-  <Muffalo.labelMalePlural>公野牦牛</Muffalo.labelMalePlural>
-  <Muffalo.labelFemale>母野牦牛</Muffalo.labelFemale>
-  <Muffalo.labelFemalePlural>母野牦牛</Muffalo.labelFemalePlural>
+  <Muffalo.label>雪牛</Muffalo.label>
+  <Muffalo.labelPlural>雪牛</Muffalo.labelPlural>
+  <Muffalo.lifeStages.0.label>雪牛犊</Muffalo.lifeStages.0.label>
+  <Muffalo.lifeStages.0.labelPlural>雪牛犊</Muffalo.lifeStages.0.labelPlural>
+  <Muffalo.lifeStages.0.labelMale>雪牛犊</Muffalo.lifeStages.0.labelMale>
+  <Muffalo.lifeStages.0.labelMalePlural>雪牛犊</Muffalo.lifeStages.0.labelMalePlural>
+  <Muffalo.lifeStages.0.labelFemale>雪牛犊</Muffalo.lifeStages.0.labelFemale>
+  <Muffalo.lifeStages.0.labelFemalePlural>雪牛犊</Muffalo.lifeStages.0.labelFemalePlural>
+  <Muffalo.lifeStages.1.label>幼年雪牛</Muffalo.lifeStages.1.label>
+  <Muffalo.lifeStages.1.labelPlural>幼年雪牛</Muffalo.lifeStages.1.labelPlural>
+  <Muffalo.lifeStages.1.labelMale>幼年公雪牛</Muffalo.lifeStages.1.labelMale>
+  <Muffalo.lifeStages.1.labelMalePlural>幼年公雪牛</Muffalo.lifeStages.1.labelMalePlural>
+  <Muffalo.lifeStages.1.labelFemale>幼年母雪牛</Muffalo.lifeStages.1.labelFemale>
+  <Muffalo.lifeStages.1.labelFemalePlural>幼年母雪牛</Muffalo.lifeStages.1.labelFemalePlural>
+  <Muffalo.lifeStages.2.label>雪牛</Muffalo.lifeStages.2.label>
+  <Muffalo.lifeStages.2.labelPlural>雪牛</Muffalo.lifeStages.2.labelPlural>
+  <Muffalo.lifeStages.2.labelMale>公雪牛</Muffalo.lifeStages.2.labelMale>
+  <Muffalo.lifeStages.2.labelMalePlural>公雪牛</Muffalo.lifeStages.2.labelMalePlural>
+  <Muffalo.lifeStages.2.labelFemale>母雪牛</Muffalo.lifeStages.2.labelFemale>
+  <Muffalo.lifeStages.2.labelFemalePlural>母雪牛</Muffalo.lifeStages.2.labelFemalePlural>
+  <Muffalo.labelMale>公雪牛</Muffalo.labelMale>
+  <Muffalo.labelMalePlural>公雪牛</Muffalo.labelMalePlural>
+  <Muffalo.labelFemale>母雪牛</Muffalo.labelFemale>
+  <Muffalo.labelFemalePlural>母雪牛</Muffalo.labelFemalePlural>
 
   <Gazelle.label>瞪羚</Gazelle.label>
   <Gazelle.labelPlural>瞪羚</Gazelle.labelPlural>
@@ -103,30 +103,30 @@
   <Dromedary.labelFemale>母单峰骆驼</Dromedary.labelFemale>
   <Dromedary.labelFemalePlural>母单峰骆驼</Dromedary.labelFemalePlural>
 
-  <Buffalo.label>野牛</Buffalo.label>
-  <Buffalo.labelPlural>野牛</Buffalo.labelPlural>
-  <Buffalo.lifeStages.0.label>野牛幼崽</Buffalo.lifeStages.0.label>
-  <Buffalo.lifeStages.0.labelPlural>野牛幼崽</Buffalo.lifeStages.0.labelPlural>
-  <Buffalo.lifeStages.0.labelMale>雄性野牛幼崽</Buffalo.lifeStages.0.labelMale>
-  <Buffalo.lifeStages.0.labelMalePlural>雄性野牛幼崽</Buffalo.lifeStages.0.labelMalePlural>
-  <Buffalo.lifeStages.0.labelFemale>雌性野牛幼崽</Buffalo.lifeStages.0.labelFemale>
-  <Buffalo.lifeStages.0.labelFemalePlural>雌性野牛幼崽</Buffalo.lifeStages.0.labelFemalePlural>
-  <Buffalo.lifeStages.1.label>野牛</Buffalo.lifeStages.1.label>
-  <Buffalo.lifeStages.1.labelPlural>野牛</Buffalo.lifeStages.1.labelPlural>
-  <Buffalo.lifeStages.1.labelMale>雄性野牛</Buffalo.lifeStages.1.labelMale>
-  <Buffalo.lifeStages.1.labelMalePlural>雄性野牛</Buffalo.lifeStages.1.labelMalePlural>
-  <Buffalo.lifeStages.1.labelFemale>雌性野牛</Buffalo.lifeStages.1.labelFemale>
-  <Buffalo.lifeStages.1.labelFemalePlural>雌性野牛</Buffalo.lifeStages.1.labelFemalePlural>
-  <Buffalo.lifeStages.2.label>野牛</Buffalo.lifeStages.2.label>
-  <Buffalo.lifeStages.2.labelPlural>野牛</Buffalo.lifeStages.2.labelPlural>
-  <Buffalo.lifeStages.2.labelMale>雄性野牛</Buffalo.lifeStages.2.labelMale>
-  <Buffalo.lifeStages.2.labelMalePlural>雄性野牛</Buffalo.lifeStages.2.labelMalePlural>
-  <Buffalo.lifeStages.2.labelFemale>雌性野牛</Buffalo.lifeStages.2.labelFemale>
-  <Buffalo.lifeStages.2.labelFemalePlural>雌性野牛</Buffalo.lifeStages.2.labelFemalePlural>
-  <Buffalo.labelMale>雄性野牛</Buffalo.labelMale>
-  <Buffalo.labelMalePlural>雄性野牛</Buffalo.labelMalePlural>
-  <Buffalo.labelFemale>雌性野牛</Buffalo.labelFemale>
-  <Buffalo.labelFemalePlural>雌性野牛</Buffalo.labelFemalePlural>
+  <Buffalo.label>水牛</Buffalo.label>
+  <Buffalo.labelPlural>水牛</Buffalo.labelPlural>
+  <Buffalo.lifeStages.0.label>水牛幼崽</Buffalo.lifeStages.0.label>
+  <Buffalo.lifeStages.0.labelPlural>水牛幼崽</Buffalo.lifeStages.0.labelPlural>
+  <Buffalo.lifeStages.0.labelMale>雄性水牛幼崽</Buffalo.lifeStages.0.labelMale>
+  <Buffalo.lifeStages.0.labelMalePlural>雄性水牛幼崽</Buffalo.lifeStages.0.labelMalePlural>
+  <Buffalo.lifeStages.0.labelFemale>雌性水牛幼崽</Buffalo.lifeStages.0.labelFemale>
+  <Buffalo.lifeStages.0.labelFemalePlural>雌性水牛幼崽</Buffalo.lifeStages.0.labelFemalePlural>
+  <Buffalo.lifeStages.1.label>水牛</Buffalo.lifeStages.1.label>
+  <Buffalo.lifeStages.1.labelPlural>水牛</Buffalo.lifeStages.1.labelPlural>
+  <Buffalo.lifeStages.1.labelMale>雄性水牛</Buffalo.lifeStages.1.labelMale>
+  <Buffalo.lifeStages.1.labelMalePlural>雄性水牛</Buffalo.lifeStages.1.labelMalePlural>
+  <Buffalo.lifeStages.1.labelFemale>雌性水牛</Buffalo.lifeStages.1.labelFemale>
+  <Buffalo.lifeStages.1.labelFemalePlural>雌性水牛</Buffalo.lifeStages.1.labelFemalePlural>
+  <Buffalo.lifeStages.2.label>水牛</Buffalo.lifeStages.2.label>
+  <Buffalo.lifeStages.2.labelPlural>水牛</Buffalo.lifeStages.2.labelPlural>
+  <Buffalo.lifeStages.2.labelMale>雄性水牛</Buffalo.lifeStages.2.labelMale>
+  <Buffalo.lifeStages.2.labelMalePlural>雄性水牛</Buffalo.lifeStages.2.labelMalePlural>
+  <Buffalo.lifeStages.2.labelFemale>雌性水牛</Buffalo.lifeStages.2.labelFemale>
+  <Buffalo.lifeStages.2.labelFemalePlural>雌性水牛</Buffalo.lifeStages.2.labelFemalePlural>
+  <Buffalo.labelMale>雄性水牛</Buffalo.labelMale>
+  <Buffalo.labelMalePlural>雄性水牛</Buffalo.labelMalePlural>
+  <Buffalo.labelFemale>雌性水牛</Buffalo.labelFemale>
+  <Buffalo.labelFemalePlural>雌性水牛</Buffalo.labelFemalePlural>
 
   <Rimram.label>绵羊</Rimram.label>
   <Rimram.labelPlural>绵羊</Rimram.labelPlural>
