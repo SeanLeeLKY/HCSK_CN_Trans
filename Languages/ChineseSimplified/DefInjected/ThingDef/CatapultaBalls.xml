@@ -3,17 +3,17 @@
 
   <!-- Ammo -->
 
-  <Ammo_StoneBall.label>Stone Ball</Ammo_StoneBall.label>
-  <Ammo_StoneBall.description>Fired from catapults, explode on impact.</Ammo_StoneBall.description>
+  <Ammo_StoneBall.label>石球</Ammo_StoneBall.label>
+  <Ammo_StoneBall.description>用石弩发射，撞击后爆炸。</Ammo_StoneBall.description>
 
-  <Ammo_ExplosiveBall.label>Explosive Ball</Ammo_ExplosiveBall.label>
-  <Ammo_ExplosiveBall.description>Fired from catapults, explode on impact.</Ammo_ExplosiveBall.description>
+  <Ammo_ExplosiveBall.label>爆炸球</Ammo_ExplosiveBall.label>
+  <Ammo_ExplosiveBall.description>用石弩发射，撞击后爆炸。</Ammo_ExplosiveBall.description>
 
 
   <!-- Projectiles -->
 
-  <Stone_Ball.label>Stone ball</Stone_Ball.label>
-  <Explosive_Ball.label>Explosive ball</Explosive_Ball.label>
+  <Stone_Ball.label>石球</Stone_Ball.label>
+  <Explosive_Ball.label>爆炸球</Explosive_Ball.label>
 
 
 </LanguageData>

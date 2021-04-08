@@ -3,108 +3,108 @@
 
   <!-- Giant -->
 
-  <Rhinoceros.label>rhinoceros</Rhinoceros.label>
-  <Rhinoceros.description>Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body.</Rhinoceros.description>
-  <Rhinoceros.tools.0.label>horn</Rhinoceros.tools.0.label>
-  <Rhinoceros.tools.1.label>horn</Rhinoceros.tools.1.label>
-  <Rhinoceros.tools.3.label>head</Rhinoceros.tools.3.label>
-  <Rhinoceros_Leather.label>rhinoceros leather</Rhinoceros_Leather.label>
-  <Rhinoceros_Leather.description>rhinoceros leather</Rhinoceros_Leather.description>
-  <Rhinoceros_Leather.stuffProps.stuffAdjective>rhinoceros leather</Rhinoceros_Leather.stuffProps.stuffAdjective>
+  <Rhinoceros.label>犀牛</Rhinoceros.label>
+  <Rhinoceros.description>这种大型陆地哺乳动物在绝大多数时候是和平的，但它们会毫不犹豫地用角冲撞并驱赶擅闯领地者。一旦被激怒，它巨大的力量和锋利的角使它成为一个残酷的对手。它一条腿上的肌肉比大多数人整个身体上的肌肉还多。</Rhinoceros.description>
+  <Rhinoceros.tools.0.label>角</Rhinoceros.tools.0.label>
+  <Rhinoceros.tools.1.label>角</Rhinoceros.tools.1.label>
+  <Rhinoceros.tools.3.label>头</Rhinoceros.tools.3.label>
+  <Rhinoceros_Leather.label>犀牛皮</Rhinoceros_Leather.label>
+  <Rhinoceros_Leather.description>犀牛皮</Rhinoceros_Leather.description>
+  <Rhinoceros_Leather.stuffProps.stuffAdjective>犀牛皮</Rhinoceros_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Elephant -->
-  <Rhinoceros_Corpse.label>rhinoceros corpse</Rhinoceros_Corpse.label>
-  <Rhinoceros_Corpse.description>rhinoceros corpse</Rhinoceros_Corpse.description>
+  <Rhinoceros_Corpse.label>犀牛尸体</Rhinoceros_Corpse.label>
+  <Rhinoceros_Corpse.description>犀牛尸体</Rhinoceros_Corpse.description>
 
 
   <!-- Giant -->
 
-  <Elephant.label>elephant</Elephant.label>
-  <Elephant.description>The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before.</Elephant.description>
-  <Elephant.tools.0.label>tusk</Elephant.tools.0.label>
-  <Elephant.tools.1.label>left foot</Elephant.tools.1.label>
-  <Elephant.tools.2.label>right foot</Elephant.tools.2.label>
-  <Elephant.tools.3.label>head</Elephant.tools.3.label>
-  <Elephant_Leather.label>elephant leather</Elephant_Leather.label>
-  <Elephant_Leather.description>elephant leather</Elephant_Leather.description>
-  <Elephant_Leather.stuffProps.stuffAdjective>elephant leather</Elephant_Leather.stuffProps.stuffAdjective>
-  <Elephant_Meat.label>Raw Meat</Elephant_Meat.label>
-  <Elephant_Meat.description>Raw Meat</Elephant_Meat.description>
-  <Elephant_Corpse.label>elephant corpse</Elephant_Corpse.label>
-  <Elephant_Corpse.description>elephant corpse</Elephant_Corpse.description>
+  <Elephant.label>大象</Elephant.label>
+  <Elephant.description>最大的原生陆地动物。它可以用它的长牙作为搬运工具或作为致命的武器。屠宰一头死象一般也是为了其最有价值的象牙。\n\n大象是具有复杂社会关系的智能生物，它可以被当作驮畜，也可以被训练来执行最复杂的任务。它们寿命很长，并且能记住几十年前的事件和关系。</Elephant.description>
+  <Elephant.tools.0.label>獠牙</Elephant.tools.0.label>
+  <Elephant.tools.1.label>左足</Elephant.tools.1.label>
+  <Elephant.tools.2.label>右足</Elephant.tools.2.label>
+  <Elephant.tools.3.label>头</Elephant.tools.3.label>
+  <Elephant_Leather.label>象皮</Elephant_Leather.label>
+  <Elephant_Leather.description>象皮</Elephant_Leather.description>
+  <Elephant_Leather.stuffProps.stuffAdjective>象皮</Elephant_Leather.stuffProps.stuffAdjective>
+  <Elephant_Meat.label>生肉</Elephant_Meat.label>
+  <Elephant_Meat.description>生肉</Elephant_Meat.description>
+  <Elephant_Corpse.label>大象尸体</Elephant_Corpse.label>
+  <Elephant_Corpse.description>大象尸体</Elephant_Corpse.description>
 
-  <Mammoth.label>mammoth</Mammoth.label>
-  <Mammoth.tools.0.label>tusk</Mammoth.tools.0.label>
-  <Mammoth.tools.1.label>left foot</Mammoth.tools.1.label>
-  <Mammoth.tools.2.label>right foot</Mammoth.tools.2.label>
-  <Mammoth.tools.3.label>head</Mammoth.tools.3.label>
-  <Mammoth_Leather.label>mammoth leather</Mammoth_Leather.label>
-  <Mammoth_Leather.description>mammoth leather</Mammoth_Leather.description>
-  <Mammoth_Leather.stuffProps.stuffAdjective>mammoth leather</Mammoth_Leather.stuffProps.stuffAdjective>
+  <Mammoth.label>猛玛</Mammoth.label>
+  <Mammoth.tools.0.label>獠牙</Mammoth.tools.0.label>
+  <Mammoth.tools.1.label>左足</Mammoth.tools.1.label>
+  <Mammoth.tools.2.label>右足</Mammoth.tools.2.label>
+  <Mammoth.tools.3.label>头</Mammoth.tools.3.label>
+  <Mammoth_Leather.label>猛玛皮</Mammoth_Leather.label>
+  <Mammoth_Leather.description>猛玛皮</Mammoth_Leather.description>
+  <Mammoth_Leather.stuffProps.stuffAdjective>猛玛皮</Mammoth_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Elephant -->
-  <Mammoth_Corpse.label>mammoth corpse</Mammoth_Corpse.label>
-  <Mammoth_Corpse.description>mammoth corpse</Mammoth_Corpse.description>
+  <Mammoth_Corpse.label>猛玛尸体</Mammoth_Corpse.label>
+  <Mammoth_Corpse.description>猛玛尸体</Mammoth_Corpse.description>
 
 
   <!-- Giant -->
 
-  <Megasloth.label>megasloth</Megasloth.label>
-  <Megasloth.description>A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws.</Megasloth.description>
-  <Megasloth.tools.0.label>left claw</Megasloth.tools.0.label>
-  <Megasloth.tools.1.label>right claw</Megasloth.tools.1.label>
-  <Megasloth.tools.2.label>head</Megasloth.tools.2.label>
-  <Megasloth_Leather.label>megasloth leather</Megasloth_Leather.label>
-  <Megasloth_Leather.description>megasloth leather</Megasloth_Leather.description>
-  <Megasloth_Leather.stuffProps.stuffAdjective>megasloth leather</Megasloth_Leather.stuffProps.stuffAdjective>
+  <Megasloth.label>巨懒</Megasloth.label>
+  <Megasloth.description>巨型的独居食草动物。巨懒被地球上美洲土著灭绝了很长时间之后，通过先进的克隆技术和人工受精技术重现世间。厚实的皮革特别坚固和隔热，是一种很适合寒冷天气穿着的皮革。如果不打扰它，它会很安静，但它会用巨大的爪子撕碎任何惊扰它的人。</Megasloth.description>
+  <Megasloth.tools.0.label>左爪</Megasloth.tools.0.label>
+  <Megasloth.tools.1.label>右爪</Megasloth.tools.1.label>
+  <Megasloth.tools.2.label>头</Megasloth.tools.2.label>
+  <Megasloth_Leather.label>巨懒皮</Megasloth_Leather.label>
+  <Megasloth_Leather.description>巨懒皮</Megasloth_Leather.description>
+  <Megasloth_Leather.stuffProps.stuffAdjective>巨懒皮</Megasloth_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Elephant -->
-  <Megasloth_Corpse.label>megasloth corpse</Megasloth_Corpse.label>
-  <Megasloth_Corpse.description>megasloth corpse</Megasloth_Corpse.description>
+  <Megasloth_Corpse.label>巨懒尸体</Megasloth_Corpse.label>
+  <Megasloth_Corpse.description>巨懒尸体</Megasloth_Corpse.description>
 
 
   <!-- Giant -->
 
-  <Thrumbo.label>thrumbo</Thrumbo.label>
-  <Thrumbo.description>A Thrumbo is a gigantic creature of unknown origin. The Thrumbo is gentle by nature, but extremely dangerous when enraged. Its long fur is exceptionally beautiful and treasured, and its razor-sharp horn is very valuable in most markets. Legends say that an old Thrumbo is the wisest creature in the universe - it simply chooses not to speak.</Thrumbo.description>
-  <Thrumbo.tools.0.label>horn</Thrumbo.tools.0.label>
-  <Thrumbo.tools.1.label>horn</Thrumbo.tools.1.label>
-  <Thrumbo.tools.2.label>left foot</Thrumbo.tools.2.label>
-  <Thrumbo.tools.3.label>right foot</Thrumbo.tools.3.label>
-  <Thrumbo.tools.5.label>head</Thrumbo.tools.5.label>
-  <Thrumbo_Leather.label>thrumbo leather</Thrumbo_Leather.label>
-  <Thrumbo_Leather.description>thrumbo leather</Thrumbo_Leather.description>
-  <Thrumbo_Leather.stuffProps.stuffAdjective>thrumbo leather</Thrumbo_Leather.stuffProps.stuffAdjective>
+  <Thrumbo.label>敲击兽</Thrumbo.label>
+  <Thrumbo.description>一种来源不明的巨型生物。敲击兽生性温和，但被激怒后极其危险。其长毛异常美丽和珍贵，锋利的角在大多数市场中非常贵重。传说古老的敲击兽是宇宙中最聪明的生物，只是选择了不说话。</Thrumbo.description>
+  <Thrumbo.tools.0.label>角</Thrumbo.tools.0.label>
+  <Thrumbo.tools.1.label>角</Thrumbo.tools.1.label>
+  <Thrumbo.tools.2.label>左足</Thrumbo.tools.2.label>
+  <Thrumbo.tools.3.label>右足</Thrumbo.tools.3.label>
+  <Thrumbo.tools.5.label>头</Thrumbo.tools.5.label>
+  <Thrumbo_Leather.label>敲击兽皮</Thrumbo_Leather.label>
+  <Thrumbo_Leather.description>敲击兽皮</Thrumbo_Leather.description>
+  <Thrumbo_Leather.stuffProps.stuffAdjective>敲击兽皮</Thrumbo_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Muffalo -->
-  <Thrumbo_Corpse.label>thrumbo corpse</Thrumbo_Corpse.label>
-  <Thrumbo_Corpse.description>thrumbo corpse</Thrumbo_Corpse.description>
+  <Thrumbo_Corpse.label>敲击兽尸体</Thrumbo_Corpse.label>
+  <Thrumbo_Corpse.description>敲击兽尸体</Thrumbo_Corpse.description>
 
 
   <!-- Giant -->
 
-  <Megabadger.label>megabadger</Megabadger.label>
-  <Megabadger.description>A truly massive badger - roughly the size of an elephant in adulthood. Megabadgers are incredibly dangerous creatures, with jaws able to bite a fully grown tree to splinters and skin thick enough to stop most bullets. They are not without the characteristic vicious attitude known of smaller badger species. \n\nHaving been known to wipe out entire colonies in the rimworlds, it is advisable under almost all circumstances to completely avoid interaction with megabadgers.</Megabadger.description>
-  <Megabadger.tools.0.label>left claw</Megabadger.tools.0.label>
-  <Megabadger.tools.1.label>right claw</Megabadger.tools.1.label>
-  <Megabadger.tools.3.label>head</Megabadger.tools.3.label>
-  <Megabadger_Leather.label>megabadger leather</Megabadger_Leather.label>
-  <Megabadger_Leather.description>megabadger leather</Megabadger_Leather.description>
-  <Megabadger_Leather.stuffProps.stuffAdjective>megabadger leather</Megabadger_Leather.stuffProps.stuffAdjective>
+  <Megabadger.label>巨獾</Megabadger.label>
+  <Megabadger.description>一只非常巨大的獾——成年时大约有一头大象那么大。巨獾是一种非常危险的生物，它的下颚可以把一棵成年的树咬成碎片，它的皮肤足够厚，可以挡住大多数子弹。它们并非没有小型獾所特有的凶狠态度。\n\n众所周知，要消灭世界上所有的殖民地，在任何情况下，完全避免与巨獾的互动是明智之举。</Megabadger.description>
+  <Megabadger.tools.0.label>左爪</Megabadger.tools.0.label>
+  <Megabadger.tools.1.label>右爪</Megabadger.tools.1.label>
+  <Megabadger.tools.3.label>头</Megabadger.tools.3.label>
+  <Megabadger_Leather.label>巨獾皮</Megabadger_Leather.label>
+  <Megabadger_Leather.description>巨獾皮</Megabadger_Leather.description>
+  <Megabadger_Leather.stuffProps.stuffAdjective>巨獾皮</Megabadger_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Elephant -->
-  <Megabadger_Corpse.label>megabadger corpse</Megabadger_Corpse.label>
-  <Megabadger_Corpse.description>megabadger corpse</Megabadger_Corpse.description>
+  <Megabadger_Corpse.label>巨獾尸体</Megabadger_Corpse.label>
+  <Megabadger_Corpse.description>巨獾尸体</Megabadger_Corpse.description>
 
 
   <!-- Giant -->
 
-  <Rhino_Wooly.label>woolly rhino</Rhino_Wooly.label>
-  <Rhino_Wooly.description>A rhinoceros almost entirely covered in a coarse fur coat, fit for much colder climates than its hairless cousins.</Rhino_Wooly.description>
-  <Rhino_Wooly.tools.0.label>horn</Rhino_Wooly.tools.0.label>
-  <Rhino_Wooly.tools.1.label>horn</Rhino_Wooly.tools.1.label>
-  <Rhino_Wooly.tools.3.label>head</Rhino_Wooly.tools.3.label>
-  <Rhino_Wooly_Leather.label>woolly rhino leather</Rhino_Wooly_Leather.label>
-  <Rhino_Wooly_Leather.description>woolly rhino leather</Rhino_Wooly_Leather.description>
-  <Rhino_Wooly_Leather.stuffProps.stuffAdjective>woolly rhino leather</Rhino_Wooly_Leather.stuffProps.stuffAdjective>
+  <Rhino_Wooly.label>披毛犀</Rhino_Wooly.label>
+  <Rhino_Wooly.description>身上几乎全是粗糙皮毛的犀牛，比它的无毛表亲更适合寒冷的气候。</Rhino_Wooly.description>
+  <Rhino_Wooly.tools.0.label>角</Rhino_Wooly.tools.0.label>
+  <Rhino_Wooly.tools.1.label>角</Rhino_Wooly.tools.1.label>
+  <Rhino_Wooly.tools.3.label>头</Rhino_Wooly.tools.3.label>
+  <Rhino_Wooly_Leather.label>披毛犀皮</Rhino_Wooly_Leather.label>
+  <Rhino_Wooly_Leather.description>披毛犀皮</Rhino_Wooly_Leather.description>
+  <Rhino_Wooly_Leather.stuffProps.stuffAdjective>披毛犀皮</Rhino_Wooly_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Elephant -->
-  <Rhino_Wooly_Corpse.label>woolly rhino corpse</Rhino_Wooly_Corpse.label>
-  <Rhino_Wooly_Corpse.description>woolly rhino corpse</Rhino_Wooly_Corpse.description>
+  <Rhino_Wooly_Corpse.label>披毛犀尸体</Rhino_Wooly_Corpse.label>
+  <Rhino_Wooly_Corpse.description>披毛犀尸体</Rhino_Wooly_Corpse.description>
 
 
 </LanguageData>

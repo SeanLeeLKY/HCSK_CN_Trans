@@ -6,8 +6,8 @@
 		x = preExplosionSpawnChance,
 		r = resource cost. -->
 
-  <Pilum_Thrown.label>pilum (thrown)</Pilum_Thrown.label>
-  <Pilum_Fired.label>pilum (fired)</Pilum_Fired.label>
+  <Pilum_Thrown.label>矛（投掷）</Pilum_Thrown.label>
+  <Pilum_Fired.label>矛（火焰）</Pilum_Fired.label>
 
 
 </LanguageData>

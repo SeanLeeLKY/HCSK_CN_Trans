@@ -1,59 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- <ThingDef ParentName="SK_ResourceBase">
-		<defName>CrudeOil</defName>
-		<label>Crude Oil</label>
-		<description>Crude Oil is extracted from an Oil Fissure through use of an Oil Extractor. It can be refined at a Petrochemical Plant to produce Polymers, Paraffins, Sulfur, Synthetic Ammonia and Fuel Oil.</description>
-		<graphicData>
-			<texPath>Things/Item/Resource/CrudeOil</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-			<color>(255,255,255)</color>
-		</graphicData>
-		<soundInteract>Metal_Drop</soundInteract>
-		<soundDrop>Metal_Drop</soundDrop>
-		<statBases>
-			<MaxHitPoints>5</MaxHitPoints>
-			<MarketValue>3</MarketValue>
-			<DeteriorationRate>0.01</DeteriorationRate>
-			<Flammability>5</Flammability>
-			<Mass>0.1</Mass>
-			<Bulk>0.1</Bulk>
-		</statBases>
-		<tickerType>Normal</tickerType>
-		<thingCategories>
-			<li>Hydrocarbons</li>
-		</thingCategories>
-		<stackLimit>300</stackLimit>
-	</ThingDef> -->
+  
 
-  <Polymers.label>Polymers</Polymers.label>
-  <Polymers.description>Polymers are a product of refined Crude Oil. It is a useful raw material used in creation of Plastic, Rubber, Synthetic Fibers and Carbon at a Petrochemical Plant.</Polymers.description>
+  <Polymers.label>聚合物</Polymers.label>
+  <Polymers.description>聚合物是精制原油的产物。它是一种有用的原材料，用于制造塑料、橡胶、合成纤维和石化工厂的其它产物。</Polymers.description>
 
-  <Plastic.label>Plastic</Plastic.label>
-  <Plastic.description>Plastic is a useful raw material for building construction or item production or weapons.</Plastic.description>
-  <Plastic.stuffProps.stuffAdjective>Plastic</Plastic.stuffProps.stuffAdjective>
+  <Plastic.label>塑料</Plastic.label>
+  <Plastic.description>塑料是建筑、物品或武器生产的一种有用的原材料。</Plastic.description>
+  <Plastic.stuffProps.stuffAdjective>塑料</Plastic.stuffProps.stuffAdjective>
 
-  <Rubber.label>Rubber</Rubber.label>
-  <Rubber.description>Rubber is useful for a variety of things such as duct pipes, pumps or as a building material supplement/additive.</Rubber.description>
+  <Rubber.label>合成橡胶</Rubber.label>
+  <Rubber.description>橡胶用于各种各样的东西，如管道，泵或作为建筑材料的补充添加剂。</Rubber.description>
 
-  <SyntheticFibers.label>Synthetic Fibers</SyntheticFibers.label>
-  <SyntheticFibers.description>Synthetic Fibers are artifical strands created from Polymers and Sulfur. They can be woven into Synthread Cloth at a Tailor's Workbench, or woven with Carbon into Carbon Fiber Alloy at a Chemical Laboratory.</SyntheticFibers.description>
+  <SyntheticFibers.label>人造纤维</SyntheticFibers.label>
+  <SyntheticFibers.description>人造纤维是由聚合物和硫磺制成的产物。它们可以在裁缝的工作台上编织成合成纤维布，也可以在化学实验室用于合成碳纤维。</SyntheticFibers.description>
 
-  <Carbon.label>Carbon</Carbon.label>
-  <Carbon.description>Carbon is a fiber-reinforced polymer that is an extremely strong and light. It can be reinforced further with Synthetic Fibers to create Carbon Fiber Alloy at a Chemical Laboratory.</Carbon.description>
+  <Carbon.label>碳聚物</Carbon.label>
+  <Carbon.description>碳聚物是一种纤维形式增强聚合物，非常强韧轻巧。它还可以在化学实验室里用人造纤维进一步增强，制造出碳纤维。</Carbon.description>
 
-  <SyntheticAmmonia.label>Synthetic Ammonia</SyntheticAmmonia.label>
-  <SyntheticAmmonia.description>Synthetic ammonia is a product of refined crude oil. It is useful for creating impaction charges.</SyntheticAmmonia.description>
+  <SyntheticAmmonia.label>合成氨</SyntheticAmmonia.label>
+  <SyntheticAmmonia.description>合成氨是精制原油的一种产品。经常用于各种化工产品。</SyntheticAmmonia.description>
 
-  <Paraffins.label>Paraffin</Paraffins.label>
-  <Paraffins.description>Paraffins are a product of refined Crude Oil. It is useful in crafting medicines.</Paraffins.description>
+  <Paraffins.label>石蜡</Paraffins.label>
+  <Paraffins.description>石蜡是精制原油的一种产品。它在制作药物时很有用。</Paraffins.description>
 
-  <Sulfur.label>Sulfur</Sulfur.label>
-  <Sulfur.description>Sulfur occurs naturally as the pure element - native sulfur and as sulfide and sulfate minerals. Sulfur can be obtained from refined Crude Oil at a Petrochemical Plant or from processing Iron Ore at an Ammo Crafting Table. It is useful for Gunpowder in crafting various types of turret ammo.</Sulfur.description>
+  <Sulfur.label>硫磺</Sulfur.label>
+  <Sulfur.description>硫是天然的纯元素——天然硫以及从硫化物和硫酸盐矿物中精制提取。硫可以从石化工厂的精炼原油中提取，也可以从弹药加工台上的铁矿石中提取。它主要用于制造各种弹药的火药基料。</Sulfur.description>
 
-  <Sulphates.label>Sulphates</Sulphates.label>
-  <Sulphates.description>Sulphates</Sulphates.description>
+  <Sulphates.label>硫酸盐</Sulphates.label>
+  <Sulphates.description>硫酸盐。</Sulphates.description>
 
 
 </LanguageData>

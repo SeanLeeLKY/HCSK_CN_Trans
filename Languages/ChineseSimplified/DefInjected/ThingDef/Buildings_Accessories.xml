@@ -1,182 +1,182 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TuskPot.label>tusk pot</TuskPot.label>
-  <TuskPot.description>Designed by the honorable Shinzhor of Shinzaram, this lovely horn offers a charming alternative to plant your flowers in.</TuskPot.description>
-  <TuskPot_Blueprint.label>tusk pot (blueprint)</TuskPot_Blueprint.label>
-  <TuskPot_Blueprint_Install.label>tusk pot (blueprint)</TuskPot_Blueprint_Install.label>
-  <TuskPot_Frame.label>tusk pot (building)</TuskPot_Frame.label>
-  <TuskPot_Frame.description>Designed by the honorable Shinzhor of Shinzaram, this lovely horn offers a charming alternative to plant your flowers in.</TuskPot_Frame.description>
+  <TuskPot.label>弯牙盆</TuskPot.label>
+  <TuskPot.description>这款造型奇特的角型花盆独具设计感，搭配上迷人的小花简直太棒了！</TuskPot.description>
+  <TuskPot_Blueprint.label>弯牙盆 （蓝图）</TuskPot_Blueprint.label>
+  <TuskPot_Blueprint_Install.label>弯牙盆 （蓝图）</TuskPot_Blueprint_Install.label>
+  <TuskPot_Frame.label>弯牙盆 （建造中）</TuskPot_Frame.label>
+  <TuskPot_Frame.description>这款造型奇特的角型花盆独具设计感，搭配上迷人的小花简直太棒了！</TuskPot_Frame.description>
 
-  <PlantPot.label>plant pot</PlantPot.label>
-  <PlantPot.description>A plant pot that can hold decorative flowers to improve the mood of people nearby.</PlantPot.description>
-  <PlantPot_Blueprint.label>plant pot (blueprint)</PlantPot_Blueprint.label>
-  <PlantPot_Blueprint_Install.label>plant pot (blueprint)</PlantPot_Blueprint_Install.label>
-  <PlantPot_Frame.label>plant pot (building)</PlantPot_Frame.label>
-  <PlantPot_Frame.description>A plant pot that can hold decorative flowers to improve the mood of people nearby.</PlantPot_Frame.description>
+  <PlantPot.label>花盆</PlantPot.label>
+  <PlantPot.description>种植装饰性的花朵来提升附近的人的心情。</PlantPot.description>
+  <PlantPot_Blueprint.label>花盆 （蓝图）</PlantPot_Blueprint.label>
+  <PlantPot_Blueprint_Install.label>花盆 （蓝图）</PlantPot_Blueprint_Install.label>
+  <PlantPot_Frame.label>花盆 （建造中）</PlantPot_Frame.label>
+  <PlantPot_Frame.description>种植装饰性的花朵来提升附近的人的心情。</PlantPot_Frame.description>
 
-  <DecoratedPot.label>decorated pot</DecoratedPot.label>
-  <DecoratedPot.description>A plant pot that can hold decorative flowers to improve the mood of people nearby.</DecoratedPot.description>
-  <DecoratedPot_Blueprint.label>decorated pot (blueprint)</DecoratedPot_Blueprint.label>
-  <DecoratedPot_Blueprint_Install.label>decorated pot (blueprint)</DecoratedPot_Blueprint_Install.label>
-  <DecoratedPot_Frame.label>decorated pot (building)</DecoratedPot_Frame.label>
-  <DecoratedPot_Frame.description>A plant pot that can hold decorative flowers to improve the mood of people nearby.</DecoratedPot_Frame.description>
+  <DecoratedPot.label>装饰花盆</DecoratedPot.label>
+  <DecoratedPot.description>种植装饰性的花朵来提升附近的人的心情。</DecoratedPot.description>
+  <DecoratedPot_Blueprint.label>装饰花盆 （蓝图）</DecoratedPot_Blueprint.label>
+  <DecoratedPot_Blueprint_Install.label>装饰花盆 （蓝图）</DecoratedPot_Blueprint_Install.label>
+  <DecoratedPot_Frame.label>装饰花盆 （建造中）</DecoratedPot_Frame.label>
+  <DecoratedPot_Frame.description>种植装饰性的花朵来提升附近的人的心情。</DecoratedPot_Frame.description>
 
-  <PentaPlantPot.label>penta plant pot</PentaPlantPot.label>
-  <PentaPlantPot.description>Roses are red, violets are blue, we love our Penta Pot, and so will you!</PentaPlantPot.description>
-  <PentaPlantPot_Blueprint.label>penta plant pot (blueprint)</PentaPlantPot_Blueprint.label>
-  <PentaPlantPot_Blueprint_Install.label>penta plant pot (blueprint)</PentaPlantPot_Blueprint_Install.label>
-  <PentaPlantPot_Frame.label>penta plant pot (building)</PentaPlantPot_Frame.label>
-  <PentaPlantPot_Frame.description>Roses are red, violets are blue, we love our Penta Pot, and so will you!</PentaPlantPot_Frame.description>
+  <PentaPlantPot.label>五边花盆</PentaPlantPot.label>
+  <PentaPlantPot.description>红玫瑰，紫罗兰，我们都喜欢美丽的事物，你喜欢吗？你喜欢！</PentaPlantPot.description>
+  <PentaPlantPot_Blueprint.label>五边花盆 （蓝图）</PentaPlantPot_Blueprint.label>
+  <PentaPlantPot_Blueprint_Install.label>五边花盆 （蓝图）</PentaPlantPot_Blueprint_Install.label>
+  <PentaPlantPot_Frame.label>五边花盆 （建造中）</PentaPlantPot_Frame.label>
+  <PentaPlantPot_Frame.description>红玫瑰，紫罗兰，我们都喜欢美丽的事物，你喜欢吗？你喜欢！</PentaPlantPot_Frame.description>
 
 
   <!-- Vanilla Lighting -->
 
-  <StandingLamp.label>standinglLamp (white)</StandingLamp.label>
-  <StandingLamp.description>A standing lamp that lights an area. Requires 80 W.</StandingLamp.description>
-  <StandingLamp_Blueprint.label>standinglLamp (white) (blueprint)</StandingLamp_Blueprint.label>
-  <StandingLamp_Blueprint_Install.label>standinglLamp (white) (blueprint)</StandingLamp_Blueprint_Install.label>
-  <StandingLamp_Frame.label>standinglLamp (white) (building)</StandingLamp_Frame.label>
-  <StandingLamp_Frame.description>A standing lamp that lights an area. Requires 80 W.</StandingLamp_Frame.description>
+  <StandingLamp.label>落地灯 （白）</StandingLamp.label>
+  <StandingLamp.description>照亮一片区域的落地灯。电力需求：80W。</StandingLamp.description>
+  <StandingLamp_Blueprint.label>落地灯 （白） （蓝图）</StandingLamp_Blueprint.label>
+  <StandingLamp_Blueprint_Install.label>落地灯 （白） （蓝图）</StandingLamp_Blueprint_Install.label>
+  <StandingLamp_Frame.label>落地灯 （白） （建造中）</StandingLamp_Frame.label>
+  <StandingLamp_Frame.description>照亮一片区域的落地灯。电力需求：80W。</StandingLamp_Frame.description>
 
-  <StandingLamp_Red.label>standing lamp (red)</StandingLamp_Red.label>
-  <StandingLamp_Red.description>A standing lamp that lights an area in a red glow. Requires 80 W.</StandingLamp_Red.description>
-  <StandingLamp_Red_Blueprint_Install.label>standing lamp (red) (blueprint)</StandingLamp_Red_Blueprint_Install.label>
+  <StandingLamp_Red.label>落地灯 （红）</StandingLamp_Red.label>
+  <StandingLamp_Red.description>照亮一片区域的落地灯。电力需求：80W。</StandingLamp_Red.description>
+  <StandingLamp_Red_Blueprint_Install.label>落地灯 （红） （蓝图）</StandingLamp_Red_Blueprint_Install.label>
 
-  <StandingLamp_Green.label>standing lamp (green)</StandingLamp_Green.label>
-  <StandingLamp_Green.description>A standing lamp that lights an area in a green glow. Requires 80 W.</StandingLamp_Green.description>
-  <StandingLamp_Green_Blueprint_Install.label>standing lamp (green) (blueprint)</StandingLamp_Green_Blueprint_Install.label>
+  <StandingLamp_Green.label>落地灯 （绿）</StandingLamp_Green.label>
+  <StandingLamp_Green.description>照亮一片区域的落地灯。电力需求：80W。</StandingLamp_Green.description>
+  <StandingLamp_Green_Blueprint_Install.label>落地灯 (green) （蓝图）</StandingLamp_Green_Blueprint_Install.label>
 
-  <StandingLamp_Blue.label>standing lamp (blue)</StandingLamp_Blue.label>
-  <StandingLamp_Blue.description>A standing lamp that lights an area in blue glow. Requires 80 W.</StandingLamp_Blue.description>
-  <StandingLamp_Blue_Blueprint_Install.label>standing lamp (blue) (blueprint)</StandingLamp_Blue_Blueprint_Install.label>
+  <StandingLamp_Blue.label>落地灯 （蓝）</StandingLamp_Blue.label>
+  <StandingLamp_Blue.description>照亮一片区域的落地灯。电力需求：80W。</StandingLamp_Blue.description>
+  <StandingLamp_Blue_Blueprint_Install.label>落地灯 （蓝） （蓝图）</StandingLamp_Blue_Blueprint_Install.label>
+
 
 
   <!-- Lamps -->
 
-  <ClutterFloorLampA.label>floor lamp</ClutterFloorLampA.label>
-  <ClutterFloorLampA.description>People need light to move and work at full speed. Requires 80 W.</ClutterFloorLampA.description>
-  <ClutterFloorLampA_Blueprint.label>floor lamp (blueprint)</ClutterFloorLampA_Blueprint.label>
-  <ClutterFloorLampA_Blueprint_Install.label>floor lamp (blueprint)</ClutterFloorLampA_Blueprint_Install.label>
-  <ClutterFloorLampA_Frame.label>floor lamp (building)</ClutterFloorLampA_Frame.label>
-  <ClutterFloorLampA_Frame.description>People need light to move and work at full speed. Requires 80 W.</ClutterFloorLampA_Frame.description>
-
+  <ClutterFloorLampA.label>地灯</ClutterFloorLampA.label>
+  <ClutterFloorLampA.description>殖民者们需要合适的光亮才能高效工作。</ClutterFloorLampA.description>
+  <ClutterFloorLampA_Blueprint.label>地灯 （蓝图）</ClutterFloorLampA_Blueprint.label>
+  <ClutterFloorLampA_Blueprint_Install.label>地灯 （蓝图）</ClutterFloorLampA_Blueprint_Install.label>
+  <ClutterFloorLampA_Frame.label>地灯 （建造中）</ClutterFloorLampA_Frame.label>
+  <ClutterFloorLampA_Frame.description>殖民者们需要合适的光亮才能高效工作。</ClutterFloorLampA_Frame.description>
 
   <!-- Ceiling Lights -->
 
-  <CeilingLamp.label>ceiling lamp</CeilingLamp.label>
-  <CeilingLamp.description>A ceiling lamp that lights an area. People need light to move and work at full speed. Must be placed under a roof. Requires 80 W.</CeilingLamp.description>
-  <CeilingLamp_Blueprint.label>ceiling lamp (blueprint)</CeilingLamp_Blueprint.label>
-  <CeilingLamp_Blueprint_Install.label>ceiling lamp (blueprint)</CeilingLamp_Blueprint_Install.label>
-  <CeilingLamp_Frame.label>ceiling lamp (building)</CeilingLamp_Frame.label>
-  <CeilingLamp_Frame.description>A ceiling lamp that lights an area. People need light to move and work at full speed. Must be placed under a roof. Requires 80 W.</CeilingLamp_Frame.description>
+  <CeilingLamp.label>吊灯</CeilingLamp.label>
+  <CeilingLamp.description>吊灯必须放置于屋顶下，并且能够照亮一片区域。殖民者们需要合适的光亮才能高效工作。电力需求：80W。</CeilingLamp.description>
+  <CeilingLamp_Blueprint.label>吊灯 （蓝图）</CeilingLamp_Blueprint.label>
+  <CeilingLamp_Blueprint_Install.label>吊灯 （蓝图）</CeilingLamp_Blueprint_Install.label>
+  <CeilingLamp_Frame.label>吊灯 （建造中）</CeilingLamp_Frame.label>
+  <CeilingLamp_Frame.description>吊灯必须放置于屋顶下，并且能够照亮一片区域。殖民者们需要合适的光亮才能高效工作。电力需求：80W。</CeilingLamp_Frame.description>
 
 
   <!-- WallLights -->
 
-  <TorchLamp.label>torch lamp</TorchLamp.label>
-  <TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. Produces a small amount of heat.</TorchLamp.description>
-  <TorchLamp_Blueprint.label>torch lamp (blueprint)</TorchLamp_Blueprint.label>
-  <TorchLamp_Blueprint_Install.label>torch lamp (blueprint)</TorchLamp_Blueprint_Install.label>
-  <TorchLamp_Frame.label>torch lamp (building)</TorchLamp_Frame.label>
-  <TorchLamp_Frame.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. Produces a small amount of heat.</TorchLamp_Frame.description>
+  <TorchLamp.label>火把</TorchLamp.label>
+  <TorchLamp.description>将一片区域照亮的木制火把。人员在明亮的环境中才能全速移动和工作。殖民者会手动添加燃料。 \n\n产出：少量的热。</TorchLamp.description>
+  <TorchLamp_Blueprint.label>火把 （蓝图）</TorchLamp_Blueprint.label>
+  <TorchLamp_Blueprint_Install.label>火把 （蓝图）</TorchLamp_Blueprint_Install.label>
+  <TorchLamp_Frame.label>火把 （建造中）</TorchLamp_Frame.label>
+  <TorchLamp_Frame.description>将一片区域照亮的木制火把。人员在明亮的环境中才能全速移动和工作。殖民者会手动添加燃料。 \n\n产出：少量的热。</TorchLamp_Frame.description>
 
-  <BowlLamp.label>bowl lamp</BowlLamp.label>
-  <BowlLamp.description>A bright and warm little fire, perfectly contained in a bowl. People need light to move and work at full speed.</BowlLamp.description>
-  <BowlLamp_Blueprint.label>bowl lamp (blueprint)</BowlLamp_Blueprint.label>
-  <BowlLamp_Blueprint_Install.label>bowl lamp (blueprint)</BowlLamp_Blueprint_Install.label>
-  <BowlLamp_Frame.label>bowl lamp (building)</BowlLamp_Frame.label>
-  <BowlLamp_Frame.description>A bright and warm little fire, perfectly contained in a bowl. People need light to move and work at full speed.</BowlLamp_Frame.description>
+  <BowlLamp.label>碗形灯</BowlLamp.label>
+  <BowlLamp.description>明亮而温暖的小火苗，完美地装在碗里。人员在明亮的环境中才能全速移动和工作。</BowlLamp.description>
+  <BowlLamp_Blueprint.label>碗形灯 （蓝图）</BowlLamp_Blueprint.label>
+  <BowlLamp_Blueprint_Install.label>碗形灯 （蓝图）</BowlLamp_Blueprint_Install.label>
+  <BowlLamp_Frame.label>碗形灯 （建造中）</BowlLamp_Frame.label>
+  <BowlLamp_Frame.description>明亮而温暖的小火苗，完美地装在碗里。人员在明亮的环境中才能全速移动和工作。</BowlLamp_Frame.description>
 
-  <WallTorch.label>wall torch</WallTorch.label>
-  <WallTorch.description>A wall mounted torch for lighting an area. Can be refueled. Not a good source of heat. Must be placed on a wall. People need light to move and work at full speed.</WallTorch.description>
-  <WallTorch_Blueprint.label>wall torch (blueprint)</WallTorch_Blueprint.label>
-  <WallTorch_Blueprint_Install.label>wall torch (blueprint)</WallTorch_Blueprint_Install.label>
-  <WallTorch_Frame.label>wall torch (building)</WallTorch_Frame.label>
-  <WallTorch_Frame.description>A wall mounted torch for lighting an area. Can be refueled. Not a good source of heat. Must be placed on a wall. People need light to move and work at full speed.</WallTorch_Frame.description>
+  <WallTorch.label>火把（墙）</WallTorch.label>
+  <WallTorch.description>壁挂式火炬，用于照明区域。可以手动添加燃料。散发较少的热量，必须放置在墙上。人员在明亮的环境中才能全速移动和工作。</WallTorch.description>
+  <WallTorch_Blueprint.label>火把（墙） （蓝图）</WallTorch_Blueprint.label>
+  <WallTorch_Blueprint_Install.label>火把（墙） （蓝图）</WallTorch_Blueprint_Install.label>
+  <WallTorch_Frame.label>火把（墙） （建造中）</WallTorch_Frame.label>
+  <WallTorch_Frame.description>壁挂式火炬，用于照明区域。可以手动添加燃料。散发较少的热量，必须放置在墙上。人员在明亮的环境中才能全速移动和工作。</WallTorch_Frame.description>
 
-  <Candle.label>candle</Candle.label>
-  <Candle.description>People need light to move and work at full speed. Can be refueled. Not a good source of heat.</Candle.description>
-  <Candle_Blueprint.label>candle (blueprint)</Candle_Blueprint.label>
-  <Candle_Blueprint_Install.label>candle (blueprint)</Candle_Blueprint_Install.label>
-  <Candle_Frame.label>candle (building)</Candle_Frame.label>
-  <Candle_Frame.description>People need light to move and work at full speed. Can be refueled. Not a good source of heat.</Candle_Frame.description>
+  <Candle.label>蜡烛</Candle.label>
+  <Candle.description>可以手动添加燃料的一种小型光源。散发较少的热量，必须放置在墙上。人员在明亮的环境中才能全速移动和工作。</Candle.description>
+  <Candle_Blueprint.label>蜡烛 （蓝图）</Candle_Blueprint.label>
+  <Candle_Blueprint_Install.label>蜡烛 （蓝图）</Candle_Blueprint_Install.label>
+  <Candle_Frame.label>蜡烛 （建造中）</Candle_Frame.label>
+  <Candle_Frame.description>可以手动添加燃料的一种小型光源。散发较少的热量，必须放置在墙上。人员在明亮的环境中才能全速移动和工作。</Candle_Frame.description>
 
-  <GlowstoneLamp.label>glowstone lamp</GlowstoneLamp.label>
-  <GlowstoneLamp.description>A beautiful lamp topped with glowstone, emitting reflected light from dozen of glowstones. People need light to move and work at full speed. Free source of light.</GlowstoneLamp.description>
-  <GlowstoneLamp_Blueprint.label>glowstone lamp (blueprint)</GlowstoneLamp_Blueprint.label>
-  <GlowstoneLamp_Blueprint_Install.label>glowstone lamp (blueprint)</GlowstoneLamp_Blueprint_Install.label>
-  <GlowstoneLamp_Frame.label>glowstone lamp (building)</GlowstoneLamp_Frame.label>
-  <GlowstoneLamp_Frame.description>A beautiful lamp topped with glowstone, emitting reflected light from dozen of glowstones. People need light to move and work at full speed. Free source of light.</GlowstoneLamp_Frame.description>
+  <GlowstoneLamp.label>萤石灯</GlowstoneLamp.label>
+  <GlowstoneLamp.description>一盏安装了两个小块萤石的灯，适合于卧室或工作室。</GlowstoneLamp.description>
+  <GlowstoneLamp_Blueprint.label>萤石灯 （蓝图）</GlowstoneLamp_Blueprint.label>
+  <GlowstoneLamp_Blueprint_Install.label>萤石灯 （蓝图）</GlowstoneLamp_Blueprint_Install.label>
+  <GlowstoneLamp_Frame.label>萤石灯 （建造中）</GlowstoneLamp_Frame.label>
+  <GlowstoneLamp_Frame.description>一盏安装了两个小块萤石的灯，适合于卧室或工作室。</GlowstoneLamp_Frame.description>
 
 
   <!-- OutdoorLights -->
 
-  <OutdoorGroundLamp.label>outdoor lamp</OutdoorGroundLamp.label>
-  <OutdoorGroundLamp.description>A small ground lamp that is powered by the sun. People need light to move and work at full speed. It lights a small area outdoors.</OutdoorGroundLamp.description>
-  <OutdoorGroundLamp_Blueprint.label>outdoor lamp (blueprint)</OutdoorGroundLamp_Blueprint.label>
-  <OutdoorGroundLamp_Blueprint_Install.label>outdoor lamp (blueprint)</OutdoorGroundLamp_Blueprint_Install.label>
-  <OutdoorGroundLamp_Frame.label>outdoor lamp (building)</OutdoorGroundLamp_Frame.label>
-  <OutdoorGroundLamp_Frame.description>A small ground lamp that is powered by the sun. People need light to move and work at full speed. It lights a small area outdoors.</OutdoorGroundLamp_Frame.description>
+  <OutdoorGroundLamp.label>户外地灯</OutdoorGroundLamp.label>
+  <OutdoorGroundLamp.description>一盏小地灯，它的能量来自于太阳。它可以照亮室外的一小块区域。人员在明亮的环境中才能全速移动和工作。</OutdoorGroundLamp.description>
+  <OutdoorGroundLamp_Blueprint.label>户外地灯 （蓝图）</OutdoorGroundLamp_Blueprint.label>
+  <OutdoorGroundLamp_Blueprint_Install.label>户外地灯 （蓝图）</OutdoorGroundLamp_Blueprint_Install.label>
+  <OutdoorGroundLamp_Frame.label>户外地灯 （建造中）</OutdoorGroundLamp_Frame.label>
+  <OutdoorGroundLamp_Frame.description>一盏小地灯，它的能量来自于太阳。它可以照亮室外的一小块区域。人员在明亮的环境中才能全速移动和工作。</OutdoorGroundLamp_Frame.description>
 
-  <Lighting_PathLamp.label>path light</Lighting_PathLamp.label>
-  <Lighting_PathLamp.description>Small light with built in solar panel that lights an area. People need light to move and work at full speed.</Lighting_PathLamp.description>
-  <Lighting_PathLamp_Blueprint.label>path light (blueprint)</Lighting_PathLamp_Blueprint.label>
-  <Lighting_PathLamp_Blueprint_Install.label>path light (blueprint)</Lighting_PathLamp_Blueprint_Install.label>
-  <Lighting_PathLamp_Frame.label>path light (building)</Lighting_PathLamp_Frame.label>
-  <Lighting_PathLamp_Frame.description>Small light with built in solar panel that lights an area. People need light to move and work at full speed.</Lighting_PathLamp_Frame.description>
+  <Lighting_PathLamp.label>路灯</Lighting_PathLamp.label>
+  <Lighting_PathLamp.description>内置太阳能电池板的小灯，可以照亮一片区域。人员在明亮的环境中才能全速移动和工作。</Lighting_PathLamp.description>
+  <Lighting_PathLamp_Blueprint.label>路灯 （蓝图）</Lighting_PathLamp_Blueprint.label>
+  <Lighting_PathLamp_Blueprint_Install.label>路灯 （蓝图）</Lighting_PathLamp_Blueprint_Install.label>
+  <Lighting_PathLamp_Frame.label>路灯 （建造中）</Lighting_PathLamp_Frame.label>
+  <Lighting_PathLamp_Frame.description>内置太阳能电池板的小灯，可以照亮一片区域。人员在明亮的环境中才能全速移动和工作。</Lighting_PathLamp_Frame.description>
 
-  <WallLamp.label>wall lamp</WallLamp.label>
-  <WallLamp.description>A lamp that must be placed against a supporting wall. People need light to move and work at full speed. Requires 80 W. It has a bigger glow than most lights.</WallLamp.description>
-  <WallLamp_Blueprint.label>wall lamp (blueprint)</WallLamp_Blueprint.label>
-  <WallLamp_Blueprint_Install.label>wall lamp (blueprint)</WallLamp_Blueprint_Install.label>
-  <WallLamp_Frame.label>wall lamp (building)</WallLamp_Frame.label>
-  <WallLamp_Frame.description>A lamp that must be placed against a supporting wall. People need light to move and work at full speed. Requires 80 W. It has a bigger glow than most lights.</WallLamp_Frame.description>
+  <WallLamp.label>壁灯</WallLamp.label>
+  <WallLamp.description>必须靠着支撑墙放置的灯具。人员在明亮的环境中才能全速移动和工作。这种灯的照亮范围比一般的灯要大些。电力需求：80W。</WallLamp.description>
+  <WallLamp_Blueprint.label>壁灯 （蓝图）</WallLamp_Blueprint.label>
+  <WallLamp_Blueprint_Install.label>壁灯 （蓝图）</WallLamp_Blueprint_Install.label>
+  <WallLamp_Frame.label>壁灯 （建造中）</WallLamp_Frame.label>
+  <WallLamp_Frame.description>必须靠着支撑墙放置的灯具。人员在明亮的环境中才能全速移动和工作。这种灯的照亮范围比一般的灯要大些。电力需求：80W。</WallLamp_Frame.description>
 
-  <Lighting_WallLight.label>wall light</Lighting_WallLight.label>
-  <Lighting_WallLight.description>A small light that must be placed on a supporting wall. People need light to move and work at full speed. Requires 70 W.</Lighting_WallLight.description>
-  <Lighting_WallLight_Blueprint.label>wall light (blueprint)</Lighting_WallLight_Blueprint.label>
-  <Lighting_WallLight_Blueprint_Install.label>wall light (blueprint)</Lighting_WallLight_Blueprint_Install.label>
-  <Lighting_WallLight_Frame.label>wall light (building)</Lighting_WallLight_Frame.label>
-  <Lighting_WallLight_Frame.description>A small light that must be placed on a supporting wall. People need light to move and work at full speed. Requires 70 W.</Lighting_WallLight_Frame.description>
+  <Lighting_WallLight.label>墙灯</Lighting_WallLight.label>
+  <Lighting_WallLight.description>一盏必须放置在支撑墙面上的小灯。人员在明亮的环境中才能全速移动和工作。电力需求：70W。</Lighting_WallLight.description>
+  <Lighting_WallLight_Blueprint.label>墙灯 （蓝图）</Lighting_WallLight_Blueprint.label>
+  <Lighting_WallLight_Blueprint_Install.label>墙灯 （蓝图）</Lighting_WallLight_Blueprint_Install.label>
+  <Lighting_WallLight_Frame.label>墙灯 （建造中）</Lighting_WallLight_Frame.label>
+  <Lighting_WallLight_Frame.description>一盏必须放置在支撑墙面上的小灯。人员在明亮的环境中才能全速移动和工作。电力需求：70W。</Lighting_WallLight_Frame.description>
 
 
   <!-- SQUARE FLOOR LIGHTS -->
 
-  <FloorLightSquare.label>square floor light (white)</FloorLightSquare.label>
-  <FloorLightSquare.description>A square floor light integrated into the ground with a white lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare.description>
-  <FloorLightSquare_Blueprint.label>square floor light (white) (blueprint)</FloorLightSquare_Blueprint.label>
-  <FloorLightSquare_Blueprint_Install.label>square floor light (white) (blueprint)</FloorLightSquare_Blueprint_Install.label>
-  <FloorLightSquare_Frame.label>square floor light (white) (building)</FloorLightSquare_Frame.label>
-  <FloorLightSquare_Frame.description>A square floor light integrated into the ground with a white lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Frame.description>
+  <FloorLightSquare.label>方形地灯 （白）</FloorLightSquare.label>
+  <FloorLightSquare.description>一盏方形的落地灯融入地面，配上一盏白色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare.description>
+  <FloorLightSquare_Blueprint.label>方形地灯 （白） （蓝图）</FloorLightSquare_Blueprint.label>
+  <FloorLightSquare_Blueprint_Install.label>方形地灯 （白） （蓝图）</FloorLightSquare_Blueprint_Install.label>
+  <FloorLightSquare_Frame.label>方形地灯 （白） （建造中）</FloorLightSquare_Frame.label>
+  <FloorLightSquare_Frame.description>一盏方形的落地灯融入地面，配上一盏白色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare_Frame.description>
 
-  <FloorLightSquare_Red.label>square floor light (red)</FloorLightSquare_Red.label>
-  <FloorLightSquare_Red.description>A square floor light integraded into the ground with a red lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Red.description>
-  <FloorLightSquare_Red_Blueprint.label>square floor light (red) (blueprint)</FloorLightSquare_Red_Blueprint.label>
-  <FloorLightSquare_Red_Blueprint_Install.label>square floor light (red) (blueprint)</FloorLightSquare_Red_Blueprint_Install.label>
-  <FloorLightSquare_Red_Frame.label>square floor light (red) (building)</FloorLightSquare_Red_Frame.label>
-  <FloorLightSquare_Red_Frame.description>A square floor light integraded into the ground with a red lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Red_Frame.description>
+  <FloorLightSquare_Red.label>方形地灯 （红）</FloorLightSquare_Red.label>
+  <FloorLightSquare_Red.description>一盏方形的落地灯融入地面，配上一盏红色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare_Red.description>
+  <FloorLightSquare_Red_Blueprint.label>方形地灯 （红） （蓝图）</FloorLightSquare_Red_Blueprint.label>
+  <FloorLightSquare_Red_Blueprint_Install.label>方形地灯 （红） （蓝图）</FloorLightSquare_Red_Blueprint_Install.label>
+  <FloorLightSquare_Red_Frame.label>方形地灯 （红） （建造中）</FloorLightSquare_Red_Frame.label>
+  <FloorLightSquare_Red_Frame.description>一盏方形的落地灯融入地面，配上一盏红色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare_Red_Frame.description>
 
-  <FloorLightSquare_Green.label>square floor light (green)</FloorLightSquare_Green.label>
-  <FloorLightSquare_Green.description>A square floor light integrated into the ground with a green lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Green.description>
-  <FloorLightSquare_Green_Blueprint.label>square floor light (green) (blueprint)</FloorLightSquare_Green_Blueprint.label>
-  <FloorLightSquare_Green_Blueprint_Install.label>square floor light (green) (blueprint)</FloorLightSquare_Green_Blueprint_Install.label>
-  <FloorLightSquare_Green_Frame.label>square floor light (green) (building)</FloorLightSquare_Green_Frame.label>
-  <FloorLightSquare_Green_Frame.description>A square floor light integrated into the ground with a green lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Green_Frame.description>
+  <FloorLightSquare_Green.label>方形地灯 （绿）</FloorLightSquare_Green.label>
+  <FloorLightSquare_Green.description>一盏方形的落地灯融入地面，配上一盏绿色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare_Green.description>
+  <FloorLightSquare_Green_Blueprint.label>方形地灯 （绿） （蓝图）</FloorLightSquare_Green_Blueprint.label>
+  <FloorLightSquare_Green_Blueprint_Install.label>方形地灯 （绿） （蓝图）</FloorLightSquare_Green_Blueprint_Install.label>
+  <FloorLightSquare_Green_Frame.label>方形地灯 （绿） （建造中）</FloorLightSquare_Green_Frame.label>
+  <FloorLightSquare_Green_Frame.description>一盏方形的落地灯融入地面，配上一盏绿色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare_Green_Frame.description>
 
-  <FloorLightSquare_Blue.label>square floor light (blue)</FloorLightSquare_Blue.label>
-  <FloorLightSquare_Blue.description>A square floor light integrated into the ground with a blue lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Blue.description>
-  <FloorLightSquare_Blue_Blueprint.label>square floor light (blue) (blueprint)</FloorLightSquare_Blue_Blueprint.label>
-  <FloorLightSquare_Blue_Blueprint_Install.label>square floor light (blue) (blueprint)</FloorLightSquare_Blue_Blueprint_Install.label>
-  <FloorLightSquare_Blue_Frame.label>square floor light (blue) (building)</FloorLightSquare_Blue_Frame.label>
-  <FloorLightSquare_Blue_Frame.description>A square floor light integrated into the ground with a blue lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W.</FloorLightSquare_Blue_Frame.description>
+  <FloorLightSquare_Blue.label>方形地灯 （蓝）</FloorLightSquare_Blue.label>
+  <FloorLightSquare_Blue.description>一盏方形的落地灯融入地面，配上一盏蓝色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare_Blue.description>
+  <FloorLightSquare_Blue_Blueprint.label>方形地灯 （蓝） （蓝图）</FloorLightSquare_Blue_Blueprint.label>
+  <FloorLightSquare_Blue_Blueprint_Install.label>方形地灯 （蓝） （蓝图）</FloorLightSquare_Blue_Blueprint_Install.label>
+  <FloorLightSquare_Blue_Frame.label>方形地灯 （蓝） （建造中）</FloorLightSquare_Blue_Frame.label>
+  <FloorLightSquare_Blue_Frame.description>一盏方形的落地灯融入地面，配上一盏蓝色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare_Blue_Frame.description>
 
-  <FloorAddonA.label>Zone marker</FloorAddonA.label>
-  <FloorAddonA.description>Simple slab of steel with some paint on it.</FloorAddonA.description>
-  <FloorAddonA_Blueprint.label>Zone marker (blueprint)</FloorAddonA_Blueprint.label>
-  <FloorAddonA_Blueprint_Install.label>Zone marker (blueprint)</FloorAddonA_Blueprint_Install.label>
-  <FloorAddonA_Frame.label>Zone marker (building)</FloorAddonA_Frame.label>
-  <FloorAddonA_Frame.description>Simple slab of steel with some paint on it.</FloorAddonA_Frame.description>
+  <FloorAddonA.label>区域标记</FloorAddonA.label>
+  <FloorAddonA.description>简单的钢筋板，再加上一些涂料。</FloorAddonA.description>
+  <FloorAddonA_Blueprint.label>区域标记 （蓝图）</FloorAddonA_Blueprint.label>
+  <FloorAddonA_Blueprint_Install.label>区域标记 （蓝图）</FloorAddonA_Blueprint_Install.label>
+  <FloorAddonA_Frame.label>区域标记 （建造中）</FloorAddonA_Frame.label>
+  <FloorAddonA_Frame.description>简单的钢筋板，再加上一些涂料。</FloorAddonA_Frame.description>
 
 
 </LanguageData>

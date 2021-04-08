@@ -3,59 +3,59 @@
 
   <!-- Note this is a ConditionCauser -->
 
-  <PsychicDronerShipPart.label>ship part (psychic droner)</PsychicDronerShipPart.label>
-  <PsychicDronerShipPart.description>An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself.</PsychicDronerShipPart.description>
+  <PsychicDronerShipPart.label>飞船部件（灵质）</PsychicDronerShipPart.label>
+  <PsychicDronerShipPart.description>一块来历不明的古老飞船残骸，它可能有数千年的历史了。\n\n这块残骸里有一个心灵干扰装置，靠着无法理解的远古技术，它能够发出驱动附近一大片范围人类和动物发疯的特殊心灵波。</PsychicDronerShipPart.description>
 
 
   <!-- Defoliator ship part -->
 
-  <DefoliatorShipPart.label>ship part (defoliator)</DefoliatorShipPart.label>
-  <DefoliatorShipPart.description>An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests during land, to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies.</DefoliatorShipPart.description>
+  <DefoliatorShipPart.label>飞船部件（枯萎）</DefoliatorShipPart.label>
+  <DefoliatorShipPart.description>一块来历不明的古老飞船残骸，它可能有数千年的历史了。\n\n这一块残骸内包含了一个特殊装置，能够在不影响活着的动物的情况下消灭它周围的植物。这类武器有时会被散布至陆地上的农田或者森林里，用以在不损坏领地的情况下除掉敌人的粮食供应和避难所。它们通常与轨道空投的机械体敌人相关。</DefoliatorShipPart.description>
 
-  <ShipMechChunk.label>ship mechanics chunk</ShipMechChunk.label>
-  <ShipMechChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful mechanisms, wire and electronic components.</ShipMechChunk.description>
+  <ShipMechChunk.label>飞船机械碎片</ShipMechChunk.label>
+  <ShipMechChunk.description>飞船的一部分碎片。可以拆出有用的机械零件，线缆和电子零件。</ShipMechChunk.description>
 
-  <CrashedShipWreck.label>crashed ship wreck</CrashedShipWreck.label>
-  <ShipWreck.label>ship wreck</ShipWreck.label>
+  <CrashedShipWreck.label>坠毁的飞船残骸</CrashedShipWreck.label>
+  <ShipWreck.label>飞船残骸</ShipWreck.label>
 
-  <ShipChunk.label>Ship chunk</ShipChunk.label>
-  <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful metals and components and mechanisms.</ShipChunk.description>
+  <ShipChunk.label>飞船碎片</ShipChunk.label>
+  <ShipChunk.description>飞船的一部分。可以拆出有用的金属、零部件和机械组件。</ShipChunk.description>
 
-  <Totem.label>totem</Totem.label>
-  <Totem.description>A person-sized piece of material sculpted into an artistic form.</Totem.description>
-  <Totem_Blueprint.label>totem (blueprint)</Totem_Blueprint.label>
-  <Totem_Frame.label>totem (building)</Totem_Frame.label>
-  <Totem_Frame.description>A person-sized piece of material sculpted into an artistic form.</Totem_Frame.description>
+  <Totem.label>图腾</Totem.label>
+  <Totem.description>一个人型大小的人造物。</Totem.description>
+  <Totem_Blueprint.label>图腾 （蓝图）</Totem_Blueprint.label>
+  <Totem_Frame.label>图腾 （建造中）</Totem_Frame.label>
+  <Totem_Frame.description>一个人型大小的人造物。</Totem_Frame.description>
 
-  <Cairn.label>cairn</Cairn.label>
-  <Cairn.description>A person-sized piece of material sculpted into an artistic form.</Cairn.description>
-  <Cairn_Blueprint.label>cairn (blueprint)</Cairn_Blueprint.label>
-  <Cairn_Frame.label>cairn (building)</Cairn_Frame.label>
-  <Cairn_Frame.description>A person-sized piece of material sculpted into an artistic form.</Cairn_Frame.description>
+  <Cairn.label>石标</Cairn.label>
+  <Cairn.description>一个人型大小的人造物。</Cairn.description>
+  <Cairn_Blueprint.label>石标 （蓝图）</Cairn_Blueprint.label>
+  <Cairn_Frame.label>石标 （建造中）</Cairn_Frame.label>
+  <Cairn_Frame.description>一个人型大小的人造物。</Cairn_Frame.description>
 
-  <HeadPike.label>headpike</HeadPike.label>
-  <HeadPike.description>A head stuck on a pike, ooo scary.</HeadPike.description>
-  <HeadPike_Blueprint.label>headpike (blueprint)</HeadPike_Blueprint.label>
-  <HeadPike_Frame.label>headpike (building)</HeadPike_Frame.label>
-  <HeadPike_Frame.description>A head stuck on a pike, ooo scary.</HeadPike_Frame.description>
+  <HeadPike.label>颅标</HeadPike.label>
+  <HeadPike.description>一颗头颅插在一根长矛上，令人毛骨悚然！</HeadPike.description>
+  <HeadPike_Blueprint.label>颅标 （蓝图）</HeadPike_Blueprint.label>
+  <HeadPike_Frame.label>颅标 （建造中）</HeadPike_Frame.label>
+  <HeadPike_Frame.description>一颗头颅插在一根长矛上，令人毛骨悚然！</HeadPike_Frame.description>
 
-  <AncientPowerPole.label>ancient power pole</AncientPowerPole.label>
-  <AncientPowerPole.description>Part of a long gone power network. No longer functional.</AncientPowerPole.description>
+  <AncientPowerPole.label>古代电线杆</AncientPowerPole.label>
+  <AncientPowerPole.description>属于一个早已消失的电力网络。已无法使用。</AncientPowerPole.description>
 
-  <ToxicSign.label>toxic sign</ToxicSign.label>
-  <ToxicSign.description>Road sign warning of toxic danger from long ago.</ToxicSign.description>
+  <ToxicSign.label>毒性标志</ToxicSign.label>
+  <ToxicSign.description>路牌，从很久以前就开始警示有毒危险了。</ToxicSign.description>
 
-  <ToxicBarrel.label>toxic barrel</ToxicBarrel.label>
-  <ToxicBarrel.description>Barrel of toxic waste from long ago still doing damage to its environment.</ToxicBarrel.description>
+  <ToxicBarrel.label>毒物桶</ToxicBarrel.label>
+  <ToxicBarrel.description>桶装的有毒废物，时至今日仍在对环境造成破坏。</ToxicBarrel.description>
 
-  <APCWreck.label>destroyed apc</APCWreck.label>
-  <APCWreck.description>Wreck of an ancient armoured military vehicle. No longer functional.</APCWreck.description>
+  <APCWreck.label>毁坏的装甲车</APCWreck.label>
+  <APCWreck.description>一辆古代军用装甲载具的残骸。已无法使用。</APCWreck.description>
 
 
   <!-- Landed Skyfallers -->
 
-  <DropPodLanded.label>drop pod wreckage</DropPodLanded.label>
-  <ShipWreckLanded.label>ship wreck</ShipWreckLanded.label>
+  <DropPodLanded.label>空降仓残骸</DropPodLanded.label>
+  <ShipWreckLanded.label>飞船残骸</ShipWreckLanded.label>
 
 
 </LanguageData>

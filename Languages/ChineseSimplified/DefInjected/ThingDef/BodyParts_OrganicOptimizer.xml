@@ -3,23 +3,14 @@
 
   <!-- Organic optimizing nanobots -->
 
-  <OrganicOptimizingNanobots.label>organic optimizing nanobots</OrganicOptimizingNanobots.label>
-  <OrganicOptimizingNanobots.description>Advanced nanobots which help bring out the full potential of the natural body. It takes 3 days for the process to complete, requiring more rest and a higher food intake. At the end of this grueling process the nanobots break down and dissolve, leaving no trace.\n\nThe average person will accept it, body purists will be delighted, while transhumanists utterly abhor it.\n\nPart efficiency increase when fully developed after 3 days: +15%</OrganicOptimizingNanobots.description>
+  <OrganicOptimizingNanobots.label>机体优化纳米机器人</OrganicOptimizingNanobots.label>
+  <OrganicOptimizingNanobots.description>先进的纳米机器人有助于发挥肉体的全部潜能。该过程需要3天才能完成，期间需要更多的休息和食物的摄入。在这个艰苦的过程结束时，纳米机器人会分解消失，不会留下任何痕迹。\n\n这对于普通人来说是可接受的，对于身体纯粹主义者来说是令人喜悦的，而对于超人类主义者来说则是令人厌恶的。\n\n部件效率在3天完全开发后提高：+15%</OrganicOptimizingNanobots.description>
 
 
   <!-- Instinct optimizing nanobots -->
 
-  <InstinctOptimizingNanobots.label>instinct optimizing nanobots</InstinctOptimizingNanobots.label>
-  <InstinctOptimizingNanobots.description>Advanced nanobots which assist the the natural body with imprinting beneficial instinctual reaction sequences into the organic tissues. It takes 4 days for the full process to complete, requiring more rest and a higher food intake. At the end of this grueling process, the nanobots break down and dissolve, leaving no trace.
-Transhumanists utterly abhor this change. The mood penalty displayed in the information only applies to Transhumanists.
-
-Improvements when fully developed from the following body parts after 4 days:
-
-Eyes: +5% part efficiency, +2.5 shooting accuracy, -2.5% aim delay, +1 melee hit chance, +1 melee dodge chance.
-
-Hands: +5% part efficiency, +5% global work speed, +4 melee hit chance, -7.5% aim delay.
-
-Feet: +5% part efficiency, +0.1 c/s move speed, +5 melee dodge chance.</InstinctOptimizingNanobots.description>
+  <InstinctOptimizingNanobots.label>超感优化纳米机器人</InstinctOptimizingNanobots.label>
+  <InstinctOptimizingNanobots.description>先进的纳米机器人有助于人体协调感官、肉体、应急反射等因素，从而发挥肉体的全部潜能。整个过程需要4天才能完成，期间需要更多的休息和食物的摄入。在这个艰苦的过程结束时，纳米机器人会分解消失，不会留下任何痕迹。\n\n对于超人类主义者来说这是令人厌恶的。信息中显示的情绪惩罚只适用于超人类主义者。\n\n经过4天完全开发后，身体各关联部件提升情况为：\n眼：+5%部件效率，+2.5射击精度，-2.5%瞄准时间，+1近战命中，+1近战闪避。\n手：+5%部件效率，+5%全局工作速度，+4近战命中，-7.5%瞄准时间。\n脚：+5%部件效率，+0.1格/秒移动速度，+5近战闪避。</InstinctOptimizingNanobots.description>
 
 
 </LanguageData>

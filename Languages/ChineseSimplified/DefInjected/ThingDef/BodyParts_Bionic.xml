@@ -3,38 +3,37 @@
 
   <!-- Bionic parts -->
 
-  <BionicHand.label>bionic hand</BionicHand.label>
-  <BionicHand.description>Allows the user to perform tasks even faster than with regular hands.</BionicHand.description>
+  <BionicHand.label>仿生手</BionicHand.label>
+  <BionicHand.description>比起普通的手，能让使用者更快地完成任务。</BionicHand.description>
 
-  <BionicFoot.label>bionic foot</BionicFoot.label>
-  <BionicFoot.description>This prosthesis grants faster walking without stumbling all the time.</BionicFoot.description>
+  <BionicFoot.label>仿生足</BionicFoot.label>
+  <BionicFoot.description>这种假体能给你更快的行走速度，而且任何时候都不会被绊倒。</BionicFoot.description>
 
-  <BionicEar.label>bionic ear implant</BionicEar.label>
-  <BionicEar.description>An advanced device that expands upon the basic functions of the ear drum.</BionicEar.description>
+  <BionicEar.label>仿生耳</BionicEar.label>
+  <BionicEar.description>这个先进设备能扩展耳鼓的基本功能。</BionicEar.description>
 
-  <BionicJaw.label>bionic jaw implant</BionicJaw.label>
-  <BionicJaw.description>Aside from a strong set of teeth, this also comes with a voice modulator.</BionicJaw.description>
+  <BionicJaw.label>仿生颌</BionicJaw.label>
+  <BionicJaw.description>除了一套更强劲的牙齿，还附带一个声音调节器。</BionicJaw.description>
 
-  <BionicSpine.label>bionic spine</BionicSpine.label>
-  <BionicSpine.description>This light and impressing device can replace a damaged spine.</BionicSpine.description>
+  <BionicSpine.label>仿生脊椎</BionicSpine.label>
+  <BionicSpine.description>这种轻便且引人注意的设备可以替代受损的脊椎。</BionicSpine.description>
 
-  <BionicEye.label>bionic eye</BionicEye.label>
-  <BionicEye.description>Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities.</BionicEye.description>
+  <BionicEye.label>仿生眼</BionicEye.label>
+  <BionicEye.description>高端科技的产物，仿生眼不仅能完全替代自然眼睛的功能，还能赋予使用者超常的视力。</BionicEye.description>
 
-  <BionicArm.label>bionic arm</BionicArm.label>
-  <BionicArm.description>One of the most sophisticated arm replacements. It gives extreme strength to its user.</BionicArm.description>
+  <BionicArm.label>仿生臂</BionicArm.label>
+  <BionicArm.description>最精密的手臂替代品之一，赋予使用者爆发出无与伦比的力量。</BionicArm.description>
 
-  <BionicLeg.label>bionic leg</BionicLeg.label>
-  <BionicLeg.description>A Bionic Leg uses cutting-edge technology to give its owner extreme walking comfort and strength.</BionicLeg.description>
+  <BionicLeg.label>仿生腿</BionicLeg.label>
+  <BionicLeg.description>尖端科技制成的仿生腿，可以给使用者带来极端的步行舒适度和力量。</BionicLeg.description>
 
-  <PowerClaw.label>power claw</PowerClaw.label>
-  <PowerClaw.description>Powerful hand replacement consisting of three deadly claws.</PowerClaw.description>
+  <PowerClaw.label>动力爪</PowerClaw.label>
+  <PowerClaw.description>一种由三个致命利爪组成的强大的手部替代品。</PowerClaw.description>
 
-  <BrainStimulator.label>brain stimulator</BrainStimulator.label>
-  <BrainStimulator.description>A small device that sends electric shocks to the brain to slightly boost consciousness and mobility.</BrainStimulator.description>
+  <BrainStimulator.label>脑激励器</BrainStimulator.label>
+  <BrainStimulator.description>对大脑剩余部分尽最大可能进行刺激的小设备。建议仅用于严重大脑损伤。</BrainStimulator.description>
 
-  <AIChip.label>AI Chip</AIChip.label>
-  <AIChip.description>Through special chemicals and electric shocks this little chip is able to significantly boost the users consciousness and mobility.</AIChip.description>
-
+  <AIChip.label>AI芯片</AIChip.label>
+  <AIChip.description>通过特殊的化学物质和电脉冲，这种小小的芯片可以完全恢复使用者的意识和行动能力。</AIChip.description>
 
 </LanguageData>

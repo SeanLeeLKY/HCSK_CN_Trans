@@ -3,36 +3,35 @@
 
   <!-- Hats -->
 
-  <Apparel_Bonnet.label>bonnet</Apparel_Bonnet.label>
+  <Apparel_Bonnet.label>童帽</Apparel_Bonnet.label>
+  <Apparel_Bonnet.description>童帽</Apparel_Bonnet.description>
 
-  <CryptosleepHat.label>Cryptosleep slave hat</CryptosleepHat.label>
-  <CryptosleepHat.description>A half-head head-dress designed for extended cryptosleep. You can rest easy knowing your head won't be naked for hundreds or thousands of years while you sleep.</CryptosleepHat.description>
+  <CryptosleepHat.label>休眠奴隶帽</CryptosleepHat.label>
+  <CryptosleepHat.description>一顶为长时间休眠而设计的半面帽子。你可以放心，因为你知道你的头不会在你睡觉的时候裸露成百上千年。</CryptosleepHat.description>
 
 
   <!-- Tribal Tech -->
 
-  <Apparel_RagDress.label>ragged dress</Apparel_RagDress.label>
-  <Apparel_RagDress.description>A very basic slave outfit made from cloth and can be crafted anywhere. Decrease social standing, but improving work speed and mental threshold.</Apparel_RagDress.description>
+  <Apparel_RagDress.label>粗陋衣服</Apparel_RagDress.label>
+  <Apparel_RagDress.description>用布做的很基础的奴隶装，可以在任何地方制作。降低社会地位，但提高工作速度和心理预期。</Apparel_RagDress.description>
 
-  <Apparel_RagDressB.label>ragged tunic</Apparel_RagDressB.label>
-  <Apparel_RagDressB.description>A simple servant outfit made from cloth. Decrease social standing, but improving work speed and mental threshold.</Apparel_RagDressB.description>
+  <Apparel_RagDressB.label>粗陋短袍</Apparel_RagDressB.label>
+  <Apparel_RagDressB.description>用布做的简单的仆人装。降低社会地位，但提高工作速度和心理预期。</Apparel_RagDressB.description>
 
 
   <!-- Medieval Tech -->
 
-  <Apparel_TunicPoor.label>poor tunic</Apparel_TunicPoor.label>
-  <Apparel_TunicPoor.description>A single piece apparel commonly used by peasants that only consist of leather belt and poorly made tunic. It offer a bit of protection from the cold.</Apparel_TunicPoor.description>
+  <Apparel_TunicPoor.label>劣质短袍</Apparel_TunicPoor.label>
+  <Apparel_TunicPoor.description>农民常用的单件服装，只有皮腰带和劣质面料。它能提供一点御寒的功能。</Apparel_TunicPoor.description>
 
-  <Apparel_TunicFine.label>fine tunic</Apparel_TunicFine.label>
-  <Apparel_TunicFine.description>A single piece apparel commonly wore by peasant that consist of finely made tunic and leather belt. Offer moderate protection against cold.</Apparel_TunicFine.description>
+  <Apparel_TunicFine.label>精致短袍</Apparel_TunicFine.label>
+  <Apparel_TunicFine.description>农民常穿的单件服装，由做工精细的外衣和皮带组成。具有一定的防寒作用。</Apparel_TunicFine.description>
 
 
   <!-- Victorian Tech -->
 
-  <Apparel_VicScullery.label>scullery maid uniform</Apparel_VicScullery.label>
-  <Apparel_VicScullery.description>A design from an era of humanity's first industrial revolution. A scullery maid is the lowest-ranked of female servants responsible for washing dishes and doing other menial household chores. 
-
-    The male equivalent is called a hall boy, whose duties were often among the most disagreeable in the house, such as emptying chamber pots for the higher-ranking servants, and cleaning the boots.</Apparel_VicScullery.description>
+  <Apparel_VicScullery.label>仆人服</Apparel_VicScullery.label>
+  <Apparel_VicScullery.description>人类第一次工业革命时代的设计。侍女是女仆中最低级的一种，负责洗碗和做其他琐碎的家务。\n而男性被称为厅童，他的职责往往是家里最低下的，比如为上等仆人清空室盆，清洗靴子等。</Apparel_VicScullery.description>
 
 
 </LanguageData>

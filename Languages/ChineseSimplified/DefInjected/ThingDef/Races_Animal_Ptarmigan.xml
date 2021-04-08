@@ -3,14 +3,14 @@
 
   <!-- Animal -->
 
-  <Ptarmigan.label>Ptarmigan</Ptarmigan.label>
-  <Ptarmigan.description>A small gamebird notable for its feathered feet, to better survive in frigid temperatures.</Ptarmigan.description>
-  <Ptarmigan.tools.0.label>claws</Ptarmigan.tools.0.label>
-  <Ptarmigan.tools.2.label>head</Ptarmigan.tools.2.label>
+  <Ptarmigan.label>松鸡</Ptarmigan.label>
+  <Ptarmigan.description>一种小型猎禽，以其长有羽毛的脚而著名，能更好地在寒冷的温度下生存。</Ptarmigan.description>
+  <Ptarmigan.tools.0.label>爪</Ptarmigan.tools.0.label>
+  <Ptarmigan.tools.2.label>头</Ptarmigan.tools.2.label>
   <!-- Leather Amount: 0 -->
   <!-- Use Meat From: Elephant -->
-  <Ptarmigan_Corpse.label>Ptarmigan corpse</Ptarmigan_Corpse.label>
-  <Ptarmigan_Corpse.description>Ptarmigan corpse</Ptarmigan_Corpse.description>
+  <Ptarmigan_Corpse.label>松鸡尸体</Ptarmigan_Corpse.label>
+  <Ptarmigan_Corpse.description>松鸡尸体</Ptarmigan_Corpse.description>
 
 
 </LanguageData>

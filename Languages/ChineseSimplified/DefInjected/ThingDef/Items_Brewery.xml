@@ -3,57 +3,57 @@
 
   <!-- Yeast -->
 
-  <Yeast.label>Yeast</Yeast.label>
-  <Yeast.description>Processed Yeast used in fermentation.</Yeast.description>
-  <Yeast.stuffProps.stuffAdjective>Yeast</Yeast.stuffProps.stuffAdjective>
+  <Yeast.label>酵母</Yeast.label>
+  <Yeast.description>用于发酵过程的基料之一。</Yeast.description>
+  <Yeast.stuffProps.stuffAdjective>酵母</Yeast.stuffProps.stuffAdjective>
 
 
   <!-- Grain Mash -->
 
-  <grainmash.label>Grain Mash</grainmash.label>
-  <grainmash.description>A mixture of yeast and wheat to ferment into Whisky.</grainmash.description>
+  <grainmash.label>威士忌酿料</grainmash.label>
+  <grainmash.description>一种混合了酵母和小麦用于发酵生产威士忌的混合物料。</grainmash.description>
 
 
   <!-- Saké Mash -->
 
-  <sakemash.label>Saké Mash</sakemash.label>
-  <sakemash.description>A mixture of yeast and rice to ferment into Saké.</sakemash.description>
+  <sakemash.label>清酒酿料</sakemash.label>
+  <sakemash.description>一种混合了酵母和稻米用于发酵生产清酒的混合物料。</sakemash.description>
 
 
   <!-- Rum Mash -->
 
-  <rummash.label>Rum Mash</rummash.label>
-  <rummash.description>A mixture of yeast and sugar cane to ferment into Rum.</rummash.description>
+  <rummash.label>朗姆酒酿料</rummash.label>
+  <rummash.description>一种混合了酵母和甘蔗用于发酵生产朗姆酒的混合物料。</rummash.description>
 
 
   <!-- Cider Mash -->
 
-  <cidermash.label>Cider Mash</cidermash.label>
-  <cidermash.description>A mixture of yeast and apples to ferment into Cider.</cidermash.description>
+  <cidermash.label>苹果酒酿料</cidermash.label>
+  <cidermash.description>一种混合了酵母和苹果用于发酵生产苹果酒的混合物料。</cidermash.description>
 
 
   <!-- Berry Mash -->
 
-  <berrymash.label>Berry Mash</berrymash.label>
-  <berrymash.description>A mixture of yeast and various berries to ferment into Berrywine.</berrymash.description>
+  <berrymash.label>浆果酒酿料</berrymash.label>
+  <berrymash.description>一种混合了酵母和多种莓果用于发酵生产浆果酒的混合物料。</berrymash.description>
 
 
   <!-- Vodka Mash -->
 
-  <vodkamash.label>Vodka Mash</vodkamash.label>
-  <vodkamash.description>A mixture of yeast and raw potatoes to ferment into Vodka.</vodkamash.description>
+  <vodkamash.label>伏特加酿料</vodkamash.label>
+  <vodkamash.description>一种混合了酵母和土豆用于发酵生产伏特加的混合物料。</vodkamash.description>
 
 
   <!-- Tequila Mash -->
 
-  <tequilamash.label>Tequila Mash</tequilamash.label>
-  <tequilamash.description>A mixture of yeast and blue agave to ferment into Tequila.</tequilamash.description>
+  <tequilamash.label>龙舌兰酿料</tequilamash.label>
+  <tequilamash.description>一种混合了酵母和龙舌兰草用于发酵生产龙舌兰酒的混合物料。</tequilamash.description>
 
 
   <!-- Wine Mash -->
 
-  <winemash.label>Wine Mash</winemash.label>
-  <winemash.description>A mixture of yeast and grapes to ferment into Wine.</winemash.description>
+  <winemash.label>葡萄酒酿料</winemash.label>
+  <winemash.description>一种混合了酵母和葡萄用于发酵生产葡萄酒的混合物料。</winemash.description>
 
 
 </LanguageData>

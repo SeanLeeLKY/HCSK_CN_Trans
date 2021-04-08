@@ -3,11 +3,11 @@
 
   <!-- FUNGIPONICS -->
 
-  <FungiponicsBasin.label>fungiponics basin</FungiponicsBasin.label>
-  <FungiponicsBasin.description>Derived from the hydroponics basins, the fungiponics basin is designed to grow cave plants. Does only require some initial organic matter to start growing. Sowing mushrooms is difficult and those plants grow at their own pace!</FungiponicsBasin.description>
-  <FungiponicsBasin_Blueprint.label>fungiponics basin (blueprint)</FungiponicsBasin_Blueprint.label>
-  <FungiponicsBasin_Frame.label>fungiponics basin (building)</FungiponicsBasin_Frame.label>
-  <FungiponicsBasin_Frame.description>Derived from the hydroponics basins, the fungiponics basin is designed to grow cave plants. Does only require some initial organic matter to start growing. Sowing mushrooms is difficult and those plants grow at their own pace!</FungiponicsBasin_Frame.description>
+  <FungiponicsBasin.label>菌类养殖盆</FungiponicsBasin.label>
+  <FungiponicsBasin.description>从水培盆衍生出来的菌类种植盆，专门为种植洞穴植物而设计。只需要一些初始有机物就可以开始生长。种植蘑菇非常困难，因为那些植物只想长在它们想长的地方！</FungiponicsBasin.description>
+  <FungiponicsBasin_Blueprint.label>菌类养殖盆（蓝图）</FungiponicsBasin_Blueprint.label>
+  <FungiponicsBasin_Frame.label>菌类养殖盆（建造中）</FungiponicsBasin_Frame.label>
+  <FungiponicsBasin_Frame.description>从水培盆衍生出来的菌类种植盆，专门为种植洞穴植物而设计。只需要一些初始有机物就可以开始生长。种植蘑菇非常困难，因为那些植物只想长在它们想长的地方！</FungiponicsBasin_Frame.description>
 
 
 </LanguageData>

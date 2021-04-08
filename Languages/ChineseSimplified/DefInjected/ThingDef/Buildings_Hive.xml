@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Hive.label>hive</Hive.label>
-  <Hive.description>A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly.</Hive.description>
+  <Hive.label>虫巢</Hive.label>
+  <Hive.description>一个巨型昆虫的巢穴。随着时间会不断繁殖出巨型昆虫和新巢穴，也会产生很有价值的虫胶。</Hive.description>
 
-  <GlowPod.label>glow pod</GlowPod.label>
-  <GlowPod.description>A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies.</GlowPod.description>
-  <GlowPod_Blueprint_Install.label>glow pod (blueprint)</GlowPod_Blueprint_Install.label>
+  <GlowPod.label>荧光茧</GlowPod.label>
+  <GlowPod.description>一个荧光茧，巨型昆虫的产物。能够长时间照亮一片区域，直到枯死。</GlowPod.description>
+  <GlowPod_Blueprint_Install.label>荧光茧（蓝图）</GlowPod_Blueprint_Install.label>
 
 
 </LanguageData>

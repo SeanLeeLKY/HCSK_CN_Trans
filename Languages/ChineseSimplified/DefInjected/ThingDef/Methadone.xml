@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Methadone.label>methadone</Methadone.label>
-  <Methadone.description>An opioid for treating addiction. Prevents users from suffering the negative effects of withdrawal from other drugs, except luciferium. Addiction causes reduced performance and occasional drug binges. Take every day. Discontinue use after withdrawal subsides.</Methadone.description>
-  <Methadone.ingestible.ingestCommandString>Take {0}</Methadone.ingestible.ingestCommandString>
-  <Methadone.ingestible.ingestReportString>Taking {0}.</Methadone.ingestible.ingestReportString>
+  <Methadone.label>美沙酮</Methadone.label>
+  <Methadone.description>一种治疗成瘾的阿片类药物。防止使用者因戒断除魔鬼素以外的其他药物而遭受的负面影响。成瘾会导致能力下降和偶尔的药物滥用。每天一次，停药消退后停止使用。</Methadone.description>
+  <Methadone.ingestible.ingestCommandString>服用{0}</Methadone.ingestible.ingestCommandString>
+  <Methadone.ingestible.ingestReportString>正在服用{0}。</Methadone.ingestible.ingestReportString>
 
 
 </LanguageData>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TobaccoCigarChocolate.label>chocolate cigar</TobaccoCigarChocolate.label>
-  <TobaccoCigarChocolate.description>Cigar use can produce a dependency for nicotine. Can be produced without equipment, at a crafting spot. Requires chocolate and tobacco.</TobaccoCigarChocolate.description>
-  <TobaccoCigarChocolate.ingestible.ingestCommandString>Smoke {0}</TobaccoCigarChocolate.ingestible.ingestCommandString>
-  <TobaccoCigarChocolate.ingestible.ingestReportString>Smoking {0}.</TobaccoCigarChocolate.ingestible.ingestReportString>
+  <TobaccoCigarChocolate.label>巧克力雪茄</TobaccoCigarChocolate.label>
+  <TobaccoCigarChocolate.description>雪茄的使用会产生对尼古丁的依赖性。无需设备即可在手工制作点生产。需要使用巧克力和烟叶来生产。</TobaccoCigarChocolate.description>
+  <TobaccoCigarChocolate.ingestible.ingestCommandString>抽{0}</TobaccoCigarChocolate.ingestible.ingestCommandString>
+  <TobaccoCigarChocolate.ingestible.ingestReportString>正在抽{0}。</TobaccoCigarChocolate.ingestible.ingestReportString>
 
 
 </LanguageData>

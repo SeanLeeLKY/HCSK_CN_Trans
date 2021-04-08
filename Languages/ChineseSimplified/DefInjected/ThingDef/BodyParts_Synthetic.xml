@@ -1,32 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BionicLung.label>synthetic lung</BionicLung.label>
-  <BionicLung.description>A high-tech breathing replacement. Makes a soft whirring sound.</BionicLung.description>
+  <BionicLung.label>合成肺</BionicLung.label>
+  <BionicLung.description>高科技的呼吸替代体。会发出轻柔的呼吸声。</BionicLung.description>
 
-  <BionicStomach.label>synthetic stomach</BionicStomach.label>
-  <BionicStomach.description>An enhanced stomach augmented with synthetic fibres to decrease rejection rate.</BionicStomach.description>
+  <BionicStomach.label>合成胃</BionicStomach.label>
+  <BionicStomach.description>增强型胃，通过使用更优良的合成织物来增强吸收率。</BionicStomach.description>
 
-  <BionicLiver.label>synthetic liver</BionicLiver.label>
-  <BionicLiver.description>An enhanced liver augmented with synthetic fibers to decrease rejection rate.</BionicLiver.description>
+  <BionicLiver.label>合成肝</BionicLiver.label>
+  <BionicLiver.description>增强型肝，通过使用更优良的合成织物来增强代谢率。</BionicLiver.description>
 
-  <BionicKidney.label>synthetic kidney</BionicKidney.label>
-  <BionicKidney.description>An enhanced kidney augmented with synthetic fibers to decrease rejection rate.</BionicKidney.description>
+  <BionicKidney.label>合成肾</BionicKidney.label>
+  <BionicKidney.description>增强型肾，通过使用更优良的合成织物来增强代谢率。</BionicKidney.description>
 
-  <BionicHeart.label>bionic heart</BionicHeart.label>
-  <BionicHeart.description>An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way.</BionicHeart.description>
+  <BionicHeart.label>仿生心脏</BionicHeart.label>
+  <BionicHeart.description>一个先进的人工心脏，其中合成的肌肉纤维将以比生物心脏强的功率泵动血液，以达到更强的血液循环能力。</BionicHeart.description>
 
-  <Joywire.label>joywire</Joywire.label>
-  <Joywire.description>This little brain implant will make you feel happy and relaxed. Requires brain surgery research before installing.</Joywire.description>
+  <Joywire.label>乐丝芯片</Joywire.label>
+  <Joywire.description>这个小小的大脑植入体会让你感到愉悦和放松。需要掌握脑部手术技术才能进行安装。</Joywire.description>
 
-  <Painstopper.label>painstopper</Painstopper.label>
-  <Painstopper.description>This brain implant will make you not feel pain. Requires brain surgery research before installing.</Painstopper.description>
+  <Painstopper.label>止痛芯片</Painstopper.label>
+  <Painstopper.description>这种大脑植入体会让你感觉不到疼痛。需要掌握脑部手术技术才能进行安装。</Painstopper.description>
 
 
   <!-- Muscle stimulator -->
 
-  <MuscleStimulator.label>muscle stimulator</MuscleStimulator.label>
-  <MuscleStimulator.description>Through special chemicals and electric shocks this little chip is able to stimulate the muscles so they can operate at above maximum performance.</MuscleStimulator.description>
+  <MuscleStimulator.label>肌肉刺激器</MuscleStimulator.label>
+  <MuscleStimulator.description>通过特殊的化学物质和电击，这个小芯片能够刺激肌肉，使他们能以最佳状态运作。</MuscleStimulator.description>
 
 
 </LanguageData>

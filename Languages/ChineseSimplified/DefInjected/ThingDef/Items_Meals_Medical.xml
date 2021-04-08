@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bandagekitcrude.label>Crude Bandage Kit</Bandagekitcrude.label>
-  <Bandagekitcrude.description>A pack of makeshift bandages. Looks bad, probably bad for your wounds. Good for stopping bleeding but nothing more.</Bandagekitcrude.description>
+  <Bandagekitcrude.label>粗制绷带</Bandagekitcrude.label>
+  <Bandagekitcrude.description>一包临时制作的绷带。看起来就很糟糕，只能用来止血，没别的用处了。</Bandagekitcrude.description>
 
-  <Bandagekit.label>Bandage Kit</Bandagekit.label>
-  <Bandagekit.description>A pack of bandages made from cloth. Less potent than medical kits.</Bandagekit.description>
+  <Bandagekit.label>绷带包</Bandagekit.label>
+  <Bandagekit.description>一包用布做的绷带。比医疗包的药效要低。</Bandagekit.description>
 
-  <Herbmedicine.label>basic medicine kit</Herbmedicine.label>
-  <Herbmedicine.description>A pack of mix herbs. Less potent than industrial pharmaceuticals. \n\nMade from aloe and cloth.</Herbmedicine.description>
+  <Herbmedicine.label>简易药包</Herbmedicine.label>
+  <Herbmedicine.description>一包混合药材。药效比工业药品低。\n\n由芦荟和布制成。</Herbmedicine.description>
 
-  <MedicalDrink.label>Antibiotics</MedicalDrink.label>
-  <MedicalDrink.description>A concentrated extract of Healroot and some hops. Tastes awful but boosts the immune system.</MedicalDrink.description>
+  <MedicalDrink.label>抗生素</MedicalDrink.label>
+  <MedicalDrink.description>使用酒花和草药混合提取物，经过纯化生产的药物。味道一言难尽，不过可以大大提高免疫力。</MedicalDrink.description>
 
 
 </LanguageData>

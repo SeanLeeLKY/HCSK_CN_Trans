@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Claws.label>claws</Claws.label>
-  <Claws.description>A set of Orassan claws.</Claws.description>
+  <Claws.label>爪</Claws.label>
+  <Claws.description>一副爪子。</Claws.description>
 
-  <Tail.label>Tail</Tail.label>
-  <Tail.description>An Orassan tail.</Tail.description>
+  <Tail.label>尾</Tail.label>
+  <Tail.description>一条尾巴</Tail.description>
 
-  <ClothTail.label>Cloth tail</ClothTail.label>
-  <ClothTail.description>A very poor tail replacement. Looks bad, feels bad, is bad.</ClothTail.description>
+  <ClothTail.label>布尾巴</ClothTail.label>
+  <ClothTail.description>一个很差的尾巴替代品。看起来不好，感觉不好，就是不好。</ClothTail.description>
 
-  <BionicTail.label>Bionic tail</BionicTail.label>
-  <BionicTail.description>A bionic prehensile tail.</BionicTail.description>
+  <BionicTail.label>仿生尾</BionicTail.label>
+  <BionicTail.description>一条仿生尾巴。</BionicTail.description>
 
-  <PlasteelClaws.label>Advanced claws</PlasteelClaws.label>
-  <PlasteelClaws.description>Replaces an Orassan's retractable claws with metal ones.</PlasteelClaws.description>
+  <PlasteelClaws.label>高级爪</PlasteelClaws.label>
+  <PlasteelClaws.description>金属制成的爪子。</PlasteelClaws.description>
 
-  <CyberneticTail.label>Cybernetic tail</CyberneticTail.label>
-  <CyberneticTail.description>An even better tail. It's almost like having a third hand!</CyberneticTail.description>
+  <CyberneticTail.label>神经机械尾</CyberneticTail.label>
+  <CyberneticTail.description>一个更好的尾巴。简直就像有了第三只手！</CyberneticTail.description>
 
 
 </LanguageData>

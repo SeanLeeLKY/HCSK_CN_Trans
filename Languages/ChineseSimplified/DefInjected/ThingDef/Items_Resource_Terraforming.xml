@@ -3,26 +3,26 @@
 
   <!-- Terraforming -->
 
-  <Dirt.label>Pile of dirt</Dirt.label>
-  <Dirt.description>Simple soil dug out of the ground.</Dirt.description>
+  <Dirt.label>土堆</Dirt.label>
+  <Dirt.description>从地里挖出的普通泥土。</Dirt.description>
 
-  <SandResource.label>Sand</SandResource.label>
-  <SandResource.description>Sand can be crushed from Rubble or gathered from the ground. It is a necessary ingredient in making Glass Batch and Silicon.</SandResource.description>
+  <SandResource.label>沙</SandResource.label>
+  <SandResource.description>沙子可以用碎石打磨压碎，也可以从地上收集。是生产玻璃和硅的必备原料。</SandResource.description>
 
-  <CrushedStone.label>rubble</CrushedStone.label>
-  <CrushedStone.description>Rough Rubble stones are created by smashing stone chunks or blocks. It can be gathered from gravel on the ground. It is a useful ingredient for concrete. It can also be smashed further to produce Sand.</CrushedStone.description>
+  <CrushedStone.label>碎石</CrushedStone.label>
+  <CrushedStone.description>粗碎石是通过粉碎石块形成的。它可以从地上的砾石中收集。它是混凝土的一种有用成分。它也可以被进一步粉碎产生沙子。</CrushedStone.description>
 
-  <Compost.label>compost</Compost.label>
-  <Compost.description>A mix of food wastes. Rather disgusting, but useful if you want to make fertilizer.</Compost.description>
+  <Compost.label>堆肥料</Compost.label>
+  <Compost.description>各种食物残渣、有机垃圾的混合物。看起来很恶心，但却是制造传统肥料的原料。</Compost.description>
 
-  <Fertilizer.label>fertilizer</Fertilizer.label>
-  <Fertilizer.description>Fertilizer enhances soil to speed the growth of plants.</Fertilizer.description>
+  <Fertilizer.label>肥料</Fertilizer.label>
+  <Fertilizer.description>肥料使土壤肥沃，以促进植物生长。</Fertilizer.description>
 
-  <RottedMeat.label>rotted meat</RottedMeat.label>
-  <RottedMeat.description>This apparently used to be meat of some sort, but now it's just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else.</RottedMeat.description>
+  <RottedMeat.label>腐肉</RottedMeat.label>
+  <RottedMeat.description>这显然以前是某种肉类，但现在只是一堆恶心的烂糊。也许可以用来制作堆肥，但不能用于其他用途。</RottedMeat.description>
 
-  <RottedMush.label>rotted mush</RottedMush.label>
-  <RottedMush.description>Whatever this used to be, it's now just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else.</RottedMush.description>
+  <RottedMush.label>腐烂物</RottedMush.label>
+  <RottedMush.description>不管这以前是什么，现在只是一堆恶心的烂糊。也许可以用来制作堆肥，但不能用于其他用途。</RottedMush.description>
 
 
 </LanguageData>

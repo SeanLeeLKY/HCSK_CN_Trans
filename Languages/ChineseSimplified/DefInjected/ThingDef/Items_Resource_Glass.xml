@@ -3,16 +3,16 @@
 
   <!-- Glass -->
 
-  <GlassBatch.label>Glass Batch</GlassBatch.label>
-  <GlassBatch.description>Raw Glass Batch that was made from Sand. It would be more useful when it is refined into Glass Frames.</GlassBatch.description>
+  <GlassBatch.label>玻璃配合料</GlassBatch.label>
+  <GlassBatch.description>用沙子初步制成的玻璃原料。当它被精制成标准玻璃块的时候会更有用。</GlassBatch.description>
 
-  <Glass.label>Glass Frame</Glass.label>
-  <Glass.description>A transparent material that is quite popular despite being fragile. Glass is produced from Glass Batch, which is made from Sand.</Glass.description>
-  <Glass.stuffProps.stuffAdjective>glass</Glass.stuffProps.stuffAdjective>
+  <Glass.label>玻璃块</Glass.label>
+  <Glass.description>一种透明材料，虽然易碎，但很受欢迎。玻璃可以批量生产，它是由沙子作为原料。</Glass.description>
+  <Glass.stuffProps.stuffAdjective>玻璃</Glass.stuffProps.stuffAdjective>
 
-  <ReinforcedGlass.label>Reinforced Glass Frame</ReinforcedGlass.label>
-  <ReinforcedGlass.description>A stronger version of Glass Frames that is harder to work with, but has more potential uses.</ReinforcedGlass.description>
-  <ReinforcedGlass.stuffProps.stuffAdjective>Reinforced Glass</ReinforcedGlass.stuffProps.stuffAdjective>
+  <ReinforcedGlass.label>强化玻璃块</ReinforcedGlass.label>
+  <ReinforcedGlass.description>一种更坚固的玻璃块，制作工艺更加考究，但有更多的潜在用途。</ReinforcedGlass.description>
+  <ReinforcedGlass.stuffProps.stuffAdjective>强化玻璃</ReinforcedGlass.stuffProps.stuffAdjective>
 
 
 </LanguageData>

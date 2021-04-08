@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SpottedHyena.label>Spotted Hyena</SpottedHyena.label>
-  <SpottedHyena.description>A mid sized, Spotted Hyena that hunt in packs. Its mouth-grip strength is very powerful.</SpottedHyena.description>
-  <SpottedHyena.tools.0.label>left claw</SpottedHyena.tools.0.label>
-  <SpottedHyena.tools.1.label>right claw</SpottedHyena.tools.1.label>
-  <SpottedHyena.tools.3.label>head</SpottedHyena.tools.3.label>
-  <SpottedHyena_Leather.label>Spotted Hyena leather</SpottedHyena_Leather.label>
-  <SpottedHyena_Leather.description>Spotted Hyena leather</SpottedHyena_Leather.description>
-  <SpottedHyena_Leather.stuffProps.stuffAdjective>Spotted Hyena leather</SpottedHyena_Leather.stuffProps.stuffAdjective>
+  <SpottedHyena.label>斑鬣狗</SpottedHyena.label>
+  <SpottedHyena.description>成群捕食的中型斑点鬣狗。它的嘴拥有较强的咬合力。</SpottedHyena.description>
+  <SpottedHyena.tools.0.label>左爪</SpottedHyena.tools.0.label>
+  <SpottedHyena.tools.1.label>右爪</SpottedHyena.tools.1.label>
+  <SpottedHyena.tools.3.label>头</SpottedHyena.tools.3.label>
+  <SpottedHyena_Leather.label>斑鬣狗皮</SpottedHyena_Leather.label>
+  <SpottedHyena_Leather.description>斑鬣狗皮</SpottedHyena_Leather.description>
+  <SpottedHyena_Leather.stuffProps.stuffAdjective>斑鬣狗皮</SpottedHyena_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Elephant -->
-  <SpottedHyena_Corpse.label>Spotted Hyena corpse</SpottedHyena_Corpse.label>
-  <SpottedHyena_Corpse.description>Spotted Hyena corpse</SpottedHyena_Corpse.description>
+  <SpottedHyena_Corpse.label>斑鬣狗尸体</SpottedHyena_Corpse.label>
+  <SpottedHyena_Corpse.description>斑鬣狗尸体</SpottedHyena_Corpse.description>
 
 
 </LanguageData>

@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WoodLog.label>wood log</WoodLog.label>
-  <WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch. It can be processed into planks or kindling.</WoodLog.description>
-  <WoodLog.stuffProps.stuffAdjective>wood log</WoodLog.stuffProps.stuffAdjective>
+  <WoodLog.label>原木</WoodLog.label>
+  <WoodLog.description>取自树木或其他纤维状植物的木材。用于建造建筑物、武器，甚至制作简单的假肢。一根木棍在紧要关头可以用作武器。它可以被加工成木板或柴火。</WoodLog.description>
+  <WoodLog.stuffProps.stuffAdjective>原木</WoodLog.stuffProps.stuffAdjective>
 
-  <RedWoodLog.label>redwood</RedWoodLog.label>
-  <RedWoodLog.description>Wood from redwood and sequoia trees or other fibrous plants. Red, valuable and more fireproof than regular wood. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch.</RedWoodLog.description>
-  <RedWoodLog.stuffProps.stuffAdjective>redwood</RedWoodLog.stuffProps.stuffAdjective>
+  <RedWoodLog.label>红木</RedWoodLog.label>
+  <RedWoodLog.description>来自红木和红杉树或其他纤维植物的木材。颜色呈现红色，比普通木材更加贵重，也更耐火。用于建造建筑物、武器，甚至制作简单的假肢。一根木棍在紧要关头可以用作武器。</RedWoodLog.description>
+  <RedWoodLog.stuffProps.stuffAdjective>红木</RedWoodLog.stuffProps.stuffAdjective>
 
-  <WoodPlank.label>wood plank</WoodPlank.label>
-  <WoodPlank.description>Wood planks crafted from wood logs. Useful for building structures, weapons, and even simple prosthetics.</WoodPlank.description>
-  <WoodPlank.stuffProps.stuffAdjective>wooden</WoodPlank.stuffProps.stuffAdjective>
+  <WoodPlank.label>木板</WoodPlank.label>
+  <WoodPlank.description>用原木制成的木板。用于建造建筑物、武器或者简单的假肢。</WoodPlank.description>
+  <WoodPlank.stuffProps.stuffAdjective>木</WoodPlank.stuffProps.stuffAdjective>
 
-  <Bamboo.label>bamboo log</Bamboo.label>
-  <Bamboo.description>Bamboo Logs are a type of wood-like grass. It is a fast growing wood alternative that is useful for construction.</Bamboo.description>
-  <Bamboo.stuffProps.stuffAdjective>bamboo log</Bamboo.stuffProps.stuffAdjective>
+  <Bamboo.label>竹节</Bamboo.label>
+  <Bamboo.description>竹子是一种类木的草本植物。它是一种快速生长的木材替代品，用于建筑。</Bamboo.description>
+  <Bamboo.stuffProps.stuffAdjective>竹节</Bamboo.stuffProps.stuffAdjective>
 
-  <BambooPlank.label>bamboo plank</BambooPlank.label>
-  <BambooPlank.description>Bamboo Planks are crafted from Bamboo Logs. They are useful for building structures, weapons and even simple prosthetics.</BambooPlank.description>
-  <BambooPlank.stuffProps.stuffAdjective>bamboo</BambooPlank.stuffProps.stuffAdjective>
+  <BambooPlank.label>竹板</BambooPlank.label>
+  <BambooPlank.description>竹板是用竹木制成的。它们可以用来建造建筑物、武器或者是简单的假肢。</BambooPlank.description>
+  <BambooPlank.stuffProps.stuffAdjective>竹</BambooPlank.stuffProps.stuffAdjective>
 
-  <RedWoodPlank.label>redwood plank</RedWoodPlank.label>
-  <RedWoodPlank.description>Redwood planks crafted from redwood logs. Useful for building structures, weapons, and even simple prosthetics.</RedWoodPlank.description>
-  <RedWoodPlank.stuffProps.stuffAdjective>redwood</RedWoodPlank.stuffProps.stuffAdjective>
+  <RedWoodPlank.label>红木板</RedWoodPlank.label>
+  <RedWoodPlank.description>用红木圆木制作的红木木板。用于建造建筑物、武器或者简单的假肢。</RedWoodPlank.description>
+  <RedWoodPlank.stuffProps.stuffAdjective>红木</RedWoodPlank.stuffProps.stuffAdjective>
 
-  <Kindling.label>firewood</Kindling.label>
-  <Kindling.description>Firewood is either created by cutting logs, or salvaged from breaking down bushes. It can act as a fuel for various low-tech buildings, including the steam generator. It burns twice as long compared to unprocessed wood.</Kindling.description>
-  <Kindling.stuffProps.stuffAdjective>wooden</Kindling.stuffProps.stuffAdjective>
+  <Kindling.label>柴火</Kindling.label>
+  <Kindling.description>木柴可以通过砍伐原木来制成，也可以通过砍伐灌木来获取。它可以作为各种低科技建筑的燃料，包括蒸汽发电机。它燃烧的时间是未加工木材的两倍。</Kindling.description>
+  <Kindling.stuffProps.stuffAdjective>木</Kindling.stuffProps.stuffAdjective>
 
 
 </LanguageData>

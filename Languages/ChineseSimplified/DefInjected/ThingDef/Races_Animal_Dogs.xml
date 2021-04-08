@@ -1,51 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
-  <YorkshireTerrier.description>A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweight the cost of feeding it.</YorkshireTerrier.description>
-  <YorkshireTerrier.tools.1.label>head</YorkshireTerrier.tools.1.label>
-  <YorkshireTerrier_Leather.label>yorkshire terrier leather</YorkshireTerrier_Leather.label>
-  <YorkshireTerrier_Leather.description>yorkshire terrier leather</YorkshireTerrier_Leather.description>
-  <YorkshireTerrier_Leather.stuffProps.stuffAdjective>yorkshire terrier leather</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
+  <YorkshireTerrier.label>约克夏犬</YorkshireTerrier.label>
+  <YorkshireTerrier.description>一种性情温顺的小型犬。它最初培育用于猎杀鼠类，后来变成了一种观赏和伴侣型动物。有些人认为它毫无用处，但它用鼻子蹭来蹭去给人带来的情绪上的改善，会让你觉得养上一条还是值得的。</YorkshireTerrier.description>
+  <YorkshireTerrier.tools.1.label>头</YorkshireTerrier.tools.1.label>
+  <YorkshireTerrier_Leather.label>约克夏犬皮</YorkshireTerrier_Leather.label>
+  <YorkshireTerrier_Leather.description>约克夏犬皮</YorkshireTerrier_Leather.description>
+  <YorkshireTerrier_Leather.stuffProps.stuffAdjective>约克夏犬皮</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Elephant -->
-  <YorkshireTerrier_Corpse.label>yorkshire terrier corpse</YorkshireTerrier_Corpse.label>
-  <YorkshireTerrier_Corpse.description>yorkshire terrier corpse</YorkshireTerrier_Corpse.description>
+  <YorkshireTerrier_Corpse.label>约克夏犬尸体</YorkshireTerrier_Corpse.label>
+  <YorkshireTerrier_Corpse.description>约克夏犬尸体</YorkshireTerrier_Corpse.description>
 
-  <Husky.label>husky</Husky.label>
-  <Husky.description>A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments.</Husky.description>
-  <Husky.tools.0.label>left claw</Husky.tools.0.label>
-  <Husky.tools.1.label>right claw</Husky.tools.1.label>
-  <Husky.tools.3.label>head</Husky.tools.3.label>
-  <Husky_Leather.label>husky leather</Husky_Leather.label>
-  <Husky_Leather.description>husky leather</Husky_Leather.description>
-  <Husky_Leather.stuffProps.stuffAdjective>husky leather</Husky_Leather.stuffProps.stuffAdjective>
+  <Husky.label>哈士奇犬</Husky.label>
+  <Husky.description>一种精力充沛的大型犬，因为有一层厚实的毛皮可以在北极环境中保持舒适。</Husky.description>
+  <Husky.tools.0.label>左爪</Husky.tools.0.label>
+  <Husky.tools.1.label>右爪</Husky.tools.1.label>
+  <Husky.tools.3.label>头</Husky.tools.3.label>
+  <Husky_Leather.label>哈士奇犬皮</Husky_Leather.label>
+  <Husky_Leather.description>哈士奇犬皮</Husky_Leather.description>
+  <Husky_Leather.stuffProps.stuffAdjective>哈士奇犬皮</Husky_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Elephant -->
-  <Husky_Corpse.label>husky corpse</Husky_Corpse.label>
-  <Husky_Corpse.description>husky corpse</Husky_Corpse.description>
+  <Husky_Corpse.label>哈士奇犬尸体</Husky_Corpse.label>
+  <Husky_Corpse.description>哈士奇犬尸体</Husky_Corpse.description>
 
-  <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
-  <LabradorRetriever.description>A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend.</LabradorRetriever.description>
-  <LabradorRetriever.tools.0.label>left claw</LabradorRetriever.tools.0.label>
-  <LabradorRetriever.tools.1.label>right claw</LabradorRetriever.tools.1.label>
-  <LabradorRetriever.tools.3.label>head</LabradorRetriever.tools.3.label>
-  <LabradorRetriever_Leather.label>labrador retriever leather</LabradorRetriever_Leather.label>
-  <LabradorRetriever_Leather.description>labrador retriever leather</LabradorRetriever_Leather.description>
-  <LabradorRetriever_Leather.stuffProps.stuffAdjective>labrador retriever leather</LabradorRetriever_Leather.stuffProps.stuffAdjective>
+  <LabradorRetriever.label>拉布拉多犬</LabradorRetriever.label>
+  <LabradorRetriever.description>一种极具灵性的中型犬。它最初培育用于在狩猎时找回猎物，拉布拉多也是一种优秀的看门狗，人类玩伴和家庭成员。</LabradorRetriever.description>
+  <LabradorRetriever.tools.0.label>左爪</LabradorRetriever.tools.0.label>
+  <LabradorRetriever.tools.1.label>右爪</LabradorRetriever.tools.1.label>
+  <LabradorRetriever.tools.3.label>头</LabradorRetriever.tools.3.label>
+  <LabradorRetriever_Leather.label>拉布拉多犬皮</LabradorRetriever_Leather.label>
+  <LabradorRetriever_Leather.description>拉布拉多犬皮</LabradorRetriever_Leather.description>
+  <LabradorRetriever_Leather.stuffProps.stuffAdjective>拉布拉多犬皮</LabradorRetriever_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Elephant -->
-  <LabradorRetriever_Corpse.label>labrador retriever corpse</LabradorRetriever_Corpse.label>
-  <LabradorRetriever_Corpse.description>labrador retriever corpse</LabradorRetriever_Corpse.description>
+  <LabradorRetriever_Corpse.label>拉布拉多犬尸体</LabradorRetriever_Corpse.label>
+  <LabradorRetriever_Corpse.description>拉布拉多犬尸体</LabradorRetriever_Corpse.description>
 
-  <GermanShepherd.label>shepherd</GermanShepherd.label>
-  <GermanShepherd.description>A large working dog that is usually tan and black in color. It is one of the most intelligent breeds of dog and they are prized for their trainability.</GermanShepherd.description>
-  <GermanShepherd.tools.0.label>left claw</GermanShepherd.tools.0.label>
-  <GermanShepherd.tools.1.label>right claw</GermanShepherd.tools.1.label>
-  <GermanShepherd.tools.3.label>head</GermanShepherd.tools.3.label>
-  <GermanShepherd_Leather.label>shepherd leather</GermanShepherd_Leather.label>
-  <GermanShepherd_Leather.description>shepherd leather</GermanShepherd_Leather.description>
-  <GermanShepherd_Leather.stuffProps.stuffAdjective>shepherd leather</GermanShepherd_Leather.stuffProps.stuffAdjective>
+  <GermanShepherd.label>德牧犬</GermanShepherd.label>
+  <GermanShepherd.description>德牧犬据说是有史以来最聪明、最忠诚的狗，德国牧羊犬或称阿尔萨斯狼犬（俗称“黑背”或者“狼狗”）是一种工作犬，具有良好的战斗能力。</GermanShepherd.description>
+  <GermanShepherd.tools.0.label>左爪</GermanShepherd.tools.0.label>
+  <GermanShepherd.tools.1.label>右爪</GermanShepherd.tools.1.label>
+  <GermanShepherd.tools.3.label>头</GermanShepherd.tools.3.label>
+  <GermanShepherd_Leather.label>德牧犬皮</GermanShepherd_Leather.label>
+  <GermanShepherd_Leather.description>德牧犬皮</GermanShepherd_Leather.description>
+  <GermanShepherd_Leather.stuffProps.stuffAdjective>德牧犬皮</GermanShepherd_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Elephant -->
-  <GermanShepherd_Corpse.label>shepherd corpse</GermanShepherd_Corpse.label>
-  <GermanShepherd_Corpse.description>shepherd corpse</GermanShepherd_Corpse.description>
+  <GermanShepherd_Corpse.label>德牧犬尸体</GermanShepherd_Corpse.label>
+  <GermanShepherd_Corpse.description>德牧犬尸体</GermanShepherd_Corpse.description>
 
 
 </LanguageData>

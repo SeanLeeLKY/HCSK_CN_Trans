@@ -3,13 +3,13 @@
 
   <!-- Ammo -->
 
-  <Ammo_M72LAW.label>M72 LAW grenade</Ammo_M72LAW.label>
-  <Ammo_M72LAW.description>The M72 LAW is a portable one-shot 66 mm unguided anti-tank weapon.</Ammo_M72LAW.description>
+  <Ammo_M72LAW.label>M72 LAW榴弹</Ammo_M72LAW.label>
+  <Ammo_M72LAW.description>M72 LAW反坦克火箭筒是一种便携式单次发射66毫米非制导反坦克武器。</Ammo_M72LAW.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_M72LAW.label>M72 LAW grenade</Bullet_M72LAW.label>
+  <Bullet_M72LAW.label>M72 LAW榴弹</Bullet_M72LAW.label>
 
 
 </LanguageData>

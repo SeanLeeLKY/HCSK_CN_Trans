@@ -3,12 +3,12 @@
 
   <!-- LED LIGHTS -->
 
-  <RopeLight.label>LED rope light</RopeLight.label>
-  <RopeLight.description>This LED rope light can be placed over walls and other buildings. It requires 25 W and can be used to help move power around otherwise inaccessable areas.</RopeLight.description>
-  <RopeLight_Blueprint.label>LED rope light (blueprint)</RopeLight_Blueprint.label>
-  <RopeLight_Blueprint_Install.label>LED rope light (blueprint)</RopeLight_Blueprint_Install.label>
-  <RopeLight_Frame.label>LED rope light (building)</RopeLight_Frame.label>
-  <RopeLight_Frame.description>This LED rope light can be placed over walls and other buildings. It requires 25 W and can be used to help move power around otherwise inaccessable areas.</RopeLight_Frame.description>
+  <RopeLight.label>LED灯带</RopeLight.label>
+  <RopeLight.description>这种LED灯带可以附着在墙上或者其他建筑上。消耗25W的电力来照明，并且可以为某些无法到达的区域提供电力。</RopeLight.description>
+  <RopeLight_Blueprint.label>LED灯带（蓝图）</RopeLight_Blueprint.label>
+  <RopeLight_Blueprint_Install.label>LED灯带（蓝图）</RopeLight_Blueprint_Install.label>
+  <RopeLight_Frame.label>LED灯带（建造中）</RopeLight_Frame.label>
+  <RopeLight_Frame.description>这种LED灯带可以附着在墙上或者其他建筑上。消耗25W的电力来照明，并且可以为某些无法到达的区域提供电力。</RopeLight_Frame.description>
 
 
 </LanguageData>

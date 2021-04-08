@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_SmokepopBelt.label>smokepop belt</Apparel_SmokepopBelt.label>
-  <Apparel_SmokepopBelt.description>A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on.</Apparel_SmokepopBelt.description>
-  <Apparel_SmokepopBelt.verbs.0.label>pop smoke</Apparel_SmokepopBelt.verbs.0.label>
+  <Apparel_SmokepopBelt.label>烟罐腰带</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.description>自动防御烟幕。一旦穿戴者被子弹击中，会释放出厚厚的烟雾云，提供视线遮挡以及防止被炮塔锁定。</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.verbs.0.label>释放烟雾</Apparel_SmokepopBelt.verbs.0.label>
 
 
 </LanguageData>

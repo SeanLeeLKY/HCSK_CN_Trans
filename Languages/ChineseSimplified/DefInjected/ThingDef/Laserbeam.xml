@@ -3,14 +3,14 @@
 
   <!-- Ammo -->
 
-  <Ammo_ChargedLaser.label>Charged Laser beam</Ammo_ChargedLaser.label>
-  <Ammo_ChargedLaser_Stable.label>Charged Laser beam (Stable)</Ammo_ChargedLaser_Stable.label>
+  <Ammo_ChargedLaser.label>电荷激光束</Ammo_ChargedLaser.label>
+  <Ammo_ChargedLaser_Stable.label>电荷激光束（稳态）</Ammo_ChargedLaser_Stable.label>
 
 
   <!-- Projectiles -->
 
-  <Bullet_Laserbeam.label>Laser beam</Bullet_Laserbeam.label>
-  <Bullet_Laserbeam_Stable.label>Laser beam (Stable)</Bullet_Laserbeam_Stable.label>
+  <Bullet_Laserbeam.label>激光束</Bullet_Laserbeam.label>
+  <Bullet_Laserbeam_Stable.label>激光束（稳态）</Bullet_Laserbeam_Stable.label>
 
 
 </LanguageData>

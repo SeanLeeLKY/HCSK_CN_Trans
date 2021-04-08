@@ -1,22 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SmilodonPop.label>sabretooth cat</SmilodonPop.label>
-  <SmilodonPop.description>The prehistoric Smilodon Populator (LUND, A.D. 1842), also known as the biggest of the true sabre-toothed cats, still has a legedary reputation across the whole galaxy. Having already been extinct when humanity had cemented its global-player position in the foodchain of Old Earth, some scientists apparently thought it was a good idea to revive this hominid's Nemesis through advanced cloning techniques. 
-
-It is still relatively unclear what specific function the enormous canine teeth fulfill, as their comparably frail static forbids regular and successful use as a weapon; The proportions and angles of the jaw and teeth's points suggest though, that Smilodon hunted very large, herbivorous animals with slashing bites after subduing its prey, possibly still puncturing the jugular vein and/or carotid artery like recent big cats do during their death-bite to the throat. 
-Adaptions of the bone-structure in the legs further hint on S. Populator having excellent jumping- and wrestling capabilities. As unified ethologists take note, the stories from survivors or even just witnesses of attacks for actual verification of this behavior are regretfully rare.
-
-Tribal cultures on planets where a wild population could establish itself, worship S. Populator as a harbinger of death, a powerful totem that bestows not only physical prowess, but also a to others sometimes uncanny covert- and relentlessness. Those cultures also pass on fairy tales about heroic Sabretooth-Veterans that are not only a terrifying sight to behold, but also seem to show an almost human spark of cognition, not to say "intelligence", sometimes even to the point of attributing to them the ability of speech.</SmilodonPop.description>
-  <SmilodonPop.tools.0.label>left claw</SmilodonPop.tools.0.label>
-  <SmilodonPop.tools.1.label>right claw</SmilodonPop.tools.1.label>
-  <SmilodonPop.tools.3.label>head</SmilodonPop.tools.3.label>
-  <SmilodonPop_Leather.label>sabretooth cat leather</SmilodonPop_Leather.label>
-  <SmilodonPop_Leather.description>sabretooth cat leather</SmilodonPop_Leather.description>
-  <SmilodonPop_Leather.stuffProps.stuffAdjective>sabretooth cat leather</SmilodonPop_Leather.stuffProps.stuffAdjective>
+  <SmilodonPop.label>剑齿猫</SmilodonPop.label>
+  <SmilodonPop.description>史前剑齿猫科动物（LUND, A.D. 1842），比如闻名于世巨型生物剑齿虎，即使在整个银河系中也享有传奇一般的声誉。当人类在旧地球食物链顶端中巩固了其全球霸主角色地位时，剑齿猫科动物早已经灭绝了。一些科学家显然认为，通过先进的克隆技术来复生这个原始物种是个好主意。\n\n目前还不清楚这些动物的巨大犬齿有什么具体的功能，因为它们相对固定的位置减低了它们作为武器使用的效率。然而，从其颌骨和牙齿尖端的比例和角度来看，剑齿虎在制服猎物后，会用割伤式的撕咬来猎杀非常大的食草动物，可能还会刺穿颈静脉或颈动脉，就像现代的大型猫科动物在咬死猎物喉咙时所做的那样。\n腿骨结构的变化进一步表示剑齿猫具有出色的跳跃和平衡能力。令人遗憾的是，科学家们从幸存者或者目击者那里得到的关于这种动物的信息很少。\n在那些只有原始科技水平的星球上，部落文化将剑齿猫视为死亡的预兆，当做一种强大的图腾，不仅赋予人类身体上的威力，还赋予其他诸如神秘、暗影和无情杀戮的象征力量。这些文化也通过各种故事的口口相传交织融合，造就了大量英雄史诗和传说，这么说可能会让人觉得不那么“明智”，但是作为当地的社会水平，却能够给予人振奋人心的力量。</SmilodonPop.description>
+  <SmilodonPop.tools.0.label>左爪</SmilodonPop.tools.0.label>
+  <SmilodonPop.tools.1.label>右爪</SmilodonPop.tools.1.label>
+  <SmilodonPop.tools.3.label>头</SmilodonPop.tools.3.label>
+  <SmilodonPop_Leather.label>剑齿猫皮</SmilodonPop_Leather.label>
+  <SmilodonPop_Leather.description>剑齿猫皮</SmilodonPop_Leather.description>
+  <SmilodonPop_Leather.stuffProps.stuffAdjective>剑齿猫皮</SmilodonPop_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Muffalo -->
-  <SmilodonPop_Corpse.label>sabretooth cat corpse</SmilodonPop_Corpse.label>
-  <SmilodonPop_Corpse.description>sabretooth cat corpse</SmilodonPop_Corpse.description>
+  <SmilodonPop_Corpse.label>剑齿猫尸体</SmilodonPop_Corpse.label>
+  <SmilodonPop_Corpse.description>剑齿猫尸体</SmilodonPop_Corpse.description>
 
 
 </LanguageData>

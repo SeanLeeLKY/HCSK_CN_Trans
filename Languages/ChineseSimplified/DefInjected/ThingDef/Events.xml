@@ -1,101 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GENcounter.label>unspecified filth</GENcounter.label>
-  <GENcounter.description>Ticker</GENcounter.description>
+  <GENcounter.label>未定义的污秽</GENcounter.label>
+  <GENcounter.description>时钟</GENcounter.description>
 
-  <EQcounter.label>unspecified filth</EQcounter.label>
-  <EQcounter.description>Ticker</EQcounter.description>
+  <EQcounter.label>未定义的污秽</EQcounter.label>
+  <EQcounter.description>时钟</EQcounter.description>
 
-  <MTcounter.label>unspecified filth</MTcounter.label>
-  <MTcounter.description>Ticker</MTcounter.description>
+  <MTcounter.label>未定义的污秽</MTcounter.label>
+  <MTcounter.description>时钟</MTcounter.description>
 
-  <MTRcounter.label>unspecified filth</MTRcounter.label>
-  <MTRcounter.description>Ticker</MTRcounter.description>
+  <MTRcounter.label>未定义的污秽</MTRcounter.label>
+  <MTRcounter.description>时钟</MTRcounter.description>
 
-  <SCcounter.label>unspecified filth</SCcounter.label>
-  <SCcounter.description>Ticker</SCcounter.description>
+  <SCcounter.label>未定义的污秽</SCcounter.label>
+  <SCcounter.description>时钟</SCcounter.description>
 
-  <PCcounter.label>unspecified filth</PCcounter.label>
-  <PCcounter.description>Ticker</PCcounter.description>
+  <PCcounter.label>未定义的污秽</PCcounter.label>
+  <PCcounter.description>时钟</PCcounter.description>
 
-  <RADcounter.label>unspecified filth</RADcounter.label>
-  <RADcounter.description>Ticker</RADcounter.description>
+  <RADcounter.label>未定义的污秽</RADcounter.label>
+  <RADcounter.description>时钟</RADcounter.description>
 
-  <NFcounter.label>unspecified filth</NFcounter.label>
-  <NFcounter.description>Ticker</NFcounter.description>
+  <NFcounter.label>未定义的污秽</NFcounter.label>
+  <NFcounter.description>时钟</NFcounter.description>
 
-  <ORcounter.label>unspecified filth</ORcounter.label>
-  <ORcounter.description>Ticker</ORcounter.description>
+  <ORcounter.label>未定义的污秽</ORcounter.label>
+  <ORcounter.description>时钟</ORcounter.description>
 
-  <ACcounter.label>unspecified filth</ACcounter.label>
-  <ACcounter.description>Ticker</ACcounter.description>
+  <ACcounter.label>未定义的污秽</ACcounter.label>
+  <ACcounter.description>时钟</ACcounter.description>
 
-  <VCcounter.label>unspecified filth</VCcounter.label>
-  <VCcounter.description>Ticker</VCcounter.description>
+  <VCcounter.label>未定义的污秽</VCcounter.label>
+  <VCcounter.description>时钟</VCcounter.description>
 
-  <LCcounter.label>unspecified filth</LCcounter.label>
-  <LCcounter.description>Ticker</LCcounter.description>
+  <LCcounter.label>未定义的污秽</LCcounter.label>
+  <LCcounter.description>时钟</LCcounter.description>
 
-  <GScounter.label>unspecified filth</GScounter.label>
-  <GScounter.description>Ticker</GScounter.description>
+  <GScounter.label>未定义的污秽</GScounter.label>
+  <GScounter.description>时钟</GScounter.description>
 
-  <CosmicRAD.label>radiation filth</CosmicRAD.label>
-  <CosmicRAD.description>Ticker</CosmicRAD.description>
+  <CosmicRAD.label>辐射尘</CosmicRAD.label>
+  <CosmicRAD.description>时钟</CosmicRAD.description>
 
-  <NFRAD.label>radiation filth</NFRAD.label>
-  <NFRAD.description>Ticker</NFRAD.description>
+  <NFRAD.label>辐射尘</NFRAD.label>
+  <NFRAD.description>时钟</NFRAD.description>
 
-  <NuclearStrikeIncoming.label>Nuclear strike (Incoming!)</NuclearStrikeIncoming.label>
-  <OrbitalStrikeIncoming.label>Orbital strike (Incoming!)</OrbitalStrikeIncoming.label>
-  <RazorRainIncoming.label>Razor Rain (Incoming!)</RazorRainIncoming.label>
-  <Thing_RazorSpawner.label>Razor Spawner</Thing_RazorSpawner.label>
+  <NuclearStrikeIncoming.label>核打击（临近中）</NuclearStrikeIncoming.label>
+  <OrbitalStrikeIncoming.label>轨道打击（临近中）</OrbitalStrikeIncoming.label>
+  <RazorRainIncoming.label>“剃刀之雨”（临近中）</RazorRainIncoming.label>
+  <Thing_RazorSpawner.label>“剃刀之雨”生成器</Thing_RazorSpawner.label>
 
 
   <!-- Misc Resources -->
 
-  <VGlower.label>light</VGlower.label>
-  <ShipChunkIncomingFlame.label>ship chunk (incoming)</ShipChunkIncomingFlame.label>
-  <FixedMeteoriteIncoming.label>meteorite (incoming)</FixedMeteoriteIncoming.label>
-  <FixedMeteoriteIncomingFlame.label>meteorite (incoming)</FixedMeteoriteIncomingFlame.label>
+  <VGlower.label>灯</VGlower.label>
+  <ShipChunkIncomingFlame.label>飞船碎片（临近中）</ShipChunkIncomingFlame.label>
+  <FixedMeteoriteIncoming.label>陨石（临近中）</FixedMeteoriteIncoming.label>
+  <FixedMeteoriteIncomingFlame.label>陨石（临近中）</FixedMeteoriteIncomingFlame.label>
 
 
-  <!-- <ThingDef Name="MechanoidShipBase" Abstract="True">
-		<label>Mechanoid ship (incoming)</label>
-		<category>Ethereal</category>
-		<tickerType>Normal</tickerType>
-		<graphicData>
-			<texPath>Things/Building/Genstep/MechanoidShipIncoming</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>(6,6)</drawSize>
-			<shaderType>CutoutFlying</shaderType>
-		</graphicData>
-		<size>(6,6)</size>
-		<altitudeLayer>Skyfaller</altitudeLayer>
-		<drawerType>RealtimeOnly</drawerType>
-		<useHitPoints>false</useHitPoints>
-	</ThingDef>
+  
+  <EnemyShipIncoming.label>敌舰（临近中）</EnemyShipIncoming.label>
+  <EnemyShipOutcome.label>敌舰（临近中）</EnemyShipOutcome.label>
 
-	<ThingDef ParentName="MechanoidShipBase">
-		<defName>MechanoidShipIncoming</defName>
-		<thingClass>SK.Events.MechanoidShipIncoming</thingClass>
-		<skyfaller>
-			<shadowSize>(3,3)</shadowSize>
-			<explosionRadius>4</explosionRadius>
-			<explosionDamage>Bomb</explosionDamage>
-			<rotateGraphicTowardsDirection>false</rotateGraphicTowardsDirection>
-			<speed>1.2</speed>
-		</skyfaller>
-	</ThingDef> -->
+  <EnemyShipPart.label>敌舰</EnemyShipPart.label>
+  <EnemyShipPart.description>一艘敌舰。</EnemyShipPart.description>
 
-  <EnemyShipIncoming.label>Enemy ship (incoming)</EnemyShipIncoming.label>
-  <EnemyShipOutcome.label>Enemy ship (incoming)</EnemyShipOutcome.label>
-
-  <EnemyShipPart.label>Enemy ship</EnemyShipPart.label>
-  <EnemyShipPart.description>An enemy ship.</EnemyShipPart.description>
-
-  <RaidPortal.label>portal</RaidPortal.label>
-  <RaidPortal.description>A portal to transport troops.</RaidPortal.description>
+  <RaidPortal.label>入口</RaidPortal.label>
+  <RaidPortal.description>传送部队的入口。</RaidPortal.description>
 
 
 </LanguageData>

@@ -1,33 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- <DesignatorDropdownGroupDef>
-		<defName>StandAloneFridgeDesignatorDropdownDef</defName>
-	</DesignatorDropdownGroupDef>
-	<DesignatorDropdownGroupDef>
-		<defName>WallFridgeDesignatorDropdownDef</defName>
-	</DesignatorDropdownGroupDef> -->
+ <RimFridge_Refrigerator.label>冰箱</RimFridge_Refrigerator.label>
+  <RimFridge_Refrigerator.description>食物放在里面不会腐坏。</RimFridge_Refrigerator.description>
+  <RimFridge_Refrigerator_Blueprint.label>冰箱（蓝图）</RimFridge_Refrigerator_Blueprint.label>
+  <RimFridge_Refrigerator_Blueprint_Install.label>冰箱（蓝图）</RimFridge_Refrigerator_Blueprint_Install.label>
+  <RimFridge_Refrigerator_Frame.label>冰箱（建造中）</RimFridge_Refrigerator_Frame.label>
+  <RimFridge_Refrigerator_Frame.description>食物放在里面不会腐坏。</RimFridge_Refrigerator_Frame.description>
 
-  <RimFridge_SingleRefrigerator.label>Single Refrigerator</RimFridge_SingleRefrigerator.label>
-  <RimFridge_SingleRefrigerator.description>Rottable things stored in this will not spoil.</RimFridge_SingleRefrigerator.description>
-  <RimFridge_SingleRefrigerator_Blueprint.label>Single Refrigerator (blueprint)</RimFridge_SingleRefrigerator_Blueprint.label>
-  <RimFridge_SingleRefrigerator_Blueprint_Install.label>Single Refrigerator (blueprint)</RimFridge_SingleRefrigerator_Blueprint_Install.label>
-  <RimFridge_SingleRefrigerator_Frame.label>Single Refrigerator (building)</RimFridge_SingleRefrigerator_Frame.label>
-  <RimFridge_SingleRefrigerator_Frame.description>Rottable things stored in this will not spoil.</RimFridge_SingleRefrigerator_Frame.description>
+  <RimFridge_SingleRefrigerator.label>小冰箱</RimFridge_SingleRefrigerator.label>
+  <RimFridge_SingleRefrigerator.description>食物放在里面不会腐坏。</RimFridge_SingleRefrigerator.description>
+  <RimFridge_SingleRefrigerator_Blueprint.label>小冰箱（蓝图）</RimFridge_SingleRefrigerator_Blueprint.label>
+  <RimFridge_SingleRefrigerator_Blueprint_Install.label>小冰箱（蓝图）</RimFridge_SingleRefrigerator_Blueprint_Install.label>
+  <RimFridge_SingleRefrigerator_Frame.label>小冰箱（建造中）</RimFridge_SingleRefrigerator_Frame.label>
+  <RimFridge_SingleRefrigerator_Frame.description>食物放在里面不会腐坏。</RimFridge_SingleRefrigerator_Frame.description>
 
-  <RimFridge_Refrigerator.label>Dual Refrigerator</RimFridge_Refrigerator.label>
-  <RimFridge_Refrigerator.description>Rottable things stored in this will not spoil.</RimFridge_Refrigerator.description>
-  <RimFridge_Refrigerator_Blueprint.label>Dual Refrigerator (blueprint)</RimFridge_Refrigerator_Blueprint.label>
-  <RimFridge_Refrigerator_Blueprint_Install.label>Dual Refrigerator (blueprint)</RimFridge_Refrigerator_Blueprint_Install.label>
-  <RimFridge_Refrigerator_Frame.label>Dual Refrigerator (building)</RimFridge_Refrigerator_Frame.label>
-  <RimFridge_Refrigerator_Frame.description>Rottable things stored in this will not spoil.</RimFridge_Refrigerator_Frame.description>
-
-  <RimFridge_QuadRefrigerator.label>Quad Refrigerator</RimFridge_QuadRefrigerator.label>
-  <RimFridge_QuadRefrigerator.description>Rottable things stored in this will not spoil.</RimFridge_QuadRefrigerator.description>
-  <RimFridge_QuadRefrigerator_Blueprint.label>Quad Refrigerator (blueprint)</RimFridge_QuadRefrigerator_Blueprint.label>
-  <RimFridge_QuadRefrigerator_Blueprint_Install.label>Quad Refrigerator (blueprint)</RimFridge_QuadRefrigerator_Blueprint_Install.label>
-  <RimFridge_QuadRefrigerator_Frame.label>Quad Refrigerator (building)</RimFridge_QuadRefrigerator_Frame.label>
-  <RimFridge_QuadRefrigerator_Frame.description>Rottable things stored in this will not spoil.</RimFridge_QuadRefrigerator_Frame.description>
-
+  <RimFridge_QuadRefrigerator.label>大冰箱</RimFridge_QuadRefrigerator.label>
+  <RimFridge_QuadRefrigerator.description>食物放在里面不会腐坏。</RimFridge_QuadRefrigerator.description>
+  <RimFridge_QuadRefrigerator_Blueprint.label>大冰箱（蓝图）</RimFridge_QuadRefrigerator_Blueprint.label>
+  <RimFridge_QuadRefrigerator_Blueprint_Install.label>大冰箱（蓝图）</RimFridge_QuadRefrigerator_Blueprint_Install.label>
+  <RimFridge_QuadRefrigerator_Frame.label>大冰箱（建造中）</RimFridge_QuadRefrigerator_Frame.label>
+  <RimFridge_QuadRefrigerator_Frame.description>食物放在里面不会腐坏。</RimFridge_QuadRefrigerator_Frame.description>
 
 </LanguageData>

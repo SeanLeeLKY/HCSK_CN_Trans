@@ -3,17 +3,17 @@
 
   <!-- Ammo -->
 
-  <Ammo_155mmHowitzerShell_HE.label>155mm howitzer shell (HE)</Ammo_155mmHowitzerShell_HE.label>
-  <Ammo_155mmHowitzerShell_HE.description>155 mm (6.1") is a common and NATO-standard artillery calibre.</Ammo_155mmHowitzerShell_HE.description>
+  <Ammo_155mmHowitzerShell_HE.label>155mm 炮弹（高爆弹）</Ammo_155mmHowitzerShell_HE.label>
+  <Ammo_155mmHowitzerShell_HE.description>155毫米（6.1英寸）是一种常见的北约标准火炮口径。</Ammo_155mmHowitzerShell_HE.description>
 
-  <Ammo_155mmHowitzerShell_EMP.label>155mm howitzer shell (EMP)</Ammo_155mmHowitzerShell_EMP.label>
-  <Ammo_155mmHowitzerShell_EMP.description>155 mm (6.1") is a common and NATO-standard artillery calibre.</Ammo_155mmHowitzerShell_EMP.description>
+  <Ammo_155mmHowitzerShell_EMP.label>155mm 炮弹（EMP）</Ammo_155mmHowitzerShell_EMP.label>
+  <Ammo_155mmHowitzerShell_EMP.description>155毫米（6.1英寸）是一种常见的北约标准火炮口径。</Ammo_155mmHowitzerShell_EMP.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_155mmHowitzerShell_HE.label>155mm howitzer shell (HE)</Bullet_155mmHowitzerShell_HE.label>
-  <Bullet_155mmHowitzerShell_EMP.label>155mm howitzer shell (EMP)</Bullet_155mmHowitzerShell_EMP.label>
+  <Bullet_155mmHowitzerShell_HE.label>155mm 炮弹（高爆弹）</Bullet_155mmHowitzerShell_HE.label>
+  <Bullet_155mmHowitzerShell_EMP.label>155mm 炮弹（EMP）</Bullet_155mmHowitzerShell_EMP.label>
 
 
 </LanguageData>

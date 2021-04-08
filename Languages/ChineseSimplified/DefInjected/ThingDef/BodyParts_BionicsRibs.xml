@@ -3,44 +3,44 @@
 
   <!-- Medical rib -->
 
-  <MedicalRib.label>medical rib replacement</MedicalRib.label>
-  <MedicalRib.description>An artificial rib, equipped with little blood filters and antibiotics-dispensers to keep the user healthy.</MedicalRib.description>
+  <MedicalRib.label>医疗肋骨</MedicalRib.label>
+  <MedicalRib.description>一根人造肋骨，内置小型的血液过滤器和抗生素释放器，让使用者的保持健康。</MedicalRib.description>
 
 
   <!-- Drugged rib -->
 
-  <DruggedRib.label>drugged rib replacement</DruggedRib.label>
-  <DruggedRib.description>An artificial rib, equipped with little flake-dispensers to keep the user happy. Synthetic liver highly recommended.</DruggedRib.description>
+  <DruggedRib.label>迷幻肋骨</DruggedRib.label>
+  <DruggedRib.description>一根人造肋骨，内置小型的酒精释放器，让使用者的保持愉悦。</DruggedRib.description>
 
 
   <!-- Adrenaline rib -->
 
-  <AdrenalineRib.label>adrenaline rib replacement</AdrenalineRib.label>
-  <AdrenalineRib.description>An artificial rib, equipped with little adrenaline-dispensers to keep the user fit and awake.</AdrenalineRib.description>
+  <AdrenalineRib.label>肾上腺素肋骨</AdrenalineRib.label>
+  <AdrenalineRib.description>一根人造肋骨，内置小型的肾上腺素释放器，让使用者的保持活力和清醒。</AdrenalineRib.description>
 
 
   <!-- Painkiller rib -->
 
-  <PainkillerRib.label>painkiller rib replacement</PainkillerRib.label>
-  <PainkillerRib.description>An artificial rib, equipped with little morphine-dispensers to numb the user's pain.</PainkillerRib.description>
+  <PainkillerRib.label>止痛肋骨</PainkillerRib.label>
+  <PainkillerRib.description>一根人造肋骨，内置小型的吗啡释放器，麻痹使用者的痛觉。</PainkillerRib.description>
 
 
   <!-- Heater rib -->
 
-  <HeaterRib.label>heating rib replacement</HeaterRib.label>
-  <HeaterRib.description>An artificial rib, containing a micro-reactor powered, heat inducing spiral to warm the body from the inside.</HeaterRib.description>
+  <HeaterRib.label>加热肋骨</HeaterRib.label>
+  <HeaterRib.description>一种人工肋骨，包含一个微型反应炉，从内部给身体提供热量。</HeaterRib.description>
 
 
   <!-- Cooler rib -->
 
-  <CoolerRib.label>cooling rib replacement</CoolerRib.label>
-  <CoolerRib.description>An artificial rib with a micro coolant system, increasing the effectiveness of heat exchange via dermal exhausts.</CoolerRib.description>
+  <CoolerRib.label>冷却肋骨</CoolerRib.label>
+  <CoolerRib.description>一种人工肋骨，包含一个微型冷却装置，从内部给身体降温。</CoolerRib.description>
 
 
   <!-- Coagulator rib -->
 
-  <CoagulatorRib.label>coagulator rib replacement</CoagulatorRib.label>
-  <CoagulatorRib.description>An artificial rib, equipped with little coagulator-dispensers that responds to blood loss, which will make the blood clot easier, in an effort to reduce bleeding.</CoagulatorRib.description>
+  <CoagulatorRib.label>止血肋骨</CoagulatorRib.label>
+  <CoagulatorRib.description>一种人工肋骨，包含一个微型凝血装置，受伤时可以帮助及时止血。</CoagulatorRib.description>
 
 
 </LanguageData>
