@@ -3,9 +3,9 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_BalistaBolt.label>make metallic balista bolts x10</MakeAmmo_BalistaBolt.label>
-  <MakeAmmo_BalistaBolt.description>Craft 10 balista metallic bolts.</MakeAmmo_BalistaBolt.description>
-  <MakeAmmo_BalistaBolt.jobString>Making balista bolts.</MakeAmmo_BalistaBolt.jobString>
+  <MakeAmmo_BalistaBolt.label>制造 金属头弩炮箭 x10</MakeAmmo_BalistaBolt.label>
+  <MakeAmmo_BalistaBolt.description>制造 10 金属头弩炮箭。</MakeAmmo_BalistaBolt.description>
+  <MakeAmmo_BalistaBolt.jobString>正在制造 弩炮箭。</MakeAmmo_BalistaBolt.jobString>
 
 
 </LanguageData>

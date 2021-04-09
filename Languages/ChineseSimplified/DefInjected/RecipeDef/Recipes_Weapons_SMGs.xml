@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BuildPDW.label>Build Uzi</BuildPDW.label>
-  <BuildPDW.description>The Uzi is a micro-submachine gun. Short range, low power and high rate of fire. Very quick to aim and fire.\nCaliber: 9x19mm Para</BuildPDW.description>
-  <BuildPDW.jobString>Building Uzi.</BuildPDW.jobString>
+  <BuildPDW.label>制造 乌兹冲锋枪</BuildPDW.label>
+  <BuildPDW.description>大名鼎鼎的乌兹冲锋枪。有效射程和威力都比较低，但是开火速率极高，很容易就能瞄准开火。\n弹药： 9x19mm 子弹</BuildPDW.description>
+  <BuildPDW.jobString>正在制造 乌兹冲锋枪。</BuildPDW.jobString>
 
-  <BuildHeavySMG.label>Build Spectre M4 Luger</BuildHeavySMG.label>
-  <BuildHeavySMG.description>Builds a compact, wide-caliber slug-thrower. Very short range, but it packs a punch and handles quite well.\nCaliber: .40 Rimfire</BuildHeavySMG.description>
-  <BuildHeavySMG.jobString>Building Spectre M4 Luger</BuildHeavySMG.jobString>
+  <BuildHeavySMG.label>制造 M4幽灵冲锋枪</BuildHeavySMG.label>
+  <BuildHeavySMG.description>M4幽灵冲锋枪是一种可瞬时进入射击状态、火力密集的单兵战斗武器。射程较短，但是密集的火力能够弥补其他的不足。\n弹药： .40 边缘发火弹</BuildHeavySMG.description>
+  <BuildHeavySMG.jobString>正在制造 M4幽灵冲锋枪</BuildHeavySMG.jobString>
 
-  <BuildTMPMachinePistol.label>Build Silenced TMP</BuildTMPMachinePistol.label>
-  <BuildTMPMachinePistol.description>Builds a Silenced TMP (tactical machine pistol). Somewhat accurate at long range, has fast burstfire but low stopping power.\nCaliber: 9x19mm Para</BuildTMPMachinePistol.description>
-  <BuildTMPMachinePistol.jobString>Building Silenced TMP.</BuildTMPMachinePistol.jobString>
+  <BuildTMPMachinePistol.label>制造 TMP“沉默”冲锋枪</BuildTMPMachinePistol.label>
+  <BuildTMPMachinePistol.description>制造 TMP“沉默”冲锋枪，性能一般，瞄准时间较长，极高的开火速率，但是停止力较低。\n弹药： 9x19mm 子弹</BuildTMPMachinePistol.description>
+  <BuildTMPMachinePistol.jobString>正在制造 TMP“沉默”冲锋枪。</BuildTMPMachinePistol.jobString>
 
-  <BuildSkorpionSMG.label>Build Scorpion EVO 3</BuildSkorpionSMG.label>
-  <BuildSkorpionSMG.description>Builds a Scorpion EVO 3, a machinepistol or light SMG with a notorious folding stock design. Fires weak ammunition in quick five shot-bursts at pistol range.\nCaliber: 9x19mm Para</BuildSkorpionSMG.description>
-  <BuildSkorpionSMG.jobString>Building Scorpion EVO 3.</BuildSkorpionSMG.jobString>
+  <BuildSkorpionSMG.label>制造 MP5K冲锋枪</BuildSkorpionSMG.label>
+  <BuildSkorpionSMG.description>制造 MP5K冲锋枪，一种介于专业冲锋枪和自动手枪之间的武器。威力一般，仅仅适合近距离交战。\n弹药： 9x19mm 子弹</BuildSkorpionSMG.description>
+  <BuildSkorpionSMG.jobString>正在制造 MP5K冲锋枪。</BuildSkorpionSMG.jobString>
 
-  <BuildM3SMG.label>Build M3 Greasegun</BuildM3SMG.label>
-  <BuildM3SMG.description>Builds a M3 Greasegun, a very simplistic submachinegun design. Low damage, high fire rate and short range.\nCaliber: .40 Rimfire</BuildM3SMG.description>
-  <BuildM3SMG.jobString>Building M3 Greasegun.</BuildM3SMG.jobString>
+  <BuildM3SMG.label>制造 M3“注油枪”冲锋枪</BuildM3SMG.label>
+  <BuildM3SMG.description>制造 M3“注油枪”冲锋枪，一种结构简单的SMG类的武器。威力较低，开火速率较高，射程较近。\n弹药： .40 边缘发火弹</BuildM3SMG.description>
+  <BuildM3SMG.jobString>正在制造 M3“注油枪”冲锋枪。</BuildM3SMG.jobString>
 
-  <BuildVector.label>Build Kriss Vector K10</BuildVector.label>
-  <BuildVector.description>Builds a Kriss Vector K10, a submachinegun that fires in medium length bursts. Its substantially reduced knockback causes it to be accurate up to medium range, but its bullet drop limits maximum range by a lot.\nCaliber: .45 ACP</BuildVector.description>
-  <BuildVector.jobString>Building Vector K10.</BuildVector.jobString>
+  <BuildVector.label>制造 K10“短剑”冲锋枪</BuildVector.label>
+  <BuildVector.description>制造 K10“短剑”冲锋枪，是原来的Vector的注塑塑料枪身和折叠式枪托都会被金属枪身和会缩折入枪身上机匣内部的伸缩式枪托所取代了。改进优化后坐力能量，使得这把枪能够将有效精度提高到中距离作战水平，但是这样的结构也限制了它的最大射程。\n弹药： .45 自动手枪弹</BuildVector.description>
+  <BuildVector.jobString>正在制造 K10“短剑”冲锋枪。</BuildVector.jobString>
 
-  <BuildMP5Gun.label>Build HK MP5A3</BuildMP5Gun.label>
-  <BuildMP5Gun.description>Builds a Heckler Koch Machine Pistol 5A3, a 9mm submachine gun of German design. Low damage and short range, very high rate of fire.\nCaliber: 9x19mm Para</BuildMP5Gun.description>
-  <BuildMP5Gun.jobString>Building HK MP5A3.</BuildMP5Gun.jobString>
+  <BuildMP5Gun.label>制造 MP5A3冲锋枪</BuildMP5Gun.label>
+  <BuildMP5Gun.description>制造 MP5A3冲锋枪，德制通用9mm冲锋枪。威力和射程都较低，不过发射速率极高。\n弹药： 9x19mm 子弹</BuildMP5Gun.description>
+  <BuildMP5Gun.jobString>正在制造 MP5A3冲锋枪。</BuildMP5Gun.jobString>
 
-  <BuildUMP45Gun.label>Build HK UMP45</BuildUMP45Gun.label>
-  <BuildUMP45Gun.description>The HK UMP45 is a submachine gun developed and manufactured by Heckler Koch. Average damage, low range and high rate of fire.\nCaliber: .45 ACP</BuildUMP45Gun.description>
-  <BuildUMP45Gun.jobString>Building HK UMP45.</BuildUMP45Gun.jobString>
+  <BuildUMP45Gun.label>制造 UMP45冲锋枪</BuildUMP45Gun.label>
+  <BuildUMP45Gun.description>制造 UMP45冲锋枪，一种伤害一般，射程较低但是开火速率较高的武器。\n弹药： .45 自动手枪弹</BuildUMP45Gun.description>
+  <BuildUMP45Gun.jobString>正在制造 UMP45冲锋枪。</BuildUMP45Gun.jobString>
 
 
 </LanguageData>

@@ -3,57 +3,57 @@
 
   <!-- cybernetic parts -->
 
-  <InstallGTEar.label>Install Cybernetic Bionic Ear</InstallGTEar.label>
-  <InstallGTEar.description>Installs a Cybernetic Bionic Ear.</InstallGTEar.description>
-  <InstallGTEar.jobString>Installing Cybernetic Bionic Ear.</InstallGTEar.jobString>
+  <InstallGTEar.label>安装 神经机械仿生耳</InstallGTEar.label>
+  <InstallGTEar.description>安装 神经机械仿生耳。</InstallGTEar.description>
+  <InstallGTEar.jobString>正在安装 神经机械仿生耳。</InstallGTEar.jobString>
 
-  <InstallArchotechEye.label>Install Cybernetic Bionic Eye</InstallArchotechEye.label>
-  <InstallArchotechEye.description>Installs a Cybernetic Bionic Eye.</InstallArchotechEye.description>
-  <InstallArchotechEye.jobString>Installing Cybernetic Bionic Eye.</InstallArchotechEye.jobString>
+  <InstallArchotechEye.label>安装 神经机械仿生眼</InstallArchotechEye.label>
+  <InstallArchotechEye.description>安装 神经机械仿生眼。</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>正在安装 神经机械仿生眼。</InstallArchotechEye.jobString>
 
-  <InstallArchotechArm.label>Install Cybernetic Bionic Arm</InstallArchotechArm.label>
-  <InstallArchotechArm.description>Installs Cybernetic Bionic Arm.</InstallArchotechArm.description>
-  <InstallArchotechArm.jobString>Installing Cybernetic Bionic Arm.</InstallArchotechArm.jobString>
+  <InstallArchotechArm.label>安装 神经机械仿生臂</InstallArchotechArm.label>
+  <InstallArchotechArm.description>Installs 神经机械仿生臂。</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>正在安装 神经机械仿生臂。</InstallArchotechArm.jobString>
 
-  <InstallArchotechLeg.label>Install Cybernetic Bionic Leg</InstallArchotechLeg.label>
-  <InstallArchotechLeg.description>Installs a Cybernetic Bionic Leg.</InstallArchotechLeg.description>
-  <InstallArchotechLeg.jobString>Installing Cybernetic Bionic Leg.</InstallArchotechLeg.jobString>
+  <InstallArchotechLeg.label>安装 神经机械仿生腿</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>安装 神经机械仿生腿。</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>正在安装 神经机械仿生腿。</InstallArchotechLeg.jobString>
 
-  <InstallGTHeart.label>Install Cybernetic Heart</InstallGTHeart.label>
-  <InstallGTHeart.description>Installs a Cybernetic Heart.</InstallGTHeart.description>
-  <InstallGTHeart.jobString>Installing Cybernetic Heart.</InstallGTHeart.jobString>
+  <InstallGTHeart.label>安装 神经机械心</InstallGTHeart.label>
+  <InstallGTHeart.description>安装 神经机械心。</InstallGTHeart.description>
+  <InstallGTHeart.jobString>正在安装 神经机械心。</InstallGTHeart.jobString>
 
-  <InstallGTLung.label>Install Cybernetic Lung</InstallGTLung.label>
-  <InstallGTLung.description>Installs a Cybernetic Lung.</InstallGTLung.description>
-  <InstallGTLung.jobString>Installing Cybernetic Lung.</InstallGTLung.jobString>
+  <InstallGTLung.label>安装 神经机械肺</InstallGTLung.label>
+  <InstallGTLung.description>安装 神经机械肺。</InstallGTLung.description>
+  <InstallGTLung.jobString>正在安装 神经机械肺。</InstallGTLung.jobString>
 
-  <InstallGTKidney.label>Install Cybernetic Kidney</InstallGTKidney.label>
-  <InstallGTKidney.description>Installs a Cybernetic Kidney.</InstallGTKidney.description>
-  <InstallGTKidney.jobString>Installing Cybernetic Kidney.</InstallGTKidney.jobString>
+  <InstallGTKidney.label>安装 神经机械肾</InstallGTKidney.label>
+  <InstallGTKidney.description>安装 神经机械肾。</InstallGTKidney.description>
+  <InstallGTKidney.jobString>正在安装 神经机械肾。</InstallGTKidney.jobString>
 
-  <InstallGTLiver.label>Install Cybernetic Liver</InstallGTLiver.label>
-  <InstallGTLiver.description>Installs a Cybernetic Liver.</InstallGTLiver.description>
-  <InstallGTLiver.jobString>Installing Cybernetic Liver.</InstallGTLiver.jobString>
+  <InstallGTLiver.label>安装 神经机械肝</InstallGTLiver.label>
+  <InstallGTLiver.description>安装 神经机械肝。</InstallGTLiver.description>
+  <InstallGTLiver.jobString>正在安装 神经机械肝。</InstallGTLiver.jobString>
 
-  <InstallGTStomach.label>Install Cybernetic Stomach</InstallGTStomach.label>
-  <InstallGTStomach.description>Installs a Cybernetic Stomach.</InstallGTStomach.description>
-  <InstallGTStomach.jobString>Installing Cybernetic Stomach.</InstallGTStomach.jobString>
+  <InstallGTStomach.label>安装 神经机械胃</InstallGTStomach.label>
+  <InstallGTStomach.description>安装 神经机械胃。</InstallGTStomach.description>
+  <InstallGTStomach.jobString>正在安装 神经机械胃。</InstallGTStomach.jobString>
 
-  <InstallGTHand.label>Install Cybernetic Bionic Hand</InstallGTHand.label>
-  <InstallGTHand.description>Installs a Cybernetic Bionic Hand.</InstallGTHand.description>
-  <InstallGTHand.jobString>Installing Cybernetic Bionic Hand.</InstallGTHand.jobString>
+  <InstallGTHand.label>安装 神经机械仿生手</InstallGTHand.label>
+  <InstallGTHand.description>安装 神经机械仿生手。</InstallGTHand.description>
+  <InstallGTHand.jobString>正在安装 神经机械仿生手。</InstallGTHand.jobString>
 
-  <InstallGTFoot.label>Install Cybernetic Bionic Foot</InstallGTFoot.label>
-  <InstallGTFoot.description>Installs a Cybernetic Bionic Foot.</InstallGTFoot.description>
-  <InstallGTFoot.jobString>Installing Cybernetic Bionic Foot.</InstallGTFoot.jobString>
+  <InstallGTFoot.label>安装 神经机械仿生足</InstallGTFoot.label>
+  <InstallGTFoot.description>安装 神经机械仿生足。</InstallGTFoot.description>
+  <InstallGTFoot.jobString>正在安装 神经机械仿生足。</InstallGTFoot.jobString>
 
-  <InstallGTDentures.label>Install Cybernetic Denture</InstallGTDentures.label>
-  <InstallGTDentures.description>Installs a Cybernetic Denture.</InstallGTDentures.description>
-  <InstallGTDentures.jobString>Installing Cybernetic Denture.</InstallGTDentures.jobString>
+  <InstallGTDentures.label>安装 神经机械颌</InstallGTDentures.label>
+  <InstallGTDentures.description>安装 神经机械颌。</InstallGTDentures.description>
+  <InstallGTDentures.jobString>正在安装 神经机械颌。</InstallGTDentures.jobString>
 
-  <InstallGTSpine.label>Install Cybernetic Bionic Spine</InstallGTSpine.label>
-  <InstallGTSpine.description>Installs a Cybernetic Bionic Spine.</InstallGTSpine.description>
-  <InstallGTSpine.jobString>Installing Bionic Spine.</InstallGTSpine.jobString>
+  <InstallGTSpine.label>安装 神经机械仿生脊柱</InstallGTSpine.label>
+  <InstallGTSpine.description>安装 神经机械仿生脊柱。</InstallGTSpine.description>
+  <InstallGTSpine.jobString>正在安装 Bionic Spine。</InstallGTSpine.jobString>
 
 
 </LanguageData>

@@ -3,108 +3,109 @@
 
   <!-- Tactical cornea implant -->
 
-  <InstallTacticalCorneaImplant.label>install tactical cornea implant</InstallTacticalCorneaImplant.label>
-  <InstallTacticalCorneaImplant.description>Installs tactical cornea implant.</InstallTacticalCorneaImplant.description>
-  <InstallTacticalCorneaImplant.jobString>Installing tactical cornea implant.</InstallTacticalCorneaImplant.jobString>
+  <InstallTacticalCorneaImplant.label>安装战术角膜植入物</InstallTacticalCorneaImplant.label>
+  <InstallTacticalCorneaImplant.description>安装战术角膜植入物。</InstallTacticalCorneaImplant.description>
+  <InstallTacticalCorneaImplant.jobString>正在安装战术角膜植入物。</InstallTacticalCorneaImplant.jobString>
 
-  <RemoveTacticalCorneaImplant.label>remove tactical cornea implant</RemoveTacticalCorneaImplant.label>
-  <RemoveTacticalCorneaImplant.description>Remove a tactical cornea implant. Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal.</RemoveTacticalCorneaImplant.description>
-  <RemoveTacticalCorneaImplant.jobString>Removing tactical cornea implant.</RemoveTacticalCorneaImplant.jobString>
+  <RemoveTacticalCorneaImplant.label>移除战术角膜植入物</RemoveTacticalCorneaImplant.label>
+  <RemoveTacticalCorneaImplant.description>移除战术角膜植入物。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveTacticalCorneaImplant.description>
+  <RemoveTacticalCorneaImplant.jobString>正在移除战术角膜植入物。</RemoveTacticalCorneaImplant.jobString>
+  
 
 
   <!-- Auxiliary AI (construction) -->
 
-  <InstallConstructorCore.label>install auxiliary AI (constructing)</InstallConstructorCore.label>
-  <InstallConstructorCore.description>Installs auxiliary AI (constructing).</InstallConstructorCore.description>
-  <InstallConstructorCore.jobString>Installing auxiliary AI (constructing).</InstallConstructorCore.jobString>
+  <InstallConstructorCore.label>安装 辅助AI（建造）</InstallConstructorCore.label>
+  <InstallConstructorCore.description>安装辅助AI（建造）。</InstallConstructorCore.description>
+  <InstallConstructorCore.jobString>正在安装辅助AI（建造）。</InstallConstructorCore.jobString>
 
-  <RemoveConstructorCore.label>remove auxiliary AI (constructing)</RemoveConstructorCore.label>
-  <RemoveConstructorCore.description>Remove auxiliary AI (constructing). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal.</RemoveConstructorCore.description>
-  <RemoveConstructorCore.jobString>Removing auxiliary AI.</RemoveConstructorCore.jobString>
+  <RemoveConstructorCore.label>移除 辅助AI（建造）</RemoveConstructorCore.label>
+  <RemoveConstructorCore.description>移除辅助AI（建造）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveConstructorCore.description>
+  <RemoveConstructorCore.jobString>正在移除辅助AI（建造）。</RemoveConstructorCore.jobString>
 
 
   <!-- Auxiliary AI (agricultural) -->
 
-  <InstallFarmerCore.label>install auxiliary AI (agricultural)</InstallFarmerCore.label>
-  <InstallFarmerCore.description>Installs auxiliary AI (agricultural).</InstallFarmerCore.description>
-  <InstallFarmerCore.jobString>Installing auxiliary AI (agricultural).</InstallFarmerCore.jobString>
+  <InstallFarmerCore.label>安装 辅助AI（种植）</InstallFarmerCore.label>
+  <InstallFarmerCore.description>安装辅助AI（种植）。</InstallFarmerCore.description>
+  <InstallFarmerCore.jobString>正在安装辅助AI（种植）。</InstallFarmerCore.jobString>
 
-  <RemoveFarmerCore.label>remove auxiliary AI (agricultural)</RemoveFarmerCore.label>
-  <RemoveFarmerCore.description>Remove auxiliary AI (agricultural). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal.</RemoveFarmerCore.description>
-  <RemoveFarmerCore.jobString>Removing auxiliary AI.</RemoveFarmerCore.jobString>
+  <RemoveFarmerCore.label>移除 辅助AI（种植）</RemoveFarmerCore.label>
+  <RemoveFarmerCore.description>移除辅助AI（种植）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveFarmerCore.description>
+  <RemoveFarmerCore.jobString>正在移除辅助AI（种植）。</RemoveFarmerCore.jobString>
 
 
   <!-- Auxiliary AI (mining) -->
 
-  <InstallMinerCore.label>install auxiliary AI (mining)</InstallMinerCore.label>
-  <InstallMinerCore.description>Installs auxiliary AI (mining).</InstallMinerCore.description>
-  <InstallMinerCore.jobString>Installing auxiliary AI (mining).</InstallMinerCore.jobString>
+  <InstallMinerCore.label>安装 辅助AI（采矿）</InstallMinerCore.label>
+  <InstallMinerCore.description>安装辅助AI（采矿）。</InstallMinerCore.description>
+  <InstallMinerCore.jobString>正在安装辅助AI（采矿）。</InstallMinerCore.jobString>
 
-  <RemoveMinerCore.label>remove auxiliary AI (mining)</RemoveMinerCore.label>
-  <RemoveMinerCore.description>Remove auxiliary AI (mining). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal.</RemoveMinerCore.description>
-  <RemoveMinerCore.jobString>Removing auxiliary AI.</RemoveMinerCore.jobString>
+  <RemoveMinerCore.label>移除 辅助AI（采矿）</RemoveMinerCore.label>
+  <RemoveMinerCore.description>移除辅助AI（采矿）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveMinerCore.description>
+  <RemoveMinerCore.jobString>正在移除辅助AI（采矿）。</RemoveMinerCore.jobString>
 
 
   <!-- Auxiliary AI (medical) -->
 
-  <InstallDoctorCore.label>install auxiliary AI (medical)</InstallDoctorCore.label>
-  <InstallDoctorCore.description>Installs auxiliary AI (medical).</InstallDoctorCore.description>
-  <InstallDoctorCore.jobString>Installing auxiliary AI (medical).</InstallDoctorCore.jobString>
+  <InstallDoctorCore.label>安装 辅助AI（医疗）</InstallDoctorCore.label>
+  <InstallDoctorCore.description>安装辅助AI（医疗）。</InstallDoctorCore.description>
+  <InstallDoctorCore.jobString>正在安装辅助AI（医疗）。</InstallDoctorCore.jobString>
 
-  <RemoveDoctorCore.label>remove auxiliary AI (medical)</RemoveDoctorCore.label>
-  <RemoveDoctorCore.description>Remove auxiliary AI (medical). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal.</RemoveDoctorCore.description>
-  <RemoveDoctorCore.jobString>Removing auxiliary AI.</RemoveDoctorCore.jobString>
+  <RemoveDoctorCore.label>移除 辅助AI（医疗）</RemoveDoctorCore.label>
+  <RemoveDoctorCore.description>移除辅助AI（医疗）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveDoctorCore.description>
+  <RemoveDoctorCore.jobString>正在移除辅助AI（医疗）。</RemoveDoctorCore.jobString>
 
 
   <!-- Auxiliary AI (diplomatic) -->
 
-  <InstallDiplomatCore.label>install auxiliary AI (diplomatic)</InstallDiplomatCore.label>
-  <InstallDiplomatCore.description>Installs auxiliary AI (diplomatic).</InstallDiplomatCore.description>
-  <InstallDiplomatCore.jobString>Installing auxiliary AI (diplomatic).</InstallDiplomatCore.jobString>
+  <InstallDiplomatCore.label>安装 辅助AI（社交）</InstallDiplomatCore.label>
+  <InstallDiplomatCore.description>安装辅助AI（社交）。</InstallDiplomatCore.description>
+  <InstallDiplomatCore.jobString>正在安装辅助AI（社交）。</InstallDiplomatCore.jobString>
 
-  <RemoveDiplomatCore.label>remove auxiliary AI (diplomatic)</RemoveDiplomatCore.label>
-  <RemoveDiplomatCore.description>Remove auxiliary AI (diplomatic). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal.</RemoveDiplomatCore.description>
-  <RemoveDiplomatCore.jobString>Removing auxiliary AI.</RemoveDiplomatCore.jobString>
+  <RemoveDiplomatCore.label>移除 辅助AI（社交）</RemoveDiplomatCore.label>
+  <RemoveDiplomatCore.description>移除辅助AI（社交）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveDiplomatCore.description>
+  <RemoveDiplomatCore.jobString>正在移除辅助AI（社交）。</RemoveDiplomatCore.jobString>
 
 
   <!-- Auxiliary AI (sharpshooter) -->
 
-  <InstallAuxiliaryAI_Sharpshooter.label>install auxiliary AI (sharpshooter)</InstallAuxiliaryAI_Sharpshooter.label>
-  <InstallAuxiliaryAI_Sharpshooter.description>Installs auxiliary AI (sharpshooter).</InstallAuxiliaryAI_Sharpshooter.description>
-  <InstallAuxiliaryAI_Sharpshooter.jobString>Installing auxiliary AI (sharpshooter).</InstallAuxiliaryAI_Sharpshooter.jobString>
+  <InstallAuxiliaryAI_Sharpshooter.label>安装 辅助AI（射击）</InstallAuxiliaryAI_Sharpshooter.label>
+  <InstallAuxiliaryAI_Sharpshooter.description>安装辅助AI（射击）。</InstallAuxiliaryAI_Sharpshooter.description>
+  <InstallAuxiliaryAI_Sharpshooter.jobString>正在安装辅助AI（射击）。</InstallAuxiliaryAI_Sharpshooter.jobString>
 
-  <RemoveAuxiliaryAI_Sharpshooter.label>remove auxiliary AI (sharpshooter)</RemoveAuxiliaryAI_Sharpshooter.label>
-  <RemoveAuxiliaryAI_Sharpshooter.description>Remove auxiliary AI (sharpshooter). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal.</RemoveAuxiliaryAI_Sharpshooter.description>
-  <RemoveAuxiliaryAI_Sharpshooter.jobString>Removing auxiliary AI.</RemoveAuxiliaryAI_Sharpshooter.jobString>
+  <RemoveAuxiliaryAI_Sharpshooter.label>移除 辅助AI（射击）</RemoveAuxiliaryAI_Sharpshooter.label>
+  <RemoveAuxiliaryAI_Sharpshooter.description>移除辅助AI（射击）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveAuxiliaryAI_Sharpshooter.description>
+  <RemoveAuxiliaryAI_Sharpshooter.jobString>正在移除辅助AI。</RemoveAuxiliaryAI_Sharpshooter.jobString>
 
 
   <!-- Auxiliary AI (commando) -->
 
-  <InstallAuxiliaryAI_Commando.label>install auxiliary AI (commando)</InstallAuxiliaryAI_Commando.label>
-  <InstallAuxiliaryAI_Commando.description>Installs auxiliary AI (commando).</InstallAuxiliaryAI_Commando.description>
-  <InstallAuxiliaryAI_Commando.jobString>Installing auxiliary AI (commando).</InstallAuxiliaryAI_Commando.jobString>
+  <InstallAuxiliaryAI_Commando.label>安装 辅助AI（作战）</InstallAuxiliaryAI_Commando.label>
+  <InstallAuxiliaryAI_Commando.description>安装辅助AI（作战）。</InstallAuxiliaryAI_Commando.description>
+  <InstallAuxiliaryAI_Commando.jobString>正在安装辅助AI（作战）。</InstallAuxiliaryAI_Commando.jobString>
 
-  <RemoveAuxiliaryAI_Commando.label>remove auxiliary AI (commando)</RemoveAuxiliaryAI_Commando.label>
-  <RemoveAuxiliaryAI_Commando.description>Remove auxiliary AI (commando). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal.</RemoveAuxiliaryAI_Commando.description>
-  <RemoveAuxiliaryAI_Commando.jobString>Removing auxiliary AI.</RemoveAuxiliaryAI_Commando.jobString>
+  <RemoveAuxiliaryAI_Commando.label>移除 辅助AI（作战）</RemoveAuxiliaryAI_Commando.label>
+  <RemoveAuxiliaryAI_Commando.description>移除辅助AI（作战）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveAuxiliaryAI_Commando.description>
+  <RemoveAuxiliaryAI_Commando.jobString>正在移除辅助AI。</RemoveAuxiliaryAI_Commando.jobString>
 
 
   <!-- Auxiliary AI (brawler) -->
 
-  <InstallAuxiliaryAI_Brawler.label>install auxiliary AI (brawler)</InstallAuxiliaryAI_Brawler.label>
-  <InstallAuxiliaryAI_Brawler.description>Installs auxiliary AI (brawler).</InstallAuxiliaryAI_Brawler.description>
-  <InstallAuxiliaryAI_Brawler.jobString>Installing auxiliary AI (brawler).</InstallAuxiliaryAI_Brawler.jobString>
+  <InstallAuxiliaryAI_Brawler.label>安装 辅助AI（格斗）</InstallAuxiliaryAI_Brawler.label>
+  <InstallAuxiliaryAI_Brawler.description>安装辅助AI（格斗）。</InstallAuxiliaryAI_Brawler.description>
+  <InstallAuxiliaryAI_Brawler.jobString>正在安装辅助AI（格斗）。</InstallAuxiliaryAI_Brawler.jobString>
 
-  <RemoveAuxiliaryAI_Brawler.label>remove auxiliary AI (brawler)</RemoveAuxiliaryAI_Brawler.label>
-  <RemoveAuxiliaryAI_Brawler.description>Remove auxiliary AI (brawler). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal.</RemoveAuxiliaryAI_Brawler.description>
-  <RemoveAuxiliaryAI_Brawler.jobString>Removing auxiliary AI.</RemoveAuxiliaryAI_Brawler.jobString>
+  <RemoveAuxiliaryAI_Brawler.label>移除辅助AI（格斗）</RemoveAuxiliaryAI_Brawler.label>
+  <RemoveAuxiliaryAI_Brawler.description>移除辅助AI（格斗）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveAuxiliaryAI_Brawler.description>
+  <RemoveAuxiliaryAI_Brawler.jobString>正在移除辅助AI。</RemoveAuxiliaryAI_Brawler.jobString>
 
 
   <!-- AI persona core -->
 
-  <InstallAIPersonaCore.label>install AI persona core</InstallAIPersonaCore.label>
-  <InstallAIPersonaCore.description>Installs AI persona core.</InstallAIPersonaCore.description>
-  <InstallAIPersonaCore.jobString>Installing AI persona core.</InstallAIPersonaCore.jobString>
+  <InstallAIPersonaCore.label>安装 伪人格核心</InstallAIPersonaCore.label>
+  <InstallAIPersonaCore.description>安装伪人格核心。</InstallAIPersonaCore.description>
+  <InstallAIPersonaCore.jobString>正在安装伪人格核心。</InstallAIPersonaCore.jobString>
 
 
 </LanguageData>

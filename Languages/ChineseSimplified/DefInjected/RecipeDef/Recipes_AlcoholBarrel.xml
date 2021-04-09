@@ -1,69 +1,69 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <EmptyCrate_cider.label>empty cider crate</EmptyCrate_cider.label>
-  <EmptyCrate_cider.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_cider.description>
-  <EmptyCrate_cider.jobString>Emptying crate.</EmptyCrate_cider.jobString>
+  <EmptyCrate_cider.label>拆开 苹果酒箱子</EmptyCrate_cider.label>
+  <EmptyCrate_cider.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_cider.description>
+  <EmptyCrate_cider.jobString>打开箱子。</EmptyCrate_cider.jobString>
 
-  <EmptyCrate_rum.label>empty rum crate</EmptyCrate_rum.label>
-  <EmptyCrate_rum.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_rum.description>
-  <EmptyCrate_rum.jobString>Emptying crate.</EmptyCrate_rum.jobString>
+  <EmptyCrate_rum.label>拆开 朗姆酒箱子</EmptyCrate_rum.label>
+  <EmptyCrate_rum.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_rum.description>
+  <EmptyCrate_rum.jobString>打开箱子。</EmptyCrate_rum.jobString>
 
-  <EmptyCrate_Wine.label>empty wine crate</EmptyCrate_Wine.label>
-  <EmptyCrate_Wine.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_Wine.description>
-  <EmptyCrate_Wine.jobString>Emptying crate.</EmptyCrate_Wine.jobString>
+  <EmptyCrate_Wine.label>拆开 葡萄酒箱子</EmptyCrate_Wine.label>
+  <EmptyCrate_Wine.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_Wine.description>
+  <EmptyCrate_Wine.jobString>打开箱子。</EmptyCrate_Wine.jobString>
 
-  <EmptyCrate_strawberrywine.label>empty strawberry wine crate</EmptyCrate_strawberrywine.label>
-  <EmptyCrate_strawberrywine.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_strawberrywine.description>
-  <EmptyCrate_strawberrywine.jobString>Emptying crate.</EmptyCrate_strawberrywine.jobString>
+  <EmptyCrate_strawberrywine.label>拆开 浆果酒箱子</EmptyCrate_strawberrywine.label>
+  <EmptyCrate_strawberrywine.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_strawberrywine.description>
+  <EmptyCrate_strawberrywine.jobString>打开箱子。</EmptyCrate_strawberrywine.jobString>
 
-  <EmptyCrate_saki.label>empty saki crate</EmptyCrate_saki.label>
-  <EmptyCrate_saki.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_saki.description>
-  <EmptyCrate_saki.jobString>Emptying crate.</EmptyCrate_saki.jobString>
+  <EmptyCrate_saki.label>拆开 清酒箱子</EmptyCrate_saki.label>
+  <EmptyCrate_saki.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_saki.description>
+  <EmptyCrate_saki.jobString>打开箱子。</EmptyCrate_saki.jobString>
 
-  <EmptyCrate_vodka.label>empty vodka crate</EmptyCrate_vodka.label>
-  <EmptyCrate_vodka.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_vodka.description>
-  <EmptyCrate_vodka.jobString>Emptying crate.</EmptyCrate_vodka.jobString>
+  <EmptyCrate_vodka.label>拆开 伏特加箱子</EmptyCrate_vodka.label>
+  <EmptyCrate_vodka.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_vodka.description>
+  <EmptyCrate_vodka.jobString>打开箱子。</EmptyCrate_vodka.jobString>
 
-  <EmptyCrate_tequila.label>empty tequila crate</EmptyCrate_tequila.label>
-  <EmptyCrate_tequila.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_tequila.description>
-  <EmptyCrate_tequila.jobString>Emptying crate.</EmptyCrate_tequila.jobString>
+  <EmptyCrate_tequila.label>拆开 龙舌兰酒箱子</EmptyCrate_tequila.label>
+  <EmptyCrate_tequila.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_tequila.description>
+  <EmptyCrate_tequila.jobString>打开箱子。</EmptyCrate_tequila.jobString>
 
-  <EmptyCrate_Whiskey.label>empty whiskey crate</EmptyCrate_Whiskey.label>
-  <EmptyCrate_Whiskey.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_Whiskey.description>
-  <EmptyCrate_Whiskey.jobString>Emptying crate.</EmptyCrate_Whiskey.jobString>
+  <EmptyCrate_Whiskey.label>拆开 威士忌箱子</EmptyCrate_Whiskey.label>
+  <EmptyCrate_Whiskey.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_Whiskey.description>
+  <EmptyCrate_Whiskey.jobString>打开箱子。</EmptyCrate_Whiskey.jobString>
 
-  <EmptyCrate_Moonshine.label>empty patreonbrew crate</EmptyCrate_Moonshine.label>
-  <EmptyCrate_Moonshine.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_Moonshine.description>
-  <EmptyCrate_Moonshine.jobString>Emptying crate.</EmptyCrate_Moonshine.jobString>
+  <EmptyCrate_Moonshine.label>拆开 月光佳酿箱子</EmptyCrate_Moonshine.label>
+  <EmptyCrate_Moonshine.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_Moonshine.description>
+  <EmptyCrate_Moonshine.jobString>打开箱子。</EmptyCrate_Moonshine.jobString>
 
-  <EmptyCrate_Gin.label>empty Gin crate</EmptyCrate_Gin.label>
-  <EmptyCrate_Gin.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_Gin.description>
-  <EmptyCrate_Gin.jobString>Emptying crate.</EmptyCrate_Gin.jobString>
+  <EmptyCrate_Gin.label>拆开 杜松子酒箱子</EmptyCrate_Gin.label>
+  <EmptyCrate_Gin.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_Gin.description>
+  <EmptyCrate_Gin.jobString>打开箱子。</EmptyCrate_Gin.jobString>
 
-  <EmptyCrate_Brandy.label>empty Brandy crate</EmptyCrate_Brandy.label>
-  <EmptyCrate_Brandy.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_Brandy.description>
-  <EmptyCrate_Brandy.jobString>Emptying crate.</EmptyCrate_Brandy.jobString>
+  <EmptyCrate_Brandy.label>拆开 白兰地箱子</EmptyCrate_Brandy.label>
+  <EmptyCrate_Brandy.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_Brandy.description>
+  <EmptyCrate_Brandy.jobString>打开箱子。</EmptyCrate_Brandy.jobString>
 
-  <EmptyCrate_Cognac.label>empty Cognac crate</EmptyCrate_Cognac.label>
-  <EmptyCrate_Cognac.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_Cognac.description>
-  <EmptyCrate_Cognac.jobString>Emptying crate.</EmptyCrate_Cognac.jobString>
+  <EmptyCrate_Cognac.label>拆开 干邑白兰地箱子</EmptyCrate_Cognac.label>
+  <EmptyCrate_Cognac.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_Cognac.description>
+  <EmptyCrate_Cognac.jobString>打开箱子。</EmptyCrate_Cognac.jobString>
 
-  <EmptyCrate_Kahlua.label>empty Kahlua crate</EmptyCrate_Kahlua.label>
-  <EmptyCrate_Kahlua.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_Kahlua.description>
-  <EmptyCrate_Kahlua.jobString>Emptying crate.</EmptyCrate_Kahlua.jobString>
+  <EmptyCrate_Kahlua.label>拆开 咖啡酒箱子</EmptyCrate_Kahlua.label>
+  <EmptyCrate_Kahlua.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_Kahlua.description>
+  <EmptyCrate_Kahlua.jobString>打开箱子。</EmptyCrate_Kahlua.jobString>
 
-  <EmptyCrate_Arak.label>empty Arak crate</EmptyCrate_Arak.label>
-  <EmptyCrate_Arak.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_Arak.description>
-  <EmptyCrate_Arak.jobString>Emptying crate.</EmptyCrate_Arak.jobString>
+  <EmptyCrate_Arak.label>拆开 亚力酒箱子</EmptyCrate_Arak.label>
+  <EmptyCrate_Arak.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_Arak.description>
+  <EmptyCrate_Arak.jobString>打开箱子。</EmptyCrate_Arak.jobString>
 
-  <EmptyCrate_Applejack.label>empty Applejack crate</EmptyCrate_Applejack.label>
-  <EmptyCrate_Applejack.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_Applejack.description>
-  <EmptyCrate_Applejack.jobString>Emptying crate.</EmptyCrate_Applejack.jobString>
+  <EmptyCrate_Applejack.label>拆开 苹果白兰地箱子</EmptyCrate_Applejack.label>
+  <EmptyCrate_Applejack.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_Applejack.description>
+  <EmptyCrate_Applejack.jobString>打开箱子。</EmptyCrate_Applejack.jobString>
 
-  <EmptyCrate_Patreonbrew.label>empty patreonbrew crate</EmptyCrate_Patreonbrew.label>
-  <EmptyCrate_Patreonbrew.description>Take all of the alcohol bottles out of their storage crate.</EmptyCrate_Patreonbrew.description>
-  <EmptyCrate_Patreonbrew.jobString>Emptying crate.</EmptyCrate_Patreonbrew.jobString>
+  <EmptyCrate_Patreonbrew.label>拆开 众筹佳酿箱子</EmptyCrate_Patreonbrew.label>
+  <EmptyCrate_Patreonbrew.description>把所有包装好的瓶装酒从储藏箱里拿出来。</EmptyCrate_Patreonbrew.description>
+  <EmptyCrate_Patreonbrew.jobString>打开箱子。</EmptyCrate_Patreonbrew.jobString>
 
 
 </LanguageData>

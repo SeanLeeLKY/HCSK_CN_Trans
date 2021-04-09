@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeHerbMedicine.label>craft herbal medicine</MakeHerbMedicine.label>
-  <MakeHerbMedicine.description>Crafts herbal medicine from Raw Healroot. Produces 1.</MakeHerbMedicine.description>
-  <MakeHerbMedicine.jobString>Crafting herbal medicine.</MakeHerbMedicine.jobString>
+  <MakeHerbMedicine.label>制造 中草药</MakeHerbMedicine.label>
+  <MakeHerbMedicine.description>用生药草制作中草药。 \n\n产出：1。</MakeHerbMedicine.description>
+  <MakeHerbMedicine.jobString>正在制造 中草药。</MakeHerbMedicine.jobString>
 
-  <makemedicine.label>craft medicine</makemedicine.label>
-  <makemedicine.description>Crafts a medicine kit from herbal medicine and various other resources. Produces 1.</makemedicine.description>
-  <makemedicine.jobString>Crafting medicine.</makemedicine.jobString>
+  <makemedicine.label>制造 药物</makemedicine.label>
+  <makemedicine.description>用中草药和其它多种原材料制造标准药物。 \n\n产出：1。</makemedicine.description>
+  <makemedicine.jobString>正在制造 药物。</makemedicine.jobString>
 
-  <makeadvmedicine.label>craft advanced medicine</makeadvmedicine.label>
-  <makeadvmedicine.description>Crafts advanced medicine from plants with high medical potency. Produces 1.</makeadvmedicine.description>
-  <makeadvmedicine.jobString>Crafting advanced medicine.</makeadvmedicine.jobString>
+  <makeadvmedicine.label>制造 闪耀世界医药</makeadvmedicine.label>
+  <makeadvmedicine.description>从具备高药效的作物和材料中提取有效成分，合成高效力药物。 \n\n产出：1。</makeadvmedicine.description>
+  <makeadvmedicine.jobString>正在制造 闪耀世界医药。</makeadvmedicine.jobString>
 
-  <MakeBandagekitcrude.label>craft crude bandage kit</MakeBandagekitcrude.label>
-  <MakeBandagekitcrude.description>A pack of makeshift bandages. Looks bad, probably bad for your wounds. Good for stopping bleeding but nothing more. Produces 1.</MakeBandagekitcrude.description>
-  <MakeBandagekitcrude.jobString>Crafting crude bandage kit.</MakeBandagekitcrude.jobString>
+  <MakeBandagekitcrude.label>制造 粗制绷带</MakeBandagekitcrude.label>
+  <MakeBandagekitcrude.description>一包临时制作的绷带。看起来就很糟糕，只能用来止血，没别的用处了。\n\n产出：1。</MakeBandagekitcrude.description>
+  <MakeBandagekitcrude.jobString>正在制造 粗制绷带。</MakeBandagekitcrude.jobString>
 
-  <MakeBandageKit.label>craft bandage kit</MakeBandageKit.label>
-  <MakeBandageKit.description>A pack of bandages made from cloth. Less potent than medical kits. Produces 1.</MakeBandageKit.description>
-  <MakeBandageKit.jobString>Crafting bandage kit.</MakeBandageKit.jobString>
+  <MakeBandageKit.label>制造 绷带包</MakeBandageKit.label>
+  <MakeBandageKit.description>一包用布做的绷带。比医疗包的药效要低。\n\n产出：1。</MakeBandageKit.description>
+  <MakeBandageKit.jobString>正在制造 绷带包。</MakeBandageKit.jobString>
 
-  <MakeHerbmedicine.label>craft basic medicine kit</MakeHerbmedicine.label>
-  <MakeHerbmedicine.description>A pack of mix herbs. Less potent than industrial pharmaceuticals. \n\nMade from aloe and cloth. Produces 1.</MakeHerbmedicine.description>
-  <MakeHerbmedicine.jobString>Crafting basic medicine kit.</MakeHerbmedicine.jobString>
+  <MakeHerbmedicine.label>制造 简易药包</MakeHerbmedicine.label>
+  <MakeHerbmedicine.description>一包混合药材。药效比工业药品低。\n\n使用芦荟和布匹制作。\n\n产出：1。</MakeHerbmedicine.description>
+  <MakeHerbmedicine.jobString>正在制造 简易药包。</MakeHerbmedicine.jobString>
 
 
 </LanguageData>

@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakePizza.label>bake pizza</MakePizza.label>
-  <MakePizza.description>Bakes a pizza from flour, cheese and tomatoes. Scrumptious! Produces 2.</MakePizza.description>
-  <MakePizza.jobString>Baking pizza.</MakePizza.jobString>
+  <MakePizza.label>烘焙 披萨</MakePizza.label>
+  <MakePizza.description>用面粉、芝士和番茄一起烘焙披萨。 非常美味！ \n\n产出：2。</MakePizza.description>
+  <MakePizza.jobString>正在烘焙 披萨。</MakePizza.jobString>
 
-  <MakePieBlueberry.label>bake berry pies</MakePieBlueberry.label>
-  <MakePieBlueberry.description>Bake tasty berry pies. Produces 4.</MakePieBlueberry.description>
-  <MakePieBlueberry.jobString>Baking berry pies.</MakePieBlueberry.jobString>
+  <MakePieBlueberry.label>烘焙 蓝莓派</MakePieBlueberry.label>
+  <MakePieBlueberry.description>烘焙美味的蓝莓派. \n\n产出：4。</MakePieBlueberry.description>
+  <MakePieBlueberry.jobString>正在烘焙 蓝莓派。</MakePieBlueberry.jobString>
 
-  <MakeTaffy.label>cook taffy candies</MakeTaffy.label>
-  <MakeTaffy.description>Turns sugar into taffy. Taffy is a type of sweet, chewable candy. Produces 5.</MakeTaffy.description>
-  <MakeTaffy.jobString>Cooking taffy candies.</MakeTaffy.jobString>
+  <MakeTaffy.label>烹制 太妃糖</MakeTaffy.label>
+  <MakeTaffy.description>将糖制成太妃糖————一种美味的硬糖。 \n\n产出：5。</MakeTaffy.description>
+  <MakeTaffy.jobString>正在烹制 太妃糖。</MakeTaffy.jobString>
 
-  <MakeCookies.label>bake chocolate cookies</MakeCookies.label>
-  <MakeCookies.description>Bakes cookies from flour, sugar and chocolate; using grandma's recipe. Produces 10.</MakeCookies.description>
-  <MakeCookies.jobString>Baking chocolate cookies.</MakeCookies.jobString>
+  <MakeCookies.label>烘焙 巧克力曲奇</MakeCookies.label>
+  <MakeCookies.description>用面粉、糖和巧克力一起烤制巧克力曲奇饼。是的，祖母秘方！ \n\n产出：10。</MakeCookies.description>
+  <MakeCookies.jobString>正在烘焙 巧克力曲奇。</MakeCookies.jobString>
 
-  <MakeSweetBun.label>bake sweet rolls</MakeSweetBun.label>
-  <MakeSweetBun.description>Bakes sweet rolls covered in sugary icying. Produces 5.</MakeSweetBun.description>
-  <MakeSweetBun.jobString>Baking sweet rolls.</MakeSweetBun.jobString>
+  <MakeSweetBun.label>烘焙 甜面包</MakeSweetBun.label>
+  <MakeSweetBun.description>烘焙盖满糖霜的面包卷。 \n\n产出：5。</MakeSweetBun.description>
+  <MakeSweetBun.jobString>正在烘焙 甜面包。</MakeSweetBun.jobString>
 
-  <BakeCornbread.label>bake cornbread (2x)</BakeCornbread.label>
-  <BakeCornbread.description>Bake a tasty cornbread loaf. Produces 2.</BakeCornbread.description>
-  <BakeCornbread.jobString>Baking cornbread.</BakeCornbread.jobString>
+  <BakeCornbread.label>烘焙 玉米面包（2x）</BakeCornbread.label>
+  <BakeCornbread.description>烘焙一条美味的玉米面包。 \n\n产出：2。</BakeCornbread.description>
+  <BakeCornbread.jobString>正在烘焙 玉米面包。</BakeCornbread.jobString>
 
-  <BakeCornbreadmuffin.label>bake cornbread muffins (3x)</BakeCornbreadmuffin.label>
-  <BakeCornbreadmuffin.description>Bake some tasty cornbread muffins. Produces 3.</BakeCornbreadmuffin.description>
-  <BakeCornbreadmuffin.jobString>Baking cornbread muffins.</BakeCornbreadmuffin.jobString>
+  <BakeCornbreadmuffin.label>烘焙 玉米松糕（3x）</BakeCornbreadmuffin.label>
+  <BakeCornbreadmuffin.description>烘焙一些美味的玉米松糕。 \n\n产出：3。</BakeCornbreadmuffin.description>
+  <BakeCornbreadmuffin.jobString>正在烘焙 玉米松糕。</BakeCornbreadmuffin.jobString>
 
 
 </LanguageData>

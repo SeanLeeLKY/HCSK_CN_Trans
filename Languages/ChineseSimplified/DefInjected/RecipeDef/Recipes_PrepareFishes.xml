@@ -3,9 +3,10 @@
 
   <!-- Campfire meal -->
 
-  <GrillFishCampfire.label>grill fish</GrillFishCampfire.label>
-  <GrillFishCampfire.description>Grills a fish so it can be eaten. Tasty and crunchy!</GrillFishCampfire.description>
-  <GrillFishCampfire.jobString>Grilling fish.</GrillFishCampfire.jobString>
+  <GrillFishCampfire.label>烹制 烤鱼</GrillFishCampfire.label>
+  <GrillFishCampfire.description>先准备一条鱼，然后上火慢烤，美味又酥脆！</GrillFishCampfire.description>
+  <GrillFishCampfire.jobString>烤鱼中。</GrillFishCampfire.jobString>
+
 
 
 </LanguageData>

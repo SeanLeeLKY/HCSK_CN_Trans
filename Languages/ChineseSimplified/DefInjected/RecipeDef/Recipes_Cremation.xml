@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CremateCorpse.label>Cremate corpse</CremateCorpse.label>
-  <CremateCorpse.description>Cremate a corpse into ashes. Produces 4.</CremateCorpse.description>
-  <CremateCorpse.jobString>Cremating a corpse.</CremateCorpse.jobString>
+  <CremateCorpse.label>火化尸体</CremateCorpse.label>
+  <CremateCorpse.description>将尸体烧成灰烬。\n\n产出：4</CremateCorpse.description>
+  <CremateCorpse.jobString>正在火化。</CremateCorpse.jobString>
 
-  <BurnApparel.label>Burn apparel</BurnApparel.label>
-  <BurnApparel.description>Burn apparel into ashes. Produces 2.</BurnApparel.description>
-  <BurnApparel.jobString>Burning apparel.</BurnApparel.jobString>
+  <BurnApparel.label>烧毁衣物</BurnApparel.label>
+  <BurnApparel.description>将衣物烧成灰烬。\n\n产出：2</BurnApparel.description>
+  <BurnApparel.jobString>正在烧毁衣物。</BurnApparel.jobString>
 
-  <BurnThings.label>Burn materials</BurnThings.label>
-  <BurnThings.description>Burn wood, textiles and leathers into ashes. Produces 3.</BurnThings.description>
-  <BurnThings.jobString>Burning materials.</BurnThings.jobString>
+  <BurnThings.label>烧毁原料</BurnThings.label>
+  <BurnThings.description>将木头、织物还有皮革烧成灰烬。\n\n产出：3</BurnThings.description>
+  <BurnThings.jobString>正在烧毁原料。</BurnThings.jobString>
 
-  <CremateCorpseCampfire.label>Cremate corpse</CremateCorpseCampfire.label>
-  <CremateCorpseCampfire.description>Cremate a corpse into ashes. Produces 4.</CremateCorpseCampfire.description>
-  <CremateCorpseCampfire.jobString>Cremating a corpse.</CremateCorpseCampfire.jobString>
+  <CremateCorpseCampfire.label>火化尸体</CremateCorpseCampfire.label>
+  <CremateCorpseCampfire.description>将尸体烧成灰烬。\n\n产出：4</CremateCorpseCampfire.description>
+  <CremateCorpseCampfire.jobString>正在火化。</CremateCorpseCampfire.jobString>
 
-  <BurnApparelCampfire.label>Burn apparel</BurnApparelCampfire.label>
-  <BurnApparelCampfire.description>Burn apparel into ashes. Produces 2.</BurnApparelCampfire.description>
-  <BurnApparelCampfire.jobString>Burning apparel.</BurnApparelCampfire.jobString>
+  <BurnApparelCampfire.label>烧毁衣物</BurnApparelCampfire.label>
+  <BurnApparelCampfire.description>将衣物烧成灰烬。\n\n产出：2</BurnApparelCampfire.description>
+  <BurnApparelCampfire.jobString>正在烧毁衣物。</BurnApparelCampfire.jobString>
 
-  <BurnThingsCampfire.label>Burn materials</BurnThingsCampfire.label>
-  <BurnThingsCampfire.description>Burn wood, textiles and leather into ashes. Produces 3.</BurnThingsCampfire.description>
-  <BurnThingsCampfire.jobString>Burning materials.</BurnThingsCampfire.jobString>
+  <BurnThingsCampfire.label>烧毁原料</BurnThingsCampfire.label>
+  <BurnThingsCampfire.description>将木头、织物还有皮革烧成灰烬。\n\n产出：3</BurnThingsCampfire.description>
+  <BurnThingsCampfire.jobString>正在烧毁原料。</BurnThingsCampfire.jobString>
 
 
 </LanguageData>

@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakePainting.label>create a painting</MakePainting.label>
-  <MakePainting.description>Create a painting by using cloth and painting supplies. Produces 1.</MakePainting.description>
-  <MakePainting.jobString>Painting happy little trees.</MakePainting.jobString>
+  <MakePainting.label>绘制 艺术画</MakePainting.label>
+  <MakePainting.description>用布匹和颜料来绘制一幅图画作品。 \n\n产出：1。</MakePainting.description>
+  <MakePainting.jobString>正在欢快的涂画。</MakePainting.jobString>
 
-  <CookPaint.label>create painting supplies</CookPaint.label>
-  <CookPaint.description>Creates paint by boiling flowers until the gum and pigments bind and then combining it with wood to finish the set. Produces 1.</CookPaint.description>
-  <CookPaint.jobString>Creating paint set.</CookPaint.jobString>
+  <CookPaint.label>制造 绘画用品</CookPaint.label>
+  <CookPaint.description>利用将花朵煮沸的方法来制作颜料，直到胶水和色素完全粘合在一起，最后配合木质容器制成可以用于绘画的材料套组。 \n\n产出：1。</CookPaint.description>
+  <CookPaint.jobString>正在制造 绘画用品。</CookPaint.jobString>
 
 
   <!-- mai items -->
 
-  <MakeRobotParts.label>assemble robot parts</MakeRobotParts.label>
-  <MakeRobotParts.description>Assemble robot parts. Produces 25.</MakeRobotParts.description>
-  <MakeRobotParts.jobString>Assembling robot parts.</MakeRobotParts.jobString>
+  <MakeRobotParts.label>组装 机器人部件</MakeRobotParts.label>
+  <MakeRobotParts.description>组装机器人部件。 \n\n产出：25。</MakeRobotParts.description>
+  <MakeRobotParts.jobString>正在组装 机器人部件。</MakeRobotParts.jobString>
 
 
 </LanguageData>

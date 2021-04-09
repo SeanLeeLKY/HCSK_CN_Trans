@@ -3,25 +3,25 @@
 
   <!-- lifesupport system -->
 
-  <InstallLifeSupportHeart.label>Install Blood Pump</InstallLifeSupportHeart.label>
-  <InstallLifeSupportHeart.description>Installs a Blood Pump.</InstallLifeSupportHeart.description>
-  <InstallLifeSupportHeart.jobString>Installing Blood Pump.</InstallLifeSupportHeart.jobString>
+  <installlifesupportheart.label>安装 血泵</installlifesupportheart.label>
+  <installlifesupportheart.description>安装血泵。</installlifesupportheart.description>
+  <installlifesupportheart.jobString>正在安装 血泵。</installlifesupportheart.jobString>
 
-  <InstallLifeSupportLung.label>Install Respirator</InstallLifeSupportLung.label>
-  <InstallLifeSupportLung.description>Installs a Respirator.</InstallLifeSupportLung.description>
-  <InstallLifeSupportLung.jobString>Installing Respirator.</InstallLifeSupportLung.jobString>
+  <installlifesupportlung.label>安装 呼吸机</installlifesupportlung.label>
+  <installlifesupportlung.description>安装 呼吸机。</installlifesupportlung.description>
+  <installlifesupportlung.jobString>正在安装 呼吸机。</installlifesupportlung.jobString>
 
-  <InstallLifeSupportKidney.label>Install Urine Filter</InstallLifeSupportKidney.label>
-  <InstallLifeSupportKidney.description>Installs Urine Filter.</InstallLifeSupportKidney.description>
-  <InstallLifeSupportKidney.jobString>Installing Urine Filter.</InstallLifeSupportKidney.jobString>
+  <installlifesupportkidney.label>安装 尿液过滤器</installlifesupportkidney.label>
+  <installlifesupportkidney.description>安装尿液过滤器。</installlifesupportkidney.description>
+  <installlifesupportkidney.jobString>正在安装 尿液过滤器。</installlifesupportkidney.jobString>
 
-  <InstallLifeSupportLiver.label>Install Blood Filter</InstallLifeSupportLiver.label>
-  <InstallLifeSupportLiver.description>Installs a Blood Filter.</InstallLifeSupportLiver.description>
-  <InstallLifeSupportLiver.jobString>Installing Blood Filter.</InstallLifeSupportLiver.jobString>
+  <installlifesupportliver.label>安装 血液过滤器</installlifesupportliver.label>
+  <installlifesupportliver.description>安装血液过滤器。</installlifesupportliver.description>
+  <installlifesupportliver.jobString>正在安装 血液过滤器。</installlifesupportliver.jobString>
 
-  <InstallLifeSupportStomach.label>Install Feeding Tube</InstallLifeSupportStomach.label>
-  <InstallLifeSupportStomach.description>Installs a Feeding Tube.</InstallLifeSupportStomach.description>
-  <InstallLifeSupportStomach.jobString>Installing Feeding Tube.</InstallLifeSupportStomach.jobString>
+  <InstallLifeSupportStomach.label>安装 喂食管</InstallLifeSupportStomach.label>
+  <InstallLifeSupportStomach.description>安装 喂食管。</InstallLifeSupportStomach.description>
+  <InstallLifeSupportStomach.jobString>正在安装 喂食管。</InstallLifeSupportStomach.jobString>
 
 
 </LanguageData>

@@ -3,13 +3,13 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_Flamethrower_Napalm.label>make Napalm x100</MakeAmmo_Flamethrower_Napalm.label>
-  <MakeAmmo_Flamethrower_Napalm.description>Craft 100 units of Napalm.</MakeAmmo_Flamethrower_Napalm.description>
-  <MakeAmmo_Flamethrower_Napalm.jobString>Making Napalm.</MakeAmmo_Flamethrower_Napalm.jobString>
+  <MakeAmmo_Flamethrower_Napalm.label>制造 凝固汽油 x100</MakeAmmo_Flamethrower_Napalm.label>
+  <MakeAmmo_Flamethrower_Napalm.description>制造 100 单位凝固汽油。</MakeAmmo_Flamethrower_Napalm.description>
+  <MakeAmmo_Flamethrower_Napalm.jobString>正在制造 凝固汽油。</MakeAmmo_Flamethrower_Napalm.jobString>
 
-  <MakeAmmo_Flamethrower_Prometheum.label>make jellied Prometheum x100</MakeAmmo_Flamethrower_Prometheum.label>
-  <MakeAmmo_Flamethrower_Prometheum.description>Craft 100 units of jellied Prometheum.</MakeAmmo_Flamethrower_Prometheum.description>
-  <MakeAmmo_Flamethrower_Prometheum.jobString>Making jellied Prometheum.</MakeAmmo_Flamethrower_Prometheum.jobString>
+  <MakeAmmo_Flamethrower_Prometheum.label>制造 胶状神焰燃剂 x100</MakeAmmo_Flamethrower_Prometheum.label>
+  <MakeAmmo_Flamethrower_Prometheum.description>制造 100 单位胶状神焰燃剂。</MakeAmmo_Flamethrower_Prometheum.description>
+  <MakeAmmo_Flamethrower_Prometheum.jobString>正在制造 胶状神焰燃剂。</MakeAmmo_Flamethrower_Prometheum.jobString>
 
 
 </LanguageData>
