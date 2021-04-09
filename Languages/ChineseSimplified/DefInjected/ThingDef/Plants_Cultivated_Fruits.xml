@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlantAgave.label>龙舌兰</PlantAgave.label>
-  <PlantAgave.description>宽大叶子的沙漠植物，花和茎可以食用。</PlantAgave.description>
+  <Plant_Agave.label>龙舌兰</Plant_Agave.label>
+  <Plant_Agave.description>宽大叶子的沙漠植物，花和茎可以食用。</Plant_Agave.description>
 
-  <PlantRaspberry.label>野山莓</PlantRaspberry.label>
-  <PlantRaspberry.description>长有好吃的红色浆果的灌木。</PlantRaspberry.description>
+  <Plant_Berry.label>野山莓</Plant_Berry.label>
+  <Plant_Berry.description>长有好吃的红色浆果的灌木。</Plant_Berry.description>
 
   <PlantStrawberry.label>草莓</PlantStrawberry.label>
   <PlantStrawberry.description>一种脆弱，但是非常好吃的水果。就算生吃也很可口。</PlantStrawberry.description>
 
   <Plantblueberry.label>蓝莓</Plantblueberry.label>
   <Plantblueberry.description>一种长有蓝色浆果的灌木。</Plantblueberry.description>
-  
+
   <Plantcloudberry.label>云莓</Plantcloudberry.label>
   <Plantcloudberry.description>寒冷气候中生长的浆果灌木。</Plantcloudberry.description>
 
   <Plantgooseberry.label>醋栗</Plantgooseberry.label>
   <Plantgooseberry.description>寒冷气候中生长的浆果灌木。</Plantgooseberry.description>
 
-  <Plantcocoa.label>可可树</Plantcocoa.label>
-  <Plantcocoa.description>可可豆能经过发酵、烘焙、研磨，最后加工成巧克力。</Plantcocoa.description>
+  <Plant_TreeCocoa.label>可可树</Plant_TreeCocoa.label>
+  <Plant_TreeCocoa.description>可可豆能经过发酵、烘焙、研磨，最后加工成巧克力。</Plant_TreeCocoa.description>
 
-  <PlantAppletree.label>苹果树</PlantAppletree.label>
-  <PlantAppletree.description>苹果树，采摘后能保留树木。</PlantAppletree.description>
+  <Plant_TreeApple.label>苹果树</Plant_TreeApple.label>
+  <Plant_TreeApple.description>苹果树结出拳头大小的圆形红色果实，叫做苹果。这种果树在收获后会保留下来，并继续结出果实。</Plant_TreeApple.description>
 
-   <PlantBananaTree.label>香蕉树</PlantBananaTree.label>
-  <PlantBananaTree.description>香蕉树，采摘后能保留树木。</PlantBananaTree.description>
+  <Plant_TreeBanana.label>香蕉树</Plant_TreeBanana.label>
+  <Plant_TreeBanana.description>香蕉树会结出又长又黄的果实，叫做香蕉，最终软化成一种甜甜的美味。这种果树在收获后会保留下来，并继续结出果实。</Plant_TreeBanana.description>
 
-  <PlantorangeTree.label>橙树</PlantorangeTree.label>
-  <PlantorangeTree.description>橙树，采摘后能保留树木。</PlantorangeTree.description>
+  <Plant_TreeOrange.label>橙树</Plant_TreeOrange.label>
+  <Plant_TreeOrange.description>橙树会结出甜的水果，叫做橙子。这种果树在收获后会保留下来，并继续结出果实。</Plant_TreeOrange.description>
 
- <PlantPeachTree.label>桃树</PlantPeachTree.label>
-  <PlantPeachTree.description>桃树，采摘后能保留树木。</PlantPeachTree.description>
+  <Plant_TreePeach.label>桃树</Plant_TreePeach.label>
+  <Plant_TreePeach.description>桃树结出柔软、毛茸茸、香甜的果实，叫做桃子。这种果树在收获后会保留下来，并继续结出果实。</Plant_TreePeach.description>
 
+  <Plant_TreeGrape.label>葡萄</Plant_TreeGrape.label>
+  <Plant_TreeGrape.description>葡萄藤会结出小而甜的浆果，并在单枝上成串生长。这些水果叫做葡萄。</Plant_TreeGrape.description>
 
-  <Plantgrape.label>葡萄</Plantgrape.label>
-  <Plantgrape.description>能在细长藤蔓上结出甜蜜小果实的植物。</Plantgrape.description>
 
 </LanguageData>

@@ -24,21 +24,27 @@
 					TrapIED_HighExplosive
 					TrapIEDIncendiary -->
 
-  <Firefoam.label>泡沫灭火器</Firefoam.label>
+  <Firefoam.label>消防技术</Firefoam.label>
   <Firefoam.description>解锁建造「泡沫灭火器」，一种消防设备，感应到火焰时喷出大量的能扑灭火灾的泡沫。</Firefoam.description>
 
 
   <!-- FirefoamPopper -->
 
+  <SmokepopBelt.label>烟罐腰带</SmokepopBelt.label>
+  <SmokepopBelt.description>解锁制作「烟罐腰带」，当使用者被射击时，可自动提供防御烟幕。</SmokepopBelt.description>
+
+  <ShieldBelt.label>护盾腰带</ShieldBelt.label>
+  <ShieldBelt.description>解锁制作可穿戴式护盾。利用动能排斥力场技术，可阻挡炮弹穿过边界。</ShieldBelt.description>
+
   <GasOperation.label>机枪</GasOperation.label>
-  <GasOperation.description>解锁建造14.5mm 重机枪炮塔的能力。这种炮塔需要手动操作，使用 14.5mm重机枪子弹。发射速度较慢，但是大口径的子弹威力保证了其强大的压制能力，哪个敌人被它盯上了，就准备在掩体里呆一辈子吧！</GasOperation.description>
+  <GasOperation.description>解锁建造14.5mm重机枪炮塔的能力。这种炮塔需要手动操作，使用 14.5mm重机枪子弹。发射速度较慢，但是大口径的子弹威力保证了其强大的压制能力，哪个敌人被它盯上了，就准备在掩体里呆一辈子吧！</GasOperation.description>
 
 
   <!-- Turret_M240B
 							Turret_M2Browning -->
 
-  <Miniguns.label>多管武器</Miniguns.label>
-  <Miniguns.description>解锁制造速射机器和KPV重机枪的能力。</Miniguns.description>
+  <MultibarrelWeapons.label>多管武器</MultibarrelWeapons.label>
+  <MultibarrelWeapons.description>解锁制造速射机枪和KPV重机枪的能力。</MultibarrelWeapons.description>
 
 
   <!-- Turret_Minigun
@@ -72,28 +78,28 @@
   <!-- Turret_Flak
 									Turret_MortarCR -->
 
-  <SK_CannonturretsIII.label>火炮炮塔 III</SK_CannonturretsIII.label>
-  <SK_CannonturretsIII.description>解锁建造120mm火炮炮台。需要手动操作并装填120mm炮弹。这种炮塔威力、射程和精度都首屈一指，直接命中目标时能造成额外伤害。\n\n同时解锁155mm榴弹炮台。需要手动操作并装填155mm炮弹。这种炮塔可以像迫击炮一样攻击敌人，并且有多种炮弹可以选择。</SK_CannonturretsIII.description>
+  <SniperTurret.label>火炮炮塔 III</SniperTurret.label>
+  <SniperTurret.description>解锁建造120mm火炮炮台。需要手动操作并装填120mm炮弹。这种炮塔威力、射程和精度都首屈一指，直接命中目标时能造成额外伤害。\n\n同时解锁155mm榴弹炮台。需要手动操作并装填155mm炮弹。这种炮塔可以像迫击炮一样攻击敌人，并且有多种炮弹可以选择。</SniperTurret.description>
 
 
   <!-- Turret_Cannon
 											HowitzerTurretGun -->
 
   <SK_MissilelaunchersI.label>导弹发射装置 I</SK_MissilelaunchersI.label>
-  <SK_MissilelaunchersI.description>解锁建造 130mm 轻型导弹发射装置。需要手动操作并装填1枚130mm导弹，这种武器系统能在较远的距离发射导弹攻击敌人。 </SK_MissilelaunchersI.description>
+  <SK_MissilelaunchersI.description>解锁建造130mm轻型导弹发射装置。需要手动操作并装填1枚130mm导弹，这种武器系统能在较远的距离发射导弹攻击敌人。</SK_MissilelaunchersI.description>
 
 
   <!-- >LightMissileSystem -->
 
   <SK_MissilelaunchersII.label>导弹发射装置 II</SK_MissilelaunchersII.label>
-  <SK_MissilelaunchersII.description>解锁建造 130mm 中型导弹发射装置。需要手动操作并装填3枚130mm导弹，这种武器系统能在较远的距离发射导弹攻击敌人。\n\n同时解锁BGM-71 TOW 反坦克导弹系统。</SK_MissilelaunchersII.description>
+  <SK_MissilelaunchersII.description>解锁建造130mm中型导弹发射装置。需要手动操作并装填3枚130mm导弹，这种武器系统能在较远的距离发射导弹攻击敌人。\n\n同时解锁BGM-71“陶氏”反坦克导弹系统。</SK_MissilelaunchersII.description>
 
 
   <!-- MediumMissileSystems
 											Turret_TOWLauncher -->
 
   <SK_MissilelaunchersIII.label>导弹发射装置 III</SK_MissilelaunchersIII.label>
-  <SK_MissilelaunchersIII.description>解锁建造 130mm 重型导弹发射装置。需要手动操作并装填6枚130mm导弹，这种武器系统能在较远的距离发射导弹攻击敌人。</SK_MissilelaunchersIII.description>
+  <SK_MissilelaunchersIII.description>解锁建造130mm重型导弹发射装置。需要手动操作并装填6枚130mm导弹，这种武器系统能在较远的距离发射导弹攻击敌人。</SK_MissilelaunchersIII.description>
 
 
   <!-- RLGun -->
@@ -102,14 +108,14 @@
   <GunTurrets.description>解锁建造基础的自动炮塔，这种内置弱AI的自动武器可以无需人工操作自动攻击范围内的敌人。但是需要手动装填备弹。</GunTurrets.description>
 
 
-  <!-- TurretGun -->
+  <!-- Turret_MiniTurret -->
 
-  <AdvGunTurrets.label>先进哨戒炮塔</AdvGunTurrets.label>
-  <AdvGunTurrets.description>解锁建造更多种类的自动炮塔，这种内置弱AI的自动武器可以无需人工操作自动攻击范围内的敌人。但是需要手动装填备弹。</AdvGunTurrets.description>
+  <HeavyTurrets.label>先进哨戒炮塔</HeavyTurrets.label>
+  <HeavyTurrets.description>解锁建造更多种类的自动炮塔，这种内置弱AI的自动武器可以无需人工操作自动攻击范围内的敌人。但是需要手动装填备弹。</HeavyTurrets.description>
 
 
   <!-- Turret_SentryRocketLauncher
-									Turret_Heavy
+									Turret_Autocannon
 									NavalGunTurretGun -->
 
   <SK_Futuristicturrets.label>超现代哨戒炮塔</SK_Futuristicturrets.label>

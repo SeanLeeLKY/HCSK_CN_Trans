@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Flamethrower_Napalm.label>制造 凝固汽油 x100</MakeAmmo_Flamethrower_Napalm.label>
+  <MakeAmmo_Flamethrower_Napalm.description>制造 100 单位凝固汽油。</MakeAmmo_Flamethrower_Napalm.description>
+  <MakeAmmo_Flamethrower_Napalm.jobString>正在制造 凝固汽油。</MakeAmmo_Flamethrower_Napalm.jobString>
+
+  <MakeAmmo_Flamethrower_Prometheum.label>制造 胶状神焰燃剂 x100</MakeAmmo_Flamethrower_Prometheum.label>
+  <MakeAmmo_Flamethrower_Prometheum.description>制造 100 单位胶状神焰燃剂。</MakeAmmo_Flamethrower_Prometheum.description>
+  <MakeAmmo_Flamethrower_Prometheum.jobString>正在制造 胶状神焰燃剂。</MakeAmmo_Flamethrower_Prometheum.jobString>
+
+
+</LanguageData>

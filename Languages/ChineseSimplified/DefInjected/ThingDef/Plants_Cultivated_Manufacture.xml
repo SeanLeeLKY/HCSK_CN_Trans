@@ -1,46 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlantCotton.label>棉花</PlantCotton.label>
-  
-  <PlantFlax.label>亚麻花</PlantFlax.label>
-  <PlantFlax.description>这种花的纤维可以被编织成亚麻布。</PlantFlax.description>
+  <Plant_Cotton.label>棉花</Plant_Cotton.label>
+  <Plant_Cotton.description>棉花是一种精细的植物纤维，可以从裁缝的工作台上纺成一种叫做布的纺织品。</Plant_Cotton.description>
 
-  <PlantDevilstrand.label>恶魔菇</PlantDevilstrand.label>
-  <PlantDevilstrand.description>这种经过基因工程改造的脆弱蘑菇能够产出最高级的丝质纤维。据传这种蘑菇拥有非常神秘的特性，它的名称源自它在人群中所激发出的贪欲。</PlantDevilstrand.description>
+  <Plant_Flax.label>亚麻花</Plant_Flax.label>
+  <Plant_Flax.description>这种花的纤维可以被编织成亚麻布。</Plant_Flax.description>
 
-  <PlantHops.label>啤酒花</PlantHops.label>
-  <PlantHops.description>又名蛇麻草，一种开花植物，产出啤酒花，啤酒原料的必需品。</PlantHops.description>
+  <Plant_Devilstrand.label>恶魔菇</Plant_Devilstrand.label>
+  <Plant_Devilstrand.description>恶魔菇是一种生长缓慢的真菌，可以产出魔绒纤维，用于纺成一种叫做魔菇布的纺织品。据传这种蘑菇拥有非常神秘的特性，它的名称源自它在人群中所激发出的贪欲。</Plant_Devilstrand.description>
 
-  <Plantsugarcane.label>甘蔗</Plantsugarcane.label>
-  <Plantsugarcane.description>甘蔗用于提炼蔗糖。</Plantsugarcane.description>
+  <Plant_Hops.label>啤酒花</Plant_Hops.label>
+  <Plant_Hops.description>又名蛇麻草，一种开花植物，产出啤酒花，啤酒原料的必需品。</Plant_Hops.description>
 
+  <Plant_Sugarcane.label>甘蔗</Plant_Sugarcane.label>
+  <Plant_Sugarcane.description>甘蔗生产一种叫做甘蔗的长纤维草茎。茎秆含有丰富的蔗糖，可以在加工台上磨碎来生产糖。</Plant_Sugarcane.description>
 
-  <PlantTreeBamboo.label>竹</PlantTreeBamboo.label>
-  <PlantTreeBamboo.description>一种成群生长而又生长迅速的物种，类似于普通的树。可从竹子中收获类似木材的材料。这种植物本身并不好看。</PlantTreeBamboo.description>
+  <Plant_TreeBamboo.label>竹</Plant_TreeBamboo.label>
+  <Plant_TreeBamboo.description>一种成群生长而又生长迅速的物种，类似于普通的树。可从竹子中收获类似木材的材料。这种植物本身并不好看。</Plant_TreeBamboo.description>
 
-  <Plantoats.label>燕麦</Plantoats.label>
-  
   <Plantwheat.label>小麦</Plantwheat.label>
-  <Plantwheat.description>小麦是一种谷物，收获后能制成面粉。</Plantwheat.description>
+  <Plantwheat.description>小麦是一种产出麦子的谷物。麦子可以在工作台上磨成面粉，面粉可以用于烹饪炉上烤制各种食物。</Plantwheat.description>
 
-  <PlantSmokeleaf.label>烟叶</PlantSmokeleaf.label>
-  <PlantSmokeleaf.description>一种多叶植物，烟叶叶可以在手工加工点处被制成烟卷。</PlantSmokeleaf.description>
+  <Plant_Smokeleaf.label>烟叶</Plant_Smokeleaf.label>
+  <Plant_Smokeleaf.description>一种多叶植物，烟叶可以在手工加工点处被制成烟卷。</Plant_Smokeleaf.description>
 
-  <PlantPsychoid.label>精神叶</PlantPsychoid.label>
-  <PlantPsychoid.description>一种多叶植物，叶子可以被精炼制成多种精神药物。</PlantPsychoid.description>
+  <Plant_Psychoid.label>精神叶</Plant_Psychoid.label>
+  <Plant_Psychoid.description>一种多叶植物，叶子可以被精炼制成多种精神药物。</Plant_Psychoid.description>
 
-  <PlantTobacco.label>雪茄烟草</PlantTobacco.label>
-  
+  <Plant_Tobacco.label>雪茄烟草</Plant_Tobacco.label>
+  <Plant_Tobacco.description>雪茄烟草是茄科的一种绿色多叶植物。不像其他龙葵类植物会结出果实，烟草植物的生长是为了它们的烟叶。这些叶子干制后用于卷制，制成成瘾品吸食。</Plant_Tobacco.description>
 
-  <PlantCoffee.label>咖啡树</PlantCoffee.label>
-  <PlantCoffee.description>这种矮小的树木结出的红色果实酷似樱桃，种子经过发酵晾晒等工艺，或煮、或研磨成粉冲泡，最后成为美味的饮料。</PlantCoffee.description>
+  <Plant_Coffee.label>咖啡树</Plant_Coffee.label>
+  <Plant_Coffee.description>这种矮小的树木结出的红色果实酷似樱桃，种子经过发酵晾晒等工艺，或煮、或研磨成粉冲泡，最后成为美味的饮料。</Plant_Coffee.description>
 
-  <PlantTea.label>茶树</PlantTea.label>
-  <PlantTea.description>一种灌木。叶子可以冲泡成美味的饮料。</PlantTea.description>
+  <Plant_Tea.label>茶树</Plant_Tea.label>
+  <Plant_Tea.description>一种灌木。叶子可以冲泡成美味的饮料。</Plant_Tea.description>
 
-  <PlantHeveaTree.label>橡胶树</PlantHeveaTree.label>
-  <PlantHeveaTree.description>橡胶树能产生一种天然粘稠的胶状树液，称为橡胶树液。可以在石化工厂中通过硫化工艺进一步提炼出可用橡胶。</PlantHeveaTree.description>
+  <Plant_TreeHevea.label>橡胶树</Plant_TreeHevea.label>
+  <Plant_TreeHevea.description>橡胶树能产生一种天然粘稠的胶状树液，称为橡胶树液。可以在石化工厂中通过硫化工艺进一步提炼出可用橡胶。</Plant_TreeHevea.description>
 
 
 </LanguageData>

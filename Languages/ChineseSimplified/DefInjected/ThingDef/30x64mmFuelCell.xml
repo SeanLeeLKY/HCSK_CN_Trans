@@ -4,11 +4,14 @@
   <!-- Ammo -->
 
   <Ammo_30x64mmFuel_Incendiary.label>30x64mm 燃料弹（燃烧弹）</Ammo_30x64mmFuel_Incendiary.label>
-  
+  <Ammo_30x64mmFuel_Incendiary.description>装满各种用途燃料的炮弹。</Ammo_30x64mmFuel_Incendiary.description>
+
   <Ammo_30x64mmFuel_Thermobaric.label>30x64mm 燃料弹（温压弹）</Ammo_30x64mmFuel_Thermobaric.label>
-  
+  <Ammo_30x64mmFuel_Thermobaric.description>装满各种用途燃料的炮弹。</Ammo_30x64mmFuel_Thermobaric.description>
+
   <Ammo_30x64mmFuel_Foam.label>30x64mm 燃料弹（泡沫弹）</Ammo_30x64mmFuel_Foam.label>
-  
+  <Ammo_30x64mmFuel_Foam.description>装满各种用途燃料的炮弹。</Ammo_30x64mmFuel_Foam.description>
+
 
   <!-- Projectiles -->
 

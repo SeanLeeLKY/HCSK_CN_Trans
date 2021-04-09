@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ClothTail.label>布尾</ClothTail.label>
+  <ClothTail.description>一根简陋的尾部替代品。看起来糟透了，感觉也糟透了，总之就是糟透了！</ClothTail.description>
+  <ClothTail.labelNoun>布尾</ClothTail.labelNoun>
+
+  <BionicTail.label>仿生尾</BionicTail.label>
+  <BionicTail.description>一根安装好的仿生学尾巴替代品。</BionicTail.description>
+  <BionicTail.labelNoun>仿生尾</BionicTail.labelNoun>
+
+  <PlasteelClaws.label>先进钢爪</PlasteelClaws.label>
+  <PlasteelClaws.description>一具安装好的先进爪子。可以用来作为奥瑞森人缺失爪子的替代品。</PlasteelClaws.description>
+  <PlasteelClaws.comps.0.tools.0.label>拳头</PlasteelClaws.comps.0.tools.0.label>
+  <PlasteelClaws.labelNoun>先进钢爪</PlasteelClaws.labelNoun>
+
+  <CyberneticTail.label>神经机械尾</CyberneticTail.label>
+  <CyberneticTail.description>一条安装好的神经机械尾巴。它能让你的小尾巴如若臂使！</CyberneticTail.description>
+  <CyberneticTail.labelNoun>神经机械尾</CyberneticTail.labelNoun>
+
+
+</LanguageData>

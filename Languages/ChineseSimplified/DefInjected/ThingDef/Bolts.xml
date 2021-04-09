@@ -4,11 +4,14 @@
   <!-- Ammo -->
 
   <Ammo_Bolt_Metallic.label>金属箭</Ammo_Bolt_Metallic.label>
-  
+  <Ammo_Bolt_Metallic.description>简单的金属箭。</Ammo_Bolt_Metallic.description>
+
   <Ammo_Bolt_Poison.label>毒箭</Ammo_Bolt_Poison.label>
-  
+  <Ammo_Bolt_Poison.description>简单的毒箭。</Ammo_Bolt_Poison.description>
+
   <Ammo_Bolt_Explosive.label>爆炸箭</Ammo_Bolt_Explosive.label>
-  
+  <Ammo_Bolt_Explosive.description>简单的爆炸箭。</Ammo_Bolt_Explosive.description>
+
 
   <!-- Projectiles -->
 

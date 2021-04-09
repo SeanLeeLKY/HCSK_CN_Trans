@@ -5,45 +5,55 @@
 
   <SculptureSmall.label>小雕塑</SculptureSmall.label>
   <SculptureSmall.description>由一块躯干大小的材料塑造而成的艺术品。</SculptureSmall.description>
-  <SculptureSmall_Blueprint_Install.label>小雕塑 （蓝图）</SculptureSmall_Blueprint_Install.label>
+  <SculptureSmall_Blueprint_Install.label>小雕塑（蓝图）</SculptureSmall_Blueprint_Install.label>
 
   <SculptureLarge.label>大雕塑</SculptureLarge.label>
   <SculptureLarge.description>由一块成人大小的材料塑造而成的艺术品。</SculptureLarge.description>
-  <SculptureLarge_Blueprint_Install.label>大雕塑 （蓝图）</SculptureLarge_Blueprint_Install.label>
+  <SculptureLarge_Blueprint_Install.label>大雕塑（蓝图）</SculptureLarge_Blueprint_Install.label>
 
   <SculptureGrand.label>宏伟雕塑</SculptureGrand.label>
   <SculptureGrand.description>由一块汽车大小的材料塑造而成的艺术品。</SculptureGrand.description>
-  <SculptureGrand_Blueprint_Install.label>宏伟雕塑 （蓝图）</SculptureGrand_Blueprint_Install.label>
+  <SculptureGrand_Blueprint_Install.label>宏伟雕塑（蓝图）</SculptureGrand_Blueprint_Install.label>
 
-  <MuffaloArt.label>野牛雕塑</MuffaloArt.label>
-  <MuffaloArt_Blueprint_Install.label>野牛雕塑 （蓝图）</MuffaloArt_Blueprint_Install.label>
+  <MuffaloArt.label>雪牛雕塑</MuffaloArt.label>
+  <MuffaloArt.description>神圣的雪牛是阿利奥特-波斯特里乌斯上靛蓝沙鼠部落的切达所崇拜的一种生物。</MuffaloArt.description>
+  <MuffaloArt_Blueprint_Install.label>雪牛雕塑（蓝图）</MuffaloArt_Blueprint_Install.label>
 
   <QueenArt.label>皇后雕塑</QueenArt.label>
-  <QueenArt_Blueprint_Install.label>皇后雕塑 （蓝图）</QueenArt_Blueprint_Install.label>
+  <QueenArt.description>这座令人惊叹的雕像是灰人部落的族长“优雅的安哈”的肖像，她是一个耀眼而精致的美女。</QueenArt.description>
+  <QueenArt_Blueprint_Install.label>皇后雕塑（蓝图）</QueenArt_Blueprint_Install.label>
 
   <NymphArt.label>仙女雕塑</NymphArt.label>
-  <NymphArt_Blueprint_Install.label>仙女雕塑 （蓝图）</NymphArt_Blueprint_Install.label>
+  <NymphArt.description>这座令人惊叹的雕像是传说中最美丽的姑娘“缪斯女神”的肖像。</NymphArt.description>
+  <NymphArt_Blueprint_Install.label>仙女雕塑（蓝图）</NymphArt_Blueprint_Install.label>
 
   <GreenyArt.label>绿神雕塑</GreenyArt.label>
-  <GreenyArt_Blueprint_Install.label>绿神雕塑 （蓝图）</GreenyArt_Blueprint_Install.label>
+  <GreenyArt.description>这座令人惊艳的绿蒂雕像。</GreenyArt.description>
+  <GreenyArt_Blueprint_Install.label>绿神雕塑（蓝图）</GreenyArt_Blueprint_Install.label>
 
   <WolfArt.label>野狼雕塑</WolfArt.label>
-  <WolfArt_Blueprint_Install.label>野狼雕塑 （蓝图）</WolfArt_Blueprint_Install.label>
+  <WolfArt.description>这座雕像描绘的是阿尔德哈费拉十一世克鲁卡所崇拜的名为“LORDI”的狼形神像。</WolfArt.description>
+  <WolfArt_Blueprint_Install.label>野狼雕塑（蓝图）</WolfArt_Blueprint_Install.label>
 
   <DragonArt.label>龙蛇雕塑</DragonArt.label>
-  <DragonArt_Blueprint_Install.label>龙蛇雕塑 （蓝图）</DragonArt_Blueprint_Install.label>
+  <DragonArt.description>这座令人惊叹的巨大魔兽雕像，头像鳄鱼。</DragonArt.description>
+  <DragonArt_Blueprint_Install.label>龙蛇雕塑（蓝图）</DragonArt_Blueprint_Install.label>
 
   <ZeonArt.label>吉恩雕塑</ZeonArt.label>
-  <ZeonArt_Blueprint_Install.label>吉恩雕塑 （蓝图）</ZeonArt_Blueprint_Install.label>
+  <ZeonArt.description>吉恩的雕塑，你只希望在建造这个的时候，它不会来“拜访”你。</ZeonArt.description>
+  <ZeonArt_Blueprint_Install.label>吉恩雕塑（蓝图）</ZeonArt_Blueprint_Install.label>
 
   <DecorativeUrnSmall.label>装饰瓮</DecorativeUrnSmall.label>
-  <DecorativeUrnSmall_Blueprint_Install.label>装饰瓮 （蓝图）</DecorativeUrnSmall_Blueprint_Install.label>
+  <DecorativeUrnSmall.description>一个小小的装饰用品。</DecorativeUrnSmall.description>
+  <DecorativeUrnSmall_Blueprint_Install.label>装饰瓮（蓝图）</DecorativeUrnSmall_Blueprint_Install.label>
 
   <SmallPottery.label>装饰陶壶</SmallPottery.label>
-  <SmallPottery_Blueprint_Install.label>装饰陶壶 （蓝图）</SmallPottery_Blueprint_Install.label>
+  <SmallPottery.description>饰有各种图画和雕刻的小陶罐。它们没有实际用途。</SmallPottery.description>
+  <SmallPottery_Blueprint_Install.label>装饰陶壶（蓝图）</SmallPottery_Blueprint_Install.label>
 
   <PotteryDisplay.label>陶艺展示架</PotteryDisplay.label>
-  <PotteryDisplay_Blueprint_Install.label>陶艺展示架 （蓝图）</PotteryDisplay_Blueprint_Install.label>
+  <PotteryDisplay.description>展示各种装饰陶器的展示架。其中许多陶器上有绘画或雕刻的图画。</PotteryDisplay.description>
+  <PotteryDisplay_Blueprint_Install.label>陶艺展示架（蓝图）</PotteryDisplay_Blueprint_Install.label>
 
 
   <!-- Snowman -->

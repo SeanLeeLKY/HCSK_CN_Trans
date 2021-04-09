@@ -19,4 +19,10 @@
   <EnthalpicCooling.description>解锁建造原始的冷冻设备，需要消耗冰石来运作。</EnthalpicCooling.description>
 
 
+  <!-- ColdstoneBattery -->
+
+  <PassiveCooler.label>蒸发制冷器</PassiveCooler.label>
+  <PassiveCooler.description>解锁建造「蒸发制冷器」，一种不需要通电即可降温的工具。</PassiveCooler.description>
+
+
 </LanguageData>

@@ -4,9 +4,12 @@
   <!-- Ammo -->
 
   <Ammo_StoneBall.label>石球</Ammo_StoneBall.label>
-  
+  <Ammo_StoneBall.description>用石弩发射，撞击后爆炸。</Ammo_StoneBall.description>
+
   <Ammo_ExplosiveBall.label>爆炸球</Ammo_ExplosiveBall.label>
-  
+  <Ammo_ExplosiveBall.description>用石弩发射，撞击后爆炸。</Ammo_ExplosiveBall.description>
+
+
   <!-- Projectiles -->
 
   <Stone_Ball.label>石球</Stone_Ball.label>

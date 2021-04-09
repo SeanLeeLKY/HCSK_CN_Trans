@@ -6,9 +6,6 @@
   <SK_Power.label>电力</SK_Power.label>
   <SK_Power.description>学习基本的发电能力帮助你的殖民者在这种恶劣的环境中生存。解锁了电缆和电池。</SK_Power.description>
 
-
-  <!-- PowerConduit -->
-
   <SK_RenewableI.label>可再生能源 I</SK_RenewableI.label>
   <SK_RenewableI.description>学习将各种可再生能源转化为电力的知识。解锁建造风力发电机。</SK_RenewableI.description>
 
@@ -21,21 +18,27 @@
 
   <!-- SolarGenerator -->
 
-  <GeothermalPower.label>可再生能源 III</GeothermalPower.label>
-  <GeothermalPower.description>研究更佳的、更多的能源利用方式。解锁地热发电机，可以在天黑风停的时候继续为殖民地供能。</GeothermalPower.description>
+  <WatermillGenerator.label>可再生能源 III</WatermillGenerator.label>
+  <WatermillGenerator.description>解锁建造「水轮发电机」。建造在河流上，提供无消耗不间断的电力。</WatermillGenerator.description>
+
+
+  <!-- WatermillGenerator -->
+
+  <GeothermalPower.label>可再生能源 IV</GeothermalPower.label>
+  <GeothermalPower.description>解锁建造「地热发电机」，建造在蒸汽间歇喷泉上，提供不间断的电力。</GeothermalPower.description>
 
 
   <!-- GeothermalGenerator -->
 
-  <SK_RenewableIV.label>可再生能源 IV</SK_RenewableIV.label>
-  <SK_RenewableIV.description>解锁更加高效的发电设备。例如高级太阳能发电板和先进风力涡轮机。</SK_RenewableIV.description>
+  <SK_RenewableIV.label>可再生能源 V</SK_RenewableIV.label>
+  <SK_RenewableIV.description>解锁更多高效的发电设备。例如高级风力涡轮机和高级太阳能发电设备。</SK_RenewableIV.description>
 
 
   <!-- Adv SolarGenerator
 								Adv WindTurbine -->
 
-  <SK_RenewableV.label>可再生能源 V</SK_RenewableV.label>
-  <SK_RenewableV.description>解锁更多高效的发电设备。例如高斯风力涡轮机和温差发电机。 </SK_RenewableV.description>
+  <SK_RenewableV.label>可再生能源 VI</SK_RenewableV.label>
+  <SK_RenewableV.description>解锁更多高效的发电设备。例如高斯风力涡轮机和温差发电机。</SK_RenewableV.description>
 
 
   <!-- GauseWindTurbine
@@ -59,6 +62,12 @@
 
   <!-- ChemfuelPoweredGenerator
 						WoodFiredGenerator -->
+
+  <SK_ConvectionalIV.label>转化型能源 IV</SK_ConvectionalIV.label>
+  <SK_ConvectionalIV.description>解锁直接利用燃油发电的大型工作设备。</SK_ConvectionalIV.description>
+
+
+  <!-- LargeFuelPowerplant -->
 
   <SK_PlasmaI.label>等离子能源 I</SK_PlasmaI.label>
   <SK_PlasmaI.description>解锁建造先进的能源获取途径，如特斯拉闪电发生器。</SK_PlasmaI.description>
@@ -125,23 +134,7 @@
   <LEDTechnologyScience.description>解锁建造更加高效的灯具和其他建筑物。</LEDTechnologyScience.description>
 
   <SK_InfrastructureIV.label>基础设施 IV</SK_InfrastructureIV.label>
-  <SK_InfrastructureIV.description>解锁建造管道网络组建，地热加热器以及融合电池。</SK_InfrastructureIV.description>
-
-
-  <!-- FissionBattery
-								GH
-								RedistHeat_IndustrialCooler
-								RedistHeat_IndustrialHeater -->
-
-  <SK_NuclearI.label>原子能 I</SK_NuclearI.label>
-  <SK_NuclearI.description>对于原子能的研究为你打开新世界大门，解锁建造气体离心机。</SK_NuclearI.description>
-
-
-  <!-- GC
-		CentrifugeFeeder -->
-
-  <SK_NuclearII.label>原子能 II</SK_NuclearII.label>
-  <SK_NuclearII.description>地热能环保又高效，但是你要先找到一个地热喷口。高级的原子能应用解锁建造核电站。</SK_NuclearII.description>
+  <SK_InfrastructureIV.description>解锁建造管道网络组建，地热加热器以及裂变电池。</SK_InfrastructureIV.description>
 
 
 </LanguageData>

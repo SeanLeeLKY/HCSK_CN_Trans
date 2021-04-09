@@ -3,6 +3,31 @@
 
   <!-- Giant -->
 
+  <Rhinoceros.label>犀牛</Rhinoceros.label>
+  <Rhinoceros.labelFemale>母犀牛</Rhinoceros.labelFemale>
+  <Rhinoceros.labelFemalePlural>母犀牛</Rhinoceros.labelFemalePlural>
+  <Rhinoceros.labelMale>公犀牛</Rhinoceros.labelMale>
+  <Rhinoceros.labelMalePlural>公犀牛</Rhinoceros.labelMalePlural>
+  <Rhinoceros.labelPlural>犀牛</Rhinoceros.labelPlural>
+  <Rhinoceros.lifeStages.0.label>犀牛幼崽</Rhinoceros.lifeStages.0.label>
+  <Rhinoceros.lifeStages.0.labelFemale>犀牛幼崽</Rhinoceros.lifeStages.0.labelFemale>
+  <Rhinoceros.lifeStages.0.labelFemalePlural>犀牛幼崽</Rhinoceros.lifeStages.0.labelFemalePlural>
+  <Rhinoceros.lifeStages.0.labelMale>犀牛幼崽</Rhinoceros.lifeStages.0.labelMale>
+  <Rhinoceros.lifeStages.0.labelMalePlural>犀牛幼崽</Rhinoceros.lifeStages.0.labelMalePlural>
+  <Rhinoceros.lifeStages.0.labelPlural>犀牛幼崽</Rhinoceros.lifeStages.0.labelPlural>
+  <Rhinoceros.lifeStages.1.label>幼年犀牛</Rhinoceros.lifeStages.1.label>
+  <Rhinoceros.lifeStages.1.labelFemale>幼年母犀牛</Rhinoceros.lifeStages.1.labelFemale>
+  <Rhinoceros.lifeStages.1.labelFemalePlural>幼年母犀牛</Rhinoceros.lifeStages.1.labelFemalePlural>
+  <Rhinoceros.lifeStages.1.labelMale>幼年公犀牛</Rhinoceros.lifeStages.1.labelMale>
+  <Rhinoceros.lifeStages.1.labelMalePlural>幼年公犀牛</Rhinoceros.lifeStages.1.labelMalePlural>
+  <Rhinoceros.lifeStages.1.labelPlural>幼年犀牛</Rhinoceros.lifeStages.1.labelPlural>
+  <Rhinoceros.lifeStages.2.label>犀牛</Rhinoceros.lifeStages.2.label>
+  <Rhinoceros.lifeStages.2.labelFemale>母犀牛</Rhinoceros.lifeStages.2.labelFemale>
+  <Rhinoceros.lifeStages.2.labelFemalePlural>母犀牛</Rhinoceros.lifeStages.2.labelFemalePlural>
+  <Rhinoceros.lifeStages.2.labelMale>公犀牛</Rhinoceros.lifeStages.2.labelMale>
+  <Rhinoceros.lifeStages.2.labelMalePlural>公犀牛</Rhinoceros.lifeStages.2.labelMalePlural>
+  <Rhinoceros.lifeStages.2.labelPlural>犀牛</Rhinoceros.lifeStages.2.labelPlural>
+
   <Elephant.label>象</Elephant.label>
   <Elephant.labelPlural>象</Elephant.labelPlural>
   <Elephant.lifeStages.0.label>象幼崽</Elephant.lifeStages.0.label>

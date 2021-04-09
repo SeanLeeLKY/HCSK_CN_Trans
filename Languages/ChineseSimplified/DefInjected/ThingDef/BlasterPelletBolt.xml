@@ -1,10 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Projectiles -->
+
+  <Bullet_BlasterPelletBolt.label>电荷冲击霰弹</Bullet_BlasterPelletBolt.label>
+
+
   <!-- Ammo -->
 
-  <Ammo_BlasterPelletBolt.label>爆炸电荷球弹</Ammo_BlasterPelletBolt.label>
-  <Ammo_BlasterPelletBolt.description>爆炸电荷球弹</Ammo_BlasterPelletBolt.description>
+  <Ammo_BlasterPelletBolt.label>电荷冲击霰弹</Ammo_BlasterPelletBolt.label>
 
 
 </LanguageData>

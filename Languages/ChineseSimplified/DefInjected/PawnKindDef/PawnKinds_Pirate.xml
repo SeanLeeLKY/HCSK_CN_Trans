@@ -7,6 +7,12 @@
   <Drifter.labelPlural>流浪者</Drifter.labelPlural>
 
 
+  <!-- Scavenger -->
+
+  <Scavenger.label>拾荒者</Scavenger.label>
+  <Scavenger.labelPlural>拾荒者</Scavenger.labelPlural>
+
+
   <!-- Thrasher -->
 
   <Thrasher.label>打手</Thrasher.label>
@@ -15,8 +21,8 @@
 
   <!-- Pirate -->
 
-  <Pirate.label>海盗</Pirate.label>
-  <Pirate.labelPlural>海盗</Pirate.labelPlural>
+  <Pirate.label>海盗枪手</Pirate.label>
+  <Pirate.labelPlural>海盗枪手</Pirate.labelPlural>
 
 
 </LanguageData>

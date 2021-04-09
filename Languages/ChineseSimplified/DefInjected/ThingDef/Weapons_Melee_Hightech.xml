@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <!-- Hitech -->
+
+  <MeleeWeapon_Tanto.label>武士短刀</MeleeWeapon_Tanto.label>
+  <MeleeWeapon_Tanto.description>一种单刃匕首类近战武器。</MeleeWeapon_Tanto.description>
+  <MeleeWeapon_Tanto.tools.0.label>握把</MeleeWeapon_Tanto.tools.0.label>
+  <MeleeWeapon_Tanto.tools.1.label>刃</MeleeWeapon_Tanto.tools.1.label>
+  <MeleeWeapon_Tanto.tools.2.label>尖</MeleeWeapon_Tanto.tools.2.label>
+
+  <MeleeWeapon_Katana.label>武士太刀</MeleeWeapon_Katana.label>
+  <MeleeWeapon_Katana.description>单手武士刀的现代翻版。附带激光磨刃功能。</MeleeWeapon_Katana.description>
+  <MeleeWeapon_Katana.tools.0.label>握把</MeleeWeapon_Katana.tools.0.label>
+  <MeleeWeapon_Katana.tools.1.label>尖</MeleeWeapon_Katana.tools.1.label>
+  <MeleeWeapon_Katana.tools.2.label>刃</MeleeWeapon_Katana.tools.2.label>
+
+  <MeleeWeapon_Tsurugi.label>巴斯特之剑</MeleeWeapon_Tsurugi.label>
+  <MeleeWeapon_Tsurugi.description>专为闪耀世界精英士兵设计的双手巨剑。</MeleeWeapon_Tsurugi.description>
+  <MeleeWeapon_Tsurugi.tools.0.label>握把</MeleeWeapon_Tsurugi.tools.0.label>
+  <MeleeWeapon_Tsurugi.tools.1.label>尖</MeleeWeapon_Tsurugi.tools.1.label>
+  <MeleeWeapon_Tsurugi.tools.2.label>刃</MeleeWeapon_Tsurugi.tools.2.label>
+
+  <MeleeWeapon_Sledgehammer.label>大锤</MeleeWeapon_Sledgehammer.label>
+  <MeleeWeapon_Sledgehammer.description>双手大锤。很受肌肉发达人群的欢迎。</MeleeWeapon_Sledgehammer.description>
+  <MeleeWeapon_Sledgehammer.tools.0.label>握把</MeleeWeapon_Sledgehammer.tools.0.label>
+  <MeleeWeapon_Sledgehammer.tools.1.label>头</MeleeWeapon_Sledgehammer.tools.1.label>
+
+
+</LanguageData>

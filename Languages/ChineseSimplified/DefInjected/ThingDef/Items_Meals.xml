@@ -17,19 +17,24 @@
 
   <MealLuxury.label>奢侈的食物</MealLuxury.label>
   <MealLuxury.description>厨艺界的大师级作品，这份食物同时滋养了身体、思想和灵魂。</MealLuxury.description>
-
+ 
   <MealSalad.label>水果沙拉</MealSalad.label>
-  
+  <MealSalad.description>用水果制成的一盘沙拉。</MealSalad.description>
+
   <MealJerky.label>肉干</MealJerky.label>
-  
+  <MealJerky.description>生肉制成的肉干。一次最多吃5个。</MealJerky.description>
+
   <RoastedMeat.label>烤肉</RoastedMeat.label>
   <RoastedMeat.description>新鲜的烤肉。</RoastedMeat.description>
 
-  <FriedVegetables.label>炒蔬菜</FriedVegetables.label>
-  
+  <ScrambledEggs.label>煎蛋</ScrambledEggs.label>
+  <ScrambledEggs.description>搅匀的蛋液均匀的铺在盘子上，然后慢火加热直到熟透，香浓味美。</ScrambledEggs.description>
 
-  <BakedPotato.label>烤土豆</BakedPotato.label>
-  
+  <FriedMushrooms.label>煎蘑菇</FriedMushrooms.label>
+  <FriedMushrooms.description>煎蘑菇洞穴。富含蛋白质，在某些食谱中可以代替肉类。</FriedMushrooms.description>
+
+  <FriedVegetables.label>炒蔬菜</FriedVegetables.label>
+  <FriedVegetables.description>一种简单的炒制蔬菜。不太有营养也不怎么好吃。</FriedVegetables.description>
 
 
 </LanguageData>

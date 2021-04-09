@@ -4,36 +4,28 @@
   <!-- Floors -->
 
   <TikiFloorBamboo.label>竹条地板</TikiFloorBamboo.label>
-  <TikiFloorBamboo.description>温馨的条形地板。 
-美观度： 1。</TikiFloorBamboo.description>
+  <TikiFloorBamboo.description>温馨的条形地板。美观度：1。</TikiFloorBamboo.description>
 
   <TikiFloorDark.label>暗条地板</TikiFloorDark.label>
-  <TikiFloorDark.description>温馨的条形地板。
-美观度： 1。</TikiFloorDark.description>
+  <TikiFloorDark.description>温馨的暗色条形地板。美观度：1。</TikiFloorDark.description>
 
   <TikiFloorLight.label>亮条地板</TikiFloorLight.label>
-  <TikiFloorLight.description>温馨的条形地板。
-美观度： 1。</TikiFloorLight.description>
+  <TikiFloorLight.description>温馨的亮色条形地板。美观度：1。</TikiFloorLight.description>
 
-  <TikiFloorFancy.label>异条地板</TikiFloorFancy.label>
-  <TikiFloorFancy.description>温馨的条形地板。
-美观度： 3。</TikiFloorFancy.description>
+  <TikiFloorFancy.label>花条地板</TikiFloorFancy.label>
+  <TikiFloorFancy.description>温馨的花式条形地板。美观度：3。</TikiFloorFancy.description>
 
   <LogFloor.label>原木地板</LogFloor.label>
-  <LogFloor.description>原木地板
-美观度： 1。</LogFloor.description>
+  <LogFloor.description>简单的原木地板。美观度：1。</LogFloor.description>
 
   <ThatchFloor.label>茅草地板</ThatchFloor.label>
-  <ThatchFloor.description>茅草地板
-美观度： 1。</ThatchFloor.description>
+  <ThatchFloor.description>粗犷的茅草地板。美观度：1。</ThatchFloor.description>
 
   <WeaveFloor.label>编织地板</WeaveFloor.label>
-  <WeaveFloor.description>编织地板
-美观度： 1。</WeaveFloor.description>
+  <WeaveFloor.description>整齐的编织地板。美观度：1。</WeaveFloor.description>
 
   <WovenLeafFloor.label>叶编地板</WovenLeafFloor.label>
-  <WovenLeafFloor.description>叶编地板
-美观度： 1。</WovenLeafFloor.description>
+  <WovenLeafFloor.description>整齐的叶编地板。美观度：1。</WovenLeafFloor.description>
 
 
 </LanguageData>

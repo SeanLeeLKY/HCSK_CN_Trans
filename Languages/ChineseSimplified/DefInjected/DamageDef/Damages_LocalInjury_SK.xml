@@ -10,16 +10,7 @@
   <Microwave.label>微波</Microwave.label>
   <Microwave.deathMessage>{0} 被烧死了。</Microwave.deathMessage>
 
-  <AntiMateriel.label>反器材</AntiMateriel.label>
-  <AntiMateriel.deathMessage>{0} 被射死了。</AntiMateriel.deathMessage>
-
-  <Fragment.label>破片</Fragment.label>
-  <Fragment.deathMessage>{0} 被切碎了。</Fragment.deathMessage>
-
-  <ArmorPiercing.label>穿甲</ArmorPiercing.label>
-  <ArmorPiercing.deathMessage>{0} 被射死了。</ArmorPiercing.deathMessage>
-
-  <LaserBurn.label>激光烧灼</LaserBurn.label>
+  <LaserBurn.label>激光灼烧</LaserBurn.label>
   <LaserBurn.deathMessage>{0} 被烧死了。</LaserBurn.deathMessage>
 
   <ElectricShock.label>电击</ElectricShock.label>
@@ -33,6 +24,9 @@
 
   <Dart.label>飞镖</Dart.label>
   <Dart.deathMessage>{0} 被射死了。</Dart.deathMessage>
+
+  <Poison.label>毒性</Poison.label>
+  <Poison.deathMessage>{0} 被射死了。</Poison.deathMessage>
 
   <DiseaseBite.label>刺咬</DiseaseBite.label>
   <DiseaseBite.deathMessage>{0} 被咬死了。</DiseaseBite.deathMessage>

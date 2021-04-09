@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Natural parts - can be harvested, or grown in the organ vat -->
+
+  <InstallNaturalEye.label>安装 眼睛</InstallNaturalEye.label>
+  <InstallNaturalEye.description>安装 眼睛。</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>正在安装 眼睛。</InstallNaturalEye.jobString>
+
+  <InstallNaturalHeart.label>安装 心脏</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>安装 心脏。</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>正在安装 心脏。</InstallNaturalHeart.jobString>
+
+  <InstallNaturalLung.label>安装 肺</InstallNaturalLung.label>
+  <InstallNaturalLung.description>安装 肺。</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>正在安装 肺。</InstallNaturalLung.jobString>
+
+  <InstallNaturalLiver.label>安装 肝脏</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>安装 肝脏。</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>正在安装 肝脏。</InstallNaturalLiver.jobString>
+
+  <InstallNaturalKidney.label>安装 肾脏</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>安装 肾脏。</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>正在安装 肾脏。</InstallNaturalKidney.jobString>
+
+  <InstallNaturalStomach.label>安装 胃</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>安装 胃。</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>正在安装 胃。</InstallNaturalStomach.jobString>
+
+  <InstallNaturalJaw.label>安装 下颌</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>安装 下颌。</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>正在安装 下颌。</InstallNaturalJaw.jobString>
+
+  <InstallNaturalLeg.label>安装 腿</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>安装 腿。</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>正在安装 腿。</InstallNaturalLeg.jobString>
+
+  <InstallNaturalArm.label>安装 手臂</InstallNaturalArm.label>
+  <InstallNaturalArm.description>安装 手臂。</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>正在安装 手臂。</InstallNaturalArm.jobString>
+
+
+</LanguageData>

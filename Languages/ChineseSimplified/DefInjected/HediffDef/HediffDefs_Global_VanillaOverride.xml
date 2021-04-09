@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CatatonicBreakdown.label>精神崩溃</CatatonicBreakdown.label>
+  <CatatonicBreakdown.description>因极度崩溃导致的精神状态。</CatatonicBreakdown.description>
+  <CatatonicBreakdown.labelNoun>精神崩溃</CatatonicBreakdown.labelNoun>
+
+  <FoodPoisoning.label>食物中毒</FoodPoisoning.label>
+  <FoodPoisoning.description>因食用腐烂中或不干净的食物而引起的肠胃疾病。它可能是由于食用腐烂、不卫生或不安全的食物，又或者是因为不卫生的烹饪环境和不合格的厨师所导致的。病人通常会呕吐，并感到恶心一段时间。</FoodPoisoning.description>
+  <FoodPoisoning.stages.0.label>恢复</FoodPoisoning.stages.0.label>
+  <FoodPoisoning.stages.1.label>严重</FoodPoisoning.stages.1.label>
+  <FoodPoisoning.stages.2.label>轻微</FoodPoisoning.stages.2.label>
+
+
+</LanguageData>

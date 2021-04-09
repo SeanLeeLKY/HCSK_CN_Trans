@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic parts -->
+
+  <InstallBionicHand.label>安装 仿生手</InstallBionicHand.label>
+  <InstallBionicHand.description>安装仿生手。</InstallBionicHand.description>
+  <InstallBionicHand.jobString>正在安装 仿生手。</InstallBionicHand.jobString>
+
+  <InstallBionicFoot.label>安装 仿生足</InstallBionicFoot.label>
+  <InstallBionicFoot.description>安装仿生足。</InstallBionicFoot.description>
+  <InstallBionicFoot.jobString>正在安装 仿生足。</InstallBionicFoot.jobString>
+
+  <InstallBionicEar.label>安装 仿生耳</InstallBionicEar.label>
+  <InstallBionicEar.description>安装仿生耳。</InstallBionicEar.description>
+  <InstallBionicEar.jobString>正在安装 仿生耳。</InstallBionicEar.jobString>
+
+  <InstallBionicJaw.label>安装 仿生颌</InstallBionicJaw.label>
+  <InstallBionicJaw.description>安装仿生颌。</InstallBionicJaw.description>
+  <InstallBionicJaw.jobString>正在安装 仿生颌。</InstallBionicJaw.jobString>
+
+  <InstallBionicSpine.label>安装 仿生脊椎</InstallBionicSpine.label>
+  <InstallBionicSpine.description>安装仿生脊椎。</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>正在安装 仿生脊椎。</InstallBionicSpine.jobString>
+
+  <!-- EN: install bionic eye -->
+  <InstallBionicEye.label>安装 仿生眼</InstallBionicEye.label>
+  <!-- EN: Install a bionic eye. -->
+  <InstallBionicEye.description>安装仿生眼。</InstallBionicEye.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicEye.jobString>正在安装仿生眼。</InstallBionicEye.jobString>
+
+  <!-- EN: install bionic arm -->
+  <InstallBionicArm.label>安装 仿生臂</InstallBionicArm.label>
+  <!-- EN: Install a bionic arm. -->
+  <InstallBionicArm.description>安装仿生臂。</InstallBionicArm.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicArm.jobString>正在安装仿生臂。</InstallBionicArm.jobString>
+
+  <!-- EN: install bionic leg -->
+  <InstallBionicLeg.label>安装 仿生腿</InstallBionicLeg.label>
+  <!-- EN: Install a bionic leg. -->
+  <InstallBionicLeg.description>安装仿生腿。</InstallBionicLeg.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicLeg.jobString>正在安装仿生腿。</InstallBionicLeg.jobString>
+
+  <!-- EN: install power claw -->
+  <InstallPowerClaw.label>安装 动力爪</InstallPowerClaw.label>
+  <!-- EN: Install a power claw. -->
+  <InstallPowerClaw.description>安装动力爪。</InstallPowerClaw.description>
+  <!-- EN: Installing power claw. -->
+  <InstallPowerClaw.jobString>正在安装动力爪。</InstallPowerClaw.jobString>
+
+  <InstallBrainStimulator.label>安装 脑激励器</InstallBrainStimulator.label>
+  <InstallBrainStimulator.description>安装  脑激励器。</InstallBrainStimulator.description>
+  <InstallBrainStimulator.jobString>正在安装 脑激励器。</InstallBrainStimulator.jobString>
+
+
+  <RemoveBrainStimulator.label>移除脑激励器</RemoveBrainStimulator.label>
+  <RemoveBrainStimulator.description>移除脑激励器。</RemoveBrainStimulator.description>
+  <RemoveBrainStimulator.jobString>正在移除脑激励器。</RemoveBrainStimulator.jobString>
+  <RemoveBrainStimulator.successfullyRemovedHediffMessage>{0}已成功移除{1}的脑激励器。</RemoveBrainStimulator.successfullyRemovedHediffMessage>
+
+  <InstallAIChip.label>安装 AI芯片</InstallAIChip.label>
+  <InstallAIChip.description>安装 AI芯片。</InstallAIChip.description>
+  <InstallAIChip.jobString>正在安装 AI芯片。</InstallAIChip.jobString>
+
+  <RemoveAIChip.label>移除AI芯片</RemoveAIChip.label>
+  <RemoveAIChip.description>移除AI芯片。</RemoveAIChip.description>
+  <RemoveAIChip.jobString>正在移除AI芯片。</RemoveAIChip.jobString>
+  <RemoveAIChip.successfullyRemovedHediffMessage>{0}已成功移除{1}的AI芯片。</RemoveAIChip.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

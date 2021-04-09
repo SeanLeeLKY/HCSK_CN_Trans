@@ -6,17 +6,15 @@
   <Sandbags.label>沙袋</Sandbags.label>
   <Sandbags.description>固定附近的泥土或者沙子形成掩体，尽管有些丑，但是能有效降低被远程武器击中的几率。</Sandbags.description>
   <Sandbags_Blueprint.label>沙袋 （蓝图）</Sandbags_Blueprint.label>
-  <Sandbags_Blueprint_Install.label>沙袋 （蓝图）</Sandbags_Blueprint_Install.label>
   <Sandbags_Frame.label>沙袋 （建造中）</Sandbags_Frame.label>
   <Sandbags_Frame.description>固定附近的泥土或者沙子形成掩体，尽管有些丑，但是能有效降低被远程武器击中的几率。</Sandbags_Frame.description>
 
-
-
-  <Parapet.label>矮护墙</Parapet.label>
-  <Parapet.description>一种略高于腰身，用于防御射击的防护墙。</Parapet.description>
-  <Parapet_Blueprint.label>矮护墙 （蓝图）</Parapet_Blueprint.label>
-  <Parapet_Frame.label>矮护墙 （建造中）</Parapet_Frame.label>
-  <Parapet_Frame.description>一种略高于腰身，用于防御射击的防护墙。</Parapet_Frame.description>
+  
+  <Barricade.label>路障</Barricade.label>
+  <Barricade.description>一种齐腰高的障碍物，用于掩护来袭的射击。虽然很难看，但比其他低矮的物体提供更好的掩护。</Barricade.description>
+  <Barricade_Blueprint.label>路障 （蓝图）</Barricade_Blueprint.label>
+  <Barricade_Frame.label>路障 （建造中）</Barricade_Frame.label>
+  <Barricade_Frame.description>一种齐腰高的障碍物，用于掩护来袭的射击。虽然很难看，但比其他低矮的物体提供更好的掩护。</Barricade_Frame.description>
 
 
   <!-- Cheval de frise -->
@@ -41,20 +39,26 @@
   <!-- Barbed Wire -->
 
   <WallWire.label>铁丝网</WallWire.label>
+  <WallWire.description>好的围栏能让人成为好邻居。这款围栏是用尖刺铁丝做的，可以让大多数人敬而远之。</WallWire.description>
   <WallWire_Blueprint.label>铁丝网 （蓝图）</WallWire_Blueprint.label>
   <WallWire_Blueprint_Install.label>铁丝网 （蓝图）</WallWire_Blueprint_Install.label>
   <WallWire_Frame.label>铁丝网 （建造中）</WallWire_Frame.label>
-  
+  <WallWire_Frame.description>好的围栏能让人成为好邻居。这款围栏是用尖刺铁丝做的，可以让大多数人敬而远之。</WallWire_Frame.description>
+
 
   <!-- Moat -->
 
   <Moat.label>浅水护城河</Moat.label>
+  <Moat.description>一种简单的防御措施，用于减缓敌人的速度。</Moat.description>
   <Moat_Blueprint.label>浅水护城河 （蓝图）</Moat_Blueprint.label>
   <Moat_Frame.label>浅水护城河 （建造中）</Moat_Frame.label>
-  
+  <Moat_Frame.description>一种简单的防御措施，用于减缓敌人的速度。</Moat_Frame.description>
+
   <Building_Pawn_Upgrader.label>纳米护盾站</Building_Pawn_Upgrader.label>
+  <Building_Pawn_Upgrader.description>为殖民者提供纳米机器人护盾调制器来保护他们免受伤害。并为耗完能量的纳米机器人防护调制器补充能量。</Building_Pawn_Upgrader.description>
   <Building_Pawn_Upgrader_Blueprint.label>纳米护盾站 （蓝图）</Building_Pawn_Upgrader_Blueprint.label>
   <Building_Pawn_Upgrader_Frame.label>纳米护盾站 （建造中）</Building_Pawn_Upgrader_Frame.label>
-  
+  <Building_Pawn_Upgrader_Frame.description>为殖民者提供纳米机器人护盾调制器来保护他们免受伤害。并为耗完能量的纳米机器人防护调制器补充能量。</Building_Pawn_Upgrader_Frame.description>
+
 
 </LanguageData>

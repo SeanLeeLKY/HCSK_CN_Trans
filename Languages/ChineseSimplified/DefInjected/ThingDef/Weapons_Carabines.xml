@@ -1,34 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- MOSIN-NAGANT M91 -->
+  <!-- LEE-ENFIELD -->
 
-  <RF_Gun_Mosin.label>M91莫辛-纳甘</RF_Gun_Mosin.label>
-  
+  <Gun_BoltActionRifle.label>李-恩菲尔德步枪</Gun_BoltActionRifle.label>
+  <Gun_BoltActionRifle.description>一支古老的栓动步枪。射程较远，威力较好，但是射击速度慢。</Gun_BoltActionRifle.description>
+  <Gun_BoltActionRifle.tools.0.label>枪托</Gun_BoltActionRifle.tools.0.label>
+  <Gun_BoltActionRifle.tools.1.label>枪管</Gun_BoltActionRifle.tools.1.label>
+  <Gun_BoltActionRifle.tools.2.label>枪口</Gun_BoltActionRifle.tools.2.label>
 
-  <!-- AKS-74U -->
-
-  <Gun_AKS74U.label>AKS-74U卡宾枪</Gun_AKS74U.label>
-  
 
   <!-- BERETTA CX4 -->
 
-  <RF_Gun_CXfour.label>贝瑞塔CX4卡宾枪</RF_Gun_CXfour.label>
-  
+  <RF_Gun_CXfour.label>伯莱塔Cx4卡宾枪</RF_Gun_CXfour.label>
+  <RF_Gun_CXfour.description>伯莱塔Cx4“风暴”卡宾枪，一种高度可靠的紧凑型卡宾枪。较低的平均伤害、平均开火速率，高于平均射程，两轮短点射。</RF_Gun_CXfour.description>
+  <RF_Gun_CXfour.tools.0.label>枪托</RF_Gun_CXfour.tools.0.label>
+  <RF_Gun_CXfour.tools.1.label>枪管</RF_Gun_CXfour.tools.1.label>
+  <RF_Gun_CXfour.tools.2.label>枪口</RF_Gun_CXfour.tools.2.label>
 
-  <!-- RUGER PC-9 -->
-
-  <RF_Gun_PCnine.label>鲁格PC-9</RF_Gun_PCnine.label>
-  
 
   <!-- HK USC -->
 
-  <RF_Gun_USC.label>HK USC卡宾枪</RF_Gun_USC.label>
-  
+  <RF_Gun_USC.label>HK USC半自动卡宾枪</RF_Gun_USC.label>
+  <RF_Gun_USC.description>HK USC半自动卡宾枪，一种较为稳定的半自动手枪口径卡宾枪，反冲较低，弹仓设计也比较新颖。威力一般，但是开火速率和射程高于同等平均水平，单次开火能发射3发子弹。</RF_Gun_USC.description>
+  <RF_Gun_USC.tools.0.label>枪托</RF_Gun_USC.tools.0.label>
+  <RF_Gun_USC.tools.1.label>枪管</RF_Gun_USC.tools.1.label>
+  <RF_Gun_USC.tools.2.label>枪口</RF_Gun_USC.tools.2.label>
+
 
   <!-- M4A1 -->
 
   <Gun_M4A1Gun.label>M4A1卡宾枪</Gun_M4A1Gun.label>
-  
+  <Gun_M4A1Gun.description>M4A1卡宾枪。基本属于M16A2突击步枪的轻度简化版本，威力和射程一般，但是有较高的开火速率和较好的精度。</Gun_M4A1Gun.description>
+  <Gun_M4A1Gun.tools.0.label>枪托</Gun_M4A1Gun.tools.0.label>
+  <Gun_M4A1Gun.tools.1.label>枪管</Gun_M4A1Gun.tools.1.label>
+  <Gun_M4A1Gun.tools.2.label>枪口</Gun_M4A1Gun.tools.2.label>
+
 
 </LanguageData>

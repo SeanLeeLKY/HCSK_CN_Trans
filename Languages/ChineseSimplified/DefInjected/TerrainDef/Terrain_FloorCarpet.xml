@@ -1,97 +1,76 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Carpet -->
+  <!-- Vanilla Carpet -->
 
-  <CarpetBeige.label>米色</CarpetBeige.label>
-  <CarpetBeige.description>Stunning beige carpet that is soft and relaxing. 
-美观度： 3。</CarpetBeige.description>
+  <CarpetBeige.label>米色地毯</CarpetBeige.label>
+  <CarpetBeige.description>柔软，令人放松的迷人米色地毯。\n美观度：3。</CarpetBeige.description>
 
-  <CarpetRed.label>红色</CarpetRed.label>
-  <CarpetRed.description>Plush carpet in a lovely rose hue. 
-美观度： 3。</CarpetRed.description>
+  <CarpetRed.label>红色地毯</CarpetRed.label>
+  <CarpetRed.description>可爱的玫瑰色调的毛绒地毯。\n美观度：3。</CarpetRed.description>
 
-  <CarpetGreen.label>绿色</CarpetGreen.label>
-  <CarpetGreen.description>Naturalistic-feeling green carpet. 
-美观度： 3。</CarpetGreen.description>
+  <CarpetGreen.label>绿色地毯</CarpetGreen.label>
+  <CarpetGreen.description>自然感觉的绿色地毯。\n美观度：3。</CarpetGreen.description>
 
-  <CarpetBlue.label>蓝色</CarpetBlue.label>
-  <CarpetBlue.description>Toe-hugging plush carpet in a cool blue color. 
-美观度： 3。</CarpetBlue.description>
+  <CarpetBlue.label>蓝色地毯</CarpetBlue.label>
+  <CarpetBlue.description>淡蓝色的毛绒地毯，踩上去很舒服。\n美观度：3。</CarpetBlue.description>
 
-  <CarpetCream.label>奶油色</CarpetCream.label>
-  <CarpetCream.description>Inviting cream-colored carpet. 
-美观度： 3。</CarpetCream.description>
+  <CarpetCream.label>奶色地毯</CarpetCream.label>
+  <CarpetCream.description>吸引人的奶色地毯。\n美观度：3。</CarpetCream.description>
 
-  <CarpetDark.label>深灰</CarpetDark.label>
-  <CarpetDark.description>Professional-looking dark gray carpet. 
-美观度： 3。</CarpetDark.description>
+  <CarpetDark.label>深灰地毯</CarpetDark.label>
+  <CarpetDark.description>专业外观的深灰色地毯。\n美观度：3。</CarpetDark.description>
 
 
   <!-- Colored Carpet -->
 
-  <CarpetOrange.label>橙色</CarpetOrange.label>
-  <CarpetOrange.description>Soft carpet with a vivid marigold tint. 
-美观度： 3。</CarpetOrange.description>
+  <CarpetOrange.label>橙色地毯</CarpetOrange.label>
+  <CarpetOrange.description>柔软的地毯，带有鲜艳的菊色调。\n美观度：3。</CarpetOrange.description>
 
-  <CarpetYellow.label>黄色</CarpetYellow.label>
-  <CarpetYellow.description>A summer yellow-coloured carpet. 
-美观度： 3。</CarpetYellow.description>
+  <CarpetYellow.label>黄色地毯</CarpetYellow.label>
+  <CarpetYellow.description>夏天感觉的黄色地毯。\n美观度：3。</CarpetYellow.description>
 
-  <CarpetTurquoise.label>青绿色</CarpetTurquoise.label>
-  <CarpetTurquoise.description>A soothing blue-green carpet. 
-美观度： 3。</CarpetTurquoise.description>
+  <CarpetTurquoise.label>青绿地毯</CarpetTurquoise.label>
+  <CarpetTurquoise.description>舒缓的蓝绿色地毯。\n美观度：3。</CarpetTurquoise.description>
 
-  <CarpetPurple.label>紫色</CarpetPurple.label>
-  <CarpetPurple.description>Carpet in a majestic purple shade. 
-美观度： 3。</CarpetPurple.description>
+  <CarpetPurple.label>紫色地毯</CarpetPurple.label>
+  <CarpetPurple.description>带有神秘感的紫色地毯。\n美观度：3。</CarpetPurple.description>
 
-  <CarpetWhite.label>白色</CarpetWhite.label>
-  <CarpetWhite.description>Undyed white carpet. Comfortable underfoot but stains easily. 
-美观度： 3。</CarpetWhite.description>
+  <CarpetWhite.label>白色地毯</CarpetWhite.label>
+  <CarpetWhite.description>未染色的白色地毯。踩着很舒适，但容易弄脏。\n美观度：3。</CarpetWhite.description>
 
-  <CarpetBlack.label>黑色</CarpetBlack.label>
-  <CarpetBlack.description>A carpet in brooding black. 
-美观度： 3。</CarpetBlack.description>
+  <CarpetBlack.label>黑色地毯</CarpetBlack.label>
+  <CarpetBlack.description>黢黑的地毯。\n美观度：3。</CarpetBlack.description>
 
 
   <!-- Check carpet -->
 
-  <CheckCarpetRed.label>红色花纹</CheckCarpetRed.label>
-  <CheckCarpetRed.description>Checker board pattern carpet in a lovely rose hue. 
-美观度： 3。</CheckCarpetRed.description>
+  <CheckCarpetRed.label>红色花纹地毯</CheckCarpetRed.label>
+  <CheckCarpetRed.description>带有可爱玫瑰色调的棋盘花纹地毯。\n美观度：3。</CheckCarpetRed.description>
 
-  <CheckCarpetOrange.label>橙色花纹</CheckCarpetOrange.label>
-  <CheckCarpetOrange.description>Carpeting with a checker board pattern in a vivid marigold tint. 
-美观度： 3。</CheckCarpetOrange.description>
+  <CheckCarpetOrange.label>橙色花纹地毯</CheckCarpetOrange.label>
+  <CheckCarpetOrange.description>用菊色调的棋盘格图案铺成的地毯。\n美观度：3。</CheckCarpetOrange.description>
 
-  <CheckCarpetYellow.label>黄色花纹</CheckCarpetYellow.label>
-  <CheckCarpetYellow.description>Summer yellow-colored checker board pattern carpet.
-美观度： 3。</CheckCarpetYellow.description>
+  <CheckCarpetYellow.label>黄色花纹地毯</CheckCarpetYellow.label>
+  <CheckCarpetYellow.description>带有夏天黄色调的棋盘花纹地毯。\n美观度：3。</CheckCarpetYellow.description>
 
-  <CheckCarpetGreen.label>绿色花纹</CheckCarpetGreen.label>
-  <CheckCarpetGreen.description>Naturalistic-feeling green checker board pattern carpet. 
-美观度： 3。</CheckCarpetGreen.description>
+  <CheckCarpetGreen.label>绿色花纹地毯</CheckCarpetGreen.label>
+  <CheckCarpetGreen.description>感觉自然的绿色棋盘花纹地毯。\n美观度：3。</CheckCarpetGreen.description>
 
-  <CheckCarpetTurquoise.label>青绿色花纹</CheckCarpetTurquoise.label>
-  <CheckCarpetTurquoise.description>A soothing blue-green checker board pattern carpet. 
-美观度： 3。</CheckCarpetTurquoise.description>
+  <CheckCarpetTurquoise.label>青绿色花纹地毯</CheckCarpetTurquoise.label>
+  <CheckCarpetTurquoise.description>舒缓的蓝绿色棋盘格花纹地毯。\n美观度：3。</CheckCarpetTurquoise.description>
 
-  <CheckCarpetBlue.label>蓝色花纹</CheckCarpetBlue.label>
-  <CheckCarpetBlue.description>Toe-hugging plush checker board pattern carpet in a cool blue color. 
-美观度： 3。</CheckCarpetBlue.description>
+  <CheckCarpetBlue.label>蓝色花纹地毯</CheckCarpetBlue.label>
+  <CheckCarpetBlue.description>凉爽的蓝色，踩着很舒服的毛绒棋盘花纹地毯。\n美观度：3。</CheckCarpetBlue.description>
 
-  <CheckCarpetPurple.label>紫色花纹</CheckCarpetPurple.label>
-  <CheckCarpetPurple.description>Checker board pattern carpet in a majestic purple shade. 
-美观度： 3。</CheckCarpetPurple.description>
+  <CheckCarpetPurple.label>紫色花纹地毯</CheckCarpetPurple.label>
+  <CheckCarpetPurple.description>华丽的紫色棋盘格地毯。\n美观度：3。</CheckCarpetPurple.description>
 
-  <CheckCarpetWhite.label>白色花纹</CheckCarpetWhite.label>
-  <CheckCarpetWhite.description>Undyed white checker board pattern carpet. Comfortable underfoot but stains easily. 
-美观度： 3。</CheckCarpetWhite.description>
+  <CheckCarpetWhite.label>白色花纹地毯</CheckCarpetWhite.label>
+  <CheckCarpetWhite.description>未染色的白色棋盘图案地毯。踩着舒服，但容易弄脏。\n美观度：3。</CheckCarpetWhite.description>
 
-  <CheckCarpetBlack.label>黑色花纹</CheckCarpetBlack.label>
-  <CheckCarpetBlack.description>A checker board pattern carpet in brooding black. 
-美观度： 3。</CheckCarpetBlack.description>
+  <CheckCarpetBlack.label>黑色花纹地毯</CheckCarpetBlack.label>
+  <CheckCarpetBlack.description>黑色棋盘格花纹地毯。\n美观度：3。</CheckCarpetBlack.description>
 
 
 </LanguageData>

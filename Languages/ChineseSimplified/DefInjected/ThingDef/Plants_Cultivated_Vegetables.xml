@@ -1,33 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlantPotato.label>土豆</PlantPotato.label>
-  <PlantPotato.description>一种简单而营养丰富的块茎植物。即使在比较贫瘠的土地中也能很好地生长。不用多久就能收获。一种强大万能的农作物。</PlantPotato.description>
+  <Plant_Potato.label>土豆</Plant_Potato.label>
+  <Plant_Potato.description>一种简单而营养丰富的块茎植物。即使在比较贫瘠的土地中也能很好地生长。不用多久就能收获。一种强大万能的农作物。</Plant_Potato.description>
 
-  <PlantCorn.label>玉米</PlantCorn.label>
-  <PlantCorn.description>一种大型谷类植物，产出美味的黄籽穗。生长时间相对较长，但产量大，很长时间才会变质。需要肥沃的土壤种植。</PlantCorn.description>
+  <Plant_Corn.label>玉米</Plant_Corn.label>
+  <Plant_Corn.description>一种大型谷类植物，产出美味的黄籽穗。生长时间相对较长，但产量大，很长时间才会变质。需要肥沃的土壤种植。玉米可以作为一种食品原料或制造燃料。</Plant_Corn.description>
 
-  <PlantRice.label>水稻</PlantRice.label>
-  <PlantRice.description>一种低矮的谷类植物，肥沃的土壤中茁壮成长，产出粮食很快，但不煮熟的话不好吃。</PlantRice.description>
-
-  <Planteggplant.label>茄子</Planteggplant.label>
-  <Planteggplant.description>紫色的茄子品种。生吃有涩味。</Planteggplant.description>
-
+  <Plant_Rice.label>水稻</Plant_Rice.label>
+  <Plant_Rice.description>水稻是短粒植物，产生大量的可食用种子，称为大米。大米是一种有用的膳食原料，可以制成燃料，也可以从酿酒厂蒸馏成清酒。</Plant_Rice.description>
 
   <Plantbean.label>豆子</Plantbean.label>
-  
+  <Plantbean.description>豆荚有一层软壳，里面有小的可食用的种子。它们可以用作膳食原料，也可以提炼成生物柴油。</Plantbean.description>
 
   <PlantTomato.label>西红柿</PlantTomato.label>
   <PlantTomato.description>鲜艳的红色果实，既是水果又是蔬菜，适宜种植在肥沃的土壤中。</PlantTomato.description>
 
- <PlantCarrot.label>胡萝卜</PlantCarrot.label>
+  <PlantCarrot.label>胡萝卜</PlantCarrot.label>
   <PlantCarrot.description>一种长条状的橘红色蔬菜，即使在贫瘠的土壤中也能种植。</PlantCarrot.description>
 
-  <SRV_PlantCabbage.label>卷心菜</SRV_PlantCabbage.label>
-  <SRV_PlantCabbage.description>一种有大叶片的球形植物。需要好的土壤，但能够熬过冬天。</SRV_PlantCabbage.description>
-
-   <Plantmushroom.label>蘑菇</Plantmushroom.label>
-  <Plantmushroom.description>这种经过转基因处理的壮硕蘑菇可以作为肉食的替代品。</Plantmushroom.description>
+  <Plant_Mushroom.label>蘑菇</Plant_Mushroom.label>
+  <Plant_Mushroom.description>这种经过转基因处理的壮硕蘑菇可以作为肉食的替代品。</Plant_Mushroom.description>
 
 
 </LanguageData>

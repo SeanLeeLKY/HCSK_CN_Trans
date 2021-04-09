@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Make_Patchleather.label>缝制混缝皮革</Make_Patchleather.label>
+  <Make_Patchleather.description>将多种皮革混合缝制成劣质的混缝皮革。</Make_Patchleather.description>
+  <Make_Patchleather.jobString>正在缝制混缝皮革。</Make_Patchleather.jobString>
+
   <MakeCloth.label>纺织布</MakeCloth.label>
   <MakeCloth.description>将棉花纺织成布。\n\n产出：20</MakeCloth.description>
   <MakeCloth.jobString>正在纺织布。</MakeCloth.jobString>
@@ -29,12 +33,16 @@
   <MakeVelour.description>纺织丝绒，一种类似天鹅绒的毛绒机织物，主要用于制造柔软的家具、休闲服装和帽子。 \n\n产出：25</MakeVelour.description>
   <MakeVelour.jobString>正在纺织丝绒。</MakeVelour.jobString>
 
+  <MakeKevlar.label>制造 凯夫拉</MakeKevlar.label>
+  <MakeKevlar.description>利用人造纤维以及塑料制造凯夫拉材料。 \n\n产出：10。</MakeKevlar.description>
+  <MakeKevlar.jobString>正在制造 凯夫拉。</MakeKevlar.jobString>
+
 
   <!-- Hex cell -->
 
-  <MakeHexcell.label>制作动力核</MakeHexcell.label>
-  <MakeHexcell.description>制作动力核。主要用于各类高科技盔甲的内置能量源。 \n\n产出：10</MakeHexcell.description>
-  <MakeHexcell.jobString>正在制作动力核。</MakeHexcell.jobString>
+  <MakeHexcell.label>制作动力电池</MakeHexcell.label>
+  <MakeHexcell.description>制作动力电池。主要用于各类高科技盔甲的内置能量源。 \n\n产出：10</MakeHexcell.description>
+  <MakeHexcell.jobString>正在制作动力电池。</MakeHexcell.jobString>
 
 
 </LanguageData>

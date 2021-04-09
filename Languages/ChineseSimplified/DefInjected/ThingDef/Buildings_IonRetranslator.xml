@@ -2,8 +2,10 @@
 <LanguageData>
 
   <IonSatelliteBroadcaster.label>离子卫星信号发射器</IonSatelliteBroadcaster.label>
-  <IonSatelliteBroadcaster_Blueprint.label>离子卫星信号发射器 （蓝图）</IonSatelliteBroadcaster_Blueprint.label>
-  <IonSatelliteBroadcaster_Frame.label>离子卫星信号发射器 （建造中）</IonSatelliteBroadcaster_Frame.label>
-  
+  <IonSatelliteBroadcaster.description>强大的离子炮控制装置。用机械体离子武器的力量消灭敌人。</IonSatelliteBroadcaster.description>
+  <IonSatelliteBroadcaster_Blueprint.label>离子卫星信号发射器（蓝图）</IonSatelliteBroadcaster_Blueprint.label>
+  <IonSatelliteBroadcaster_Frame.label>离子卫星信号发射器（建造中）</IonSatelliteBroadcaster_Frame.label>
+  <IonSatelliteBroadcaster_Frame.description>强大的离子炮控制装置。用机械体离子武器的力量消灭敌人。</IonSatelliteBroadcaster_Frame.description>
+
 
 </LanguageData>

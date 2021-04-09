@@ -27,6 +27,7 @@
   <Chicken.labelMalePlural>公鸡</Chicken.labelMalePlural>
   <Chicken.labelFemale>母鸡</Chicken.labelFemale>
   <Chicken.labelFemalePlural>母鸡</Chicken.labelFemalePlural>
+
   <Pig.label>猪</Pig.label>
   <Pig.labelPlural>猪</Pig.labelPlural>
   <Pig.lifeStages.0.label>乳猪</Pig.lifeStages.0.label>
@@ -51,6 +52,7 @@
   <Pig.labelMalePlural>公猪</Pig.labelMalePlural>
   <Pig.labelFemale>母猪</Pig.labelFemale>
   <Pig.labelFemalePlural>母猪</Pig.labelFemalePlural>
+
   <Cow.label>牛</Cow.label>
   <Cow.labelPlural>牛</Cow.labelPlural>
   <Cow.lifeStages.0.label>牛犊</Cow.lifeStages.0.label>
@@ -75,6 +77,7 @@
   <Cow.labelMalePlural>公牛</Cow.labelMalePlural>
   <Cow.labelFemale>母牛</Cow.labelFemale>
   <Cow.labelFemalePlural>母牛</Cow.labelFemalePlural>
+  
   <Alpaca.label>羊驼</Alpaca.label>
   <Alpaca.labelPlural>羊驼</Alpaca.labelPlural>
   <Alpaca.lifeStages.0.label>羊驼幼崽</Alpaca.lifeStages.0.label>
@@ -100,6 +103,180 @@
   <Alpaca.labelFemale>母羊驼</Alpaca.labelFemale>
   <Alpaca.labelFemalePlural>母羊驼</Alpaca.labelFemalePlural>
 
+  <Duck.label>鸭</Duck.label>
+  <Duck.labelPlural>鸭</Duck.labelPlural>
+  <Duck.lifeStages.0.label>鸭仔</Duck.lifeStages.0.label>
+  <Duck.lifeStages.0.labelPlural>鸭仔</Duck.lifeStages.0.labelPlural>
+  <Duck.lifeStages.0.labelMale>公鸭仔</Duck.lifeStages.0.labelMale>
+  <Duck.lifeStages.0.labelMalePlural>公鸭仔</Duck.lifeStages.0.labelMalePlural>
+  <Duck.lifeStages.0.labelFemale>母鸭仔</Duck.lifeStages.0.labelFemale>
+  <Duck.lifeStages.0.labelFemalePlural>母鸭仔</Duck.lifeStages.0.labelFemalePlural>
+  <Duck.lifeStages.1.label>鸭</Duck.lifeStages.1.label>
+  <Duck.lifeStages.1.labelPlural>鸭</Duck.lifeStages.1.labelPlural>
+  <Duck.lifeStages.1.labelMale>公鸭</Duck.lifeStages.1.labelMale>
+  <Duck.lifeStages.1.labelMalePlural>公鸭</Duck.lifeStages.1.labelMalePlural>
+  <Duck.lifeStages.1.labelFemale>母鸭</Duck.lifeStages.1.labelFemale>
+  <Duck.lifeStages.1.labelFemalePlural>母鸭</Duck.lifeStages.1.labelFemalePlural>
+  <Duck.lifeStages.2.label>鸭</Duck.lifeStages.2.label>
+  <Duck.lifeStages.2.labelPlural>鸭</Duck.lifeStages.2.labelPlural>
+  <Duck.lifeStages.2.labelMale>公鸭</Duck.lifeStages.2.labelMale>
+  <Duck.lifeStages.2.labelMalePlural>公鸭</Duck.lifeStages.2.labelMalePlural>
+  <Duck.lifeStages.2.labelFemale>母鸭</Duck.lifeStages.2.labelFemale>
+  <Duck.lifeStages.2.labelFemalePlural>母鸭</Duck.lifeStages.2.labelFemalePlural>
+  <Duck.labelMale>公鸭</Duck.labelMale>
+  <Duck.labelMalePlural>公鸭</Duck.labelMalePlural>
+  <Duck.labelFemale>母鸭</Duck.labelFemale>
+  <Duck.labelFemalePlural>母鸭</Duck.labelFemalePlural>
+
+  <Bison.label>野牛</Bison.label>
+  <Bison.labelPlural>野牛</Bison.labelPlural>
+  <Bison.lifeStages.0.label>牛犊</Bison.lifeStages.0.label>
+  <Bison.lifeStages.0.labelPlural>牛犊</Bison.lifeStages.0.labelPlural>
+  <Bison.lifeStages.0.labelMale>公牛犊</Bison.lifeStages.0.labelMale>
+  <Bison.lifeStages.0.labelMalePlural>公牛犊</Bison.lifeStages.0.labelMalePlural>
+  <Bison.lifeStages.0.labelFemale>母牛犊</Bison.lifeStages.0.labelFemale>
+  <Bison.lifeStages.0.labelFemalePlural>母牛犊</Bison.lifeStages.0.labelFemalePlural>
+  <Bison.lifeStages.1.label>野牛</Bison.lifeStages.1.label>
+  <Bison.lifeStages.1.labelPlural>野牛</Bison.lifeStages.1.labelPlural>
+  <Bison.lifeStages.1.labelMale>公野牛</Bison.lifeStages.1.labelMale>
+  <Bison.lifeStages.1.labelMalePlural>公野牛</Bison.lifeStages.1.labelMalePlural>
+  <Bison.lifeStages.1.labelFemale>母野牛</Bison.lifeStages.1.labelFemale>
+  <Bison.lifeStages.1.labelFemalePlural>母野牛</Bison.lifeStages.1.labelFemalePlural>
+  <Bison.lifeStages.2.label>野牛</Bison.lifeStages.2.label>
+  <Bison.lifeStages.2.labelPlural>野牛</Bison.lifeStages.2.labelPlural>
+  <Bison.lifeStages.2.labelMale>公野牛</Bison.lifeStages.2.labelMale>
+  <Bison.lifeStages.2.labelMalePlural>公野牛</Bison.lifeStages.2.labelMalePlural>
+  <Bison.lifeStages.2.labelFemale>母野牛</Bison.lifeStages.2.labelFemale>
+  <Bison.lifeStages.2.labelFemalePlural>母野牛</Bison.lifeStages.2.labelFemalePlural>
+  <Bison.labelMale>公野牛</Bison.labelMale>
+  <Bison.labelMalePlural>公野牛</Bison.labelMalePlural>
+  <Bison.labelFemale>母野牛</Bison.labelFemale>
+  <Bison.labelFemalePlural>母野牛</Bison.labelFemalePlural>
+
+  <Goat.label>山羊</Goat.label>
+  <Goat.labelPlural>山羊</Goat.labelPlural>
+  <Goat.lifeStages.0.label>山羊崽</Goat.lifeStages.0.label>
+  <Goat.lifeStages.0.labelPlural>山羊崽</Goat.lifeStages.0.labelPlural>
+  <Goat.lifeStages.0.labelMale>公山羊崽</Goat.lifeStages.0.labelMale>
+  <Goat.lifeStages.0.labelMalePlural>公山羊崽</Goat.lifeStages.0.labelMalePlural>
+  <Goat.lifeStages.0.labelFemale>母山羊崽</Goat.lifeStages.0.labelFemale>
+  <Goat.lifeStages.0.labelFemalePlural>母山羊崽</Goat.lifeStages.0.labelFemalePlural>
+  <Goat.lifeStages.1.label>山羊</Goat.lifeStages.1.label>
+  <Goat.lifeStages.1.labelPlural>山羊</Goat.lifeStages.1.labelPlural>
+  <Goat.lifeStages.1.labelMale>公山羊</Goat.lifeStages.1.labelMale>
+  <Goat.lifeStages.1.labelMalePlural>公山羊</Goat.lifeStages.1.labelMalePlural>
+  <Goat.lifeStages.1.labelFemale>goat doe</Goat.lifeStages.1.labelFemale>
+  <Goat.lifeStages.1.labelFemalePlural>母山羊</Goat.lifeStages.1.labelFemalePlural>
+  <Goat.lifeStages.2.label>山羊</Goat.lifeStages.2.label>
+  <Goat.lifeStages.2.labelPlural>山羊</Goat.lifeStages.2.labelPlural>
+  <Goat.lifeStages.2.labelMale>公山羊</Goat.lifeStages.2.labelMale>
+  <Goat.lifeStages.2.labelMalePlural>公山羊</Goat.lifeStages.2.labelMalePlural>
+  <Goat.lifeStages.2.labelFemale>goat doe</Goat.lifeStages.2.labelFemale>
+  <Goat.lifeStages.2.labelFemalePlural>母山羊</Goat.lifeStages.2.labelFemalePlural>
+  <Goat.labelMale>公山羊</Goat.labelMale>
+  <Goat.labelMalePlural>公山羊</Goat.labelMalePlural>
+  <Goat.labelFemale>goat doe</Goat.labelFemale>
+  <Goat.labelFemalePlural>goat does</Goat.labelFemalePlural>
+
+  <Goose.label>鹅</Goose.label>
+  <Goose.labelPlural>鹅</Goose.labelPlural>
+  <Goose.lifeStages.0.label>鹅</Goose.lifeStages.0.label>
+  <Goose.lifeStages.0.labelPlural>鹅</Goose.lifeStages.0.labelPlural>
+  <Goose.lifeStages.0.labelMale>公鹅</Goose.lifeStages.0.labelMale>
+  <Goose.lifeStages.0.labelMalePlural>公鹅</Goose.lifeStages.0.labelMalePlural>
+  <Goose.lifeStages.0.labelFemale>母鹅</Goose.lifeStages.0.labelFemale>
+  <Goose.lifeStages.0.labelFemalePlural>母鹅</Goose.lifeStages.0.labelFemalePlural>
+  <Goose.lifeStages.1.label>鹅</Goose.lifeStages.1.label>
+  <Goose.lifeStages.1.labelPlural>鹅</Goose.lifeStages.1.labelPlural>
+  <Goose.lifeStages.1.labelMale>公鹅</Goose.lifeStages.1.labelMale>
+  <Goose.lifeStages.1.labelMalePlural>公鹅</Goose.lifeStages.1.labelMalePlural>
+  <Goose.lifeStages.1.labelFemale>母鹅</Goose.lifeStages.1.labelFemale>
+  <Goose.lifeStages.1.labelFemalePlural>母鹅</Goose.lifeStages.1.labelFemalePlural>
+  <Goose.lifeStages.2.label>鹅</Goose.lifeStages.2.label>
+  <Goose.lifeStages.2.labelPlural>鹅</Goose.lifeStages.2.labelPlural>
+  <Goose.lifeStages.2.labelMale>公鹅</Goose.lifeStages.2.labelMale>
+  <Goose.lifeStages.2.labelMalePlural>公鹅</Goose.lifeStages.2.labelMalePlural>
+  <Goose.lifeStages.2.labelFemale>母鹅</Goose.lifeStages.2.labelFemale>
+  <Goose.lifeStages.2.labelFemalePlural>母鹅</Goose.lifeStages.2.labelFemalePlural>
+  <Goose.labelMale>公鹅</Goose.labelMale>
+  <Goose.labelMalePlural>公鹅</Goose.labelMalePlural>
+  <Goose.labelFemale>母鹅</Goose.labelFemale>
+  <Goose.labelFemalePlural>母鹅</Goose.labelFemalePlural>
+
+  <Yak.label>牦牛</Yak.label>
+  <Yak.labelPlural>牦牛</Yak.labelPlural>
+  <Yak.lifeStages.0.label>牛犊</Yak.lifeStages.0.label>
+  <Yak.lifeStages.0.labelPlural>牛犊</Yak.lifeStages.0.labelPlural>
+  <Yak.lifeStages.0.labelMale>公牛犊</Yak.lifeStages.0.labelMale>
+  <Yak.lifeStages.0.labelMalePlural>公牛犊</Yak.lifeStages.0.labelMalePlural>
+  <Yak.lifeStages.0.labelFemale>母牛犊</Yak.lifeStages.0.labelFemale>
+  <Yak.lifeStages.0.labelFemalePlural>母牛犊</Yak.lifeStages.0.labelFemalePlural>
+  <Yak.lifeStages.1.label>牦牛</Yak.lifeStages.1.label>
+  <Yak.lifeStages.1.labelPlural>牦牛</Yak.lifeStages.1.labelPlural>
+  <Yak.lifeStages.1.labelMale>牦牛</Yak.lifeStages.1.labelMale>
+  <Yak.lifeStages.1.labelMalePlural>公牦牛</Yak.lifeStages.1.labelMalePlural>
+  <Yak.lifeStages.1.labelFemale>母牦牛</Yak.lifeStages.1.labelFemale>
+  <Yak.lifeStages.1.labelFemalePlural>母牦牛</Yak.lifeStages.1.labelFemalePlural>
+  <Yak.lifeStages.2.label>牦牛</Yak.lifeStages.2.label>
+  <Yak.lifeStages.2.labelPlural>牦牛</Yak.lifeStages.2.labelPlural>
+  <Yak.lifeStages.2.labelMale>牦牛</Yak.lifeStages.2.labelMale>
+  <Yak.lifeStages.2.labelMalePlural>公牦牛</Yak.lifeStages.2.labelMalePlural>
+  <Yak.lifeStages.2.labelFemale>母牦牛</Yak.lifeStages.2.labelFemale>
+  <Yak.lifeStages.2.labelFemalePlural>母牦牛</Yak.lifeStages.2.labelFemalePlural>
+  <Yak.labelMale>牦牛</Yak.labelMale>
+  <Yak.labelMalePlural>牦牛</Yak.labelMalePlural>
+  <Yak.labelFemale>母牦牛</Yak.labelFemale>
+  <Yak.labelFemalePlural>母牦牛</Yak.labelFemalePlural>
+
+  <GuineaPig.label>豚鼠</GuineaPig.label>
+  <GuineaPig.labelPlural>豚鼠</GuineaPig.labelPlural>
+  <GuineaPig.lifeStages.0.label>豚鼠</GuineaPig.lifeStages.0.label>
+  <GuineaPig.lifeStages.0.labelPlural>豚鼠</GuineaPig.lifeStages.0.labelPlural>
+  <GuineaPig.lifeStages.0.labelMale>公豚鼠</GuineaPig.lifeStages.0.labelMale>
+  <GuineaPig.lifeStages.0.labelMalePlural>公豚鼠</GuineaPig.lifeStages.0.labelMalePlural>
+  <GuineaPig.lifeStages.0.labelFemale>母豚鼠</GuineaPig.lifeStages.0.labelFemale>
+  <GuineaPig.lifeStages.0.labelFemalePlural>母豚鼠</GuineaPig.lifeStages.0.labelFemalePlural>
+  <GuineaPig.lifeStages.1.label>豚鼠</GuineaPig.lifeStages.1.label>
+  <GuineaPig.lifeStages.1.labelPlural>豚鼠</GuineaPig.lifeStages.1.labelPlural>
+  <GuineaPig.lifeStages.1.labelMale>公豚鼠</GuineaPig.lifeStages.1.labelMale>
+  <GuineaPig.lifeStages.1.labelMalePlural>公豚鼠</GuineaPig.lifeStages.1.labelMalePlural>
+  <GuineaPig.lifeStages.1.labelFemale>母豚鼠</GuineaPig.lifeStages.1.labelFemale>
+  <GuineaPig.lifeStages.1.labelFemalePlural>母豚鼠</GuineaPig.lifeStages.1.labelFemalePlural>
+  <GuineaPig.lifeStages.2.label>豚鼠</GuineaPig.lifeStages.2.label>
+  <GuineaPig.lifeStages.2.labelPlural>豚鼠</GuineaPig.lifeStages.2.labelPlural>
+  <GuineaPig.lifeStages.2.labelMale>公豚鼠</GuineaPig.lifeStages.2.labelMale>
+  <GuineaPig.lifeStages.2.labelMalePlural>公豚鼠</GuineaPig.lifeStages.2.labelMalePlural>
+  <GuineaPig.lifeStages.2.labelFemale>母豚鼠</GuineaPig.lifeStages.2.labelFemale>
+  <GuineaPig.lifeStages.2.labelFemalePlural>母豚鼠</GuineaPig.lifeStages.2.labelFemalePlural>
+  <GuineaPig.labelMale>公豚鼠</GuineaPig.labelMale>
+  <GuineaPig.labelMalePlural>公豚鼠</GuineaPig.labelMalePlural>
+  <GuineaPig.labelFemale>母豚鼠</GuineaPig.labelFemale>
+  <GuineaPig.labelFemalePlural>母豚鼠</GuineaPig.labelFemalePlural>
+
+  <Donkey.label>驴</Donkey.label>
+  <Donkey.labelPlural>驴</Donkey.labelPlural>
+  <Donkey.lifeStages.0.label>驴驹</Donkey.lifeStages.0.label>
+  <Donkey.lifeStages.0.labelPlural>驴驹</Donkey.lifeStages.0.labelPlural>
+  <Donkey.lifeStages.0.labelMale>公驴驹</Donkey.lifeStages.0.labelMale>
+  <Donkey.lifeStages.0.labelMalePlural>公驴驹</Donkey.lifeStages.0.labelMalePlural>
+  <Donkey.lifeStages.0.labelFemale>母驴驹</Donkey.lifeStages.0.labelFemale>
+  <Donkey.lifeStages.0.labelFemalePlural>母驴驹</Donkey.lifeStages.0.labelFemalePlural>
+  <Donkey.lifeStages.1.label>驴</Donkey.lifeStages.1.label>
+  <Donkey.lifeStages.1.labelPlural>驴</Donkey.lifeStages.1.labelPlural>
+  <Donkey.lifeStages.1.labelMale>公驴</Donkey.lifeStages.1.labelMale>
+  <Donkey.lifeStages.1.labelMalePlural>公驴</Donkey.lifeStages.1.labelMalePlural>
+  <Donkey.lifeStages.1.labelFemale>母驴</Donkey.lifeStages.1.labelFemale>
+  <Donkey.lifeStages.1.labelFemalePlural>母驴</Donkey.lifeStages.1.labelFemalePlural>
+  <Donkey.lifeStages.2.label>驴</Donkey.lifeStages.2.label>
+  <Donkey.lifeStages.2.labelPlural>驴</Donkey.lifeStages.2.labelPlural>
+  <Donkey.lifeStages.2.labelMale>公驴</Donkey.lifeStages.2.labelMale>
+  <Donkey.lifeStages.2.labelMalePlural>公驴</Donkey.lifeStages.2.labelMalePlural>
+  <Donkey.lifeStages.2.labelFemale>母驴</Donkey.lifeStages.2.labelFemale>
+  <Donkey.lifeStages.2.labelFemalePlural>母驴</Donkey.lifeStages.2.labelFemalePlural>
+  <Donkey.labelMale>公驴</Donkey.labelMale>
+  <Donkey.labelMalePlural>公驴</Donkey.labelMalePlural>
+  <Donkey.labelFemale>母驴</Donkey.labelFemale>
+  <Donkey.labelFemalePlural>母驴</Donkey.labelFemalePlural>
 
 
 </LanguageData>

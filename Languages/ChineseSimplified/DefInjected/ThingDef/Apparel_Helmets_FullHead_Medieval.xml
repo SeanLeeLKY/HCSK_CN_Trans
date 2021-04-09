@@ -1,23 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparello_NorbalSagecowl.label>大兜帽</Apparello_NorbalSagecowl.label>
-  
+  <Apparello_Sandtrader.label>大篷车夫帽</Apparello_Sandtrader.label>
+  <Apparello_Sandtrader.description>游商们用这些来保护自己的脸，防止沙尘暴等。</Apparello_Sandtrader.description>
+
+  <Apparello_NorbalSagecowl.label>头罩</Apparello_NorbalSagecowl.label>
+  <Apparello_NorbalSagecowl.description>坚硬的皮质头罩。常由诺巴族人中的贤者佩戴。</Apparello_NorbalSagecowl.description>
+
   <Apparello_NorbalArcher.label>骷髅帽</Apparello_NorbalArcher.label>
-  
-  <Apparello_NorbalThunder.label>瓜皮帽</Apparello_NorbalThunder.label>
-  
-  <Apparello_NorbalWarrior.label>锁链头盔</Apparello_NorbalWarrior.label>
-  
+  <Apparello_NorbalArcher.description>一顶能保护整个头部的装饰帽。</Apparello_NorbalArcher.description>
+
+  <Apparello_NorbalThunder.label>翼状骷髅帽</Apparello_NorbalThunder.label>
+  <Apparello_NorbalThunder.description>一顶能保护整个头部的装饰帽。两边有装饰的翅膀！</Apparello_NorbalThunder.description>
+
+  <Apparello_NorbalWarrior.label>链甲头盔</Apparello_NorbalWarrior.label>
+  <Apparello_NorbalWarrior.description>一顶战士头盔，能保护整个头部。</Apparello_NorbalWarrior.description>
+
   <MedievalTimes_Helmet_Bascinet.label>巴萨内特盔</MedievalTimes_Helmet_Bascinet.label>
-  
-  <MedievalArmor_Armet.label>活动头盔</MedievalArmor_Armet.label>
-  
-  <MedievalArmor_GreatHelm.label>十字军盔</MedievalArmor_GreatHelm.label>
-  
+  <MedievalTimes_Helmet_Bascinet.description>内嵌由皮革和布垫制成的软帽。这一层覆盖上编织的铁线，顶上是锥形斗。头盔只是一个基座，这意味着前脸部分可以掀开或取下。所有这些部件组合在一起提供了出色的保护，同时又不影响行动能力和视野。额外的非金属层提供了更好的保暖能力。</MedievalTimes_Helmet_Bascinet.description>
+
   <MedievalTimes_Helmet_Domed.label>圆顶头盔</MedievalTimes_Helmet_Domed.label>
-  
+  <MedievalTimes_Helmet_Domed.description>内嵌由皮革和布垫制成的软帽。这一层覆盖上编织的铁线，顶上是圆形半弧沿面。所有这些部件组合在一起提供了出色的保护，同时又不影响行动能力和视野。额外的非金属层提供了更好的保暖能力。</MedievalTimes_Helmet_Domed.description>
+
   <MedievalTimes_Helmet_Sallet.label>轻头盔</MedievalTimes_Helmet_Sallet.label>
-  
+  <MedievalTimes_Helmet_Sallet.description>内嵌由皮革和布垫制成的软帽。这一层覆盖上编织的铁线，上方是圆形半弧沿形式的长后颈顶面。所有这些部件组合在一起提供了出色的保护，同时又不影响行动能力和视野。额外的非金属层提供了更好的保暖能力。</MedievalTimes_Helmet_Sallet.description>
+
 
 </LanguageData>

@@ -1,9 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- R3 MENSTRUUM -->
+
+  <Gun_ChargeRifle.label>R3“溶媒”电荷步枪</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.description>一种发射电荷弹药的步枪。</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.tools.0.label>枪托</Gun_ChargeRifle.tools.0.label>
+  <Gun_ChargeRifle.tools.1.label>枪管</Gun_ChargeRifle.tools.1.label>
+  <Gun_ChargeRifle.tools.2.label>枪口</Gun_ChargeRifle.tools.2.label>
+
+
   <!-- R6 SPLITTER -->
 
-  <Gun_Splitter.label>R6 “撕裂者”电荷步枪</Gun_Splitter.label>
-  
+  <Gun_Splitter.label>R6“撕裂者”电荷步枪</Gun_Splitter.label>
+  <Gun_Splitter.description>一种发射电荷弹药的步枪。</Gun_Splitter.description>
+  <Gun_Splitter.tools.0.label>枪托</Gun_Splitter.tools.0.label>
+  <Gun_Splitter.tools.1.label>枪管</Gun_Splitter.tools.1.label>
+  <Gun_Splitter.tools.2.label>枪口</Gun_Splitter.tools.2.label>
+
 
 </LanguageData>

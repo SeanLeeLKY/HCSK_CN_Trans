@@ -2,11 +2,12 @@
 <LanguageData>
 
   <ElectricShock.label>电颤</ElectricShock.label>
+  <ElectricShock.description>因为电击伤引起的电颤严重降低了运动速度。</ElectricShock.description>
   <ElectricShock.comps.0.labelTendedWell>已包扎</ElectricShock.comps.0.labelTendedWell>
   <ElectricShock.comps.0.labelTendedWellInner>已缝合</ElectricShock.comps.0.labelTendedWellInner>
   <ElectricShock.comps.0.labelSolidTendedWell>已固定</ElectricShock.comps.0.labelSolidTendedWell>
   <ElectricShock.injuryProps.destroyedLabel>已摧毁</ElectricShock.injuryProps.destroyedLabel>
-  <ElectricShock.labelNoun>电击器</ElectricShock.labelNoun>
+  <ElectricShock.labelNoun>电击伤</ElectricShock.labelNoun>
 
 
 </LanguageData>

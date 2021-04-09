@@ -9,6 +9,7 @@
   <!-- OrbitalVisitor -->
 
   <OrbitalTraderArrival.label>轨道贸易商</OrbitalTraderArrival.label>
+  <OrbitalTraderArrivalSBT.label>轨道贸易商</OrbitalTraderArrivalSBT.label>
 
 
   <!-- AllyArrival -->
@@ -23,9 +24,18 @@
   <RaidFriendly.label>援军</RaidFriendly.label>
 
 
-  <!-- Raid-beacon-attracted events -->
+  <!-- Good - special -->
 
-  <RaidEnemyEscapeShip.label>敌袭</RaidEnemyEscapeShip.label>
+  <StrangerInBlackJoin.label>黑衣人</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.letterText>仿佛嗅到危机的气息，一位神秘的[PAWN_kind]出现。\n\n那么[PAWN_pronoun]能不能解决这一切呢？</StrangerInBlackJoin.letterText>
+  <StrangerInBlackJoin.letterLabel>黑衣人</StrangerInBlackJoin.letterLabel>
+
+
+  <!-- event attracted events -->
+
+  <RaidEnemyDummy.label>冰河时代敌袭</RaidEnemyDummy.label>
+  <ManhunterPackDummy.label>猎杀人类</ManhunterPackDummy.label>
+  <AnimalInsanityMassDummy.label>大群动物发疯</AnimalInsanityMassDummy.label>
 
 
 </LanguageData>

@@ -4,9 +4,11 @@
   <!-- Ammo -->
 
   <Ammo_SPG9Grenade_HEAT.label>SPG-9榴弹（破甲）</Ammo_SPG9Grenade_HEAT.label>
-  
+  <Ammo_SPG9Grenade_HEAT.description>SPG-9发射器所使用的的一种火箭助推弹药。</Ammo_SPG9Grenade_HEAT.description>
+
   <Ammo_SPG9Grenade_Frag.label>SPG-9榴弹（破片）</Ammo_SPG9Grenade_Frag.label>
-  
+  <Ammo_SPG9Grenade_Frag.description>SPG-9发射器所使用的的一种火箭助推弹药。</Ammo_SPG9Grenade_Frag.description>
+
 
   <!-- Projectiles -->
 

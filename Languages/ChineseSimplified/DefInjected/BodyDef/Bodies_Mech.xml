@@ -3,7 +3,17 @@
 
   <!-- Crawler -->
 
-  <MechanicalCrawler.label>机械履带</MechanicalCrawler.label>
+  <MechanicalCrawler.label>机械爬行者</MechanicalCrawler.label>
+  <MechanicalCrawler.corePart.parts.1.parts.2.customLabel>左视觉感应器</MechanicalCrawler.corePart.parts.1.parts.2.customLabel>
+  <MechanicalCrawler.corePart.parts.1.parts.3.customLabel>右视觉感应器</MechanicalCrawler.corePart.parts.1.parts.3.customLabel>
+  <MechanicalCrawler.corePart.parts.1.parts.4.customLabel>左声学感应器</MechanicalCrawler.corePart.parts.1.parts.4.customLabel>
+  <MechanicalCrawler.corePart.parts.1.parts.5.customLabel>右声学感应器</MechanicalCrawler.corePart.parts.1.parts.5.customLabel>
+  <MechanicalCrawler.corePart.parts.2.customLabel>左前机械腿</MechanicalCrawler.corePart.parts.2.customLabel>
+  <MechanicalCrawler.corePart.parts.3.customLabel>右前机械腿</MechanicalCrawler.corePart.parts.3.customLabel>
+  <MechanicalCrawler.corePart.parts.4.customLabel>左中机械腿</MechanicalCrawler.corePart.parts.4.customLabel>
+  <MechanicalCrawler.corePart.parts.5.customLabel>右中机械腿</MechanicalCrawler.corePart.parts.5.customLabel>
+  <MechanicalCrawler.corePart.parts.6.customLabel>左后机械腿</MechanicalCrawler.corePart.parts.6.customLabel>
+  <MechanicalCrawler.corePart.parts.7.customLabel>右后机械腿</MechanicalCrawler.corePart.parts.7.customLabel>
 
 
 </LanguageData>

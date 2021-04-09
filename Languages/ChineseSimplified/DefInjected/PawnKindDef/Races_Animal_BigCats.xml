@@ -3,7 +3,7 @@
 
   <!-- BigCats -->
 
- <Cougar.label>美洲狮</Cougar.label>
+  <Cougar.label>美洲狮</Cougar.label>
   <Cougar.labelPlural>美洲狮</Cougar.labelPlural>
   <Cougar.lifeStages.0.label>美洲狮幼崽</Cougar.lifeStages.0.label>
   <Cougar.lifeStages.0.labelPlural>美洲狮幼崽</Cougar.lifeStages.0.labelPlural>
@@ -27,6 +27,7 @@
   <Cougar.labelMalePlural>公美洲狮</Cougar.labelMalePlural>
   <Cougar.labelFemale>母美洲狮</Cougar.labelFemale>
   <Cougar.labelFemalePlural>母美洲狮</Cougar.labelFemalePlural>
+
   <Panther.label>黑豹</Panther.label>
   <Panther.labelPlural>黑豹</Panther.labelPlural>
   <Panther.lifeStages.0.label>黑豹幼崽</Panther.lifeStages.0.label>
@@ -51,6 +52,7 @@
   <Panther.labelMalePlural>公黑豹</Panther.labelMalePlural>
   <Panther.labelFemale>母黑豹</Panther.labelFemale>
   <Panther.labelFemalePlural>母黑豹</Panther.labelFemalePlural>
+
   <Lynx.label>猞猁</Lynx.label>
   <Lynx.labelPlural>猞猁</Lynx.labelPlural>
   <Lynx.lifeStages.0.label>猞猁幼崽</Lynx.lifeStages.0.label>
@@ -76,7 +78,7 @@
   <Lynx.labelFemale>母猞猁</Lynx.labelFemale>
   <Lynx.labelFemalePlural>母猞猁</Lynx.labelFemalePlural>
 
-   <Tiger.label>虎</Tiger.label>
+  <Tiger.label>虎</Tiger.label>
   <Tiger.labelPlural>虎</Tiger.labelPlural>
   <Tiger.lifeStages.0.label>虎仔</Tiger.lifeStages.0.label>
   <Tiger.lifeStages.0.labelPlural>虎仔</Tiger.lifeStages.0.labelPlural>
@@ -126,7 +128,7 @@
   <WhiteTiger.labelFemale>雌性白虎</WhiteTiger.labelFemale>
   <WhiteTiger.labelFemalePlural>雌性白虎</WhiteTiger.labelFemalePlural>
 
- <SnowLeopard.label>雪豹</SnowLeopard.label>
+  <SnowLeopard.label>雪豹</SnowLeopard.label>
   <SnowLeopard.labelPlural>雪豹</SnowLeopard.labelPlural>
   <SnowLeopard.lifeStages.0.label>雪豹</SnowLeopard.lifeStages.0.label>
   <SnowLeopard.lifeStages.0.labelPlural>雪豹</SnowLeopard.lifeStages.0.labelPlural>
@@ -151,30 +153,30 @@
   <SnowLeopard.labelFemale>雌性雪豹</SnowLeopard.labelFemale>
   <SnowLeopard.labelFemalePlural>雌性雪豹</SnowLeopard.labelFemalePlural>
 
-  <Jaguar.label>黑豹</Jaguar.label>
-  <Jaguar.labelPlural>黑豹</Jaguar.labelPlural>
-  <Jaguar.lifeStages.0.label>黑豹</Jaguar.lifeStages.0.label>
-  <Jaguar.lifeStages.0.labelPlural>黑豹</Jaguar.lifeStages.0.labelPlural>
-  <Jaguar.lifeStages.0.labelMale>雄性黑豹</Jaguar.lifeStages.0.labelMale>
-  <Jaguar.lifeStages.0.labelMalePlural>雄性黑豹</Jaguar.lifeStages.0.labelMalePlural>
-  <Jaguar.lifeStages.0.labelFemale>雌性黑豹</Jaguar.lifeStages.0.labelFemale>
-  <Jaguar.lifeStages.0.labelFemalePlural>雌性黑豹</Jaguar.lifeStages.0.labelFemalePlural>
-  <Jaguar.lifeStages.1.label>黑豹</Jaguar.lifeStages.1.label>
-  <Jaguar.lifeStages.1.labelPlural>黑豹</Jaguar.lifeStages.1.labelPlural>
-  <Jaguar.lifeStages.1.labelMale>雄性黑豹</Jaguar.lifeStages.1.labelMale>
-  <Jaguar.lifeStages.1.labelMalePlural>雄性黑豹</Jaguar.lifeStages.1.labelMalePlural>
-  <Jaguar.lifeStages.1.labelFemale>雌性黑豹</Jaguar.lifeStages.1.labelFemale>
-  <Jaguar.lifeStages.1.labelFemalePlural>雌性黑豹</Jaguar.lifeStages.1.labelFemalePlural>
-  <Jaguar.lifeStages.2.label>黑豹</Jaguar.lifeStages.2.label>
-  <Jaguar.lifeStages.2.labelPlural>黑豹</Jaguar.lifeStages.2.labelPlural>
-  <Jaguar.lifeStages.2.labelMale>雄性黑豹</Jaguar.lifeStages.2.labelMale>
-  <Jaguar.lifeStages.2.labelMalePlural>雄性黑豹</Jaguar.lifeStages.2.labelMalePlural>
-  <Jaguar.lifeStages.2.labelFemale>雌性黑豹</Jaguar.lifeStages.2.labelFemale>
-  <Jaguar.lifeStages.2.labelFemalePlural>雌性黑豹</Jaguar.lifeStages.2.labelFemalePlural>
-  <Jaguar.labelMale>雄性黑豹</Jaguar.labelMale>
-  <Jaguar.labelMalePlural>雄性黑豹</Jaguar.labelMalePlural>
-  <Jaguar.labelFemale>雌性黑豹</Jaguar.labelFemale>
-  <Jaguar.labelFemalePlural>雌性黑豹</Jaguar.labelFemalePlural>
+  <Jaguar.label>美洲豹</Jaguar.label>
+  <Jaguar.labelPlural>美洲豹</Jaguar.labelPlural>
+  <Jaguar.lifeStages.0.label>美洲豹</Jaguar.lifeStages.0.label>
+  <Jaguar.lifeStages.0.labelPlural>美洲豹</Jaguar.lifeStages.0.labelPlural>
+  <Jaguar.lifeStages.0.labelMale>雄性美洲豹</Jaguar.lifeStages.0.labelMale>
+  <Jaguar.lifeStages.0.labelMalePlural>雄性美洲豹</Jaguar.lifeStages.0.labelMalePlural>
+  <Jaguar.lifeStages.0.labelFemale>雌性美洲豹</Jaguar.lifeStages.0.labelFemale>
+  <Jaguar.lifeStages.0.labelFemalePlural>雌性美洲豹</Jaguar.lifeStages.0.labelFemalePlural>
+  <Jaguar.lifeStages.1.label>美洲豹</Jaguar.lifeStages.1.label>
+  <Jaguar.lifeStages.1.labelPlural>美洲豹</Jaguar.lifeStages.1.labelPlural>
+  <Jaguar.lifeStages.1.labelMale>雄性美洲豹</Jaguar.lifeStages.1.labelMale>
+  <Jaguar.lifeStages.1.labelMalePlural>雄性美洲豹</Jaguar.lifeStages.1.labelMalePlural>
+  <Jaguar.lifeStages.1.labelFemale>雌性美洲豹</Jaguar.lifeStages.1.labelFemale>
+  <Jaguar.lifeStages.1.labelFemalePlural>雌性美洲豹</Jaguar.lifeStages.1.labelFemalePlural>
+  <Jaguar.lifeStages.2.label>美洲豹</Jaguar.lifeStages.2.label>
+  <Jaguar.lifeStages.2.labelPlural>美洲豹</Jaguar.lifeStages.2.labelPlural>
+  <Jaguar.lifeStages.2.labelMale>雄性美洲豹</Jaguar.lifeStages.2.labelMale>
+  <Jaguar.lifeStages.2.labelMalePlural>雄性美洲豹</Jaguar.lifeStages.2.labelMalePlural>
+  <Jaguar.lifeStages.2.labelFemale>雌性美洲豹</Jaguar.lifeStages.2.labelFemale>
+  <Jaguar.lifeStages.2.labelFemalePlural>雌性美洲豹</Jaguar.lifeStages.2.labelFemalePlural>
+  <Jaguar.labelMale>雄性美洲豹</Jaguar.labelMale>
+  <Jaguar.labelMalePlural>雄性美洲豹</Jaguar.labelMalePlural>
+  <Jaguar.labelFemale>雌性美洲豹</Jaguar.labelFemale>
+  <Jaguar.labelFemalePlural>雌性美洲豹</Jaguar.labelFemalePlural>
 
 
 </LanguageData>

@@ -1,217 +1,274 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- AL -->
+  <!-- –––––––––––––––––––––––––––––––––   石砾   ––––––––––––––––––––––––––––––––– -->
 
-  <PoorSoil-MarginalSoil.label>贫瘠土地转边角土地</PoorSoil-MarginalSoil.label>
-  <PoorSoil-MarginalSoil.description>放置于： 贫瘠土地\n取得： 边角土地</PoorSoil-MarginalSoil.description>
-  <PoorSoil-MarginalSoil_Blueprint.label>贫瘠土地转边角土地 （蓝图）</PoorSoil-MarginalSoil_Blueprint.label>
-  <PoorSoil-MarginalSoil_Frame.label>贫瘠土地转边角土地 （建造中）</PoorSoil-MarginalSoil_Frame.label>
-  <PoorSoil-MarginalSoil_Frame.description>放置于： 贫瘠土地\n取得： 边角土地</PoorSoil-MarginalSoil_Frame.description>
+  <RockyDirt-Stone.label>粗糙石面</RockyDirt-Stone.label>
+  <RockyDirt-Stone.description>↑ 石砾\n\n↓ 粗糙石面</RockyDirt-Stone.description>
+  <RockyDirt-Stone_Blueprint.label>粗糙石面 （蓝图）</RockyDirt-Stone_Blueprint.label>
+  <RockyDirt-Stone_Frame.label>粗糙石面 （建造中）</RockyDirt-Stone_Frame.label>
+  <RockyDirt-Stone_Frame.description>↑ 石砾\n\n↓ 粗糙石面</RockyDirt-Stone_Frame.description>
 
-  <MarginalSoil-Soil.label>边角土地转普通土地</MarginalSoil-Soil.label>
-  <MarginalSoil-Soil.description>放置于： 边角土地\n取得： 土地</MarginalSoil-Soil.description>
-  <MarginalSoil-Soil_Blueprint.label>边角土地转普通土地 （蓝图）</MarginalSoil-Soil_Blueprint.label>
-  <MarginalSoil-Soil_Frame.label>边角土地转普通土地 （建造中）</MarginalSoil-Soil_Frame.label>
-  <MarginalSoil-Soil_Frame.description>放置于： 边角土地\n取得： 土地</MarginalSoil-Soil_Frame.description>
+  <RockyDirt-Sand.label>沙</RockyDirt-Sand.label>
+  <RockyDirt-Sand.description>↑ 石砾\n\n↓ 沙</RockyDirt-Sand.description>
+  <RockyDirt-Sand_Blueprint.label>沙（蓝图）</RockyDirt-Sand_Blueprint.label>
+  <RockyDirt-Sand_Frame.label>沙（建造中）</RockyDirt-Sand_Frame.label>
+  <RockyDirt-Sand_Frame.description>↑ 石砾\n\n↓ 沙</RockyDirt-Sand_Frame.description>
 
-  <LichenCoveredDirt-Soil.label>苔藓地转普通土地</LichenCoveredDirt-Soil.label>
-  <LichenCoveredDirt-Soil.description>放置于： 苔藓地\n取得： 土地</LichenCoveredDirt-Soil.description>
-  <LichenCoveredDirt-Soil_Blueprint.label>苔藓地转普通土地 （蓝图）</LichenCoveredDirt-Soil_Blueprint.label>
-  <LichenCoveredDirt-Soil_Frame.label>苔藓地转普通土地 （建造中）</LichenCoveredDirt-Soil_Frame.label>
-  <LichenCoveredDirt-Soil_Frame.description>放置于： 苔藓地\n取得： 土地</LichenCoveredDirt-Soil_Frame.description>
-
-
-  <!-- end AL -->
-
-  <RockyDirt-Stone.label>石砾转粗糙石面</RockyDirt-Stone.label>
-  <RockyDirt-Stone.description>放置于： 石砾\n取得： 粗糙石面</RockyDirt-Stone.description>
-  <RockyDirt-Stone_Blueprint.label>石砾转粗糙石面 （蓝图）</RockyDirt-Stone_Blueprint.label>
-  <RockyDirt-Stone_Frame.label>石砾转粗糙石面 （建造中）</RockyDirt-Stone_Frame.label>
-  <RockyDirt-Stone_Frame.description>放置于： 石砾\n取得： 粗糙石面</RockyDirt-Stone_Frame.description>
-
-  <Stone-RockyDirt.label>石地面转石砾</Stone-RockyDirt.label>
-  <Stone-RockyDirt.description>放置于： 粗糙或打磨石面 \n取得： 石砾\n收集物：碎石 (有几率)</Stone-RockyDirt.description>
-  <Stone-RockyDirt_Blueprint.label>石地面转石砾 （蓝图）</Stone-RockyDirt_Blueprint.label>
-  <Stone-RockyDirt_Frame.label>石地面转石砾 （建造中）</Stone-RockyDirt_Frame.label>
-  <Stone-RockyDirt_Frame.description>放置于： 粗糙或打磨石面 \n取得： 石砾\n收集物：碎石 (有几率)</Stone-RockyDirt_Frame.description>
-
-  <Sand-RockyDirt.label>沙地转石砾</Sand-RockyDirt.label>
-  <Sand-RockyDirt.description>放置于： 沙地\n取得： 石砾\n收集物：一堆沙</Sand-RockyDirt.description>
-  <Sand-RockyDirt_Blueprint.label>沙地转石砾 （蓝图）</Sand-RockyDirt_Blueprint.label>
-  <Sand-RockyDirt_Frame.label>沙地转石砾 （建造中）</Sand-RockyDirt_Frame.label>
-  <Sand-RockyDirt_Frame.description>放置于： 沙地\n取得： 石砾\n收集物：一堆沙</Sand-RockyDirt_Frame.description>
-
-  <Gravel-RockyDirt.label>砂砾转石砾</Gravel-RockyDirt.label>
-  <Gravel-RockyDirt.description>放置于： 砂砾\n取得： 石砾\n收集物：碎石和一堆土</Gravel-RockyDirt.description>
-  <Gravel-RockyDirt_Blueprint.label>砂砾转石砾 （蓝图）</Gravel-RockyDirt_Blueprint.label>
-  <Gravel-RockyDirt_Frame.label>砂砾转石砾 （建造中）</Gravel-RockyDirt_Frame.label>
-  <Gravel-RockyDirt_Frame.description>放置于： 砂砾\n取得： 石砾\n收集物：碎石和一堆土</Gravel-RockyDirt_Frame.description>
-
-  <SoilF-RockyDirt.label>土地转石砾</SoilF-RockyDirt.label>
-  <SoilF-RockyDirt.description>放置于： 肥沃土地\n取得： 石砾\n收集物：三堆土</SoilF-RockyDirt.description>
-  <SoilF-RockyDirt_Blueprint.label>土地转石砾 （蓝图）</SoilF-RockyDirt_Blueprint.label>
-  <SoilF-RockyDirt_Frame.label>土地转石砾 （建造中）</SoilF-RockyDirt_Frame.label>
-  <SoilF-RockyDirt_Frame.description>放置于： 肥沃土地\n取得： 石砾\n收集物：三堆土</SoilF-RockyDirt_Frame.description>
-
-  <SoilMarshy-RockyDirt.label>泥沼地转石砾</SoilMarshy-RockyDirt.label>
-  <SoilMarshy-RockyDirt.description>放置于： 泥沼地\n取得： 石砾\n收集物：两堆土</SoilMarshy-RockyDirt.description>
-  <SoilMarshy-RockyDirt_Blueprint.label>泥沼地转石砾 （蓝图）</SoilMarshy-RockyDirt_Blueprint.label>
-  <SoilMarshy-RockyDirt_Frame.label>泥沼地转石砾 （建造中）</SoilMarshy-RockyDirt_Frame.label>
-  <SoilMarshy-RockyDirt_Frame.description>放置于： 泥沼地\n取得： 石砾\n收集物：两堆土</SoilMarshy-RockyDirt_Frame.description>
-
-  <RockyDirt-Sand.label>石砾转沙地</RockyDirt-Sand.label>
-  <RockyDirt-Sand.description>放置于： 石砾\n取得： 沙地</RockyDirt-Sand.description>
-  <RockyDirt-Sand_Blueprint.label>石砾转沙地 （蓝图）</RockyDirt-Sand_Blueprint.label>
-  <RockyDirt-Sand_Frame.label>石砾转沙地 （建造中）</RockyDirt-Sand_Frame.label>
-  <RockyDirt-Sand_Frame.description>放置于： 石砾\n取得： 沙地</RockyDirt-Sand_Frame.description>
-
-  <Gravel-Sand.label>砂砾转沙地</Gravel-Sand.label>
-  <Gravel-Sand.description>放置于： 砂砾\n取得： 沙地\n收集物：碎石</Gravel-Sand.description>
-  <Gravel-Sand_Blueprint.label>砂砾转沙地 （蓝图）</Gravel-Sand_Blueprint.label>
-  <Gravel-Sand_Frame.label>砂砾转沙地 （建造中）</Gravel-Sand_Frame.label>
-  <Gravel-Sand_Frame.description>放置于： 砂砾\n取得： 沙地\n收集物：碎石</Gravel-Sand_Frame.description>
-
-  <SoilF-Sand.label>土地转沙地</SoilF-Sand.label>
-  <SoilF-Sand.description>放置于： 肥沃土地\n取得： 沙地\n收集物：两堆土</SoilF-Sand.description>
-  <SoilF-Sand_Blueprint.label>土地转沙地 （蓝图）</SoilF-Sand_Blueprint.label>
-  <SoilF-Sand_Frame.label>土地转沙地 （建造中）</SoilF-Sand_Frame.label>
-  <SoilF-Sand_Frame.description>放置于： 肥沃土地\n取得： 沙地\n收集物：两堆土</SoilF-Sand_Frame.description>
-
-  <WaterShallow-Sand.label>浅水转沙地</WaterShallow-Sand.label>
-  <WaterShallow-Sand.description>放置于： 浅水\n取得： 沙地</WaterShallow-Sand.description>
-  <WaterShallow-Sand_Blueprint.label>浅水转沙地 （蓝图）</WaterShallow-Sand_Blueprint.label>
-  <WaterShallow-Sand_Frame.label>浅水转沙地 （建造中）</WaterShallow-Sand_Frame.label>
-  <WaterShallow-Sand_Frame.description>放置于： 浅水\n取得： 沙地</WaterShallow-Sand_Frame.description>
-
-  <RockyDirt-Gravel.label>石砾转砂砾</RockyDirt-Gravel.label>
-  <RockyDirt-Gravel.description>放置于： 石砾\n取得： 砂砾</RockyDirt-Gravel.description>
-  <RockyDirt-Gravel_Blueprint.label>石砾转砂砾 （蓝图）</RockyDirt-Gravel_Blueprint.label>
-  <RockyDirt-Gravel_Frame.label>石砾转砂砾 （建造中）</RockyDirt-Gravel_Frame.label>
-  <RockyDirt-Gravel_Frame.description>放置于： 石砾\n取得： 砂砾</RockyDirt-Gravel_Frame.description>
-
-  <Sand-Gravel.label>沙地转砂砾</Sand-Gravel.label>
-  <Sand-Gravel.description>放置于： 沙地\n取得： 砂砾</Sand-Gravel.description>
-  <Sand-Gravel_Blueprint.label>沙地转砂砾 （蓝图）</Sand-Gravel_Blueprint.label>
-  <Sand-Gravel_Frame.label>沙地转砂砾 （建造中）</Sand-Gravel_Frame.label>
-  <Sand-Gravel_Frame.description>放置于： 沙地\n取得： 砂砾</Sand-Gravel_Frame.description>
-
-  <SoilF-Gravel.label>土地转砂砾</SoilF-Gravel.label>
-  <SoilF-Gravel.description>放置于： 肥沃土地\n取得： 砂砾\n收集物：一堆土</SoilF-Gravel.description>
-  <SoilF-Gravel_Blueprint.label>土地转砂砾 （蓝图）</SoilF-Gravel_Blueprint.label>
-  <SoilF-Gravel_Frame.label>土地转砂砾 （建造中）</SoilF-Gravel_Frame.label>
-  <SoilF-Gravel_Frame.description>放置于： 肥沃土地\n取得： 砂砾\n收集物：一堆土</SoilF-Gravel_Frame.description>
-
-  <SoilF-PackedDirt.label>土地转压实泥土</SoilF-PackedDirt.label>
-  <SoilF-PackedDirt.description>放置于： 土地\n取得： 压实泥土</SoilF-PackedDirt.description>
-  <SoilF-PackedDirt_Blueprint.label>土地转压实泥土 （蓝图）</SoilF-PackedDirt_Blueprint.label>
-  <SoilF-PackedDirt_Frame.label>土地转压实泥土 （建造中）</SoilF-PackedDirt_Frame.label>
-  <SoilF-PackedDirt_Frame.description>放置于： 土地\n取得： 压实泥土</SoilF-PackedDirt_Frame.description>
-
-  <Sand-SoilF.label>沙地转土地</Sand-SoilF.label>
-  <Sand-SoilF.description>放置于： 沙地\n取得： 土地</Sand-SoilF.description>
-  <Sand-SoilF_Blueprint.label>沙地转土地 （蓝图）</Sand-SoilF_Blueprint.label>
-  <Sand-SoilF_Frame.label>沙地转土地 （建造中）</Sand-SoilF_Frame.label>
-  <Sand-SoilF_Frame.description>放置于： 沙地\n取得： 土地</Sand-SoilF_Frame.description>
-
-  <Gravel-SoilF.label>砂砾转土地</Gravel-SoilF.label>
-  <Gravel-SoilF.description>放置于： 砂砾\n取得： 土地</Gravel-SoilF.description>
-  <Gravel-SoilF_Blueprint.label>砂砾转土地 （蓝图）</Gravel-SoilF_Blueprint.label>
-  <Gravel-SoilF_Frame.label>砂砾转土地 （建造中）</Gravel-SoilF_Frame.label>
-  <Gravel-SoilF_Frame.description>放置于： 砂砾\n取得： 土地</Gravel-SoilF_Frame.description>
-
-  <PackedDirt-SoilF.label>压实泥土转土地</PackedDirt-SoilF.label>
-  <PackedDirt-SoilF.description>放置于： 压实泥土\n取得： 土地</PackedDirt-SoilF.description>
-  <PackedDirt-SoilF_Blueprint.label>压实泥土转土地 （蓝图）</PackedDirt-SoilF_Blueprint.label>
-  <PackedDirt-SoilF_Frame.label>压实泥土转土地 （建造中）</PackedDirt-SoilF_Frame.label>
-  <PackedDirt-SoilF_Frame.description>放置于： 压实泥土\n取得： 土地</PackedDirt-SoilF_Frame.description>
-
-  <SoilMarshy-SoilF.label>泥沼地转土地</SoilMarshy-SoilF.label>
-  <SoilMarshy-SoilF.description>放置于： 泥沼地\n取得： 土地</SoilMarshy-SoilF.description>
-  <SoilMarshy-SoilF_Blueprint.label>泥沼地转土地 （蓝图）</SoilMarshy-SoilF_Blueprint.label>
-  <SoilMarshy-SoilF_Frame.label>泥沼地转土地 （建造中）</SoilMarshy-SoilF_Frame.label>
-  <SoilMarshy-SoilF_Frame.description>放置于： 泥沼地\n取得： 土地</SoilMarshy-SoilF_Frame.description>
-
-  <Marsh-SoilMarshy.label>沼泽转泥沼地</Marsh-SoilMarshy.label>
-  <Marsh-SoilMarshy.description>放置于： 沼泽或泥地\n取得： 泥沼地</Marsh-SoilMarshy.description>
-  <Marsh-SoilMarshy_Blueprint.label>沼泽转泥沼地 （蓝图）</Marsh-SoilMarshy_Blueprint.label>
-  <Marsh-SoilMarshy_Frame.label>沼泽转泥沼地 （建造中）</Marsh-SoilMarshy_Frame.label>
-  <Marsh-SoilMarshy_Frame.description>放置于： 沼泽或泥地\n取得： 泥沼地</Marsh-SoilMarshy_Frame.description>
-
-  <SoilF-Marsh.label>土地转沼泽</SoilF-Marsh.label>
-  <SoilF-Marsh.description>放置于： 土地\n取得： 沼泽\n收集物：两堆土</SoilF-Marsh.description>
-  <SoilF-Marsh_Blueprint.label>土地转沼泽 （蓝图）</SoilF-Marsh_Blueprint.label>
-  <SoilF-Marsh_Frame.label>土地转沼泽 （建造中）</SoilF-Marsh_Frame.label>
-  <SoilF-Marsh_Frame.description>放置于： 土地\n取得： 沼泽\n收集物：两堆土</SoilF-Marsh_Frame.description>
-
-  <SoilMarshy-Marsh.label>泥沼地转沼泽</SoilMarshy-Marsh.label>
-  <SoilMarshy-Marsh.description>放置于： 泥沼地\n取得： 沼泽\n收集物：一堆土</SoilMarshy-Marsh.description>
-  <SoilMarshy-Marsh_Blueprint.label>泥沼地转沼泽 （蓝图）</SoilMarshy-Marsh_Blueprint.label>
-  <SoilMarshy-Marsh_Frame.label>泥沼地转沼泽 （建造中）</SoilMarshy-Marsh_Frame.label>
-  <SoilMarshy-Marsh_Frame.description>放置于： 泥沼地\n取得： 沼泽\n收集物：一堆土</SoilMarshy-Marsh_Frame.description>
-
-  <WaterShallow-Marsh.label>浅水转沼泽</WaterShallow-Marsh.label>
-  <WaterShallow-Marsh.description>放置于： 浅水\n取得： 沼泽</WaterShallow-Marsh.description>
-  <WaterShallow-Marsh_Blueprint.label>浅水转沼泽 （蓝图）</WaterShallow-Marsh_Blueprint.label>
-  <WaterShallow-Marsh_Frame.label>浅水转沼泽 （建造中）</WaterShallow-Marsh_Frame.label>
-  <WaterShallow-Marsh_Frame.description>放置于： 浅水\n取得： 沼泽</WaterShallow-Marsh_Frame.description>
-
-  <Sand-WaterShallow.label>沙地转浅水</Sand-WaterShallow.label>
-  <Sand-WaterShallow.description>放置于： 沙地 (靠近水边)\n取得： 浅水\n收集物：五堆沙</Sand-WaterShallow.description>
-  <Sand-WaterShallow_Blueprint.label>沙地转浅水 （蓝图）</Sand-WaterShallow_Blueprint.label>
-  <Sand-WaterShallow_Frame.label>沙地转浅水 （建造中）</Sand-WaterShallow_Frame.label>
-  <Sand-WaterShallow_Frame.description>放置于： 沙地 (靠近水边)\n取得： 浅水\n收集物：五堆沙</Sand-WaterShallow_Frame.description>
-
-  <Marsh-WaterShallow.label>沼泽转浅水</Marsh-WaterShallow.label>
-  <Marsh-WaterShallow.description>放置于： 浅水\n取得： 沼泽</Marsh-WaterShallow.description>
-  <Marsh-WaterShallow_Blueprint.label>沼泽转浅水 （蓝图）</Marsh-WaterShallow_Blueprint.label>
-  <Marsh-WaterShallow_Frame.label>沼泽转浅水 （建造中）</Marsh-WaterShallow_Frame.label>
-  <Marsh-WaterShallow_Frame.description>放置于： 浅水\n取得： 沼泽</Marsh-WaterShallow_Frame.description>
-
-  <WaterDeep-WaterShallow.label>深水转浅水</WaterDeep-WaterShallow.label>
-  <WaterDeep-WaterShallow.description>放置于： 深水\n取得： 浅水</WaterDeep-WaterShallow.description>
-  <WaterDeep-WaterShallow_Blueprint.label>深水转浅水 （蓝图）</WaterDeep-WaterShallow_Blueprint.label>
-  <WaterDeep-WaterShallow_Frame.label>深水转浅水 （建造中）</WaterDeep-WaterShallow_Frame.label>
-  <WaterDeep-WaterShallow_Frame.description>放置于： 深水\n取得： 浅水</WaterDeep-WaterShallow_Frame.description>
-
-  <Ice-WaterShallow.label>冰面转浅水</Ice-WaterShallow.label>
-  <Ice-WaterShallow.description>放置于： 冰面\n取得： 浅水</Ice-WaterShallow.description>
-  <Ice-WaterShallow_Blueprint.label>冰面转浅水 （蓝图）</Ice-WaterShallow_Blueprint.label>
-  <Ice-WaterShallow_Frame.label>冰面转浅水 （建造中）</Ice-WaterShallow_Frame.label>
-  <Ice-WaterShallow_Frame.description>放置于： 冰面\n取得： 浅水</Ice-WaterShallow_Frame.description>
-
-  <WaterShallow-WaterDeep.label>浅水转深水</WaterShallow-WaterDeep.label>
-  <WaterShallow-WaterDeep.description>放置于： 浅水\n取得： 深水\n收集物：十堆土\n\n注意: 放置在不可逾越的地形上时，有可能导致游戏错误。请谨慎使用！</WaterShallow-WaterDeep.description>
-  <WaterShallow-WaterDeep_Blueprint.label>浅水转深水 （蓝图）</WaterShallow-WaterDeep_Blueprint.label>
-  <WaterShallow-WaterDeep_Frame.label>浅水转深水 （建造中）</WaterShallow-WaterDeep_Frame.label>
-  <WaterShallow-WaterDeep_Frame.description>放置于： 浅水\n取得： 深水\n收集物：十堆土\n\n注意: 放置在不可逾越的地形上时，有可能导致游戏错误。请谨慎使用！</WaterShallow-WaterDeep_Frame.description>
+  <RockyDirt-Gravel.label>石砾</RockyDirt-Gravel.label>
+  <RockyDirt-Gravel.description>↑ 石砾\n\n↓ 砂砾</RockyDirt-Gravel.description>
+  <RockyDirt-Gravel_Blueprint.label>砂砾（蓝图）</RockyDirt-Gravel_Blueprint.label>
+  <RockyDirt-Gravel_Frame.label>砂砾（建造中）</RockyDirt-Gravel_Frame.label>
+  <RockyDirt-Gravel_Frame.description>↑ 石砾\n\n↓ 砂砾</RockyDirt-Gravel_Frame.description>
 
 
-  <!-- Farming -->
+  <!-- –––––––––––––––––––––––––––––––––   沙  ––––––––––––––––––––––––––––––––– -->
 
-  <Stone-Topsoil.label>表土</Stone-Topsoil.label>
-  <Stone-Topsoil.description>放置于： 打磨过的石面\n取得： 表土\n\n注意: 可用“移除地板”命令处理</Stone-Topsoil.description>
-  <Stone-Topsoil_Blueprint.label>表土 （蓝图）</Stone-Topsoil_Blueprint.label>
-  <Stone-Topsoil_Frame.label>表土 （建造中）</Stone-Topsoil_Frame.label>
-  <Stone-Topsoil_Frame.description>放置于： 打磨过的石面\n取得： 表土\n\n注意: 可用“移除地板”命令处理</Stone-Topsoil_Frame.description>
+  <Sand-RockyDirt.label>石砾</Sand-RockyDirt.label>
+  <Sand-RockyDirt.description>↑ 沙\n↑ 细沙\n\n↓ 石砾\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 40 沙</Sand-RockyDirt.description>
+  <Sand-RockyDirt_Blueprint.label>石砾 （蓝图）</Sand-RockyDirt_Blueprint.label>
+  <Sand-RockyDirt_Frame.label>石砾 （建造中）</Sand-RockyDirt_Frame.label>
+  <Sand-RockyDirt_Frame.description>↑ 沙\n↑ 细沙\n\n↓ 石砾\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 40 沙</Sand-RockyDirt_Frame.description>
+
+  <Sand-Gravel.label>砂砾</Sand-Gravel.label>
+  <Sand-Gravel.description>↑ 沙\n\n↓ 砂砾</Sand-Gravel.description>
+  <Sand-Gravel_Blueprint.label>砂砾（蓝图）</Sand-Gravel_Blueprint.label>
+  <Sand-Gravel_Frame.label>砂砾（建造中）</Sand-Gravel_Frame.label>
+  <Sand-Gravel_Frame.description>↑ 沙\n\n↓ 砂砾</Sand-Gravel_Frame.description>
+
+  <Sand-SoilF.label>土地</Sand-SoilF.label>
+  <Sand-SoilF.description>↑ 沙\n\n↓ 土地</Sand-SoilF.description>
+  <Sand-SoilF_Blueprint.label>土地（蓝图）</Sand-SoilF_Blueprint.label>
+  <Sand-SoilF_Frame.label>土地（建造中）</Sand-SoilF_Frame.label>
+  <Sand-SoilF_Frame.description>↑ 沙\n\n↓ 土地</Sand-SoilF_Frame.description>
+
+  <Sand-WaterShallow.label>浅水</Sand-WaterShallow.label>
+  <Sand-WaterShallow.description>↑ 沙（近水）\n\n↓ 浅水\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 20 黏土\n  ▪ 80 沙</Sand-WaterShallow.description>
+  <Sand-WaterShallow_Blueprint.label>浅水（蓝图）</Sand-WaterShallow_Blueprint.label>
+  <Sand-WaterShallow_Frame.label>浅水（建造中）</Sand-WaterShallow_Frame.label>
+  <Sand-WaterShallow_Frame.description>↑ 沙（近水）\n\n↓ 浅水\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 20 黏土\n  ▪ 80 沙</Sand-WaterShallow_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   砂砾   ––––––––––––––––––––––––––––––––– -->
+
+  <Gravel-RockyDirt.label>石砾</Gravel-RockyDirt.label>
+  <Gravel-RockyDirt.description>↑ 砂砾 \n\n↓ 石砾\n\n  ▪ 30 碎石\n  ▪ 8 泥土\n  ▪ 8 沙</Gravel-RockyDirt.description>
+  <Gravel-RockyDirt_Blueprint.label>石砾 （蓝图）</Gravel-RockyDirt_Blueprint.label>
+  <Gravel-RockyDirt_Frame.label>石砾 （建造中）</Gravel-RockyDirt_Frame.label>
+  <Gravel-RockyDirt_Frame.description>↑ 砂砾 \n\n↓ 石砾\n\n  ▪ 30 碎石\n  ▪ 8 泥土\n  ▪ 8 沙</Gravel-RockyDirt_Frame.description>
+
+  <Gravel-Sand.label>沙</Gravel-Sand.label>
+  <Gravel-Sand.description>↑ 砂砾 \n\n↓ 沙\n\n  ▪ 50 碎石\n  ▪ 10 泥土</Gravel-Sand.description>
+  <Gravel-Sand_Blueprint.label>沙（蓝图）</Gravel-Sand_Blueprint.label>
+  <Gravel-Sand_Frame.label>沙（建造中）</Gravel-Sand_Frame.label>
+  <Gravel-Sand_Frame.description>↑ 砂砾 \n\n↓ 沙\n\n  ▪ 50 碎石\n  ▪ 10 泥土</Gravel-Sand_Frame.description>
+
+  <Gravel-SoilF.label>土地</Gravel-SoilF.label>
+  <Gravel-SoilF.description>↑ 砂砾\n\n↓ 土地</Gravel-SoilF.description>
+  <Gravel-SoilF_Blueprint.label>土地（蓝图）</Gravel-SoilF_Blueprint.label>
+  <Gravel-SoilF_Frame.label>土地（建造中）</Gravel-SoilF_Frame.label>
+  <Gravel-SoilF_Frame.description>↑ 砂砾\n\n↓ 土地</Gravel-SoilF_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   土地  ––––––––––––––––––––––––––––––––– -->
+
+  <SoilF-RockyDirt.label>石砾</SoilF-RockyDirt.label>
+  <SoilF-RockyDirt.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 贫瘠土地 \n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 45 泥土\n  ▪ 10 黏土\n  ▪ 5 泥炭\n  ▪ 15 沙\n  ▪ 2 肥料</SoilF-RockyDirt.description>
+  <SoilF-RockyDirt_Blueprint.label>石砾 （蓝图）</SoilF-RockyDirt_Blueprint.label>
+  <SoilF-RockyDirt_Frame.label>石砾 （建造中）</SoilF-RockyDirt_Frame.label>
+  <SoilF-RockyDirt_Frame.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 贫瘠土地 \n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 45 泥土\n  ▪ 10 黏土\n  ▪ 5 泥炭\n  ▪ 15 沙\n  ▪ 2 肥料</SoilF-RockyDirt_Frame.description>
+
+  <SoilF-Sand.label>沙</SoilF-Sand.label>
+  <SoilF-Sand.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 沙化土 \n↑ 贫瘠土地 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 50 泥土\n  ▪ 20 黏土\n  ▪ 15 泥炭\n  ▪ 4 肥料</SoilF-Sand.description>
+  <SoilF-Sand_Blueprint.label>沙（蓝图）</SoilF-Sand_Blueprint.label>
+  <SoilF-Sand_Frame.label>沙（建造中）</SoilF-Sand_Frame.label>
+  <SoilF-Sand_Frame.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 沙化土 \n↑ 贫瘠土地 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 50 泥土\n  ▪ 20 黏土\n  ▪ 15 泥炭\n  ▪ 4 肥料</SoilF-Sand_Frame.description>
+
+  <SoilF-Gravel.label>砂砾</SoilF-Gravel.label>
+  <SoilF-Gravel.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 30 泥土\n  ▪ 20 黏土\n  ▪ 5 泥炭\n  ▪ 10 沙</SoilF-Gravel.description>
+  <SoilF-Gravel_Blueprint.label>砂砾（蓝图）</SoilF-Gravel_Blueprint.label>
+  <SoilF-Gravel_Frame.label>砂砾（建造中）</SoilF-Gravel_Frame.label>
+  <SoilF-Gravel_Frame.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 30 泥土\n  ▪ 20 黏土\n  ▪ 5 泥炭\n  ▪ 10 沙</SoilF-Gravel_Frame.description>
+
+  <SoilF-Marsh.label>湿软土地</SoilF-Marsh.label>
+  <SoilF-Marsh.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 湿软土地\n\n  ▪ 10 碎石\n  ▪ 30 泥土\n  ▪ 30 黏土\n  ▪ 5 泥炭\n  ▪ 20 沙\n  ▪ 2 肥料</SoilF-Marsh.description>
+  <SoilF-Marsh_Blueprint.label>湿软土地（蓝图）</SoilF-Marsh_Blueprint.label>
+  <SoilF-Marsh_Frame.label>湿软土地（建造中）</SoilF-Marsh_Frame.label>
+  <SoilF-Marsh_Frame.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 湿软土地\n\n  ▪ 10 碎石\n  ▪ 30 泥土\n  ▪ 30 黏土\n  ▪ 5 泥炭\n  ▪ 20 沙\n  ▪ 2 肥料</SoilF-Marsh_Frame.description>
+
+  <SoilF-PackedDirt.label>压实泥土</SoilF-PackedDirt.label>
+  <SoilF-PackedDirt.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 苔藓地\n\n↓ 压实泥土</SoilF-PackedDirt.description>
+  <SoilF-PackedDirt_Blueprint.label>压实泥土（蓝图）</SoilF-PackedDirt_Blueprint.label>
+  <SoilF-PackedDirt_Frame.label>压实泥土（建造中）</SoilF-PackedDirt_Frame.label>
+  <SoilF-PackedDirt_Frame.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 苔藓地\n\n↓ 压实泥土</SoilF-PackedDirt_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   浅水   ––––––––––––––––––––––––––––––––– -->
+
+  <WaterShallow-Sand.label>沙</WaterShallow-Sand.label>
+  <WaterShallow-Sand.description>↑ 浅水\n\n↓ 沙</WaterShallow-Sand.description>
+  <WaterShallow-Sand_Blueprint.label>沙（蓝图）</WaterShallow-Sand_Blueprint.label>
+  <WaterShallow-Sand_Frame.label>沙（建造中）</WaterShallow-Sand_Frame.label>
+  <WaterShallow-Sand_Frame.description>↑ 浅水\n\n↓ 沙</WaterShallow-Sand_Frame.description>
+
+  <WaterShallow-Marsh.label>沼泽</WaterShallow-Marsh.label>
+  <WaterShallow-Marsh.description>↑ 浅水\n\n↓ 沼泽</WaterShallow-Marsh.description>
+  <WaterShallow-Marsh_Blueprint.label>沼泽（蓝图）</WaterShallow-Marsh_Blueprint.label>
+  <WaterShallow-Marsh_Frame.label>沼泽（建造中）</WaterShallow-Marsh_Frame.label>
+  <WaterShallow-Marsh_Frame.description>↑ 浅水\n\n↓ 沼泽</WaterShallow-Marsh_Frame.description>
+
+  <WaterShallow-WaterDeep.label>深水</WaterShallow-WaterDeep.label>
+  <WaterShallow-WaterDeep.description>↑ 浅水\n\n↓ 深水\n\n  ▪ 5 碎石\n  ▪ 70 泥土\n  ▪ 70 黏土\n  ▪ 40 泥炭\n  ▪ 120 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！</WaterShallow-WaterDeep.description>
+  <WaterShallow-WaterDeep_Blueprint.label>深水（蓝图）</WaterShallow-WaterDeep_Blueprint.label>
+  <WaterShallow-WaterDeep_Frame.label>深水（建造中）</WaterShallow-WaterDeep_Frame.label>
+  <WaterShallow-WaterDeep_Frame.description>↑ 浅水\n\n↓ 深水\n\n  ▪ 5 碎石\n  ▪ 70 泥土\n  ▪ 70 黏土\n  ▪ 40 泥炭\n  ▪ 120 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！</WaterShallow-WaterDeep_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   湿软土地  ––––––––––––––––––––––––––––––––– -->
+
+  <SoilMarshy-SoilF.label>土地</SoilMarshy-SoilF.label>
+  <SoilMarshy-SoilF.description>↑ 湿软土地\n\n↓ 土地</SoilMarshy-SoilF.description>
+  <SoilMarshy-SoilF_Blueprint.label>土地（蓝图）</SoilMarshy-SoilF_Blueprint.label>
+  <SoilMarshy-SoilF_Frame.label>土地（建造中）</SoilMarshy-SoilF_Frame.label>
+  <SoilMarshy-SoilF_Frame.description>↑ 湿软土地\n\n↓ 土地</SoilMarshy-SoilF_Frame.description>
+
+  <SoilMarshy-RockyDirt.label>石砾</SoilMarshy-RockyDirt.label>
+  <SoilMarshy-RockyDirt.description>↑ 湿软土地\n\n↓ 石砾\n\n  ▪ 15 碎石\n  ▪ 30 泥土\n  ▪ 5 黏土\n  ▪ 5 泥炭\n  ▪ 25 沙\n  ▪ 2 肥料</SoilMarshy-RockyDirt.description>
+  <SoilMarshy-RockyDirt_Blueprint.label>石砾 （蓝图）</SoilMarshy-RockyDirt_Blueprint.label>
+  <SoilMarshy-RockyDirt_Frame.label>石砾 （建造中）</SoilMarshy-RockyDirt_Frame.label>
+  <SoilMarshy-RockyDirt_Frame.description>↑ 湿软土地\n\n↓ 石砾\n\n  ▪ 15 碎石\n  ▪ 30 泥土\n  ▪ 5 黏土\n  ▪ 5 泥炭\n  ▪ 25 沙\n  ▪ 2 肥料</SoilMarshy-RockyDirt_Frame.description>
+
+  <SoilMarshy-Marsh.label>沼泽</SoilMarshy-Marsh.label>
+  <SoilMarshy-Marsh.description>↑ 湿软土地\n\n↓ 沼泽\n\n  ▪ 15 泥土\n  ▪ 20 黏土\n  ▪ 20 泥炭\n  ▪ 5 沙\n  ▪ 4 肥料</SoilMarshy-Marsh.description>
+  <SoilMarshy-Marsh_Blueprint.label>沼泽（蓝图）</SoilMarshy-Marsh_Blueprint.label>
+  <SoilMarshy-Marsh_Frame.label>沼泽（建造中）</SoilMarshy-Marsh_Frame.label>
+  <SoilMarshy-Marsh_Frame.description>↑ 湿软土地\n\n↓ 沼泽\n\n  ▪ 15 泥土\n  ▪ 20 黏土\n  ▪ 20 泥炭\n  ▪ 5 沙\n  ▪ 4 肥料</SoilMarshy-Marsh_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   沼泽  ––––––––––––––––––––––––––––––––– -->
+
+  <Marsh-SoilMarshy.label>湿软土地</Marsh-SoilMarshy.label>
+  <Marsh-SoilMarshy.description>↑ 沼泽\n↑ 泥地\n\n↓ 湿软土地</Marsh-SoilMarshy.description>
+  <Marsh-SoilMarshy_Blueprint.label>湿软土地（蓝图）</Marsh-SoilMarshy_Blueprint.label>
+  <Marsh-SoilMarshy_Frame.label>湿软土地（建造中）</Marsh-SoilMarshy_Frame.label>
+  <Marsh-SoilMarshy_Frame.description>↑ 沼泽\n↑ 泥地\n\n↓ 湿软土地</Marsh-SoilMarshy_Frame.description>
+
+  <Marsh-WaterShallow.label>浅水</Marsh-WaterShallow.label>
+  <Marsh-WaterShallow.description>↑ 浅水\n\n↓ 沼泽\n\n  ▪ 20 碎石\n  ▪ 20 泥土\n  ▪ 10 黏土\n  ▪ 15 泥炭\n  ▪ 10 沙\n  ▪ 4 肥料</Marsh-WaterShallow.description>
+  <Marsh-WaterShallow_Blueprint.label>浅水（蓝图）</Marsh-WaterShallow_Blueprint.label>
+  <Marsh-WaterShallow_Frame.label>浅水（建造中）</Marsh-WaterShallow_Frame.label>
+  <Marsh-WaterShallow_Frame.description>↑ 浅水\n\n↓ 沼泽\n\n  ▪ 20 碎石\n  ▪ 20 泥土\n  ▪ 10 黏土\n  ▪ 15 泥炭\n  ▪ 10 沙\n  ▪ 4 肥料</Marsh-WaterShallow_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Cultivation   ––––––––––––––––––––––––––––––––– -->
+
+  <PoorSoil-MarginalSoil.label>贫瘠土地 ► 边角土地</PoorSoil-MarginalSoil.label>
+  <PoorSoil-MarginalSoil.description>↑ 贫瘠土地\n\n↓ 边角土地</PoorSoil-MarginalSoil.description>
+  <PoorSoil-MarginalSoil_Blueprint.label>贫瘠土地 ► 边角土地（蓝图）</PoorSoil-MarginalSoil_Blueprint.label>
+  <PoorSoil-MarginalSoil_Frame.label>贫瘠土地 ► 边角土地（建造中）</PoorSoil-MarginalSoil_Frame.label>
+  <PoorSoil-MarginalSoil_Frame.description>↑ 贫瘠土地\n\n↓ 边角土地</PoorSoil-MarginalSoil_Frame.description>
+
+  <MarginalSoil-Soil.label>边角土地 ► 土地</MarginalSoil-Soil.label>
+  <MarginalSoil-Soil.description>↑ 边角土地\n↑ 草原土地\n↑ 回填土地\n\n↓ 土地</MarginalSoil-Soil.description>
+  <MarginalSoil-Soil_Blueprint.label>边角土地 ► 土地（蓝图）</MarginalSoil-Soil_Blueprint.label>
+  <MarginalSoil-Soil_Frame.label>边角土地 ► 土地（建造中）</MarginalSoil-Soil_Frame.label>
+  <MarginalSoil-Soil_Frame.description>↑ 边角土地\n↑ 草原土地\n↑ 回填土地\n\n↓ 土地</MarginalSoil-Soil_Frame.description>
+
+  <LichenCoveredDirt-Soil.label>苔藓地 ► 土地</LichenCoveredDirt-Soil.label>
+  <LichenCoveredDirt-Soil.description>↑ 苔藓地\n\n↓ 土地</LichenCoveredDirt-Soil.description>
+  <LichenCoveredDirt-Soil_Blueprint.label>苔藓地 ► 土地（蓝图）</LichenCoveredDirt-Soil_Blueprint.label>
+  <LichenCoveredDirt-Soil_Frame.label>苔藓地 ► 土地（建造中）</LichenCoveredDirt-Soil_Frame.label>
+  <LichenCoveredDirt-Soil_Frame.description>↑ 苔藓地\n\n↓ 土地</LichenCoveredDirt-Soil_Frame.description>
+
+  <PackedDirt-SoilF.label>压实泥土 ► 土地</PackedDirt-SoilF.label>
+  <PackedDirt-SoilF.description>↑ 压实泥土\n\n↓ 土地</PackedDirt-SoilF.description>
+  <PackedDirt-SoilF_Blueprint.label>压实泥土 ► 土地（蓝图）</PackedDirt-SoilF_Blueprint.label>
+  <PackedDirt-SoilF_Frame.label>压实泥土 ► 土地（建造中）</PackedDirt-SoilF_Frame.label>
+  <PackedDirt-SoilF_Frame.description>↑ 压实泥土\n\n↓ 土地</PackedDirt-SoilF_Frame.description>
+
+  <Stone-Topsoil.label>石面 ► 表土</Stone-Topsoil.label>
+  <Stone-Topsoil.description>↑ 光滑石面\n\n↓ 表土\n\n► 表土can be removed with the "Remove Floor" tool.</Stone-Topsoil.description>
+  <Stone-Topsoil_Blueprint.label>石面 ► 表土（蓝图）</Stone-Topsoil_Blueprint.label>
+  <Stone-Topsoil_Frame.label>石面 ► 表土（建造中）</Stone-Topsoil_Frame.label>
+  <Stone-Topsoil_Frame.description>↑ 光滑石面\n\n↓ 表土\n\n► 表土can be removed with the "Remove Floor" tool.</Stone-Topsoil_Frame.description>
 
   <Topsoil-DirtFert.label>肥化表土</Topsoil-DirtFert.label>
-  <Topsoil-DirtFert.description>放置于： 表土\n取得： 肥化表土\n\n注意: 可用“移除地板”命令处理</Topsoil-DirtFert.description>
-  <Topsoil-DirtFert_Blueprint.label>肥化表土 （蓝图）</Topsoil-DirtFert_Blueprint.label>
-  <Topsoil-DirtFert_Frame.label>肥化表土 （建造中）</Topsoil-DirtFert_Frame.label>
-  <Topsoil-DirtFert_Frame.description>放置于： 表土\n取得： 肥化表土\n\n注意: 可用“移除地板”命令处理</Topsoil-DirtFert_Frame.description>
+  <Topsoil-DirtFert.description>↑ 表土\n\n↓ 肥化表土\n\n► 肥化表土可以用“移除地板”命令清除。</Topsoil-DirtFert.description>
+  <Topsoil-DirtFert_Blueprint.label>肥化表土（蓝图）</Topsoil-DirtFert_Blueprint.label>
+  <Topsoil-DirtFert_Frame.label>肥化表土（建造中）</Topsoil-DirtFert_Frame.label>
+  <Topsoil-DirtFert_Frame.description>↑ 表土\n\n↓ 肥化表土\n\n► 肥化表土可以用“移除地板”命令清除。</Topsoil-DirtFert_Frame.description>
 
-  <SoilF-SoilRich.label>土地转肥沃土地</SoilF-SoilRich.label>
-  <SoilF-SoilRich.description>放置于： 土地或苔藓地\n取得： 肥沃土地</SoilF-SoilRich.description>
-  <SoilF-SoilRich_Blueprint.label>土地转肥沃土地 （蓝图）</SoilF-SoilRich_Blueprint.label>
-  <SoilF-SoilRich_Frame.label>土地转肥沃土地 （建造中）</SoilF-SoilRich_Frame.label>
-  <SoilF-SoilRich_Frame.description>放置于： 土地或苔藓地\n取得： 肥沃土地</SoilF-SoilRich_Frame.description>
+  <SoilF-SoilRich.label>肥沃土地</SoilF-SoilRich.label>
+  <SoilF-SoilRich.description>↑ 土地\n↑ 苔藓地\n\n↓ 肥沃土地</SoilF-SoilRich.description>
+  <SoilF-SoilRich_Blueprint.label>肥沃土地（蓝图）</SoilF-SoilRich_Blueprint.label>
+  <SoilF-SoilRich_Frame.label>肥沃土地（建造中）</SoilF-SoilRich_Frame.label>
+  <SoilF-SoilRich_Frame.description>↑ 土地\n↑ 苔藓地\n\n↓ 肥沃土地</SoilF-SoilRich_Frame.description>
 
   <SoilRich-SoilTilled.label>精耕土地</SoilRich-SoilTilled.label>
-  <SoilRich-SoilTilled.description>放置于： 肥沃土地\n取得： 精耕土地\n\n注意: 可用“移除地板”命令处理</SoilRich-SoilTilled.description>
-  <SoilRich-SoilTilled_Blueprint.label>精耕土地 （蓝图）</SoilRich-SoilTilled_Blueprint.label>
-  <SoilRich-SoilTilled_Frame.label>精耕土地 （建造中）</SoilRich-SoilTilled_Frame.label>
-  <SoilRich-SoilTilled_Frame.description>放置于： 肥沃土地\n取得： 精耕土地\n\n注意: 可用“移除地板”命令处理</SoilRich-SoilTilled_Frame.description>
+  <SoilRich-SoilTilled.description>↑ 肥沃土地\n↑ 肥化表土\n\n↓ 精耕土地\n\n► 精耕土地可以用“移除地板”命令清除。</SoilRich-SoilTilled.description>
+  <SoilRich-SoilTilled_Blueprint.label>精耕土地（蓝图）</SoilRich-SoilTilled_Blueprint.label>
+  <SoilRich-SoilTilled_Frame.label>精耕土地（建造中）</SoilRich-SoilTilled_Frame.label>
+  <SoilRich-SoilTilled_Frame.description>↑ 肥沃土地\n↑ 肥化表土\n\n↓ 精耕土地\n\n► 精耕土地可以用“移除地板”命令清除。</SoilRich-SoilTilled_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Misc   ––––––––––––––––––––––––––––––––– -->
+
+  <Stone-RockyDirt.label>石面 ► 石砾</Stone-RockyDirt.label>
+  <Stone-RockyDirt.description>↑ 粗糙或者光滑石面\n\n↓ 石砾\n\n  ▪ 石块（有几率）</Stone-RockyDirt.description>
+  <Stone-RockyDirt_Blueprint.label>石面 ► 石砾 （蓝图）</Stone-RockyDirt_Blueprint.label>
+  <Stone-RockyDirt_Frame.label>石面 ► 石砾 （建造中）</Stone-RockyDirt_Frame.label>
+  <Stone-RockyDirt_Frame.description>↑ 粗糙或者光滑石面\n\n↓ 石砾\n\n  ▪ 石块（有几率）</Stone-RockyDirt_Frame.description>
+
+  <Wasteland-Gravel.label>废土 ► 砂砾</Wasteland-Gravel.label>
+  <Wasteland-Gravel.description>↑ 废土地形\n\n↓ 砂砾</Wasteland-Gravel.description>
+  <Wasteland-Gravel_Blueprint.label>废土 ► 砂砾 （蓝图）</Wasteland-Gravel_Blueprint.label>
+  <Wasteland-Gravel_Frame.label>废土 ► 砂砾 （建造中）</Wasteland-Gravel_Frame.label>
+  <Wasteland-Gravel_Frame.description>↑ 废土地形\n\n↓ 砂砾</Wasteland-Gravel_Frame.description>
+
+  <WaterDeep-WaterShallow.label>深水► 浅水</WaterDeep-WaterShallow.label>
+  <WaterDeep-WaterShallow.description>↑ 深水\n\n↓ 浅水</WaterDeep-WaterShallow.description>
+  <WaterDeep-WaterShallow_Blueprint.label>深水► 浅水 （蓝图）</WaterDeep-WaterShallow_Blueprint.label>
+  <WaterDeep-WaterShallow_Frame.label>深水► 浅水 （建造中）</WaterDeep-WaterShallow_Frame.label>
+  <WaterDeep-WaterShallow_Frame.description>↑ 深水\n\n↓ 浅水</WaterDeep-WaterShallow_Frame.description>
+
+  <Ice-WaterShallow.label>冰面 ► 浅水</Ice-WaterShallow.label>
+  <Ice-WaterShallow.description>↑ 冰面\n\n↓ 浅水</Ice-WaterShallow.description>
+  <Ice-WaterShallow_Blueprint.label>冰面 ► 浅水 （蓝图）</Ice-WaterShallow_Blueprint.label>
+  <Ice-WaterShallow_Frame.label>冰面 ► 浅水 （建造中）</Ice-WaterShallow_Frame.label>
+  <Ice-WaterShallow_Frame.description>↑ 冰面\n\n↓ 浅水</Ice-WaterShallow_Frame.description>
+
+
+  <!-- –––––––––––––––––––––––––––––––––   Peat,Clay,碎石 and 沙  ––––––––––––––––––––––––––––––––– -->
+
+  <Peat-WaterShallow.label>从土地收集泥炭</Peat-WaterShallow.label>
+  <Peat-WaterShallow.description>↑ 苔藓地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 黏土\n  ▪ 20 泥炭\n  ▪ 5 沙</Peat-WaterShallow.description>
+  <Peat-WaterShallow_Blueprint.label>从土地收集泥炭（蓝图）</Peat-WaterShallow_Blueprint.label>
+  <Peat-WaterShallow_Frame.label>从土地收集泥炭（建造中）</Peat-WaterShallow_Frame.label>
+  <Peat-WaterShallow_Frame.description>↑ 苔藓地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 黏土\n  ▪ 20 泥炭\n  ▪ 5 沙</Peat-WaterShallow_Frame.description>
+
+  <Peat-SoilRich.label>从沃土收集泥炭</Peat-SoilRich.label>
+  <Peat-SoilRich.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾地\n\n  ▪ 10 碎石\n  ▪ 20 泥土\n  ▪ 5 黏土\n  ▪ 15 泥炭\n  ▪ 15 沙</Peat-SoilRich.description>
+  <Peat-SoilRich_Blueprint.label>从沃土收集泥炭（蓝图）</Peat-SoilRich_Blueprint.label>
+  <Peat-SoilRich_Frame.label>从沃土收集泥炭（建造中）</Peat-SoilRich_Frame.label>
+  <Peat-SoilRich_Frame.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾地\n\n  ▪ 10 碎石\n  ▪ 20 泥土\n  ▪ 5 黏土\n  ▪ 15 泥炭\n  ▪ 15 沙</Peat-SoilRich_Frame.description>
+
+  <Peat-SavannaSoil.label>从草原土收集泥炭</Peat-SavannaSoil.label>
+  <Peat-SavannaSoil.description>↑ 边角土地\n↑ 草原土地\n\n↓ 石砾地\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 黏土\n  ▪ 10 泥炭\n  ▪ 5 沙</Peat-SavannaSoil.description>
+  <Peat-SavannaSoil_Blueprint.label>从草原土收集泥炭（蓝图）</Peat-SavannaSoil_Blueprint.label>
+  <Peat-SavannaSoil_Frame.label>从草原土收集泥炭（建造中）</Peat-SavannaSoil_Frame.label>
+  <Peat-SavannaSoil_Frame.description>↑ 边角土地\n↑ 草原土地\n\n↓ 石砾地\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 黏土\n  ▪ 10 泥炭\n  ▪ 5 沙</Peat-SavannaSoil_Frame.description>
+
+  <SoftClay-WaterShallow.label>从沼泽收集黏土</SoftClay-WaterShallow.label>
+  <SoftClay-WaterShallow.description>↑ 湿软土地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 10 泥土\n  ▪ 50 黏土\n  ▪ 5 泥炭\n  ▪ 20 沙</SoftClay-WaterShallow.description>
+  <SoftClay-WaterShallow_Blueprint.label>从沼泽收集黏土（蓝图）</SoftClay-WaterShallow_Blueprint.label>
+  <SoftClay-WaterShallow_Frame.label>从沼泽收集黏土（建造中）</SoftClay-WaterShallow_Frame.label>
+  <SoftClay-WaterShallow_Frame.description>↑ 湿软土地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 10 泥土\n  ▪ 50 黏土\n  ▪ 5 泥炭\n  ▪ 20 沙</SoftClay-WaterShallow_Frame.description>
+
+  <SoftClay-SoilRich.label>从沃土收集黏土</SoftClay-SoilRich.label>
+  <SoftClay-SoilRich.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 30 黏土\n  ▪ 5 泥炭\n  ▪ 10 沙</SoftClay-SoilRich.description>
+  <SoftClay-SoilRich_Blueprint.label>从沃土收集黏土（蓝图）</SoftClay-SoilRich_Blueprint.label>
+  <SoftClay-SoilRich_Frame.label>从沃土收集黏土（建造中）</SoftClay-SoilRich_Frame.label>
+  <SoftClay-SoilRich_Frame.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 30 黏土\n  ▪ 5 泥炭\n  ▪ 10 沙</SoftClay-SoilRich_Frame.description>
 
 
 </LanguageData>

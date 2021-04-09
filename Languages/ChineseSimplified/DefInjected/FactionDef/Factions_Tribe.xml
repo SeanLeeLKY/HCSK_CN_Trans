@@ -1,10 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Tribe.label>部落</Tribe.label>
-  <Tribe.description>这些人们在这里已经存在了很长时间了。也许他们的祖先于千年以前在这里坠毁过，也可能是从某场毁灭文明的大灾难中所幸存下来的。不管怎样，这些部落原住民大部分是生活于这里的游牧民族，他们使用着原始的工具和武器。\n\n有些原住民比其他的更具备攻击性，而大部分都愿意做贸易往来以及结盟，即便是同你这样的陌生人。由于你和他们在社会结构上差别迥异，并且语言交流也存在障碍，使得密切合作或者招降他们变得极为困难。\n\n尽管他们的科技发展非常弱，但原住民依然可能是危险的敌人或者是有价值的盟友，因为毕竟他们对低端武器非常熟练，人多势众，而且十分坚强。</Tribe.description>
-  <Tribe.pawnsPlural>部众</Tribe.pawnsPlural>
-  <Tribe.leaderTitle>酋长</Tribe.leaderTitle>
+  <TribeCivil.label>温和的部落</TribeCivil.label>
+  <TribeCivil.description>这些人在这里已经存在了很长时间。也许他们的祖先于千年以前坠毁在这里，也许他们是某场毁灭文明的大灾难中的幸存者。不管怎样，这些部落原住民大部分是土生土长的游牧民族，他们使用着原始的工具和武器。\n\n尽管在技术方面明显落后，但因为拥有人数、勇气，以及低科技战争的技巧，这些部落将会成为危险的敌人或是宝贵的朋友。\n\n这个部落尽力追求温和的生活方式，待人友善。他们非常乐意交易和组成同盟，即使对方是陌生人。</TribeCivil.description>
+  <TribeCivil.pawnsPlural>部众</TribeCivil.pawnsPlural>
+  <TribeCivil.leaderTitle>酋长</TribeCivil.leaderTitle>
+
+  <TribeRough.label>彪悍的部落</TribeRough.label>
+  <TribeRough.description>这些人在这里已经存在了很长时间。也许他们的祖先于千年以前坠毁在这里，也许他们是某场毁灭文明的大灾难中的幸存者。不管怎样，这些部落原住民大部分是土生土长的游牧民族，他们使用着原始的工具和武器。\n\n尽管在技术方面明显落后，但因为拥有人数、勇气，以及低科技战争的技巧，这些部落将会成为危险的敌人或是宝贵的朋友。\n\n这个部落崇尚战争，和他们成为盟友不是一件容易的事情。</TribeRough.description>
+  <TribeRough.pawnsPlural>部众</TribeRough.pawnsPlural>
+  <TribeRough.leaderTitle>酋长</TribeRough.leaderTitle>
+
+  <TribeSavage.label>野蛮的部落</TribeSavage.label>
+  <TribeSavage.description>这些人在这里已经存在了很长时间。也许他们的祖先于千年以前坠毁在这里，也许他们是某场毁灭文明的大灾难中的幸存者。不管怎样，这些部落原住民大部分是土生土长的游牧民族，他们使用着原始的工具和武器。\n\n尽管在技术方面明显落后，但因为拥有人数、勇气，以及低科技战争的技巧，这些部落将会成为危险的敌人。\n\n这个部落充斥着血与荣耀的文化，和他们永远都不会成为朋友。</TribeSavage.description>
+  <TribeSavage.pawnsPlural>部众</TribeSavage.pawnsPlural>
+  <TribeSavage.leaderTitle>酋长</TribeSavage.leaderTitle>
 
 
 </LanguageData>

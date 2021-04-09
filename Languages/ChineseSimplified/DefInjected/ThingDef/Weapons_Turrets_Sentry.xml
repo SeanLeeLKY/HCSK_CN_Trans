@@ -3,31 +3,38 @@
 
   <!-- Improvised turret gun -->
 
-  <Gun_TurretImprovised.label>轻型哨戒炮</Gun_TurretImprovised.label>
-  
+  <Gun_MiniTurret.label>轻型哨戒炮</Gun_MiniTurret.label>
+  <Gun_MiniTurret.description>安装在基座上的轻型自动武器。</Gun_MiniTurret.description>
+
 
   <!-- Blaster Turret -->
 
-  <Gun_BlasterTurret.label>6x24mm爆破哨戒炮</Gun_BlasterTurret.label>
- 
+  <Gun_BlasterTurret.label>冲击哨戒炮</Gun_BlasterTurret.label>
+  <Gun_BlasterTurret.description>安装在基座上的电荷冲击炮。</Gun_BlasterTurret.description>
+
+
   <!-- turret laser gun -->
 
-  <Gun_Laserbeamturret.label>炮塔激光枪</Gun_Laserbeamturret.label>
-  
+  <Gun_TurretSniper.label>炮塔激光枪</Gun_TurretSniper.label>
+  <Gun_TurretSniper.description>安装在基座上的激光武器。</Gun_TurretSniper.description>
+
 
   <!-- Heavy Turret -->
 
-  <Gun_HeavyTurret.label>重型哨戒炮</Gun_HeavyTurret.label>
-  
+  <Gun_AutocannonTurret.label>重型哨戒炮</Gun_AutocannonTurret.label>
+  <Gun_AutocannonTurret.description>安装在基座上的大口径自动武器。</Gun_AutocannonTurret.description>
+
 
   <!-- Automated security gun -->
 
   <Gun_NavalGun.label>哨戒机炮</Gun_NavalGun.label>
- 
+  <Gun_NavalGun.description>安装在基座上的自动机炮。</Gun_NavalGun.description>
+
 
   <!-- Sentry rocket launcher -->
 
   <Gun_SentryRocketLauncher.label>哨戒火箭发射器</Gun_SentryRocketLauncher.label>
-  
+  <Gun_SentryRocketLauncher.description>安装在基座上的火箭武器。</Gun_SentryRocketLauncher.description>
+
 
 </LanguageData>

@@ -27,6 +27,7 @@
   <Deer.labelMalePlural>公鹿</Deer.labelMalePlural>
   <Deer.labelFemale>母鹿</Deer.labelFemale>
   <Deer.labelFemalePlural>母鹿</Deer.labelFemalePlural>
+
   <Ibex.label>野山羊</Ibex.label>
   <Ibex.labelPlural>野山羊</Ibex.labelPlural>
   <Ibex.lifeStages.0.label>野山羊羔</Ibex.lifeStages.0.label>
@@ -51,7 +52,8 @@
   <Ibex.labelMalePlural>公野山羊</Ibex.labelMalePlural>
   <Ibex.labelFemale>母野山羊</Ibex.labelFemale>
   <Ibex.labelFemalePlural>母野山羊</Ibex.labelFemalePlural>
-  <Elk.label>驼鹿</Elk.label>
+
+   <Elk.label>驼鹿</Elk.label>
   <Elk.labelPlural>驼鹿</Elk.labelPlural>
   <Elk.lifeStages.0.label>驼鹿幼崽</Elk.lifeStages.0.label>
   <Elk.lifeStages.0.labelPlural>驼鹿幼崽</Elk.lifeStages.0.labelPlural>
@@ -75,6 +77,7 @@
   <Elk.labelMalePlural>公驼鹿</Elk.labelMalePlural>
   <Elk.labelFemale>母驼鹿</Elk.labelFemale>
   <Elk.labelFemalePlural>母驼鹿</Elk.labelFemalePlural>
+
   <Caribou.label>驯鹿</Caribou.label>
   <Caribou.labelPlural>驯鹿</Caribou.labelPlural>
   <Caribou.lifeStages.0.label>驯鹿幼崽</Caribou.lifeStages.0.label>
@@ -99,6 +102,7 @@
   <Caribou.labelMalePlural>公驯鹿</Caribou.labelMalePlural>
   <Caribou.labelFemale>母驯鹿</Caribou.labelFemale>
   <Caribou.labelFemalePlural>母驯鹿</Caribou.labelFemalePlural>
+
   <WildBoar.label>野猪</WildBoar.label>
   <WildBoar.labelPlural>野猪</WildBoar.labelPlural>
   <WildBoar.lifeStages.0.label>野猪幼崽</WildBoar.lifeStages.0.label>
@@ -123,6 +127,7 @@
   <WildBoar.labelMalePlural>公野猪</WildBoar.labelMalePlural>
   <WildBoar.labelFemale>母野猪</WildBoar.labelFemale>
   <WildBoar.labelFemalePlural>母野猪</WildBoar.labelFemalePlural>
+  
   <Tortoise.label>乌龟</Tortoise.label>
   <Tortoise.labelPlural>乌龟</Tortoise.labelPlural>
   <Tortoise.lifeStages.0.label>乌龟幼崽</Tortoise.lifeStages.0.label>
@@ -147,5 +152,6 @@
   <Tortoise.labelMalePlural>公乌龟</Tortoise.labelMalePlural>
   <Tortoise.labelFemale>母乌龟</Tortoise.labelFemale>
   <Tortoise.labelFemalePlural>母乌龟</Tortoise.labelFemalePlural>
+
 
 </LanguageData>

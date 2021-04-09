@@ -10,112 +10,108 @@
   <BuildCatapult_Crate.jobString>正在制造 石弩组件箱。</BuildCatapult_Crate.jobString>
 
 
-  <!-- 重机枪组件箱s -->
 
-  <BuildM240B_Crate.label>制造 7.62x51mm M240B 重机枪组件箱</BuildM240B_Crate.label>
+  <!-- MG crates -->
+
+  <BuildM240B_Crate.label>制造 7.62x51mm M240B机枪组件箱</BuildM240B_Crate.label>
   <BuildM240B_Crate.description>用于建造7.62x51mm M240B 重机枪炮塔, 一种固定式的人工操作炮塔。</BuildM240B_Crate.description>
-  <BuildM240B_Crate.jobString>正在制造 7.62x51mm M240B 重机枪组件箱。</BuildM240B_Crate.jobString>
+  <BuildM240B_Crate.jobString>正在制造 7.62x51mm M240B机枪组件箱。</BuildM240B_Crate.jobString>
 
-  <BuildMinigunTurret_Crate.label>制造 7.62x51mm M134 速射机枪组件箱</BuildMinigunTurret_Crate.label>
-  <BuildMinigunTurret_Crate.description>用于建造 7.62x51mm M134 速射机枪炮塔, 一种固定式的人工操作炮塔。 使用 7.62x51mm 规格弹药。</BuildMinigunTurret_Crate.description>
-  <BuildMinigunTurret_Crate.jobString>正在制造 7.62x51mm M134 速射机枪组件箱</BuildMinigunTurret_Crate.jobString>
+  <BuildMinigunTurret_Crate.label>制造 7.62x51mm M134速射机枪组件箱</BuildMinigunTurret_Crate.label>
+  <BuildMinigunTurret_Crate.description>用于建造 7.62x51mm M134速射机枪炮塔, 一种固定式的人工操作炮塔。 使用 7.62x51mm 规格弹药。</BuildMinigunTurret_Crate.description>
+  <BuildMinigunTurret_Crate.jobString>正在制造 7.62x51mm M134速射机枪组件箱</BuildMinigunTurret_Crate.jobString>
 
-  <BuildMGTurret_Crate.label>制造 50BMG M2 勃朗宁重机枪组件箱</BuildMGTurret_Crate.label>
-  <BuildMGTurret_Crate.description>用于建造 50BMG M2 勃朗宁重机枪, 一种固定式的人工操作炮塔。</BuildMGTurret_Crate.description>
-  <BuildMGTurret_Crate.jobString>正在制造 50BMG M2 勃朗宁重机枪组件箱。</BuildMGTurret_Crate.jobString>
+  <BuildMGTurret_Crate.label>制造 M2 .50勃朗宁机枪组件箱</BuildMGTurret_Crate.label>
+  <BuildMGTurret_Crate.description>用于建造 M2 .50勃朗宁机枪, 一种固定式的人工操作炮塔。</BuildMGTurret_Crate.description>
+  <BuildMGTurret_Crate.jobString>正在制造 M2 .50勃朗宁机枪组件箱。</BuildMGTurret_Crate.jobString>
 
-  <BuildKPV_Crate.label>制造 14.5mm KPV 重机枪组件箱</BuildKPV_Crate.label>
+  <BuildKPV_Crate.label>制造 14.5mm KPV机枪组件箱</BuildKPV_Crate.label>
   <BuildKPV_Crate.description>用于建造 14.5mm KPV 重机枪, 一种固定式的人工操作炮塔。 使用 14.5mm 口径规格弹药。</BuildKPV_Crate.description>
-  <BuildKPV_Crate.jobString>正在制造 14.5mm KPV 重机枪组件箱</BuildKPV_Crate.jobString>
+  <BuildKPV_Crate.jobString>正在制造 14.5mm KPV机枪组件箱</BuildKPV_Crate.jobString>
 
-  <BuildOerlikonautocannon_Crate.label>制造 20x102mm 欧瑞康机炮组件箱</BuildOerlikonautocannon_Crate.label>
+  <BuildOerlikonautocannon_Crate.label>制造 20mm奥瑞康机炮组件箱</BuildOerlikonautocannon_Crate.label>
   <BuildOerlikonautocannon_Crate.description>用于建造欧瑞康机炮, 一种固定式的人工操作炮塔。 使用 20x102mm 规格口径弹药。</BuildOerlikonautocannon_Crate.description>
-  <BuildOerlikonautocannon_Crate.jobString>正在制造 20x102mm 欧瑞康机炮组件箱。</BuildOerlikonautocannon_Crate.jobString>
+  <BuildOerlikonautocannon_Crate.jobString>正在制造 20mm奥瑞康机炮组件箱。</BuildOerlikonautocannon_Crate.jobString>
 
-  <BuildVulcanCannon_Crate.label>制造 20mm 火神炮组件箱</BuildVulcanCannon_Crate.label>
-  <BuildVulcanCannon_Crate.description>用于建造 20mm 火神炮, 一种固定式的人工操作炮塔。 使用 20mmx20 规格火神炮弹药，并且需要800 W 电力来运转。</BuildVulcanCannon_Crate.description>
-  <BuildVulcanCannon_Crate.jobString>正在制造 20mm 火神炮组件箱。</BuildVulcanCannon_Crate.jobString>
+  <BuildVulcanCannon_Crate.label>制造 20mm火神炮组件箱</BuildVulcanCannon_Crate.label>
+  <BuildVulcanCannon_Crate.description>用于建造 20mm 火神炮, 一种固定式的人工操作炮塔。 使用 20mmx20 规格火神炮弹药，并且需要800W电力来运转。</BuildVulcanCannon_Crate.description>
+  <BuildVulcanCannon_Crate.jobString>正在制造 20mm火神炮组件箱。</BuildVulcanCannon_Crate.jobString>
 
 
   <!-- Cannon mortars turrets crates -->
 
-  <BuildChain_Crate.label>制造 30x165mm GSh-30 火炮组件箱</BuildChain_Crate.label>
-  <BuildChain_Crate.description>用于建造 30x165mm GSh-30 轻型火炮, 一种固定式的人工操作炮塔。 使用 30x165mm 规格弹药。</BuildChain_Crate.description>
-  <BuildChain_Crate.jobString>正在制造 30x165mm GSh-30 火炮组件箱。</BuildChain_Crate.jobString>
-
-  <BuildAvenger_Crate.label>制造 30x165mm 复仇者火炮组件箱</BuildAvenger_Crate.label>
+  <BuildAvenger_Crate.label>制造 GAU-8复仇者火炮组件箱</BuildAvenger_Crate.label>
   <BuildAvenger_Crate.description>用于建造 30x165mm GAU-8 复仇者火炮, 一种固定式的人工操作炮塔。 使用 30x165mm 规格炮弹。</BuildAvenger_Crate.description>
-  <BuildAvenger_Crate.jobString>正在制造 30x165mm 复仇者火炮组件箱。</BuildAvenger_Crate.jobString>
+  <BuildAvenger_Crate.jobString>正在制造 GAU-8复仇者火炮组件箱。</BuildAvenger_Crate.jobString>
 
-  <BuildAGSturret_Crate.label>制造 30mm AGS-17 组件箱</BuildAGSturret_Crate.label>
-  <BuildAGSturret_Crate.description>用于建造 AGS-17, 一种固定式的人工操作炮塔。 使用 30mmx6 GL 规格炮塔用榴弹。</BuildAGSturret_Crate.description>
-  <BuildAGSturret_Crate.jobString>正在制造 30mm AGS-17 组件箱。</BuildAGSturret_Crate.jobString>
+  <BuildAGSturret_Crate.label>制造 AGS-17组件箱</BuildAGSturret_Crate.label>
+  <BuildAGSturret_Crate.description>用于建造 30mm AGS-17, 一种固定式的人工操作炮塔。 使用 30mmx6 GL 规格炮塔用榴弹。</BuildAGSturret_Crate.description>
+  <BuildAGSturret_Crate.jobString>正在制造 AGS-17组件箱。</BuildAGSturret_Crate.jobString>
 
-  <BuildAGCturret_Crate.label>制造 30mm AGS-30 组件箱</BuildAGCturret_Crate.label>
-  <BuildAGCturret_Crate.description>用于建造GS-30, 一种固定式的人工操作炮塔。 使用 30mmx6 GL 规格炮塔用榴弹。</BuildAGCturret_Crate.description>
-  <BuildAGCturret_Crate.jobString>正在制造 30mm AGS-30 组件箱。</BuildAGCturret_Crate.jobString>
+  <BuildAGCturret_Crate.label>制造 AGS-30组件箱</BuildAGCturret_Crate.label>
+  <BuildAGCturret_Crate.description>用于建造AGS-30, 一种固定式的人工操作炮塔。 使用 30mmx6 GL 规格炮塔用榴弹。</BuildAGCturret_Crate.description>
+  <BuildAGCturret_Crate.jobString>正在制造 AGS-30组件箱。</BuildAGCturret_Crate.jobString>
 
-  <BuildMortar_Crate.label>制造 81mm 迫击炮组件箱</BuildMortar_Crate.label>
-  <BuildMortar_Crate.description>用于建造 迫击炮, 一种固定式的人工操作炮塔。 使用 81mm 通用炮弹。</BuildMortar_Crate.description>
-  <BuildMortar_Crate.jobString>正在制造 81mm 迫击炮组件箱。</BuildMortar_Crate.jobString>
+  <BuildMortar_Crate.label>制造 81mm迫击炮组件箱</BuildMortar_Crate.label>
+  <BuildMortar_Crate.description>用于建造 81mm迫击炮, 一种固定式的人工操作炮塔。 使用 81mm 通用炮弹。</BuildMortar_Crate.description>
+  <BuildMortar_Crate.jobString>正在制造 81mm迫击炮组件箱。</BuildMortar_Crate.jobString>
 
-  <BuildFlakTurret_Crate.label>制造 90mm 高射炮塔组件箱</BuildFlakTurret_Crate.label>
+  <BuildFlakTurret_Crate.label>制造 90mm高射炮组件箱</BuildFlakTurret_Crate.label>
   <BuildFlakTurret_Crate.description>用于建造 90mm 高射炮， 一种固定式的人工操作炮塔。 使用 90mm 规格火炮弹药。</BuildFlakTurret_Crate.description>
-  <BuildFlakTurret_Crate.jobString>正在制造 90mm 高射炮塔组件箱。</BuildFlakTurret_Crate.jobString>
+  <BuildFlakTurret_Crate.jobString>正在制造 90mm高射炮组件箱。</BuildFlakTurret_Crate.jobString>
 
-  <BuildCannonTurret_Crate.label>制造 120mm 坦克火炮组件箱</BuildCannonTurret_Crate.label>
+  <BuildCannonTurret_Crate.label>制造 120mm坦克炮组件箱</BuildCannonTurret_Crate.label>
   <BuildCannonTurret_Crate.description>用于建造 120mm 坦克火炮, 一种固定式的人工操作炮塔。 使用 120mm 规格火炮弹药。</BuildCannonTurret_Crate.description>
-  <BuildCannonTurret_Crate.jobString>正在制造 120mm 坦克火炮组件箱。</BuildCannonTurret_Crate.jobString>
+  <BuildCannonTurret_Crate.jobString>正在制造 120mm坦克炮组件箱。</BuildCannonTurret_Crate.jobString>
 
-  <BuildHowitzerTurret_Crate.label>制造 155mm 榴弹炮组件箱</BuildHowitzerTurret_Crate.label>
+  <BuildHowitzerTurret_Crate.label>制造 155mm榴弹炮组件箱</BuildHowitzerTurret_Crate.label>
   <BuildHowitzerTurret_Crate.description>用于建造 155m 榴弹炮, 一种固定式的人工操作炮塔。 使用 155mm 规格炮弹。</BuildHowitzerTurret_Crate.description>
-  <BuildHowitzerTurret_Crate.jobString>正在制造 155mm 榴弹炮组件箱</BuildHowitzerTurret_Crate.jobString>
+  <BuildHowitzerTurret_Crate.jobString>正在制造 155mm榴弹炮组件箱</BuildHowitzerTurret_Crate.jobString>
 
 
   <!-- Missile turrets crates -->
 
-  <BuildTOW_Crate.label>制造 BGM-71 TOW 反坦克导弹系统组件箱</BuildTOW_Crate.label>
-  <BuildTOW_Crate.description>用于建造 BGM-71 TOW 导弹系统, 一种固定式的人工操作炮塔。 使用 反坦克导弹 作为弹药。</BuildTOW_Crate.description>
-  <BuildTOW_Crate.jobString>正在制造 BGM-71 TOW 反坦克导弹系统组件箱。</BuildTOW_Crate.jobString>
+  <BuildTOW_Crate.label>制造 BGM-71“陶式”反坦克导弹组件箱</BuildTOW_Crate.label>
+  <BuildTOW_Crate.description>用于建造 BGM-71“陶式”反坦克导弹系统, 一种固定式的人工操作炮塔。 使用 反坦克导弹 作为弹药。</BuildTOW_Crate.description>
+  <BuildTOW_Crate.jobString>正在制造 BGM-71“陶式”反坦克导弹组件箱。</BuildTOW_Crate.jobString>
 
-  <BuildLightMissileSystem_Crate.label>制造 FGM-148 标枪反坦克导弹系统组件箱</BuildLightMissileSystem_Crate.label>
-  <BuildLightMissileSystem_Crate.description>用于建造 FGM-148 标枪反坦克导弹系统， 一种固定式的人工操作炮塔。 使用 反坦克导弹 作为弹药。</BuildLightMissileSystem_Crate.description>
-  <BuildLightMissileSystem_Crate.jobString>正在制造 FGM-148 标枪反坦克导弹系统组件箱。</BuildLightMissileSystem_Crate.jobString>
+  <BuildLightMissileSystem_Crate.label>制造 FGM-148“标枪”反坦克导弹组件箱</BuildLightMissileSystem_Crate.label>
+  <BuildLightMissileSystem_Crate.description>用于建造 FGM-148“标枪”反坦克导弹系统， 一种固定式的人工操作炮塔。 使用 反坦克导弹 作为弹药。</BuildLightMissileSystem_Crate.description>
+  <BuildLightMissileSystem_Crate.jobString>正在制造 FGM-148“标枪”反坦克导弹组件箱。</BuildLightMissileSystem_Crate.jobString>
 
-  <BuildMediumMissileSystem_Crate.label>制造 130mm 中型导弹系统组件箱</BuildMediumMissileSystem_Crate.label>
+  <BuildMediumMissileSystem_Crate.label>制造 130mm中型导弹系统组件箱</BuildMediumMissileSystem_Crate.label>
   <BuildMediumMissileSystem_Crate.description>用于建造 中型导弹系统, 一种固定式的人工操作炮塔。 使用 130mmx2 导弹作为弹药。</BuildMediumMissileSystem_Crate.description>
-  <BuildMediumMissileSystem_Crate.jobString>正在制造 130mm 中型导弹系统组件箱。</BuildMediumMissileSystem_Crate.jobString>
+  <BuildMediumMissileSystem_Crate.jobString>正在制造 130mm中型导弹系统组件箱。</BuildMediumMissileSystem_Crate.jobString>
 
-  <BuildRocketLauncher_Crate.label>制造 130mm 重型导弹系统组件箱</BuildRocketLauncher_Crate.label>
+  <BuildRocketLauncher_Crate.label>制造 130mm重型导弹系统组件箱</BuildRocketLauncher_Crate.label>
   <BuildRocketLauncher_Crate.description>用于建造 重型导弹系统, 一种固定式的人工操作炮塔。 使用 130mmx3 导弹作为弹药。</BuildRocketLauncher_Crate.description>
-  <BuildRocketLauncher_Crate.jobString>正在制造 130mm 重型导弹系统组件箱。</BuildRocketLauncher_Crate.jobString>
+  <BuildRocketLauncher_Crate.jobString>正在制造 130mm重型导弹系统组件箱。</BuildRocketLauncher_Crate.jobString>
 
 
   <!-- Sentry automatic crates -->
 
-  <BuildSentryTurret_Crate.label>制造 .40 轻型自动炮塔组件箱</BuildSentryTurret_Crate.label>
-  <BuildSentryTurret_Crate.description>用于建造轻型自动炮塔, 可以自动攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildSentryTurret_Crate.description>
-  <BuildSentryTurret_Crate.jobString>正在制造 .40 轻型自动炮塔组件箱。</BuildSentryTurret_Crate.jobString>
+  <BuildSentryTurret_Crate.label>制造 .40轻型哨戒机枪组件箱</BuildSentryTurret_Crate.label>
+  <BuildSentryTurret_Crate.description>用于建造轻型哨戒炮塔, 可以自动攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildSentryTurret_Crate.description>
+  <BuildSentryTurret_Crate.jobString>正在制造 .40轻型哨戒机枪组件箱。</BuildSentryTurret_Crate.jobString>
 
-  <BuildHeavyTurret_Crate.label>制造 145x114mm 重型自动炮塔组件箱</BuildHeavyTurret_Crate.label>
-  <BuildHeavyTurret_Crate.description>用于建造 重型自动炮塔, 可以自动攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildHeavyTurret_Crate.description>
-  <BuildHeavyTurret_Crate.jobString>正在制造 重型自动炮塔组件箱。</BuildHeavyTurret_Crate.jobString>
+  <BuildHeavyTurret_Crate.label>制造 14.5mm重型哨戒机枪组件箱</BuildHeavyTurret_Crate.label>
+  <BuildHeavyTurret_Crate.description>用于建造 14.5mm重型哨戒机枪炮塔, 可以自动攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildHeavyTurret_Crate.description>
+  <BuildHeavyTurret_Crate.jobString>正在制造 14.5mm重型哨戒机枪组件箱。</BuildHeavyTurret_Crate.jobString>
 
-  <BuildNavalGunTurret_Crate.label>制造 30x165mm 哨戒炮塔组件箱</BuildNavalGunTurret_Crate.label>
-  <BuildNavalGunTurret_Crate.description>用于建造 自动哨戒炮，可以自行攻击附近的敌人。</BuildNavalGunTurret_Crate.description>
-  <BuildNavalGunTurret_Crate.jobString>正在制造 30x165mm 哨戒炮塔组件箱。</BuildNavalGunTurret_Crate.jobString>
+  <BuildNavalGunTurret_Crate.label>制造 30mm自动炮塔组件箱</BuildNavalGunTurret_Crate.label>
+  <BuildNavalGunTurret_Crate.description>用于建造 舰载哨戒炮，可以自行攻击附近的敌人。</BuildNavalGunTurret_Crate.description>
+  <BuildNavalGunTurret_Crate.jobString>正在制造 30mm自动炮塔组件箱。</BuildNavalGunTurret_Crate.jobString>
 
-  <BuildSentryRocketLauncher_Crate.label>制造 反坦克自动火箭发射器组件箱</BuildSentryRocketLauncher_Crate.label>
+  <BuildSentryRocketLauncher_Crate.label>制造 自动反坦克火箭发射系统组件箱</BuildSentryRocketLauncher_Crate.label>
   <BuildSentryRocketLauncher_Crate.description>用于建造自动火箭发射器, 可以自行攻击附近的敌人。</BuildSentryRocketLauncher_Crate.description>
-  <BuildSentryRocketLauncher_Crate.jobString>正在制造 反坦克自动火箭发射器组件箱。</BuildSentryRocketLauncher_Crate.jobString>
+  <BuildSentryRocketLauncher_Crate.jobString>正在制造 自动反坦克火箭发射系统组件箱。</BuildSentryRocketLauncher_Crate.jobString>
 
-  <BuildSentryBlasterTurret_Crate.label>制造 6x24mm 爆炸自动哨戒炮组件箱</BuildSentryBlasterTurret_Crate.label>
-  <BuildSentryBlasterTurret_Crate.description>用于建造 爆炸自动哨戒炮, 可以自行攻击附近的敌人。需要充足的电力来保证其正常运转。</BuildSentryBlasterTurret_Crate.description>
-  <BuildSentryBlasterTurret_Crate.jobString>正在制造 6x24mm 爆炸自动哨戒炮组件箱。</BuildSentryBlasterTurret_Crate.jobString>
+  <BuildSentryBlasterTurret_Crate.label>制造 自动哨戒炮塔组件箱</BuildSentryBlasterTurret_Crate.label>
+  <BuildSentryBlasterTurret_Crate.description>用于建造 自动哨戒炮塔, 可以自行攻击附近的敌人。需要充足的电力来保证其正常运转。</BuildSentryBlasterTurret_Crate.description>
+  <BuildSentryBlasterTurret_Crate.jobString>正在制造 自动哨戒炮塔组件箱。</BuildSentryBlasterTurret_Crate.jobString>
 
   <BuildLaserTurret_Crate.label>制造 激光炮塔组件箱</BuildLaserTurret_Crate.label>
   <BuildLaserTurret_Crate.description>用于建造 激光炮塔, 可以自行攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildLaserTurret_Crate.description>
   <BuildLaserTurret_Crate.jobString>正在制造 激光炮塔组件箱</BuildLaserTurret_Crate.jobString>
-
 
 </LanguageData>

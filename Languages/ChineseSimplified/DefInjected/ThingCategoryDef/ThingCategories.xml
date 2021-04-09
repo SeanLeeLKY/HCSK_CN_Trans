@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Ammo.label>弹药</Ammo.label>
   <AmmoAdvanced.label>先进弹药</AmmoAdvanced.label>
-  <AmmoGrenades.label>手榴弹</AmmoGrenades.label>
-  <AmmoHighCaliber.label>现代弹药</AmmoHighCaliber.label>
+  <AmmoGrenades.label>榴弹</AmmoGrenades.label>
+  <AmmoHighCaliber.label>大口径</AmmoHighCaliber.label>
   <AmmoPistols.label>手枪</AmmoPistols.label>
   <AmmoRifles.label>步枪</AmmoRifles.label>
   <AmmoShotguns.label>霰弹枪</AmmoShotguns.label>

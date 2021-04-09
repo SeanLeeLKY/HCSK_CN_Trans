@@ -2,124 +2,94 @@
 <LanguageData>
 
   <FloorStoneSlabsSandstone.label>砂岩石板</FloorStoneSlabsSandstone.label>
-  <FloorStoneSlabsSandstone.description>砂岩flooring made with square slabs. 
-美观度： 2。</FloorStoneSlabsSandstone.description>
+  <FloorStoneSlabsSandstone.description>砂岩制成的方形地板。\n美观度：4。</FloorStoneSlabsSandstone.description>
 
   <FloorStoneSlabsGranite.label>花岗石板</FloorStoneSlabsGranite.label>
-  <FloorStoneSlabsGranite.description>花岗岩flooring made with square slabs.
-美观度： 2。</FloorStoneSlabsGranite.description>
+  <FloorStoneSlabsGranite.description>花岗岩制成的方形地板。\n美观度：4。</FloorStoneSlabsGranite.description>
 
   <FloorStoneSlabsLimestone.label>石灰石板</FloorStoneSlabsLimestone.label>
-  <FloorStoneSlabsLimestone.description>石灰岩flooring made with square slabs. 
-美观度： 2。</FloorStoneSlabsLimestone.description>
+  <FloorStoneSlabsLimestone.description>石灰石制成的方形地板。\n美观度：4。</FloorStoneSlabsLimestone.description>
 
   <FloorStoneSlabsSlate.label>板岩板</FloorStoneSlabsSlate.label>
-  <FloorStoneSlabsSlate.description>板岩flooring made with square slabs. 
-美观度： 4。</FloorStoneSlabsSlate.description>
+  <FloorStoneSlabsSlate.description>板岩制成的方形地板。\n美观度：5。</FloorStoneSlabsSlate.description>
 
   <FloorStoneSlabsMarble.label>大理石板</FloorStoneSlabsMarble.label>
-  <FloorStoneSlabsMarble.description>大理石flooring made with square slabs. 
-美观度： 4。</FloorStoneSlabsMarble.description>
+  <FloorStoneSlabsMarble.description>大理石制成的方形地板。\n美观度：5。</FloorStoneSlabsMarble.description>
 
   <FloorStoneSlabsCeramics.label>陶瓷板</FloorStoneSlabsCeramics.label>
-  <FloorStoneSlabsCeramics.description>Ceramics flooring made with square slabs. 
-美观度： 4。</FloorStoneSlabsCeramics.description>
+  <FloorStoneSlabsCeramics.description>陶瓷制成的方形地板。\n美观度：5。</FloorStoneSlabsCeramics.description>
 
   <FloorStoneHexSandstone.label>砂岩六角石板</FloorStoneHexSandstone.label>
-  <FloorStoneHexSandstone.description>砂岩paving with hexagonal tiles. 
-美观度： 2。</FloorStoneHexSandstone.description>
+  <FloorStoneHexSandstone.description>砂岩石板铺装的六角形地板。 \n美观度：4。</FloorStoneHexSandstone.description>
 
   <FloorStoneHexGranite.label>花岗岩六角石板</FloorStoneHexGranite.label>
-  <FloorStoneHexGranite.description>花岗岩paving with hexagonal tiles.
-美观度： 2。</FloorStoneHexGranite.description>
+  <FloorStoneHexGranite.description>花岗岩铺装的六角形地板。\n美观度：4。</FloorStoneHexGranite.description>
 
   <FloorStoneHexLimestone.label>石灰岩六角石板</FloorStoneHexLimestone.label>
-  <FloorStoneHexLimestone.description>石灰岩paving with hexagonal tiles. 
-美观度： 2。</FloorStoneHexLimestone.description>
+  <FloorStoneHexLimestone.description>石灰岩石板铺装的六角形地板。 \n美观度：4。</FloorStoneHexLimestone.description>
 
   <FloorStoneHexSlate.label>板岩六角石板</FloorStoneHexSlate.label>
-  <FloorStoneHexSlate.description>板岩paving with hexagonal tiles. 
-美观度： 4。</FloorStoneHexSlate.description>
+  <FloorStoneHexSlate.description>板岩铺装的六角形地板。 \n美观度：5。</FloorStoneHexSlate.description>
 
   <FloorStoneHexMarble.label>大理石六角石板</FloorStoneHexMarble.label>
-  <FloorStoneHexMarble.description>大理石paving with hexagonal tiles. 
-美观度： 4。</FloorStoneHexMarble.description>
+  <FloorStoneHexMarble.description>大理石铺装的六角形地板。 \n美观度：5。</FloorStoneHexMarble.description>
 
   <FloorStoneHexCeramics.label>陶瓷六角石板</FloorStoneHexCeramics.label>
-  <FloorStoneHexCeramics.description>Ceramics paving with hexagonal tiles. 
-美观度： 4。</FloorStoneHexCeramics.description>
+  <FloorStoneHexCeramics.description>陶瓷铺装的六角形地板。 \n美观度：5。</FloorStoneHexCeramics.description>
 
   <FloorStoneMosaicSandstone.label>砂岩马赛克板</FloorStoneMosaicSandstone.label>
-  <FloorStoneMosaicSandstone.description>砂岩paving with a light/dark mosaic. 
-美观度： 2。</FloorStoneMosaicSandstone.description>
+  <FloorStoneMosaicSandstone.description>砂岩石板铺装的带有明暗风格的马赛克地板。 \n美观度：4。</FloorStoneMosaicSandstone.description>
 
   <FloorStoneMosaicGranite.label>花岗岩马赛克板</FloorStoneMosaicGranite.label>
-  <FloorStoneMosaicGranite.description>花岗岩paving with a light/dark mosaic. 
-美观度： 2。</FloorStoneMosaicGranite.description>
+  <FloorStoneMosaicGranite.description>花岗岩铺装的带有明暗风格的马赛克地板。 \n美观度：4。</FloorStoneMosaicGranite.description>
 
   <FloorStoneMosaicLimestone.label>石灰岩马赛克板</FloorStoneMosaicLimestone.label>
-  <FloorStoneMosaicLimestone.description>石灰岩paving with a light/dark mosaic. 
-美观度： 2。</FloorStoneMosaicLimestone.description>
+  <FloorStoneMosaicLimestone.description>石灰岩石板铺装的带有明暗风格的马赛克地板。 \n美观度：4。</FloorStoneMosaicLimestone.description>
 
   <FloorStoneMosaicSlate.label>板岩马赛克板</FloorStoneMosaicSlate.label>
-  <FloorStoneMosaicSlate.description>板岩paving with a light/dark mosaic. 
-美观度： 4。</FloorStoneMosaicSlate.description>
+  <FloorStoneMosaicSlate.description>板岩铺装的带有明暗风格的马赛克地板。 \n美观度：5。</FloorStoneMosaicSlate.description>
 
   <FloorStoneMosaicMarble.label>大理石马赛克板</FloorStoneMosaicMarble.label>
-  <FloorStoneMosaicMarble.description>大理石paving with a light/dark mosaic. 
-美观度： 4。</FloorStoneMosaicMarble.description>
+  <FloorStoneMosaicMarble.description>大理石铺装的带有明暗风格的马赛克地板。 \n美观度：5。</FloorStoneMosaicMarble.description>
 
   <FloorStoneMosaicCeramics.label>陶瓷马赛克板</FloorStoneMosaicCeramics.label>
-  <FloorStoneMosaicCeramics.description>陶瓷paving with a light/dark mosaic. 
-美观度： 4。</FloorStoneMosaicCeramics.description>
+  <FloorStoneMosaicCeramics.description>陶瓷铺装的带有明暗风格的马赛克地板。 \n美观度：5。</FloorStoneMosaicCeramics.description>
 
-  <FloorStoneRoughSandstone.label>狂野砂岩铺板</FloorStoneRoughSandstone.label>
-  <FloorStoneRoughSandstone.description>砂岩stone paving. 
-美观度： 2。</FloorStoneRoughSandstone.description>
+  <FloorStoneRoughSandstone.label>粗犷砂岩铺板</FloorStoneRoughSandstone.label>
+  <FloorStoneRoughSandstone.description>粗犷风格的石板直接铺装。 \n美观度：2。</FloorStoneRoughSandstone.description>
 
-  <FloorStoneRoughGranite.label>狂野花岗岩铺板</FloorStoneRoughGranite.label>
-  <FloorStoneRoughGranite.description>狂野stone paving.
-美观度： 2。</FloorStoneRoughGranite.description>
+  <FloorStoneRoughGranite.label>粗犷花岗岩铺板</FloorStoneRoughGranite.label>
+  <FloorStoneRoughGranite.description>粗犷风格的石板直接铺装。\n美观度：2。</FloorStoneRoughGranite.description>
 
-  <FloorStoneRoughLimestone.label>狂野石灰岩铺板</FloorStoneRoughLimestone.label>
-  <FloorStoneRoughLimestone.description>狂野stone paving.
-美观度： 2。</FloorStoneRoughLimestone.description>
+  <FloorStoneRoughLimestone.label>粗犷石灰岩铺板</FloorStoneRoughLimestone.label>
+  <FloorStoneRoughLimestone.description>粗犷风格的石板直接铺装。\n美观度：2。</FloorStoneRoughLimestone.description>
 
-  <FloorStoneRoughSlate.label>狂野板岩铺板</FloorStoneRoughSlate.label>
-  <FloorStoneRoughSlate.description>狂野stone paving.
-美观度： 4。</FloorStoneRoughSlate.description>
+  <FloorStoneRoughSlate.label>粗犷板岩铺板</FloorStoneRoughSlate.label>
+  <FloorStoneRoughSlate.description>粗犷风格的石板直接铺装。\n美观度：2。</FloorStoneRoughSlate.description>
 
-  <FloorStoneRoughMarble.label>狂野大理石铺板</FloorStoneRoughMarble.label>
-  <FloorStoneRoughMarble.description>狂野stone paving.
-美观度： 4。</FloorStoneRoughMarble.description>
+  <FloorStoneRoughMarble.label>粗犷大理石铺板</FloorStoneRoughMarble.label>
+  <FloorStoneRoughMarble.description>粗犷风格的石板直接铺装。\n美观度：2。</FloorStoneRoughMarble.description>
 
-  <FloorStoneRoughCeramics.label>狂野陶瓷铺板</FloorStoneRoughCeramics.label>
-  <FloorStoneRoughCeramics.description>狂野stone paving.
-美观度： 4。</FloorStoneRoughCeramics.description>
+  <FloorStoneRoughCeramics.label>粗犷陶瓷铺板</FloorStoneRoughCeramics.label>
+  <FloorStoneRoughCeramics.description>粗犷风格的石板直接铺装。\n美观度：2。</FloorStoneRoughCeramics.description>
 
-  <FloorStoneRandomSandstone.label>杂乱砂岩铺板</FloorStoneRandomSandstone.label>
-  <FloorStoneRandomSandstone.description>Stone paving with 杂乱square and rectangular slabs.
-美观度： 2。</FloorStoneRandomSandstone.description>
+  <FloorStoneRandomSandstone.label>乱序砂岩铺板</FloorStoneRandomSandstone.label>
+  <FloorStoneRandomSandstone.description>铺有随机正方形和矩形的地板。\n美观度：4。</FloorStoneRandomSandstone.description>
 
-  <FloorStoneRandomGranite.label>杂乱花岗岩铺板</FloorStoneRandomGranite.label>
-  <FloorStoneRandomGranite.description>Stone paving with 杂乱square and rectangular slabs.
-美观度： 2。</FloorStoneRandomGranite.description>
+  <FloorStoneRandomGranite.label>乱序花岗岩铺板</FloorStoneRandomGranite.label>
+  <FloorStoneRandomGranite.description>铺有随机正方形和矩形的地板。\n美观度：4。</FloorStoneRandomGranite.description>
 
-  <FloorStoneRandomLimestone.label>杂乱石灰岩铺板</FloorStoneRandomLimestone.label>
-  <FloorStoneRandomLimestone.description>Stone paving with 杂乱square and rectangular slabs.
-美观度： 2。</FloorStoneRandomLimestone.description>
+  <FloorStoneRandomLimestone.label>乱序石灰岩铺板</FloorStoneRandomLimestone.label>
+  <FloorStoneRandomLimestone.description>铺有随机正方形和矩形的地板。\n美观度：4。</FloorStoneRandomLimestone.description>
 
-  <FloorStoneRandomSlate.label>杂乱板岩铺板</FloorStoneRandomSlate.label>
-  <FloorStoneRandomSlate.description>Stone paving with 杂乱square and rectangular slabs.
-美观度： 4。</FloorStoneRandomSlate.description>
+  <FloorStoneRandomSlate.label>乱序板岩铺板</FloorStoneRandomSlate.label>
+  <FloorStoneRandomSlate.description>铺有随机正方形和矩形的地板。\n美观度：5。</FloorStoneRandomSlate.description>
 
-  <FloorStoneRandomMarble.label>杂乱大理石铺板</FloorStoneRandomMarble.label>
-  <FloorStoneRandomMarble.description>Stone paving with 杂乱square and rectangular slabs.
-美观度： 4。</FloorStoneRandomMarble.description>
+  <FloorStoneRandomMarble.label>乱序大理石铺板</FloorStoneRandomMarble.label>
+  <FloorStoneRandomMarble.description>铺有随机正方形和矩形的地板。\n美观度：5。</FloorStoneRandomMarble.description>
 
-  <FloorStoneRandomCeramics.label>杂乱陶瓷铺板</FloorStoneRandomCeramics.label>
-  <FloorStoneRandomCeramics.description>Stone paving with 杂乱square and rectangular slabs.
-美观度： 4。</FloorStoneRandomCeramics.description>
+  <FloorStoneRandomCeramics.label>乱序陶瓷铺板</FloorStoneRandomCeramics.label>
+  <FloorStoneRandomCeramics.description>铺有随机正方形和矩形的地板。\n美观度：5。</FloorStoneRandomCeramics.description>
 
 
 </LanguageData>

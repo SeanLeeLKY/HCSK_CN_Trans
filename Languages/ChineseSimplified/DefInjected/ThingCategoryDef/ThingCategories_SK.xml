@@ -47,13 +47,16 @@
 
   <!-- HARDCORE SK CATEGORIES start -->
 
-  <Metallic.label>金属锭</Metallic.label>
-  <HCMBar.label>高导电率</HCMBar.label>
+  <Metallic.label>金属合金</Metallic.label>
+  <HCMBar.label>高传导率</HCMBar.label>
   <PRSBar.label>贵重</PRSBar.label>
   <SLDBar.label>硬质</SLDBar.label>
+  <HeavyBar.label>重质</HeavyBar.label>
   <USLDBar.label>高硬质</USLDBar.label>
+  <USLDHBar.label>高硬重质</USLDHBar.label>
   <RARBar.label>稀有</RARBar.label>
   <RADBar.label>放射性</RADBar.label>
+  <Ceramic.label>陶瓷</Ceramic.label>
   <ConstructionParts.label>建筑</ConstructionParts.label>
   <Parts.label>部件和机械结构</Parts.label>
   <Woody.label>木制产品</Woody.label>
@@ -71,9 +74,8 @@
 
   <!-- HARDCORE SK CATEGORIES start -->
 
-  <Canware.label>容器</Canware.label>
+  <Canware.label>罐类容器</Canware.label>
   <WeaponCrate.label>武器箱</WeaponCrate.label>
-  <Ammo.label>弹药</Ammo.label>
   <WeaponParts.label>武器部件</WeaponParts.label>
   <ElectronicsCat.label>电子</ElectronicsCat.label>
   <GlassCat.label>玻璃制品</GlassCat.label>
@@ -98,9 +100,10 @@
   <Extracted.label>提取物</Extracted.label>
   <Waste.label>废物</Waste.label>
   <StoneBlocks.label>石砖</StoneBlocks.label>
-<Metals.label>金属矿石</Metals.label>
+  <Metals.label>金属矿石</Metals.label>
   <HCM.label>高传导性</HCM.label>
   <RAD.label>放射性</RAD.label>
+  <HVY.label>重质</HVY.label>
   <PRS.label>贵重物品</PRS.label>
   <SLD.label>硬质</SLD.label>
   <RAR.label>稀有</RAR.label>
@@ -113,10 +116,11 @@
 
   <Wooden.label>木制产品</Wooden.label>
   <Items.label>物品</Items.label>
-  <Art.label>艺术</Art.label>
-  <Furniture.label>家具</Furniture.label>
   <Unfinished.label>未完成</Unfinished.label>
   <Artifacts.label>神器</Artifacts.label>
+  <Neurotrainers.label>神经训练器</Neurotrainers.label>
+  <NeurotrainersPsycast.label>心灵训练器</NeurotrainersPsycast.label>
+  <Techprints.label>科研蓝图</Techprints.label>
   <Weapons.label>武器</Weapons.label>
 
 
@@ -140,7 +144,7 @@
   <MachineGun.label>机枪</MachineGun.label>
   <Glaunchers.label>发射器</Glaunchers.label>
   <Launchers.label>火箭筒</Launchers.label>
-  <Specialranged.label>特殊武器</Specialranged.label>
+  <Specialranged.label>特种远程武器</Specialranged.label>
   <Futuristic.label>未来武器</Futuristic.label>
 
 
@@ -151,8 +155,12 @@
 
   <!-- HARDCORE SK CATEGORIES start -->
 
- <Tools.label>工具</Tools.label>
+  <SurvivalTools.label>工具</SurvivalTools.label>
+  <SurvivalToolsNeolithic.label>基本工具</SurvivalToolsNeolithic.label>
+  <SurvivalToolsIndustrial.label>现代工具</SurvivalToolsIndustrial.label>
+  <SurvivalToolsSpacer.label>先进工具</SurvivalToolsSpacer.label>
   <SpecialWeapons.label>特种武器</SpecialWeapons.label>
+  <WeaponsTurrets.label>炮塔</WeaponsTurrets.label>
 
 
   <!-- HARDCORE SK CATEGORIES end -->
@@ -202,8 +210,8 @@
   <SetSecurity.label>安保</SetSecurity.label>
   <SetScout.label>侦察兵</SetScout.label>
   <SetSniper.label>狙击手</SetSniper.label>
-  <Setmarinearmor.label>士兵</Setmarinearmor.label>
-   <SetInteractor.label>交互装甲</SetInteractor.label>
+  <Setmarinearmor.label>陆战队</Setmarinearmor.label>
+  <SetInteractor.label>交互装甲</SetInteractor.label>
   <Setpowerarmor.label>动力装甲</Setpowerarmor.label>
   <Sethivearmor.label>巢穴护甲</Sethivearmor.label>
   <Setsteamarmor.label>蒸汽护甲</Setsteamarmor.label>
@@ -211,6 +219,24 @@
   <SetSyndicate.label>辛迪加</SetSyndicate.label>
   <SetCombatarmor.label>战斗护甲</SetCombatarmor.label>
   <SetJet.label>喷射护甲</SetJet.label>
+  
+
+
+  <!-- Buildings -->
+
+  <Buildings.label>建筑</Buildings.label>
+  <BuildingsArt.label>艺术</BuildingsArt.label>
+  <BuildingsFurniture.label>家具</BuildingsFurniture.label>
+  <BuildingsAccessories.label>辅助</BuildingsAccessories.label>
+  <BuildingsProduction.label>生产</BuildingsProduction.label>
+  <BuildingsJoy.label>娱乐</BuildingsJoy.label>
+  <BuildingsSecurity.label>防卫</BuildingsSecurity.label>
+  <BuildingsMisc.label>杂项</BuildingsMisc.label>
+  <BuildingsFacilities.label>设施</BuildingsFacilities.label>
+  <BuildingsTemperature.label>温度</BuildingsTemperature.label>
+  <BuildingsRugs.label>地毯</BuildingsRugs.label>
+  <BuildingsPower.label>电力</BuildingsPower.label>
+  <BuildingsSpecial.label>特殊</BuildingsSpecial.label>
   <BodyParts.label>身体部件</BodyParts.label>
   <BodyPartsNatural.label>自然</BodyPartsNatural.label>
   <BodyPartsArtificial.label>人造</BodyPartsArtificial.label>
@@ -221,8 +247,9 @@
   <BasicProstheses.label>基本假肢</BasicProstheses.label>
   <SimpleProstheses.label>简单假肢</SimpleProstheses.label>
   <BionicProstheses.label>仿生</BionicProstheses.label>
-  <CyberneticProstheses.label>神经电子仿生</CyberneticProstheses.label>
+  <CyberneticProstheses.label>神经机械仿生</CyberneticProstheses.label>
   <SyntheticOrgans.label>人造器官</SyntheticOrgans.label>
+  <OrganicOptimizer.label>生物增强装置</OrganicOptimizer.label>
 
 
   <!-- HARDCORE SK CATEGORIES end -->

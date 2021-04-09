@@ -4,17 +4,20 @@
   <!-- Ammo -->
 
   <Ammo_145x114mm_FMJ.label>14.5x114mm 弹药（全金属被甲弹）</Ammo_145x114mm_FMJ.label>
-  
+  <Ammo_145x114mm_FMJ.description>老式的反装甲弹药，最初是为反坦克步枪设计的，也可以在一些重机枪上使用。</Ammo_145x114mm_FMJ.description>
+
   <Ammo_145x114mm_HE.label>14.5x114mm 弹药（高爆弹）</Ammo_145x114mm_HE.label>
-  
+  <Ammo_145x114mm_HE.description>老式的反装甲弹药，最初是为反坦克步枪设计的，也可以在一些重机枪上使用。</Ammo_145x114mm_HE.description>
+
   <Ammo_145x114mm_Incendiary.label>14.5x114mm 弹药（穿甲燃烧弹）</Ammo_145x114mm_Incendiary.label>
-  
+  <Ammo_145x114mm_Incendiary.description>老式的反装甲弹药，最初是为反坦克步枪设计的，也可以在一些重机枪上使用。</Ammo_145x114mm_Incendiary.description>
+
 
   <!-- Projectiles -->
 
-  <Bullet_145x114mm_FMJ.label>14.5x114mm 子弹（全金属被甲弹）</Bullet_145x114mm_FMJ.label>
-  <Bullet_145x114mm_HE.label>14.5x114mm 子弹（高爆弹）</Bullet_145x114mm_HE.label>
-  <Bullet_145x114mm_Incendiary.label>14.5x114mm 子弹（穿甲燃烧弹）</Bullet_145x114mm_Incendiary.label>
+  <Bullet_145x114mm_FMJ.label>14.5x114mm 弹药（全金属被甲弹）</Bullet_145x114mm_FMJ.label>
+  <Bullet_145x114mm_HE.label>14.5x114mm 弹药（高爆弹）</Bullet_145x114mm_HE.label>
+  <Bullet_145x114mm_Incendiary.label>14.5x114mm 弹药（穿甲燃烧弹）</Bullet_145x114mm_Incendiary.label>
 
 
 </LanguageData>

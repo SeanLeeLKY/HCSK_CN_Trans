@@ -1,14 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_Jetpack.label>喷气背包</Apparel_Jetpack.label>
-  
   <Apparel_TacVest.label>战术背袋</Apparel_TacVest.label>
-  
+  <Apparel_TacVest.description>一件承重背袋，里面有许多小袋，可以存放弹夹和其他装备。\n\n加快了装弹速度，但穿起来相当笨重。</Apparel_TacVest.description>
+
+  <Apparello_Ammobelt.label>子弹带</Apparello_Ammobelt.label>
+  <Apparello_Ammobelt.description>为携带弹药而设计的腰带。</Apparello_Ammobelt.description>
+
   <Apparel_Backpack.label>背包</Apparel_Backpack.label>
-  
+  <Apparel_Backpack.description>舒适宽敞的背包，可以存放各种物品。</Apparel_Backpack.description>
 
   <Apparel_TribalBackpack.label>部落背包</Apparel_TribalBackpack.label>
-  
+  <Apparel_TribalBackpack.description>原始的动物皮毛制成的背包，在旅行时可以用来存放物品。</Apparel_TribalBackpack.description>
+
 
 </LanguageData>

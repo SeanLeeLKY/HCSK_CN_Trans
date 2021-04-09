@@ -3,21 +3,38 @@
 
   <!-- M-6 MANTIS -->
 
-  <Gun_Mantis.label>M-6 “螳螂”光束枪</Gun_Mantis.label>
-  
+  <Gun_Mantis.label>M6“螳螂”光束枪</Gun_Mantis.label>
+  <Gun_Mantis.description>强大的激光脉冲狙击步枪，大部分时候只需一次射击便能消灭目标。在远距离的射击精度极其优秀，但射击速度较为缓慢。对盔甲有较高的打击能力，但对护盾和生物护甲效果较差。</Gun_Mantis.description>
+  <Gun_Mantis.tools.0.label>握把</Gun_Mantis.tools.0.label>
+  <Gun_Mantis.tools.1.label>枪管</Gun_Mantis.tools.1.label>
+  <Gun_Mantis.tools.2.label>枪口</Gun_Mantis.tools.2.label>
+
 
   <!-- M-8 REVENANT -->
 
-  <LaserRifle.label>M-8 “亡魂”光束枪</LaserRifle.label>
-  
+  <LaserRifle.label>M8“亡魂”光束枪</LaserRifle.label>
+  <LaserRifle.description>一种标准的多功能军用突击步枪。短点射模式精度较高，全自动模式更能提供致命的火力输出。亡魂可以有效穿透护盾、盔甲和生物护甲。亡魂的模块化设计和廉价多样的组件使其成为军事团体和雇佣兵的最爱。亡魂以坚韧，可靠，易于使用和易于升级而举世闻名。</LaserRifle.description>
+  <LaserRifle.tools.0.label>枪托</LaserRifle.tools.0.label>
+  <LaserRifle.tools.1.label>枪管</LaserRifle.tools.1.label>
+  <LaserRifle.tools.2.label>枪口</LaserRifle.tools.2.label>
+
 
   <!-- M-10 SPIKER -->
 
-  <HeavyLasergun.label>M-10 “铆钉”光束枪</HeavyLasergun.label>
-  
+  <HeavyLasergun.label>M10“铆钉”光束枪</HeavyLasergun.label>
+  <HeavyLasergun.description>一种基于纳米科技的重型脉冲光束发射器。</HeavyLasergun.description>
+  <HeavyLasergun.tools.0.label>枪托</HeavyLasergun.tools.0.label>
+  <HeavyLasergun.tools.1.label>枪管</HeavyLasergun.tools.1.label>
+  <HeavyLasergun.tools.2.label>枪口</HeavyLasergun.tools.2.label>
+
+
   <!-- M-12 INTERCESSOR -->
 
-  <BurstLasergun.label>M-12 “仲裁者”光束枪</BurstLasergun.label>
-  
+  <BurstLasergun.label>M12“仲裁者”光束枪</BurstLasergun.label>
+  <BurstLasergun.description>一种基于纳米技术的多重脉冲光束发射器。基于制造权管理（FRM）技术防止被非法复制，也只有最富有和最强大的军阀才能负担得起此武器。</BurstLasergun.description>
+  <BurstLasergun.tools.0.label>枪托</BurstLasergun.tools.0.label>
+  <BurstLasergun.tools.1.label>枪管</BurstLasergun.tools.1.label>
+  <BurstLasergun.tools.2.label>枪口</BurstLasergun.tools.2.label>
+
 
 </LanguageData>

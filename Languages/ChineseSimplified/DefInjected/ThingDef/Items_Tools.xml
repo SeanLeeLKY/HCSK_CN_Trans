@@ -2,11 +2,39 @@
 <LanguageData>
 
   <TFJ_Tool_Woodcutting_Handaxe.label>手斧</TFJ_Tool_Woodcutting_Handaxe.label>
- 
+  <TFJ_Tool_Woodcutting_Handaxe.description>一把实用的砍柴手斧。树木小心！配备此工具可将砍伐工作速度提高30%。</TFJ_Tool_Woodcutting_Handaxe.description>
+  <TFJ_Tool_Woodcutting_Handaxe.tools.0.label>手柄</TFJ_Tool_Woodcutting_Handaxe.tools.0.label>
+  <TFJ_Tool_Woodcutting_Handaxe.tools.1.label>尖</TFJ_Tool_Woodcutting_Handaxe.tools.1.label>
+  <TFJ_Tool_Woodcutting_Handaxe.tools.2.label>刃</TFJ_Tool_Woodcutting_Handaxe.tools.2.label>
 
   <TFJ_Tool_Mining_Pickaxe.label>鹤嘴锄</TFJ_Tool_Mining_Pickaxe.label>
-  
+  <TFJ_Tool_Mining_Pickaxe.description>实用的采掘设备。我们必须挖得更深！装备此工具可将采矿作业速度提高30%。</TFJ_Tool_Mining_Pickaxe.description>
+  <TFJ_Tool_Mining_Pickaxe.tools.0.label>手柄</TFJ_Tool_Mining_Pickaxe.tools.0.label>
+  <TFJ_Tool_Mining_Pickaxe.tools.1.label>头</TFJ_Tool_Mining_Pickaxe.tools.1.label>
+
   <TFJ_Tool_Building_Hammer.label>锤子</TFJ_Tool_Building_Hammer.label>
-  
+  <TFJ_Tool_Building_Hammer.description>实用的建筑锤。小心你的手指！配备此工具可将建造制作速度提高30%。</TFJ_Tool_Building_Hammer.description>
+  <TFJ_Tool_Building_Hammer.tools.0.label>手柄</TFJ_Tool_Building_Hammer.tools.0.label>
+  <TFJ_Tool_Building_Hammer.tools.1.label>头</TFJ_Tool_Building_Hammer.tools.1.label>
+
+  <TFJ_Tool_Sickle.label>镰刀</TFJ_Tool_Sickle.label>
+  <TFJ_Tool_Sickle.description>一种锋利的弯钩，用于采集植物和收割作物。</TFJ_Tool_Sickle.description>
+  <TFJ_Tool_Sickle.tools.0.label>手柄</TFJ_Tool_Sickle.tools.0.label>
+  <TFJ_Tool_Sickle.tools.1.label>刃</TFJ_Tool_Sickle.tools.1.label>
+
+  <TFJ_Tool_Broom.label>扫帚</TFJ_Tool_Broom.label>
+  <TFJ_Tool_Broom.description>能够方便的打扫地面灰尘和杂物的工具。</TFJ_Tool_Broom.description>
+  <TFJ_Tool_Broom.tools.0.label>杖</TFJ_Tool_Broom.tools.0.label>
+  <TFJ_Tool_Broom.tools.1.label>杖</TFJ_Tool_Broom.tools.1.label>
+  <TFJ_Tool_Broom.tools.2.label>头</TFJ_Tool_Broom.tools.2.label>
+
+  <TFJ_Tool_Hoe.label>锄头</TFJ_Tool_Hoe.label>
+  <TFJ_Tool_Hoe.description>方便在耕作土壤上种植作物的工具。</TFJ_Tool_Hoe.description>
+  <TFJ_Tool_Hoe.tools.0.label>杖</TFJ_Tool_Hoe.tools.0.label>
+  <TFJ_Tool_Hoe.tools.1.label>尖</TFJ_Tool_Hoe.tools.1.label>
+
+  <TFJ_Tool_Multitool.label>多功能工具</TFJ_Tool_Multitool.label>
+  <TFJ_Tool_Multitool.description>一套高科技工具，在闪耀世界的社会中，通常被工作机械人使用，由于设计理念为类人型服务，所以大多数人型生物都可以方便的使用。</TFJ_Tool_Multitool.description>
+
 
 </LanguageData>

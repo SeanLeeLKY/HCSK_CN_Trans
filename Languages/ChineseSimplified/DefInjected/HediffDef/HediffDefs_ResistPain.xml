@@ -2,12 +2,32 @@
 <LanguageData>
 
   <UndeadPassive.label>不死特性</UndeadPassive.label>
+  <UndeadPassive.description>死无再死</UndeadPassive.description>
+  <UndeadPassive.labelNoun>不死</UndeadPassive.labelNoun>
+
   <ResistPainPassive.label>痛觉阻抗</ResistPainPassive.label>
+  <ResistPainPassive.description>痛觉是什么？</ResistPainPassive.description>
+  <ResistPainPassive.labelNoun>痛觉阻抗</ResistPainPassive.labelNoun>
+
   <UnstoppablePassive.label>不可阻挡</UnstoppablePassive.label>
-  <FuriousPassive.label>凶猛特性</FuriousPassive.label>
-  <BerserkPassive.label>狂暴特性</BerserkPassive.label>
+  <UnstoppablePassive.description>一往无前。</UnstoppablePassive.description>
+  <UnstoppablePassive.labelNoun>不可阻挡</UnstoppablePassive.labelNoun>
+
+  <FuriousPassive.label>凶猛状态</FuriousPassive.label>
+  <FuriousPassive.description>别挡道！</FuriousPassive.description>
+  <FuriousPassive.labelNoun>凶猛状态</FuriousPassive.labelNoun>
+
+  <BerserkPassive.label>狂暴状态</BerserkPassive.label>
+  <BerserkPassive.description>活生生的狂战士。</BerserkPassive.description>
+  <BerserkPassive.labelNoun>狂暴状态</BerserkPassive.labelNoun>
+
   <HardPassive.label>硬皮</HardPassive.label>
+  <HardPassive.description>皮肤硬化。</HardPassive.description>
+  <HardPassive.labelNoun>硬皮</HardPassive.labelNoun>
+
   <ThickPassive.label>厚皮</ThickPassive.label>
+  <ThickPassive.description>大大降低了撞击烈度。</ThickPassive.description>
+  <ThickPassive.labelNoun>厚皮</ThickPassive.labelNoun>
 
 
 </LanguageData>

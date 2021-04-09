@@ -3,79 +3,93 @@
 
   <LT_DoorMatRed.label>门垫</LT_DoorMatRed.label>
   <LT_DoorMatRed.description>一块可以用来清理鞋子的门垫。</LT_DoorMatRed.description>
-  <LT_DoorMatRed_Blueprint.label>门垫 （蓝图）</LT_DoorMatRed_Blueprint.label>
-  <LT_DoorMatRed_Blueprint_Install.label>门垫 （蓝图）</LT_DoorMatRed_Blueprint_Install.label>
-  <LT_DoorMatRed_Frame.label>门垫 （建造中）</LT_DoorMatRed_Frame.label>
+  <LT_DoorMatRed_Blueprint.label>门垫（蓝图）</LT_DoorMatRed_Blueprint.label>
+  <LT_DoorMatRed_Blueprint_Install.label>门垫（蓝图）</LT_DoorMatRed_Blueprint_Install.label>
+  <LT_DoorMatRed_Frame.label>门垫（建造中）</LT_DoorMatRed_Frame.label>
   <LT_DoorMatRed_Frame.description>一块可以用来清理鞋子的门垫。</LT_DoorMatRed_Frame.description>
 
   <LT_DoorMatBigRed.label>大块门垫（红）</LT_DoorMatBigRed.label>
   <LT_DoorMatBigRed.description>一块可以用来清理鞋子的门垫。</LT_DoorMatBigRed.description>
-  <LT_DoorMatBigRed_Blueprint.label>大块门垫（红） （蓝图）</LT_DoorMatBigRed_Blueprint.label>
-  <LT_DoorMatBigRed_Blueprint_Install.label>大块门垫（红） （蓝图）</LT_DoorMatBigRed_Blueprint_Install.label>
-  <LT_DoorMatBigRed_Frame.label>大块门垫（红） （建造中）</LT_DoorMatBigRed_Frame.label>
+  <LT_DoorMatBigRed_Blueprint.label>大块门垫（红）（蓝图）</LT_DoorMatBigRed_Blueprint.label>
+  <LT_DoorMatBigRed_Blueprint_Install.label>大块门垫（红）（蓝图）</LT_DoorMatBigRed_Blueprint_Install.label>
+  <LT_DoorMatBigRed_Frame.label>大块门垫（红）（建造中）</LT_DoorMatBigRed_Frame.label>
   <LT_DoorMatBigRed_Frame.description>一块可以用来清理鞋子的门垫。</LT_DoorMatBigRed_Frame.description>
 
   <HayRug.label>干草地毯</HayRug.label>
-  <HayRug_Blueprint.label>干草地毯 （蓝图）</HayRug_Blueprint.label>
-  <HayRug_Blueprint_Install.label>干草地毯 （蓝图）</HayRug_Blueprint_Install.label>
-  <HayRug_Frame.label>干草地毯 （建造中）</HayRug_Frame.label>
+  <HayRug.description>用这套艺术化的干草风格给你的家带来“牧场物语”的感觉。</HayRug.description>
+  <HayRug_Blueprint.label>干草地毯（蓝图）</HayRug_Blueprint.label>
+  <HayRug_Blueprint_Install.label>干草地毯（蓝图）</HayRug_Blueprint_Install.label>
+  <HayRug_Frame.label>干草地毯（建造中）</HayRug_Frame.label>
+  <HayRug_Frame.description>用这套艺术化的干草风格给你的家带来“牧场物语”的感觉。</HayRug_Frame.description>
 
   <PatchworkRug.label>拼缝地毯</PatchworkRug.label>
-  <PatchworkRug_Blueprint.label>拼缝地毯 （蓝图）</PatchworkRug_Blueprint.label>
-  <PatchworkRug_Blueprint_Install.label>拼缝地毯 （蓝图）</PatchworkRug_Blueprint_Install.label>
-  <PatchworkRug_Frame.label>拼缝地毯 （建造中）</PatchworkRug_Frame.label>
-
+  <PatchworkRug.description>五块皮革，拼凑成一块外观"精美"的粗犷地毯，用来装饰你的家！</PatchworkRug.description>
+  <PatchworkRug_Blueprint.label>拼缝地毯（蓝图）</PatchworkRug_Blueprint.label>
+  <PatchworkRug_Blueprint_Install.label>拼缝地毯（蓝图）</PatchworkRug_Blueprint_Install.label>
+  <PatchworkRug_Frame.label>拼缝地毯（建造中）</PatchworkRug_Frame.label>
+  <PatchworkRug_Frame.description>五块皮革，拼凑成一块外观"精美"的粗犷地毯，用来装饰你的家！</PatchworkRug_Frame.description>
 
   <CharmingRug.label>驼风地毯</CharmingRug.label>
-  <CharmingRug_Blueprint.label>驼风地毯 （蓝图）</CharmingRug_Blueprint.label>
-  <CharmingRug_Blueprint_Install.label>驼风地毯 （蓝图）</CharmingRug_Blueprint_Install.label>
-  <CharmingRug_Frame.label>驼风地毯 （建造中）</CharmingRug_Frame.label>
-
+  <CharmingRug.description>骆驼部落阿贝内罗风格的迷人小地毯。</CharmingRug.description>
+  <CharmingRug_Blueprint.label>驼风地毯（蓝图）</CharmingRug_Blueprint.label>
+  <CharmingRug_Blueprint_Install.label>驼风地毯（蓝图）</CharmingRug_Blueprint_Install.label>
+  <CharmingRug_Frame.label>驼风地毯（建造中）</CharmingRug_Frame.label>
+  <CharmingRug_Frame.description>骆驼部落阿贝内罗风格的迷人小地毯。</CharmingRug_Frame.description>
 
   <TribeRug.label>阿奎德地毯</TribeRug.label>
-  <TribeRug_Blueprint.label>阿奎德地毯 （蓝图）</TribeRug_Blueprint.label>
-  <TribeRug_Blueprint_Install.label>阿奎德地毯 （蓝图）</TribeRug_Blueprint_Install.label>
-  <TribeRug_Frame.label>阿奎德地毯 （建造中）</TribeRug_Frame.label>
+  <TribeRug.description>这件以地毯形式呈现的艺术品，展示了喀希格布拉加人在阿奎德一世身上所使用的奇妙设计。</TribeRug.description>
+  <TribeRug_Blueprint.label>阿奎德地毯（蓝图）</TribeRug_Blueprint.label>
+  <TribeRug_Blueprint_Install.label>阿奎德地毯（蓝图）</TribeRug_Blueprint_Install.label>
+  <TribeRug_Frame.label>阿奎德地毯（建造中）</TribeRug_Frame.label>
+  <TribeRug_Frame.description>这件以地毯形式呈现的艺术品，展示了喀希格布拉加人在阿奎德一世身上所使用的奇妙设计。</TribeRug_Frame.description>
 
   <FutstentRug.label>软绒地毯</FutstentRug.label>
-  <FutstentRug_Blueprint.label>软绒地毯 （蓝图）</FutstentRug_Blueprint.label>
-  <FutstentRug_Blueprint_Install.label>软绒地毯 （蓝图）</FutstentRug_Blueprint_Install.label>
-  <FutstentRug_Frame.label>软绒地毯 （建造中）</FutstentRug_Frame.label>
+  <FutstentRug.description>这块地毯是为步行而生的，这是它的天职！不用犹豫，去感受让你全身舒适的——脚感吧。</FutstentRug.description>
+  <FutstentRug_Blueprint.label>软绒地毯（蓝图）</FutstentRug_Blueprint.label>
+  <FutstentRug_Blueprint_Install.label>软绒地毯（蓝图）</FutstentRug_Blueprint_Install.label>
+  <FutstentRug_Frame.label>软绒地毯（建造中）</FutstentRug_Frame.label>
+  <FutstentRug_Frame.description>这块地毯是为步行而生的，这是它的天职！不用犹豫，去感受让你全身舒适的——脚感吧。</FutstentRug_Frame.description>
 
   <StepRug.label>步行地毯</StepRug.label>
-  <StepRug_Blueprint.label>步行地毯 （蓝图）</StepRug_Blueprint.label>
-  <StepRug_Blueprint_Install.label>步行地毯 （蓝图）</StepRug_Blueprint_Install.label>
-  <StepRug_Frame.label>步行地毯 （建造中）</StepRug_Frame.label>
+  <StepRug.description>走到台阶地毯上，找到你的奢华之路！光耀所有卧室，升华每个房间。</StepRug.description>
+  <StepRug_Blueprint.label>步行地毯（蓝图）</StepRug_Blueprint.label>
+  <StepRug_Blueprint_Install.label>步行地毯（蓝图）</StepRug_Blueprint_Install.label>
+  <StepRug_Frame.label>步行地毯（建造中）</StepRug_Frame.label>
+  <StepRug_Frame.description>走到台阶地毯上，找到你的奢华之路！光耀所有卧室，升华每个房间。</StepRug_Frame.description>
 
   <SquareCozyRugB.label>方形软地毯</SquareCozyRugB.label>
-  <SquareCozyRugB_Blueprint.label>方形软地毯 （蓝图）</SquareCozyRugB_Blueprint.label>
-  <SquareCozyRugB_Blueprint_Install.label>方形软地毯 （蓝图）</SquareCozyRugB_Blueprint_Install.label>
-  <SquareCozyRugB_Frame.label>方形软地毯 （建造中）</SquareCozyRugB_Frame.label>
-
+  <SquareCozyRugB.description>这条地毯可以让你通向奢华之路！</SquareCozyRugB.description>
+  <SquareCozyRugB_Blueprint.label>方形软地毯（蓝图）</SquareCozyRugB_Blueprint.label>
+  <SquareCozyRugB_Blueprint_Install.label>方形软地毯（蓝图）</SquareCozyRugB_Blueprint_Install.label>
+  <SquareCozyRugB_Frame.label>方形软地毯（建造中）</SquareCozyRugB_Frame.label>
+  <SquareCozyRugB_Frame.description>这条地毯可以让你通向奢华之路！</SquareCozyRugB_Frame.description>
 
   <SquareCozyRug.label>方形软地毯</SquareCozyRug.label>
-  <SquareCozyRug_Blueprint.label>方形软地毯 （蓝图）</SquareCozyRug_Blueprint.label>
-  <SquareCozyRug_Blueprint_Install.label>方形软地毯 （蓝图）</SquareCozyRug_Blueprint_Install.label>
-  <SquareCozyRug_Frame.label>方形软地毯 （建造中）</SquareCozyRug_Frame.label>
-
+  <SquareCozyRug.description>这条地毯可以让你通向奢华之路！</SquareCozyRug.description>
+  <SquareCozyRug_Blueprint.label>方形软地毯（蓝图）</SquareCozyRug_Blueprint.label>
+  <SquareCozyRug_Blueprint_Install.label>方形软地毯（蓝图）</SquareCozyRug_Blueprint_Install.label>
+  <SquareCozyRug_Frame.label>方形软地毯（建造中）</SquareCozyRug_Frame.label>
+  <SquareCozyRug_Frame.description>这条地毯可以让你通向奢华之路！</SquareCozyRug_Frame.description>
 
   <RoundCozyRug.label>圆形软地毯</RoundCozyRug.label>
-  <RoundCozyRug_Blueprint.label>圆形软地毯 （蓝图）</RoundCozyRug_Blueprint.label>
-  <RoundCozyRug_Blueprint_Install.label>圆形软地毯 （蓝图）</RoundCozyRug_Blueprint_Install.label>
-  <RoundCozyRug_Frame.label>圆形软地毯 （建造中）</RoundCozyRug_Frame.label>
-
+  <RoundCozyRug.description>这条地毯可以让你通向奢华之路！</RoundCozyRug.description>
+  <RoundCozyRug_Blueprint.label>圆形软地毯（蓝图）</RoundCozyRug_Blueprint.label>
+  <RoundCozyRug_Blueprint_Install.label>圆形软地毯（蓝图）</RoundCozyRug_Blueprint_Install.label>
+  <RoundCozyRug_Frame.label>圆形软地毯（建造中）</RoundCozyRug_Frame.label>
+  <RoundCozyRug_Frame.description>这条地毯可以让你通向奢华之路！</RoundCozyRug_Frame.description>
 
   <RoundCozyRugB.label>圆形软地毯</RoundCozyRugB.label>
-  <RoundCozyRugB_Blueprint.label>圆形软地毯 （蓝图）</RoundCozyRugB_Blueprint.label>
-  <RoundCozyRugB_Blueprint_Install.label>圆形软地毯 （蓝图）</RoundCozyRugB_Blueprint_Install.label>
-  <RoundCozyRugB_Frame.label>圆形软地毯 （建造中）</RoundCozyRugB_Frame.label>
-
+  <RoundCozyRugB.description>这条地毯可以让你通向奢华之路！</RoundCozyRugB.description>
+  <RoundCozyRugB_Blueprint.label>圆形软地毯（蓝图）</RoundCozyRugB_Blueprint.label>
+  <RoundCozyRugB_Blueprint_Install.label>圆形软地毯（蓝图）</RoundCozyRugB_Blueprint_Install.label>
+  <RoundCozyRugB_Frame.label>圆形软地毯（建造中）</RoundCozyRugB_Frame.label>
+  <RoundCozyRugB_Frame.description>这条地毯可以让你通向奢华之路！</RoundCozyRugB_Frame.description>
 
   <DoorMat.label>门垫</DoorMat.label>
   <DoorMat.description>一块可以用来清理鞋子的门垫。</DoorMat.description>
-  <DoorMat_Blueprint.label>门垫 （蓝图）</DoorMat_Blueprint.label>
-  <DoorMat_Blueprint_Install.label>门垫 （蓝图）</DoorMat_Blueprint_Install.label>
-  <DoorMat_Frame.label>门垫 （建造中）</DoorMat_Frame.label>
+  <DoorMat_Blueprint.label>门垫（蓝图）</DoorMat_Blueprint.label>
+  <DoorMat_Blueprint_Install.label>门垫（蓝图）</DoorMat_Blueprint_Install.label>
+  <DoorMat_Frame.label>门垫（建造中）</DoorMat_Frame.label>
   <DoorMat_Frame.description>一块可以用来清理鞋子的门垫。</DoorMat_Frame.description>
 
   <OneOneRoundRug.label>圆形地毯1x1</OneOneRoundRug.label>

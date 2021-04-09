@@ -3,8 +3,9 @@
 
   <!-- Furniture -->
 
-  <SK_Glowstone.label>耀石灯</SK_Glowstone.label>
-  <SK_Glowstone.description>解锁如何用漂亮的耀石建造灯具。</SK_Glowstone.description>
+  <SK_Glowstone.label>萤石灯</SK_Glowstone.label>
+  <SK_Glowstone.description>解锁如何用漂亮的萤石建造灯具。</SK_Glowstone.description>
+
 
 
   <!-- GlowstoneLamp -->
@@ -17,8 +18,8 @@
 	Bench
 	Table2x4c -->
 
-  <SK_DiningRoomII.label>餐厅家具 II</SK_DiningRoomII.label>
-  <SK_DiningRoomII.description>解锁建造更加舒适的餐厅家具，例如餐椅等。</SK_DiningRoomII.description>
+  <ComplexFurniture.label>餐厅家具 II</ComplexFurniture.label>
+  <ComplexFurniture.description>解锁建造更加舒适的餐厅家具，例如餐椅等。</ComplexFurniture.description>
 
 
   <!-- DiningChair
@@ -94,6 +95,7 @@
   <Beds.description>解锁建造文艺复兴时期风格的家具，包括床和桌子。</Beds.description>
 
 
+
   <!-- Bed
 			DoubleBed
 			Dresser
@@ -134,6 +136,7 @@
 
   <SK_BedroomIV.label>纳米时代卧室家具</SK_BedroomIV.label>
   <SK_BedroomIV.description>纳米时代的科技应用于家居制品能够为殖民地解锁更加符合人体工学的舒适桌椅和卧具。</SK_BedroomIV.description>
+
 
 
   <!-- SixSixSquareRug
@@ -201,7 +204,7 @@
 	Candle а фиг его знает что тут свечка делает -->
 
   <SK_StorageII.label>存储设施 II</SK_StorageII.label>
-  <SK_StorageII.description>解锁一些更加有效率的存储设施。解锁壁柜、储物架、箕斗以及晾晒架。</SK_StorageII.description>
+  <SK_StorageII.description>解锁一些更加有效率的存储设施。解锁壁柜、储物架、货架以及晾晒架。</SK_StorageII.description>
 
 
   <!-- Storage_SkipBig

@@ -1,46 +1,123 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
- <!-- Prospector -->
+  <!-- Prospector -->
 
   <SyndicateProspector.label>辛迪加勘探者</SyndicateProspector.label>
   <SyndicateProspector.labelPlural>辛迪加勘探者</SyndicateProspector.labelPlural>
+  <SyndicateProspector.labelMale>男性辛迪加勘探者</SyndicateProspector.labelMale>
+  <SyndicateProspector.labelMalePlural>男性辛迪加勘探者</SyndicateProspector.labelMalePlural>
+  <SyndicateProspector.labelFemale>女性辛迪加勘探者</SyndicateProspector.labelFemale>
+  <SyndicateProspector.labelFemalePlural>女性辛迪加勘探者</SyndicateProspector.labelFemalePlural>
+
+  <SyndicateProspector_Acidifier.label>辛迪加勘探者</SyndicateProspector_Acidifier.label>
+  <SyndicateProspector_Acidifier.labelPlural>辛迪加勘探者</SyndicateProspector_Acidifier.labelPlural>
+  <SyndicateProspector_Acidifier.labelMale>男性辛迪加勘探者</SyndicateProspector_Acidifier.labelMale>
+  <SyndicateProspector_Acidifier.labelMalePlural>男性辛迪加勘探者</SyndicateProspector_Acidifier.labelMalePlural>
+  <SyndicateProspector_Acidifier.labelFemale>女性辛迪加勘探者</SyndicateProspector_Acidifier.labelFemale>
+  <SyndicateProspector_Acidifier.labelFemalePlural>女性辛迪加勘探者</SyndicateProspector_Acidifier.labelFemalePlural>
 
 
   <!-- Striker -->
 
   <SyndicateStriker.label>辛迪加袭击者</SyndicateStriker.label>
   <SyndicateStriker.labelPlural>辛迪加袭击者</SyndicateStriker.labelPlural>
+  <SyndicateStriker.labelMale>男性辛迪加袭击者</SyndicateStriker.labelMale>
+  <SyndicateStriker.labelMalePlural>男性辛迪加袭击者</SyndicateStriker.labelMalePlural>
+  <SyndicateStriker.labelFemale>女性辛迪加袭击者</SyndicateStriker.labelFemale>
+  <SyndicateStriker.labelFemalePlural>女性辛迪加袭击者</SyndicateStriker.labelFemalePlural>
+
+  <SyndicateStriker_Acidifier.label>辛迪加袭击者</SyndicateStriker_Acidifier.label>
+  <SyndicateStriker_Acidifier.labelPlural>辛迪加袭击者</SyndicateStriker_Acidifier.labelPlural>
+  <SyndicateStriker_Acidifier.labelMale>男性辛迪加袭击者</SyndicateStriker_Acidifier.labelMale>
+  <SyndicateStriker_Acidifier.labelMalePlural>男性辛迪加袭击者</SyndicateStriker_Acidifier.labelMalePlural>
+  <SyndicateStriker_Acidifier.labelFemale>女性辛迪加袭击者</SyndicateStriker_Acidifier.labelFemale>
+  <SyndicateStriker_Acidifier.labelFemalePlural>女性辛迪加袭击者</SyndicateStriker_Acidifier.labelFemalePlural>
 
 
   <!-- Hunter -->
 
   <SyndicateHunter.label>辛迪加猎手</SyndicateHunter.label>
   <SyndicateHunter.labelPlural>辛迪加猎手</SyndicateHunter.labelPlural>
+  <SyndicateHunter.labelMale>男性辛迪加猎手</SyndicateHunter.labelMale>
+  <SyndicateHunter.labelMalePlural>男性辛迪加猎手</SyndicateHunter.labelMalePlural>
+  <SyndicateHunter.labelFemale>女性辛迪加猎手</SyndicateHunter.labelFemale>
+  <SyndicateHunter.labelFemalePlural>女性辛迪加猎手</SyndicateHunter.labelFemalePlural>
+
+  <SyndicateHunter_Acidifier.label>辛迪加猎手</SyndicateHunter_Acidifier.label>
+  <SyndicateHunter_Acidifier.labelPlural>辛迪加猎手</SyndicateHunter_Acidifier.labelPlural>
+  <SyndicateHunter_Acidifier.labelMale>男性辛迪加猎手</SyndicateHunter_Acidifier.labelMale>
+  <SyndicateHunter_Acidifier.labelMalePlural>男性辛迪加猎手</SyndicateHunter_Acidifier.labelMalePlural>
+  <SyndicateHunter_Acidifier.labelFemale>女性辛迪加猎手</SyndicateHunter_Acidifier.labelFemale>
+  <SyndicateHunter_Acidifier.labelFemalePlural>女性辛迪加猎手</SyndicateHunter_Acidifier.labelFemalePlural>
 
 
   <!-- Hawkeye -->
 
   <SyndicateHawkeye.label>辛迪加截击者</SyndicateHawkeye.label>
   <SyndicateHawkeye.labelPlural>辛迪加截击者</SyndicateHawkeye.labelPlural>
+  <SyndicateHawkeye.labelMale>男性辛迪加截击者</SyndicateHawkeye.labelMale>
+  <SyndicateHawkeye.labelMalePlural>男性辛迪加截击者</SyndicateHawkeye.labelMalePlural>
+  <SyndicateHawkeye.labelFemale>女性辛迪加截击者</SyndicateHawkeye.labelFemale>
+  <SyndicateHawkeye.labelFemalePlural>女性辛迪加截击者</SyndicateHawkeye.labelFemalePlural>
+
+  <SyndicateHawkeye_Acidifier.label>辛迪加截击者</SyndicateHawkeye_Acidifier.label>
+  <SyndicateHawkeye_Acidifier.labelPlural>辛迪加截击者</SyndicateHawkeye_Acidifier.labelPlural>
+  <SyndicateHawkeye_Acidifier.labelMale>男性辛迪加截击者</SyndicateHawkeye_Acidifier.labelMale>
+  <SyndicateHawkeye_Acidifier.labelMalePlural>男性辛迪加截击者</SyndicateHawkeye_Acidifier.labelMalePlural>
+  <SyndicateHawkeye_Acidifier.labelFemale>女性辛迪加截击者</SyndicateHawkeye_Acidifier.labelFemale>
+  <SyndicateHawkeye_Acidifier.labelFemalePlural>女性辛迪加截击者</SyndicateHawkeye_Acidifier.labelFemalePlural>
 
 
   <!-- Devastator -->
 
   <SyndicateDevastator.label>辛迪加毁灭者</SyndicateDevastator.label>
   <SyndicateDevastator.labelPlural>辛迪加毁灭者</SyndicateDevastator.labelPlural>
+  <SyndicateDevastator.labelMale>男性辛迪加毁灭者</SyndicateDevastator.labelMale>
+  <SyndicateDevastator.labelMalePlural>男性辛迪加毁灭者</SyndicateDevastator.labelMalePlural>
+  <SyndicateDevastator.labelFemale>女性辛迪加毁灭者</SyndicateDevastator.labelFemale>
+  <SyndicateDevastator.labelFemalePlural>女性辛迪加毁灭者</SyndicateDevastator.labelFemalePlural>
+
+  <SyndicateDevastator_Acidifier.label>辛迪加毁灭者</SyndicateDevastator_Acidifier.label>
+  <SyndicateDevastator_Acidifier.labelPlural>辛迪加毁灭者</SyndicateDevastator_Acidifier.labelPlural>
+  <SyndicateDevastator_Acidifier.labelMale>男性辛迪加毁灭者</SyndicateDevastator_Acidifier.labelMale>
+  <SyndicateDevastator_Acidifier.labelMalePlural>男性辛迪加毁灭者</SyndicateDevastator_Acidifier.labelMalePlural>
+  <SyndicateDevastator_Acidifier.labelFemale>女性辛迪加毁灭者</SyndicateDevastator_Acidifier.labelFemale>
+  <SyndicateDevastator_Acidifier.labelFemalePlural>女性辛迪加毁灭者</SyndicateDevastator_Acidifier.labelFemalePlural>
 
 
   <!-- Annihilator -->
 
   <SyndicateAnnihilator.label>辛迪加歼灭者</SyndicateAnnihilator.label>
   <SyndicateAnnihilator.labelPlural>辛迪加歼灭者</SyndicateAnnihilator.labelPlural>
+  <SyndicateAnnihilator.labelMale>男性辛迪加歼灭者</SyndicateAnnihilator.labelMale>
+  <SyndicateAnnihilator.labelMalePlural>男性辛迪加歼灭者</SyndicateAnnihilator.labelMalePlural>
+  <SyndicateAnnihilator.labelFemale>女性辛迪加歼灭者</SyndicateAnnihilator.labelFemale>
+  <SyndicateAnnihilator.labelFemalePlural>女性辛迪加歼灭者</SyndicateAnnihilator.labelFemalePlural>
+
+  <SyndicateAnnihilator_Acidifier.label>辛迪加歼灭者</SyndicateAnnihilator_Acidifier.label>
+  <SyndicateAnnihilator_Acidifier.labelPlural>辛迪加歼灭者</SyndicateAnnihilator_Acidifier.labelPlural>
+  <SyndicateAnnihilator_Acidifier.labelMale>男性辛迪加歼灭者</SyndicateAnnihilator_Acidifier.labelMale>
+  <SyndicateAnnihilator_Acidifier.labelMalePlural>男性辛迪加歼灭者</SyndicateAnnihilator_Acidifier.labelMalePlural>
+  <SyndicateAnnihilator_Acidifier.labelFemale>女性辛迪加歼灭者</SyndicateAnnihilator_Acidifier.labelFemale>
+  <SyndicateAnnihilator_Acidifier.labelFemalePlural>女性辛迪加歼灭者</SyndicateAnnihilator_Acidifier.labelFemalePlural>
 
 
   <!-- Bloodborne -->
 
   <SyndicateBloodborne.label>辛迪加血袭者</SyndicateBloodborne.label>
   <SyndicateBloodborne.labelPlural>辛迪加血袭者</SyndicateBloodborne.labelPlural>
+  <SyndicateBloodborne.labelMale>男性辛迪加血袭者</SyndicateBloodborne.labelMale>
+  <SyndicateBloodborne.labelMalePlural>男性辛迪加血袭者</SyndicateBloodborne.labelMalePlural>
+  <SyndicateBloodborne.labelFemale>女性辛迪加血袭者</SyndicateBloodborne.labelFemale>
+  <SyndicateBloodborne.labelFemalePlural>女性辛迪加血袭者</SyndicateBloodborne.labelFemalePlural>
+
+  <SyndicateBloodborne_Acidifier.label>辛迪加血袭者</SyndicateBloodborne_Acidifier.label>
+  <SyndicateBloodborne_Acidifier.labelPlural>辛迪加血袭者</SyndicateBloodborne_Acidifier.labelPlural>
+  <SyndicateBloodborne_Acidifier.labelMale>男性辛迪加血袭者</SyndicateBloodborne_Acidifier.labelMale>
+  <SyndicateBloodborne_Acidifier.labelMalePlural>男性辛迪加血袭者</SyndicateBloodborne_Acidifier.labelMalePlural>
+  <SyndicateBloodborne_Acidifier.labelFemale>女性辛迪加血袭者</SyndicateBloodborne_Acidifier.labelFemale>
+  <SyndicateBloodborne_Acidifier.labelFemalePlural>女性辛迪加血袭者</SyndicateBloodborne_Acidifier.labelFemalePlural>
 
 
 </LanguageData>

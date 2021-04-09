@@ -2,9 +2,12 @@
 <LanguageData>
 
   <OgreClan.label>食人魔部落</OgreClan.label>
-  <OgreClan.description>食人魔部落</OgreClan.description>
   <OgreClan.pawnsPlural>食人魔</OgreClan.pawnsPlural>
   <OgreClan.leaderTitle>部落萨满</OgreClan.leaderTitle>
+
+  <OgreMutants.label>食人魔突变体</OgreMutants.label>
+  <OgreMutants.pawnsPlural>食人魔</OgreMutants.pawnsPlural>
+  <OgreMutants.leaderTitle>食人魔萨满</OgreMutants.leaderTitle>
 
 
 </LanguageData>

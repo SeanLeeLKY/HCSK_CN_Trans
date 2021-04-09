@@ -41,9 +41,9 @@
   <MakeCharcoal_Electric.description>将原木或者竹子烧制成为木炭。较高的工作效率。 \n\n产出：20。</MakeCharcoal_Electric.description>
   <MakeCharcoal_Electric.jobString>正在烧制 木炭。</MakeCharcoal_Electric.jobString>
 
-  <MakeBioDiesel.label>制造 生物燃料</MakeBioDiesel.label>
-  <MakeBioDiesel.description>用豆荚制造生物燃料。 \n\n产出：10。</MakeBioDiesel.description>
-  <MakeBioDiesel.jobString>正在制造 生物燃料。</MakeBioDiesel.jobString>
+  <MakeBioDiesel.label>制造 生物柴油</MakeBioDiesel.label>
+  <MakeBioDiesel.description>用豆荚制造生物柴油。 \n\n产出：10。</MakeBioDiesel.description>
+  <MakeBioDiesel.jobString>正在制造 生物柴油。</MakeBioDiesel.jobString>
 
   <MakeClayBricks.label>烧制 黏土砖</MakeClayBricks.label>
   <MakeClayBricks.description>用软黏土烧制黏土砖。 \n\n产出：5。</MakeClayBricks.description>
@@ -73,11 +73,11 @@
   <MixConcreteElectric.description>将沙子和碎石按一定比例混合，然后添加粘合剂和水制成普通混凝土。 \n\n产出：15。</MixConcreteElectric.description>
   <MixConcreteElectric.jobString>正在搅拌 混凝土。</MixConcreteElectric.jobString>
 
-  <MakeChemfuel.label>制造 合成燃料</MakeChemfuel.label>
-  <MakeChemfuel.description>用玉米、小麦或者稻米制造合成燃料。 \n\n产出：5。</MakeChemfuel.description>
-  <MakeChemfuel.jobString>正在制造 合成燃料。</MakeChemfuel.jobString>
+  <MakeChemfuel.label>制造 化合燃料</MakeChemfuel.label>
+  <MakeChemfuel.description>用玉米、小麦或者稻米制造化合燃料。 \n\n产出：5。</MakeChemfuel.description>
+  <MakeChemfuel.jobString>正在制造 化合燃料。</MakeChemfuel.jobString>
 
-  <MakeSilicon_Electric.label>提炼 硅晶体</MakeSilicon_Electric.label>
+  <MakeSilicon_Electric.label>提炼 晶体硅</MakeSilicon_Electric.label>
   <MakeSilicon_Electric.description>用高温熔炼沙子，提炼和纯化其中的硅成分。 较高的工作效率。 \n\n产出：5。</MakeSilicon_Electric.description>
   <MakeSilicon_Electric.jobString>正在提炼 硅。</MakeSilicon_Electric.jobString>
 

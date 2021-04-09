@@ -3,7 +3,9 @@
 
   <JobDef_FishAtFishingPier.reportString>在码头上钓鱼。</JobDef_FishAtFishingPier.reportString>
   <JobDef_FishAtFishingZone.reportString>钓鱼。</JobDef_FishAtFishingZone.reportString>
-  <JobDef_HarvestAquacultureBasinProduction.reportString>收获 TargetA。</JobDef_HarvestAquacultureBasinProduction.reportString>
+  <JobDef_AquacultureBasinHarvest.reportString>收获 TargetA。</JobDef_AquacultureBasinHarvest.reportString>
+  <JobDef_AquacultureBasinChangeSpecies.reportString>于 TargetA 改变种类。</JobDef_AquacultureBasinChangeSpecies.reportString>
+  <JobDef_AquacultureBasinMaintain.reportString>维护 TargetA。</JobDef_AquacultureBasinMaintain.reportString>
 
 
 </LanguageData>

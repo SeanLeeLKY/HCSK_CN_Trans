@@ -2,8 +2,13 @@
 <LanguageData>
 
   <QRY_QuarriedGround.label>开掘地表</QRY_QuarriedGround.label>
+  <QRY_QuarriedGround.tools.0.label>尘土</QRY_QuarriedGround.tools.0.label>
+
   <QRY_QuarriedGroundWall.label>开掘地表</QRY_QuarriedGroundWall.label>
-  <QRY_ReclaimedSoil.label>回填土壤</QRY_ReclaimedSoil.label>
+  <QRY_QuarriedGroundWall.tools.0.label>尘土</QRY_QuarriedGroundWall.tools.0.label>
+
+  <QRY_ReclaimedSoil.label>回填土地</QRY_ReclaimedSoil.label>
+  <QRY_ReclaimedSoil.tools.0.label>尘土</QRY_ReclaimedSoil.tools.0.label>
 
 
 </LanguageData>

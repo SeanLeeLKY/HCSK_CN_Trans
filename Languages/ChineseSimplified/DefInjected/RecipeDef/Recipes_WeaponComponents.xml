@@ -1,57 +1,57 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeWeapon_Parts.label>制造 武器部件</MakeWeapon_Parts.label>
+  <MakeWeapon_Parts.label>制造武器部件</MakeWeapon_Parts.label>
   <MakeWeapon_Parts.description>制造各种武器使用的标准部件材料。 \n\n产出：5。</MakeWeapon_Parts.description>
-  <MakeWeapon_Parts.jobString>正在制造  武器部件。</MakeWeapon_Parts.jobString>
+  <MakeWeapon_Parts.jobString>正在制造 武器部件。</MakeWeapon_Parts.jobString>
 
-  <MakePistol_Component.label>制造 手枪零件</MakePistol_Component.label>
-  <MakePistol_Component.description>用于制造各类手枪的特殊零件。 \n\n产出：1。</MakePistol_Component.description>
-  <MakePistol_Component.jobString>正在制造 手枪零件。</MakePistol_Component.jobString>
+  <MakePistol_Component.label>制造手枪部件</MakePistol_Component.label>
+  <MakePistol_Component.description>用于制造各类手枪的特殊部件。 \n\n产出：1。</MakePistol_Component.description>
+  <MakePistol_Component.jobString>正在制造手枪部件。</MakePistol_Component.jobString>
 
-  <MakeSMG_Component.label>制造 冲锋枪零件</MakeSMG_Component.label>
-  <MakeSMG_Component.description>用于制造各类冲锋枪的特殊零件。 \n\n产出：1。</MakeSMG_Component.description>
-  <MakeSMG_Component.jobString>正在制造 冲锋枪零件。</MakeSMG_Component.jobString>
+  <MakeSMG_Component.label>制造冲锋枪部件</MakeSMG_Component.label>
+  <MakeSMG_Component.description>用于制造各类冲锋枪的特殊部件。 \n\n产出：1。</MakeSMG_Component.description>
+  <MakeSMG_Component.jobString>正在制造冲锋枪部件。</MakeSMG_Component.jobString>
 
-  <MakeShotgun_Component.label>制造 霰弹枪零件</MakeShotgun_Component.label>
-  <MakeShotgun_Component.description>用于制造各类霰弹枪的特殊零件。 \n\n产出：1。</MakeShotgun_Component.description>
-  <MakeShotgun_Component.jobString>正在制造 霰弹枪零件。</MakeShotgun_Component.jobString>
+  <MakeShotgun_Component.label>制造霰弹枪部件</MakeShotgun_Component.label>
+  <MakeShotgun_Component.description>用于制造各类霰弹枪的特殊部件。 \n\n产出：1。</MakeShotgun_Component.description>
+  <MakeShotgun_Component.jobString>正在制造霰弹枪部件。</MakeShotgun_Component.jobString>
 
-  <MakeRifle_Component.label>制造 步枪零件</MakeRifle_Component.label>
-  <MakeRifle_Component.description>用于制造各类步枪的特殊零件。 \n\n产出：1。</MakeRifle_Component.description>
-  <MakeRifle_Component.jobString>正在制造 步枪零件。</MakeRifle_Component.jobString>
+  <MakeRifle_Component.label>制造步枪部件</MakeRifle_Component.label>
+  <MakeRifle_Component.description>用于制造各类步枪的特殊部件。 \n\n产出：1。</MakeRifle_Component.description>
+  <MakeRifle_Component.jobString>正在制造步枪部件。</MakeRifle_Component.jobString>
 
-  <MakeAdvRifle_Component.label>制造 先进步枪零件</MakeAdvRifle_Component.label>
-  <MakeAdvRifle_Component.description>用于制造各类先进步枪的特殊零件。 \n\n产出：1。</MakeAdvRifle_Component.description>
-  <MakeAdvRifle_Component.jobString>正在制造 先进步枪零件。</MakeAdvRifle_Component.jobString>
+  <MakeAdvRifle_Component.label>制造先进步枪部件</MakeAdvRifle_Component.label>
+  <MakeAdvRifle_Component.description>用于制造各类先进步枪的特殊部件。 \n\n产出：1。</MakeAdvRifle_Component.description>
+  <MakeAdvRifle_Component.jobString>正在制造先进步枪部件。</MakeAdvRifle_Component.jobString>
 
-  <MakeSniper_Component.label>制造 狙击步枪零件</MakeSniper_Component.label>
-  <MakeSniper_Component.description>用于制造各类狙击步枪的特殊零件。 \n\n产出：1。</MakeSniper_Component.description>
-  <MakeSniper_Component.jobString>正在制造 狙击步枪零件。</MakeSniper_Component.jobString>
+  <MakeSniper_Component.label>制造狙击枪部件</MakeSniper_Component.label>
+  <MakeSniper_Component.description>用于制造各类狙击步枪的特殊部件。 \n\n产出：1。</MakeSniper_Component.description>
+  <MakeSniper_Component.jobString>正在制造狙击步枪部件。</MakeSniper_Component.jobString>
 
-  <MakeAdvSniper_Component.label>制造 先进狙击步枪零件</MakeAdvSniper_Component.label>
-  <MakeAdvSniper_Component.description>用于制造各类先进狙击步枪的特殊零件。 \n\n产出：1。</MakeAdvSniper_Component.description>
-  <MakeAdvSniper_Component.jobString>正在制造 先进狙击步枪零件。</MakeAdvSniper_Component.jobString>
+  <MakeAdvSniper_Component.label>制造先进狙击枪部件</MakeAdvSniper_Component.label>
+  <MakeAdvSniper_Component.description>用于制造各类先进狙击步枪的特殊部件。 \n\n产出：1。</MakeAdvSniper_Component.description>
+  <MakeAdvSniper_Component.jobString>正在制造先进狙击步枪部件。</MakeAdvSniper_Component.jobString>
 
-  <MakeHeavy_Component.label>制造 重武器零件</MakeHeavy_Component.label>
-  <MakeHeavy_Component.description>用于制造各类重型武器的特殊零件。 \n\n产出：1。</MakeHeavy_Component.description>
-  <MakeHeavy_Component.jobString>正在制造 重武器零件。</MakeHeavy_Component.jobString>
+  <MakeHeavy_Component.label>制造重型武器部件</MakeHeavy_Component.label>
+  <MakeHeavy_Component.description>用于制造各类重型武器的特殊部件。 \n\n产出：1。</MakeHeavy_Component.description>
+  <MakeHeavy_Component.jobString>正在制造重型武器部件。</MakeHeavy_Component.jobString>
 
-  <MakeLauncher_Component.label>制造 发射器零件</MakeLauncher_Component.label>
-  <MakeLauncher_Component.description>用于制造各类发射器类型武器的特殊零件。 \n\n产出：1。</MakeLauncher_Component.description>
-  <MakeLauncher_Component.jobString>正在制造 发射器零件。</MakeLauncher_Component.jobString>
+  <MakeLauncher_Component.label>制造发射器部件</MakeLauncher_Component.label>
+  <MakeLauncher_Component.description>用于制造各类发射器类型武器的特殊部件。 \n\n产出：1。</MakeLauncher_Component.description>
+  <MakeLauncher_Component.jobString>正在制造发射器部件。</MakeLauncher_Component.jobString>
 
-  <MakeCannon_Component.label>制造 火炮零件</MakeCannon_Component.label>
-  <MakeCannon_Component.description>用于制造各类火炮武器的特殊零件。 \n\n产出：1。</MakeCannon_Component.description>
-  <MakeCannon_Component.jobString>正在制造 火炮零件。</MakeCannon_Component.jobString>
+  <MakeCannon_Component.label>制造火炮武器部件</MakeCannon_Component.label>
+  <MakeCannon_Component.description>用于制造各类火炮武器的特殊部件。 \n\n产出：1。</MakeCannon_Component.description>
+  <MakeCannon_Component.jobString>正在制造火炮武器部件。</MakeCannon_Component.jobString>
 
-  <MakePlasma_Component.label>制造 等离子武器零件</MakePlasma_Component.label>
-  <MakePlasma_Component.description>用于制造各类等离子武器的特殊零件。 \n\n产出：1。</MakePlasma_Component.description>
-  <MakePlasma_Component.jobString>正在制造 等离子武器零件。</MakePlasma_Component.jobString>
+  <MakePlasma_Component.label>制造离子武器部件</MakePlasma_Component.label>
+  <MakePlasma_Component.description>用于制造各类离子武器的特殊部件。 \n\n产出：1。</MakePlasma_Component.description>
+  <MakePlasma_Component.jobString>正在制造离子武器部件。</MakePlasma_Component.jobString>
 
-  <MakeLaser_Component.label>制造 激光武器零件</MakeLaser_Component.label>
-  <MakeLaser_Component.description>用于制造各类激光武器的特殊零件。 \n\n产出：1。</MakeLaser_Component.description>
-  <MakeLaser_Component.jobString>正在制造 激光武器零件。</MakeLaser_Component.jobString>
+  <MakeLaser_Component.label>制造激光武器部件</MakeLaser_Component.label>
+  <MakeLaser_Component.description>用于制造各类激光武器的特殊部件。 \n\n产出：1。</MakeLaser_Component.description>
+  <MakeLaser_Component.jobString>正在制造激光武器部件。</MakeLaser_Component.jobString>
 
 
 </LanguageData>

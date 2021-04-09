@@ -11,140 +11,126 @@
 
 
   <!-- PlantCarrot
-					Plantonion
+					Plant_Onion
 					MakeVegetables -->
 
   <SK_VegetablesII.label>蔬菜种植 II</SK_VegetablesII.label>
   <SK_VegetablesII.description>我们对蔬菜种植技术有了进一步的研究，现在我们的殖民者可以种植新的蔬菜和作物，如卷心菜和茄子。</SK_VegetablesII.description>
 
-
-  <!-- PlantCabbage
-					Planteggplant -->
-
   <SK_VegetablesIII.label>蔬菜种植 III</SK_VegetablesIII.label>
   <SK_VegetablesIII.description>我们对蔬菜种植技术有了更深的研究，现在我们的殖民者可以种植以及利用新的蔬菜和作物，比如豆类作物。</SK_VegetablesIII.description>
 
 
-  <!-- Plantbean
-							Makesoymilk
-							MakeTofu -->
+  <!-- PlantCabbage
+					Planteggplant -->
 
   <SK_FruitsI.label>水果培育 I</SK_FruitsI.label>
   <SK_FruitsI.description>研究了解水果的培育技术，允许殖民者种植不同的水果，如云莓和醋栗。</SK_FruitsI.description>
 
 
-  <!-- PlantAgave
-							Plantcloudberry
-							Plantgooseberry -->
+  <!-- Plant_Agave -->
 
   <SK_FruitsII.label>水果培育 II</SK_FruitsII.label>
   <SK_FruitsII.description>对水果的培育技术有了进一步的了解，现在殖民者们可以种植培育蓝莓。</SK_FruitsII.description>
-
-
-  <!-- Plantblueberry
-					MakeFruitDrink -->
 
   <SK_FruitsIII.label>水果培育 III</SK_FruitsIII.label>
   <SK_FruitsIII.description>深入研究水果的培育技术，允许殖民者种植许多不同的水果和作物，如草莓和番茄。</SK_FruitsIII.description>
 
 
-  <!-- PlantStrawberry
-							PlantTomato
-							Plantgrape -->
+  <!-- MakeFruitDrink -->
 
   <SK_CerealsI.label>谷物种植 I</SK_CerealsI.label>
   <SK_CerealsI.description>解锁谷物的基本种植技术，现在可以种植和利用燕麦。</SK_CerealsI.description>
 
 
-  <!-- Plantoats
-							MakeFlour -->
+  <!-- MakeFlour -->
 
   <SK_CerealsII.label>谷物种植 II</SK_CerealsII.label>
   <SK_CerealsII.description>对谷物的培育技术有了进一步的了解，现在殖民者们可以种植培育玉米和小麦。</SK_CerealsII.description>
 
 
-  <!-- PlantCorn
+  <!-- Plant_Corn
 							Plantwheat -->
 
   <SK_CerealsIII.label>谷物种植 III</SK_CerealsIII.label>
   <SK_CerealsIII.description>对谷物的培育技术有了更深的了解，现在殖民者们可以种植培育稻子。</SK_CerealsIII.description>
 
 
-  <!-- PlantRice -->
+  <!-- Plant_Rice -->
 
   <SK_OrchardsI.label>果园园艺 I</SK_OrchardsI.label>
   <SK_OrchardsI.description>研究可以进行规模化种植的果树，解锁橙树和梨树。</SK_OrchardsI.description>
 
 
-  <!-- PlantorangeTree
-			PlantPeachTree -->
+  <!-- Plant_TreeOrange
+			Plant_TreePeach -->
 
   <SK_OrchardsII.label>果园园艺 II</SK_OrchardsII.label>
   <SK_OrchardsII.description>对果树的培育技术有了进一步的了解，现在殖民者们可以种植培育葡萄和香蕉。</SK_OrchardsII.description>
 
 
-  <!-- PlantBananaTree
-						Plantgrape -->
+  <!-- Plant_TreeBanana
+						Plant_TreeGrape -->
 
   <SK_OrchardsIII.label>果园园艺 III</SK_OrchardsIII.label>
   <SK_OrchardsIII.description>对果树的培育技术有了更深的研究，现在殖民者们可以种植培育苹果。</SK_OrchardsIII.description>
 
 
-  <!-- PlantAppletree -->
+  <!-- Plant_TreeApple -->
 
-  <SK_TreesI.label>树木种植 I</SK_TreesI.label>
-  <SK_TreesI.description>研究如何种植培育树木，解锁天蚕树和竹子。</SK_TreesI.description>
+  <TreeSowing.label>树木种植 I</TreeSowing.label>
+  <TreeSowing.description>研究如何种植培育树木，解锁天蚕树和竹子。</TreeSowing.description>
 
 
-  <!-- PlantTreeBamboo
-			PlantTreeCecropia -->
+  <!-- Plant_TreeBamboo
+			Plant_TreeCecropia -->
 
   <SK_TreesII.label>树木种植 II</SK_TreesII.label>
   <SK_TreesII.description>对树木的培育技术有了进一步的了解，现在殖民者们可以种植培桦树和杨树。</SK_TreesII.description>
 
 
-  <!-- PlantTreeBirch
-					PlantTreePoplar -->
+  <!-- Plant_TreeBirch
+					Plant_TreePoplar -->
 
-  <SK_TreesIII.label>树木种植 III</SK_TreesIII.label>
-  <SK_TreesIII.description>对树木的培育技术有了更深的研究，现在殖民者们可以种植培育橡树、松树和柚木。</SK_TreesIII.description>
+  <Cocoa.label>树木种植 III</Cocoa.label>
+  <Cocoa.description>对树木的培育技术有了更深的研究，现在殖民者们可以种植培育橡树、松树和柚木。</Cocoa.description>
 
 
-  <!-- PlantTreePine
-							PlantTreeOak
-							PlantTreeTeak -->
+  <!-- Plant_TreePine
+							Plant_TreeOak
+							Plant_TreeTeak -->
 
   <SK_FiberCropsI.label>纤纺农业 I</SK_FiberCropsI.label>
   <SK_FiberCropsI.description>研究可以用于提取纤维进行纺织的农作物以及相关技术，解锁种植棉花以及纺线篮等设施。</SK_FiberCropsI.description>
 
 
-  <!-- PlantCotton
+  <!-- Plant_Cotton
 		Storage_FabricHamper -->
 
   <Devilstrand.label>纤纺农业 II</Devilstrand.label>
-  <Devilstrand.description>对农作物的培育技术有了进一步的了解，现在殖民者们可以种植培魔鬼绳。</Devilstrand.description>
+  <Devilstrand.description>对农作物的培育技术有了进一步的了解，现在殖民者们可以种植培恶魔菇。</Devilstrand.description>
 
 
-  <!-- PlantDevilstrand
+  <!-- Plant_Devilstrand
 		MakeDevilstrand -->
 
   <DevilstrandI.label>纤纺农业 III</DevilstrandI.label>
   <DevilstrandI.description>对农作物的培育技术有了更深的研究，现在殖民者们可以种植培育橡胶树。</DevilstrandI.description>
 
 
-  <!-- PlantHeveaTree -->
+  <!-- Plant_TreeHevea -->
 
   <SK_MedicalCropsI.label>医药农业 I</SK_MedicalCropsI.label>
   <SK_MedicalCropsI.description>研究如何种植用于医药生产的作物。</SK_MedicalCropsI.description>
 
 
-  <!-- PlantHealroot -->
+  <!-- Plant_Healroot -->
 
   <SK_MedicalCropsII.label>医药农业 II</SK_MedicalCropsII.label>
   <SK_MedicalCropsII.description>对农作物的培育技术有了进一步的了解，现在殖民者们可以种植芦荟。</SK_MedicalCropsII.description>
 
 
-  <!-- PlantWildHealroot -->
+  <!-- Plant_HealrootWild -->
 
   <SK_MedicalCropsIII.label>医药农业 III</SK_MedicalCropsIII.label>
   <SK_MedicalCropsIII.description>对农作物的培育技术有了更深的研究，现在殖民者们可以在水培盆里种植金丝桃、薄荷和野玫瑰。</SK_MedicalCropsIII.description>
@@ -158,22 +144,22 @@
   <SK_TropicalCropsI.description>研究如何种植一些热带经济作物，现在可以种植甘蔗。</SK_TropicalCropsI.description>
 
 
-  <!-- Plantsugarcane
+  <!-- Plant_Sugarcane
 			MakeSugar -->
 
   <SK_TropicalCropsII.label>热带作物 II</SK_TropicalCropsII.label>
   <SK_TropicalCropsII.description>对农作物的培育技术有了进一步的了解，现在殖民者们可以种植可可。</SK_TropicalCropsII.description>
 
 
-  <!-- Plantcocoa -->
+  <!-- Plant_TreeCocoa -->
 
   <SK_TropicalCropsIII.label>热带作物 III</SK_TropicalCropsIII.label>
   <SK_TropicalCropsIII.description>对农作物的培育技术有了更深的研究，现在殖民者们可以种植咖啡和茶叶。同时解锁用于制作热饮的咖啡工作台。</SK_TropicalCropsIII.description>
 
 
   <!-- TableCoffee
-							PlantTea
-							PlantCoffee
+							Plant_Tea
+							Plant_Coffee
 							BrewCoffee
 							BrewTea -->
 
@@ -181,29 +167,49 @@
   <SK_DrugCropsI.description>研究如何利用一些特殊的植物来提炼成瘾品。</SK_DrugCropsI.description>
 
 
-  <!-- PlantSmokeleaf
-				PlantPsychoid -->
+  <!-- Plant_Smokeleaf
+				Plant_Psychoid -->
+
+  <DrugProduction.label>成瘾品研究 II</DrugProduction.label>
+  <DrugProduction.description>药物制备和合成的基础知识。允许建造药物工作台。制造特定药物需要进一步研究。</DrugProduction.description>
+
+
+  <!-- DrugLab
+				MakeHempCloth
+				MakeOil -->
+
+  <PsychiteRefining.label>精神药物提炼</PsychiteRefining.label>
+  <PsychiteRefining.description>允许殖民者对精神叶进行精炼，解锁制作「薄片」和「呀呦粉」。</PsychiteRefining.description>
+
+  <WakeUpProduction.label>清醒丸制作</WakeUpProduction.label>
+  <WakeUpProduction.description>解锁制作「清醒丸」，清醒丸可以取代睡眠，延长工作时间，使人忘记疲劳的精神药物，但会有一些副作用。</WakeUpProduction.description>
+
+  <GoJuiceProduction.label>活力水制作</GoJuiceProduction.label>
+  <GoJuiceProduction.description>解锁制作「活力水」，一种战斗用精神药物，能够提高战斗和移动能力，降低对疼痛的敏感度。</GoJuiceProduction.description>
+
+  <PenoxycylineProduction.label>佩诺西林制作</PenoxycylineProduction.label>
+  <PenoxycylineProduction.description>解锁制作「佩诺西林」，一种预防疾病的预防性药物。</PenoxycylineProduction.description>
 
   <SK_FlowersI.label>花卉培植 I</SK_FlowersI.label>
   <SK_FlowersI.description>解锁培植一些普通花卉：黄芪、番红花、维纳斯、夹竹桃和蒲公英。同时解锁种植盆。</SK_FlowersI.description>
 
 
   <!-- PlantPot
-						PlantCrocus
-						PlantAstragalus
-						PlantDandelion
-						PlantRosebay -->
+						Plant_Crocus
+						Plant_Astragalus
+						Plant_Dandelion
+						Plant_Rosebay -->
 
   <SK_FlowersII.label>花卉培植 II</SK_FlowersII.label>
   <SK_FlowersII.description>解锁培植一些普通花卉：白玫瑰、黄花和翠雀草。</SK_FlowersII.description>
 
 
-  <!-- LongPlantPot
-						PlantRosebay
-						PlantDaylily
-						PlantRose
+  <!-- DecoratedPot
+						Plant_Rosebay
+						Plant_Daylily
+						Plant_Rose
 						PlantDelphinium
-						PlantCrocus -->
+						Plant_Crocus -->
 
   <SK_FlowersIII.label>花卉培植 III</SK_FlowersIII.label>
   <SK_FlowersIII.description>解锁种植玫瑰。</SK_FlowersIII.description>
@@ -213,7 +219,7 @@
 
 
   <!-- AnimalSleepingBox
-			PlantHaygrass -->
+			Plant_Haygrass -->
 
   <SK_LivestockII.label>畜牧业 II</SK_LivestockII.label>
   <SK_LivestockII.description>解锁制造青储饲料的配方，以及动物挠抓柱和喂食盆。</SK_LivestockII.description>
@@ -287,7 +293,6 @@
   <Hydroponics.label>水栽培 I</Hydroponics.label>
   <Hydroponics.description>农业技术的发展突破了土地种植的限制，殖民地能够解锁水栽培技术。这项技术也是室内农业的重要支撑技术。</Hydroponics.description>
 
-
   <!-- HydroponicsBasin
 			Agrarian -->
 
@@ -304,8 +309,8 @@
 
 
   <!-- FungiponicsBasin
-					Glowbulb
-					Plantmushroom
+					Glowstool
+					Plant_Mushroom
 					MakeSaladwMushrooms
 					MakeSaladwMushrooms_Bulk
 					Brightbells -->

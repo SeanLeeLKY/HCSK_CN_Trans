@@ -1,19 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 120mm mortar shell -->
+  <Fragment_Large.label>大块碎片</Fragment_Large.label>
+  <Fragment_Small.label>小块碎片</Fragment_Small.label>
 
-  <Fragment_Shell.label>炮弹</Fragment_Shell.label>
+
+  <!-- 155mm mortar shell -->
+
+  <Fragment_Shell.label>炮弹碎片</Fragment_Shell.label>
 
 
   <!-- Grenade -->
 
-  <Fragment_GrenadeFrag.label>榴弹</Fragment_GrenadeFrag.label>
+  <Fragment_GrenadeFrag.label>榴弹碎片</Fragment_GrenadeFrag.label>
 
 
   <!-- Rocket -->
 
-  <Fragment_RocketFrag.label>火箭弹</Fragment_RocketFrag.label>
+  <Fragment_RocketFrag.label>火箭弹碎片</Fragment_RocketFrag.label>
 
 
 </LanguageData>

@@ -2,30 +2,23 @@
 <LanguageData>
 
   <RawPotatoes.label>土豆</RawPotatoes.label>
+  <RawPotatoes.description>土豆是一种拥有富含淀粉块茎的作物。生吃时它们不太好吃，但它们确实长得很快。</RawPotatoes.description>
   <RawPotatoes.stuffProps.stuffAdjective>土豆</RawPotatoes.stuffProps.stuffAdjective>
 
-  <Raweggplant.label>茄子</Raweggplant.label>
-  <Raweggplant.description>紫色的茄子。生吃时有涩味、而且辣嘴。</Raweggplant.description>
-  <Raweggplant.stuffProps.stuffAdjective>茄子</Raweggplant.stuffProps.stuffAdjective>
-
   <Rawbean.label>豆荚</Rawbean.label>
- 
+  <Rawbean.description>豆荚是豆科植物的可食种子。它们可以用于烹饪或制造生物燃料。生吃味道很差。</Rawbean.description>
   <Rawbean.stuffProps.stuffAdjective>豆荚</Rawbean.stuffProps.stuffAdjective>
 
   <RawTomatoes.label>番茄</RawTomatoes.label>
-  
+  <RawTomatoes.description>西红柿是圆形，棕榈大小的红色，味道酸甜的果实。它在烹饪中是有用的，即使是生吃也是令人愉快的。</RawTomatoes.description>
   <RawTomatoes.stuffProps.stuffAdjective>番茄</RawTomatoes.stuffProps.stuffAdjective>
 
-  <RawLettuce.label>卷心菜</RawLettuce.label>
- 
-  <RawLettuce.stuffProps.stuffAdjective>卷心菜</RawLettuce.stuffProps.stuffAdjective>
-
   <RawCarrots.label>胡萝卜</RawCarrots.label>
-  
+  <RawCarrots.description>胡萝卜是一种长而脆、桔黄色根的块根类蔬菜。生吃比较提神。</RawCarrots.description>
   <RawCarrots.stuffProps.stuffAdjective>胡萝卜</RawCarrots.stuffProps.stuffAdjective>
 
   <Rawmushroom.label>香菇</Rawmushroom.label>
- 
+  <Rawmushroom.description>生香菇是小的白色或棕色的可食用的菌菇帽。这些菌菇外表是圆的。生吃的时候很难吃，因为口感和生肉相似。</Rawmushroom.description>
   <Rawmushroom.stuffProps.stuffAdjective>香菇</Rawmushroom.stuffProps.stuffAdjective>
 
   <RawAlgae.label>水藻</RawAlgae.label>

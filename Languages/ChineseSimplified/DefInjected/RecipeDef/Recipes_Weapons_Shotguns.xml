@@ -3,29 +3,29 @@
 
 
 
-  <BuildPumpShotgun.label>制造 雷明顿 870霰弹枪</BuildPumpShotgun.label>
+  <BuildPumpShotgun.label>制造 雷明顿870霰弹枪</BuildPumpShotgun.label>
   <BuildPumpShotgun.description>制造一把用于个人自卫的老式霰弹枪。\n弹药： 12 号子弹</BuildPumpShotgun.description>
-  <BuildPumpShotgun.jobString>正在制造 雷明顿 870霰弹枪。</BuildPumpShotgun.jobString>
+  <BuildPumpShotgun.jobString>正在制造 雷明顿870霰弹枪。</BuildPumpShotgun.jobString>
 
-  <BuildM37A2_USCM.label>制造 M37A2 泵动式霰弹枪</BuildM37A2_USCM.label>
-  <BuildM37A2_USCM.description>M37A2 泵动式霰弹枪是一种战斗霰弹枪，采用泵动式结构。\n弹药： 12 号子弹</BuildM37A2_USCM.description>
-  <BuildM37A2_USCM.jobString>正在制造 M37A2 泵动式霰弹枪。</BuildM37A2_USCM.jobString>
+  <BuildM37A2_USCM.label>制造 M37A2泵动霰弹枪</BuildM37A2_USCM.label>
+  <BuildM37A2_USCM.description>M37A2泵动霰弹枪是一种战斗霰弹枪，采用泵动式结构。\n弹药： 12 号子弹</BuildM37A2_USCM.description>
+  <BuildM37A2_USCM.jobString>正在制造 M37A2泵动霰弹枪。</BuildM37A2_USCM.jobString>
 
   <BuildStrikerShotgun.label>制造 “打击者”霰弹枪</BuildStrikerShotgun.label>
   <BuildStrikerShotgun.description>制造 “打击者”霰弹枪，一种看起来不太靠谱的单发自动霰弹枪。开火速率和威力都让人比较满意，但是射程很低。\n弹药： 12 号子弹</BuildStrikerShotgun.description>
   <BuildStrikerShotgun.jobString>正在制造 “打击者”霰弹枪。</BuildStrikerShotgun.jobString>
 
-  <BuildTacticalShotgun.label>制造 M45 战术霰弹枪</BuildTacticalShotgun.label>
-  <BuildTacticalShotgun.description>制造 M45 战术霰弹枪，由联邦空间指挥部队使用的散弹枪。持有8发弹匣，射击速度快，射程低。\n弹药： 12 号子弹</BuildTacticalShotgun.description>
-  <BuildTacticalShotgun.jobString>正在制造 M45 战术霰弹枪。</BuildTacticalShotgun.jobString>
+  <BuildTacticalShotgun.label>制造 M45战术霰弹枪</BuildTacticalShotgun.label>
+  <BuildTacticalShotgun.description>制造 M45战术霰弹枪，由联邦空间指挥部队使用的散弹枪。持有8发弹匣，射击速度快，射程低。\n弹药： 12 号子弹</BuildTacticalShotgun.description>
+  <BuildTacticalShotgun.jobString>正在制造 M45战术霰弹枪。</BuildTacticalShotgun.jobString>
 
-  <BuildAA12AutoShotgun.label>制造 艾奇逊AA-12战斗霰弹枪</BuildAA12AutoShotgun.label>
-  <BuildAA12AutoShotgun.description>制造 艾奇逊AA-12战斗霰弹枪，一种后坐力较低的自动霰弹枪。拥有较高的爆发输出能力，而且在步枪战斗射程内也有中等的精度水平，伤害输出能力较好。\n弹药： 12 号子弹</BuildAA12AutoShotgun.description>
-  <BuildAA12AutoShotgun.jobString>正在制造 艾奇逊AA-12战斗霰弹枪。</BuildAA12AutoShotgun.jobString>
+  <BuildAA12AutoShotgun.label>制造 AA-12自动霰弹枪</BuildAA12AutoShotgun.label>
+  <BuildAA12AutoShotgun.description>制造 AA-12自动霰弹枪，一种后坐力较低的自动霰弹枪。拥有较高的爆发输出能力，而且在步枪战斗射程内也有中等的精度水平，伤害输出能力较好。\n弹药： 12 号子弹</BuildAA12AutoShotgun.description>
+  <BuildAA12AutoShotgun.jobString>正在制造 AA-12自动霰弹枪。</BuildAA12AutoShotgun.jobString>
 
-  <BuildTacticalAutoshotgun.label>制造 M90 近程攻击霰弹枪</BuildTacticalAutoshotgun.label>
-  <BuildTacticalAutoshotgun.description>制造 M90 近程攻击霰弹枪，其全称为M90 Close Assault Weapon System (M90 近距离突击武器系统)。 它是联邦理事会下属部队的主打近距离战斗武器，也是前线部队使用的最有效的近程步兵武器之一。\n弹药： 12 号子弹</BuildTacticalAutoshotgun.description>
-  <BuildTacticalAutoshotgun.jobString>正在制造 M90 近程攻击霰弹枪。</BuildTacticalAutoshotgun.jobString>
+  <BuildTacticalAutoshotgun.label>制造 M90近程突击霰弹枪</BuildTacticalAutoshotgun.label>
+  <BuildTacticalAutoshotgun.description>制造 M90近程突击霰弹枪，其全称为M90 Close Assault Weapon System (M90 近距离突击武器系统)。 它是联邦理事会下属部队的主打近距离战斗武器，也是前线部队使用的最有效的近程步兵武器之一。\n弹药： 12 号子弹</BuildTacticalAutoshotgun.description>
+  <BuildTacticalAutoshotgun.jobString>正在制造 M90近程突击霰弹枪。</BuildTacticalAutoshotgun.jobString>
 
 
 </LanguageData>

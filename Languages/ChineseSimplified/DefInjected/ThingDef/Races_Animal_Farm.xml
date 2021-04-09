@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Farm -->
+
+  <Chicken.label>鸡</Chicken.label>
+  <Chicken.description>一种最传统的养殖动物，专为它的蛋和肉而被饲养。</Chicken.description>
+  <Chicken.tools.0.label>爪</Chicken.tools.0.label>
+  <Chicken.tools.1.label>嘴</Chicken.tools.1.label>
+  <Chicken.tools.2.label>头</Chicken.tools.2.label>
+  <!-- 皮 Amount: 0 -->
+  <!-- Use Meat From: Elephant -->
+  <Chicken_Corpse.label>鸡尸体</Chicken_Corpse.label>
+  <Chicken_Corpse.description>鸡尸体</Chicken_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Pig.label>猪</Pig.label>
+  <Pig.description>猪是最早被人类驯化的动物之一。通常饲养它是为了吃肉，而且由于它的杂食性饮食，很容易喂养。虽然猪看起来笨笨的，但它们可以被训练完成复杂的任务。</Pig.description>
+  <Pig.tools.1.label>头</Pig.tools.1.label>
+  <Pig_Leather.label>猪皮</Pig_Leather.label>
+  <Pig_Leather.description>猪皮</Pig_Leather.description>
+  <Pig_Leather.stuffProps.stuffAdjective>猪皮</Pig_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Pig_Corpse.label>猪尸体</Pig_Corpse.label>
+  <Pig_Corpse.description>猪尸体</Pig_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Cow.label>牛</Cow.label>
+  <Cow.description>奶牛是一种大型的驯养有蹄类动物，几千年来人们一直在饲养奶牛，以生产大量的奶、肉和皮革。他们是非常温和的生物，无论他们受到多少次伤害都不会寻求报复。它们中的大多数非常适应农场生活，无法在野外生存。</Cow.description>
+  <Cow.tools.1.label>头</Cow.tools.1.label>
+  <Cow.tools.2.label>角</Cow.tools.2.label>
+  <Cow_Leather.label>牛皮</Cow_Leather.label>
+  <Cow_Leather.description>牛皮</Cow_Leather.description>
+  <Cow_Leather.stuffProps.stuffAdjective>牛皮</Cow_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Cow_Corpse.label>牛尸体</Cow_Corpse.label>
+  <Cow_Corpse.description>牛尸体</Cow_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Alpaca.label>羊驼</Alpaca.label>
+  <Alpaca.description>与大羊驼血缘很近的的中型有蹄类动物，养殖羊驼通常是为了它非常柔软的毛。</Alpaca.description>
+  <Alpaca.tools.0.label>左蹄</Alpaca.tools.0.label>
+  <Alpaca.tools.1.label>右蹄</Alpaca.tools.1.label>
+  <Alpaca.tools.3.label>头</Alpaca.tools.3.label>
+  <Alpaca_Leather.label>羊驼皮</Alpaca_Leather.label>
+  <Alpaca_Leather.description>羊驼皮</Alpaca_Leather.description>
+  <Alpaca_Leather.stuffProps.stuffAdjective>羊驼皮</Alpaca_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Alpaca_Corpse.label>羊驼尸体</Alpaca_Corpse.label>
+  <Alpaca_Corpse.description>羊驼尸体</Alpaca_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Duck.label>鸭</Duck.label>
+  <Duck.description>一种很常见的家禽，也出现在野外。它成长得很快，但下蛋却很少。</Duck.description>
+  <Duck.tools.0.label>爪</Duck.tools.0.label>
+  <Duck.tools.1.label>嘴</Duck.tools.1.label>
+  <Duck.tools.2.label>头</Duck.tools.2.label>
+  <!-- 皮 Amount: 0 -->
+  <!-- Use Meat From: Elephant -->
+  <Duck_Corpse.label>鸭尸体</Duck_Corpse.label>
+  <Duck_Corpse.description>鸭尸体</Duck_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Bison.label>野牛</Bison.label>
+  <Bison.description>一种大型食草哺乳动物，通常出现在草原和荒野上。被驯服后相当温顺，但被激怒后会变得非常暴躁。</Bison.description>
+  <Bison.tools.0.label>左蹄</Bison.tools.0.label>
+  <Bison.tools.1.label>左蹄</Bison.tools.1.label>
+  <Bison.tools.2.label>右蹄</Bison.tools.2.label>
+  <Bison.tools.3.label>右蹄</Bison.tools.3.label>
+  <Bison.tools.5.label>头</Bison.tools.5.label>
+  <Bison_Leather.label>野牛皮</Bison_Leather.label>
+  <Bison_Leather.description>野牛皮</Bison_Leather.description>
+  <Bison_Leather.stuffProps.stuffAdjective>野牛皮</Bison_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Bison_Corpse.label>野牛尸体</Bison_Corpse.label>
+  <Bison_Corpse.description>野牛尸体</Bison_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Goat.label>山羊</Goat.label>
+  <Goat.description>山羊天生对世界充满好奇，是人类饲养的最友好的家养动物之一。</Goat.description>
+  <Goat.tools.0.label>头</Goat.tools.0.label>
+  <Goat_Leather.label>山羊皮</Goat_Leather.label>
+  <Goat_Leather.description>山羊皮</Goat_Leather.description>
+  <Goat_Leather.stuffProps.stuffAdjective>山羊皮</Goat_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Goat_Corpse.label>山羊尸体</Goat_Corpse.label>
+  <Goat_Corpse.description>山羊尸体</Goat_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Goose.label>鹅</Goose.label>
+  <Goose.description>一种被人类作为家禽饲养的动物，因为它生长迅速且产卵频繁，但产下的卵需要很长时间孵化。</Goose.description>
+  <Goose.tools.0.label>爪</Goose.tools.0.label>
+  <Goose.tools.1.label>嘴</Goose.tools.1.label>
+  <Goose.tools.2.label>头</Goose.tools.2.label>
+  <Goose_Leather.label>鹅皮</Goose_Leather.label>
+  <Goose_Leather.description>鹅皮</Goose_Leather.description>
+  <Goose_Leather.stuffProps.stuffAdjective>鹅皮</Goose_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Goose_Corpse.label>鹅尸体</Goose_Corpse.label>
+  <Goose_Corpse.description>鹅尸体</Goose_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Yak.label>牦牛</Yak.label>
+  <Yak.description>牦牛体格健壮，短而粗且四蹄张开的腿能帮助它们在雪地里行走。</Yak.description>
+  <Yak.tools.0.label>左蹄</Yak.tools.0.label>
+  <Yak.tools.1.label>左蹄</Yak.tools.1.label>
+  <Yak.tools.2.label>右蹄</Yak.tools.2.label>
+  <Yak.tools.3.label>右蹄</Yak.tools.3.label>
+  <Yak.tools.5.label>头</Yak.tools.5.label>
+  <Yak_Leather.label>牦牛皮</Yak_Leather.label>
+  <Yak_Leather.description>牦牛皮</Yak_Leather.description>
+  <Yak_Leather.stuffProps.stuffAdjective>牦牛皮</Yak_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Muffalo -->
+  <Yak_Corpse.label>牦牛尸体</Yak_Corpse.label>
+  <Yak_Corpse.description>牦牛尸体</Yak_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <GuineaPig.label>豚鼠</GuineaPig.label>
+  <GuineaPig.description>这些小型啮齿动物通常被饲养成家庭宠物或是被做成美味的晚餐。</GuineaPig.description>
+  <GuineaPig.tools.0.label>左爪</GuineaPig.tools.0.label>
+  <GuineaPig.tools.1.label>右爪</GuineaPig.tools.1.label>
+  <GuineaPig.tools.3.label>头</GuineaPig.tools.3.label>
+  <GuineaPig_Leather.label>豚鼠皮</GuineaPig_Leather.label>
+  <GuineaPig_Leather.description>豚鼠皮</GuineaPig_Leather.description>
+  <GuineaPig_Leather.stuffProps.stuffAdjective>豚鼠皮</GuineaPig_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <GuineaPig_Corpse.label>豚鼠尸体</GuineaPig_Corpse.label>
+  <GuineaPig_Corpse.description>豚鼠尸体</GuineaPig_Corpse.description>
+
+
+  <!-- Farm -->
+
+  <Donkey.label>驴</Donkey.label>
+  <Donkey.description>一种马的近亲，在被古人驯养后用于农业。它愚蠢的叫声既令人讨厌又讨人喜欢。</Donkey.description>
+  <Donkey.tools.0.label>左蹄</Donkey.tools.0.label>
+  <Donkey.tools.1.label>右蹄</Donkey.tools.1.label>
+  <Donkey.tools.3.label>头</Donkey.tools.3.label>
+  <Donkey_Leather.label>驴皮</Donkey_Leather.label>
+  <Donkey_Leather.description>驴皮</Donkey_Leather.description>
+  <Donkey_Leather.stuffProps.stuffAdjective>驴皮</Donkey_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <Donkey_Corpse.label>驴尸体</Donkey_Corpse.label>
+  <Donkey_Corpse.description>驴尸体</Donkey_Corpse.description>
+
+
+</LanguageData>

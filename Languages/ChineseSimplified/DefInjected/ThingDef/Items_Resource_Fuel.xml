@@ -2,28 +2,26 @@
 <LanguageData>
 
   <Chemfuel.label>化合燃料</Chemfuel.label>
-  <Chemfuel.description>挥发性液体化合物。用作火箭和其他机械的燃料。</Chemfuel.description>
+  <Chemfuel.description>挥发性液体化合物。用作火箭和其他机械的燃料，也能制作成迫击炮炮弹或者燃烧武器。</Chemfuel.description>
   <Chemfuel.stuffProps.stuffAdjective>化合燃料</Chemfuel.stuffProps.stuffAdjective>
 
   <BioDiesel.label>生物柴油</BioDiesel.label>
-
+  <BioDiesel.description>从豆荚等材料中提炼出的生物柴油。它可以用来为生物发电机提供燃料。也可以用于火箭和其他机器的燃料。</BioDiesel.description>
 
   <Powder.label>枪药</Powder.label>
-  
+  <Powder.description>枪药，又称黑火药，是已知最早的化学炸药。它是硫磺、煤和硝石的混合物。硫磺和煤可以作为反应物，而硝石则是氧化剂。</Powder.description>
 
   <Napalm.label>凝固汽油</Napalm.label>
-  
-
-  <Fuel.label>燃料油</Fuel.label>
-  
+  <Napalm.description>凝固汽油是一种高度易燃的黏性燃油，由化学燃料和高分子聚合物混合而成。</Napalm.description>
 
 
   <!-- Explosives from CR -->
 
   <Prometheum.label>神焰（燃剂）</Prometheum.label>
-  
+  <Prometheum.description>军用级燃烧剂，与氧气接触会直接点燃。这种资源可用于制造各种燃烧武器。</Prometheum.description>
 
-  <FSX.label>FSX（燃剂）</FSX.label>
-  
+  <FSX.label>FSX</FSX.label>
+  <FSX.description>一种从爆炸羊或者爆炸鼠的囊袋中提取的高爆化学物质，可用于多种工业和军事用途。</FSX.description>
+
 
 </LanguageData>

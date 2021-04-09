@@ -1,18 +1,79 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Wildfire.label>野火</Wildfire.label>
+  <Wildfire.letterText>一场大型的山林野火在附近爆发，看起来马上就要蔓延到你的殖民地区域了。</Wildfire.letterText>
+  <Wildfire.letterLabel>野火</Wildfire.letterLabel>
+
+  <SandTornado.label>沙尘暴</SandTornado.label>
+  <SandTornado.letterText>沙！尘！暴！袭！来!\n\n具有强大威力的沙龙卷正在本地肆意破坏！</SandTornado.letterText>
+  <SandTornado.letterLabel>沙尘暴</SandTornado.letterLabel>
+
+  <ColdSuperstorm.label>超级寒流</ColdSuperstorm.label>
+  <ColdSuperstorm.letterText>厚重的云层正在你殖民地的上空成型，阻挡了绝大部分阳光，强烈的冷空气使得本地气温急速下降，短时可能发生严重的霜冻现象，可能还会伴随大量的冰雹等极端天气。你得尽快启动寒潮天气应对方案。别忘了给殖民者们穿衣戴帽、防寒保暖！</ColdSuperstorm.letterText>
+  <ColdSuperstorm.letterLabel>超级寒流</ColdSuperstorm.letterLabel>
+
+  <Inferno.label>炼狱热浪</Inferno.label>
+  <Inferno.letterText>一股极其强大的热浪正席卷整个大地，所到之处皆尽干旱和林木火灾。照顾好殖民者们，小心脑袋被晒伤了！</Inferno.letterText>
+  <Inferno.letterLabel>炼狱热浪</Inferno.letterLabel>
+
+  <IceAge.label>冰河时代</IceAge.label>
+  <IceAge.letterText>全球气候剧变导致温度显著下降。动植物为适应寒冷气候出现了不同幅度的转变，各地的生物群系也随之变化。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。（视觉变化需要存档再读取才能生效）</IceAge.letterText>
+  <IceAge.letterLabel>冰河时代</IceAge.letterLabel>
+
+  <GlobalWarming.label>全球变暖</GlobalWarming.label>
+  <GlobalWarming.letterText>全球气候剧变导致温度显著上升。动植物为适应炎热气候出现了不同幅度的转变，各地的生物群系也随之变化。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。（视觉变化需要存档再读取才能生效）</GlobalWarming.letterText>
+  <GlobalWarming.letterLabel>全球变暖</GlobalWarming.letterLabel>
+
+  <PsychicRain.label>灵能雾雨</PsychicRain.label>
+  <PsychicRain.letterText>一种危险的精神实体正在引发亚原子扰动，使大气层的粒子也产生共振。一场似乎永无尽头的超自然雾雨已经开始，时间结构被打乱。任何不在屋顶下的人类和动物都会加速衰老。这场全球范围的气候异常将持续至少一个季度，至多数年。</PsychicRain.letterText>
+  <PsychicRain.letterLabel>灵能雾雨</PsychicRain.letterLabel>
+
+  <LongNight.label>无尽长夜</LongNight.label>
+  <LongNight.letterText>一个巨型空间实体遮住了恒星的光芒，引发了一场漫长的日食现象。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。</LongNight.letterText>
+  <LongNight.letterLabel>无尽长夜</LongNight.letterLabel>
+
+
+  <!-- Regular events -->
+
+  <HailStorm.label>冰暴</HailStorm.label>
+  <HailStorm.letterText>一场反常的小规模暴风雨携带着冰雹风暴正在此地肆虐。任何不在屋顶下的人类和动物都有被冰雹砸伤的风险。</HailStorm.letterText>
+  <HailStorm.letterLabel>冰暴</HailStorm.letterLabel>
+
+  <WandererJoinTraitor.label>流浪者加入</WandererJoinTraitor.label>
+  <WandererJoinTraitor.letterText>一个名叫{PAWN_nameDef}的{PAWN_kind}来到这里并加入。{PAWN_pronoun}是{PAWN_title}。\n\n{PAWN_pronoun}愿意出力，但不会自动离开。如果你不欢迎{PAWN_nameDef}，可以放逐{PAWN_objective}，将{PAWN_objective}卖给奴隶贩子，或者简单地杀掉。但其他人可能会因此而感到不安。</WandererJoinTraitor.letterText>
+  <WandererJoinTraitor.letterLabel>流浪者加入</WandererJoinTraitor.letterLabel>
+
+  <CaravanAnimalsWanderIn.label>游荡的驮运动物</CaravanAnimalsWanderIn.label>
+  <CropSprout.label>作物萌芽</CropSprout.label>
+  <BattleAnimalsWanderIn.label>游荡的战兽</BattleAnimalsWanderIn.label>
+
+  <Drought.label>旱灾</Drought.label>
+  <Drought.letterText>一场异乎寻常的干旱袭击了本地。\n\n旱灾将会极快的使地面作物脱水死亡，处于正常情况下的水栽培则不会受到影响。请尽快抢收作物，以免更大的损失。</Drought.letterText>
+  <Drought.letterLabel>旱灾</Drought.letterLabel>
+
+  <WildMenGroupWanderIn.label>游荡的野人</WildMenGroupWanderIn.label>
+  <HuntingParty.label>狩猎聚会</HuntingParty.label>
+
+  <ToxicWeather.label>毒雨</ToxicWeather.label>
+  <ToxicWeather.letterLabel>毒雨</ToxicWeather.letterLabel>
+
   <MalariaRaid.label>疟疾爆发</MalariaRaid.label>
   <MalariaRaid.letterText>疫病：疟疾</MalariaRaid.letterText>
 
   <FleaRaid.label>瘟疫爆发</FleaRaid.label>
-  <FleaRaid.letterLabel>疫病： 瘟疫</FleaRaid.letterLabel>
+  <FleaRaid.letterLabel>疫病：瘟疫</FleaRaid.letterLabel>
 
+  <StorytellerFrenzyEvent.label>叙事者疯狂</StorytellerFrenzyEvent.label>
+  <StorytellerFrenzyEvent.letterText>叙事者疯狂</StorytellerFrenzyEvent.letterText>
+
+  <GeoStorm.label>地质风暴</GeoStorm.label>
   <SkyFall.label>天坠</SkyFall.label>
   <MoonFall.label>月陨</MoonFall.label>
   <HungryCritters.label>饿疯的动物</HungryCritters.label>
   <DevourersOfCrops.label>作物吞噬者</DevourersOfCrops.label>
   <Swarm.label>虫群</Swarm.label>
-  <ZeonIncoming.label>Zeon来袭！</ZeonIncoming.label>
+  <ZeonIncoming.label>吉恩来袭！</ZeonIncoming.label>
   <Accident.label>意外事故</Accident.label>
   <FeenixPasses.label>芬尼克斯出现！</FeenixPasses.label>
 
@@ -20,7 +81,7 @@
   <IcicatPasses.letterText>一场不寻常的寒流已经开始了。注意防护低温病和保护农作物。</IcicatPasses.letterText>
   <IcicatPasses.letterLabel>寒潮</IcicatPasses.letterLabel>
 
-  <RaptorPasses.label>猛禽路过</RaptorPasses.label>
+  <RaptorPasses.label>翼猛龙出现</RaptorPasses.label>
   <TribeMigration.label>部落迁徙</TribeMigration.label>
   <BoulderMassHit.label>巨石轰击</BoulderMassHit.label>
   <RazorRain.label>“剃刀之雨”</RazorRain.label>
@@ -29,12 +90,11 @@
   <Earthquake.label>地震</Earthquake.label>
   <SeismicActivity.label>地质活动</SeismicActivity.label>
   <AnimalGenocide.label>动物灭绝</AnimalGenocide.label>
-  <PrisonSuicide.label>囚犯自杀</PrisonSuicide.label>
   <NuclearIncident.label>核事故</NuclearIncident.label>
   <NuclearFallout.label>核辐射</NuclearFallout.label>
   <CosmicRadiation.label>宇宙辐射</CosmicRadiation.label>
   <AccidentalExplosion.label>意外爆炸</AccidentalExplosion.label>
-  <ColonistStash.label>殖民地藏匿物</ColonistStash.label>
+  <ColonistStash.label>殖民者藏匿物</ColonistStash.label>
   <EclipseFeral.label>奇异日食</EclipseFeral.label>
   <EclipseMeteorImpact.label>陨星日食</EclipseMeteorImpact.label>
   <MysteriousTransmission.label>诡秘信息</MysteriousTransmission.label>
@@ -45,14 +105,25 @@
   <TraitChange.label>特性变更</TraitChange.label>
   <TraitRemove.label>特性移除</TraitRemove.label>
 
-  <!--<BoulderHit.label>巨石轰击</BoulderHit.label>-->
-  <!--<AnimalMigration.label>动物迁徙</AnimalMigration.label>-->
-  <!--<Stroke.label>中风</Stroke.label>-->
-  <!--<SickNausea.label>恶心反胃</SickNausea.label>-->
-  <!--<OrassanBombardmentIncident.label>轨道轰炸</OrassanBombardmentIncident.label>-->
-  <!--<OrassanBombardmentIncident.letterText>奥瑞森人对你极其不满，他们在轨道上的军舰对你开炮了！</OrassanBombardmentIncident.letterText>-->
-  <!--<OrassanBombardmentIncident.letterLabel>轨道轰炸</OrassanBombardmentIncident.letterLabel>-->
-  <!--<UnexpectedGuest.label>不速之客</UnexpectedGuest.label>-->
+  <EnemyShip.label>发现敌舰</EnemyShip.label>
+  <EnemyShip.letterText>一艘敌人的舰船降落在我们殖民地附近！</EnemyShip.letterText>
+  <EnemyShip.letterLabel>敌舰来袭！</EnemyShip.letterLabel>
+
+  <PortalRaid.label>传送突袭</PortalRaid.label>
+  <PortalRaid.letterText>你的敌对派系因为对你不满，使用传送门投送作战部队对你进行突袭作战。</PortalRaid.letterText>
+  <PortalRaid.letterLabel>传送突袭</PortalRaid.letterLabel>
+
+  <BombardmentIncident.label>轨道轰炸</BombardmentIncident.label>
+  <BombardmentIncident.letterText>你的敌对派系对你极其不满，他们通过部署在轨道上的军舰对你进行袭击！</BombardmentIncident.letterText>
+  <BombardmentIncident.letterLabel>轨道轰炸</BombardmentIncident.letterLabel>
+
+  <Tornado.label>龙卷风</Tornado.label>
+  <Tornado.letterText>一个龙卷风生成了！\n\n它会将所到之处的一切摧毁。</Tornado.letterText>
+  <Tornado.letterLabel>龙卷风</Tornado.letterLabel>
+
+  <PowerBeamStrikeIncident.label>轨道轰炸</PowerBeamStrikeIncident.label>
+  <PowerBeamStrikeIncident.letterText>你的敌对派系对你极其不满，他们通过部署在轨道上的军舰对你进行袭击！</PowerBeamStrikeIncident.letterText>
+  <PowerBeamStrikeIncident.letterLabel>光束轰炸</PowerBeamStrikeIncident.letterLabel>
 
 
 </LanguageData>

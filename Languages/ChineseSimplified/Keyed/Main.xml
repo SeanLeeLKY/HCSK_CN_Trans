@@ -1,17 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Hardcore SK MainMenu -->
-  <HardcoreSKproject>Rimworld project by Hardcore SK team</HardcoreSKproject>
-  <LudeonMainPage>Ludeon 网址</LudeonMainPage>
-  <HardcoreSKLudeon>Ludeon 主题页面</HardcoreSKLudeon>
-  <HardcoreSKPatreon>赞助通道</HardcoreSKPatreon>
-  <HardcoreskMainPage>Russian project portal</HardcoreskMainPage>
-  <HardcoreskGitHub>Github 页面</HardcoreskGitHub>
-  <HardcoreskVK>Russian Vkontakte group</HardcoreskVK>
-  <HardcoreDiscord>Discord 频道</HardcoreDiscord>
-  <ContinueLabel>继续</ContinueLabel>
-
   <!-- SmartSpeed -->
   <EventSpeed>事件速度</EventSpeed>
   <EventSpeedLabel>改变事件速度</EventSpeedLabel>
@@ -483,8 +472,8 @@
   <LetterIcicatPasses>一只冰麟路过这个地区。\n\n这是一种孤寂而平和的传奇生物，它也被称为“冰霜化身”。没错，它就是一个活的冰雪之源，冰麟的心在黑市上是属于有价无市的东西。\n\n虽然性情温顺，但是一头愤怒的冰麟一定会让你终身难忘。\n\n它们可以被驯服，但是只有最勇敢的人才能完成这项艰巨的任务，当然，还要提一句，这个人还要不怕冷！</LetterIcicatPasses>
 
   <!-- Raptor Arrived -->
-  <LetterLabelRaptorArrived>迅猛龙群！</LetterLabelRaptorArrived>
-  <RaptorArrived>不知道哪儿来的一群迅猛龙来到本区域猎食！最好离它们远点！哈，是的！远远的，你不知道它们什么时候会出现在你面前，当你看见它们的时候，剩下的念头就只有一个——跑吧！或许还有一个，尖叫！！！</RaptorArrived>
+  <LetterLabelRaptorArrived>翼猛龙群！</LetterLabelRaptorArrived>
+  <RaptorArrived>不知道哪儿来的一群翼猛龙来到本区域猎食！最好离它们远点！哈，是的！远远的，你不知道它们什么时候会出现在你面前，当你看见它们的时候，剩下的念头就只有一个——跑吧！或许还有一个，尖叫！！！</RaptorArrived>
 
   <!-- DevourersCrops -->
   <DevourersCropsTitle>害虫肆虐</DevourersCropsTitle>

@@ -2,25 +2,61 @@
 <LanguageData>
 
   <Peaceful.label>☮ 和平模式</Peaceful.label>
-  <Peaceful.description>类似沙盒模式环境下专注于殖民地建设的休闲难度。\n\n禁用了大威胁事件，但殖民者仍然可能不开心，动物也还会时不时地发疯。</Peaceful.description>
+  <Peaceful.description>类似沙盒模式环境下专注于殖民地建设的休闲难度。\n\n禁用了大威胁事件，但殖民者仍然可能不开心，动物也还会时不时地发疯。
 
-  <VeryEasy.label>✬ 基地建造者</VeryEasy.label>
-  <VeryEasy.description>类似沙盒模式环境下专注于殖民地建设的休闲难度。\n\n会触发大威胁事件，但被削弱。一些危险的随机事件已经被禁用。</VeryEasy.description>
+推荐玩家：
 
-  <Easy.label>☫ 小有挑战</Easy.label>
-  <Easy.description>为新手或者那些想要一些挑战的休闲玩家而准备。\n\n会有一些挑战，但是无关痛痒，几乎可以无视。</Easy.description>
+- 想要学习游戏机制的萌新以及想要轻松游戏的玩家。
+- 只喜欢玩建造规划的玩家。
+- 纯放松型游玩的玩家。</Peaceful.description>
 
-  <Medium.label>✇ 困难模式</Medium.label>
-  <Medium.description>这是一个狂暴的星球。\n\n威胁事件会非常危险，并且殖民者心情和作物产量没有额外的加成。</Medium.description>
+  <Easy.label>✬ 基地建造者</Easy.label>
+  <Easy.description>为新手或者那些想要一些挑战的休闲玩家而准备。\n\n会有一些挑战，但是无关痛痒，几乎可以无视。
+
+推荐玩家：
+
+- 正式开始游玩这种类型游戏的萌新。
+- 专注于设计建造一个完美殖民地的玩家。
+- 想要轻松游戏的玩家。</Easy.description>
+
+  <Medium.label>☫ 小有挑战</Medium.label>
+  <Medium.description>有成长和繁荣的机会，不过这个星球开始变得有点危险了。
+
+推荐玩家：
+
+- 有策略游戏经验，但是是才开始游玩边缘世界游戏的玩家。
+- 对于边缘世界游戏有着一定的经验，但是想要缓一缓节奏或者有奇特追求的玩家。</Medium.description>
+
+  <Rough.label>✇ 困难模式</Rough.label>
+  <Rough.description>你需要非常努力才能在这个狂野真实的星球上生存下去。成功胜利和灾难悲剧无时无刻不在发生。
+
+推荐玩家：
+
+- 需要一定的游戏经验，并且想体验一定坎坷的故事经历，同时也想考验下自己的求生技能的玩家。</Rough.description>
 
   <Hard.label>✪ 挑战模式</Hard.label>
-  <Hard.description>极具挑战的游戏模式。\n\n此难度等级需要足够的战略、战术和运气来生存。这种RimWorld模式意味着是你被游戏玩，而不是你玩游戏。</Hard.description>
+  <Hard.description>面对残酷的生存挑战。即便你是一个经验丰富玩家，你也可能会因为一些不经意的原因莫名暴毙。你需要全面预测各种可能的危险，并且未雨绸缪的做好各种应对准备。
 
-  <VeryHard.label>☣ &lt;b&gt;&lt;color=#FF0000&gt;极端挑战模式&lt;/color&gt;&lt;/b&gt;</VeryHard.label>
-  <VeryHard.description>硬核，像钻石一样“硬核”。\n\n敌人很多，物品价值不高，食物匮乏，殖民者脾气暴躁等等。非常具有挑战性。</VeryHard.description>
+推荐玩家：
 
-  <Hell.label>☠ &lt;b&gt;&lt;color=#800000&gt;地狱召唤&lt;/color&gt;&lt;/b&gt;</Hell.label>
-  <Hell.description>最高难度模式。增加袭击次数，也增加了各种难度系数，还有各种你想不到的折磨人的事件！地狱在召唤你！</Hell.description>
+- 需要一定的游戏经验，并且想体验挣扎求生的玩家。</Hard.description>
+
+  <Extreme.label>☣ &lt;b&gt;&lt;color=#FF0000&gt;无情模式&lt;/color&gt;&lt;/b&gt;</Extreme.label>
+  <Extreme.description>数据基本设置为不公平的状态。你将会面对极多的天灾人祸事件，干掉你的殖民地就是唯一的目的。如果你喜欢挣扎和绝望，以及能够坦然面对一切，那么这样也不错。
+
+推荐玩家：
+
+- 需要一定的游戏经验，喜欢面对残酷硬核的挑战。能够坦然面对游戏中的生死的硬核玩家。
+- 悲剧爱好者。
+- 数字受虐狂。</Extreme.description>
+
+  <Hell.label>☠ &lt;b&gt;&lt;color=#800000&gt;地狱模式&lt;/color&gt;&lt;/b&gt;</Hell.label>
+  <Hell.description>最高难度模式。增加袭击次数，也增加了各种难度系数，还有各种你想不到的折磨人的事件！地狱在召唤你！
+推荐玩家：
+
+- 需要一定的游戏经验，喜欢面对残酷挑战。能够坦然面对游戏中的生死的硬核玩家。
+- 悲剧爱好者。
+- 数字受虐狂。</Hell.description>
 
 
 </LanguageData>

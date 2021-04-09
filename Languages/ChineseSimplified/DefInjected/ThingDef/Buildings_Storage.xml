@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  
+
+  <LWM_DeepStorage_Blueprint.label>深度储存（蓝图）</LWM_DeepStorage_Blueprint.label>
+  <LWM_DeepStorage_Blueprint_Install.label>深度储存（蓝图）</LWM_DeepStorage_Blueprint_Install.label>
+  <LWM_DeepStorage_Frame.label>深度储存（建造中）</LWM_DeepStorage_Frame.label>
+  <LWM_DeepStorage_Frame.description>深度储存</LWM_DeepStorage_Frame.description>
+
+  <LWM_Pallet.label>托盘</LWM_Pallet.label>
+  <LWM_Pallet.description>用于放置物品的扁平托盘。露天时会使物品老化。有时难以管理，但仍然很有用。</LWM_Pallet.description>
+  <LWM_Pallet_Blueprint.label>托盘（蓝图）</LWM_Pallet_Blueprint.label>
+  <LWM_Pallet_Blueprint_Install.label>托盘（蓝图）</LWM_Pallet_Blueprint_Install.label>
+  <LWM_Pallet_Frame.label>托盘（建造中）</LWM_Pallet_Frame.label>
+  <LWM_Pallet_Frame.description>用于放置物品的扁平托盘。露天时会使物品老化。有时难以管理，但仍然很有用。</LWM_Pallet_Frame.description>
+
+  <LWM_DeepStorage_Skip.label>废料箱</LWM_DeepStorage_Skip.label>
+  <LWM_DeepStorage_Skip.description>用于堆放重物的大型露天垃圾箱。</LWM_DeepStorage_Skip.description>
+  <LWM_DeepStorage_Skip_Blueprint.label>废料箱（蓝图）</LWM_DeepStorage_Skip_Blueprint.label>
+  <LWM_DeepStorage_Skip_Blueprint_Install.label>废料箱（蓝图）</LWM_DeepStorage_Skip_Blueprint_Install.label>
+  <LWM_DeepStorage_Skip_Frame.label>废料箱（建造中）</LWM_DeepStorage_Skip_Frame.label>
+  <LWM_DeepStorage_Skip_Frame.description>用于堆放重物的大型露天垃圾箱。</LWM_DeepStorage_Skip_Frame.description>
+
+  <Pot.label>罐子</Pot.label>
+  <Pot.description>一种用木头、金属或者陶瓷建造的容器，可以用来存储食物，能够延长一点食物的保质期。</Pot.description>
+  <Pot_Blueprint.label>罐子（蓝图）</Pot_Blueprint.label>
+  <Pot_Blueprint_Install.label>罐子（蓝图）</Pot_Blueprint_Install.label>
+  <Pot_Frame.label>罐子（建造中）</Pot_Frame.label>
+  <Pot_Frame.description>一种用木头、金属或者陶瓷建造的容器，可以用来存储食物，能够延长一点食物的保质期。</Pot_Frame.description>
+
+  <Basket.label>篮子</Basket.label>
+  <Basket.description>用毛皮或者其他纤维纺织物建造的容器。可以存储多种物品。最多装载6样物品。</Basket.description>
+  <Basket_Blueprint.label>篮子（蓝图）</Basket_Blueprint.label>
+  <Basket_Blueprint_Install.label>篮子（蓝图）</Basket_Blueprint_Install.label>
+  <Basket_Frame.label>篮子（建造中）</Basket_Frame.label>
+  <Basket_Frame.description>用毛皮或者其他纤维纺织物建造的容器。可以存储多种物品。最多装载6样物品。</Basket_Frame.description>
+
+  <Barrel.label>圆桶</Barrel.label>
+  <Barrel.description>一种用木头或者金属建造的大圆桶。可以存储多种物品。最多装载5样物品。</Barrel.description>
+  <Barrel_Blueprint.label>圆桶（蓝图）</Barrel_Blueprint.label>
+  <Barrel_Blueprint_Install.label>圆桶（蓝图）</Barrel_Blueprint_Install.label>
+  <Barrel_Frame.label>圆桶（建造中）</Barrel_Frame.label>
+  <Barrel_Frame.description>一种用木头或者金属建造的大圆桶。可以存储多种物品。最多装载5样物品。</Barrel_Frame.description>
+
+  <Chest.label>箱子</Chest.label>
+  <Chest.description>一个简单的箱子。可以存储多种物品。最多装载6样物品。</Chest.description>
+  <Chest_Blueprint.label>箱子（蓝图）</Chest_Blueprint.label>
+  <Chest_Blueprint_Install.label>箱子（蓝图）</Chest_Blueprint_Install.label>
+  <Chest_Frame.label>箱子（建造中）</Chest_Frame.label>
+  <Chest_Frame.description>一个简单的箱子。可以存储多种物品。最多装载6样物品。</Chest_Frame.description>
+
+  <IndustrialChest.label>加固箱子</IndustrialChest.label>
+  <IndustrialChest.description>一种用金属建造的箱子。可以存储多种物品。最多装载6样物品。</IndustrialChest.description>
+  <IndustrialChest_Blueprint.label>加固箱子（蓝图）</IndustrialChest_Blueprint.label>
+  <IndustrialChest_Blueprint_Install.label>加固箱子（蓝图）</IndustrialChest_Blueprint_Install.label>
+  <IndustrialChest_Frame.label>加固箱子（建造中）</IndustrialChest_Frame.label>
+  <IndustrialChest_Frame.description>一种用金属建造的箱子。可以存储多种物品。最多装载6样物品。</IndustrialChest_Frame.description>
+
+  <LWM_Meat_Hook.label>挂肉钩</LWM_Meat_Hook.label>
+  <LWM_Meat_Hook.description>一个高大的金属框架，链条上悬挂着多个钩子，使用简单的曲柄可以将数个悬挂物吊起。它提供了一种能储存杀死的动物、人或者同伴尸体的方法。然后，它们将会被切碎并被做成食物。你这个坏蛋。\n请注意，尸体会放在同一个单元格。另外框架承受的重量有限。</LWM_Meat_Hook.description>
+  <LWM_Meat_Hook_Blueprint.label>挂肉钩（蓝图）</LWM_Meat_Hook_Blueprint.label>
+  <LWM_Meat_Hook_Blueprint_Install.label>挂肉钩（蓝图）</LWM_Meat_Hook_Blueprint_Install.label>
+  <LWM_Meat_Hook_Frame.label>挂肉钩（建造中）</LWM_Meat_Hook_Frame.label>
+  <LWM_Meat_Hook_Frame.description>一个高大的金属框架，链条上悬挂着多个钩子，使用简单的曲柄可以将数个悬挂物吊起。它提供了一种能储存杀死的动物、人或者同伴尸体的方法。然后，它们将会被切碎并被做成食物。你这个坏蛋。\n请注意，尸体会放在同一个单元格。另外框架承受的重量有限。</LWM_Meat_Hook_Frame.description>
+
+  <FeedingBowl.label>饲喂盆</FeedingBowl.label>
+  <FeedingBowl.description>你的动物们非常喜欢这个漂亮的小盆子，它们肯定很愿意先到这里来看看有没有食物！</FeedingBowl.description>
+  <FeedingBowl_Blueprint.label>饲喂盆（蓝图）</FeedingBowl_Blueprint.label>
+  <FeedingBowl_Blueprint_Install.label>饲喂盆（蓝图）</FeedingBowl_Blueprint_Install.label>
+  <FeedingBowl_Frame.label>饲喂盆（建造中）</FeedingBowl_Frame.label>
+  <FeedingBowl_Frame.description>你的动物们非常喜欢这个漂亮的小盆子，它们肯定很愿意先到这里来看看有没有食物！</FeedingBowl_Frame.description>
+
+  <FabricHamperSingle.label>篮筐</FabricHamperSingle.label>
+  <FabricHamperSingle.description>这是由织物制成的较小的篮筐。 各种口袋可轻松存放大量不同的小物品</FabricHamperSingle.description>
+  <FabricHamperSingle_Blueprint.label>篮筐（蓝图）</FabricHamperSingle_Blueprint.label>
+  <FabricHamperSingle_Blueprint_Install.label>篮筐（蓝图）</FabricHamperSingle_Blueprint_Install.label>
+  <FabricHamperSingle_Frame.label>篮筐（建造中）</FabricHamperSingle_Frame.label>
+  <FabricHamperSingle_Frame.description>这是由织物制成的较小的篮筐。 各种口袋可轻松存放大量不同的小物品</FabricHamperSingle_Frame.description>
+
+  <LWM_BigShelf.label>双层置物架</LWM_BigShelf.label>
+  <LWM_BigShelf.description>用于存放杂物的架子。从炮弹到艺术品，从仿生臂到石砖，从椅子到尸体。它不问问题，只管储存。\n\n储存于此的物品即使露天也不会老化。\n\n容量是普通物品架的两倍。</LWM_BigShelf.description>
+  <LWM_BigShelf_Blueprint.label>双层置物架（蓝图）</LWM_BigShelf_Blueprint.label>
+  <LWM_BigShelf_Blueprint_Install.label>双层置物架（蓝图）</LWM_BigShelf_Blueprint_Install.label>
+  <LWM_BigShelf_Frame.label>双层置物架（建造中）</LWM_BigShelf_Frame.label>
+  <LWM_BigShelf_Frame.description>用于存放杂物的架子。从炮弹到艺术品，从仿生臂到石砖，从椅子到尸体。它不问问题，只管储存。\n\n储存于此的物品即使露天也不会老化。\n\n容量是普通物品架的两倍。</LWM_BigShelf_Frame.description>
+
+  <LWM_VeryBigShelf.label>多层置物柜</LWM_VeryBigShelf.label>
+  <LWM_VeryBigShelf.description>用于存放大量杂物的高层柜子。从炮弹到艺术品，从仿生臂到石砖，从椅子到尸体。它不问问题，只管储存。</LWM_VeryBigShelf.description>
+  <LWM_VeryBigShelf_Blueprint.label>多层置物柜（蓝图）</LWM_VeryBigShelf_Blueprint.label>
+  <LWM_VeryBigShelf_Blueprint_Install.label>多层置物柜（蓝图）</LWM_VeryBigShelf_Blueprint_Install.label>
+  <LWM_VeryBigShelf_Frame.label>多层置物柜（建造中）</LWM_VeryBigShelf_Frame.label>
+  <LWM_VeryBigShelf_Frame.description>用于存放大量杂物的高层柜子。从炮弹到艺术品，从仿生臂到石砖，从椅子到尸体。它不问问题，只管储存。</LWM_VeryBigShelf_Frame.description>
+
+  <TrayRackSingle.label>服务桌</TrayRackSingle.label>
+  <TrayRackSingle.description>这是一个较小的高托盘架，搬运工把食物和零食运到这里储存。</TrayRackSingle.description>
+  <TrayRackSingle_Blueprint.label>服务桌（蓝图）</TrayRackSingle_Blueprint.label>
+  <TrayRackSingle_Blueprint_Install.label>服务桌（蓝图）</TrayRackSingle_Blueprint_Install.label>
+  <TrayRackSingle_Frame.label>服务桌（建造中）</TrayRackSingle_Frame.label>
+  <TrayRackSingle_Frame.description>这是一个较小的高托盘架，搬运工把食物和零食运到这里储存。</TrayRackSingle_Frame.description>
+
+  <LWM_Hayloft.label>草料槽</LWM_Hayloft.label>
+  <LWM_Hayloft.description>这个建筑可以用来储存干草，青贮饲料，和其他各种植物材料，能够让材料远离潮湿的地板。你可能想把它建在仓储室内。</LWM_Hayloft.description>
+  <LWM_Hayloft_Blueprint.label>草料槽（蓝图）</LWM_Hayloft_Blueprint.label>
+  <LWM_Hayloft_Blueprint_Install.label>草料槽（蓝图）</LWM_Hayloft_Blueprint_Install.label>
+  <LWM_Hayloft_Frame.label>草料槽（建造中）</LWM_Hayloft_Frame.label>
+  <LWM_Hayloft_Frame.description>这个建筑可以用来储存干草，青贮饲料，和其他各种植物材料，能够让材料远离潮湿的地板。你可能想把它建在仓储室内。</LWM_Hayloft_Frame.description>
+
+  <LWM_Medicine_Cabinet.label>药品柜</LWM_Medicine_Cabinet.label>
+  <LWM_Medicine_Cabinet.description>用于存放药品的柜子。温馨提示：注意看好你的孩子。</LWM_Medicine_Cabinet.description>
+  <LWM_Medicine_Cabinet_Blueprint.label>药品柜（蓝图）</LWM_Medicine_Cabinet_Blueprint.label>
+  <LWM_Medicine_Cabinet_Blueprint_Install.label>药品柜（蓝图）</LWM_Medicine_Cabinet_Blueprint_Install.label>
+  <LWM_Medicine_Cabinet_Frame.label>药品柜（建造中）</LWM_Medicine_Cabinet_Frame.label>
+  <LWM_Medicine_Cabinet_Frame.description>用于存放药品的柜子。温馨提示：注意看好你的孩子。</LWM_Medicine_Cabinet_Frame.description>
+
+  <Shelf.label>衣架</Shelf.label>
+  <Shelf.description>一个顶部封闭的架子，用于存放衣物。使你能够方便地保持整洁，不再被堆满地的衣服困扰。</Shelf.description>
+  <Shelf_Blueprint.label>衣架（蓝图）</Shelf_Blueprint.label>
+  <Shelf_Blueprint_Install.label>衣架（蓝图）</Shelf_Blueprint_Install.label>
+  <Shelf_Frame.label>衣架（建造中）</Shelf_Frame.label>
+  <Shelf_Frame.description>一个顶部封闭的架子，用于存放衣物。使你能够方便地保持整洁，不再被堆满地的衣服困扰。</Shelf_Frame.description>
+
+  <LWM_WeaponsCabinet.label>武器柜</LWM_WeaponsCabinet.label>
+  <LWM_WeaponsCabinet.description>用于储存许多武器的坚固柜子。即使放在室外，储存在其中的物品也不会老化。</LWM_WeaponsCabinet.description>
+  <LWM_WeaponsCabinet_Blueprint.label>武器柜（蓝图）</LWM_WeaponsCabinet_Blueprint.label>
+  <LWM_WeaponsCabinet_Blueprint_Install.label>武器柜（蓝图）</LWM_WeaponsCabinet_Blueprint_Install.label>
+  <LWM_WeaponsCabinet_Frame.label>武器柜（建造中）</LWM_WeaponsCabinet_Frame.label>
+  <LWM_WeaponsCabinet_Frame.description>用于储存许多武器的坚固柜子。即使放在室外，储存在其中的物品也不会老化。</LWM_WeaponsCabinet_Frame.description>
+
+
+  <!-- or for anyone who builds some good careful metal-working tools -->
+
+  <LWM_WeaponsLocker.label>军用武器柜</LWM_WeaponsLocker.label>
+  <LWM_WeaponsLocker.description>用于安全存放大量武器的大容量金属武器柜。即使放在室外，储存在其中的物品也不会老化。</LWM_WeaponsLocker.description>
+  <LWM_WeaponsLocker_Blueprint.label>军用武器柜（蓝图）</LWM_WeaponsLocker_Blueprint.label>
+  <LWM_WeaponsLocker_Blueprint_Install.label>军用武器柜（蓝图）</LWM_WeaponsLocker_Blueprint_Install.label>
+  <LWM_WeaponsLocker_Frame.label>军用武器柜（建造中）</LWM_WeaponsLocker_Frame.label>
+  <LWM_WeaponsLocker_Frame.description>用于安全存放大量武器的大容量金属武器柜。即使放在室外，储存在其中的物品也不会老化。</LWM_WeaponsLocker_Frame.description>
+
+  <Storage_HazMatContainer.label>弹药箱</Storage_HazMatContainer.label>
+  <Storage_HazMatContainer.description>存储弹药，防止自燃。最多装载8样物品。</Storage_HazMatContainer.description>
+  <Storage_HazMatContainer_Blueprint.label>弹药箱（蓝图）</Storage_HazMatContainer_Blueprint.label>
+  <Storage_HazMatContainer_Blueprint_Install.label>弹药箱（蓝图）</Storage_HazMatContainer_Blueprint_Install.label>
+  <Storage_HazMatContainer_Frame.label>弹药箱（建造中）</Storage_HazMatContainer_Frame.label>
+  <Storage_HazMatContainer_Frame.description>存储弹药，防止自燃。最多装载8样物品。</Storage_HazMatContainer_Frame.description>
+
+  <Storage_ExplosiveContainer.label>加固弹药箱</Storage_ExplosiveContainer.label>
+  <Storage_ExplosiveContainer.description>存储弹药，防止自燃。最多装载8样物品。</Storage_ExplosiveContainer.description>
+  <Storage_ExplosiveContainer_Blueprint.label>加固弹药箱（蓝图）</Storage_ExplosiveContainer_Blueprint.label>
+  <Storage_ExplosiveContainer_Blueprint_Install.label>加固弹药箱（蓝图）</Storage_ExplosiveContainer_Blueprint_Install.label>
+  <Storage_ExplosiveContainer_Frame.label>加固弹药箱（建造中）</Storage_ExplosiveContainer_Frame.label>
+  <Storage_ExplosiveContainer_Frame.description>存储弹药，防止自燃。最多装载8样物品。</Storage_ExplosiveContainer_Frame.description>
+
+  <ClutterLockerA.label>加固装备箱</ClutterLockerA.label>
+  <ClutterLockerA.description>存储武器，武器零件，武器组件，弹药和衣物等，防止自燃。最多装载8样物品。</ClutterLockerA.description>
+  <ClutterLockerA_Blueprint.label>加固装备箱（蓝图）</ClutterLockerA_Blueprint.label>
+  <ClutterLockerA_Blueprint_Install.label>加固装备箱（蓝图）</ClutterLockerA_Blueprint_Install.label>
+  <ClutterLockerA_Frame.label>加固装备箱（建造中）</ClutterLockerA_Frame.label>
+  <ClutterLockerA_Frame.description>存储武器，武器零件，武器组件，弹药和衣物等，防止自燃。最多装载8样物品。</ClutterLockerA_Frame.description>
+
+  <Commode.label>抽屉柜</Commode.label>
+  <Commode.description>殖民者用来存储个人物品的容器。放在床旁边可以增加一点舒适度和休息效率。最多装载8样物品。</Commode.description>
+  <Commode_Blueprint.label>抽屉柜（蓝图）</Commode_Blueprint.label>
+  <Commode_Blueprint_Install.label>抽屉柜（蓝图）</Commode_Blueprint_Install.label>
+  <Commode_Frame.label>抽屉柜（建造中）</Commode_Frame.label>
+  <Commode_Frame.description>殖民者用来存储个人物品的容器。放在床旁边可以增加一点舒适度和休息效率。最多装载8样物品。</Commode_Frame.description>
+
+
+</LanguageData>

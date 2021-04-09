@@ -1,26 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TribalWarrior.label>勇士</TribalWarrior.label>
-  <TribalWarrior.labelPlural>勇士</TribalWarrior.labelPlural>
+  <Tribal_Penitent.label>悔罪者</Tribal_Penitent.label>
+  <Tribal_Penitent.labelPlural>悔罪者</Tribal_Penitent.labelPlural>
 
-  <TribalBerserker.label>狂战士</TribalBerserker.label>
-  <TribalBerserker.labelPlural>狂战士</TribalBerserker.labelPlural>
+  <Tribal_Warrior.label>勇士</Tribal_Warrior.label>
+  <Tribal_Warrior.labelPlural>勇士</Tribal_Warrior.labelPlural>
 
-  <TribalArcher.label>弓箭手</TribalArcher.label>
-  <TribalArcher.labelPlural>弓箭手</TribalArcher.labelPlural>
+  <Tribal_Berserker.label>狂战士</Tribal_Berserker.label>
+  <Tribal_Berserker.labelPlural>狂战士</Tribal_Berserker.labelPlural>
 
-  <TribalHunter.label>猎人</TribalHunter.label>
-  <TribalHunter.labelPlural>猎人</TribalHunter.labelPlural>
+  <Tribal_Archer.label>弓箭手</Tribal_Archer.label>
+  <Tribal_Archer.labelPlural>弓箭手</Tribal_Archer.labelPlural>
 
-  <TribalHeavyArcher.label>重弓手</TribalHeavyArcher.label>
-  <TribalHeavyArcher.labelPlural>重弓手s</TribalHeavyArcher.labelPlural>
+  <Tribal_Hunter.label>猎人</Tribal_Hunter.label>
+  <Tribal_Hunter.labelPlural>猎人</Tribal_Hunter.labelPlural>
 
-  <TribalChief.label>酋长</TribalChief.label>
-  <TribalChief.labelPlural>酋长</TribalChief.labelPlural>
+  <Tribal_HeavyArcher.label>重弓手</Tribal_HeavyArcher.label>
+  <Tribal_HeavyArcher.labelPlural>重弓手</Tribal_HeavyArcher.labelPlural>
 
-  <TribalTrader.label>商人</TribalTrader.label>
-  <TribalTrader.labelPlural>商人</TribalTrader.labelPlural>
+  <Tribal_Demoman.label>狂魔</Tribal_Demoman.label>
+  <Tribal_Demoman.labelPlural>狂魔</Tribal_Demoman.labelPlural>
+
+  <Tribal_ChiefMelee.label>狂战士首领</Tribal_ChiefMelee.label>
+  <Tribal_ChiefMelee.labelPlural>狂战士首领</Tribal_ChiefMelee.labelPlural>
+
+  <Tribal_ChiefRanged.label>弓箭手首领</Tribal_ChiefRanged.label>
+  <Tribal_ChiefRanged.labelPlural>弓箭手首领</Tribal_ChiefRanged.labelPlural>
+
+  <Tribal_Trader.label>商人</Tribal_Trader.label>
+  <Tribal_Trader.labelPlural>商人</Tribal_Trader.labelPlural>
 
 
 </LanguageData>

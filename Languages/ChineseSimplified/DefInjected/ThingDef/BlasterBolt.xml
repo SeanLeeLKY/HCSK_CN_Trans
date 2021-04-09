@@ -3,13 +3,12 @@
 
   <!-- Ammo -->
 
-  <Ammo_BlasterBolt.label>爆炸电荷弹</Ammo_BlasterBolt.label>
-  <Ammo_BlasterBolt.description>爆炸电荷弹</Ammo_BlasterBolt.description>
+  <Ammo_BlasterBolt.label>冲击电荷弹</Ammo_BlasterBolt.label>
 
 
   <!-- Projectiles -->
 
-  <Bullet_Blaster.label>爆炸电荷弹</Bullet_Blaster.label>
+  <Bullet_Blaster.label>冲击电荷弹</Bullet_Blaster.label>
 
 
 </LanguageData>

@@ -4,15 +4,17 @@
   <!-- Shields -->
 
   <ShieldTribal.label>部落盾牌</ShieldTribal.label>
-  
-  <ShieldBone.label>骨盾</ShieldBone.label>
-  
-  <Buckler.label>圆盾</Buckler.label>
-  <Buckler.description>一种小型的金属盾牌，通常与细剑或者类似的轻型剑配合使用。因为面积过小而对投射武器没有实际的防护能力。这是一种专门为在面对面的近身搏斗提供防护的盾。</Buckler.description>
+  <ShieldTribal.description>一种原始的盾牌，当地部落普遍使用。</ShieldTribal.description>
 
-  
+  <ShieldBone.label>骨盾</ShieldBone.label>
+  <ShieldBone.description>一种原始的木质盾牌，当地部落普遍使用。</ShieldBone.description>
+
+  <Buckler.label>圆盾</Buckler.label>
+  <Buckler.description>用坚硬的材料制成的盾牌，能够挡住大多数类型的攻击。使用后会磨损。</Buckler.description>
+
   <MedievalShield.label>中世纪盾牌</MedievalShield.label>
-  
+  <MedievalShield.description>由金属制成的盾牌，能够挡住大多数类型的攻击。使用后会磨损。</MedievalShield.description>
+
   <BallisticShield.label>防弹盾牌</BallisticShield.label>
   <BallisticShield.description>防弹盾用于抵御手枪、步枪、霰弹枪的射击，通常以高级合成材料制作，此外还能防御穿刺或切割类武器，以及投掷或发射的石头和箭头。装备防弹盾时可以使用小口径手枪或单手射击的冲锋枪。拥有更高格斗技能的人更能发挥防弹盾的性能。</BallisticShield.description>
 

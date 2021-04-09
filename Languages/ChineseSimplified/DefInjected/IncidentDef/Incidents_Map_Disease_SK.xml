@@ -2,13 +2,36 @@
 <LanguageData>
 
   <Disease_CommonCold.label>感冒</Disease_CommonCold.label>
-  <Disease_strepthroat.label>咽喉炎</Disease_strepthroat.label>
-  <Disease_earache.label>耳痛</Disease_earache.label>
-  <Disease_Fever.label>发烧</Disease_Fever.label>
-  <Disease_Ebola.label>埃博拉病毒</Disease_Ebola.label>
-  <Disease_Measles.label>麻疹</Disease_Measles.label>
-  <Disease_Pneumonia.label>急性肺炎</Disease_Pneumonia.label>
+  <Disease_CommonCold.letterText>{1}中的{0}名殖民者得了{2}。\n\n确保您有充足的病床和足够的医生。给予病人适当的治疗，并尽可能保持卧床休息。\n\n以下的{1}名人员得病：\n\n{3}</Disease_CommonCold.letterText>
+  <Disease_CommonCold.letterLabel>疾病：感冒</Disease_CommonCold.letterLabel>
 
+  <Disease_strepthroat.label>咽喉炎</Disease_strepthroat.label>
+  <Disease_strepthroat.letterText>{1}中的{0}名殖民者得了{2}。\n\n确保您有充足的病床和足够的医生。给予病人适当的治疗，并尽可能保持卧床休息。\n\n以下的{1}名人员得病：\n\n{3}</Disease_strepthroat.letterText>
+  <Disease_strepthroat.letterLabel>疾病：咽喉炎</Disease_strepthroat.letterLabel>
+
+  <Disease_earache.label>耳痛</Disease_earache.label>
+  <Disease_earache.letterText>{1}中的{0}名殖民者得了{2}。\n\n确保您有充足的病床和足够的医生。给予病人适当的治疗，并尽可能保持卧床休息。\n\n以下的{1}名人员得病：\n\n{3}</Disease_earache.letterText>
+  <Disease_earache.letterLabel>疾病：耳痛</Disease_earache.letterLabel>
+
+  <Disease_Fever.label>发烧</Disease_Fever.label>
+  <Disease_Fever.letterText>{1}中的{0}名殖民者得了{2}。\n\n确保您有充足的病床和足够的医生。给予病人适当的治疗，并尽可能保持卧床休息。\n\n以下的{1}名人员得病：\n\n{3}</Disease_Fever.letterText>
+  <Disease_Fever.letterLabel>疾病：发烧</Disease_Fever.letterLabel>
+
+  <Disease_Ebola.label>埃博拉病毒</Disease_Ebola.label>
+  <Disease_Ebola.letterText>{1}中的{0}名殖民者得了{2}。\n\n确保您有充足的病床和足够的医生。给予病人适当的治疗，并尽可能保持卧床休息。\n\n以下的{1}名人员得病：\n\n{3}</Disease_Ebola.letterText>
+  <Disease_Ebola.letterLabel>疾病：埃博拉病毒</Disease_Ebola.letterLabel>
+
+  <Disease_Measles.label>麻疹</Disease_Measles.label>
+  <Disease_Measles.letterText>{1}中的{0}名殖民者得了{2}。\n\n确保您有充足的病床和足够的医生。给予病人适当的治疗，并尽可能保持卧床休息。\n\n以下的{1}名人员得病：\n\n{3}</Disease_Measles.letterText>
+  <Disease_Measles.letterLabel>疾病：麻疹</Disease_Measles.letterLabel>
+
+  <Disease_Pneumonia.label>急性肺炎</Disease_Pneumonia.label>
+  <Disease_Pneumonia.letterText>{1}中的{0}名殖民者得了{2}。\n\n确保您有充足的病床和足够的医生。给予病人适当的治疗，并尽可能保持卧床休息。\n\n以下的{1}名人员得病：\n\n{3}</Disease_Pneumonia.letterText>
+  <Disease_Pneumonia.letterLabel>疾病：急性肺炎</Disease_Pneumonia.letterLabel>
+
+  <Disease_Coronavirus.label>冠状病毒</Disease_Coronavirus.label>
+  <Disease_Coronavirus.letterText>{1}中的{0}名殖民者得了{2}。\n\n确保您有充足的病床和足够的医生。给予病人适当的治疗，并尽可能保持卧床休息。\n\n以下的{1}名人员得病：\n\n{3}</Disease_Coronavirus.letterText>
+  <Disease_Coronavirus.letterLabel>疾病：冠状病毒</Disease_Coronavirus.letterLabel>
 
 
 </LanguageData>

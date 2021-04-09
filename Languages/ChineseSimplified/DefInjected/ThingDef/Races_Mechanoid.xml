@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 机械蜈蚣-->
+
+  <Mech_Centipede.label>机械蜈蚣</Mech_Centipede.label>
+  <Mech_Centipede.description>通过数十条细小的腿爬行的重型作战机械体。它们的重型装甲火力让它们非常适合于对付集群的防御设施。但面对游击战术时较为无力。</Mech_Centipede.description>
+  <Mech_Centipede.tools.0.label>头</Mech_Centipede.tools.0.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Centipede_Corpse.label>机械蜈蚣尸体</Mech_Centipede_Corpse.label>
+  <Mech_Centipede_Corpse.description>机械蜈蚣尸体</Mech_Centipede_Corpse.description>
+
+
+  <!-- 机械飞螳-->
+
+  <Mech_Scyther.label>机械飞螳</Mech_Scyther.label>
+  <Mech_Scyther.description>快速、细长并和人差不多大的机械体。它们的身体上的一对关节式镰刃让他们在近战中极其恐怖。他们从来不使用掩体。对付它们最好的战术是集中压倒性的火力。</Mech_Scyther.description>
+  <Mech_Scyther.tools.0.label>左镰刃</Mech_Scyther.tools.0.label>
+  <Mech_Scyther.tools.1.label>左镰刃</Mech_Scyther.tools.1.label>
+  <Mech_Scyther.tools.2.label>右镰刃</Mech_Scyther.tools.2.label>
+  <Mech_Scyther.tools.3.label>右镰刃</Mech_Scyther.tools.3.label>
+  <Mech_Scyther.tools.4.label>头</Mech_Scyther.tools.4.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Scyther_Corpse.label>机械飞螳尸体</Mech_Scyther_Corpse.label>
+  <Mech_Scyther_Corpse.description>机械飞螳尸体</Mech_Scyther_Corpse.description>
+
+
+  <!-- Stalker -->
+
+  <Mech_Lancer.label>机械静螳</Mech_Lancer.label>
+  <Mech_Lancer.description>一种人类大小的战斗机械，其面部有巨大的光学传感器，用于远程瞄准武器。虽然在远距离上很强势，但在近战中较弱。</Mech_Lancer.description>
+  <Mech_Lancer.tools.0.label>左拳</Mech_Lancer.tools.0.label>
+  <Mech_Lancer.tools.1.label>右拳</Mech_Lancer.tools.1.label>
+  <Mech_Lancer.tools.2.label>头</Mech_Lancer.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Lancer_Corpse.label>机械静螳尸体</Mech_Lancer_Corpse.label>
+  <Mech_Lancer_Corpse.description>机械静螳尸体</Mech_Lancer_Corpse.description>
+
+
+  <!-- New 1.1 update mechanoid. Temp. based on Lancer -->
+
+  <Mech_Pikeman.label>机械蝎蝽</Mech_Pikeman.label>
+  <Mech_Pikeman.description>一种笨重的多腿作战机械，专门用于搭载远程武器。虽然在远距离上很强势，但在近战中较弱。机械类的老兵都知道，对付它的最安全的地方就是贴近它。</Mech_Pikeman.description>
+  <Mech_Pikeman.tools.0.label>左拳</Mech_Pikeman.tools.0.label>
+  <Mech_Pikeman.tools.1.label>右拳</Mech_Pikeman.tools.1.label>
+  <Mech_Pikeman.tools.2.label>头</Mech_Pikeman.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Pikeman_Corpse.label>机械蝎蝽尸体</Mech_Pikeman_Corpse.label>
+  <Mech_Pikeman_Corpse.description>机械蝎蝽尸体</Mech_Pikeman_Corpse.description>
+
+
+  <!-- Crawler-->
+
+  <Mech_Crawler.label>机械爬虫</Mech_Crawler.label>
+  <Mech_Crawler.description>小型的昆虫型机械体。虽然不是特别坚韧，但它们在速度、体型和数量足以弥补这一缺陷。它们装配的小型等离子利刃削铁如泥，活体手术是它们喜爱的消遣方式。</Mech_Crawler.description>
+  <Mech_Crawler.tools.0.label>左镰刃</Mech_Crawler.tools.0.label>
+  <Mech_Crawler.tools.1.label>右镰刃</Mech_Crawler.tools.1.label>
+  <Mech_Crawler.tools.2.label>头</Mech_Crawler.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_Crawler_Corpse.label>机械爬虫尸体</Mech_Crawler_Corpse.label>
+  <Mech_Crawler_Corpse.description>机械爬虫尸体</Mech_Crawler_Corpse.description>
+
+
+</LanguageData>

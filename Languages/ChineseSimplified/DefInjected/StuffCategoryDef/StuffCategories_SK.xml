@@ -1,12 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Matty.label>Matty（物品？？）</Matty.label>
+  <Matty.label>物品</Matty.label>
   <Precious.label>贵重品</Precious.label>
   <Metallic.label>金属类</Metallic.label>
   <RareMetallic.label>稀有金属</RareMetallic.label>
   <SolidMetallic.label>硬质金属</SolidMetallic.label>
-  <Woody.label>木材类</Woody.label>
+  <HeavyMetallic.label>重质金属 </HeavyMetallic.label>
+  <StrongMetallic.label>强固金属</StrongMetallic.label>
+  <RuggedMetallic.label>超强金属</RuggedMetallic.label>
+  <Woody.label>木质类</Woody.label>
   <Stony.label>石材类</Stony.label>
   <Bricks.label>砖块</Bricks.label>
   <Fabric.label>纤维类</Fabric.label>

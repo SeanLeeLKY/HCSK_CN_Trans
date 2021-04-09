@@ -1,49 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Sick.stages.0.label>生病</Sick.stages.0.label>
-  
-  <Nauseated.stages.0.label>恶心</Nauseated.stages.0.label>
-  
-  <Anemic.stages.0.label>贫血</Anemic.stages.0.label>
-  
   <Amnesia.stages.0.label>失忆</Amnesia.stages.0.label>
-  
-  <Scurvy.stages.0.label>坏血病</Scurvy.stages.0.label>
-  
-  <TookMedicine.stages.0.label>吃了药</TookMedicine.stages.0.label>
-  
-  <ColonistBasicSickness.stages.0.label>一个同伴病了</ColonistBasicSickness.stages.0.label>
-  
-  <ColonistPassedAwayNatural.stages.0.label>一个殖民者老死了。</ColonistPassedAwayNatural.stages.0.label>
-  
-  <ColonistPassedAwayWounds.stages.0.label>一个殖民者重伤不治。</ColonistPassedAwayWounds.stages.0.label>
-  
-  <ColonistStroke.stages.0.label>一个殖民者中风摔倒</ColonistStroke.stages.0.label>
-  
+  <Amnesia.stages.0.description>我突然忘了所有的事情，这不是什么好兆头。</Amnesia.stages.0.description>
+
   <EclipseSubEventAFeral.stages.0.label>古怪的噩梦</EclipseSubEventAFeral.stages.0.label>
-  
+  <EclipseSubEventAFeral.stages.0.description>先是日蚀，又是噩梦！这什么时候才是个头？</EclipseSubEventAFeral.stages.0.description>
 
   <EclipseSubEventBMeteor.stages.0.label>从陨石灾变中存活</EclipseSubEventBMeteor.stages.0.label>
-  
+  <EclipseSubEventBMeteor.stages.0.description>我目睹死亡就发生在身边，还好我依旧活着！</EclipseSubEventBMeteor.stages.0.description>
 
-  <Rescued.stages.0.label>我可以回家了。</Rescued.stages.0.label>
-  
+  <Rescued.stages.0.label>我可以回家了</Rescued.stages.0.label>
+  <Rescued.stages.0.description>可以回家的感觉让人如梦似幻，令人着迷，不过我现在不能离开这个星球。因为这儿现在也是我的家！</Rescued.stages.0.description>
 
-  <MeteorShower.stages.0.label>我看见了一场流星雨。</MeteorShower.stages.0.label>
-  
-  <PrisonBreak.stages.0.label>囚犯越狱。</PrisonBreak.stages.0.label>
-  
-  <PrisonerSuicide.stages.0.label>囚犯自杀。</PrisonerSuicide.stages.0.label>
-  
-  <PrisonRiot.stages.0.label>监狱暴动</PrisonRiot.stages.0.label>
-  
-
-  <RaiderSyndicate.stages.0.label>叛徒！</RaiderSyndicate.stages.0.label>
-  
+  <MeteorShower.stages.0.label>我看见了一场流星雨</MeteorShower.stages.0.label>
+  <MeteorShower.stages.0.description>即使因为命运的原因被抛弃在这个地方，那壮丽的宇宙之美仍旧让人惊心动魄！</MeteorShower.stages.0.description>
 
   <SolarFlareSubEventACosmicRadiation.stages.0.label>创伤事件</SolarFlareSubEventACosmicRadiation.stages.0.label>
-  
+  <SolarFlareSubEventACosmicRadiation.stages.0.description>一切都变黑了几秒钟，大多数殖民者都跪到在地，我的头好痛。</SolarFlareSubEventACosmicRadiation.stages.0.description>
+
   <NuclearFalloutThought.stages.0.label>核事故</NuclearFalloutThought.stages.0.label>
-  
+  <NuclearFalloutThought.stages.0.description>看来某人想给我们加点放射性调料！</NuclearFalloutThought.stages.0.description>
+
+
 </LanguageData>

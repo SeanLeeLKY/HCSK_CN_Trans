@@ -1,6 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Refugee -->
+
+  <DovaRefugee.label>多瓦难民</DovaRefugee.label>
+  <DovaRefugee.labelPlural>多瓦难民</DovaRefugee.labelPlural>
+  <DovaRefugee.labelMale>男性多瓦难民</DovaRefugee.labelMale>
+  <DovaRefugee.labelMalePlural>男性多瓦难民</DovaRefugee.labelMalePlural>
+  <DovaRefugee.labelFemale>女性多瓦难民</DovaRefugee.labelFemale>
+  <DovaRefugee.labelFemalePlural>女性多瓦难民</DovaRefugee.labelFemalePlural>
+
+
   <!-- Husker -->
 
   <FeralHusker.label>剥皮工</FeralHusker.label>

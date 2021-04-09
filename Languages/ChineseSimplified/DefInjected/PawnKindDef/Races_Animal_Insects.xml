@@ -3,7 +3,7 @@
 
   <!-- Insects -->
 
-  <Megascarab.label>巨型甲虫</Megascarab.label>
+   <Megascarab.label>巨型甲虫</Megascarab.label>
   <Megascarab.labelPlural>巨型甲虫</Megascarab.labelPlural>
   <Megascarab.lifeStages.0.label>巨型甲虫幼体</Megascarab.lifeStages.0.label>
   <Megascarab.lifeStages.0.labelPlural>巨型甲虫幼体</Megascarab.lifeStages.0.labelPlural>
@@ -27,6 +27,7 @@
   <Megascarab.labelMalePlural>巨型甲虫</Megascarab.labelMalePlural>
   <Megascarab.labelFemale>巨型甲虫</Megascarab.labelFemale>
   <Megascarab.labelFemalePlural>巨型甲虫</Megascarab.labelFemalePlural>
+
   <Spelopede.label>洞穴阔步虫</Spelopede.label>
   <Spelopede.labelPlural>洞穴阔步虫</Spelopede.labelPlural>
   <Spelopede.lifeStages.0.label>洞穴阔步虫幼体</Spelopede.lifeStages.0.label>
@@ -51,6 +52,7 @@
   <Spelopede.labelMalePlural>洞穴阔步虫</Spelopede.labelMalePlural>
   <Spelopede.labelFemale>洞穴阔步虫</Spelopede.labelFemale>
   <Spelopede.labelFemalePlural>洞穴阔步虫</Spelopede.labelFemalePlural>
+
   <Megaspider.label>巨型蜘蛛</Megaspider.label>
   <Megaspider.labelPlural>巨型蜘蛛</Megaspider.labelPlural>
   <Megaspider.lifeStages.0.label>巨型蜘蛛幼体</Megaspider.lifeStages.0.label>

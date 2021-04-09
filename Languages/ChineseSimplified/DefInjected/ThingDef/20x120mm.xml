@@ -4,11 +4,14 @@
   <!-- Ammo -->
 
   <Ammo_20x102mm_FMJ.label>20x102mm 弹药（全金属被甲弹）</Ammo_20x102mm_FMJ.label>
-  
+  <Ammo_20x102mm_FMJ.description>20毫米口径是某些火炮和自动机炮的特定口径。</Ammo_20x102mm_FMJ.description>
+
   <Ammo_20x102mm_HE.label>20x102mm 弹药（高爆弹）</Ammo_20x102mm_HE.label>
-  
+  <Ammo_20x102mm_HE.description>20毫米口径是某些火炮和自动机炮的特定口径。</Ammo_20x102mm_HE.description>
+
   <Ammo_20x102mm_Incendiary.label>20x102mm 弹药（穿甲燃烧弹）</Ammo_20x102mm_Incendiary.label>
-  
+  <Ammo_20x102mm_Incendiary.description>20毫米口径是某些火炮和自动机炮的特定口径。</Ammo_20x102mm_Incendiary.description>
+
 
   <!-- Projectiles -->
 

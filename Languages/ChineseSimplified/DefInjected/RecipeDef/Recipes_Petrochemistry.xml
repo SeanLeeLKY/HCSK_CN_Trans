@@ -24,13 +24,20 @@
   <MakeCompaste.description>制造一批复合胶水，这种辅料广泛用于各种服装、护甲的生产消耗。\n\n产出：20。</MakeCompaste.description>
   <MakeCompaste.jobString>正在制造 复合粘剂。</MakeCompaste.jobString>
 
-  <MakeCarbon.label>制造 复合碳材</MakeCarbon.label>
-  <MakeCarbon.description>利用聚合物、橡胶以及高碳矿物制造复合碳材料。 \n\n产出：12。</MakeCarbon.description>
-  <MakeCarbon.jobString>正在制造 复合碳材。</MakeCarbon.jobString>
+  <MakeCarbon.label>制造 碳聚物</MakeCarbon.label>
+  <MakeCarbon.description>利用聚合物、橡胶以及高碳矿物制造复合碳聚物。 \n\n产出：12。</MakeCarbon.description>
+  <MakeCarbon.jobString>正在制造 碳聚物。</MakeCarbon.jobString>
 
-  <MakeKevlar.label>制造 凯夫拉</MakeKevlar.label>
-  <MakeKevlar.description>利用人造纤维以及塑料制造凯夫拉材料。 \n\n产出：10。</MakeKevlar.description>
-  <MakeKevlar.jobString>正在制造 凯夫拉。</MakeKevlar.jobString>
+
+  <!-- Vanilla chemfuel recipes -->
+
+  <Make_ChemfuelFromWood.label>用木材制作化合燃料</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.description>通过气化原木以制作一组化合燃料。</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.jobString>正在从木材中提炼化合燃料。</Make_ChemfuelFromWood.jobString>
+
+  <Make_ChemfuelFromOrganics.label>用有机物制作化合燃料</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.description>通过从有机原料中提取生物燃料以制作一组化合燃料。</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.jobString>正在从有机物中提炼化合燃料。</Make_ChemfuelFromOrganics.jobString>
 
 
 </LanguageData>

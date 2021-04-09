@@ -1,61 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TerminatorSkull.label>神经机械颅骨</TerminatorSkull.label>
-  <TerminatorBrain.label>神经机械AI大脑</TerminatorBrain.label>
-  <TerminatorLeftEye.label>神经机械左眼</TerminatorLeftEye.label>
-  <TerminatorRightEye.label>神经机械右眼</TerminatorRightEye.label>
-  <TerminatorLeftEar.label>神经机械左耳</TerminatorLeftEar.label>
-  <TerminatorRightEar.label>神经机械右耳</TerminatorRightEar.label>
-  <TerminatorNeck.label>神经机械颈</TerminatorNeck.label>
-  <TerminatorSpine.label>神经机械脊柱</TerminatorSpine.label>
-  <TerminatorReactor.label>动力反应堆</TerminatorReactor.label>
-  <TerminatorLeftLeg.label>神经机械左腿</TerminatorLeftLeg.label>
-  <TerminatorLeftFoot.label>神经机械左足</TerminatorLeftFoot.label>
-  <TerminatorRightLeg.label>神经机械右腿</TerminatorRightLeg.label>
-  <TerminatorRightFoot.label>神经机械右足</TerminatorRightFoot.label>
-  <TerminatorTorso.label>神经机械躯干</TerminatorTorso.label>
-  <TerminatorLeftShoulder.label>神经机械左肩</TerminatorLeftShoulder.label>
-  <TerminatorLeftArm.label>神经机械左臂</TerminatorLeftArm.label>
-  <TerminatorLeftHand.label>神经机械左手</TerminatorLeftHand.label>
-  <TerminatorLeftHandPinky.label>神经机械左小指</TerminatorLeftHandPinky.label>
-  <TerminatorLeftHandRingFinger.label>神经机械左无名指</TerminatorLeftHandRingFinger.label>
-  <TerminatorLeftHandMiddleFinger.label>神经机械左中指</TerminatorLeftHandMiddleFinger.label>
-  <TerminatorLeftHandIndexFinger.label>神经机械左食指</TerminatorLeftHandIndexFinger.label>
-  <TerminatorLeftHandThumb.label>神经机械左拇指</TerminatorLeftHandThumb.label>
-  <TerminatorRightShoulder.label>神经机械右肩</TerminatorRightShoulder.label>
-  <TerminatorRightArm.label>神经机械右臂</TerminatorRightArm.label>
-  <TerminatorRightHand.label>神经机械右手</TerminatorRightHand.label>
-  <TerminatorRightHandPinky.label>神经机械右小指</TerminatorRightHandPinky.label>
-  <TerminatorRightHandRingFinger.label>神经机械右无名指</TerminatorRightHandRingFinger.label>
-  <TerminatorRightHandMiddleFinger.label>神经机械右中指</TerminatorRightHandMiddleFinger.label>
-  <TerminatorRightHandIndexFinger.label>神经机械右食指</TerminatorRightHandIndexFinger.label>
-  <TerminatorRightHandThumb.label>神经机械右拇指</TerminatorRightHandThumb.label>
-  <TerminatorLeftFootLittleToe.label>神经机械左小趾</TerminatorLeftFootLittleToe.label>
-  <TerminatorLeftFootFourthToe.label>神经机械左四趾</TerminatorLeftFootFourthToe.label>
-  <TerminatorLeftFootMiddleToe.label>神经机械左中趾</TerminatorLeftFootMiddleToe.label>
-  <TerminatorLeftFootSecondToe.label>神经机械左二趾</TerminatorLeftFootSecondToe.label>
-  <TerminatorLeftFootBigToe.label>神经机械左大趾</TerminatorLeftFootBigToe.label>
-  <TerminatorRightFootLittleToe.label>神经机械右小趾</TerminatorRightFootLittleToe.label>
-  <TerminatorRightFootFourthToe.label>神经机械右四趾</TerminatorRightFootFourthToe.label>
-  <TerminatorRightFootMiddleToe.label>神经机械右中趾</TerminatorRightFootMiddleToe.label>
-  <TerminatorRightFootSecondToe.label>神经机械右二趾</TerminatorRightFootSecondToe.label>
-  <TerminatorRightFootBigToe.label>神经机械右大趾</TerminatorRightFootBigToe.label>
+  <TerminatorSkull.label>机器人颅骨</TerminatorSkull.label>
+  <TerminatorBrain.label>机器人AI大脑</TerminatorBrain.label>
+  <TerminatorEye.label>机器人眼</TerminatorEye.label>
+  <TerminatorEar.label>机器人耳</TerminatorEar.label>
+  <TerminatorNeck.label>机器人颈</TerminatorNeck.label>
+  <TerminatorNose.label>机器人鼻</TerminatorNose.label>
+  <TerminatorJaw.label>机器人颌</TerminatorJaw.label>
+  <TerminatorRibcage.label>机器人肋骨</TerminatorRibcage.label>
+  <TerminatorSpine.label>机器人脊柱</TerminatorSpine.label>
+  <TerminatorReactor.label>超级反应核心</TerminatorReactor.label>
+  <TerminatorLeg.label>机器人腿</TerminatorLeg.label>
+  <TerminatorFoot.label>机器人足</TerminatorFoot.label>
+  <TerminatorTorso.label>机器人躯干</TerminatorTorso.label>
+  <TerminatorShoulder.label>机器人肩</TerminatorShoulder.label>
+  <TerminatorArm.label>机器人臂</TerminatorArm.label>
+  <TerminatorHand.label>机器人手</TerminatorHand.label>
+  <TerminatorFinger.label>机器人手指</TerminatorFinger.label>
+  <TerminatorToe.label>机器人脚趾</TerminatorToe.label>
 
 
   <!-- Bones -->
 
-  <TerminatorLeftClavicle.label>神经机械左锁骨</TerminatorLeftClavicle.label>
-  <TerminatorRightClavicle.label>神经机械右锁骨</TerminatorRightClavicle.label>
-  <TerminatorLeftHumerus.label>神经机械左肱骨</TerminatorLeftHumerus.label>
-  <TerminatorRightHumerus.label>神经机械右肱骨</TerminatorRightHumerus.label>
-  <TerminatorLeftRadius.label>神经机械左桡骨</TerminatorLeftRadius.label>
-  <TerminatorRightRadius.label>神经机械右桡骨</TerminatorRightRadius.label>
-  <TerminatorPelvis.label>神经机械骨盆</TerminatorPelvis.label>
-  <TerminatorLeftFemur.label>神经机械左股骨</TerminatorLeftFemur.label>
-  <TerminatorRightFemur.label>神经机械右股骨</TerminatorRightFemur.label>
-  <TerminatorLeftTibia.label>神经机械左胫骨</TerminatorLeftTibia.label>
-  <TerminatorRightTibia.label>神经机械右胫骨</TerminatorRightTibia.label>
+  <TerminatorClavicle.label>机器人锁骨</TerminatorClavicle.label>
+  <TerminatorSternum.label>胸骨</TerminatorSternum.label>
+  <TerminatorHumerus.label>机器人肱骨</TerminatorHumerus.label>
+  <TerminatorRadius.label>机器人桡骨</TerminatorRadius.label>
+  <TerminatorPelvis.label>机器人骨盆</TerminatorPelvis.label>
+  <TerminatorFemur.label>机器人股骨</TerminatorFemur.label>
+  <TerminatorTibia.label>机器人胫骨</TerminatorTibia.label>
 
 
 </LanguageData>

@@ -4,11 +4,14 @@
   <!-- Ammo -->
 
   <Ammo_90mmCannonShell_HEAT.label>90mm 炮弹（破甲弹）</Ammo_90mmCannonShell_HEAT.label>
-  
+  <Ammo_90mmCannonShell_HEAT.description>相对小的炮弹。</Ammo_90mmCannonShell_HEAT.description>
+
   <Ammo_90mmCannonShell_HE.label>90mm 炮弹（高爆弹）</Ammo_90mmCannonShell_HE.label>
-  
+  <Ammo_90mmCannonShell_HE.description>相对小的炮弹。</Ammo_90mmCannonShell_HE.description>
+
   <Ammo_90mmCannonShell_EMP.label>90mm 炮弹（EMP）</Ammo_90mmCannonShell_EMP.label>
-  
+  <Ammo_90mmCannonShell_EMP.description>相对小的炮弹。</Ammo_90mmCannonShell_EMP.description>
+
 
   <!-- Projectiles -->
 

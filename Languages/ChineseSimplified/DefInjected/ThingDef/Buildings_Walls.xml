@@ -10,34 +10,23 @@
   <Wall_Frame.description>一面无法通过的墙。可以支撑起屋顶。</Wall_Frame.description>
 
   <ClutterSilverWall.label>板筋墙</ClutterSilverWall.label>
- 
-  <ClutterSilverWall_Blueprint.label>板筋墙(蓝图)</ClutterSilverWall_Blueprint.label>
-  <ClutterSilverWall_Frame.label>板筋墙(建造中)</ClutterSilverWall_Frame.label>
-  
+  <ClutterSilverWall.description>一种加筋的墙，可以用厚板进一步加固。</ClutterSilverWall.description>
+  <ClutterSilverWall_Blueprint.label>板筋墙（蓝图）</ClutterSilverWall_Blueprint.label>
+  <ClutterSilverWall_Frame.label>板筋墙（建造中）</ClutterSilverWall_Frame.label>
+  <ClutterSilverWall_Frame.description>一种加筋的墙，可以用厚板进一步加固。</ClutterSilverWall_Frame.description>
 
   <ClutterUWallLight.label>灯带墙</ClutterUWallLight.label>
-  
-  <ClutterUWallLight_Blueprint.label>灯带墙(蓝图)</ClutterUWallLight_Blueprint.label>
-  <ClutterUWallLight_Frame.label>灯带墙(建造中)</ClutterUWallLight_Frame.label>
-  
+  <ClutterUWallLight.description>基本墙壁的升级版，具有轻松附着物品的功能，例如具有数百年历史的旧灰尘！此版本带有灯光，以炫耀您收集的“美丽”灰尘。</ClutterUWallLight.description>
+  <ClutterUWallLight_Blueprint.label>灯带墙（蓝图）</ClutterUWallLight_Blueprint.label>
+  <ClutterUWallLight_Frame.label>灯带墙（建造中）</ClutterUWallLight_Frame.label>
+  <ClutterUWallLight_Frame.description>基本墙壁的升级版，具有轻松附着物品的功能，例如具有数百年历史的旧灰尘！此版本带有灯光，以炫耀您收集的“美丽”灰尘。</ClutterUWallLight_Frame.description>
 
 
-  
-
-  <UtilityWindows.label>窗户</UtilityWindows.label>
-  <UtilityWindows.description>窗户</UtilityWindows.description>
-
-  <WindowThingy.label>WindowThingy边窗？？？</WindowThingy.label>
-  <DoorThingy.label>DoorThingy边门？？？</DoorThingy.label>
-
-
-  <!-- 支撑柱 -->
-
-  <RoofSupport.label>支撑柱</RoofSupport.label>
-  <RoofSupport.description>能够支撑起一片屋顶的柱子，可以通过，不能提供掩护。</RoofSupport.description>
-  <RoofSupport_Blueprint.label>支撑柱 (蓝图)</RoofSupport_Blueprint.label>
-  <RoofSupport_Frame.label>支撑柱 (建造中)</RoofSupport_Frame.label>
-  <RoofSupport_Frame.description>能够支撑起一片屋顶的柱子，可以通过，不能提供掩护。</RoofSupport_Frame.description>
+  <Column.label>支撑柱</Column.label>
+  <Column.description>一个能够支撑屋顶的柱子，不影响视野和移动，看起来还挺漂亮。</Column.description>
+  <Column_Blueprint.label>支撑柱（蓝图）</Column_Blueprint.label>
+  <Column_Frame.label>支撑柱（建造中）</Column_Frame.label>
+  <Column_Frame.description>一个能够支撑屋顶的柱子，不影响视野和移动，看起来还挺漂亮。</Column_Frame.description>
 
 
 </LanguageData>

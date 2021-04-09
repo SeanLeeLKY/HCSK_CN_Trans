@@ -6,8 +6,13 @@
   <ImmediateAttack.letterLabelEnemy>袭击</ImmediateAttack.letterLabelEnemy>
   <ImmediateAttack.letterLabelFriendly>友军</ImmediateAttack.letterLabelFriendly>
 
+  <ImmediateAttackFriendly.arrivalTextFriendly>他们会立即支援你。</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.arrivalTextEnemy>他们会立即开始进攻。</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.letterLabelEnemy>袭击</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.letterLabelFriendly>友军</ImmediateAttackFriendly.letterLabelFriendly>
+
   <ImmediateAttackSmart.arrivalTextFriendly>他们会立即支援你。</ImmediateAttackSmart.arrivalTextFriendly>
-  <ImmediateAttackSmart.arrivalTextEnemy>他们会立即开始进攻。\n\n注意：他们似乎异常聪明地采取了战术。</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>他们会立即开始进攻。\n\n注意：他们似乎异常聪明地采取了战术。他们的行动路线似乎在避开你的防御武器范围和你准备的一些陷阱区域。</ImmediateAttackSmart.arrivalTextEnemy>
   <ImmediateAttackSmart.letterLabelEnemy>袭击</ImmediateAttackSmart.letterLabelEnemy>
   <ImmediateAttackSmart.letterLabelFriendly>友军</ImmediateAttackSmart.letterLabelFriendly>
 
@@ -19,10 +24,13 @@
   <ImmediateAttackSappers.arrivalTextEnemy>看来他们想用工程兵挖掘隧道来攻破殖民地的防御圈。</ImmediateAttackSappers.arrivalTextEnemy>
   <ImmediateAttackSappers.letterLabelEnemy>袭击</ImmediateAttackSappers.letterLabelEnemy>
 
-  <Siege.arrivalTextFriendly>I看来他们想用包围策略来支援你。</Siege.arrivalTextFriendly>
+  <Siege.arrivalTextFriendly>看来他们想用包围策略来支援你。</Siege.arrivalTextFriendly>
   <Siege.arrivalTextEnemy>看来他们想包围你的殖民地，然后用迫击炮远远的轰炸殖民地，你可以等他们离开，或者去主动攻击他们。</Siege.arrivalTextEnemy>
   <Siege.letterLabelEnemy>围攻</Siege.letterLabelEnemy>
   <Siege.letterLabelFriendly>友军</Siege.letterLabelFriendly>
+
+  <SiegeMechanoid.arrivalTextEnemy>机械族看起来不是直接攻击你的基地而是在附近建立了一个机械集群，你必须主动出击才能消除威胁。\n\n机械集群最初处于休眠状态，你可以对进攻方案深思熟虑。\n\n它也有可能在受到干扰之前一直休眠下去，也可以被定时激活器或探测激活器所激活。\n\n虽然机械集群处于休眠状态，但它也并不是完全无害的。休眠的机械集群会时不时地装配新的机械单位，或者对整片区域产生一些负面的影响。\n\n说到底，最终你还是得想办法处理它们。</SiegeMechanoid.arrivalTextEnemy>
+  <SiegeMechanoid.letterLabelEnemy>围攻（机械）</SiegeMechanoid.letterLabelEnemy>
 
 
 </LanguageData>

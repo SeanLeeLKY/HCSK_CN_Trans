@@ -27,10 +27,6 @@
   <ProcessCobalt.description>从镍矿中提炼钴。 \n\n产出：15</ProcessCobalt.description>
   <ProcessCobalt.jobString>正在提炼钴。</ProcessCobalt.jobString>
 
-  <ProcessForManganese.label>提炼 锰</ProcessForManganese.label>
-  <ProcessForManganese.description>从软锰矿中提炼锰。 \n\n产出：10</ProcessForManganese.description>
-  <ProcessForManganese.jobString>正在提炼锰。</ProcessForManganese.jobString>
-
   <ProcessForChromium.label>提炼 铬</ProcessForChromium.label>
   <ProcessForChromium.description>从铁矿中提炼铬。铬是制造镍铬合金的重要材料。 \n\n产出：10</ProcessForChromium.description>
   <ProcessForChromium.jobString>正在提炼铬。</ProcessForChromium.jobString>
@@ -55,73 +51,77 @@
   <MakeFerronickelAlloy.description>斯坦合金由铁、镍、锰组成，而且这种金属的硬度甚至超过了斯特合金。 \n\n产出：20</MakeFerronickelAlloy.description>
   <MakeFerronickelAlloy.jobString>正在提炼斯坦合金。</MakeFerronickelAlloy.jobString>
 
-  <MakeStelliteAlloy.label>提炼 斯特莱特合金</MakeStelliteAlloy.label>
-  <MakeStelliteAlloy.description>斯特莱特合金是由钴、铬和钨组成的合金。其最突出的特点就是耐磨性非常优秀。 \n\n产出：20</MakeStelliteAlloy.description>
-  <MakeStelliteAlloy.jobString>正在提炼斯特莱特合金。</MakeStelliteAlloy.jobString>
-
-  <MakeNichromeAlloy.label>提炼 镍克罗合金</MakeNichromeAlloy.label>
-  <MakeNichromeAlloy.description>提炼镍克罗合金, 一种镍、铬和锰组成的金属， 镍克罗通常用于高阻防漏电缆的铺设。 \n\n产出：20</MakeNichromeAlloy.description>
-  <MakeNichromeAlloy.jobString>正在提炼镍克罗合金。</MakeNichromeAlloy.jobString>
+  <MakeStelliteAlloy.label>提炼 司太立合金</MakeStelliteAlloy.label>
+  <MakeStelliteAlloy.description>司太立合金是由钴、铬和钨组成的合金。其最突出的特点就是耐磨性非常优秀。 \n\n产出：20</MakeStelliteAlloy.description>
+  <MakeStelliteAlloy.jobString>正在提炼司太立合金。</MakeStelliteAlloy.jobString>
 
   <MakeAlnicoAlloy.label>提炼 亚力可合金</MakeAlnicoAlloy.label>
   <MakeAlnicoAlloy.description>提炼亚力可合金, 一种由铁、镍、铝、钴组成的合金。亚力可合金一般用于制造超强永磁体，这种材料可以强化磁体的磁场。 \n\n产出：20</MakeAlnicoAlloy.description>
-  <MakeAlnicoAlloy.jobString>提炼 亚力可合金。</MakeAlnicoAlloy.jobString>
+  <MakeAlnicoAlloy.jobString>正在提炼 亚力可合金。</MakeAlnicoAlloy.jobString>
 
-  <MakePobediteAlloy.label>提炼 培博戴特合金</MakePobediteAlloy.label>
-  <MakePobediteAlloy.description>提炼培博戴特合金, 一种由碳纤维、钨和钴组成的合金。这种复合合金具有极高的硬度。 \n\n产出：10</MakePobediteAlloy.description>
-  <MakePobediteAlloy.jobString>提炼 培博戴特合金。</MakePobediteAlloy.jobString>
+  <MakePobediteAlloy.label>提炼 钨钴合金</MakePobediteAlloy.label>
+  <MakePobediteAlloy.description>提炼钨钴合金, 一种由碳纤维、钨和钴组成的合金。这种复合合金具有极高的硬度。 \n\n产出：10</MakePobediteAlloy.description>
+  <MakePobediteAlloy.jobString>正在提炼 钨钴合金。</MakePobediteAlloy.jobString>
 
   <MakeGoldBars_Hand.label>提炼 黄金</MakeGoldBars_Hand.label>
   <MakeGoldBars_Hand.description>提炼黄金，一种美丽、珍贵的金属。大部分成分是金，复合有少量的铜或铝的合金。 \n\n产出：15</MakeGoldBars_Hand.description>
-  <MakeGoldBars_Hand.jobString>提炼黄金。</MakeGoldBars_Hand.jobString>
+  <MakeGoldBars_Hand.jobString>正在提炼黄金。</MakeGoldBars_Hand.jobString>
 
   <MakeGoldBars_Electric.label>提炼 黄金</MakeGoldBars_Electric.label>
   <MakeGoldBars_Electric.description>提炼黄金，一种美丽、珍贵的金属。大部分成分是金，复合有少量的铜或铝的合金。 \n\n产出：15</MakeGoldBars_Electric.description>
-  <MakeGoldBars_Electric.jobString>提炼黄金。</MakeGoldBars_Electric.jobString>
+  <MakeGoldBars_Electric.jobString>正在提炼黄金。</MakeGoldBars_Electric.jobString>
 
-  <MakeSilverBars_Hand.label>提炼 纯银锭</MakeSilverBars_Hand.label>
-  <MakeSilverBars_Hand.description>提炼标准纯银，一种有价值的银合金，其复合元素既可以是铜也可以是铝。 \n\n产出：10</MakeSilverBars_Hand.description>
-  <MakeSilverBars_Hand.jobString>提炼纯银锭。</MakeSilverBars_Hand.jobString>
+  <MakeSilverBars_Hand.label>提炼 标准银锭</MakeSilverBars_Hand.label>
+  <MakeSilverBars_Hand.description>提炼标准银锭，一种有价值的银合金，其复合元素既可以是铜也可以是铝。 \n\n产出：10</MakeSilverBars_Hand.description>
+  <MakeSilverBars_Hand.jobString>正在提炼标准银锭。</MakeSilverBars_Hand.jobString>
 
-  <MakeSilverBars_Electric.label>提炼 纯银锭</MakeSilverBars_Electric.label>
-  <MakeSilverBars_Electric.description>提炼标准纯银，一种有价值的银合金，其复合元素既可以是铜也可以是铝。 \n\n产出：15</MakeSilverBars_Electric.description>
-  <MakeSilverBars_Electric.jobString>提炼纯银锭。</MakeSilverBars_Electric.jobString>
+  <MakeSilverBars_Electric.label>提炼 标准银锭</MakeSilverBars_Electric.label>
+  <MakeSilverBars_Electric.description>提炼标准银锭，一种有价值的银合金，其复合元素既可以是铜也可以是铝。 \n\n产出：15</MakeSilverBars_Electric.description>
+  <MakeSilverBars_Electric.jobString>正在提炼标准银锭。</MakeSilverBars_Electric.jobString>
 
   <MakeCopperBars_Hand.label>提炼 铜锭</MakeCopperBars_Hand.label>
   <MakeCopperBars_Hand.description>将铜矿提炼成为铜锭。 \n\n产出：10</MakeCopperBars_Hand.description>
-  <MakeCopperBars_Hand.jobString>提炼铜锭。</MakeCopperBars_Hand.jobString>
+  <MakeCopperBars_Hand.jobString>正在提炼铜锭。</MakeCopperBars_Hand.jobString>
 
   <MakeCopperBars_Electric.label>提炼 铜锭</MakeCopperBars_Electric.label>
   <MakeCopperBars_Electric.description>将铜矿提炼成为铜锭。 \n\n产出：20</MakeCopperBars_Electric.description>
-  <MakeCopperBars_Electric.jobString>提炼铜锭。</MakeCopperBars_Electric.jobString>
+  <MakeCopperBars_Electric.jobString>正在提炼铜锭。</MakeCopperBars_Electric.jobString>
 
   <MakeTinBars_Hand.label>提炼 锡锭</MakeTinBars_Hand.label>
   <MakeTinBars_Hand.description>从锡矿石中冶炼锡合金。锡合金材料建造的生产建筑可以达到比一般材料更高的工作速度加成。 \n\n产出：10</MakeTinBars_Hand.description>
-  <MakeTinBars_Hand.jobString>提炼锡锭。</MakeTinBars_Hand.jobString>
+  <MakeTinBars_Hand.jobString>正在提炼锡锭。</MakeTinBars_Hand.jobString>
 
   <MakeTinBars_Electric.label>提炼 锡锭</MakeTinBars_Electric.label>
   <MakeTinBars_Electric.description>从锡矿石中冶炼锡合金。锡合金材料建造的生产建筑可以达到比一般材料更高的工作速度加成。 \n\n产出：20</MakeTinBars_Electric.description>
-  <MakeTinBars_Electric.jobString>提炼锡锭。</MakeTinBars_Electric.jobString>
-
-  <MakeAluminiumBars_Hand.label>提炼 铝合金</MakeAluminiumBars_Hand.label>
-  <MakeAluminiumBars_Hand.description>从铝土矿中冶炼铝合金。 \n\n产出：10</MakeAluminiumBars_Hand.description>
-  <MakeAluminiumBars_Hand.jobString>提炼铝合金。</MakeAluminiumBars_Hand.jobString>
+  <MakeTinBars_Electric.jobString>正在提炼锡锭。</MakeTinBars_Electric.jobString>
 
   <MakeAluminiumBars_Electric.label>提炼 铝合金</MakeAluminiumBars_Electric.label>
   <MakeAluminiumBars_Electric.description>从铝土矿中冶炼铝合金。 \n\n产出：20</MakeAluminiumBars_Electric.description>
-  <MakeAluminiumBars_Electric.jobString>提炼铝合金。</MakeAluminiumBars_Electric.jobString>
+  <MakeAluminiumBars_Electric.jobString>正在提炼铝合金。</MakeAluminiumBars_Electric.jobString>
+
+  <MakeLeadBars_Hand.label>提炼 铅锭</MakeLeadBars_Hand.label>
+  <MakeLeadBars_Hand.description>从铅矾矿中提炼铅金属。\n\n产出：10</MakeLeadBars_Hand.description>
+  <MakeLeadBars_Hand.jobString>正在提炼 铅锭。</MakeLeadBars_Hand.jobString>
+
+  <MakeLeadBars_Electric.label>提炼 lead alloy</MakeLeadBars_Electric.label>
+  <MakeLeadBars_Electric.description>从铅矾矿中提炼铅金属。\n\n产出：20</MakeLeadBars_Electric.description>
+  <MakeLeadBars_Electric.jobString>正在提炼 铅锭。</MakeLeadBars_Electric.jobString>
 
   <MakeFerrotitaniumAlloy.label>提炼 钛铁合金</MakeFerrotitaniumAlloy.label>
   <MakeFerrotitaniumAlloy.description>冶炼钛铁合金，一种非常耐用的合金，由钢、钛和碳纤维组成。 \n\n产出：15</MakeFerrotitaniumAlloy.description>
-  <MakeFerrotitaniumAlloy.jobString>提炼钛铁合金。</MakeFerrotitaniumAlloy.jobString>
+  <MakeFerrotitaniumAlloy.jobString>正在提炼钛铁合金。</MakeFerrotitaniumAlloy.jobString>
 
-  <MakeNitinolAlloy.label>提炼 镍钛诺合金</MakeNitinolAlloy.label>
-  <MakeNitinolAlloy.description>提炼镍钛诺合金, 一种镍和钛的合金。它十分耐用，而且光泽色彩也很漂亮，但是制作流程非常复杂。 \n\n产出：15</MakeNitinolAlloy.description>
-  <MakeNitinolAlloy.jobString>提炼镍钛诺合金。</MakeNitinolAlloy.jobString>
+  <MakeNitinolAlloy.label>提炼 镍钛合金</MakeNitinolAlloy.label>
+  <MakeNitinolAlloy.description>提炼镍钛合金, 一种镍和钛的合金。它十分耐用，而且光泽色彩也很漂亮，但是制作流程非常复杂。 \n\n产出：15</MakeNitinolAlloy.description>
+  <MakeNitinolAlloy.jobString>正在提炼镍钛合金。</MakeNitinolAlloy.jobString>
 
   <MakeCarbonAlloy.label>提炼 碳纤维</MakeCarbonAlloy.label>
   <MakeCarbonAlloy.description>提炼碳纤维锭，这是一种在树脂基体中，多股交织排列的碳纤维束聚合而成的复合材料。 \n\n产出：10</MakeCarbonAlloy.description>
-  <MakeCarbonAlloy.jobString>提炼碳纤维。</MakeCarbonAlloy.jobString>
+  <MakeCarbonAlloy.jobString>正在提炼碳纤维。</MakeCarbonAlloy.jobString>
+
+  <MakeDepletedUraniumAlloy.label>提炼 贫铀合金</MakeDepletedUraniumAlloy.label>
+  <MakeDepletedUraniumAlloy.description>从铀矿中提炼贫铀合金。\n\n产出：10</MakeDepletedUraniumAlloy.description>
+  <MakeDepletedUraniumAlloy.jobString>正在提炼 贫铀合金。</MakeDepletedUraniumAlloy.jobString>
 
 
 </LanguageData>

@@ -27,6 +27,7 @@
   <Cobra.labelMalePlural>公眼镜蛇</Cobra.labelMalePlural>
   <Cobra.labelFemale>母眼镜蛇</Cobra.labelFemale>
   <Cobra.labelFemalePlural>母眼镜蛇</Cobra.labelFemalePlural>
+
   <Monkey.label>猴</Monkey.label>
   <Monkey.labelPlural>猴</Monkey.labelPlural>
   <Monkey.lifeStages.0.label>幼猴</Monkey.lifeStages.0.label>
@@ -51,6 +52,7 @@
   <Monkey.labelMalePlural>公猴</Monkey.labelMalePlural>
   <Monkey.labelFemale>母猴</Monkey.labelFemale>
   <Monkey.labelFemalePlural>母猴</Monkey.labelFemalePlural>
+  
   <Boomalope.label>爆炸羊</Boomalope.label>
   <Boomalope.labelPlural>爆炸羊</Boomalope.labelPlural>
   <Boomalope.lifeStages.0.label>爆炸羊幼崽</Boomalope.lifeStages.0.label>
@@ -76,30 +78,30 @@
   <Boomalope.labelFemale>母爆炸羊</Boomalope.labelFemale>
   <Boomalope.labelFemalePlural>母爆炸羊</Boomalope.labelFemalePlural>
 
-  <Lacosdile.label>雷科斯代巨蜥</Lacosdile.label>
-  <Lacosdile.labelPlural>雷科斯代巨蜥</Lacosdile.labelPlural>
-  <Lacosdile.lifeStages.0.label>雷科斯代巨蜥</Lacosdile.lifeStages.0.label>
-  <Lacosdile.lifeStages.0.labelPlural>雷科斯代巨蜥</Lacosdile.lifeStages.0.labelPlural>
-  <Lacosdile.lifeStages.0.labelMale>雄性雷科斯代巨蜥</Lacosdile.lifeStages.0.labelMale>
-  <Lacosdile.lifeStages.0.labelMalePlural>雄性雷科斯代巨蜥</Lacosdile.lifeStages.0.labelMalePlural>
-  <Lacosdile.lifeStages.0.labelFemale>雌性雷科斯代巨蜥</Lacosdile.lifeStages.0.labelFemale>
-  <Lacosdile.lifeStages.0.labelFemalePlural>雌性雷科斯代巨蜥</Lacosdile.lifeStages.0.labelFemalePlural>
-  <Lacosdile.lifeStages.1.label>雷科斯代巨蜥</Lacosdile.lifeStages.1.label>
-  <Lacosdile.lifeStages.1.labelPlural>雷科斯代巨蜥</Lacosdile.lifeStages.1.labelPlural>
-  <Lacosdile.lifeStages.1.labelMale>雄性雷科斯代巨蜥</Lacosdile.lifeStages.1.labelMale>
-  <Lacosdile.lifeStages.1.labelMalePlural>雄性雷科斯代巨蜥</Lacosdile.lifeStages.1.labelMalePlural>
-  <Lacosdile.lifeStages.1.labelFemale>雌性雷科斯代巨蜥</Lacosdile.lifeStages.1.labelFemale>
-  <Lacosdile.lifeStages.1.labelFemalePlural>雌性雷科斯代巨蜥</Lacosdile.lifeStages.1.labelFemalePlural>
-  <Lacosdile.lifeStages.2.label>雷科斯代巨蜥</Lacosdile.lifeStages.2.label>
-  <Lacosdile.lifeStages.2.labelPlural>雷科斯代巨蜥</Lacosdile.lifeStages.2.labelPlural>
-  <Lacosdile.lifeStages.2.labelMale>雄性雷科斯代巨蜥</Lacosdile.lifeStages.2.labelMale>
-  <Lacosdile.lifeStages.2.labelMalePlural>雄性雷科斯代巨蜥</Lacosdile.lifeStages.2.labelMalePlural>
-  <Lacosdile.lifeStages.2.labelFemale>雌性雷科斯代巨蜥</Lacosdile.lifeStages.2.labelFemale>
-  <Lacosdile.lifeStages.2.labelFemalePlural>雌性雷科斯代巨蜥</Lacosdile.lifeStages.2.labelFemalePlural>
-  <Lacosdile.labelMale>雄性雷科斯代巨蜥</Lacosdile.labelMale>
-  <Lacosdile.labelMalePlural>雄性雷科斯代巨蜥</Lacosdile.labelMalePlural>
-  <Lacosdile.labelFemale>雌性雷科斯代巨蜥</Lacosdile.labelFemale>
-  <Lacosdile.labelFemalePlural>雌性雷科斯代巨蜥</Lacosdile.labelFemalePlural>
+  <Lacosdile.label>拉科斯帝鳄蜥</Lacosdile.label>
+  <Lacosdile.labelPlural>拉科斯帝鳄蜥</Lacosdile.labelPlural>
+  <Lacosdile.lifeStages.0.label>拉科斯帝鳄蜥</Lacosdile.lifeStages.0.label>
+  <Lacosdile.lifeStages.0.labelPlural>拉科斯帝鳄蜥</Lacosdile.lifeStages.0.labelPlural>
+  <Lacosdile.lifeStages.0.labelMale>雄性拉科斯帝鳄蜥</Lacosdile.lifeStages.0.labelMale>
+  <Lacosdile.lifeStages.0.labelMalePlural>雄性拉科斯帝鳄蜥</Lacosdile.lifeStages.0.labelMalePlural>
+  <Lacosdile.lifeStages.0.labelFemale>雌性拉科斯帝鳄蜥</Lacosdile.lifeStages.0.labelFemale>
+  <Lacosdile.lifeStages.0.labelFemalePlural>雌性拉科斯帝鳄蜥</Lacosdile.lifeStages.0.labelFemalePlural>
+  <Lacosdile.lifeStages.1.label>拉科斯帝鳄蜥</Lacosdile.lifeStages.1.label>
+  <Lacosdile.lifeStages.1.labelPlural>拉科斯帝鳄蜥</Lacosdile.lifeStages.1.labelPlural>
+  <Lacosdile.lifeStages.1.labelMale>雄性拉科斯帝鳄蜥</Lacosdile.lifeStages.1.labelMale>
+  <Lacosdile.lifeStages.1.labelMalePlural>雄性拉科斯帝鳄蜥</Lacosdile.lifeStages.1.labelMalePlural>
+  <Lacosdile.lifeStages.1.labelFemale>雌性拉科斯帝鳄蜥</Lacosdile.lifeStages.1.labelFemale>
+  <Lacosdile.lifeStages.1.labelFemalePlural>雌性拉科斯帝鳄蜥</Lacosdile.lifeStages.1.labelFemalePlural>
+  <Lacosdile.lifeStages.2.label>拉科斯帝鳄蜥</Lacosdile.lifeStages.2.label>
+  <Lacosdile.lifeStages.2.labelPlural>拉科斯帝鳄蜥</Lacosdile.lifeStages.2.labelPlural>
+  <Lacosdile.lifeStages.2.labelMale>雄性拉科斯帝鳄蜥</Lacosdile.lifeStages.2.labelMale>
+  <Lacosdile.lifeStages.2.labelMalePlural>雄性拉科斯帝鳄蜥</Lacosdile.lifeStages.2.labelMalePlural>
+  <Lacosdile.lifeStages.2.labelFemale>雌性拉科斯帝鳄蜥</Lacosdile.lifeStages.2.labelFemale>
+  <Lacosdile.lifeStages.2.labelFemalePlural>雌性拉科斯帝鳄蜥</Lacosdile.lifeStages.2.labelFemalePlural>
+  <Lacosdile.labelMale>雄性拉科斯帝鳄蜥</Lacosdile.labelMale>
+  <Lacosdile.labelMalePlural>雄性拉科斯帝鳄蜥</Lacosdile.labelMalePlural>
+  <Lacosdile.labelFemale>雌性拉科斯帝鳄蜥</Lacosdile.labelFemale>
+  <Lacosdile.labelFemalePlural>雌性拉科斯帝鳄蜥</Lacosdile.labelFemalePlural>
 
   <Okapi.label>霍加皮</Okapi.label>
   <Okapi.labelPlural>霍加皮</Okapi.labelPlural>
