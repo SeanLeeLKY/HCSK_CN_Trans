@@ -87,11 +87,11 @@
 
   <!-- Heavy MG machine gun -->
 
-  <Turret_M2Browning.label>M2.50勃朗宁机枪</Turret_M2Browning.label>
+  <Turret_M2Browning.label>M2 .50勃朗宁机枪</Turret_M2Browning.label>
   <Turret_M2Browning.description>一种需要手动操作，固定的M2勃朗宁重机枪。使用.50大口径机枪弹，每次点射发射15发弹药。</Turret_M2Browning.description>
-  <Turret_M2Browning_Blueprint.label>M2.50勃朗宁机枪（蓝图）</Turret_M2Browning_Blueprint.label>
-  <Turret_M2Browning_Blueprint_Install.label>M2.50勃朗宁机枪（蓝图）</Turret_M2Browning_Blueprint_Install.label>
-  <Turret_M2Browning_Frame.label>M2.50勃朗宁机枪（建造中）</Turret_M2Browning_Frame.label>
+  <Turret_M2Browning_Blueprint.label>M2 .50勃朗宁机枪（蓝图）</Turret_M2Browning_Blueprint.label>
+  <Turret_M2Browning_Blueprint_Install.label>M2 .50勃朗宁机枪（蓝图）</Turret_M2Browning_Blueprint_Install.label>
+  <Turret_M2Browning_Frame.label>M2 .50勃朗宁机枪（建造中）</Turret_M2Browning_Frame.label>
   <Turret_M2Browning_Frame.description>一种需要手动操作，固定的M2勃朗宁重机枪。使用.50大口径机枪弹，每次点射发射15发弹药。</Turret_M2Browning_Frame.description>
 
   <Turret_Minigun.label>M134速射机枪</Turret_Minigun.label>

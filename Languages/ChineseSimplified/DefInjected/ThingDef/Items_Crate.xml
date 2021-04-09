@@ -19,9 +19,9 @@
   <MinigunTurret_Crate.description>用于建造M134速射机枪，一种需要人工操作的固定式炮塔。使用7.62x51mm弹药。</MinigunTurret_Crate.description>
   <MinigunTurret_Crate.stuffProps.stuffAdjective>M134速射机枪组件箱</MinigunTurret_Crate.stuffProps.stuffAdjective>
 
-  <MGTurret_Crate.label>M2.50勃朗宁机枪组件箱</MGTurret_Crate.label>
+  <MGTurret_Crate.label>M2 .50勃朗宁机枪组件箱</MGTurret_Crate.label>
   <MGTurret_Crate.description>用于建造.50勃朗宁机枪，一种需要人工操作的固定式炮塔。</MGTurret_Crate.description>
-  <MGTurret_Crate.stuffProps.stuffAdjective>M2.50勃朗宁机枪组件箱</MGTurret_Crate.stuffProps.stuffAdjective>
+  <MGTurret_Crate.stuffProps.stuffAdjective>M2 .50勃朗宁机枪组件箱</MGTurret_Crate.stuffProps.stuffAdjective>
 
   <KPV_Crate.label>KPV机枪组件箱</KPV_Crate.label>
   <KPV_Crate.description>用于建造14.5mmKPV机枪，一种需要人工操作的固定式炮塔。使用14.5mm口径弹药。</KPV_Crate.description>
@@ -87,9 +87,9 @@
   <HeavyTurret_Crate.description>用于建造14.5mm重型哨戒机枪，一种自动机枪炮塔。需要电力才能运作。</HeavyTurret_Crate.description>
   <HeavyTurret_Crate.stuffProps.stuffAdjective>14.5mm重型哨戒机枪组件箱</HeavyTurret_Crate.stuffProps.stuffAdjective>
 
-  <NavalGunTurret_Crate.label>35mm自动炮塔组件箱</NavalGunTurret_Crate.label>
-  <NavalGunTurret_Crate.description>用于建造35mm自动炮塔，一种无人自动炮塔。需要电力才能运作。</NavalGunTurret_Crate.description>
-  <NavalGunTurret_Crate.stuffProps.stuffAdjective>35mm自动炮塔组件箱</NavalGunTurret_Crate.stuffProps.stuffAdjective>
+  <NavalGunTurret_Crate.label>30mm自动炮塔组件箱</NavalGunTurret_Crate.label>
+  <NavalGunTurret_Crate.description>用于建造30mm自动炮塔，一种无人自动炮塔。需要电力才能运作。</NavalGunTurret_Crate.description>
+  <NavalGunTurret_Crate.stuffProps.stuffAdjective>30mm自动炮塔组件箱</NavalGunTurret_Crate.stuffProps.stuffAdjective>
 
   <SentryRocketLauncher_Crate.label>自动反坦克火箭发射系统组件箱</SentryRocketLauncher_Crate.label>
   <SentryRocketLauncher_Crate.description>用于建造自动反坦克火箭发射系统，一种无人自动炮塔。需要电力才能运作。</SentryRocketLauncher_Crate.description>
