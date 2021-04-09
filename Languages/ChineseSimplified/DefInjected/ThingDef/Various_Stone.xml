@@ -9,7 +9,7 @@
 
   <!-- Stone solids, chunks, and blocks -->
 
-  <Sandstone.label>砂岩矿带</Sandstone.label>
+  <Sandstone.label>砂岩</Sandstone.label>
   <Sandstone.description>一种由砂粒相互挤压胶结所形成的沉积岩。</Sandstone.description>
 
   <SmoothedSandstone.label>光滑的砂岩</SmoothedSandstone.label>
@@ -22,7 +22,7 @@
   <BlocksSandstone.description>坚固的砂岩砖块。砂岩是一种相对柔软易碎的岩石。</BlocksSandstone.description>
   <BlocksSandstone.stuffProps.stuffAdjective>砂岩</BlocksSandstone.stuffProps.stuffAdjective>
 
-  <Granite.label>花岗岩矿带</Granite.label>
+  <Granite.label>花岗岩</Granite.label>
   <Granite.description>花岗岩是一种非常硬的岩石。</Granite.description>
 
   <SmoothedGranite.label>光滑的花岗岩</SmoothedGranite.label>
@@ -35,7 +35,7 @@
   <BlocksGranite.description>坚固的花岗岩砖块。花岗岩是一种非常硬的岩石。</BlocksGranite.description>
   <BlocksGranite.stuffProps.stuffAdjective>花岗岩</BlocksGranite.stuffProps.stuffAdjective>
 
-  <Limestone.label>石灰岩矿带</Limestone.label>
+  <Limestone.label>石灰岩</Limestone.label>
   <Limestone.description>一种主要由古代海洋贝类外壳相互挤压胶结所形成的沉积岩。</Limestone.description>
 
   <SmoothedLimestone.label>光滑的石灰岩</SmoothedLimestone.label>
@@ -49,7 +49,7 @@
   <BlocksLimestone.description>坚固的石灰岩砖块。</BlocksLimestone.description>
   <BlocksLimestone.stuffProps.stuffAdjective>石灰岩</BlocksLimestone.stuffProps.stuffAdjective>
 
-  <Slate.label>板岩矿带</Slate.label>
+  <Slate.label>板岩</Slate.label>
   <Slate.description>一种暗色的变性岩。岩石上的精细分层是板岩劈理的特征。</Slate.description>
 
   <SmoothedSlate.label>光滑的板岩</SmoothedSlate.label>
@@ -62,7 +62,7 @@
   <BlocksSlate.description>坚固的板岩砖块。板岩是一种外表平淡的易碎岩石。</BlocksSlate.description>
   <BlocksSlate.stuffProps.stuffAdjective>板岩</BlocksSlate.stuffProps.stuffAdjective>
 
-  <Marble.label>大理石矿带</Marble.label>
+  <Marble.label>大理石</Marble.label>
   <Marble.description>大理石是由重结晶的碳酸盐矿物组成的软质变质岩。它常用于雕塑。</Marble.description>
 
   <SmoothedMarble.label>光滑的大理石</SmoothedMarble.label>
