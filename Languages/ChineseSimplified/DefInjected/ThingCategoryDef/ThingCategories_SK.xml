@@ -245,8 +245,8 @@
 
   <BasicProstheses.label>基本假肢</BasicProstheses.label>
   <SimpleProstheses.label>简单假肢</SimpleProstheses.label>
-  <BionicProstheses.label>仿生</BionicProstheses.label>
-  <CyberneticProstheses.label>神经机械仿生</CyberneticProstheses.label>
+  <BodyPartsBionic.label>仿生体</BodyPartsBionic.label>
+  <CyberneticProstheses.label>神经机械仿生体</CyberneticProstheses.label>
   <SyntheticOrgans.label>人造器官</SyntheticOrgans.label>
   <OrganicOptimizer.label>生物增强装置</OrganicOptimizer.label>
 
@@ -265,5 +265,7 @@
   <CorpsesInsect.label>虫类尸体</CorpsesInsect.label>
   <CorpsesMechanoid.label>机械体尸体</CorpsesMechanoid.label>
 
+
+  <!--<BionicProstheses.label>仿生</BionicProstheses.label>-->
 
 </LanguageData>
