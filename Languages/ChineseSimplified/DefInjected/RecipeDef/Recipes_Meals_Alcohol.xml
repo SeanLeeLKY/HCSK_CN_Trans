@@ -12,7 +12,7 @@
 
   <MakeWort.label>酿造 麦芽汁</MakeWort.label>
   <MakeWort.description>使用啤酒花制作麦芽汁。 \n\n产出：10。</MakeWort.description>
-  <MakeWort.jobString>正在酿造 of wort。</MakeWort.jobString>
+  <MakeWort.jobString>正在酿造 麦芽汁。</MakeWort.jobString>
 
 
   <!-- Grain Mash -->
