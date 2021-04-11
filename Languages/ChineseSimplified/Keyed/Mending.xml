@@ -6,4 +6,18 @@
   <Repair.tabOutside>户外物品</Repair.tabOutside>
   <Repair.tabSearch>搜索半径：</Repair.tabSearch>
 
+  <Mending_progressiveMending>渐进式修补</Mending_progressiveMending>
+  <Mending_progressiveMending_Tooltip>修复物品的等级取决于工作人员的技能等级（默认情况下为手工技能）。\n\n工作人员的每提高一级技能，对应的修复上限提高5%。20级手工技能对应100%修复上限。\n\n提高技能能够增加修复上限，但是最终不能超过100%。</Mending_progressiveMending_Tooltip>
+
+  <Mending_pawnFreeSkillBonus_Label>技能奖励：（+{0}）</Mending_pawnFreeSkillBonus_Label>
+  <Mending_pawnFreeSkillBonus_ToolTip>人员修理技能加成点数。能够让你更早达到100%极限的维修水平。</Mending_pawnFreeSkillBonus_ToolTip>
+
+  <Mending_decreaseQualityOnFail>修补失败时降低物品品质</Mending_decreaseQualityOnFail>
+  <Mending_decreaseQualityOnFail_Tooltip>在修补过程中失败，将导致物品的质量下降1级。</Mending_decreaseQualityOnFail_Tooltip>
+
+  <Mending_allowToRemoveDebuff>移除衣物负面影响</Mending_allowToRemoveDebuff>
+  <Mending_allowToRemoveDebuff_Tooltip>修复完成后，移除衣物上“死人的衣物”debuff。</Mending_allowToRemoveDebuff_Tooltip>
+
+  <Mending_ResetButton>重置设置</Mending_ResetButton>
+
 </LanguageData>

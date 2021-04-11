@@ -568,7 +568,7 @@
   <KillingSpree>准备袭击</KillingSpree>
 
   <!-- DeepResourcesDeposits -->
-  <DeepResourcesFoundLabel>发现深矿资源</DeepResourcesFoundLabel>
+  <DeepResourcesFound>发现深矿资源</DeepResourcesFound>
   <DeepResourcesFoundA>说起来，我们本来是准备在这里种点土豆的，谁知道发现了</DeepResourcesFoundA>
   <DeepResourcesFoundB>\n\n或许我们应该在这里建一个矿场？</DeepResourcesFoundB>
 
@@ -889,7 +889,7 @@
   <success_disabling>成功的关闭了转化器信标！\n\n你再也不用害怕有什么玩意砸到你家客厅里了！</success_disabling>
   <alien_about>不是最好的外星技术专家，</alien_about>
   <Evenif>尽管</Evenif>
-  <Beacondisabled />
+  <Beacondisabled>信标已关闭</Beacondisabled>
   <real_crack>是外星科技的一大突破。关闭转化器信标也只是像一个游戏一样，对于</real_crack>
   <no_fear>\n\n你再也不用担心什么东西了。</no_fear>
   <try_to_disable>试图关闭转化器信标，但是科技不是</try_to_disable>
@@ -983,6 +983,17 @@
   <LetterLabelManhunterPackArrived>猎杀人类</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>一群猎杀人类的{0}已经进入该地区。他们被狂暴症逼疯了，将四处游荡猎杀人类。\n\n它们不会从门进来，所以如果你呆在室内并关好门应该是安全的。他们也不会攻击关闭的炮塔，所以如果你想避免炮台被拆可以停止对炮塔供电。\n\n{0}将会在几天后离开。你可以躲起来等它们离开，或者与它们战斗。</ManhunterPackArrived>
 
+  <LetterLabelManhunterPackArrivedOld>猎杀人类</LetterLabelManhunterPackArrivedOld>
+  <ManhunterPackArrivedOld>一群猎杀人类的{0}已经进入该地区。他们被狂暴症逼疯了，将四处游荡猎杀人类。\n\n它们不会从门进来，所以如果你呆在室内并关好门应该是安全的。他们也不会攻击关闭的炮塔，所以如果你想避免炮台被拆可以停止对炮塔供电。\n\n{0}将会在几天后离开。你可以躲起来等它们离开，或者与它们战斗。</ManhunterPackArrivedOld>
+
+
+  <!-- Refugee chased -->
+  <RefugeeChasedTitle>位于{0}被追捕的难民</RefugeeChasedTitle>
+  <RefugeeChasedInitial>附近一位名叫{PAWN_nameDef}的{PAWN_titleIndef}发来求救信号。{PAWN_pronoun}说自己正被来自{3}的{2}追捕！\n\n{PAWN_pronoun}祈求得到保护并想加入你的殖民地。因为情况紧急时间有限，{PAWN_pronoun}只来得及向你透露{PAWN_pronoun}大约{4}岁。\n\n警告：如果你接受请求， 你将要对抗追捕{PAWN_possessive}的{2}。敌人的队伍构成为：\n\n{5}</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>提供保护</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>忽略信息</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>在你关闭通讯传输前，扬声器里只剩下{1_labelShort}歇斯底里的尖叫。</RefugeeChasedRejected>
+
   <AncientStargate>星门</AncientStargate>
   <AncientStargate_Report1>已经完成了对这个奇特人造物的研究工作。</AncientStargate_Report1>
   <AncientStargate_Report2>报告研究成果相当神奇！\n\n\n### 研究参考 ###\n\n数据：</AncientStargate_Report2>
@@ -990,5 +1001,7 @@
   <AncientStargate_Observation>\n——观察结果：\n  1.文物由几个直径约3.14米的圆环嵌套组成。\n  2.组成材料未知，推测是由某个远古文明建造。\n  3.当内圆环转动时，将会在此圆环和某个未知位置的遥远圆环之间建立一条稳定的单向人工虫洞，通过虫洞可以把人或者物体瞬间传输到目的地。\n\n——结论：
 \n  1.我们给这个建筑命名——星门。\n  2.研究表明，此装置因为缺失了一些部件，只能用于作为到达目的地装置使用，也就是说这个装置只是个“接收器”。
 \n——建议：\n  1.对这个装置进行的任何下一步行动都要**万分小心**！\n  2.或许我们可以对装置进行深度研究，以期可以在未来的某个时刻进行维度穿梭，到达另一个宇宙！\n  3.从另一个角度讲，这个装置的组成材料拥有难以想象的强度和表现力，或许这个也是我们下一步行动的一个可行方向。\n</AncientStargate_Observation>
+
+  <!--<DeepResourcesFoundLabel>发现深矿资源</DeepResourcesFoundLabel>-->
 
 </LanguageData>

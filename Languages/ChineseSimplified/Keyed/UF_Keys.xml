@@ -15,20 +15,49 @@
   <UF_SingleItemIconTooltip>如果启用，将使用类似于单个物品的图标，否则将使用复数堆叠的图标（默认值：启用）</UF_SingleItemIconTooltip>
   <UF_SortAlphabetically>按字母排序</UF_SortAlphabetically>
   <UF_SortAlphabeticallyTooltip>启用时，点击按钮将按照进度字母列表排序，否则将按照thingDef列表进行排序。（默认值：禁用）</UF_SortAlphabeticallyTooltip>
+  <UF_ReplaceVanillaBarrels>替换原版发酵桶</UF_ReplaceVanillaBarrels>
+  <UF_ReplaceVanillaBarrelsTooltip>在旧有的存档中新加入本MOD后，用本MOD替换所有原版发酵桶。注意：联机游戏中会发生错误。</UF_ReplaceVanillaBarrelsTooltip>
   <UF_DefaultSettings>重置为默认</UF_DefaultSettings>
   <UF_DefaultSettingsTooltip>将参数设定为默认值。</UF_DefaultSettingsTooltip>
 
   <!-- Universal Fermenter Strings -->
-  <UF_ContainsIngredient>包含 {0} / {1} {2}</UF_ContainsIngredient>
-  <UF_ContainsProduct>包含 {0} / {1} {2}</UF_ContainsProduct>
+  <UF_ContainsIngredientsGeneric>含有{0}/{1}种成分</UF_ContainsIngredientsGeneric>
+  <UF_ContainsIngredient>包含{0}/{1}{2}</UF_ContainsIngredient>
+  <UF_ContainsProduct>包含{0}/{1}{2}</UF_ContainsProduct>
   <UF_NoIngredient>需要原料</UF_NoIngredient>
-  <UF_Progress>工作进度： {0} ({1})</UF_Progress>
-  <UF_NonIdealInfluences>非理想条件 {0}</UF_NonIdealInfluences>
-  <UF_NonIdealSpeedFactor>速度： {0}</UF_NonIdealSpeedFactor>
+  <UF_Progress>工作进度：{0}（{1}）</UF_Progress>
+
+  <UF_NumProcessing>{0}{STACKS}处理中</UF_NumProcessing>
+  <UF_RunningStacksNoun>堆</UF_RunningStacksNoun>
+  <UF_RunningCountSlow>（{0}减缓）</UF_RunningCountSlow>
+  <UF_RunningCountFinished>（{0}已完成）</UF_RunningCountFinished>
+  <UF_RunningCountRuined>（{0}已腐坏）</UF_RunningCountRuined>
+
+  <UF_RunningInfo>运作中（{0}完成）</UF_RunningInfo>
+  <UF_RunningSlow>运作减缓中：{0}速度（{0}完成）</UF_RunningSlow>
+  <UF_NonIdealInfluences>非理想条件{0}</UF_NonIdealInfluences>
+  <UF_NonIdealSpeedFactor>速度：{0}</UF_NonIdealSpeedFactor>
   <UF_IdealSafeProductionTemperature>理想的（安全）工作温度</UF_IdealSafeProductionTemperature>
   <UF_Finished>已完成</UF_Finished>
   <UF_Ideal>理想</UF_Ideal>
   <UF_Safe>安全</UF_Safe>
+  <UF_Ruined>已腐坏</UF_Ruined>
+  <UF_NA>N/A</UF_NA>
+  <UF_None>无</UF_None>
+
+  <UF_CreatingTooltip1>使用{INGREDIENT}制造{QUALITY}{PRODUCT}。\n</UF_CreatingTooltip1>
+  <UF_CreatingTooltip2_Quality>\n达到糟糕品质的时间：{TOAWFUL}。\n</UF_CreatingTooltip2_Quality>
+  <UF_CreatingTooltip2_NoQuality>\n处理时间：{TIME}。\n</UF_CreatingTooltip2_NoQuality>
+  <UF_CreatingTooltip3>\n理想工作温度：{MIN}~{MAX}。\n</UF_CreatingTooltip3>
+  <UF_CreatingTooltip4>安全温度：{MIN}~{MAX}。\n腐败率：{PERHOUR}/程度/每小时\n</UF_CreatingTooltip4>
+  <UF_CreatingTooltip5>\n{0}的产品已腐败。\n</UF_CreatingTooltip5>
+  <UF_CreatingTooltip6>正在腐败！温度读数为{0}！</UF_CreatingTooltip6>
+  <UF_SpeedTooltip1>{COMPLETEPERCENT}完成\n速度：{SPEED}\n\n</UF_SpeedTooltip1>
+  <UF_SpeedTooltip2>速度因数：\n温度：{TEMPERATURE}\n风：{WIND}\n阳光：{SUN}\n雨：{RAIN}\n雪：{SNOW}\n\n</UF_SpeedTooltip2>
+  <UF_SpeedTooltip3>预计完成时间：{ESTIMATED}</UF_SpeedTooltip3>
+  <UF_QualityTooltip1>当前品质：{CURRENT}\n目标品质：{TARGET}\n\n</UF_QualityTooltip1>
+  <UF_QualityTooltip2>达到相应品质时间：\n糟糕：{AWFUL}\n劣质：{POOR}\n普通：{NORMAL}\n较好：{GOOD}\n优良：{EXCELLENT}\n杰作：{MASTERWORK}\n传奇：{LEGENDARY}</UF_QualityTooltip2>
+  <UF_QualityTooltipNA>{PRODUCT_label}始终是同样品质。</UF_QualityTooltipNA>
 
   <UF_WeatherTemperature>温度</UF_WeatherTemperature>
   <UF_WeatherSunshine>晴</UF_WeatherSunshine>
@@ -38,5 +67,13 @@
 
   <UF_NextDesc>使用{1}生产{0}。</UF_NextDesc>
   <UF_SetQualityDesc>设定目标质量。</UF_SetQualityDesc>
+
+  <UF_OldBarrelInspectString>原版发酵桶，安装在任何地方都可以换成通用发酵桶。</UF_OldBarrelInspectString>
+  <UF_TabProductFilter>产品</UF_TabProductFilter>
+  <UF_TabIngredientFilter>过滤器</UF_TabIngredientFilter>
+  <UF_TabContents>内容</UF_TabContents>
+  <UF_FermentingItems>加工项目</UF_FermentingItems>
+  <UF_Product>产品</UF_Product>
+  <UF_TargetQuality>目标</UF_TargetQuality>
 
 </LanguageData>

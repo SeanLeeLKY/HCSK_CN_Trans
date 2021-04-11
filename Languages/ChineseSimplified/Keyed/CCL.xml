@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Colors -->
@@ -9,6 +9,8 @@
   <SK_colorYellow>黄</SK_colorYellow>
   <SK_colorOrange>橙</SK_colorOrange>
   <SK_colorPurple>紫</SK_colorPurple>
+  <SK_colorWarm>暖色</SK_colorWarm>
+  <SK_colorCold>冷色</SK_colorCold>
 
   <!-- Comp Replacement Strings -->
   <SK_CompShearableGrowth>增长</SK_CompShearableGrowth>
