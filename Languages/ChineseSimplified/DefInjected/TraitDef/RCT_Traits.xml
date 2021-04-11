@@ -9,6 +9,8 @@
 
   <BrownThumb.degreeDatas.0.label>园艺不通</BrownThumb.degreeDatas.0.label>
   <BrownThumb.degreeDatas.0.description>{PAWN_nameDef}种植作物的水平极其糟糕。能在{PAWN_pronoun}手里活下来的植物可能也就只有杂草了。</BrownThumb.degreeDatas.0.description>
+  <BrownThumb.degreeDatas.1.label>园艺热爱</BrownThumb.degreeDatas.1.label>
+  <BrownThumb.degreeDatas.1.description>{PAWN_nameDef}对于园艺工作总是会有很好的耐心。每当{PAWN_pronoun}播种植物的时候，{PAWN_pronoun}总是感觉心情舒畅。</BrownThumb.degreeDatas.1.description>
 
   <Butcher.degreeDatas.0.label>屠夫</Butcher.degreeDatas.0.label>
   <Butcher.degreeDatas.0.description>{PAWN_nameDef}非常喜欢摆弄肉类食材。{PAWN_possessive}屠宰分割尸体的效率非常高，不过{PAWN_pronoun}这样高的效率也就仅限于动物尸体。{PAWN_pronoun}对于处理机械族残骸完全就是一窍不通。</Butcher.degreeDatas.0.description>

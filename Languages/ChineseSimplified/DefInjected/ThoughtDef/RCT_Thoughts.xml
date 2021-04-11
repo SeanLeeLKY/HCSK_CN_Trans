@@ -97,6 +97,12 @@
   <EnvironmentDark.stages.0.description>我已经在黑暗中待了一段时间了。我不太喜欢这样。</EnvironmentDark.stages.0.description>
 
 
+  <!-- Photophobe In Light Thoughts -->
+
+  <EnvironmentLightPhotophobe.stages.0.label>明亮</EnvironmentLightPhotophobe.stages.0.label>
+  <EnvironmentLightPhotophobe.stages.0.description>天呐，好亮！！！我感觉世界在燃烧！我感觉什么都看不见了！快把那玩意拿走！</EnvironmentLightPhotophobe.stages.0.description>
+
+
   <!-- Nyctophobe In Darkness Thoughts -->
 
   <EnvironmentDarkNyctophobe.stages.0.label>黑暗的环境</EnvironmentDarkNyctophobe.stages.0.label>
