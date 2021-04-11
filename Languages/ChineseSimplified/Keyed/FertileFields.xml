@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <!-- ===== PlaceWorker Errors ===== -->
+  <!-- ===== PlaceWorker Errors ===== -->
 
   <RFF.Unplaceable>不能置于{0}之上</RFF.Unplaceable>
 
@@ -20,6 +20,5 @@
   <RFF.NotReady>试图取出肥料，但是还没有完成发酵。</RFF.NotReady>
   <RFF.BadTemp>温度不适宜</RFF.BadTemp>
   <RFF.NoComp>未包含生料</RFF.NoComp>
-
 
 </LanguageData>

@@ -7,18 +7,6 @@
   <Plant_Berry.label>野山莓</Plant_Berry.label>
   <Plant_Berry.description>长有好吃的红色浆果的灌木。</Plant_Berry.description>
 
-  <PlantStrawberry.label>草莓</PlantStrawberry.label>
-  <PlantStrawberry.description>一种脆弱，但是非常好吃的水果。就算生吃也很可口。</PlantStrawberry.description>
-
-  <Plantblueberry.label>蓝莓</Plantblueberry.label>
-  <Plantblueberry.description>一种长有蓝色浆果的灌木。</Plantblueberry.description>
-
-  <Plantcloudberry.label>云莓</Plantcloudberry.label>
-  <Plantcloudberry.description>寒冷气候中生长的浆果灌木。</Plantcloudberry.description>
-
-  <Plantgooseberry.label>醋栗</Plantgooseberry.label>
-  <Plantgooseberry.description>寒冷气候中生长的浆果灌木。</Plantgooseberry.description>
-
   <Plant_TreeCocoa.label>可可树</Plant_TreeCocoa.label>
   <Plant_TreeCocoa.description>可可豆能经过发酵、烘焙、研磨，最后加工成巧克力。</Plant_TreeCocoa.description>
 
@@ -37,5 +25,14 @@
   <Plant_TreeGrape.label>葡萄</Plant_TreeGrape.label>
   <Plant_TreeGrape.description>葡萄藤会结出小而甜的浆果，并在单枝上成串生长。这些水果叫做葡萄。</Plant_TreeGrape.description>
 
+
+  <!--<PlantStrawberry.label>草莓</PlantStrawberry.label>-->
+  <!--<PlantStrawberry.description>一种脆弱，但是非常好吃的水果。就算生吃也很可口。</PlantStrawberry.description>-->
+  <!--<Plantblueberry.label>蓝莓</Plantblueberry.label>-->
+  <!--<Plantblueberry.description>一种长有蓝色浆果的灌木。</Plantblueberry.description>-->
+  <!--<Plantcloudberry.label>云莓</Plantcloudberry.label>-->
+  <!--<Plantcloudberry.description>寒冷气候中生长的浆果灌木。</Plantcloudberry.description>-->
+  <!--<Plantgooseberry.label>醋栗</Plantgooseberry.label>-->
+  <!--<Plantgooseberry.description>寒冷气候中生长的浆果灌木。</Plantgooseberry.description>-->
 
 </LanguageData>

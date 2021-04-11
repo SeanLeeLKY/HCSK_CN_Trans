@@ -16,9 +16,6 @@
   <USCM_CamoHelmet.label>迷彩防弹头盔</USCM_CamoHelmet.label>
   <USCM_CamoHelmet.description>防弹设计的陆战队士兵头盔。这是殖民地陆战队的标准配备。</USCM_CamoHelmet.description>
 
-  <Tactical_Helmet.label>战术头盔</Tactical_Helmet.label>
-  <Tactical_Helmet.description>特种部队使用的战术头盔。</Tactical_Helmet.description>
-
   <Apparel_PC.label>大盖帽</Apparel_PC.label>
   <Apparel_PC.description>大盖帽在这年头挺少见的。非常的轻巧舒适，用特制材料制成。让你看起来像真正的战争英雄。</Apparel_PC.description>
 
@@ -34,8 +31,10 @@
   <Apparello_Beret.label>贝雷帽</Apparello_Beret.label>
   <Apparello_Beret.description>柔软，保持头部温暖。在士兵和高级军官中非常普遍。制服通常会激发人们的尊重，但也会造成佩戴者严峻的形象</Apparello_Beret.description>
 
-  <WeldingHelmet.label>焊接头盔</WeldingHelmet.label>
-  <WeldingHelmet.description>焊接安全帽是在进行某些类型的焊接时使用的一种保护眼睛、脸部和颈部免受电弧灼伤、紫外线、火花、红外线和高温的头部装备。</WeldingHelmet.description>
 
+  <!--<Tactical_Helmet.label>战术头盔</Tactical_Helmet.label>-->
+  <!--<Tactical_Helmet.description>特种部队使用的战术头盔。</Tactical_Helmet.description>-->
+  <!--<WeldingHelmet.label>焊接头盔</WeldingHelmet.label>-->
+  <!--<WeldingHelmet.description>焊接安全帽是在进行某些类型的焊接时使用的一种保护眼睛、脸部和颈部免受电弧灼伤、紫外线、火花、红外线和高温的头部装备。</WeldingHelmet.description>-->
 
 </LanguageData>

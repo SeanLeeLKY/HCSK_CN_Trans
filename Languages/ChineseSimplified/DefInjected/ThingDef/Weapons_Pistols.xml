@@ -10,7 +10,7 @@
   <Gun_Revolver.tools.2.label>枪口</Gun_Revolver.tools.2.label>
 
 
-  <!-- M95 DERRINGER -->
+  <!-- SmithWesson M1917 -->
 
   <RF_Gun_Deringer.label>M1917史密斯威森左轮</RF_Gun_Deringer.label>
   <RF_Gun_Deringer.description>M1917史密斯威森左轮手枪。有效射程较低，威力中等，瞄准和冷却时间较短。</RF_Gun_Deringer.description>
@@ -54,5 +54,7 @@
   <Gun_Autopistol.tools.1.label>枪管</Gun_Autopistol.tools.1.label>
   <Gun_Autopistol.tools.2.label>枪口</Gun_Autopistol.tools.2.label>
 
+
+  <!-- M95 DERRINGER -->
 
 </LanguageData>

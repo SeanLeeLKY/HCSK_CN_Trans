@@ -171,7 +171,7 @@
   <HeaddressCat.label>头饰</HeaddressCat.label>
   <SpecialHelmetsCat.label>特殊头饰</SpecialHelmetsCat.label>
   <MilitaryHeaddressCat.label>军事头饰</MilitaryHeaddressCat.label>
-   <LightHelmetsCat.label>轻型头盔</LightHelmetsCat.label>
+  <LightHelmetsCat.label>轻型头盔</LightHelmetsCat.label>
   <MediumHelmetsCat.label>中型头盔</MediumHelmetsCat.label>
   <HeavyHelmetsCat.label>重型头盔</HeavyHelmetsCat.label>
   <FullArmorCat.label>全装甲</FullArmorCat.label>
@@ -219,7 +219,6 @@
   <SetSyndicate.label>辛迪加</SetSyndicate.label>
   <SetCombatarmor.label>战斗护甲</SetCombatarmor.label>
   <SetJet.label>喷射护甲</SetJet.label>
-  
 
 
   <!-- Buildings -->

@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Projectiles -->
+
   <MakeShell_HighExplosive.label>制造 81mm 高爆迫击炮弹 x1</MakeShell_HighExplosive.label>
   <MakeShell_HighExplosive.description>制造 81mm 高爆迫击炮弹。</MakeShell_HighExplosive.description>
   <MakeShell_HighExplosive.jobString>正在制造 81mm 高爆迫击炮弹。</MakeShell_HighExplosive.jobString>

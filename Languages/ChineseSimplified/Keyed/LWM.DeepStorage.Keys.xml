@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-   <!-- General -->
+  <!-- General -->
   <NoItemsAreStoredHere>没有储存任何东西。</NoItemsAreStoredHere>
   <LWM_DS_Total>总计: {0}</LWM_DS_Total>
   <LWM_DS_PerCell>{0}/格</LWM_DS_PerCell><!-- {0} in each cell, {0} for each cell, etc -->
@@ -48,4 +48,5 @@
   <!--<LWM.ContentsHeaderItemsMass>{0}/{1}物品，重量总计 {3}/{4}千克</LWM.ContentsHeaderItemsMass>-->
   <!--<LWM.ContentsHeaderStacks>{0}/{1}堆叠，总计 {3}千克</LWM.ContentsHeaderStacks>-->
   <!--<LWM.ContentsHeaderItems>{0}/{1}物品，总计 {3}千克</LWM.ContentsHeaderItems>-->
+
 </LanguageData>

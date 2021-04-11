@@ -23,12 +23,14 @@
   <Nightling.tools.0.label>左爪</Nightling.tools.0.label>
   <Nightling.tools.1.label>右爪</Nightling.tools.1.label>
   <Nightling.tools.3.label>头</Nightling.tools.3.label>
-  <Nightling_Leather.label>夜灵皮</Nightling_Leather.label>
-  <Nightling_Leather.description>夜灵皮</Nightling_Leather.description>
-  <Nightling_Leather.stuffProps.stuffAdjective>夜灵皮</Nightling_Leather.stuffProps.stuffAdjective>
+  <!-- No Leather: Butcher Products -->
   <!-- Use Meat From: Elephant -->
   <Nightling_Corpse.label>夜灵尸体</Nightling_Corpse.label>
   <Nightling_Corpse.description>夜灵尸体</Nightling_Corpse.description>
 
+
+  <!--<Nightling_Leather.label>夜灵皮</Nightling_Leather.label>-->
+  <!--<Nightling_Leather.description>夜灵皮</Nightling_Leather.description>-->
+  <!--<Nightling_Leather.stuffProps.stuffAdjective>夜灵皮</Nightling_Leather.stuffProps.stuffAdjective>-->
 
 </LanguageData>

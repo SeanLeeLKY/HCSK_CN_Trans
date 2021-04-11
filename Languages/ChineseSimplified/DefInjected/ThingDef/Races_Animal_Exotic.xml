@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Feenix-->
+  <!-- Feenix -->
 
   <Feenix.label>芬尼克斯</Feenix.label>
   <Feenix.description>据说它是火焰的化身，一只芬尼克斯可以摧毁整个殖民地。无论它们走到哪里，都会留下火焰的痕迹。即使这个生物死了，他们的心脏也会继续发热跳动。</Feenix.description>
@@ -94,5 +94,7 @@
   <Barghest_Corpse.label>犬魔尸体</Barghest_Corpse.label>
   <Barghest_Corpse.description>犬魔尸体</Barghest_Corpse.description>
 
+
+  <!-- Feenix-->
 
 </LanguageData>

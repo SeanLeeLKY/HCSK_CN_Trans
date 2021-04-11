@@ -7,9 +7,7 @@
   <Cobra.description>一种大型的蛇类。一旦被激怒就会变得非常有攻击性——最好离这种生物远点。</Cobra.description>
   <Cobra.tools.0.label>毒牙</Cobra.tools.0.label>
   <Cobra.tools.1.label>头</Cobra.tools.1.label>
-  <Cobra_Leather.label>眼镜蛇皮</Cobra_Leather.label>
-  <Cobra_Leather.description>眼镜蛇皮</Cobra_Leather.description>
-  <Cobra_Leather.stuffProps.stuffAdjective>眼镜蛇皮</Cobra_Leather.stuffProps.stuffAdjective>
+  <!-- No Leather: Butcher Products -->
   <!-- Use Meat From: Elephant -->
   <Cobra_Corpse.label>眼镜蛇尸体</Cobra_Corpse.label>
   <Cobra_Corpse.description>眼镜蛇尸体</Cobra_Corpse.description>
@@ -73,5 +71,9 @@
   <Okapi_Corpse.label>霍加狓尸体</Okapi_Corpse.label>
   <Okapi_Corpse.description>霍加狓尸体</Okapi_Corpse.description>
 
+
+  <!--<Cobra_Leather.label>眼镜蛇皮</Cobra_Leather.label>-->
+  <!--<Cobra_Leather.description>眼镜蛇皮</Cobra_Leather.description>-->
+  <!--<Cobra_Leather.stuffProps.stuffAdjective>眼镜蛇皮</Cobra_Leather.stuffProps.stuffAdjective>-->
 
 </LanguageData>

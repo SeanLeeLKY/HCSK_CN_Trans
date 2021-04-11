@@ -38,10 +38,12 @@
   <Turkey.description>一种矮胖的不会飞的鸟类，以其滑稽的「咯咯」叫声而闻名。火鸡已经被驯化了很长时间，但也有野生的种群。</Turkey.description>
   <Turkey.tools.0.label>爪</Turkey.tools.0.label>
   <Turkey.tools.2.label>头</Turkey.tools.2.label>
-  <!-- 皮 Amount: 0 -->
+  <!-- Leather Amount: 0 -->
   <!-- Use Meat From: Muffalo -->
   <Turkey_Corpse.label>火鸡尸体</Turkey_Corpse.label>
   <Turkey_Corpse.description>火鸡尸体</Turkey_Corpse.description>
 
+
+  <!-- 皮 Amount: 0 -->
 
 </LanguageData>

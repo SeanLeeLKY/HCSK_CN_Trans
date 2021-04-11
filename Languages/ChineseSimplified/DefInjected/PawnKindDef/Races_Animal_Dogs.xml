@@ -1,64 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
- <!-- EN: yorkshire terrier -->
   <YorkshireTerrier.label>约克夏犬</YorkshireTerrier.label>
-  <YorkshireTerrier.labelFemale>母约克夏犬</YorkshireTerrier.labelFemale>
-  <YorkshireTerrier.labelFemalePlural>母约克夏犬</YorkshireTerrier.labelFemalePlural>
-  <YorkshireTerrier.labelMale>公约克夏犬</YorkshireTerrier.labelMale>
-  <YorkshireTerrier.labelMalePlural>公约克夏犬</YorkshireTerrier.labelMalePlural>
   <YorkshireTerrier.labelPlural>约克夏犬</YorkshireTerrier.labelPlural>
-  <!-- EN: yorkshire terrier puppy -->
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>约克夏犬幼崽</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemale>约克夏犬幼崽</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemale>
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemalePlural>约克夏犬幼崽</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemalePlural>
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMale>约克夏犬幼崽</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMale>
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMalePlural>约克夏犬幼崽</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMalePlural>
   <YorkshireTerrier.lifeStages.0.label>约克夏犬幼崽</YorkshireTerrier.lifeStages.0.label>
   <YorkshireTerrier.lifeStages.0.labelPlural>约克夏犬幼崽</YorkshireTerrier.lifeStages.0.labelPlural>
   <YorkshireTerrier.lifeStages.0.labelMale>公约克夏犬幼崽</YorkshireTerrier.lifeStages.0.labelMale>
   <YorkshireTerrier.lifeStages.0.labelMalePlural>公约克夏犬幼崽</YorkshireTerrier.lifeStages.0.labelMalePlural>
   <YorkshireTerrier.lifeStages.0.labelFemale>母约克夏犬幼崽</YorkshireTerrier.lifeStages.0.labelFemale>
   <YorkshireTerrier.lifeStages.0.labelFemalePlural>母约克夏犬幼崽</YorkshireTerrier.lifeStages.0.labelFemalePlural>
-  <!-- EN: yorkshire terrier puppies -->
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>约克夏犬幼崽</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
   <YorkshireTerrier.lifeStages.1.label>幼年约克夏犬</YorkshireTerrier.lifeStages.1.label>
-  <YorkshireTerrier.lifeStages.1.labelFemale>幼年母约克夏犬</YorkshireTerrier.lifeStages.1.labelFemale>
-  <YorkshireTerrier.lifeStages.1.labelFemalePlural>幼年母约克夏犬</YorkshireTerrier.lifeStages.1.labelFemalePlural>
+  <YorkshireTerrier.lifeStages.1.labelPlural>幼年约克夏犬</YorkshireTerrier.lifeStages.1.labelPlural>
   <YorkshireTerrier.lifeStages.1.labelMale>幼年公约克夏犬</YorkshireTerrier.lifeStages.1.labelMale>
   <YorkshireTerrier.lifeStages.1.labelMalePlural>幼年公约克夏犬</YorkshireTerrier.lifeStages.1.labelMalePlural>
-  <YorkshireTerrier.lifeStages.1.labelPlural>幼年约克夏犬</YorkshireTerrier.lifeStages.1.labelPlural>
+  <YorkshireTerrier.lifeStages.1.labelFemale>幼年母约克夏犬</YorkshireTerrier.lifeStages.1.labelFemale>
+  <YorkshireTerrier.lifeStages.1.labelFemalePlural>幼年母约克夏犬</YorkshireTerrier.lifeStages.1.labelFemalePlural>
   <YorkshireTerrier.lifeStages.2.label>约克夏犬</YorkshireTerrier.lifeStages.2.label>
-  <YorkshireTerrier.lifeStages.2.labelFemale>母约克夏犬</YorkshireTerrier.lifeStages.2.labelFemale>
-  <YorkshireTerrier.lifeStages.2.labelFemalePlural>母约克夏犬</YorkshireTerrier.lifeStages.2.labelFemalePlural>
+  <YorkshireTerrier.lifeStages.2.labelPlural>约克夏犬</YorkshireTerrier.lifeStages.2.labelPlural>
   <YorkshireTerrier.lifeStages.2.labelMale>公约克夏犬</YorkshireTerrier.lifeStages.2.labelMale>
   <YorkshireTerrier.lifeStages.2.labelMalePlural>公约克夏犬</YorkshireTerrier.lifeStages.2.labelMalePlural>
-  <YorkshireTerrier.lifeStages.2.labelPlural>约克夏犬</YorkshireTerrier.lifeStages.2.labelPlural>
-
-  <!-- <YorkshireTerrier.label>狗</YorkshireTerrier.label>
-  <YorkshireTerrier.labelPlural>狗</YorkshireTerrier.labelPlural>
-  <YorkshireTerrier.lifeStages.0.label>狗崽</YorkshireTerrier.lifeStages.0.label>
-  <YorkshireTerrier.lifeStages.0.labelPlural>狗崽</YorkshireTerrier.lifeStages.0.labelPlural>
-  <YorkshireTerrier.lifeStages.0.labelMale>公狗崽</YorkshireTerrier.lifeStages.0.labelMale>
-  <YorkshireTerrier.lifeStages.0.labelMalePlural>公狗崽</YorkshireTerrier.lifeStages.0.labelMalePlural>
-  <YorkshireTerrier.lifeStages.0.labelFemale>母狗崽</YorkshireTerrier.lifeStages.0.labelFemale>
-  <YorkshireTerrier.lifeStages.0.labelFemalePlural>母狗崽</YorkshireTerrier.lifeStages.0.labelFemalePlural>
-  <YorkshireTerrier.lifeStages.1.label>狗</YorkshireTerrier.lifeStages.1.label>
-  <YorkshireTerrier.lifeStages.1.labelPlural>狗</YorkshireTerrier.lifeStages.1.labelPlural>
-  <YorkshireTerrier.lifeStages.1.labelMale>公狗</YorkshireTerrier.lifeStages.1.labelMale>
-  <YorkshireTerrier.lifeStages.1.labelMalePlural>公狗</YorkshireTerrier.lifeStages.1.labelMalePlural>
-  <YorkshireTerrier.lifeStages.1.labelFemale>母狗</YorkshireTerrier.lifeStages.1.labelFemale>
-  <YorkshireTerrier.lifeStages.1.labelFemalePlural>母狗</YorkshireTerrier.lifeStages.1.labelFemalePlural>
-  <YorkshireTerrier.lifeStages.2.label>狗</YorkshireTerrier.lifeStages.2.label>
-  <YorkshireTerrier.lifeStages.2.labelPlural>狗</YorkshireTerrier.lifeStages.2.labelPlural>
-  <YorkshireTerrier.lifeStages.2.labelMale>公狗</YorkshireTerrier.lifeStages.2.labelMale>
-  <YorkshireTerrier.lifeStages.2.labelMalePlural>公狗</YorkshireTerrier.lifeStages.2.labelMalePlural>
-  <YorkshireTerrier.lifeStages.2.labelFemale>母狗</YorkshireTerrier.lifeStages.2.labelFemale>
-  <YorkshireTerrier.lifeStages.2.labelFemalePlural>母狗</YorkshireTerrier.lifeStages.2.labelFemalePlural>
-  <YorkshireTerrier.labelMale>公狗</YorkshireTerrier.labelMale>
-  <YorkshireTerrier.labelMalePlural>公狗</YorkshireTerrier.labelMalePlural>
-  <YorkshireTerrier.labelFemale>母狗</YorkshireTerrier.labelFemale>
-  <YorkshireTerrier.labelFemalePlural>母狗</YorkshireTerrier.labelFemalePlural> -->
+  <YorkshireTerrier.lifeStages.2.labelFemale>母约克夏犬</YorkshireTerrier.lifeStages.2.labelFemale>
+  <YorkshireTerrier.lifeStages.2.labelFemalePlural>母约克夏犬</YorkshireTerrier.lifeStages.2.labelFemalePlural>
+  <YorkshireTerrier.labelMale>公约克夏犬</YorkshireTerrier.labelMale>
+  <YorkshireTerrier.labelMalePlural>公约克夏犬</YorkshireTerrier.labelMalePlural>
+  <YorkshireTerrier.labelFemale>母约克夏犬</YorkshireTerrier.labelFemale>
+  <YorkshireTerrier.labelFemalePlural>母约克夏犬</YorkshireTerrier.labelFemalePlural>
 
   <Husky.label>哈士奇犬</Husky.label>
   <Husky.labelPlural>哈士奇犬</Husky.labelPlural>

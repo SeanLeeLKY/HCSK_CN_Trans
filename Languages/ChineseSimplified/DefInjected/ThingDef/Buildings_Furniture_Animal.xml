@@ -45,13 +45,6 @@
   <AnimalPillow_Frame.label>动物软巢（建造中）</AnimalPillow_Frame.label>
   <AnimalPillow_Frame.description>舒适柔软的动物床。能够让你的动物挚友获得更高的舒适度和更好的照顾。而且易于清洁防脱毛。</AnimalPillow_Frame.description>
 
- <!--  <FeedingBowl.label>饲喂盆</FeedingBowl.label>
-  <FeedingBowl.description>你的动物们非常喜欢这个漂亮的小盆子，它们肯定很愿意先到这里来看看有没有食物！</FeedingBowl.description>
-  <FeedingBowl_Blueprint.label>饲喂盆（蓝图）</FeedingBowl_Blueprint.label>
-  <FeedingBowl_Blueprint_Install.label>饲喂盆（蓝图）</FeedingBowl_Blueprint_Install.label>
-  <FeedingBowl_Frame.label>饲喂盆（建造中）</FeedingBowl_Frame.label>
-  <FeedingBowl_Frame.description>你的动物们非常喜欢这个漂亮的小盆子，它们肯定很愿意先到这里来看看有没有食物！</FeedingBowl_Frame.description> -->
-
   <ScratchingPole.label>挠爪柱</ScratchingPole.label>
   <ScratchingPole.description>有了这个东西，再也不怕你家的猫咪们到处磨指甲了！</ScratchingPole.description>
   <ScratchingPole_Blueprint.label>挠爪柱（蓝图）</ScratchingPole_Blueprint.label>
@@ -59,5 +52,12 @@
   <ScratchingPole_Frame.label>挠爪柱（建造中）</ScratchingPole_Frame.label>
   <ScratchingPole_Frame.description>有了这个东西，再也不怕你家的猫咪们到处磨指甲了！</ScratchingPole_Frame.description>
 
+
+  <!--  <FeedingBowl.label>饲喂盆</FeedingBowl.label>
+  <FeedingBowl.description>你的动物们非常喜欢这个漂亮的小盆子，它们肯定很愿意先到这里来看看有没有食物！</FeedingBowl.description>
+  <FeedingBowl_Blueprint.label>饲喂盆（蓝图）</FeedingBowl_Blueprint.label>
+  <FeedingBowl_Blueprint_Install.label>饲喂盆（蓝图）</FeedingBowl_Blueprint_Install.label>
+  <FeedingBowl_Frame.label>饲喂盆（建造中）</FeedingBowl_Frame.label>
+  <FeedingBowl_Frame.description>你的动物们非常喜欢这个漂亮的小盆子，它们肯定很愿意先到这里来看看有没有食物！</FeedingBowl_Frame.description> -->
 
 </LanguageData>

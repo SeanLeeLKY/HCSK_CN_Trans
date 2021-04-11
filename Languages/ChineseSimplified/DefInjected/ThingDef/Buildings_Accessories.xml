@@ -52,7 +52,6 @@
   <StandingLamp_Blue_Blueprint_Install.label>落地灯 （蓝） （蓝图）</StandingLamp_Blue_Blueprint_Install.label>
 
 
-
   <!-- Lamps -->
 
   <ClutterFloorLampA.label>地灯</ClutterFloorLampA.label>
@@ -61,6 +60,7 @@
   <ClutterFloorLampA_Blueprint_Install.label>地灯 （蓝图）</ClutterFloorLampA_Blueprint_Install.label>
   <ClutterFloorLampA_Frame.label>地灯 （建造中）</ClutterFloorLampA_Frame.label>
   <ClutterFloorLampA_Frame.description>殖民者们需要合适的光亮才能高效工作。</ClutterFloorLampA_Frame.description>
+
 
   <!-- Ceiling Lights -->
 

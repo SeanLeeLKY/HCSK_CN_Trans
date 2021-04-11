@@ -8,7 +8,7 @@
   <Chicken.tools.0.label>爪</Chicken.tools.0.label>
   <Chicken.tools.1.label>嘴</Chicken.tools.1.label>
   <Chicken.tools.2.label>头</Chicken.tools.2.label>
-  <!-- 皮 Amount: 0 -->
+  <!-- Leather Amount: 0 -->
   <!-- Use Meat From: Elephant -->
   <Chicken_Corpse.label>鸡尸体</Chicken_Corpse.label>
   <Chicken_Corpse.description>鸡尸体</Chicken_Corpse.description>
@@ -63,7 +63,7 @@
   <Duck.tools.0.label>爪</Duck.tools.0.label>
   <Duck.tools.1.label>嘴</Duck.tools.1.label>
   <Duck.tools.2.label>头</Duck.tools.2.label>
-  <!-- 皮 Amount: 0 -->
+  <!-- Leather Amount: 0 -->
   <!-- Use Meat From: Elephant -->
   <Duck_Corpse.label>鸭尸体</Duck_Corpse.label>
   <Duck_Corpse.description>鸭尸体</Duck_Corpse.description>
@@ -160,5 +160,7 @@
   <Donkey_Corpse.label>驴尸体</Donkey_Corpse.label>
   <Donkey_Corpse.description>驴尸体</Donkey_Corpse.description>
 
+
+  <!-- 皮 Amount: 0 -->
 
 </LanguageData>

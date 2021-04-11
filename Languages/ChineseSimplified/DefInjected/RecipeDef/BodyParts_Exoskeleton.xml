@@ -11,6 +11,7 @@
 
 
   <!-- Protective exoskeleton -->
+
   <InstallProtectiveExoskeleton.label>安装 防护性外骨骼</InstallProtectiveExoskeleton.label>
   <InstallProtectiveExoskeleton.description>安装防护性外骨骼。</InstallProtectiveExoskeleton.description>
   <InstallProtectiveExoskeleton.jobString>正在安装防护性外骨骼。</InstallProtectiveExoskeleton.jobString>
@@ -19,6 +20,5 @@
   <RemoveProtectiveExoskeleton.description>移除防护性外骨骼。</RemoveProtectiveExoskeleton.description>
   <RemoveProtectiveExoskeleton.jobString>正在移除防护性外骨骼。</RemoveProtectiveExoskeleton.jobString>
 
-  
 
 </LanguageData>

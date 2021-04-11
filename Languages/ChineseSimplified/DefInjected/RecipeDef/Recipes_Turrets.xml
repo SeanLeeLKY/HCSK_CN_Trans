@@ -10,7 +10,6 @@
   <BuildCatapult_Crate.jobString>正在制造 石弩组件箱。</BuildCatapult_Crate.jobString>
 
 
-
   <!-- MG crates -->
 
   <BuildM240B_Crate.label>制造 7.62x51mm M240B机枪组件箱</BuildM240B_Crate.label>
@@ -113,5 +112,6 @@
   <BuildLaserTurret_Crate.label>制造 激光炮塔组件箱</BuildLaserTurret_Crate.label>
   <BuildLaserTurret_Crate.description>用于建造 激光炮塔, 可以自行攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildLaserTurret_Crate.description>
   <BuildLaserTurret_Crate.jobString>正在制造 激光炮塔组件箱</BuildLaserTurret_Crate.jobString>
+
 
 </LanguageData>

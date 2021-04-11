@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 机械蜈蚣-->
+  <!-- Centipede -->
 
   <Mech_Centipede.label>机械蜈蚣</Mech_Centipede.label>
   <Mech_Centipede.description>通过数十条细小的腿爬行的重型作战机械体。它们的重型装甲火力让它们非常适合于对付集群的防御设施。但面对游击战术时较为无力。</Mech_Centipede.description>
@@ -11,7 +11,7 @@
   <Mech_Centipede_Corpse.description>机械蜈蚣尸体</Mech_Centipede_Corpse.description>
 
 
-  <!-- 机械飞螳-->
+  <!-- Scyther -->
 
   <Mech_Scyther.label>机械飞螳</Mech_Scyther.label>
   <Mech_Scyther.description>快速、细长并和人差不多大的机械体。它们的身体上的一对关节式镰刃让他们在近战中极其恐怖。他们从来不使用掩体。对付它们最好的战术是集中压倒性的火力。</Mech_Scyther.description>
@@ -49,7 +49,7 @@
   <Mech_Pikeman_Corpse.description>机械蝎蝽尸体</Mech_Pikeman_Corpse.description>
 
 
-  <!-- Crawler-->
+  <!-- Crawler -->
 
   <Mech_Crawler.label>机械爬虫</Mech_Crawler.label>
   <Mech_Crawler.description>小型的昆虫型机械体。虽然不是特别坚韧，但它们在速度、体型和数量足以弥补这一缺陷。它们装配的小型等离子利刃削铁如泥，活体手术是它们喜爱的消遣方式。</Mech_Crawler.description>
@@ -60,5 +60,9 @@
   <Mech_Crawler_Corpse.label>机械爬虫尸体</Mech_Crawler_Corpse.label>
   <Mech_Crawler_Corpse.description>机械爬虫尸体</Mech_Crawler_Corpse.description>
 
+
+  <!-- 机械蜈蚣-->
+  <!-- 机械飞螳-->
+  <!-- Crawler-->
 
 </LanguageData>

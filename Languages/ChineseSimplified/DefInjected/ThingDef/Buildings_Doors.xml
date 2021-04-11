@@ -43,4 +43,7 @@
   <JammedBlastDoor.description>一扇又大又坚固的防爆门，可以将敌人阻挡在外面。它需要电源才能运作，而且必须手动打开和关闭。门目前处于阻塞状态。</JammedBlastDoor.description>
 
 
+  <!--<CellDoor_Blueprint.label>牢门（蓝图）</CellDoor_Blueprint.label>-->
+  <!--<CellDoor_Frame.label>牢门（建造中）</CellDoor_Frame.label>-->
+
 </LanguageData>
