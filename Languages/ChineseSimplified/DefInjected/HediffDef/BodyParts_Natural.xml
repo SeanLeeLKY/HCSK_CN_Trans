@@ -6,6 +6,12 @@
   <Eye.label>眼睛</Eye.label>
   <Eye.description>一个可以使用的原生眼睛。</Eye.description>
 
+  <Ear.label>耳</Ear.label>
+  <Ear.description>一个可以使用的原生耳朵。</Ear.description>
+
+  <Nose.label>鼻</Nose.label>
+  <Nose.description>一个可以使用的原生鼻子。</Nose.description>
+
   <Heart.label>心脏</Heart.label>
   <Heart.description>一个来自生物的心脏，负责将血液和氧气供给到身体的各个位置。等待着它的新主人。</Heart.description>
 

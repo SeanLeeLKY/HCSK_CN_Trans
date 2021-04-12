@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LeaderWarrior.label>领袖-勇士</LeaderWarrior.label>
+  <LeaderWarrior.description>勇士</LeaderWarrior.description>
+  <LeaderWarrior.stages.0.label>等级1</LeaderWarrior.stages.0.label>
+  <LeaderWarrior.stages.1.label>等级2</LeaderWarrior.stages.1.label>
+  <LeaderWarrior.stages.2.label>等级3</LeaderWarrior.stages.2.label>
+  <LeaderWarrior.stages.3.label>等级4</LeaderWarrior.stages.3.label>
+  <LeaderWarrior.stages.4.label>等级5</LeaderWarrior.stages.4.label>
+
+  <LeaderWarlord.label>领袖-领主</LeaderWarlord.label>
+  <LeaderWarlord.description>领主</LeaderWarlord.description>
+  <LeaderWarlord.stages.0.label>等级1</LeaderWarlord.stages.0.label>
+  <LeaderWarlord.stages.1.label>等级2</LeaderWarlord.stages.1.label>
+  <LeaderWarlord.stages.2.label>等级3</LeaderWarlord.stages.2.label>
+  <LeaderWarlord.stages.3.label>等级4</LeaderWarlord.stages.3.label>
+  <LeaderWarlord.stages.4.label>等级5</LeaderWarlord.stages.4.label>
+
+  <LeaderAvenger.label>领袖-复仇者</LeaderAvenger.label>
+  <LeaderAvenger.description>复仇者</LeaderAvenger.description>
+  <LeaderAvenger.stages.0.label>等级1</LeaderAvenger.stages.0.label>
+  <LeaderAvenger.stages.1.label>等级2</LeaderAvenger.stages.1.label>
+  <LeaderAvenger.stages.2.label>等级3</LeaderAvenger.stages.2.label>
+  <LeaderAvenger.stages.3.label>等级4</LeaderAvenger.stages.3.label>
+  <LeaderAvenger.stages.4.label>等级5</LeaderAvenger.stages.4.label>
+
+
+</LanguageData>
