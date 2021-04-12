@@ -78,11 +78,35 @@
   <SubCategory_PlantPots.label>花盆</SubCategory_PlantPots.label>
   <SubCategory_PlantPots.description>用于培养装饰性植物的盆子，可以提高附近人物的感官感受。</SubCategory_PlantPots.description>
 
+  <SubCategory_Pallets.label>货盘</SubCategory_Pallets.label>
+  <SubCategory_Pallets.description>用来存放各种材料。</SubCategory_Pallets.description>
+
+  <SubCategory_Containers.label>容器</SubCategory_Containers.label>
+  <SubCategory_Containers.description>用来存放各种物品。</SubCategory_Containers.description>
+
+  <SubCategory_FoodContainers.label>食物容器</SubCategory_FoodContainers.label>
+  <SubCategory_FoodContainers.description>用来存放食物。</SubCategory_FoodContainers.description>
+
+  <SubCategory_ApparelStorage.label>衣物储存</SubCategory_ApparelStorage.label>
+  <SubCategory_ApparelStorage.description>搬运工将服装搬运到这里存放。</SubCategory_ApparelStorage.description>
+
+  <SubCategory_AmmoContainers.label>军备存储</SubCategory_AmmoContainers.label>
+  <SubCategory_AmmoContainers.description>用来存放各种弹药、武器等。</SubCategory_AmmoContainers.description>
+
+  <SubCategory_Shelfs.label>架子</SubCategory_Shelfs.label>
+  <SubCategory_Shelfs.description>用来存放各种物品。</SubCategory_Shelfs.description>
+
+  <SubCategory_Refrigerators.label>冰箱</SubCategory_Refrigerators.label>
+  <SubCategory_Refrigerators.description>用来存放冷冻各种食物。</SubCategory_Refrigerators.description>
+
   <SubCategory_Lights.label>燃料灯</SubCategory_Lights.label>
   <SubCategory_Lights.description>工作需要消耗燃料的灯具。</SubCategory_Lights.description>
 
   <SubCategory_Lamps.label>电灯</SubCategory_Lamps.label>
   <SubCategory_Lamps.description>消耗电力的灯具。</SubCategory_Lamps.description>
+
+  <SubCategory_LEDLamps.label>LED灯具</SubCategory_LEDLamps.label>
+  <SubCategory_LEDLamps.description>照亮一片区域的LED灯具。</SubCategory_LEDLamps.description>
 
   <SubCategory_FloorLight.label>地板灯</SubCategory_FloorLight.label>
   <SubCategory_FloorLight.description>安放在地板上的灯具。</SubCategory_FloorLight.description>
@@ -95,8 +119,6 @@
 
   <SubCategory_QuantumWarehouse.label>量子堆栈</SubCategory_QuantumWarehouse.label>
   <SubCategory_QuantumWarehouse.description>量子储存的补充设备，当放在储存区中时，将把该区域的所有量子储存网络连接起来，以减少不完整的物品堆叠数量，并在所有的量子储存单元中分配物品堆叠。</SubCategory_QuantumWarehouse.description>
-
-  <!-- Rugs -->
 
   <SubCategory_AncientRugs.label>复古风格</SubCategory_AncientRugs.label>
   <SubCategory_AncientRugs.description>古代风格地毯。</SubCategory_AncientRugs.description>
@@ -261,7 +283,6 @@
   <SubCategory_TrainingFacilities.description>可以提高附近相关建筑工作效率的特殊设施。</SubCategory_TrainingFacilities.description>
 
   <SubCategory_Computers.label>计算机</SubCategory_Computers.label>
-  <SubCategory_Computers.description></SubCategory_Computers.description>
 
   <SubCategory_ManagerDesks.label>管理工作</SubCategory_ManagerDesks.label>
   <SubCategory_ManagerDesks.description>管理人员制定计划，安排工作的地方。</SubCategory_ManagerDesks.description>
@@ -283,6 +304,9 @@
 
   <SubCategory_Coolers.label>制冷器</SubCategory_Coolers.label>
   <SubCategory_Coolers.description>各种制冷设备。</SubCategory_Coolers.description>
+
+  <SubCategory_PassiveCoolers.label>蒸发制冷器</SubCategory_PassiveCoolers.label>
+  <SubCategory_PassiveCoolers.description>一个通过水蒸发来降温的传统制冷器。</SubCategory_PassiveCoolers.description>
 
   <SubCategory_DuckPipes.label>管道</SubCategory_DuckPipes.label>
   <SubCategory_DuckPipes.description>循环空气通路。</SubCategory_DuckPipes.description>
@@ -371,6 +395,9 @@
   <SubCategory_StoneRandomPaving.label>自然石面风格</SubCategory_StoneRandomPaving.label>
   <SubCategory_StoneRandomPaving.description>自然石面风格。</SubCategory_StoneRandomPaving.description>
 
+  <SubCategory_StoneStaggered.label>交错风格石地板</SubCategory_StoneStaggered.label>
+  <SubCategory_StoneStaggered.description>交错排列的圆角地砖。</SubCategory_StoneStaggered.description>
+
   <SubCategory_CobbleFloor.label>鹅卵石风格</SubCategory_CobbleFloor.label>
   <SubCategory_CobbleFloor.description>简单的鹅卵石风格地面，可以就地取材建造。</SubCategory_CobbleFloor.description>
 
@@ -410,5 +437,8 @@
   <SubCategory_Gather.label>资源收集</SubCategory_Gather.label>
   <SubCategory_Gather.description>从地块收集资源。</SubCategory_Gather.description>
 
+
+  <!-- Rugs -->
+  <!--<SubCategory_Computers.description></SubCategory_Computers.description>-->
 
 </LanguageData>
