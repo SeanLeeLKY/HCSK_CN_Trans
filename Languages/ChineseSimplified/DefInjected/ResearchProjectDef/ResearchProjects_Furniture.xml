@@ -68,8 +68,8 @@
 					TubeTelevision
 					Telescope -->
 
-  <SK_RecreationRoomIV.label>休闲家具 IV</SK_RecreationRoomIV.label>
-  <SK_RecreationRoomIV.description>努力让生活变得更加舒适也是一项非常重要的内容，为殖民地解锁望远镜和更好的电视机。</SK_RecreationRoomIV.description>
+  <FlatscreenTelevision.label>休闲家具 IV</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>努力让生活变得更加舒适也是一项非常重要的内容，为殖民地解锁望远镜和更好的电视机。</FlatscreenTelevision.description>
 
 
   <!-- SixSixRoundRug
@@ -93,7 +93,6 @@
 
   <Beds.label>文艺复兴风格家具</Beds.label>
   <Beds.description>解锁建造文艺复兴时期风格的家具，包括床和桌子。</Beds.description>
-
 
 
   <!-- Bed
@@ -250,5 +249,8 @@
   <FloorArtIV.label>地板 IV</FloorArtIV.label>
   <FloorArtIV.description>解锁建造各种美化或者特殊用途的地板。</FloorArtIV.description>
 
+
+  <!--<SK_RecreationRoomIV.label>休闲家具 IV</SK_RecreationRoomIV.label>-->
+  <!--<SK_RecreationRoomIV.description>努力让生活变得更加舒适也是一项非常重要的内容，为殖民地解锁望远镜和更好的电视机。</SK_RecreationRoomIV.description>-->
 
 </LanguageData>
