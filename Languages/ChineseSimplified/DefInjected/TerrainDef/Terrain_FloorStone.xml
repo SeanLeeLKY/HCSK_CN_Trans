@@ -52,6 +52,9 @@
   <FloorStoneMosaicMarble.label>大理石马赛克板</FloorStoneMosaicMarble.label>
   <FloorStoneMosaicMarble.description>大理石铺装的带有明暗风格的马赛克地板。 \n美观度：5。</FloorStoneMosaicMarble.description>
 
+  <FloorStoneMosaicClayBrick.label>黏土砖马赛克板</FloorStoneMosaicClayBrick.label>
+  <FloorStoneMosaicClayBrick.description>黏土砖铺装的带有明暗风格的马赛克地板。\n美观度：5。</FloorStoneMosaicClayBrick.description>
+
   <FloorStoneMosaicCeramics.label>陶瓷马赛克板</FloorStoneMosaicCeramics.label>
   <FloorStoneMosaicCeramics.description>陶瓷铺装的带有明暗风格的马赛克地板。 \n美观度：5。</FloorStoneMosaicCeramics.description>
 
@@ -88,8 +91,32 @@
   <FloorStoneRandomMarble.label>乱序大理石铺板</FloorStoneRandomMarble.label>
   <FloorStoneRandomMarble.description>铺有随机正方形和矩形的地板。\n美观度：5。</FloorStoneRandomMarble.description>
 
+  <FloorStoneRandomClayBrick.label>乱序黏土砖铺板</FloorStoneRandomClayBrick.label>
+  <FloorStoneRandomClayBrick.description>铺有随机正方形和矩形的地板。\n美观度：5。</FloorStoneRandomClayBrick.description>
+
   <FloorStoneRandomCeramics.label>乱序陶瓷铺板</FloorStoneRandomCeramics.label>
   <FloorStoneRandomCeramics.description>铺有随机正方形和矩形的地板。\n美观度：5。</FloorStoneRandomCeramics.description>
+
+  <FloorStoneStaggeredSandstone.label>砂岩交错地砖</FloorStoneStaggeredSandstone.label>
+  <FloorStoneStaggeredSandstone.description>交错排列的圆角地砖。\n美观度：5。</FloorStoneStaggeredSandstone.description>
+
+  <FloorStoneStaggeredGranite.label>花岗岩交错地砖</FloorStoneStaggeredGranite.label>
+  <FloorStoneStaggeredGranite.description>交错排列的圆角地砖。\n美观度：5。</FloorStoneStaggeredGranite.description>
+
+  <FloorStoneStaggeredLimestone.label>石灰岩交错地砖</FloorStoneStaggeredLimestone.label>
+  <FloorStoneStaggeredLimestone.description>交错排列的圆角地砖。\n美观度：5。</FloorStoneStaggeredLimestone.description>
+
+  <FloorStoneStaggeredSlate.label>板岩交错地砖</FloorStoneStaggeredSlate.label>
+  <FloorStoneStaggeredSlate.description>交错排列的圆角地砖。\n美观度：5。</FloorStoneStaggeredSlate.description>
+
+  <FloorStoneStaggeredMarble.label>大理石交错地砖</FloorStoneStaggeredMarble.label>
+  <FloorStoneStaggeredMarble.description>交错排列的圆角地砖。\n美观度：5。</FloorStoneStaggeredMarble.description>
+
+  <FloorStoneStaggeredCeramics.label>陶瓷交错地砖</FloorStoneStaggeredCeramics.label>
+  <FloorStoneStaggeredCeramics.description>交错排列的圆角地砖。\n美观度：5。</FloorStoneStaggeredCeramics.description>
+
+  <FloorStoneStaggeredClayBrick.label>黏土砖交错地砖</FloorStoneStaggeredClayBrick.label>
+  <FloorStoneStaggeredClayBrick.description>交错排列的圆角地砖。\n美观度：5。</FloorStoneStaggeredClayBrick.description>
 
 
 </LanguageData>

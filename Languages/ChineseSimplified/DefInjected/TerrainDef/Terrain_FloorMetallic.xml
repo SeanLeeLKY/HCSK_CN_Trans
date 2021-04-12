@@ -7,6 +7,12 @@
   <SterileTile.label>无菌地砖</SterileTile.label>
   <SterileTile.description>无菌地砖具有特殊的增强清洁度特性。超洁净的房间能够更好地担当医务室和研究室的功能。这种地砖铺设十分缓慢。\n美观度：0。</SterileTile.description>
 
+  <TinTile.label>白锡地砖</TinTile.label>
+  <TinTile.description>方形白锡地砖。\n美观度：3。</TinTile.description>
+
+  <CopperTile.label>简单铜地砖</CopperTile.label>
+  <CopperTile.description>简单的方形铜地砖。\n美观度：3。</CopperTile.description>
+
   <MetalTile.label>金属地砖（白）</MetalTile.label>
   <MetalTile.description>白色钢质的地砖，拥有宇宙飞船般的外表。\n美观度：4。</MetalTile.description>
 
