@@ -17,6 +17,9 @@
   <SandTornado.description>沙！尘！暴！袭！来!\n\n具有强大威力的沙龙卷正在本地肆意破坏！</SandTornado.description>
   <SandTornado.endMessage>沙尘暴终于结束了，沙龙卷也在本地销声匿迹！</SandTornado.endMessage>
 
+  <IceVortex.label>冰旋暴</IceVortex.label>
+  <IceVortex.description>冰旋暴出现了！\n\n这股强大的冰旋暴可能会把生物直接冻成冰棍！</IceVortex.description>
+
   <ToxicWeather.label>毒雨</ToxicWeather.label>
   <ToxicWeather.description>由于来自某些遥远源头的有毒物质排放而导致大气循环产生的有毒云层正在整个区域内造成毒性降水。 任何不在屋檐下的生物都会被缓慢毒化，留在室外的物品可能会加速腐蚀。</ToxicWeather.description>
   <ToxicWeather.endMessage>这场该死的毒雨终于结束了。</ToxicWeather.endMessage>
@@ -68,6 +71,34 @@
   <Darkness.label>漆黑之夜</Darkness.label>
   <Darkness.description>一个不寻常的寒冷之夜。</Darkness.description>
   <Darkness.endMessage>黑暗消散了。</Darkness.endMessage>
+
+
+  <!-- Fix vanilla light sky -->
+
+  <Eclipse.label>日蚀</Eclipse.label>
+  <Eclipse.description>一个天体的影子投在了这个星球上，造成了一场日蚀。日蚀期间即使在白天也会很暗。</Eclipse.description>
+  <Eclipse.endMessage>日蚀结束了。</Eclipse.endMessage>
+  <Eclipse.letterText>本行星的一颗月球运行到了正阳面，造成了日蚀。</Eclipse.letterText>
+
+
+  <!-- New staged coldsnap gamecondition -->
+
+  <ColdSnap.label>寒流</ColdSnap.label>
+  <ColdSnap.description>一股罕见的寒流正在冻结这片区域。</ColdSnap.description>
+  <ColdSnap.endMessage>寒流结束了。</ColdSnap.endMessage>
+  <ColdSnap.letterText>一股不寻常的寒流突然袭来。\n\n寒流引发的低温症会很快杀死普通生物。请确保有一个温暖的庇护所，合适的保温服装，如果可能的话，尽量在作物被冻死前抢收产品。</ColdSnap.letterText>
+
+
+  <!-- New staged heatwave gamecondition -->
+
+  <HeatWave.label>热浪</HeatWave.label>
+  <HeatWave.description>一股温度极高的热浪正在烘烤这片区域。</HeatWave.description>
+  <HeatWave.endMessage>热浪结束了。</HeatWave.endMessage>
+  <HeatWave.letterText>一场极不寻常的热浪开始了。\n\n热浪会导致致命的中暑情况。你可以用蒸发制冷器或者空调保持室内凉爽，或者去到大山深处避暑。</HeatWave.letterText>
+
+  <SunBlocker.label>黑幕</SunBlocker.label>
+  <SunBlocker.description>附近的一台黑幕产生器正在改变大气折射率，使得大气会阻挡阳光。</SunBlocker.description>
+  <SunBlocker.letterText>一台黑幕产生器已经开始阻挡阳光。</SunBlocker.letterText>
 
   <StorytellerFrenzy.label>叙事者疯狂</StorytellerFrenzy.label>
   <StorytellerFrenzy.description>你做了什么让叙事者疯狂的事情，我们接下来估计没什么好结果了。</StorytellerFrenzy.description>
