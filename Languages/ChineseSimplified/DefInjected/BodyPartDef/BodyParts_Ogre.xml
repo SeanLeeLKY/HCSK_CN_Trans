@@ -9,7 +9,7 @@
   <oNose.label>鼻</oNose.label>
   <oJaw.label>下颌</oJaw.label>
   <oNeck.label>颈</oNeck.label>
-  <oRib.label>肋骨</oRib.label>
+  <oRibcage.label>肋骨</oRibcage.label>
   <oSpine.label>脊柱</oSpine.label>
   <oLeg.label>腿</oLeg.label>
   <oFoot.label>足</oFoot.label>
@@ -36,5 +36,7 @@
   <oFemur.label>股骨</oFemur.label>
   <oTibia.label>胫骨</oTibia.label>
 
+
+  <!--<oRib.label>肋骨</oRib.label>-->
 
 </LanguageData>
