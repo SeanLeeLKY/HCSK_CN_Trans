@@ -8,6 +8,13 @@
   <Gun_IncendiaryLauncher.tools.0.label>枪管</Gun_IncendiaryLauncher.tools.0.label>
 
 
+  <!-- M79 GL -->
+
+  <Gun_M79GL.label>M79榴弹发射器</Gun_M79GL.label>
+  <Gun_M79GL.description>一种发射40mm口径榴弹的发射器。</Gun_M79GL.description>
+  <Gun_M79GL.tools.0.label>枪管</Gun_M79GL.tools.0.label>
+
+
   <!-- MILKOR MGL -->
 
   <Gun_MilkorMGL.label>米尔科姆榴弹发射器</Gun_MilkorMGL.label>

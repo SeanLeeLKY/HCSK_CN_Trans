@@ -44,9 +44,17 @@
   <GH_Frame.description>一种能够从蒸汽喷泉收集热量并且再平衡分散的设施。它能够将较大的室内空间加热到适宜的温度。</GH_Frame.description>
 
   <PassiveCooler.label>蒸发制冷器</PassiveCooler.label>
+  <PassiveCooler.description>一个传统的无动力冷却器，通过蒸发水分工作。虽然它的制冷效果没有强到足以冷藏食物，但它可以帮助人员度过热浪天气。数天后水分耗尽。</PassiveCooler.description>
   <PassiveCooler_Blueprint.label>蒸发制冷器（蓝图）</PassiveCooler_Blueprint.label>
   <PassiveCooler_Frame.label>蒸发制冷器（建造中）</PassiveCooler_Frame.label>
-  
+  <PassiveCooler_Frame.description>一个传统的无动力冷却器，通过蒸发水分工作。虽然它的制冷效果没有强到足以冷藏食物，但它可以帮助人员度过热浪天气。数天后水分耗尽。</PassiveCooler_Frame.description>
+
+  <ColdstonePassiveCooler.label>冰石蒸发制冷器</ColdstonePassiveCooler.label>
+  <ColdstonePassiveCooler.description>一个传统的无动力冷却器，通过蒸发水分工作。虽然它的制冷效果没有强到足以冷藏食物，但它可以帮助人员度过热浪天气。这种版本的制冷器由于使用冰石材料，所以对于某些缺乏木材的地区非常友好。</ColdstonePassiveCooler.description>
+  <ColdstonePassiveCooler_Blueprint.label>冰石蒸发制冷器（蓝图）</ColdstonePassiveCooler_Blueprint.label>
+  <ColdstonePassiveCooler_Frame.label>冰石蒸发制冷器（建造中）</ColdstonePassiveCooler_Frame.label>
+  <ColdstonePassiveCooler_Frame.description>一个传统的无动力冷却器，通过蒸发水分工作。虽然它的制冷效果没有强到足以冷藏食物，但它可以帮助人员度过热浪天气。这种版本的制冷器由于使用冰石材料，所以对于某些缺乏木材的地区非常友好。</ColdstonePassiveCooler_Frame.description>
+
   <ColdstoneBattery.label>冰石制冷器</ColdstoneBattery.label>
   <ColdstoneBattery.description>一个长得像罐子的制冷设备，能够将中型房屋的温度降至冰点以下。需要冰石作为补充消耗品。也能够支撑屋顶。</ColdstoneBattery.description>
   <ColdstoneBattery_Blueprint.label>冰石制冷器（蓝图）</ColdstoneBattery_Blueprint.label>

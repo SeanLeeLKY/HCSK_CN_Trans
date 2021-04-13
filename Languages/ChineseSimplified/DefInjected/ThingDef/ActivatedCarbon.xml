@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ActivatedCarbon.label>活性炭</ActivatedCarbon.label>
+  <ActivatedCarbon.description>治疗食物中毒简单而有效的方式。需要多次使用，直到完全治愈。副作用是会引起腹泻反应。</ActivatedCarbon.description>
+  <ActivatedCarbon.ingestible.ingestCommandString>使用{0}</ActivatedCarbon.ingestible.ingestCommandString>
+  <ActivatedCarbon.ingestible.ingestReportString>正在使用{0}。</ActivatedCarbon.ingestible.ingestReportString>
+
+
+</LanguageData>

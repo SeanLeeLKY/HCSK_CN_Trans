@@ -57,4 +57,13 @@
   <Gun_ChargeLance.tools.0.label>枪管</Gun_ChargeLance.tools.0.label>
 
 
+  <!-- Needlegun -->
+
+  <Gun_Needle.label>针刺枪</Gun_Needle.label>
+  <Gun_Needle.description>机械族使用的一种远程武器。因其针状弹丸而得名，单发射击精度极高。虽然它的伤害比冲锋枪低，但它的射程可以达到非常远的距离。</Gun_Needle.description>
+  <Gun_Needle.tools.0.label>枪管</Gun_Needle.tools.0.label>
+
+
+  <!-- 机械族-Heavy Charge Blaster -->
+
 </LanguageData>

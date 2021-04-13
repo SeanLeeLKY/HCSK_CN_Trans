@@ -61,5 +61,13 @@
   <Snowman.label>雪人</Snowman.label>
   <Snowman.description>一组大雪球堆叠在一起，做成类似人的形状。</Snowman.description>
 
+  <CatArt.label>猫咪雕塑</CatArt.label>
+  <CatArt.description>猫咪雕塑。喵~。</CatArt.description>
+  <CatArt_Blueprint_Install.label>猫咪雕塑（蓝图）</CatArt_Blueprint_Install.label>
+
+  <GlowstoneArt.label>萤石雕塑</GlowstoneArt.label>
+  <GlowstoneArt.description>这座令人惊艳的雕像由切割精美的萤石制成，它呈现完美的水晶形状，发出明亮的光线。</GlowstoneArt.description>
+  <GlowstoneArt_Blueprint_Install.label>萤石雕塑（蓝图）</GlowstoneArt_Blueprint_Install.label>
+
 
 </LanguageData>

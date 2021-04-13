@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <IceCream.label>冰淇淋</IceCream.label>
+  <IceCream.description>一种特别的甜点，不仅非常美味，还有助于缓解中暑症状。</IceCream.description>
+
   <Chocomilk.label>巧克力牛奶</Chocomilk.label>
   <Chocomilk.description>加了巧克力的牛奶。</Chocomilk.description>
 
@@ -12,6 +15,9 @@
 
   <Cheese.label>奶酪</Cheese.label>
   <Cheese.description>一块奶酪。</Cheese.description>
+
+  <AgedCheese.label>陈年奶酪</AgedCheese.label>
+  <AgedCheese.description>一块顶级陈年奶酪。</AgedCheese.description>
 
 
 </LanguageData>

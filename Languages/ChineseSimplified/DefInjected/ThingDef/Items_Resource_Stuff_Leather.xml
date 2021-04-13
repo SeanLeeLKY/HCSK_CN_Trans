@@ -73,6 +73,10 @@
   <Leather_Lizard.description>鞣制晒干的冷血爬行动物的皮。蜥蜴皮相当坚硬，但是隔温效果不太好。</Leather_Lizard.description>
   <Leather_Lizard.stuffProps.stuffAdjective>蜥蜴皮</Leather_Lizard.stuffProps.stuffAdjective>
 
+  <Leather_Boomanimal.label>爆炸兽皮</Leather_Boomanimal.label>
+  <Leather_Boomanimal.description>某些诸如爆炸鼠、爆炸羊等动物身上剥离的轻质皮革。比普通皮革更易燃。</Leather_Boomanimal.description>
+  <Leather_Boomanimal.stuffProps.stuffAdjective>爆炸兽皮</Leather_Boomanimal.stuffProps.stuffAdjective>
+
 
   <!-- Tough leathers -->
 

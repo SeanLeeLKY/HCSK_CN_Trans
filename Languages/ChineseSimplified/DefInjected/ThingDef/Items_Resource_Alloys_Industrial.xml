@@ -6,6 +6,7 @@
 
   <NickelBar.label>镍合金</NickelBar.label>
   <NickelBar.description>镍属于过渡金属，硬度高，韧性好。镍是一种带有轻微金色色调的银白色金属，需要高度抛光。镍具有铁磁性（当它与磁性金属配对时可以被磁化）。</NickelBar.description>
+  <NickelBar.stuffProps.stuffAdjective>镍合金</NickelBar.stuffProps.stuffAdjective>
 
   <Cobalt.label>钴合金</Cobalt.label>
   <Cobalt.description>钴基蓝色颜料自古以来就被用于珠宝和油漆，并赋予玻璃一种独特的蓝色色调。后来，炼金术士们认为这种颜色是由一种叫做铋的金属引起的。钴是一种磁性金属。</Cobalt.description>

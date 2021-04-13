@@ -5,6 +5,15 @@
   <MeatSoup.description>把食材煮成汤汁可以提取每一分营养。虽然不是口味最好的烹饪方式，但是可以节省食材。</MeatSoup.description>
 
 
+  <!-- Grilled Meals -->
+
+  <GrilledCheese.label>芝士三明治</GrilledCheese.label>
+  <GrilledCheese.description>两片中间夹着融化奶酪的烤面包。\n\n提高新陈代谢</GrilledCheese.description>
+
+  <PotatoesCheese.label>芝士土豆</PotatoesCheese.label>
+  <PotatoesCheese.description>两片中间夹着融化奶酪的土豆片。\n\n降低饥饿速率</PotatoesCheese.description>
+
+
   <!-- Fine Meals -->
 
   <HeartyStew.label>炖菜</HeartyStew.label>
@@ -12,9 +21,6 @@
 
   <MakiRolls.label>细卷</MakiRolls.label>
   <MakiRolls.description>夹着海藻的寿司米卷，通常中间夹有鱼肉。\n\n提高意识\n提高行动能力\n提高技能学习速度</MakiRolls.description>
-
-  <GrilledCheese.label>芝士三明治</GrilledCheese.label>
-  <GrilledCheese.description>两片中间夹着融化奶酪的烤面包。\n\n提高新陈代谢</GrilledCheese.description>
 
   <Kebab.label>烤肉串</Kebab.label>
   <Kebab.description>一种把肉、鱼、蔬菜和蘑菇串起来烤制的食物。\n\n提高语言能力\n提高行动能力\n降低饥饿速率</Kebab.description>
@@ -24,6 +30,9 @@
 
   <CoconutCurry.label>椰香咖喱</CoconutCurry.label>
   <CoconutCurry.description>这道异国风味的菜肴能让你在高温下待更久。\n\n提高行动能力\n提高视力\n提高耐热性</CoconutCurry.description>
+
+  <Pelmeni.label>俄式饺子</Pelmeni.label>
+  <Pelmeni.description>将肉馅包在薄薄的面团里，根据自己的口味搭配调味品。简单又美味。</Pelmeni.description>
 
 
   <!-- Lavish Meals -->

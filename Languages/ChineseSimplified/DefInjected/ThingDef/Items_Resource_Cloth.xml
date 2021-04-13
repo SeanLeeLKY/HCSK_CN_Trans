@@ -15,9 +15,9 @@
   <WoolMuffalo.description>柔软、轻盈，并有很好的隔温性。即使在极端条件下，雪牛毛衣服也可以保持身体温暖。</WoolMuffalo.description>
   <WoolMuffalo.stuffProps.stuffAdjective>雪牛毛</WoolMuffalo.stuffProps.stuffAdjective>
 
-  <WoolCamel.label>骆驼毛</WoolCamel.label>
-  <WoolCamel.description>骆驼毛服装通常被沙漠旅行者穿戴以抵御炎热。由于它的恒温特性，它提供了良好的隔温性。</WoolCamel.description>
-  <WoolCamel.stuffProps.stuffAdjective>骆驼毛</WoolCamel.stuffProps.stuffAdjective>
+  <WoolDromedary.label>骆驼毛</WoolDromedary.label>
+  <WoolDromedary.description>骆驼毛服装通常被沙漠旅行者穿戴以抵御炎热。由于它的恒温特性，它提供了良好的隔温性。</WoolDromedary.description>
+  <WoolDromedary.stuffProps.stuffAdjective>骆驼毛</WoolDromedary.stuffProps.stuffAdjective>
 
   <WoolAlpaca.label>羊驼毛</WoolAlpaca.label>
   <WoolAlpaca.description>非常柔软的羊驼毛。非常保暖。</WoolAlpaca.description>
@@ -68,5 +68,9 @@
   <Compaste.label>复合粘剂</Compaste.label>
   <Compaste.description>复合粘剂常常被用于各种物品的制作中间流程。标签上写着：“请勿饮用！使用后短时间内请勿触摸！”</Compaste.description>
 
+
+  <!--<WoolCamel.label>骆驼毛</WoolCamel.label>-->
+  <!--<WoolCamel.description>骆驼毛服装通常被沙漠旅行者穿戴以抵御炎热。由于它的恒温特性，它提供了良好的隔温性。</WoolCamel.description>-->
+  <!--<WoolCamel.stuffProps.stuffAdjective>骆驼毛</WoolCamel.stuffProps.stuffAdjective>-->
 
 </LanguageData>

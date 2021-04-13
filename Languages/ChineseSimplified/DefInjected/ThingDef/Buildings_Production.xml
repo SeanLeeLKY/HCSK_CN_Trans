@@ -42,6 +42,12 @@
   <TableOven_Frame.label>烤箱（建造中）</TableOven_Frame.label>
   <TableOven_Frame.description>消耗各种燃料来烘焙面包和其他美食的烹饪工具。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</TableOven_Frame.description>
 
+  <ElectricOven.label>电烤箱</ElectricOven.label>
+  <ElectricOven.description>用电力驱动的烤箱。需要电源。</ElectricOven.description>
+  <ElectricOven_Blueprint.label>电烤箱（蓝图）</ElectricOven_Blueprint.label>
+  <ElectricOven_Frame.label>电烤箱（建造中）</ElectricOven_Frame.label>
+  <ElectricOven_Frame.description>用电力驱动的烤箱。需要电源。</ElectricOven_Frame.description>
+
   <CandyTable.label>糖果桌</CandyTable.label>
   <CandyTable.description>用于制作巧克力、焦糖和太妃糖的制糖台。需要电源。</CandyTable.description>
   <CandyTable_Blueprint.label>糖果桌（蓝图）</CandyTable_Blueprint.label>
@@ -116,6 +122,26 @@
   <DryingRack_Blueprint_Install.label>干燥架（蓝图）</DryingRack_Blueprint_Install.label>
   <DryingRack_Frame.label>干燥架（建造中）</DryingRack_Frame.label>
   <DryingRack_Frame.description>用于风干烟叶、雪茄烟草以及各类水果的干燥架。</DryingRack_Frame.description>
+
+  <MillElectric.label>电动磨</MillElectric.label>
+  <MillElectric.description>电动磨机由高功率电动机驱动，研磨效率非常高。</MillElectric.description>
+  <MillElectric_Blueprint.label>电动磨（蓝图）</MillElectric_Blueprint.label>
+  <MillElectric_Blueprint_Install.label>电动磨（蓝图）</MillElectric_Blueprint_Install.label>
+  <MillElectric_Frame.label>电动磨（建造中）</MillElectric_Frame.label>
+  <MillElectric_Frame.description>电动磨机由高功率电动机驱动，研磨效率非常高。</MillElectric_Frame.description>
+
+  <CheeseBasin.label>奶酪制作盆</CheeseBasin.label>
+  <CheeseBasin.description>用于将奶制成奶酪的工具容器。</CheeseBasin.description>
+  <CheeseBasin_Blueprint.label>奶酪制作盆（蓝图）</CheeseBasin_Blueprint.label>
+  <CheeseBasin_Blueprint_Install.label>奶酪制作盆（蓝图）</CheeseBasin_Blueprint_Install.label>
+  <CheeseBasin_Frame.label>奶酪制作盆（建造中）</CheeseBasin_Frame.label>
+  <CheeseBasin_Frame.description>用于将奶制成奶酪的工具容器。</CheeseBasin_Frame.description>
+
+  <SilagePile.label>青贮料堆</SilagePile.label>
+  <SilagePile.description>可以在这里将各种植物产品发酵成青贮饲料。</SilagePile.description>
+  <SilagePile_Blueprint.label>青贮料堆（蓝图）</SilagePile_Blueprint.label>
+  <SilagePile_Frame.label>青贮料堆（建造中）</SilagePile_Frame.label>
+  <SilagePile_Frame.description>可以在这里将各种植物产品发酵成青贮饲料。</SilagePile_Frame.description>
 
   <DrugLab.label>药物实验台</DrugLab.label>
   <DrugLab.description>一个配备有各种烧瓶、量杯和加热装置的化学实验台，用于制作各种药物和成瘾品。</DrugLab.description>
@@ -305,4 +331,4 @@
   <VG_SaltMine_Frame.description>从粗糙岩石表面挖掘盐矿的工作点。</VG_SaltMine_Frame.description>
 
 
-</LanguageData>
+ </LanguageData>

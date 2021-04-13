@@ -28,8 +28,10 @@
   <TradingSpot_Frame.description>来到你殖民地进行商业活动的队伍会在交易点附近活动。</TradingSpot_Frame.description>
 
   <PrimitiveResearchBench.label>原始科技研究台</PrimitiveResearchBench.label>
+  <PrimitiveResearchBench.description>研究周围的各种材料，以期发现新事物。</PrimitiveResearchBench.description>
   <PrimitiveResearchBench_Blueprint.label>原始科技研究台（蓝图）</PrimitiveResearchBench_Blueprint.label>
   <PrimitiveResearchBench_Frame.label>原始科技研究台（建造中）</PrimitiveResearchBench_Frame.label>
+  <PrimitiveResearchBench_Frame.description>研究周围的各种材料，以期发现新事物。</PrimitiveResearchBench_Frame.description>
 
   <SimpleResearchBench.label>基础研究台</SimpleResearchBench.label>
   <SimpleResearchBench.description>一个配有书写工具和低级科学工具的简易工作台。研究员在这里探索新事物。</SimpleResearchBench.description>
@@ -71,7 +73,6 @@
   <Buildings_SubspaceBurstTransponder_Frame.description>发射亚空间脉冲信号，指引商船前来交易。</Buildings_SubspaceBurstTransponder_Frame.description>
 
 
-
   <!-- Facilities -->
 
   <MultiAnalyzer.label>多元分析仪</MultiAnalyzer.label>
@@ -83,10 +84,7 @@
 
   <CounterTopModular.label>实验室柜台</CounterTopModular.label>
   <CounterTopModular.description>一个普通的实验室操作台。</CounterTopModular.description>
-  <CounterTopModular_Blueprint.label>实验室柜台 (蓝图)</CounterTopModular_Blueprint.label>
   <CounterTopModular_Blueprint_Install.label>实验室柜台 (蓝图)</CounterTopModular_Blueprint_Install.label>
-  <CounterTopModular_Frame.label>实验室柜台 (建造中)</CounterTopModular_Frame.label>
-  <CounterTopModular_Frame.description>一个普通的实验室操作台。</CounterTopModular_Frame.description>
 
   <LabStation.label>实验室工作站</LabStation.label>
   <LabStation.description>扩充实验室操作的辅助研究站。需要电力才能运作。</LabStation.description>
@@ -306,5 +304,15 @@
   <SteleGrand_Frame.label>宏伟石碑（建造中）</SteleGrand_Frame.label>
   <SteleGrand_Frame.description>周围有大量雕刻的高耸石板。石碑自古以来都被用于纪念人物、战役或者其他重要事件。</SteleGrand_Frame.description>
 
+  <GlowstoneMonument.label>glowstone monument</GlowstoneMonument.label>
+  <GlowstoneMonument.description>This stunning statue is made from beautifully cut glowstone, it is perfectly crystal shaped and it emits a bright light.</GlowstoneMonument.description>
+  <GlowstoneMonument_Blueprint.label>glowstone monument (blueprint)</GlowstoneMonument_Blueprint.label>
+  <GlowstoneMonument_Frame.label>glowstone monument (building)</GlowstoneMonument_Frame.label>
+  <GlowstoneMonument_Frame.description>This stunning statue is made from beautifully cut glowstone, it is perfectly crystal shaped and it emits a bright light.</GlowstoneMonument_Frame.description>
+
+
+  <!--<CounterTopModular_Blueprint.label>实验室柜台 (蓝图)</CounterTopModular_Blueprint.label>-->
+  <!--<CounterTopModular_Frame.label>实验室柜台 (建造中)</CounterTopModular_Frame.label>-->
+  <!--<CounterTopModular_Frame.description>一个普通的实验室操作台。</CounterTopModular_Frame.description>-->
 
 </LanguageData>

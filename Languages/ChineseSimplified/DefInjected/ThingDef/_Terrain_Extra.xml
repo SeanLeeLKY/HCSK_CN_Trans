@@ -23,6 +23,10 @@
   <MBrickMarble_Frame.label>大理石砖（建造中）</MBrickMarble_Frame.label>
   <MBrickMarble_Frame.description>地形建造中。</MBrickMarble_Frame.description>
 
+  <MBrickClayBrick_Blueprint.label>黏土砖（蓝图）</MBrickClayBrick_Blueprint.label>
+  <MBrickClayBrick_Frame.label>黏土砖（建造中）</MBrickClayBrick_Frame.label>
+  <MBrickClayBrick_Frame.description>地形建造中。</MBrickClayBrick_Frame.description>
+
   <MBrickCeramics_Blueprint.label>陶瓷砖（蓝图）</MBrickCeramics_Blueprint.label>
   <MBrickCeramics_Frame.label>陶瓷砖（建造中）</MBrickCeramics_Frame.label>
   <MBrickCeramics_Frame.description>地形建造中。</MBrickCeramics_Frame.description>
@@ -46,6 +50,10 @@
   <SBrickMarble_Blueprint.label>小块大理石砖（蓝图）</SBrickMarble_Blueprint.label>
   <SBrickMarble_Frame.label>小块大理石砖（建造中）</SBrickMarble_Frame.label>
   <SBrickMarble_Frame.description>地形建造中。</SBrickMarble_Frame.description>
+
+  <SBrickClayBrick_Blueprint.label>小块黏土砖（蓝图）</SBrickClayBrick_Blueprint.label>
+  <SBrickClayBrick_Frame.label>小块黏土砖（建造中）</SBrickClayBrick_Frame.label>
+  <SBrickClayBrick_Frame.description>地形建造中。</SBrickClayBrick_Frame.description>
 
   <SBrickCeramics_Blueprint.label>小块陶瓷砖（蓝图）</SBrickCeramics_Blueprint.label>
   <SBrickCeramics_Frame.label>小块陶瓷砖（建造中）</SBrickCeramics_Frame.label>
@@ -71,6 +79,10 @@
   <MedBrickMarble_Frame.label>地中海风格大理石砖（建造中）</MedBrickMarble_Frame.label>
   <MedBrickMarble_Frame.description>地形建造中。</MedBrickMarble_Frame.description>
 
+  <MedBrickClayBrick_Blueprint.label>地中海风格黏土砖（蓝图）</MedBrickClayBrick_Blueprint.label>
+  <MedBrickClayBrick_Frame.label>地中海风格黏土砖（建造中）</MedBrickClayBrick_Frame.label>
+  <MedBrickClayBrick_Frame.description>地形建造中。</MedBrickClayBrick_Frame.description>
+
   <MedBrickCeramics_Blueprint.label>地中海风格陶瓷砖（蓝图）</MedBrickCeramics_Blueprint.label>
   <MedBrickCeramics_Frame.label>地中海风格陶瓷砖（建造中）</MedBrickCeramics_Frame.label>
   <MedBrickCeramics_Frame.description>地形建造中。</MedBrickCeramics_Frame.description>
@@ -95,7 +107,7 @@
   <CobbleFloorMarble_Frame.label>卵石风格大理石地板（建造中）</CobbleFloorMarble_Frame.label>
   <CobbleFloorMarble_Frame.description>地形建造中。</CobbleFloorMarble_Frame.description>
 
-   <UEBrickSandstone_Blueprint.label>参差风格砂岩砖（蓝图）</UEBrickSandstone_Blueprint.label>
+  <UEBrickSandstone_Blueprint.label>参差风格砂岩砖（蓝图）</UEBrickSandstone_Blueprint.label>
   <UEBrickSandstone_Frame.label>参差风格砂岩砖（建造中）</UEBrickSandstone_Frame.label>
   <UEBrickSandstone_Frame.description>地形建造中。</UEBrickSandstone_Frame.description>
 
@@ -114,6 +126,10 @@
   <UEBrickMarble_Blueprint.label>参差风格大理石砖（蓝图）</UEBrickMarble_Blueprint.label>
   <UEBrickMarble_Frame.label>参差风格大理石砖（建造中）</UEBrickMarble_Frame.label>
   <UEBrickMarble_Frame.description>地形建造中。</UEBrickMarble_Frame.description>
+
+  <UEBrickClayBrick_Blueprint.label>参差风格黏土砖（蓝图）</UEBrickClayBrick_Blueprint.label>
+  <UEBrickClayBrick_Frame.label>参差风格黏土砖（建造中）</UEBrickClayBrick_Frame.label>
+  <UEBrickClayBrick_Frame.description>地形建造中。</UEBrickClayBrick_Frame.description>
 
   <UEBrickCeramics_Blueprint.label>参差风格陶瓷砖（蓝图）</UEBrickCeramics_Blueprint.label>
   <UEBrickCeramics_Frame.label>参差风格陶瓷砖（建造中）</UEBrickCeramics_Frame.label>
@@ -162,6 +178,10 @@
   <HerrBrickMarble_Blueprint.label>交叉式大理石砖（蓝图）</HerrBrickMarble_Blueprint.label>
   <HerrBrickMarble_Frame.label>交叉式大理石砖（建造中）</HerrBrickMarble_Frame.label>
   <HerrBrickMarble_Frame.description>地形建造中。</HerrBrickMarble_Frame.description>
+
+  <HerrBrickClayBrick_Blueprint.label>交叉式黏土砖（蓝图）</HerrBrickClayBrick_Blueprint.label>
+  <HerrBrickClayBrick_Frame.label>交叉式黏土砖（建造中）</HerrBrickClayBrick_Frame.label>
+  <HerrBrickClayBrick_Frame.description>地形建造中。</HerrBrickClayBrick_Frame.description>
 
   <HerrBrickCeramics_Blueprint.label>交叉式陶瓷砖（蓝图）</HerrBrickCeramics_Blueprint.label>
   <HerrBrickCeramics_Frame.label>交叉式陶瓷砖（建造中）</HerrBrickCeramics_Frame.label>
@@ -259,21 +279,37 @@
   <SterileTile_Frame.label>无菌地砖（建造中）</SterileTile_Frame.label>
   <SterileTile_Frame.description>地形建造中。</SterileTile_Frame.description>
 
+  <TinTile_Blueprint.label>白锡地砖（蓝图）</TinTile_Blueprint.label>
+  <TinTile_Frame.label>白锡地砖（建造中）</TinTile_Frame.label>
+  <TinTile_Frame.description>地形建造中。</TinTile_Frame.description>
+
+  <CopperTile_Blueprint.label>简单铜地砖（蓝图）</CopperTile_Blueprint.label>
+  <CopperTile_Frame.label>简单铜地砖（建造中）</CopperTile_Frame.label>
+  <CopperTile_Frame.description>地形建造中。</CopperTile_Frame.description>
+
   <MetalTile_Blueprint.label>白色金属地砖（蓝图）</MetalTile_Blueprint.label>
   <MetalTile_Frame.label>白色金属地砖（建造中）</MetalTile_Frame.label>
   <MetalTile_Frame.description>地形建造中。</MetalTile_Frame.description>
 
-  <MetalTile2_Blueprint.label>黑色金属地砖（蓝图）</MetalTile2_Blueprint.label>
-  <MetalTile2_Frame.label>黑色金属地砖（建造中）</MetalTile2_Frame.label>
-  <MetalTile2_Frame.description>地形建造中。</MetalTile2_Frame.description>
+  <MetalTileTwo_Blueprint.label>黑色金属地砖（蓝图）</MetalTileTwo_Blueprint.label>
+  <MetalTileTwo_Frame.label>黑色金属地砖（建造中）</MetalTileTwo_Frame.label>
+  <MetalTileTwo_Frame.description>地形建造中。</MetalTileTwo_Frame.description>
 
-  <MetalTile3_Blueprint.label>灰色金属地砖（蓝图）</MetalTile3_Blueprint.label>
-  <MetalTile3_Frame.label>灰色金属地砖（建造中）</MetalTile3_Frame.label>
-  <MetalTile3_Frame.description>地形建造中。</MetalTile3_Frame.description>
+  <MetalTileThree_Blueprint.label>灰色金属地砖（蓝图）</MetalTileThree_Blueprint.label>
+  <MetalTileThree_Frame.label>灰色金属地砖（建造中）</MetalTileThree_Frame.label>
+  <MetalTileThree_Frame.description>地形建造中。</MetalTileThree_Frame.description>
 
-  <MetalTile4_Blueprint.label>图形金属地砖（蓝图）</MetalTile4_Blueprint.label>
-  <MetalTile4_Frame.label>图形金属地砖（建造中）</MetalTile4_Frame.label>
-  <MetalTile4_Frame.description>地形建造中。</MetalTile4_Frame.description>
+  <MetalTileFour_Blueprint.label>图案金属地砖（蓝图）</MetalTileFour_Blueprint.label>
+  <MetalTileFour_Frame.label>图案金属地砖（建造中）</MetalTileFour_Frame.label>
+  <MetalTileFour_Frame.description>地形建造中。</MetalTileFour_Frame.description>
+
+  <GoldTile_Blueprint.label>金质地砖（蓝图）</GoldTile_Blueprint.label>
+  <GoldTile_Frame.label>金质地砖（建造中）</GoldTile_Frame.label>
+  <GoldTile_Frame.description>地形建造中。</GoldTile_Frame.description>
+
+  <GoldSolid_Blueprint.label>赤金板（蓝图）</GoldSolid_Blueprint.label>
+  <GoldSolid_Frame.label>赤金板（建造中）</GoldSolid_Frame.label>
+  <GoldSolid_Frame.description>地形建造中。</GoldSolid_Frame.description>
 
   <PlateCopperBar_Blueprint.label>铜板地砖（蓝图）</PlateCopperBar_Blueprint.label>
   <PlateCopperBar_Frame.label>铜板地砖（建造中）</PlateCopperBar_Frame.label>
@@ -455,6 +491,10 @@
   <FloorStoneMosaicMarble_Frame.label>马赛克铺装大理石砖（建造中）</FloorStoneMosaicMarble_Frame.label>
   <FloorStoneMosaicMarble_Frame.description>地形建造中。</FloorStoneMosaicMarble_Frame.description>
 
+  <FloorStoneMosaicClayBrick_Blueprint.label>黏土砖马赛克板（蓝图）</FloorStoneMosaicClayBrick_Blueprint.label>
+  <FloorStoneMosaicClayBrick_Frame.label>黏土砖马赛克板（建造中）</FloorStoneMosaicClayBrick_Frame.label>
+  <FloorStoneMosaicClayBrick_Frame.description>地形建造中。</FloorStoneMosaicClayBrick_Frame.description>
+
   <FloorStoneMosaicCeramics_Blueprint.label>马赛克铺装陶瓷砖（蓝图）</FloorStoneMosaicCeramics_Blueprint.label>
   <FloorStoneMosaicCeramics_Frame.label>马赛克铺装陶瓷砖（建造中）</FloorStoneMosaicCeramics_Frame.label>
   <FloorStoneMosaicCeramics_Frame.description>地形建造中。</FloorStoneMosaicCeramics_Frame.description>
@@ -503,9 +543,41 @@
   <FloorStoneRandomMarble_Frame.label>无规则铺装大理石面（建造中）</FloorStoneRandomMarble_Frame.label>
   <FloorStoneRandomMarble_Frame.description>地形建造中。</FloorStoneRandomMarble_Frame.description>
 
+  <FloorStoneRandomClayBrick_Blueprint.label>乱序黏土砖铺板（蓝图）</FloorStoneRandomClayBrick_Blueprint.label>
+  <FloorStoneRandomClayBrick_Frame.label>乱序黏土砖铺板（建造中）</FloorStoneRandomClayBrick_Frame.label>
+  <FloorStoneRandomClayBrick_Frame.description>地形建造中。</FloorStoneRandomClayBrick_Frame.description>
+
   <FloorStoneRandomCeramics_Blueprint.label>无规则铺装陶瓷面（蓝图）</FloorStoneRandomCeramics_Blueprint.label>
   <FloorStoneRandomCeramics_Frame.label>无规则铺装陶瓷面（建造中）</FloorStoneRandomCeramics_Frame.label>
   <FloorStoneRandomCeramics_Frame.description>地形建造中。</FloorStoneRandomCeramics_Frame.description>
+
+  <FloorStoneStaggeredSandstone_Blueprint.label>砂岩交错地砖（蓝图）</FloorStoneStaggeredSandstone_Blueprint.label>
+  <FloorStoneStaggeredSandstone_Frame.label>砂岩交错地砖（建造中）</FloorStoneStaggeredSandstone_Frame.label>
+  <FloorStoneStaggeredSandstone_Frame.description>地形建造中。</FloorStoneStaggeredSandstone_Frame.description>
+
+  <FloorStoneStaggeredGranite_Blueprint.label>花岗岩交错地砖（蓝图）</FloorStoneStaggeredGranite_Blueprint.label>
+  <FloorStoneStaggeredGranite_Frame.label>花岗岩交错地砖（建造中）</FloorStoneStaggeredGranite_Frame.label>
+  <FloorStoneStaggeredGranite_Frame.description>地形建造中。</FloorStoneStaggeredGranite_Frame.description>
+
+  <FloorStoneStaggeredLimestone_Blueprint.label>石灰岩交错地砖（蓝图）</FloorStoneStaggeredLimestone_Blueprint.label>
+  <FloorStoneStaggeredLimestone_Frame.label>石灰岩交错地砖（建造中）</FloorStoneStaggeredLimestone_Frame.label>
+  <FloorStoneStaggeredLimestone_Frame.description>地形建造中。</FloorStoneStaggeredLimestone_Frame.description>
+
+  <FloorStoneStaggeredSlate_Blueprint.label>板岩交错地砖（蓝图）</FloorStoneStaggeredSlate_Blueprint.label>
+  <FloorStoneStaggeredSlate_Frame.label>板岩交错地砖（建造中）</FloorStoneStaggeredSlate_Frame.label>
+  <FloorStoneStaggeredSlate_Frame.description>地形建造中。</FloorStoneStaggeredSlate_Frame.description>
+
+  <FloorStoneStaggeredMarble_Blueprint.label>大理石交错地砖（蓝图）</FloorStoneStaggeredMarble_Blueprint.label>
+  <FloorStoneStaggeredMarble_Frame.label>大理石交错地砖（建造中）</FloorStoneStaggeredMarble_Frame.label>
+  <FloorStoneStaggeredMarble_Frame.description>地形建造中。</FloorStoneStaggeredMarble_Frame.description>
+
+  <FloorStoneStaggeredCeramics_Blueprint.label>陶瓷交错地砖（蓝图）</FloorStoneStaggeredCeramics_Blueprint.label>
+  <FloorStoneStaggeredCeramics_Frame.label>陶瓷交错地砖（建造中）</FloorStoneStaggeredCeramics_Frame.label>
+  <FloorStoneStaggeredCeramics_Frame.description>地形建造中。</FloorStoneStaggeredCeramics_Frame.description>
+
+  <FloorStoneStaggeredClayBrick_Blueprint.label>黏土砖交错地砖（蓝图）</FloorStoneStaggeredClayBrick_Blueprint.label>
+  <FloorStoneStaggeredClayBrick_Frame.label>黏土砖交错地砖（建造中）</FloorStoneStaggeredClayBrick_Frame.label>
+  <FloorStoneStaggeredClayBrick_Frame.description>地形建造中。</FloorStoneStaggeredClayBrick_Frame.description>
 
   <ClutterWoodTileA_Blueprint.label>暗色木地板（蓝图）</ClutterWoodTileA_Blueprint.label>
   <ClutterWoodTileA_Frame.label>暗色木地板（建造中）</ClutterWoodTileA_Frame.label>
@@ -583,6 +655,10 @@
   <RedWoodFloorE_Frame.label>深色红木地板（建造中）</RedWoodFloorE_Frame.label>
   <RedWoodFloorE_Frame.description>地形建造中。</RedWoodFloorE_Frame.description>
 
+  <RedWoodFloorF_Blueprint.label>浅色方格拼花地板（蓝图）</RedWoodFloorF_Blueprint.label>
+  <RedWoodFloorF_Frame.label>浅色方格拼花地板（建造中）</RedWoodFloorF_Frame.label>
+  <RedWoodFloorF_Frame.description>地形建造中。</RedWoodFloorF_Frame.description>
+
   <TikiFloorBamboo_Blueprint.label>竹条地板（蓝图）</TikiFloorBamboo_Blueprint.label>
   <TikiFloorBamboo_Frame.label>竹条地板（建造中）</TikiFloorBamboo_Frame.label>
   <TikiFloorBamboo_Frame.description>地形建造中。</TikiFloorBamboo_Frame.description>
@@ -619,5 +695,15 @@
   <Bridge_Frame.label>桥（建造中）</Bridge_Frame.label>
   <Bridge_Frame.description>地形建造中。</Bridge_Frame.description>
 
+
+  <!--<MetalTile2_Blueprint.label>黑色金属地砖（蓝图）</MetalTile2_Blueprint.label>-->
+  <!--<MetalTile2_Frame.label>黑色金属地砖（建造中）</MetalTile2_Frame.label>-->
+  <!--<MetalTile2_Frame.description>地形建造中。</MetalTile2_Frame.description>-->
+  <!--<MetalTile3_Blueprint.label>灰色金属地砖（蓝图）</MetalTile3_Blueprint.label>-->
+  <!--<MetalTile3_Frame.label>灰色金属地砖（建造中）</MetalTile3_Frame.label>-->
+  <!--<MetalTile3_Frame.description>地形建造中。</MetalTile3_Frame.description>-->
+  <!--<MetalTile4_Blueprint.label>图形金属地砖（蓝图）</MetalTile4_Blueprint.label>-->
+  <!--<MetalTile4_Frame.label>图形金属地砖（建造中）</MetalTile4_Frame.label>-->
+  <!--<MetalTile4_Frame.description>地形建造中。</MetalTile4_Frame.description>-->
 
 </LanguageData>
