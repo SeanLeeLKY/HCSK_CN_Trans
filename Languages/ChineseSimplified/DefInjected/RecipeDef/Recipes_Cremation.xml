@@ -13,17 +13,23 @@
   <BurnThings.description>将木头、织物还有皮革烧成灰烬。\n\n产出：3</BurnThings.description>
   <BurnThings.jobString>正在烧毁原料。</BurnThings.jobString>
 
-  <CremateCorpseCampfire.label>火化尸体</CremateCorpseCampfire.label>
-  <CremateCorpseCampfire.description>将尸体烧成灰烬。\n\n产出：4</CremateCorpseCampfire.description>
-  <CremateCorpseCampfire.jobString>正在火化。</CremateCorpseCampfire.jobString>
+  <BurnWeapon.label>烧毁武器</BurnWeapon.label>
+  <BurnWeapon.description>将不想要的武器完全烧毁。</BurnWeapon.description>
+  <BurnWeapon.jobString>正在烧毁武器。</BurnWeapon.jobString>
 
-  <BurnApparelCampfire.label>烧毁衣物</BurnApparelCampfire.label>
-  <BurnApparelCampfire.description>将衣物烧成灰烬。\n\n产出：2</BurnApparelCampfire.description>
-  <BurnApparelCampfire.jobString>正在烧毁衣物。</BurnApparelCampfire.jobString>
+  <BurnDrugs.label>烧毁药物</BurnDrugs.label>
+  <BurnDrugs.description>将不想要的药物、成瘾品完全烧毁。</BurnDrugs.description>
+  <BurnDrugs.jobString>正在烧毁药物。</BurnDrugs.jobString>
 
-  <BurnThingsCampfire.label>烧毁原料</BurnThingsCampfire.label>
-  <BurnThingsCampfire.description>将木头、织物还有皮革烧成灰烬。\n\n产出：3</BurnThingsCampfire.description>
-  <BurnThingsCampfire.jobString>正在烧毁原料。</BurnThingsCampfire.jobString>
 
+  <!--<CremateCorpseCampfire.label>火化尸体</CremateCorpseCampfire.label>-->
+  <!--<CremateCorpseCampfire.description>将尸体烧成灰烬。\n\n产出：4</CremateCorpseCampfire.description>-->
+  <!--<CremateCorpseCampfire.jobString>正在火化。</CremateCorpseCampfire.jobString>-->
+  <!--<BurnApparelCampfire.label>烧毁衣物</BurnApparelCampfire.label>-->
+  <!--<BurnApparelCampfire.description>将衣物烧成灰烬。\n\n产出：2</BurnApparelCampfire.description>-->
+  <!--<BurnApparelCampfire.jobString>正在烧毁衣物。</BurnApparelCampfire.jobString>-->
+  <!--<BurnThingsCampfire.label>烧毁原料</BurnThingsCampfire.label>-->
+  <!--<BurnThingsCampfire.description>将木头、织物还有皮革烧成灰烬。\n\n产出：3</BurnThingsCampfire.description>-->
+  <!--<BurnThingsCampfire.jobString>正在烧毁原料。</BurnThingsCampfire.jobString>-->
 
 </LanguageData>

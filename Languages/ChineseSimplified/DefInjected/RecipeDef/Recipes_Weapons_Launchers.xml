@@ -5,6 +5,10 @@
   <BuildIncendiaryLauncher.description>制造 T9“炎阳”燃烧弹发射器, 一种能够在较远的距离发射燃料弹，点燃目标周围物体的远程发射器。\n 弹药： 30x64mm 燃料弹</BuildIncendiaryLauncher.description>
   <BuildIncendiaryLauncher.jobString>正在制造 T9“炎阳”燃烧弹发射器。</BuildIncendiaryLauncher.jobString>
 
+  <BuildM79GL.label>制造 M79榴弹发射器</BuildM79GL.label>
+  <BuildM79GL.description>制造M79榴弹发射器。</BuildM79GL.description>
+  <BuildM79GL.jobString>正在制造 M79 GL。</BuildM79GL.jobString>
+
   <BuildMilkorGrenadeLauncher.label>制造 米尔科姆榴弹发射器</BuildMilkorGrenadeLauncher.label>
   <BuildMilkorGrenadeLauncher.description>制造 米尔科姆榴弹发射器,一种半自动多用途转轮式榴弹发射器，拥有大大高于常人的榴弹发射速度。\n 弹药： 40x46mm 榴弹</BuildMilkorGrenadeLauncher.description>
   <BuildMilkorGrenadeLauncher.jobString>正在制造 米尔科姆榴弹发射器。</BuildMilkorGrenadeLauncher.jobString>

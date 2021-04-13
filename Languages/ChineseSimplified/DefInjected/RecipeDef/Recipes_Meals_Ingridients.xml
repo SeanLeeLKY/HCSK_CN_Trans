@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Makecheese.label>制作 芝士</Makecheese.label>
+  <Makecheese.description>将各种奶或者奶的代制品制成芝士。 \n\n产出：4。</Makecheese.description>
+  <Makecheese.jobString>正在制作 芝士。</Makecheese.jobString>
+
   <MeltSugar.label>融炼 糖分物质</MeltSugar.label>
   <MeltSugar.description>把糖分物质煮沸提炼，制作成为糖的替代品。 \n\n产出：5。</MeltSugar.description>
   <MeltSugar.jobString>正在提炼 糖分物质。</MeltSugar.jobString>
@@ -33,13 +37,13 @@
   <MakeCaramel.description>将糖制作成为焦糖。 \n\n产出：3。</MakeCaramel.description>
   <MakeCaramel.jobString>正在制作 焦糖。</MakeCaramel.jobString>
 
+  <MakeIceCream.label>制作 冰淇淋</MakeIceCream.label>
+  <MakeIceCream.description>这东西是怎么做出来的？这儿有冷冻器吗？\n\n产出：3。</MakeIceCream.description>
+  <MakeIceCream.jobString>正在制作 冰淇淋。</MakeIceCream.jobString>
+
   <MakeBread.label>烘焙 大块面包</MakeBread.label>
   <MakeBread.description>烘焙一大块面包。 \n\n产出：2。</MakeBread.description>
   <MakeBread.jobString>正在烘焙 面包。</MakeBread.jobString>
-
-  <Makecheese.label>制作 芝士</Makecheese.label>
-  <Makecheese.description>将各种奶或者奶的代制品制成芝士。 \n\n产出：4。</Makecheese.description>
-  <Makecheese.jobString>正在制作 芝士。</Makecheese.jobString>
 
   <MakeTofu.label>压制 豆腐</MakeTofu.label>
   <MakeTofu.description>将豆类食材转化成豆腐。豆腐可以被用来作为肉的替代品，也可以直接生吃。 \n\n产出：5。</MakeTofu.description>

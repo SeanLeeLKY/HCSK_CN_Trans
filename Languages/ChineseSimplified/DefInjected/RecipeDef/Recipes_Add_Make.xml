@@ -406,6 +406,16 @@
   <Make_VG_Ibuprofen.description>制造 止痛药。</Make_VG_Ibuprofen.description>
   <Make_VG_Ibuprofen.jobString>正在制造 止痛药。</Make_VG_Ibuprofen.jobString>
 
+
+  <!-- Recipe Users: CraftingSpot, DrugLab -->
+
+  <Make_Berserk_herb.label>制造 狂暴草</Make_Berserk_herb.label>
+  <Make_Berserk_herb.description>制造 狂暴草。</Make_Berserk_herb.description>
+  <Make_Berserk_herb.jobString>正在制造 狂暴草。</Make_Berserk_herb.jobString>
+
+
+  <!-- Recipe Users: DrugLab -->
+
   <Make_Neutroamine.label>制造 中性胺</Make_Neutroamine.label>
   <Make_Neutroamine.description>制造 中性胺。</Make_Neutroamine.description>
   <Make_Neutroamine.jobString>正在制造 中性胺。</Make_Neutroamine.jobString>
@@ -632,6 +642,10 @@
   <Make_Apparel_PowerArmor.description>制造 动力装甲。</Make_Apparel_PowerArmor.description>
   <Make_Apparel_PowerArmor.jobString>正在制造 动力装甲。</Make_Apparel_PowerArmor.jobString>
 
+  <Make_Apparel_ArmorRecon.label>制造 侦查装甲</Make_Apparel_ArmorRecon.label>
+  <Make_Apparel_ArmorRecon.description>制造 侦查装甲。</Make_Apparel_ArmorRecon.description>
+  <Make_Apparel_ArmorRecon.jobString>正在制造 侦查装甲。</Make_Apparel_ArmorRecon.jobString>
+
   <Make_Apparello_Steamhull.label>制造 蒸汽护甲</Make_Apparello_Steamhull.label>
   <Make_Apparello_Steamhull.description>制造 蒸汽护甲。</Make_Apparello_Steamhull.description>
   <Make_Apparello_Steamhull.jobString>正在制造 蒸汽护甲。</Make_Apparello_Steamhull.jobString>
@@ -697,6 +711,14 @@
   <Make_Apparello_Docteur.label>制造 外科面罩</Make_Apparello_Docteur.label>
   <Make_Apparello_Docteur.description>制造 外科面罩。</Make_Apparello_Docteur.description>
   <Make_Apparello_Docteur.jobString>正在制造 外科面罩。</Make_Apparello_Docteur.jobString>
+
+  <Make_Tactical_Helmet.label>制造 战术头盔</Make_Tactical_Helmet.label>
+  <Make_Tactical_Helmet.description>制造 战术头盔。</Make_Tactical_Helmet.description>
+  <Make_Tactical_Helmet.jobString>正在制造 战术头盔。</Make_Tactical_Helmet.jobString>
+
+  <Make_WeldingHelmet.label>制造 焊接头盔</Make_WeldingHelmet.label>
+  <Make_WeldingHelmet.description>制造 焊接头盔。</Make_WeldingHelmet.description>
+  <Make_WeldingHelmet.jobString>正在制造 焊接头盔。</Make_WeldingHelmet.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
@@ -1180,6 +1202,14 @@
   <Make_PotteryDisplay.label>制造 陶艺展示架</Make_PotteryDisplay.label>
   <Make_PotteryDisplay.description>制造 陶艺展示架。</Make_PotteryDisplay.description>
   <Make_PotteryDisplay.jobString>正在制造 陶艺展示架。</Make_PotteryDisplay.jobString>
+
+  <Make_CatArt.label>制造 猫咪雕塑</Make_CatArt.label>
+  <Make_CatArt.description>制造 猫咪雕塑。</Make_CatArt.description>
+  <Make_CatArt.jobString>正在制造 猫咪雕塑。</Make_CatArt.jobString>
+
+  <Make_GlowstoneArt.label>制造 萤石雕塑</Make_GlowstoneArt.label>
+  <Make_GlowstoneArt.description>制造 萤石雕塑。</Make_GlowstoneArt.description>
+  <Make_GlowstoneArt.jobString>正在制造 萤石雕塑。</Make_GlowstoneArt.jobString>
 
 
   <!-- Recipe Users: TableMachining -->

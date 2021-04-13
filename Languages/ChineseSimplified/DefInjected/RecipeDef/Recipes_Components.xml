@@ -7,6 +7,10 @@
   <Make_ComponentMedieval.description>用木头组装原始零部件。\n\n产出：10。</Make_ComponentMedieval.description>
   <Make_ComponentMedieval.jobString>正在组装零部件。</Make_ComponentMedieval.jobString>
 
+  <Make_ComponentMedievalBronze.label>组装原始零部件（金属材料）</Make_ComponentMedievalBronze.label>
+  <Make_ComponentMedievalBronze.description>用金属组装原始零部件\n\n产出：10。</Make_ComponentMedievalBronze.description>
+  <Make_ComponentMedievalBronze.jobString>正在组装零部件。</Make_ComponentMedievalBronze.jobString>
+
   <Make_ComponentIndustrial.label>组装零部件</Make_ComponentIndustrial.label>
   <Make_ComponentIndustrial.description>将金属加工成零部件。\n\n产出：10。</Make_ComponentIndustrial.description>
   <Make_ComponentIndustrial.jobString>正在组装零部件。</Make_ComponentIndustrial.jobString>
@@ -26,6 +30,10 @@
   <MakeWires_Hand.label>制造电线</MakeWires_Hand.label>
   <MakeWires_Hand.description>用高导电率的金属制造电线。缓慢的制造速度。 \n\n产出：20。</MakeWires_Hand.description>
   <MakeWires_Hand.jobString>正在制造电线。</MakeWires_Hand.jobString>
+
+  <MakeWires_Electric.label>制造电线</MakeWires_Electric.label>
+  <MakeWires_Electric.description>用高导电率的金属制造电线。很快的制造速度。\n\n产出：40。</MakeWires_Electric.description>
+  <MakeWires_Electric.jobString>正在制造电线。</MakeWires_Electric.jobString>
 
   <MakeSand_Hand.label>将碎石碾磨成沙子</MakeSand_Hand.label>
   <MakeSand_Hand.description>将碎石碾磨成沙子。 缓慢的制造速度。 \n\n产出：25。</MakeSand_Hand.description>

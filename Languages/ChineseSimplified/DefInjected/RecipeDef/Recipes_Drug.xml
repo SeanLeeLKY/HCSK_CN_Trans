@@ -5,5 +5,9 @@
   <VG_BulkIbuprofen.description>批量制造布洛芬。</VG_BulkIbuprofen.description>
   <VG_BulkIbuprofen.jobString>正在制造布洛芬。</VG_BulkIbuprofen.jobString>
 
+  <MakeActivatedCarbon.label>制造 活性炭</MakeActivatedCarbon.label>
+  <MakeActivatedCarbon.description>用炭制造活性炭丸。产出：9。</MakeActivatedCarbon.description>
+  <MakeActivatedCarbon.jobString>正在制造活性炭。</MakeActivatedCarbon.jobString>
+
 
 </LanguageData>

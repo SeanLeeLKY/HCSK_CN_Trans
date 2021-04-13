@@ -29,13 +29,6 @@
   <ConvertToAluminium.jobString>正在将无机物转化为 铝土矿。</ConvertToAluminium.jobString>
 
 
-  <!-- manganese -->
-
- <!--  <ConvertToPyrolusite.label>转化为 软锰矿</ConvertToPyrolusite.label>
-  <ConvertToPyrolusite.description>将无机物转化为 软锰矿。 \n\n产出：3。</ConvertToPyrolusite.description>
-  <ConvertToPyrolusite.jobString>正在将无机物转化为 软锰矿。</ConvertToPyrolusite.jobString>
- -->
-
   <!-- Nickel -->
 
   <ConvertToNickel.label>转化为 镍矿石</ConvertToNickel.label>
@@ -84,5 +77,25 @@
   <ConvertToPolymers.description>将无机物转化为 聚合物。 \n\n产出：10。</ConvertToPolymers.description>
   <ConvertToPolymers.jobString>正在将无机物转化为 聚合物。</ConvertToPolymers.jobString>
 
+
+  <!-- Paraffins -->
+
+  <ConvertToParaffins.label>转化为 石蜡</ConvertToParaffins.label>
+  <ConvertToParaffins.description>将无机物转化为 石蜡。\n\n产出：10。</ConvertToParaffins.description>
+  <ConvertToParaffins.jobString>正在将无机物转化为 石蜡。</ConvertToParaffins.jobString>
+
+
+  <!-- Sulphates -->
+
+  <ConvertToSulphates.label>转化为 硫酸盐</ConvertToSulphates.label>
+  <ConvertToSulphates.description>将无机物转化为 硫酸盐。\n\n产出：10。</ConvertToSulphates.description>
+  <ConvertToSulphates.jobString>正在将无机物转化为 硫酸盐。</ConvertToSulphates.jobString>
+
+
+  <!-- manganese -->
+  <!--  <ConvertToPyrolusite.label>转化为 软锰矿</ConvertToPyrolusite.label>
+  <ConvertToPyrolusite.description>将无机物转化为 软锰矿。 \n\n产出：3。</ConvertToPyrolusite.description>
+  <ConvertToPyrolusite.jobString>正在将无机物转化为 软锰矿。</ConvertToPyrolusite.jobString>
+ -->
 
 </LanguageData>

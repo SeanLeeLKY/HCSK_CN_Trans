@@ -10,9 +10,9 @@
 
   <!-- Wort -->
 
-  <MakeWort.label>酿造 麦芽汁</MakeWort.label>
-  <MakeWort.description>使用啤酒花制作麦芽汁。 \n\n产出：10。</MakeWort.description>
-  <MakeWort.jobString>正在酿造 麦芽汁。</MakeWort.jobString>
+  <Make_Wort.label>酿造 麦芽汁</Make_Wort.label>
+  <Make_Wort.description>使用啤酒花制作麦芽汁。 \n\n产出：10。</Make_Wort.description>
+  <Make_Wort.jobString>正在酿造 麦芽汁。</Make_Wort.jobString>
 
 
   <!-- Grain Mash -->
@@ -70,5 +70,9 @@
   <Makewinemash.description>使用葡萄酿造葡萄原浆。 \n\n产出：10。</Makewinemash.description>
   <Makewinemash.jobString>正在酿造 葡萄原浆。</Makewinemash.jobString>
 
+
+  <!--<MakeWort.label>酿造 麦芽汁</MakeWort.label>-->
+  <!--<MakeWort.description>使用啤酒花制作麦芽汁。 \n\n产出：10。</MakeWort.description>-->
+  <!--<MakeWort.jobString>正在酿造 麦芽汁。</MakeWort.jobString>-->
 
 </LanguageData>

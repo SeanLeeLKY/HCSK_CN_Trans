@@ -17,13 +17,9 @@
   <ButcherCorpseFlesh.description>屠宰尸体以获取可用的肉。</ButcherCorpseFlesh.description>
   <ButcherCorpseFlesh.jobString>正在屠宰。</ButcherCorpseFlesh.jobString>
 
-  <MakeStoneBlocksAny.label>制作 石砖</MakeStoneBlocksAny.label>
-  <MakeStoneBlocksAny.description>将岩石块切割成可用的石块。 \n\n产出：20 沙子和 5 碎石以及相应的石砖。</MakeStoneBlocksAny.description>
-  <MakeStoneBlocksAny.jobString>正在切割石材。</MakeStoneBlocksAny.jobString>
-
-  <MakeStoneBlocks_Electric.label>制作 石砖</MakeStoneBlocks_Electric.label>
-  <MakeStoneBlocks_Electric.description>将岩石块切割成可用的石块。 \n\n产出：20 沙子和 5 碎石以及相应的石砖。</MakeStoneBlocks_Electric.description>
-  <MakeStoneBlocks_Electric.jobString>正在切割石材。</MakeStoneBlocks_Electric.jobString>
+  <Make_StoneBlocksAny.label>切割 石砖</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.description>将岩石块切割成可用的石块。</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.jobString>正在切割石材。</Make_StoneBlocksAny.jobString>
 
   <ExtractBiomatterCorpse.label>提取 生物质（人类尸体）</ExtractBiomatterCorpse.label>
   <ExtractBiomatterCorpse.description>从人类尸体中提取生物质。 \n\n产出：35。</ExtractBiomatterCorpse.description>
@@ -36,9 +32,19 @@
 
   <!-- SOYLENT GREEN -->
 
-  <makesoylentgreen.label>提取 绿色营养物质</makesoylentgreen.label>
-  <makesoylentgreen.description>从人类生物的尸体中提取高质量营养物质。 \n\n产出：45。</makesoylentgreen.description>
-  <makesoylentgreen.jobString>正在提取绿色营养物质。</makesoylentgreen.jobString>
+  <Make_SoylentGreen.label>提取 绿色营养物质</Make_SoylentGreen.label>
+  <Make_SoylentGreen.description>从人类生物的尸体中提取高质量营养物质。 \n\n产出：45。</Make_SoylentGreen.description>
+  <Make_SoylentGreen.jobString>正在提取绿色营养物质。</Make_SoylentGreen.jobString>
 
+
+  <!--<MakeStoneBlocksAny.label>制作 石砖</MakeStoneBlocksAny.label>-->
+  <!--<MakeStoneBlocksAny.description>将岩石块切割成可用的石块。 \n\n产出：20 沙子和 5 碎石以及相应的石砖。</MakeStoneBlocksAny.description>-->
+  <!--<MakeStoneBlocksAny.jobString>正在切割石材。</MakeStoneBlocksAny.jobString>-->
+  <!--<MakeStoneBlocks_Electric.label>制作 石砖</MakeStoneBlocks_Electric.label>-->
+  <!--<MakeStoneBlocks_Electric.description>将岩石块切割成可用的石块。 \n\n产出：20 沙子和 5 碎石以及相应的石砖。</MakeStoneBlocks_Electric.description>-->
+  <!--<MakeStoneBlocks_Electric.jobString>正在切割石材。</MakeStoneBlocks_Electric.jobString>-->
+  <!--<makesoylentgreen.label>提取 绿色营养物质</makesoylentgreen.label>-->
+  <!--<makesoylentgreen.description>从人类生物的尸体中提取高质量营养物质。 \n\n产出：45。</makesoylentgreen.description>-->
+  <!--<makesoylentgreen.jobString>正在提取绿色营养物质。</makesoylentgreen.jobString>-->
 
 </LanguageData>

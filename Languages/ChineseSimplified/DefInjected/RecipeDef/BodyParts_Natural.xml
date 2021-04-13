@@ -7,6 +7,14 @@
   <InstallNaturalEye.description>安装 眼睛。</InstallNaturalEye.description>
   <InstallNaturalEye.jobString>正在安装 眼睛。</InstallNaturalEye.jobString>
 
+  <InstallNaturalEar.label>安装 耳朵</InstallNaturalEar.label>
+  <InstallNaturalEar.description>安装 耳朵。</InstallNaturalEar.description>
+  <InstallNaturalEar.jobString>正在安装耳朵。</InstallNaturalEar.jobString>
+
+  <InstallNaturalNose.label>安装 鼻子</InstallNaturalNose.label>
+  <InstallNaturalNose.description>安装 鼻子。</InstallNaturalNose.description>
+  <InstallNaturalNose.jobString>正在安装鼻子。</InstallNaturalNose.jobString>
+
   <InstallNaturalHeart.label>安装 心脏</InstallNaturalHeart.label>
   <InstallNaturalHeart.description>安装 心脏。</InstallNaturalHeart.description>
   <InstallNaturalHeart.jobString>正在安装 心脏。</InstallNaturalHeart.jobString>
