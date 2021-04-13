@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 马 -->
+  <!-- Horses -->
 
   <Horse.label>马</Horse.label>
   <Horse.labelPlural>马</Horse.labelPlural>
@@ -29,31 +29,33 @@
   <Horse.labelFemalePlural>母马</Horse.labelFemalePlural>
 
 
-  <!-- 长鬃马 -->
+  <!-- Woolly Horse -->
 
-  <WoolyHorse.label>长鬃马</WoolyHorse.label>
-  <WoolyHorse.labelPlural>长鬃马</WoolyHorse.labelPlural>
-  <WoolyHorse.lifeStages.0.label>长鬃马</WoolyHorse.lifeStages.0.label>
-  <WoolyHorse.lifeStages.0.labelPlural>长鬃马</WoolyHorse.lifeStages.0.labelPlural>
-  <WoolyHorse.lifeStages.0.labelMale>长鬃马马驹</WoolyHorse.lifeStages.0.labelMale>
-  <WoolyHorse.lifeStages.0.labelMalePlural>长鬃马马驹</WoolyHorse.lifeStages.0.labelMalePlural>
-  <WoolyHorse.lifeStages.0.labelFemale>长鬃马小母马</WoolyHorse.lifeStages.0.labelFemale>
-  <WoolyHorse.lifeStages.0.labelFemalePlural>长鬃马小母马</WoolyHorse.lifeStages.0.labelFemalePlural>
-  <WoolyHorse.lifeStages.1.label>长鬃马</WoolyHorse.lifeStages.1.label>
-  <WoolyHorse.lifeStages.1.labelPlural>长鬃马</WoolyHorse.lifeStages.1.labelPlural>
-  <WoolyHorse.lifeStages.1.labelMale>长鬃马马驹</WoolyHorse.lifeStages.1.labelMale>
-  <WoolyHorse.lifeStages.1.labelMalePlural>长鬃马马驹</WoolyHorse.lifeStages.1.labelMalePlural>
-  <WoolyHorse.lifeStages.1.labelFemale>长鬃马小母马</WoolyHorse.lifeStages.1.labelFemale>
-  <WoolyHorse.lifeStages.1.labelFemalePlural>长鬃马小母马</WoolyHorse.lifeStages.1.labelFemalePlural>
-  <WoolyHorse.lifeStages.2.label>长鬃马</WoolyHorse.lifeStages.2.label>
-  <WoolyHorse.lifeStages.2.labelPlural>长鬃马</WoolyHorse.lifeStages.2.labelPlural>
-  <WoolyHorse.lifeStages.2.labelMale>长鬃马公马</WoolyHorse.lifeStages.2.labelMale>
-  <WoolyHorse.lifeStages.2.labelMalePlural>雄性长鬃马</WoolyHorse.lifeStages.2.labelMalePlural>
-  <WoolyHorse.lifeStages.2.labelFemale>长鬃马母马</WoolyHorse.lifeStages.2.labelFemale>
-  <WoolyHorse.lifeStages.2.labelFemalePlural>雌性长鬃马</WoolyHorse.lifeStages.2.labelFemalePlural>
-  <WoolyHorse.labelMale>长鬃马公马</WoolyHorse.labelMale>
-  <WoolyHorse.labelMalePlural>长鬃马公马</WoolyHorse.labelMalePlural>
-  <WoolyHorse.labelFemale>长鬃马母马</WoolyHorse.labelFemale>
-  <WoolyHorse.labelFemalePlural>长鬃马母马</WoolyHorse.labelFemalePlural>
+  <Horse_Wooly.label>长鬃马</Horse_Wooly.label>
+  <Horse_Wooly.labelPlural>长鬃马</Horse_Wooly.labelPlural>
+  <Horse_Wooly.lifeStages.0.label>长鬃马</Horse_Wooly.lifeStages.0.label>
+  <Horse_Wooly.lifeStages.0.labelPlural>长鬃马</Horse_Wooly.lifeStages.0.labelPlural>
+  <Horse_Wooly.lifeStages.0.labelMale>长鬃马马驹</Horse_Wooly.lifeStages.0.labelMale>
+  <Horse_Wooly.lifeStages.0.labelMalePlural>长鬃马马驹</Horse_Wooly.lifeStages.0.labelMalePlural>
+  <Horse_Wooly.lifeStages.0.labelFemale>长鬃马小母马</Horse_Wooly.lifeStages.0.labelFemale>
+  <Horse_Wooly.lifeStages.0.labelFemalePlural>长鬃马小母马</Horse_Wooly.lifeStages.0.labelFemalePlural>
+  <Horse_Wooly.lifeStages.1.label>长鬃马</Horse_Wooly.lifeStages.1.label>
+  <Horse_Wooly.lifeStages.1.labelPlural>长鬃马</Horse_Wooly.lifeStages.1.labelPlural>
+  <Horse_Wooly.lifeStages.1.labelMale>长鬃马马驹</Horse_Wooly.lifeStages.1.labelMale>
+  <Horse_Wooly.lifeStages.1.labelMalePlural>长鬃马马驹</Horse_Wooly.lifeStages.1.labelMalePlural>
+  <Horse_Wooly.lifeStages.1.labelFemale>长鬃马小母马</Horse_Wooly.lifeStages.1.labelFemale>
+  <Horse_Wooly.lifeStages.1.labelFemalePlural>长鬃马小母马</Horse_Wooly.lifeStages.1.labelFemalePlural>
+  <Horse_Wooly.lifeStages.2.label>长鬃马</Horse_Wooly.lifeStages.2.label>
+  <Horse_Wooly.lifeStages.2.labelPlural>长鬃马</Horse_Wooly.lifeStages.2.labelPlural>
+  <Horse_Wooly.lifeStages.2.labelMale>长鬃马公马</Horse_Wooly.lifeStages.2.labelMale>
+  <Horse_Wooly.lifeStages.2.labelMalePlural>雄性长鬃马</Horse_Wooly.lifeStages.2.labelMalePlural>
+  <Horse_Wooly.lifeStages.2.labelFemale>长鬃马母马</Horse_Wooly.lifeStages.2.labelFemale>
+  <Horse_Wooly.lifeStages.2.labelFemalePlural>雌性长鬃马</Horse_Wooly.lifeStages.2.labelFemalePlural>
+  <Horse_Wooly.labelMale>长鬃马公马</Horse_Wooly.labelMale>
+  <Horse_Wooly.labelMalePlural>长鬃马公马</Horse_Wooly.labelMalePlural>
+  <Horse_Wooly.labelFemale>长鬃马母马</Horse_Wooly.labelFemale>
+  <Horse_Wooly.labelFemalePlural>长鬃马母马</Horse_Wooly.labelFemalePlural>
+
+
 
 </LanguageData>

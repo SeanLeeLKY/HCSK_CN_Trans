@@ -128,30 +128,55 @@
   <Buffalo.labelFemale>雌性水牛</Buffalo.labelFemale>
   <Buffalo.labelFemalePlural>雌性水牛</Buffalo.labelFemalePlural>
 
-  <Rimram.label>绵羊</Rimram.label>
-  <Rimram.labelPlural>绵羊</Rimram.labelPlural>
-  <Rimram.lifeStages.0.label>绵羊</Rimram.lifeStages.0.label>
-  <Rimram.lifeStages.0.labelPlural>绵羊</Rimram.lifeStages.0.labelPlural>
-  <Rimram.lifeStages.0.labelMale>雄性绵羊</Rimram.lifeStages.0.labelMale>
-  <Rimram.lifeStages.0.labelMalePlural>雄性绵羊</Rimram.lifeStages.0.labelMalePlural>
-  <Rimram.lifeStages.0.labelFemale>雌性绵羊</Rimram.lifeStages.0.labelFemale>
-  <Rimram.lifeStages.0.labelFemalePlural>雌性绵羊</Rimram.lifeStages.0.labelFemalePlural>
-  <Rimram.lifeStages.1.label>绵羊</Rimram.lifeStages.1.label>
-  <Rimram.lifeStages.1.labelPlural>绵羊</Rimram.lifeStages.1.labelPlural>
-  <Rimram.lifeStages.1.labelMale>雄性绵羊</Rimram.lifeStages.1.labelMale>
-  <Rimram.lifeStages.1.labelMalePlural>雄性绵羊</Rimram.lifeStages.1.labelMalePlural>
-  <Rimram.lifeStages.1.labelFemale>雌性绵羊</Rimram.lifeStages.1.labelFemale>
-  <Rimram.lifeStages.1.labelFemalePlural>雌性绵羊</Rimram.lifeStages.1.labelFemalePlural>
-  <Rimram.lifeStages.2.label>绵羊</Rimram.lifeStages.2.label>
-  <Rimram.lifeStages.2.labelPlural>绵羊</Rimram.lifeStages.2.labelPlural>
-  <Rimram.lifeStages.2.labelMale>雄性绵羊</Rimram.lifeStages.2.labelMale>
-  <Rimram.lifeStages.2.labelMalePlural>雄性绵羊</Rimram.lifeStages.2.labelMalePlural>
-  <Rimram.lifeStages.2.labelFemale>雌性绵羊</Rimram.lifeStages.2.labelFemale>
-  <Rimram.lifeStages.2.labelFemalePlural>雌性绵羊</Rimram.lifeStages.2.labelFemalePlural>
-  <Rimram.labelMale>雄性绵羊</Rimram.labelMale>
-  <Rimram.labelMalePlural>雄性绵羊</Rimram.labelMalePlural>
-  <Rimram.labelFemale>雌性绵羊</Rimram.labelFemale>
-  <Rimram.labelFemalePlural>雌性绵羊</Rimram.labelFemalePlural>
+  <Sheep.label>绵羊</Sheep.label>
+  <Sheep.labelPlural>绵羊</Sheep.labelPlural>
+  <Sheep.lifeStages.0.label>羊羔</Sheep.lifeStages.0.label>
+  <Sheep.lifeStages.0.labelPlural>羊羔</Sheep.lifeStages.0.labelPlural>
+  <Sheep.lifeStages.0.labelMale>雄性羊羔</Sheep.lifeStages.0.labelMale>
+  <Sheep.lifeStages.0.labelMalePlural>雄性羊羔</Sheep.lifeStages.0.labelMalePlural>
+  <Sheep.lifeStages.0.labelFemale>雌性羊羔</Sheep.lifeStages.0.labelFemale>
+  <Sheep.lifeStages.0.labelFemalePlural>雌性羊羔</Sheep.lifeStages.0.labelFemalePlural>
+  <Sheep.lifeStages.1.label>绵羊</Sheep.lifeStages.1.label>
+  <Sheep.lifeStages.1.labelPlural>绵羊</Sheep.lifeStages.1.labelPlural>
+  <Sheep.lifeStages.1.labelMale>公羊</Sheep.lifeStages.1.labelMale>
+  <Sheep.lifeStages.1.labelMalePlural>雄性绵羊</Sheep.lifeStages.1.labelMalePlural>
+  <Sheep.lifeStages.1.labelFemale>母羊</Sheep.lifeStages.1.labelFemale>
+  <Sheep.lifeStages.1.labelFemalePlural>雌性绵羊</Sheep.lifeStages.1.labelFemalePlural>
+  <Sheep.lifeStages.2.label>绵羊</Sheep.lifeStages.2.label>
+  <Sheep.lifeStages.2.labelPlural>绵羊</Sheep.lifeStages.2.labelPlural>
+  <Sheep.lifeStages.2.labelMale>公羊</Sheep.lifeStages.2.labelMale>
+  <Sheep.lifeStages.2.labelMalePlural>雄性绵羊</Sheep.lifeStages.2.labelMalePlural>
+  <Sheep.lifeStages.2.labelFemale>母羊</Sheep.lifeStages.2.labelFemale>
+  <Sheep.lifeStages.2.labelFemalePlural>雌性绵羊</Sheep.lifeStages.2.labelFemalePlural>
+  <Sheep.labelMale>公羊</Sheep.labelMale>
+  <Sheep.labelMalePlural>雄性绵羊</Sheep.labelMalePlural>
+  <Sheep.labelFemale>母羊</Sheep.labelFemale>
+  <Sheep.labelFemalePlural>雌性绵羊</Sheep.labelFemalePlural>
 
+
+  <!--<Rimram.label>绵羊</Rimram.label>-->
+  <!--<Rimram.labelPlural>绵羊</Rimram.labelPlural>-->
+  <!--<Rimram.lifeStages.0.label>绵羊</Rimram.lifeStages.0.label>-->
+  <!--<Rimram.lifeStages.0.labelPlural>绵羊</Rimram.lifeStages.0.labelPlural>-->
+  <!--<Rimram.lifeStages.0.labelMale>雄性绵羊</Rimram.lifeStages.0.labelMale>-->
+  <!--<Rimram.lifeStages.0.labelMalePlural>雄性绵羊</Rimram.lifeStages.0.labelMalePlural>-->
+  <!--<Rimram.lifeStages.0.labelFemale>雌性绵羊</Rimram.lifeStages.0.labelFemale>-->
+  <!--<Rimram.lifeStages.0.labelFemalePlural>雌性绵羊</Rimram.lifeStages.0.labelFemalePlural>-->
+  <!--<Rimram.lifeStages.1.label>绵羊</Rimram.lifeStages.1.label>-->
+  <!--<Rimram.lifeStages.1.labelPlural>绵羊</Rimram.lifeStages.1.labelPlural>-->
+  <!--<Rimram.lifeStages.1.labelMale>雄性绵羊</Rimram.lifeStages.1.labelMale>-->
+  <!--<Rimram.lifeStages.1.labelMalePlural>雄性绵羊</Rimram.lifeStages.1.labelMalePlural>-->
+  <!--<Rimram.lifeStages.1.labelFemale>雌性绵羊</Rimram.lifeStages.1.labelFemale>-->
+  <!--<Rimram.lifeStages.1.labelFemalePlural>雌性绵羊</Rimram.lifeStages.1.labelFemalePlural>-->
+  <!--<Rimram.lifeStages.2.label>绵羊</Rimram.lifeStages.2.label>-->
+  <!--<Rimram.lifeStages.2.labelPlural>绵羊</Rimram.lifeStages.2.labelPlural>-->
+  <!--<Rimram.lifeStages.2.labelMale>雄性绵羊</Rimram.lifeStages.2.labelMale>-->
+  <!--<Rimram.lifeStages.2.labelMalePlural>雄性绵羊</Rimram.lifeStages.2.labelMalePlural>-->
+  <!--<Rimram.lifeStages.2.labelFemale>雌性绵羊</Rimram.lifeStages.2.labelFemale>-->
+  <!--<Rimram.lifeStages.2.labelFemalePlural>雌性绵羊</Rimram.lifeStages.2.labelFemalePlural>-->
+  <!--<Rimram.labelMale>雄性绵羊</Rimram.labelMale>-->
+  <!--<Rimram.labelMalePlural>雄性绵羊</Rimram.labelMalePlural>-->
+  <!--<Rimram.labelFemale>雌性绵羊</Rimram.labelFemale>-->
+  <!--<Rimram.labelFemalePlural>雌性绵羊</Rimram.labelFemalePlural>-->
 
 </LanguageData>

@@ -83,6 +83,13 @@
 
   <!-- Leader -->
 
+  <FeralBomb.label>炸弹手</FeralBomb.label>
+  <FeralBomb.labelPlural>炸弹手</FeralBomb.labelPlural>
+  <FeralBomb.labelMale>男性炸弹手</FeralBomb.labelMale>
+  <FeralBomb.labelMalePlural>男性炸弹手</FeralBomb.labelMalePlural>
+  <FeralBomb.labelFemale>女性炸弹手</FeralBomb.labelFemale>
+  <FeralBomb.labelFemalePlural>女性炸弹手</FeralBomb.labelFemalePlural>
+
   <FeralLeader.label>头目</FeralLeader.label>
   <FeralLeader.labelPlural>头目</FeralLeader.labelPlural>
   <FeralLeader.labelMale>男性头目</FeralLeader.labelMale>
