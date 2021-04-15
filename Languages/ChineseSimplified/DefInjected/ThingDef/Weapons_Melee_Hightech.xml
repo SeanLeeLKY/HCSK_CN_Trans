@@ -26,5 +26,10 @@
   <MeleeWeapon_Sledgehammer.tools.0.label>握把</MeleeWeapon_Sledgehammer.tools.0.label>
   <MeleeWeapon_Sledgehammer.tools.1.label>头</MeleeWeapon_Sledgehammer.tools.1.label>
 
+  <MeleeWeapon_ScytherBlade.label>飞螳镰刃</MeleeWeapon_ScytherBlade.label>
+  <MeleeWeapon_ScytherBlade.description>机械族近战武器。</MeleeWeapon_ScytherBlade.description>
+  <MeleeWeapon_ScytherBlade.tools.0.label>尖</MeleeWeapon_ScytherBlade.tools.0.label>
+  <MeleeWeapon_ScytherBlade.tools.1.label>刃</MeleeWeapon_ScytherBlade.tools.1.label>
+
 
 </LanguageData>
