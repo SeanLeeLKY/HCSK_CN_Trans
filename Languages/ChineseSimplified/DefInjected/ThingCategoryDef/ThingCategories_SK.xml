@@ -48,13 +48,13 @@
   <!-- HARDCORE SK CATEGORIES start -->
 
   <Metallic.label>金属合金</Metallic.label>
-  <HCMBar.label>高传导率</HCMBar.label>
-  <PRSBar.label>贵重</PRSBar.label>
-  <SLDBar.label>硬质</SLDBar.label>
-  <HeavyBar.label>重质</HeavyBar.label>
-  <USLDBar.label>高硬质</USLDBar.label>
-  <USLDHBar.label>高硬重质</USLDHBar.label>
-  <RARBar.label>稀有</RARBar.label>
+  <HCMBar.label>高传导率金属</HCMBar.label>
+  <PRSBar.label>贵金属</PRSBar.label>
+  <SLDBar.label>硬质金属</SLDBar.label>
+  <HeavyBar.label>重质金属</HeavyBar.label>
+  <USLDBar.label>高硬质金属</USLDBar.label>
+  <USLDHBar.label>高硬重质金属</USLDHBar.label>
+  <RARBar.label>稀有金属</RARBar.label>
   <RADBar.label>放射性</RADBar.label>
   <Ceramic.label>陶瓷</Ceramic.label>
   <ConstructionParts.label>建筑</ConstructionParts.label>

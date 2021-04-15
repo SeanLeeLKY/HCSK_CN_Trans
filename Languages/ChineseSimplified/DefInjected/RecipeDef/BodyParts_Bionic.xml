@@ -56,7 +56,7 @@
   <InstallBrainStimulator.jobString>正在安装 脑激励器。</InstallBrainStimulator.jobString>
 
 
-  <RemoveBrainStimulator.label>移除脑激励器</RemoveBrainStimulator.label>
+  <RemoveBrainStimulator.label>移除 脑激励器</RemoveBrainStimulator.label>
   <RemoveBrainStimulator.description>移除脑激励器。</RemoveBrainStimulator.description>
   <RemoveBrainStimulator.jobString>正在移除脑激励器。</RemoveBrainStimulator.jobString>
   <RemoveBrainStimulator.successfullyRemovedHediffMessage>{0}已成功移除{1}的脑激励器。</RemoveBrainStimulator.successfullyRemovedHediffMessage>
@@ -65,7 +65,7 @@
   <InstallAIChip.description>安装 AI芯片。</InstallAIChip.description>
   <InstallAIChip.jobString>正在安装 AI芯片。</InstallAIChip.jobString>
 
-  <RemoveAIChip.label>移除AI芯片</RemoveAIChip.label>
+  <RemoveAIChip.label>移除 AI芯片</RemoveAIChip.label>
   <RemoveAIChip.description>移除AI芯片。</RemoveAIChip.description>
   <RemoveAIChip.jobString>正在移除AI芯片。</RemoveAIChip.jobString>
   <RemoveAIChip.successfullyRemovedHediffMessage>{0}已成功移除{1}的AI芯片。</RemoveAIChip.successfullyRemovedHediffMessage>

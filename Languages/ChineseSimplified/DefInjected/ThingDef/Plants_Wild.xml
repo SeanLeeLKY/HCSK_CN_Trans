@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Plant_Moss.label>moss</Plant_Moss.label>
-  <Plant_Moss.description>Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant.</Plant_Moss.description>
+  <Plant_Moss.label>苔藓</Plant_Moss.label>
+  <Plant_Moss.description>一种野生苔藓，在潮湿阴暗的环境下成片生长。适应性强并且十分耐寒。</Plant_Moss.description>
 
-  <Plant_ShrubLow.label>low shrubs</Plant_ShrubLow.label>
-  <Plant_ShrubLow.description>Low broadleaf shrubs. These grow in clusters and slow down movement somewhat.</Plant_ShrubLow.description>
+  <Plant_ShrubLow.label>矮灌木</Plant_ShrubLow.label>
+  <Plant_ShrubLow.description>低矮的阔叶灌木。它们成群生长，会稍微减缓运动速度。</Plant_ShrubLow.description>
 
-  <Plant_Chokevine.label>chokevine</Plant_Chokevine.label>
-  <Plant_Chokevine.description>Dense shrub which slows down anyone moving over it.</Plant_Chokevine.description>
+  <Plant_Chokevine.label>勒藤</Plant_Chokevine.label>
+  <Plant_Chokevine.description>缠绕在一起的大量的绳状、尖刺的藤蔓植物，它们攀缘在地面上。勒藤会使所有从它身上走过的生物降低移动速度。多个部落无关地流传着孩子们夜晚被它勒住窒息死亡的故事，作为一种吓唬小孩子让他们在天黑之前回家的方式来说非常管用。</Plant_Chokevine.description>
 
-  <Plant_Brambles.label>brambles</Plant_Brambles.label>
-  <Plant_Brambles.description>Tangled, thorny, woody shoots covered with leaves. Slows down anyone moving over it a little bit.</Plant_Brambles.description>
+  <Plant_Brambles.label>荆棘</Plant_Brambles.label>
+  <Plant_Brambles.description>布满叶子的缠结带棘的小灌木。从上面走过时速度会变慢一点点。</Plant_Brambles.description>
 
-  <Plant_Fern.label>fern</Plant_Fern.label>
-  <Plant_Fern.description>A soft, leafy plant that reproduces using spores.</Plant_Fern.description>
+  <Plant_Fern.label>蕨</Plant_Fern.label>
+  <Plant_Fern.description>一种利用孢子繁殖的多叶柔软植物，。</Plant_Fern.description>
 
-  <Plant_Bromeliad.label>bromeliad</Plant_Bromeliad.label>
-  <Plant_Bromeliad.description>A plant adapted to warm climates. It can grow on thin soil and traps water in its leaves.</Plant_Bromeliad.description>
+  <Plant_Bromeliad.label>凤梨</Plant_Bromeliad.label>
+  <Plant_Bromeliad.description>一种适应温暖气候的植物。它可以生长在薄土层，并将水分储存在叶子里。</Plant_Bromeliad.description>
 
-  <Plant_Hosta.label>hosta</Plant_Hosta.label>
-  <Plant_Hosta.description>An attractive shade-tolerant plant.</Plant_Hosta.description>
+  <Plant_Hosta.label>玉簪</Plant_Hosta.label>
+  <Plant_Hosta.description>一种漂亮的耐阴植物。</Plant_Hosta.description>
 
 
   <!-- Grass -->

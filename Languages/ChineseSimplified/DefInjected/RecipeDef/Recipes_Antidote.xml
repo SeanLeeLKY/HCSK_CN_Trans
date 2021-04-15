@@ -9,7 +9,7 @@
   <MakeAntidoteSafe.description>使用毒腺制造安全解毒剂。产出：1。</MakeAntidoteSafe.description>
   <MakeAntidoteSafe.jobString>正在制造 安全解毒剂</MakeAntidoteSafe.jobString>
 
-  <EnterBasicAntidote.label>移除毒素</EnterBasicAntidote.label>
+  <EnterBasicAntidote.label>移除 毒素</EnterBasicAntidote.label>
   <EnterBasicAntidote.description>清除体内毒素。中毒的伤口可能会添加新毒素。</EnterBasicAntidote.description>
   <EnterBasicAntidote.jobString>正在移除 毒素</EnterBasicAntidote.jobString>
 
