@@ -302,11 +302,11 @@
   <SteleGrand_Frame.label>宏伟石碑（建造中）</SteleGrand_Frame.label>
   <SteleGrand_Frame.description>周围有大量雕刻的高耸石板。石碑自古以来都被用于纪念人物、战役或者其他重要事件。</SteleGrand_Frame.description>
 
-  <GlowstoneMonument.label>glowstone monument</GlowstoneMonument.label>
-  <GlowstoneMonument.description>This stunning statue is made from beautifully cut glowstone, it is perfectly crystal shaped and it emits a bright light.</GlowstoneMonument.description>
-  <GlowstoneMonument_Blueprint.label>glowstone monument (blueprint)</GlowstoneMonument_Blueprint.label>
-  <GlowstoneMonument_Frame.label>glowstone monument (building)</GlowstoneMonument_Frame.label>
-  <GlowstoneMonument_Frame.description>This stunning statue is made from beautifully cut glowstone, it is perfectly crystal shaped and it emits a bright light.</GlowstoneMonument_Frame.description>
+  <GlowstoneMonument.label>萤石纪念碑</GlowstoneMonument.label>
+  <GlowstoneMonument.description>这座令人惊艳的纪念碑由切割精美的萤石制成，它呈现完美的水晶形状，发出明亮的光线。</GlowstoneMonument.description>
+  <GlowstoneMonument_Blueprint.label>萤石纪念碑（蓝图）</GlowstoneMonument_Blueprint.label>
+  <GlowstoneMonument_Frame.label>萤石纪念碑（建造中）</GlowstoneMonument_Frame.label>
+  <GlowstoneMonument_Frame.description>这座令人惊艳的纪念碑由切割精美的萤石制成，它呈现完美的水晶形状，发出明亮的光线。</GlowstoneMonument_Frame.description>
 
 
   <!--<CounterTopModular_Blueprint.label>实验室柜台 (蓝图)</CounterTopModular_Blueprint.label>-->

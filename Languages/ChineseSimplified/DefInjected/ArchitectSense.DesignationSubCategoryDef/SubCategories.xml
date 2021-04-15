@@ -372,8 +372,8 @@
   <SubCategory_CheckeredCarpet.label>棋布风格</SubCategory_CheckeredCarpet.label>
   <SubCategory_CheckeredCarpet.description>棋盘图案风格。</SubCategory_CheckeredCarpet.description>
 
-  <SubCategory_VanillaFloor.label>硬化石材风格</SubCategory_VanillaFloor.label>
-  <SubCategory_VanillaFloor.description>城堡石板风格。</SubCategory_VanillaFloor.description>
+  <SubCategory_VanillaFloor.label>石砖风格</SubCategory_VanillaFloor.label>
+  <SubCategory_VanillaFloor.description>城堡石砖风格。</SubCategory_VanillaFloor.description>
 
   <SubCategory_Flagstone.label>粗切石板</SubCategory_Flagstone.label>
   <SubCategory_Flagstone.description>粗切的石砖。虽然不怎么漂亮，但是它却是用于道路和室外人行道的最佳选择。 拆除石板不会产生资源。</SubCategory_Flagstone.description>
@@ -384,14 +384,14 @@
   <SubCategory_StoneSlabs.label>石板风格</SubCategory_StoneSlabs.label>
   <SubCategory_StoneSlabs.description>方坯石材风格地板。</SubCategory_StoneSlabs.description>
 
-  <SubCategory_StoneHexPaving.label>石路风格</SubCategory_StoneHexPaving.label>
+  <SubCategory_StoneHexPaving.label>六角石板风格</SubCategory_StoneHexPaving.label>
   <SubCategory_StoneHexPaving.description>六角铺石风格。</SubCategory_StoneHexPaving.description>
 
   <SubCategory_StoneMosaicPaving.label>马赛克风格</SubCategory_StoneMosaicPaving.label>
   <SubCategory_StoneMosaicPaving.description>马赛克风格。</SubCategory_StoneMosaicPaving.description>
 
-  <SubCategory_StoneRoughPaving.label>粗石面风格</SubCategory_StoneRoughPaving.label>
-  <SubCategory_StoneRoughPaving.description>粗石面风格。</SubCategory_StoneRoughPaving.description>
+  <SubCategory_StoneRoughPaving.label>粗犷风格</SubCategory_StoneRoughPaving.label>
+  <SubCategory_StoneRoughPaving.description>粗犷风格。</SubCategory_StoneRoughPaving.description>
 
   <SubCategory_StoneRandomPaving.label>自然石面风格</SubCategory_StoneRandomPaving.label>
   <SubCategory_StoneRandomPaving.description>自然石面风格。</SubCategory_StoneRandomPaving.description>
