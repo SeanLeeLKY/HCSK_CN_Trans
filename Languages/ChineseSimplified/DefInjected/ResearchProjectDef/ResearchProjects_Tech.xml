@@ -438,8 +438,8 @@
 
   <!-- NanoStorage -->
 
-  <Cryptosleep.label>cryptosleep casket</Cryptosleep.label>
-  <Cryptosleep.description>Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation.</Cryptosleep.description>
+  <Cryptosleep.label>低温休眠舱</Cryptosleep.label>
+  <Cryptosleep.description>解锁建造「低温休眠舱」，可使其内的生命体进入生理上的暂停状态。</Cryptosleep.description>
 
   <SK_NanotechnologyII.label>纳米复制</SK_NanotechnologyII.label>
   <SK_NanotechnologyII.description>研究突破纳米级别的物品再造能力。解锁建造纳米打印设备和纳米扫描设备。当一个物品经过深度纳米机构扫描后，可以将数据资料输出到纳米打印设备并通过消耗一定资源将其复制出来。</SK_NanotechnologyII.description>
