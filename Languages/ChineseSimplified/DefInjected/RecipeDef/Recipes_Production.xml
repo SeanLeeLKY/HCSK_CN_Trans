@@ -11,7 +11,7 @@
 
   <MakeWoodPlanks_Electric.label>加工 木板</MakeWoodPlanks_Electric.label>
   <MakeWoodPlanks_Electric.description>将原木加工成为板材。 较高的工作效率。 \n\n产出：30。</MakeWoodPlanks_Electric.description>
-  <MakeWoodPlanks_Electric.jobString>正在加工 木板。。</MakeWoodPlanks_Electric.jobString>
+  <MakeWoodPlanks_Electric.jobString>正在加工 木板。</MakeWoodPlanks_Electric.jobString>
 
   <MakeBambooPlanks_Hand.label>加工 竹板</MakeBambooPlanks_Hand.label>
   <MakeBambooPlanks_Hand.description>将竹子加工成竹板。较低的工作效率。 \n\n产出：15。</MakeBambooPlanks_Hand.description>
@@ -86,15 +86,15 @@
   <MakeSilicon_Electric.jobString>正在提炼 硅。</MakeSilicon_Electric.jobString>
 
   <make_dirt.label>制作 泥土</make_dirt.label>
-  <make_dirt.description>用肥料和沙子制造普通泥土。。</make_dirt.description>
+  <make_dirt.description>用肥料和沙子制造普通泥土。</make_dirt.description>
   <make_dirt.jobString>正在制作 泥土。</make_dirt.jobString>
 
   <make_dirt_hand.label>制作 泥土</make_dirt_hand.label>
-  <make_dirt_hand.description>用肥料和沙子制造普通泥土。。</make_dirt_hand.description>
+  <make_dirt_hand.description>用肥料和沙子制造普通泥土。</make_dirt_hand.description>
   <make_dirt_hand.jobString>正在制作 泥土。</make_dirt_hand.jobString>
 
   <make_dirt_Electric.label>制作 泥土</make_dirt_Electric.label>
-  <make_dirt_Electric.description>用肥料和沙子制造普通泥土。。</make_dirt_Electric.description>
+  <make_dirt_Electric.description>用肥料和沙子制造普通泥土。</make_dirt_Electric.description>
   <make_dirt_Electric.jobString>正在制作 泥土。</make_dirt_Electric.jobString>
 
 
