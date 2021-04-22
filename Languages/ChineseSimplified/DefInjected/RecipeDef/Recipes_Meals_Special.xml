@@ -8,13 +8,13 @@
 
   <!-- Grilled Meals -->
 
-  <MakeCheeseGrilled.label>烤制 芝士三明治</MakeCheeseGrilled.label>
-  <MakeCheeseGrilled.description>用面包和芝士一起烤制三明治。 \n\n产出：2。</MakeCheeseGrilled.description>
-  <MakeCheeseGrilled.jobString>正在烤制 芝士三明治。</MakeCheeseGrilled.jobString>
+  <MakeCheeseGrilled.label>烤制 奶酪三明治</MakeCheeseGrilled.label>
+  <MakeCheeseGrilled.description>用面包和奶酪一起烤制三明治。 \n\n产出：2。</MakeCheeseGrilled.description>
+  <MakeCheeseGrilled.jobString>正在烤制 奶酪三明治。</MakeCheeseGrilled.jobString>
 
-  <MakePotatoesCheese.label>烤制 芝士土豆</MakePotatoesCheese.label>
+  <MakePotatoesCheese.label>烤制 奶酪土豆</MakePotatoesCheese.label>
   <MakePotatoesCheese.description>烤制放上奶酪的土豆。\n\n产出：3。</MakePotatoesCheese.description>
-  <MakePotatoesCheese.jobString>正在烤制 芝士土豆。</MakePotatoesCheese.jobString>
+  <MakePotatoesCheese.jobString>正在烤制 奶酪土豆。</MakePotatoesCheese.jobString>
 
 
   <!-- Fine Meals -->
@@ -46,9 +46,9 @@
 
   <!-- Lavish Meals -->
 
-  <MakeBurgerCheese.label>烹制 芝士汉堡</MakeBurgerCheese.label>
-  <MakeBurgerCheese.description>面包中夹上肉片和芝士就做成了汉堡。 十分美味！ \n\n产出：2。</MakeBurgerCheese.description>
-  <MakeBurgerCheese.jobString>正在烹制 芝士汉堡。</MakeBurgerCheese.jobString>
+  <MakeBurgerCheese.label>烹制 奶酪汉堡</MakeBurgerCheese.label>
+  <MakeBurgerCheese.description>面包中夹上肉片和奶酪就做成了汉堡。 十分美味！ \n\n产出：2。</MakeBurgerCheese.description>
+  <MakeBurgerCheese.jobString>正在烹制 奶酪汉堡。</MakeBurgerCheese.jobString>
 
   <MakeMisoSoup.label>烹制 味噌汤</MakeMisoSoup.label>
   <MakeMisoSoup.description>用豆腐、藻类、蘑菇和洋葱制作豪华味噌汤\n\n产出：2。</MakeMisoSoup.description>

@@ -7,10 +7,10 @@
 
   <!-- Grilled Meals -->
 
-  <GrilledCheese.label>芝士三明治</GrilledCheese.label>
+  <GrilledCheese.label>奶酪三明治</GrilledCheese.label>
   <GrilledCheese.description>两片中间夹着融化奶酪的烤面包。\n\n提高新陈代谢</GrilledCheese.description>
 
-  <PotatoesCheese.label>芝士土豆</PotatoesCheese.label>
+  <PotatoesCheese.label>奶酪土豆</PotatoesCheese.label>
   <PotatoesCheese.description>两片中间夹着融化奶酪的土豆片。\n\n降低饥饿速率</PotatoesCheese.description>
 
 
@@ -37,8 +37,8 @@
 
   <!-- Lavish Meals -->
 
-  <CheeseBurger.label>芝士汉堡</CheeseBurger.label>
-  <CheeseBurger.description>用好吃的肉片做成的美味芝士汉堡。\n\n提高疼痛抗性\n提高行动能力\n降低饥饿速率</CheeseBurger.description>
+  <CheeseBurger.label>奶酪汉堡</CheeseBurger.label>
+  <CheeseBurger.description>用好吃的肉片做成的美味奶酪汉堡。\n\n提高疼痛抗性\n提高行动能力\n降低饥饿速率</CheeseBurger.description>
 
   <MisoSoup.label>味噌汤</MisoSoup.label>
   <MisoSoup.description>有益于身心健康的素食。甚至学习的东西也变得容易了。\n\n提高意识\n提高行动能力\n提高技能学习速度</MisoSoup.description>
