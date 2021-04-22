@@ -187,10 +187,10 @@
   <PackedDirt-SoilF_Frame.description>↑ 压实泥土\n\n↓ 土地</PackedDirt-SoilF_Frame.description>
 
   <Stone-Topsoil.label>石面 ► 表土</Stone-Topsoil.label>
-  <Stone-Topsoil.description>↑ 光滑石面\n\n↓ 表土\n\n► 表土can be removed with the "Remove Floor" tool.</Stone-Topsoil.description>
+  <Stone-Topsoil.description>↑ 光滑石面\n\n↓ 表土\n\n► 表土可以用“移除地板”命令清除。</Stone-Topsoil.description>
   <Stone-Topsoil_Blueprint.label>石面 ► 表土（蓝图）</Stone-Topsoil_Blueprint.label>
   <Stone-Topsoil_Frame.label>石面 ► 表土（建造中）</Stone-Topsoil_Frame.label>
-  <Stone-Topsoil_Frame.description>↑ 光滑石面\n\n↓ 表土\n\n► 表土can be removed with the "Remove Floor" tool.</Stone-Topsoil_Frame.description>
+  <Stone-Topsoil_Frame.description>↑ 光滑石面\n\n↓ 表土\n\n► 表土可以用“移除地板”命令清除。</Stone-Topsoil_Frame.description>
 
   <Topsoil-DirtFert.label>肥化表土</Topsoil-DirtFert.label>
   <Topsoil-DirtFert.description>↑ 表土\n\n↓ 肥化表土\n\n► 肥化表土可以用“移除地板”命令清除。</Topsoil-DirtFert.description>

@@ -47,7 +47,7 @@
 
   <MakeCharged_Component.label>制造 电荷武器部件</MakeCharged_Component.label>
   <MakeCharged_Component.description>用于制造各种电荷武器的主要部件。\n\n产出：1。</MakeCharged_Component.description>
-  <MakeCharged_Component.jobString>正在制造电荷武器部件.</MakeCharged_Component.jobString>
+  <MakeCharged_Component.jobString>正在制造电荷武器部件。</MakeCharged_Component.jobString>
 
   <MakePlasma_Component.label>制造 离子武器部件</MakePlasma_Component.label>
   <MakePlasma_Component.description>用于制造各类离子武器的特殊部件。 \n\n产出：1。</MakePlasma_Component.description>
