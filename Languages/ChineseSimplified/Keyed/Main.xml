@@ -699,8 +699,8 @@
   <DesignatorCollectCrushedstoneDesc>用于收集碎石。这是一项低优先级的“开采”工作。</DesignatorCollectCrushedstoneDesc>
   <DesignatorCollectCrushedstoneReportString>这里无法收集。请在砂砾地形收集。</DesignatorCollectCrushedstoneReportString>
 
-  <DesignatorCollectSoftClayLabel>收集软黏土</DesignatorCollectSoftClayLabel>
-  <DesignatorCollectSoftClayDesc>在泥地或者浅水地形收集软黏土。这是一项低优先级的“开采”工作。</DesignatorCollectSoftClayDesc>
+  <DesignatorCollectSoftClayLabel>收集软粘土</DesignatorCollectSoftClayLabel>
+  <DesignatorCollectSoftClayDesc>在泥地或者浅水地形收集软粘土。这是一项低优先级的“开采”工作。</DesignatorCollectSoftClayDesc>
   <DesignatorCollectSoftClayReportString>这里无法收集。请在泥地或者浅水地形收集。</DesignatorCollectSoftClayReportString>
 
 

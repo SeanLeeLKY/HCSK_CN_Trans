@@ -16,9 +16,9 @@
   <ConcreteResource.description>混凝土是由砂石和碎石组成的一种复合材料。它是一种流体物质，随着时间的推移会结合成固体物质。它可以添加金属来制造钢筋混凝土，这是一种耐用、坚固的建筑材料。</ConcreteResource.description>
   <ConcreteResource.stuffProps.stuffAdjective>混凝土</ConcreteResource.stuffProps.stuffAdjective>
 
-  <ClayBrick.label>黏土砖</ClayBrick.label>
-  <ClayBrick.description>在窑中烧制而成的坚硬黏土砖。它可以用于建筑。</ClayBrick.description>
-  <ClayBrick.stuffProps.stuffAdjective>黏土砖</ClayBrick.stuffProps.stuffAdjective>
+  <ClayBrick.label>粘土砖</ClayBrick.label>
+  <ClayBrick.description>在窑中烧制而成的坚硬粘土砖。它可以用于建筑。</ClayBrick.description>
+  <ClayBrick.stuffProps.stuffAdjective>粘土砖</ClayBrick.stuffProps.stuffAdjective>
 
   <Ceramics.label>陶瓷</Ceramics.label>
   <Ceramics.description>用高温窑制造的陶瓷。表面光滑，看起来很漂亮，但也易碎。</Ceramics.description>

@@ -16,7 +16,7 @@
   <MBrickMarble.label>大理石砖</MBrickMarble.label>
   <MBrickMarble.description>砌成联锁状的砖。\n美观度：2。</MBrickMarble.description>
 
-  <MBrickClayBrick.label>黏土砖</MBrickClayBrick.label>
+  <MBrickClayBrick.label>粘土砖</MBrickClayBrick.label>
   <MBrickClayBrick.description>砌成联锁状的砖。\n美观度：2。</MBrickClayBrick.description>
 
   <MBrickCeramics.label>陶瓷砖</MBrickCeramics.label>
@@ -37,67 +37,67 @@
   <SBrickMarble.label>大理石砖（小）</SBrickMarble.label>
   <SBrickMarble.description>小块砖以联锁的方式砌成。看起来比比普通砖块稍长。\n美观度：2。</SBrickMarble.description>
 
-  <SBrickClayBrick.label>黏土砖（小）</SBrickClayBrick.label>
+  <SBrickClayBrick.label>粘土砖（小）</SBrickClayBrick.label>
   <SBrickClayBrick.description>小块砖以联锁的方式砌成。看起来比比普通砖块稍长。\n美观度：2。</SBrickClayBrick.description>
 
   <SBrickCeramics.label>陶瓷砖（小）</SBrickCeramics.label>
   <SBrickCeramics.description>小块砖以联锁的方式砌成。看起来比比普通砖块稍长。\n美观度：2。</SBrickCeramics.description>
 
-  <MedBrickSandstone.label>砂岩地中海风格砖</MedBrickSandstone.label>
+  <MedBrickSandstone.label>地中海风格砂岩砖</MedBrickSandstone.label>
   <MedBrickSandstone.description>砌成圆形联锁图案的地砖块。\n美观度：3。</MedBrickSandstone.description>
 
-  <MedBrickGranite.label>花岗岩地中海风格砖</MedBrickGranite.label>
+  <MedBrickGranite.label>地中海风格花岗岩砖</MedBrickGranite.label>
   <MedBrickGranite.description>砌成圆形联锁图案的地砖块。\n美观度：3。</MedBrickGranite.description>
 
-  <MedBrickLimestone.label>石灰岩地中海风格砖</MedBrickLimestone.label>
+  <MedBrickLimestone.label>地中海风格石灰岩砖</MedBrickLimestone.label>
   <MedBrickLimestone.description>砌成圆形联锁图案的地砖块。\n美观度：3。</MedBrickLimestone.description>
 
-  <MedBrickSlate.label>板岩地中海风格砖</MedBrickSlate.label>
+  <MedBrickSlate.label>地中海风格板岩砖</MedBrickSlate.label>
   <MedBrickSlate.description>砌成圆形联锁图案的地砖块。\n美观度：3。</MedBrickSlate.description>
 
-  <MedBrickMarble.label>大理石地中海风格砖</MedBrickMarble.label>
+  <MedBrickMarble.label>地中海风格大理石砖</MedBrickMarble.label>
   <MedBrickMarble.description>砌成圆形联锁图案的地砖块。\n美观度：3。</MedBrickMarble.description>
 
-  <MedBrickClayBrick.label>黏土地中海风格砖</MedBrickClayBrick.label>
+  <MedBrickClayBrick.label>地中海风格粘土砖</MedBrickClayBrick.label>
   <MedBrickClayBrick.description>砌成圆形联锁图案的地砖块。\n美观度：3。</MedBrickClayBrick.description>
 
-  <MedBrickCeramics.label>陶瓷地中海风格砖</MedBrickCeramics.label>
+  <MedBrickCeramics.label>地中海风格陶瓷砖</MedBrickCeramics.label>
   <MedBrickCeramics.description>砌成圆形联锁图案的地砖块。\n美观度：3。</MedBrickCeramics.description>
 
-  <CobbleFloorSandstone.label>砂岩卵石风格砖</CobbleFloorSandstone.label>
+  <CobbleFloorSandstone.label>卵石风格砂岩砖</CobbleFloorSandstone.label>
   <CobbleFloorSandstone.description>简单的鹅卵石风格铺砌地板。\n美观度：1。</CobbleFloorSandstone.description>
 
-  <CobbleFloorGranite.label>花岗岩卵石风格砖</CobbleFloorGranite.label>
+  <CobbleFloorGranite.label>卵石风格花岗岩砖</CobbleFloorGranite.label>
   <CobbleFloorGranite.description>简单的鹅卵石风格铺砌地板。\n美观度：1。</CobbleFloorGranite.description>
 
-  <CobbleFloorLimestone.label>石灰岩卵石风格砖</CobbleFloorLimestone.label>
+  <CobbleFloorLimestone.label>卵石风格石灰岩砖</CobbleFloorLimestone.label>
   <CobbleFloorLimestone.description>简单的鹅卵石风格铺砌地板。\n美观度：1。</CobbleFloorLimestone.description>
 
-  <CobbleFloorSlate.label>板岩卵石风格砖</CobbleFloorSlate.label>
+  <CobbleFloorSlate.label>卵石风格板岩砖</CobbleFloorSlate.label>
   <CobbleFloorSlate.description>简单的鹅卵石风格铺砌地板。\n美观度：1。</CobbleFloorSlate.description>
 
-  <CobbleFloorMarble.label>大理石卵石风格砖</CobbleFloorMarble.label>
+  <CobbleFloorMarble.label>卵石风格大理石砖</CobbleFloorMarble.label>
   <CobbleFloorMarble.description>简单的鹅卵石风格铺砌地板。\n美观度：1。</CobbleFloorMarble.description>
 
-  <UEBrickSandstone.label>砂岩不规则砖</UEBrickSandstone.label>
+  <UEBrickSandstone.label>不规则砂岩砖</UEBrickSandstone.label>
   <UEBrickSandstone.description>大小不一的乡村风格砖。\n美观度：2。</UEBrickSandstone.description>
 
-  <UEBrickGranite.label>花岗岩不规则砖</UEBrickGranite.label>
+  <UEBrickGranite.label>不规则花岗岩砖</UEBrickGranite.label>
   <UEBrickGranite.description>大小不一的乡村风格砖。\n美观度：2。</UEBrickGranite.description>
 
-  <UEBrickLimestone.label>石灰岩不规则砖</UEBrickLimestone.label>
+  <UEBrickLimestone.label>不规则石灰岩砖</UEBrickLimestone.label>
   <UEBrickLimestone.description>大小不一的乡村风格砖。\n美观度：2。</UEBrickLimestone.description>
 
-  <UEBrickSlate.label>板岩不规则砖</UEBrickSlate.label>
+  <UEBrickSlate.label>不规则板岩砖</UEBrickSlate.label>
   <UEBrickSlate.description>大小不一的乡村风格砖。\n美观度：2。</UEBrickSlate.description>
 
-  <UEBrickMarble.label>大理石不规则砖</UEBrickMarble.label>
+  <UEBrickMarble.label>不规则大理石砖</UEBrickMarble.label>
   <UEBrickMarble.description>大小不一的乡村风格砖。\n美观度：2。</UEBrickMarble.description>
 
-  <UEBrickClayBrick.label>黏土不规则砖</UEBrickClayBrick.label>
+  <UEBrickClayBrick.label>不规则粘土砖</UEBrickClayBrick.label>
   <UEBrickClayBrick.description>大小不一的乡村风格砖。\n美观度：2。</UEBrickClayBrick.description>
 
-  <UEBrickCeramics.label>陶瓷不规则砖</UEBrickCeramics.label>
+  <UEBrickCeramics.label>不规则陶瓷砖</UEBrickCeramics.label>
   <UEBrickCeramics.description>大小不一的乡村风格砖。\n美观度：2。</UEBrickCeramics.description>
 
   <EXF_TileSandstone.label>砂岩波兰石板</EXF_TileSandstone.label>
@@ -118,29 +118,29 @@
   <EXF_TileCeramics.label>陶瓷波兰石板</EXF_TileCeramics.label>
   <EXF_TileCeramics.description>平整光滑的地砖，制作非常耗时，但比较美观。\n美观度：2。</EXF_TileCeramics.description>
 
-  <HerrBrickSandstone.label>砂岩交叉风格砖</HerrBrickSandstone.label>
+  <HerrBrickSandstone.label>交叉式砂岩砖</HerrBrickSandstone.label>
   <HerrBrickSandstone.description>砌成联锁状的砖。\n美观度：3。</HerrBrickSandstone.description>
 
-  <HerrBrickGranite.label>花岗岩交叉风格砖</HerrBrickGranite.label>
+  <HerrBrickGranite.label>交叉式花岗岩砖</HerrBrickGranite.label>
   <HerrBrickGranite.description>砌成联锁状的砖。\n美观度：3。</HerrBrickGranite.description>
 
-  <HerrBrickLimestone.label>石灰岩交叉风格砖</HerrBrickLimestone.label>
+  <HerrBrickLimestone.label>交叉式石灰岩砖</HerrBrickLimestone.label>
   <HerrBrickLimestone.description>砌成联锁状的砖。\n美观度：3。</HerrBrickLimestone.description>
 
-  <HerrBrickSlate.label>板岩交叉风格砖</HerrBrickSlate.label>
+  <HerrBrickSlate.label>交叉式板岩砖</HerrBrickSlate.label>
   <HerrBrickSlate.description>砌成联锁状的砖。\n美观度：3。</HerrBrickSlate.description>
 
-  <HerrBrickMarble.label>大理石交叉风格砖</HerrBrickMarble.label>
+  <HerrBrickMarble.label>交叉式大理石砖</HerrBrickMarble.label>
   <HerrBrickMarble.description>砌成联锁状的砖。\n美观度：3。</HerrBrickMarble.description>
 
-  <HerrBrickClayBrick.label>黏土交叉风格砖</HerrBrickClayBrick.label>
+  <HerrBrickClayBrick.label>交叉式粘土砖</HerrBrickClayBrick.label>
   <HerrBrickClayBrick.description>砌成联锁状的砖。\n美观度：3。</HerrBrickClayBrick.description>
 
-  <HerrBrickCeramics.label>陶瓷交叉风格砖</HerrBrickCeramics.label>
+  <HerrBrickCeramics.label>交叉式陶瓷砖</HerrBrickCeramics.label>
   <HerrBrickCeramics.description>砌成联锁状的砖。\n美观度：3。</HerrBrickCeramics.description>
 
 
-  <!--<ClayBrickTile.label>黏土砖</ClayBrickTile.label>-->
+  <!--<ClayBrickTile.label>粘土砖</ClayBrickTile.label>-->
   <!--<ClayBrickTile.description>砌成联锁状的砖。\n美观度：2。</ClayBrickTile.description>-->
 
 </LanguageData>

@@ -49,9 +49,9 @@
   <MakeBioDiesel.description>用豆荚制造生物柴油。 \n\n产出：10。</MakeBioDiesel.description>
   <MakeBioDiesel.jobString>正在制造 生物柴油。</MakeBioDiesel.jobString>
 
-  <MakeClayBricks.label>烧制 黏土砖</MakeClayBricks.label>
-  <MakeClayBricks.description>用软黏土烧制黏土砖。 \n\n产出：5。</MakeClayBricks.description>
-  <MakeClayBricks.jobString>正在烧制 黏土砖。</MakeClayBricks.jobString>
+  <MakeClayBricks.label>烧制 粘土砖</MakeClayBricks.label>
+  <MakeClayBricks.description>用软粘土烧制粘土砖。 \n\n产出：5。</MakeClayBricks.description>
+  <MakeClayBricks.jobString>正在烧制 粘土砖。</MakeClayBricks.jobString>
 
   <MakeCeramics.label>烧制 陶瓷</MakeCeramics.label>
   <MakeCeramics.description>烧制釉面陶瓷材料。 \n\n产出：10。</MakeCeramics.description>
