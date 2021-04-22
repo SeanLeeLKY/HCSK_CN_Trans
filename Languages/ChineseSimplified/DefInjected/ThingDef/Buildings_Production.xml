@@ -172,11 +172,11 @@
   <TableFurnace_Frame.description>用于将基本金属矿石熔炼成金属合金的炉子。可以制作金属罐和用原木生产木炭。可以用柴火、煤炭、木炭、泥炭和木质材料作为燃料。</TableFurnace_Frame.description>
 
   <Kiln.label>窑炉</Kiln.label>
-  <Kiln.description>一种用于生产粘土砖、烧制服装和用作火葬场的简易窑炉。可以用柴火、煤、木炭、泥炭和木质材料为燃料。</Kiln.description>
+  <Kiln.description>一种用于生产黏土砖、烧制服装和用作火葬场的简易窑炉。可以用柴火、煤、木炭、泥炭和木质材料为燃料。</Kiln.description>
   <Kiln_Blueprint.label>窑炉（蓝图）</Kiln_Blueprint.label>
   <Kiln_Blueprint_Install.label>窑炉（蓝图）</Kiln_Blueprint_Install.label>
   <Kiln_Frame.label>窑炉（建造中）</Kiln_Frame.label>
-  <Kiln_Frame.description>一种用于生产粘土砖、烧制服装和用作火葬场的简易窑炉。可以用柴火、煤、木炭、泥炭和木质材料为燃料。</Kiln_Frame.description>
+  <Kiln_Frame.description>一种用于生产黏土砖、烧制服装和用作火葬场的简易窑炉。可以用柴火、煤、木炭、泥炭和木质材料为燃料。</Kiln_Frame.description>
 
   <GlassworkTable.label>玻璃制品工作台</GlassworkTable.label>
   <GlassworkTable.description>一张有制作玻璃所需的所有工具的桌子。需要电力才能正常运作。</GlassworkTable.description>
