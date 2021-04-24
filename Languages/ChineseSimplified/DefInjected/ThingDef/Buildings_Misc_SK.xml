@@ -121,12 +121,12 @@
   <FileCabinet_Frame.label>文件柜（建造中）</FileCabinet_Frame.label>
   <FileCabinet_Frame.description>为重要技术研究而存放实验数据文件的设施。靠近研究工作台时，可以略微提高研究速度。</FileCabinet_Frame.description>
 
-  <Patterner.label>图案设计器</Patterner.label>
-  <Patterner.description>存放纺织品样版的设施，可以提高纺织工作台的工作速度。</Patterner.description>
-  <Patterner_Blueprint.label>图案设计器（蓝图）</Patterner_Blueprint.label>
-  <Patterner_Blueprint_Install.label>图案设计器（蓝图）</Patterner_Blueprint_Install.label>
-  <Patterner_Frame.label>图案设计器（建造中）</Patterner_Frame.label>
-  <Patterner_Frame.description>存放纺织品样版的设施，可以提高纺织工作台的工作速度。</Patterner_Frame.description>
+  <Patterner.label>样版设计器</Patterner.label>
+  <Patterner.description>存放各种纺织品设施，可以提高纺织工作台的工作速度。</Patterner.description>
+  <Patterner_Blueprint.label>样版设计器（蓝图）</Patterner_Blueprint.label>
+  <Patterner_Blueprint_Install.label>样版设计器（蓝图）</Patterner_Blueprint_Install.label>
+  <Patterner_Frame.label>样版设计器（建造中）</Patterner_Frame.label>
+  <Patterner_Frame.description>存放各种纺织品设施，可以提高纺织工作台的工作速度。</Patterner_Frame.description>
 
   <ToolCabinet.label>工具柜</ToolCabinet.label>
   <ToolCabinet.description>提高工作速度。需要放置在工作台附近。一个工作台最多可以同时连接两个工具柜。</ToolCabinet.description>

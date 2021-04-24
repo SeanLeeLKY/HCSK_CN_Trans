@@ -150,8 +150,8 @@
   <SubCategory_Stove.label>食物处理</SubCategory_Stove.label>
   <SubCategory_Stove.description>食物处理设备。</SubCategory_Stove.description>
 
-  <SubCategory_CookingStuff.label>烹饪素材</SubCategory_CookingStuff.label>
-  <SubCategory_CookingStuff.description>糖果、灌装，咖啡加工甚至烟草等等加工的各种设备。</SubCategory_CookingStuff.description>
+  <SubCategory_CookingStuff.label>烹饪器材</SubCategory_CookingStuff.label>
+  <SubCategory_CookingStuff.description>各种糖果、罐头、咖啡、烟草制品等。</SubCategory_CookingStuff.description>
 
   <SubCategory_SpecialFoods.label>特殊食物</SubCategory_SpecialFoods.label>
   <SubCategory_SpecialFoods.description>某些特殊的食物设施。</SubCategory_SpecialFoods.description>
@@ -168,7 +168,7 @@
   <SubCategory_AssemblyBench.label>装配台</SubCategory_AssemblyBench.label>
   <SubCategory_AssemblyBench.description>用于组装零部件、线缆、机械组件和先进机械组件的设施。</SubCategory_AssemblyBench.description>
 
-  <SubCategory_Sawmills.label>锯木厂</SubCategory_Sawmills.label>
+  <SubCategory_Sawmills.label>锯木台</SubCategory_Sawmills.label>
   <SubCategory_Sawmills.description>将原木加工成为木板和柴火的设施。</SubCategory_Sawmills.description>
 
   <SubCategory_Furnaces.label>熔炉</SubCategory_Furnaces.label>
@@ -207,7 +207,7 @@
   <SubCategory_Hydroponics.label>水培</SubCategory_Hydroponics.label>
   <SubCategory_Hydroponics.description>各种水培相关设施。</SubCategory_Hydroponics.description>
 
-  <SubCategory_Hightech.label>高技术</SubCategory_Hightech.label>
+  <SubCategory_Hightech.label>石化产品实验室</SubCategory_Hightech.label>
   <SubCategory_Hightech.description>各种石油化工装置以及气体离心机相关设备。</SubCategory_Hightech.description>
 
   <SubCategory_FuturisticDevices.label>未来设备</SubCategory_FuturisticDevices.label>
@@ -420,7 +420,7 @@
   <SubCategory_Soil.label>土地转化</SubCategory_Soil.label>
   <SubCategory_Soil.description>改造地块并获取相应的资源。</SubCategory_Soil.description>
 
-  <SubCategory_SoilMarshy.label>泥沼土转化</SubCategory_SoilMarshy.label>
+  <SubCategory_SoilMarshy.label>湿软土地转化</SubCategory_SoilMarshy.label>
   <SubCategory_SoilMarshy.description>改造地块并获取相应的资源。</SubCategory_SoilMarshy.description>
 
   <SubCategory_Marsh.label>沼泽转化</SubCategory_Marsh.label>
