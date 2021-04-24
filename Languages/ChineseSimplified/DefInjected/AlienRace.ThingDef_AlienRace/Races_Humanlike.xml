@@ -5,8 +5,8 @@
 
   <Alien_Nova.label>诺瓦</Alien_Nova.label>
   <Alien_Nova.description>诺瓦人是一种人型生物，他们的原生星球温度低于冰点。他们能很好的适应寒冷天气，因为他们的身体对于寒冷有较好的抗性。而且，他们比一般的人类速度要快。</Alien_Nova.description>
-  <Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <!-- <Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</Alien_Nova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name> -->
   <Alien_Nova.tools.0.label>左拳</Alien_Nova.tools.0.label>
   <Alien_Nova.tools.1.label>右拳</Alien_Nova.tools.1.label>
   <Alien_Nova.tools.2.label>牙齿</Alien_Nova.tools.2.label>
@@ -17,8 +17,8 @@
 
   <Alien_Dova.label>多瓦</Alien_Dova.label>
   <Alien_Dova.description>多瓦种族， 源于一个叫多维安（Dovian）的世界，这个种族以残酷、严苛的社会文化闻名全宇宙，甚至在闭塞的边缘世界的人们都听说过他们的大名。无论是被惩罚流放，还是逃避社会，抑或寻找更好世界而来，你总能在这里看到这些多瓦人。</Alien_Dova.description>
-  <Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <!-- <Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>头发</Alien_Dova.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name> -->
   <Alien_Dova.tools.0.label>左拳</Alien_Dova.tools.0.label>
   <Alien_Dova.tools.1.label>右拳</Alien_Dova.tools.1.label>
   <Alien_Dova.tools.2.label>牙齿</Alien_Dova.tools.2.label>
@@ -39,7 +39,7 @@
 
   <Alien_Orassan.label>奥瑞森</Alien_Orassan.label>
   <Alien_Orassan.description>原生的奥瑞森人是一种人型猫科动物，他们是正常进化到现在的状态，而且在非奥瑞森的原生星球，他们也能很好的适应并生存下来！</Alien_Orassan.description>
-  <Alien_Orassan.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</Alien_Orassan.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <!-- <Alien_Orassan.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>皮肤</Alien_Orassan.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name> -->
   <Alien_Orassan.tools.0.label>牙齿</Alien_Orassan.tools.0.label>
   <Alien_Orassan.tools.1.label>左拳</Alien_Orassan.tools.1.label>
   <Alien_Orassan.tools.2.label>右拳</Alien_Orassan.tools.2.label>
