@@ -1,6 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Hardcore SK MainMenu -->
+
+
+  <!-- <HardcoreSKproject>Rimworld project by Hardcore SK team</HardcoreSKproject>
+  <LudeonMainPage>Ludeon site</LudeonMainPage>
+  <HardcoreSKLudeon>Our topic on Ludeon</HardcoreSKLudeon>
+  <HardcoreSKPatreon>Patreon channel</HardcoreSKPatreon>
+  <HardcoreskMainPage>Russian project portal</HardcoreskMainPage>
+  <HardcoreskGitHub>Development on Github</HardcoreskGitHub>
+  <HardcoreskVK>Russian Vkontakte group</HardcoreskVK>
+  <HardcoreDiscord>Discord channel</HardcoreDiscord>
+  <ContinueLabel>Continue</ContinueLabel> -->
+
+
+  <HardcoreSKproject>Rimworld project by Hardcore SK team</HardcoreSKproject>
+  <LudeonMainPage>Ludeon工作室网址</LudeonMainPage>
+  <HardcoreSKLudeon>Ludeon论坛页面</HardcoreSKLudeon>
+  <HardcoreSKPatreon>Patreon赞助通道</HardcoreSKPatreon>
+  <HardcoreskMainPage>俄语项目页面</HardcoreskMainPage>
+  <HardcoreskGitHub>Github页面</HardcoreskGitHub>
+  <HardcoreskVK>俄语VK社区页面</HardcoreskVK>
+  <HardcoreDiscord>Discord频道</HardcoreDiscord>
+  <ContinueLabel>继续</ContinueLabel>
+
   <!-- SmartSpeed -->
   <EventSpeed>事件速度</EventSpeed>
   <EventSpeedLabel>改变事件速度</EventSpeedLabel>
