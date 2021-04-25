@@ -46,9 +46,9 @@
 
   <ThingDefFishTailteeth.label>尾齿鱼</ThingDefFishTailteeth.label>
   <ThingDefFishTailteeth.description>这种凶猛的食肉动物得名于它险恶的捕食策略。在水底缓慢的接近正在喝水猎物，用它的大尾巴引诱猎物进入深水。最后的迎接它的就是这种可怕的生物的牙齿。</ThingDefFishTailteeth.description>
-  <ThingDefFishTailteeth_Leather.label>尾齿鱼皮</ThingDefFishTailteeth_Leather.label>
+  <!-- <ThingDefFishTailteeth_Leather.label>尾齿鱼皮</ThingDefFishTailteeth_Leather.label>
   <ThingDefFishTailteeth_Leather.description>尾齿鱼皮</ThingDefFishTailteeth_Leather.description>
-  <ThingDefFishTailteeth_Leather.stuffProps.stuffAdjective>尾齿鱼皮</ThingDefFishTailteeth_Leather.stuffProps.stuffAdjective>
+  <ThingDefFishTailteeth_Leather.stuffProps.stuffAdjective>尾齿鱼皮</ThingDefFishTailteeth_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <ThingDefFishTailteeth_Corpse.label>尾齿鱼尸体</ThingDefFishTailteeth_Corpse.label>
   <ThingDefFishTailteeth_Corpse.description>尾齿鱼尸体</ThingDefFishTailteeth_Corpse.description>

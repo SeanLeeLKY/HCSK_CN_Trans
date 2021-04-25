@@ -6,9 +6,9 @@
   <Fishercat.tools.0.label>左爪</Fishercat.tools.0.label>
   <Fishercat.tools.1.label>右爪</Fishercat.tools.1.label>
   <Fishercat.tools.3.label>头</Fishercat.tools.3.label>
-  <Fishercat_Leather.label>鱼猫皮</Fishercat_Leather.label>
+ <!--  <Fishercat_Leather.label>鱼猫皮</Fishercat_Leather.label>
   <Fishercat_Leather.description>鱼猫皮</Fishercat_Leather.description>
-  <Fishercat_Leather.stuffProps.stuffAdjective>鱼猫皮</Fishercat_Leather.stuffProps.stuffAdjective>
+  <Fishercat_Leather.stuffProps.stuffAdjective>鱼猫皮</Fishercat_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Fishercat_Corpse.label>鱼猫尸体</Fishercat_Corpse.label>
   <Fishercat_Corpse.description>鱼猫尸体</Fishercat_Corpse.description>
@@ -18,9 +18,9 @@
   <Ermine.tools.0.label>左爪</Ermine.tools.0.label>
   <Ermine.tools.1.label>右爪</Ermine.tools.1.label>
   <Ermine.tools.3.label>头</Ermine.tools.3.label>
-  <Ermine_Leather.label>貂皮</Ermine_Leather.label>
+  <!-- <Ermine_Leather.label>貂皮</Ermine_Leather.label>
   <Ermine_Leather.description>貂皮</Ermine_Leather.description>
-  <Ermine_Leather.stuffProps.stuffAdjective>貂皮</Ermine_Leather.stuffProps.stuffAdjective>
+  <Ermine_Leather.stuffProps.stuffAdjective>貂皮</Ermine_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Ermine_Corpse.label>貂尸体</Ermine_Corpse.label>
   <Ermine_Corpse.description>貂尸体</Ermine_Corpse.description>

@@ -7,10 +7,10 @@
   <Fox_Fennec.description>一种小型狐，又叫沙漠狐、迷你狐，源自地球非洲北部。捕食小型动物，有一对非常大的耳朵。</Fox_Fennec.description>
   <Fox_Fennec.tools.0.label>左爪</Fox_Fennec.tools.0.label>
   <Fox_Fennec.tools.1.label>右爪</Fox_Fennec.tools.1.label>
-  <Fox_Fennec.tools.3.label>头</Fox_Fennec.tools.3.label>
+  <!-- <Fox_Fennec.tools.3.label>头</Fox_Fennec.tools.3.label>
   <Fox_Fennec_Leather.label>耳廓狐皮</Fox_Fennec_Leather.label>
   <Fox_Fennec_Leather.description>耳廓狐皮</Fox_Fennec_Leather.description>
-  <Fox_Fennec_Leather.stuffProps.stuffAdjective>耳廓狐皮</Fox_Fennec_Leather.stuffProps.stuffAdjective>
+  <Fox_Fennec_Leather.stuffProps.stuffAdjective>耳廓狐皮</Fox_Fennec_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Fox_Fennec_Corpse.label>耳廓狐尸体</Fox_Fennec_Corpse.label>
   <Fox_Fennec_Corpse.description>耳廓狐尸体</Fox_Fennec_Corpse.description>
@@ -23,9 +23,9 @@
   <Fox_Red.tools.0.label>左爪</Fox_Red.tools.0.label>
   <Fox_Red.tools.1.label>右爪</Fox_Red.tools.1.label>
   <Fox_Red.tools.3.label>头</Fox_Red.tools.3.label>
-  <Fox_Red_Leather.label>赤狐皮</Fox_Red_Leather.label>
+  <!-- <Fox_Red_Leather.label>赤狐皮</Fox_Red_Leather.label>
   <Fox_Red_Leather.description>赤狐皮</Fox_Red_Leather.description>
-  <Fox_Red_Leather.stuffProps.stuffAdjective>赤狐皮</Fox_Red_Leather.stuffProps.stuffAdjective>
+  <Fox_Red_Leather.stuffProps.stuffAdjective>赤狐皮</Fox_Red_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Fox_Red_Corpse.label>赤狐尸体</Fox_Red_Corpse.label>
   <Fox_Red_Corpse.description>赤狐尸体</Fox_Red_Corpse.description>
@@ -38,9 +38,9 @@
   <Fox_Arctic.tools.0.label>左爪</Fox_Arctic.tools.0.label>
   <Fox_Arctic.tools.1.label>右爪</Fox_Arctic.tools.1.label>
   <Fox_Arctic.tools.3.label>头</Fox_Arctic.tools.3.label>
-  <Fox_Arctic_Leather.label>北极狐皮</Fox_Arctic_Leather.label>
+  <!-- <Fox_Arctic_Leather.label>北极狐皮</Fox_Arctic_Leather.label>
   <Fox_Arctic_Leather.description>北极狐皮</Fox_Arctic_Leather.description>
-  <Fox_Arctic_Leather.stuffProps.stuffAdjective>北极狐皮</Fox_Arctic_Leather.stuffProps.stuffAdjective>
+  <Fox_Arctic_Leather.stuffProps.stuffAdjective>北极狐皮</Fox_Arctic_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Fox_Arctic_Corpse.label>北极狐尸体</Fox_Arctic_Corpse.label>
   <Fox_Arctic_Corpse.description>北极狐尸体</Fox_Arctic_Corpse.description>

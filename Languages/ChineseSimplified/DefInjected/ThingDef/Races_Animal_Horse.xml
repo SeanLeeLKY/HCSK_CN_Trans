@@ -8,9 +8,9 @@
   <Horse.tools.0.label>左蹄</Horse.tools.0.label>
   <Horse.tools.1.label>右蹄</Horse.tools.1.label>
   <Horse.tools.3.label>头</Horse.tools.3.label>
-  <Horse_Leather.label>马皮</Horse_Leather.label>
+ <!--  <Horse_Leather.label>马皮</Horse_Leather.label>
   <Horse_Leather.description>马皮</Horse_Leather.description>
-  <Horse_Leather.stuffProps.stuffAdjective>马皮</Horse_Leather.stuffProps.stuffAdjective>
+  <Horse_Leather.stuffProps.stuffAdjective>马皮</Horse_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Horse_Corpse.label>马尸体</Horse_Corpse.label>
   <Horse_Corpse.description>马尸体</Horse_Corpse.description>
@@ -23,9 +23,9 @@
   <Horse_Wooly.tools.0.label>左蹄</Horse_Wooly.tools.0.label>
   <Horse_Wooly.tools.1.label>右蹄</Horse_Wooly.tools.1.label>
   <Horse_Wooly.tools.3.label>头</Horse_Wooly.tools.3.label>
-  <Horse_Wooly_Leather.label>长鬃马皮</Horse_Wooly_Leather.label>
+ <!--  <Horse_Wooly_Leather.label>长鬃马皮</Horse_Wooly_Leather.label>
   <Horse_Wooly_Leather.description>长鬃马皮</Horse_Wooly_Leather.description>
-  <Horse_Wooly_Leather.stuffProps.stuffAdjective>长鬃马皮</Horse_Wooly_Leather.stuffProps.stuffAdjective>
+  <Horse_Wooly_Leather.stuffProps.stuffAdjective>长鬃马皮</Horse_Wooly_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Horse_Wooly_Corpse.label>长鬃马尸体</Horse_Wooly_Corpse.label>
   <Horse_Wooly_Corpse.description>长鬃马尸体</Horse_Wooly_Corpse.description>

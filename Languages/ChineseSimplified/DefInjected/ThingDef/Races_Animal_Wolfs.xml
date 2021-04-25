@@ -8,9 +8,9 @@
   <Wolf_Timber.tools.0.label>左爪</Wolf_Timber.tools.0.label>
   <Wolf_Timber.tools.1.label>右爪</Wolf_Timber.tools.1.label>
   <Wolf_Timber.tools.3.label>头</Wolf_Timber.tools.3.label>
-  <Wolf_Timber_Leather.label>森林狼皮</Wolf_Timber_Leather.label>
+  <!-- <Wolf_Timber_Leather.label>森林狼皮</Wolf_Timber_Leather.label>
   <Wolf_Timber_Leather.description>森林狼皮</Wolf_Timber_Leather.description>
-  <Wolf_Timber_Leather.stuffProps.stuffAdjective>森林狼皮</Wolf_Timber_Leather.stuffProps.stuffAdjective>
+  <Wolf_Timber_Leather.stuffProps.stuffAdjective>森林狼皮</Wolf_Timber_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Wolf_Timber_Corpse.label>森林狼尸体</Wolf_Timber_Corpse.label>
   <Wolf_Timber_Corpse.description>森林狼尸体</Wolf_Timber_Corpse.description>
@@ -23,9 +23,9 @@
   <Wolf_Arctic.tools.0.label>左爪</Wolf_Arctic.tools.0.label>
   <Wolf_Arctic.tools.1.label>右爪</Wolf_Arctic.tools.1.label>
   <Wolf_Arctic.tools.3.label>头</Wolf_Arctic.tools.3.label>
-  <Wolf_Arctic_Leather.label>北极狼皮</Wolf_Arctic_Leather.label>
+  <!-- <Wolf_Arctic_Leather.label>北极狼皮</Wolf_Arctic_Leather.label>
   <Wolf_Arctic_Leather.description>北极狼皮</Wolf_Arctic_Leather.description>
-  <Wolf_Arctic_Leather.stuffProps.stuffAdjective>北极狼皮</Wolf_Arctic_Leather.stuffProps.stuffAdjective>
+  <Wolf_Arctic_Leather.stuffProps.stuffAdjective>北极狼皮</Wolf_Arctic_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Wolf_Arctic_Corpse.label>北极狼尸体</Wolf_Arctic_Corpse.label>
   <Wolf_Arctic_Corpse.description>北极狼尸体</Wolf_Arctic_Corpse.description>
@@ -38,9 +38,9 @@
   <Rimwolf.tools.0.label>左爪</Rimwolf.tools.0.label>
   <Rimwolf.tools.1.label>右爪</Rimwolf.tools.1.label>
   <Rimwolf.tools.3.label>头</Rimwolf.tools.3.label>
-  <Rimwolf_Leather.label>黑狼皮</Rimwolf_Leather.label>
+  <!-- <Rimwolf_Leather.label>黑狼皮</Rimwolf_Leather.label>
   <Rimwolf_Leather.description>黑狼皮</Rimwolf_Leather.description>
-  <Rimwolf_Leather.stuffProps.stuffAdjective>黑狼皮</Rimwolf_Leather.stuffProps.stuffAdjective>
+  <Rimwolf_Leather.stuffProps.stuffAdjective>黑狼皮</Rimwolf_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Rimwolf_Corpse.label>黑狼尸体</Rimwolf_Corpse.label>
   <Rimwolf_Corpse.description>黑狼尸体</Rimwolf_Corpse.description>

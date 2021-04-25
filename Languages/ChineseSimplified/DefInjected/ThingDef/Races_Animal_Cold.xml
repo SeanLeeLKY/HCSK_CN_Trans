@@ -4,9 +4,9 @@
   <Snork.label>海象</Snork.label>
   <Snork.description>一种大型海洋动物，只存在于星球的极地地区。海象有突出的獠牙，是一种奢侈品。</Snork.description>
   <Snork.tools.1.label>头</Snork.tools.1.label>
-  <Snork_Leather.label>海象皮</Snork_Leather.label>
+  <!-- <Snork_Leather.label>海象皮</Snork_Leather.label>
   <Snork_Leather.description>海象皮</Snork_Leather.description>
-  <Snork_Leather.stuffProps.stuffAdjective>海象皮</Snork_Leather.stuffProps.stuffAdjective>
+  <Snork_Leather.stuffProps.stuffAdjective>海象皮</Snork_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Snork_Corpse.label>海象尸体</Snork_Corpse.label>
   <Snork_Corpse.description>海象尸体</Snork_Corpse.description>

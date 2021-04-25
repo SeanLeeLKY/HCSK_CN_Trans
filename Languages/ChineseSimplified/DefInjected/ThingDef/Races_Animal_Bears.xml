@@ -6,9 +6,9 @@
   <Bear_Grizzly.tools.0.label>左爪</Bear_Grizzly.tools.0.label>
   <Bear_Grizzly.tools.1.label>右爪</Bear_Grizzly.tools.1.label>
   <Bear_Grizzly.tools.3.label>头</Bear_Grizzly.tools.3.label>
-  <Bear_Grizzly_Leather.label>灰熊皮</Bear_Grizzly_Leather.label>
+  <!-- <Bear_Grizzly_Leather.label>灰熊皮</Bear_Grizzly_Leather.label>
   <Bear_Grizzly_Leather.description>灰熊皮</Bear_Grizzly_Leather.description>
-  <Bear_Grizzly_Leather.stuffProps.stuffAdjective>灰熊皮</Bear_Grizzly_Leather.stuffProps.stuffAdjective>
+  <Bear_Grizzly_Leather.stuffProps.stuffAdjective>灰熊皮</Bear_Grizzly_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <Bear_Grizzly_Corpse.label>灰熊尸体</Bear_Grizzly_Corpse.label>
   <Bear_Grizzly_Corpse.description>灰熊尸体</Bear_Grizzly_Corpse.description>
@@ -18,9 +18,9 @@
   <Bear_Polar.tools.0.label>左爪</Bear_Polar.tools.0.label>
   <Bear_Polar.tools.1.label>右爪</Bear_Polar.tools.1.label>
   <Bear_Polar.tools.3.label>头</Bear_Polar.tools.3.label>
-  <Bear_Polar_Leather.label>北极熊皮</Bear_Polar_Leather.label>
+  <!-- <Bear_Polar_Leather.label>北极熊皮</Bear_Polar_Leather.label>
   <Bear_Polar_Leather.description>北极熊皮</Bear_Polar_Leather.description>
-  <Bear_Polar_Leather.stuffProps.stuffAdjective>北极熊皮</Bear_Polar_Leather.stuffProps.stuffAdjective>
+  <Bear_Polar_Leather.stuffProps.stuffAdjective>北极熊皮</Bear_Polar_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <Bear_Polar_Corpse.label>北极熊尸体</Bear_Polar_Corpse.label>
   <Bear_Polar_Corpse.description>北极熊尸体</Bear_Polar_Corpse.description>
@@ -30,9 +30,9 @@
   <PandaBear.tools.0.label>左爪</PandaBear.tools.0.label>
   <PandaBear.tools.1.label>右爪</PandaBear.tools.1.label>
   <PandaBear.tools.3.label>头</PandaBear.tools.3.label>
-  <PandaBear_Leather.label>熊猫皮</PandaBear_Leather.label>
+  <!-- <PandaBear_Leather.label>熊猫皮</PandaBear_Leather.label>
   <PandaBear_Leather.description>熊猫皮</PandaBear_Leather.description>
-  <PandaBear_Leather.stuffProps.stuffAdjective>熊猫皮</PandaBear_Leather.stuffProps.stuffAdjective>
+  <PandaBear_Leather.stuffProps.stuffAdjective>熊猫皮</PandaBear_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <PandaBear_Corpse.label>熊猫尸体</PandaBear_Corpse.label>
   <PandaBear_Corpse.description>熊猫尸体</PandaBear_Corpse.description>

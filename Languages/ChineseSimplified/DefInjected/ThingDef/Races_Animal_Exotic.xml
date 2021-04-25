@@ -8,9 +8,9 @@
   <Feenix.tools.0.label>左爪</Feenix.tools.0.label>
   <Feenix.tools.1.label>右爪</Feenix.tools.1.label>
   <Feenix.tools.3.label>头</Feenix.tools.3.label>
-  <Feenix_Leather.label>芬尼克斯皮</Feenix_Leather.label>
+  <!-- <Feenix_Leather.label>芬尼克斯皮</Feenix_Leather.label>
   <Feenix_Leather.description>芬尼克斯皮</Feenix_Leather.description>
-  <Feenix_Leather.stuffProps.stuffAdjective>芬尼克斯皮</Feenix_Leather.stuffProps.stuffAdjective>
+  <Feenix_Leather.stuffProps.stuffAdjective>芬尼克斯皮</Feenix_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <Feenix_Corpse.label>芬尼克斯尸体</Feenix_Corpse.label>
   <Feenix_Corpse.description>芬尼克斯尸体</Feenix_Corpse.description>
@@ -23,9 +23,9 @@
   <GreenWyvern.tools.0.label>左爪</GreenWyvern.tools.0.label>
   <GreenWyvern.tools.1.label>右爪</GreenWyvern.tools.1.label>
   <GreenWyvern.tools.3.label>头</GreenWyvern.tools.3.label>
-  <GreenWyvern_Leather.label>绿飞龙皮</GreenWyvern_Leather.label>
+ <!--  <GreenWyvern_Leather.label>绿飞龙皮</GreenWyvern_Leather.label>
   <GreenWyvern_Leather.description>绿飞龙皮</GreenWyvern_Leather.description>
-  <GreenWyvern_Leather.stuffProps.stuffAdjective>绿飞龙皮</GreenWyvern_Leather.stuffProps.stuffAdjective>
+  <GreenWyvern_Leather.stuffProps.stuffAdjective>绿飞龙皮</GreenWyvern_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <GreenWyvern_Corpse.label>绿飞龙尸体</GreenWyvern_Corpse.label>
   <GreenWyvern_Corpse.description>绿飞龙尸体</GreenWyvern_Corpse.description>
@@ -38,9 +38,9 @@
   <Kirin.tools.0.label>左爪</Kirin.tools.0.label>
   <Kirin.tools.1.label>右爪</Kirin.tools.1.label>
   <Kirin.tools.3.label>头</Kirin.tools.3.label>
-  <Kirin_Leather.label>冰麟皮</Kirin_Leather.label>
+  <!-- <Kirin_Leather.label>冰麟皮</Kirin_Leather.label>
   <Kirin_Leather.description>冰麟皮</Kirin_Leather.description>
-  <Kirin_Leather.stuffProps.stuffAdjective>冰麟皮</Kirin_Leather.stuffProps.stuffAdjective>
+  <Kirin_Leather.stuffProps.stuffAdjective>冰麟皮</Kirin_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <Kirin_Corpse.label>冰麟尸体</Kirin_Corpse.label>
   <Kirin_Corpse.description>冰麟尸体</Kirin_Corpse.description>
@@ -55,9 +55,9 @@
   <Behir.tools.2.label>左爪</Behir.tools.2.label>
   <Behir.tools.3.label>右爪</Behir.tools.3.label>
   <Behir.tools.5.label>头</Behir.tools.5.label>
-  <Behir_Leather.label>青足龙蛇皮</Behir_Leather.label>
+  <!-- <Behir_Leather.label>青足龙蛇皮</Behir_Leather.label>
   <Behir_Leather.description>青足龙蛇皮</Behir_Leather.description>
-  <Behir_Leather.stuffProps.stuffAdjective>青足龙蛇皮</Behir_Leather.stuffProps.stuffAdjective>
+  <Behir_Leather.stuffProps.stuffAdjective>青足龙蛇皮</Behir_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <Behir_Corpse.label>青足龙蛇尸体</Behir_Corpse.label>
   <Behir_Corpse.description>青足龙蛇尸体</Behir_Corpse.description>
@@ -72,9 +72,9 @@
   <FRaptor.tools.2.label>左爪</FRaptor.tools.2.label>
   <FRaptor.tools.3.label>右爪</FRaptor.tools.3.label>
   <FRaptor.tools.5.label>头</FRaptor.tools.5.label>
-  <FRaptor_Leather.label>翼猛龙皮</FRaptor_Leather.label>
+  <!-- <FRaptor_Leather.label>翼猛龙皮</FRaptor_Leather.label>
   <FRaptor_Leather.description>翼猛龙皮</FRaptor_Leather.description>
-  <FRaptor_Leather.stuffProps.stuffAdjective>翼猛龙皮</FRaptor_Leather.stuffProps.stuffAdjective>
+  <FRaptor_Leather.stuffProps.stuffAdjective>翼猛龙皮</FRaptor_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <FRaptor_Corpse.label>翼猛龙尸体</FRaptor_Corpse.label>
   <FRaptor_Corpse.description>翼猛龙尸体</FRaptor_Corpse.description>
@@ -87,9 +87,9 @@
   <Barghest.tools.0.label>左爪</Barghest.tools.0.label>
   <Barghest.tools.1.label>右爪</Barghest.tools.1.label>
   <Barghest.tools.3.label>头</Barghest.tools.3.label>
-  <Barghest_Leather.label>犬魔皮</Barghest_Leather.label>
+  <!-- <Barghest_Leather.label>犬魔皮</Barghest_Leather.label>
   <Barghest_Leather.description>犬魔皮</Barghest_Leather.description>
-  <Barghest_Leather.stuffProps.stuffAdjective>犬魔皮</Barghest_Leather.stuffProps.stuffAdjective>
+  <Barghest_Leather.stuffProps.stuffAdjective>犬魔皮</Barghest_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Barghest_Corpse.label>犬魔尸体</Barghest_Corpse.label>
   <Barghest_Corpse.description>犬魔尸体</Barghest_Corpse.description>

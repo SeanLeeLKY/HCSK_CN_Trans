@@ -9,9 +9,9 @@
   <Deer.tools.1.label>右蹄</Deer.tools.1.label>
   <Deer.tools.3.label>头</Deer.tools.3.label>
   <Deer.tools.4.label>角</Deer.tools.4.label>
-  <Deer_Leather.label>鹿皮</Deer_Leather.label>
+  <!-- <Deer_Leather.label>鹿皮</Deer_Leather.label>
   <Deer_Leather.description>鹿皮</Deer_Leather.description>
-  <Deer_Leather.stuffProps.stuffAdjective>鹿皮</Deer_Leather.stuffProps.stuffAdjective>
+  <Deer_Leather.stuffProps.stuffAdjective>鹿皮</Deer_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <Deer_Corpse.label>鹿尸体</Deer_Corpse.label>
   <Deer_Corpse.description>鹿尸体</Deer_Corpse.description>
@@ -25,9 +25,9 @@
   <Ibex.tools.1.label>右蹄</Ibex.tools.1.label>
   <Ibex.tools.3.label>头</Ibex.tools.3.label>
   <Ibex.tools.4.label>角</Ibex.tools.4.label>
-  <Ibex_Leather.label>野山羊皮</Ibex_Leather.label>
+  <!-- <Ibex_Leather.label>野山羊皮</Ibex_Leather.label>
   <Ibex_Leather.description>野山羊皮</Ibex_Leather.description>
-  <Ibex_Leather.stuffProps.stuffAdjective>野山羊皮</Ibex_Leather.stuffProps.stuffAdjective>
+  <Ibex_Leather.stuffProps.stuffAdjective>野山羊皮</Ibex_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <Ibex_Corpse.label>野山羊尸体</Ibex_Corpse.label>
   <Ibex_Corpse.description>野山羊尸体</Ibex_Corpse.description>
@@ -41,9 +41,9 @@
   <Elk.tools.1.label>右蹄</Elk.tools.1.label>
   <Elk.tools.3.label>头</Elk.tools.3.label>
   <Elk.tools.4.label>角</Elk.tools.4.label>
-  <Elk_Leather.label>驼鹿皮</Elk_Leather.label>
+  <!-- <Elk_Leather.label>驼鹿皮</Elk_Leather.label>
   <Elk_Leather.description>驼鹿皮</Elk_Leather.description>
-  <Elk_Leather.stuffProps.stuffAdjective>驼鹿皮</Elk_Leather.stuffProps.stuffAdjective>
+  <Elk_Leather.stuffProps.stuffAdjective>驼鹿皮</Elk_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <Elk_Corpse.label>驼鹿尸体</Elk_Corpse.label>
   <Elk_Corpse.description>驼鹿尸体</Elk_Corpse.description>
@@ -57,9 +57,9 @@
   <Caribou.tools.1.label>右蹄</Caribou.tools.1.label>
   <Caribou.tools.3.label>头</Caribou.tools.3.label>
   <Caribou.tools.4.label>角</Caribou.tools.4.label>
-  <Caribou_Leather.label>驯鹿皮</Caribou_Leather.label>
+  <!-- <Caribou_Leather.label>驯鹿皮</Caribou_Leather.label>
   <Caribou_Leather.description>驯鹿皮</Caribou_Leather.description>
-  <Caribou_Leather.stuffProps.stuffAdjective>驯鹿皮</Caribou_Leather.stuffProps.stuffAdjective>
+  <Caribou_Leather.stuffProps.stuffAdjective>驯鹿皮</Caribou_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <Caribou_Corpse.label>驯鹿尸体</Caribou_Corpse.label>
   <Caribou_Corpse.description>驯鹿尸体</Caribou_Corpse.description>
@@ -72,9 +72,9 @@
   <WildBoar.tools.0.label>獠牙</WildBoar.tools.0.label>
   <WildBoar.tools.1.label>獠牙</WildBoar.tools.1.label>
   <WildBoar.tools.3.label>头</WildBoar.tools.3.label>
-  <WildBoar_Leather.label>野猪皮</WildBoar_Leather.label>
+  <!-- <WildBoar_Leather.label>野猪皮</WildBoar_Leather.label>
   <WildBoar_Leather.description>野猪皮</WildBoar_Leather.description>
-  <WildBoar_Leather.stuffProps.stuffAdjective>野猪皮</WildBoar_Leather.stuffProps.stuffAdjective>
+  <WildBoar_Leather.stuffProps.stuffAdjective>野猪皮</WildBoar_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <WildBoar_Corpse.label>野猪尸体</WildBoar_Corpse.label>
   <WildBoar_Corpse.description>野猪尸体</WildBoar_Corpse.description>
@@ -85,9 +85,9 @@
   <Tortoise.label>乌龟</Tortoise.label>
   <Tortoise.description>这种身披重甲的陆生爬行动物以其缓慢的移动速度和令人惊讶的恶毒撕咬而闻名。由于其天然的护甲，它很难被杀死，在长时间的肉搏战斗中可以造成严重的伤害。</Tortoise.description>
   <Tortoise.tools.1.label>头</Tortoise.tools.1.label>
-  <Tortoise_Leather.label>乌龟皮</Tortoise_Leather.label>
+ <!--  <Tortoise_Leather.label>乌龟皮</Tortoise_Leather.label>
   <Tortoise_Leather.description>乌龟皮</Tortoise_Leather.description>
-  <Tortoise_Leather.stuffProps.stuffAdjective>乌龟皮</Tortoise_Leather.stuffProps.stuffAdjective>
+  <Tortoise_Leather.stuffProps.stuffAdjective>乌龟皮</Tortoise_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Tortoise_Corpse.label>乌龟尸体</Tortoise_Corpse.label>
   <Tortoise_Corpse.description>乌龟尸体</Tortoise_Corpse.description>

@@ -8,9 +8,9 @@
   <Rhinoceros.tools.0.label>角</Rhinoceros.tools.0.label>
   <Rhinoceros.tools.1.label>角</Rhinoceros.tools.1.label>
   <Rhinoceros.tools.3.label>头</Rhinoceros.tools.3.label>
-  <Rhinoceros_Leather.label>犀牛皮</Rhinoceros_Leather.label>
+  <!-- <Rhinoceros_Leather.label>犀牛皮</Rhinoceros_Leather.label>
   <Rhinoceros_Leather.description>犀牛皮</Rhinoceros_Leather.description>
-  <Rhinoceros_Leather.stuffProps.stuffAdjective>犀牛皮</Rhinoceros_Leather.stuffProps.stuffAdjective>
+  <Rhinoceros_Leather.stuffProps.stuffAdjective>犀牛皮</Rhinoceros_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Rhinoceros_Corpse.label>犀牛尸体</Rhinoceros_Corpse.label>
   <Rhinoceros_Corpse.description>犀牛尸体</Rhinoceros_Corpse.description>
@@ -24,9 +24,9 @@
   <Elephant.tools.1.label>左足</Elephant.tools.1.label>
   <Elephant.tools.2.label>右足</Elephant.tools.2.label>
   <Elephant.tools.3.label>头</Elephant.tools.3.label>
-  <Elephant_Leather.label>象皮</Elephant_Leather.label>
+  <!-- <Elephant_Leather.label>象皮</Elephant_Leather.label>
   <Elephant_Leather.description>象皮</Elephant_Leather.description>
-  <Elephant_Leather.stuffProps.stuffAdjective>象皮</Elephant_Leather.stuffProps.stuffAdjective>
+  <Elephant_Leather.stuffProps.stuffAdjective>象皮</Elephant_Leather.stuffProps.stuffAdjective> -->
   <Elephant_Meat.label>生肉</Elephant_Meat.label>
   <Elephant_Meat.description>生肉</Elephant_Meat.description>
   <Elephant_Corpse.label>大象尸体</Elephant_Corpse.label>
@@ -37,9 +37,9 @@
   <Mammoth.tools.1.label>左足</Mammoth.tools.1.label>
   <Mammoth.tools.2.label>右足</Mammoth.tools.2.label>
   <Mammoth.tools.3.label>头</Mammoth.tools.3.label>
-  <Mammoth_Leather.label>猛玛皮</Mammoth_Leather.label>
+ <!--  <Mammoth_Leather.label>猛玛皮</Mammoth_Leather.label>
   <Mammoth_Leather.description>猛玛皮</Mammoth_Leather.description>
-  <Mammoth_Leather.stuffProps.stuffAdjective>猛玛皮</Mammoth_Leather.stuffProps.stuffAdjective>
+  <Mammoth_Leather.stuffProps.stuffAdjective>猛玛皮</Mammoth_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Mammoth_Corpse.label>猛玛尸体</Mammoth_Corpse.label>
   <Mammoth_Corpse.description>猛玛尸体</Mammoth_Corpse.description>
@@ -52,9 +52,9 @@
   <Megasloth.tools.0.label>左爪</Megasloth.tools.0.label>
   <Megasloth.tools.1.label>右爪</Megasloth.tools.1.label>
   <Megasloth.tools.2.label>头</Megasloth.tools.2.label>
-  <Megasloth_Leather.label>巨懒皮</Megasloth_Leather.label>
+  <!-- <Megasloth_Leather.label>巨懒皮</Megasloth_Leather.label>
   <Megasloth_Leather.description>巨懒皮</Megasloth_Leather.description>
-  <Megasloth_Leather.stuffProps.stuffAdjective>巨懒皮</Megasloth_Leather.stuffProps.stuffAdjective>
+  <Megasloth_Leather.stuffProps.stuffAdjective>巨懒皮</Megasloth_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Megasloth_Corpse.label>巨懒尸体</Megasloth_Corpse.label>
   <Megasloth_Corpse.description>巨懒尸体</Megasloth_Corpse.description>
@@ -69,9 +69,9 @@
   <Thrumbo.tools.2.label>左足</Thrumbo.tools.2.label>
   <Thrumbo.tools.3.label>右足</Thrumbo.tools.3.label>
   <Thrumbo.tools.5.label>头</Thrumbo.tools.5.label>
-  <Thrumbo_Leather.label>敲击兽皮</Thrumbo_Leather.label>
+  <!-- <Thrumbo_Leather.label>敲击兽皮</Thrumbo_Leather.label>
   <Thrumbo_Leather.description>敲击兽皮</Thrumbo_Leather.description>
-  <Thrumbo_Leather.stuffProps.stuffAdjective>敲击兽皮</Thrumbo_Leather.stuffProps.stuffAdjective>
+  <Thrumbo_Leather.stuffProps.stuffAdjective>敲击兽皮</Thrumbo_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Muffalo -->
   <Thrumbo_Corpse.label>敲击兽尸体</Thrumbo_Corpse.label>
   <Thrumbo_Corpse.description>敲击兽尸体</Thrumbo_Corpse.description>
@@ -84,9 +84,9 @@
   <Megabadger.tools.0.label>左爪</Megabadger.tools.0.label>
   <Megabadger.tools.1.label>右爪</Megabadger.tools.1.label>
   <Megabadger.tools.3.label>头</Megabadger.tools.3.label>
-  <Megabadger_Leather.label>巨獾皮</Megabadger_Leather.label>
+  <!-- <Megabadger_Leather.label>巨獾皮</Megabadger_Leather.label>
   <Megabadger_Leather.description>巨獾皮</Megabadger_Leather.description>
-  <Megabadger_Leather.stuffProps.stuffAdjective>巨獾皮</Megabadger_Leather.stuffProps.stuffAdjective>
+  <Megabadger_Leather.stuffProps.stuffAdjective>巨獾皮</Megabadger_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Megabadger_Corpse.label>巨獾尸体</Megabadger_Corpse.label>
   <Megabadger_Corpse.description>巨獾尸体</Megabadger_Corpse.description>
@@ -99,9 +99,9 @@
   <Rhino_Wooly.tools.0.label>角</Rhino_Wooly.tools.0.label>
   <Rhino_Wooly.tools.1.label>角</Rhino_Wooly.tools.1.label>
   <Rhino_Wooly.tools.3.label>头</Rhino_Wooly.tools.3.label>
-  <Rhino_Wooly_Leather.label>披毛犀皮</Rhino_Wooly_Leather.label>
+ <!--  <Rhino_Wooly_Leather.label>披毛犀皮</Rhino_Wooly_Leather.label>
   <Rhino_Wooly_Leather.description>披毛犀皮</Rhino_Wooly_Leather.description>
-  <Rhino_Wooly_Leather.stuffProps.stuffAdjective>披毛犀皮</Rhino_Wooly_Leather.stuffProps.stuffAdjective>
+  <Rhino_Wooly_Leather.stuffProps.stuffAdjective>披毛犀皮</Rhino_Wooly_Leather.stuffProps.stuffAdjective> -->
   <!-- Use Meat From: Elephant -->
   <Rhino_Wooly_Corpse.label>披毛犀尸体</Rhino_Wooly_Corpse.label>
   <Rhino_Wooly_Corpse.description>披毛犀尸体</Rhino_Wooly_Corpse.description>
