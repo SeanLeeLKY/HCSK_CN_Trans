@@ -6,7 +6,7 @@
   <Ammo_6x24mmCharged.label>6x24mm 电荷弹</Ammo_6x24mmCharged.label>
   <Ammo_6x24mmCharged.description>先进的突击步枪所使用的电荷子弹。</Ammo_6x24mmCharged.description>
 
-  <Ammo_6x24mmCharged_AP.label>6x24mm 电荷弹（集中）</Ammo_6x24mmCharged_AP.label>
+  <Ammo_6x24mmCharged_AP.label>6x24mm 电荷弹（聚能）</Ammo_6x24mmCharged_AP.label>
   <Ammo_6x24mmCharged_AP.description>先进的突击步枪所使用的电荷子弹。</Ammo_6x24mmCharged_AP.description>
 
   <Ammo_6x24mmCharged_Ion.label>6x24mm 电荷弹（离子）</Ammo_6x24mmCharged_Ion.label>
@@ -16,7 +16,7 @@
   <!-- Projectiles -->
 
   <Bullet_6x24mmCharged.label>6x24mm 电荷弹</Bullet_6x24mmCharged.label>
-  <Bullet_6x24mmCharged_AP.label>6x24mm 电荷弹（集中）</Bullet_6x24mmCharged_AP.label>
+  <Bullet_6x24mmCharged_AP.label>6x24mm 电荷弹（聚能）</Bullet_6x24mmCharged_AP.label>
   <Bullet_6x24mmCharged_Ion.label>6x24mm 电荷弹（离子）</Bullet_6x24mmCharged_Ion.label>
 
 

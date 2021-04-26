@@ -106,10 +106,10 @@
   <CoalPowerPlant_Frame.description>使用煤炭类燃料来发电的设备。能够使用煤炭或者泥炭作为燃料。电力输出：2000W。</CoalPowerPlant_Frame.description>
 
   <ChemfuelPoweredGenerator.label>燃料发电机</ChemfuelPoweredGenerator.label>
-  <ChemfuelPoweredGenerator.description>使用特殊燃料发电的设备。能够用燃油，神焰（燃剂）或者FSX作为燃料。</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator.description>使用特殊燃料发电的设备。能够用燃油，神焰燃剂或者FSX作为燃料。</ChemfuelPoweredGenerator.description>
   <ChemfuelPoweredGenerator_Blueprint.label>燃料发电机（蓝图）</ChemfuelPoweredGenerator_Blueprint.label>
   <ChemfuelPoweredGenerator_Frame.label>燃料发电机（建造中）</ChemfuelPoweredGenerator_Frame.label>
-  <ChemfuelPoweredGenerator_Frame.description>使用特殊燃料发电的设备。能够用燃油，神焰（燃剂）或者FSX作为燃料。</ChemfuelPoweredGenerator_Frame.description>
+  <ChemfuelPoweredGenerator_Frame.description>使用特殊燃料发电的设备。能够用燃油，神焰燃剂或者FSX作为燃料。</ChemfuelPoweredGenerator_Frame.description>
 
   <GeothermalGenerator.label>地热能发电机</GeothermalGenerator.label>
   <GeothermalGenerator.description>利用蒸汽间歇喷泉的地热来发电。必须放置在蒸汽间歇喷泉上。电力输出：2500W。</GeothermalGenerator.description>
