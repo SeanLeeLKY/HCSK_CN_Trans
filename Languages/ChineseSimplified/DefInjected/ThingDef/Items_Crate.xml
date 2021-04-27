@@ -99,9 +99,9 @@
   <SentryBlasterTurret_Crate.description>用于建造自动哨戒炮塔，一种自动机枪炮塔。需要电力才能运作。</SentryBlasterTurret_Crate.description>
   <SentryBlasterTurret_Crate.stuffProps.stuffAdjective>自动哨戒炮塔组件箱</SentryBlasterTurret_Crate.stuffProps.stuffAdjective>
 
-  <LaserTurret_Crate.label>激光炮塔组件箱</LaserTurret_Crate.label>
-  <LaserTurret_Crate.description>用于建造激光炮塔，一种无人自动炮塔。需要电力才能运作。</LaserTurret_Crate.description>
-  <LaserTurret_Crate.stuffProps.stuffAdjective>激光炮塔组件箱</LaserTurret_Crate.stuffProps.stuffAdjective>
+  <LaserTurret_Crate.label>光束炮塔组件箱</LaserTurret_Crate.label>
+  <LaserTurret_Crate.description>用于建造光束炮塔，一种无人自动炮塔。需要电力才能运作。</LaserTurret_Crate.description>
+  <LaserTurret_Crate.stuffProps.stuffAdjective>光束炮塔组件箱</LaserTurret_Crate.stuffProps.stuffAdjective>
 
 
 </LanguageData>

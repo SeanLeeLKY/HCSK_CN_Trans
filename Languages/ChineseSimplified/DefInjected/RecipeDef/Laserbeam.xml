@@ -3,13 +3,13 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_ChargedLaser.label>制造 电荷激光束 x40</MakeAmmo_ChargedLaser.label>
-  <MakeAmmo_ChargedLaser.description>制造 40 电荷激光束。</MakeAmmo_ChargedLaser.description>
-  <MakeAmmo_ChargedLaser.jobString>正在制造 电荷激光束。</MakeAmmo_ChargedLaser.jobString>
+  <MakeAmmo_ChargedLaser.label>制造 电荷光束弹 x40</MakeAmmo_ChargedLaser.label>
+  <MakeAmmo_ChargedLaser.description>制造 40 电荷光束弹。</MakeAmmo_ChargedLaser.description>
+  <MakeAmmo_ChargedLaser.jobString>正在制造 电荷光束弹。</MakeAmmo_ChargedLaser.jobString>
 
-  <MakeAmmo_ChargedLaser_Stable.label>制造 电荷激光束（稳态） x40</MakeAmmo_ChargedLaser_Stable.label>
-  <MakeAmmo_ChargedLaser_Stable.description>制造 40 电荷激光束（稳态）。</MakeAmmo_ChargedLaser_Stable.description>
-  <MakeAmmo_ChargedLaser_Stable.jobString>正在制造 电荷激光束（稳态）。</MakeAmmo_ChargedLaser_Stable.jobString>
+  <MakeAmmo_ChargedLaser_Stable.label>制造 电荷光束弹（稳态） x40</MakeAmmo_ChargedLaser_Stable.label>
+  <MakeAmmo_ChargedLaser_Stable.description>制造 40 电荷光束弹（稳态）。</MakeAmmo_ChargedLaser_Stable.description>
+  <MakeAmmo_ChargedLaser_Stable.jobString>正在制造 电荷光束弹（稳态）。</MakeAmmo_ChargedLaser_Stable.jobString>
 
 
 </LanguageData>

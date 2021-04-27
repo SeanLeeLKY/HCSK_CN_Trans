@@ -53,9 +53,9 @@
   <MakePlasma_Component.description>用于制造各类离子武器的特殊部件。 \n\n产出：1。</MakePlasma_Component.description>
   <MakePlasma_Component.jobString>正在制造离子武器部件。</MakePlasma_Component.jobString>
 
-  <MakeLaser_Component.label>制造 激光武器部件</MakeLaser_Component.label>
-  <MakeLaser_Component.description>用于制造各类激光武器的特殊部件。 \n\n产出：1。</MakeLaser_Component.description>
-  <MakeLaser_Component.jobString>正在制造激光武器部件。</MakeLaser_Component.jobString>
+  <MakeLaser_Component.label>制造 光束武器部件</MakeLaser_Component.label>
+  <MakeLaser_Component.description>用于制造各类光束武器的特殊部件。 \n\n产出：1。</MakeLaser_Component.description>
+  <MakeLaser_Component.jobString>正在制造光束武器部件。</MakeLaser_Component.jobString>
 
 
 </LanguageData>

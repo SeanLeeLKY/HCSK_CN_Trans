@@ -10,7 +10,7 @@
   <Microwave.label>微波</Microwave.label>
   <Microwave.deathMessage>{0} 被烧死了。</Microwave.deathMessage>
 
-  <LaserBurn.label>激光灼烧</LaserBurn.label>
+  <LaserBurn.label>光束灼烧</LaserBurn.label>
   <LaserBurn.deathMessage>{0} 被烧死了。</LaserBurn.deathMessage>
 
   <ElectricShock.label>电击</ElectricShock.label>

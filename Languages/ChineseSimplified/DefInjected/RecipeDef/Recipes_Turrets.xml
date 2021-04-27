@@ -109,9 +109,9 @@
   <BuildSentryBlasterTurret_Crate.description>用于建造 自动哨戒炮塔, 可以自行攻击附近的敌人。需要充足的电力来保证其正常运转。</BuildSentryBlasterTurret_Crate.description>
   <BuildSentryBlasterTurret_Crate.jobString>正在制造 自动哨戒炮塔组件箱。</BuildSentryBlasterTurret_Crate.jobString>
 
-  <BuildLaserTurret_Crate.label>制造 激光炮塔组件箱</BuildLaserTurret_Crate.label>
-  <BuildLaserTurret_Crate.description>用于建造 激光炮塔, 可以自行攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildLaserTurret_Crate.description>
-  <BuildLaserTurret_Crate.jobString>正在制造 激光炮塔组件箱</BuildLaserTurret_Crate.jobString>
+  <BuildLaserTurret_Crate.label>制造 光束炮塔组件箱</BuildLaserTurret_Crate.label>
+  <BuildLaserTurret_Crate.description>用于建造 光束炮塔, 可以自行攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildLaserTurret_Crate.description>
+  <BuildLaserTurret_Crate.jobString>正在制造 光束炮塔组件箱</BuildLaserTurret_Crate.jobString>
 
 
 </LanguageData>

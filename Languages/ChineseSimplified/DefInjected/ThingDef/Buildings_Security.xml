@@ -35,11 +35,11 @@
   <Turret_Blaster_Frame.description>由AI控制的电荷冲击炮塔，会自动攻击靠近的敌人。\n电力需求：1200W\n弹种：6x24mm电荷弹</Turret_Blaster_Frame.description>
 
   <Turret_Sniper.label>光束哨戒炮塔</Turret_Sniper.label>
-  <Turret_Sniper.description>由AI控制的精密光学校准炮塔。可以在远距离上发射精确的单一激光束。\n电力需求：1500W\n弹种：电荷激光束</Turret_Sniper.description>
+  <Turret_Sniper.description>由AI控制的精密光学校准炮塔。可以在远距离上发射精确的单一光束弹。\n电力需求：1500W\n弹种：电荷光束弹</Turret_Sniper.description>
   <Turret_Sniper_Blueprint.label>光束哨戒炮塔（蓝图）</Turret_Sniper_Blueprint.label>
   <Turret_Sniper_Blueprint_Install.label>光束哨戒炮塔（蓝图）</Turret_Sniper_Blueprint_Install.label>
   <Turret_Sniper_Frame.label>光束哨戒炮塔（建造中）</Turret_Sniper_Frame.label>
-  <Turret_Sniper_Frame.description>由AI控制的精密光学校准炮塔。可以在远距离上发射精确的单一激光束。\n电力需求：1500W\n弹种：电荷激光束</Turret_Sniper_Frame.description>
+  <Turret_Sniper_Frame.description>由AI控制的精密光学校准炮塔。可以在远距离上发射精确的单一光束弹。\n电力需求：1500W\n弹种：电荷光束弹</Turret_Sniper_Frame.description>
 
   <Turret_Autocannon.label>重型哨戒炮塔</Turret_Autocannon.label>
   <Turret_Autocannon.description>由AI控制的大载弹量机枪塔。能够抵抗大量伤害。\n电力需求：1800W\n弹种：14.5x114mm机枪弹</Turret_Autocannon.description>

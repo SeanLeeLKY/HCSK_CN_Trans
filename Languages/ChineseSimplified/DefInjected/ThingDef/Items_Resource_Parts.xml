@@ -79,9 +79,9 @@
   <Plasma_Component.description>离子武器的主要部件。</Plasma_Component.description>
   <Plasma_Component.stuffProps.stuffAdjective>离子武器部件</Plasma_Component.stuffProps.stuffAdjective>
 
-  <Laser_Component.label>激光武器部件</Laser_Component.label>
-  <Laser_Component.description>激光武器的主要部件。</Laser_Component.description>
-  <Laser_Component.stuffProps.stuffAdjective>激光武器部件</Laser_Component.stuffProps.stuffAdjective>
+  <Laser_Component.label>光束武器部件</Laser_Component.label>
+  <Laser_Component.description>光束武器的主要部件。</Laser_Component.description>
+  <Laser_Component.stuffProps.stuffAdjective>光束武器部件</Laser_Component.stuffProps.stuffAdjective>
 
   <ReinforcedConcrete.label>钢筋混凝土</ReinforcedConcrete.label>
   <ReinforcedConcrete.description>钢筋混凝土是由混凝土和金属制成的，是一种加强混合物。</ReinforcedConcrete.description>

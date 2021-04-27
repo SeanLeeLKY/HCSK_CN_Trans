@@ -15,8 +15,8 @@
 
   <!-- turret laser gun -->
 
-  <Gun_TurretSniper.label>炮塔激光枪</Gun_TurretSniper.label>
-  <Gun_TurretSniper.description>安装在基座上的激光武器。</Gun_TurretSniper.description>
+  <Gun_TurretSniper.label>炮塔光束枪</Gun_TurretSniper.label>
+  <Gun_TurretSniper.description>安装在基座上的光束武器。</Gun_TurretSniper.description>
 
 
   <!-- Heavy Turret -->
