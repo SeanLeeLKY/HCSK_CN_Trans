@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Desperado -->
+
+  <KingdomDesperado.label>Kingdom Desperado</KingdomDesperado.label>
+  <KingdomDesperado.labelPlural>Kingdom Desperados</KingdomDesperado.labelPlural>
+
+
+  <!-- Brigand -->
+
+  <KingdomBrigand.label>Kingdom Brigand</KingdomBrigand.label>
+  <KingdomBrigand.labelPlural>Kingdom Brigands</KingdomBrigand.labelPlural>
+  <KingdomBrigand.labelMale>male Kingdom Brigand</KingdomBrigand.labelMale>
+  <KingdomBrigand.labelMalePlural>male Kingdom Brigands</KingdomBrigand.labelMalePlural>
+  <KingdomBrigand.labelFemale>female Kingdom Brigand</KingdomBrigand.labelFemale>
+  <KingdomBrigand.labelFemalePlural>female Kingdom Brigands</KingdomBrigand.labelFemalePlural>
+
+
+  <!-- Trader -->
+
+  <KingdomTrader.label>Kingdom trader</KingdomTrader.label>
+  <KingdomTrader.labelPlural>Kingdom traders</KingdomTrader.labelPlural>
+  <KingdomTrader.labelMale>male Kingdom trader</KingdomTrader.labelMale>
+  <KingdomTrader.labelMalePlural>male Kingdom traders</KingdomTrader.labelMalePlural>
+  <KingdomTrader.labelFemale>female Kingdom trader</KingdomTrader.labelFemale>
+  <KingdomTrader.labelFemalePlural>female Kingdom traders</KingdomTrader.labelFemalePlural>
+
+  <KingdomHessian.label>Kingdom Hessian</KingdomHessian.label>
+  <KingdomHessian.labelPlural>Kingdom Hessians</KingdomHessian.labelPlural>
+  <KingdomHessian.labelMale>male Kingdom Hessian</KingdomHessian.labelMale>
+  <KingdomHessian.labelMalePlural>male Kingdom Hessians</KingdomHessian.labelMalePlural>
+  <KingdomHessian.labelFemale>female Kingdom Hessian</KingdomHessian.labelFemale>
+  <KingdomHessian.labelFemalePlural>female Kingdom Hessians</KingdomHessian.labelFemalePlural>
+
+
+  <!-- Exploder -->
+
+  <KingdomExploder.label>Kingdom Exploder</KingdomExploder.label>
+  <KingdomExploder.labelPlural>Kingdom Exploders</KingdomExploder.labelPlural>
+
+
+  <!-- King -->
+
+  <KingdomKing.label>Kingdom King</KingdomKing.label>
+  <KingdomKing.labelPlural>Kingdom Kings</KingdomKing.labelPlural>
+
+  <KingdomLaborer.label>kingdom laborer</KingdomLaborer.label>
+  <KingdomLaborer.labelPlural>kingdom laborers</KingdomLaborer.labelPlural>
+
+
+</LanguageData>

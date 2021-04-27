@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Faction permits -->
+
+  <CallLaborerTeamKingdom.label>call laborer team</CallLaborerTeamKingdom.label>
+  <CallLaborerTeamKingdom.description>Call a group of 4 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe.</CallLaborerTeamKingdom.description>
+
+  <CallLaborerGangKingdom.label>call laborer gang</CallLaborerGangKingdom.label>
+  <CallLaborerGangKingdom.description>Call a group of 8 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe.</CallLaborerGangKingdom.description>
+
+  <CallMercenaryKingdom.label>call a group of mercenary</CallMercenaryKingdom.label>
+  <CallMercenaryKingdom.description>Call a group of 10 desperado's to aid you in battle.</CallMercenaryKingdom.description>
+
+  <CallLegionKingdom.label>call a group of Legion</CallLegionKingdom.label>
+  <CallLegionKingdom.description>Call a group of 20 desperado's to aid you in battle.</CallLegionKingdom.description>
+
+  <CallKnightsKingdom.label>call a group of Knights</CallKnightsKingdom.label>
+  <CallKnightsKingdom.description>Call a group of 20 knights to aid you in battle.</CallKnightsKingdom.description>
+
+  <CallBlackKnightsKingdom.label>call a group of Black knights</CallBlackKnightsKingdom.label>
+  <CallBlackKnightsKingdom.description>Call a group of 20 black knights to aid you in battle.</CallBlackKnightsKingdom.description>
+
+
+</LanguageData>

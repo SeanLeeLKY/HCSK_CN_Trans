@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NamerPersonEmpireEN.rulePack.rulesStrings.0>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</NamerPersonEmpireEN.rulePack.rulesStrings.0>
+  <NamerPersonEmpireEN.rulePack.rulesStrings.1>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</NamerPersonEmpireEN.rulePack.rulesStrings.1>
+  <NamerPersonEmpireEN.rulePack.rulesStrings.2>r_name(p=2)->[WordImperial] [WordImperial]</NamerPersonEmpireEN.rulePack.rulesStrings.2>
+
+  <NamerPersonEmpireFemaleEN.rulePack.rulesStrings.0>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</NamerPersonEmpireFemaleEN.rulePack.rulesStrings.0>
+  <NamerPersonEmpireFemaleEN.rulePack.rulesStrings.1>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</NamerPersonEmpireFemaleEN.rulePack.rulesStrings.1>
+  <NamerPersonEmpireFemaleEN.rulePack.rulesStrings.2>r_name(p=2)->[WordImperial] [WordImperial]</NamerPersonEmpireFemaleEN.rulePack.rulesStrings.2>
+
+  <EmpireNameUtilityEN.rulePack.rulesStrings.0>WordImperial(p=4)->[SylB_EN][SylB_EN]</EmpireNameUtilityEN.rulePack.rulesStrings.0>
+  <EmpireNameUtilityEN.rulePack.rulesStrings.1>WordImperial(p=2)->[SylB_EN][SylB_EN][SylB_EN]</EmpireNameUtilityEN.rulePack.rulesStrings.1>
+  <EmpireNameUtilityEN.rulePack.rulesStrings.2>WordImperial(p=0.2)->[SylB_EN][SylB_EN][SylB_EN][SylB_EN]</EmpireNameUtilityEN.rulePack.rulesStrings.2>
+
+
+</LanguageData>
