@@ -49,9 +49,9 @@
   <UF_CreatingTooltip2_Quality>\n达到糟糕品质的时间：{TOAWFUL}。\n</UF_CreatingTooltip2_Quality>
   <UF_CreatingTooltip2_NoQuality>\n处理时间：{TIME}。\n</UF_CreatingTooltip2_NoQuality>
   <UF_CreatingTooltip3>\n理想工作温度：{MIN}~{MAX}。\n</UF_CreatingTooltip3>
-  <UF_CreatingTooltip4>安全温度：{MIN}~{MAX}。\n腐败率：{PERHOUR}/程度/每小时\n</UF_CreatingTooltip4>
-  <UF_CreatingTooltip5>\n{0}的产品已腐败。\n</UF_CreatingTooltip5>
-  <UF_CreatingTooltip6>正在腐败！温度读数为{0}！</UF_CreatingTooltip6>
+  <UF_CreatingTooltip4>安全温度：{MIN}~{MAX}。\n腐坏率：{PERHOUR}/程度/每小时\n</UF_CreatingTooltip4>
+  <UF_CreatingTooltip5>\n{0}的产品已腐坏。\n</UF_CreatingTooltip5>
+  <UF_CreatingTooltip6>正在腐坏！温度读数为{0}！</UF_CreatingTooltip6>
   <UF_SpeedTooltip1>{COMPLETEPERCENT}完成\n速度：{SPEED}\n\n</UF_SpeedTooltip1>
   <UF_SpeedTooltip2>速度因数：\n温度：{TEMPERATURE}\n风：{WIND}\n阳光：{SUN}\n雨：{RAIN}\n雪：{SNOW}\n\n</UF_SpeedTooltip2>
   <UF_SpeedTooltip3>预计完成时间：{ESTIMATED}</UF_SpeedTooltip3>
@@ -60,7 +60,7 @@
   <UF_QualityTooltipNA>{PRODUCT_label}始终是同样品质。</UF_QualityTooltipNA>
 
   <UF_WeatherTemperature>温度</UF_WeatherTemperature>
-  <UF_WeatherSunshine>晴</UF_WeatherSunshine>
+  <UF_WeatherSunshine>阳光</UF_WeatherSunshine>
   <UF_WeatherRain>雨</UF_WeatherRain>
   <UF_WeatherSnow>雪</UF_WeatherSnow>
   <UF_WeatherWind>风</UF_WeatherWind>
