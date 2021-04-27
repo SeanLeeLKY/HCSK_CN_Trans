@@ -3,50 +3,50 @@
 
   <!-- Desperado -->
 
-  <KingdomDesperado.label>Kingdom Desperado</KingdomDesperado.label>
-  <KingdomDesperado.labelPlural>Kingdom Desperados</KingdomDesperado.labelPlural>
+  <KingdomDesperado.label>王国暴徒</KingdomDesperado.label>
+  <KingdomDesperado.labelPlural>王国暴徒</KingdomDesperado.labelPlural>
 
 
   <!-- Brigand -->
 
-  <KingdomBrigand.label>Kingdom Brigand</KingdomBrigand.label>
-  <KingdomBrigand.labelPlural>Kingdom Brigands</KingdomBrigand.labelPlural>
-  <KingdomBrigand.labelMale>male Kingdom Brigand</KingdomBrigand.labelMale>
-  <KingdomBrigand.labelMalePlural>male Kingdom Brigands</KingdomBrigand.labelMalePlural>
-  <KingdomBrigand.labelFemale>female Kingdom Brigand</KingdomBrigand.labelFemale>
-  <KingdomBrigand.labelFemalePlural>female Kingdom Brigands</KingdomBrigand.labelFemalePlural>
+  <KingdomBrigand.label>王国土匪</KingdomBrigand.label>
+  <KingdomBrigand.labelPlural>王国土匪</KingdomBrigand.labelPlural>
+  <KingdomBrigand.labelMale>男性王国土匪</KingdomBrigand.labelMale>
+  <KingdomBrigand.labelMalePlural>男性王国土匪</KingdomBrigand.labelMalePlural>
+  <KingdomBrigand.labelFemale>女性王国土匪</KingdomBrigand.labelFemale>
+  <KingdomBrigand.labelFemalePlural>女性王国土匪</KingdomBrigand.labelFemalePlural>
 
 
   <!-- Trader -->
 
-  <KingdomTrader.label>Kingdom trader</KingdomTrader.label>
-  <KingdomTrader.labelPlural>Kingdom traders</KingdomTrader.labelPlural>
-  <KingdomTrader.labelMale>male Kingdom trader</KingdomTrader.labelMale>
-  <KingdomTrader.labelMalePlural>male Kingdom traders</KingdomTrader.labelMalePlural>
-  <KingdomTrader.labelFemale>female Kingdom trader</KingdomTrader.labelFemale>
-  <KingdomTrader.labelFemalePlural>female Kingdom traders</KingdomTrader.labelFemalePlural>
+  <KingdomTrader.label>王国商人</KingdomTrader.label>
+  <KingdomTrader.labelPlural>王国商人</KingdomTrader.labelPlural>
+  <KingdomTrader.labelMale>男性王国商人</KingdomTrader.labelMale>
+  <KingdomTrader.labelMalePlural>男性王国商人</KingdomTrader.labelMalePlural>
+  <KingdomTrader.labelFemale>女性王国商人</KingdomTrader.labelFemale>
+  <KingdomTrader.labelFemalePlural>女性王国商人</KingdomTrader.labelFemalePlural>
 
-  <KingdomHessian.label>Kingdom Hessian</KingdomHessian.label>
-  <KingdomHessian.labelPlural>Kingdom Hessians</KingdomHessian.labelPlural>
-  <KingdomHessian.labelMale>male Kingdom Hessian</KingdomHessian.labelMale>
-  <KingdomHessian.labelMalePlural>male Kingdom Hessians</KingdomHessian.labelMalePlural>
-  <KingdomHessian.labelFemale>female Kingdom Hessian</KingdomHessian.labelFemale>
-  <KingdomHessian.labelFemalePlural>female Kingdom Hessians</KingdomHessian.labelFemalePlural>
+  <KingdomHessian.label>王国雇佣军</KingdomHessian.label>
+  <KingdomHessian.labelPlural>王国雇佣军</KingdomHessian.labelPlural>
+  <KingdomHessian.labelMale>男性王国雇佣军</KingdomHessian.labelMale>
+  <KingdomHessian.labelMalePlural>男性王国雇佣军</KingdomHessian.labelMalePlural>
+  <KingdomHessian.labelFemale>女性王国雇佣军</KingdomHessian.labelFemale>
+  <KingdomHessian.labelFemalePlural>女性王国雇佣军</KingdomHessian.labelFemalePlural>
 
 
   <!-- Exploder -->
 
-  <KingdomExploder.label>Kingdom Exploder</KingdomExploder.label>
-  <KingdomExploder.labelPlural>Kingdom Exploders</KingdomExploder.labelPlural>
+  <KingdomExploder.label>王国爆破手</KingdomExploder.label>
+  <KingdomExploder.labelPlural>王国爆破手</KingdomExploder.labelPlural>
 
 
   <!-- King -->
 
-  <KingdomKing.label>Kingdom King</KingdomKing.label>
-  <KingdomKing.labelPlural>Kingdom Kings</KingdomKing.labelPlural>
+  <KingdomKing.label>王国国王</KingdomKing.label>
+  <KingdomKing.labelPlural>王国国王</KingdomKing.labelPlural>
 
-  <KingdomLaborer.label>kingdom laborer</KingdomLaborer.label>
-  <KingdomLaborer.labelPlural>kingdom laborers</KingdomLaborer.labelPlural>
+  <KingdomLaborer.label>王国劳工</KingdomLaborer.label>
+  <KingdomLaborer.labelPlural>王国劳工</KingdomLaborer.labelPlural>
 
 
 </LanguageData>

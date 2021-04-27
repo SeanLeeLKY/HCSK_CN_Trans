@@ -3,52 +3,52 @@
 
   <!-- Kingdom titles - Player gettable non-psycaster -->
 
-  <FreeholderKingdom.label>freeholder</FreeholderKingdom.label>
-  <FreeholderKingdom.description>The Royal title of freeholder gives an Royal citizen the right to own productive private property.\n\nIn the Kingdom, most freeholders own no more than a tiny shop or taxi, but some can become very wealthy as merchants, entrepreneurs, or investors.</FreeholderKingdom.description>
+  <FreeholderKingdom.label>自由民</FreeholderKingdom.label>
+  <FreeholderKingdom.description>自由民的头衔赋予了公民拥有生产资料私有化的权利。\n\n在王国中，大多数自由民只拥有一家小商店或出租车，但有些人可以成为商人、企业家或投资者，变得非常富有。</FreeholderKingdom.description>
 
 
   <!-- Kingdom titles - Player gettable psycaster -->
 
-  <YeomanKingdom.label>yeoman</YeomanKingdom.label>
-  <YeomanKingdom.description>The Royal title of yeoman is held by those who serve a noble lord in an important, specific way. While it is not a noble title and offers no economic rights beyond those of a freeholder, it does give the holder the right to use low-level psychic abilities.\n\nIn the Kingdom, this title is often held by high-level soldiers, warskiff pilots, spies, advisors, diplomats, intrusion operatives, and other key individuals.</YeomanKingdom.description>
+  <YeomanKingdom.label>文书官</YeomanKingdom.label>
+  <YeomanKingdom.description>文书官的头衔由那些以一种重要的、具体的方式为一位贵族服务的人所拥有。虽然这不是贵族头衔，实际的经济权利也与自由民无异，但它确实赋予了持有者使用低级心灵能力的权利。\n\n在王国中，这个头衔通常由高级士兵、战舰飞行员、间谍、顾问、外交官、特工和其他关键人士所持有。</YeomanKingdom.description>
 
-  <EsquireKingdom.label>esquire</EsquireKingdom.label>
-  <EsquireKingdom.description>The Royal title of esquire is held by individuals at the lowest level of nobility. Esquires are subordinate nobles who mostly do what their liege lord tells them.\n\nIn the Kingdom, esquires might own a city building or a farm complex. During wartime, an esquire might lead a platoon of troops, captain a frigate, or serve their lord as a specialist or advisor.\n\nTheir low rank makes them paradoxically less useful as diplomats than yeomen. Sending a low-ranked esquire to a negotiation can itself be seen as an insult, whereas a yeoman negotiator is seen as only representing his lord.</EsquireKingdom.description>
+  <EsquireKingdom.label>侍从</EsquireKingdom.label>
+  <EsquireKingdom.description>侍从皇家头衔是由贵族中最低阶层的个人拥有。侍从是处于从属地位的贵族，他们大多听从领主的命令。\n\n在王国里，侍从头衔的人们可能拥有一座城市建筑或一个农场综合体的所有权。在战时，侍从可能带领一个排的军队，亦可担任护卫舰舰长，或作为专家或顾问为其领主服务。\n\n矛盾的是，侍从的低级别使他们作为外交人员时还不如文书官有用。派一个低级别的侍从去谈判本身可以被视为一种侮辱，而一个文书官谈判员则可以被视为直接代表其领主本人。</EsquireKingdom.description>
 
-  <KnightKingdom.label>knight</KnightKingdom.label>
-  <KnightKingdom.labelFemale>dame</KnightKingdom.labelFemale>
-  <KnightKingdom.description>The Royal title of knight is held by subordinate nobles of significant stature, but without a leadership role. Knights serve higher lords in all their actions, but they are ranked high enough to command respect from everyone.\n\nIn the Kingdom, a knight will control a factory complex, commercial district, or small farming region. In combat, a knight typically leads a company of troops or a small fleet assault group. Knights are expected to engage personally in work and battle.</KnightKingdom.description>
+  <KnightKingdom.label>骑士</KnightKingdom.label>
+  <KnightKingdom.labelFemale>女骑士</KnightKingdom.labelFemale>
+  <KnightKingdom.description>骑士皇家头衔由具有重要地位的下属贵族持有，但没有领导权力。骑士们的所有行动是都为更高级的领主服务的，但他们的名誉地位很高，足以获得所有人的尊重。\n\n在王国中，骑士通常拥有一间工厂、商业区或小型农业区。在战时，骑士通常领导一个连的军队或一支小型突击舰队。骑士们要亲自参加工作和战斗。</KnightKingdom.description>
 
-  <PraetorKingdom.label>praetor</PraetorKingdom.label>
-  <PraetorKingdom.description>The Royal title of praetor is a bridge between the service-oriented lower titles below and the power-holding nobility above.\n\nIn the Kingdom, praetors usually hold title to a city district, asteroid sector, or agricultural region. At war, they take authority over the smallest combat units that fight independently. On the ground, a praetor will lead a troop cohort. In the fleet, a praetor will captain a destroyer or a combat group.</PraetorKingdom.description>
+  <PraetorKingdom.label>总督</PraetorKingdom.label>
+  <PraetorKingdom.description>总督是低级贵族与高级贵族之间沟通的桥梁。\n\n在王国中，总督通常拥有一个城市群、小行星带或农业区。在战时，他们一般指挥一支最小的独立作战单位。在地面上，一位总督将领导一支部队。在舰队中，总督将担任驱逐舰舰长或指挥一支战斗编队。</PraetorKingdom.description>
 
-  <BaronKingdom.label>baron</BaronKingdom.label>
-  <BaronKingdom.labelFemale>baroness</BaronKingdom.labelFemale>
-  <BaronKingdom.description>The Royal title of baron is the lowest of the middle nobility. While lower titles focus on personal service at war or commerce under a lord, barons hold title as semi-independent rulers. Each baron is subordinate to his liege lord, but his obligations are mostly in supplying wealth and troops, and not in personal service.\n\nIn the Kingdom, a baron will typically own a city sector, mining colony, or similar outfit. At wartime, a baron may captain a capital ship in name, or control a regiment of troops.</BaronKingdom.description>
+  <BaronKingdom.label>男爵</BaronKingdom.label>
+  <BaronKingdom.labelFemale>女男爵</BaronKingdom.labelFemale>
+  <BaronKingdom.description>男爵是中级贵族头衔中地位最低一级。等级比男爵低的头衔侧重于个人在战争中的服务或在君主统治下的商业活动，而男爵则是一种拥有半独立统治地位的头衔。每一个男爵都隶属于他的君主，但他的义务主要是提供税金和军队，而不是个人服务。\n\n在王国中，男爵通常拥有一个城市区、采矿殖民地或类似的辖地。在战时，男爵可以名义上指挥一艘主力舰，或者控制一支兵团。</BaronKingdom.description>
 
-  <CountKingdom.label>count</CountKingdom.label>
-  <CountKingdom.labelFemale>countess</CountKingdom.labelFemale>
-  <CountKingdom.description>The Royal title of count is the middle rank of middle nobility.\n\nIn the Kingdom, a count would hold title to a city or colony, and might have a small personal fleet possibly including capital ships.</CountKingdom.description>
+  <CountKingdom.label>伯爵</CountKingdom.label>
+  <CountKingdom.labelFemale>女伯爵</CountKingdom.labelFemale>
+  <CountKingdom.description>伯爵是中级贵族头衔中地位中等一级。\n\n在王国中，伯爵通常拥有一个城市或殖民地，并且可能有一支小型的私人舰队，甚至主力舰。</CountKingdom.description>
 
 
   <!-- Kingdom titles - NPC only psycaster -->
 
-  <DukeKingdom.label>duke</DukeKingdom.label>
-  <DukeKingdom.labelFemale>duchess</DukeKingdom.labelFemale>
-  <DukeKingdom.description>The Royal title of duke is the highest of the middle nobility.\n\nIn the Kingdom, dukes control provinces, mega-cities, or moons. At war, a duke can field a division-level force, or a fleet with capital ships and dozens of support craft.</DukeKingdom.description>
+  <DukeKingdom.label>公爵</DukeKingdom.label>
+  <DukeKingdom.labelFemale>女公爵</DukeKingdom.labelFemale>
+  <DukeKingdom.description>公爵是中级贵族头衔中地位最高一级。\n\n在王国中，公爵通常拥有一个省、大城市或卫星。在战争中，公爵可以派出一支师团，或是一支拥有主力舰和几十艘支援舰的舰队。</DukeKingdom.description>
 
-  <ConsulKingdom.label>consul</ConsulKingdom.label>
-  <ConsulKingdom.description>The Royal title of consul is a lower level of high nobility.\n\nIn the Kingdom, consuls control planets. At war, a consul can usually field an army-sized force of multiple divisions, supported by several fleets. Some command from a super-capital ship or control space-based megastructures.</ConsulKingdom.description>
+  <ConsulKingdom.label>执政官</ConsulKingdom.label>
+  <ConsulKingdom.description>执政官是高级贵族头衔中地位最低一级。\n\n在王国中，执政官通常是行星的控制者。在战争中，执政官通常可以派出一支由多个师团规模的陆军组成的部队配合多支支援舰队。有些执政官还担任超级主力舰的指挥官或控制巨型天基系统。</ConsulKingdom.description>
 
-  <StellarchKingdom.label>stellarch</StellarchKingdom.label>
-  <StellarchKingdom.description>The Royal title of stellarch represents dominion over an entire star system.\n\nIn the Kingdom, since interstellar travel times are years long, stellarchs rule their systems with a great degree of independence. They each swear fealty to the King, but since the King may be many light-years away, a stellarch may go years or decades without interacting with him.</StellarchKingdom.description>
+  <StellarchKingdom.label>星系主宰</StellarchKingdom.label>
+  <StellarchKingdom.description>星系主宰的头衔代表着对整个星系的统治权。\n\n在王国中，由于星际旅行时间长达数年，星系主宰以极大的独立性统治着他们的星系。他们都宣誓效忠于国王，但由于国王可能在许多光年之外，一位星系主宰可能在数年或数十年之间都不会与他国王互动。</StellarchKingdom.description>
 
 
   <!-- King should never appear in the game in any way, it's just here for completeness on UI lists etc. -->
 
-  <KingKingdom.label>King</KingKingdom.label>
-  <KingKingdom.labelFemale>queen</KingKingdom.labelFemale>
-  <KingKingdom.description>The Royal title of King indicates sovereign dominion over the entire Kingdom, all its peoples, planets, and fleets. All other lords swear fealty to a high lord, while the King swears fealty to no one. However, even the King depends on the support of lower nobles to remain in power.</KingKingdom.description>
+  <KingKingdom.label>国王</KingKingdom.label>
+  <KingKingdom.labelFemale>女王</KingKingdom.labelFemale>
+  <KingKingdom.description>国王的头衔意味着对整个王国及其所有民族、行星和舰队的统治权。其他的所有领主都需要宣誓效忠于一个大领主，而国王不需要对任何人宣誓效忠。然而，即使是国王也要依靠下层贵族的支持才能继续掌权。</KingKingdom.description>
 
 
 </LanguageData>
