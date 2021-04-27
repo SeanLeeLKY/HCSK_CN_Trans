@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CombatExtended_MechAmmoBeacon.label>mech ammo beacon</CombatExtended_MechAmmoBeacon.label>
-  <CombatExtended_MechAmmoBeacon.description>A mechanoid ammunition drop beacon. When activated, it calls in ammunition to land in drop pods nearby.</CombatExtended_MechAmmoBeacon.description>
+  <CombatExtended_MechAmmoBeacon.label>机械族弹药信标</CombatExtended_MechAmmoBeacon.label>
+  <CombatExtended_MechAmmoBeacon.description>机械族设置的弹药投放信标。激活后，它可以召唤弹药空投舱降落到附近。</CombatExtended_MechAmmoBeacon.description>
 
 
 </LanguageData>
