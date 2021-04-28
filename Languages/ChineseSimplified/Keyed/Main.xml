@@ -383,8 +383,8 @@
   <DumpingStockpileLabel>垃圾存储区</DumpingStockpileLabel>
 
   <!-- Accident Event -->
-  <accident>事故</accident>
-  <accidentdesc>发生了一起不幸的事故。</accidentdesc>
+  <accident>意外受伤</accident>
+  <accidentdesc>不小心发生意外受了一点小伤。</accidentdesc>
 
   <!-- Spawned buildings -->
   <LootLabel>打开</LootLabel>
