@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <StoneArrow.label>石箭</StoneArrow.label>
+  <StoneArrow.label>箭矢（石）</StoneArrow.label>
   <StoneArrow.description>箭头是一块磨制得非常锋利的石头。对于无护甲目标具有有效的杀伤效果，但是对于任何种类的护甲效果都不是很理想。</StoneArrow.description>
 
-  <MetallicArrow.label>金属箭</MetallicArrow.label>
+  <MetallicArrow.label>箭矢（金属）</MetallicArrow.label>
   <MetallicArrow.description>金属制成的箭头，增加了护甲穿透能力。</MetallicArrow.description>
 
-  <ExplosiveArrow.label>爆炸箭</ExplosiveArrow.label>
+  <ExplosiveArrow.label>箭矢（爆炸）</ExplosiveArrow.label>
   <ExplosiveArrow.description>箭头装有炸药，能造成额外的爆炸伤害。</ExplosiveArrow.description>
 
   <BalistaBolt.label>弩炮箭</BalistaBolt.label>
