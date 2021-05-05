@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 饱和土 -->
+  <!-- SATURATED SOIL -->
 
   <PrimitiveHydroponic.label>饱和土</PrimitiveHydroponic.label>
   <PrimitiveHydroponic.description>营养富集的人工土壤。肥沃度：80。</PrimitiveHydroponic.description>
@@ -45,5 +45,7 @@
   <Agrarian_Frame.label>水培箱（建造中）</Agrarian_Frame.label>
   <Agrarian_Frame.description>一个带有营养液和培植土的植物种植箱。需要电力运作。肥沃度：120。</Agrarian_Frame.description>
 
+
+  <!-- 饱和土 -->
 
 </LanguageData>

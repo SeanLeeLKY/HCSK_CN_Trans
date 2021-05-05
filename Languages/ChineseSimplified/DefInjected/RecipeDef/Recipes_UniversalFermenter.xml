@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ___________________FermentingBarrel_____________________ -->
+
+  <Make_Beer.label>制作 啤酒</Make_Beer.label>
+  <Make_Beer.description>用麦芽汁酿造啤酒。基准制作时间：6 天。</Make_Beer.description>
+
+  <Make_Whisky.label>制作 威士忌</Make_Whisky.label>
+  <Make_Whisky.description>用谷物酿料酿造威士忌。基准制作时间：7.25 天。</Make_Whisky.description>
+
+  <Make_Sake.label>制作 清酒</Make_Sake.label>
+  <Make_Sake.description>用清酒酿料制作清酒。基准制作时间：5.25 天。</Make_Sake.description>
+
+  <Make_Cider.label>制作 苹果酒</Make_Cider.label>
+  <Make_Cider.description>用苹果酿料制作苹果酒。基准制作时间：4.8 天。</Make_Cider.description>
+
+  <Make_Rum.label>制作 朗姆酒</Make_Rum.label>
+  <Make_Rum.description>用朗姆酿料制作朗姆酒。基准制作时间：4.5 天。</Make_Rum.description>
+
+  <Make_Berrywine.label>制作 浆果酒</Make_Berrywine.label>
+  <Make_Berrywine.description>用浆果酿料制作浆果酒。基准制作时间：5.8 天。</Make_Berrywine.description>
+
+  <Make_Vodka.label>制作 伏特加</Make_Vodka.label>
+  <Make_Vodka.description>用伏特加酿料制作伏特加。基准制作时间：4.8 天。</Make_Vodka.description>
+
+  <Make_Tequila.label>制作 龙舌兰酒</Make_Tequila.label>
+  <Make_Tequila.description>用龙舌兰酿料制作龙舌兰酒。基准制作时间：5.6 天。</Make_Tequila.description>
+
+  <Make_Wine.label>制作 葡萄酒</Make_Wine.label>
+  <Make_Wine.description>用葡萄酿料制作葡萄酒。基准制作时间：5.8 天。</Make_Wine.description>
+
+
+  <!-- ___________________JerkyRack_____________________ -->
+
+  <Make_Jekry.label>制作 肉干</Make_Jekry.label>
+  <Make_Jekry.description>制作肉干。基准制作时间：2 天。</Make_Jekry.description>
+
+  <Make_Jekry_x5.label>制作 肉干x5</Make_Jekry_x5.label>
+  <Make_Jekry_x5.description>制作肉干x5。基准制作时间：2 天。</Make_Jekry_x5.description>
+
+
+  <!-- ___________________DryingRack_____________________ -->
+
+  <Make_Tobacco.label>制作 干燥烟叶</Make_Tobacco.label>
+  <Make_Tobacco.description>干制烟叶。基准制作时间：3 天。</Make_Tobacco.description>
+
+  <Make_Tobacco_x5.label>制作 干燥烟叶x5</Make_Tobacco_x5.label>
+  <Make_Tobacco_x5.description>干制烟叶x5。基准制作时间：3 天。</Make_Tobacco_x5.description>
+
+  <Make_Smokeleaf.label>制作 干燥大麻叶</Make_Smokeleaf.label>
+  <Make_Smokeleaf.description>干制大麻叶。基准制作时间：4 天。</Make_Smokeleaf.description>
+
+  <Make_Smokeleaf_x5.label>制作 干燥大麻叶x5</Make_Smokeleaf_x5.label>
+  <Make_Smokeleaf_x5.description>干制大麻叶x5。基准制作时间：4 天。</Make_Smokeleaf_x5.description>
+
+  <Make_DriedFruit.label>制作 果干</Make_DriedFruit.label>
+  <Make_DriedFruit.description>干制水果。基准制作时间：2 天。</Make_DriedFruit.description>
+
+  <Make_DriedFruit_x5.label>制作 果干x5</Make_DriedFruit_x5.label>
+  <Make_DriedFruit_x5.description>干制水果x5。基准制作时间：2 天。</Make_DriedFruit_x5.description>
+
+
+  <!-- ___________________CheeseBasin_____________________ -->
+
+  <Make_Cheese.label>制作 奶酪</Make_Cheese.label>
+  <Make_Cheese.description>制作奶酪。基准制作时间：4 天。</Make_Cheese.description>
+
+  <Make_Cheese_x5.label>制作 奶酪x5</Make_Cheese_x5.label>
+  <Make_Cheese_x5.description>制作奶酪x5。基准制作时间：4 天。</Make_Cheese_x5.description>
+
+  <Make_AgedCheese.label>制作 陈年奶酪</Make_AgedCheese.label>
+  <Make_AgedCheese.description>制作陈年奶酪。基准制作时间：8 天。</Make_AgedCheese.description>
+
+  <Make_AgedCheese_x5.label>制作 陈年奶酪x5</Make_AgedCheese_x5.label>
+  <Make_AgedCheese_x5.description>制作陈年奶酪x5。基准制作时间：8 天。</Make_AgedCheese_x5.description>
+
+
+  <!-- ___________________SilagePile_____________________ -->
+
+  <Make_Silage.label>制作 青贮饲料</Make_Silage.label>
+  <Make_Silage.description>制作青贮饲料。基准制作时间：20 天。</Make_Silage.description>
+
+
+  <!-- ___________________CompostBarrel_____________________ -->
+
+  <Make_Fertilizer.label>制作 肥料</Make_Fertilizer.label>
+  <Make_Fertilizer.description>制作肥料。基准制作时间：2.8 天。</Make_Fertilizer.description>
+
+  <Make_Fertilizer_x5.label>制作 肥料x5</Make_Fertilizer_x5.label>
+  <Make_Fertilizer_x5.description>制作肥料x5。基准制作时间：2.8 天。</Make_Fertilizer_x5.description>
+
+
+  <!-- ___________________Saltpeter_pit_____________________ -->
+
+  <Make_Nitre_Body.label>提取 硝石（尸体）</Make_Nitre_Body.label>
+  <Make_Nitre_Body.description>从尸体中提取硝盐类物质。基准制作时间：10 天。</Make_Nitre_Body.description>
+
+  <Make_Nitre_Mush.label>提取 硝石（腐烂物）</Make_Nitre_Mush.label>
+  <Make_Nitre_Mush.description>从腐烂物中提取硝盐类物质。基准制作时间：10 天。</Make_Nitre_Mush.description>
+
+  <Make_Nitre_Fecal.label>提取 硝石（污泥）</Make_Nitre_Fecal.label>
+  <Make_Nitre_Fecal.description>从污泥中提取硝盐类物质。基准制作时间：10 天。</Make_Nitre_Fecal.description>
+
+
+  <!-- ___________________TableOrganvat_____________________ -->
+
+  <ExtractBiomatterCorpse.label>提取 生物质（人类尸体）</ExtractBiomatterCorpse.label>
+  <ExtractBiomatterCorpse.description>从人类尸体中提取生物质。 \n\n产出：35。</ExtractBiomatterCorpse.description>
+
+  <Grow_Eye.label>制造 眼</Grow_Eye.label>
+  <Grow_Eye.description>制造眼。基准制作时间：1.5 天。</Grow_Eye.description>
+
+  <Grow_Ear.label>制造 耳</Grow_Ear.label>
+  <Grow_Ear.description>制造耳。基准制作时间：1.5 天。</Grow_Ear.description>
+
+  <Grow_Nose.label>制造 鼻</Grow_Nose.label>
+  <Grow_Nose.description>制造鼻。基准制作时间：1.5 天。</Grow_Nose.description>
+
+  <Grow_Heart.label>制造 心</Grow_Heart.label>
+  <Grow_Heart.description>制造心。基准制作时间：1.5 天。</Grow_Heart.description>
+
+  <Grow_Lung.label>制造 肺</Grow_Lung.label>
+  <Grow_Lung.description>制造肺。基准制作时间：1.5 天。</Grow_Lung.description>
+
+  <Grow_Liver.label>制造 肝</Grow_Liver.label>
+  <Grow_Liver.description>制造肝。基准制作时间：1.5 天。</Grow_Liver.description>
+
+  <Grow_Kidney.label>制造 肾</Grow_Kidney.label>
+  <Grow_Kidney.description>制造肾。基准制作时间：1.5 天。</Grow_Kidney.description>
+
+  <Grow_Stomach.label>制造 胃</Grow_Stomach.label>
+  <Grow_Stomach.description>制造胃。基准制作时间：1.5 天。</Grow_Stomach.description>
+
+
+  <!-- ___________________BiofuelRefinery_____________________ -->
+
+  <Make_ChemfuelFromWood.label>用木材制作化合燃料</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.description>通过气化原木以制作一组化合燃料。</Make_ChemfuelFromWood.description>
+
+  <Make_ChemfuelFromOrganics.label>用有机物制作化合燃料</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.description>通过从有机原料中提取生物燃料以制作一组化合燃料。</Make_ChemfuelFromOrganics.description>
+
+
+</LanguageData>

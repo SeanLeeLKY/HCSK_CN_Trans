@@ -29,13 +29,13 @@
   <OrassanPlayerColony.description>这是你自己的社区团体。</OrassanPlayerColony.description>
   <OrassanPlayerColony.pawnsPlural>殖民者</OrassanPlayerColony.pawnsPlural>
 
-  <AsariPlayerColony.label>阿萨利新区</AsariPlayerColony.label>
-  <AsariPlayerColony.description>这是你自己的社区团体。</AsariPlayerColony.description>
-  <AsariPlayerColony.pawnsPlural>殖民者</AsariPlayerColony.pawnsPlural>
-
   <NuclearColonySurvivor.label>新移民</NuclearColonySurvivor.label>
   <NuclearColonySurvivor.description>这是你自己的社区团体。</NuclearColonySurvivor.description>
   <NuclearColonySurvivor.pawnsPlural>殖民者</NuclearColonySurvivor.pawnsPlural>
 
+
+  <!--<AsariPlayerColony.label>阿萨利新区</AsariPlayerColony.label>-->
+  <!--<AsariPlayerColony.description>这是你自己的社区团体。</AsariPlayerColony.description>-->
+  <!--<AsariPlayerColony.pawnsPlural>殖民者</AsariPlayerColony.pawnsPlural>-->
 
 </LanguageData>

@@ -14,8 +14,6 @@
   <MDoor_Frame.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</MDoor_Frame.description>
 
   <CellDoor.label>牢门</CellDoor.label>
-  <CellDoor_Blueprint.label>牢门（蓝图）</CellDoor_Blueprint.label>
-  <CellDoor_Frame.label>牢门（建造中）</CellDoor_Frame.label>
   <CellDoor.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</CellDoor.description>
 
   <Autodoor.label>自动门</Autodoor.label>

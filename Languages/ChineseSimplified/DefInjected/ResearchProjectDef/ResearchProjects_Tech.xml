@@ -276,8 +276,6 @@
 
   <ResearchMobileMineralSonarEnhancedScan.label>增强扫描技术</ResearchMobileMineralSonarEnhancedScan.label>
   <ResearchMobileMineralSonarEnhancedScan.description>通过在矿物声纳技术降噪算法做一些代码重构，你的研究人员可以提高矿物扫描雷达效率。\n-提高矿物声纳技术，以提升矿物扫描雷达效率。</ResearchMobileMineralSonarEnhancedScan.description>
-  <ResearchMobileMineralSonarEnhancedScan.descriptionDiscovered>研究表明雷达扫描算法已经优化重构。节约出来的多余核心计算资源被用来增强扫描范围和扫描功率。\n- 移动矿物声呐扫描范围增加 (30 -&gt; 50)。\n- 移动矿物声呐发现矿物的几率提高。
-  </ResearchMobileMineralSonarEnhancedScan.descriptionDiscovered>
 
   <SK_ElectronicsIII.label>基础纳米电子学</SK_ElectronicsIII.label>
   <SK_ElectronicsIII.description>研究纳米层面的电子技术，解锁微芯片集成电路、生命维持装置以及脑激励器。</SK_ElectronicsIII.description>
@@ -441,13 +439,8 @@
   <Cryptosleep.label>低温休眠舱</Cryptosleep.label>
   <Cryptosleep.description>解锁建造「低温休眠舱」，可使其内的生命体进入生理上的暂停状态。</Cryptosleep.description>
 
-  <SK_NanotechnologyII.label>纳米复制</SK_NanotechnologyII.label>
-  <SK_NanotechnologyII.description>研究突破纳米级别的物品再造能力。解锁建造纳米打印设备和纳米扫描设备。当一个物品经过深度纳米机构扫描后，可以将数据资料输出到纳米打印设备并通过消耗一定资源将其复制出来。</SK_NanotechnologyII.description>
-
 
   <!-- Disabled. Nanoprinter still not updated to 1.0
-
-  
 												
 														  <ResearchProjectDef ParentName="HitechLabStationBase">
 															<defName>SK_NanotechnologyII</defName>
@@ -664,5 +657,27 @@
   <SK_ConstructionIII.label>建造 III</SK_ConstructionIII.label>
   <SK_ConstructionIII.description>你在建筑工程技术上的深入研究让你的建筑能力突飞猛进。解锁各种钢筋混凝土加固建筑，以及各种强化防爆建筑诸如防爆门等。</SK_ConstructionIII.description>
 
+
+  <!--<ResearchMobileMineralSonarEnhancedScan.descriptionDiscovered>研究表明雷达扫描算法已经优化重构。节约出来的多余核心计算资源被用来增强扫描范围和扫描功率。\n- 移动矿物声呐扫描范围增加 (30 -&gt; 50)。\n- 移动矿物声呐发现矿物的几率提高。
+  </ResearchMobileMineralSonarEnhancedScan.descriptionDiscovered>-->
+  <!--<SK_NanotechnologyII.label>纳米复制</SK_NanotechnologyII.label>-->
+  <!--<SK_NanotechnologyII.description>研究突破纳米级别的物品再造能力。解锁建造纳米打印设备和纳米扫描设备。当一个物品经过深度纳米机构扫描后，可以将数据资料输出到纳米打印设备并通过消耗一定资源将其复制出来。</SK_NanotechnologyII.description>-->
+  <!-- Disabled. Nanoprinter still not updated to 1.0
+
+  
+												
+														  <ResearchProjectDef ParentName="HitechLabStationBase">
+															<defName>SK_NanotechnologyII</defName>
+															<label>NanoReplication</label>
+															<description>Research how to modify your nano bots to replicate objects. Allows you to build a nano printer. It has the capability to replicate scanned items. Also unlocks Nano Scanner that allows the nano printer to scan the internal structure of objects.</description>
+															<baseCost>4500</baseCost>
+															<techLevel>Spacer</techLevel>
+															<tab>SpacerTech</tab>
+															<researchViewX>3.77</researchViewX>
+															<researchViewY>2.01</researchViewY>
+																<prerequisites>
+																	<li>SK_NanotechnologyI</li>
+																</prerequisites>
+														  </ResearchProjectDef> -->
 
 </LanguageData>

@@ -105,7 +105,174 @@
   <RareExtractor_Frame.description>先进矿物提取器深入地底开采金属矿石。工作速度比普通的提取器快。但是如果由有经验的矿工来操作深钻井，采掘速度也比较可观。</RareExtractor_Frame.description>
 
 
-  
+  <!-- <ThingDef ParentName="StandartBuilding">
+		<defName>OilExtractor</defName>
+		<label>oil extractor</label>
+		<description>The oil extractor digs deep into the ground and extracts crude oil. Must be placed on an oil fissure created by a drilling rig. Requires power.</description>
+		<thingClass>SK.Building_OilExtractor</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Production/OilExtractor/Oil_pit</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,3)</drawSize>
+			<shadowData>
+				<volume>(2.7, 1.0, 2.7)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<passability>Impassable</passability>
+		<fillPercent>1</fillPercent>
+		<hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,-2)</interactionCellOffset>
+		<statBases>
+			<WorkToBuild>12500</WorkToBuild>
+			<MaxHitPoints>250</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<Beauty>-60</Beauty>
+			<Cleanliness>-20</Cleanliness>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>2500</basePowerConsumption>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>50</heatPerSecond>
+				<heatPushMaxTemperature>1500</heatPushMaxTemperature>
+			</li>
+			<li Class="CompProperties_Flickable"/>
+		</comps>
+		<size>(3,3)</size>
+		<stuffCategories>
+			<li>StrongMetallic</li>
+		</stuffCategories>
+		<costStuffCount>140</costStuffCount>
+		<costList>
+			<ReinforcedConcrete>50</ReinforcedConcrete>
+			<ComponentIndustrial>15</ComponentIndustrial>
+			<Mechanism>8</Mechanism>
+			<ElectronicComponents>8</ElectronicComponents>
+		</costList>
+		<placeWorkers>
+			<li>SK.PlacementRestrictor_OnFissure</li>
+		</placeWorkers>
+		<killedLeavings>
+			<ChunkSlagSteel>6</ChunkSlagSteel>
+		</killedLeavings>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Production</designationCategory>
+		<researchPrerequisites>
+			<li>DeepDrilling</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+	</ThingDef>
+
+	<ThingDef ParentName="SK_BuildingNaturalBase">
+		<category>Ethereal</category>
+		<label>oil fissure</label>
+		<defName>Fissure</defName>
+		<thingClass>SK.Fissure</thingClass>
+		<graphicData>
+			<texPath>Terrain/Fissure</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+		</graphicData>
+		<altitudeLayer>Floor</altitudeLayer>
+		<destroyable>true</destroyable>
+		<useHitPoints>false</useHitPoints>
+		<selectable>true</selectable>
+		<description>A fissure that cuts deep into the earth. An oil extractor can extract crude oil from this.</description>
+		<size>(1,1)</size>
+		<neverOverlapFloors>true</neverOverlapFloors>
+		<blockPlants>true</blockPlants>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_LifespanFissure">
+				<lifespanTicks>3500000</lifespanTicks>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<ThingDef ParentName="StandartBuilding">
+		<defName>FissureGenerator</defName>
+		<label>drilling rig</label>
+		<description>A powerful machine designed to create a deep fissure. Must be placed on a Deposit of Crude Oil. Requires power.</description>
+		<thingClass>SK.Building_FissureGenerator</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Production/FissureGenerator/FissureGenerator</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,3)</drawSize>
+			<shadowData>
+				<volume>(2.7, 1.0, 2.7)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<passability>PassThroughOnly</passability>
+		<pathCost>90</pathCost>
+		<fillPercent>1</fillPercent>
+		<statBases>
+			<MaxHitPoints>250</MaxHitPoints>
+			<WorkToBuild>12000</WorkToBuild>
+			<Flammability>1.0</Flammability>
+			<Beauty>-40</Beauty>
+			<Cleanliness>-20</Cleanliness>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<size>(3,3)</size>
+		<stuffCategories>
+			<li>StrongMetallic</li>
+		</stuffCategories>
+		<costStuffCount>150</costStuffCount>
+		<costList>
+			<ComponentIndustrial>12</ComponentIndustrial>
+			<Mechanism>6</Mechanism>
+			<ElectronicComponents>4</ElectronicComponents>
+		</costList>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>1800</basePowerConsumption>
+			</li>
+			<li Class="SK.CompProperties_RestrictedPlacement">
+				<compClass>SK.CompRestrictedPlacement</compClass>
+				<restrictedThing>
+					<li>Oilfield</li>
+				</restrictedThing>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>100</heatPerSecond>
+				<heatPushMaxTemperature>1500</heatPushMaxTemperature>
+			</li>
+			<li Class="CompProperties_Flickable"/>
+		</comps>
+		<killedLeavings>
+			<ChunkSlagSteel>3</ChunkSlagSteel>
+		</killedLeavings>
+		<placeWorkers>
+			<li>SK.PlaceWorker_OnlyOnThing</li>
+		</placeWorkers>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Production</designationCategory>
+		<researchPrerequisites>
+			<li>SK_MiningI</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+	</ThingDef> -->
 
   <BiofuelRefinery.label>生物精炼设备</BiofuelRefinery.label>
   <BiofuelRefinery.description>将某些生物有机质例如木头或者植物等精炼成为化合燃料的设备。</BiofuelRefinery.description>
@@ -113,7 +280,132 @@
   <BiofuelRefinery_Frame.label>生物精炼设备（建造中）</BiofuelRefinery_Frame.label>
   <BiofuelRefinery_Frame.description>将某些生物有机质例如木头或者植物等精炼成为化合燃料的设备。</BiofuelRefinery_Frame.description>
 
-  
+
+  <!-- <ThingDef ParentName="StandartBuilding">
+		<defName>GC</defName>
+		<label>gas centrifuge</label>
+		<description>A thermal diffusion gas centrifuge is a device that performs isotope separation of gases. A centrifuge relies on the principles of centrifugal force accelerating molecules so that particles of different masses are physically separated in a gradient along the radius of a rotating container. A prominent use of gas centrifuges is for the separation uranium-235 from natural uranium-237.</description>
+		<thingClass>SK.Building_GC</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Production/GasCentrifuge/GC_off</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,3)</drawSize>
+			<drawRotated>false</drawRotated>
+			<shadowData>
+				<volume>(2.7, 1.0, 2.7)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<uiIconPath>Things/Building/Production/GasCentrifuge/GC_off</uiIconPath>
+		<passability>Impassable</passability>
+		<fillPercent>1</fillPercent>
+		<hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,-2)</interactionCellOffset>
+		<canOverlapZones>false</canOverlapZones>
+		<statBases>
+			<WorkToBuild>11500</WorkToBuild>
+			<MaxHitPoints>340</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<Cleanliness>-10</Cleanliness>
+			<Beauty>-60</Beauty>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>-1</basePowerConsumption>
+				<transmitsPower>true</transmitsPower>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>4</glowRadius>
+				<glowColor>(0,255,246,1)</glowColor>
+			</li>
+			<li Class="CompProperties_HeatPusher">
+				<compClass>CompHeatPusherPowered</compClass>
+				<heatPerSecond>75</heatPerSecond>
+				<heatPushMaxTemperature>1500</heatPushMaxTemperature>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<size>(3,3)</size>
+		<stuffCategories>
+			<li>RuggedMetallic</li>
+		</stuffCategories>
+		<costStuffCount>270</costStuffCount>
+		<costList>
+			<ReinforcedConcrete>90</ReinforcedConcrete>
+			<SyntheticFibers>35</SyntheticFibers>
+			<ComponentIndustrial>15</ComponentIndustrial>
+			<Mechanism>15</Mechanism>
+		</costList>
+		<building>
+			<soundAmbient>GeothermalPlant_Ambience</soundAmbient>
+			<wantsHopperAdjacent>true</wantsHopperAdjacent>
+		</building>
+		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Production</designationCategory>
+		<researchPrerequisites>
+			<li>SK_NuclearI</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>15</constructionSkillPrerequisite>
+	</ThingDef>
+
+
+	<ThingDef ParentName="HopperBase">
+		<defName>CentrifugeFeeder</defName>
+		<label>gas centrifuge hopper</label>
+		<description>Holds Uranium Ore for a gas centrifuge.</description>
+		<graphicData>
+			<texPath>Things/Building/Misc/hopper</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(2,2)</drawSize>
+		</graphicData>
+		<statBases>
+			<WorkToBuild>450</WorkToBuild>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<Mass>30</Mass>
+		</statBases>
+		<stuffCategories>
+			<li>StrongMetallic</li>
+		</stuffCategories>
+		<costStuffCount>20</costStuffCount>
+		<costList>
+			<ComponentIndustrial>2</ComponentIndustrial>
+		</costList>
+		<building>
+			<fixedStorageSettings>
+				<priority>Important</priority>
+				<filter>
+					<thingDefs>
+						<li>Uranium</li>
+					</thingDefs>
+				</filter>
+			</fixedStorageSettings>
+			<defaultStorageSettings>
+				<priority>Important</priority>
+				<filter>
+					<thingDefs>
+						<li>Uranium</li>
+					</thingDefs>
+				</filter>
+			</defaultStorageSettings>
+		</building>
+		<designationCategory>Production</designationCategory>
+		<researchPrerequisites>
+			<li>SK_NuclearI</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>15</constructionSkillPrerequisite>
+	</ThingDef> -->
+
   <ElectricCrematorium.label>电力火化炉</ElectricCrematorium.label>
   <ElectricCrematorium.description>将尸体、服装或各种资源火化成灰烬。需要电力才能正常运作。</ElectricCrematorium.description>
   <ElectricCrematorium_Blueprint.label>电力火化炉（蓝图）</ElectricCrematorium_Blueprint.label>
@@ -138,11 +430,68 @@
   <TableOrganvat_Frame.label>器官实验室（建造中）</TableOrganvat_Frame.label>
   <TableOrganvat_Frame.description>像一个巨大罐子的试验台，可以将生物尸体转化成为纯粹的生物质，并用这些生物质来“种植”出天然器官。需要电力才能正常运作。</TableOrganvat_Frame.description>
 
-  <BioRefinery.label>生物转化器</BioRefinery.label>
-  <BioRefinery.description>一种制造生物燃料和青贮饲料的机器。</BioRefinery.description>
-  <BioRefinery_Blueprint.label>生物转化器（蓝图）</BioRefinery_Blueprint.label>
-  <BioRefinery_Frame.label>生物转化器（建造中）</BioRefinery_Frame.label>
-  <BioRefinery_Frame.description>一种制造生物燃料和青贮饲料的机器。</BioRefinery_Frame.description>
+
+  <!-- <ThingDef ParentName="WorkTable">
+		<defName>BioRefinery</defName>
+		<label>bio-refinery</label>
+		<description>A machine for making biodiesel and silage.</description>
+		<graphicData>
+			<texPath>Things/Building/BioRefinery</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(2,2)</drawSize>
+			<shadowData>
+				<volume>(1.8, 1.0, 1.8)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<stuffCategories>
+			<li>RuggedMetallic</li>
+		</stuffCategories>
+		<costStuffCount>65</costStuffCount>
+		<costList>
+			<Glass>25</Glass>
+			<Rubber>40</Rubber>
+			<ComponentIndustrial>6</ComponentIndustrial>
+			<Mechanism>3</Mechanism>
+		</costList>
+		<tickerType>Normal</tickerType>
+		<statBases>
+			<WorkToBuild>5500</WorkToBuild>
+			<MaxHitPoints>230</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<size>(2,2)</size>
+		<designationCategory>Production</designationCategory>
+		<interactionCellOffset>(0,0,-1)</interactionCellOffset>
+		<recipes>
+			<li>MakeBioDiesel</li>
+		</recipes>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<shortCircuitInRain>true</shortCircuitInRain>
+				<basePowerConsumption>500</basePowerConsumption>
+				<soundPowerOn>Power_OnSmall</soundPowerOn>
+				<soundPowerOff>Power_OffSmall</soundPowerOff>
+			</li>
+			<li Class="SK.CompProperties_LowIdleDraw">
+				<compClass>SK.CompPowerLowIdleDraw</compClass>
+				<idlePowerFactor>0.1</idlePowerFactor>
+			</li>
+			<li Class="CompProperties_Breakdownable"/>
+			<li Class="CompProperties_Flickable" />
+		</comps>
+		<researchPrerequisites>
+			<li>BiofuelRefining</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>14</constructionSkillPrerequisite>
+	</ThingDef> -->
 
   <MechWeaponCraftingWorkTable.label>未来武器工作台</MechWeaponCraftingWorkTable.label>
   <MechWeaponCraftingWorkTable.description>生产未来格调或者机械武器的工作台，比如光束步枪。需要电力才能正常运作。</MechWeaponCraftingWorkTable.description>
@@ -202,5 +551,11 @@
   <HadronColliderFeeder_Frame.label>强子对撞机料斗（建造中）</HadronColliderFeeder_Frame.label>
   <HadronColliderFeeder_Frame.description>为强子对撞机盛放无机物。</HadronColliderFeeder_Frame.description>
 
+
+  <!--<BioRefinery.label>生物转化器</BioRefinery.label>-->
+  <!--<BioRefinery.description>一种制造生物燃料和青贮饲料的机器。</BioRefinery.description>-->
+  <!--<BioRefinery_Blueprint.label>生物转化器（蓝图）</BioRefinery_Blueprint.label>-->
+  <!--<BioRefinery_Frame.label>生物转化器（建造中）</BioRefinery_Frame.label>-->
+  <!--<BioRefinery_Frame.description>一种制造生物燃料和青贮饲料的机器。</BioRefinery_Frame.description>-->
 
 </LanguageData>

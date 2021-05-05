@@ -9,7 +9,52 @@
   <Sandbags_Frame.label>沙袋 （建造中）</Sandbags_Frame.label>
   <Sandbags_Frame.description>固定附近的泥土或者沙子形成掩体，尽管有些丑，但是能有效降低被远程武器击中的几率。</Sandbags_Frame.description>
 
-  
+
+  <!-- <ThingDef ParentName="SK_BuildingBase">
+    <defName>StampedEarthWall</defName>
+    <label>Stamped Earth Wall</label>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <description>A defensive wall made of compacted earth. It requires no additional resources to build and is quite strong, but it takes a lot of work.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/Rock_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(64,55,48)</color>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+	<li>Wall</li>
+	<li>Rock</li>
+      </linkFlags>
+    </graphicData>
+    <blueprintGraphicData>
+      <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+    </blueprintGraphicData>
+    <uiIconPath>Things/Building/Security/StampedEarthWall_MenuIcon</uiIconPath>
+    <statBases>
+      <MaxHitPoints>140</MaxHitPoints>
+      <WorkToBuild>1700</WorkToBuild>
+      <Flammability>0</Flammability>
+    </statBases>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <coversFloor>true</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <tickerType>Never</tickerType>
+    <rotatable>false</rotatable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <holdsRoof>true</holdsRoof>
+    <designationCategory>Structure</designationCategory>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+	<blockLight>true</blockLight>
+    <building>
+      <isInert>true</isInert>
+    </building>
+  </ThingDef> -->
+
   <Barricade.label>路障</Barricade.label>
   <Barricade.description>一种齐腰高的障碍物，用于掩护来袭的射击。虽然很难看，但比其他低矮的物体提供更好的掩护。</Barricade.description>
   <Barricade_Blueprint.label>路障 （蓝图）</Barricade_Blueprint.label>

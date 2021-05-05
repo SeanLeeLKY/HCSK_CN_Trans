@@ -62,6 +62,13 @@
   <GrindStone_Frame.label>石磨（建造中）</GrindStone_Frame.label>
   <GrindStone_Frame.description>用于快速研磨植物原料的手动小型磨制器具。</GrindStone_Frame.description>
 
+  <MillElectric.label>电动磨</MillElectric.label>
+  <MillElectric.description>电动磨机由高功率电动机驱动，研磨效率非常高。</MillElectric.description>
+  <MillElectric_Blueprint.label>电动磨（蓝图）</MillElectric_Blueprint.label>
+  <MillElectric_Blueprint_Install.label>电动磨（蓝图）</MillElectric_Blueprint_Install.label>
+  <MillElectric_Frame.label>电动磨（建造中）</MillElectric_Frame.label>
+  <MillElectric_Frame.description>电动磨机由高功率电动机驱动，研磨效率非常高。</MillElectric_Frame.description>
+
   <NutrientPasteDispenser.label>营养膏合成机</NutrientPasteDispenser.label>
   <NutrientPasteDispenser.description>将有机原料合成为营养膏。比其他的食物生产方法消耗更少的原料和时间，但没人喜欢吃营养膏。可以处理生食，但无法处理某些的植物材料，比如干草。只有当殖民者缺少食物时，才会从营养膏合成机中拿取营养膏。</NutrientPasteDispenser.description>
   <NutrientPasteDispenser_Blueprint.label>营养膏合成机（蓝图）</NutrientPasteDispenser_Blueprint.label>
@@ -107,7 +114,7 @@
   <UniversalFermenter_Frame.description>一个用于发酵各类产品的大桶。</UniversalFermenter_Frame.description>
 
 
-  <!-- 干肉架 -->
+  <!-- Jerky Drying Rack -->
 
   <JerkyRack.label>干肉架</JerkyRack.label>
   <JerkyRack.description>用于将肉类风干成为肉干的架子。</JerkyRack.description>
@@ -123,13 +130,6 @@
   <DryingRack_Frame.label>干燥架（建造中）</DryingRack_Frame.label>
   <DryingRack_Frame.description>用于风干大麻叶、烟叶以及各类水果的干燥架。</DryingRack_Frame.description>
 
-  <MillElectric.label>电动磨</MillElectric.label>
-  <MillElectric.description>电动磨机由高功率电动机驱动，研磨效率非常高。</MillElectric.description>
-  <MillElectric_Blueprint.label>电动磨（蓝图）</MillElectric_Blueprint.label>
-  <MillElectric_Blueprint_Install.label>电动磨（蓝图）</MillElectric_Blueprint_Install.label>
-  <MillElectric_Frame.label>电动磨（建造中）</MillElectric_Frame.label>
-  <MillElectric_Frame.description>电动磨机由高功率电动机驱动，研磨效率非常高。</MillElectric_Frame.description>
-
   <CheeseBasin.label>奶酪制作盆</CheeseBasin.label>
   <CheeseBasin.description>用于将奶制成奶酪的工具容器。</CheeseBasin.description>
   <CheeseBasin_Blueprint.label>奶酪制作盆（蓝图）</CheeseBasin_Blueprint.label>
@@ -142,6 +142,12 @@
   <SilagePile_Blueprint.label>青贮料堆（蓝图）</SilagePile_Blueprint.label>
   <SilagePile_Frame.label>青贮料堆（建造中）</SilagePile_Frame.label>
   <SilagePile_Frame.description>可以在这里将各种植物产品发酵成青贮饲料。</SilagePile_Frame.description>
+
+  <Saltpeter_pit.label>硝石转化坑</Saltpeter_pit.label>
+  <Saltpeter_pit.description>硝石转化坑。</Saltpeter_pit.description>
+  <Saltpeter_pit_Blueprint.label>硝石转化坑（蓝图）</Saltpeter_pit_Blueprint.label>
+  <Saltpeter_pit_Frame.label>硝石转化坑（建造中）</Saltpeter_pit_Frame.label>
+  <Saltpeter_pit_Frame.description>硝石转化坑。</Saltpeter_pit_Frame.description>
 
   <DrugLab.label>药物实验台</DrugLab.label>
   <DrugLab.description>一个配备有各种烧瓶、量杯和加热装置的化学实验台，用于制作各种药物和成瘾品。</DrugLab.description>
@@ -331,4 +337,6 @@
   <VG_SaltMine_Frame.description>从粗糙岩石表面挖掘盐矿的工作点。</VG_SaltMine_Frame.description>
 
 
- </LanguageData>
+  <!-- 干肉架 -->
+
+</LanguageData>

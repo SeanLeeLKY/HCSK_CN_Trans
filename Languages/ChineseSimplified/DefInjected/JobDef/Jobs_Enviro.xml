@@ -7,10 +7,9 @@
   <Absorb.reportString>吸吮 TargetA。</Absorb.reportString>
   <SuckBlood.reportString>吸取 TargetA 的血。</SuckBlood.reportString>
 
-  <DrawEnergyFromApparel.reportString>吞食 TargetA。</DrawEnergyFromApparel.reportString>
-  <Malaria.reportString>吸取 TargetA 的血。</Malaria.reportString>
-  <FleaPlague.reportString>吸取 TargetA 的血。</FleaPlague.reportString>
 
-
+  <!--<DrawEnergyFromApparel.reportString>吞食 TargetA。</DrawEnergyFromApparel.reportString>-->
+  <!--<Malaria.reportString>吸取 TargetA 的血。</Malaria.reportString>-->
+  <!--<FleaPlague.reportString>吸取 TargetA 的血。</FleaPlague.reportString>-->
 
 </LanguageData>

@@ -111,6 +111,23 @@
   <SubCategory_FloorLight.label>地板灯</SubCategory_FloorLight.label>
   <SubCategory_FloorLight.description>安放在地板上的灯具。</SubCategory_FloorLight.description>
 
+
+  <!-- <ArchitectSense.DesignationSubCategoryDef>
+		<defName>SubCategory_LEDLights</defName>
+		<label>LED lights</label>
+		<description>Сonstruction of more efficient and powerful lights.</description>
+		<defNames>
+			<li>RopeLight</li>
+			<li>LEDCentreStrip</li>
+			<li>LEDCornerStrip</li>
+			<li>LEDCornerStripCorner</li>
+			<li>LEDSecurityLamp</li>
+			<li>LEDSpotLight</li>
+		</defNames>
+		<designationCategory>Accessories</designationCategory>
+		<debug>false</debug>
+	</ArchitectSense.DesignationSubCategoryDef> -->
+
   <SubCategory_QuantumRelay.label>量子中继</SubCategory_QuantumRelay.label>
   <SubCategory_QuantumRelay.description>量子仓库的远程扩展装置。</SubCategory_QuantumRelay.description>
 
@@ -439,6 +456,7 @@
   <SubCategory_Gather.description>从地块收集资源。</SubCategory_Gather.description>
 
 
+  <!--<SubCategory_Computers.description>计算机。</SubCategory_Computers.description>-->
   <!-- Rugs -->
   <!--<SubCategory_Computers.description></SubCategory_Computers.description>-->
 

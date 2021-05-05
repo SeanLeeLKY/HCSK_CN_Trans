@@ -14,7 +14,6 @@
   <MentalStateSelfHarm.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive]手臂很无力。</MentalStateSelfHarm.rulePack.rulesStrings.9>
   <MentalStateSelfHarm.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive]衣服上沾满了血。</MentalStateSelfHarm.rulePack.rulesStrings.10>
   <MentalStateSelfHarm.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun]坐在地板上，前后摇晃。</MentalStateSelfHarm.rulePack.rulesStrings.11>
-  <MentalStateSelfHarm.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun]在[pawn_possessive]脸上有着一副茫然若失的表情。</MentalStateSelfHarm.rulePack.rulesStrings.12>
 
   <MentalStateApathy.label>冷漠</MentalStateApathy.label>
   <MentalStateApathy.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]不感兴趣地漫步</MentalStateApathy.rulePack.rulesStrings.0>
@@ -29,7 +28,6 @@
   <MentalStateApathy.rulePack.rulesStrings.9>circumstance_phrase->半闭着眼睛</MentalStateApathy.rulePack.rulesStrings.9>
   <MentalStateApathy.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun]看起来精疲力尽。</MentalStateApathy.rulePack.rulesStrings.10>
   <MentalStateApathy.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive]抄起了双手。</MentalStateApathy.rulePack.rulesStrings.11>
-  <MentalStateApathy.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun]看起来[pawn_pronoun]满不在乎。</MentalStateApathy.rulePack.rulesStrings.12>
 
   <MentalStateCompulsion.label>强迫症</MentalStateCompulsion.label>
   <MentalStateCompulsion.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]着魔似的清洁。</MentalStateCompulsion.rulePack.rulesStrings.0>
@@ -42,7 +40,10 @@
   <MentalStateCompulsion.rulePack.rulesStrings.7>desc_sentence->[pawn_pronoun]看起来[pawn_pronoun]几天没睡觉。</MentalStateCompulsion.rulePack.rulesStrings.7>
   <MentalStateCompulsion.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun]看起来营养不良而且很饥饿。</MentalStateCompulsion.rulePack.rulesStrings.8>
   <MentalStateCompulsion.rulePack.rulesStrings.9>desc_sentence->[pawn_pronoun]看起来固执又极端。</MentalStateCompulsion.rulePack.rulesStrings.9>
-  <MentalStateCompulsion.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive]双手颤抖着。</MentalStateCompulsion.rulePack.rulesStrings.10>
 
+
+  <!--<MentalStateSelfHarm.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun]在[pawn_possessive]脸上有着一副茫然若失的表情。</MentalStateSelfHarm.rulePack.rulesStrings.12>-->
+  <!--<MentalStateApathy.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun]看起来[pawn_pronoun]满不在乎。</MentalStateApathy.rulePack.rulesStrings.12>-->
+  <!--<MentalStateCompulsion.rulePack.rulesStrings.10>desc_sentence->[pawn_possessive]双手颤抖着。</MentalStateCompulsion.rulePack.rulesStrings.10>-->
 
 </LanguageData>

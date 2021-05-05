@@ -2,11 +2,10 @@
 <LanguageData>
 
   <ZonesColor.label>存储区颜色</ZonesColor.label>
-  <ZonesColor.description>重设区域颜色。</ZonesColor.description>
-
   <DumpingZonesColor.label>垃圾区颜色</DumpingZonesColor.label>
-  <DumpingZonesColor.description>重设区域颜色。</DumpingZonesColor.description>
 
 
+  <!--<ZonesColor.description>重设区域颜色。</ZonesColor.description>-->
+  <!--<DumpingZonesColor.description>重设区域颜色。</DumpingZonesColor.description>-->
 
 </LanguageData>

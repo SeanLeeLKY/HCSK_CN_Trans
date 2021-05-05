@@ -240,7 +240,72 @@
   <Dresser_Frame.description>合理使用梳妆台能让殖民者看起来更有气势。</Dresser_Frame.description>
 
 
- 
+  <!-- <ThingDef ParentName="ContainerBase">
+		<defName>Bookcase</defName>
+		<label>bookcase</label>
+		<description>A bookcase with a wide variety of books. Up to 5 items.</description>
+		<graphicData>
+			<texPath>Things/Building/Furniture/Bookcases/bookcase</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1.1,1.1)</drawSize>
+			<shadowData>
+				<volume>(0.6, 0.6, 0.6)</volume>
+			</shadowData>
+			<damageData>
+				<rect>(0.15,0.15,1.7,1.7)</rect>
+			</damageData>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>Impassable</passability>
+		<fillPercent>0.5</fillPercent>
+		<statBases>
+			<MaxHitPoints>70</MaxHitPoints>
+			<WorkToBuild>3000</WorkToBuild>
+			<Flammability>1.0</Flammability>
+			<Beauty>15</Beauty>
+			<Bulk>50</Bulk>
+			<Mass>15</Mass>
+		</statBases>
+		<socialPropernessMatters>true</socialPropernessMatters>
+		<size>(1,1)</size>
+		<rotatable>true</rotatable>
+		<defaultPlacingRot>South</defaultPlacingRot>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Woody</li>
+			<li>Plastic</li>
+			<li>Glass</li>
+			<li>Precious</li>
+		</stuffCategories>
+		<costStuffCount>85</costStuffCount>
+		<costList>
+			<ComponentIndustrial>4</ComponentIndustrial>
+		</costList>
+		<designationCategory>Furniture</designationCategory>
+		<building>
+			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+			<fixedStorageSettings>
+				<priority>Important</priority>
+				<filter>
+					<thingDefs>
+						<li>PileOfBooks</li>
+					</thingDefs>
+				</filter>
+			</fixedStorageSettings>
+		</building>
+		<comps>
+			<li Class="SK.CompContainer_Properties">
+				<itemsCap>6</itemsCap>
+				<texfull>false</texfull>
+			</li>
+		</comps>
+		<researchPrerequisites>
+			<li>SK_RecreationRoomII</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+	</ThingDef> -->
+
   <EndTableSimple.label>床头柜</EndTableSimple.label>
   <EndTableSimple.description>床边的小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。</EndTableSimple.description>
   <EndTableSimple_Blueprint.label>床头柜（蓝图）</EndTableSimple_Blueprint.label>

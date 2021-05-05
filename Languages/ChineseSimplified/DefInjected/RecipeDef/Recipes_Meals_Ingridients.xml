@@ -17,10 +17,6 @@
   <MakeFlour.description>将小麦、玉米、稻米或者燕麦磨制成为面粉。 \n\n产出：10。</MakeFlour.description>
   <MakeFlour.jobString>正在研磨 面粉。</MakeFlour.jobString>
 
-  <!-- <MakePotatoFlour.label>磨制 烘焙土豆</MakePotatoFlour.label>
-  <MakePotatoFlour.description>将烘焙土豆研磨成为面粉。 \n\n产出：10。</MakePotatoFlour.description>
-  <MakePotatoFlour.jobString>正在研磨 烘焙土豆。</MakePotatoFlour.jobString> -->
-
   <CraftCornmeal.label>磨制 玉米</CraftCornmeal.label>
   <CraftCornmeal.description>将玉米研磨成为玉米粉。 \n\n产出：4。</CraftCornmeal.description>
   <CraftCornmeal.jobString>正在研磨 玉米。</CraftCornmeal.jobString>
@@ -53,5 +49,9 @@
   <HalfCoconut.description>将椰子劈成两半，还能获取椰奶。 \n\n产出：5。</HalfCoconut.description>
   <HalfCoconut.jobString>正在劈 椰子。</HalfCoconut.jobString>
 
+
+  <!-- <MakePotatoFlour.label>磨制 烘焙土豆</MakePotatoFlour.label>
+  <MakePotatoFlour.description>将烘焙土豆研磨成为面粉。 \n\n产出：10。</MakePotatoFlour.description>
+  <MakePotatoFlour.jobString>正在研磨 烘焙土豆。</MakePotatoFlour.jobString> -->
 
 </LanguageData>

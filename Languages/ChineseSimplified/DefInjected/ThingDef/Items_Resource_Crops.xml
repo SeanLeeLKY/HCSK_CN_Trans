@@ -6,9 +6,6 @@
   <Kibble.label>粗饲料</Kibble.label>
   <Kibble.description>将肉和植物原料混合而成的动物粗饲料。人也能吃，但真的、真的没人喜欢。</Kibble.description>
 
-  <Pemmican.label>干肉饼</Pemmican.label>
-  <Pemmican.description>一种由肉食和素食混合脱水制成的食物。味道平平但又不会让人讨厌。无需冷藏即能保存很长时间，适合长途旅行。</Pemmican.description>
-
   <Hay.label>干草</Hay.label>
   <Hay.description>营养丰富的草和幼芽，收获并压缩储存起来。干草是很好的饲料，但对于人类来说难以下咽。</Hay.description>
 
@@ -33,5 +30,8 @@
   <RawCaoutchouc.label>天然橡胶</RawCaoutchouc.label>
   <RawCaoutchouc.description>橡胶液是从橡胶树中收集的天然橡胶树液。可以硫化制成有用的橡胶材料。</RawCaoutchouc.description>
 
+
+  <!--<Pemmican.label>干肉饼</Pemmican.label>-->
+  <!--<Pemmican.description>一种由肉食和素食混合脱水制成的食物。味道平平但又不会让人讨厌。无需冷藏即能保存很长时间，适合长途旅行。</Pemmican.description>-->
 
 </LanguageData>

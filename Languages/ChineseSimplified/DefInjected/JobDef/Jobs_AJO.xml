@@ -8,7 +8,15 @@
   <ReadBook.reportString>读书。</ReadBook.reportString>
 
 
-  
+  <!-- <JobDef>
+		<defName>GetMassage</defName>
+		<driverClass>JobDriver_WatchBuilding</driverClass>
+		<reportString>Getting a massage.</reportString>
+		<joyDuration>4000</joyDuration>
+		<joyMaxParticipants>1</joyMaxParticipants>
+		<joyGainRate>1</joyGainRate>
+		<joyKind>Meditative</joyKind>
+	</JobDef> -->
 
   <Doodle.reportString>涂鸦。</Doodle.reportString>
   <InterpretArt.reportString>欣赏艺术。</InterpretArt.reportString>

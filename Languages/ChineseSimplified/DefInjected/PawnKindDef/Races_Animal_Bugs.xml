@@ -126,31 +126,6 @@
   <Cockroach.labelFemale>雌性蟑螂</Cockroach.labelFemale>
   <Cockroach.labelFemalePlural>雌性蟑螂</Cockroach.labelFemalePlural>
 
-  <MiniSpider.label>小蜘蛛</MiniSpider.label>
-  <MiniSpider.labelPlural>小蜘蛛</MiniSpider.labelPlural>
-  <MiniSpider.lifeStages.0.label>小蜘蛛</MiniSpider.lifeStages.0.label>
-  <MiniSpider.lifeStages.0.labelPlural>小蜘蛛</MiniSpider.lifeStages.0.labelPlural>
-  <MiniSpider.lifeStages.0.labelMale>雄性小蜘蛛</MiniSpider.lifeStages.0.labelMale>
-  <MiniSpider.lifeStages.0.labelMalePlural>雄性小蜘蛛</MiniSpider.lifeStages.0.labelMalePlural>
-  <MiniSpider.lifeStages.0.labelFemale>雌性小蜘蛛</MiniSpider.lifeStages.0.labelFemale>
-  <MiniSpider.lifeStages.0.labelFemalePlural>雌性小蜘蛛</MiniSpider.lifeStages.0.labelFemalePlural>
-  <MiniSpider.lifeStages.1.label>小蜘蛛</MiniSpider.lifeStages.1.label>
-  <MiniSpider.lifeStages.1.labelPlural>小蜘蛛</MiniSpider.lifeStages.1.labelPlural>
-  <MiniSpider.lifeStages.1.labelMale>雄性小蜘蛛</MiniSpider.lifeStages.1.labelMale>
-  <MiniSpider.lifeStages.1.labelMalePlural>雄性小蜘蛛</MiniSpider.lifeStages.1.labelMalePlural>
-  <MiniSpider.lifeStages.1.labelFemale>雌性小蜘蛛</MiniSpider.lifeStages.1.labelFemale>
-  <MiniSpider.lifeStages.1.labelFemalePlural>雌性小蜘蛛</MiniSpider.lifeStages.1.labelFemalePlural>
-  <MiniSpider.lifeStages.2.label>小蜘蛛</MiniSpider.lifeStages.2.label>
-  <MiniSpider.lifeStages.2.labelPlural>小蜘蛛</MiniSpider.lifeStages.2.labelPlural>
-  <MiniSpider.lifeStages.2.labelMale>雄性小蜘蛛</MiniSpider.lifeStages.2.labelMale>
-  <MiniSpider.lifeStages.2.labelMalePlural>雄性小蜘蛛</MiniSpider.lifeStages.2.labelMalePlural>
-  <MiniSpider.lifeStages.2.labelFemale>雌性小蜘蛛</MiniSpider.lifeStages.2.labelFemale>
-  <MiniSpider.lifeStages.2.labelFemalePlural>雌性小蜘蛛</MiniSpider.lifeStages.2.labelFemalePlural>
-  <MiniSpider.labelMale>雄性小蜘蛛</MiniSpider.labelMale>
-  <MiniSpider.labelMalePlural>雄性小蜘蛛</MiniSpider.labelMalePlural>
-  <MiniSpider.labelFemale>雌性小蜘蛛</MiniSpider.labelFemale>
-  <MiniSpider.labelFemalePlural>雌性小蜘蛛</MiniSpider.labelFemalePlural>
-
   <CropEaterInsect.label>害虫</CropEaterInsect.label>
   <CropEaterInsect.labelPlural>害虫</CropEaterInsect.labelPlural>
   <CropEaterInsect.lifeStages.0.label>害虫</CropEaterInsect.lifeStages.0.label>
@@ -176,5 +151,30 @@
   <CropEaterInsect.labelFemale>雌性害虫</CropEaterInsect.labelFemale>
   <CropEaterInsect.labelFemalePlural>雌性害虫</CropEaterInsect.labelFemalePlural>
 
+
+  <!--<MiniSpider.label>小蜘蛛</MiniSpider.label>-->
+  <!--<MiniSpider.labelPlural>小蜘蛛</MiniSpider.labelPlural>-->
+  <!--<MiniSpider.lifeStages.0.label>小蜘蛛</MiniSpider.lifeStages.0.label>-->
+  <!--<MiniSpider.lifeStages.0.labelPlural>小蜘蛛</MiniSpider.lifeStages.0.labelPlural>-->
+  <!--<MiniSpider.lifeStages.0.labelMale>雄性小蜘蛛</MiniSpider.lifeStages.0.labelMale>-->
+  <!--<MiniSpider.lifeStages.0.labelMalePlural>雄性小蜘蛛</MiniSpider.lifeStages.0.labelMalePlural>-->
+  <!--<MiniSpider.lifeStages.0.labelFemale>雌性小蜘蛛</MiniSpider.lifeStages.0.labelFemale>-->
+  <!--<MiniSpider.lifeStages.0.labelFemalePlural>雌性小蜘蛛</MiniSpider.lifeStages.0.labelFemalePlural>-->
+  <!--<MiniSpider.lifeStages.1.label>小蜘蛛</MiniSpider.lifeStages.1.label>-->
+  <!--<MiniSpider.lifeStages.1.labelPlural>小蜘蛛</MiniSpider.lifeStages.1.labelPlural>-->
+  <!--<MiniSpider.lifeStages.1.labelMale>雄性小蜘蛛</MiniSpider.lifeStages.1.labelMale>-->
+  <!--<MiniSpider.lifeStages.1.labelMalePlural>雄性小蜘蛛</MiniSpider.lifeStages.1.labelMalePlural>-->
+  <!--<MiniSpider.lifeStages.1.labelFemale>雌性小蜘蛛</MiniSpider.lifeStages.1.labelFemale>-->
+  <!--<MiniSpider.lifeStages.1.labelFemalePlural>雌性小蜘蛛</MiniSpider.lifeStages.1.labelFemalePlural>-->
+  <!--<MiniSpider.lifeStages.2.label>小蜘蛛</MiniSpider.lifeStages.2.label>-->
+  <!--<MiniSpider.lifeStages.2.labelPlural>小蜘蛛</MiniSpider.lifeStages.2.labelPlural>-->
+  <!--<MiniSpider.lifeStages.2.labelMale>雄性小蜘蛛</MiniSpider.lifeStages.2.labelMale>-->
+  <!--<MiniSpider.lifeStages.2.labelMalePlural>雄性小蜘蛛</MiniSpider.lifeStages.2.labelMalePlural>-->
+  <!--<MiniSpider.lifeStages.2.labelFemale>雌性小蜘蛛</MiniSpider.lifeStages.2.labelFemale>-->
+  <!--<MiniSpider.lifeStages.2.labelFemalePlural>雌性小蜘蛛</MiniSpider.lifeStages.2.labelFemalePlural>-->
+  <!--<MiniSpider.labelMale>雄性小蜘蛛</MiniSpider.labelMale>-->
+  <!--<MiniSpider.labelMalePlural>雄性小蜘蛛</MiniSpider.labelMalePlural>-->
+  <!--<MiniSpider.labelFemale>雌性小蜘蛛</MiniSpider.labelFemale>-->
+  <!--<MiniSpider.labelFemalePlural>雌性小蜘蛛</MiniSpider.labelFemalePlural>-->
 
 </LanguageData>

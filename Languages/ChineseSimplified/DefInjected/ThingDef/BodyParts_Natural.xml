@@ -34,6 +34,17 @@
   <Leg.description>它们是像粗大棍子的骨肉，可以让你移动。</Leg.description>
 
 
+  <!-- <ThingDef ParentName="BodyPartBase_Natural">
+	<defName>Brain</defName>
+    <label>brain</label>
+	<description>Lets you know whos in charge</description>
+	<graphicPath>Things/Item/BodyPart/MedOrgan</graphicPath>
+	<graphicClass>Graphic_Single</graphicClass>
+	<statBases>
+	  <MarketValue>500</MarketValue>
+    </statBases>
+</ThingDef> -->
+
   <Arm.label>臂</Arm.label>
   <Arm.description>手臂就像腿一样，只不过你可以用它来搬东西。</Arm.description>
 

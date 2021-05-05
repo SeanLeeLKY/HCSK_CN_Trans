@@ -16,12 +16,22 @@
   <Ammo_Arrow_Explosive.description>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Explosive.description>
 
 
-  <!-- Projectiles -->
+  <!-- Projectiles (other bows) -->
 
   <Projectile_Arrow_Stone.label>箭（石）</Projectile_Arrow_Stone.label>
   <Projectile_Arrow_Steel.label>箭（金属）</Projectile_Arrow_Steel.label>
   <Projectile_Arrow_Poison.label>箭（毒性）</Projectile_Arrow_Poison.label>
   <Projectile_Arrow_Explosive.label>箭（爆炸）</Projectile_Arrow_Explosive.label>
 
+
+  <!-- Projectiles (Recurve bow) -->
+
+  <Projectile_StreamlinedArrow_Stone.label>流线箭矢（石）</Projectile_StreamlinedArrow_Stone.label>
+  <Projectile_StreamlinedArrow_Steel.label>流线箭矢（金属）</Projectile_StreamlinedArrow_Steel.label>
+  <Projectile_StreamlinedArrow_Poison.label>流线箭矢（毒性）</Projectile_StreamlinedArrow_Poison.label>
+  <Projectile_StreamlinedArrow_Explosive.label>流线箭矢（爆炸）</Projectile_StreamlinedArrow_Explosive.label>
+
+
+  <!-- Projectiles -->
 
 </LanguageData>

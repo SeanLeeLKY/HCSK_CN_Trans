@@ -6,7 +6,13 @@
   <JobDef_StudyAncientStargate.reportString>研究古代人造物。</JobDef_StudyAncientStargate.reportString>
 
 
- 
+  <!-- <JobDef>
+		<defName>SwitchWindowState</defName>
+		<driverClass>SK.Window_Job</driverClass>
+		<reportString>Opening/Closing window.</reportString>
+		<casualInterruptible>false</casualInterruptible>
+		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+	</JobDef> -->
 
   <RefuelBurner.reportString>做事。</RefuelBurner.reportString>
   <WatchGlassTelevision.reportString>看电影。</WatchGlassTelevision.reportString>

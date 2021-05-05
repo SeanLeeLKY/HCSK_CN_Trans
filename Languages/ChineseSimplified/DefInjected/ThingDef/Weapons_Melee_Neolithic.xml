@@ -21,10 +21,13 @@
   <MeleeWeapon_Club.description>用来击毙敌人的末端比较重的棍棒。这种古老的武器是人类进化史的一部分，原始但是有效。</MeleeWeapon_Club.description>
   <MeleeWeapon_Club.tools.0.label>前端</MeleeWeapon_Club.tools.0.label>
 
-  <!-- <MeleeWeapon_Shiv.label>小刀</MeleeWeapon_Shiv.label>
-  <MeleeWeapon_Shiv.description>一种简易制作的短刀。</MeleeWeapon_Shiv.description> -->
+  <MeleeWeapon_Shiv.label>小刀</MeleeWeapon_Shiv.label>
+  <MeleeWeapon_Shiv.description>一种简易制作的短刀。</MeleeWeapon_Shiv.description>
   <MeleeWeapon_Shiv.tools.0.label>握把</MeleeWeapon_Shiv.tools.0.label>
   <MeleeWeapon_Shiv.tools.1.label>刀尖</MeleeWeapon_Shiv.tools.1.label>
 
+
+  <!-- <MeleeWeapon_Shiv.label>小刀</MeleeWeapon_Shiv.label>
+  <MeleeWeapon_Shiv.description>一种简易制作的短刀。</MeleeWeapon_Shiv.description> -->
 
 </LanguageData>

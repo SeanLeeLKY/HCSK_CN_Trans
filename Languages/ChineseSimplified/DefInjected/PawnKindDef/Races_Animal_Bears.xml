@@ -25,7 +25,7 @@
   <Bear_Grizzly.labelMalePlural>公灰熊</Bear_Grizzly.labelMalePlural>
   <Bear_Grizzly.labelFemale>母灰熊</Bear_Grizzly.labelFemale>
   <Bear_Grizzly.labelFemalePlural>母灰熊</Bear_Grizzly.labelFemalePlural>
-  
+
   <Bear_Polar.label>北极熊</Bear_Polar.label>
   <Bear_Polar.labelPlural>北极熊</Bear_Polar.labelPlural>
   <Bear_Polar.lifeStages.0.label>北极熊幼崽</Bear_Polar.lifeStages.0.label>
@@ -75,6 +75,7 @@
   <PandaBear.labelMalePlural>雄性熊猫</PandaBear.labelMalePlural>
   <PandaBear.labelFemale>雌性熊猫</PandaBear.labelFemale>
   <PandaBear.labelFemalePlural>雌性熊猫</PandaBear.labelFemalePlural>
+
 
   <!--<Blackbear.label>黑熊</Blackbear.label>-->
   <!--<Blackbear.labelPlural>黑熊</Blackbear.labelPlural>-->

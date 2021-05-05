@@ -25,6 +25,17 @@
   <Leg.description>一组原生运动肢体。能让你到处走来走去的、漂亮的、长长的肉棍子。</Leg.description>
 
 
+  <!-- <ThingDef ParentName="BodyPartBase_Natural">
+	<defName>Brain</defName>
+    <label>brain</label>
+	<description>Lets you know whos in charge</description>
+	<graphicPath>Things/Item/BodyPart/MedOrgan</graphicPath>
+	<graphicClass>Graphic_Single</graphicClass>
+	<statBases>
+	  <MarketValue>500</MarketValue>
+    </statBases>
+</ThingDef> -->
+
   <Arm.label>臂</Arm.label>
   <Arm.description>一组原生运动肢体。臂和腿差不多，除了能让你拿起东西。</Arm.description>
 

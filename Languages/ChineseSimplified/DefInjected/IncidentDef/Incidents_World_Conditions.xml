@@ -8,8 +8,9 @@
   <SolarFlare.letterLabel>太阳耀斑</SolarFlare.letterLabel>
 
   <Aurora.label>极光</Aurora.label>
-  <Aurora.letterText>一片美丽的极光照亮了天空。\n\n起伏的色彩会让在外面看到的人心情愉悦，并使夜晚变得更加明亮。</Aurora.letterText>
   <Aurora.letterLabel>极光</Aurora.letterLabel>
 
+
+  <!--<Aurora.letterText>一片美丽的极光照亮了天空。\n\n起伏的色彩会让在外面看到的人心情愉悦，并使夜晚变得更加明亮。</Aurora.letterText>-->
 
 </LanguageData>

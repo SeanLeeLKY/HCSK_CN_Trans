@@ -4,8 +4,11 @@
   <Charged.label>电荷弹</Charged.label>
   <Charged.description>电荷子弹对于装甲和组织拥有一样的伤害力。</Charged.description>
 
-  <ChargedST.label>电荷弹（稳态）</ChargedST.label>
-  <ChargedST.description>稳态电荷弹不会点燃物体。</ChargedST.description>
+  <LaserUST.label>光束弹（非稳态）</LaserUST.label>
+  <LaserUST.description>非稳态光束弹（能够点燃物体）。</LaserUST.description>
+
+  <LaserST.label>光束弹（稳态）</LaserST.label>
+  <LaserST.description>稳态光束弹（不会点燃物体）。</LaserST.description>
 
   <ChargedAP.label>电荷弹（聚能）</ChargedAP.label>
   <ChargedAP.labelShort>聚能</ChargedAP.labelShort>
@@ -43,5 +46,8 @@
   <RadiationIonising.labelShort>石</RadiationIonising.labelShort>
   <RadiationIonising.description>辐射出大量对神经系统产生永久损伤的电离伽马射线，这是一种强致癌物。</RadiationIonising.description>
 
+
+  <!--<ChargedST.label>电荷弹（稳态）</ChargedST.label>-->
+  <!--<ChargedST.description>稳态电荷弹不会点燃物体。</ChargedST.description>-->
 
 </LanguageData>

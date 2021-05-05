@@ -22,7 +22,7 @@
   <RockyDirt-Gravel_Frame.description>↑ 石砾\n\n↓ 砂砾</RockyDirt-Gravel_Frame.description>
 
 
-  <!-- –––––––––––––––––––––––––––––––––   沙  ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   Sand   ––––––––––––––––––––––––––––––––– -->
 
   <Sand-RockyDirt.label>石砾</Sand-RockyDirt.label>
   <Sand-RockyDirt.description>↑ 沙\n↑ 细沙\n\n↓ 石砾\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 40 沙</Sand-RockyDirt.description>
@@ -49,7 +49,7 @@
   <Sand-WaterShallow_Frame.description>↑ 沙（近水）\n\n↓ 浅水\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 20 粘土\n  ▪ 80 沙</Sand-WaterShallow_Frame.description>
 
 
-  <!-- –––––––––––––––––––––––––––––––––   砂砾   ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   Gravel   ––––––––––––––––––––––––––––––––– -->
 
   <Gravel-RockyDirt.label>石砾</Gravel-RockyDirt.label>
   <Gravel-RockyDirt.description>↑ 砂砾 \n\n↓ 石砾\n\n  ▪ 30 碎石\n  ▪ 8 泥土\n  ▪ 8 沙</Gravel-RockyDirt.description>
@@ -70,7 +70,7 @@
   <Gravel-SoilF_Frame.description>↑ 砂砾\n\n↓ 土地</Gravel-SoilF_Frame.description>
 
 
-  <!-- –––––––––––––––––––––––––––––––––   土地  ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   Soil   ––––––––––––––––––––––––––––––––– -->
 
   <SoilF-RockyDirt.label>石砾</SoilF-RockyDirt.label>
   <SoilF-RockyDirt.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 贫瘠土地 \n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 45 泥土\n  ▪ 10 粘土\n  ▪ 5 泥炭\n  ▪ 15 沙\n  ▪ 2 肥料</SoilF-RockyDirt.description>
@@ -103,7 +103,7 @@
   <SoilF-PackedDirt_Frame.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 苔藓地\n\n↓ 压实泥土</SoilF-PackedDirt_Frame.description>
 
 
-  <!-- –––––––––––––––––––––––––––––––––   浅水   ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   Shallow Water   ––––––––––––––––––––––––––––––––– -->
 
   <WaterShallow-Sand.label>沙</WaterShallow-Sand.label>
   <WaterShallow-Sand.description>↑ 浅水\n\n↓ 沙</WaterShallow-Sand.description>
@@ -124,7 +124,7 @@
   <WaterShallow-WaterDeep_Frame.description>↑ 浅水\n\n↓ 深水\n\n  ▪ 5 碎石\n  ▪ 70 泥土\n  ▪ 70 粘土\n  ▪ 40 泥炭\n  ▪ 120 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！</WaterShallow-WaterDeep_Frame.description>
 
 
-  <!-- –––––––––––––––––––––––––––––––––   湿软土地  ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   Marshy soil   ––––––––––––––––––––––––––––––––– -->
 
   <SoilMarshy-SoilF.label>土地</SoilMarshy-SoilF.label>
   <SoilMarshy-SoilF.description>↑ 湿软土地\n\n↓ 土地</SoilMarshy-SoilF.description>
@@ -145,7 +145,7 @@
   <SoilMarshy-Marsh_Frame.description>↑ 湿软土地\n\n↓ 沼泽\n\n  ▪ 15 泥土\n  ▪ 20 粘土\n  ▪ 20 泥炭\n  ▪ 5 沙\n  ▪ 4 肥料</SoilMarshy-Marsh_Frame.description>
 
 
-  <!-- –––––––––––––––––––––––––––––––––   沼泽  ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   Marsh   ––––––––––––––––––––––––––––––––– -->
 
   <Marsh-SoilMarshy.label>湿软土地</Marsh-SoilMarshy.label>
   <Marsh-SoilMarshy.description>↑ 沼泽\n↑ 泥地\n\n↓ 湿软土地</Marsh-SoilMarshy.description>
@@ -238,37 +238,37 @@
   <Ice-WaterShallow_Frame.description>↑ 冰面\n\n↓ 浅水</Ice-WaterShallow_Frame.description>
 
 
+  <!-- –––––––––––––––––––––––––––––––––   沙  ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   砂砾   ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   土地  ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   浅水   ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   湿软土地  ––––––––––––––––––––––––––––––––– -->
+  <!-- –––––––––––––––––––––––––––––––––   沼泽  ––––––––––––––––––––––––––––––––– -->
   <!-- –––––––––––––––––––––––––––––––––   Peat,Clay,碎石 and 沙  ––––––––––––––––––––––––––––––––– -->
-
-  <Peat-WaterShallow.label>从土地收集泥炭</Peat-WaterShallow.label>
-  <Peat-WaterShallow.description>↑ 苔藓地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 粘土\n  ▪ 20 泥炭\n  ▪ 5 沙</Peat-WaterShallow.description>
-  <Peat-WaterShallow_Blueprint.label>从土地收集泥炭（蓝图）</Peat-WaterShallow_Blueprint.label>
-  <Peat-WaterShallow_Frame.label>从土地收集泥炭（建造中）</Peat-WaterShallow_Frame.label>
-  <Peat-WaterShallow_Frame.description>↑ 苔藓地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 粘土\n  ▪ 20 泥炭\n  ▪ 5 沙</Peat-WaterShallow_Frame.description>
-
-  <Peat-SoilRich.label>从沃土收集泥炭</Peat-SoilRich.label>
-  <Peat-SoilRich.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾地\n\n  ▪ 10 碎石\n  ▪ 20 泥土\n  ▪ 5 粘土\n  ▪ 15 泥炭\n  ▪ 15 沙</Peat-SoilRich.description>
-  <Peat-SoilRich_Blueprint.label>从沃土收集泥炭（蓝图）</Peat-SoilRich_Blueprint.label>
-  <Peat-SoilRich_Frame.label>从沃土收集泥炭（建造中）</Peat-SoilRich_Frame.label>
-  <Peat-SoilRich_Frame.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾地\n\n  ▪ 10 碎石\n  ▪ 20 泥土\n  ▪ 5 粘土\n  ▪ 15 泥炭\n  ▪ 15 沙</Peat-SoilRich_Frame.description>
-
-  <Peat-SavannaSoil.label>从草原土收集泥炭</Peat-SavannaSoil.label>
-  <Peat-SavannaSoil.description>↑ 边角土地\n↑ 草原土地\n\n↓ 石砾地\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 粘土\n  ▪ 10 泥炭\n  ▪ 5 沙</Peat-SavannaSoil.description>
-  <Peat-SavannaSoil_Blueprint.label>从草原土收集泥炭（蓝图）</Peat-SavannaSoil_Blueprint.label>
-  <Peat-SavannaSoil_Frame.label>从草原土收集泥炭（建造中）</Peat-SavannaSoil_Frame.label>
-  <Peat-SavannaSoil_Frame.description>↑ 边角土地\n↑ 草原土地\n\n↓ 石砾地\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 粘土\n  ▪ 10 泥炭\n  ▪ 5 沙</Peat-SavannaSoil_Frame.description>
-
-  <SoftClay-WaterShallow.label>从沼泽收集粘土</SoftClay-WaterShallow.label>
-  <SoftClay-WaterShallow.description>↑ 湿软土地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 10 泥土\n  ▪ 50 粘土\n  ▪ 5 泥炭\n  ▪ 20 沙</SoftClay-WaterShallow.description>
-  <SoftClay-WaterShallow_Blueprint.label>从沼泽收集粘土（蓝图）</SoftClay-WaterShallow_Blueprint.label>
-  <SoftClay-WaterShallow_Frame.label>从沼泽收集粘土（建造中）</SoftClay-WaterShallow_Frame.label>
-  <SoftClay-WaterShallow_Frame.description>↑ 湿软土地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 10 泥土\n  ▪ 50 粘土\n  ▪ 5 泥炭\n  ▪ 20 沙</SoftClay-WaterShallow_Frame.description>
-
-  <SoftClay-SoilRich.label>从沃土收集粘土</SoftClay-SoilRich.label>
-  <SoftClay-SoilRich.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 30 粘土\n  ▪ 5 泥炭\n  ▪ 10 沙</SoftClay-SoilRich.description>
-  <SoftClay-SoilRich_Blueprint.label>从沃土收集粘土（蓝图）</SoftClay-SoilRich_Blueprint.label>
-  <SoftClay-SoilRich_Frame.label>从沃土收集粘土（建造中）</SoftClay-SoilRich_Frame.label>
-  <SoftClay-SoilRich_Frame.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 30 粘土\n  ▪ 5 泥炭\n  ▪ 10 沙</SoftClay-SoilRich_Frame.description>
-
+  <!--<Peat-WaterShallow.label>从土地收集泥炭</Peat-WaterShallow.label>-->
+  <!--<Peat-WaterShallow.description>↑ 苔藓地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 粘土\n  ▪ 20 泥炭\n  ▪ 5 沙</Peat-WaterShallow.description>-->
+  <!--<Peat-WaterShallow_Blueprint.label>从土地收集泥炭（蓝图）</Peat-WaterShallow_Blueprint.label>-->
+  <!--<Peat-WaterShallow_Frame.label>从土地收集泥炭（建造中）</Peat-WaterShallow_Frame.label>-->
+  <!--<Peat-WaterShallow_Frame.description>↑ 苔藓地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 粘土\n  ▪ 20 泥炭\n  ▪ 5 沙</Peat-WaterShallow_Frame.description>-->
+  <!--<Peat-SoilRich.label>从沃土收集泥炭</Peat-SoilRich.label>-->
+  <!--<Peat-SoilRich.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾地\n\n  ▪ 10 碎石\n  ▪ 20 泥土\n  ▪ 5 粘土\n  ▪ 15 泥炭\n  ▪ 15 沙</Peat-SoilRich.description>-->
+  <!--<Peat-SoilRich_Blueprint.label>从沃土收集泥炭（蓝图）</Peat-SoilRich_Blueprint.label>-->
+  <!--<Peat-SoilRich_Frame.label>从沃土收集泥炭（建造中）</Peat-SoilRich_Frame.label>-->
+  <!--<Peat-SoilRich_Frame.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾地\n\n  ▪ 10 碎石\n  ▪ 20 泥土\n  ▪ 5 粘土\n  ▪ 15 泥炭\n  ▪ 15 沙</Peat-SoilRich_Frame.description>-->
+  <!--<Peat-SavannaSoil.label>从草原土收集泥炭</Peat-SavannaSoil.label>-->
+  <!--<Peat-SavannaSoil.description>↑ 边角土地\n↑ 草原土地\n\n↓ 石砾地\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 粘土\n  ▪ 10 泥炭\n  ▪ 5 沙</Peat-SavannaSoil.description>-->
+  <!--<Peat-SavannaSoil_Blueprint.label>从草原土收集泥炭（蓝图）</Peat-SavannaSoil_Blueprint.label>-->
+  <!--<Peat-SavannaSoil_Frame.label>从草原土收集泥炭（建造中）</Peat-SavannaSoil_Frame.label>-->
+  <!--<Peat-SavannaSoil_Frame.description>↑ 边角土地\n↑ 草原土地\n\n↓ 石砾地\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 15 粘土\n  ▪ 10 泥炭\n  ▪ 5 沙</Peat-SavannaSoil_Frame.description>-->
+  <!--<SoftClay-WaterShallow.label>从沼泽收集粘土</SoftClay-WaterShallow.label>-->
+  <!--<SoftClay-WaterShallow.description>↑ 湿软土地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 10 泥土\n  ▪ 50 粘土\n  ▪ 5 泥炭\n  ▪ 20 沙</SoftClay-WaterShallow.description>-->
+  <!--<SoftClay-WaterShallow_Blueprint.label>从沼泽收集粘土（蓝图）</SoftClay-WaterShallow_Blueprint.label>-->
+  <!--<SoftClay-WaterShallow_Frame.label>从沼泽收集粘土（建造中）</SoftClay-WaterShallow_Frame.label>-->
+  <!--<SoftClay-WaterShallow_Frame.description>↑ 湿软土地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n  ▪ 10 泥土\n  ▪ 50 粘土\n  ▪ 5 泥炭\n  ▪ 20 沙</SoftClay-WaterShallow_Frame.description>-->
+  <!--<SoftClay-SoilRich.label>从沃土收集粘土</SoftClay-SoilRich.label>-->
+  <!--<SoftClay-SoilRich.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 30 粘土\n  ▪ 5 泥炭\n  ▪ 10 沙</SoftClay-SoilRich.description>-->
+  <!--<SoftClay-SoilRich_Blueprint.label>从沃土收集粘土（蓝图）</SoftClay-SoilRich_Blueprint.label>-->
+  <!--<SoftClay-SoilRich_Frame.label>从沃土收集粘土（建造中）</SoftClay-SoilRich_Frame.label>-->
+  <!--<SoftClay-SoilRich_Frame.description>↑ 肥沃土地\n↑ 苔藓地\n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 30 粘土\n  ▪ 5 泥炭\n  ▪ 10 沙</SoftClay-SoilRich_Frame.description>-->
 
 </LanguageData>

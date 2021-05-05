@@ -17,9 +17,6 @@
   <SK_VegetablesII.label>蔬菜种植 II</SK_VegetablesII.label>
   <SK_VegetablesII.description>我们对蔬菜种植技术有了进一步的研究，现在我们的殖民者可以种植新的蔬菜和作物，如卷心菜和茄子。</SK_VegetablesII.description>
 
-  <SK_VegetablesIII.label>蔬菜种植 III</SK_VegetablesIII.label>
-  <SK_VegetablesIII.description>我们对蔬菜种植技术有了更深的研究，现在我们的殖民者可以种植以及利用新的蔬菜和作物，比如豆类作物。</SK_VegetablesIII.description>
-
 
   <!-- PlantCabbage
 					Planteggplant -->
@@ -32,9 +29,6 @@
 
   <SK_FruitsII.label>水果培育 II</SK_FruitsII.label>
   <SK_FruitsII.description>对水果的培育技术有了进一步的了解，现在殖民者们可以种植培育蓝莓。</SK_FruitsII.description>
-
-  <SK_FruitsIII.label>水果培育 III</SK_FruitsIII.label>
-  <SK_FruitsIII.description>深入研究水果的培育技术，允许殖民者种植许多不同的水果和作物，如草莓和番茄。</SK_FruitsIII.description>
 
 
   <!-- MakeFruitDrink -->
@@ -273,8 +267,20 @@
   <SK_Bridges.label>桥梁</SK_Bridges.label>
   <SK_Bridges.description>遇到阻碍是绕路还是架桥？解锁在浅水中安放基柱的工程技术。你可以在上面放置桥梁或者其他建筑平台。</SK_Bridges.description>
 
-  <FertilizerProduction.label>堆肥生产</FertilizerProduction.label>
-  <FertilizerProduction.description>解锁建造肥料发酵设备。</FertilizerProduction.description>
+
+  <!-- <ResearchProjectDef ParentName="IndustrialBase">
+		<defName>FertilizerProduction</defName>
+		<label>Compost production</label>
+		<description>Allows you to build Fertilizer Production.</description>
+		<baseCost>800</baseCost>
+		<techLevel>Industrial</techLevel>
+		<tab>Agriculture</tab>
+		<prerequisites>
+			<li>SK_SoilFertillizationII</li>
+		</prerequisites>
+		<researchViewX>4.52</researchViewX>
+		<researchViewY>3.73</researchViewY>
+	</ResearchProjectDef> -->
 
   <MoisturePump.label>土壤肥力 III</MoisturePump.label>
   <MoisturePump.description>随着对本地环境的更进一步研究，现在殖民地已经可以建造更加复杂的地形改造设备了。解锁肥料泵和抽水泵，这些设施可以缓慢的将普通地形改造成为可耕种土壤。</MoisturePump.description>
@@ -292,6 +298,7 @@
 
   <Hydroponics.label>水栽培 I</Hydroponics.label>
   <Hydroponics.description>农业技术的发展突破了土地种植的限制，殖民地能够解锁水栽培技术。这项技术也是室内农业的重要支撑技术。</Hydroponics.description>
+
 
   <!-- HydroponicsBasin
 			Agrarian -->
@@ -326,5 +333,12 @@
   <SK_FungiIII.label>菌类培育 III</SK_FungiIII.label>
   <SK_FungiIII.description>解锁种植闪帽蘑菇。</SK_FungiIII.description>
 
+
+  <!--<SK_VegetablesIII.label>蔬菜种植 III</SK_VegetablesIII.label>-->
+  <!--<SK_VegetablesIII.description>我们对蔬菜种植技术有了更深的研究，现在我们的殖民者可以种植以及利用新的蔬菜和作物，比如豆类作物。</SK_VegetablesIII.description>-->
+  <!--<SK_FruitsIII.label>水果培育 III</SK_FruitsIII.label>-->
+  <!--<SK_FruitsIII.description>深入研究水果的培育技术，允许殖民者种植许多不同的水果和作物，如草莓和番茄。</SK_FruitsIII.description>-->
+  <!--<FertilizerProduction.label>堆肥生产</FertilizerProduction.label>-->
+  <!--<FertilizerProduction.description>解锁建造肥料发酵设备。</FertilizerProduction.description>-->
 
 </LanguageData>

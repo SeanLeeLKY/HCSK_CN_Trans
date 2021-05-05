@@ -110,5 +110,8 @@
   <Pyrophobia.degreeDatas.0.label>恐火症</Pyrophobia.degreeDatas.0.label>
   <Pyrophobia.degreeDatas.0.description>{PAWN_nameDef}讨厌火焰。{PAWN_pronoun}完全拒接近或灭火。</Pyrophobia.degreeDatas.0.description>
 
+  <Fragile.degreeDatas.0.label>弱不禁风</Fragile.degreeDatas.0.label>
+  <Fragile.degreeDatas.0.description>{PAWN_nameDef}皮薄孱弱，骨瘦如柴。{PAWN_pronoun}被攻击时会比普通人承受更多伤害。一不小心，{PAWN_pronoun}就完蛋了。</Fragile.degreeDatas.0.description>
+
 
 </LanguageData>

@@ -30,14 +30,11 @@
 
 
   <!-- Vanilla chemfuel recipes -->
-
-  <Make_ChemfuelFromWood.label>用木材制作化合燃料</Make_ChemfuelFromWood.label>
-  <Make_ChemfuelFromWood.description>通过气化原木以制作一组化合燃料。</Make_ChemfuelFromWood.description>
-  <Make_ChemfuelFromWood.jobString>正在从木材中提炼化合燃料。</Make_ChemfuelFromWood.jobString>
-
-  <Make_ChemfuelFromOrganics.label>用有机物制作化合燃料</Make_ChemfuelFromOrganics.label>
-  <Make_ChemfuelFromOrganics.description>通过从有机原料中提取生物燃料以制作一组化合燃料。</Make_ChemfuelFromOrganics.description>
-  <Make_ChemfuelFromOrganics.jobString>正在从有机物中提炼化合燃料。</Make_ChemfuelFromOrganics.jobString>
-
+  <!--<Make_ChemfuelFromWood.label>用木材制作化合燃料</Make_ChemfuelFromWood.label>-->
+  <!--<Make_ChemfuelFromWood.description>通过气化原木以制作一组化合燃料。</Make_ChemfuelFromWood.description>-->
+  <!--<Make_ChemfuelFromWood.jobString>正在从木材中提炼化合燃料。</Make_ChemfuelFromWood.jobString>-->
+  <!--<Make_ChemfuelFromOrganics.label>用有机物制作化合燃料</Make_ChemfuelFromOrganics.label>-->
+  <!--<Make_ChemfuelFromOrganics.description>通过从有机原料中提取生物燃料以制作一组化合燃料。</Make_ChemfuelFromOrganics.description>-->
+  <!--<Make_ChemfuelFromOrganics.jobString>正在从有机物中提炼化合燃料。</Make_ChemfuelFromOrganics.jobString>-->
 
 </LanguageData>

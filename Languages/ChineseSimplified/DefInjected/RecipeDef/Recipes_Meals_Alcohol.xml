@@ -10,69 +10,69 @@
 
   <!-- Wort -->
 
-  <Make_Wort.label>酿造 麦芽汁</Make_Wort.label>
+  <Make_Wort.label>制作 麦芽汁</Make_Wort.label>
   <Make_Wort.description>使用啤酒花制作麦芽汁。 \n\n产出：10。</Make_Wort.description>
-  <Make_Wort.jobString>正在酿造 麦芽汁。</Make_Wort.jobString>
+  <Make_Wort.jobString>正在制作 麦芽汁。</Make_Wort.jobString>
 
 
   <!-- Grain Mash -->
 
-  <Makegrainmash.label>酿造 谷物原浆</Makegrainmash.label>
-  <Makegrainmash.description>使用麦子酿造谷物原浆。 \n\n产出：10。</Makegrainmash.description>
-  <Makegrainmash.jobString>正在酿造 谷物原浆。</Makegrainmash.jobString>
+  <Makegrainmash.label>制作 谷物酿料</Makegrainmash.label>
+  <Makegrainmash.description>使用麦子制作谷物酿料。 \n\n产出：10。</Makegrainmash.description>
+  <Makegrainmash.jobString>正在制作 谷物酿料。</Makegrainmash.jobString>
 
 
   <!-- Saké Mash -->
 
-  <Makesakemash.label>酿造 清酒原浆</Makesakemash.label>
-  <Makesakemash.description>使用稻米酿造清酒原浆 \n\n产出：10。</Makesakemash.description>
-  <Makesakemash.jobString>正在酿造 清酒原浆。</Makesakemash.jobString>
+  <Makesakemash.label>制作 清酒酿料</Makesakemash.label>
+  <Makesakemash.description>使用稻米制作清酒酿料。 \n\n产出：10。</Makesakemash.description>
+  <Makesakemash.jobString>正在制作 清酒酿料。</Makesakemash.jobString>
 
 
   <!-- Rum Mash -->
 
-  <Makerummash.label>酿造 朗姆原浆</Makerummash.label>
-  <Makerummash.description>使用甘蔗酿造朗姆原浆。 \n\n产出：10。</Makerummash.description>
-  <Makerummash.jobString>正在酿造 朗姆原浆。</Makerummash.jobString>
+  <Makerummash.label>制作 朗姆酿料</Makerummash.label>
+  <Makerummash.description>使用甘蔗制作朗姆酿料。 \n\n产出：10。</Makerummash.description>
+  <Makerummash.jobString>正在制作 朗姆酿料。</Makerummash.jobString>
 
 
   <!-- Cider Mash -->
 
-  <Makecidermash.label>酿造 苹果原浆</Makecidermash.label>
-  <Makecidermash.description>使用苹果酿造苹果原浆。 \n\n产出：10。</Makecidermash.description>
-  <Makecidermash.jobString>正在酿造 苹果原浆。</Makecidermash.jobString>
+  <Makecidermash.label>制作 苹果酿料</Makecidermash.label>
+  <Makecidermash.description>使用苹果制作苹果酿料。 \n\n产出：10。</Makecidermash.description>
+  <Makecidermash.jobString>正在制作 苹果酿料。</Makecidermash.jobString>
 
 
   <!-- Berry Mash -->
 
-  <Makeberrymash.label>酿造 浆果原浆</Makeberrymash.label>
-  <Makeberrymash.description>使用浆果酿造浆果原浆。 \n\n产出：10。</Makeberrymash.description>
-  <Makeberrymash.jobString>正在酿造 浆果原浆。</Makeberrymash.jobString>
+  <Makeberrymash.label>制作 浆果酿料</Makeberrymash.label>
+  <Makeberrymash.description>使用浆果制作浆果酿料。 \n\n产出：10。</Makeberrymash.description>
+  <Makeberrymash.jobString>正在制作 浆果酿料。</Makeberrymash.jobString>
 
 
   <!-- Vodka Mash -->
 
-  <Makevodkamash.label>酿造 伏特加原浆</Makevodkamash.label>
-  <Makevodkamash.description>使用土豆酿造伏特加原浆。 \n\n产出：10。</Makevodkamash.description>
-  <Makevodkamash.jobString>正在酿造 伏特加原浆。</Makevodkamash.jobString>
+  <Makevodkamash.label>制作 伏特加酿料</Makevodkamash.label>
+  <Makevodkamash.description>使用土豆制作伏特加酿料。 \n\n产出：10。</Makevodkamash.description>
+  <Makevodkamash.jobString>正在制作 伏特加酿料。</Makevodkamash.jobString>
 
 
   <!-- Tequila Mash -->
 
-  <Maketequilamash.label>酿造 龙舌兰原浆</Maketequilamash.label>
-  <Maketequilamash.description>使用龙舌兰酿造龙舌兰原浆。 \n\n产出：10。</Maketequilamash.description>
-  <Maketequilamash.jobString>正在酿造 龙舌兰原浆。</Maketequilamash.jobString>
+  <Maketequilamash.label>制作 龙舌兰酿料</Maketequilamash.label>
+  <Maketequilamash.description>使用龙舌兰制作龙舌兰酿料。 \n\n产出：10。</Maketequilamash.description>
+  <Maketequilamash.jobString>正在制作 龙舌兰酿料。</Maketequilamash.jobString>
 
 
   <!-- Wine Mash -->
 
-  <Makewinemash.label>酿造 葡萄原浆</Makewinemash.label>
-  <Makewinemash.description>使用葡萄酿造葡萄原浆。 \n\n产出：10。</Makewinemash.description>
-  <Makewinemash.jobString>正在酿造 葡萄原浆。</Makewinemash.jobString>
+  <Makewinemash.label>制作 葡萄酿料</Makewinemash.label>
+  <Makewinemash.description>使用葡萄制作葡萄酿料。 \n\n产出：10。</Makewinemash.description>
+  <Makewinemash.jobString>正在制作 葡萄酿料。</Makewinemash.jobString>
 
 
-  <!--<MakeWort.label>酿造 麦芽汁</MakeWort.label>-->
+  <!--<MakeWort.label>制作 麦芽汁</MakeWort.label>-->
   <!--<MakeWort.description>使用啤酒花制作麦芽汁。 \n\n产出：10。</MakeWort.description>-->
-  <!--<MakeWort.jobString>正在酿造 麦芽汁。</MakeWort.jobString>-->
+  <!--<MakeWort.jobString>正在制作 麦芽汁。</MakeWort.jobString>-->
 
 </LanguageData>

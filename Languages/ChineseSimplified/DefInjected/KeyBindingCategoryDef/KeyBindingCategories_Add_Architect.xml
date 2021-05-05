@@ -45,14 +45,11 @@
   <Architect_Orders.label>命令面板</Architect_Orders.label>
   <Architect_Orders.description>用于建筑规划 - 「命令」分类的快捷</Architect_Orders.description>
 
-  <Architect_Rugs.label>地毯面板</Architect_Rugs.label>
-  <Architect_Rugs.description>用于建筑规划 - 「地毯」分类的快捷</Architect_Rugs.description>
+  <Architect_LWM_DS_Storage.label>储存面板</Architect_LWM_DS_Storage.label>
+  <Architect_LWM_DS_Storage.description>用于建筑规划 - 「储存」分类的快捷</Architect_LWM_DS_Storage.description>
 
   <Architect_SK_category_terraform.label>地形改造面板</Architect_SK_category_terraform.label>
   <Architect_SK_category_terraform.description>用于建筑规划 - 「地形改造」分类的快捷</Architect_SK_category_terraform.description>
-
-  <Architect_LWM_DS_Storage.label>储存面板</Architect_LWM_DS_Storage.label>
-  <Architect_LWM_DS_Storage.description>用于建筑规划 - 「储存」分类的快捷</Architect_LWM_DS_Storage.description>
 
   <Architect_ZonesColor.label>区域颜色面板</Architect_ZonesColor.label>
   <Architect_ZonesColor.description>用于建筑规划 - 「存储区」颜色分类的快捷</Architect_ZonesColor.description>
@@ -61,5 +58,8 @@
   <Architect_DumpingZonesColor.description>用于建筑规划 - 「垃圾存储区」颜色分类的快捷</Architect_DumpingZonesColor.description>
 
 
+
+  <!--<Architect_Rugs.label>地毯面板</Architect_Rugs.label>-->
+  <!--<Architect_Rugs.description>用于建筑规划 - 「地毯」分类的快捷</Architect_Rugs.description>-->
 
 </LanguageData>

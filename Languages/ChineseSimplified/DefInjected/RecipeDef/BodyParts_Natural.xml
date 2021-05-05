@@ -43,6 +43,18 @@
   <InstallNaturalLeg.description>安装 腿。</InstallNaturalLeg.description>
   <InstallNaturalLeg.jobString>正在安装 腿。</InstallNaturalLeg.jobString>
 
+
+  <!-- <ThingDef ParentName="BodyPartBase_Natural">
+	<defName>Brain</defName>
+    <label>brain</label>
+	<description>Lets you know whos in charge</description>
+	<graphicPath>Things/Item/BodyPart/MedOrgan</graphicPath>
+	<graphicClass>Graphic_Single</graphicClass>
+	<statBases>
+	  <MarketValue>500</MarketValue>
+    </statBases>
+</ThingDef> -->
+
   <InstallNaturalArm.label>安装 手臂</InstallNaturalArm.label>
   <InstallNaturalArm.description>安装 手臂。</InstallNaturalArm.description>
   <InstallNaturalArm.jobString>正在安装 手臂。</InstallNaturalArm.jobString>

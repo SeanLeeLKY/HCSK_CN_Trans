@@ -27,16 +27,70 @@
   <WoolBison.description>野牛的粗长毛发，非常适合保暖。</WoolBison.description>
   <WoolBison.stuffProps.stuffAdjective>野牛毛</WoolBison.stuffProps.stuffAdjective>
 
-  <HempCloth.label>麻布</HempCloth.label>
-  <HempCloth.description>麻布是一种用大麻类植物的长纤维粗制成的一种布匹，也经常成为粗麻布，这种布匹的原料就是可以用来制作成瘾品的那种大麻。这东西一定要远离火源！</HempCloth.description>
-  <HempCloth.stuffProps.stuffAdjective>麻布</HempCloth.stuffProps.stuffAdjective>
-
   <WoolSheep.label>羊毛</WoolSheep.label>
   <WoolSheep.description>羊毛是一种保温隔热的优质材料。</WoolSheep.description>
   <WoolSheep.stuffProps.stuffAdjective>羊毛</WoolSheep.stuffProps.stuffAdjective>
 
+  <HempCloth.label>麻布</HempCloth.label>
+  <HempCloth.description>麻布是一种用大麻类植物的长纤维粗制成的一种布匹，也经常成为粗麻布，这种布匹的原料就是可以用来制作成瘾品的那种大麻。这东西一定要远离火源！</HempCloth.description>
+  <HempCloth.stuffProps.stuffAdjective>麻布</HempCloth.stuffProps.stuffAdjective>
 
- 
+
+  <!-- Temporary removal until leather processing is ready
+	<ThingDef ParentName="SK_ResourceBase">
+		<defName>Tannedleather</defName>
+		<label>Tanned</label>
+		
+    <graphicData>
+		<texPath>Things/Item/Resource/DevilstrandCloth</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+		<color>(160,115,45)</color>
+    </graphicData>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<MarketValue>10</MarketValue>
+			<Flammability>0.7</Flammability>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+		<tickerType>Rare</tickerType>
+		<stackLimit>150</stackLimit>
+		<stuffProps>
+			<stuffAdjective>tanned</stuffAdjective>
+			<categories>
+				<li>Leathery</li>
+			</categories>
+			<color>(160,115,45)</color>
+			<statOffsets>
+				<StuffPower_Armor_Blunt>0.05</StuffPower_Armor_Blunt>
+				<StuffPower_Armor_Sharp>0.04</StuffPower_Armor_Sharp>
+				<StuffPower_Armor_Heat>0</StuffPower_Armor_Heat>
+			</statOffsets>
+			<statFactors>
+				<MaxHitPoints>1.4</MaxHitPoints>
+				<Beauty>1.2</Beauty>
+				<WorkToMake>1.3</WorkToMake>
+				<WorkToBuild>1.3</WorkToBuild>
+				<StuffPower_Armor_Blunt>1.5</StuffPower_Armor_Blunt>
+				<StuffPower_Armor_Sharp>1.4</StuffPower_Armor_Sharp>
+				<StuffPower_Armor_Heat>0.12</StuffPower_Armor_Heat>
+				<StuffPower_Insulation_Cold>1.3</StuffPower_Insulation_Cold>
+				<StuffPower_Insulation_Heat>1.35</StuffPower_Insulation_Heat>
+				<MoveSpeed>0.95</MoveSpeed>
+				<MarketValue>1.5</MarketValue>
+				<BedRestEffectiveness>1.0</BedRestEffectiveness>
+				<ImmunityGainSpeedFactor>1.1</ImmunityGainSpeedFactor>
+				<Mass>1.0</Mass>
+			</statFactors>
+		</stuffProps>
+		<thingCategories>
+			<li>Leathers</li>
+		</thingCategories>
+		<comps>
+			<li>
+				<compClass>CompColorable</compClass>
+			</li>
+		</comps>
+	</ThingDef> -->
 
   <Velour.label>丝绒</Velour.label>
   <Velour.stuffProps.stuffAdjective>丝绒</Velour.stuffProps.stuffAdjective>

@@ -60,7 +60,34 @@
   <FixedMeteoriteIncomingFlame.label>陨石（临近中）</FixedMeteoriteIncomingFlame.label>
 
 
-  
+  <!-- <ThingDef Name="MechanoidShipBase" Abstract="True">
+		<label>Mechanoid ship (incoming)</label>
+		<category>Ethereal</category>
+		<tickerType>Normal</tickerType>
+		<graphicData>
+			<texPath>Things/Building/Genstep/MechanoidShipIncoming</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(6,6)</drawSize>
+			<shaderType>CutoutFlying</shaderType>
+		</graphicData>
+		<size>(6,6)</size>
+		<altitudeLayer>Skyfaller</altitudeLayer>
+		<drawerType>RealtimeOnly</drawerType>
+		<useHitPoints>false</useHitPoints>
+	</ThingDef>
+
+	<ThingDef ParentName="MechanoidShipBase">
+		<defName>MechanoidShipIncoming</defName>
+		<thingClass>SK.Events.MechanoidShipIncoming</thingClass>
+		<skyfaller>
+			<shadowSize>(3,3)</shadowSize>
+			<explosionRadius>4</explosionRadius>
+			<explosionDamage>Bomb</explosionDamage>
+			<rotateGraphicTowardsDirection>false</rotateGraphicTowardsDirection>
+			<speed>1.2</speed>
+		</skyfaller>
+	</ThingDef> -->
+
   <EnemyShipIncoming.label>敌舰（临近中）</EnemyShipIncoming.label>
   <EnemyShipOutcome.label>敌舰（临近中）</EnemyShipOutcome.label>
 

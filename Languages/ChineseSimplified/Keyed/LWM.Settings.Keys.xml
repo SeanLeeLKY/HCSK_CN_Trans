@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Settings -->
 <LanguageData>
- <LWMDSignoredDueTo>因Mod {0}，此设置被忽略</LWMDSignoredDueTo>
+  <LWMDSignoredDueTo>因Mod {0}，此设置被忽略</LWMDSignoredDueTo>
 
   <!--Who can haul TO storage-->
   <LWMDShaulToStorageExplanation>存储设备使用权限：\n默认只有人类（或人形外星人）有权将物品放入深度储存建筑：堆放、整理、开闭等。\n允许任何人使用深度储存建筑。</LWMDShaulToStorageExplanation>

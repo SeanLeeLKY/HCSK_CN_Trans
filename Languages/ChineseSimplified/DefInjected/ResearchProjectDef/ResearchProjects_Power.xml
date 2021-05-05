@@ -3,9 +3,6 @@
 
   <!-- Power -->
 
-  <SK_Power.label>电力</SK_Power.label>
-  <SK_Power.description>学习基本的发电能力帮助你的殖民者在这种恶劣的环境中生存。解锁了电缆和电池。</SK_Power.description>
-
   <SK_RenewableI.label>可再生能源 I</SK_RenewableI.label>
   <SK_RenewableI.description>学习将各种可再生能源转化为电力的知识。解锁建造风力发电机。</SK_RenewableI.description>
 
@@ -136,5 +133,8 @@
   <SK_InfrastructureIV.label>基础设施 IV</SK_InfrastructureIV.label>
   <SK_InfrastructureIV.description>解锁建造管道网络组建，地热加热器以及裂变电池。</SK_InfrastructureIV.description>
 
+
+  <!--<SK_Power.label>电力</SK_Power.label>-->
+  <!--<SK_Power.description>学习基本的发电能力帮助你的殖民者在这种恶劣的环境中生存。解锁了电缆和电池。</SK_Power.description>-->
 
 </LanguageData>

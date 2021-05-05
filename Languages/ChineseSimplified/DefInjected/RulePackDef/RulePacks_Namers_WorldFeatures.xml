@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<!-- 感谢此文件汉化支援：游学者周卓@SK汉化交流一群（88396848） -->
-
   <WorldFeatureNamerCommon.rulePack.rulesStrings.0>r_name->[narrative_name][terrain_word]</WorldFeatureNamerCommon.rulePack.rulesStrings.0>
   <WorldFeatureNamerCommon.rulePack.rulesStrings.1>r_name(p=0.05)->[storyname][terrain_word]</WorldFeatureNamerCommon.rulePack.rulesStrings.1>
   <WorldFeatureNamerCommon.rulePack.rulesStrings.2>narrative_name(p=12)->[WordTribal]</WorldFeatureNamerCommon.rulePack.rulesStrings.2>
@@ -239,5 +237,7 @@
   <NamerTundra.rulePack.rulesStrings.10>terrain_word->草原</NamerTundra.rulePack.rulesStrings.10>
   <NamerTundra.rulePack.rulesStrings.11>terrain_word->平原</NamerTundra.rulePack.rulesStrings.11>
 
+
+  <!-- 感谢此文件汉化支援：游学者周卓@SK汉化交流一群（88396848） -->
 
 </LanguageData>

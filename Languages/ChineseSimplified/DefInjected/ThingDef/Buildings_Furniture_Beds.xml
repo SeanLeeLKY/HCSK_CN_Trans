@@ -29,19 +29,86 @@
   <HayBed_Frame.label>茅草床（建造中）</HayBed_Frame.label>
   <HayBed_Frame.description>用干草和小树枝做成的临时床。只是比睡在地上好一点点。睡在上面不是很健康。</HayBed_Frame.description>
 
-  <HideBed.label>兽皮床</HideBed.label>
-  <HideBed.description>这是在原木平台上铺上皮子做的简易床。虽然依旧不是那么舒服，但也可以了。</HideBed.description>
-  <HideBed_Blueprint.label>兽皮床（蓝图）</HideBed_Blueprint.label>
-  <HideBed_Blueprint_Install.label>兽皮床（蓝图）</HideBed_Blueprint_Install.label>
-  <HideBed_Frame.label>兽皮床（建造中）</HideBed_Frame.label>
-  <HideBed_Frame.description>这是在原木平台上铺上皮子做的简易床。虽然依旧不是那么舒服，但也可以了。</HideBed_Frame.description>
 
-  <HideBedDouble.label>兽皮双人床</HideBedDouble.label>
-  <HideBedDouble.description>这是在原木平台上铺上皮子做的简易床。虽然依旧不是那么舒服，但也可以了。</HideBedDouble.description>
-  <HideBedDouble_Blueprint.label>兽皮双人床（蓝图）</HideBedDouble_Blueprint.label>
-  <HideBedDouble_Blueprint_Install.label>兽皮双人床（蓝图）</HideBedDouble_Blueprint_Install.label>
-  <HideBedDouble_Frame.label>兽皮双人床（建造中）</HideBedDouble_Frame.label>
-  <HideBedDouble_Frame.description>这是在原木平台上铺上皮子做的简易床。虽然依旧不是那么舒服，但也可以了。</HideBedDouble_Frame.description>
+  <!-- <ThingDef ParentName="SK_BedWithQualityBase">
+		<defName>HideBed</defName>
+		<label>norbal bed</label>
+		<description>This is an improvised bed made by placing leather hides over a platform of logs. Not the most comfortable bed in the world, but it'll do.</description>
+		<graphicData>
+			<texPath>Things/Building/Furniture/Beds/Norbal/single/norbalbed</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(1,2)</drawSize>
+			<shadowData>
+				<volume>(0.8, 0.15, 1.8)</volume>
+			</shadowData>
+			<damageData>
+				<rect>(0,0.05,1,1.95)</rect>
+			</damageData>
+		</graphicData>
+		<statBases>
+			<Beauty>-2</Beauty>
+			<WorkToBuild>700</WorkToBuild>
+			<BedRestEffectiveness>0.83</BedRestEffectiveness>
+			<ImmunityGainSpeedFactor>1.0</ImmunityGainSpeedFactor>
+			<SurgerySuccessChanceFactor>0.8</SurgerySuccessChanceFactor>
+			<Comfort>0.5</Comfort>
+			<Bulk>25</Bulk>
+			<Mass>7</Mass>
+		</statBases>
+		<size>(1,2)</size>
+		<stuffCategories>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costStuffCount>40</costStuffCount>
+		<costList>
+			<WoodLog>10</WoodLog>
+		</costList>
+		<building>
+			<bed_showSleeperBody>True</bed_showSleeperBody>
+			<bed_healPerDay>6</bed_healPerDay>
+		</building>
+		<constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+	</ThingDef>
+
+	<ThingDef ParentName="SK_BedWithQualityBase">
+		<defName>HideBedDouble</defName>
+		<label>double norbal bed</label>
+		<description>This is an improvised bed made by placing leather hides over a platform of logs. Not the most comfortable bed in the world, but it'll do.</description>
+		<graphicData>
+			<texPath>Things/Building/Furniture/Beds/Norbal/double/norbalbed</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2,2)</drawSize>
+			<shadowData>
+				<volume>(1.8, 0.15, 1.8)</volume>
+			</shadowData>
+			<damageData>
+				<rect>(0,0.05,2,1.95)</rect>
+			</damageData>
+		</graphicData>
+		<statBases>
+			<Beauty>-2</Beauty>
+			<WorkToBuild>900</WorkToBuild>
+			<BedRestEffectiveness>0.83</BedRestEffectiveness>
+			<ImmunityGainSpeedFactor>1.0</ImmunityGainSpeedFactor>
+			<SurgerySuccessChanceFactor>0.8</SurgerySuccessChanceFactor>
+			<Comfort>0.55</Comfort>
+			<Bulk>39</Bulk>
+			<Mass>13</Mass>
+		</statBases>
+		<size>(2,2)</size>
+		<stuffCategories>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costStuffCount>70</costStuffCount>
+		<costList>
+			<WoodLog>18</WoodLog>
+		</costList>
+		<building>
+			<bed_showSleeperBody>True</bed_showSleeperBody>
+			<bed_healPerDay>6</bed_healPerDay>
+		</building>
+		<constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+	</ThingDef> -->
 
   <Bedroll.label>垫子床</Bedroll.label>
   <Bedroll.description>睡在原木搭建的床板上固然要好一些，但要想睡个好觉，加点垫子是很有帮助的。</Bedroll.description>
@@ -180,5 +247,18 @@
   <AdvHospitalBed_Frame.label>先进医疗床（建造中）</AdvHospitalBed_Frame.label>
   <AdvHospitalBed_Frame.description>一张技术程度更高的专为医疗工作设计的床。可以大大增加治疗的成功率。</AdvHospitalBed_Frame.description>
 
+
+  <!--<HideBed.label>兽皮床</HideBed.label>-->
+  <!--<HideBed.description>这是在原木平台上铺上皮子做的简易床。虽然依旧不是那么舒服，但也可以了。</HideBed.description>-->
+  <!--<HideBed_Blueprint.label>兽皮床（蓝图）</HideBed_Blueprint.label>-->
+  <!--<HideBed_Blueprint_Install.label>兽皮床（蓝图）</HideBed_Blueprint_Install.label>-->
+  <!--<HideBed_Frame.label>兽皮床（建造中）</HideBed_Frame.label>-->
+  <!--<HideBed_Frame.description>这是在原木平台上铺上皮子做的简易床。虽然依旧不是那么舒服，但也可以了。</HideBed_Frame.description>-->
+  <!--<HideBedDouble.label>兽皮双人床</HideBedDouble.label>-->
+  <!--<HideBedDouble.description>这是在原木平台上铺上皮子做的简易床。虽然依旧不是那么舒服，但也可以了。</HideBedDouble.description>-->
+  <!--<HideBedDouble_Blueprint.label>兽皮双人床（蓝图）</HideBedDouble_Blueprint.label>-->
+  <!--<HideBedDouble_Blueprint_Install.label>兽皮双人床（蓝图）</HideBedDouble_Blueprint_Install.label>-->
+  <!--<HideBedDouble_Frame.label>兽皮双人床（建造中）</HideBedDouble_Frame.label>-->
+  <!--<HideBedDouble_Frame.description>这是在原木平台上铺上皮子做的简易床。虽然依旧不是那么舒服，但也可以了。</HideBedDouble_Frame.description>-->
 
 </LanguageData>

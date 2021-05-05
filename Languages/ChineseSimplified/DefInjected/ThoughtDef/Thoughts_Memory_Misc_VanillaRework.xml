@@ -4,6 +4,24 @@
   <AteWithoutTable.stages.0.label>在地上吃饭</AteWithoutTable.stages.0.label>
   <AteWithoutTable.stages.0.description>我不得不在地上吃饭。我们不能弄张桌子吗？</AteWithoutTable.stages.0.description>
 
+
+  <!-- Disturbed Sleep Thoughts already in RCT thoughts
+	<ThoughtDef>
+		<defName>SleepDisturbed</defName>
+		<icon>Things/Mote/ThoughtSymbol/SleepZ</icon>
+		<showBubble>true</showBubble>
+		<durationDays>0.5</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.35</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>disturbed sleep</label>
+				<description>I was disturbed during sleep by people moving around nearby. A private room would solve this.</description>
+				<baseMoodEffect>-3</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef> -->
+
   <NewColonyOptimism.stages.0.label>新殖民地的乐观</NewColonyOptimism.stages.0.label>
   <NewColonyOptimism.stages.0.description>我们刚抵达这里，还有很多问题要克服，但我对能够建立一个新殖民地感到兴奋。</NewColonyOptimism.stages.0.description>
 

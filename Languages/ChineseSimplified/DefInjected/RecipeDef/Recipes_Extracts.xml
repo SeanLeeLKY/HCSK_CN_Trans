@@ -21,14 +21,6 @@
   <Make_StoneBlocksAny.description>将岩石块切割成可用的石块。</Make_StoneBlocksAny.description>
   <Make_StoneBlocksAny.jobString>正在切割石材。</Make_StoneBlocksAny.jobString>
 
-  <ExtractBiomatterCorpse.label>提取 生物质（人类尸体）</ExtractBiomatterCorpse.label>
-  <ExtractBiomatterCorpse.description>从人类尸体中提取生物质。 \n\n产出：35。</ExtractBiomatterCorpse.description>
-  <ExtractBiomatterCorpse.jobString>正在提取生物质。</ExtractBiomatterCorpse.jobString>
-
-  <ExtractBiomatterAnimal.label>提取 生物质（动物尸体）</ExtractBiomatterAnimal.label>
-  <ExtractBiomatterAnimal.description>从动物尸体中提取生物质。 \n\n产出：10。</ExtractBiomatterAnimal.description>
-  <ExtractBiomatterAnimal.jobString>正在提取生物质。</ExtractBiomatterAnimal.jobString>
-
 
   <!-- SOYLENT GREEN -->
 
@@ -37,6 +29,12 @@
   <Make_SoylentGreen.jobString>正在提取绿色营养物质。</Make_SoylentGreen.jobString>
 
 
+  <!--<ExtractBiomatterCorpse.label>提取 生物质（人类尸体）</ExtractBiomatterCorpse.label>-->
+  <!--<ExtractBiomatterCorpse.description>从人类尸体中提取生物质。 \n\n产出：35。</ExtractBiomatterCorpse.description>-->
+  <!--<ExtractBiomatterCorpse.jobString>正在提取生物质。</ExtractBiomatterCorpse.jobString>-->
+  <!--<ExtractBiomatterAnimal.label>提取 生物质（动物尸体）</ExtractBiomatterAnimal.label>-->
+  <!--<ExtractBiomatterAnimal.description>从动物尸体中提取生物质。 \n\n产出：10。</ExtractBiomatterAnimal.description>-->
+  <!--<ExtractBiomatterAnimal.jobString>正在提取生物质。</ExtractBiomatterAnimal.jobString>-->
   <!--<MakeStoneBlocksAny.label>制作 石砖</MakeStoneBlocksAny.label>-->
   <!--<MakeStoneBlocksAny.description>将岩石块切割成可用的石块。 \n\n产出：20 沙子和 5 碎石以及相应的石砖。</MakeStoneBlocksAny.description>-->
   <!--<MakeStoneBlocksAny.jobString>正在切割石材。</MakeStoneBlocksAny.jobString>-->

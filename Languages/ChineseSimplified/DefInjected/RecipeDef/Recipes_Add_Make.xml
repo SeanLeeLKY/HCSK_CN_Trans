@@ -227,41 +227,6 @@
   <Make_lifesupport.jobString>正在制造 生命支持系统。</Make_lifesupport.jobString>
 
 
-  <!-- Recipe Users: TableOrganvat -->
-
-  <Make_Eye.label>制造 眼</Make_Eye.label>
-  <Make_Eye.description>制造 眼。</Make_Eye.description>
-  <Make_Eye.jobString>正在制造 眼。</Make_Eye.jobString>
-
-  <Make_Ear.label>制造 耳</Make_Ear.label>
-  <Make_Ear.description>制造 耳。</Make_Ear.description>
-  <Make_Ear.jobString>正在制造 耳。</Make_Ear.jobString>
-
-  <Make_Nose.label>制造 鼻</Make_Nose.label>
-  <Make_Nose.description>制造 鼻。</Make_Nose.description>
-  <Make_Nose.jobString>正在制造 鼻。</Make_Nose.jobString>
-
-  <Make_Heart.label>制造 心</Make_Heart.label>
-  <Make_Heart.description>制造 心。</Make_Heart.description>
-  <Make_Heart.jobString>正在制造 心。</Make_Heart.jobString>
-
-  <Make_Lung.label>制造 肺</Make_Lung.label>
-  <Make_Lung.description>制造 肺。</Make_Lung.description>
-  <Make_Lung.jobString>正在制造 肺。</Make_Lung.jobString>
-
-  <Make_Liver.label>制造 肝</Make_Liver.label>
-  <Make_Liver.description>制造 肝。</Make_Liver.description>
-  <Make_Liver.jobString>正在制造 肝。</Make_Liver.jobString>
-
-  <Make_Kidney.label>制造 肾</Make_Kidney.label>
-  <Make_Kidney.description>制造 肾。</Make_Kidney.description>
-  <Make_Kidney.jobString>正在制造 肾。</Make_Kidney.jobString>
-
-  <Make_Stomach.label>制造 胃</Make_Stomach.label>
-  <Make_Stomach.description>制造 胃。</Make_Stomach.description>
-  <Make_Stomach.jobString>正在制造 胃。</Make_Stomach.jobString>
-
-
   <!-- Recipe Users: TablePrimitiveProsthetic, TableBasicProsthetic -->
 
   <Make_ClothTail.label>制造 布尾巴</Make_ClothTail.label>
@@ -686,12 +651,12 @@
   <Make_Apparello_Motorglove.description>制造 皮革拳套。</Make_Apparello_Motorglove.description>
   <Make_Apparello_Motorglove.jobString>正在制造 皮革拳套。</Make_Apparello_Motorglove.jobString>
 
-
-  <!-- Recipe Users: HyperTailoringBench -->
-
   <Make_MedievalTimes_Gloves_Combat.label>制造 格斗手套</Make_MedievalTimes_Gloves_Combat.label>
   <Make_MedievalTimes_Gloves_Combat.description>制造 格斗手套。</Make_MedievalTimes_Gloves_Combat.description>
   <Make_MedievalTimes_Gloves_Combat.jobString>正在制造 格斗手套。</Make_MedievalTimes_Gloves_Combat.jobString>
+
+
+  <!-- Recipe Users: HyperTailoringBench -->
 
   <Make_MedievalTimes_Gauntlets_Techno.label>制造 科技护手</Make_MedievalTimes_Gauntlets_Techno.label>
   <Make_MedievalTimes_Gauntlets_Techno.description>制造 科技护手。</Make_MedievalTimes_Gauntlets_Techno.description>
@@ -791,10 +756,6 @@
   <Make_Apparel_AdvancedHelmet.description>制造 高级头盔。</Make_Apparel_AdvancedHelmet.description>
   <Make_Apparel_AdvancedHelmet.jobString>正在制造 高级头盔。</Make_Apparel_AdvancedHelmet.jobString>
 
-  <Make_Tactical_Helmet.label>制造 战术头盔</Make_Tactical_Helmet.label>
-  <Make_Tactical_Helmet.description>制造 战术头盔。</Make_Tactical_Helmet.description>
-  <Make_Tactical_Helmet.jobString>正在制造 战术头盔。</Make_Tactical_Helmet.jobString>
-
   <Make_Apparello_Medband.label>制造 医用头巾</Make_Apparello_Medband.label>
   <Make_Apparello_Medband.description>制造 医用头巾。</Make_Apparello_Medband.description>
   <Make_Apparello_Medband.jobString>正在制造 医用头巾。</Make_Apparello_Medband.jobString>
@@ -802,10 +763,6 @@
   <Make_Apparello_Beret.label>制造 贝雷帽</Make_Apparello_Beret.label>
   <Make_Apparello_Beret.description>制造 贝雷帽。</Make_Apparello_Beret.description>
   <Make_Apparello_Beret.jobString>正在制造 贝雷帽。</Make_Apparello_Beret.jobString>
-
-  <Make_WeldingHelmet.label>制造 焊接头盔</Make_WeldingHelmet.label>
-  <Make_WeldingHelmet.description>制造 焊接头盔。</Make_WeldingHelmet.description>
-  <Make_WeldingHelmet.jobString>正在制造 焊接头盔。</Make_WeldingHelmet.jobString>
 
 
   <!-- Recipe Users: FueledSmithy, ElectricSmithy -->
@@ -1510,5 +1467,31 @@
   <Make_MeleeWeapon_ElectricBaton.description>制造 电警棍。</Make_MeleeWeapon_ElectricBaton.description>
   <Make_MeleeWeapon_ElectricBaton.jobString>正在制造 电警棍。</Make_MeleeWeapon_ElectricBaton.jobString>
 
+
+  <!-- Recipe Users: TableOrganvat -->
+  <!--<Make_Eye.label>制造 眼</Make_Eye.label>-->
+  <!--<Make_Eye.description>制造 眼。</Make_Eye.description>-->
+  <!--<Make_Eye.jobString>正在制造 眼。</Make_Eye.jobString>-->
+  <!--<Make_Ear.label>制造 耳</Make_Ear.label>-->
+  <!--<Make_Ear.description>制造 耳。</Make_Ear.description>-->
+  <!--<Make_Ear.jobString>正在制造 耳。</Make_Ear.jobString>-->
+  <!--<Make_Nose.label>制造 鼻</Make_Nose.label>-->
+  <!--<Make_Nose.description>制造 鼻。</Make_Nose.description>-->
+  <!--<Make_Nose.jobString>正在制造 鼻。</Make_Nose.jobString>-->
+  <!--<Make_Heart.label>制造 心</Make_Heart.label>-->
+  <!--<Make_Heart.description>制造 心。</Make_Heart.description>-->
+  <!--<Make_Heart.jobString>正在制造 心。</Make_Heart.jobString>-->
+  <!--<Make_Lung.label>制造 肺</Make_Lung.label>-->
+  <!--<Make_Lung.description>制造 肺。</Make_Lung.description>-->
+  <!--<Make_Lung.jobString>正在制造 肺。</Make_Lung.jobString>-->
+  <!--<Make_Liver.label>制造 肝</Make_Liver.label>-->
+  <!--<Make_Liver.description>制造 肝。</Make_Liver.description>-->
+  <!--<Make_Liver.jobString>正在制造 肝。</Make_Liver.jobString>-->
+  <!--<Make_Kidney.label>制造 肾</Make_Kidney.label>-->
+  <!--<Make_Kidney.description>制造 肾。</Make_Kidney.description>-->
+  <!--<Make_Kidney.jobString>正在制造 肾。</Make_Kidney.jobString>-->
+  <!--<Make_Stomach.label>制造 胃</Make_Stomach.label>-->
+  <!--<Make_Stomach.description>制造 胃。</Make_Stomach.description>-->
+  <!--<Make_Stomach.jobString>正在制造 胃。</Make_Stomach.jobString>-->
 
 </LanguageData>

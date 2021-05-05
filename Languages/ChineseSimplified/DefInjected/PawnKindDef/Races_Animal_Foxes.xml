@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Fox fennec  -->
+  <!-- Fox fennec -->
 
   <Fox_Fennec.label>耳廓狐</Fox_Fennec.label>
   <Fox_Fennec.labelPlural>耳廓狐</Fox_Fennec.labelPlural>
@@ -29,7 +29,7 @@
   <Fox_Fennec.labelFemalePlural>母耳廓狐</Fox_Fennec.labelFemalePlural>
 
 
-  <!--  Fox red  -->
+  <!-- Fox red -->
 
   <Fox_Red.label>赤狐</Fox_Red.label>
   <Fox_Red.labelPlural>赤狐</Fox_Red.labelPlural>
@@ -57,7 +57,7 @@
   <Fox_Red.labelFemalePlural>母赤狐</Fox_Red.labelFemalePlural>
 
 
-  <!-- Fox arctic  -->
+  <!-- Fox arctic -->
 
   <Fox_Arctic.label>北极狐</Fox_Arctic.label>
   <Fox_Arctic.labelPlural>北极狐</Fox_Arctic.labelPlural>
@@ -84,5 +84,9 @@
   <Fox_Arctic.labelFemale>母北极狐</Fox_Arctic.labelFemale>
   <Fox_Arctic.labelFemalePlural>母北极狐</Fox_Arctic.labelFemalePlural>
 
+
+  <!-- Fox fennec  -->
+  <!--  Fox red  -->
+  <!-- Fox arctic  -->
 
 </LanguageData>
