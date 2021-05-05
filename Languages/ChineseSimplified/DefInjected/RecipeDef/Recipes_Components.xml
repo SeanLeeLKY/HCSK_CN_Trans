@@ -11,8 +11,8 @@
   <Make_ComponentMedievalBronze.description>用金属组装原始零部件\n\n产出：10。</Make_ComponentMedievalBronze.description>
   <Make_ComponentMedievalBronze.jobString>正在组装零部件。</Make_ComponentMedievalBronze.jobString>
 
-  <Make_ComponentIndustrial.label>组装 零部件</Make_ComponentIndustrial.label>
-  <Make_ComponentIndustrial.description>将金属加工成零部件。\n\n产出：10。</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.label>组装 普通零部件</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.description>将金属加工成普通零部件。\n\n产出：10。</Make_ComponentIndustrial.description>
   <Make_ComponentIndustrial.jobString>正在组装零部件。</Make_ComponentIndustrial.jobString>
 
   <Make_ComponentAdvanced.label>组装 先进零部件</Make_ComponentAdvanced.label>

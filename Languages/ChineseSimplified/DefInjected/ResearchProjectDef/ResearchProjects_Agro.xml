@@ -59,7 +59,7 @@
   <!-- Plant_Rice -->
 
   <SK_OrchardsI.label>果园园艺 I</SK_OrchardsI.label>
-  <SK_OrchardsI.description>研究可以进行规模化种植的果树，解锁橙树和梨树。</SK_OrchardsI.description>
+  <SK_OrchardsI.description>研究可以进行规模化种植的果树，解锁橙树和桃树。</SK_OrchardsI.description>
 
 
   <!-- Plant_TreeOrange
@@ -73,7 +73,7 @@
 						Plant_TreeGrape -->
 
   <SK_OrchardsIII.label>果园园艺 III</SK_OrchardsIII.label>
-  <SK_OrchardsIII.description>对果树的培育技术有了更深的研究，现在殖民者们可以种植培育苹果。</SK_OrchardsIII.description>
+  <SK_OrchardsIII.description>对果树的培育技术有了更深的研究，现在殖民者们可以种植培育苹果等水果。</SK_OrchardsIII.description>
 
 
   <!-- Plant_TreeApple -->
