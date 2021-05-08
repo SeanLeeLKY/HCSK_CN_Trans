@@ -3,9 +3,9 @@
 
   <!-- Ppsh-41 -->
 
-  <Build_Gun_Ppsh41_HMC.label>Build Gun Ppsh-41</Build_Gun_Ppsh41_HMC.label>
-  <Build_Gun_Ppsh41_HMC.description>Builds an ancient world weapon. A very old model of a submachine gun. Time did not spare it. All weapon characteristics are reduced.\nCaliber: 7.62x25mmTT</Build_Gun_Ppsh41_HMC.description>
-  <Build_Gun_Ppsh41_HMC.jobString>Building Ppsh-41.</Build_Gun_Ppsh41_HMC.jobString>
+  <Build_Gun_Ppsh41_HMC.label>制造 “波波沙”冲锋枪</Build_Gun_Ppsh41_HMC.label>
+  <Build_Gun_Ppsh41_HMC.description>制造波波沙冲锋枪，由前苏联著名轻武器设计师格里戈利·斯帕金于1941年设计完成，由于采用了大量冲压部件，十分便于大规模量产。\n弹种：7.62x25mm托卡列夫弹</Build_Gun_Ppsh41_HMC.description>
+  <Build_Gun_Ppsh41_HMC.jobString>正在制造“波波沙”冲锋枪。</Build_Gun_Ppsh41_HMC.jobString>
 
 
 </LanguageData>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ElectricShockHMC.label>Electric Shock Bullet</ElectricShockHMC.label>
-  <ElectricShockHMC.deathMessage>{0} shocked to death.</ElectricShockHMC.deathMessage>
+  <ElectricShockHMC.label>电击伤</ElectricShockHMC.label>
+  <ElectricShockHMC.deathMessage>{0}被震死了。</ElectricShockHMC.deathMessage>
 
 
 </LanguageData>

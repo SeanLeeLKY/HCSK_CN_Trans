@@ -3,9 +3,9 @@
 
   <!-- TT-33 -->
 
-  <Build_Gun_TT33_HMC.label>Build Gun TT-33</Build_Gun_TT33_HMC.label>
-  <Build_Gun_TT33_HMC.description>Builds an ancient pattern pistol with balanced characteristics.\nCaliber: 7.62x25mmTT</Build_Gun_TT33_HMC.description>
-  <Build_Gun_TT33_HMC.jobString>Building TT-33.</Build_Gun_TT33_HMC.jobString>
+  <Build_Gun_TT33_HMC.label>制造 TT-33手枪</Build_Gun_TT33_HMC.label>
+  <Build_Gun_TT33_HMC.description>制造一把各项参数都比较平均的TT-33手枪，也叫托卡列夫半自动手枪。\n弹种：7.62x25mm托卡列夫弹</Build_Gun_TT33_HMC.description>
+  <Build_Gun_TT33_HMC.jobString>正在制造TT-33手枪。</Build_Gun_TT33_HMC.jobString>
 
 
 </LanguageData>

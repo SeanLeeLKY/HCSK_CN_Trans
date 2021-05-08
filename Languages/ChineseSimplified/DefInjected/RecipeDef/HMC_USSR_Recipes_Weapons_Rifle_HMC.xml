@@ -3,23 +3,23 @@
 
   <!-- Mosin-Nagant -->
 
-  <BuildGun_Mosin.label>Build Mosin-Nagant</BuildGun_Mosin.label>
-  <BuildGun_Mosin.description>Builds an ancient bolt-action rifle. Good range, good power and low rate of fire.\nCaliber: 7.62x54mmR</BuildGun_Mosin.description>
-  <BuildGun_Mosin.jobString>Building Mosin-Nagant.</BuildGun_Mosin.jobString>
+  <BuildGun_Mosin.label>制造 M91莫辛-纳甘步枪</BuildGun_Mosin.label>
+  <BuildGun_Mosin.description>制造一支古老的栓动步枪。射程较远，威力一般，射击速度慢。\n弹种：7.62x54mmR</BuildGun_Mosin.description>
+  <BuildGun_Mosin.jobString>正在制造M91莫辛-纳甘步枪。</BuildGun_Mosin.jobString>
 
 
   <!-- AK74M -->
 
-  <BuildAK74M_HMC.label>Build AK74M Rifle</BuildAK74M_HMC.label>
-  <BuildAK74M_HMC.description>Builds a general-purpose military assault rifle for field or urban combat.\nCaliber: 5.45x39mm</BuildAK74M_HMC.description>
-  <BuildAK74M_HMC.jobString>Building AK74M Rifle.</BuildAK74M_HMC.jobString>
+  <BuildAK74M_HMC.label>制造 AK74M突击步枪</BuildAK74M_HMC.label>
+  <BuildAK74M_HMC.description>制造AK74M突击步枪，一种用于城市战斗的通用制式步枪。\n弹种：5.45x39mm</BuildAK74M_HMC.description>
+  <BuildAK74M_HMC.jobString>正在制造AK74M突击步枪。</BuildAK74M_HMC.jobString>
 
 
   <!-- OZ-14 Groza -->
 
-  <BuildGroza.label>Build OZ-14 Rifle</BuildGroza.label>
-  <BuildGroza.description>Builds OZ-14 short assault rifle.\nCaliber: 9x39mm</BuildGroza.description>
-  <BuildGroza.jobString>Building OZ-14 Rifle.</BuildGroza.jobString>
+  <BuildGroza.label>制造 “雷电-4”型突击步枪</BuildGroza.label>
+  <BuildGroza.description>制造“雷电-4”型突击步枪。\n弹种：9x39mm</BuildGroza.description>
+  <BuildGroza.jobString>正在制造“雷电-4”型突击步枪。</BuildGroza.jobString>
 
 
 </LanguageData>

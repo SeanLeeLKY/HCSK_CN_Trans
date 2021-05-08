@@ -49,13 +49,13 @@
   <CookMealFine_Bulk.description>将生肉和素食材料组合，烹饪一份相对复杂的食物。\n\n产出：8。</CookMealFine_Bulk.description>
   <CookMealFine_Bulk.jobString>正在烹饪 优质食物。</CookMealFine_Bulk.jobString>
 
-  <CookMealLavish.label>烹饪 奢侈的食物</CookMealLavish.label>
+  <CookMealLavish.label>烹饪 精致的食物</CookMealLavish.label>
   <CookMealLavish.description>将生肉和素食材料组合，烹饪一份非常复杂的食物。\n\n产出：2。</CookMealLavish.description>
-  <CookMealLavish.jobString>正在烹饪 奢侈的食物。</CookMealLavish.jobString>
+  <CookMealLavish.jobString>正在烹饪 精致的食物。</CookMealLavish.jobString>
 
-  <CookMealLavish_Bulk.label>烹饪 奢侈的食物（x4）</CookMealLavish_Bulk.label>
+  <CookMealLavish_Bulk.label>烹饪 精致的食物（x4）</CookMealLavish_Bulk.label>
   <CookMealLavish_Bulk.description>将生肉和素食材料组合，烹饪一份非常复杂的食物。\n\n产出：8。</CookMealLavish_Bulk.description>
-  <CookMealLavish_Bulk.jobString>正在烹饪 奢侈的食物。</CookMealLavish_Bulk.jobString>
+  <CookMealLavish_Bulk.jobString>正在烹饪 精致的食物。</CookMealLavish_Bulk.jobString>
 
 
   <!-- <RecipeDef>

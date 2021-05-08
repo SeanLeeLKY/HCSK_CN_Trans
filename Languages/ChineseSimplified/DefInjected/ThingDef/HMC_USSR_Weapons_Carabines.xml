@@ -3,14 +3,14 @@
 
   <!-- SKS -->
 
-  <Gun_SKS_HMC.label>SKS</Gun_SKS_HMC.label>
-  <Gun_SKS_HMC.description>Ancient carabine. Probably pulled from a basement somewhere. Good range, Good power, low rate of fire.\nCaliber: 7.62x39mm</Gun_SKS_HMC.description>
+  <Gun_SKS_HMC.label>SKS半自动步枪</Gun_SKS_HMC.label>
+  <Gun_SKS_HMC.description>SKS半自动步枪是前苏联著名枪械设计师谢尔盖·加夫里罗维奇·西蒙诺夫于第二次世界大战期间设计、于1946年定型并装备于苏军的半自动步枪，SKS即“西蒙诺夫自动装填卡宾枪”的缩写。该枪是第一支发射前苏联7.62×39mm M43中间型威力枪弹的半自动步枪，采用导气式枪机原理，而且通常随枪配有剑形刺刀。虽然外形看起来跟同时期的AK步枪很像，但实际上它并不属于卡拉什尼科夫枪族的一员，不过它跟AK一样具有结构简单，刚度好等优点，是一支性能良好的武器。\n弹种：7.62x39mm</Gun_SKS_HMC.description>
 
 
   <!-- AKS-74U -->
 
-  <Gun_AKS74U.label>AKS-74U</Gun_AKS74U.label>
-  <Gun_AKS74U.description>The AKS-74U short assault rifle (the "U" suffix means"Ukorochennyj" in Russian = "Shortened" in English) has been developed in the late 1970s from the  AKS-74 assault rifle. The AKS-74U was intended as a personal defense weapon for tank, gun, helicopter and other vehicle crews,and for the special operations forces. The AKS-74U has the size and effective range of a typical submachine gun, but has advantage of the assault rifle ammunition and magazines. Average damage and rate of fire, low range, poor accurracy.\nCaliber: 5.45x39mm</Gun_AKS74U.description>
+  <Gun_AKS74U.label>AKS-74U卡宾枪</Gun_AKS74U.label>
+  <Gun_AKS74U.description>AK-74 (Russian: Автомат Калашникова образца 1974 года or "Kalashnikov automatic rifle model 1974")是俄罗斯设计师米哈伊尔·卡拉什尼科夫在20世纪70年代早期开发的突击步枪，作为早期AKM的替代品（本身就是AK的精致版本）。它使用较小的5.45×39毫米枪弹，取代早期卡拉什尼科夫型号所使用的7.62×39毫米枪弹。\nAKS-74U研发于1975年，1970年代后期装备苏联军队作AKS-74的卡宾枪版本，整体尺寸及有效射程与冲锋枪相似。在战术部署方面，AKS-74U填补了冲锋枪和突击步枪之间的空白。\n弹种：5.45x39mm</Gun_AKS74U.description>
 
 
 </LanguageData>
