@@ -61,14 +61,14 @@
   <WorldFeatureNamerCommon.rulePack.rulesStrings.57>story_result->正面</WorldFeatureNamerCommon.rulePack.rulesStrings.57>
   <WorldFeatureNamerCommon.rulePack.rulesStrings.58>story_result->欺诈</WorldFeatureNamerCommon.rulePack.rulesStrings.58>
 
-  <NamerMountainRange.rulePack.rulesStrings.0>standardname(p=0.2)->山[narrative_name]</NamerMountainRange.rulePack.rulesStrings.0>
+  <NamerMountainRange.rulePack.rulesStrings.0>standardname(p=0.2)->[narrative_name]山</NamerMountainRange.rulePack.rulesStrings.0>
   <NamerMountainRange.rulePack.rulesStrings.1>terrain_word(p=5)->山脉</NamerMountainRange.rulePack.rulesStrings.1>
   <NamerMountainRange.rulePack.rulesStrings.2>terrain_word(p=2)->范围</NamerMountainRange.rulePack.rulesStrings.2>
   <NamerMountainRange.rulePack.rulesStrings.3>terrain_word->高峰</NamerMountainRange.rulePack.rulesStrings.3>
   <NamerMountainRange.rulePack.rulesStrings.4>terrain_word->丘陵</NamerMountainRange.rulePack.rulesStrings.4>
   <NamerMountainRange.rulePack.rulesStrings.5>terrain_word->悬崖</NamerMountainRange.rulePack.rulesStrings.5>
 
-  <NamerArchipelago.rulePack.rulesStrings.0>standardname(p=0.2)->岛[narrative_name]</NamerArchipelago.rulePack.rulesStrings.0>
+  <NamerArchipelago.rulePack.rulesStrings.0>standardname(p=0.2)->[narrative_name]岛</NamerArchipelago.rulePack.rulesStrings.0>
   <NamerArchipelago.rulePack.rulesStrings.1>terrain_word(p=4)->岛屿</NamerArchipelago.rulePack.rulesStrings.1>
   <NamerArchipelago.rulePack.rulesStrings.2>terrain_word(p=3)->小岛</NamerArchipelago.rulePack.rulesStrings.2>
   <NamerArchipelago.rulePack.rulesStrings.3>terrain_word(p=3)->群岛</NamerArchipelago.rulePack.rulesStrings.3>
@@ -79,7 +79,7 @@
   <NamerArchipelago.rulePack.rulesStrings.8>terrain_word->点</NamerArchipelago.rulePack.rulesStrings.8>
   <NamerArchipelago.rulePack.rulesStrings.9>terrain_word->列岛</NamerArchipelago.rulePack.rulesStrings.9>
 
-  <NamerIsland.rulePack.rulesStrings.0>standardname(p=0.2)->小岛[narrative_name]</NamerIsland.rulePack.rulesStrings.0>
+  <NamerIsland.rulePack.rulesStrings.0>standardname(p=0.2)->[narrative_name]小岛</NamerIsland.rulePack.rulesStrings.0>
   <NamerIsland.rulePack.rulesStrings.1>terrain_word(p=4)->岛屿</NamerIsland.rulePack.rulesStrings.1>
   <NamerIsland.rulePack.rulesStrings.2>terrain_word(p=2)->小岛</NamerIsland.rulePack.rulesStrings.2>
   <NamerIsland.rulePack.rulesStrings.3>terrain_word->礁石</NamerIsland.rulePack.rulesStrings.3>
@@ -88,22 +88,22 @@
   <NamerIsland.rulePack.rulesStrings.6>terrain_word->小岛</NamerIsland.rulePack.rulesStrings.6>
   <NamerIsland.rulePack.rulesStrings.7>terrain_word->点</NamerIsland.rulePack.rulesStrings.7>
 
-  <NamerPeninsula.rulePack.rulesStrings.0>standardname(p=0.2)->迷你岛[narrative_name]</NamerPeninsula.rulePack.rulesStrings.0>
-  <NamerPeninsula.rulePack.rulesStrings.1>standardname(p=0.2)->海角[narrative_name]</NamerPeninsula.rulePack.rulesStrings.1>
+  <NamerPeninsula.rulePack.rulesStrings.0>standardname(p=0.2)->[narrative_name]迷你岛</NamerPeninsula.rulePack.rulesStrings.0>
+  <NamerPeninsula.rulePack.rulesStrings.1>standardname(p=0.2)->[narrative_name]海角</NamerPeninsula.rulePack.rulesStrings.1>
   <NamerPeninsula.rulePack.rulesStrings.2>terrain_word(p=5)->半岛</NamerPeninsula.rulePack.rulesStrings.2>
   <NamerPeninsula.rulePack.rulesStrings.3>terrain_word(p=2)->迷你岛</NamerPeninsula.rulePack.rulesStrings.3>
   <NamerPeninsula.rulePack.rulesStrings.4>terrain_word->海角</NamerPeninsula.rulePack.rulesStrings.4>
   <NamerPeninsula.rulePack.rulesStrings.5>terrain_word->岬角</NamerPeninsula.rulePack.rulesStrings.5>
   <NamerPeninsula.rulePack.rulesStrings.6>terrain_word->小海角</NamerPeninsula.rulePack.rulesStrings.6>
 
-  <NamerBay.rulePack.rulesStrings.0>standardname(p=0.2)->海湾的[narrative_name]</NamerBay.rulePack.rulesStrings.0>
+  <NamerBay.rulePack.rulesStrings.0>standardname(p=0.2)->[narrative_name]海湾</NamerBay.rulePack.rulesStrings.0>
   <NamerBay.rulePack.rulesStrings.1>terrain_word(p=6)->海湾</NamerBay.rulePack.rulesStrings.1>
   <NamerBay.rulePack.rulesStrings.2>terrain_word->海湾</NamerBay.rulePack.rulesStrings.2>
   <NamerBay.rulePack.rulesStrings.3>terrain_word->海湾</NamerBay.rulePack.rulesStrings.3>
   <NamerBay.rulePack.rulesStrings.4>terrain_word->停泊处</NamerBay.rulePack.rulesStrings.4>
   <NamerBay.rulePack.rulesStrings.5>terrain_word->海湾</NamerBay.rulePack.rulesStrings.5>
 
-  <NamerLake.rulePack.rulesStrings.0>standardname->湖泊[narrative_name]</NamerLake.rulePack.rulesStrings.0>
+  <NamerLake.rulePack.rulesStrings.0>standardname->[narrative_name]湖泊</NamerLake.rulePack.rulesStrings.0>
   <NamerLake.rulePack.rulesStrings.1>terrain_word(p=6)->湖泊</NamerLake.rulePack.rulesStrings.1>
   <NamerLake.rulePack.rulesStrings.2>terrain_word->大海</NamerLake.rulePack.rulesStrings.2>
   <NamerLake.rulePack.rulesStrings.3>terrain_word->池塘</NamerLake.rulePack.rulesStrings.3>
@@ -113,12 +113,12 @@
   <NamerLake.rulePack.rulesStrings.7>terrain_word(p=0.3)->泻湖</NamerLake.rulePack.rulesStrings.7>
   <NamerLake.rulePack.rulesStrings.8>terrain_word(p=0.3)->湖</NamerLake.rulePack.rulesStrings.8>
 
-  <NamerSea.rulePack.rulesStrings.0>standardname(p=0.1)->湖泊[narrative_name]</NamerSea.rulePack.rulesStrings.0>
+  <NamerSea.rulePack.rulesStrings.0>standardname(p=0.1)->[narrative_name]湖泊</NamerSea.rulePack.rulesStrings.0>
   <NamerSea.rulePack.rulesStrings.1>terrain_word(p=6)->大海</NamerSea.rulePack.rulesStrings.1>
   <NamerSea.rulePack.rulesStrings.2>terrain_word->海洋</NamerSea.rulePack.rulesStrings.2>
   <NamerSea.rulePack.rulesStrings.3>terrain_word->湖泊</NamerSea.rulePack.rulesStrings.3>
 
-  <NamerOcean.rulePack.rulesStrings.0>standardname(p=0.4)->[ocean_adjective][narrative_name]</NamerOcean.rulePack.rulesStrings.0>
+  <NamerOcean.rulePack.rulesStrings.0>standardname(p=0.4)->[narrative_name][ocean_adjective]</NamerOcean.rulePack.rulesStrings.0>
   <NamerOcean.rulePack.rulesStrings.1>ocean_adjective->蓝</NamerOcean.rulePack.rulesStrings.1>
   <NamerOcean.rulePack.rulesStrings.2>ocean_adjective->白</NamerOcean.rulePack.rulesStrings.2>
   <NamerOcean.rulePack.rulesStrings.3>ocean_adjective->灰</NamerOcean.rulePack.rulesStrings.3>
@@ -136,7 +136,7 @@
   <NamerOcean.rulePack.rulesStrings.15>terrain_word(p=3)->大海</NamerOcean.rulePack.rulesStrings.15>
   <NamerOcean.rulePack.rulesStrings.16>terrain_word->广阔的</NamerOcean.rulePack.rulesStrings.16>
 
-  <NamerDesert.rulePack.rulesStrings.0>standardname(p=0.4)->[desert_adjective][narrative_name]</NamerDesert.rulePack.rulesStrings.0>
+  <NamerDesert.rulePack.rulesStrings.0>standardname(p=0.4)->[narrative_name][desert_adjective]</NamerDesert.rulePack.rulesStrings.0>
   <NamerDesert.rulePack.rulesStrings.1>desert_adjective->平原</NamerDesert.rulePack.rulesStrings.1>
   <NamerDesert.rulePack.rulesStrings.2>desert_adjective->白</NamerDesert.rulePack.rulesStrings.2>
   <NamerDesert.rulePack.rulesStrings.3>desert_adjective->无尽</NamerDesert.rulePack.rulesStrings.3>
@@ -159,8 +159,8 @@
   <NamerDesert.rulePack.rulesStrings.20>terrain_word->荒地</NamerDesert.rulePack.rulesStrings.20>
   <NamerDesert.rulePack.rulesStrings.21>terrain_word->贫瘠之地</NamerDesert.rulePack.rulesStrings.21>
 
-  <NamerSwamp.rulePack.rulesStrings.0>standardname(p=0.1)->芬[narrative_name]</NamerSwamp.rulePack.rulesStrings.0>
-  <NamerSwamp.rulePack.rulesStrings.1>standardname(p=0.3)->[swamp_adjective][narrative_name]</NamerSwamp.rulePack.rulesStrings.1>
+  <NamerSwamp.rulePack.rulesStrings.0>standardname(p=0.1)->[narrative_name]芬</NamerSwamp.rulePack.rulesStrings.0>
+  <NamerSwamp.rulePack.rulesStrings.1>standardname(p=0.3)->[narrative_name][swamp_adjective]</NamerSwamp.rulePack.rulesStrings.1>
   <NamerSwamp.rulePack.rulesStrings.2>swamp_adjective->湿润的</NamerSwamp.rulePack.rulesStrings.2>
   <NamerSwamp.rulePack.rulesStrings.3>swamp_adjective->潮湿的</NamerSwamp.rulePack.rulesStrings.3>
   <NamerSwamp.rulePack.rulesStrings.4>swamp_adjective->窒息的</NamerSwamp.rulePack.rulesStrings.4>
@@ -178,7 +178,7 @@
   <NamerSwamp.rulePack.rulesStrings.16>terrain_word->沼泽</NamerSwamp.rulePack.rulesStrings.16>
   <NamerSwamp.rulePack.rulesStrings.17>terrain_word->沼泽</NamerSwamp.rulePack.rulesStrings.17>
 
-  <NamerTropicalRainforest.rulePack.rulesStrings.0>standardname(p=0.3)->[rainforest_adjective][narrative_name]</NamerTropicalRainforest.rulePack.rulesStrings.0>
+  <NamerTropicalRainforest.rulePack.rulesStrings.0>standardname(p=0.3)->[narrative_name][rainforest_adjective]</NamerTropicalRainforest.rulePack.rulesStrings.0>
   <NamerTropicalRainforest.rulePack.rulesStrings.1>rainforest_adjective->湿润的</NamerTropicalRainforest.rulePack.rulesStrings.1>
   <NamerTropicalRainforest.rulePack.rulesStrings.2>rainforest_adjective->潮湿的</NamerTropicalRainforest.rulePack.rulesStrings.2>
   <NamerTropicalRainforest.rulePack.rulesStrings.3>rainforest_adjective->窒息的</NamerTropicalRainforest.rulePack.rulesStrings.3>
