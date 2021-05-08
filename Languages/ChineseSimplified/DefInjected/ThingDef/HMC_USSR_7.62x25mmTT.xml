@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_762x25mmTT_FMJ.label>7.62x25mm TT cartridge （全金属被甲弹）</Ammo_762x25mmTT_FMJ.label>
+  <Ammo_762x25mmTT_FMJ.description>Old pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTT_FMJ.description>
+
+  <Ammo_762x25mmTT_AP.label>7.62x25mm TT cartridge （穿甲弹）</Ammo_762x25mmTT_AP.label>
+  <Ammo_762x25mmTT_AP.description>Old pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTT_AP.description>
+
+  <Ammo_762x25mmTT_HP.label>7.62x25mm TT cartridge （空尖弹）</Ammo_762x25mmTT_HP.label>
+  <Ammo_762x25mmTT_HP.description>Old pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTT_HP.description>
+
+  <Ammo_762x25mmTT_API.label>7.62x25mm TT cartridge （穿甲燃烧弹）</Ammo_762x25mmTT_API.label>
+  <Ammo_762x25mmTT_API.description>Old pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTT_API.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_762x25mmTT_FMJ.label>7.62x25mm bullet （全金属被甲弹）</Bullet_762x25mmTT_FMJ.label>
+  <Bullet_762x25mmTT_AP.label>7.62x25mm bullet （穿甲弹）</Bullet_762x25mmTT_AP.label>
+  <Bullet_762x25mmTT_HP.label>7.62x25mm bullet （空尖弹）</Bullet_762x25mmTT_HP.label>
+  <Bullet_762x25mmTT_API.label>7.62x25mm bullet （穿甲燃烧弹）</Bullet_762x25mmTT_API.label>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RPK-74M -->
+
+  <Gun_RPK74M_HMC.label>RPK-74M</Gun_RPK74M_HMC.label>
+  <Gun_RPK74M_HMC.description>Machine gun version of AK74M with an elongated barrel, bipod and four-row magazine with 60 rounds.</Gun_RPK74M_HMC.description>
+
+
+  <!-- PKM -->
+
+  <Gun_HMC_PKM.label>PKM GPMG</Gun_HMC_PKM.label>
+  <Gun_HMC_PKM.description>A USSR general purpose machine gun. It has a 100 round magazine and fires in 15 round bursts. Not very accurate but good at providing suppressing fire.\nCaliber: 7.62x54mmR</Gun_HMC_PKM.description>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RPK-74M -->
+
+  <Build_RPK74M_HMC.label>Build RPK-74M</Build_RPK74M_HMC.label>
+  <Build_RPK74M_HMC.description>Builds the Machine gun version of AK74M with an elongated barrel, bipod and four-row magazine with 60 rounds</Build_RPK74M_HMC.description>
+  <Build_RPK74M_HMC.jobString>Building RPK-74M.</Build_RPK74M_HMC.jobString>
+
+
+  <!-- PKM -->
+
+  <Build_HMC_PKM.label>Build PKM</Build_HMC_PKM.label>
+  <Build_HMC_PKM.description>Builds the PKM, a USSR general purpose machine gun. It has a 100 round magazine and fires in 20 round bursts. Not very accurate but good at providing suppressing fire.\nCaliber: 7.62x54mm R</Build_HMC_PKM.description>
+  <Build_HMC_PKM.jobString>Building PKM.</Build_HMC_PKM.jobString>
+
+
+</LanguageData>

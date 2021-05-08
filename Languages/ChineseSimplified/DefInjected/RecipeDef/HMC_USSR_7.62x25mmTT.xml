@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_762x25mmTT_FMJ.label>make 7.62x25mm TT （全金属被甲弹） cartridge x90</MakeAmmo_762x25mmTT_FMJ.label>
+  <MakeAmmo_762x25mmTT_FMJ.description>Craft 90 7.62x25mm TT （全金属被甲弹） cartridges.</MakeAmmo_762x25mmTT_FMJ.description>
+  <MakeAmmo_762x25mmTT_FMJ.jobString>Making 7.62x25mm TT （全金属被甲弹） cartridges.</MakeAmmo_762x25mmTT_FMJ.jobString>
+
+  <MakeAmmo_762x25mmTT_AP.label>make 7.62x25mm TT （穿甲弹） cartridge x90</MakeAmmo_762x25mmTT_AP.label>
+  <MakeAmmo_762x25mmTT_AP.description>Craft 90 7.62x25mm TT （穿甲弹） cartridges.</MakeAmmo_762x25mmTT_AP.description>
+  <MakeAmmo_762x25mmTT_AP.jobString>Making 7.62x25mm TT （穿甲弹） cartridges.</MakeAmmo_762x25mmTT_AP.jobString>
+
+  <MakeAmmo_762x25mmTT_HP.label>make 7.62x25mm TT （空尖弹） cartridge x90</MakeAmmo_762x25mmTT_HP.label>
+  <MakeAmmo_762x25mmTT_HP.description>Craft 90 7.62x25mm TT （空尖弹） cartridges.</MakeAmmo_762x25mmTT_HP.description>
+  <MakeAmmo_762x25mmTT_HP.jobString>Making 7.62x25mm TT （空尖弹） cartridges.</MakeAmmo_762x25mmTT_HP.jobString>
+
+  <MakeAmmo_762x25mmTT_API.label>make 7.62x25mm TT （穿甲燃烧弹） cartridge x90</MakeAmmo_762x25mmTT_API.label>
+  <MakeAmmo_762x25mmTT_API.description>Craft 90 7.62x25mm TT （穿甲燃烧弹） cartridges.</MakeAmmo_762x25mmTT_API.description>
+  <MakeAmmo_762x25mmTT_API.jobString>Making 7.62x25mm TT （穿甲燃烧弹） cartridges.</MakeAmmo_762x25mmTT_API.jobString>
+
+
+</LanguageData>

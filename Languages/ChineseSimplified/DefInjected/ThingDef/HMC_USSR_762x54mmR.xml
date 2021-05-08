@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_762x54mmR_FMJ.label>7.62x54mmR cartridge （全金属被甲弹）</Ammo_762x54mmR_FMJ.label>
+  <Ammo_762x54mmR_FMJ.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_FMJ.description>
+
+  <Ammo_762x54mmR_AP.label>7.62x54mmR cartridge （穿甲弹）</Ammo_762x54mmR_AP.label>
+  <Ammo_762x54mmR_AP.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_AP.description>
+
+  <Ammo_762x54mmR_HP.label>7.62x54mmR cartridge （空尖弹）</Ammo_762x54mmR_HP.label>
+  <Ammo_762x54mmR_HP.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_762x54mmR_FMJ.label>7.62mmR bullet （全金属被甲弹）</Bullet_762x54mmR_FMJ.label>
+  <Bullet_762x54mmR_AP.label>7.62mmR bullet （穿甲弹）</Bullet_762x54mmR_AP.label>
+  <Bullet_762x54mmR_HP.label>7.62mmR bullet （空尖弹）</Bullet_762x54mmR_HP.label>
+
+
+</LanguageData>

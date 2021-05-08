@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mosin-Nagant -->
+
+  <BuildGun_Mosin.label>Build Mosin-Nagant</BuildGun_Mosin.label>
+  <BuildGun_Mosin.description>Builds an ancient bolt-action rifle. Good range, good power and low rate of fire.\nCaliber: 7.62x54mmR</BuildGun_Mosin.description>
+  <BuildGun_Mosin.jobString>Building Mosin-Nagant.</BuildGun_Mosin.jobString>
+
+
+  <!-- AK74M -->
+
+  <BuildAK74M_HMC.label>Build AK74M Rifle</BuildAK74M_HMC.label>
+  <BuildAK74M_HMC.description>Builds a general-purpose military assault rifle for field or urban combat.\nCaliber: 5.45x39mm</BuildAK74M_HMC.description>
+  <BuildAK74M_HMC.jobString>Building AK74M Rifle.</BuildAK74M_HMC.jobString>
+
+
+  <!-- OZ-14 Groza -->
+
+  <BuildGroza.label>Build OZ-14 Rifle</BuildGroza.label>
+  <BuildGroza.description>Builds OZ-14 short assault rifle.\nCaliber: 9x39mm</BuildGroza.description>
+  <BuildGroza.jobString>Building OZ-14 Rifle.</BuildGroza.jobString>
+
+
+</LanguageData>

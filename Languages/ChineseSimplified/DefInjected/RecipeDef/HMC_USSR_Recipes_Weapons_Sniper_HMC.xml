@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SVD -->
+
+  <Build_HMC_Gun_SVD.label>Build SVD Sniper Rifle</Build_HMC_Gun_SVD.label>
+  <Build_HMC_Gun_SVD.description>Builds an ancient sniper rifle. Semi-automatic, long range, great accuracy and power.\nCaliber: 7.62x54mm R</Build_HMC_Gun_SVD.description>
+  <Build_HMC_Gun_SVD.jobString>Building SVD Sniper Rifle.</Build_HMC_Gun_SVD.jobString>
+
+
+  <!-- VSS Vintorez -->
+
+  <BuildVintorezRifle.label>Build Vintorez Rifle</BuildVintorezRifle.label>
+  <BuildVintorezRifle.description>Builds the Special forces sniper rifle VSS Vintorez.\nCaliber: 9x39mm</BuildVintorezRifle.description>
+  <BuildVintorezRifle.jobString>Building Vintorez Rifle.</BuildVintorezRifle.jobString>
+
+
+</LanguageData>

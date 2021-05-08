@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MOSIN-NAGANT M91 -->
+
+  <RF_Gun_Mosin.label>Mosin-Nagant M91</RF_Gun_Mosin.label>
+  <RF_Gun_Mosin.description>Ancient bolt-action rifle. Probably pulled from a basement somewhere. Good range, Good power, low rate of fire.\nCaliber: 7.62x54mmR</RF_Gun_Mosin.description>
+
+
+  <!-- AK74M -->
+
+  <Gun_AK74M_HMC.label>AK74M</Gun_AK74M_HMC.label>
+  <Gun_AK74M_HMC.description>The AK74M is a selective-fire, gas-operated 5.45×39mm assault rifle, first developed in the Soviet Union by Mikhail Kalashnikov. It is officially known as Avtomat Kalashnikova (Russian: Автомат Калашникова). Medium damage, average range, rate of fire and accuracy.\nCaliber: 5.45x39 mm</Gun_AK74M_HMC.description>
+
+
+  <!-- OZ14G -->
+
+  <Gun_OZ14G_HMC.label>OZ-14 Groza-4</Gun_OZ14G_HMC.label>
+  <Gun_OZ14G_HMC.description>The OZ-14 short assault rifle.\nCaliber: 9x39 mm</Gun_OZ14G_HMC.description>
+
+
+</LanguageData>
