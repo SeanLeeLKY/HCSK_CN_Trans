@@ -33,6 +33,9 @@
   <Boomalope.label>爆炸羊</Boomalope.label>
   <Boomalope.description>专为化工生产而创造的物种，爆炸羊背上的大囊里有大量不稳定的化学物质。虽然体形纤细脆弱，其他动物还是因为它死亡时会发生大爆炸而学会了避开它。</Boomalope.description>
   <Boomalope.tools.0.label>头</Boomalope.tools.0.label>
+  <!-- <Boomalope.comps.CompProperties_ShearableRenameable.growthLabel>化学物产出进度1</Boomalope.comps.CompProperties_ShearableRenameable.growthLabel> -->
+  <Boomalope.comps.CompShearableRenameable.growthLabel>化学物产出进度</Boomalope.comps.CompShearableRenameable.growthLabel>
+  <!-- <Boomalope.comps.3.growthLabel>化学物产出进度</Boomalope.comps.3.growthLabel> -->
   <!-- <Boomalope_Leather.label>爆炸羊皮</Boomalope_Leather.label>
   <Boomalope_Leather.description>爆炸羊皮</Boomalope_Leather.description>
   <Boomalope_Leather.stuffProps.stuffAdjective>爆炸羊皮</Boomalope_Leather.stuffProps.stuffAdjective> -->
