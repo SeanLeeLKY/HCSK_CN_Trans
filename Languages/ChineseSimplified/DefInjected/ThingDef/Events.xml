@@ -48,8 +48,8 @@
 
   <NuclearStrikeIncoming.label>核打击（临近中）</NuclearStrikeIncoming.label>
   <OrbitalStrikeIncoming.label>轨道打击（临近中）</OrbitalStrikeIncoming.label>
-  <RazorRainIncoming.label>“剃刀之雨”（临近中）</RazorRainIncoming.label>
-  <Thing_RazorSpawner.label>“剃刀之雨”生成器</Thing_RazorSpawner.label>
+  <RazorRainIncoming.label>轨道碎片坠落（临近中）</RazorRainIncoming.label>
+  <Thing_RazorSpawner.label>轨道碎片坠落生成器</Thing_RazorSpawner.label>
 
 
   <!-- Misc Resources -->
