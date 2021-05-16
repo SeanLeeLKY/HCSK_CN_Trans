@@ -89,9 +89,9 @@
 
   <!-- Sentry automatic crates -->
 
-  <BuildSentryTurret_Crate.label>制造 .40轻型哨戒机枪组件箱</BuildSentryTurret_Crate.label>
+  <BuildSentryTurret_Crate.label>制造 轻型哨戒机枪组件箱</BuildSentryTurret_Crate.label>
   <BuildSentryTurret_Crate.description>用于建造轻型哨戒炮塔, 可以自动攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildSentryTurret_Crate.description>
-  <BuildSentryTurret_Crate.jobString>正在制造 .40轻型哨戒机枪组件箱。</BuildSentryTurret_Crate.jobString>
+  <BuildSentryTurret_Crate.jobString>正在制造 轻型哨戒机枪组件箱。</BuildSentryTurret_Crate.jobString>
 
   <BuildHeavyTurret_Crate.label>制造 14.5mm重型哨戒机枪组件箱</BuildHeavyTurret_Crate.label>
   <BuildHeavyTurret_Crate.description>用于建造 14.5mm重型哨戒机枪炮塔, 可以自动攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildHeavyTurret_Crate.description>

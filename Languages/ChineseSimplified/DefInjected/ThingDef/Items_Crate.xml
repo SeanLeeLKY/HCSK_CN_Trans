@@ -79,9 +79,9 @@
   <RocketLauncher_Crate.description>用于建造130mm重型导弹系统，一种需要人工操作的固定式炮塔。使用130mm导弹作为弹药。</RocketLauncher_Crate.description>
   <RocketLauncher_Crate.stuffProps.stuffAdjective>130mm重型导弹系统组件箱</RocketLauncher_Crate.stuffProps.stuffAdjective>
 
-  <SentryTurret_Crate.label>.40轻型哨戒机枪组件箱</SentryTurret_Crate.label>
+  <SentryTurret_Crate.label>轻型哨戒机枪组件箱</SentryTurret_Crate.label>
   <SentryTurret_Crate.description>用于建造轻型哨戒机枪，一种自动机枪炮塔。需要电力才能运作。</SentryTurret_Crate.description>
-  <SentryTurret_Crate.stuffProps.stuffAdjective>.40轻型哨戒机枪组件箱</SentryTurret_Crate.stuffProps.stuffAdjective>
+  <SentryTurret_Crate.stuffProps.stuffAdjective>轻型哨戒机枪组件箱</SentryTurret_Crate.stuffProps.stuffAdjective>
 
   <HeavyTurret_Crate.label>14.5mm重型哨戒机枪组件箱</HeavyTurret_Crate.label>
   <HeavyTurret_Crate.description>用于建造14.5mm重型哨戒机枪，一种自动机枪炮塔。需要电力才能运作。</HeavyTurret_Crate.description>

@@ -51,17 +51,17 @@
 
   <!-- Mental State Related -->
 
-  <Hardened.degreeDatas.0.label>强硬</Hardened.degreeDatas.0.label>
+  <Hardened.degreeDatas.0.label>坚毅</Hardened.degreeDatas.0.label>
   <Hardened.degreeDatas.0.description>{PAWN_nameDef}已经习惯了绝望的严酷现实和有时需要做的可怕的事情。 这使{PAWN_objective}心如磐石。</Hardened.degreeDatas.0.description>
 
-  <Paranoid.degreeDatas.0.label>偏执</Paranoid.degreeDatas.0.label>
-  <Paranoid.degreeDatas.0.description>{PAWN_nameDef}相信每个人都可以得到{PAWN_objective}，这似乎是{PAWN_possessive}人生中第一次，看来{PAWN_pronoun}做了正确选择。</Paranoid.degreeDatas.0.description>
+  <Paranoid.degreeDatas.0.label>偏执狂</Paranoid.degreeDatas.0.label>
+  <Paranoid.degreeDatas.0.description>在{PAWN_nameDef}人生的一开始，{PAWN_possessive}就坚信每个人都想要得到{PAWN_objective}，并且{PAWN_pronoun}总认为这是对的。</Paranoid.degreeDatas.0.description>
 
   <Confident.degreeDatas.0.label>自信</Confident.degreeDatas.0.label>
   <Confident.degreeDatas.0.description>{PAWN_nameDef}非常有信心一切都会好起来的。</Confident.degreeDatas.0.description>
 
   <Pragmatist.degreeDatas.0.label>实用至上</Pragmatist.degreeDatas.0.label>
-  <Pragmatist.degreeDatas.0.description>{PAWN_nameDef}抱有极端的实用主义，为了{PAWN_objective}能做到最好甚至不择手段。{PAWN_pronoun}甚至没有什么明确的道德底线，{PAWN_pronoun}只想把一切做到最好。</Pragmatist.degreeDatas.0.description>
+  <Pragmatist.degreeDatas.0.description>{PAWN_nameDef}抱有极端的实用主义，为了{PAWN_objective}能达到目标甚至不择手段。{PAWN_pronoun}甚至没有什么明确的道德底线，{PAWN_pronoun}只想把一切做到最好。</Pragmatist.degreeDatas.0.description>
 
 
   <!-- MoveSpeed Related -->

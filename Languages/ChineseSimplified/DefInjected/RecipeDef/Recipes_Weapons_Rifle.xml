@@ -26,7 +26,7 @@
   <BuildXM8MilitaryRifle.jobString>正在制造 XM8军用步枪。</BuildXM8MilitaryRifle.jobString>
 
   <BuildAK47Gun.label>制造 AK-47突击步枪</BuildAK47Gun.label>
-  <BuildAK47Gun.description>制造 AK-47突击步枪，一种气动自装填式的突击步枪，皮实耐操。 威力不俗，但是射程和射速都比较普通，精度较低。\n弹药： 7.62x39mm 苏制弹药</BuildAK47Gun.description>
+  <BuildAK47Gun.description>制造 AK-47突击步枪，一种气动自装填式的突击步枪，皮实耐操。 威力不俗，但是射程和射速都比较普通，精度较低。\n弹药： 7.62x39mm 苏制子弹</BuildAK47Gun.description>
   <BuildAK47Gun.jobString>正在制造 AK-47突击步枪。</BuildAK47Gun.jobString>
 
   <BuildTacticalCombatrifle.label>制造 MA5 ICWS突击步枪</BuildTacticalCombatrifle.label>

@@ -21,11 +21,11 @@
   <!-- AI manned turrets -->
 
   <Turret_MiniTurret.label>轻型哨戒炮塔</Turret_MiniTurret.label>
-  <Turret_MiniTurret.description>一种由AI控制的轻型炮塔，会自动攻击靠近的敌人。\n电力需求：700W\n弹种：.45弹药</Turret_MiniTurret.description>
+  <Turret_MiniTurret.description>一种由AI控制的轻型炮塔，会自动攻击靠近的敌人。\n电力需求：700W\n弹种：5.56x45mm北约标准弹</Turret_MiniTurret.description>
   <Turret_MiniTurret_Blueprint.label>轻型哨戒炮塔（蓝图）</Turret_MiniTurret_Blueprint.label>
   <Turret_MiniTurret_Blueprint_Install.label>轻型哨戒炮塔（蓝图）</Turret_MiniTurret_Blueprint_Install.label>
   <Turret_MiniTurret_Frame.label>轻型哨戒炮塔（建造中）</Turret_MiniTurret_Frame.label>
-  <Turret_MiniTurret_Frame.description>一种由AI控制的轻型炮塔，会自动攻击靠近的敌人。\n电力需求：700W\n弹种：.45弹药</Turret_MiniTurret_Frame.description>
+  <Turret_MiniTurret_Frame.description>一种由AI控制的轻型炮塔，会自动攻击靠近的敌人。\n电力需求：700W\n弹种：5.56x45mm北约标准弹</Turret_MiniTurret_Frame.description>
 
   <Turret_Blaster.label>冲击哨戒炮塔</Turret_Blaster.label>
   <Turret_Blaster.description>由AI控制的电荷冲击炮塔，会自动攻击靠近的敌人。\n电力需求：1200W\n弹种：6x24mm电荷弹</Turret_Blaster.description>

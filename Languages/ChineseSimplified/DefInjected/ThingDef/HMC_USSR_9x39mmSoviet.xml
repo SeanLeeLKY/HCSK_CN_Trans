@@ -3,25 +3,25 @@
 
   <!-- Ammo -->
 
-  <Ammo_9x39mmSoviet_FMJ.label>9x39mm苏制子弹（全金属被甲弹）</Ammo_9x39mmSoviet_FMJ.label>
+  <Ammo_9x39mmSoviet_FMJ.label>9x39mm 苏制子弹（全金属被甲弹）</Ammo_9x39mmSoviet_FMJ.label>
   <Ammo_9x39mmSoviet_FMJ.description>小型亚音速步枪子弹，用于各种特殊步枪。</Ammo_9x39mmSoviet_FMJ.description>
 
-  <Ammo_9x39mmSoviet_AP.label>9x39mm苏制子弹（穿甲弹）</Ammo_9x39mmSoviet_AP.label>
+  <Ammo_9x39mmSoviet_AP.label>9x39mm 苏制子弹（穿甲弹）</Ammo_9x39mmSoviet_AP.label>
   <Ammo_9x39mmSoviet_AP.description>小型亚音速步枪子弹，用于各种特殊步枪。</Ammo_9x39mmSoviet_AP.description>
 
-  <Ammo_9x39mmSoviet_SH.label>9x39mm苏制子弹（碎甲弹）</Ammo_9x39mmSoviet_SH.label>
+  <Ammo_9x39mmSoviet_SH.label>9x39mm 苏制子弹（碎甲弹）</Ammo_9x39mmSoviet_SH.label>
   <Ammo_9x39mmSoviet_SH.description>小型亚音速步枪子弹，用于各种特殊步枪。</Ammo_9x39mmSoviet_SH.description>
 
-  <Ammo_9x39mmSoviet_EMP.label>9x39mm苏制子弹（EMP）</Ammo_9x39mmSoviet_EMP.label>
+  <Ammo_9x39mmSoviet_EMP.label>9x39mm 苏制子弹（EMP）</Ammo_9x39mmSoviet_EMP.label>
   <Ammo_9x39mmSoviet_EMP.description>小型亚音速步枪子弹，用于各种特殊步枪。</Ammo_9x39mmSoviet_EMP.description>
 
 
   <!-- Projectiles -->
 
-  <Bullet_9x39mmSoviet_FMJ.label>9mm苏制子弹（全金属被甲弹）</Bullet_9x39mmSoviet_FMJ.label>
-  <Bullet_9x39mmSoviet_AP.label>9mm苏制子弹（穿甲弹）</Bullet_9x39mmSoviet_AP.label>
-  <Bullet_9x39mmSoviet_SH.label>9mm苏制子弹（碎甲弹）</Bullet_9x39mmSoviet_SH.label>
-  <Bullet_9x39mmSoviet_EMP.label>9mm苏制子弹（EMP）</Bullet_9x39mmSoviet_EMP.label>
+  <Bullet_9x39mmSoviet_FMJ.label>9mm 苏制子弹（全金属被甲弹）</Bullet_9x39mmSoviet_FMJ.label>
+  <Bullet_9x39mmSoviet_AP.label>9mm 苏制子弹（穿甲弹）</Bullet_9x39mmSoviet_AP.label>
+  <Bullet_9x39mmSoviet_SH.label>9mm 苏制子弹（碎甲弹）</Bullet_9x39mmSoviet_SH.label>
+  <Bullet_9x39mmSoviet_EMP.label>9mm 苏制子弹（EMP）</Bullet_9x39mmSoviet_EMP.label>
 
 
 </LanguageData>
