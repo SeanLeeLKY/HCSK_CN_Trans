@@ -1,17 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Glowstool.label>炽光菇</Glowstool.label>
-  <Glowstool.description>就像一个发光的小灯泡，炽光菇生长在黑暗洞穴的几乎每个角落。虽然很有营养，但它直接入口的味道很干涩，所以作为烹饪原料使用更好。</Glowstool.description>
-
+  
+  <!-- EN: gleamcap -->
   <Agarilux.label>闪帽菇</Agarilux.label>
+  <!-- EN: A massive caveworld mushroom. Known for its natural healing properties by caveworld tenders. -->
   <Agarilux.description>一种巨大的洞穴蘑菇。洞穴世界驰名的医疗用品。</Agarilux.description>
-
-  <Bryolux.label>微光菇</Bryolux.label>
-  <Bryolux.description>一些又好看又好吃的洞穴微光蘑菇，富含营养，是一种深受洞穴世界居民喜爱的美味。</Bryolux.description>
-
+  
+  <!-- EN: brightbells -->
   <Brightbells.label>耀铃菇</Brightbells.label>
+  <!-- EN: A very elegant fungus, appreciated by miners. Remarkable by the light emitted by the little bulbs ending its fragile branches. It is often used by caveworld people as a natural lightning. Its fibrous texture renders it inedible though. -->
   <Brightbells.description>耀铃菇一种非常优雅的真菌，很受矿工的喜爱。它那脆弱的枝端的菌伞像小灯泡一样发出明亮的光，让人惊叹不已。它经常被洞穴世界的人们用作自然光源。它的纤维结构使它无法食用。</Brightbells.description>
-
-
+  
+  <!-- EN: shimmershroom -->
+  <Bryolux.label>微光菇</Bryolux.label>
+  <!-- EN: Some nice and tasty caveworld shimmershrooms. Much appreciated for their delicate taste and nutrition qualities by caveworlds inhabitants. -->
+  <Bryolux.description>一些又好看又好吃的洞穴微光蘑菇，富含营养，是一种深受洞穴世界居民喜爱的美味。</Bryolux.description>
+  
+  <!-- EN: glowbulb -->
+  <Glowstool.label>炽光菇</Glowstool.label>
+  <!-- EN: A small glowing bulb, growing in nearly every corner of dark caves. While being nutritious, its very rough taste make it better used as a cooked ingredient. -->
+  <Glowstool.description>就像一个发光的小灯泡，炽光菇生长在黑暗洞穴的几乎每个角落。虽然很有营养，但它直接入口的味道很干涩，所以作为烹饪原料使用更好。</Glowstool.description>
+  
 </LanguageData>

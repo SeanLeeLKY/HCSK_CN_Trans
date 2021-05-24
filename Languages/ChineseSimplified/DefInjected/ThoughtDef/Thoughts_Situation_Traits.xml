@@ -1,14 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <ReaverPain.stages.0.label>有点痛</ReaverPain.stages.0.label>
-  <ReaverPain.stages.0.description>哎呀，有点痛，不过还能忍受！</ReaverPain.stages.0.description>
-  <ReaverPain.stages.1.label>中等程度的疼痛</ReaverPain.stages.1.label>
-  <ReaverPain.stages.1.description>嘿呀！有点痛！不怕，让暴风雨来得更猛烈些吧！</ReaverPain.stages.1.description>
-  <ReaverPain.stages.2.label>经历急性疼痛</ReaverPain.stages.2.label>
-  <ReaverPain.stages.2.description>嘶......疼！我觉得这次玩大了。不过这感觉还真是奇特！</ReaverPain.stages.2.description>
-  <ReaverPain.stages.3.label>令人休克的剧痛</ReaverPain.stages.3.label>
-  <ReaverPain.stages.3.description>哈，呀，我在天堂了么？</ReaverPain.stages.3.description>
-
-
+  
+  <!-- EN: in a little pain -->
+  <ReaverPain.stages.in_a_little_pain.label>有点痛</ReaverPain.stages.in_a_little_pain.label>
+  <!-- EN: Ow... Heh heh heh... I could get used to this! -->
+  <ReaverPain.stages.in_a_little_pain.description>哎呀，有点痛，不过还能忍受！</ReaverPain.stages.in_a_little_pain.description>
+  <!-- EN: in a moderate amount of pain -->
+  <ReaverPain.stages.in_a_moderate_amount_of_pain.label>中等程度的疼痛</ReaverPain.stages.in_a_moderate_amount_of_pain.label>
+  <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
+  <ReaverPain.stages.in_a_moderate_amount_of_pain.description>嘿呀！有点痛！不怕，让暴风雨来得更猛烈些吧！</ReaverPain.stages.in_a_moderate_amount_of_pain.description>
+  <!-- EN: experiencing acute pain -->
+  <ReaverPain.stages.experiencing_acute_pain.label>经历急性疼痛</ReaverPain.stages.experiencing_acute_pain.label>
+  <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
+  <ReaverPain.stages.experiencing_acute_pain.description>嘶......疼！我觉得这次玩大了。不过这感觉还真是奇特！</ReaverPain.stages.experiencing_acute_pain.description>
+  <!-- EN: in shock from exceptional pain -->
+  <ReaverPain.stages.in_shock_from_exceptional_pain.label>令人休克的剧痛</ReaverPain.stages.in_shock_from_exceptional_pain.label>
+  <!-- EN: Ahhh... Am I in heaven? -->
+  <ReaverPain.stages.in_shock_from_exceptional_pain.description>哈，呀，我在天堂了么？</ReaverPain.stages.in_shock_from_exceptional_pain.description>
+  
 </LanguageData>

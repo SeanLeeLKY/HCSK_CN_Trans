@@ -1,36 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- WildCanines -->
-
-  <Warg.label>座狼</Warg.label>
-  <Warg.description>肌肉非常发达的类狼生物。科学家说，座狼是为了抑制人口专门而创造的军用武器级动物的后代。迷信的人把它视为一件愤怒的神的工具。他们只吃肉和新鲜的尸体。</Warg.description>
-  <Warg.tools.0.label>左爪</Warg.tools.0.label>
-  <Warg.tools.1.label>右爪</Warg.tools.1.label>
-  <Warg.tools.3.label>头</Warg.tools.3.label>
-  <!-- <Warg_Leather.label>座狼皮</Warg_Leather.label>
-  <Warg_Leather.description>座狼皮</Warg_Leather.description>
-  <Warg_Leather.stuffProps.stuffAdjective>座狼皮</Warg_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Elephant -->
-  <Warg_Corpse.label>座狼尸体</Warg_Corpse.label>
-  <Warg_Corpse.description>座狼尸体</Warg_Corpse.description>
-
-
-  <!-- WildCanines -->
-
+  
+  <!-- EN: nightling -->
   <Nightling.label>夜灵</Nightling.label>
+  <!-- EN: A large deformed beast with rows of quills on its back.\nThe rim is a violent place and the dead are a common sight. But over the years, disturbing reports of ravaged corpses started to increase in surprising numbers, all gut-wrenching and skewered with spikes. Each dawn shedding light to the aftermath of the night before. The locals soon learned to fear the dark, and the nightmares within them. -->
   <Nightling.description>这是一种背上长着一排排刺的狼形巨兽。边缘世界是充满暴力的地方，死人是常见的景象。但这些年来，关于大量尸体遭到破坏的令人不安的传言开始以惊人的数量增加，所有这些报道都是令人揪心的，都是尸体都被大量尖刺扎穿。每一次黎明都能揭示前一夜的地狱景象。当地人很快就学会了敬畏黑暗和他们内心深处的噩梦。</Nightling.description>
-  <Nightling.tools.0.label>左爪</Nightling.tools.0.label>
-  <Nightling.tools.1.label>右爪</Nightling.tools.1.label>
-  <Nightling.tools.3.label>头</Nightling.tools.3.label>
-  <!-- No Leather: Butcher Products -->
-  <!-- Use Meat From: Elephant -->
-  <Nightling_Corpse.label>夜灵尸体</Nightling_Corpse.label>
-  <Nightling_Corpse.description>夜灵尸体</Nightling_Corpse.description>
-
-
-  <!--<Nightling_Leather.label>夜灵皮</Nightling_Leather.label>-->
-  <!--<Nightling_Leather.description>夜灵皮</Nightling_Leather.description>-->
-  <!--<Nightling_Leather.stuffProps.stuffAdjective>夜灵皮</Nightling_Leather.stuffProps.stuffAdjective>-->
-
+  <!-- EN: left claw -->
+  <Nightling.tools.left_claw.label>左爪</Nightling.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Nightling.tools.right_claw.label>右爪</Nightling.tools.right_claw.label>
+  <!-- EN: head -->
+  <Nightling.tools.head.label>头</Nightling.tools.head.label>
+  
+  <!-- EN: warg -->
+  <Warg.label>座狼</Warg.label>
+  <!-- EN: Wargs are heavily-muscled wolf-like creatures. Scientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
+  <Warg.description>肌肉非常发达的类狼生物。科学家说，座狼是为了抑制人口专门而创造的军用武器级动物的后代。迷信的人把它视为一件愤怒的神的工具。他们只吃肉和新鲜的尸体。</Warg.description>
+  <!-- EN: Warg Meat -->
+  <Warg.race.meatLabel>座狼肉</Warg.race.meatLabel>
+  <!-- EN: left claw -->
+  <Warg.tools.left_claw.label>左爪</Warg.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Warg.tools.right_claw.label>右爪</Warg.tools.right_claw.label>
+  <!-- EN: head -->
+  <Warg.tools.head.label>头</Warg.tools.head.label>
+  
 </LanguageData>

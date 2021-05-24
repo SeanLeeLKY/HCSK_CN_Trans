@@ -1,10 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Fresh fruit drink -->
   <GoodHappy.label>新鲜的果汁！</GoodHappy.label>
+  <!-- EN: A fresh drink made by pressing fruit for their juice. -->
   <GoodHappy.description>用新鲜水果，采用压榨的方式生产的果汁饮品。</GoodHappy.description>
-  <GoodHappy.stages.0.label>暖暖的</GoodHappy.stages.0.label>
-  <GoodHappy.stages.1.label>健康饮料，感觉好多了。</GoodHappy.stages.1.label>
-
-
+  <!-- EN: warmfuzzy -->
+  <GoodHappy.stages.warmfuzzy.label>暖暖的</GoodHappy.stages.warmfuzzy.label>
+  <!-- EN: Healty Drink, Feeling Better. -->
+  <GoodHappy.stages.Healty_Drink_Feeling_Better.label>健康饮料，感觉好多了。</GoodHappy.stages.Healty_Drink_Feeling_Better.label>
+  
 </LanguageData>

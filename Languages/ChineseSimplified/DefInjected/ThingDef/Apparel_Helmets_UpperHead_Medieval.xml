@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Kettlehat -->
   <Apparello_Moron.label>圆边头盔</Apparello_Moron.label>
+  <!-- EN: A helmet with a large metal brim for extra protection; favored by peasant but seen as unfit for nobility. -->
   <Apparello_Moron.description>一种有大金属檐的头盔，可起到额外的保护作用，很受农民喜爱，但被认为不适合贵族使用。</Apparello_Moron.description>
-
-  <MedievalArmor_NasalHelmet.label>护鼻头盔</MedievalArmor_NasalHelmet.label>
-  <MedievalArmor_NasalHelmet.description>一顶简单的头盔，但是有些许创新：一根条状物从鼻子上延伸下来，可以更好地保护脸部，但一定程度上遮挡了视线。</MedievalArmor_NasalHelmet.description>
-
+  
+  <!-- EN: Horned Cap -->
   <Apparello_NorbalKing.label>角盔</Apparello_NorbalKing.label>
+  <!-- EN: A decorated, hardened leather cap. Often worn by the most revered and skilled combatants of Norbal communities. -->
   <Apparello_NorbalKing.description>一种经过装饰的、坚硬的皮质头盔。通常由诺巴部落里最受尊敬和最精锐的战斗人员佩戴。</Apparello_NorbalKing.description>
-
-
+  
+  <!-- EN: Nasal Helmet -->
+  <MedievalArmor_NasalHelmet.label>护鼻头盔</MedievalArmor_NasalHelmet.label>
+  <!-- EN: A simple helmet with a slight innovation: a bar that extended down over the nose, provding better protection to the face but somewhat obscuring vision. -->
+  <MedievalArmor_NasalHelmet.description>一顶简单的头盔，但是有些许创新：一根条状物从鼻子上延伸下来，可以更好地保护脸部，但一定程度上遮挡了视线。</MedievalArmor_NasalHelmet.description>
+  
 </LanguageData>

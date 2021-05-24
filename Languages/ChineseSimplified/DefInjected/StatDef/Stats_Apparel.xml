@@ -1,20 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <ArmorRating_Sharp.label>护甲 - 利器</ArmorRating_Sharp.label>
-  <ArmorRating_Sharp.description>抵御利器伤害的防护能力，比如子弹、刀剑穿刺，爆炸以及动物的抓咬。\n\n受到伤害时，护甲值首先减去攻击武器的护甲穿透值。剩余护甲值与0到100之间的随机数进行比较。\n\n-若随机数低于剩余护甲值的一半，则伤害无效。\n-若随机数大于剩余护甲值的一半但不高于剩余护甲值，则伤害减半，并且改为钝器伤害。\n-若随机数大于剩余护甲值，则护甲无效。\n\n例如，对于10％护甲穿透的攻击，若护甲等级为90％，则有40％几率使攻击无效，并有40％的几率减轻伤害。\n\n拥有多层服装时，判定将从外层开始，逐层检测。</ArmorRating_Sharp.description>
-
+  
+  <!-- EN: Armor - Blunt -->
   <ArmorRating_Blunt.label>护甲 - 钝器</ArmorRating_Blunt.label>
+  <!-- EN: Mitigation effect on blunt-force damage such as maces, explosions, and animal hoofs.\n\nThis armor rating is compared against an attack's armor penetration, with no damage occurring if armor is the higher stat. Otherwise, armor penetration has the armor rating subtracted from it, and damage is reduced by the ratio of modified to initial AP, as follows:\n\nModifiedAP = InitialAP - ArmorRating\nModifiedDamage = InitialDamage * (ModifiedAP / InitialAP)\n\nThese reductions apply for each layer the attack goes through, lowering its ability to penetrate and damage subsequent layers. -->
   <ArmorRating_Blunt.description>抵御钝器伤害的防护能力，例如拳头、棍棒攻击和落石。\n\n受到伤害时，护甲值首先减去攻击武器的护甲穿透值。剩余护甲值与0到100之间的随机数进行比较。\n\n-若随机数低于剩余护甲值的一半，则伤害无效。\n-若随机数大于剩余护甲值的一半但不高于剩余护甲值，则伤害减半，并且改为钝器伤害。\n-若随机数大于剩余护甲值，则护甲无效。\n\n例如，对于10％护甲穿透的攻击，若护甲等级为90％，则有40％几率使攻击无效，并有40％的几率减轻伤害。\n\n拥有多层服装时，判定将从外层开始，逐层检测。</ArmorRating_Blunt.description>
-
+  <!-- EN: {0} MPa -->
+  <ArmorRating_Blunt.formatString>{0} MPa</ArmorRating_Blunt.formatString>
+  <!-- EN: Armor - Blunt (armor stat) -->
+  <ArmorRating_Blunt.labelForFullStatList>护甲 - 钝器（护甲状态）</ArmorRating_Blunt.labelForFullStatList>
+  
+  <!-- EN: Armor - Heat -->
   <ArmorRating_Heat.label>护甲 - 热能</ArmorRating_Heat.label>
+  <!-- EN: The chance to affect temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor forms a percentage reduction of damage. -->
   <ArmorRating_Heat.description>抵御温度相关伤害的防护能力，比如燃烧。\n\n受到伤害时，护甲值首先减去攻击武器的护甲穿透值。剩余护甲值与0到100之间的随机数进行比较。\n\n-若随机数低于剩余护甲值的一半，则伤害无效。\n-若随机数大于剩余护甲值的一半但不高于剩余护甲值，则伤害减半，并且改为钝器伤害。\n-若随机数大于剩余护甲值，则护甲无效。\n\n例如，对于10％护甲穿透的攻击，若护甲等级为90％，则有40％几率使攻击无效，并有40％的几率减轻伤害。\n\n拥有多层服装时，判定将从外层开始，逐层检测。</ArmorRating_Heat.description>
-
+  <!-- EN: Armor - Heat (armor stat) -->
+  <ArmorRating_Heat.labelForFullStatList>护甲 - 热能（护甲状态）</ArmorRating_Heat.labelForFullStatList>
+  
+  <!-- EN: Armor - Sharp -->
+  <ArmorRating_Sharp.label>护甲 - 利器</ArmorRating_Sharp.label>
+  <!-- EN: Mitigation effect on sharp damage such as bullets, knife stabs, and animal bites.\n\nThis armor rating is compared against an attack's armor penetration, with deflection occurring if armor is the higher stat. Otherwise, armor penetration has the armor rating subtracted from it, and damage is reduced by the ratio of modified to initial AP, as follows:\n\nModifiedAP = InitialAP - ArmorRating\nModifiedDamage = InitialDamage * (ModifiedAP / InitialAP)\n\nThese reductions apply for each layer the attack goes through, lowering its ability to penetrate and damage subsequent layers. If an attack is deflected, it's converted to blunt, and checked against the apparel's blunt armor rating. -->
+  <ArmorRating_Sharp.description>抵御利器伤害的防护能力，比如子弹、刀剑穿刺，爆炸以及动物的抓咬。\n\n受到伤害时，护甲值首先减去攻击武器的护甲穿透值。剩余护甲值与0到100之间的随机数进行比较。\n\n-若随机数低于剩余护甲值的一半，则伤害无效。\n-若随机数大于剩余护甲值的一半但不高于剩余护甲值，则伤害减半，并且改为钝器伤害。\n-若随机数大于剩余护甲值，则护甲无效。\n\n例如，对于10％护甲穿透的攻击，若护甲等级为90％，则有40％几率使攻击无效，并有40％的几率减轻伤害。\n\n拥有多层服装时，判定将从外层开始，逐层检测。</ArmorRating_Sharp.description>
+  <!-- EN: {0} mm RHA -->
+  <ArmorRating_Sharp.formatString>{0} mm RHA</ArmorRating_Sharp.formatString>
+  <!-- EN: Armor - Sharp (armor stat) -->
+  <ArmorRating_Sharp.labelForFullStatList>护甲 - 利器（护甲状态）</ArmorRating_Sharp.labelForFullStatList>
+  
+  <!-- EN: Insulation - Cold -->
   <Insulation_Cold.label>隔温 - 寒冷</Insulation_Cold.label>
+  <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
   <Insulation_Cold.description>对穿戴者最低舒适温度的修改偏移量。\n\n更高的数值允许殖民者在更冷的温度下生存。</Insulation_Cold.description>
-
+  <!-- EN: Insulation - Cold (armor stat) -->
+  <Insulation_Cold.labelForFullStatList>隔温 - 寒冷（护甲状态）</Insulation_Cold.labelForFullStatList>
+  
+  <!-- EN: Insulation - Heat -->
   <Insulation_Heat.label>隔温 - 炎热</Insulation_Heat.label>
+  <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
   <Insulation_Heat.description>对穿戴者最高舒适温度的修改偏移量。\n\n更高的数值允许殖民者在更热的温度下生存。</Insulation_Heat.description>
-
-
+  <!-- EN: Insulation - Heat (armor stat) -->
+  <Insulation_Heat.labelForFullStatList>隔温 - 炎热（护甲状态）</Insulation_Heat.labelForFullStatList>
+  
 </LanguageData>

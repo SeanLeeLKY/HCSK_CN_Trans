@@ -1,38 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: agave -->
   <Plant_Agave.label>龙舌兰</Plant_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
   <Plant_Agave.description>宽大叶子的沙漠植物，花和茎可以食用。</Plant_Agave.description>
-
+  
+  <!-- EN: raspberry bush -->
   <Plant_Berry.label>野山莓</Plant_Berry.label>
+  <!-- EN: Raspberry bushes are plants that produce fragile, red, bumpy fruits called raspberries. -->
   <Plant_Berry.description>长有好吃的红色浆果的灌木。</Plant_Berry.description>
-
-  <Plant_TreeCocoa.label>可可树</Plant_TreeCocoa.label>
-  <Plant_TreeCocoa.description>可可豆能经过发酵、烘焙、研磨，最后加工成巧克力。</Plant_TreeCocoa.description>
-
+  
+  <!-- EN: Apple Tree -->
   <Plant_TreeApple.label>苹果树</Plant_TreeApple.label>
+  <!-- EN: Apple Trees produce round, palm-sized, red fruits called Apples. The Apple Tree will remain after harvesting and will start another cycle of Apple production. -->
   <Plant_TreeApple.description>苹果树结出拳头大小的圆形红色果实，叫做苹果。这种果树在收获后会保留下来，并继续结出果实。</Plant_TreeApple.description>
-
+  
+  <!-- EN: Banana Tree -->
   <Plant_TreeBanana.label>香蕉树</Plant_TreeBanana.label>
+  <!-- EN: Banana Trees produce long, yellow fruits called Bananas, which eventually soften into a sweet delight. The Banana Tree will remain after harvesting and will start another cycle of Banana production. -->
   <Plant_TreeBanana.description>香蕉树会结出又长又黄的果实，叫做香蕉，最终软化成一种甜甜的美味。这种果树在收获后会保留下来，并继续结出果实。</Plant_TreeBanana.description>
-
-  <Plant_TreeOrange.label>橙树</Plant_TreeOrange.label>
-  <Plant_TreeOrange.description>橙树会结出甜的水果，叫做橙子。这种果树在收获后会保留下来，并继续结出果实。</Plant_TreeOrange.description>
-
-  <Plant_TreePeach.label>桃树</Plant_TreePeach.label>
-  <Plant_TreePeach.description>桃树结出柔软、毛茸茸、香甜的果实，叫做桃子。这种果树在收获后会保留下来，并继续结出果实。</Plant_TreePeach.description>
-
+  
+  <!-- EN: Cocoa Tree -->
+  <Plant_TreeCocoa.label>可可树</Plant_TreeCocoa.label>
+  <!-- EN: Cocoa Trees produce seeds in pods that are called Cocoa Beans. Cocoa Beans can be refined into chocolate. -->
+  <Plant_TreeCocoa.description>可可豆能经过发酵、烘焙、研磨，最后加工成巧克力。</Plant_TreeCocoa.description>
+  
+  <!-- EN: grape vine -->
   <Plant_TreeGrape.label>葡萄</Plant_TreeGrape.label>
+  <!-- EN: Grape vines produce small, sweet berries that grow in clusters on a single branch. These fruits are called grapes. -->
   <Plant_TreeGrape.description>葡萄藤会结出小而甜的浆果，并在单枝上成串生长。这些水果叫做葡萄。</Plant_TreeGrape.description>
-
-
-  <!--<PlantStrawberry.label>草莓</PlantStrawberry.label>-->
-  <!--<PlantStrawberry.description>一种脆弱，但是非常好吃的水果。就算生吃也很可口。</PlantStrawberry.description>-->
-  <!--<Plantblueberry.label>蓝莓</Plantblueberry.label>-->
-  <!--<Plantblueberry.description>一种长有蓝色浆果的灌木。</Plantblueberry.description>-->
-  <!--<Plantcloudberry.label>云莓</Plantcloudberry.label>-->
-  <!--<Plantcloudberry.description>寒冷气候中生长的浆果灌木。</Plantcloudberry.description>-->
-  <!--<Plantgooseberry.label>醋栗</Plantgooseberry.label>-->
-  <!--<Plantgooseberry.description>寒冷气候中生长的浆果灌木。</Plantgooseberry.description>-->
-
+  
+  <!-- EN: Orange Tree -->
+  <Plant_TreeOrange.label>橙树</Plant_TreeOrange.label>
+  <!-- EN: Orange Trees produce sweet, citric fruits called Oranges. The Orange Tree will remain after harvesting and will start another cycle of Orange production. -->
+  <Plant_TreeOrange.description>橙树会结出甜的水果，叫做橙子。这种果树在收获后会保留下来，并继续结出果实。</Plant_TreeOrange.description>
+  
+  <!-- EN: peach tree -->
+  <Plant_TreePeach.label>桃树</Plant_TreePeach.label>
+  <!-- EN: Peach trees produce soft, fuzzy, sweet fruits called peaches. The peach tree will remain after harvesting and will start another cycle of peach production. -->
+  <Plant_TreePeach.description>桃树结出柔软、毛茸茸、香甜的果实，叫做桃子。这种果树在收获后会保留下来，并继续结出果实。</Plant_TreePeach.description>
+  
 </LanguageData>

@@ -1,52 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Centipede -->
-
+  
+  <!-- EN: Centipede -->
   <Mech_Centipede.label>机械蜈蚣</Mech_Centipede.label>
   <Mech_Centipede.labelPlural>机械蜈蚣</Mech_Centipede.labelPlural>
-
-
-  <!-- Centipede Inferno -->
-
+  
+  <!-- EN: Centipede -->
   <Mech_CentipedeInferno.label>机械蜈蚣</Mech_CentipedeInferno.label>
   <Mech_CentipedeInferno.labelPlural>机械蜈蚣</Mech_CentipedeInferno.labelPlural>
-
-
-  <!-- Scyther -->
-
-  <Mech_Scyther.label>机械飞螳</Mech_Scyther.label>
-  <Mech_Scyther.labelPlural>机械飞螳</Mech_Scyther.labelPlural>
-
-
-  <!-- HeavyGun Scyther -->
-
-  <Mech_HGScyther.label>机械飞螳</Mech_HGScyther.label>
-  <Mech_HGScyther.labelPlural>机械飞螳</Mech_HGScyther.labelPlural>
-
-
-  <!-- Lancer -->
-
-  <Mech_Lancer.label>机械静螳</Mech_Lancer.label>
-  <Mech_Lancer.labelPlural>机械静螳</Mech_Lancer.labelPlural>
-
-
-  <!-- Sniper Lancer -->
-
-  <Mech_SniperLancer.label>机械静螳</Mech_SniperLancer.label>
-  <Mech_SniperLancer.labelPlural>机械静螳</Mech_SniperLancer.labelPlural>
-
-
-  <!-- Pikeman -->
-
-  <Mech_Pikeman.label>机械蝎蝽</Mech_Pikeman.label>
-  <Mech_Pikeman.labelPlural>机械蝎蝽</Mech_Pikeman.labelPlural>
-
-
-  <!-- Crawler -->
-
+  
+  <!-- EN: Crawler -->
   <Mech_Crawler.label>机械蜘蛛</Mech_Crawler.label>
   <Mech_Crawler.labelPlural>机械蜘蛛</Mech_Crawler.labelPlural>
-
-
+  
+  <!-- EN: Scyther -->
+  <Mech_HGScyther.label>机械飞螳</Mech_HGScyther.label>
+  <Mech_HGScyther.labelPlural>机械飞螳</Mech_HGScyther.labelPlural>
+  
+  <!-- EN: Lancer -->
+  <Mech_Lancer.label>机械静螳</Mech_Lancer.label>
+  <Mech_Lancer.labelPlural>机械静螳</Mech_Lancer.labelPlural>
+  
+  <!-- EN: Pikeman -->
+  <Mech_Pikeman.label>机械蝎蝽</Mech_Pikeman.label>
+  <Mech_Pikeman.labelPlural>机械蝎蝽</Mech_Pikeman.labelPlural>
+  
+  <!-- EN: Scyther -->
+  <Mech_Scyther.label>机械飞螳</Mech_Scyther.label>
+  <Mech_Scyther.labelPlural>机械飞螳</Mech_Scyther.labelPlural>
+  
+  <!-- EN: Lancer -->
+  <Mech_SniperLancer.label>机械静螳</Mech_SniperLancer.label>
+  <Mech_SniperLancer.labelPlural>机械静螳</Mech_SniperLancer.labelPlural>
+  
 </LanguageData>

@@ -1,10 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Settings -->
+	<!-- Settings -->
+	<!-- EN: Immune Pawns Drop Germs -->
   <CD.ImmunePawnsDropGerms>免疫角色掉落病原体</CD.ImmunePawnsDropGerms>
+	<!-- EN: Enable/Disable germs from sick pawns who have achieved full immunity. -->
   <CD.ImmunePawnsDropGermsDesc>启用/禁用完全免疫角色掉落病原体。</CD.ImmunePawnsDropGermsDesc>
+	<!-- EN: Germ Drop Rate -->
   <CD_GermDropRate>病原体掉落率</CD_GermDropRate>
+	<!-- EN: Determines the frequency of sick pawns dropping germs. -->
   <CD_GermDropRateDesc>生病角色掉落病原体的频率。</CD_GermDropRateDesc>
 
 </LanguageData>

@@ -1,25 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Romance -->
-
-  <RebuffedMyRomanceAttemptMood.stages.0.label>被{0}拒绝</RebuffedMyRomanceAttemptMood.stages.0.label>
-  <RebuffedMyRomanceAttemptMood.stages.0.description>我想谈一次恋爱，却遭到冷遇，这让我很难过。</RebuffedMyRomanceAttemptMood.stages.0.description>
-
-  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>不得不拒绝{0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
-  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>我不喜欢的人想要和我谈恋爱。</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
-
-  <BrokeUpWithMeMood.stages.0.label>和{0}分手</BrokeUpWithMeMood.stages.0.label>
-  <BrokeUpWithMeMood.stages.0.description>我就像一包垃圾一样被甩了。</BrokeUpWithMeMood.stages.0.description>
-
-  <CheatedOnMeMood.stages.0.label>被{0}背叛</CheatedOnMeMood.stages.0.label>
-  <CheatedOnMeMood.stages.0.description>怎么可以背叛我！</CheatedOnMeMood.stages.0.description>
-
-  <DivorcedMeMood.stages.0.label>和{0}离婚</DivorcedMeMood.stages.0.label>
-  <DivorcedMeMood.stages.0.description>曾经的山盟海誓，在现实面前狗屁都不是。</DivorcedMeMood.stages.0.description>
-
-  <RejectedMyProposalMood.stages.0.label>被{0}拒绝了求婚</RejectedMyProposalMood.stages.0.label>
-  <RejectedMyProposalMood.stages.0.description>我以为我们真心相爱，厮守终身。然而这只是我一厢情愿。</RejectedMyProposalMood.stages.0.description>
-
-
+  
+  <!-- EN: broken up with by {0} -->
+  <BrokeUpWithMeMood.stages.broken_up_with_by.label>和{0}分手</BrokeUpWithMeMood.stages.broken_up_with_by.label>
+  <!-- EN: I was just dumped like a load of garbage. -->
+  <BrokeUpWithMeMood.stages.broken_up_with_by.description>我就像一包垃圾一样被甩了。</BrokeUpWithMeMood.stages.broken_up_with_by.description>
+  
+  <!-- EN: cheated on by {0} -->
+  <CheatedOnMeMood.stages.cheated_on_by.label>被{0}背叛</CheatedOnMeMood.stages.cheated_on_by.label>
+  <!-- EN: How could someone cheat on me! -->
+  <CheatedOnMeMood.stages.cheated_on_by.description>怎么可以背叛我！</CheatedOnMeMood.stages.cheated_on_by.description>
+  
+  <!-- EN: divorced by {0} -->
+  <DivorcedMeMood.stages.divorced_by.label>和{0}离婚</DivorcedMeMood.stages.divorced_by.label>
+  <!-- EN: We made a commitment, and they just tore it apart. -->
+  <DivorcedMeMood.stages.divorced_by.description>曾经的山盟海誓，在现实面前狗屁都不是。</DivorcedMeMood.stages.divorced_by.description>
+  
+  <!-- EN: had to rebuff {0} -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>不得不拒绝{0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>
+  <!-- EN: Someone I don't like tried to romance me. -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>我不喜欢的人想要和我谈恋爱。</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
+  
+  <!-- EN: rebuffed by {0} -->
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>被{0}拒绝</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>
+  <!-- EN: I attempted to create a romance, but I got the cold shoulder. Feels bad man. -->
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>我想谈一次恋爱，却遭到冷遇，这让我很难过。</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
+  
+  <!-- EN: my proposal was rejected by {0} -->
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>被{0}拒绝了求婚</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
+  <!-- EN: I thought we were meant to marry. But I was just shot down. -->
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>我以为我们真心相爱，厮守终身。然而这只是我一厢情愿。</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
+  
 </LanguageData>

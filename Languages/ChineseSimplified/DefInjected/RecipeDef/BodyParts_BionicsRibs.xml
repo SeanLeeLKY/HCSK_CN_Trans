@@ -1,81 +1,102 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Medical rib -->
-
-  <InstallMedicalRib.label>安装 医疗肋骨</InstallMedicalRib.label>
-  <InstallMedicalRib.description>安装医疗肋骨。</InstallMedicalRib.description>
-  <InstallMedicalRib.jobString>正在安装医疗肋骨。</InstallMedicalRib.jobString>
-
-  <RemoveMedicalRib.label>移除 医疗肋骨</RemoveMedicalRib.label>
-  <RemoveMedicalRib.description>移除医疗肋骨。</RemoveMedicalRib.description>
-  <RemoveMedicalRib.jobString>正在移除医疗肋骨。</RemoveMedicalRib.jobString>
-
-
-  <!-- Drugged rib -->
-
-  <InstallDruggedRib.label>安装 迷幻肋骨</InstallDruggedRib.label>
-  <InstallDruggedRib.description>安装迷幻肋骨。</InstallDruggedRib.description>
-  <InstallDruggedRib.jobString>正在安装迷幻肋骨。</InstallDruggedRib.jobString>
-
-  <RemoveDruggedRib.label>移除 迷幻肋骨</RemoveDruggedRib.label>
-  <RemoveDruggedRib.description>移除迷幻肋骨。</RemoveDruggedRib.description>
-  <RemoveDruggedRib.jobString>正在移除迷幻肋骨。</RemoveDruggedRib.jobString>
-
-
-  <!-- Adrenaline rib -->
-
+  
+  <!-- EN: install adrenaline rib -->
   <InstallAdrenalineRib.label>安装 肾上腺素肋骨</InstallAdrenalineRib.label>
+  <!-- EN: Installs an adrenaline rib. -->
   <InstallAdrenalineRib.description>安装肾上腺素肋骨。</InstallAdrenalineRib.description>
+  <!-- EN: Installing an adrenaline rib. -->
   <InstallAdrenalineRib.jobString>正在安装肾上腺素肋骨。</InstallAdrenalineRib.jobString>
-
-  <RemoveAdrenalineRib.label>移除 肾上腺素肋骨</RemoveAdrenalineRib.label>
-  <RemoveAdrenalineRib.description>移除肾上腺素肋骨。</RemoveAdrenalineRib.description>
-  <RemoveAdrenalineRib.jobString>正在移除肾上腺素肋骨。</RemoveAdrenalineRib.jobString>
-
-
-  <!-- Painkiller rib -->
-
-  <InstallPainkillerRib.label>安装 止痛肋骨</InstallPainkillerRib.label>
-  <InstallPainkillerRib.description>安装止痛肋骨。</InstallPainkillerRib.description>
-  <InstallPainkillerRib.jobString>正在安装止痛肋骨。</InstallPainkillerRib.jobString>
-
-  <RemovePainkillerRib.label>移除 止痛肋骨</RemovePainkillerRib.label>
-  <RemovePainkillerRib.description>移除止痛肋骨。</RemovePainkillerRib.description>
-  <RemovePainkillerRib.jobString>正在移除止痛肋骨。</RemovePainkillerRib.jobString>
-
-
-  <!-- Heater rib -->
-
-  <InstallHeaterRib.label>安装 加热肋骨</InstallHeaterRib.label>
-  <InstallHeaterRib.description>安装加热肋骨。</InstallHeaterRib.description>
-  <InstallHeaterRib.jobString>正在安装加热肋骨。</InstallHeaterRib.jobString>
-
-  <RemoveHeaterRib.label>移除 加热肋骨</RemoveHeaterRib.label>
-  <RemoveHeaterRib.description>移除加热肋骨。</RemoveHeaterRib.description>
-  <RemoveHeaterRib.jobString>正在移除加热肋骨。</RemoveHeaterRib.jobString>
-
-
-  <!-- Cooler rib -->
-
-  <InstallCoolerRib.label>安装 冷却肋骨</InstallCoolerRib.label>
-  <InstallCoolerRib.description>安装冷却肋骨。</InstallCoolerRib.description>
-  <InstallCoolerRib.jobString>正在安装冷却肋骨。</InstallCoolerRib.jobString>
-
-  <RemoveCoolerRib.label>移除 冷却肋骨</RemoveCoolerRib.label>
-  <RemoveCoolerRib.description>移除冷却肋骨。</RemoveCoolerRib.description>
-  <RemoveCoolerRib.jobString>正在移除冷却肋骨。</RemoveCoolerRib.jobString>
-
-
-  <!-- Coagulator rib -->
-
+  
+  <!-- EN: install coagulator rib replacement -->
   <InstallCoagulatorRib.label>安装 止血肋骨</InstallCoagulatorRib.label>
+  <!-- EN: Installs a coagulator rib replacement. -->
   <InstallCoagulatorRib.description>安装止血肋骨。</InstallCoagulatorRib.description>
+  <!-- EN: Installing a coagulator rib replacement. -->
   <InstallCoagulatorRib.jobString>正在安装止血肋骨。</InstallCoagulatorRib.jobString>
-
+  
+  <!-- EN: install cooling rib -->
+  <InstallCoolerRib.label>安装 冷却肋骨</InstallCoolerRib.label>
+  <!-- EN: Installs a cooling rib. -->
+  <InstallCoolerRib.description>安装冷却肋骨。</InstallCoolerRib.description>
+  <!-- EN: Installing a cooling rib. -->
+  <InstallCoolerRib.jobString>正在安装冷却肋骨。</InstallCoolerRib.jobString>
+  
+  <!-- EN: install drugged rib -->
+  <InstallDruggedRib.label>安装 迷幻肋骨</InstallDruggedRib.label>
+  <!-- EN: Installs a drugged rib. -->
+  <InstallDruggedRib.description>安装迷幻肋骨。</InstallDruggedRib.description>
+  <!-- EN: Installing a drugged rib. -->
+  <InstallDruggedRib.jobString>正在安装迷幻肋骨。</InstallDruggedRib.jobString>
+  
+  <!-- EN: install heating rib -->
+  <InstallHeaterRib.label>安装 加热肋骨</InstallHeaterRib.label>
+  <!-- EN: Installs a heating rib. -->
+  <InstallHeaterRib.description>安装加热肋骨。</InstallHeaterRib.description>
+  <!-- EN: Installing a heating rib. -->
+  <InstallHeaterRib.jobString>正在安装加热肋骨。</InstallHeaterRib.jobString>
+  
+  <!-- EN: install medical rib replacement -->
+  <InstallMedicalRib.label>安装 医疗肋骨</InstallMedicalRib.label>
+  <!-- EN: Installs a medical rib replacement. -->
+  <InstallMedicalRib.description>安装医疗肋骨。</InstallMedicalRib.description>
+  <!-- EN: Installing a medical rib replacement. -->
+  <InstallMedicalRib.jobString>正在安装医疗肋骨。</InstallMedicalRib.jobString>
+  
+  <!-- EN: install painkiller rib -->
+  <InstallPainkillerRib.label>安装 止痛肋骨</InstallPainkillerRib.label>
+  <!-- EN: Installs a painkiller rib. -->
+  <InstallPainkillerRib.description>安装止痛肋骨。</InstallPainkillerRib.description>
+  <!-- EN: Installing a painkiller rib. -->
+  <InstallPainkillerRib.jobString>正在安装止痛肋骨。</InstallPainkillerRib.jobString>
+  
+  <!-- EN: remove adrenaline rib replacement -->
+  <RemoveAdrenalineRib.label>移除 肾上腺素肋骨</RemoveAdrenalineRib.label>
+  <!-- EN: Remove a adrenaline rib replacement. -->
+  <RemoveAdrenalineRib.description>移除肾上腺素肋骨。</RemoveAdrenalineRib.description>
+  <!-- EN: Removing rib replacement. -->
+  <RemoveAdrenalineRib.jobString>正在移除肾上腺素肋骨。</RemoveAdrenalineRib.jobString>
+  
+  <!-- EN: remove coagulator rib replacement -->
   <RemoveCoagulatorRib.label>移除 止血肋骨</RemoveCoagulatorRib.label>
+  <!-- EN: Remove a coagulator rib replacement. -->
   <RemoveCoagulatorRib.description>移除止血肋骨。</RemoveCoagulatorRib.description>
+  <!-- EN: Removing rib replacement. -->
   <RemoveCoagulatorRib.jobString>正在移除止血肋骨。</RemoveCoagulatorRib.jobString>
-
-
+  
+  <!-- EN: remove cooling rib replacement -->
+  <RemoveCoolerRib.label>移除 冷却肋骨</RemoveCoolerRib.label>
+  <!-- EN: Remove a cooling rib replacement. -->
+  <RemoveCoolerRib.description>移除冷却肋骨。</RemoveCoolerRib.description>
+  <!-- EN: Removing rib replacement. -->
+  <RemoveCoolerRib.jobString>正在移除冷却肋骨。</RemoveCoolerRib.jobString>
+  
+  <!-- EN: remove drugged rib replacement -->
+  <RemoveDruggedRib.label>移除 迷幻肋骨</RemoveDruggedRib.label>
+  <!-- EN: Remove a drugged rib replacement. -->
+  <RemoveDruggedRib.description>移除迷幻肋骨。</RemoveDruggedRib.description>
+  <!-- EN: Removing rib replacement. -->
+  <RemoveDruggedRib.jobString>正在移除迷幻肋骨。</RemoveDruggedRib.jobString>
+  
+  <!-- EN: remove heating rib replacement -->
+  <RemoveHeaterRib.label>移除 加热肋骨</RemoveHeaterRib.label>
+  <!-- EN: Remove a heating rib replacement. -->
+  <RemoveHeaterRib.description>移除加热肋骨。</RemoveHeaterRib.description>
+  <!-- EN: Removing rib replacement. -->
+  <RemoveHeaterRib.jobString>正在移除加热肋骨。</RemoveHeaterRib.jobString>
+  
+  <!-- EN: remove medical rib replacement -->
+  <RemoveMedicalRib.label>移除 医疗肋骨</RemoveMedicalRib.label>
+  <!-- EN: Remove a medical rib replacement. -->
+  <RemoveMedicalRib.description>移除医疗肋骨。</RemoveMedicalRib.description>
+  <!-- EN: Removing rib replacement. -->
+  <RemoveMedicalRib.jobString>正在移除医疗肋骨。</RemoveMedicalRib.jobString>
+  
+  <!-- EN: remove painkiller rib replacement -->
+  <RemovePainkillerRib.label>移除 止痛肋骨</RemovePainkillerRib.label>
+  <!-- EN: Remove a painkiller rib replacement. -->
+  <RemovePainkillerRib.description>移除止痛肋骨。</RemovePainkillerRib.description>
+  <!-- EN: Removing rib replacement. -->
+  <RemovePainkillerRib.jobString>正在移除止痛肋骨。</RemovePainkillerRib.jobString>
+  
 </LanguageData>

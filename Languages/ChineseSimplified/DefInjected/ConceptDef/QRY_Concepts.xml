@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Concepts taught through the learning readout, when opportunities arise -->
-
+  
+  <!-- EN: Reclaim soil -->
   <QRY_ReclaimingSoil.label>回填土壤</QRY_ReclaimingSoil.label>
+  <!-- EN: Once the quarry has been deconstructed, you can use the Smooth Floor tool to designate colonists to cover the old ground with soil in order to get a usable terrain where the quarry once was. -->
   <QRY_ReclaimingSoil.helpText>一旦采石场被拆除，你可以使用“打磨地面”命令来让殖民者将采石场所在地面回填成为原先的可用地形。</QRY_ReclaimingSoil.helpText>
-
-
+  
 </LanguageData>

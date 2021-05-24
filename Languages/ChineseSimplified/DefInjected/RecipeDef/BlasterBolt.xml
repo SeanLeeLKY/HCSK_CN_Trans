@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
+  
+  <!-- EN: make Blaster charged bolt cartridge x80 -->
   <MakeAmmo_BlasterBolt.label>制造 冲击电荷弹 x80</MakeAmmo_BlasterBolt.label>
+  <!-- EN: Craft 80 Blaster charged bolt cartridges. -->
   <MakeAmmo_BlasterBolt.description>制造 80 冲击电荷弹。</MakeAmmo_BlasterBolt.description>
+  <!-- EN: Making Blaster charged bolt cartridges. -->
   <MakeAmmo_BlasterBolt.jobString>正在制造 冲击电荷弹。</MakeAmmo_BlasterBolt.jobString>
-
-
+  
 </LanguageData>

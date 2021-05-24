@@ -1,58 +1,69 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Natural parts - can be harvested, or grown in the organ vat -->
-
-  <Eye.label>眼</Eye.label>
-  <Eye.description>从活体上取下的替换眼球，或用生物质制造的眼球。</Eye.description>
-
-  <Ear.label>耳</Ear.label>
-  <Ear.description>用生物质制造的替代耳朵。</Ear.description>
-
-  <Nose.label>鼻</Nose.label>
-  <Nose.description>用生物质制造的替代鼻子。</Nose.description>
-
-  <Heart.label>心脏</Heart.label>
-  <Heart.description>为身体各部位提供血液和氧气。准备寻找新的主人。</Heart.description>
-
-  <Lung.label>肺</Lung.label>
-  <Lung.description>呼吸系统的重要组成部分。</Lung.description>
-
-  <Liver.label>肝</Liver.label>
-  <Liver.description>在新陈代谢中发挥重要作用。</Liver.description>
-
-  <Kidney.label>肾</Kidney.label>
-  <Kidney.description>过滤并清除血液中的废物。</Kidney.description>
-
-  <Stomach.label>胃</Stomach.label>
-  <Stomach.description>消化食物并将其转化为能量和营养物质。</Stomach.description>
-
-  <Jaw.label>颌</Jaw.label>
-  <Jaw.description>一副漂亮的牙齿，用来咀嚼食物和说话。</Jaw.description>
-
-  <Leg.label>腿</Leg.label>
-  <Leg.description>它们是像粗大棍子的骨肉，可以让你移动。</Leg.description>
-
-
-  <!-- <ThingDef ParentName="BodyPartBase_Natural">
-	<defName>Brain</defName>
-    <label>brain</label>
-	<description>Lets you know whos in charge</description>
-	<graphicPath>Things/Item/BodyPart/MedOrgan</graphicPath>
-	<graphicClass>Graphic_Single</graphicClass>
-	<statBases>
-	  <MarketValue>500</MarketValue>
-    </statBases>
-</ThingDef> -->
-
+  
+  <!-- EN: Arm -->
   <Arm.label>臂</Arm.label>
+  <!-- EN: Arms are like legs, except you can carry stuff with them. -->
   <Arm.description>手臂就像腿一样，只不过你可以用它来搬东西。</Arm.description>
-
+  
+  <!-- EN: Ear -->
+  <Ear.label>耳</Ear.label>
+  <!-- EN: A replacement ear fabricated from BioMatter. -->
+  <Ear.description>用生物质制造的替代耳朵。</Ear.description>
+  
+  <!-- EN: Eye -->
+  <Eye.label>眼</Eye.label>
+  <!-- EN: A replacement eye that was either removed from a live body, or fabricated from BioMatter. -->
+  <Eye.description>从活体上取下的替换眼球，或用生物质制造的眼球。</Eye.description>
+  
+  <!-- EN: foot -->
   <Foot.label>足</Foot.label>
+  <!-- EN: The thing you can put shoes on. -->
   <Foot.description>你可以穿上鞋子的东西。</Foot.description>
-
+  
+  <!-- EN: hand -->
   <Hand.label>手</Hand.label>
+  <!-- EN: A man's best friend. -->
   <Hand.description>男人最好的朋友。</Hand.description>
-
-
+  
+  <!-- EN: Heart -->
+  <Heart.label>心脏</Heart.label>
+  <!-- EN: Supplies blood and oxygen to all parts of the body. Ready to find a new owner. -->
+  <Heart.description>为身体各部位提供血液和氧气。准备寻找新的主人。</Heart.description>
+  
+  <!-- EN: Jaw -->
+  <Jaw.label>颌</Jaw.label>
+  <!-- EN: A nice set of teeth for chewing food and talking. -->
+  <Jaw.description>一副漂亮的牙齿，用来咀嚼食物和说话。</Jaw.description>
+  
+  <!-- EN: Kidney -->
+  <Kidney.label>肾</Kidney.label>
+  <!-- EN: Filters and removes waste products from the blood. -->
+  <Kidney.description>过滤并清除血液中的废物。</Kidney.description>
+  
+  <!-- EN: Leg -->
+  <Leg.label>腿</Leg.label>
+  <!-- EN: They're long meaty sticks that let you move around. -->
+  <Leg.description>它们是像粗大棍子的骨肉，可以让你移动。</Leg.description>
+  
+  <!-- EN: Liver -->
+  <Liver.label>肝</Liver.label>
+  <!-- EN: Plays an important role in metabolism. -->
+  <Liver.description>在新陈代谢中发挥重要作用。</Liver.description>
+  
+  <!-- EN: Lung -->
+  <Lung.label>肺</Lung.label>
+  <!-- EN: An essential part of the respiratory system. -->
+  <Lung.description>呼吸系统的重要组成部分。</Lung.description>
+  
+  <!-- EN: Nose -->
+  <Nose.label>鼻</Nose.label>
+  <!-- EN: A replacement nose fabricated from BioMatter. -->
+  <Nose.description>用生物质制造的替代鼻子。</Nose.description>
+  
+  <!-- EN: Stomach -->
+  <Stomach.label>胃</Stomach.label>
+  <!-- EN: Digests food and turns it into energy and nutrients. -->
+  <Stomach.description>消化食物并将其转化为能量和营养物质。</Stomach.description>
+  
 </LanguageData>

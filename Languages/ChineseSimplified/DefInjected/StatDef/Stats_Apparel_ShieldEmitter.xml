@@ -1,13 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Shield decay rate -->
   <ShieldEmitterDecayRate.label>护盾衰减率</ShieldEmitterDecayRate.label>
+  <!-- EN: The rate at which a shield loses energy. -->
   <ShieldEmitterDecayRate.description>护盾失去能量的速率。</ShieldEmitterDecayRate.description>
+  <!-- EN: {0}/s -->
   <ShieldEmitterDecayRate.formatString>{0}/秒</ShieldEmitterDecayRate.formatString>
-
+  
+  <!-- EN: shield emitter radius -->
   <ShieldEmitterRadius.label>护盾半径</ShieldEmitterRadius.label>
+  <!-- EN: The area shielded when a shield emitter detonates. -->
   <ShieldEmitterRadius.description>护盾启动时的发射半径。</ShieldEmitterRadius.description>
+  <!-- EN: {0} cells -->
   <ShieldEmitterRadius.formatString>{0}格</ShieldEmitterRadius.formatString>
-
-
+  
 </LanguageData>

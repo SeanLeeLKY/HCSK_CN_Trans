@@ -1,17 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MedicineHerbal.label>生草药</MedicineHerbal.label>
-  <MedicineHerbal.description>一包从草药植物提取而来的草药混合物。比起工业医药效果稍差，但总好过没有。</MedicineHerbal.description>
-
+  
+  <!-- EN: Herbal Medicine -->
   <HerbMedicine.label>中草药</HerbMedicine.label>
+  <!-- EN: Herbal Medicine is a basic collection of plant-based supplies that medical staff use to treat the wounded. -->
   <HerbMedicine.description>中草药是医生用来治疗伤员的一种基本用品，算是粗糙处理过的草药。</HerbMedicine.description>
-
+  
+  <!-- EN: Raw herbal medicine -->
+  <MedicineHerbal.label>生草药</MedicineHerbal.label>
+  <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
+  <MedicineHerbal.description>一包从草药植物提取而来的草药混合物。比起工业医药效果稍差，但总好过没有。</MedicineHerbal.description>
+  
+  <!-- EN: Medicine -->
   <MedicineIndustrial.label>医药</MedicineIndustrial.label>
+  <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
   <MedicineIndustrial.description>一套工业时代的医疗设备，它包括基本药物，缝合和骨骼固定工具，诊断设备，以及各种耗材和多种液体。</MedicineIndustrial.description>
-
+  
+  <!-- EN: Advanced Medicine -->
   <MedicineUltratech.label>闪耀世界医药</MedicineUltratech.label>
+  <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
   <MedicineUltratech.description>一套先进的超科技医疗用品，可能是在遥远的闪耀世界制造的。它包含先进的多态药物，纳米诊断和治疗辅助器，一个微型成像仪，和各种多用途工具。</MedicineUltratech.description>
-
-
+  
 </LanguageData>

@@ -1,55 +1,103 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: ogre -->
   <Ogre.label>食人魔</Ogre.label>
-  <Ogre.corePart.parts.6.customLabel>左肺</Ogre.corePart.parts.6.customLabel>
-  <Ogre.corePart.parts.7.customLabel>右肺</Ogre.corePart.parts.7.customLabel>
-  <Ogre.corePart.parts.8.customLabel>左肾</Ogre.corePart.parts.8.customLabel>
-  <Ogre.corePart.parts.9.customLabel>右肾</Ogre.corePart.parts.9.customLabel>
-  <Ogre.corePart.parts.11.parts.0.parts.1.customLabel>左眼</Ogre.corePart.parts.11.parts.0.parts.1.customLabel>
-  <Ogre.corePart.parts.11.parts.0.parts.2.customLabel>右眼</Ogre.corePart.parts.11.parts.0.parts.2.customLabel>
-  <Ogre.corePart.parts.11.parts.0.parts.3.customLabel>左耳</Ogre.corePart.parts.11.parts.0.parts.3.customLabel>
-  <Ogre.corePart.parts.11.parts.0.parts.4.customLabel>右耳</Ogre.corePart.parts.11.parts.0.parts.4.customLabel>
-  <Ogre.corePart.parts.12.parts.0.customLabel>左锁骨</Ogre.corePart.parts.12.parts.0.customLabel>
-  <Ogre.corePart.parts.12.parts.1.parts.0.customLabel>左肱骨</Ogre.corePart.parts.12.parts.1.parts.0.customLabel>
-  <Ogre.corePart.parts.12.parts.1.parts.1.customLabel>左桡骨</Ogre.corePart.parts.12.parts.1.parts.1.customLabel>
-  <Ogre.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>左小指</Ogre.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
-  <Ogre.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>左无名指</Ogre.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
-  <Ogre.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>左中指</Ogre.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
-  <Ogre.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>左食指</Ogre.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
-  <Ogre.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>左拇指</Ogre.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
-  <Ogre.corePart.parts.12.parts.1.parts.2.customLabel>左手</Ogre.corePart.parts.12.parts.1.parts.2.customLabel>
-  <Ogre.corePart.parts.12.parts.1.customLabel>左臂</Ogre.corePart.parts.12.parts.1.customLabel>
-  <Ogre.corePart.parts.12.customLabel>左肩</Ogre.corePart.parts.12.customLabel>
-  <Ogre.corePart.parts.13.parts.0.customLabel>右锁骨</Ogre.corePart.parts.13.parts.0.customLabel>
-  <Ogre.corePart.parts.13.parts.1.parts.0.customLabel>右肱骨</Ogre.corePart.parts.13.parts.1.parts.0.customLabel>
-  <Ogre.corePart.parts.13.parts.1.parts.1.customLabel>右桡骨</Ogre.corePart.parts.13.parts.1.parts.1.customLabel>
-  <Ogre.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>右小指</Ogre.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
-  <Ogre.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>右无名指</Ogre.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
-  <Ogre.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>右中指</Ogre.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
-  <Ogre.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>右食指</Ogre.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
-  <Ogre.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>右拇指</Ogre.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
-  <Ogre.corePart.parts.13.parts.1.parts.2.customLabel>右手</Ogre.corePart.parts.13.parts.1.parts.2.customLabel>
-  <Ogre.corePart.parts.13.parts.1.customLabel>右臂</Ogre.corePart.parts.13.parts.1.customLabel>
-  <Ogre.corePart.parts.13.customLabel>右肩</Ogre.corePart.parts.13.customLabel>
-  <Ogre.corePart.parts.15.parts.0.customLabel>左股骨</Ogre.corePart.parts.15.parts.0.customLabel>
-  <Ogre.corePart.parts.15.parts.1.customLabel>左胫骨</Ogre.corePart.parts.15.parts.1.customLabel>
-  <Ogre.corePart.parts.15.parts.2.parts.0.customLabel>左小趾</Ogre.corePart.parts.15.parts.2.parts.0.customLabel>
-  <Ogre.corePart.parts.15.parts.2.parts.1.customLabel>左四趾</Ogre.corePart.parts.15.parts.2.parts.1.customLabel>
-  <Ogre.corePart.parts.15.parts.2.parts.2.customLabel>左中趾</Ogre.corePart.parts.15.parts.2.parts.2.customLabel>
-  <Ogre.corePart.parts.15.parts.2.parts.3.customLabel>左二趾</Ogre.corePart.parts.15.parts.2.parts.3.customLabel>
-  <Ogre.corePart.parts.15.parts.2.parts.4.customLabel>左拇趾</Ogre.corePart.parts.15.parts.2.parts.4.customLabel>
-  <Ogre.corePart.parts.15.parts.2.customLabel>左足</Ogre.corePart.parts.15.parts.2.customLabel>
-  <Ogre.corePart.parts.15.customLabel>左腿</Ogre.corePart.parts.15.customLabel>
-  <Ogre.corePart.parts.16.parts.0.customLabel>右股骨</Ogre.corePart.parts.16.parts.0.customLabel>
-  <Ogre.corePart.parts.16.parts.1.customLabel>右胫骨</Ogre.corePart.parts.16.parts.1.customLabel>
-  <Ogre.corePart.parts.16.parts.2.parts.0.customLabel>右小趾</Ogre.corePart.parts.16.parts.2.parts.0.customLabel>
-  <Ogre.corePart.parts.16.parts.2.parts.1.customLabel>右四趾</Ogre.corePart.parts.16.parts.2.parts.1.customLabel>
-  <Ogre.corePart.parts.16.parts.2.parts.2.customLabel>右中趾</Ogre.corePart.parts.16.parts.2.parts.2.customLabel>
-  <Ogre.corePart.parts.16.parts.2.parts.3.customLabel>右二趾</Ogre.corePart.parts.16.parts.2.parts.3.customLabel>
-  <Ogre.corePart.parts.16.parts.2.parts.4.customLabel>右拇趾</Ogre.corePart.parts.16.parts.2.parts.4.customLabel>
-  <Ogre.corePart.parts.16.parts.2.customLabel>右足</Ogre.corePart.parts.16.parts.2.customLabel>
-  <Ogre.corePart.parts.16.customLabel>右腿</Ogre.corePart.parts.16.customLabel>
-
-
+  <!-- EN: left lung -->
+  <Ogre.corePart.parts.left_lung.customLabel>左肺</Ogre.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Ogre.corePart.parts.right_lung.customLabel>右肺</Ogre.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Ogre.corePart.parts.left_kidney.customLabel>左肾</Ogre.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Ogre.corePart.parts.right_kidney.customLabel>右肾</Ogre.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Ogre.corePart.parts.oNeck.parts.Head.parts.left_eye.customLabel>左眼</Ogre.corePart.parts.oNeck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Ogre.corePart.parts.oNeck.parts.Head.parts.right_eye.customLabel>右眼</Ogre.corePart.parts.oNeck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Ogre.corePart.parts.oNeck.parts.Head.parts.left_ear.customLabel>左耳</Ogre.corePart.parts.oNeck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Ogre.corePart.parts.oNeck.parts.Head.parts.right_ear.customLabel>右耳</Ogre.corePart.parts.oNeck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Ogre.corePart.parts.left_shoulder.customLabel>左肩</Ogre.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <Ogre.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>左锁骨</Ogre.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <Ogre.corePart.parts.left_shoulder.parts.left_arm.customLabel>左臂</Ogre.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>左肱骨</Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>左桡骨</Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>左手</Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>左小指</Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>左无名指</Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>左中指</Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>左食指</Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>左拇指</Ogre.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Ogre.corePart.parts.right_shoulder.customLabel>右肩</Ogre.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <Ogre.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>右锁骨</Ogre.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <Ogre.corePart.parts.right_shoulder.parts.right_arm.customLabel>右臂</Ogre.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>右肱骨</Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>右桡骨</Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>右手</Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>右小指</Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>右无名指</Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>右中指</Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>右食指</Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>右拇指</Ogre.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Ogre.corePart.parts.left_leg.customLabel>左腿</Ogre.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Ogre.corePart.parts.left_leg.parts.left_femur.customLabel>左股骨</Ogre.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Ogre.corePart.parts.left_leg.parts.left_tibia.customLabel>左胫骨</Ogre.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Ogre.corePart.parts.left_leg.parts.left_foot.customLabel>左足</Ogre.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Ogre.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>左小趾</Ogre.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Ogre.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>左四趾</Ogre.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Ogre.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>左中趾</Ogre.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Ogre.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>左二趾</Ogre.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Ogre.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>左拇趾</Ogre.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Ogre.corePart.parts.right_leg.customLabel>右腿</Ogre.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Ogre.corePart.parts.right_leg.parts.right_femur.customLabel>右股骨</Ogre.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Ogre.corePart.parts.right_leg.parts.right_tibia.customLabel>右胫骨</Ogre.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Ogre.corePart.parts.right_leg.parts.right_foot.customLabel>右足</Ogre.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Ogre.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>右小趾</Ogre.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Ogre.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>右四趾</Ogre.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Ogre.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>右中趾</Ogre.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Ogre.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>右二趾</Ogre.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Ogre.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>右拇趾</Ogre.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
 </LanguageData>

@@ -1,16 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Eclipse.label>日蚀</Eclipse.label>
-  <Eclipse.letterLabel>日蚀</Eclipse.letterLabel>
-
-  <SolarFlare.label>太阳耀斑</SolarFlare.label>
-  <SolarFlare.letterLabel>太阳耀斑</SolarFlare.letterLabel>
-
+  
+  <!-- EN: aurora -->
   <Aurora.label>极光</Aurora.label>
+  <!-- EN: Aurora -->
   <Aurora.letterLabel>极光</Aurora.letterLabel>
-
-
-  <!--<Aurora.letterText>一片美丽的极光照亮了天空。\n\n起伏的色彩会让在外面看到的人心情愉悦，并使夜晚变得更加明亮。</Aurora.letterText>-->
-
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>日蚀</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>日蚀</Eclipse.letterLabel>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>太阳耀斑</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>太阳耀斑</SolarFlare.letterLabel>
+  
 </LanguageData>

@@ -1,91 +1,90 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Chaser -->
-
-  <OrionChaser.label>猎户座追击者</OrionChaser.label>
-  <OrionChaser.labelPlural>猎户座追击者</OrionChaser.labelPlural>
-
-  <OrionChaser_Acidifier.label>猎户座追击者</OrionChaser_Acidifier.label>
-  <OrionChaser_Acidifier.labelPlural>猎户座追击者</OrionChaser_Acidifier.labelPlural>
-
-
-  <!-- Sunderer -->
-
-  <OrionSunderer.label>猎户座斩首者</OrionSunderer.label>
-  <OrionSunderer.labelPlural>猎户座斩首者</OrionSunderer.labelPlural>
-  <OrionSunderer.labelMale>男性猎户座斩首者</OrionSunderer.labelMale>
-  <OrionSunderer.labelMalePlural>男性猎户座斩首者</OrionSunderer.labelMalePlural>
-  <OrionSunderer.labelFemale>女性猎户座斩首者</OrionSunderer.labelFemale>
-  <OrionSunderer.labelFemalePlural>女性猎户座斩首者</OrionSunderer.labelFemalePlural>
-
-  <OrionSunderer_Acidifier.label>猎户座斩首者</OrionSunderer_Acidifier.label>
-  <OrionSunderer_Acidifier.labelPlural>猎户座斩首者</OrionSunderer_Acidifier.labelPlural>
-  <OrionSunderer_Acidifier.labelMale>男性猎户座斩首者</OrionSunderer_Acidifier.labelMale>
-  <OrionSunderer_Acidifier.labelMalePlural>男性猎户座斩首者</OrionSunderer_Acidifier.labelMalePlural>
-  <OrionSunderer_Acidifier.labelFemale>女性猎户座斩首者</OrionSunderer_Acidifier.labelFemale>
-  <OrionSunderer_Acidifier.labelFemalePlural>女性猎户座斩首者</OrionSunderer_Acidifier.labelFemalePlural>
-
-
-  <!-- Hunter -->
-
-  <OrionHunter.label>猎户座猎杀者</OrionHunter.label>
-  <OrionHunter.labelPlural>猎户座猎杀者</OrionHunter.labelPlural>
-
-  <OrionHunter_Acidifier.label>猎户座猎杀者</OrionHunter_Acidifier.label>
-  <OrionHunter_Acidifier.labelPlural>猎户座猎杀者</OrionHunter_Acidifier.labelPlural>
-
-
-  <!-- Hawkeye -->
-
-  <OrionHawkeye.label>猎户座鹰眼</OrionHawkeye.label>
-  <OrionHawkeye.labelPlural>猎户座鹰眼</OrionHawkeye.labelPlural>
-  <OrionHawkeye.labelMale>男性猎户座鹰眼</OrionHawkeye.labelMale>
-  <OrionHawkeye.labelMalePlural>男性猎户座鹰眼</OrionHawkeye.labelMalePlural>
-  <OrionHawkeye.labelFemale>女性猎户座鹰眼</OrionHawkeye.labelFemale>
-  <OrionHawkeye.labelFemalePlural>女性猎户座鹰眼</OrionHawkeye.labelFemalePlural>
-
-  <OrionHawkeye_Acidifier.label>猎户座鹰眼</OrionHawkeye_Acidifier.label>
-  <OrionHawkeye_Acidifier.labelPlural>猎户座鹰眼</OrionHawkeye_Acidifier.labelPlural>
-  <OrionHawkeye_Acidifier.labelMale>男性猎户座鹰眼</OrionHawkeye_Acidifier.labelMale>
-  <OrionHawkeye_Acidifier.labelMalePlural>男性猎户座鹰眼</OrionHawkeye_Acidifier.labelMalePlural>
-  <OrionHawkeye_Acidifier.labelFemale>女性猎户座鹰眼</OrionHawkeye_Acidifier.labelFemale>
-  <OrionHawkeye_Acidifier.labelFemalePlural>女性猎户座鹰眼</OrionHawkeye_Acidifier.labelFemalePlural>
-
-
-  <!-- Rager -->
-
-  <OrionRager.label>猎户座暴掠者</OrionRager.label>
-  <OrionRager.labelPlural>猎户座暴掠者</OrionRager.labelPlural>
-
-  <OrionRager_Acidifier.label>猎户座暴掠者</OrionRager_Acidifier.label>
-  <OrionRager_Acidifier.labelPlural>猎户座暴掠者</OrionRager_Acidifier.labelPlural>
-
-
-  <!-- Sunriser -->
-
-  <OrionSunRiser.label>猎户座反叛者</OrionSunRiser.label>
-  <OrionSunRiser.labelPlural>猎户座反叛者</OrionSunRiser.labelPlural>
-  <OrionSunRiser.labelMale>男性猎户座反叛者</OrionSunRiser.labelMale>
-  <OrionSunRiser.labelMalePlural>男性猎户座反叛者</OrionSunRiser.labelMalePlural>
-  <OrionSunRiser.labelFemale>女性猎户座反叛者</OrionSunRiser.labelFemale>
-  <OrionSunRiser.labelFemalePlural>女性猎户座反叛者</OrionSunRiser.labelFemalePlural>
-
-  <OrionSunRiser_Acidifier.label>猎户座反叛者</OrionSunRiser_Acidifier.label>
-  <OrionSunRiser_Acidifier.labelPlural>猎户座反叛者</OrionSunRiser_Acidifier.labelPlural>
-  <OrionSunRiser_Acidifier.labelMale>男性猎户座反叛者</OrionSunRiser_Acidifier.labelMale>
-  <OrionSunRiser_Acidifier.labelMalePlural>男性猎户座反叛者</OrionSunRiser_Acidifier.labelMalePlural>
-  <OrionSunRiser_Acidifier.labelFemale>女性猎户座反叛者</OrionSunRiser_Acidifier.labelFemale>
-  <OrionSunRiser_Acidifier.labelFemalePlural>女性猎户座反叛者</OrionSunRiser_Acidifier.labelFemalePlural>
-
-
-  <!-- Bloodborne -->
-
+  
+  <!-- EN: Orion bloodborne -->
   <OrionBloodborne.label>猎户座血袭者</OrionBloodborne.label>
   <OrionBloodborne.labelPlural>猎户座血袭者</OrionBloodborne.labelPlural>
-
+  
+  <!-- EN: Orion bloodborne -->
   <OrionBloodborne_Acidifier.label>猎户座血袭者</OrionBloodborne_Acidifier.label>
   <OrionBloodborne_Acidifier.labelPlural>猎户座血袭者</OrionBloodborne_Acidifier.labelPlural>
-
-
+  
+  <!-- EN: Orion Chaser -->
+  <OrionChaser.label>猎户座追击者</OrionChaser.label>
+  <OrionChaser.labelPlural>猎户座追击者</OrionChaser.labelPlural>
+  
+  <!-- EN: Orion Chaser -->
+  <OrionChaser_Acidifier.label>猎户座追击者</OrionChaser_Acidifier.label>
+  <OrionChaser_Acidifier.labelPlural>猎户座追击者</OrionChaser_Acidifier.labelPlural>
+  
+  <!-- EN: Orion Hawkeye -->
+  <OrionHawkeye.label>猎户座鹰眼</OrionHawkeye.label>
+  <OrionHawkeye.labelFemale>女性猎户座鹰眼</OrionHawkeye.labelFemale>
+  <OrionHawkeye.labelFemalePlural>女性猎户座鹰眼</OrionHawkeye.labelFemalePlural>
+  <OrionHawkeye.labelMale>男性猎户座鹰眼</OrionHawkeye.labelMale>
+  <OrionHawkeye.labelMalePlural>男性猎户座鹰眼</OrionHawkeye.labelMalePlural>
+  <OrionHawkeye.labelPlural>猎户座鹰眼</OrionHawkeye.labelPlural>
+  
+  <!-- EN: Orion Hawkeye -->
+  <OrionHawkeye_Acidifier.label>猎户座鹰眼</OrionHawkeye_Acidifier.label>
+  <OrionHawkeye_Acidifier.labelFemale>女性猎户座鹰眼</OrionHawkeye_Acidifier.labelFemale>
+  <OrionHawkeye_Acidifier.labelFemalePlural>女性猎户座鹰眼</OrionHawkeye_Acidifier.labelFemalePlural>
+  <OrionHawkeye_Acidifier.labelMale>男性猎户座鹰眼</OrionHawkeye_Acidifier.labelMale>
+  <OrionHawkeye_Acidifier.labelMalePlural>男性猎户座鹰眼</OrionHawkeye_Acidifier.labelMalePlural>
+  <OrionHawkeye_Acidifier.labelPlural>猎户座鹰眼</OrionHawkeye_Acidifier.labelPlural>
+  
+  <!-- EN: Orion Hunter -->
+  <OrionHunter.label>猎户座猎杀者</OrionHunter.label>
+  <OrionHunter.labelPlural>猎户座猎杀者</OrionHunter.labelPlural>
+  
+  <!-- EN: Orion Hunter -->
+  <OrionHunter_Acidifier.label>猎户座猎杀者</OrionHunter_Acidifier.label>
+  <OrionHunter_Acidifier.labelPlural>猎户座猎杀者</OrionHunter_Acidifier.labelPlural>
+  
+  <!-- EN: Orion Rager -->
+  <OrionRager.label>猎户座暴掠者</OrionRager.label>
+  <OrionRager.labelPlural>猎户座暴掠者</OrionRager.labelPlural>
+  
+  <!-- EN: Orion Rager -->
+  <OrionRager_Acidifier.label>猎户座暴掠者</OrionRager_Acidifier.label>
+  <OrionRager_Acidifier.labelPlural>猎户座暴掠者</OrionRager_Acidifier.labelPlural>
+  
+  <!-- EN: Orion Sunderer -->
+  <OrionSunderer.label>猎户座斩首者</OrionSunderer.label>
+  <OrionSunderer.labelFemale>女性猎户座斩首者</OrionSunderer.labelFemale>
+  <OrionSunderer.labelFemalePlural>女性猎户座斩首者</OrionSunderer.labelFemalePlural>
+  <OrionSunderer.labelMale>男性猎户座斩首者</OrionSunderer.labelMale>
+  <OrionSunderer.labelMalePlural>男性猎户座斩首者</OrionSunderer.labelMalePlural>
+  <OrionSunderer.labelPlural>猎户座斩首者</OrionSunderer.labelPlural>
+  
+  <!-- EN: Orion Sunderer -->
+  <OrionSunderer_Acidifier.label>猎户座斩首者</OrionSunderer_Acidifier.label>
+  <OrionSunderer_Acidifier.labelFemale>女性猎户座斩首者</OrionSunderer_Acidifier.labelFemale>
+  <OrionSunderer_Acidifier.labelFemalePlural>女性猎户座斩首者</OrionSunderer_Acidifier.labelFemalePlural>
+  <OrionSunderer_Acidifier.labelMale>男性猎户座斩首者</OrionSunderer_Acidifier.labelMale>
+  <OrionSunderer_Acidifier.labelMalePlural>男性猎户座斩首者</OrionSunderer_Acidifier.labelMalePlural>
+  <OrionSunderer_Acidifier.labelPlural>猎户座斩首者</OrionSunderer_Acidifier.labelPlural>
+  
+  <!-- EN: Orion Sunderer -->
+  <OrionSundererHeavy.label>猎户座斩首者</OrionSundererHeavy.label>
+  
+  <!-- EN: Orion Sunderer -->
+  <OrionSundererHeavy_Acidifier.label>猎户座斩首者</OrionSundererHeavy_Acidifier.label>
+  
+  <!-- EN: Orion Sun Riser -->
+  <OrionSunRiser.label>猎户座反叛者</OrionSunRiser.label>
+  <OrionSunRiser.labelFemale>女性猎户座反叛者</OrionSunRiser.labelFemale>
+  <OrionSunRiser.labelFemalePlural>女性猎户座反叛者</OrionSunRiser.labelFemalePlural>
+  <OrionSunRiser.labelMale>男性猎户座反叛者</OrionSunRiser.labelMale>
+  <OrionSunRiser.labelMalePlural>男性猎户座反叛者</OrionSunRiser.labelMalePlural>
+  <OrionSunRiser.labelPlural>猎户座反叛者</OrionSunRiser.labelPlural>
+  
+  <!-- EN: Orion Sun Riser -->
+  <OrionSunRiser_Acidifier.label>猎户座反叛者</OrionSunRiser_Acidifier.label>
+  <OrionSunRiser_Acidifier.labelFemale>女性猎户座反叛者</OrionSunRiser_Acidifier.labelFemale>
+  <OrionSunRiser_Acidifier.labelFemalePlural>女性猎户座反叛者</OrionSunRiser_Acidifier.labelFemalePlural>
+  <OrionSunRiser_Acidifier.labelMale>男性猎户座反叛者</OrionSunRiser_Acidifier.labelMale>
+  <OrionSunRiser_Acidifier.labelMalePlural>男性猎户座反叛者</OrionSunRiser_Acidifier.labelMalePlural>
+  <OrionSunRiser_Acidifier.labelPlural>猎户座反叛者</OrionSunRiser_Acidifier.labelPlural>
+  
 </LanguageData>

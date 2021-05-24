@@ -1,21 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MakeTincture.label>酿制 蘑菇酊剂</MakeTincture.label>
-  <MakeTincture.description>粗略提炼出蘑菇中的有益成分。可以作为保健用品。需要一定的烹饪技术。 \n\n产出：1。</MakeTincture.description>
-  <MakeTincture.jobString>正在酿制 蘑菇酊剂。</MakeTincture.jobString>
-
-  <MakeTincture_Bulk.label>酿制 蘑菇酊剂（x4）</MakeTincture_Bulk.label>
-  <MakeTincture_Bulk.description>粗略提炼出蘑菇中的有益成分。可以作为保健用品。需要一定的烹饪技术。 \n\n产出：4。</MakeTincture_Bulk.description>
-  <MakeTincture_Bulk.jobString>正在酿制 蘑菇酊剂。</MakeTincture_Bulk.jobString>
-
-  <MakeTinctureHealroot.label>酿制 草药酊剂</MakeTinctureHealroot.label>
-  <MakeTinctureHealroot.description>粗略提炼出药草中的有益成分。可以作为保健用品。需要一定的烹饪技术。 \n\n产出：1。</MakeTinctureHealroot.description>
-  <MakeTinctureHealroot.jobString>正在酿制 草药酊剂。</MakeTinctureHealroot.jobString>
-
+  
+  <!-- EN: Make Antibiotics -->
   <BrewMedicalDrink.label>制作 抗生素</BrewMedicalDrink.label>
+  <!-- EN: Make Antibiotics from healroot and hops or yeast. Requires basic understanding of cooking. Produces 1. -->
   <BrewMedicalDrink.description>使用酒花和草药混合提取物，经过纯化生产的药物。需要一定的烹饪技术。\n\n产出：1。</BrewMedicalDrink.description>
+  <!-- EN: Brewing medical drink. -->
   <BrewMedicalDrink.jobString>正在制作 抗生素。</BrewMedicalDrink.jobString>
-
-
+  
+  <!-- EN: brew mushroom tincture -->
+  <MakeTincture.label>酿制 蘑菇酊剂</MakeTincture.label>
+  <!-- EN: Instill mushrooms into tincture. Useful for medicine. Requires basic understanding of cooking. Produces 1. -->
+  <MakeTincture.description>粗略提炼出蘑菇中的有益成分。可以作为保健用品。需要一定的烹饪技术。 \n\n产出：1。</MakeTincture.description>
+  <!-- EN: Brewing mushroom tincture. -->
+  <MakeTincture.jobString>正在酿制 蘑菇酊剂。</MakeTincture.jobString>
+  
+  <!-- EN: brew bottles of mushroom tincture -->
+  <MakeTincture_Bulk.label>酿制 蘑菇酊剂（x4）</MakeTincture_Bulk.label>
+  <!-- EN: Instill a few bottles of tincture from mushrooms. Useful for medicine. Requires basic understanding of cooking. Produces 4. -->
+  <MakeTincture_Bulk.description>粗略提炼出蘑菇中的有益成分。可以作为保健用品。需要一定的烹饪技术。 \n\n产出：4。</MakeTincture_Bulk.description>
+  <!-- EN: Brewing bottles of mushroom tincture. -->
+  <MakeTincture_Bulk.jobString>正在酿制 蘑菇酊剂。</MakeTincture_Bulk.jobString>
+  
+  <!-- EN: brew healroot tincture -->
+  <MakeTinctureHealroot.label>酿制 草药酊剂</MakeTinctureHealroot.label>
+  <!-- EN: Instill healroot into a tincture. Useful for medicine. Requires basic understanding of cooking. Produces 1. -->
+  <MakeTinctureHealroot.description>粗略提炼出药草中的有益成分。可以作为保健用品。需要一定的烹饪技术。 \n\n产出：1。</MakeTinctureHealroot.description>
+  <!-- EN: Brewing healroot tincture. -->
+  <MakeTinctureHealroot.jobString>正在酿制 草药酊剂。</MakeTinctureHealroot.jobString>
+  
 </LanguageData>

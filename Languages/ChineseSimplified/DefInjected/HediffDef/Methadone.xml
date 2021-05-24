@@ -1,21 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MethadoneHigh.label>美沙酮</MethadoneHigh.label>
-  <MethadoneHigh.description>轻度麻醉效果的阿片类药物。</MethadoneHigh.description>
-
-
-  <!-- Methadone addiction -->
-
-  <MethadoneTolerance.label>美沙酮耐受</MethadoneTolerance.label>
-  <MethadoneTolerance.description>加强了美沙酮的效果耐受度。耐受度越强，美沙酮的作用就越低，就越需要更大量的美沙酮来达到相同的效果。</MethadoneTolerance.description>
-  <MethadoneTolerance.stages.0.label>轻度</MethadoneTolerance.stages.0.label>
-  <MethadoneTolerance.stages.1.label>高度</MethadoneTolerance.stages.1.label>
-  <MethadoneTolerance.stages.2.label>重度</MethadoneTolerance.stages.2.label>
-
+  
+  <!-- EN: methadone addiction -->
   <MethadoneAddiction.label>美沙酮成瘾</MethadoneAddiction.label>
+  <!-- EN: A chemical addiction to methadone. Long-term presence of methadone has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\nWithout regular doses of methadone, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
   <MethadoneAddiction.description>美沙酮化学成瘾。因为美沙酮的长期存在已引动细胞水平的神经适应反应，因此如果没有持续的定量摄入，大脑将做出应激反应。\n如果没有持续摄入足够剂量的美沙酮，就会出现戒断症状。但是，长期戒断将迫使大脑从应激反应恢复至正常状态，从而真正戒断成瘾问题。</MethadoneAddiction.description>
-  <MethadoneAddiction.stages.1.label>戒断反应</MethadoneAddiction.stages.1.label>
-
-
+  <!-- EN: withdrawal -->
+  <MethadoneAddiction.stages.withdrawal.label>戒断反应</MethadoneAddiction.stages.withdrawal.label>
+  
+  <!-- EN: methadone -->
+  <MethadoneHigh.label>美沙酮</MethadoneHigh.label>
+  <!-- EN: Methadone consumed -->
+  <MethadoneHigh.description>轻度麻醉效果的阿片类药物。</MethadoneHigh.description>
+  
+  <!-- EN: methadone tolerance -->
+  <MethadoneTolerance.label>美沙酮耐受</MethadoneTolerance.label>
+  <!-- EN: A built-up tolerance to methadone. The more severe this tolerance is, the more methadone it takes to get the same effect. -->
+  <MethadoneTolerance.description>加强了美沙酮的效果耐受度。耐受度越强，美沙酮的作用就越低，就越需要更大量的美沙酮来达到相同的效果。</MethadoneTolerance.description>
+  <!-- EN: small -->
+  <MethadoneTolerance.stages.small.label>轻度</MethadoneTolerance.stages.small.label>
+  <!-- EN: large -->
+  <MethadoneTolerance.stages.large.label>高度</MethadoneTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <MethadoneTolerance.stages.massive.label>重度</MethadoneTolerance.stages.massive.label>
+  
 </LanguageData>

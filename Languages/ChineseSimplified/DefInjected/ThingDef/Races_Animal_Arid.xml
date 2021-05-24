@@ -1,94 +1,76 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Arid -->
-
-  <Muffalo.label>雪牛</Muffalo.label>
-  <Muffalo.description>一种大型牧草动物，是水牛的后裔，适应于寒冷和温暖的环境。虽然愤怒的雪牛是致命的，但被驯服的雪牛相当温顺，可以作为驼运动物使用.\n\n没有人很清楚为什么它们是蓝色的————甚至可能是一些早期的基因改造测试，只是一直没有得到改变。</Muffalo.description>
-  <Muffalo.tools.0.label>左蹄</Muffalo.tools.0.label>
-  <Muffalo.tools.1.label>左蹄</Muffalo.tools.1.label>
-  <Muffalo.tools.2.label>右蹄</Muffalo.tools.2.label>
-  <Muffalo.tools.3.label>右蹄</Muffalo.tools.3.label>
-  <Muffalo.tools.5.label>头</Muffalo.tools.5.label>
-  <!-- <Muffalo_Leather.label>雪牛皮</Muffalo_Leather.label>
-  <Muffalo_Leather.description>雪牛皮</Muffalo_Leather.description>
-  <Muffalo_Leather.stuffProps.stuffAdjective>雪牛皮</Muffalo_Leather.stuffProps.stuffAdjective> -->
-  <Muffalo_Meat.label>精肉</Muffalo_Meat.label>
-  <Muffalo_Meat.description>精肉</Muffalo_Meat.description>
-  <Muffalo_Corpse.label>雪牛尸体</Muffalo_Corpse.label>
-  <Muffalo_Corpse.description>雪牛尸体</Muffalo_Corpse.description>
-
-  <Gazelle.label>瞪羚</Gazelle.label>
-  <Gazelle.description>一种体型较小且行动极为敏捷的羚羊，因惊人的持续跳跃能力而闻名。</Gazelle.description>
-  <Gazelle.tools.0.label>左蹄</Gazelle.tools.0.label>
-  <Gazelle.tools.1.label>右蹄</Gazelle.tools.1.label>
-  <Gazelle.tools.3.label>头</Gazelle.tools.3.label>
-  <!-- <Gazelle_Leather.label>瞪羚皮</Gazelle_Leather.label>
-  <Gazelle_Leather.description>瞪羚皮</Gazelle_Leather.description>
-  <Gazelle_Leather.stuffProps.stuffAdjective>瞪羚皮</Gazelle_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Muffalo -->
-  <Gazelle_Corpse.label>瞪羚尸体</Gazelle_Corpse.label>
-  <Gazelle_Corpse.description>瞪羚尸体</Gazelle_Corpse.description>
-
-
-  <!-- Arid -->
-
-  <Iguana.label>鬣蜥</Iguana.label>
-  <Iguana.description>这种大蜥蜴一般以植物为食。但在其愤怒时，尖牙利爪会让它们成为一种危险的动物。\n\n休息的鬣蜥把它们的头举得很高，让它们表现出一个有趣的“骄傲”的表情。但它们并不骄傲，它们只是想看到掠食者，以免被吃掉。</Iguana.description>
-  <Iguana.tools.0.label>左爪</Iguana.tools.0.label>
-  <Iguana.tools.1.label>右爪</Iguana.tools.1.label>
-  <Iguana.tools.3.label>头</Iguana.tools.3.label>
-  <!-- <Iguana_Leather.label>鬣蜥皮</Iguana_Leather.label>
-  <Iguana_Leather.description>鬣蜥皮</Iguana_Leather.description>
-  <Iguana_Leather.stuffProps.stuffAdjective>鬣蜥皮</Iguana_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Elephant -->
-  <Iguana_Corpse.label>鬣蜥尸体</Iguana_Corpse.label>
-  <Iguana_Corpse.description>鬣蜥尸体</Iguana_Corpse.description>
-
-
-  <!-- Arid -->
-
-  <Dromedary.label>单峰骆驼</Dromedary.label>
-  <Dromedary.description>适应了干旱环境的大型陆地哺乳动物。自古以来就被人类驯化，它的毛和皮都非常擅长隔热以抵抗沙漠的高温，并且它的奶也十分有营养。它可以用作驮畜，但它跳跃的步态使得骑乘的人员很不舒服。\n\n通过在它的大驼峰中储存水分，并在呼气时从呼吸中回收水分，它可以连续几周不喝水。</Dromedary.description>
-  <Dromedary.tools.0.label>左蹄</Dromedary.tools.0.label>
-  <Dromedary.tools.1.label>右蹄</Dromedary.tools.1.label>
-  <Dromedary.tools.3.label>头</Dromedary.tools.3.label>
-  <!-- <Dromedary_Leather.label>单峰骆驼皮</Dromedary_Leather.label>
-  <Dromedary_Leather.description>单峰骆驼皮</Dromedary_Leather.description>
-  <Dromedary_Leather.stuffProps.stuffAdjective>单峰骆驼皮</Dromedary_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Elephant -->
-  <Dromedary_Corpse.label>单峰骆驼尸体</Dromedary_Corpse.label>
-  <Dromedary_Corpse.description>单峰骆驼尸体</Dromedary_Corpse.description>
-
-
-  <!-- Arid -->
-
+  
+  <!-- EN: buffalo -->
   <Buffalo.label>水牛</Buffalo.label>
+  <!-- EN: A buffalo is a larger variation of muffalo that has survived the harsh landscape of a rimworld. They are known for their thick, brown wool, and the male's distinguished frontal tusks. They can be somewhat aggressive if you get too close. -->
   <Buffalo.description>水牛是一种带蹄哺乳动物，它们在边缘世界的恶劣环境中幸存下来。它们以其浓密的棕色毛和雄性杰出的长獠牙而闻名。如果你靠得太近，它们可能会不那么友好。</Buffalo.description>
-  <Buffalo.tools.0.label>左蹄</Buffalo.tools.0.label>
-  <Buffalo.tools.1.label>左蹄</Buffalo.tools.1.label>
-  <Buffalo.tools.2.label>右蹄</Buffalo.tools.2.label>
-  <Buffalo.tools.3.label>右蹄</Buffalo.tools.3.label>
-  <Buffalo.tools.5.label>头</Buffalo.tools.5.label>
-  <!-- <Buffalo_Leather.label>水牛皮</Buffalo_Leather.label>
-  <Buffalo_Leather.description>水牛皮</Buffalo_Leather.description>
-  <Buffalo_Leather.stuffProps.stuffAdjective>水牛皮</Buffalo_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Muffalo -->
-  <Buffalo_Corpse.label>水牛尸体</Buffalo_Corpse.label>
-  <Buffalo_Corpse.description>水牛尸体</Buffalo_Corpse.description>
-
-
-  <!-- Arid -->
-
+  <!-- EN: left hoof -->
+  <Buffalo.tools.left_hoof-0.label>左蹄</Buffalo.tools.left_hoof-0.label>
+  <!-- EN: left hoof -->
+  <Buffalo.tools.left_hoof-1.label>左蹄</Buffalo.tools.left_hoof-1.label>
+  <!-- EN: right hoof -->
+  <Buffalo.tools.right_hoof-0.label>右蹄</Buffalo.tools.right_hoof-0.label>
+  <!-- EN: right hoof -->
+  <Buffalo.tools.right_hoof-1.label>右蹄</Buffalo.tools.right_hoof-1.label>
+  <!-- EN: head -->
+  <Buffalo.tools.head.label>头</Buffalo.tools.head.label>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>单峰骆驼</Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+  <Dromedary.description>适应了干旱环境的大型陆地哺乳动物。自古以来就被人类驯化，它的毛和皮都非常擅长隔热以抵抗沙漠的高温，并且它的奶也十分有营养。它可以用作驮畜，但它跳跃的步态使得骑乘的人员很不舒服。\n\n通过在它的大驼峰中储存水分，并在呼气时从呼吸中回收水分，它可以连续几周不喝水。</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>左蹄</Dromedary.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>右蹄</Dromedary.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>头</Dromedary.tools.head.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>瞪羚</Gazelle.label>
+  <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
+  <Gazelle.description>一种体型较小且行动极为敏捷的羚羊，因惊人的持续跳跃能力而闻名。</Gazelle.description>
+  <!-- EN: left hoof -->
+  <Gazelle.tools.left_hoof.label>左蹄</Gazelle.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Gazelle.tools.right_hoof.label>右蹄</Gazelle.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Gazelle.tools.head.label>头</Gazelle.tools.head.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>鬣蜥</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
+  <Iguana.description>这种大蜥蜴一般以植物为食。但在其愤怒时，尖牙利爪会让它们成为一种危险的动物。\n\n休息的鬣蜥把它们的头举得很高，让它们表现出一个有趣的“骄傲”的表情。但它们并不骄傲，它们只是想看到掠食者，以免被吃掉。</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>左爪</Iguana.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>右爪</Iguana.tools.right_claw.label>
+  <!-- EN: head -->
+  <Iguana.tools.head.label>头</Iguana.tools.head.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>雪牛</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>一种大型牧草动物，是水牛的后裔，适应于寒冷和温暖的环境。虽然愤怒的雪牛是致命的，但被驯服的雪牛相当温顺，可以作为驼运动物使用.\n\n没有人很清楚为什么它们是蓝色的————甚至可能是一些早期的基因改造测试，只是一直没有得到改变。</Muffalo.description>
+  <!-- EN: prime meat -->
+  <Muffalo.race.meatLabel>精肉</Muffalo.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof-0.label>左蹄</Muffalo.tools.left_hoof-0.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof-1.label>左蹄</Muffalo.tools.left_hoof-1.label>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof-0.label>右蹄</Muffalo.tools.right_hoof-0.label>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof-1.label>右蹄</Muffalo.tools.right_hoof-1.label>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>头</Muffalo.tools.head.label>
+  
+  <!-- EN: Sheep -->
   <Sheep.label>绵羊</Sheep.label>
+  <!-- EN: The thick wool on these rams makes them very common sight in cold climates. They are known for their ability to climb nearly vertical, sheer cliff faces. They have no fear of falling. -->
   <Sheep.description>家养的羊是相对较小的草食动物，通常有淡黄色的羊毛和中等大小的角。这些动物身上厚厚的毛使它们在寒冷的气候中很常见。它们以攀爬近乎垂直的陡峭悬崖并且能保持平衡而闻名。</Sheep.description>
-  <Sheep.tools.0.label>头</Sheep.tools.0.label>
-  <!-- <Sheep_Leather.label>绵羊皮</Sheep_Leather.label>
-  <Sheep_Leather.description>绵羊皮</Sheep_Leather.description>
-  <Sheep_Leather.stuffProps.stuffAdjective>绵羊皮</Sheep_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Elephant -->
-  <Sheep_Corpse.label>绵羊尸体</Sheep_Corpse.label>
-  <Sheep_Corpse.description>绵羊尸体</Sheep_Corpse.description>
-
-
+  <!-- EN: head -->
+  <Sheep.tools.head.label>头</Sheep.tools.head.label>
+  
 </LanguageData>

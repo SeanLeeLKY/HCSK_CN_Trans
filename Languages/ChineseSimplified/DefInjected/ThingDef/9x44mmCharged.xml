@@ -1,15 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
+  
+  <!-- EN: 9x44mm Charged cartridge (needle) -->
   <Ammo_9x44mmCharged.label>9x44mm 电荷弹（针刺）</Ammo_9x44mmCharged.label>
+  <!-- EN: Mechanoid-built needle-caliber charged shot ammo used in medium weapons. -->
   <Ammo_9x44mmCharged.description>机械族中型武器使用的针刺电荷弹药。</Ammo_9x44mmCharged.description>
-
-
-  <!-- Projectiles -->
-
+  
+  <!-- EN: 9x44mm charge needle shot -->
   <Bullet_9x44mmCharged.label>电荷弹（针刺）</Bullet_9x44mmCharged.label>
-
-
+  
 </LanguageData>

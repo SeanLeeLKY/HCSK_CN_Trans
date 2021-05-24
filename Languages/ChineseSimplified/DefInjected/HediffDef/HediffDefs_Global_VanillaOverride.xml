@@ -1,15 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: catatonic breakdown -->
   <CatatonicBreakdown.label>精神崩溃</CatatonicBreakdown.label>
+  <!-- EN: Is in a catatonic breakdown -->
   <CatatonicBreakdown.description>因极度崩溃导致的精神状态。</CatatonicBreakdown.description>
+  <!-- EN: a catatonic breakdown -->
   <CatatonicBreakdown.labelNoun>精神崩溃</CatatonicBreakdown.labelNoun>
-
+  
+  <!-- EN: food poisoning -->
   <FoodPoisoning.label>食物中毒</FoodPoisoning.label>
+  <!-- EN: Poisoned by food -->
   <FoodPoisoning.description>因食用腐烂中或不干净的食物而引起的肠胃疾病。它可能是由于食用腐烂、不卫生或不安全的食物，又或者是因为不卫生的烹饪环境和不合格的厨师所导致的。病人通常会呕吐，并感到恶心一段时间。</FoodPoisoning.description>
-  <FoodPoisoning.stages.0.label>恢复</FoodPoisoning.stages.0.label>
-  <FoodPoisoning.stages.1.label>严重</FoodPoisoning.stages.1.label>
-  <FoodPoisoning.stages.2.label>轻微</FoodPoisoning.stages.2.label>
-
-
+  <!-- EN: recovering -->
+  <FoodPoisoning.stages.recovering.label>恢复</FoodPoisoning.stages.recovering.label>
+  <!-- EN: major -->
+  <FoodPoisoning.stages.major.label>严重</FoodPoisoning.stages.major.label>
+  <!-- EN: initial -->
+  <FoodPoisoning.stages.initial.label>轻微</FoodPoisoning.stages.initial.label>
+  
 </LanguageData>

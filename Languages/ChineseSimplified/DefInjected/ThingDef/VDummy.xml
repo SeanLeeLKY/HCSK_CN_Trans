@@ -1,8 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <SmokeInit.label>未指定的污秽</SmokeInit.label>
+  
+  <!-- EN: fire glow -->
   <FireGlow.label>火光</FireGlow.label>
-
-
+  
+  <!-- EN: unspecified filth -->
+  <SmokeInit.label>未指定的污秽</SmokeInit.label>
+  
 </LanguageData>

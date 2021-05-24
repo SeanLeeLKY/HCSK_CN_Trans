@@ -1,23 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_Bolt_Metallic.label>弩箭（金属）</Ammo_Bolt_Metallic.label>
-  <Ammo_Bolt_Metallic.description>简单的金属弩箭。</Ammo_Bolt_Metallic.description>
-
-  <Ammo_Bolt_Poison.label>弩箭（毒性）</Ammo_Bolt_Poison.label>
-  <Ammo_Bolt_Poison.description>简单的毒弩箭。</Ammo_Bolt_Poison.description>
-
+  
+  <!-- EN: explosive bolt -->
   <Ammo_Bolt_Explosive.label>弩箭（爆炸）</Ammo_Bolt_Explosive.label>
+  <!-- EN: Simple arrow with explosive bolt. -->
   <Ammo_Bolt_Explosive.description>简单的爆炸弩箭。</Ammo_Bolt_Explosive.description>
-
-
-  <!-- Projectiles -->
-
-  <Projectile_MetallicBolt.label>弩箭（金属）</Projectile_MetallicBolt.label>
-  <Projectile_PoisonBolt.label>弩箭（毒性）</Projectile_PoisonBolt.label>
+  
+  <!-- EN: metallic bolt -->
+  <Ammo_Bolt_Metallic.label>弩箭（金属）</Ammo_Bolt_Metallic.label>
+  <!-- EN: Simple arrow with metallic bolt. -->
+  <Ammo_Bolt_Metallic.description>简单的金属弩箭。</Ammo_Bolt_Metallic.description>
+  
+  <!-- EN: poison bolt -->
+  <Ammo_Bolt_Poison.label>弩箭（毒性）</Ammo_Bolt_Poison.label>
+  <!-- EN: Simple arrow with poison bolt. -->
+  <Ammo_Bolt_Poison.description>简单的毒弩箭。</Ammo_Bolt_Poison.description>
+  
+  <!-- EN: explosive bolt -->
   <Projectile_ExplosiveBolt.label>弩箭（爆炸）</Projectile_ExplosiveBolt.label>
-
-
+  
+  <!-- EN: metallic bolt -->
+  <Projectile_MetallicBolt.label>弩箭（金属）</Projectile_MetallicBolt.label>
+  
+  <!-- EN: poison bolt -->
+  <Projectile_PoisonBolt.label>弩箭（毒性）</Projectile_PoisonBolt.label>
+  
 </LanguageData>

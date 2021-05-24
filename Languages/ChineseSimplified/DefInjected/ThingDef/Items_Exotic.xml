@@ -1,18 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <ThrumboHorn.label>敲击兽角</ThrumboHorn.label>
-  <ThrumboHorn.description>敲击兽的角，锋利、坚固，在大多数市场里都是极为贵重的。这是真正意义上的战利品。</ThrumboHorn.description>
-  <ThrumboHorn.tools.0.label>把手</ThrumboHorn.tools.0.label>
-  <ThrumboHorn.tools.1.label>尖</ThrumboHorn.tools.1.label>
-
+  
+  <!-- EN: elephant tusk -->
   <ElephantTusk.label>象牙</ElephantTusk.label>
+  <!-- EN: An elephant's tusk. Very durable and valuable. Deadly but somewhat unwieldy as a weapon. -->
   <ElephantTusk.description>大象的长牙。非常坚固、珍贵。虽然致命但很难作为武器使用。</ElephantTusk.description>
-  <ElephantTusk.tools.0.label>把手</ElephantTusk.tools.0.label>
-  <ElephantTusk.tools.1.label>尖</ElephantTusk.tools.1.label>
-
+  <!-- EN: handle -->
+  <ElephantTusk.tools.handle.label>把手</ElephantTusk.tools.handle.label>
+  <!-- EN: point -->
+  <ElephantTusk.tools.point.label>尖</ElephantTusk.tools.point.label>
+  
+  <!-- EN: thrumbo horn -->
+  <ThrumboHorn.label>敲击兽角</ThrumboHorn.label>
+  <!-- EN: The horn from a previously living thrumbo. It's razor-sharp, very hard and priceless in most markets. This is a true trophy. -->
+  <ThrumboHorn.description>敲击兽的角，锋利、坚固，在大多数市场里都是极为贵重的。这是真正意义上的战利品。</ThrumboHorn.description>
+  <!-- EN: handle -->
+  <ThrumboHorn.tools.handle.label>把手</ThrumboHorn.tools.handle.label>
+  <!-- EN: point -->
+  <ThrumboHorn.tools.point.label>尖</ThrumboHorn.tools.point.label>
+  
+  <!-- EN: Weather controller core -->
   <WeatherControllerCore.label>天气控制器核心</WeatherControllerCore.label>
+  <!-- EN: An advanced device designed to controller the local weather. This is a jewel of technology for farming planets and a feared weapon on contested ones. -->
   <WeatherControllerCore.description>一种先进的设备，用来控制当地的天气。这种科技程度的物品对于农业星球算是科技瑰宝，是争夺星球统治权时的重要武器。</WeatherControllerCore.description>
-
-
+  
 </LanguageData>

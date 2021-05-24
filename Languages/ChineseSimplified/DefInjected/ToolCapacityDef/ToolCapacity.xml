@@ -1,11 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: electric shock -->
   <ElectricShock.label>电颤</ElectricShock.label>
+  
+  <!-- EN: flame -->
   <Flame.label>点燃</Flame.label>
+  
+  <!-- EN: frostbite -->
   <Frostbite.label>冰冻</Frostbite.label>
-  <PlagueBite.label>叮咬</PlagueBite.label>
+  
+  <!-- EN: bite -->
   <MalariaBite.label>叮咬</MalariaBite.label>
-
-
+  
+  <!-- EN: bite -->
+  <PlagueBite.label>叮咬</PlagueBite.label>
+  
 </LanguageData>

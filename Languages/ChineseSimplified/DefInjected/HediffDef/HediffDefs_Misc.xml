@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Traitor.label>叛徒</Traitor.label>
-  <Traitor.description>叛徒</Traitor.description>
-
-  <StandOff.label>对峙</StandOff.label>
-  <StandOff.description>对峙</StandOff.description>
-
+  
+  <!-- EN: might join -->
   <MightJoin.label>可能加入</MightJoin.label>
+  <!-- EN: might join -->
   <MightJoin.description>可能加入</MightJoin.description>
-
-
+  
+  <!-- EN: standoff -->
+  <StandOff.label>对峙</StandOff.label>
+  <!-- EN: standoff -->
+  <StandOff.description>对峙</StandOff.description>
+  
+  <!-- EN: traitor -->
+  <Traitor.label>叛徒</Traitor.label>
+  <!-- EN: traitor -->
+  <Traitor.description>叛徒</Traitor.description>
+  
 </LanguageData>

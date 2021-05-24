@@ -1,53 +1,71 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- REALISTIC PRODUCTION SK MOD -->
-
-  <Silicon.label>硅</Silicon.label>
-  <Silicon.description>硅是宇宙中最常见的元素之一，但在自然界中很少以纯自由元素的形式出现。它可以通过冶炼沙子来生产。</Silicon.description>
-
-  <Biomatter.label>生物质</Biomatter.label>
-  <Biomatter.description>生物质可以从尸体中提取。它可以用于在器官培植台中生长自然器官。</Biomatter.description>
-
+  
+  <!-- EN: ash -->
   <Ash.label>灰烬</Ash.label>
+  <!-- EN: Ash is obtained by burning corpses or other materials in a crematorium or fire pit. -->
   <Ash.description>灰烬是通过在焚烧炉或火坑中焚烧尸体或其他材料获得的</Ash.description>
-
-  <ConcreteResource.label>混凝土</ConcreteResource.label>
-  <ConcreteResource.description>混凝土是由砂石和碎石组成的一种复合材料。它是一种流体物质，随着时间的推移会结合成固体物质。它可以添加金属来制造钢筋混凝土，这是一种耐用、坚固的建筑材料。</ConcreteResource.description>
-  <ConcreteResource.stuffProps.stuffAdjective>混凝土</ConcreteResource.stuffProps.stuffAdjective>
-
-  <ClayBrick.label>粘土砖</ClayBrick.label>
-  <ClayBrick.description>在窑中烧制而成的坚硬粘土砖。它可以用于建筑。</ClayBrick.description>
-  <ClayBrick.stuffProps.stuffAdjective>粘土砖</ClayBrick.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: biomatter -->
+  <Biomatter.label>生物质</Biomatter.label>
+  <!-- EN: BioMatter can be extracted from a humanlike corpse. It can be used to grow natural organs in an Organ Vat. -->
+  <Biomatter.description>生物质可以从尸体中提取。它可以用于在器官培植台中生长自然器官。</Biomatter.description>
+  
+  <!-- EN: Ceramics -->
   <Ceramics.label>陶瓷</Ceramics.label>
+  <!-- EN: Glazed ceramics made using high-temperature kiln. Smooth and beautiful but fragile. -->
   <Ceramics.description>用高温窑制造的陶瓷。表面光滑，看起来很漂亮，但也易碎。</Ceramics.description>
+  <!-- EN: Ceramic -->
   <Ceramics.stuffProps.stuffAdjective>陶瓷</Ceramics.stuffProps.stuffAdjective>
-
-
-  <!-- Matter -->
-
+  
+  <!-- EN: clay bricks -->
+  <ClayBrick.label>粘土砖</ClayBrick.label>
+  <!-- EN: A brick of hardened clay baked at a kiln. It can be used for construction purposes. -->
+  <ClayBrick.description>在窑中烧制而成的坚硬粘土砖。它可以用于建筑。</ClayBrick.description>
+  <!-- EN: Clay Bricks -->
+  <ClayBrick.stuffProps.stuffAdjective>粘土砖</ClayBrick.stuffProps.stuffAdjective>
+  
+  <!-- EN: concrete -->
+  <ConcreteResource.label>混凝土</ConcreteResource.label>
+  <!-- EN: Concrete is a composite material composed of sand and rubble. It is a fluid material that bonds into a solid material over time. It can have metals added to create reinforced concrete, a durable and solid building material. -->
+  <ConcreteResource.description>混凝土是由砂石和碎石组成的一种复合材料。它是一种流体物质，随着时间的推移会结合成固体物质。它可以添加金属来制造钢筋混凝土，这是一种耐用、坚固的建筑材料。</ConcreteResource.description>
+  <!-- EN: concrete -->
+  <ConcreteResource.stuffProps.stuffAdjective>混凝土</ConcreteResource.stuffProps.stuffAdjective>
+  
+  <!-- EN: inorganic matter -->
   <Matter.label>无机物</Matter.label>
+  <!-- EN: A container of inorganic matter. It can be made at an inorganic matter converter from various types of raw resources or refined into specific resources. It can be used to feed a hadron collider for antimatter production. -->
   <Matter.description>装有纯净无机物的容器。它可以在无机物转化器中从各种类型的原始资源中制成，也可以精炼成特定的资源。它可以用来添加强子对撞机，用于反物质生产。</Matter.description>
-
-  <PileOfBooks.label>书堆</PileOfBooks.label>
-  <PileOfBooks.description>随机分类的书籍。大多数都是古老而被遗弃的老书，但偶尔会发现一本高质量的书。</PileOfBooks.description>
-
+  
+  <!-- EN: mending kit -->
+  <MendingKit.label>修理包</MendingKit.label>
+  <!-- EN: Miscellaneous cloth, bits and parts. Necessary for repairing weapons and mending apparel. -->
+  <MendingKit.description>杂七杂八的布料、碎片和零件。这是修理武器和衣服需要使用的原料和配件。</MendingKit.description>
+  
+  <!-- EN: mineral sonar module -->
+  <MineralSonarModule.label>矿物声纳模块</MineralSonarModule.label>
+  <!-- EN: This is a mineral sonar module. When deployed on the field with some energy packs, it can scan the surrounding area for metallic objects or hidden deposits of ores. -->
+  <MineralSonarModule.description>这是一个矿物声纳模块。当配置上能源包和其他基础部件部署在野地上时，它可以扫描周围山体的金属物体或隐藏的矿藏。</MineralSonarModule.description>
+  
+  <!-- EN: painting supplies -->
   <PaintingSupplies.label>绘画用品</PaintingSupplies.label>
+  <!-- EN: A large assortment of brushes and paints. Perfect for any aspiring artist. -->
   <PaintingSupplies.description>各种各样的刷子和颜料。非常适合任何有抱负的艺术家。</PaintingSupplies.description>
   <PaintingSupplies.stuffProps.stuffAdjective>绘画用品</PaintingSupplies.stuffProps.stuffAdjective>
-
-  <MineralSonarModule.label>矿物声纳模块</MineralSonarModule.label>
-  <MineralSonarModule.description>这是一个矿物声纳模块。当配置上能源包和其他基础部件部署在野地上时，它可以扫描周围山体的金属物体或隐藏的矿藏。</MineralSonarModule.description>
-
-
-  <!-- mai items -->
-
+  
+  <!-- EN: pile of books -->
+  <PileOfBooks.label>书堆</PileOfBooks.label>
+  <!-- EN: A random assortment of books. Most are old and discarded classics, but occasionally a good quality book can be found. -->
+  <PileOfBooks.description>随机分类的书籍。大多数都是古老而被遗弃的老书，但偶尔会发现一本高质量的书。</PileOfBooks.description>
+  
+  <!-- EN: robot parts -->
   <RobotParts.label>机器人部件</RobotParts.label>
+  <!-- EN: These parts could be used to create a robot. -->
   <RobotParts.description>这些部件可以用来制造机器人。</RobotParts.description>
-
-  <MendingKit.label>修理包</MendingKit.label>
-  <MendingKit.description>杂七杂八的布料、碎片和零件。这是修理武器和衣服需要使用的原料和配件。</MendingKit.description>
-
-
+  
+  <!-- EN: silicon -->
+  <Silicon.label>硅</Silicon.label>
+  <!-- EN: Silicon is the one of the most common elements in the universe by mass, but very rarely occurs as the pure free element in nature. It can be produced by smelting Sand. -->
+  <Silicon.description>硅是宇宙中最常见的元素之一，但在自然界中很少以纯自由元素的形式出现。它可以通过冶炼沙子来生产。</Silicon.description>
+  
 </LanguageData>

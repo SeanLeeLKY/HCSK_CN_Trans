@@ -1,47 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MeatSoup.label>肉汤</MeatSoup.label>
-  <MeatSoup.description>把食材煮成汤汁可以提取每一分营养。虽然不是口味最好的烹饪方式，但是可以节省食材。</MeatSoup.description>
-
-
-  <!-- Grilled Meals -->
-
-  <GrilledCheese.label>芝士三明治</GrilledCheese.label>
-  <GrilledCheese.description>两片中间夹着融化奶酪的烤面包。\n\n提高新陈代谢</GrilledCheese.description>
-
-  <PotatoesCheese.label>芝士土豆</PotatoesCheese.label>
-  <PotatoesCheese.description>两片中间夹着融化奶酪的土豆片。\n\n降低饥饿速率</PotatoesCheese.description>
-
-
-  <!-- Fine Meals -->
-
-  <HeartyStew.label>炖菜</HeartyStew.label>
-  <HeartyStew.description>温暖的食物让你有家的感觉。\n\n降低疼痛感\n提高新陈代谢\n提高耐寒性</HeartyStew.description>
-
-  <MakiRolls.label>细卷</MakiRolls.label>
-  <MakiRolls.description>夹着海藻的寿司米卷，通常中间夹有鱼肉。\n\n提高意识\n提高行动能力\n提高技能学习速度</MakiRolls.description>
-
-  <Kebab.label>烤肉串</Kebab.label>
-  <Kebab.description>一种把肉、鱼、蔬菜和蘑菇串起来烤制的食物。\n\n提高语言能力\n提高行动能力\n降低饥饿速率</Kebab.description>
-
-  <MushroomMadness.label>幻菇秘串</MushroomMadness.label>
-  <MushroomMadness.description>只有最精通菌类的人知道如何烹饪蘑菇，既能放大某些蘑菇的致幻性，又不会严重伤害人的精神。\n\n降低意识\n极大提高视力\n极大提高听力</MushroomMadness.description>
-
-  <CoconutCurry.label>椰香咖喱</CoconutCurry.label>
-  <CoconutCurry.description>这道异国风味的菜肴能让你在高温下待更久。\n\n提高行动能力\n提高视力\n提高耐热性</CoconutCurry.description>
-
-  <Pelmeni.label>俄式饺子</Pelmeni.label>
-  <Pelmeni.description>将肉馅包在薄薄的面团里，根据自己的口味搭配调味品。简单又美味。</Pelmeni.description>
-
-
-  <!-- Lavish Meals -->
-
+  
+  <!-- EN: cheese burger -->
   <CheeseBurger.label>芝士汉堡</CheeseBurger.label>
+  <!-- EN: A delicious cheese burger made of only the finest meat.\n\nImproves pain resistance\nImproves moving\nReduces hunger rate -->
   <CheeseBurger.description>用好吃的肉片做成的美味奶酪汉堡。\n\n提高疼痛抗性\n提高行动能力\n降低饥饿速率</CheeseBurger.description>
-
+  
+  <!-- EN: Coconut Curry -->
+  <CoconutCurry.label>椰香咖喱</CoconutCurry.label>
+  <!-- EN: Exotic dish that allows you to stay in the heat for longer.\n\nImproves moving\nImproves sight\nHeat resistance -->
+  <CoconutCurry.description>这道异国风味的菜肴能让你在高温下待更久。\n\n提高行动能力\n提高视力\n提高耐热性</CoconutCurry.description>
+  
+  <!-- EN: Cheese Sandwich -->
+  <GrilledCheese.label>芝士三明治</GrilledCheese.label>
+  <!-- EN: Two slices of bread grilled with cheese melt in the middle.\n\nImproves metabolism -->
+  <GrilledCheese.description>两片中间夹着融化奶酪的烤面包。\n\n提高新陈代谢</GrilledCheese.description>
+  
+  <!-- EN: Hearty Stew -->
+  <HeartyStew.label>炖菜</HeartyStew.label>
+  <!-- EN: Warming food that gives you sense of home.\n\nLowers pain tolerance\nImproves metabolism\nImproves cold resistance -->
+  <HeartyStew.description>温暖的食物让你有家的感觉。\n\n降低疼痛感\n提高新陈代谢\n提高耐寒性</HeartyStew.description>
+  
+  <!-- EN: Kebab -->
+  <Kebab.label>烤肉串</Kebab.label>
+  <!-- EN: A dish of pieces of meat, fish, vegetables and mushrooms roasted on a skewer.\n\nImproves talking\nImproves moving\nReduces hunger rate -->
+  <Kebab.description>一种把肉、鱼、蔬菜和蘑菇串起来烤制的食物。\n\n提高语言能力\n提高行动能力\n降低饥饿速率</Kebab.description>
+  
+  <!-- EN: Maki Rolls -->
+  <MakiRolls.label>细卷</MakiRolls.label>
+  <!-- EN: A rice cylinder with seaweed. It’s usually stuffed with fish in the middle.\n\nImproves consciousness\nImproves moving\nImproves skill learning speed -->
+  <MakiRolls.description>夹着海藻的寿司米卷，通常中间夹有鱼肉。\n\n提高意识\n提高行动能力\n提高技能学习速度</MakiRolls.description>
+  
+  <!-- EN: Meat Soup -->
+  <MeatSoup.label>肉汤</MeatSoup.label>
+  <!-- EN: Boiling stuff allows to extract every bit of nutrition. Not the most delicious dish, but it saves ingredients. -->
+  <MeatSoup.description>把食材煮成汤汁可以提取每一分营养。虽然不是口味最好的烹饪方式，但是可以节省食材。</MeatSoup.description>
+  
+  <!-- EN: Miso Soup -->
   <MisoSoup.label>味噌汤</MisoSoup.label>
+  <!-- EN: A healthy vegan food that boosts your body and mind. Even learning things becomes easier.\n\nImproves consciousness\nImproves moving\nImproves skill learning speed -->
   <MisoSoup.description>有益于身心健康的素食。甚至学习的东西也变得容易了。\n\n提高意识\n提高行动能力\n提高技能学习速度</MisoSoup.description>
-
-
+  
+  <!-- EN: Mushroom madness -->
+  <MushroomMadness.label>幻菇秘串</MushroomMadness.label>
+  <!-- EN: Only the most proficient disciples of the Fungus know how to cook mushrooms in a way that amplifies their hallucinogenic properties without significantly harming one's mind.\n\nReduces consciousness\nSignificantly improves sight\nSignificantly improves hearing -->
+  <MushroomMadness.description>只有最精通菌类的人知道如何烹饪蘑菇，既能放大某些蘑菇的致幻性，又不会严重伤害人的精神。\n\n降低意识\n极大提高视力\n极大提高听力</MushroomMadness.description>
+  
+  <!-- EN: Pelmeni -->
+  <Pelmeni.label>俄式饺子</Pelmeni.label>
+  <!-- EN: Meat filling wrapped in a thin dough, serve with condiments to your taste. Simple yet delicious. -->
+  <Pelmeni.description>将肉馅包在薄薄的面团里，根据自己的口味搭配调味品。简单又美味。</Pelmeni.description>
+  
+  <!-- EN: Potatoes With Cheese -->
+  <PotatoesCheese.label>芝士土豆</PotatoesCheese.label>
+  <!-- EN: Two slices of bread grilled with cheese melt in the middle.\n\nReduces hunger rate a bit -->
+  <PotatoesCheese.description>两片中间夹着融化奶酪的土豆片。\n\n降低饥饿速率</PotatoesCheese.description>
+  
 </LanguageData>

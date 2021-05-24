@@ -1,15 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Orassan Enclave -->
   <Orassan.label>奥瑞森飞地</Orassan.label>
+  <!-- EN: A small community of Orassans.\n\nThese people have come here to expand the borders of their empire by trading and diplomacy. -->
   <Orassan.description>一小队奥瑞森人。\n\n这些人来到这里是为了扩大他们帝国的疆域。</Orassan.description>
-  <Orassan.pawnsPlural>奥瑞森</Orassan.pawnsPlural>
+  <!-- EN: Elder -->
   <Orassan.leaderTitle>长者</Orassan.leaderTitle>
-
+  <!-- EN: orassan -->
+  <Orassan.pawnSingular>奥瑞森</Orassan.pawnSingular>
+  <!-- EN: orassans -->
+  <Orassan.pawnsPlural>奥瑞森</Orassan.pawnsPlural>
+  
+  <!-- EN: Orassan Enclave Evil -->
   <OrassanEvil.label>奥瑞森飞地（邪恶）</OrassanEvil.label>
+  <!-- EN: A small community of evil Orassans.\n\nThese people have come here to expand the borders of their empire by wars and conquests. -->
   <OrassanEvil.description>一小队奥瑞森人。\n\n这些人来到这里带来战争和征服，只为扩大他们帝国的疆域。</OrassanEvil.description>
-  <OrassanEvil.pawnsPlural>奥瑞森</OrassanEvil.pawnsPlural>
+  <!-- EN: Elder -->
   <OrassanEvil.leaderTitle>长者</OrassanEvil.leaderTitle>
-
-
+  <!-- EN: orassan -->
+  <OrassanEvil.pawnSingular>奥瑞森</OrassanEvil.pawnSingular>
+  <!-- EN: orassans -->
+  <OrassanEvil.pawnsPlural>奥瑞森</OrassanEvil.pawnsPlural>
+  
 </LanguageData>

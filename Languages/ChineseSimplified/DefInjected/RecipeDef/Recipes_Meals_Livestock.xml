@@ -1,13 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: make cat food -->
   <CookCatFood.label>制造 猫粮</CookCatFood.label>
+  <!-- EN: Creates Cat Food from raw meat and plant ingredients. Your cats are guaranteed to love it! Produces 20. -->
   <CookCatFood.description>用生肉和一些植物性食材精心烹制的猫食。你们的“主子”会非常喜欢这些东西的！ \n\n产出：20。</CookCatFood.description>
+  <!-- EN: Making Cat Food. -->
   <CookCatFood.jobString>正在制造 猫粮。</CookCatFood.jobString>
-
+  
+  <!-- EN: make silage -->
   <MakeSilage.label>制造 青贮饲料</MakeSilage.label>
+  <!-- EN: Make Silage from Hay and plant ingredients for animal food. It is more nutritional than hay. Produces 30. -->
   <MakeSilage.description>用干草和其他植物性食材发酵制成的一种饲料。比单纯的干草更有营养。  \n\n产出：30。</MakeSilage.description>
+  <!-- EN: Making Silage. -->
   <MakeSilage.jobString>正在制造 青贮饲料。</MakeSilage.jobString>
-
-
+  
 </LanguageData>

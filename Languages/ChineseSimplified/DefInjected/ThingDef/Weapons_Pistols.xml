@@ -1,60 +1,82 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- COLT M1911 -->
-
-  <Gun_Revolver.label>柯尔特M1911</Gun_Revolver.label>
-  <Gun_Revolver.description>古老构造的自动手枪。威力和射程一般，但射击迅速。</Gun_Revolver.description>
-  <Gun_Revolver.tools.0.label>握把</Gun_Revolver.tools.0.label>
-  <Gun_Revolver.tools.1.label>枪管</Gun_Revolver.tools.1.label>
-  <Gun_Revolver.tools.2.label>枪口</Gun_Revolver.tools.2.label>
-
-
-  <!-- SmithWesson M1917 -->
-
-  <RF_Gun_Deringer.label>M1917史密斯威森左轮</RF_Gun_Deringer.label>
-  <RF_Gun_Deringer.description>M1917史密斯威森左轮手枪。有效射程较低，威力中等，瞄准和冷却时间较短。</RF_Gun_Deringer.description>
-  <RF_Gun_Deringer.tools.0.label>握把</RF_Gun_Deringer.tools.0.label>
-  <RF_Gun_Deringer.tools.1.label>枪管</RF_Gun_Deringer.tools.1.label>
-  <RF_Gun_Deringer.tools.2.label>枪口</RF_Gun_Deringer.tools.2.label>
-
-
-  <!-- SPHINX AT 2000 -->
-
-  <RF_Gun_AT2K.label>司芬克斯2000手枪</RF_Gun_AT2K.label>
-  <RF_Gun_AT2K.description>高品质和高度耐用的手枪，一般供精锐部队或者体育射手使用。极高的准确性，中等程度的威力，瞄准和冷却时间略长。</RF_Gun_AT2K.description>
-  <RF_Gun_AT2K.tools.0.label>握把</RF_Gun_AT2K.tools.0.label>
-  <RF_Gun_AT2K.tools.1.label>枪管</RF_Gun_AT2K.tools.1.label>
-  <RF_Gun_AT2K.tools.2.label>枪口</RF_Gun_AT2K.tools.2.label>
-
-
-  <!-- BERETTA 93R -->
-
-  <RF_Gun_93R.label>伯莱塔93R冲锋手枪</RF_Gun_93R.label>
-  <RF_Gun_93R.description>外观漂亮的机枪，具有非常快的连发模式，停止力较低，射程中等。</RF_Gun_93R.description>
-  <RF_Gun_93R.tools.0.label>握把</RF_Gun_93R.tools.0.label>
-  <RF_Gun_93R.tools.1.label>枪管</RF_Gun_93R.tools.1.label>
-  <RF_Gun_93R.tools.2.label>枪口</RF_Gun_93R.tools.2.label>
-
-
-  <!-- VEKTOR CP1 -->
-
-  <RF_Gun_VektorCP.label>维克多CP1手枪</RF_Gun_VektorCP.label>
-  <RF_Gun_VektorCP.description>符合人体工程学的手枪，采用非矩形设计。准确度高，后坐力低，但威力较弱，射程也稍低。</RF_Gun_VektorCP.description>
-  <RF_Gun_VektorCP.tools.0.label>握把</RF_Gun_VektorCP.tools.0.label>
-  <RF_Gun_VektorCP.tools.1.label>枪管</RF_Gun_VektorCP.tools.1.label>
-  <RF_Gun_VektorCP.tools.2.label>枪口</RF_Gun_VektorCP.tools.2.label>
-
-
-  <!-- P14-45 -->
-
+  
+  <!-- EN: Para Ordnance P14-45 -->
   <Gun_Autopistol.label>帕拉军工P14手枪</Gun_Autopistol.label>
+  <!-- EN: A counterfeit ancient 45 ACP handgun with slightly improved internal mechanisms and plastic frame. High accuracy and above average range, average fire rate and damage. -->
   <Gun_Autopistol.description>一种仿造的.45手枪，内部机制和主体框架比起原版略有改进。精度较高，射程一般，射速和威力还行。</Gun_Autopistol.description>
-  <Gun_Autopistol.tools.0.label>握把</Gun_Autopistol.tools.0.label>
-  <Gun_Autopistol.tools.1.label>枪管</Gun_Autopistol.tools.1.label>
-  <Gun_Autopistol.tools.2.label>枪口</Gun_Autopistol.tools.2.label>
-
-
-  <!-- M95 DERRINGER -->
-
+  <!-- EN: grip -->
+  <Gun_Autopistol.tools.grip.label>握把</Gun_Autopistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Autopistol.tools.barrel.label>枪管</Gun_Autopistol.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_Autopistol.tools.muzzle.label>枪口</Gun_Autopistol.tools.muzzle.label>
+  <!-- EN: Para Ordnance P14-45 -->
+  <Gun_Autopistol.verbs.Verb_ShootCE.label>帕拉军工P14手枪</Gun_Autopistol.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Colt M1911 -->
+  <Gun_Revolver.label>柯尔特M1911</Gun_Revolver.label>
+  <!-- EN: Ancient pattern automatic pistol. Weak and short range, but quick. -->
+  <Gun_Revolver.description>古老构造的自动手枪。威力和射程一般，但射击迅速。</Gun_Revolver.description>
+  <!-- EN: grip -->
+  <Gun_Revolver.tools.grip.label>握把</Gun_Revolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Revolver.tools.barrel.label>枪管</Gun_Revolver.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_Revolver.tools.muzzle.label>枪口</Gun_Revolver.tools.muzzle.label>
+  <!-- EN: Colt M1911 -->
+  <Gun_Revolver.verbs.Verb_ShootCE.label>柯尔特M1911</Gun_Revolver.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Beretta 93R -->
+  <RF_Gun_93R.label>伯莱塔93R冲锋手枪</RF_Gun_93R.label>
+  <!-- EN: A nice-looking machinepistol with a very fast burstfire mode, low stopping power and hits up to pistol range. -->
+  <RF_Gun_93R.description>外观漂亮的机枪，具有非常快的连发模式，停止力较低，射程中等。</RF_Gun_93R.description>
+  <!-- EN: grip -->
+  <RF_Gun_93R.tools.grip.label>握把</RF_Gun_93R.tools.grip.label>
+  <!-- EN: barrel -->
+  <RF_Gun_93R.tools.barrel.label>枪管</RF_Gun_93R.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <RF_Gun_93R.tools.muzzle.label>枪口</RF_Gun_93R.tools.muzzle.label>
+  <!-- EN: Beretta 93R -->
+  <RF_Gun_93R.verbs.Verb_ShootCE.label>伯莱塔93R冲锋手枪</RF_Gun_93R.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Sphinx AT 2000 -->
+  <RF_Gun_AT2K.label>司芬克斯2000手枪</RF_Gun_AT2K.label>
+  <!-- EN: A high quality and highly durable handgun, used by elite forces and sports shooters. Great accuracy, moderate damage and a tad slow. -->
+  <RF_Gun_AT2K.description>高品质和高度耐用的手枪，一般供精锐部队或者体育射手使用。极高的准确性，中等程度的威力，瞄准和冷却时间略长。</RF_Gun_AT2K.description>
+  <!-- EN: grip -->
+  <RF_Gun_AT2K.tools.grip.label>握把</RF_Gun_AT2K.tools.grip.label>
+  <!-- EN: barrel -->
+  <RF_Gun_AT2K.tools.barrel.label>枪管</RF_Gun_AT2K.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <RF_Gun_AT2K.tools.muzzle.label>枪口</RF_Gun_AT2K.tools.muzzle.label>
+  <!-- EN: Sphinx AT 2000 -->
+  <RF_Gun_AT2K.verbs.Verb_ShootCE.label>司芬克斯2000手枪</RF_Gun_AT2K.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Revolver Smith&Wesson M1917 -->
+  <RF_Gun_Deringer.label>M1917史密斯威森左轮</RF_Gun_Deringer.label>
+  <!-- EN: A Smith&Wesson M1917 revolver. Accurate at short and medium range, but long aim, cooldown and reload period. -->
+  <RF_Gun_Deringer.description>M1917史密斯威森左轮手枪。有效射程较低，威力中等，瞄准和冷却时间较短。</RF_Gun_Deringer.description>
+  <!-- EN: grip -->
+  <RF_Gun_Deringer.tools.grip.label>握把</RF_Gun_Deringer.tools.grip.label>
+  <!-- EN: barrel -->
+  <RF_Gun_Deringer.tools.barrel.label>枪管</RF_Gun_Deringer.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <RF_Gun_Deringer.tools.muzzle.label>枪口</RF_Gun_Deringer.tools.muzzle.label>
+  <!-- EN: Revolver Smith&Wesson M1917 -->
+  <RF_Gun_Deringer.verbs.Verb_ShootCE.label>M1917史密斯威森左轮</RF_Gun_Deringer.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Vektor CP1 -->
+  <RF_Gun_VektorCP.label>维克多CP1手枪</RF_Gun_VektorCP.label>
+  <!-- EN: An ergonomical handgun with a drastically non-rectangular design. Good accuracy and low recoil, but weak and with a slightly lower range. -->
+  <RF_Gun_VektorCP.description>符合人体工程学的手枪，采用非矩形设计。准确度高，后坐力低，但威力较弱，射程也稍低。</RF_Gun_VektorCP.description>
+  <!-- EN: grip -->
+  <RF_Gun_VektorCP.tools.grip.label>握把</RF_Gun_VektorCP.tools.grip.label>
+  <!-- EN: barrel -->
+  <RF_Gun_VektorCP.tools.barrel.label>枪管</RF_Gun_VektorCP.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <RF_Gun_VektorCP.tools.muzzle.label>枪口</RF_Gun_VektorCP.tools.muzzle.label>
+  <!-- EN: Vektor CP1 -->
+  <RF_Gun_VektorCP.verbs.Verb_ShootCE.label>维克多CP1手枪</RF_Gun_VektorCP.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

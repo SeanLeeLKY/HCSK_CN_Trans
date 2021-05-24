@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: locust armor -->
+  <Apparel_ArmorLocust.label>飞蝗装甲</Apparel_ArmorLocust.label>
+  <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
+  <Apparel_ArmorLocust.description>一种集成了短程喷射火箭，能够让使用者短距离飞行的改进型斥候装甲。飞蝗装甲提供的防护力略低于标准版斥候装甲，并且每次跳跃飞行都会消耗大量燃料，所以需要及时补充。\n\n和一般意义上的高科技军事单位不同，飞蝗的主要训练内容更加强调近战武器。飞蝗的使用者应该尽量避免定点对射，更加强调出其不意的突袭入敌人的防御工事进行近身作战。它们在定点防御场合或者狭窄空间内的表现差强人意，但是在混合作战环境或者船舰破袭作战方面的确是首屈一指。</Apparel_ArmorLocust.description>
+  <!-- EN: jump -->
+  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>跳跃</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
+  <!-- EN: jump -->
+  <Apparel_ArmorLocust.verbs.jump.label>跳跃</Apparel_ArmorLocust.verbs.jump.label>
+  
+</LanguageData>

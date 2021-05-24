@@ -1,13 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Build R3 Menstruum -->
   <BuildChargeRifle.label>制造 R3“溶媒”电荷步枪</BuildChargeRifle.label>
+  <!-- EN: A charged-shot energy/projectile rifle. -->
   <BuildChargeRifle.description>一种发射电荷弹药的步枪。</BuildChargeRifle.description>
+  <!-- EN: Building R3 Menstruum. -->
   <BuildChargeRifle.jobString>正在制造 R3“溶媒”电荷步枪。</BuildChargeRifle.jobString>
-
+  
+  <!-- EN: Build R6 Splitter -->
   <BuildSplitter.label>制造 R6“撕裂者”电荷步枪</BuildSplitter.label>
+  <!-- EN: Builds a charged-shot energy projectile rifle. -->
   <BuildSplitter.description>一种发射电荷弹药的步枪。</BuildSplitter.description>
+  <!-- EN: Building R6 Splitter. -->
   <BuildSplitter.jobString>正在制造 R6“撕裂者”电荷步枪。</BuildSplitter.jobString>
-
-
+  
 </LanguageData>

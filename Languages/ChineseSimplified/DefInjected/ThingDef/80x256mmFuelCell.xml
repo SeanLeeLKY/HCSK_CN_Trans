@@ -1,15 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
+  
+  <!-- EN: 80x256mm fuel cell (Thermobaric) -->
   <Ammo_80x256mmFuel_Thermobaric.label>80x256mm 燃烧弹（温压弹）</Ammo_80x256mmFuel_Thermobaric.label>
+  <!-- EN: Large fuel container for incendiary shot cannons. -->
   <Ammo_80x256mmFuel_Thermobaric.description>大型燃料炮弹。</Ammo_80x256mmFuel_Thermobaric.description>
-
-
-  <!-- Projectiles -->
-
+  
+  <!-- EN: 80x256mm fuel shell (Thermobaric) -->
   <Bullet_80x256mmFuel_Thermobaric.label>地狱火加农炮炮弹</Bullet_80x256mmFuel_Thermobaric.label>
-
-
+  
 </LanguageData>

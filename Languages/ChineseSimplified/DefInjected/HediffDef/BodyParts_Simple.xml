@@ -1,36 +1,55 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- simple parts -->
-
-  <GlassEye.label>玻璃眼</GlassEye.label>
-  <GlassEye.description>一个植入眼窝的玻璃眼珠。也就比眼罩好点。</GlassEye.description>
-  <GlassEye.labelNoun>玻璃眼</GlassEye.labelNoun>
-
+  
+  <!-- EN: artificial nose -->
   <ArtificialNose.label>人造鼻</ArtificialNose.label>
+  <!-- EN: An installed artificial nose. Covers the hole in the face. -->
   <ArtificialNose.description>一个安装在面部的假鼻子。虽然是假的，但是也比脸上一个大洞好吧？</ArtificialNose.description>
+  <!-- EN: an artificial nose -->
   <ArtificialNose.labelNoun>人造鼻</ArtificialNose.labelNoun>
-
-  <SimpleProstheticHand.label>简易的假手</SimpleProstheticHand.label>
-  <SimpleProstheticHand.description>一套简易的义肢手。比断手的位置套个抓钩看起来舒服和实用得多。</SimpleProstheticHand.description>
-  <SimpleProstheticHand.labelNoun>简易的假手</SimpleProstheticHand.labelNoun>
-
-  <SimpleProstheticFoot.label>简易的假脚</SimpleProstheticFoot.label>
-  <SimpleProstheticFoot.description>一套简易的义肢脚。看起来比只用一块木头要好得多。</SimpleProstheticFoot.description>
-  <SimpleProstheticFoot.labelNoun>简易的假脚</SimpleProstheticFoot.labelNoun>
-
-  <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>一套简易的义肢腿。虽然用起来不怎么舒服，但是和真腿也差不了太多。</SimpleProstheticLeg.description>
-  <SimpleProstheticLeg.labelNoun>简易的假腿</SimpleProstheticLeg.labelNoun>
-
-  <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>一套简易的义肢手臂。简单耐用。</SimpleProstheticArm.description>
-  <SimpleProstheticArm.comps.0.tools.0.label>拳头</SimpleProstheticArm.comps.0.tools.0.label>
-  <SimpleProstheticArm.labelNoun>简易的假臂</SimpleProstheticArm.labelNoun>
-
+  
+  <!-- EN: artificial pelvis -->
   <ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
+  <!-- EN: An installed artificial pelvis. Pretty useful if crawling is not your favourite kind of moving around. -->
   <ArtificialPelvis.description>一套简易的骨盆替代装置。能够让你最大限度的进行日常活动，除了攀爬这种活动以外。</ArtificialPelvis.description>
+  <!-- EN: an artificial pelvis -->
   <ArtificialPelvis.labelNoun>人造骨盆</ArtificialPelvis.labelNoun>
-
-
+  
+  <!-- EN: glass eye -->
+  <GlassEye.label>玻璃眼</GlassEye.label>
+  <!-- EN: An installed glass eye. Prettier than eye patches. -->
+  <GlassEye.description>一个植入眼窝的玻璃眼珠。也就比眼罩好点。</GlassEye.description>
+  <!-- EN: a glass eye -->
+  <GlassEye.labelNoun>玻璃眼</GlassEye.labelNoun>
+  
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>
+  <!-- EN: An installed prosthetic arm. Simple but durable arm prosthesis. -->
+  <SimpleProstheticArm.description>一套简易的义肢手臂。简单耐用。</SimpleProstheticArm.description>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>拳头</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a simple prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>简易的假臂</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: simple prosthetic foot -->
+  <SimpleProstheticFoot.label>简易的假脚</SimpleProstheticFoot.label>
+  <!-- EN: An installed prosthetic foot. Not as cheap as a wood log. -->
+  <SimpleProstheticFoot.description>一套简易的义肢脚。看起来比只用一块木头要好得多。</SimpleProstheticFoot.description>
+  <!-- EN: a simple prosthetic foot -->
+  <SimpleProstheticFoot.labelNoun>简易的假脚</SimpleProstheticFoot.labelNoun>
+  
+  <!-- EN: simple prosthetic hand -->
+  <SimpleProstheticHand.label>简易的假手</SimpleProstheticHand.label>
+  <!-- EN: An installed prosthetic hand. Way more comfortable and less frightening than the hook hand. -->
+  <SimpleProstheticHand.description>一套简易的义肢手。比断手的位置套个抓钩看起来舒服和实用得多。</SimpleProstheticHand.description>
+  <!-- EN: a simple prosthetic hand -->
+  <SimpleProstheticHand.labelNoun>简易的假手</SimpleProstheticHand.labelNoun>
+  
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>
+  <!-- EN: An installed prosthetic leg. Not very comfortable but quite efficient. -->
+  <SimpleProstheticLeg.description>一套简易的义肢腿。虽然用起来不怎么舒服，但是和真腿也差不了太多。</SimpleProstheticLeg.description>
+  <!-- EN: a simple prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>简易的假腿</SimpleProstheticLeg.labelNoun>
+  
 </LanguageData>

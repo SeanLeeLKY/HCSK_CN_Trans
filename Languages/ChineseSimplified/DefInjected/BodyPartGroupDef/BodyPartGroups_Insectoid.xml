@@ -1,17 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <LegLeftClaws.label>左腿爪</LegLeftClaws.label>
-  <LegLeftClaws.labelShort>爪子</LegLeftClaws.labelShort>
-
-  <LegRightClaws.label>右腿爪</LegRightClaws.label>
-  <LegRightClaws.labelShort>爪子</LegRightClaws.labelShort>
-
+  
+  <!-- EN: left foreleg -->
   <AntisLeftForeleg.label>左前腿</AntisLeftForeleg.label>
+  <!-- EN: foreleg -->
   <AntisLeftForeleg.labelShort>前腿</AntisLeftForeleg.labelShort>
-
+  
+  <!-- EN: right foreleg -->
   <AntisRightForeleg.label>右前腿</AntisRightForeleg.label>
+  <!-- EN: foreleg -->
   <AntisRightForeleg.labelShort>前腿</AntisRightForeleg.labelShort>
-
-
+  
+  <!-- EN: left leg claws -->
+  <LegLeftClaws.label>左腿爪</LegLeftClaws.label>
+  <!-- EN: claws -->
+  <LegLeftClaws.labelShort>爪子</LegLeftClaws.labelShort>
+  
+  <!-- EN: right leg claws -->
+  <LegRightClaws.label>右腿爪</LegRightClaws.label>
+  <!-- EN: claws -->
+  <LegRightClaws.labelShort>爪子</LegRightClaws.labelShort>
+  
 </LanguageData>

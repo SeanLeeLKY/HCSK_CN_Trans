@@ -1,64 +1,97 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Cluster.label>簇根</Cluster.label>
-
-  <BryoluxGlowerSmall.label>发光的微光菇</BryoluxGlowerSmall.label>
-  <BryoluxGlowerSmall.description>一朵小小的微光菇。</BryoluxGlowerSmall.description>
-
-  <BryoluxGlowerMedium.label>发光的微光菇</BryoluxGlowerMedium.label>
-  <BryoluxGlowerMedium.description>一朵中等大小的微光菇。</BryoluxGlowerMedium.description>
-
-  <BryoluxGlowerBig.label>发光的微光菇</BryoluxGlowerBig.label>
-  <BryoluxGlowerBig.description>一朵巨大的微光菇。</BryoluxGlowerBig.description>
-
-  <GlowstoolGlowerSmall.label>发光的炽光菇</GlowstoolGlowerSmall.label>
-  <GlowstoolGlowerSmall.description>一朵小小的炽光菇。</GlowstoolGlowerSmall.description>
-
-  <GlowstoolGlowerMedium.label>发光的炽光菇</GlowstoolGlowerMedium.label>
-  <GlowstoolGlowerMedium.description>一朵中等大小的炽光菇。</GlowstoolGlowerMedium.description>
-
-  <GlowstoolGlowerBig.label>发光的炽光菇</GlowstoolGlowerBig.label>
-  <GlowstoolGlowerBig.description>一朵巨大的炽光菇。</GlowstoolGlowerBig.description>
-
-  <AgariluxGlowerSmall.label>发光的闪帽菇</AgariluxGlowerSmall.label>
-  <AgariluxGlowerSmall.description>一朵小小的闪帽菇。</AgariluxGlowerSmall.description>
-
-  <AgariluxGlowerMedium.label>发光的闪帽菇</AgariluxGlowerMedium.label>
-  <AgariluxGlowerMedium.description>一朵中等大小的闪帽菇。</AgariluxGlowerMedium.description>
-
+  
+  <!-- EN: glowing gleamcap -->
   <AgariluxGlowerBig.label>发光的闪帽菇</AgariluxGlowerBig.label>
+  <!-- EN: A big gleamcap glower. -->
   <AgariluxGlowerBig.description>一朵巨大的闪帽菇。</AgariluxGlowerBig.description>
-
+  
+  <!-- EN: glowing gleamcap -->
+  <AgariluxGlowerMedium.label>发光的闪帽菇</AgariluxGlowerMedium.label>
+  <!-- EN: A medium gleamcap glower. -->
+  <AgariluxGlowerMedium.description>一朵中等大小的闪帽菇。</AgariluxGlowerMedium.description>
+  
+  <!-- EN: glowing gleamcap -->
+  <AgariluxGlowerSmall.label>发光的闪帽菇</AgariluxGlowerSmall.label>
+  <!-- EN: A small gleamcap glower. -->
+  <AgariluxGlowerSmall.description>一朵小小的闪帽菇。</AgariluxGlowerSmall.description>
+  
+  <!-- EN: spores -->
   <AgariluxSporeSpawner.label>孢子</AgariluxSporeSpawner.label>
+  <!-- EN: Building used to spawn gleamcap spores. -->
   <AgariluxSporeSpawner.description>生成闪帽孢子的东西。</AgariluxSporeSpawner.description>
-
-
-  <!-- Brightbells -->
-
-  <BrightbellsGlowerSmall.label>发光的耀铃菇</BrightbellsGlowerSmall.label>
-  <BrightbellsGlowerSmall.description>一朵小小的耀铃菇。</BrightbellsGlowerSmall.description>
-
-  <BrightbellsGlowerMedium.label>发光的耀铃菇</BrightbellsGlowerMedium.label>
-  <BrightbellsGlowerMedium.description>一朵中等大小的耀铃菇。</BrightbellsGlowerMedium.description>
-
+  
+  <!-- EN: glowing brightbells -->
   <BrightbellsGlowerBig.label>发光的耀铃菇</BrightbellsGlowerBig.label>
+  <!-- EN: A big shimmershroom glower. -->
   <BrightbellsGlowerBig.description>一朵巨大的耀铃菇。</BrightbellsGlowerBig.description>
-
-  <StoneGrassGlower.label>发光的石草</StoneGrassGlower.label>
-  <StoneGrassGlower.description>发出柔和光线的石草。</StoneGrassGlower.description>
-
-  <GiantLeafGlower.label>发光的巨叶</GiantLeafGlower.label>
-  <GiantLeafGlower.description>发出明亮光线的多汁巨叶。</GiantLeafGlower.description>
-
-  <DevilTongueGlower.label>发光的恶魔喉舌</DevilTongueGlower.label>
-  <DevilTongueGlower.description>发出红色光线的恶魔喉舌。</DevilTongueGlower.description>
-
-  <CaveVineGlower.label>发光的洞穴藤蔓</CaveVineGlower.label>
-  <CaveVineGlower.description>一棵巨大的发光藤树。</CaveVineGlower.description>
-
+  
+  <!-- EN: glowing brightbells -->
+  <BrightbellsGlowerMedium.label>发光的耀铃菇</BrightbellsGlowerMedium.label>
+  <!-- EN: A medium shimmershroom glower. -->
+  <BrightbellsGlowerMedium.description>一朵中等大小的耀铃菇。</BrightbellsGlowerMedium.description>
+  
+  <!-- EN: glowing brightbells -->
+  <BrightbellsGlowerSmall.label>发光的耀铃菇</BrightbellsGlowerSmall.label>
+  <!-- EN: A small shimmershroom glower. -->
+  <BrightbellsGlowerSmall.description>一朵小小的耀铃菇。</BrightbellsGlowerSmall.description>
+  
+  <!-- EN: glowing shimmershroom -->
+  <BryoluxGlowerBig.label>发光的微光菇</BryoluxGlowerBig.label>
+  <!-- EN: A big shimmershroom glower. -->
+  <BryoluxGlowerBig.description>一朵巨大的微光菇。</BryoluxGlowerBig.description>
+  
+  <!-- EN: glowing shimmershroom -->
+  <BryoluxGlowerMedium.label>发光的微光菇</BryoluxGlowerMedium.label>
+  <!-- EN: A medium shimmershroom glower. -->
+  <BryoluxGlowerMedium.description>一朵中等大小的微光菇。</BryoluxGlowerMedium.description>
+  
+  <!-- EN: glowing shimmershroom -->
+  <BryoluxGlowerSmall.label>发光的微光菇</BryoluxGlowerSmall.label>
+  <!-- EN: A small shimmershroom glower. -->
+  <BryoluxGlowerSmall.description>一朵小小的微光菇。</BryoluxGlowerSmall.description>
+  
+  <!-- EN: glowing cave lace -->
   <CaveLaceGlower.label>发光的洞穴丝蔓</CaveLaceGlower.label>
+  <!-- EN: Crystal and subtle light of a cave lace. -->
   <CaveLaceGlower.description>晶莹剔透、微妙光亮的细小丝藤。</CaveLaceGlower.description>
-
-
+  
+  <!-- EN: glowing cave vine -->
+  <CaveVineGlower.label>发光的洞穴藤蔓</CaveVineGlower.label>
+  <!-- EN: Deem light of a giant cave tree. -->
+  <CaveVineGlower.description>一棵巨大的发光藤树。</CaveVineGlower.description>
+  
+  <!-- EN: cluster root -->
+  <Cluster.label>簇根</Cluster.label>
+  
+  <!-- EN: glowing devil's tongue -->
+  <DevilTongueGlower.label>发光的恶魔喉舌</DevilTongueGlower.label>
+  <!-- EN: Crimson light of an open devil's tongue. -->
+  <DevilTongueGlower.description>发出红色光线的恶魔喉舌。</DevilTongueGlower.description>
+  
+  <!-- EN: glowing giant leaf -->
+  <GiantLeafGlower.label>发光的巨叶</GiantLeafGlower.label>
+  <!-- EN: Energizing light of a juicy giant leaf. -->
+  <GiantLeafGlower.description>发出明亮光线的多汁巨叶。</GiantLeafGlower.description>
+  
+  <!-- EN: glowing glowbulb -->
+  <GlowstoolGlowerBig.label>发光的炽光菇</GlowstoolGlowerBig.label>
+  <!-- EN: A big glowbulb glower. -->
+  <GlowstoolGlowerBig.description>一朵巨大的炽光菇。</GlowstoolGlowerBig.description>
+  
+  <!-- EN: glowing glowbulb -->
+  <GlowstoolGlowerMedium.label>发光的炽光菇</GlowstoolGlowerMedium.label>
+  <!-- EN: A medium glowbulb glower. -->
+  <GlowstoolGlowerMedium.description>一朵中等大小的炽光菇。</GlowstoolGlowerMedium.description>
+  
+  <!-- EN: glowing glowbulb -->
+  <GlowstoolGlowerSmall.label>发光的炽光菇</GlowstoolGlowerSmall.label>
+  <!-- EN: A small glowbulb glower. -->
+  <GlowstoolGlowerSmall.description>一朵小小的炽光菇。</GlowstoolGlowerSmall.description>
+  
+  <!-- EN: glowing stone grass -->
+  <StoneGrassGlower.label>发光的石草</StoneGrassGlower.label>
+  <!-- EN: Soft light of stone grass. -->
+  <StoneGrassGlower.description>发出柔和光线的石草。</StoneGrassGlower.description>
+  
 </LanguageData>

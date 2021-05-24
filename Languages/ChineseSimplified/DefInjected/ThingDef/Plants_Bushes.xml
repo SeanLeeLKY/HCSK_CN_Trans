@@ -1,25 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Bushes -->
-
-  <Plant_Bush.label>灌木</Plant_Bush.label>
-  <Plant_Bush.description>灌木是一种绿色的低矮植物。不像其他植物，这种植物不能产生水果或蔬菜。</Plant_Bush.description>
-
-  <Plant_Rhododendron.label>杜鹃</Plant_Rhododendron.label>
-  <Plant_Rhododendron.description>一种有吸引力的、耐寒的、生长缓慢的灌木，以其美丽的花朵而闻名。</Plant_Rhododendron.description>
-
-  <Plant_SwordFern.label>剑蕨</Plant_SwordFern.label>
-  <Plant_SwordFern.description>一种漂亮而耐寒的蕨类植物。由于含有毒素和致癌物，大多数动物不敢食用。</Plant_SwordFern.description>
-
+  
+  <!-- EN: alocasia -->
   <Plant_Alocasia.label>海芋</Plant_Alocasia.label>
+  <!-- EN: A common broadleaf tropical plant. -->
   <Plant_Alocasia.description>是一种常见的热带阔叶植物。</Plant_Alocasia.description>
-
+  
+  <!-- EN: bush -->
+  <Plant_Bush.label>灌木</Plant_Bush.label>
+  <!-- EN: Bushes are a type of green, short shrubbery. Unlike other plants this one is incapable of producing fruits or vegetables. -->
+  <Plant_Bush.description>灌木是一种绿色的低矮植物。不像其他植物，这种植物不能产生水果或蔬菜。</Plant_Bush.description>
+  
+  <!-- EN: clivia -->
   <Plant_Clivia.label>君子兰</Plant_Clivia.label>
+  <!-- EN: An unusual plant with tall, pretty flowers. Some call it the 'bush lily'. -->
   <Plant_Clivia.description>一种稀有植物，花又高又漂亮。有人称之为“灌木中的百合花”。</Plant_Clivia.description>
-
+  
+  <!-- EN: giant rafflesia -->
   <Plant_Rafflesia.label>大王花</Plant_Rafflesia.label>
+  <!-- EN: A rare, giant flower. You would think a giant flower would be beautiful, but this one is quite smelly and ugly. -->
   <Plant_Rafflesia.description>一种罕见的巨大的花。你可能会认为巨大的花是美丽的，但这种花却又臭又丑。</Plant_Rafflesia.description>
-
-
+  
+  <!-- EN: Plant_Rhododendron -->
+  <Plant_Rhododendron.label>杜鹃</Plant_Rhododendron.label>
+  <!-- EN: An attractive, hardy, and slow-growing shrub known for its beautiful flowers. -->
+  <Plant_Rhododendron.description>一种有吸引力的、耐寒的、生长缓慢的灌木，以其美丽的花朵而闻名。</Plant_Rhododendron.description>
+  
+  <!-- EN: Plant_SwordFern -->
+  <Plant_SwordFern.label>剑蕨</Plant_SwordFern.label>
+  <!-- EN: An attractive and hardy fern. Not eaten by most animals due to toxins and carcinogens. -->
+  <Plant_SwordFern.description>一种漂亮而耐寒的蕨类植物。由于含有毒素和致癌物，大多数动物不敢食用。</Plant_SwordFern.description>
+  
 </LanguageData>

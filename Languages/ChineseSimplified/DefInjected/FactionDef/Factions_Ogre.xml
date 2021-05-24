@@ -1,13 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Neolitic ogre clan -->
   <OgreClan.label>食人魔部落</OgreClan.label>
-  <OgreClan.pawnsPlural>食人魔</OgreClan.pawnsPlural>
+  <!-- EN: Clan shaman -->
   <OgreClan.leaderTitle>部落萨满</OgreClan.leaderTitle>
-
+  <!-- EN: ogre -->
+  <OgreClan.pawnSingular>食人魔</OgreClan.pawnSingular>
+  <!-- EN: ogres -->
+  <OgreClan.pawnsPlural>食人魔</OgreClan.pawnsPlural>
+  
+  <!-- EN: Ogre mutants -->
   <OgreMutants.label>食人魔突变体</OgreMutants.label>
-  <OgreMutants.pawnsPlural>食人魔</OgreMutants.pawnsPlural>
+  <!-- EN: Clan shaman -->
   <OgreMutants.leaderTitle>食人魔萨满</OgreMutants.leaderTitle>
-
-
+  <!-- EN: ogre -->
+  <OgreMutants.pawnSingular>食人魔</OgreMutants.pawnSingular>
+  <!-- EN: ogres -->
+  <OgreMutants.pawnsPlural>食人魔</OgreMutants.pawnsPlural>
+  
 </LanguageData>

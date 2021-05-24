@@ -1,9 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <StartWithRaidEnemy.label>开局敌袭</StartWithRaidEnemy.label>
-  <StartWithNF.label>开局核辐射</StartWithNF.label>
+  
+  <!-- EN: Start with corpses -->
   <StartwithCorpses.label>开局尸体</StartwithCorpses.label>
-
-
+  
+  <!-- EN: Start with nuclear fallout -->
+  <StartWithNF.label>开局核辐射</StartWithNF.label>
+  
+  <!-- EN: Start with enemy raid -->
+  <StartWithRaidEnemy.label>开局敌袭</StartWithRaidEnemy.label>
+  
 </LanguageData>

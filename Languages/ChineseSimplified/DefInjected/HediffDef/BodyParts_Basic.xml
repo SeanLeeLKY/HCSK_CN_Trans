@@ -1,40 +1,62 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- basic parts -->
-
-  <EyePatch.label>眼罩</EyePatch.label>
-  <EyePatch.description>把眼窝罩住。挺吓人的。</EyePatch.description>
-  <EyePatch.labelNoun>眼罩</EyePatch.labelNoun>
-
-  <HookHand.label>钩手</HookHand.label>
-  <HookHand.description>代替缺失的手。哦呀，挺吓人的。</HookHand.description>
-  <HookHand.comps.0.tools.0.label>拳头</HookHand.comps.0.tools.0.label>
-  <HookHand.labelNoun>钩手</HookHand.labelNoun>
-
-  <Denture.label>义齿</Denture.label>
-  <Denture.description>用木制的牙齿代替缺失的下巴。有点臭。</Denture.description>
-  <Denture.labelNoun>义齿</Denture.labelNoun>
-
-  <PegLeg.label>木腿</PegLeg.label>
-  <PegLeg.description>用木头代替缺失的腿。挺古董的一种方式，但还是挺好用的。</PegLeg.description>
-  <PegLeg.labelNoun>木腿</PegLeg.labelNoun>
-
-  <WoodenHand.label>木手</WoodenHand.label>
-  <WoodenHand.description>一只已安装的木手。</WoodenHand.description>
-  <WoodenHand.labelNoun>木手</WoodenHand.labelNoun>
-
-  <WoodenFoot.label>木足</WoodenFoot.label>
-  <WoodenFoot.description>用木头代替缺失的脚。至少比跳来跳去要舒服。</WoodenFoot.description>
-  <WoodenFoot.labelNoun>木足</WoodenFoot.labelNoun>
-
+  
+  <!-- EN: cochlear implant -->
   <CochlearImplant.label>人工耳蜗</CochlearImplant.label>
+  <!-- EN: An installed implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
   <CochlearImplant.description>一个人工助听装置。缠绕在内耳的电极通过刺激听觉神经，将外部声音信号传送给使用者。效果不如天然的耳朵，但显然强于耳聋。</CochlearImplant.description>
+  <!-- EN: a cochlear implant -->
   <CochlearImplant.labelNoun>人工耳蜗</CochlearImplant.labelNoun>
-
+  
+  <!-- EN: denture -->
+  <Denture.label>义齿</Denture.label>
+  <!-- EN: An installed wooden teeth. Smells a bit. -->
+  <Denture.description>用木制的牙齿代替缺失的下巴。有点臭。</Denture.description>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>义齿</Denture.labelNoun>
+  
+  <!-- EN: eye patch -->
+  <EyePatch.label>眼罩</EyePatch.label>
+  <!-- EN: Covers the eye socket. -->
+  <EyePatch.description>把眼窝罩住。挺吓人的。</EyePatch.description>
+  <!-- EN: an eye patch -->
+  <EyePatch.labelNoun>眼罩</EyePatch.labelNoun>
+  
+  <!-- EN: hook hand -->
+  <HookHand.label>钩手</HookHand.label>
+  <!-- EN: An installed missing hand with hook hand! Pretty scary. Yarr. -->
+  <HookHand.description>代替缺失的手。哦呀，挺吓人的。</HookHand.description>
+  <!-- EN: fist -->
+  <HookHand.comps.HediffComp_VerbGiver.tools.fist.label>拳头</HookHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a hook hand -->
+  <HookHand.labelNoun>钩手</HookHand.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>木腿</PegLeg.label>
+  <!-- EN: An installed peg leg. Out of fashion but it does its job pretty well. -->
+  <PegLeg.description>用木头代替缺失的腿。挺古董的一种方式，但还是挺好用的。</PegLeg.description>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>木腿</PegLeg.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
   <SimpleProstheticHeart.label>人工心脏</SimpleProstheticHeart.label>
+  <!-- EN: An installed prosthetic heart, which contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
   <SimpleProstheticHeart.description>一个人造的心脏，其中含有的马达可以稳定的把血液运输到全身。虽然使用者会经常报告说感到脱力，但显然好过其他选择。</SimpleProstheticHeart.description>
+  <!-- EN: a prosthetic heart -->
   <SimpleProstheticHeart.labelNoun>人工心脏</SimpleProstheticHeart.labelNoun>
-
-
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>木足</WoodenFoot.label>
+  <!-- EN: An installed wooden foot. At least it's more comfortable than hopping around. -->
+  <WoodenFoot.description>用木头代替缺失的脚。至少比跳来跳去要舒服。</WoodenFoot.description>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>木足</WoodenFoot.labelNoun>
+  
+  <!-- EN: wooden hand -->
+  <WoodenHand.label>木手</WoodenHand.label>
+  <!-- EN: An installed wooden hand. -->
+  <WoodenHand.description>一只已安装的木手。</WoodenHand.description>
+  <!-- EN: a wooden hand -->
+  <WoodenHand.labelNoun>木手</WoodenHand.labelNoun>
+  
 </LanguageData>

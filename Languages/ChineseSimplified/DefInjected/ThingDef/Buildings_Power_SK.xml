@@ -1,440 +1,129 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PowerConduit.label>电缆</PowerConduit.label>
-  <PowerConduit.description>一组用于传输电力的电缆。可以安装于墙体和其他建筑之下。</PowerConduit.description>
-  <PowerConduit_Blueprint.label>电缆（蓝图）</PowerConduit_Blueprint.label>
-  <PowerConduit_Frame.label>电缆（建造中）</PowerConduit_Frame.label>
-  <PowerConduit_Frame.description>一组用于传输电力的电缆。可以安装于墙体和其他建筑之下。</PowerConduit_Frame.description>
-
-  <WaterproofConduit.label>防水电缆</WaterproofConduit.label>
-  <WaterproofConduit.description>能铺设在浅水下安全传输电力的绝缘电缆。</WaterproofConduit.description>
-  <WaterproofConduit_Blueprint.label>防水电缆（蓝图）</WaterproofConduit_Blueprint.label>
-  <WaterproofConduit_Frame.label>防水电缆（建造中）</WaterproofConduit_Frame.label>
-  <WaterproofConduit_Frame.description>能铺设在浅水下安全传输电力的绝缘电缆。</WaterproofConduit_Frame.description>
-
-  <HeavyPowerConduit.label>加固电缆</HeavyPowerConduit.label>
-  <HeavyPowerConduit.description>一组用于传输电力的电缆。可以安装于墙体和其他建筑之下。非常坚固并且不会被引燃。</HeavyPowerConduit.description>
-  <HeavyPowerConduit_Blueprint.label>加固电缆（蓝图）</HeavyPowerConduit_Blueprint.label>
-  <HeavyPowerConduit_Frame.label>加固电缆（建造中）</HeavyPowerConduit_Frame.label>
-  <HeavyPowerConduit_Frame.description>一组用于传输电力的电缆。可以安装于墙体和其他建筑之下。非常坚固并且不会被引燃。</HeavyPowerConduit_Frame.description>
-
-  <PowerConduitInvisible.label>隐蔽电缆</PowerConduitInvisible.label>
-  <PowerConduitInvisible.description>一组用于传输电力的电缆。可以安装于墙体和其他建筑之下。这种电缆可以隐藏于地下。</PowerConduitInvisible.description>
-  <PowerConduitInvisible_Blueprint.label>隐蔽电缆（蓝图）</PowerConduitInvisible_Blueprint.label>
-  <PowerConduitInvisible_Frame.label>隐蔽电缆（建造中）</PowerConduitInvisible_Frame.label>
-  <PowerConduitInvisible_Frame.description>一组用于传输电力的电缆。可以安装于墙体和其他建筑之下。这种电缆可以隐藏于地下。</PowerConduitInvisible_Frame.description>
-
-  <PowerSwitch.label>电力开关</PowerSwitch.label>
-  <PowerSwitch.description>连通/断开电网，决定电流是否能够通过。</PowerSwitch.description>
-  <PowerSwitch_Blueprint.label>电力开关（蓝图）</PowerSwitch_Blueprint.label>
-  <PowerSwitch_Blueprint_Install.label>电力开关（蓝图）</PowerSwitch_Blueprint_Install.label>
-  <PowerSwitch_Frame.label>电力开关（建造中）</PowerSwitch_Frame.label>
-  <PowerSwitch_Frame.description>连通/断开电网，决定电流是否能够通过。</PowerSwitch_Frame.description>
-
-  <PowerSwitchFlicker.label>自动电力开关</PowerSwitchFlicker.label>
-  <PowerSwitchFlicker.description>能够自动连通/断开电网，决定电流是否能够通过。</PowerSwitchFlicker.description>
-  <PowerSwitchFlicker_Blueprint.label>自动电力开关（蓝图）</PowerSwitchFlicker_Blueprint.label>
-  <PowerSwitchFlicker_Blueprint_Install.label>自动电力开关（蓝图）</PowerSwitchFlicker_Blueprint_Install.label>
-  <PowerSwitchFlicker_Frame.label>自动电力开关（建造中）</PowerSwitchFlicker_Frame.label>
-  <PowerSwitchFlicker_Frame.description>能够自动连通/断开电网，决定电流是否能够通过。</PowerSwitchFlicker_Frame.description>
-
-  <TimerSwitch.label>定时开关</TimerSwitch.label>
-  <TimerSwitch.description>够依据时间自动连通/断开电网，决定电流是否能够通过。</TimerSwitch.description>
-  <TimerSwitch_Blueprint.label>定时开关（蓝图）</TimerSwitch_Blueprint.label>
-  <TimerSwitch_Blueprint_Install.label>定时开关（蓝图）</TimerSwitch_Blueprint_Install.label>
-  <TimerSwitch_Frame.label>定时开关（建造中）</TimerSwitch_Frame.label>
-  <TimerSwitch_Frame.description>够依据时间自动连通/断开电网，决定电流是否能够通过。</TimerSwitch_Frame.description>
-
-  <Battery.label>蓄电池</Battery.label>
-  <Battery.description>储存多余的电力并在电力供给不足时释放电力。警告：充满的电池在暴露于雨水或火焰中时极易爆炸。蓄电量：1000Wd。</Battery.description>
-  <Battery_Blueprint.label>蓄电池（蓝图）</Battery_Blueprint.label>
-  <Battery_Blueprint_Install.label>蓄电池（蓝图）</Battery_Blueprint_Install.label>
-  <Battery_Frame.label>蓄电池（建造中）</Battery_Frame.label>
-  <Battery_Frame.description>储存多余的电力并在电力供给不足时释放电力。警告：充满的电池在暴露于雨水或火焰中时极易爆炸。蓄电量：1000Wd。</Battery_Frame.description>
-
-  <FissionBattery.label>裂变电池</FissionBattery.label>
-  <FissionBattery.description>用元素裂变反应来储存多余的电力并在电力供给不足时释放电力，比普通的蓄电池更加高效高量。警告：充满的电池在暴露于雨水或火焰中时极易爆炸。蓄电量：4000Wd。</FissionBattery.description>
-  <FissionBattery_Blueprint.label>裂变电池（蓝图）</FissionBattery_Blueprint.label>
-  <FissionBattery_Blueprint_Install.label>裂变电池（蓝图）</FissionBattery_Blueprint_Install.label>
-  <FissionBattery_Frame.label>裂变电池（建造中）</FissionBattery_Frame.label>
-  <FissionBattery_Frame.description>用元素裂变反应来储存多余的电力并在电力供给不足时释放电力，比普通的蓄电池更加高效高量。警告：充满的电池在暴露于雨水或火焰中时极易爆炸。蓄电量：4000Wd。</FissionBattery_Frame.description>
-
-  <SolarGenerator.label>太阳能板</SolarGenerator.label>
-  <SolarGenerator.description>利用太阳光来发电，在阳光不足时不工作，人工光源无法用作发电。</SolarGenerator.description>
-  <SolarGenerator_Blueprint.label>太阳能板（蓝图）</SolarGenerator_Blueprint.label>
-  <SolarGenerator_Frame.label>太阳能板（建造中）</SolarGenerator_Frame.label>
-  <SolarGenerator_Frame.description>利用太阳光来发电，在阳光不足时不工作，人工光源无法用作发电。</SolarGenerator_Frame.description>
-
+  
+  <!-- EN: advanced solar generator -->
   <AdvancedSolarGenerator.label>高级太阳能板</AdvancedSolarGenerator.label>
+  <!-- EN: Produces electricity from sunlight. Does not work in the dark. -->
   <AdvancedSolarGenerator.description>利用太阳光来发电，在阳光不足时不工作，人工光源无法用作发电。</AdvancedSolarGenerator.description>
-  <AdvancedSolarGenerator_Blueprint.label>高级太阳能板（蓝图）</AdvancedSolarGenerator_Blueprint.label>
-  <AdvancedSolarGenerator_Frame.label>高级太阳能板（建造中）</AdvancedSolarGenerator_Frame.label>
-  <AdvancedSolarGenerator_Frame.description>利用太阳光来发电，在阳光不足时不工作，人工光源无法用作发电。</AdvancedSolarGenerator_Frame.description>
-
-  <WindTurbine.label>风力发电机</WindTurbine.label>
-  <WindTurbine.description>一个风力驱动的发电机，前后需要较大的空旷空间，以获得最理想的气流。最大电力输出：1050W。</WindTurbine.description>
-  <WindTurbine_Blueprint.label>风力发电机（蓝图）</WindTurbine_Blueprint.label>
-  <WindTurbine_Frame.label>风力发电机（建造中）</WindTurbine_Frame.label>
-  <WindTurbine_Frame.description>一个风力驱动的发电机，前后需要较大的空旷空间，以获得最理想的气流。最大电力输出：1050W。</WindTurbine_Frame.description>
-
+  
+  <!-- EN: advanced wind turbine -->
   <AdvancedWindTurbine.label>高级风力发电机</AdvancedWindTurbine.label>
+  <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
   <AdvancedWindTurbine.description>一个风力驱动的发电机，前后需要较大的空旷空间，以获得最理想的气流。</AdvancedWindTurbine.description>
-  <AdvancedWindTurbine_Blueprint.label>高级风力发电机（蓝图）</AdvancedWindTurbine_Blueprint.label>
-  <AdvancedWindTurbine_Frame.label>高级风力发电机（建造中）</AdvancedWindTurbine_Frame.label>
-  <AdvancedWindTurbine_Frame.description>一个风力驱动的发电机，前后需要较大的空旷空间，以获得最理想的气流。</AdvancedWindTurbine_Frame.description>
-
-
-  <!-- <ThingDef ParentName="SK_BuildingBase">
-		<defName>TidalGenerator</defName>
-    <thingClass>BiomeOcean.Building_TidalGenerator</thingClass>
-		<label>Hydro power plant</label>
-		<description>Tidal generator.</description>
-    <graphicData>
-      <texPath>Things/Building/Power/TidalGen/TidalGeneratory</texPath>
-      <graphicClass>Graphic_Multi</graphicClass>
-      <drawSize>(3,6)</drawSize>
-      <damageData>
-        <rect>(2,0.15,1,1.4)</rect>
-      </damageData>
-    </graphicData>
-    <altitudeLayer>Floor</altitudeLayer>
-		<passability>Impassable</passability>
-		<fillPercent>0.5</fillPercent>
-		<statBases>
-			<MaxHitPoints>150</MaxHitPoints>
-			<WorkToBuild>2400</WorkToBuild>
-			<Flammability>0.4</Flammability>
-			<Beauty>-12</Beauty>
-		</statBases>
-		<tickerType>Normal</tickerType>
-		<size>(3,6)</size>
-		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
-		<rotatable>true</rotatable>
-		<designationCategory>Power</designationCategory>
-		<stuffCategories>
-		<li>StrongMetallic</li>
-		</stuffCategories>
-    	<costStuffCount>320</costStuffCount>
-		<costList>
-		<ReinforcedConcrete>80</ReinforcedConcrete>
-		<Rubber>60</Rubber>
-		<ComponentIndustrial>10</ComponentIndustrial>
-		<Mechanism>10</Mechanism>
-		</costList>
-    <placeWorkers>
-      <li>BiomeOcean.PlaceWorker_TidalGenerator</li>
-    </placeWorkers>
-	<comps>
-			<li Class="CompProperties_Power">
-				<compClass>CompPowerTrader</compClass>
-				<basePowerConsumption>-400</basePowerConsumption>
-				<transmitsPower>true</transmitsPower>
-      </li>
-      <li Class="CompProperties_Breakdownable"/>
-	</comps>
-	<researchPrerequisites><li>SolarPanels</li></researchPrerequisites>
-	<terrainAffordanceNeeded>Undefined</terrainAffordanceNeeded>
-	</ThingDef> -->
-
-  <WoodFiredGenerator.label>蒸汽发电机</WoodFiredGenerator.label>
-  <WoodFiredGenerator.description>基础的蒸汽发电设备。能够使用化合燃料，木炭，柴火和其它木质材料作为燃料。电力输出约：750W。</WoodFiredGenerator.description>
-  <WoodFiredGenerator_Blueprint.label>蒸汽发电机（蓝图）</WoodFiredGenerator_Blueprint.label>
-  <WoodFiredGenerator_Frame.label>蒸汽发电机（建造中）</WoodFiredGenerator_Frame.label>
-  <WoodFiredGenerator_Frame.description>基础的蒸汽发电设备。能够使用化合燃料，木炭，柴火和其它木质材料作为燃料。电力输出约：750W。</WoodFiredGenerator_Frame.description>
-
-
-  <!-- <ThingDef ParentName="PowerFueled">
-		<defName>BioGenerator</defName>
-		<label>bio-generator</label>
-		<thingClass>SK.Building_BioGenerator</thingClass>
-		<graphicData>
-			<texPath>Things/Building/Power/BioGenerator/BioGenerator</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>(2,2)</drawSize>
-			<shadowData>
-				<volume>(1.8, 0.8, 1.8)</volume>
-				<offset>(0,0,0)</offset>
-			</shadowData>
-		</graphicData>
-		<passability>Impassable</passability>
-		<fillPercent>0.85</fillPercent>
-		<minifiedDef>MinifiedThing</minifiedDef>
-		<thingCategories>
-			<li>BuildingsPower</li>
-		</thingCategories>
-		<statBases>
-			<MaxHitPoints>330</MaxHitPoints>
-			<WorkToBuild>3600</WorkToBuild>
-			<Flammability>1.0</Flammability>
-			<Mass>500</Mass>
-		</statBases>
-		<tickerType>Normal</tickerType>
-		<description>A bio-generator that produces electricity. Requires Biodiesel for a fuel source.
-Power output: 1200 W.</description>
-		<size>(2,2)</size>
-		<stuffCategories>
-			<li>RuggedMetallic</li>
-		</stuffCategories>
-		<costStuffCount>80</costStuffCount>
-		<costList>
-			<Glass>40</Glass>
-			<ComponentIndustrial>8</ComponentIndustrial>
-			<Mechanism>3</Mechanism>
-		</costList>
-		<building>
-			<uninstallWork>1450</uninstallWork>
-			<destroySound>BuildingDestroyed_Metal_Medium</destroySound>
-		</building>
-		<comps>
-			<li Class="CompProperties_Flickable"/>
-			<li Class="CompProperties_Breakdownable"/>
-			<li Class="CompProperties_Power">
-				<compClass>SK.CompPowerPlantFueled</compClass>
-				<basePowerConsumption>-1200</basePowerConsumption>
-				<transmitsPower>true</transmitsPower>
-				<soundAmbientProducingPower>ChemfuelFiredGenerator_Ambience</soundAmbientProducingPower>
-			</li>
-			<li Class="SK.CompProperties_HeatPusherAdvanced">
-				<compClass>SK.CompHeatPusherAdvanced</compClass>
-				<heatPerSecond>15</heatPerSecond>
-				<heatPushMaxTemperature>75</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_Glower">
-				<glowRadius>3</glowRadius>
-				<glowColor>(217,112,33,0)</glowColor>
-			</li>
-			<li Class="SK.CompFueled_Properties">
-				<operatingTemp>1200</operatingTemp>
-				<drawfirefuel>false</drawfirefuel>
-				<smokeDrawOffset>(0,0,0.1)</smokeDrawOffset>
-				<smokesize>1.7</smokesize>
-				<smokespeeddelay>20</smokespeeddelay>
-				<fuelCapacity>40</fuelCapacity>
-				<burnFuelMultiplier>0.7</burnFuelMultiplier>
-				<smokeDensity>2</smokeDensity>
-				<fuelFilter>
-					<thingDefs>
-						<li>FSX</li>
-						<li>BioDiesel</li>
-					</thingDefs>
-				</fuelFilter>
-			</li>
-		</comps>
-		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-		<designationCategory>Power</designationCategory>
-		<researchPrerequisites>
-			<li>SK_Bioenergy</li>
-		</researchPrerequisites>
-		<constructionSkillPrerequisite>13</constructionSkillPrerequisite>
-		<modExtensions>
-			<li Class="SK.Events.AccidentalExplosionExtension">
-			</li>
-		</modExtensions>
-	</ThingDef> -->
-
-  <CoalPowerPlant.label>燃煤发电机</CoalPowerPlant.label>
-  <CoalPowerPlant.description>使用煤炭类燃料来发电的设备。能够使用煤炭或者泥炭作为燃料。电力输出：2000W。</CoalPowerPlant.description>
-  <CoalPowerPlant_Blueprint.label>燃煤发电机（蓝图）</CoalPowerPlant_Blueprint.label>
-  <CoalPowerPlant_Frame.label>燃煤发电机（建造中）</CoalPowerPlant_Frame.label>
-  <CoalPowerPlant_Frame.description>使用煤炭类燃料来发电的设备。能够使用煤炭或者泥炭作为燃料。电力输出：2000W。</CoalPowerPlant_Frame.description>
-
-  <ChemfuelPoweredGenerator.label>燃料发电机</ChemfuelPoweredGenerator.label>
-  <ChemfuelPoweredGenerator.description>使用特殊燃料发电的设备。能够用燃油，神焰燃剂或者FSX作为燃料。</ChemfuelPoweredGenerator.description>
-  <ChemfuelPoweredGenerator_Blueprint.label>燃料发电机（蓝图）</ChemfuelPoweredGenerator_Blueprint.label>
-  <ChemfuelPoweredGenerator_Frame.label>燃料发电机（建造中）</ChemfuelPoweredGenerator_Frame.label>
-  <ChemfuelPoweredGenerator_Frame.description>使用特殊燃料发电的设备。能够用燃油，神焰燃剂或者FSX作为燃料。</ChemfuelPoweredGenerator_Frame.description>
-
-  <GeothermalGenerator.label>地热能发电机</GeothermalGenerator.label>
-  <GeothermalGenerator.description>利用蒸汽间歇喷泉的地热来发电。必须放置在蒸汽间歇喷泉上。电力输出：2500W。</GeothermalGenerator.description>
-  <GeothermalGenerator_Blueprint.label>地热能发电机（蓝图）</GeothermalGenerator_Blueprint.label>
-  <GeothermalGenerator_Frame.label>地热能发电机（建造中）</GeothermalGenerator_Frame.label>
-  <GeothermalGenerator_Frame.description>利用蒸汽间歇喷泉的地热来发电。必须放置在蒸汽间歇喷泉上。电力输出：2500W。</GeothermalGenerator_Frame.description>
-
-  <WatermillGenerator.label>水轮发电机</WatermillGenerator.label>
-  <WatermillGenerator.description>通过河流的动能的产生电力。必须把有轮子的那一侧放置在流动的水里。如果水轮相互之间摆放得太近，其产生的湍流会对整体产生干扰，降低发电量。</WatermillGenerator.description>
-  <WatermillGenerator_Blueprint.label>水轮发电机（蓝图）</WatermillGenerator_Blueprint.label>
-  <WatermillGenerator_Frame.label>水轮发电机（建造中）</WatermillGenerator_Frame.label>
-  <WatermillGenerator_Frame.description>通过河流的动能的产生电力。必须把有轮子的那一侧放置在流动的水里。如果水轮相互之间摆放得太近，其产生的湍流会对整体产生干扰，降低发电量。</WatermillGenerator_Frame.description>
-
-  <ThermoelectricGenerator.label>温差发电机</ThermoelectricGenerator.label>
-  <ThermoelectricGenerator.description>一种安装在墙上利用两端温差效应来发电的设备。例如：当温差1600摄氏度时，发电机的将有600%的工作效率，电力输出16200W。</ThermoelectricGenerator.description>
-  <ThermoelectricGenerator_Blueprint.label>温差发电机（蓝图）</ThermoelectricGenerator_Blueprint.label>
-  <ThermoelectricGenerator_Frame.label>温差发电机（建造中）</ThermoelectricGenerator_Frame.label>
-  <ThermoelectricGenerator_Frame.description>一种安装在墙上利用两端温差效应来发电的设备。例如：当温差1600摄氏度时，发电机的将有600%的工作效率，电力输出16200W。</ThermoelectricGenerator_Frame.description>
-
-
-  <!-- <ThingDef Class="SK.ThingDef_NPP" ParentName="PowerFueled">
-		<defName>NPP</defName>
-		<label>nuclear power plant</label>
-		<thingClass>SK.Building_NPP</thingClass>
-		<graphicData>
-			<texPath>Things/Building/Power/NPP/nuclearPP_off_fuel</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>(6,6)</drawSize>
-			<shadowData>
-				<volume>(5.7, 2, 5.7)</volume>
-			</shadowData>
-		</graphicData>
-		<rotatable>false</rotatable>
-		<statBases>
-			<MaxHitPoints>2400</MaxHitPoints>
-			<WorkToBuild>21000</WorkToBuild>
-			<Flammability>0</Flammability>
-			<Beauty>-180</Beauty>
-		</statBases>
-		<description>A Nuclear Power Plant with 24,000 W power output. Requires a hopper with Enriched Uranium as a fuel source. WARNING: In case of a nuclear meltdown, build walls around the debris to contain the radiation!</description>
-		<size>(6,6)</size>
-		<building>
-			<soundAmbient>MatterFab</soundAmbient>
-		</building>
-		<costList>
-			<ReinforcedConcrete>600</ReinforcedConcrete>
-			<Rubber>150</Rubber>
-			<ComponentSpacer>30</ComponentSpacer>
-			<Microchips>8</Microchips>
-		</costList>
-		<comps>
-			<li Class="CompProperties_Flickable"/>
-			<li Class="CompProperties_Breakdownable"/>
-			<li Class="CompProperties_Power">
-				<compClass>SK.CompPowerPlantFueled</compClass>
-				<basePowerConsumption>-30000</basePowerConsumption>
-				<transmitsPower>true</transmitsPower>
-			</li>
-			<li Class="CompProperties_Explosive">
-				<compClass>SK.CompExplosiveNPP</compClass>
-				<explosiveRadius>1</explosiveRadius>
-				<explosiveDamageType>Bomb</explosiveDamageType>
-			</li>
-			<li Class="CompProperties_Explosive">
-				<explosiveRadius>12.9</explosiveRadius>
-				<explosiveDamageType>Bomb</explosiveDamageType>
-			</li>
-			<li Class="CompProperties_Glower">
-				<glowRadius>7</glowRadius>
-				<glowColor>(217,112,33,0)</glowColor>
-			</li>
-			<li Class="SK.CompProperties_HeatPusherAdvanced">
-				<compClass>CompHeatPusher</compClass>
-				<heatPerSecond>70</heatPerSecond>
-				<heatPushMaxTemperature>75</heatPushMaxTemperature>
-			</li>
-			<li Class="SK.CompFueled_Properties">
-				<operatingTemp>5000</operatingTemp>
-				<drawfirefuel>false</drawfirefuel>
-				<smokeDrawOffset>(1.3,-0.1,0.7)</smokeDrawOffset>
-				<smokesize>1.5</smokesize>
-				<smokespeeddelay>20</smokespeeddelay>
-				<fuelCapacity>20</fuelCapacity>
-				<fuelFilter>
-					<thingDefs>
-						<li>HEU</li>
-					</thingDefs>
-				</fuelFilter>
-			</li>
-		</comps>
-		<placeWorkers>
-			<li>PlaceWorker_NotUnderRoof</li>
-		</placeWorkers>
-		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
-		<designationCategory>Power</designationCategory>
-		<researchPrerequisites>
-			<li>SK_NuclearII</li>
-		</researchPrerequisites>
-		<constructionSkillPrerequisite>16</constructionSkillPrerequisite>
-
-		<OverheatThreshold>1600</OverheatThreshold>
-		<DamageAppliedSelfMin>40</DamageAppliedSelfMin>
-		<DamageAppliedSelfMax>70</DamageAppliedSelfMax>
-		<DamageApplySelfCounter>600</DamageApplySelfCounter>
-	</ThingDef>
-
-	<ThingDef Class="SK.ThingDef_ItemRAD" ParentName="StandartBuilding">
-		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-		<constructEffect>ConstructMetal</constructEffect>
-		<defName>NPPD</defName>
-		<label>nuclear power plant debris</label>
-		<thingClass>SK.BuildingRAD</thingClass>
-		<graphicData>
-			<texPath>Things/Building/Power/NPP/nuclearPP_debris</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>(6,6)</drawSize>
-			<shadowData>
-				<volume>(5.7, 2, 5.7)</volume>
-			</shadowData>
-		</graphicData>
-		<passability>Impassable</passability>
-		<fillPercent>1</fillPercent>
-		<useHitPoints>false</useHitPoints>
-		<destroyable>false</destroyable>
-		<statBases>
-			<Flammability>0</Flammability>
-			<Beauty>-720</Beauty>
-		</statBases>	
-		<tickerType>Normal</tickerType>
-		<canOverlapZones>false</canOverlapZones>
-		<description>Radioactive debris of a Nuclear Power Plant. Build walls around it to contain the radiation!</description>
-		<size>(6,6)</size>
-		<specialDisplayRadius>40</specialDisplayRadius>
-		<comps>
-			<li Class="CompProperties_Glower">
-				<glowRadius>20</glowRadius>
-				<glowColor>(5,30,5,5)</glowColor>
-			</li>		 
-		</comps>
-		
-		<DamageAppliedSeverityMin>0.01</DamageAppliedSeverityMin>
-		<DamageAppliedSeverityMax>0.04</DamageAppliedSeverityMax>
-		<ThingDamageAppliedMin>-5</ThingDamageAppliedMin>
-		<ThingDamageAppliedMax>2</ThingDamageAppliedMax>
-		<terrainradfrequency>5</terrainradfrequency>
-		<radfrequency>500</radfrequency>
-		<radiationRadius>20</radiationRadius>
-	</ThingDef> -->
-
-  <GauseWindTurbine.label>高斯风力涡轮机</GauseWindTurbine.label>
-  <GauseWindTurbine.description>高斯风力涡轮机发电机。请勿触碰涡轮，特别是手脚，也请注意让动物远离！电力输出：2500W（最大风速）</GauseWindTurbine.description>
-  <GauseWindTurbine_Blueprint.label>高斯风力涡轮机（蓝图）</GauseWindTurbine_Blueprint.label>
-  <GauseWindTurbine_Frame.label>高斯风力涡轮机（建造中）</GauseWindTurbine_Frame.label>
-  <GauseWindTurbine_Frame.description>高斯风力涡轮机发电机。请勿触碰涡轮，特别是手脚，也请注意让动物远离！电力输出：2500W（最大风速）</GauseWindTurbine_Frame.description>
-
-  <TeslaLigthningPower.label>特斯拉电弧发生器</TeslaLigthningPower.label>
-  <TeslaLigthningPower.description>通过尼古拉-特斯拉发明的“特斯拉电弧发生器”，利用生成的电弧作为强大的能量源！缺点是这东西很容易就过热，需要经常停机冷却！电力输出：6000W</TeslaLigthningPower.description>
-  <TeslaLigthningPower_Blueprint.label>特斯拉电弧发生器（蓝图）</TeslaLigthningPower_Blueprint.label>
-  <TeslaLigthningPower_Frame.label>特斯拉电弧发生器（建造中）</TeslaLigthningPower_Frame.label>
-  <TeslaLigthningPower_Frame.description>通过尼古拉-特斯拉发明的“特斯拉电弧发生器”，利用生成的电弧作为强大的能量源！缺点是这东西很容易就过热，需要经常停机冷却！电力输出：6000W</TeslaLigthningPower_Frame.description>
-
-  <PlasmaGeothermalPlant.label>等离子反应堆</PlasmaGeothermalPlant.label>
-  <PlasmaGeothermalPlant.description>能够在蒸汽喷泉中生产一定的免费电力。所以必须要放置在蒸汽喷口上。由于运作过程中生成了大量的等离子气体，可以在周围放置一定数量的等离子发电机，利用等离子放电现象发电。需要锡或者铝作为反应介质。</PlasmaGeothermalPlant.description>
-  <PlasmaGeothermalPlant_Blueprint.label>等离子反应堆（蓝图）</PlasmaGeothermalPlant_Blueprint.label>
-  <PlasmaGeothermalPlant_Frame.label>等离子反应堆（建造中）</PlasmaGeothermalPlant_Frame.label>
-  <PlasmaGeothermalPlant_Frame.description>能够在蒸汽喷泉中生产一定的免费电力。所以必须要放置在蒸汽喷口上。由于运作过程中生成了大量的等离子气体，可以在周围放置一定数量的等离子发电机，利用等离子放电现象发电。需要锡或者铝作为反应介质。</PlasmaGeothermalPlant_Frame.description>
-
-  <PlasmaGen.label>等离子发电机</PlasmaGen.label>
-  <PlasmaGen.description>通过吸收等离子反应堆运作中释放的大量等离子体，在内部产生连续的放电现象生产电力。不过问题在于，放电工作前，你要先给它充满到可以连续放电的状态。</PlasmaGen.description>
-  <PlasmaGen_Blueprint.label>等离子发电机（蓝图）</PlasmaGen_Blueprint.label>
-  <PlasmaGen_Frame.label>等离子发电机（建造中）</PlasmaGen_Frame.label>
-  <PlasmaGen_Frame.description>通过吸收等离子反应堆运作中释放的大量等离子体，在内部产生连续的放电现象生产电力。不过问题在于，放电工作前，你要先给它充满到可以连续放电的状态。</PlasmaGen_Frame.description>
-
-  <XenonIonTurbine.label>氙离子涡轮机</XenonIonTurbine.label>
-  <XenonIonTurbine.description>通过收集自水中的氙气并电离成等离子体来发电。必须放置于间隙泉之上。温度越高，工作效率越高，甚至可以超过100%。例如：温度处于250摄氏度时，涡轮机工作效率约为150%，发电量为5000W。</XenonIonTurbine.description>
-  <XenonIonTurbine_Blueprint.label>氙离子涡轮机（蓝图）</XenonIonTurbine_Blueprint.label>
-  <XenonIonTurbine_Frame.label>氙离子涡轮机（建造中）</XenonIonTurbine_Frame.label>
-  <XenonIonTurbine_Frame.description>通过收集自水中的氙气并电离成等离子体来发电。必须放置于间隙泉之上。温度越高，工作效率越高，甚至可以超过100%。例如：温度处于250摄氏度时，涡轮机工作效率约为150%，发电量为5000W。</XenonIonTurbine_Frame.description>
-
+  
+  <!-- EN: antimatter reactor -->
   <AntimatterReactor.label>反物质反应堆</AntimatterReactor.label>
+  <!-- EN: The contained antimatter separates from normal matter by magnetic fields so that no unintended reactions take place. The energy would then be extracted in much the same way that nuclear reactors capture the expended heat and light energy from fission reactions. Power output: 32,000 W. -->
   <AntimatterReactor.description>所包含的反物质通过磁场与正常物质分离，因此不会发生意外反应。 然后，将以与核反应堆捕获裂变反应消耗热能和光能几乎相同的方式提取能量。电力输出：32000W</AntimatterReactor.description>
-  <AntimatterReactor_Blueprint.label>反物质反应堆（蓝图）</AntimatterReactor_Blueprint.label>
-  <AntimatterReactor_Frame.label>反物质反应堆（建造中）</AntimatterReactor_Frame.label>
-  <AntimatterReactor_Frame.description>所包含的反物质通过磁场与正常物质分离，因此不会发生意外反应。 然后，将以与核反应堆捕获裂变反应消耗热能和光能几乎相同的方式提取能量。电力输出：32000W</AntimatterReactor_Frame.description>
-
-
-  <!--<BioGenerator.label>生物质发电机</BioGenerator.label>-->
-  <!--<BioGenerator.description>能够使用生物柴油来发电的设备。电力输出：1200W。</BioGenerator.description>-->
-  <!--<BioGenerator_Blueprint.label>生物质发电机（蓝图）</BioGenerator_Blueprint.label>-->
-  <!--<BioGenerator_Blueprint_Install.label>生物质发电机（蓝图）</BioGenerator_Blueprint_Install.label>-->
-  <!--<BioGenerator_Frame.label>生物质发电机（建造中）</BioGenerator_Frame.label>-->
-  <!--<BioGenerator_Frame.description>能够使用生物柴油来发电的设备。电力输出：1200W。</BioGenerator_Frame.description>-->
-
+  
+  <!-- EN: battery -->
+  <Battery.label>蓄电池</Battery.label>
+  <!-- EN: Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when heated or wet. Holds up to 1,000 W. -->
+  <Battery.description>储存多余的电力并在电力供给不足时释放电力。警告：充满的电池在暴露于雨水或火焰中时极易爆炸。蓄电量：1000Wd。</Battery.description>
+  
+  <!-- EN: fuel power plant -->
+  <ChemfuelPoweredGenerator.label>燃料发电机</ChemfuelPoweredGenerator.label>
+  <!-- EN: A Fuel Power Plant that produces electricity. Can be fueled with Chemfuel, Prometheum or FSX. -->
+  <ChemfuelPoweredGenerator.description>使用特殊燃料发电的设备。能够用燃油，神焰燃剂或者FSX作为燃料。</ChemfuelPoweredGenerator.description>
+  
+  <!-- EN: coal power plant -->
+  <CoalPowerPlant.label>燃煤发电机</CoalPowerPlant.label>
+  <!-- EN: The Coal Power Plant that produces electricity by burning coal-like fuels. Can be fueled with Coal Ore or Peat.\nPower output: 2,000 W. -->
+  <CoalPowerPlant.description>使用煤炭类燃料来发电的设备。能够使用煤炭或者泥炭作为燃料。电力输出：2000W。</CoalPowerPlant.description>
+  
+  <!-- EN: fission battery -->
+  <FissionBattery.label>裂变电池</FissionBattery.label>
+  <!-- EN: Stores electricity and recycles charge using fission processes. Slightly more efficient than standard batteries. Warning - charged batteries tend to explode when heated or wet. Holds up to 4,000 W. -->
+  <FissionBattery.description>用元素裂变反应来储存多余的电力并在电力供给不足时释放电力，比普通的蓄电池更加高效高量。警告：充满的电池在暴露于雨水或火焰中时极易爆炸。蓄电量：4000Wd。</FissionBattery.description>
+  
+  <!-- EN: Gause Wind Turbine -->
+  <GauseWindTurbine.label>高斯风力涡轮机</GauseWindTurbine.label>
+  <!-- EN: A wind-powered gause electrical generator. Please keep all limbs and pets away from the turbine area! Power output: 2250 W at maximum wind speed. -->
+  <GauseWindTurbine.description>高斯风力涡轮机发电机。请勿触碰涡轮，特别是手脚，也请注意让动物远离！电力输出：2500W（最大风速）</GauseWindTurbine.description>
+  
+  <!-- EN: geothermal generator -->
+  <GeothermalGenerator.label>地热能发电机</GeothermalGenerator.label>
+  <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.\nPower output: 2,500 W. -->
+  <GeothermalGenerator.description>利用蒸汽间歇喷泉的地热来发电。必须放置在蒸汽间歇喷泉上。电力输出：2500W。</GeothermalGenerator.description>
+  
+  <!-- EN: heavy power conduit -->
+  <HeavyPowerConduit.label>加固电缆</HeavyPowerConduit.label>
+  <!-- EN: A set of heavy electrical cables for moving power around. They are very strong and non-flammable. -->
+  <HeavyPowerConduit.description>一组用于传输电力的电缆。可以安装于墙体和其他建筑之下。非常坚固并且不会被引燃。</HeavyPowerConduit.description>
+  
+  <!-- EN: plasma generator -->
+  <PlasmaGen.label>等离子发电机</PlasmaGen.label>
+  <!-- EN: Produces tax-free electricity through plasma discharges from a Plasma Reactor. It needs to be fully charged first. -->
+  <PlasmaGen.description>通过吸收等离子反应堆运作中释放的大量等离子体，在内部产生连续的放电现象生产电力。不过问题在于，放电工作前，你要先给它充满到可以连续放电的状态。</PlasmaGen.description>
+  
+  <!-- EN: plasma reactor -->
+  <PlasmaGeothermalPlant.label>等离子反应堆</PlasmaGeothermalPlant.label>
+  <!-- EN: Produces tax-free electricity from a steam geyser. Must be placed on a steam geyser. A Plasma Generator can be linked to absorb plasma discharges. Requires to be fueled by Tin or Aluminium. -->
+  <PlasmaGeothermalPlant.description>能够在蒸汽喷泉中生产一定的免费电力。所以必须要放置在蒸汽喷口上。由于运作过程中生成了大量的等离子气体，可以在周围放置一定数量的等离子发电机，利用等离子放电现象发电。需要锡或者铝作为反应介质。</PlasmaGeothermalPlant.description>
+  
+  <!-- EN: power conduit -->
+  <PowerConduit.label>电缆</PowerConduit.label>
+  <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <PowerConduit.description>一组用于传输电力的电缆。可以安装于墙体和其他建筑之下。</PowerConduit.description>
+  
+  <!-- EN: hidden power conduit -->
+  <PowerConduitInvisible.label>隐蔽电缆</PowerConduitInvisible.label>
+  <!-- EN: A set of electrical cables for moving power around. This one is hidden in the ground. -->
+  <PowerConduitInvisible.description>一组用于传输电力的电缆。可以安装于墙体和其他建筑之下。这种电缆可以隐藏于地下。</PowerConduitInvisible.description>
+  
+  <!-- EN: power switch -->
+  <PowerSwitch.label>电力开关</PowerSwitch.label>
+  <!-- EN: Switches power on/off. -->
+  <PowerSwitch.description>连通/断开电网，决定电流是否能够通过。</PowerSwitch.description>
+  
+  <!-- EN: power switch flicker -->
+  <PowerSwitchFlicker.label>自动电力开关</PowerSwitchFlicker.label>
+  <!-- EN: Switches power on/off with autoflicker. -->
+  <PowerSwitchFlicker.description>能够自动连通/断开电网，决定电流是否能够通过。</PowerSwitchFlicker.description>
+  
+  <!-- EN: solar generator -->
+  <SolarGenerator.label>太阳能板</SolarGenerator.label>
+  <!-- EN: Produces electricity from sunlight. Does not work in the dark. -->
+  <SolarGenerator.description>利用太阳光来发电，在阳光不足时不工作，人工光源无法用作发电。</SolarGenerator.description>
+  
+  <!-- EN: tesla lightning generator -->
+  <TeslaLigthningPower.label>特斯拉电弧发生器</TeslaLigthningPower.label>
+  <!-- EN: Harness the incredible power source of lightning through the invention of Nikola Tesla, the Tesla Lightning Generator! It needs to cool off from time to time when it gets too hot. Power output: 6,000 W. -->
+  <TeslaLigthningPower.description>通过尼古拉-特斯拉发明的“特斯拉电弧发生器”，利用生成的电弧作为强大的能量源！缺点是这东西很容易就过热，需要经常停机冷却！电力输出：6000W</TeslaLigthningPower.description>
+  
+  <!-- EN: thermoelectric generator -->
+  <ThermoelectricGenerator.label>温差发电机</ThermoelectricGenerator.label>
+  <!-- EN: Produces electricity from differences in temperatures between two rooms. Should be placed in a wall. Example: At 1,600 C (2,912 F) difference, power output is 16,200 W at 600% efficiency. -->
+  <ThermoelectricGenerator.description>一种安装在墙上利用两端温差效应来发电的设备。例如：当温差1600摄氏度时，发电机的将有600%的工作效率，电力输出16200W。</ThermoelectricGenerator.description>
+  
+  <!-- EN: scheduled switch -->
+  <TimerSwitch.label>定时开关</TimerSwitch.label>
+  <!-- EN: Switches power on/off based on the time of day. -->
+  <TimerSwitch.description>够依据时间自动连通/断开电网，决定电流是否能够通过。</TimerSwitch.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>水轮发电机</WatermillGenerator.label>
+  <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
+  <WatermillGenerator.description>通过河流的动能的产生电力。必须把有轮子的那一侧放置在流动的水里。如果水轮相互之间摆放得太近，其产生的湍流会对整体产生干扰，降低发电量。</WatermillGenerator.description>
+  
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduit.label>防水电缆</WaterproofConduit.label>
+  <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
+  <WaterproofConduit.description>能铺设在浅水下安全传输电力的绝缘电缆。</WaterproofConduit.description>
+  
+  <!-- EN: wind turbine -->
+  <WindTurbine.label>风力发电机</WindTurbine.label>
+  <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. Power output: 1,050 W at maximum wind speed. -->
+  <WindTurbine.description>一个风力驱动的发电机，前后需要较大的空旷空间，以获得最理想的气流。最大电力输出：1050W。</WindTurbine.description>
+  
+  <!-- EN: steam generator -->
+  <WoodFiredGenerator.label>蒸汽发电机</WoodFiredGenerator.label>
+  <!-- EN: The basic Steam Generator that produces electricity. Can be fueled with Ethanol Fuel, Charcoal, Kindling and wooden stuff.\nPower output: around 750 W. -->
+  <WoodFiredGenerator.description>基础的蒸汽发电设备。能够使用化合燃料，木炭，柴火和其它木质材料作为燃料。电力输出约：750W。</WoodFiredGenerator.description>
+  
+  <!-- EN: xenon-ion turbine -->
+  <XenonIonTurbine.label>氙离子涡轮机</XenonIonTurbine.label>
+  <!-- EN: Must be placed on a steam geyser. The Xenon-Ion Turbine produces power from extreme heat, and efficiency can go above 100%. Example: At 250 C (482 F) power output is 5,000 W with 150% efficiency. -->
+  <XenonIonTurbine.description>通过收集自水中的氙气并电离成等离子体来发电。必须放置于间隙泉之上。温度越高，工作效率越高，甚至可以超过100%。例如：温度处于250摄氏度时，涡轮机工作效率约为150%，发电量为5000W。</XenonIonTurbine.description>
+  
 </LanguageData>

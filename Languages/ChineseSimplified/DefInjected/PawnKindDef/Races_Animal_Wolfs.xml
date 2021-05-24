@@ -1,82 +1,91 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Wolves -->
-
-  <Wolf_Timber.label>森林狼</Wolf_Timber.label>
-  <Wolf_Timber.labelPlural>森林狼</Wolf_Timber.labelPlural>
-  <Wolf_Timber.lifeStages.0.label>森林狼幼崽</Wolf_Timber.lifeStages.0.label>
-  <Wolf_Timber.lifeStages.0.labelPlural>森林狼幼崽</Wolf_Timber.lifeStages.0.labelPlural>
-  <Wolf_Timber.lifeStages.0.labelMale>森林狼幼崽</Wolf_Timber.lifeStages.0.labelMale>
-  <Wolf_Timber.lifeStages.0.labelMalePlural>森林狼幼崽</Wolf_Timber.lifeStages.0.labelMalePlural>
-  <Wolf_Timber.lifeStages.0.labelFemale>森林狼幼崽</Wolf_Timber.lifeStages.0.labelFemale>
-  <Wolf_Timber.lifeStages.0.labelFemalePlural>森林狼幼崽</Wolf_Timber.lifeStages.0.labelFemalePlural>
-  <Wolf_Timber.lifeStages.1.label>幼年森林狼</Wolf_Timber.lifeStages.1.label>
-  <Wolf_Timber.lifeStages.1.labelPlural>幼年森林狼</Wolf_Timber.lifeStages.1.labelPlural>
-  <Wolf_Timber.lifeStages.1.labelMale>幼年公森林狼</Wolf_Timber.lifeStages.1.labelMale>
-  <Wolf_Timber.lifeStages.1.labelMalePlural>幼年公森林狼</Wolf_Timber.lifeStages.1.labelMalePlural>
-  <Wolf_Timber.lifeStages.1.labelFemale>幼年母森林狼</Wolf_Timber.lifeStages.1.labelFemale>
-  <Wolf_Timber.lifeStages.1.labelFemalePlural>幼年母森林狼</Wolf_Timber.lifeStages.1.labelFemalePlural>
-  <Wolf_Timber.lifeStages.2.label>森林狼</Wolf_Timber.lifeStages.2.label>
-  <Wolf_Timber.lifeStages.2.labelPlural>森林狼</Wolf_Timber.lifeStages.2.labelPlural>
-  <Wolf_Timber.lifeStages.2.labelMale>公森林狼</Wolf_Timber.lifeStages.2.labelMale>
-  <Wolf_Timber.lifeStages.2.labelMalePlural>公森林狼</Wolf_Timber.lifeStages.2.labelMalePlural>
-  <Wolf_Timber.lifeStages.2.labelFemale>母森林狼</Wolf_Timber.lifeStages.2.labelFemale>
-  <Wolf_Timber.lifeStages.2.labelFemalePlural>母森林狼</Wolf_Timber.lifeStages.2.labelFemalePlural>
-  <Wolf_Timber.labelMale>公森林狼</Wolf_Timber.labelMale>
-  <Wolf_Timber.labelMalePlural>公森林狼</Wolf_Timber.labelMalePlural>
-  <Wolf_Timber.labelFemale>母森林狼</Wolf_Timber.labelFemale>
-  <Wolf_Timber.labelFemalePlural>母森林狼</Wolf_Timber.labelFemalePlural>
-
-  <Wolf_Arctic.label>北极狼</Wolf_Arctic.label>
-  <Wolf_Arctic.labelPlural>北极狼</Wolf_Arctic.labelPlural>
-  <Wolf_Arctic.lifeStages.0.label>北极狼幼崽</Wolf_Arctic.lifeStages.0.label>
-  <Wolf_Arctic.lifeStages.0.labelPlural>北极狼幼崽</Wolf_Arctic.lifeStages.0.labelPlural>
-  <Wolf_Arctic.lifeStages.0.labelMale>北极狼幼崽</Wolf_Arctic.lifeStages.0.labelMale>
-  <Wolf_Arctic.lifeStages.0.labelMalePlural>北极狼幼崽</Wolf_Arctic.lifeStages.0.labelMalePlural>
-  <Wolf_Arctic.lifeStages.0.labelFemale>北极狼幼崽</Wolf_Arctic.lifeStages.0.labelFemale>
-  <Wolf_Arctic.lifeStages.0.labelFemalePlural>北极狼幼崽</Wolf_Arctic.lifeStages.0.labelFemalePlural>
-  <Wolf_Arctic.lifeStages.1.label>幼年北极狼</Wolf_Arctic.lifeStages.1.label>
-  <Wolf_Arctic.lifeStages.1.labelPlural>幼年北极狼</Wolf_Arctic.lifeStages.1.labelPlural>
-  <Wolf_Arctic.lifeStages.1.labelMale>幼年公北极狼</Wolf_Arctic.lifeStages.1.labelMale>
-  <Wolf_Arctic.lifeStages.1.labelMalePlural>幼年公北极狼</Wolf_Arctic.lifeStages.1.labelMalePlural>
-  <Wolf_Arctic.lifeStages.1.labelFemale>幼年母北极狼</Wolf_Arctic.lifeStages.1.labelFemale>
-  <Wolf_Arctic.lifeStages.1.labelFemalePlural>幼年母北极狼</Wolf_Arctic.lifeStages.1.labelFemalePlural>
-  <Wolf_Arctic.lifeStages.2.label>北极狼</Wolf_Arctic.lifeStages.2.label>
-  <Wolf_Arctic.lifeStages.2.labelPlural>北极狼</Wolf_Arctic.lifeStages.2.labelPlural>
-  <Wolf_Arctic.lifeStages.2.labelMale>公北极狼</Wolf_Arctic.lifeStages.2.labelMale>
-  <Wolf_Arctic.lifeStages.2.labelMalePlural>公北极狼</Wolf_Arctic.lifeStages.2.labelMalePlural>
-  <Wolf_Arctic.lifeStages.2.labelFemale>母北极狼</Wolf_Arctic.lifeStages.2.labelFemale>
-  <Wolf_Arctic.lifeStages.2.labelFemalePlural>母北极狼</Wolf_Arctic.lifeStages.2.labelFemalePlural>
-  <Wolf_Arctic.labelMale>公北极狼</Wolf_Arctic.labelMale>
-  <Wolf_Arctic.labelMalePlural>公北极狼</Wolf_Arctic.labelMalePlural>
-  <Wolf_Arctic.labelFemale>母北极狼</Wolf_Arctic.labelFemale>
-  <Wolf_Arctic.labelFemalePlural>母北极狼</Wolf_Arctic.labelFemalePlural>
-
+  
+  <!-- EN: black wolf -->
   <Rimwolf.label>黑狼</Rimwolf.label>
-  <Rimwolf.labelPlural>黑狼</Rimwolf.labelPlural>
-  <Rimwolf.lifeStages.0.label>黑狼崽</Rimwolf.lifeStages.0.label>
-  <Rimwolf.lifeStages.0.labelPlural>黑狼崽</Rimwolf.lifeStages.0.labelPlural>
-  <Rimwolf.lifeStages.0.labelMale>雄性黑狼崽</Rimwolf.lifeStages.0.labelMale>
-  <Rimwolf.lifeStages.0.labelMalePlural>雄性黑狼崽</Rimwolf.lifeStages.0.labelMalePlural>
-  <Rimwolf.lifeStages.0.labelFemale>雌性黑狼崽</Rimwolf.lifeStages.0.labelFemale>
-  <Rimwolf.lifeStages.0.labelFemalePlural>雌性黑狼崽</Rimwolf.lifeStages.0.labelFemalePlural>
-  <Rimwolf.lifeStages.1.label>黑狼</Rimwolf.lifeStages.1.label>
-  <Rimwolf.lifeStages.1.labelPlural>黑狼</Rimwolf.lifeStages.1.labelPlural>
-  <Rimwolf.lifeStages.1.labelMale>雄性黑狼</Rimwolf.lifeStages.1.labelMale>
-  <Rimwolf.lifeStages.1.labelMalePlural>雄性黑狼</Rimwolf.lifeStages.1.labelMalePlural>
-  <Rimwolf.lifeStages.1.labelFemale>雌性黑狼</Rimwolf.lifeStages.1.labelFemale>
-  <Rimwolf.lifeStages.1.labelFemalePlural>雌性黑狼</Rimwolf.lifeStages.1.labelFemalePlural>
-  <Rimwolf.lifeStages.2.label>黑狼</Rimwolf.lifeStages.2.label>
-  <Rimwolf.lifeStages.2.labelPlural>黑狼</Rimwolf.lifeStages.2.labelPlural>
-  <Rimwolf.lifeStages.2.labelMale>雄性黑狼</Rimwolf.lifeStages.2.labelMale>
-  <Rimwolf.lifeStages.2.labelMalePlural>雄性黑狼</Rimwolf.lifeStages.2.labelMalePlural>
-  <Rimwolf.lifeStages.2.labelFemale>雌性黑狼</Rimwolf.lifeStages.2.labelFemale>
-  <Rimwolf.lifeStages.2.labelFemalePlural>雌性黑狼</Rimwolf.lifeStages.2.labelFemalePlural>
-  <Rimwolf.labelMale>雄性黑狼</Rimwolf.labelMale>
-  <Rimwolf.labelMalePlural>雄性黑狼</Rimwolf.labelMalePlural>
   <Rimwolf.labelFemale>雌性黑狼</Rimwolf.labelFemale>
   <Rimwolf.labelFemalePlural>雌性黑狼</Rimwolf.labelFemalePlural>
-
-
+  <Rimwolf.labelMale>雄性黑狼</Rimwolf.labelMale>
+  <Rimwolf.labelMalePlural>雄性黑狼</Rimwolf.labelMalePlural>
+  <!-- EN: black wolves -->
+  <Rimwolf.labelPlural>黑狼</Rimwolf.labelPlural>
+  <!-- EN: blackwolf puppy -->
+  <Rimwolf.lifeStages.blackwolf_puppy.label>黑狼崽</Rimwolf.lifeStages.blackwolf_puppy.label>
+  <Rimwolf.lifeStages.blackwolf_puppy.labelFemale>雌性黑狼崽</Rimwolf.lifeStages.blackwolf_puppy.labelFemale>
+  <Rimwolf.lifeStages.blackwolf_puppy.labelFemalePlural>雌性黑狼崽</Rimwolf.lifeStages.blackwolf_puppy.labelFemalePlural>
+  <Rimwolf.lifeStages.blackwolf_puppy.labelMale>雄性黑狼崽</Rimwolf.lifeStages.blackwolf_puppy.labelMale>
+  <Rimwolf.lifeStages.blackwolf_puppy.labelMalePlural>雄性黑狼崽</Rimwolf.lifeStages.blackwolf_puppy.labelMalePlural>
+  <!-- EN: blackwolf puppies -->
+  <Rimwolf.lifeStages.blackwolf_puppy.labelPlural>黑狼崽</Rimwolf.lifeStages.blackwolf_puppy.labelPlural>
+  <Rimwolf.lifeStages.1.label>黑狼</Rimwolf.lifeStages.1.label>
+  <Rimwolf.lifeStages.1.labelFemale>雌性黑狼</Rimwolf.lifeStages.1.labelFemale>
+  <Rimwolf.lifeStages.1.labelFemalePlural>雌性黑狼</Rimwolf.lifeStages.1.labelFemalePlural>
+  <Rimwolf.lifeStages.1.labelMale>雄性黑狼</Rimwolf.lifeStages.1.labelMale>
+  <Rimwolf.lifeStages.1.labelMalePlural>雄性黑狼</Rimwolf.lifeStages.1.labelMalePlural>
+  <Rimwolf.lifeStages.1.labelPlural>黑狼</Rimwolf.lifeStages.1.labelPlural>
+  <Rimwolf.lifeStages.2.label>黑狼</Rimwolf.lifeStages.2.label>
+  <Rimwolf.lifeStages.2.labelFemale>雌性黑狼</Rimwolf.lifeStages.2.labelFemale>
+  <Rimwolf.lifeStages.2.labelFemalePlural>雌性黑狼</Rimwolf.lifeStages.2.labelFemalePlural>
+  <Rimwolf.lifeStages.2.labelMale>雄性黑狼</Rimwolf.lifeStages.2.labelMale>
+  <Rimwolf.lifeStages.2.labelMalePlural>雄性黑狼</Rimwolf.lifeStages.2.labelMalePlural>
+  <Rimwolf.lifeStages.2.labelPlural>黑狼</Rimwolf.lifeStages.2.labelPlural>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>北极狼</Wolf_Arctic.label>
+  <Wolf_Arctic.labelFemale>母北极狼</Wolf_Arctic.labelFemale>
+  <Wolf_Arctic.labelFemalePlural>母北极狼</Wolf_Arctic.labelFemalePlural>
+  <Wolf_Arctic.labelMale>公北极狼</Wolf_Arctic.labelMale>
+  <Wolf_Arctic.labelMalePlural>公北极狼</Wolf_Arctic.labelMalePlural>
+  <!-- EN: arctic wolves -->
+  <Wolf_Arctic.labelPlural>北极狼</Wolf_Arctic.labelPlural>
+  <!-- EN: arctic wolf puppy -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>北极狼幼崽</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>北极狼幼崽</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>北极狼幼崽</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>北极狼幼崽</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>北极狼幼崽</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>
+  <!-- EN: arctic wolf puppies -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>北极狼幼崽</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
+  <Wolf_Arctic.lifeStages.1.label>幼年北极狼</Wolf_Arctic.lifeStages.1.label>
+  <Wolf_Arctic.lifeStages.1.labelFemale>幼年母北极狼</Wolf_Arctic.lifeStages.1.labelFemale>
+  <Wolf_Arctic.lifeStages.1.labelFemalePlural>幼年母北极狼</Wolf_Arctic.lifeStages.1.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.1.labelMale>幼年公北极狼</Wolf_Arctic.lifeStages.1.labelMale>
+  <Wolf_Arctic.lifeStages.1.labelMalePlural>幼年公北极狼</Wolf_Arctic.lifeStages.1.labelMalePlural>
+  <Wolf_Arctic.lifeStages.1.labelPlural>幼年北极狼</Wolf_Arctic.lifeStages.1.labelPlural>
+  <Wolf_Arctic.lifeStages.2.label>北极狼</Wolf_Arctic.lifeStages.2.label>
+  <Wolf_Arctic.lifeStages.2.labelFemale>母北极狼</Wolf_Arctic.lifeStages.2.labelFemale>
+  <Wolf_Arctic.lifeStages.2.labelFemalePlural>母北极狼</Wolf_Arctic.lifeStages.2.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.2.labelMale>公北极狼</Wolf_Arctic.lifeStages.2.labelMale>
+  <Wolf_Arctic.lifeStages.2.labelMalePlural>公北极狼</Wolf_Arctic.lifeStages.2.labelMalePlural>
+  <Wolf_Arctic.lifeStages.2.labelPlural>北极狼</Wolf_Arctic.lifeStages.2.labelPlural>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>森林狼</Wolf_Timber.label>
+  <Wolf_Timber.labelFemale>母森林狼</Wolf_Timber.labelFemale>
+  <Wolf_Timber.labelFemalePlural>母森林狼</Wolf_Timber.labelFemalePlural>
+  <Wolf_Timber.labelMale>公森林狼</Wolf_Timber.labelMale>
+  <Wolf_Timber.labelMalePlural>公森林狼</Wolf_Timber.labelMalePlural>
+  <!-- EN: timber wolves -->
+  <Wolf_Timber.labelPlural>森林狼</Wolf_Timber.labelPlural>
+  <!-- EN: timber wolf puppy -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>森林狼幼崽</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemale>森林狼幼崽</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemale>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural>森林狼幼崽</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelMale>森林狼幼崽</Wolf_Timber.lifeStages.timber_wolf_puppy.labelMale>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelMalePlural>森林狼幼崽</Wolf_Timber.lifeStages.timber_wolf_puppy.labelMalePlural>
+  <!-- EN: timber wolf puppies -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>森林狼幼崽</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
+  <Wolf_Timber.lifeStages.1.label>幼年森林狼</Wolf_Timber.lifeStages.1.label>
+  <Wolf_Timber.lifeStages.1.labelFemale>幼年母森林狼</Wolf_Timber.lifeStages.1.labelFemale>
+  <Wolf_Timber.lifeStages.1.labelFemalePlural>幼年母森林狼</Wolf_Timber.lifeStages.1.labelFemalePlural>
+  <Wolf_Timber.lifeStages.1.labelMale>幼年公森林狼</Wolf_Timber.lifeStages.1.labelMale>
+  <Wolf_Timber.lifeStages.1.labelMalePlural>幼年公森林狼</Wolf_Timber.lifeStages.1.labelMalePlural>
+  <Wolf_Timber.lifeStages.1.labelPlural>幼年森林狼</Wolf_Timber.lifeStages.1.labelPlural>
+  <Wolf_Timber.lifeStages.2.label>森林狼</Wolf_Timber.lifeStages.2.label>
+  <Wolf_Timber.lifeStages.2.labelFemale>母森林狼</Wolf_Timber.lifeStages.2.labelFemale>
+  <Wolf_Timber.lifeStages.2.labelFemalePlural>母森林狼</Wolf_Timber.lifeStages.2.labelFemalePlural>
+  <Wolf_Timber.lifeStages.2.labelMale>公森林狼</Wolf_Timber.lifeStages.2.labelMale>
+  <Wolf_Timber.lifeStages.2.labelMalePlural>公森林狼</Wolf_Timber.lifeStages.2.labelMalePlural>
+  <Wolf_Timber.lifeStages.2.labelPlural>森林狼</Wolf_Timber.lifeStages.2.labelPlural>
+  
 </LanguageData>

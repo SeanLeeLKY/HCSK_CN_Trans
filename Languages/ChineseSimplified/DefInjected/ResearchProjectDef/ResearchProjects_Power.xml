@@ -1,140 +1,99 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Power -->
-
-  <SK_RenewableI.label>可再生能源 I</SK_RenewableI.label>
-  <SK_RenewableI.description>学习将各种可再生能源转化为电力的知识。解锁建造风力发电机。</SK_RenewableI.description>
-
-
-  <!-- WindTurbine -->
-
-  <SolarPanels.label>可再生能源 II</SolarPanels.label>
-  <SolarPanels.description>我们在能源技术上的步伐开始加快，现在我们可以直接利用太阳能了。解锁太阳能发电设备。</SolarPanels.description>
-
-
-  <!-- SolarGenerator -->
-
-  <WatermillGenerator.label>可再生能源 III</WatermillGenerator.label>
-  <WatermillGenerator.description>解锁建造「水轮发电机」。建造在河流上，提供无消耗不间断的电力。</WatermillGenerator.description>
-
-
-  <!-- WatermillGenerator -->
-
-  <GeothermalPower.label>可再生能源 IV</GeothermalPower.label>
-  <GeothermalPower.description>解锁建造「地热发电机」，建造在蒸汽间歇喷泉上，提供不间断的电力。</GeothermalPower.description>
-
-
-  <!-- GeothermalGenerator -->
-
-  <SK_RenewableIV.label>可再生能源 V</SK_RenewableIV.label>
-  <SK_RenewableIV.description>解锁更多高效的发电设备。例如高级风力涡轮机和高级太阳能发电设备。</SK_RenewableIV.description>
-
-
-  <!-- Adv SolarGenerator
-								Adv WindTurbine -->
-
-  <SK_RenewableV.label>可再生能源 VI</SK_RenewableV.label>
-  <SK_RenewableV.description>解锁更多高效的发电设备。例如高斯风力涡轮机和温差发电机。</SK_RenewableV.description>
-
-
-  <!-- GauseWindTurbine
-										ThermoelectricGenerator -->
-
-  <SK_ConvectionalI.label>转化型能源 I</SK_ConvectionalI.label>
-  <SK_ConvectionalI.description>学习如何消耗资源转化为能源的基础方式。解锁建造燃料蒸汽发电机。</SK_ConvectionalI.description>
-
-
-  <!-- SteamGenerator -->
-
-  <SK_ConvectionalII.label>转化型能源 II</SK_ConvectionalII.label>
-  <SK_ConvectionalII.description>研究更多、更高效的转化发电方式，让殖民地拥有更多的发电方式选择。解锁建造燃煤发电站。</SK_ConvectionalII.description>
-
-
-  <!-- CoalPowerPlant -->
-
-  <SK_ConvectionalIII.label>转化型能源 III</SK_ConvectionalIII.label>
-  <SK_ConvectionalIII.description>解锁直接利用燃油发电的工作设备。</SK_ConvectionalIII.description>
-
-
-  <!-- ChemfuelPoweredGenerator
-						WoodFiredGenerator -->
-
-  <SK_ConvectionalIV.label>转化型能源 IV</SK_ConvectionalIV.label>
-  <SK_ConvectionalIV.description>解锁直接利用燃油发电的大型工作设备。</SK_ConvectionalIV.description>
-
-
-  <!-- LargeFuelPowerplant -->
-
-  <SK_PlasmaI.label>等离子能源 I</SK_PlasmaI.label>
-  <SK_PlasmaI.description>解锁建造先进的能源获取途径，如特斯拉闪电发生器。</SK_PlasmaI.description>
-
-
-  <!-- TeslaLigthningPower -->
-
-  <SK_PlasmaII.label>等离子能源 II</SK_PlasmaII.label>
-  <SK_PlasmaII.description>理解电、磁的高级原理。解锁建造环保的等离子发电设施。</SK_PlasmaII.description>
-
-
-  <!-- PlasmaGen
-								PlasmaGeothermalPlant -->
-
-  <SK_PlasmaIII.label>等离子能源 III</SK_PlasmaIII.label>
-  <SK_PlasmaIII.description>对于动态电磁学的深入研究允许您使用高级磁性材料构建先进能源建筑。这项研究能解锁更高层次的在闪耀世界担负基础能源供应的氙离子涡轮机。</SK_PlasmaIII.description>
-
-
-  <!-- XenonIonTurbine -->
-
+  
+  <!-- EN: Infrastructure I -->
   <AirConditioning.label>基础设施 I</AirConditioning.label>
+  <!-- EN: Allows you to build different Lamps, Small coolers and heaters and some Vents. Also increases battery efficiency by 15 percent. -->
   <AirConditioning.description>解锁建造不同类型的灯具，小型冷却器、加热器和通风设备。同时也可以提高15%的电池效率。</AirConditioning.description>
-
-
-  <!-- PowerSwitch
-		StandingLamp
-		FloorAddonA
-		Cooler
-		Heater
-		Vent
-		RH_SmallCooler
-		Heater from RH -->
-
+  
+  <!-- EN: Infrastructure II -->
   <Autodoors.label>基础设施 II</Autodoors.label>
+  <!-- EN: Allows you to build Autodoors, Medium coolers and heaters, Utility Walls. Also increases battery efficiency by 15 percent. -->
   <Autodoors.description>解锁建造自动门，中型冷却器和加热器，各种功能性墙体。同时也可以提高15%的电池效率。</Autodoors.description>
-
-
-  <!-- Autodoor
-						CellDoor
-						ClutterFloorLampA
-						CeilingLamp
-						FloorLightSquare
-						ClutterLampYellow -->
-
-  <ColoredLights.label>彩色灯</ColoredLights.label>
-  <ColoredLights.description>解锁建造装饰性的彩色落地灯。</ColoredLights.description>
-
+  
+  <!-- EN: Infrastructure III -->
   <Batteries.label>基础设施 III</Batteries.label>
+  <!-- EN: Allows you to build Hi-Tech Research Bench, Heavy Power Conduits, Hidden Conduits and Industrial coolers and heaters. Also increases battery efficiency by 15 percent. -->
   <Batteries.description>解锁建造高科技研究台，重型电缆，隐藏电缆，工业冷却器和加热器。同时也可以提高15%的电池效率。</Batteries.description>
-
-
-  <!-- HiTechResearchBench
-						EHeatedFloor
-						WallLamp
-						RopeLight
-						Lighting_WallLight
-						HiTechResearchBench
-						HeavyPowerConduit
-						RH_MediumHeater
-						Cooler from RH
-						PowerConduitInvisible -->
-
+  
+  <!-- EN: Colored lights -->
+  <ColoredLights.label>彩色灯</ColoredLights.label>
+  <!-- EN: Allows colonists to construct colored lights for decorative purposes. -->
+  <ColoredLights.description>解锁建造装饰性的彩色落地灯。</ColoredLights.description>
+  
+  <!-- EN: Renewable power IV -->
+  <GeothermalPower.label>可再生能源 IV</GeothermalPower.label>
+  <!-- EN: What do you do when the sun doesn't shine?  Solar power is great, except when it's dark!  This advancement in power generation unlocks the geothermal generator that can harness the power of the planet! -->
+  <GeothermalPower.description>解锁建造「地热发电机」，建造在蒸汽间歇喷泉上，提供不间断的电力。</GeothermalPower.description>
+  
+  <!-- EN: LED Technology -->
   <LEDTechnologyScience.label>LED技术</LEDTechnologyScience.label>
+  <!-- EN: Allows the construction of more efficient lights and other buildings. -->
   <LEDTechnologyScience.description>解锁建造更加高效的灯具和其他建筑物。</LEDTechnologyScience.description>
-
+  
+  <!-- EN: Conventional power I -->
+  <SK_ConvectionalI.label>转化型能源 I</SK_ConvectionalI.label>
+  <!-- EN: Learn the basics of power generation from conventional resources of this planet. This advancement unlocks Steam Generator. -->
+  <SK_ConvectionalI.description>学习如何消耗资源转化为能源的基础方式。解锁建造燃料蒸汽发电机。</SK_ConvectionalI.description>
+  
+  <!-- EN: Conventional power II -->
+  <SK_ConvectionalII.label>转化型能源 II</SK_ConvectionalII.label>
+  <!-- EN: Further advancements in power technology, give your colonists the ability to use some convectional resources fo obtaining electricity.  Unlocks the Coal Power Plant. -->
+  <SK_ConvectionalII.description>研究更多、更高效的转化发电方式，让殖民地拥有更多的发电方式选择。解锁建造燃煤发电站。</SK_ConvectionalII.description>
+  
+  <!-- EN: Conventional power III -->
+  <SK_ConvectionalIII.label>转化型能源 III</SK_ConvectionalIII.label>
+  <!-- EN: Allows to build advanced power plant for refining some fuel - Fuel Power Plant. -->
+  <SK_ConvectionalIII.description>解锁直接利用燃油发电的工作设备。</SK_ConvectionalIII.description>
+  
+  <!-- EN: Conventional power IV -->
+  <SK_ConvectionalIV.label>转化型能源 IV</SK_ConvectionalIV.label>
+  <!-- EN: Unlocks a large chemfuel powerplant- generating a lot of power. -->
+  <SK_ConvectionalIV.description>解锁直接利用燃油发电的大型工作设备。</SK_ConvectionalIV.description>
+  
+  <!-- EN: Infrastructure IV -->
   <SK_InfrastructureIV.label>基础设施 IV</SK_InfrastructureIV.label>
+  <!-- EN: Allows you to build some advanced Ductwork Elements, Geothermal Heaters and Fission Batteries. -->
   <SK_InfrastructureIV.description>解锁建造管道网络组建，地热加热器以及裂变电池。</SK_InfrastructureIV.description>
-
-
-  <!--<SK_Power.label>电力</SK_Power.label>-->
-  <!--<SK_Power.description>学习基本的发电能力帮助你的殖民者在这种恶劣的环境中生存。解锁了电缆和电池。</SK_Power.description>-->
-
+  
+  <!-- EN: Plasma power I -->
+  <SK_PlasmaI.label>等离子能源 I</SK_PlasmaI.label>
+  <!-- EN: Allows to build advanced power plant - Tesla Lightning Generator. -->
+  <SK_PlasmaI.description>解锁建造先进的能源获取途径，如特斯拉闪电发生器。</SK_PlasmaI.description>
+  
+  <!-- EN: Plasma power II -->
+  <SK_PlasmaII.label>等离子能源 II</SK_PlasmaII.label>
+  <!-- EN: Open secrets of electromagnetics. Allows to build eco-friendly plasma generators. -->
+  <SK_PlasmaII.description>理解电、磁的高级原理。解锁建造环保的等离子发电设施。</SK_PlasmaII.description>
+  
+  <!-- EN: Plasma power III -->
+  <SK_PlasmaIII.label>等离子能源 III</SK_PlasmaIII.label>
+  <!-- EN: Dynamic Electromagnetics allows you to fabricate advanced buildings using electromagnetic components. This unlocks the upper tier of power generation and technology found in every Glitter world installation for building Xenon-Ion Turbine. -->
+  <SK_PlasmaIII.description>对于动态电磁学的深入研究允许您使用高级磁性材料构建先进能源建筑。这项研究能解锁更高层次的在闪耀世界担负基础能源供应的氙离子涡轮机。</SK_PlasmaIII.description>
+  
+  <!-- EN: Renewable power I -->
+  <SK_RenewableI.label>可再生能源 I</SK_RenewableI.label>
+  <!-- EN: Learn the basics of power generation from renewable resourses of this planet. This advancement unlocks Wind Turbine. -->
+  <SK_RenewableI.description>学习将各种可再生能源转化为电力的知识。解锁建造风力发电机。</SK_RenewableI.description>
+  
+  <!-- EN: Renewable power V -->
+  <SK_RenewableIV.label>可再生能源 V</SK_RenewableIV.label>
+  <!-- EN: Allows to build advanced power plants: Gauss wind turbine and thermoelectric generator. -->
+  <SK_RenewableIV.description>解锁更多高效的发电设备。例如高级风力涡轮机和高级太阳能发电设备。</SK_RenewableIV.description>
+  
+  <!-- EN: Renewable power VI -->
+  <SK_RenewableV.label>可再生能源 VI</SK_RenewableV.label>
+  <!-- EN: Allows to build advanced power plants: Gauss wind turbine and thermoelectric generator. -->
+  <SK_RenewableV.description>解锁更多高效的发电设备。例如高斯风力涡轮机和温差发电机。</SK_RenewableV.description>
+  
+  <!-- EN: Renewable power II -->
+  <SolarPanels.label>可再生能源 II</SolarPanels.label>
+  <!-- EN: Further advancements in power technology, give your colonists the ability to harness the power of the sun.  Unlocks the solar powered generator. -->
+  <SolarPanels.description>我们在能源技术上的步伐开始加快，现在我们可以直接利用太阳能了。解锁太阳能发电设备。</SolarPanels.description>
+  
+  <!-- EN: Renewable power III -->
+  <WatermillGenerator.label>可再生能源 III</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>解锁建造「水轮发电机」。建造在河流上，提供无消耗不间断的电力。</WatermillGenerator.description>
+  
 </LanguageData>

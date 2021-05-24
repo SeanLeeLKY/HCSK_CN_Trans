@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: r_name(p=2)->[Kingdom] of [ofThing] -->
+  <NamerFactionKingdom.rulePack.rulesStrings.0>r_name(p=2)->[ofThing][Kingdom]</NamerFactionKingdom.rulePack.rulesStrings.0>
+  <!-- EN: r_name(p=2)->The [Kingdom] of [ofThing] -->
+  <NamerFactionKingdom.rulePack.rulesStrings.1>r_name(p=2)->[ofThing][Kingdom]</NamerFactionKingdom.rulePack.rulesStrings.1>
+  <!-- EN: r_name->The Exodus [Kingdom] -->
+  <NamerFactionKingdom.rulePack.rulesStrings.2>r_name->迁徙[Kingdom]</NamerFactionKingdom.rulePack.rulesStrings.2>
+  <!-- EN: r_name->The Refugee [Kingdom] -->
+  <NamerFactionKingdom.rulePack.rulesStrings.3>r_name->难民[Kingdom]</NamerFactionKingdom.rulePack.rulesStrings.3>
+  <!-- EN: r_name->The Broken [Kingdom] -->
+  <NamerFactionKingdom.rulePack.rulesStrings.4>r_name->破碎[Kingdom]</NamerFactionKingdom.rulePack.rulesStrings.4>
+  <!-- EN: r_name->The Shattered [Kingdom] -->
+  <NamerFactionKingdom.rulePack.rulesStrings.5>r_name->崩坏[Kingdom]</NamerFactionKingdom.rulePack.rulesStrings.5>
+  <!-- EN: r_name->The Fallen [Kingdom] -->
+  <NamerFactionKingdom.rulePack.rulesStrings.6>r_name->堕落[Kingdom]</NamerFactionKingdom.rulePack.rulesStrings.6>
+  <!-- EN: r_name->The [Color] [Kingdom] -->
+  <NamerFactionKingdom.rulePack.rulesStrings.7>r_name->[Color]色[Kingdom]</NamerFactionKingdom.rulePack.rulesStrings.7>
+  <!-- EN: Kingdom(p=4)->Kingdom -->
+  <NamerFactionKingdom.rulePack.rulesStrings.8>Kingdom(p=4)->王国</NamerFactionKingdom.rulePack.rulesStrings.8>
+  <!-- EN: Kingdom->Commonwealth -->
+  <NamerFactionKingdom.rulePack.rulesStrings.9>Kingdom->联邦</NamerFactionKingdom.rulePack.rulesStrings.9>
+  <!-- EN: Kingdom->Dominion -->
+  <NamerFactionKingdom.rulePack.rulesStrings.10>Kingdom->主权</NamerFactionKingdom.rulePack.rulesStrings.10>
+  <!-- EN: Kingdom->Sovereignty -->
+  <NamerFactionKingdom.rulePack.rulesStrings.11>Kingdom->君主国</NamerFactionKingdom.rulePack.rulesStrings.11>
+  <!-- EN: ofThing(p=4)->[WordImperial] -->
+  <NamerFactionKingdom.rulePack.rulesStrings.12>ofThing(p=4)->[WordImperial]</NamerFactionKingdom.rulePack.rulesStrings.12>
+  <!-- EN: ofThing->the Sun -->
+  <NamerFactionKingdom.rulePack.rulesStrings.13>ofThing->太阳</NamerFactionKingdom.rulePack.rulesStrings.13>
+  <!-- EN: ofThing->the Moon -->
+  <NamerFactionKingdom.rulePack.rulesStrings.14>ofThing->月亮</NamerFactionKingdom.rulePack.rulesStrings.14>
+  <!-- EN: ofThing->the Universe -->
+  <NamerFactionKingdom.rulePack.rulesStrings.15>ofThing->宇宙</NamerFactionKingdom.rulePack.rulesStrings.15>
+  <!-- EN: ofThing->God -->
+  <NamerFactionKingdom.rulePack.rulesStrings.16>ofThing->上帝</NamerFactionKingdom.rulePack.rulesStrings.16>
+  <!-- EN: ofThing->Perfection -->
+  <NamerFactionKingdom.rulePack.rulesStrings.17>ofThing->完美</NamerFactionKingdom.rulePack.rulesStrings.17>
+  <!-- EN: ofThing->Eternity -->
+  <NamerFactionKingdom.rulePack.rulesStrings.18>ofThing->永恒</NamerFactionKingdom.rulePack.rulesStrings.18>
+  <!-- EN: ofThing->the Spirit -->
+  <NamerFactionKingdom.rulePack.rulesStrings.19>ofThing->精神</NamerFactionKingdom.rulePack.rulesStrings.19>
+  
+  <!-- EN: r_name->[townname_wordgen] -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.0>r_name->[townname_wordgen]</NamerSettlementKingdom.rulePack.rulesStrings.0>
+  <!-- EN: r_name->[townname_fixed] -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.1>r_name->[townname_fixed]</NamerSettlementKingdom.rulePack.rulesStrings.1>
+  <!-- EN: townname_wordgen->[WordImperial] -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.2>townname_wordgen->[WordImperial]</NamerSettlementKingdom.rulePack.rulesStrings.2>
+  <!-- EN: townname_wordgen->[WordImperial][townend] -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.3>townname_wordgen->[WordImperial][townend]</NamerSettlementKingdom.rulePack.rulesStrings.3>
+  <!-- EN: townend(p=3)->ium -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.4>townend(p=3)->纽姆</NamerSettlementKingdom.rulePack.rulesStrings.4>
+  <!-- EN: townend(p=3)->ior -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.5>townend(p=3)->尼欧</NamerSettlementKingdom.rulePack.rulesStrings.5>
+  <!-- EN: townend(p=3)->polis -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.6>townend(p=3)->珀丽斯</NamerSettlementKingdom.rulePack.rulesStrings.6>
+  <!-- EN: townend->nor -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.7>townend->诺</NamerSettlementKingdom.rulePack.rulesStrings.7>
+  <!-- EN: townend->lan -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.8>townend->岚</NamerSettlementKingdom.rulePack.rulesStrings.8>
+  <!-- EN: townend->lax -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.9>townend->拉克丝</NamerSettlementKingdom.rulePack.rulesStrings.9>
+  <!-- EN: townend->lix -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.10>townend->利克斯</NamerSettlementKingdom.rulePack.rulesStrings.10>
+  <!-- EN: townend->lin -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.11>townend->林</NamerSettlementKingdom.rulePack.rulesStrings.11>
+  <!-- EN: townend->lian -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.12>townend->利安</NamerSettlementKingdom.rulePack.rulesStrings.12>
+  <!-- EN: townend->phrum -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.13>townend->弗朗</NamerSettlementKingdom.rulePack.rulesStrings.13>
+  <!-- EN: townend->phor -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.14>townend->佛尔</NamerSettlementKingdom.rulePack.rulesStrings.14>
+  <!-- EN: townend->teor -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.15>townend->特尔</NamerSettlementKingdom.rulePack.rulesStrings.15>
+  <!-- EN: townend->ople -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.16>townend->欧佛</NamerSettlementKingdom.rulePack.rulesStrings.16>
+  <!-- EN: townend->opium -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.17>townend->欧皮里</NamerSettlementKingdom.rulePack.rulesStrings.17>
+  <!-- EN: townend->or -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.18>townend->厄</NamerSettlementKingdom.rulePack.rulesStrings.18>
+  <!-- EN: townend->aetor -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.19>townend->埃托</NamerSettlementKingdom.rulePack.rulesStrings.19>
+  <!-- EN: townend->aeum -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.20>townend->阿兰</NamerSettlementKingdom.rulePack.rulesStrings.20>
+  <!-- EN: townend->aetium -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.21>townend->艾提姆</NamerSettlementKingdom.rulePack.rulesStrings.21>
+  <!-- EN: townend->am -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.22>townend->安姆</NamerSettlementKingdom.rulePack.rulesStrings.22>
+  <!-- EN: townend->aeum -->
+  <NamerSettlementKingdom.rulePack.rulesStrings.23>townend->诶阿姆</NamerSettlementKingdom.rulePack.rulesStrings.23>
+  
+</LanguageData>

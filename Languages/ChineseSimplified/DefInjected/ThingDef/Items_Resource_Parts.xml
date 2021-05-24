@@ -1,97 +1,145 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- REALISTIC PRODUCTION SK MOD -->
-
-  <ComponentMedieval.label>原始零部件</ComponentMedieval.label>
-  <ComponentMedieval.description>中世纪的各种木制部件。</ComponentMedieval.description>
-
-  <ComponentIndustrial.label>普通零部件</ComponentIndustrial.label>
-  <ComponentIndustrial.description>各种齿轮，电容器，电路板，管，轮子，传感器，电线，芯片，处理器，和其他电子和工业部件。组装复杂机器或电子产品的必需品。</ComponentIndustrial.description>
-
-  <ComponentAdvanced.label>先进零部件</ComponentAdvanced.label>
-  <ComponentAdvanced.description>各种齿轮，电容器，电路板，管，轮子，传感器，电线，芯片，处理器，和其他电子和工业部件。组装复杂机器或电子产品的必需品。</ComponentAdvanced.description>
-
-  <ComponentSpacer.label>高级零部件</ComponentSpacer.label>
-  <ComponentSpacer.description>先进的计算和能量导流装置，应对于小型化和长时间固化，以满足最苛刻的使用条件。</ComponentSpacer.description>
-
-  <ComponentUltra.label>超级零部件</ComponentUltra.label>
-  <ComponentUltra.description>先进的计算和能量导流装置，应对于小型化和长时间固化，以满足最苛刻的使用条件。</ComponentUltra.description>
-
-  <MetalCan.label>金属罐</MetalCan.label>
-  <MetalCan.description>做罐头食品所需的空金属罐。</MetalCan.description>
-
-  <Wire.label>电线</Wire.label>
-  <Wire.description>电线是由高导电性的金属制成的。它在电子器件中用于传导电流。</Wire.description>
-
-  <Pipe.label>钻杆</Pipe.label>
-  <Pipe.description>这种钻杆管道由坚硬的金属制成，需要用于石油钻井平台的生产。</Pipe.description>
-
-  <Weapon_Parts.label>武器部件</Weapon_Parts.label>
-  <Weapon_Parts.description>组成武器的各种通用零件。</Weapon_Parts.description>
-  <Weapon_Parts.stuffProps.stuffAdjective>武器部件</Weapon_Parts.stuffProps.stuffAdjective>
-
-  <Pistol_Component.label>手枪部件</Pistol_Component.label>
-  <Pistol_Component.description>手枪的主要部件。</Pistol_Component.description>
-  <Pistol_Component.stuffProps.stuffAdjective>手枪部件</Pistol_Component.stuffProps.stuffAdjective>
-
-  <SMG_Component.label>冲锋枪部件</SMG_Component.label>
-  <SMG_Component.description>冲锋枪的主要部件。</SMG_Component.description>
-  <SMG_Component.stuffProps.stuffAdjective>冲锋枪部件</SMG_Component.stuffProps.stuffAdjective>
-
-  <Shotgun_Component.label>霰弹枪部件</Shotgun_Component.label>
-  <Shotgun_Component.description>霰弹枪的主要部件。</Shotgun_Component.description>
-  <Shotgun_Component.stuffProps.stuffAdjective>霰弹枪部件</Shotgun_Component.stuffProps.stuffAdjective>
-
-  <Rifle_Component.label>步枪部件</Rifle_Component.label>
-  <Rifle_Component.description>步枪的主要部件。</Rifle_Component.description>
-  <Rifle_Component.stuffProps.stuffAdjective>步枪部件</Rifle_Component.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: advanced mechanism -->
+  <AdvMechanism.label>先进机械组件</AdvMechanism.label>
+  <!-- EN: Advanced mechanism are used in complex machines. They are intricate gear-like parts. -->
+  <AdvMechanism.description>用于构成复杂机械结构的组件。例如一些高精度、高强度的齿轮、轴杆等等。</AdvMechanism.description>
+  
+  <!-- EN: advanced rifle component -->
   <AdvRifle_Component.label>先进步枪部件</AdvRifle_Component.label>
+  <!-- EN: Main components for advanced rifle weapons. -->
   <AdvRifle_Component.description>先进步枪的主要部件。</AdvRifle_Component.description>
   <AdvRifle_Component.stuffProps.stuffAdjective>先进步枪部件</AdvRifle_Component.stuffProps.stuffAdjective>
-
-  <Sniper_Component.label>狙击枪部件</Sniper_Component.label>
-  <Sniper_Component.description>狙击枪的主要部件。</Sniper_Component.description>
-  <Sniper_Component.stuffProps.stuffAdjective>狙击枪部件</Sniper_Component.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: advanced sniper component -->
   <AdvSniper_Component.label>先进狙击枪部件</AdvSniper_Component.label>
+  <!-- EN: Main components for advanced sniper weapons. -->
   <AdvSniper_Component.description>先进狙击枪的主要部件。</AdvSniper_Component.description>
   <AdvSniper_Component.stuffProps.stuffAdjective>先进狙击枪部件</AdvSniper_Component.stuffProps.stuffAdjective>
-
-  <Heavy_Component.label>重型武器部件</Heavy_Component.label>
-  <Heavy_Component.description>重型武器的主要部件。</Heavy_Component.description>
-  <Heavy_Component.stuffProps.stuffAdjective>重型武器部件</Heavy_Component.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: cannon weapon component -->
   <Cannon_Component.label>火炮武器部件</Cannon_Component.label>
+  <!-- EN: Main components for cannons. -->
   <Cannon_Component.description>火炮武器的主要部件。</Cannon_Component.description>
   <Cannon_Component.stuffProps.stuffAdjective>火炮武器部件</Cannon_Component.stuffProps.stuffAdjective>
-
-  <Launcher_Component.label>发射器部件</Launcher_Component.label>
-  <Launcher_Component.description>发射器的主要部件。</Launcher_Component.description>
-  <Launcher_Component.stuffProps.stuffAdjective>发射器部件</Launcher_Component.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: charged weapon component -->
   <Charged_Component.label>电荷武器部件</Charged_Component.label>
+  <!-- EN: Main components for charged weapons. -->
   <Charged_Component.description>电荷武器的主要部件。</Charged_Component.description>
   <Charged_Component.stuffProps.stuffAdjective>电荷武器部件</Charged_Component.stuffProps.stuffAdjective>
-
-  <Plasma_Component.label>离子武器部件</Plasma_Component.label>
-  <Plasma_Component.description>离子武器的主要部件。</Plasma_Component.description>
-  <Plasma_Component.stuffProps.stuffAdjective>离子武器部件</Plasma_Component.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: advanced component -->
+  <ComponentAdvanced.label>先进零部件</ComponentAdvanced.label>
+  <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
+  <ComponentAdvanced.description>各种齿轮，电容器，电路板，管，轮子，传感器，电线，芯片，处理器，和其他电子和工业部件。组装复杂机器或电子产品的必需品。</ComponentAdvanced.description>
+  
+  <!-- EN: component -->
+  <ComponentIndustrial.label>普通零部件</ComponentIndustrial.label>
+  <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
+  <ComponentIndustrial.description>各种齿轮，电容器，电路板，管，轮子，传感器，电线，芯片，处理器，和其他电子和工业部件。组装复杂机器或电子产品的必需品。</ComponentIndustrial.description>
+  
+  <!-- EN: primitive component -->
+  <ComponentMedieval.label>原始零部件</ComponentMedieval.label>
+  <!-- EN: Miscellaneous various simple components from medieval era. -->
+  <ComponentMedieval.description>中世纪的各种木制部件。</ComponentMedieval.description>
+  
+  <!-- EN: spacer component -->
+  <ComponentSpacer.label>高级零部件</ComponentSpacer.label>
+  <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
+  <ComponentSpacer.description>先进的计算和能量导流装置，应对于小型化和长时间固化，以满足最苛刻的使用条件。</ComponentSpacer.description>
+  
+  <!-- EN: ultra component -->
+  <ComponentUltra.label>超级零部件</ComponentUltra.label>
+  <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
+  <ComponentUltra.description>先进的计算和能量导流装置，应对于小型化和长时间固化，以满足最苛刻的使用条件。</ComponentUltra.description>
+  
+  <!-- EN: heavy weapon component -->
+  <Heavy_Component.label>重型武器部件</Heavy_Component.label>
+  <!-- EN: Main components for heavy weapons. -->
+  <Heavy_Component.description>重型武器的主要部件。</Heavy_Component.description>
+  <Heavy_Component.stuffProps.stuffAdjective>重型武器部件</Heavy_Component.stuffProps.stuffAdjective>
+  
+  <!-- EN: laser rifle component -->
   <Laser_Component.label>光束武器部件</Laser_Component.label>
+  <!-- EN: Main components for laser rifle weapons. -->
   <Laser_Component.description>光束武器的主要部件。</Laser_Component.description>
   <Laser_Component.stuffProps.stuffAdjective>光束武器部件</Laser_Component.stuffProps.stuffAdjective>
-
-  <ReinforcedConcrete.label>钢筋混凝土</ReinforcedConcrete.label>
-  <ReinforcedConcrete.description>钢筋混凝土是由混凝土和金属制成的，是一种加强混合物。</ReinforcedConcrete.description>
-  <ReinforcedConcrete.stuffProps.stuffAdjective>钢筋混凝土</ReinforcedConcrete.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: launcher weapon component -->
+  <Launcher_Component.label>发射器部件</Launcher_Component.label>
+  <!-- EN: Main components for rocket launcher weapons. -->
+  <Launcher_Component.description>发射器的主要部件。</Launcher_Component.description>
+  <Launcher_Component.stuffProps.stuffAdjective>发射器部件</Launcher_Component.stuffProps.stuffAdjective>
+  
+  <!-- EN: mechanism -->
   <Mechanism.label>机械组件</Mechanism.label>
+  <!-- EN: Simple mechanisms are used in simple machines. They are gear-like parts. -->
   <Mechanism.description>用于简单机械的组成部件。大概就是长得像齿轮的一些东西。</Mechanism.description>
-
-  <AdvMechanism.label>先进机械组件</AdvMechanism.label>
-  <AdvMechanism.description>用于构成复杂机械结构的组件。例如一些高精度、高强度的齿轮、轴杆等等。</AdvMechanism.description>
-
-
+  
+  <!-- EN: metal can -->
+  <MetalCan.label>金属罐</MetalCan.label>
+  <!-- EN: Empty metal cans are needed for canned meals. -->
+  <MetalCan.description>做罐头食品所需的空金属罐。</MetalCan.description>
+  
+  <!-- EN: pipe -->
+  <Pipe.label>钻杆</Pipe.label>
+  <!-- EN: Pipes is produced from tough metals and need to work producing oil rigs. -->
+  <Pipe.description>这种钻杆管道由坚硬的金属制成，需要用于石油钻井平台的生产。</Pipe.description>
+  
+  <!-- EN: pistol component -->
+  <Pistol_Component.label>手枪部件</Pistol_Component.label>
+  <!-- EN: Main components for pistol weapons. -->
+  <Pistol_Component.description>手枪的主要部件。</Pistol_Component.description>
+  <Pistol_Component.stuffProps.stuffAdjective>手枪部件</Pistol_Component.stuffProps.stuffAdjective>
+  
+  <!-- EN: plasma weapon component -->
+  <Plasma_Component.label>离子武器部件</Plasma_Component.label>
+  <!-- EN: Main components for plasma weapons. -->
+  <Plasma_Component.description>离子武器的主要部件。</Plasma_Component.description>
+  <Plasma_Component.stuffProps.stuffAdjective>离子武器部件</Plasma_Component.stuffProps.stuffAdjective>
+  
+  <!-- EN: reinforced concrete -->
+  <ReinforcedConcrete.label>钢筋混凝土</ReinforcedConcrete.label>
+  <!-- EN: Reinforced concrete is made from concrete and metal in order to strengthen the mixture. -->
+  <ReinforcedConcrete.description>钢筋混凝土是由混凝土和金属制成的，是一种加强混合物。</ReinforcedConcrete.description>
+  <!-- EN: Reinforced Concrete -->
+  <ReinforcedConcrete.stuffProps.stuffAdjective>钢筋混凝土</ReinforcedConcrete.stuffProps.stuffAdjective>
+  
+  <!-- EN: rifle component -->
+  <Rifle_Component.label>步枪部件</Rifle_Component.label>
+  <!-- EN: Main components for rifle weapons. -->
+  <Rifle_Component.description>步枪的主要部件。</Rifle_Component.description>
+  <Rifle_Component.stuffProps.stuffAdjective>步枪部件</Rifle_Component.stuffProps.stuffAdjective>
+  
+  <!-- EN: shotgun component -->
+  <Shotgun_Component.label>霰弹枪部件</Shotgun_Component.label>
+  <!-- EN: Main components for shotgun weapons. -->
+  <Shotgun_Component.description>霰弹枪的主要部件。</Shotgun_Component.description>
+  <Shotgun_Component.stuffProps.stuffAdjective>霰弹枪部件</Shotgun_Component.stuffProps.stuffAdjective>
+  
+  <!-- EN: SMG component -->
+  <SMG_Component.label>冲锋枪部件</SMG_Component.label>
+  <!-- EN: Main components for SMG weapons. -->
+  <SMG_Component.description>冲锋枪的主要部件。</SMG_Component.description>
+  <SMG_Component.stuffProps.stuffAdjective>冲锋枪部件</SMG_Component.stuffProps.stuffAdjective>
+  
+  <!-- EN: sniper component -->
+  <Sniper_Component.label>狙击枪部件</Sniper_Component.label>
+  <!-- EN: Main components for sniper weapons. -->
+  <Sniper_Component.description>狙击枪的主要部件。</Sniper_Component.description>
+  <Sniper_Component.stuffProps.stuffAdjective>狙击枪部件</Sniper_Component.stuffProps.stuffAdjective>
+  
+  <!-- EN: weapon parts -->
+  <Weapon_Parts.label>武器部件</Weapon_Parts.label>
+  <!-- EN: Parts of disassembled weapons. -->
+  <Weapon_Parts.description>组成武器的各种通用零件。</Weapon_Parts.description>
+  <Weapon_Parts.stuffProps.stuffAdjective>武器部件</Weapon_Parts.stuffProps.stuffAdjective>
+  
+  <!-- EN: wire -->
+  <Wire.label>电线</Wire.label>
+  <!-- EN: Wire is produced from high conductivity metals. It is useful for carrying electric currents in electrical devices. -->
+  <Wire.description>电线是由高导电性的金属制成的。它在电子器件中用于传导电流。</Wire.description>
+  
 </LanguageData>

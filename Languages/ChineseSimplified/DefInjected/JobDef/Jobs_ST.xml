@@ -1,13 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Dummy jobdefs for Survival tools compat. -->
-
+  
+  <!-- EN: felling TargetA. -->
   <FellTree.reportString>砍伐 TargetA。</FellTree.reportString>
+  
+  <!-- EN: felling TargetA. -->
   <FellTreeDesignated.reportString>砍伐 TargetA。</FellTreeDesignated.reportString>
+  
+  <!-- EN: felling TargetA. -->
   <HarvestTree.reportString>砍伐 TargetA。</HarvestTree.reportString>
+  
+  <!-- EN: felling TargetA. -->
   <HarvestTreeDesignated.reportString>砍伐 TargetA。</HarvestTreeDesignated.reportString>
+  
+  <!-- EN: sowing TargetA. -->
   <SowWithSeeds.reportString>播种 TargetA。</SowWithSeeds.reportString>
-
-
+  
 </LanguageData>

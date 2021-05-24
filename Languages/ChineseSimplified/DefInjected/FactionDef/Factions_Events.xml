@@ -1,12 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Special non-humanoid factions -->
-
+  
+  <!-- EN: Abomination -->
   <Abomination.label>憎恶</Abomination.label>
+  <!-- EN: Abominations are slow, hulking, relentless manifestations of flesh. Their bodies twist and contort to heal even major wounds quickly. Their mangled maw seeps with toxic bile. They will consume and assimilate, corpse by corpse. -->
   <Abomination.description>憎恶的是一种缓慢、笨重、无情的血肉生物。他们的身体扭曲而怪异，能迅速愈合伤口。他们的残缺的残缺的部分总有毒性胆汁渗出。他们能同化吞噬尸体。</Abomination.description>
+  <!-- EN: abomination -->
   <Abomination.fixedName>憎恶</Abomination.fixedName>
+  <!-- EN: abomination -->
+  <Abomination.pawnSingular>憎恶</Abomination.pawnSingular>
+  <!-- EN: abominations -->
   <Abomination.pawnsPlural>憎恶</Abomination.pawnsPlural>
-
-
+  
 </LanguageData>

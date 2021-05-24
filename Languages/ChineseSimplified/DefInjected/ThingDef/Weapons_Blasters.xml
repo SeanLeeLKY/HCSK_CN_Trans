@@ -1,58 +1,82 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- A-1 PHALANX -->
-
-  <Gun_Phalanx.label>A-1“方阵”</Gun_Phalanx.label>
-  <Gun_Phalanx.description>“方阵”重型手枪是星联“攻击型手枪项目”的产物，它的设计目标是在近程战斗中获得不亚于普通突击步枪的阻滞力。与其他重型手枪相比，“方阵”能射得更远更准。各星球的殖民者也经常购买此枪的民用版用以对付危险的大型猛兽。</Gun_Phalanx.description>
-  <Gun_Phalanx.tools.0.label>握把</Gun_Phalanx.tools.0.label>
-  <Gun_Phalanx.tools.1.label>枪管</Gun_Phalanx.tools.1.label>
-  <Gun_Phalanx.tools.2.label>枪口</Gun_Phalanx.tools.2.label>
-
-
-  <!-- A-1BW BLACK WIDOW -->
-
-  <Gun_BlackWidow.label>A-1BW“黑寡妇”</Gun_BlackWidow.label>
-  <Gun_BlackWidow.description>星联希望在不牺牲阻滞力的同时，缩短原版“寡妇”步枪的装弹时间。解决方法是增加其热能弹夹的载弹量。作为重型狙击步枪，“黑寡妇”的火力能大大弥补其不足。它能有效对抗装甲、护盾和生物屏障。</Gun_BlackWidow.description>
-  <Gun_BlackWidow.tools.0.label>枪托</Gun_BlackWidow.tools.0.label>
-  <Gun_BlackWidow.tools.1.label>枪管</Gun_BlackWidow.tools.1.label>
-  <Gun_BlackWidow.tools.2.label>枪口</Gun_BlackWidow.tools.2.label>
-
-
-  <!-- A-6 CERBERUS HARRIER -->
-
-  <Gun_Harrier.label>A-6“塞伯鲁斯鹞”</Gun_Harrier.label>
-  <Gun_Harrier.description>塞伯鲁斯鹞是一种全自动武器。塞伯鲁斯的枪械制造商控制了武器的后座力问题，这使得枪支准星能够轻松保持在目标位置，但这样也导致武器威力略低于标准的鹤嘴锄步枪。这种武器通常由塞伯鲁斯的精锐士兵使用，高强度的严格训练能够保证他们总是百发百中。</Gun_Harrier.description>
-  <Gun_Harrier.tools.0.label>枪托</Gun_Harrier.tools.0.label>
-  <Gun_Harrier.tools.1.label>枪管</Gun_Harrier.tools.1.label>
-  <Gun_Harrier.tools.2.label>枪口</Gun_Harrier.tools.2.label>
-
-
-  <!-- A-2S PREDATOR -->
-
-  <Gun_Predator.label>A-2S“掠夺者”</Gun_Predator.label>
-  <Gun_Predator.description>非常稀有的克洛根霰弹枪。在短距离上能造成巨大的伤害，但在远距离上效果要打折扣。对护甲、护盾和异能屏障都很有效。弯刀突击霰弹枪的升级版。它是由人类设计的，但只能为克洛根人所用，因为一次射击产生的后座力足以震碎人类的手臂。它的大型子弹对于装甲单位都很有效。而且它还受到“制造版权管理”(FRM)技术的保护，因此这把武器几乎无法复制，可谓价值连城。\n(译者注：上面的这段翻译来自质量效应3中的霰弹枪，M-300“阔剑”Claymore)</Gun_Predator.description>
-  <Gun_Predator.tools.0.label>枪托</Gun_Predator.tools.0.label>
-  <Gun_Predator.tools.1.label>枪管</Gun_Predator.tools.1.label>
-  <Gun_Predator.tools.2.label>枪口</Gun_Predator.tools.2.label>
-
-
-  <!-- A-3S HURRICANE -->
-
-  <Gun_Hurricane.label>A-3S“飓风”</Gun_Hurricane.label>
-  <Gun_Hurricane.description>非常稀有的克洛根霰弹枪。在短距离上能造成巨大的伤害，但在远距离上效果要打折扣。对护甲、护盾和异能屏障都很有效。弯刀突击霰弹枪的升级版。它是由人类设计的，但只能为克洛根人所用，因为一次射击产生的后座力足以震碎人类的手臂。它的大型子弹对于装甲单位都很有效。而且它还受到“制造版权管理”(FRM)技术的保护，因此这把武器几乎无法复制，可谓价值连城。\n（译者注：在质量效应3中，“飓风”是一把冲锋枪。当一部分军队由于“飓风”的低精准度将它抛弃时，星联却觉得该枪迅疾的射速能提供强大的压制火力。一个训练有素的神射手能用此全自动冲锋枪以惊人的速度清扫掉一群目标。军官门对实战结果非常满意，所以该枪已成为很多军队的标配冲锋枪。）。</Gun_Hurricane.description>
-  <Gun_Hurricane.tools.0.label>枪托</Gun_Hurricane.tools.0.label>
-  <Gun_Hurricane.tools.1.label>枪管</Gun_Hurricane.tools.1.label>
-  <Gun_Hurricane.tools.2.label>枪口</Gun_Hurricane.tools.2.label>
-
-
-  <!-- A-10 AVENGER -->
-
+  
+  <!-- EN: A-10 Avenger -->
   <Gun_AvengerA.label>A-10“复仇者”</Gun_AvengerA.label>
+  <!-- EN: A common, versatile, military-grade assault blaster. Accurate when fired in short bursts, and deadly when fired on full auto. -->
   <Gun_AvengerA.description>“复仇者”是一种被广泛使用的多功能军用突击步枪。在短距离内较为精准，以全自动模式射击时火力很致命。复仇者可以有效穿透护盾、装甲和异能屏障。模块化的设计和廉价的模块使得复仇者成为军队和佣兵组织最青睐的武器。复仇者以坚固耐用、可靠性高、易于使用且升级性强而著称。由艾克斯联合集团制造。</Gun_AvengerA.description>
-  <Gun_AvengerA.tools.0.label>枪托</Gun_AvengerA.tools.0.label>
-  <Gun_AvengerA.tools.1.label>枪管</Gun_AvengerA.tools.1.label>
-  <Gun_AvengerA.tools.2.label>枪口</Gun_AvengerA.tools.2.label>
-
-
+  <!-- EN: stock -->
+  <Gun_AvengerA.tools.stock.label>枪托</Gun_AvengerA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AvengerA.tools.barrel.label>枪管</Gun_AvengerA.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_AvengerA.tools.muzzle.label>枪口</Gun_AvengerA.tools.muzzle.label>
+  <!-- EN: A-10 Avenger -->
+  <Gun_AvengerA.verbs.Verb_ShootCE.label>A-10“复仇者”</Gun_AvengerA.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: A-1BW Black Widow -->
+  <Gun_BlackWidow.label>A-1BW“黑寡妇”</Gun_BlackWidow.label>
+  <!-- EN: Accurate and deadly blaster. Effective against armor, shields, and biotic barriers. -->
+  <Gun_BlackWidow.description>星联希望在不牺牲阻滞力的同时，缩短原版“寡妇”步枪的装弹时间。解决方法是增加其热能弹夹的载弹量。作为重型狙击步枪，“黑寡妇”的火力能大大弥补其不足。它能有效对抗装甲、护盾和生物屏障。</Gun_BlackWidow.description>
+  <!-- EN: stock -->
+  <Gun_BlackWidow.tools.stock.label>枪托</Gun_BlackWidow.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_BlackWidow.tools.barrel.label>枪管</Gun_BlackWidow.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_BlackWidow.tools.muzzle.label>枪口</Gun_BlackWidow.tools.muzzle.label>
+  <!-- EN: A-1BW Black Widow -->
+  <Gun_BlackWidow.verbs.Verb_ShootCE.label>A-1BW“黑寡妇”</Gun_BlackWidow.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: A-6 Cerberus Harrier -->
+  <Gun_Harrier.label>A-6“塞伯鲁斯鹞”</Gun_Harrier.label>
+  <!-- EN: These Cerberus blaster are fully automatic. Cerberus gunsmiths reined in the recoil issues, resulting in a gun that stays on target but delivers slightly less punch per round than a standard Mattock. As such, the weapon is typically utilized by Cerberus’s elite troopers who train constantly to make every burst count. -->
+  <Gun_Harrier.description>塞伯鲁斯鹞是一种全自动武器。塞伯鲁斯的枪械制造商控制了武器的后座力问题，这使得枪支准星能够轻松保持在目标位置，但这样也导致武器威力略低于标准的鹤嘴锄步枪。这种武器通常由塞伯鲁斯的精锐士兵使用，高强度的严格训练能够保证他们总是百发百中。</Gun_Harrier.description>
+  <!-- EN: stock -->
+  <Gun_Harrier.tools.stock.label>枪托</Gun_Harrier.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Harrier.tools.barrel.label>枪管</Gun_Harrier.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_Harrier.tools.muzzle.label>枪口</Gun_Harrier.tools.muzzle.label>
+  <!-- EN: A-6 Cerberus Harrier -->
+  <Gun_Harrier.verbs.Verb_ShootCE.label>A-6“塞伯鲁斯鹞”</Gun_Harrier.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: A-3S Hurricane -->
+  <Gun_Hurricane.label>A-3S“飓风”</Gun_Hurricane.label>
+  <!-- EN: Very rare blaster shotgun. Deals high damage at short range; less effective at long range. Effective against armor, shields and biotic barriers. It is of human design but is only used by krogan, due to the fact that the kickback from a single shot has enough force to break a human's arm. Protected by Fabrication Rights Management (FRM) technology, this weapon is nearly impossible to reproduce and is prohibitively expensive. -->
+  <Gun_Hurricane.description>非常稀有的克洛根霰弹枪。在短距离上能造成巨大的伤害，但在远距离上效果要打折扣。对护甲、护盾和异能屏障都很有效。弯刀突击霰弹枪的升级版。它是由人类设计的，但只能为克洛根人所用，因为一次射击产生的后座力足以震碎人类的手臂。它的大型子弹对于装甲单位都很有效。而且它还受到“制造版权管理”(FRM)技术的保护，因此这把武器几乎无法复制，可谓价值连城。\n（译者注：在质量效应3中，“飓风”是一把冲锋枪。当一部分军队由于“飓风”的低精准度将它抛弃时，星联却觉得该枪迅疾的射速能提供强大的压制火力。一个训练有素的神射手能用此全自动冲锋枪以惊人的速度清扫掉一群目标。军官门对实战结果非常满意，所以该枪已成为很多军队的标配冲锋枪。）。</Gun_Hurricane.description>
+  <!-- EN: stock -->
+  <Gun_Hurricane.tools.stock.label>枪托</Gun_Hurricane.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Hurricane.tools.barrel.label>枪管</Gun_Hurricane.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_Hurricane.tools.muzzle.label>枪口</Gun_Hurricane.tools.muzzle.label>
+  <!-- EN: A-3S Hurricane -->
+  <Gun_Hurricane.verbs.Verb_ShootCE.label>A-3S“飓风”</Gun_Hurricane.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: A-1 Phalanx -->
+  <Gun_Phalanx.label>A-1“方阵”</Gun_Phalanx.label>
+  <!-- EN: A close-in weapon to be used with no loss of stopping power in comparison with a soldier's assault rifle. The Phalanx enjoys a ballistics advantage over most heavy pistols. Civilian variants are often purchased by colonists on planets that have particularly dangerous big-game animals. -->
+  <Gun_Phalanx.description>“方阵”重型手枪是星联“攻击型手枪项目”的产物，它的设计目标是在近程战斗中获得不亚于普通突击步枪的阻滞力。与其他重型手枪相比，“方阵”能射得更远更准。各星球的殖民者也经常购买此枪的民用版用以对付危险的大型猛兽。</Gun_Phalanx.description>
+  <!-- EN: grip -->
+  <Gun_Phalanx.tools.grip.label>握把</Gun_Phalanx.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Phalanx.tools.barrel.label>枪管</Gun_Phalanx.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_Phalanx.tools.muzzle.label>枪口</Gun_Phalanx.tools.muzzle.label>
+  <!-- EN: A-1 Phalanx -->
+  <Gun_Phalanx.verbs.Verb_ShootCE.label>A-1“方阵”</Gun_Phalanx.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: A-2S Predator -->
+  <Gun_Predator.label>A-2S“掠夺者”</Gun_Predator.label>
+  <!-- EN: Very rare blaster shotgun. Deals high damage at short range; less effective at long range. Effective against armor, shields and biotic barriers. It is of human design but is only used by krogan, due to the fact that the kickback from a single shot has enough force to break a human's arm. Protected by Fabrication Rights Management (FRM) technology, this weapon is nearly impossible to reproduce and is prohibitively expensive. -->
+  <Gun_Predator.description>非常稀有的克洛根霰弹枪。在短距离上能造成巨大的伤害，但在远距离上效果要打折扣。对护甲、护盾和异能屏障都很有效。弯刀突击霰弹枪的升级版。它是由人类设计的，但只能为克洛根人所用，因为一次射击产生的后座力足以震碎人类的手臂。它的大型子弹对于装甲单位都很有效。而且它还受到“制造版权管理”(FRM)技术的保护，因此这把武器几乎无法复制，可谓价值连城。\n(译者注：上面的这段翻译来自质量效应3中的霰弹枪，M-300“阔剑”Claymore)</Gun_Predator.description>
+  <!-- EN: stock -->
+  <Gun_Predator.tools.stock.label>枪托</Gun_Predator.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Predator.tools.barrel.label>枪管</Gun_Predator.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_Predator.tools.muzzle.label>枪口</Gun_Predator.tools.muzzle.label>
+  <!-- EN: A-2S Predator -->
+  <Gun_Predator.verbs.Verb_ShootCE.label>A-2S“掠夺者”</Gun_Predator.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

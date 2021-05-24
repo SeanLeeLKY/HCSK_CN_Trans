@@ -1,28 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Terraforming -->
-
-  <Dirt.label>土堆</Dirt.label>
-  <Dirt.description>从地里挖出的普通泥土。</Dirt.description>
-
-  <SandResource.label>沙</SandResource.label>
-  <SandResource.description>沙子可以用碎石打磨压碎，也可以从地上收集。是生产玻璃和硅的必备原料。</SandResource.description>
-
-  <CrushedStone.label>碎石</CrushedStone.label>
-  <CrushedStone.description>粗碎石是通过粉碎石块形成的。它可以从地上的砾石中收集。它是混凝土的一种有用成分。它也可以被进一步粉碎产生沙子。</CrushedStone.description>
-
+  
+  <!-- EN: compost -->
   <Compost.label>堆肥料</Compost.label>
+  <!-- EN: A mix of food wastes. Rather disgusting, but useful if you want to make fertilizer. -->
   <Compost.description>各种食物残渣、有机垃圾的混合物。看起来很恶心，但却是制造传统肥料的原料。</Compost.description>
-
+  
+  <!-- EN: rubble -->
+  <CrushedStone.label>碎石</CrushedStone.label>
+  <!-- EN: Rough Rubble stones are created by smashing stone chunks or blocks. It can be gathered from gravel on the ground. It is a useful ingredient for concrete. It can also be smashed further to produce Sand. -->
+  <CrushedStone.description>粗碎石是通过粉碎石块形成的。它可以从地上的砾石中收集。它是混凝土的一种有用成分。它也可以被进一步粉碎产生沙子。</CrushedStone.description>
+  
+  <!-- EN: Pile of dirt -->
+  <Dirt.label>土堆</Dirt.label>
+  <!-- EN: Simple soil dug out of the ground. -->
+  <Dirt.description>从地里挖出的普通泥土。</Dirt.description>
+  
+  <!-- EN: fertilizer -->
   <Fertilizer.label>肥料</Fertilizer.label>
+  <!-- EN: Fertilizer enhances soil to speed the growth of plants. -->
   <Fertilizer.description>肥料使土壤肥沃，以促进植物生长。</Fertilizer.description>
-
+  
+  <!-- EN: rotted meat -->
   <RottedMeat.label>腐肉</RottedMeat.label>
+  <!-- EN: This apparently used to be meat of some sort, but now it's just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else. -->
   <RottedMeat.description>这显然以前是某种肉类，但现在只是一堆恶心的烂糊。也许可以用来制作堆肥，但不能用于其他用途。</RottedMeat.description>
-
+  
+  <!-- EN: rotted mush -->
   <RottedMush.label>腐烂物</RottedMush.label>
+  <!-- EN: Whatever this used to be, it's now just a disgusting pile of rotted mush. Useful for making compost, perhaps, but not for much else. -->
   <RottedMush.description>不管这以前是什么，现在只是一堆恶心的烂糊。也许可以用来制作堆肥，但不能用于其他用途。</RottedMush.description>
-
-
+  
+  <!-- EN: Sand -->
+  <SandResource.label>沙</SandResource.label>
+  <!-- EN: Sand can be crushed from Rubble or gathered from the ground. It is a necessary ingredient in making Glass Batch and Silicon. -->
+  <SandResource.description>沙子可以用碎石打磨压碎，也可以从地上收集。是生产玻璃和硅的必备原料。</SandResource.description>
+  
 </LanguageData>

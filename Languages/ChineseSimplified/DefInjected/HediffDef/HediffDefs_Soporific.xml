@@ -1,15 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: soporific buildup -->
   <Soporific.label>催眠</Soporific.label>
+  <!-- EN: Immersed in a dream -->
   <Soporific.description>沉浸在梦中。</Soporific.description>
-  <Soporific.stages.0.label>初始</Soporific.stages.0.label>
-  <Soporific.stages.1.label>轻度</Soporific.stages.1.label>
-  <Soporific.stages.2.label>中度</Soporific.stages.2.label>
-  <Soporific.stages.3.label>较高</Soporific.stages.3.label>
-  <Soporific.stages.4.label>重度</Soporific.stages.4.label>
-  <Soporific.stages.5.label>极度</Soporific.stages.5.label>
+  <!-- EN: a soporific buildup -->
   <Soporific.labelNoun>增生</Soporific.labelNoun>
-
-
+  <!-- EN: initial -->
+  <Soporific.stages.initial.label>初始</Soporific.stages.initial.label>
+  <!-- EN: minor -->
+  <Soporific.stages.minor.label>轻度</Soporific.stages.minor.label>
+  <!-- EN: moderate -->
+  <Soporific.stages.moderate.label>中度</Soporific.stages.moderate.label>
+  <!-- EN: sufficient -->
+  <Soporific.stages.sufficient.label>较高</Soporific.stages.sufficient.label>
+  <!-- EN: overdose -->
+  <Soporific.stages.overdose.label>重度</Soporific.stages.overdose.label>
+  <!-- EN: extreme overdose -->
+  <Soporific.stages.extreme_overdose.label>极度</Soporific.stages.extreme_overdose.label>
+  
 </LanguageData>

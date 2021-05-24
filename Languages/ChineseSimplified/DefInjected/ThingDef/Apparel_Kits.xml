@@ -1,17 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Apparel_TacVest.label>战术背袋</Apparel_TacVest.label>
-  <Apparel_TacVest.description>一件承重背袋，里面有许多小袋，可以存放弹夹和其他装备。\n\n加快了装弹速度，但穿起来相当笨重。</Apparel_TacVest.description>
-
-  <Apparello_Ammobelt.label>子弹带</Apparello_Ammobelt.label>
-  <Apparello_Ammobelt.description>为携带弹药而设计的腰带。</Apparello_Ammobelt.description>
-
+  
+  <!-- EN: Backpack -->
   <Apparel_Backpack.label>背包</Apparel_Backpack.label>
+  <!-- EN: A comfortable and spacious backpack for storing all kinds of items. -->
   <Apparel_Backpack.description>舒适宽敞的背包，可以存放各种物品。</Apparel_Backpack.description>
-
+  
+  <!-- EN: Loadbearing Kit -->
+  <Apparel_TacVest.label>战术背袋</Apparel_TacVest.label>
+  <!-- EN: A loadbearing vest with a number of pouches to store magazines and other equipment.\n\nSpeeds up reloading but is quite bulky to wear. -->
+  <Apparel_TacVest.description>一件承重背袋，里面有许多小袋，可以存放弹夹和其他装备。\n\n加快了装弹速度，但穿起来相当笨重。</Apparel_TacVest.description>
+  
+  <!-- EN: tribal backpack -->
   <Apparel_TribalBackpack.label>部落背包</Apparel_TribalBackpack.label>
+  <!-- EN: Primitive backpack made from animal furs, useful for storing items when travelling. -->
   <Apparel_TribalBackpack.description>原始的动物皮毛制成的背包，在旅行时可以用来存放物品。</Apparel_TribalBackpack.description>
-
-
+  
+  <!-- EN: Ammo belt -->
+  <Apparello_Ammobelt.label>子弹带</Apparello_Ammobelt.label>
+  <!-- EN: Belt designed for carrying ammunition. -->
+  <Apparello_Ammobelt.description>为携带弹药而设计的腰带。</Apparello_Ammobelt.description>
+  
 </LanguageData>

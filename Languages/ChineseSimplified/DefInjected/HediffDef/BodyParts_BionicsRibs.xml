@@ -1,50 +1,47 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Medical rib -->
-
-  <MedicalRib.label>医疗肋骨</MedicalRib.label>
-  <MedicalRib.description>一块已经安装好的医疗肋骨。</MedicalRib.description>
-  <MedicalRib.labelNoun>医疗肋骨</MedicalRib.labelNoun>
-
-
-  <!-- Drugged rib -->
-
-  <DruggedRib.label>迷幻肋骨</DruggedRib.label>
-  <DruggedRib.description>一块已经安装好的迷幻肋骨。</DruggedRib.description>
-  <DruggedRib.labelNoun>迷幻肋骨</DruggedRib.labelNoun>
-
-
-  <!-- Adrenaline rib -->
-
+  
+  <!-- EN: adrenaline rib -->
   <AdrenalineRib.label>肾上腺素肋骨</AdrenalineRib.label>
+  <!-- EN: An installed adrenaline rib implant. -->
   <AdrenalineRib.description>一块已经安装好的肾上腺素肋骨。</AdrenalineRib.description>
+  <!-- EN: an adrenaline rib -->
   <AdrenalineRib.labelNoun>肾上腺素肋骨</AdrenalineRib.labelNoun>
-
-
-  <!-- Painkiller rib -->
-
-  <PainkillerRib.label>止痛肋骨</PainkillerRib.label>
-  <PainkillerRib.description>一块已经安装好的止痛肋骨。</PainkillerRib.description>
-  <PainkillerRib.labelNoun>止痛肋骨</PainkillerRib.labelNoun>
-
-
-  <!-- Heater rib -->
-
-  <HeaterRib.label>加热肋骨</HeaterRib.label>
-  <HeaterRib.description>一块已经安装好的加热肋骨。</HeaterRib.description>
-
-
-  <!-- Cooler rib -->
-
-  <CoolerRib.label>冷却肋骨</CoolerRib.label>
-  <CoolerRib.description>一块已经安装好的冷却肋骨。</CoolerRib.description>
-
-
-  <!-- Coagulator rib -->
-
+  
+  <!-- EN: coagulator rib -->
   <CoagulatorRib.label>凝血肋骨</CoagulatorRib.label>
+  <!-- EN: An installed coagulator rib implant. -->
   <CoagulatorRib.description>一块已经安装好的凝血肋骨。</CoagulatorRib.description>
-
-
+  
+  <!-- EN: cooling rib -->
+  <CoolerRib.label>冷却肋骨</CoolerRib.label>
+  <!-- EN: An installed cooler rib implant. -->
+  <CoolerRib.description>一块已经安装好的冷却肋骨。</CoolerRib.description>
+  
+  <!-- EN: drugged rib -->
+  <DruggedRib.label>迷幻肋骨</DruggedRib.label>
+  <!-- EN: An installed drugged rib implant. -->
+  <DruggedRib.description>一块已经安装好的迷幻肋骨。</DruggedRib.description>
+  <!-- EN: a drugged rib -->
+  <DruggedRib.labelNoun>迷幻肋骨</DruggedRib.labelNoun>
+  
+  <!-- EN: heating rib -->
+  <HeaterRib.label>加热肋骨</HeaterRib.label>
+  <!-- EN: An installed heater rib implant. -->
+  <HeaterRib.description>一块已经安装好的加热肋骨。</HeaterRib.description>
+  
+  <!-- EN: medical rib -->
+  <MedicalRib.label>医疗肋骨</MedicalRib.label>
+  <!-- EN: An installed medical rib implant. -->
+  <MedicalRib.description>一块已经安装好的医疗肋骨。</MedicalRib.description>
+  <!-- EN: a medical rib -->
+  <MedicalRib.labelNoun>医疗肋骨</MedicalRib.labelNoun>
+  
+  <!-- EN: painkiller rib -->
+  <PainkillerRib.label>止痛肋骨</PainkillerRib.label>
+  <!-- EN: An installed painkiller rib implant. -->
+  <PainkillerRib.description>一块已经安装好的止痛肋骨。</PainkillerRib.description>
+  <!-- EN: a painkiller rib -->
+  <PainkillerRib.labelNoun>止痛肋骨</PainkillerRib.labelNoun>
+  
 </LanguageData>

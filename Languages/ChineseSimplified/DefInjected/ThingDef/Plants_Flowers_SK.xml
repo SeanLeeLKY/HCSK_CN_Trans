@@ -1,36 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Decorative -->
-
-  <Plant_Venus.label>金星花</Plant_Venus.label>
-
-  <Plant_Astragalus.label>紫云英</Plant_Astragalus.label>
-  <Plant_Astragalus.description>紫云英是生长在高山气候中的多年生小型野花。它不需要种子，但它不产生任何东西。</Plant_Astragalus.description>
-
-  <Plant_Rose.label>玫瑰</Plant_Rose.label>
-  <Plant_Rose.description>一种漂亮的栽培花卉，自从远古时代以来就象征着爱情与浪漫。</Plant_Rose.description>
-
-  <Plant_WhiteRose.label>白玫瑰</Plant_WhiteRose.label>
-  <Plant_WhiteRose.description>一种漂亮的栽培花卉，自从远古时代以来就象征着爱情与浪漫。</Plant_WhiteRose.description>
-
-  <Plant_Daylily.label>黄花</Plant_Daylily.label>
-  <Plant_Daylily.description>黄花是一种美丽的，人工培育的花。它们能让单调乏味的院子焕然一新，但必须经常重新种植。它不需要种子，但它不产生任何东西。</Plant_Daylily.description>
-
-  <Plant_Dandelion.label>蒲公英</Plant_Dandelion.label>
-  <Plant_Dandelion.description>蒲公英的花是常见的黄色小花。虽然它经常被认为是有害的杂草，但它看起来是令人赏心悦目。</Plant_Dandelion.description>
-
-  <Plant_Rosebay.label>夹竹桃</Plant_Rosebay.label>
-  <Plant_Rosebay.description>夹竹桃是生长在温带气候中的一种小而艳丽、坚韧的野花。</Plant_Rosebay.description>
-
-  <PlantDelphinium.label>翠雀花</PlantDelphinium.label>
-  <PlantDelphinium.description>翠雀花是一种优雅的栽培花卉，带有雄伟的紫色色调。它的寿命很短，所以必须经常再植。</PlantDelphinium.description>
-
-  <Plant_Crocus.label>番红花</Plant_Crocus.label>
-  <Plant_Crocus.description>番红花是常见的小花。虽然它经常被认为是有害的杂草，但它看起来是令人赏心悦目。</Plant_Crocus.description>
-
+  
+  <!-- EN: Anthurium -->
   <Plant_Anthurium.label>红掌</Plant_Anthurium.label>
+  <!-- EN: A beautiful cultivated red flower. -->
   <Plant_Anthurium.description>一种漂亮的红花。</Plant_Anthurium.description>
-
-
+  
+  <!-- EN: Astragalus Flowers -->
+  <Plant_Astragalus.label>紫云英</Plant_Astragalus.label>
+  <!-- EN: Astragalus Flowers are small perennial wild flowers that grow in alpine climates. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive. -->
+  <Plant_Astragalus.description>紫云英是生长在高山气候中的多年生小型野花。它不需要种子，但它不产生任何东西。</Plant_Astragalus.description>
+  
+  <!-- EN: Crocus Flowers -->
+  <Plant_Crocus.label>番红花</Plant_Crocus.label>
+  <!-- EN: Crocus Flowers are common, small flowers. Though it is often considered a pest weed, it is pleasant to look at. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive. -->
+  <Plant_Crocus.description>番红花是常见的小花。虽然它经常被认为是有害的杂草，但它看起来是令人赏心悦目。</Plant_Crocus.description>
+  
+  <!-- EN: Dandelion Flowers -->
+  <Plant_Dandelion.label>蒲公英</Plant_Dandelion.label>
+  <!-- EN: Dandelion Flowers are common, yellow, small flowers. Though it is often considered a pest weed, it is pleasant to look at. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive. -->
+  <Plant_Dandelion.description>蒲公英的花是常见的黄色小花。虽然它经常被认为是有害的杂草，但它看起来是令人赏心悦目。</Plant_Dandelion.description>
+  
+  <!-- EN: Daylily Flowers -->
+  <Plant_Daylily.label>黄花</Plant_Daylily.label>
+  <!-- EN: Daylily Flowers are beautiful, cultivated flowers. They are great for brightening up a drab yard, but must be replanted often. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive. -->
+  <Plant_Daylily.description>黄花是一种美丽的，人工培育的花。它们能让单调乏味的院子焕然一新，但必须经常重新种植。它不需要种子，但它不产生任何东西。</Plant_Daylily.description>
+  
+  <!-- EN: Rose Flowers -->
+  <Plant_Rose.label>玫瑰</Plant_Rose.label>
+  <!-- EN: A beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era. -->
+  <Plant_Rose.description>一种漂亮的栽培花卉，自从远古时代以来就象征着爱情与浪漫。</Plant_Rose.description>
+  
+  <!-- EN: Rosebay Flowers -->
+  <Plant_Rosebay.label>夹竹桃</Plant_Rosebay.label>
+  <!-- EN: Rosebay Flowers are small, gorgeous, tough wild flowers that grows in temperate climates. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive. -->
+  <Plant_Rosebay.description>夹竹桃是生长在温带气候中的一种小而艳丽、坚韧的野花。</Plant_Rosebay.description>
+  
+  <!-- EN: Venus Flowers -->
+  <Plant_Venus.label>金星花</Plant_Venus.label>
+  
+  <!-- EN: White Rose Flowers -->
+  <Plant_WhiteRose.label>白玫瑰</Plant_WhiteRose.label>
+  <!-- EN: Roses Flowers are white, beautiful cultivated flowers that are symbolic of love and romance since ancient times. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive. -->
+  <Plant_WhiteRose.description>一种漂亮的栽培花卉，自从远古时代以来就象征着爱情与浪漫。</Plant_WhiteRose.description>
+  
+  <!-- EN: Delphinium Flowers -->
+  <PlantDelphinium.label>翠雀花</PlantDelphinium.label>
+  <!-- EN: Delphinium Flowers are elegant cultivated flowers with a majestic purple tint. It has a short lifepsan, so it must be replanted often. It does not need seeds to be planted, but it does not produce anything except beauty while the flower is alive. -->
+  <PlantDelphinium.description>翠雀花是一种优雅的栽培花卉，带有雄伟的紫色色调。它的寿命很短，所以必须经常再植。</PlantDelphinium.description>
+  
 </LanguageData>

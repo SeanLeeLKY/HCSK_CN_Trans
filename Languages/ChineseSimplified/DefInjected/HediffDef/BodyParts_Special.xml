@@ -1,9 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: death acidifier -->
   <DeathAcidifier.label>质溶器</DeathAcidifier.label>
+  <!-- EN: An installed death acidifier. -->
   <DeathAcidifier.description>一个已安装的质溶器。</DeathAcidifier.description>
+  <!-- EN: a death acidifier -->
   <DeathAcidifier.labelNoun>质溶器</DeathAcidifier.labelNoun>
-
-
+  
 </LanguageData>

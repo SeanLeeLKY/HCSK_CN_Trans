@@ -1,35 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ogre Bases -->
-
+  
+  <!-- EN: Ogre -->
   <Ogre.label>食人魔</Ogre.label>
   <Ogre.labelPlural>食人魔</Ogre.labelPlural>
-
-
-  <!-- Destroyer -->
-
+  
+  <!-- EN: Ogre destroyer -->
   <OgreDES.label>食人魔破坏者</OgreDES.label>
   <OgreDES.labelPlural>食人魔破坏者</OgreDES.labelPlural>
-
-
-  <!-- Devastator -->
-
+  
+  <!-- EN: Ogre devastator -->
   <OgreDEV.label>食人魔毁灭者</OgreDEV.label>
   <OgreDEV.labelPlural>食人魔毁灭者</OgreDEV.labelPlural>
-
-
-  <!--<Ogre.labelMale>男性食人魔</Ogre.labelMale>-->
-  <!--<Ogre.labelMalePlural>男性食人魔</Ogre.labelMalePlural>-->
-  <!--<Ogre.labelFemale>女性食人魔</Ogre.labelFemale>-->
-  <!--<Ogre.labelFemalePlural>女性食人魔</Ogre.labelFemalePlural>-->
-  <!--<OgreDES.labelMale>男性食人魔破坏者</OgreDES.labelMale>-->
-  <!--<OgreDES.labelMalePlural>男性食人魔破坏者</OgreDES.labelMalePlural>-->
-  <!--<OgreDES.labelFemale>女性食人魔破坏者</OgreDES.labelFemale>-->
-  <!--<OgreDES.labelFemalePlural>女性食人魔破坏者</OgreDES.labelFemalePlural>-->
-  <!--<OgreDEV.labelMale>男性食人魔毁灭者</OgreDEV.labelMale>-->
-  <!--<OgreDEV.labelMalePlural>男性食人魔毁灭者</OgreDEV.labelMalePlural>-->
-  <!--<OgreDEV.labelFemale>女性食人魔毁灭者</OgreDEV.labelFemale>-->
-  <!--<OgreDEV.labelFemalePlural>女性食人魔毁灭者</OgreDEV.labelFemalePlural>-->
-
+  
 </LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Kingdom Brigand -->
+  <KingdomBrigand.label>王国土匪</KingdomBrigand.label>
+  <KingdomBrigand.labelFemale>女性王国土匪</KingdomBrigand.labelFemale>
+  <KingdomBrigand.labelFemalePlural>女性王国土匪</KingdomBrigand.labelFemalePlural>
+  <KingdomBrigand.labelMale>男性王国土匪</KingdomBrigand.labelMale>
+  <KingdomBrigand.labelMalePlural>男性王国土匪</KingdomBrigand.labelMalePlural>
+  <KingdomBrigand.labelPlural>王国土匪</KingdomBrigand.labelPlural>
+  
+  <!-- EN: Kingdom Desperado -->
+  <KingdomDesperado.label>王国暴徒</KingdomDesperado.label>
+  <KingdomDesperado.labelPlural>王国暴徒</KingdomDesperado.labelPlural>
+  
+  <!-- EN: Kingdom Exploder -->
+  <KingdomExploder.label>王国爆破手</KingdomExploder.label>
+  <KingdomExploder.labelPlural>王国爆破手</KingdomExploder.labelPlural>
+  
+  <!-- EN: Kingdom Hessian -->
+  <KingdomHessian.label>王国雇佣军</KingdomHessian.label>
+  <KingdomHessian.labelFemale>女性王国雇佣军</KingdomHessian.labelFemale>
+  <KingdomHessian.labelFemalePlural>女性王国雇佣军</KingdomHessian.labelFemalePlural>
+  <KingdomHessian.labelMale>男性王国雇佣军</KingdomHessian.labelMale>
+  <KingdomHessian.labelMalePlural>男性王国雇佣军</KingdomHessian.labelMalePlural>
+  <KingdomHessian.labelPlural>王国雇佣军</KingdomHessian.labelPlural>
+  
+  <!-- EN: Kingdom King -->
+  <KingdomKing.label>王国国王</KingdomKing.label>
+  <KingdomKing.labelPlural>王国国王</KingdomKing.labelPlural>
+  
+  <!-- EN: kingdom laborer -->
+  <KingdomLaborer.label>王国劳工</KingdomLaborer.label>
+  <KingdomLaborer.labelPlural>王国劳工</KingdomLaborer.labelPlural>
+  
+  <!-- EN: Kingdom trader -->
+  <KingdomTrader.label>王国商人</KingdomTrader.label>
+  <KingdomTrader.labelFemale>女性王国商人</KingdomTrader.labelFemale>
+  <KingdomTrader.labelFemalePlural>女性王国商人</KingdomTrader.labelFemalePlural>
+  <KingdomTrader.labelMale>男性王国商人</KingdomTrader.labelMale>
+  <KingdomTrader.labelMalePlural>男性王国商人</KingdomTrader.labelMalePlural>
+  <KingdomTrader.labelPlural>王国商人</KingdomTrader.labelPlural>
+  
+</LanguageData>

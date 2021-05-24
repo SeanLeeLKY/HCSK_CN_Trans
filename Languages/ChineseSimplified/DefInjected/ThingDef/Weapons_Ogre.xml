@@ -1,16 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- FATSO GUN -->
-
-  <Gun_SawGun.label>链锯枪</Gun_SawGun.label>
-  <Gun_SawGun.tools.0.label>枪管</Gun_SawGun.tools.0.label>
-
-
-  <!-- ROCKET LANCE -->
-
+  
+  <!-- EN: Rocket lance -->
   <Gun_RocketLance.label>火箭标枪</Gun_RocketLance.label>
-  <Gun_RocketLance.tools.0.label>枪管</Gun_RocketLance.tools.0.label>
-
-
+  <!-- EN: barrel -->
+  <Gun_RocketLance.tools.barrel.label>枪管</Gun_RocketLance.tools.barrel.label>
+  <!-- EN: Rocket lance -->
+  <Gun_RocketLance.verbs.Verb_ShootCE.label>火箭标枪</Gun_RocketLance.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Saw Gun -->
+  <Gun_SawGun.label>链锯枪</Gun_SawGun.label>
+  <!-- EN: barrel -->
+  <Gun_SawGun.tools.barrel.label>枪管</Gun_SawGun.tools.barrel.label>
+  <!-- EN: Saw Gun -->
+  <Gun_SawGun.verbs.Verb_ShootCE.label>链锯枪</Gun_SawGun.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

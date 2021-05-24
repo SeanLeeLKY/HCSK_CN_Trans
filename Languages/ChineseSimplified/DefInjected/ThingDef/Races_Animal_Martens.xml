@@ -1,29 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Fishercat.label>鱼猫</Fishercat.label>
-  <Fishercat.description>水貂属的一种小型哺乳动物，鱼猫既不是吃鱼的也不是猫。鱼猫的基因与黄鼠狼相近，它们身体较长，但寿命较短。考虑到它们的体型小，鱼猫们被认为是特别凶猛的动物，因为它们猎食不寻常的猎物，比如豪猪，甚至是小鹿。\n\n尽管它们的外表看起来可爱，但它们野性十足，不可能成为一个好宠物。</Fishercat.description>
-  <Fishercat.tools.0.label>左爪</Fishercat.tools.0.label>
-  <Fishercat.tools.1.label>右爪</Fishercat.tools.1.label>
-  <Fishercat.tools.3.label>头</Fishercat.tools.3.label>
- <!--  <Fishercat_Leather.label>鱼猫皮</Fishercat_Leather.label>
-  <Fishercat_Leather.description>鱼猫皮</Fishercat_Leather.description>
-  <Fishercat_Leather.stuffProps.stuffAdjective>鱼猫皮</Fishercat_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Elephant -->
-  <Fishercat_Corpse.label>鱼猫尸体</Fishercat_Corpse.label>
-  <Fishercat_Corpse.description>鱼猫尸体</Fishercat_Corpse.description>
-
+  
+  <!-- EN: ermine -->
   <Ermine.label>貂</Ermine.label>
+  <!-- EN: A nearly pure-white stoat; a smaller member of the weasel family. -->
   <Ermine.description>一种几乎纯白色的小动物，鼬鼠家族中较小的成员。</Ermine.description>
-  <Ermine.tools.0.label>左爪</Ermine.tools.0.label>
-  <Ermine.tools.1.label>右爪</Ermine.tools.1.label>
-  <Ermine.tools.3.label>头</Ermine.tools.3.label>
-  <!-- <Ermine_Leather.label>貂皮</Ermine_Leather.label>
-  <Ermine_Leather.description>貂皮</Ermine_Leather.description>
-  <Ermine_Leather.stuffProps.stuffAdjective>貂皮</Ermine_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Elephant -->
-  <Ermine_Corpse.label>貂尸体</Ermine_Corpse.label>
-  <Ermine_Corpse.description>貂尸体</Ermine_Corpse.description>
-
-
+  <!-- EN: left claw -->
+  <Ermine.tools.left_claw.label>左爪</Ermine.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Ermine.tools.right_claw.label>右爪</Ermine.tools.right_claw.label>
+  <!-- EN: head -->
+  <Ermine.tools.head.label>头</Ermine.tools.head.label>
+  
+  <!-- EN: fisher -->
+  <Fishercat.label>鱼猫</Fishercat.label>
+  <!-- EN: A small mammal of the Marten genus, the Fisher- or alternatively 'Fisher Cat' is neither a fish eater nor a cat. Genetically closer to a weasel, fishers are long bodied but short lived. Considering their small size, fishers are known to be particularly vicious; hunting unusual prey such as porcupines and even young deer.\n\nDespite their cute appearance, fishers are very much wild and not likely to make a good pet. -->
+  <Fishercat.description>水貂属的一种小型哺乳动物，鱼猫既不是吃鱼的也不是猫。鱼猫的基因与黄鼠狼相近，它们身体较长，但寿命较短。考虑到它们的体型小，鱼猫们被认为是特别凶猛的动物，因为它们猎食不寻常的猎物，比如豪猪，甚至是小鹿。\n\n尽管它们的外表看起来可爱，但它们野性十足，不可能成为一个好宠物。</Fishercat.description>
+  <!-- EN: left claw -->
+  <Fishercat.tools.left_claw.label>左爪</Fishercat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fishercat.tools.right_claw.label>右爪</Fishercat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fishercat.tools.head.label>头</Fishercat.tools.head.label>
+  
 </LanguageData>

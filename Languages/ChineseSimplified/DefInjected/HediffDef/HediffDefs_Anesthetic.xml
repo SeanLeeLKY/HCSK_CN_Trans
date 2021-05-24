@@ -1,9 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: anesthetic -->
   <AnestheticInjected.label>麻醉</AnestheticInjected.label>
+  <!-- EN: The anesthetic blocked pain messages -->
   <AnestheticInjected.description>麻醉可以阻断痛觉信号。</AnestheticInjected.description>
+  <!-- EN: an anesthetic -->
   <AnestheticInjected.labelNoun>麻醉</AnestheticInjected.labelNoun>
-
-
+  
 </LanguageData>

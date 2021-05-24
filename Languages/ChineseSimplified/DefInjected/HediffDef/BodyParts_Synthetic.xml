@@ -1,42 +1,63 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <BionicLung.label>合成肺</BionicLung.label>
-  <BionicLung.description>高科技的呼吸替代体。会发出轻柔的呼吸声。</BionicLung.description>
-  <BionicLung.labelNoun>合成肺</BionicLung.labelNoun>
-
-  <BionicStomach.label>合成胃</BionicStomach.label>
-  <BionicStomach.description>增强型胃，通过使用更优良的合成织物来增强吸收率。</BionicStomach.description>
-  <BionicStomach.labelNoun>合成胃</BionicStomach.labelNoun>
-
-  <BionicLiver.label>合成肝</BionicLiver.label>
-  <BionicLiver.description>增强型肝，通过使用更优良的合成织物来增强代谢率。</BionicLiver.description>
-  <BionicLiver.labelNoun>合成肝</BionicLiver.labelNoun>
-
-  <BionicKidney.label>合成肾</BionicKidney.label>
-  <BionicKidney.description>增强型肾，通过使用更优良的合成织物来增强代谢率。</BionicKidney.description>
-  <BionicKidney.labelNoun>合成肾</BionicKidney.labelNoun>
-
+  
+  <!-- EN: bionic heart -->
   <BionicHeart.label>仿生心脏</BionicHeart.label>
+  <!-- EN: An installed advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
   <BionicHeart.description>一个先进的人工心脏，其中合成的肌肉纤维将以比生物心脏强的功率泵动血液，以达到更强的血液循环能力。</BionicHeart.description>
+  <!-- EN: a bionic heart -->
   <BionicHeart.labelNoun>仿生心脏</BionicHeart.labelNoun>
-
+  
+  <!-- EN: synthetic kidney -->
+  <BionicKidney.label>合成肾</BionicKidney.label>
+  <!-- EN: An installed enhanced kidney augmented with synthetic fibers to decrease rejection rate. -->
+  <BionicKidney.description>增强型肾，通过使用更优良的合成织物来增强代谢率。</BionicKidney.description>
+  <!-- EN: a synthetic kidney -->
+  <BionicKidney.labelNoun>合成肾</BionicKidney.labelNoun>
+  
+  <!-- EN: synthetic liver -->
+  <BionicLiver.label>合成肝</BionicLiver.label>
+  <!-- EN: An installed enhanced liver augmented with synthetic fibers to decrease rejection rate. -->
+  <BionicLiver.description>增强型肝，通过使用更优良的合成织物来增强代谢率。</BionicLiver.description>
+  <!-- EN: a synthetic liver -->
+  <BionicLiver.labelNoun>合成肝</BionicLiver.labelNoun>
+  
+  <!-- EN: synthetic lung -->
+  <BionicLung.label>合成肺</BionicLung.label>
+  <!-- EN: An installed high-tech breathing replacement. Makes a soft whirring sound. -->
+  <BionicLung.description>高科技的呼吸替代体。会发出轻柔的呼吸声。</BionicLung.description>
+  <!-- EN: a synthetic lung -->
+  <BionicLung.labelNoun>合成肺</BionicLung.labelNoun>
+  
+  <!-- EN: synthetic stomach -->
+  <BionicStomach.label>合成胃</BionicStomach.label>
+  <!-- EN: An installed enhanced stomach augmented with synthetic fibres to decrease rejection rate. -->
+  <BionicStomach.description>增强型胃，通过使用更优良的合成织物来增强吸收率。</BionicStomach.description>
+  <!-- EN: a synthetic stomach -->
+  <BionicStomach.labelNoun>合成胃</BionicStomach.labelNoun>
+  
+  <!-- EN: joywire -->
   <Joywire.label>乐丝芯片</Joywire.label>
+  <!-- EN: An installed brain implant will make you feel happy and relaxed. Requires brain surgery research before installing. -->
   <Joywire.description>这个小小的大脑植入体会让你感到愉悦和放松。需要掌握脑部手术技术才能进行安装。</Joywire.description>
+  <!-- EN: a joywire -->
   <Joywire.labelNoun>乐丝芯片</Joywire.labelNoun>
-
-  <Painstopper.label>止痛芯片</Painstopper.label>
-  <Painstopper.description>这种大脑植入体会让你感觉不到疼痛。需要掌握脑部手术技术才能进行安装。</Painstopper.description>
-  <Painstopper.labelNoun>止痛芯片</Painstopper.labelNoun>
-
-
-  <!-- Muscle stimulator -->
-
+  
+  <!-- EN: muscle stimulator -->
   <MuscleStimulatorArms.label>肌肉刺激器</MuscleStimulatorArms.label>
+  <!-- EN: An installed muscle stimulator in the arms. -->
   <MuscleStimulatorArms.description>已安裝在手臂的肌肉刺激器。</MuscleStimulatorArms.description>
-
+  
+  <!-- EN: muscle stimulator -->
   <MuscleStimulatorLegs.label>肌肉刺激器</MuscleStimulatorLegs.label>
+  <!-- EN: An installed muscle stimulator in the legs. -->
   <MuscleStimulatorLegs.description>已安裝在腿部的肌肉刺激器。</MuscleStimulatorLegs.description>
-
-
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>止痛芯片</Painstopper.label>
+  <!-- EN: An installed brain implant will make you not feel pain. Requires brain surgery research before installing. -->
+  <Painstopper.description>这种大脑植入体会让你感觉不到疼痛。需要掌握脑部手术技术才能进行安装。</Painstopper.description>
+  <!-- EN: a painstopper -->
+  <Painstopper.labelNoun>止痛芯片</Painstopper.labelNoun>
+  
 </LanguageData>

@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Basic quality thoughts -->
-
-  <AteHoney.stages.0.label>吃了蜜糖</AteHoney.stages.0.label>
-  <AteHoney.stages.0.description>蜜糖又甜又丝滑，真好吃！</AteHoney.stages.0.description>
-
-
+  
+  <!-- EN: ate honey -->
+  <AteHoney.stages.ate_honey.label>吃了蜜糖</AteHoney.stages.ate_honey.label>
+  <!-- EN: This honey was soo sweet and tasty. Mmmm... -->
+  <AteHoney.stages.ate_honey.description>蜜糖又甜又丝滑，真好吃！</AteHoney.stages.ate_honey.description>
+  
 </LanguageData>

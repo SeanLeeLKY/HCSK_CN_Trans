@@ -1,14 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <DropPodFlying.label>飞落空降仓</DropPodFlying.label>
-  <ShipWreckFlying.label>飞落飞船残骸</ShipWreckFlying.label>
-  <DebrisFlying.label>飞落碎片</DebrisFlying.label>
-  <MeteoriteFlying.label>飞落陨石</MeteoriteFlying.label>
+  
+  <!-- EN: crater -->
   <Crater.label>陨石坑</Crater.label>
-  <Tornado.label>龙卷风</Tornado.label>
-  <SandTornado.label>沙龙卷</SandTornado.label>
+  
+  <!-- EN: flying debris -->
+  <DebrisFlying.label>飞落碎片</DebrisFlying.label>
+  
+  <!-- EN: flying drop pod -->
+  <DropPodFlying.label>飞落空降仓</DropPodFlying.label>
+  
+  <!-- EN: ice vortex -->
   <IceVortex.label>冰旋暴</IceVortex.label>
-
-
+  
+  <!-- EN: flying meteorite -->
+  <MeteoriteFlying.label>飞落陨石</MeteoriteFlying.label>
+  
+  <!-- EN: sand tornado -->
+  <SandTornado.label>沙龙卷</SandTornado.label>
+  
+  <!-- EN: flying ship wreck -->
+  <ShipWreckFlying.label>飞落飞船残骸</ShipWreckFlying.label>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>龙卷风</Tornado.label>
+  
 </LanguageData>

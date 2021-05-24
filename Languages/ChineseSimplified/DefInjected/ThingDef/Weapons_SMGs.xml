@@ -1,85 +1,121 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- TEC-9 -->
-
-  <RF_Gun_Tecnine.label>TEC-9冲锋手枪</RF_Gun_Tecnine.label>
-  <RF_Gun_Tecnine.description>英特拉泰克TEC-9是一款由瑞典国际动力公司的美国分部英特拉泰克公司所设计生产的反冲作用操作半自动枪械，发射9× 19mm鲁格手枪弹，被美国烟酒枪炮及爆裂物管理局归类为手枪。这种枪械的结构简单可靠，短小精悍，最早是作为军用武器推销给军方，不过射速逊于MP5系列而没有被采用，只好改成半自动型面向平民，后来因为电视剧的影响而成了毒贩和帮派分子的标配，外加没有被执法机构采用过，因此名声并不好。</RF_Gun_Tecnine.description>
-  <RF_Gun_Tecnine.tools.0.label>枪托</RF_Gun_Tecnine.tools.0.label>
-  <RF_Gun_Tecnine.tools.1.label>枪管</RF_Gun_Tecnine.tools.1.label>
-  <RF_Gun_Tecnine.tools.2.label>枪口</RF_Gun_Tecnine.tools.2.label>
-
-
-  <!-- M-3 -->
-
-  <RF_Gun_GreaseGun.label>M3“注油枪”冲锋枪</RF_Gun_GreaseGun.label>
-  <RF_Gun_GreaseGun.description>一种结构简单的SMG类的武器。威力较低，开火速率较高，射程较近。</RF_Gun_GreaseGun.description>
-  <RF_Gun_GreaseGun.tools.0.label>枪托</RF_Gun_GreaseGun.tools.0.label>
-  <RF_Gun_GreaseGun.tools.1.label>枪管</RF_Gun_GreaseGun.tools.1.label>
-  <RF_Gun_GreaseGun.tools.2.label>枪口</RF_Gun_GreaseGun.tools.2.label>
-
-
-  <!-- UZI -->
-
-  <Gun_MachinePistol.label>乌兹冲锋枪</Gun_MachinePistol.label>
-  <Gun_MachinePistol.description>大名鼎鼎的乌兹冲锋枪。有效射程和威力都比较低，但是开火速率极高，很容易就能瞄准开火。</Gun_MachinePistol.description>
-  <Gun_MachinePistol.tools.0.label>枪托</Gun_MachinePistol.tools.0.label>
-  <Gun_MachinePistol.tools.1.label>枪管</Gun_MachinePistol.tools.1.label>
-  <Gun_MachinePistol.tools.2.label>枪口</Gun_MachinePistol.tools.2.label>
-
-
-  <!-- TMP -->
-
-  <RF_Gun_TMP.label>TMP“沉默”冲锋枪</RF_Gun_TMP.label>
-  <RF_Gun_TMP.description>“沉默”微型冲锋枪，性能一般，瞄准时间较长，极高的开火速率，但是停止力较低。</RF_Gun_TMP.description>
-  <RF_Gun_TMP.tools.0.label>枪托</RF_Gun_TMP.tools.0.label>
-  <RF_Gun_TMP.tools.1.label>枪管</RF_Gun_TMP.tools.1.label>
-  <RF_Gun_TMP.tools.2.label>枪口</RF_Gun_TMP.tools.2.label>
-
-
-  <!-- EVO 3 -->
-
-  <RF_Gun_Skorpion.label>MP5K冲锋枪</RF_Gun_Skorpion.label>
-  <RF_Gun_Skorpion.description>MP5（德语：Maschinenpistole 5）是一款9毫米冲锋枪，由德国Oberndorf am Neckar的轻型武器制造商Heckler and Koch GmbH (HK)的工程师团队于20世纪60年代开发。MP5有100多种型号，包括一些半自动版本。MP5是世界上使用最广泛的冲锋枪之一，已被40个国家和众多军事、执法、情报和安全组织采用。它被北美的特警队广泛使用。1999年，Heckler和Koch开发了MP5的继任者Heckler and Koch UMP。</RF_Gun_Skorpion.description>
-  <RF_Gun_Skorpion.tools.0.label>枪托</RF_Gun_Skorpion.tools.0.label>
-  <RF_Gun_Skorpion.tools.1.label>枪管</RF_Gun_Skorpion.tools.1.label>
-  <RF_Gun_Skorpion.tools.2.label>枪口</RF_Gun_Skorpion.tools.2.label>
-
-
-  <!-- VECTOR K10 -->
-
-  <RF_Gun_Vector.label>K10“短剑”冲锋枪</RF_Gun_Vector.label>
-  <RF_Gun_Vector.description>KRISS Vector系列冲锋枪是由美国枪械公司“美国KRISS公司”所研制及生产的冲锋枪枪族，发射45.ACP手枪弹。美国KRISS公司的前身为转型武器研究国防工业（即Transformational Defense Industries，简称TDI）。此枪利用不均匀的后座力和同轴式设计，在保证.45口径子弹的威力的同时还能解决其后座力过大和枪口上跳严重的问题。</RF_Gun_Vector.description>
-  <RF_Gun_Vector.tools.0.label>枪托</RF_Gun_Vector.tools.0.label>
-  <RF_Gun_Vector.tools.1.label>枪管</RF_Gun_Vector.tools.1.label>
-  <RF_Gun_Vector.tools.2.label>枪口</RF_Gun_Vector.tools.2.label>
-
-
-  <!-- MP5-A3 -->
-
-  <Gun_MP5Gun.label>MP5A3冲锋枪</Gun_MP5Gun.label>
-  <Gun_MP5Gun.description>MP5（德语：Maschinenpistole 5）是一款9毫米冲锋枪，由德国Oberndorf am Neckar的轻型武器制造商Heckler and Koch GmbH (HK)的工程师团队于20世纪60年代开发。MP5有100多种型号，包括一些半自动版本。MP5是世界上使用最广泛的冲锋枪之一，已被40个国家和众多军事、执法、情报和安全组织采用。它被北美的特警队广泛使用。</Gun_MP5Gun.description>
-  <Gun_MP5Gun.tools.0.label>枪托</Gun_MP5Gun.tools.0.label>
-  <Gun_MP5Gun.tools.1.label>枪管</Gun_MP5Gun.tools.1.label>
-  <Gun_MP5Gun.tools.2.label>枪口</Gun_MP5Gun.tools.2.label>
-
-
-  <!-- UMP-45 -->
-
-  <Gun_UMP45Gun.label>UMP45冲锋枪</Gun_UMP45Gun.label>
-  <Gun_UMP45Gun.description>德国黑克勒-科赫(HK)公司专为美国特种部队开发的使用.45 ACP弹药的战斗武器，以代替实战条件下威力不佳的9mm冲锋枪。由于性能优异、后座力小、易于分解等优点，被多个特种部队及特警队采用。</Gun_UMP45Gun.description>
-  <Gun_UMP45Gun.tools.0.label>枪托</Gun_UMP45Gun.tools.0.label>
-  <Gun_UMP45Gun.tools.1.label>枪管</Gun_UMP45Gun.tools.1.label>
-  <Gun_UMP45Gun.tools.2.label>枪口</Gun_UMP45Gun.tools.2.label>
-
-
-  <!-- LUGER M4 -->
-
+  
+  <!-- EN: Spectre M4 -->
   <Gun_HeavySMG.label>M4幽灵冲锋枪</Gun_HeavySMG.label>
+  <!-- EN: A compact, wide-caliber slug-thrower. Very short range, but it packs a punch and handles quite well. -->
   <Gun_HeavySMG.description>M4幽灵冲锋枪是一种可瞬时进入射击状态、火力密集的单兵战斗武器。射程较短，但是密集的火力能够弥补其他的不足。</Gun_HeavySMG.description>
-  <Gun_HeavySMG.tools.0.label>枪托</Gun_HeavySMG.tools.0.label>
-  <Gun_HeavySMG.tools.1.label>枪管</Gun_HeavySMG.tools.1.label>
-  <Gun_HeavySMG.tools.2.label>枪口</Gun_HeavySMG.tools.2.label>
-
-
+  <!-- EN: stock -->
+  <Gun_HeavySMG.tools.stock.label>枪托</Gun_HeavySMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_HeavySMG.tools.barrel.label>枪管</Gun_HeavySMG.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_HeavySMG.tools.muzzle.label>枪口</Gun_HeavySMG.tools.muzzle.label>
+  <!-- EN: Spectre M4 -->
+  <Gun_HeavySMG.verbs.Verb_ShootCE.label>M4幽灵冲锋枪</Gun_HeavySMG.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Uzi -->
+  <Gun_MachinePistol.label>乌兹冲锋枪</Gun_MachinePistol.label>
+  <!-- EN: A basic submachine gun. Short range, low power, high rate of fire. Very quick to aim and fire. -->
+  <Gun_MachinePistol.description>大名鼎鼎的乌兹冲锋枪。有效射程和威力都比较低，但是开火速率极高，很容易就能瞄准开火。</Gun_MachinePistol.description>
+  <!-- EN: stock -->
+  <Gun_MachinePistol.tools.stock.label>枪托</Gun_MachinePistol.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_MachinePistol.tools.barrel.label>枪管</Gun_MachinePistol.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_MachinePistol.tools.muzzle.label>枪口</Gun_MachinePistol.tools.muzzle.label>
+  <!-- EN: Uzi -->
+  <Gun_MachinePistol.verbs.Verb_ShootCE.label>乌兹冲锋枪</Gun_MachinePistol.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: HK MP5A3 -->
+  <Gun_MP5Gun.label>MP5A3冲锋枪</Gun_MP5Gun.label>
+  <!-- EN: The Heckler Koch MP5 is a 9mm submachine gun of German design, developed in the 1960s by a team of engineers from the German small arms manufacturer Heckler Koch GmbH of Oberndorf am Neckar. Low damage and short range, very high rate of fire. -->
+  <Gun_MP5Gun.description>MP5（德语：Maschinenpistole 5）是一款9毫米冲锋枪，由德国Oberndorf am Neckar的轻型武器制造商Heckler and Koch GmbH (HK)的工程师团队于20世纪60年代开发。MP5有100多种型号，包括一些半自动版本。MP5是世界上使用最广泛的冲锋枪之一，已被40个国家和众多军事、执法、情报和安全组织采用。它被北美的特警队广泛使用。</Gun_MP5Gun.description>
+  <!-- EN: stock -->
+  <Gun_MP5Gun.tools.stock.label>枪托</Gun_MP5Gun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_MP5Gun.tools.barrel.label>枪管</Gun_MP5Gun.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_MP5Gun.tools.muzzle.label>枪口</Gun_MP5Gun.tools.muzzle.label>
+  <!-- EN: HK MP5A3 -->
+  <Gun_MP5Gun.verbs.Verb_ShootCE.label>MP5A3冲锋枪</Gun_MP5Gun.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: HK UMP45 -->
+  <Gun_UMP45Gun.label>UMP45冲锋枪</Gun_UMP45Gun.label>
+  <!-- EN: The UMP45 is a submachine gun developed and manufactured by Heckler Koch. The UMP45 has been adopted by various agencies such as the U.S. Customs and Border Protection. Heckler Koch developed the UMP45 as a successor to the MP5. Average damage, low range and high rate of fire. -->
+  <Gun_UMP45Gun.description>德国黑克勒-科赫(HK)公司专为美国特种部队开发的使用.45 ACP弹药的战斗武器，以代替实战条件下威力不佳的9mm冲锋枪。由于性能优异、后座力小、易于分解等优点，被多个特种部队及特警队采用。</Gun_UMP45Gun.description>
+  <!-- EN: stock -->
+  <Gun_UMP45Gun.tools.stock.label>枪托</Gun_UMP45Gun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_UMP45Gun.tools.barrel.label>枪管</Gun_UMP45Gun.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_UMP45Gun.tools.muzzle.label>枪口</Gun_UMP45Gun.tools.muzzle.label>
+  <!-- EN: HK UMP45 -->
+  <Gun_UMP45Gun.verbs.Verb_ShootCE.label>UMP45冲锋枪</Gun_UMP45Gun.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: M3A1 Greasegun -->
+  <RF_Gun_GreaseGun.label>M3“注油枪”冲锋枪</RF_Gun_GreaseGun.label>
+  <!-- EN: A very simplistic submachinegun design for todays standards. Low damage, high firerate, short range. -->
+  <RF_Gun_GreaseGun.description>一种结构简单的SMG类的武器。威力较低，开火速率较高，射程较近。</RF_Gun_GreaseGun.description>
+  <!-- EN: stock -->
+  <RF_Gun_GreaseGun.tools.stock.label>枪托</RF_Gun_GreaseGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <RF_Gun_GreaseGun.tools.barrel.label>枪管</RF_Gun_GreaseGun.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <RF_Gun_GreaseGun.tools.muzzle.label>枪口</RF_Gun_GreaseGun.tools.muzzle.label>
+  <!-- EN: M3A1 Greasegun -->
+  <RF_Gun_GreaseGun.verbs.Verb_ShootCE.label>M3“注油枪”冲锋枪</RF_Gun_GreaseGun.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: HK MP5K -->
+  <RF_Gun_Skorpion.label>MP5K冲锋枪</RF_Gun_Skorpion.label>
+  <!-- EN: A light SMG with no stock. Fires weak ammunition in quick five shot-bursts at pistol range. -->
+  <RF_Gun_Skorpion.description>MP5（德语：Maschinenpistole 5）是一款9毫米冲锋枪，由德国Oberndorf am Neckar的轻型武器制造商Heckler and Koch GmbH (HK)的工程师团队于20世纪60年代开发。MP5有100多种型号，包括一些半自动版本。MP5是世界上使用最广泛的冲锋枪之一，已被40个国家和众多军事、执法、情报和安全组织采用。它被北美的特警队广泛使用。1999年，Heckler和Koch开发了MP5的继任者Heckler and Koch UMP。</RF_Gun_Skorpion.description>
+  <!-- EN: stock -->
+  <RF_Gun_Skorpion.tools.stock.label>枪托</RF_Gun_Skorpion.tools.stock.label>
+  <!-- EN: barrel -->
+  <RF_Gun_Skorpion.tools.barrel.label>枪管</RF_Gun_Skorpion.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <RF_Gun_Skorpion.tools.muzzle.label>枪口</RF_Gun_Skorpion.tools.muzzle.label>
+  <!-- EN: HK MP5K -->
+  <RF_Gun_Skorpion.verbs.Verb_ShootCE.label>MP5K冲锋枪</RF_Gun_Skorpion.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: TEC-9 -->
+  <RF_Gun_Tecnine.label>TEC-9冲锋手枪</RF_Gun_Tecnine.label>
+  <!-- EN: A lightweight semi-automatic pistol with a quick draw, low damage and very high firerate. Operates at a short range. -->
+  <RF_Gun_Tecnine.description>英特拉泰克TEC-9是一款由瑞典国际动力公司的美国分部英特拉泰克公司所设计生产的反冲作用操作半自动枪械，发射9× 19mm鲁格手枪弹，被美国烟酒枪炮及爆裂物管理局归类为手枪。这种枪械的结构简单可靠，短小精悍，最早是作为军用武器推销给军方，不过射速逊于MP5系列而没有被采用，只好改成半自动型面向平民，后来因为电视剧的影响而成了毒贩和帮派分子的标配，外加没有被执法机构采用过，因此名声并不好。</RF_Gun_Tecnine.description>
+  <!-- EN: stock -->
+  <RF_Gun_Tecnine.tools.stock.label>枪托</RF_Gun_Tecnine.tools.stock.label>
+  <!-- EN: barrel -->
+  <RF_Gun_Tecnine.tools.barrel.label>枪管</RF_Gun_Tecnine.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <RF_Gun_Tecnine.tools.muzzle.label>枪口</RF_Gun_Tecnine.tools.muzzle.label>
+  <!-- EN: TEC-9 -->
+  <RF_Gun_Tecnine.verbs.Verb_ShootCE.label>TEC-9冲锋手枪</RF_Gun_Tecnine.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Silenced TMP -->
+  <RF_Gun_TMP.label>TMP“沉默”冲锋枪</RF_Gun_TMP.label>
+  <!-- EN: A big machinepistol or small submachinegun. Somewhat accurate long range, fast burstfire with low stopping power. -->
+  <RF_Gun_TMP.description>“沉默”微型冲锋枪，性能一般，瞄准时间较长，极高的开火速率，但是停止力较低。</RF_Gun_TMP.description>
+  <!-- EN: stock -->
+  <RF_Gun_TMP.tools.stock.label>枪托</RF_Gun_TMP.tools.stock.label>
+  <!-- EN: barrel -->
+  <RF_Gun_TMP.tools.barrel.label>枪管</RF_Gun_TMP.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <RF_Gun_TMP.tools.muzzle.label>枪口</RF_Gun_TMP.tools.muzzle.label>
+  <!-- EN: Silenced TMP -->
+  <RF_Gun_TMP.verbs.Verb_ShootCE.label>TMP“沉默”冲锋枪</RF_Gun_TMP.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Kriss Vector SMG -->
+  <RF_Gun_Vector.label>K10“短剑”冲锋枪</RF_Gun_Vector.label>
+  <!-- EN: A submachinegun that fires in medium length bursts. Its substantially reduced knockback causes it to be accurate up to medium range, but its bullet drop limits maximal range by a lot. -->
+  <RF_Gun_Vector.description>KRISS Vector系列冲锋枪是由美国枪械公司“美国KRISS公司”所研制及生产的冲锋枪枪族，发射45.ACP手枪弹。美国KRISS公司的前身为转型武器研究国防工业（即Transformational Defense Industries，简称TDI）。此枪利用不均匀的后座力和同轴式设计，在保证.45口径子弹的威力的同时还能解决其后座力过大和枪口上跳严重的问题。</RF_Gun_Vector.description>
+  <!-- EN: stock -->
+  <RF_Gun_Vector.tools.stock.label>枪托</RF_Gun_Vector.tools.stock.label>
+  <!-- EN: barrel -->
+  <RF_Gun_Vector.tools.barrel.label>枪管</RF_Gun_Vector.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <RF_Gun_Vector.tools.muzzle.label>枪口</RF_Gun_Vector.tools.muzzle.label>
+  <!-- EN: Kriss Vector SMG -->
+  <RF_Gun_Vector.verbs.Verb_ShootCE.label>K10“短剑”冲锋枪</RF_Gun_Vector.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

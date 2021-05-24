@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <AtePoison.stages.0.label>服食了毒药</AtePoison.stages.0.label>
-  <AtePoison.stages.0.description>我吃了毒药，那玩意可能会要了我的命！</AtePoison.stages.0.description>
-
-
+  
+  <!-- EN: ate poison -->
+  <AtePoison.stages.ate_poison.label>服食了毒药</AtePoison.stages.ate_poison.label>
+  <!-- EN: I ate some poison, it can be lethal -->
+  <AtePoison.stages.ate_poison.description>我吃了毒药，那玩意可能会要了我的命！</AtePoison.stages.ate_poison.description>
+  
 </LanguageData>

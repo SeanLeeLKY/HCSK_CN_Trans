@@ -1,15 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Zeon -->
   <Mech_Zeon.label>吉恩</Mech_Zeon.label>
-  <Mech_Zeon.tools.0.label>左镰刃</Mech_Zeon.tools.0.label>
-  <Mech_Zeon.tools.1.label>右镰刃</Mech_Zeon.tools.1.label>
-  <Mech_Zeon.tools.2.label>头</Mech_Zeon.tools.2.label>
-  <!-- Flesh Type: Mechanoid -->
-  <Mech_Zeon_Corpse.label>吉恩尸体</Mech_Zeon_Corpse.label>
-  <Mech_Zeon_Corpse.description>吉恩尸体</Mech_Zeon_Corpse.description>
-
-
-  <!--<Mech_Zeon.description>机械族BOSS。</Mech_Zeon.description>-->
-
+  <!-- EN: left blade -->
+  <Mech_Zeon.tools.left_blade.label>左镰刃</Mech_Zeon.tools.left_blade.label>
+  <!-- EN: right blade -->
+  <Mech_Zeon.tools.right_blade.label>右镰刃</Mech_Zeon.tools.right_blade.label>
+  <!-- EN: head -->
+  <Mech_Zeon.tools.head.label>头</Mech_Zeon.tools.head.label>
+  
 </LanguageData>

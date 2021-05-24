@@ -1,17 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: common cat -->
   <Cat.label>猫</Cat.label>
+  <!-- EN: Cats are small, furry, domesticated, and carnivorous mammals that come in a variety of breeds. With their small sharp claws, they are often referenced as "fluffy balls of DEATH!". -->
   <Cat.description>人类最早饲养的宠物之一，猫是一种捕杀害虫的小型哺乳动物。众人皆知其高贵冷艳，但因其安静、独立，和好看细腻的毛皮，仍然是非常受欢迎的宠物。</Cat.description>
-  <Cat.tools.0.label>左爪</Cat.tools.0.label>
-  <Cat.tools.1.label>右爪</Cat.tools.1.label>
-  <Cat.tools.3.label>头</Cat.tools.3.label>
-  <!-- <Cat_Leather.label>猫皮</Cat_Leather.label>
-  <Cat_Leather.description>猫皮</Cat_Leather.description>
-  <Cat_Leather.stuffProps.stuffAdjective>猫皮</Cat_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Elephant -->
-  <Cat_Corpse.label>猫尸体</Cat_Corpse.label>
-  <Cat_Corpse.description>猫尸体</Cat_Corpse.description>
-
-
+  <!-- EN: left claw -->
+  <Cat.tools.left_claw.label>左爪</Cat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Cat.tools.right_claw.label>右爪</Cat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Cat.tools.head.label>头</Cat.tools.head.label>
+  
 </LanguageData>

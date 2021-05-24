@@ -1,11 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Classic -->
   <Classic.label>经典生存</Classic.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi. Some time later, you land on this unknown rimworld. -->
   <Classic.description>你们三人从隐秘的沉睡地醒来。一段时间后，你们发现身处于一个未知的边缘世界。</Classic.description>
-  <Classic.scenario.name>经典生存</Classic.scenario.name>
-  <Classic.scenario.summary>三人生存 - RimWorld经典剧本。</Classic.scenario.summary>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi. Some time later, you land on this unknown rimworld. -->
   <Classic.scenario.description>你们三人从隐秘的沉睡地醒来。一段时间后，你们发现身处于一个未知的边缘世界。</Classic.scenario.description>
-
-
+  <!-- EN: Classic -->
+  <Classic.scenario.name>经典生存</Classic.scenario.name>
+  <!-- EN: Three survivors - the classic RimWorld experience. -->
+  <Classic.scenario.summary>三人生存 - RimWorld经典剧本。</Classic.scenario.summary>
+  
 </LanguageData>

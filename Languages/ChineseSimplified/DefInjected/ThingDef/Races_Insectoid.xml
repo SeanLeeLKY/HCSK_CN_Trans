@@ -1,25 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: antis -->
   <Antis.label>蚁螳</Antis.label>
+  <!-- EN: A quiet stalker and merciless killer, the Antis (ant mantis) is a warrior caste of the insectoid hive. This species was created to fight the Mechanoid invasion, but poses a danger to people, too. It is a social creature that cannot reproduce individually. -->
   <Antis.description>安静的追踪者和无情的杀戮者，蚁螳是一种改造过的“武士”等级的具备战士职责的基因杂交生物武器。这种物种是为了对抗机械入侵而创造的，但同时也对人类构成了危险。它们是一种无法单独繁殖的蜂巢群居生物。</Antis.description>
-  <Antis.tools.0.label>左前腿</Antis.tools.0.label>
-  <Antis.tools.1.label>右前腿</Antis.tools.1.label>
-  <Antis.tools.3.label>头</Antis.tools.3.label>
-  <!-- No Leather: Butcher Products -->
-  <!-- Use Meat From: Megaspider -->
-  <Antis_Corpse.label>蚁螳尸体</Antis_Corpse.label>
-  <Antis_Corpse.description>蚁螳尸体</Antis_Corpse.description>
-
+  <!-- EN: Left foreleg -->
+  <Antis.tools.Left_foreleg.label>左前腿</Antis.tools.Left_foreleg.label>
+  <!-- EN: Right foreleg -->
+  <Antis.tools.Right_foreleg.label>右前腿</Antis.tools.Right_foreleg.label>
+  <!-- EN: head -->
+  <Antis.tools.head.label>头</Antis.tools.head.label>
+  
+  <!-- EN: gnawler -->
   <Gnawler.label>啃噬兽</Gnawler.label>
+  <!-- EN: Gnawlers are a "grunt" caste of the insectoid hive. They are much smaller than the "warrior" caste and isn't particular dangerous when alone. Gnawlers can be very dangerous when they form into packs. It is a social creature that cannot reproduce individually. -->
   <Gnawler.description>啃噬兽是昆虫类蜂巢中的一种“咕噜”（类似于杂兵、工蜂）等级的虫子。他们比“武士”等级虫类要普遍得多，单独面对时并不特别危险。但当它们成群结队的时候，最好避其锋芒。它们是一种不能单独繁殖的蜂巢群居生物。</Gnawler.description>
-  <Gnawler.tools.0.label>左前腿</Gnawler.tools.0.label>
-  <Gnawler.tools.1.label>右前腿</Gnawler.tools.1.label>
-  <Gnawler.tools.3.label>头</Gnawler.tools.3.label>
-  <!-- No Leather: Butcher Products -->
-  <!-- Use Meat From: Megaspider -->
-  <Gnawler_Corpse.label>啃噬兽尸体</Gnawler_Corpse.label>
-  <Gnawler_Corpse.description>啃噬兽尸体</Gnawler_Corpse.description>
-
-
+  <!-- EN: Left foreleg -->
+  <Gnawler.tools.Left_foreleg.label>左前腿</Gnawler.tools.Left_foreleg.label>
+  <!-- EN: Right foreleg -->
+  <Gnawler.tools.Right_foreleg.label>右前腿</Gnawler.tools.Right_foreleg.label>
+  <!-- EN: head -->
+  <Gnawler.tools.head.label>头</Gnawler.tools.head.label>
+  
 </LanguageData>

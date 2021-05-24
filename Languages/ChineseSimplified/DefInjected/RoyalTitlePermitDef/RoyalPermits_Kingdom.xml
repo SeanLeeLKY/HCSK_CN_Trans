@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: call a group of Black knights -->
+  <CallBlackKnightsKingdom.label>呼叫黑骑士团</CallBlackKnightsKingdom.label>
+  <!-- EN: Call a group of 20 black knights to aid you in battle. -->
+  <CallBlackKnightsKingdom.description>呼叫一队黑骑士（20人）来协助你作战。</CallBlackKnightsKingdom.description>
+  
+  <!-- EN: call a group of Knights -->
+  <CallKnightsKingdom.label>呼叫骑士团</CallKnightsKingdom.label>
+  <!-- EN: Call a group of 20 knights to aid you in battle. -->
+  <CallKnightsKingdom.description>呼叫一队骑士（20人）来协助你作战。</CallKnightsKingdom.description>
+  
+  <!-- EN: call laborer gang -->
+  <CallLaborerGangKingdom.label>呼叫工人团</CallLaborerGangKingdom.label>
+  <!-- EN: Call a group of 8 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
+  <CallLaborerGangKingdom.description>呼叫一队（8人）工人来为你工作4天时间。这些工人只能完成一般的劳动任务，你可以像普通殖民者一样控制他们，在此期间内你需要保证他们的安全。</CallLaborerGangKingdom.description>
+  
+  <!-- EN: call laborer team -->
+  <CallLaborerTeamKingdom.label>呼叫劳工队</CallLaborerTeamKingdom.label>
+  <!-- EN: Call a group of 4 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
+  <CallLaborerTeamKingdom.description>呼叫一队（4人）工人来为你工作4天时间。这些工人只能完成一般的劳动任务，你可以像普通殖民者一样控制他们，在此期间内你需要保证他们的安全。</CallLaborerTeamKingdom.description>
+  
+  <!-- EN: call a group of Legion -->
+  <CallLegionKingdom.label>呼叫雇佣兵团</CallLegionKingdom.label>
+  <!-- EN: Call a group of 20 desperado's to aid you in battle. -->
+  <CallLegionKingdom.description>呼叫一队暴徒（20人）来协助你作战。</CallLegionKingdom.description>
+  
+  <!-- EN: call a group of mercenary -->
+  <CallMercenaryKingdom.label>呼叫雇佣兵队</CallMercenaryKingdom.label>
+  <!-- EN: Call a group of 10 desperado's to aid you in battle. -->
+  <CallMercenaryKingdom.description>呼叫一队暴徒（10人）来协助你作战。</CallMercenaryKingdom.description>
+  
+</LanguageData>

@@ -1,60 +1,76 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- RL T9 BURNING SUN -->
-
-  <Gun_IncendiaryLauncher.label>T9“炎阳”燃烧弹发射器</Gun_IncendiaryLauncher.label>
-  <Gun_IncendiaryLauncher.description>发射燃料弹，点燃目标周围物体的远程发射器。</Gun_IncendiaryLauncher.description>
-  <Gun_IncendiaryLauncher.tools.0.label>枪管</Gun_IncendiaryLauncher.tools.0.label>
-
-
-  <!-- M79 GL -->
-
-  <Gun_M79GL.label>M79榴弹发射器</Gun_M79GL.label>
-  <Gun_M79GL.description>一种发射40mm口径榴弹的发射器。</Gun_M79GL.description>
-  <Gun_M79GL.tools.0.label>枪管</Gun_M79GL.tools.0.label>
-
-
-  <!-- MILKOR MGL -->
-
-  <Gun_MilkorMGL.label>米尔科姆榴弹发射器</Gun_MilkorMGL.label>
-  <Gun_MilkorMGL.description>一种半自动多用途转轮式榴弹发射器，使用40mm榴弹弹药，拥有大大高于普通枪械的榴弹发射速度。</Gun_MilkorMGL.description>
-  <Gun_MilkorMGL.tools.0.label>枪管</Gun_MilkorMGL.tools.0.label>
-
-
-  <!-- RPG-7 -->
-
-  <Gun_RPG.label>RPG-7火箭筒</Gun_RPG.label>
-  <Gun_RPG.description>火箭助推式榴弹发射器。</Gun_RPG.description>
-  <Gun_RPG.tools.0.label>枪管</Gun_RPG.tools.0.label>
-
-
-  <!-- M5 RPG -->
-
-  <Gun_M5_USCM.label>M5火箭筒</Gun_M5_USCM.label>
-  <Gun_M5_USCM.description>M5 火箭助推式榴弹发射器。它是一种便携式、肩扛发射、可重新装填、半自动制导的反装甲火箭推进榴弹发射器。能装载多达4枚火箭。M5是USCM最为青睐的反步兵用途“大玩具”。</Gun_M5_USCM.description>
-  <Gun_M5_USCM.tools.0.label>枪管</Gun_M5_USCM.tools.0.label>
-
-
-  <!-- M72 LAW -->
-
-  <Gun_LAW.label>M72R反坦克火箭筒</Gun_LAW.label>
-  <Gun_LAW.description>M72R轻型反装甲武器。一种反坦克火箭发射器，带有特殊的反装甲火箭弹。</Gun_LAW.description>
-  <Gun_LAW.tools.0.label>枪管</Gun_LAW.tools.0.label>
-
-
-  <!-- R3 DOOMSDAY RL -->
-
+  
+  <!-- EN: R3 Doomsday Rocket Launcher -->
   <Gun_DoomsdayRocket.label>R3“末日”火箭发射器</Gun_DoomsdayRocket.label>
+  <!-- EN: A skynets doomsday rocket launcher. -->
   <Gun_DoomsdayRocket.description>“天网”派系标配的末日清理武器。</Gun_DoomsdayRocket.description>
-  <Gun_DoomsdayRocket.tools.0.label>枪管</Gun_DoomsdayRocket.tools.0.label>
-
-
-  <!-- R3 BRL -->
-
+  <!-- EN: barrel -->
+  <Gun_DoomsdayRocket.tools.barrel.label>枪管</Gun_DoomsdayRocket.tools.barrel.label>
+  <!-- EN: R3 Doomsday Rocket Launcher -->
+  <Gun_DoomsdayRocket.verbs.Verb_ShootCE.label>R3“末日”火箭发射器</Gun_DoomsdayRocket.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: RL T9 Burning Sun -->
+  <Gun_IncendiaryLauncher.label>T9“炎阳”燃烧弹发射器</Gun_IncendiaryLauncher.label>
+  <!-- EN: Incendiary bolt launcher. Starts fires. -->
+  <Gun_IncendiaryLauncher.description>发射燃料弹，点燃目标周围物体的远程发射器。</Gun_IncendiaryLauncher.description>
+  <!-- EN: barrel -->
+  <Gun_IncendiaryLauncher.tools.barrel.label>枪管</Gun_IncendiaryLauncher.tools.barrel.label>
+  <!-- EN: RL T9 Burning Sun -->
+  <Gun_IncendiaryLauncher.verbs.Verb_ShootCE.label>T9“炎阳”燃烧弹发射器</Gun_IncendiaryLauncher.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: M72R LAW -->
+  <Gun_LAW.label>M72R反坦克火箭筒</Gun_LAW.label>
+  <!-- EN: A reloadable version of ancient single shot anti tank rocket launcher, with special armor piercing penetration rocket. -->
+  <Gun_LAW.description>M72R轻型反装甲武器。一种反坦克火箭发射器，带有特殊的反装甲火箭弹。</Gun_LAW.description>
+  <!-- EN: barrel -->
+  <Gun_LAW.tools.barrel.label>枪管</Gun_LAW.tools.barrel.label>
+  <!-- EN: M72R LAW -->
+  <Gun_LAW.verbs.Verb_ShootCE.label>M72R反坦克火箭筒</Gun_LAW.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: M5 RPG -->
+  <Gun_M5_USCM.label>M5火箭筒</Gun_M5_USCM.label>
+  <!-- EN: The M5 Rocket Propelled Grenade (RPG) is a portable, shoulder-fired, reloadable, semi-automatic unguided anti-armor rocket-propelled grenade launcher used by United States Colonial Marine Corps as their standard issue RPG. Able to load up to 4 rockets, the M5 RPG is the favorite anti-infantry toy of the USCM. -->
+  <Gun_M5_USCM.description>M5 火箭助推式榴弹发射器。它是一种便携式、肩扛发射、可重新装填、半自动制导的反装甲火箭推进榴弹发射器。能装载多达4枚火箭。M5是USCM最为青睐的反步兵用途“大玩具”。</Gun_M5_USCM.description>
+  <!-- EN: barrel -->
+  <Gun_M5_USCM.tools.barrel.label>枪管</Gun_M5_USCM.tools.barrel.label>
+  <!-- EN: M5 RPG -->
+  <Gun_M5_USCM.verbs.Verb_ShootCE.label>M5火箭筒</Gun_M5_USCM.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: M79 GL -->
+  <Gun_M79GL.label>M79榴弹发射器</Gun_M79GL.label>
+  <!-- EN: A launcher type weapon that fires 40mm concussive grenades. -->
+  <Gun_M79GL.description>一种发射40mm口径榴弹的发射器。</Gun_M79GL.description>
+  <!-- EN: barrel -->
+  <Gun_M79GL.tools.barrel.label>枪管</Gun_M79GL.tools.barrel.label>
+  <!-- EN: M79 GL -->
+  <Gun_M79GL.verbs.Verb_ShootCE.label>M79榴弹发射器</Gun_M79GL.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Milkor MGL -->
+  <Gun_MilkorMGL.label>米尔科姆榴弹发射器</Gun_MilkorMGL.label>
+  <!-- EN: A launcher type weapon that fires 40mm concussive grenades at a higher rate than a human could. -->
+  <Gun_MilkorMGL.description>一种半自动多用途转轮式榴弹发射器，使用40mm榴弹弹药，拥有大大高于普通枪械的榴弹发射速度。</Gun_MilkorMGL.description>
+  <!-- EN: barrel -->
+  <Gun_MilkorMGL.tools.barrel.label>枪管</Gun_MilkorMGL.tools.barrel.label>
+  <!-- EN: Milkor MGL -->
+  <Gun_MilkorMGL.verbs.Verb_ShootCE.label>米尔科姆榴弹发射器</Gun_MilkorMGL.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: RPG-7 -->
+  <Gun_RPG.label>RPG-7火箭筒</Gun_RPG.label>
+  <!-- EN: RPG Launcher. -->
+  <Gun_RPG.description>火箭助推式榴弹发射器。</Gun_RPG.description>
+  <!-- EN: barrel -->
+  <Gun_RPG.tools.barrel.label>枪管</Gun_RPG.tools.barrel.label>
+  <!-- EN: RPG-7 -->
+  <Gun_RPG.verbs.Verb_ShootCE.label>RPG-7火箭筒</Gun_RPG.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: R3 Blast-Rocket Launcher -->
   <Gun_TripleRocket.label>R3“冲击波”火箭发射器</Gun_TripleRocket.label>
+  <!-- EN: A single-use rocket launcher that fires 3 projectiles in quick succession. -->
   <Gun_TripleRocket.description>一种能够快速发射3枚火箭弹的一次性发射器。</Gun_TripleRocket.description>
-  <Gun_TripleRocket.tools.0.label>枪管</Gun_TripleRocket.tools.0.label>
-
-
+  <!-- EN: barrel -->
+  <Gun_TripleRocket.tools.barrel.label>枪管</Gun_TripleRocket.tools.barrel.label>
+  <!-- EN: R3 Blast-Rocket Launcher -->
+  <Gun_TripleRocket.verbs.Verb_ShootCE.label>R3“冲击波”火箭发射器</Gun_TripleRocket.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

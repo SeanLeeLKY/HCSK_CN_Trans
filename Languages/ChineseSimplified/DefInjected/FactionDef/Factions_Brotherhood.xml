@@ -1,9 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Bloodmoon brotherhood -->
   <Brotherhood.label>血月兄弟会</Brotherhood.label>
-  <Brotherhood.pawnsPlural>血月兄弟会</Brotherhood.pawnsPlural>
+  <!-- EN: Chief -->
   <Brotherhood.leaderTitle>会首</Brotherhood.leaderTitle>
-
-
+  <!-- EN: bloodmoon brotherhood -->
+  <Brotherhood.pawnSingular>血月兄弟会</Brotherhood.pawnSingular>
+  <!-- EN: bloodmoon brotherhood -->
+  <Brotherhood.pawnsPlural>血月兄弟会</Brotherhood.pawnsPlural>
+  
 </LanguageData>

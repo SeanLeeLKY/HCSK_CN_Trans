@@ -1,17 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: meerkat -->
   <Meerkat.label>猫鼬</Meerkat.label>
+  <!-- EN: The meerkat or suricate (Suricata suricatta) is a small carnivoran belonging to the mongoose family (Herpestidae). It is the only member of the genus Suricata. A group of meerkats is called a "mob", "gang" or "clan". A meerkat clan often contains about 20 meerkats, but some super-families have 50 or more members. In captivity, meerkats have an average life span of 12–14 years, and about half this in the wild. -->
   <Meerkat.description>猫鼬或沼狸（Suricata suricatta）是猫鼬科（猫科）的小型食肉动物。 它是沼狸属的唯一成员。猫鼬氏族通常包含大约20个猫鼬，但是一些超家族有50个或更多的成员。在圈养中，猫鼬的平均寿命为12-14岁，而在野外，平均寿命约为一半。</Meerkat.description>
-  <Meerkat.tools.0.label>左爪</Meerkat.tools.0.label>
-  <Meerkat.tools.1.label>右爪</Meerkat.tools.1.label>
-  <Meerkat.tools.3.label>头</Meerkat.tools.3.label>
-  <!-- <Meerkat_Leather.label>猫鼬皮</Meerkat_Leather.label>
-  <Meerkat_Leather.description>猫鼬皮</Meerkat_Leather.description>
-  <Meerkat_Leather.stuffProps.stuffAdjective>猫鼬皮</Meerkat_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Elephant -->
-  <Meerkat_Corpse.label>猫鼬尸体</Meerkat_Corpse.label>
-  <Meerkat_Corpse.description>猫鼬尸体</Meerkat_Corpse.description>
-
-
+  <!-- EN: left claw -->
+  <Meerkat.tools.left_claw.label>左爪</Meerkat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Meerkat.tools.right_claw.label>右爪</Meerkat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Meerkat.tools.head.label>头</Meerkat.tools.head.label>
+  
 </LanguageData>

@@ -1,69 +1,85 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- LIGHT BLASTER -->
-
-  <Gun_lightmechblaster.label>机械族-电荷冲击枪</Gun_lightmechblaster.label>
-  <Gun_lightmechblaster.description>机械族的一种轻型电荷武器。</Gun_lightmechblaster.description>
-  <Gun_lightmechblaster.tools.0.label>枪管</Gun_lightmechblaster.tools.0.label>
-
-
-  <!-- Mech. Heavy Charge Blaster -->
-
+  
+  <!-- EN: Mech. Heavy Charge Blaster -->
   <Gun_ChargeBlasterHeavy.label>机械族-电荷冲击炮</Gun_ChargeBlasterHeavy.label>
+  <!-- EN: Charged-shot blaster for area suppressive fire. Mechanoid-built. -->
   <Gun_ChargeBlasterHeavy.description>发射高能冲击电荷弹的范围压制性武器。机械族出品。</Gun_ChargeBlasterHeavy.description>
-  <Gun_ChargeBlasterHeavy.tools.0.label>枪管</Gun_ChargeBlasterHeavy.tools.0.label>
-
-
-  <!-- INFERNO CANNON -->
-
-  <Gun_InfernoCannon.label>机械族-地狱加农炮</Gun_InfernoCannon.label>
-  <Gun_InfernoCannon.description>小型燃烧弹火炮。机械族出品。</Gun_InfernoCannon.description>
-  <Gun_InfernoCannon.tools.0.label>枪管</Gun_InfernoCannon.tools.0.label>
-
-
-  <!-- LASER PULSER -->
-
-  <Gun_mechlaser.label>机械族-脉冲光束发射器</Gun_mechlaser.label>
-  <Gun_mechlaser.description>一种机械族脉冲光束武器。</Gun_mechlaser.description>
-  <Gun_mechlaser.tools.0.label>枪管</Gun_mechlaser.tools.0.label>
-
-
-  <!-- HEAVY LASER PULSER -->
-
-  <Gun_mechheavylaser.label>机械族-重型脉冲光束发射器</Gun_mechheavylaser.label>
-  <Gun_mechheavylaser.description>一种机械族重型脉冲光束武器。</Gun_mechheavylaser.description>
-  <Gun_mechheavylaser.tools.0.label>枪管</Gun_mechheavylaser.tools.0.label>
-
-
-  <!-- ZEON BLASTER -->
-
-  <Gun_ZeonBlaster.label>吉恩冲击枪</Gun_ZeonBlaster.label>
-  <Gun_ZeonBlaster.description>一种机械族等离子武器。</Gun_ZeonBlaster.description>
-  <Gun_ZeonBlaster.tools.0.label>枪管</Gun_ZeonBlaster.tools.0.label>
-
-
-  <!-- Charged Diffuser -->
-
-  <Gun_MechPlasma.label>机械族-电荷霰弹枪</Gun_MechPlasma.label>
-  <Gun_MechPlasma.description>机械族出品的电荷散射武器。</Gun_MechPlasma.description>
-  <Gun_MechPlasma.tools.0.label>枪管</Gun_MechPlasma.tools.0.label>
-
-
-  <!-- RAILGUN -->
-
+  <!-- EN: barrel -->
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>枪管</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <!-- EN: Mech. Heavy Charge Blaster -->
+  <Gun_ChargeBlasterHeavy.verbs.Verb_ShootCE.label>机械族-电荷冲击炮</Gun_ChargeBlasterHeavy.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Extraterrestrial Railgun -->
   <Gun_ChargeLance.label>异星轨道枪</Gun_ChargeLance.label>
+  <!-- EN: Charged-shot rail-assisted lance weapon. Fires a single charged shot at high velocity. -->
   <Gun_ChargeLance.description>长轨道加速电荷弹丸发射器。能以极高的速度发射单发电荷弹药。</Gun_ChargeLance.description>
-  <Gun_ChargeLance.tools.0.label>枪管</Gun_ChargeLance.tools.0.label>
-
-
-  <!-- Needlegun -->
-
+  <!-- EN: barrel -->
+  <Gun_ChargeLance.tools.barrel.label>枪管</Gun_ChargeLance.tools.barrel.label>
+  <!-- EN: Extraterrestrial Railgun -->
+  <Gun_ChargeLance.verbs.Verb_ShootCE.label>异星轨道枪</Gun_ChargeLance.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Mech. Inferno Cannon -->
+  <Gun_InfernoCannon.label>机械族-地狱加农炮</Gun_InfernoCannon.label>
+  <!-- EN: Incendiary-shot mini-artillery device. Mechanoid-built. -->
+  <Gun_InfernoCannon.description>小型燃烧弹火炮。机械族出品。</Gun_InfernoCannon.description>
+  <!-- EN: barrel -->
+  <Gun_InfernoCannon.tools.barrel.label>枪管</Gun_InfernoCannon.tools.barrel.label>
+  <!-- EN: Mech. Inferno Cannon -->
+  <Gun_InfernoCannon.verbs.Verb_ShootCE.label>机械族-地狱加农炮</Gun_InfernoCannon.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Mech. Light Blaster -->
+  <Gun_lightmechblaster.label>机械族-电荷冲击枪</Gun_lightmechblaster.label>
+  <!-- EN: Mechanoid light blaster. -->
+  <Gun_lightmechblaster.description>机械族的一种轻型电荷武器。</Gun_lightmechblaster.description>
+  <!-- EN: barrel -->
+  <Gun_lightmechblaster.tools.barrel.label>枪管</Gun_lightmechblaster.tools.barrel.label>
+  <!-- EN: Mech. Light Blaster -->
+  <Gun_lightmechblaster.verbs.Verb_ShootCE.label>机械族-电荷冲击枪</Gun_lightmechblaster.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Mech. Heavy Laser Pulser -->
+  <Gun_mechheavylaser.label>机械族-重型脉冲光束发射器</Gun_mechheavylaser.label>
+  <!-- EN: Mechanoid heavy laser pulser. -->
+  <Gun_mechheavylaser.description>一种机械族重型脉冲光束武器。</Gun_mechheavylaser.description>
+  <!-- EN: barrel -->
+  <Gun_mechheavylaser.tools.barrel.label>枪管</Gun_mechheavylaser.tools.barrel.label>
+  <!-- EN: Mech. Heavy Laser Pulser -->
+  <Gun_mechheavylaser.verbs.Verb_ShootCE.label>机械族-重型脉冲光束发射器</Gun_mechheavylaser.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Mechanoid Laser Pulser -->
+  <Gun_mechlaser.label>机械族-脉冲光束发射器</Gun_mechlaser.label>
+  <!-- EN: A mechanoid laser pulser. -->
+  <Gun_mechlaser.description>一种机械族脉冲光束武器。</Gun_mechlaser.description>
+  <!-- EN: barrel -->
+  <Gun_mechlaser.tools.barrel.label>枪管</Gun_mechlaser.tools.barrel.label>
+  <!-- EN: Mechanoid Laser Pulser -->
+  <Gun_mechlaser.verbs.Verb_ShootCE.label>机械族-脉冲光束发射器</Gun_mechlaser.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Mech. charged diffuser -->
+  <Gun_MechPlasma.label>机械族-电荷霰弹枪</Gun_MechPlasma.label>
+  <!-- EN: Mechanoid-built charged diffuser. -->
+  <Gun_MechPlasma.description>机械族出品的电荷散射武器。</Gun_MechPlasma.description>
+  <!-- EN: barrel -->
+  <Gun_MechPlasma.tools.barrel.label>枪管</Gun_MechPlasma.tools.barrel.label>
+  <!-- EN: Mech. charged diffuser -->
+  <Gun_MechPlasma.verbs.Verb_ShootCE.label>机械族-电荷霰弹枪</Gun_MechPlasma.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: needle gun -->
   <Gun_Needle.label>针刺枪</Gun_Needle.label>
+  <!-- EN: A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances. -->
   <Gun_Needle.description>机械族使用的一种远程武器。因其针状弹丸而得名，单发射击精度极高。虽然它的伤害比冲锋枪低，但它的射程可以达到非常远的距离。</Gun_Needle.description>
-  <Gun_Needle.tools.0.label>枪管</Gun_Needle.tools.0.label>
-
-
-  <!-- 机械族-Heavy Charge Blaster -->
-
+  <!-- EN: barrel -->
+  <Gun_Needle.tools.barrel.label>枪管</Gun_Needle.tools.barrel.label>
+  <!-- EN: needle gun -->
+  <Gun_Needle.verbs.Verb_ShootCE.label>针刺枪</Gun_Needle.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Zeon Blaster -->
+  <Gun_ZeonBlaster.label>吉恩冲击枪</Gun_ZeonBlaster.label>
+  <!-- EN: Mechanoid plasma gun. -->
+  <Gun_ZeonBlaster.description>一种机械族等离子武器。</Gun_ZeonBlaster.description>
+  <!-- EN: barrel -->
+  <Gun_ZeonBlaster.tools.barrel.label>枪管</Gun_ZeonBlaster.tools.barrel.label>
+  <!-- EN: Zeon Blaster -->
+  <Gun_ZeonBlaster.verbs.Verb_ShootCE.label>吉恩冲击枪</Gun_ZeonBlaster.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

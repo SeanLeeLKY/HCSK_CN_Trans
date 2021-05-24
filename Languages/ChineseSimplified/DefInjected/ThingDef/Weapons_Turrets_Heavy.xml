@@ -1,41 +1,53 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Medieval_Ballista_Turret.label>弩炮</Medieval_Ballista_Turret.label>
-  <Medieval_Ballista_Turret.description>一座类似于弩的大型武器。</Medieval_Ballista_Turret.description>
-
+  
+  <!-- EN: Catapult -->
   <Artillery_Medieval_Catapult_Top.label>石弩</Artillery_Medieval_Catapult_Top.label>
+  <!-- EN: Incendiary bomb launcher. Lobs fire-starting bombs over walls. Accurate but short-ranged. -->
   <Artillery_Medieval_Catapult_Top.description>能够投掷燃烧弹药，并且可以越墙攻击敌人。准确度高，但是射程较短。</Artillery_Medieval_Catapult_Top.description>
-
-
-  <!-- AGS-17 -->
-
-  <Gun_AGSThirty.label>AGS-17榴弹发射器</Gun_AGSThirty.label>
-  <Gun_AGSThirty.description>AGS-17固定在三脚架上。</Gun_AGSThirty.description>
-
-
-  <!-- AGS-30 grenade launcher -->
-
+  <!-- EN: Catapult -->
+  <Artillery_Medieval_Catapult_Top.verbs.Verb_ShootMortarCE.label>石弩</Artillery_Medieval_Catapult_Top.verbs.Verb_ShootMortarCE.label>
+  
+  <!-- EN: AGS-30 Grenade launcher -->
   <Gun_AGS30GrenadeLauncher.label>AGS-30榴弹发射器</Gun_AGS30GrenadeLauncher.label>
+  <!-- EN: 30mm grenade launcher attached to a trypod. -->
   <Gun_AGS30GrenadeLauncher.description>AGS-30固定在基座上。</Gun_AGS30GrenadeLauncher.description>
-
-
-  <!-- Flak cannon -->
-
-  <Gun_FlakTurret.label>90mm高炮</Gun_FlakTurret.label>
-  <Gun_FlakTurret.description>90mm高炮固定在基座上。</Gun_FlakTurret.description>
-
-
-  <!-- 120mm tank gun -->
-
+  <!-- EN: AGS-30 Grenade launcher -->
+  <Gun_AGS30GrenadeLauncher.verbs.Verb_ShootCE.label>AGS-30榴弹发射器</Gun_AGS30GrenadeLauncher.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: AGS-17 Grenade launcher -->
+  <Gun_AGSThirty.label>AGS-17榴弹发射器</Gun_AGSThirty.label>
+  <!-- EN: AGS-17 attached to a tripod. -->
+  <Gun_AGSThirty.description>AGS-17固定在三脚架上。</Gun_AGSThirty.description>
+  <!-- EN: AGS-17 Grenade launcher -->
+  <Gun_AGSThirty.verbs.Verb_ShootCE.label>AGS-17榴弹发射器</Gun_AGSThirty.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: 120mm Tank Cannon -->
   <Gun_CannonTurret.label>120mm坦克炮</Gun_CannonTurret.label>
+  <!-- EN: 120mm tank cannon to a turret base. -->
   <Gun_CannonTurret.description>120mm坦克炮固定在炮塔上。</Gun_CannonTurret.description>
-
-
-  <!-- 155mm howitzer -->
-
+  <!-- EN: 120mm Tank Cannon -->
+  <Gun_CannonTurret.verbs.Verb_ShootCE.label>120mm坦克炮</Gun_CannonTurret.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: 90mm Flak gun -->
+  <Gun_FlakTurret.label>90mm高炮</Gun_FlakTurret.label>
+  <!-- EN: 90mm Flak cannon on a stationary emplacement. -->
+  <Gun_FlakTurret.description>90mm高炮固定在基座上。</Gun_FlakTurret.description>
+  <!-- EN: 90mm Flak gun -->
+  <Gun_FlakTurret.verbs.Verb_ShootCE.label>90mm高炮</Gun_FlakTurret.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: 155mm Howitzer Cannon -->
   <Gun_HowitzerTurret.label>155mm榴弹炮</Gun_HowitzerTurret.label>
+  <!-- EN: 155mm Howitzer cannon to a turret base. -->
   <Gun_HowitzerTurret.description>155mm榴弹炮固定在炮塔上。</Gun_HowitzerTurret.description>
-
-
+  <!-- EN: 155mm Howitzer Cannon -->
+  <Gun_HowitzerTurret.verbs.Verb_ShootMortarCE.label>155mm榴弹炮</Gun_HowitzerTurret.verbs.Verb_ShootMortarCE.label>
+  
+  <!-- EN: Ballista -->
+  <Medieval_Ballista_Turret.label>弩炮</Medieval_Ballista_Turret.label>
+  <!-- EN: A large crossbow-like weapon. -->
+  <Medieval_Ballista_Turret.description>一座类似于弩的大型武器。</Medieval_Ballista_Turret.description>
+  <!-- EN: Ballista -->
+  <Medieval_Ballista_Turret.verbs.Verb_ShootCE.label>弩炮</Medieval_Ballista_Turret.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

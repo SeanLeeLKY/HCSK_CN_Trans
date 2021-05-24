@@ -1,14 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <JobDef_StartFeast.reportString>参加营火聚会。</JobDef_StartFeast.reportString>
-  <JobDef_WanderAroundFeast.reportString>在营火周围玩耍。</JobDef_WanderAroundFeast.reportString>
-  <JobDef_PlayTheGuitarFeast.reportString>弹吉他。</JobDef_PlayTheGuitarFeast.reportString>
+  
+  <!-- EN: Dancing. -->
   <JobDef_DanceFeast.reportString>翩翩起舞。</JobDef_DanceFeast.reportString>
-  <JobDef_IngestDrugFeast.reportString>开怀畅饮。</JobDef_IngestDrugFeast.reportString>
+  
+  <!-- EN: Getting free from clothes' dictatorship. -->
   <JobDef_DropClothesFeast.reportString>解脱衣物的束缚。</JobDef_DropClothesFeast.reportString>
+  
+  <!-- EN: Drinking an alcohol. -->
+  <JobDef_IngestDrugFeast.reportString>开怀畅饮。</JobDef_IngestDrugFeast.reportString>
+  
+  <!-- EN: Playing the guitar. -->
+  <JobDef_PlayTheGuitarFeast.reportString>弹吉他。</JobDef_PlayTheGuitarFeast.reportString>
+  
+  <!-- EN: Shooting up in the air. -->
   <JobDef_ShootUpinTheAirFeast.reportString>向天鸣枪。</JobDef_ShootUpinTheAirFeast.reportString>
+  
+  <!-- EN: Going to a campfire party. -->
+  <JobDef_StartFeast.reportString>参加营火聚会。</JobDef_StartFeast.reportString>
+  
+  <!-- EN: Enjoying at campfire party. -->
   <JobDef_UpdateThoughtFeast.reportString>享受营火聚会。</JobDef_UpdateThoughtFeast.reportString>
-
-
+  
+  <!-- EN: Wandering around fire. -->
+  <JobDef_WanderAroundFeast.reportString>在营火周围玩耍。</JobDef_WanderAroundFeast.reportString>
+  
 </LanguageData>

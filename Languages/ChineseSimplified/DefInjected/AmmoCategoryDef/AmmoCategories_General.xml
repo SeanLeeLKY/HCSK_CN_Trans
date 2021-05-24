@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: armor-piercing -->
+  <ArmorPiercing.label>穿甲弹</ArmorPiercing.label>
+  <!-- EN: Features a hardened steel penetrator core for increased armor penetration. -->
+  <ArmorPiercing.description>淬硬钢制成的弹头给予较强的装甲穿透力。</ArmorPiercing.description>
+  <!-- EN: AP -->
+  <ArmorPiercing.labelShort>AP</ArmorPiercing.labelShort>
+  
+  <!-- EN: armor-piercing high-explosive -->
+  <ExplosiveAP.label>穿甲高爆弹</ExplosiveAP.label>
+  <!-- EN: Filled with high-explosives that detonate on impact for additional damage. -->
+  <ExplosiveAP.description>充满高爆炸药的弹头，可以造成额外伤害。</ExplosiveAP.description>
+  <!-- EN: AP-HE -->
+  <ExplosiveAP.labelShort>AP-HE</ExplosiveAP.labelShort>
+  
+  <!-- EN: full metal jacket -->
+  <FullMetalJacket.label>全金属被甲弹</FullMetalJacket.label>
+  <!-- EN: The soft lead core is encased in a harder metal coating, combining a medium amount of stopping power and armor penetration. -->
+  <FullMetalJacket.description>软铅芯被包裹在坚硬的金属壳体中，拥有中等强度的停止力和装甲穿透力。</FullMetalJacket.description>
+  <!-- EN: FMJ -->
+  <FullMetalJacket.labelShort>FMJ</FullMetalJacket.labelShort>
+  
+  <!-- EN: hollow point -->
+  <HollowPoint.label>空尖弹</HollowPoint.label>
+  <!-- EN: A hollowed out tip causes the bullet to expand on impact, increasing tissue damage at the cost of armor penetration. -->
+  <HollowPoint.description>空心的尖端会使子弹在撞击时膨胀，大大增加软组织伤害，但是装甲穿透力较低。</HollowPoint.description>
+  <!-- EN: HP -->
+  <HollowPoint.labelShort>HP</HollowPoint.labelShort>
+  
+  <!-- EN: armor-piercing incendiary -->
+  <IncendiaryAP.label>穿甲燃烧弹</IncendiaryAP.label>
+  <!-- EN: Filled with an incendiary compound that ignites on impact, doing additional damage and potentially igniting targets. -->
+  <IncendiaryAP.description>装满易燃制剂的硬化弹头在击中敌人时能够造成额外的火焰伤害，并附带点燃目标。</IncendiaryAP.description>
+  <!-- EN: AP-I -->
+  <IncendiaryAP.labelShort>AP-I</IncendiaryAP.labelShort>
+  
+  <!-- EN: armor-piercing discarding sabot -->
+  <Sabot.label>脱壳穿甲弹</Sabot.label>
+  <!-- EN: Uses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration. -->
+  <Sabot.description>配备抛弃式托柄的弹药，能够将较小的弹丸以一个极高的速度射出，极大地提高装甲穿透力。</Sabot.description>
+  <!-- EN: Sabot -->
+  <Sabot.labelShort>Sabot</Sabot.labelShort>
+  
+</LanguageData>

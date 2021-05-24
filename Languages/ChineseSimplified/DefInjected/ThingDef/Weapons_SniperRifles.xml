@@ -1,31 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- M24 -->
-
-  <Gun_SniperRifle.label>M24狙击步枪</Gun_SniperRifle.label>
-  <Gun_SniperRifle.description>全称为M24狙击武器系统(M24 Sniper Weapon System)，发射7.62x51mm北约标准弹。M24由著名的雷明顿700 BDL型步枪衍生而来，是继承了雷明顿700系列步枪闭锁可靠、枪托与机匣接合紧密、精度高、线条流畅、外形优雅等一贯优点的军用版衍生型，于1988年被美国陆军正式采用。\n\nM24之所以被称为"武器系统"，因为它不仅仅是一把步枪，还包括M3望远式瞄准镜，哈里斯S型可拆卸两脚架等其他配件，因此又被誉作“美国现役狙击之魂”。\n雷明顿700系列由美国雷明顿（Remington，或译作雷明登）武器公司于1962年推出，R700P为军用和警用版本，其中美国陆军版称为M24，美海军陆战队版称为M40，两者皆为重枪管。</Gun_SniperRifle.description>
-  <Gun_SniperRifle.tools.0.label>枪托</Gun_SniperRifle.tools.0.label>
-  <Gun_SniperRifle.tools.1.label>枪管</Gun_SniperRifle.tools.1.label>
-  <Gun_SniperRifle.tools.2.label>枪口</Gun_SniperRifle.tools.2.label>
-
-
-  <!-- M42A -->
-
+  
+  <!-- EN: M42A Scope Rifle -->
   <Gun_M42A_USCM.label>M42A狙击步枪</Gun_M42A_USCM.label>
+  <!-- EN: The M42A Scope Rifle is an American-made semi-automatic sniper rifle chambered for 7.62x51mm NATO ammunition. It is employed as the primary sniper weapon of the United States Colonial Marine Corps. -->
   <Gun_M42A_USCM.description>M42A是一种美制半自动狙击步枪。</Gun_M42A_USCM.description>
-  <Gun_M42A_USCM.tools.0.label>枪托</Gun_M42A_USCM.tools.0.label>
-  <Gun_M42A_USCM.tools.1.label>枪管</Gun_M42A_USCM.tools.1.label>
-  <Gun_M42A_USCM.tools.2.label>枪口</Gun_M42A_USCM.tools.2.label>
-
-
-  <!-- WA-2000 -->
-
+  <!-- EN: stock -->
+  <Gun_M42A_USCM.tools.stock.label>枪托</Gun_M42A_USCM.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_M42A_USCM.tools.barrel.label>枪管</Gun_M42A_USCM.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_M42A_USCM.tools.muzzle.label>枪口</Gun_M42A_USCM.tools.muzzle.label>
+  <!-- EN: M42A Scope Rifle -->
+  <Gun_M42A_USCM.verbs.Verb_ShootCE.label>M42A狙击步枪</Gun_M42A_USCM.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: M24 Sniper Rifle -->
+  <Gun_SniperRifle.label>M24狙击步枪</Gun_SniperRifle.label>
+  <!-- EN: Ancient pattern military sniper rifle. Bolt action. Long range, great accuracy and power. -->
+  <Gun_SniperRifle.description>全称为M24狙击武器系统(M24 Sniper Weapon System)，发射7.62x51mm北约标准弹。M24由著名的雷明顿700 BDL型步枪衍生而来，是继承了雷明顿700系列步枪闭锁可靠、枪托与机匣接合紧密、精度高、线条流畅、外形优雅等一贯优点的军用版衍生型，于1988年被美国陆军正式采用。\n\nM24之所以被称为"武器系统"，因为它不仅仅是一把步枪，还包括M3望远式瞄准镜，哈里斯S型可拆卸两脚架等其他配件，因此又被誉作“美国现役狙击之魂”。\n雷明顿700系列由美国雷明顿（Remington，或译作雷明登）武器公司于1962年推出，R700P为军用和警用版本，其中美国陆军版称为M24，美海军陆战队版称为M40，两者皆为重枪管。</Gun_SniperRifle.description>
+  <!-- EN: stock -->
+  <Gun_SniperRifle.tools.stock.label>枪托</Gun_SniperRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SniperRifle.tools.barrel.label>枪管</Gun_SniperRifle.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_SniperRifle.tools.muzzle.label>枪口</Gun_SniperRifle.tools.muzzle.label>
+  <!-- EN: M24 Sniper Rifle -->
+  <Gun_SniperRifle.verbs.Verb_ShootCE.label>M24狙击步枪</Gun_SniperRifle.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Walther WA 2000 Rifle -->
   <RF_Gun_WA2K.label>瓦尔特WA2000狙击步枪</RF_Gun_WA2K.label>
+  <!-- EN: Limited edition olden days sniper rifle. Great range, exceptional accuracy, very high damage and very low fire rate. -->
   <RF_Gun_WA2K.description>Walther WA 2000，瓦尔特WA2000是一款半自动无托式狙击步枪，由Carl Walther GmbH Sportwaffen公司生产，有三种口径。该步枪产量有限，并且不久后就停产了，因为它太贵而无法实现广泛的销售，并且不够坚固无法作为军用狙击步枪。由于其高昂的成本，仅制造了176支，使其成为有史以来最稀有和最受追捧的枪支产品之一。瓦尔特WA2000极为罕见且极具价值。WA2000在20世纪70年代末80年代初设计，出于对1972年慕尼黑奥运会惨案的回应。</RF_Gun_WA2K.description>
-  <RF_Gun_WA2K.tools.0.label>枪托</RF_Gun_WA2K.tools.0.label>
-  <RF_Gun_WA2K.tools.1.label>枪管</RF_Gun_WA2K.tools.1.label>
-  <RF_Gun_WA2K.tools.2.label>枪口</RF_Gun_WA2K.tools.2.label>
-
-
+  <!-- EN: stock -->
+  <RF_Gun_WA2K.tools.stock.label>枪托</RF_Gun_WA2K.tools.stock.label>
+  <!-- EN: barrel -->
+  <RF_Gun_WA2K.tools.barrel.label>枪管</RF_Gun_WA2K.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <RF_Gun_WA2K.tools.muzzle.label>枪口</RF_Gun_WA2K.tools.muzzle.label>
+  <!-- EN: Walther WA 2000 Rifle -->
+  <RF_Gun_WA2K.verbs.Verb_ShootCE.label>瓦尔特WA2000狙击步枪</RF_Gun_WA2K.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

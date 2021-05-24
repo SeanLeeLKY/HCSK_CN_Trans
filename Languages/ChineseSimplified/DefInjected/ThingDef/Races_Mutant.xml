@@ -1,17 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Mutant -->
   <Mutant_Ogre.label>食人魔</Mutant_Ogre.label>
+  <!-- EN: Originally designed for construction and heavy industry, the Ogron™ is a large, tough, thickheaded xenohuman. In rimworld condition, Many feral clans use them as brutal war beasts. -->
   <Mutant_Ogre.description>最初是为了建筑和重型劳动设计，「奥戈隆（Ogron）」是一种巨大、粗野、低智力的变异人，在边缘世界，许多蛮族部落将之作为残酷的战争野兽。</Mutant_Ogre.description>
-  <Mutant_Ogre.tools.0.label>左拳</Mutant_Ogre.tools.0.label>
-  <Mutant_Ogre.tools.1.label>右拳</Mutant_Ogre.tools.1.label>
-  <Mutant_Ogre.tools.2.label>头</Mutant_Ogre.tools.2.label>
- <!--  <Mutant_Ogre_Leather.label>食人魔皮</Mutant_Ogre_Leather.label>
-  <Mutant_Ogre_Leather.description>食人魔皮</Mutant_Ogre_Leather.description>
-  <Mutant_Ogre_Leather.stuffProps.stuffAdjective>食人魔皮</Mutant_Ogre_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Human -->
-  <Mutant_Ogre_Corpse.label>食人魔尸体</Mutant_Ogre_Corpse.label>
-  <Mutant_Ogre_Corpse.description>食人魔尸体</Mutant_Ogre_Corpse.description>
-
-
+  <!-- EN: left fist -->
+  <Mutant_Ogre.tools.left_fist.label>左拳</Mutant_Ogre.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Mutant_Ogre.tools.right_fist.label>右拳</Mutant_Ogre.tools.right_fist.label>
+  <!-- EN: head -->
+  <Mutant_Ogre.tools.head.label>头</Mutant_Ogre.tools.head.label>
+  
 </LanguageData>

@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
+  
+  <!-- EN: make M72 LAW HEAT grenades x1 -->
   <MakeAmmo_M72LAW.label>制造 M72 LAW 破甲弹 x1</MakeAmmo_M72LAW.label>
+  <!-- EN: Craft M72 LAW HEAT grenades. -->
   <MakeAmmo_M72LAW.description>制造 M72 LAW 破甲弹。</MakeAmmo_M72LAW.description>
+  <!-- EN: Making M72 LAW HEAT grenades. -->
   <MakeAmmo_M72LAW.jobString>正在制造 M72 LAW 破甲弹。</MakeAmmo_M72LAW.jobString>
-
-
+  
 </LanguageData>

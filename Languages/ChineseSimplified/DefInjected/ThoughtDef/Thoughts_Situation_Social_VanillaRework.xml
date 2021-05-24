@@ -1,14 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- affecting opinion -->
-
-  <ButcheredHumanlikeCorpseOpinion.stages.0.label>屠宰过人类</ButcheredHumanlikeCorpseOpinion.stages.0.label>
-  <AteRawHumanlikeMeat.stages.0.label>生吃过人肉</AteRawHumanlikeMeat.stages.0.label>
-  <SoldPrisoner.stages.0.label>贩卖过囚犯</SoldPrisoner.stages.0.label>
-  <ExecutedPrisoner.stages.0.label>处决过囚犯</ExecutedPrisoner.stages.0.label>
-  <KilledColonist.stages.0.label>杀死过殖民者</KilledColonist.stages.0.label>
-  <KilledColonyAnimal.stages.0.label>杀死过殖民地动物</KilledColonyAnimal.stages.0.label>
-
-
+  
+  <!-- EN: ate raw humanlike meat -->
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>生吃过人肉</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>屠宰过人类</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.stages.executed_prisoner.label>处决过囚犯</ExecutedPrisoner.stages.executed_prisoner.label>
+  
+  <!-- EN: killed colonist -->
+  <KilledColonist.stages.killed_colonist.label>杀死过殖民者</KilledColonist.stages.killed_colonist.label>
+  
+  <!-- EN: killed colony animal -->
+  <KilledColonyAnimal.stages.killed_colony_animal.label>杀死过殖民地动物</KilledColonyAnimal.stages.killed_colony_animal.label>
+  
+  <!-- EN: sold prisoner to slavery -->
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>贩卖过囚犯</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  
 </LanguageData>

@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Cryptosleep slave uniform -->
   <CryptosleepBodysuit.label>休眠奴隶制服</CryptosleepBodysuit.label>
+  <!-- EN: A full body suit designed for extended cryptosleep. You can rest easy knowing your body won't be naked for hundreds or thousands of years while you sleep. -->
   <CryptosleepBodysuit.description>一件为长时间休眠而设计的全身衣。你可以放心，因为你知道你的身体不会在你睡觉的时候裸露成百上千年。</CryptosleepBodysuit.description>
-
+  
+  <!-- EN: Marine Bodysuit -->
   <SpeacialForces_Bodysuit.label>陆战队紧身衣</SpeacialForces_Bodysuit.label>
+  <!-- EN: A pair of green military overalls intended for marines. -->
   <SpeacialForces_Bodysuit.description>一件军绿色的士兵紧身衣。</SpeacialForces_Bodysuit.description>
-
-
+  
 </LanguageData>

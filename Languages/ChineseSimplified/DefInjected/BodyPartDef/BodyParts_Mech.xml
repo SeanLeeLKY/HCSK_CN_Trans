@@ -1,14 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Crawler -->
-
-  <MechanicalShell.label>外壳</MechanicalShell.label>
-  <PlasmaCutter.label>离子光刃</PlasmaCutter.label>
+  
+  <!-- EN: Antenna -->
   <MechanicalAntenna.label>天线</MechanicalAntenna.label>
+  
+  <!-- EN: Core -->
   <MechanicalCore.label>内核</MechanicalCore.label>
-  <MechanicalLeg.label>左前腿</MechanicalLeg.label>
+  
+  <!-- EN: Gear box -->
   <MechanicalGearBox.label>传动结构</MechanicalGearBox.label>
-
-
+  
+  <!-- EN: Front left leg -->
+  <MechanicalLeg.label>左前腿</MechanicalLeg.label>
+  
+  <!-- EN: Shell -->
+  <MechanicalShell.label>外壳</MechanicalShell.label>
+  
+  <!-- EN: Plasma cutter -->
+  <PlasmaCutter.label>离子光刃</PlasmaCutter.label>
+  
 </LanguageData>

@@ -1,292 +1,209 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <LT_DoorMatRed.label>门垫</LT_DoorMatRed.label>
-  <LT_DoorMatRed.description>一块可以用来清理鞋子的门垫。</LT_DoorMatRed.description>
-  <LT_DoorMatRed_Blueprint.label>门垫（蓝图）</LT_DoorMatRed_Blueprint.label>
-  <LT_DoorMatRed_Blueprint_Install.label>门垫（蓝图）</LT_DoorMatRed_Blueprint_Install.label>
-  <LT_DoorMatRed_Frame.label>门垫（建造中）</LT_DoorMatRed_Frame.label>
-  <LT_DoorMatRed_Frame.description>一块可以用来清理鞋子的门垫。</LT_DoorMatRed_Frame.description>
-
-  <LT_DoorMatBigRed.label>大块门垫</LT_DoorMatBigRed.label>
-  <LT_DoorMatBigRed.description>一块可以用来清理鞋子的门垫。</LT_DoorMatBigRed.description>
-  <LT_DoorMatBigRed_Blueprint.label>大块门垫（蓝图）</LT_DoorMatBigRed_Blueprint.label>
-  <LT_DoorMatBigRed_Blueprint_Install.label>大块门垫（蓝图）</LT_DoorMatBigRed_Blueprint_Install.label>
-  <LT_DoorMatBigRed_Frame.label>大块门垫（建造中）</LT_DoorMatBigRed_Frame.label>
-  <LT_DoorMatBigRed_Frame.description>一块可以用来清理鞋子的门垫。</LT_DoorMatBigRed_Frame.description>
-
-  <HayRug.label>干草地毯</HayRug.label>
-  <HayRug.description>用这套艺术化的干草风格给你的家带来“牧场物语”的感觉。</HayRug.description>
-  <HayRug_Blueprint.label>干草地毯（蓝图）</HayRug_Blueprint.label>
-  <HayRug_Blueprint_Install.label>干草地毯（蓝图）</HayRug_Blueprint_Install.label>
-  <HayRug_Frame.label>干草地毯（建造中）</HayRug_Frame.label>
-  <HayRug_Frame.description>用这套艺术化的干草风格给你的家带来“牧场物语”的感觉。</HayRug_Frame.description>
-
-  <PatchworkRug.label>拼缝地毯</PatchworkRug.label>
-  <PatchworkRug.description>五块皮革，拼凑成一块外观"精美"的粗犷地毯，用来装饰你的家！</PatchworkRug.description>
-  <PatchworkRug_Blueprint.label>拼缝地毯（蓝图）</PatchworkRug_Blueprint.label>
-  <PatchworkRug_Blueprint_Install.label>拼缝地毯（蓝图）</PatchworkRug_Blueprint_Install.label>
-  <PatchworkRug_Frame.label>拼缝地毯（建造中）</PatchworkRug_Frame.label>
-  <PatchworkRug_Frame.description>五块皮革，拼凑成一块外观"精美"的粗犷地毯，用来装饰你的家！</PatchworkRug_Frame.description>
-
+  
+  <!-- EN: Llama Rug -->
   <CharmingRug.label>驼风地毯</CharmingRug.label>
+  <!-- EN: A charming little rug in the style of the Abeneiro of Llama Tribe. -->
   <CharmingRug.description>骆驼部落阿贝内罗风格的迷人小地毯。</CharmingRug.description>
-  <CharmingRug_Blueprint.label>驼风地毯（蓝图）</CharmingRug_Blueprint.label>
-  <CharmingRug_Blueprint_Install.label>驼风地毯（蓝图）</CharmingRug_Blueprint_Install.label>
-  <CharmingRug_Frame.label>驼风地毯（建造中）</CharmingRug_Frame.label>
-  <CharmingRug_Frame.description>骆驼部落阿贝内罗风格的迷人小地毯。</CharmingRug_Frame.description>
-
-  <TribeRug.label>阿奎德地毯</TribeRug.label>
-  <TribeRug.description>这件以地毯形式呈现的艺术品，展示了喀希格布拉加人在阿奎德一世身上所使用的奇妙设计。</TribeRug.description>
-  <TribeRug_Blueprint.label>阿奎德地毯（蓝图）</TribeRug_Blueprint.label>
-  <TribeRug_Blueprint_Install.label>阿奎德地毯（蓝图）</TribeRug_Blueprint_Install.label>
-  <TribeRug_Frame.label>阿奎德地毯（建造中）</TribeRug_Frame.label>
-  <TribeRug_Frame.description>这件以地毯形式呈现的艺术品，展示了喀希格布拉加人在阿奎德一世身上所使用的奇妙设计。</TribeRug_Frame.description>
-
-  <FutstentRug.label>软绒地毯</FutstentRug.label>
-  <FutstentRug.description>这块地毯是为步行而生的，这是它的天职！不用犹豫，去感受让你全身舒适的——脚感吧。</FutstentRug.description>
-  <FutstentRug_Blueprint.label>软绒地毯（蓝图）</FutstentRug_Blueprint.label>
-  <FutstentRug_Blueprint_Install.label>软绒地毯（蓝图）</FutstentRug_Blueprint_Install.label>
-  <FutstentRug_Frame.label>软绒地毯（建造中）</FutstentRug_Frame.label>
-  <FutstentRug_Frame.description>这块地毯是为步行而生的，这是它的天职！不用犹豫，去感受让你全身舒适的——脚感吧。</FutstentRug_Frame.description>
-
-  <StepRug.label>步行地毯</StepRug.label>
-  <StepRug.description>走到台阶地毯上，找到你的奢华之路！光耀所有卧室，升华每个房间。</StepRug.description>
-  <StepRug_Blueprint.label>步行地毯（蓝图）</StepRug_Blueprint.label>
-  <StepRug_Blueprint_Install.label>步行地毯（蓝图）</StepRug_Blueprint_Install.label>
-  <StepRug_Frame.label>步行地毯（建造中）</StepRug_Frame.label>
-  <StepRug_Frame.description>走到台阶地毯上，找到你的奢华之路！光耀所有卧室，升华每个房间。</StepRug_Frame.description>
-
-  <SquareCozyRugB.label>方形软地毯</SquareCozyRugB.label>
-  <SquareCozyRugB.description>这条地毯可以让你通向奢华之路！</SquareCozyRugB.description>
-  <SquareCozyRugB_Blueprint.label>方形软地毯（蓝图）</SquareCozyRugB_Blueprint.label>
-  <SquareCozyRugB_Blueprint_Install.label>方形软地毯（蓝图）</SquareCozyRugB_Blueprint_Install.label>
-  <SquareCozyRugB_Frame.label>方形软地毯（建造中）</SquareCozyRugB_Frame.label>
-  <SquareCozyRugB_Frame.description>这条地毯可以让你通向奢华之路！</SquareCozyRugB_Frame.description>
-
-  <SquareCozyRug.label>方形软地毯</SquareCozyRug.label>
-  <SquareCozyRug.description>这条地毯可以让你通向奢华之路！</SquareCozyRug.description>
-  <SquareCozyRug_Blueprint.label>方形软地毯（蓝图）</SquareCozyRug_Blueprint.label>
-  <SquareCozyRug_Blueprint_Install.label>方形软地毯（蓝图）</SquareCozyRug_Blueprint_Install.label>
-  <SquareCozyRug_Frame.label>方形软地毯（建造中）</SquareCozyRug_Frame.label>
-  <SquareCozyRug_Frame.description>这条地毯可以让你通向奢华之路！</SquareCozyRug_Frame.description>
-
-  <RoundCozyRug.label>圆形软地毯</RoundCozyRug.label>
-  <RoundCozyRug.description>这条地毯可以让你通向奢华之路！</RoundCozyRug.description>
-  <RoundCozyRug_Blueprint.label>圆形软地毯（蓝图）</RoundCozyRug_Blueprint.label>
-  <RoundCozyRug_Blueprint_Install.label>圆形软地毯（蓝图）</RoundCozyRug_Blueprint_Install.label>
-  <RoundCozyRug_Frame.label>圆形软地毯（建造中）</RoundCozyRug_Frame.label>
-  <RoundCozyRug_Frame.description>这条地毯可以让你通向奢华之路！</RoundCozyRug_Frame.description>
-
-  <RoundCozyRugB.label>圆形软地毯</RoundCozyRugB.label>
-  <RoundCozyRugB.description>这条地毯可以让你通向奢华之路！</RoundCozyRugB.description>
-  <RoundCozyRugB_Blueprint.label>圆形软地毯（蓝图）</RoundCozyRugB_Blueprint.label>
-  <RoundCozyRugB_Blueprint_Install.label>圆形软地毯（蓝图）</RoundCozyRugB_Blueprint_Install.label>
-  <RoundCozyRugB_Frame.label>圆形软地毯（建造中）</RoundCozyRugB_Frame.label>
-  <RoundCozyRugB_Frame.description>这条地毯可以让你通向奢华之路！</RoundCozyRugB_Frame.description>
-
+  
+  <!-- EN: Door Mat -->
   <DoorMat.label>门垫</DoorMat.label>
+  <!-- EN: A Mat for at the door. -->
   <DoorMat.description>一块可以用来清理鞋子的门垫。</DoorMat.description>
-  <DoorMat_Blueprint.label>门垫（蓝图）</DoorMat_Blueprint.label>
-  <DoorMat_Blueprint_Install.label>门垫（蓝图）</DoorMat_Blueprint_Install.label>
-  <DoorMat_Frame.label>门垫（建造中）</DoorMat_Frame.label>
-  <DoorMat_Frame.description>一块可以用来清理鞋子的门垫。</DoorMat_Frame.description>
-
-  <OneOneRoundRug.label>圆形地毯1x1</OneOneRoundRug.label>
-  <OneOneRoundRug.description>一块圆形地毯。</OneOneRoundRug.description>
-  <OneOneRoundRug_Blueprint.label>圆形地毯1x1 （蓝图）</OneOneRoundRug_Blueprint.label>
-  <OneOneRoundRug_Blueprint_Install.label>圆形地毯1x1 （蓝图）</OneOneRoundRug_Blueprint_Install.label>
-  <OneOneRoundRug_Frame.label>圆形地毯1x1 （建造中）</OneOneRoundRug_Frame.label>
-  <OneOneRoundRug_Frame.description>一块圆形地毯。</OneOneRoundRug_Frame.description>
-
-  <TwoTwoRoundRug.label>圆形地毯2x2</TwoTwoRoundRug.label>
-  <TwoTwoRoundRug.description>一块圆形地毯。</TwoTwoRoundRug.description>
-  <TwoTwoRoundRug_Blueprint.label>圆形地毯2x2 （蓝图）</TwoTwoRoundRug_Blueprint.label>
-  <TwoTwoRoundRug_Blueprint_Install.label>圆形地毯2x2 （蓝图）</TwoTwoRoundRug_Blueprint_Install.label>
-  <TwoTwoRoundRug_Frame.label>圆形地毯2x2 （建造中）</TwoTwoRoundRug_Frame.label>
-  <TwoTwoRoundRug_Frame.description>一块圆形地毯。</TwoTwoRoundRug_Frame.description>
-
-  <ThreeThreeRoundRug.label>圆形地毯3x3</ThreeThreeRoundRug.label>
-  <ThreeThreeRoundRug.description>一块圆形地毯。</ThreeThreeRoundRug.description>
-  <ThreeThreeRoundRug_Blueprint.label>圆形地毯3x3 （蓝图）</ThreeThreeRoundRug_Blueprint.label>
-  <ThreeThreeRoundRug_Blueprint_Install.label>圆形地毯3x3 （蓝图）</ThreeThreeRoundRug_Blueprint_Install.label>
-  <ThreeThreeRoundRug_Frame.label>圆形地毯3x3 （建造中）</ThreeThreeRoundRug_Frame.label>
-  <ThreeThreeRoundRug_Frame.description>一块圆形地毯。</ThreeThreeRoundRug_Frame.description>
-
-  <FourFourRoundRug.label>圆形地毯4x4</FourFourRoundRug.label>
-  <FourFourRoundRug.description>一块圆形地毯。</FourFourRoundRug.description>
-  <FourFourRoundRug_Blueprint.label>圆形地毯4x4 （蓝图）</FourFourRoundRug_Blueprint.label>
-  <FourFourRoundRug_Blueprint_Install.label>圆形地毯4x4 （蓝图）</FourFourRoundRug_Blueprint_Install.label>
-  <FourFourRoundRug_Frame.label>圆形地毯4x4 （建造中）</FourFourRoundRug_Frame.label>
-  <FourFourRoundRug_Frame.description>一块圆形地毯。</FourFourRoundRug_Frame.description>
-
+  
+  <!-- EN: Round Rug 5x5 -->
   <FiveFiveRoundRug.label>圆形地毯5x5</FiveFiveRoundRug.label>
+  <!-- EN: A round area rug -->
   <FiveFiveRoundRug.description>一块圆形地毯。</FiveFiveRoundRug.description>
-  <FiveFiveRoundRug_Blueprint.label>圆形地毯5x5 （蓝图）</FiveFiveRoundRug_Blueprint.label>
-  <FiveFiveRoundRug_Blueprint_Install.label>圆形地毯5x5 （蓝图）</FiveFiveRoundRug_Blueprint_Install.label>
-  <FiveFiveRoundRug_Frame.label>圆形地毯5x5 （建造中）</FiveFiveRoundRug_Frame.label>
-  <FiveFiveRoundRug_Frame.description>一块圆形地毯。</FiveFiveRoundRug_Frame.description>
-
-  <SixSixRoundRug.label>圆形地毯6x6</SixSixRoundRug.label>
-  <SixSixRoundRug.description>一块圆形地毯。</SixSixRoundRug.description>
-  <SixSixRoundRug_Blueprint.label>圆形地毯6x6 （蓝图）</SixSixRoundRug_Blueprint.label>
-  <SixSixRoundRug_Blueprint_Install.label>圆形地毯6x6 （蓝图）</SixSixRoundRug_Blueprint_Install.label>
-  <SixSixRoundRug_Frame.label>圆形地毯6x6 （建造中）</SixSixRoundRug_Frame.label>
-  <SixSixRoundRug_Frame.description>一块圆形地毯。</SixSixRoundRug_Frame.description>
-
-  <SevenSevenRoundRug.label>圆形地毯7x7</SevenSevenRoundRug.label>
-  <SevenSevenRoundRug.description>一块圆形地毯。</SevenSevenRoundRug.description>
-  <SevenSevenRoundRug_Blueprint.label>圆形地毯7x7 （蓝图）</SevenSevenRoundRug_Blueprint.label>
-  <SevenSevenRoundRug_Blueprint_Install.label>圆形地毯7x7 （蓝图）</SevenSevenRoundRug_Blueprint_Install.label>
-  <SevenSevenRoundRug_Frame.label>圆形地毯7x7 （建造中）</SevenSevenRoundRug_Frame.label>
-  <SevenSevenRoundRug_Frame.description>一块圆形地毯。</SevenSevenRoundRug_Frame.description>
-
-  <OneOneSquareRug.label>方形地毯1x1</OneOneSquareRug.label>
-  <OneOneSquareRug.description>一块方形地毯。</OneOneSquareRug.description>
-  <OneOneSquareRug_Blueprint.label>方形地毯1x1 （蓝图）</OneOneSquareRug_Blueprint.label>
-  <OneOneSquareRug_Blueprint_Install.label>方形地毯1x1 （蓝图）</OneOneSquareRug_Blueprint_Install.label>
-  <OneOneSquareRug_Frame.label>方形地毯1x1 （建造中）</OneOneSquareRug_Frame.label>
-  <OneOneSquareRug_Frame.description>一块方形地毯。</OneOneSquareRug_Frame.description>
-
-  <TwoTwoSquareRug.label>方形地毯2x2</TwoTwoSquareRug.label>
-  <TwoTwoSquareRug.description>一块方形地毯。</TwoTwoSquareRug.description>
-  <TwoTwoSquareRug_Blueprint.label>方形地毯2x2 （蓝图）</TwoTwoSquareRug_Blueprint.label>
-  <TwoTwoSquareRug_Blueprint_Install.label>方形地毯2x2 （蓝图）</TwoTwoSquareRug_Blueprint_Install.label>
-  <TwoTwoSquareRug_Frame.label>方形地毯2x2 （建造中）</TwoTwoSquareRug_Frame.label>
-  <TwoTwoSquareRug_Frame.description>一块方形地毯。</TwoTwoSquareRug_Frame.description>
-
-  <ThreeThreeSquareRug.label>方形地毯3x3</ThreeThreeSquareRug.label>
-  <ThreeThreeSquareRug.description>一块方形地毯。</ThreeThreeSquareRug.description>
-  <ThreeThreeSquareRug_Blueprint.label>方形地毯3x3 （蓝图）</ThreeThreeSquareRug_Blueprint.label>
-  <ThreeThreeSquareRug_Blueprint_Install.label>方形地毯3x3 （蓝图）</ThreeThreeSquareRug_Blueprint_Install.label>
-  <ThreeThreeSquareRug_Frame.label>方形地毯3x3 （建造中）</ThreeThreeSquareRug_Frame.label>
-  <ThreeThreeSquareRug_Frame.description>一块方形地毯。</ThreeThreeSquareRug_Frame.description>
-
-  <FourFourSquareRug.label>方形地毯4x4</FourFourSquareRug.label>
-  <FourFourSquareRug.description>一块方形地毯。</FourFourSquareRug.description>
-  <FourFourSquareRug_Blueprint.label>方形地毯4x4 （蓝图）</FourFourSquareRug_Blueprint.label>
-  <FourFourSquareRug_Blueprint_Install.label>方形地毯4x4 （蓝图）</FourFourSquareRug_Blueprint_Install.label>
-  <FourFourSquareRug_Frame.label>方形地毯4x4 （建造中）</FourFourSquareRug_Frame.label>
-  <FourFourSquareRug_Frame.description>一块方形地毯。</FourFourSquareRug_Frame.description>
-
+  
+  <!-- EN: Square Rug 5x5 -->
   <FiveFiveSquareRug.label>方形地毯5x5</FiveFiveSquareRug.label>
+  <!-- EN: A square area rug -->
   <FiveFiveSquareRug.description>一块方形地毯。</FiveFiveSquareRug.description>
-  <FiveFiveSquareRug_Blueprint.label>方形地毯5x5 （蓝图）</FiveFiveSquareRug_Blueprint.label>
-  <FiveFiveSquareRug_Blueprint_Install.label>方形地毯5x5 （蓝图）</FiveFiveSquareRug_Blueprint_Install.label>
-  <FiveFiveSquareRug_Frame.label>方形地毯5x5 （建造中）</FiveFiveSquareRug_Frame.label>
-  <FiveFiveSquareRug_Frame.description>一块方形地毯。</FiveFiveSquareRug_Frame.description>
-
-  <SixSixSquareRug.label>方形地毯6x6</SixSixSquareRug.label>
-  <SixSixSquareRug.description>一块方形地毯。</SixSixSquareRug.description>
-  <SixSixSquareRug_Blueprint.label>方形地毯6x6 （蓝图）</SixSixSquareRug_Blueprint.label>
-  <SixSixSquareRug_Blueprint_Install.label>方形地毯6x6 （蓝图）</SixSixSquareRug_Blueprint_Install.label>
-  <SixSixSquareRug_Frame.label>方形地毯6x6 （建造中）</SixSixSquareRug_Frame.label>
-  <SixSixSquareRug_Frame.description>一块方形地毯。</SixSixSquareRug_Frame.description>
-
-  <SevenSevenSquareRug.label>方形地毯7x7</SevenSevenSquareRug.label>
-  <SevenSevenSquareRug.description>一块方形地毯。</SevenSevenSquareRug.description>
-  <SevenSevenSquareRug_Blueprint.label>方形地毯7x7 （蓝图）</SevenSevenSquareRug_Blueprint.label>
-  <SevenSevenSquareRug_Blueprint_Install.label>方形地毯7x7 （蓝图）</SevenSevenSquareRug_Blueprint_Install.label>
-  <SevenSevenSquareRug_Frame.label>方形地毯7x7 （建造中）</SevenSevenSquareRug_Frame.label>
-  <SevenSevenSquareRug_Frame.description>一块方形地毯。</SevenSevenSquareRug_Frame.description>
-
-  <OneTwoRunner.label>长条地毯1x2</OneTwoRunner.label>
-  <OneTwoRunner.description>一块长长的步行毯。</OneTwoRunner.description>
-  <OneTwoRunner_Blueprint.label>长条地毯1x2 （蓝图）</OneTwoRunner_Blueprint.label>
-  <OneTwoRunner_Blueprint_Install.label>长条地毯1x2 （蓝图）</OneTwoRunner_Blueprint_Install.label>
-  <OneTwoRunner_Frame.label>长条地毯1x2 （建造中）</OneTwoRunner_Frame.label>
-  <OneTwoRunner_Frame.description>一块长长的步行毯。</OneTwoRunner_Frame.description>
-
-  <OneThreeRunner.label>长条地毯1x3</OneThreeRunner.label>
-  <OneThreeRunner.description>一块长长的步行毯。</OneThreeRunner.description>
-  <OneThreeRunner_Blueprint.label>长条地毯1x3 （蓝图）</OneThreeRunner_Blueprint.label>
-  <OneThreeRunner_Blueprint_Install.label>长条地毯1x3 （蓝图）</OneThreeRunner_Blueprint_Install.label>
-  <OneThreeRunner_Frame.label>长条地毯1x3 （建造中）</OneThreeRunner_Frame.label>
-  <OneThreeRunner_Frame.description>一块长长的步行毯。</OneThreeRunner_Frame.description>
-
-  <OneFourRunner.label>长条地毯1x4</OneFourRunner.label>
-  <OneFourRunner.description>一块长长的步行毯。</OneFourRunner.description>
-  <OneFourRunner_Blueprint.label>长条地毯1x4 （蓝图）</OneFourRunner_Blueprint.label>
-  <OneFourRunner_Blueprint_Install.label>长条地毯1x4 （蓝图）</OneFourRunner_Blueprint_Install.label>
-  <OneFourRunner_Frame.label>长条地毯1x4 （建造中）</OneFourRunner_Frame.label>
-  <OneFourRunner_Frame.description>一块长长的步行毯。</OneFourRunner_Frame.description>
-
-  <OneFiveRunner.label>长条地毯1x5</OneFiveRunner.label>
-  <OneFiveRunner.description>一块长长的步行毯。</OneFiveRunner.description>
-  <OneFiveRunner_Blueprint.label>长条地毯1x5 （蓝图）</OneFiveRunner_Blueprint.label>
-  <OneFiveRunner_Blueprint_Install.label>长条地毯1x5 （蓝图）</OneFiveRunner_Blueprint_Install.label>
-  <OneFiveRunner_Frame.label>长条地毯1x5 （建造中）</OneFiveRunner_Frame.label>
-  <OneFiveRunner_Frame.description>一块长长的步行毯。</OneFiveRunner_Frame.description>
-
-  <OneSixRunner.label>长条地毯1x6</OneSixRunner.label>
-  <OneSixRunner.description>一块长长的步行毯。</OneSixRunner.description>
-  <OneSixRunner_Blueprint.label>长条地毯1x6 （蓝图）</OneSixRunner_Blueprint.label>
-  <OneSixRunner_Blueprint_Install.label>长条地毯1x6 （蓝图）</OneSixRunner_Blueprint_Install.label>
-  <OneSixRunner_Frame.label>长条地毯1x6 （建造中）</OneSixRunner_Frame.label>
-  <OneSixRunner_Frame.description>一块长长的步行毯。</OneSixRunner_Frame.description>
-
-  <OneSevenRunner.label>长条地毯1x7</OneSevenRunner.label>
-  <OneSevenRunner.description>一块长长的步行毯。</OneSevenRunner.description>
-  <OneSevenRunner_Blueprint.label>长条地毯1x7 （蓝图）</OneSevenRunner_Blueprint.label>
-  <OneSevenRunner_Blueprint_Install.label>长条地毯1x7 （蓝图）</OneSevenRunner_Blueprint_Install.label>
-  <OneSevenRunner_Frame.label>长条地毯1x7 （建造中）</OneSevenRunner_Frame.label>
-  <OneSevenRunner_Frame.description>一块长长的步行毯。</OneSevenRunner_Frame.description>
-
-  <ThoThreeRectangleRug.label>矩形地毯2x3</ThoThreeRectangleRug.label>
-  <ThoThreeRectangleRug.description>一块长方形的地毯。</ThoThreeRectangleRug.description>
-  <ThoThreeRectangleRug_Blueprint.label>矩形地毯2x3 （蓝图）</ThoThreeRectangleRug_Blueprint.label>
-  <ThoThreeRectangleRug_Blueprint_Install.label>矩形地毯2x3 （蓝图）</ThoThreeRectangleRug_Blueprint_Install.label>
-  <ThoThreeRectangleRug_Frame.label>矩形地毯2x3 （建造中）</ThoThreeRectangleRug_Frame.label>
-  <ThoThreeRectangleRug_Frame.description>一块长方形的地毯。</ThoThreeRectangleRug_Frame.description>
-
-  <TwoFourRectangleRug.label>矩形地毯2x4</TwoFourRectangleRug.label>
-  <TwoFourRectangleRug.description>一块长方形的地毯。</TwoFourRectangleRug.description>
-  <TwoFourRectangleRug_Blueprint.label>矩形地毯2x4 （蓝图）</TwoFourRectangleRug_Blueprint.label>
-  <TwoFourRectangleRug_Blueprint_Install.label>矩形地毯2x4 （蓝图）</TwoFourRectangleRug_Blueprint_Install.label>
-  <TwoFourRectangleRug_Frame.label>矩形地毯2x4 （建造中）</TwoFourRectangleRug_Frame.label>
-  <TwoFourRectangleRug_Frame.description>一块长方形的地毯。</TwoFourRectangleRug_Frame.description>
-
-  <ThreeFourRectangleRug.label>矩形地毯3x4</ThreeFourRectangleRug.label>
-  <ThreeFourRectangleRug.description>一块长方形的地毯。</ThreeFourRectangleRug.description>
-  <ThreeFourRectangleRug_Blueprint.label>矩形地毯3x4 （蓝图）</ThreeFourRectangleRug_Blueprint.label>
-  <ThreeFourRectangleRug_Blueprint_Install.label>矩形地毯3x4 （蓝图）</ThreeFourRectangleRug_Blueprint_Install.label>
-  <ThreeFourRectangleRug_Frame.label>矩形地毯3x4 （建造中）</ThreeFourRectangleRug_Frame.label>
-  <ThreeFourRectangleRug_Frame.description>一块长方形的地毯。</ThreeFourRectangleRug_Frame.description>
-
-  <ThreeFiveRectangleRug.label>矩形地毯3x5</ThreeFiveRectangleRug.label>
-  <ThreeFiveRectangleRug.description>一块长方形的地毯。</ThreeFiveRectangleRug.description>
-  <ThreeFiveRectangleRug_Blueprint.label>矩形地毯3x5 （蓝图）</ThreeFiveRectangleRug_Blueprint.label>
-  <ThreeFiveRectangleRug_Blueprint_Install.label>矩形地毯3x5 （蓝图）</ThreeFiveRectangleRug_Blueprint_Install.label>
-  <ThreeFiveRectangleRug_Frame.label>矩形地毯3x5 （建造中）</ThreeFiveRectangleRug_Frame.label>
-  <ThreeFiveRectangleRug_Frame.description>一块长方形的地毯。</ThreeFiveRectangleRug_Frame.description>
-
-  <FourFiveRectangleRug.label>矩形地毯4x5</FourFiveRectangleRug.label>
-  <FourFiveRectangleRug.description>一块长方形的地毯。</FourFiveRectangleRug.description>
-  <FourFiveRectangleRug_Blueprint.label>矩形地毯4x5 （蓝图）</FourFiveRectangleRug_Blueprint.label>
-  <FourFiveRectangleRug_Blueprint_Install.label>矩形地毯4x5 （蓝图）</FourFiveRectangleRug_Blueprint_Install.label>
-  <FourFiveRectangleRug_Frame.label>矩形地毯4x5 （建造中）</FourFiveRectangleRug_Frame.label>
-  <FourFiveRectangleRug_Frame.description>一块长方形的地毯。</FourFiveRectangleRug_Frame.description>
-
-  <FourSixRectangleRug.label>矩形地毯4x6</FourSixRectangleRug.label>
-  <FourSixRectangleRug.description>一块长方形的地毯。</FourSixRectangleRug.description>
-  <FourSixRectangleRug_Blueprint.label>矩形地毯4x6 （蓝图）</FourSixRectangleRug_Blueprint.label>
-  <FourSixRectangleRug_Blueprint_Install.label>矩形地毯4x6 （蓝图）</FourSixRectangleRug_Blueprint_Install.label>
-  <FourSixRectangleRug_Frame.label>矩形地毯4x6 （建造中）</FourSixRectangleRug_Frame.label>
-  <FourSixRectangleRug_Frame.description>一块长方形的地毯。</FourSixRectangleRug_Frame.description>
-
-  <FourSevenRectangleRug.label>矩形地毯4x7</FourSevenRectangleRug.label>
-  <FourSevenRectangleRug.description>一块长方形的地毯。</FourSevenRectangleRug.description>
-  <FourSevenRectangleRug_Blueprint.label>矩形地毯4x7 （蓝图）</FourSevenRectangleRug_Blueprint.label>
-  <FourSevenRectangleRug_Blueprint_Install.label>矩形地毯4x7 （蓝图）</FourSevenRectangleRug_Blueprint_Install.label>
-  <FourSevenRectangleRug_Frame.label>矩形地毯4x7 （建造中）</FourSevenRectangleRug_Frame.label>
-  <FourSevenRectangleRug_Frame.description>一块长方形的地毯。</FourSevenRectangleRug_Frame.description>
-
+  
+  <!-- EN: Rectangle Rug 5x7 -->
   <FiveSevenRectangleRug.label>矩形地毯5x7</FiveSevenRectangleRug.label>
+  <!-- EN: A rectangular area rug -->
   <FiveSevenRectangleRug.description>一块长方形的地毯。</FiveSevenRectangleRug.description>
-  <FiveSevenRectangleRug_Blueprint.label>矩形地毯5x7 （蓝图）</FiveSevenRectangleRug_Blueprint.label>
-  <FiveSevenRectangleRug_Blueprint_Install.label>矩形地毯5x7 （蓝图）</FiveSevenRectangleRug_Blueprint_Install.label>
-  <FiveSevenRectangleRug_Frame.label>矩形地毯5x7 （建造中）</FiveSevenRectangleRug_Frame.label>
-  <FiveSevenRectangleRug_Frame.description>一块长方形的地毯。</FiveSevenRectangleRug_Frame.description>
-
-
+  
+  <!-- EN: Rectangle Rug 4x5 -->
+  <FourFiveRectangleRug.label>矩形地毯4x5</FourFiveRectangleRug.label>
+  <!-- EN: A rectangular area rug -->
+  <FourFiveRectangleRug.description>一块长方形的地毯。</FourFiveRectangleRug.description>
+  
+  <!-- EN: Round Rug 4x4 -->
+  <FourFourRoundRug.label>圆形地毯4x4</FourFourRoundRug.label>
+  <!-- EN: A round area rug -->
+  <FourFourRoundRug.description>一块圆形地毯。</FourFourRoundRug.description>
+  
+  <!-- EN: Square Rug 4x4 -->
+  <FourFourSquareRug.label>方形地毯4x4</FourFourSquareRug.label>
+  <!-- EN: A square area rug -->
+  <FourFourSquareRug.description>一块方形地毯。</FourFourSquareRug.description>
+  
+  <!-- EN: Rectangle Rug 4x7 -->
+  <FourSevenRectangleRug.label>矩形地毯4x7</FourSevenRectangleRug.label>
+  <!-- EN: A rectangular area rug -->
+  <FourSevenRectangleRug.description>一块长方形的地毯。</FourSevenRectangleRug.description>
+  
+  <!-- EN: Rectangle Rug 4x6 -->
+  <FourSixRectangleRug.label>矩形地毯4x6</FourSixRectangleRug.label>
+  <!-- EN: A rectangular area rug -->
+  <FourSixRectangleRug.description>一块长方形的地毯。</FourSixRectangleRug.description>
+  
+  <!-- EN: Futstent Rug -->
+  <FutstentRug.label>软绒地毯</FutstentRug.label>
+  <!-- EN: This rug was made for walking and that's what you should do! Don't hesitate and feel the luxurious comfort all over you (-r feet). -->
+  <FutstentRug.description>这块地毯是为步行而生的，这是它的天职！不用犹豫，去感受让你全身舒适的——脚感吧。</FutstentRug.description>
+  
+  <!-- EN: Hay Rug -->
+  <HayRug.label>干草地毯</HayRug.label>
+  <!-- EN: Give your home that "barnyard feel" with this artfully arranged collection of hay. -->
+  <HayRug.description>用这套艺术化的干草风格给你的家带来“牧场物语”的感觉。</HayRug.description>
+  
+  <!-- EN: Large doormat (red) -->
+  <LT_DoorMatBigRed.label>大块门垫</LT_DoorMatBigRed.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <LT_DoorMatBigRed.description>一块可以用来清理鞋子的门垫。</LT_DoorMatBigRed.description>
+  
+  <!-- EN: Doormat -->
+  <LT_DoorMatRed.label>门垫</LT_DoorMatRed.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <LT_DoorMatRed.description>一块可以用来清理鞋子的门垫。</LT_DoorMatRed.description>
+  
+  <!-- EN: Runner 1x5 -->
+  <OneFiveRunner.label>长条地毯1x5</OneFiveRunner.label>
+  <!-- EN: A thin hallway rug -->
+  <OneFiveRunner.description>一块长长的步行毯。</OneFiveRunner.description>
+  
+  <!-- EN: Runner 1x4 -->
+  <OneFourRunner.label>长条地毯1x4</OneFourRunner.label>
+  <!-- EN: A thin hallway rug -->
+  <OneFourRunner.description>一块长长的步行毯。</OneFourRunner.description>
+  
+  <!-- EN: Round Rug 1x1 -->
+  <OneOneRoundRug.label>圆形地毯1x1</OneOneRoundRug.label>
+  <!-- EN: A round area rug -->
+  <OneOneRoundRug.description>一块圆形地毯。</OneOneRoundRug.description>
+  
+  <!-- EN: Square Rug 1x1 -->
+  <OneOneSquareRug.label>方形地毯1x1</OneOneSquareRug.label>
+  <!-- EN: A small square area rug -->
+  <OneOneSquareRug.description>一块方形地毯。</OneOneSquareRug.description>
+  
+  <!-- EN: Runner 1x7 -->
+  <OneSevenRunner.label>长条地毯1x7</OneSevenRunner.label>
+  <!-- EN: A thin hallway rug -->
+  <OneSevenRunner.description>一块长长的步行毯。</OneSevenRunner.description>
+  
+  <!-- EN: Runner 1x6 -->
+  <OneSixRunner.label>长条地毯1x6</OneSixRunner.label>
+  <!-- EN: A thin hallway rug -->
+  <OneSixRunner.description>一块长长的步行毯。</OneSixRunner.description>
+  
+  <!-- EN: Runner 1x3 -->
+  <OneThreeRunner.label>长条地毯1x3</OneThreeRunner.label>
+  <!-- EN: A thin hallway rug -->
+  <OneThreeRunner.description>一块长长的步行毯。</OneThreeRunner.description>
+  
+  <!-- EN: Runner 1x2 -->
+  <OneTwoRunner.label>长条地毯1x2</OneTwoRunner.label>
+  <!-- EN: A thin hallway rug -->
+  <OneTwoRunner.description>一块长长的步行毯。</OneTwoRunner.description>
+  
+  <!-- EN: Patchwork Rug -->
+  <PatchworkRug.label>拼缝地毯</PatchworkRug.label>
+  <!-- EN: Five pieces of leather, fit together into a beautifully savage-looking rug to decorate your home with! -->
+  <PatchworkRug.description>五块皮革，拼凑成一块外观"精美"的粗犷地毯，用来装饰你的家！</PatchworkRug.description>
+  
+  <!-- EN: Round cozy rug -->
+  <RoundCozyRug.label>圆形软地毯</RoundCozyRug.label>
+  <!-- EN: Step unto the step rug and find your path to luxury! -->
+  <RoundCozyRug.description>这条地毯可以让你通向奢华之路！</RoundCozyRug.description>
+  
+  <!-- EN: Round cozy rug -->
+  <RoundCozyRugB.label>圆形软地毯</RoundCozyRugB.label>
+  <!-- EN: Step unto the step rug and find your path to luxury! -->
+  <RoundCozyRugB.description>这条地毯可以让你通向奢华之路！</RoundCozyRugB.description>
+  
+  <!-- EN: Round Rug 7x7 -->
+  <SevenSevenRoundRug.label>圆形地毯7x7</SevenSevenRoundRug.label>
+  <!-- EN: A round area rug -->
+  <SevenSevenRoundRug.description>一块圆形地毯。</SevenSevenRoundRug.description>
+  
+  <!-- EN: Square Rug 7x7 -->
+  <SevenSevenSquareRug.label>方形地毯7x7</SevenSevenSquareRug.label>
+  <!-- EN: A square area rug -->
+  <SevenSevenSquareRug.description>一块方形地毯。</SevenSevenSquareRug.description>
+  
+  <!-- EN: Round Rug 6x6 -->
+  <SixSixRoundRug.label>圆形地毯6x6</SixSixRoundRug.label>
+  <!-- EN: A round area rug -->
+  <SixSixRoundRug.description>一块圆形地毯。</SixSixRoundRug.description>
+  
+  <!-- EN: Square Rug 6x6 -->
+  <SixSixSquareRug.label>方形地毯6x6</SixSixSquareRug.label>
+  <!-- EN: A square area rug -->
+  <SixSixSquareRug.description>一块方形地毯。</SixSixSquareRug.description>
+  
+  <!-- EN: Square cozy rug -->
+  <SquareCozyRug.label>方形软地毯</SquareCozyRug.label>
+  <!-- EN: Step unto the step rug and find your path to luxury! -->
+  <SquareCozyRug.description>这条地毯可以让你通向奢华之路！</SquareCozyRug.description>
+  
+  <!-- EN: Square cozy rug -->
+  <SquareCozyRugB.label>方形软地毯</SquareCozyRugB.label>
+  <!-- EN: Step unto the step rug and find your path to luxury! -->
+  <SquareCozyRugB.description>这条地毯可以让你通向奢华之路！</SquareCozyRugB.description>
+  
+  <!-- EN: Step Rug -->
+  <StepRug.label>步行地毯</StepRug.label>
+  <!-- EN: Step unto the step rug and find your path to luxury! Brightens all sleeping quarters and improves every common room. -->
+  <StepRug.description>走到台阶地毯上，找到你的奢华之路！光耀所有卧室，升华每个房间。</StepRug.description>
+  
+  <!-- EN: Rectangle Rug 2x3 -->
+  <ThoThreeRectangleRug.label>矩形地毯2x3</ThoThreeRectangleRug.label>
+  <!-- EN: A rectangular area rug -->
+  <ThoThreeRectangleRug.description>一块长方形的地毯。</ThoThreeRectangleRug.description>
+  
+  <!-- EN: Rectangle Rug 3x5 -->
+  <ThreeFiveRectangleRug.label>矩形地毯3x5</ThreeFiveRectangleRug.label>
+  <!-- EN: A rectangular area rug -->
+  <ThreeFiveRectangleRug.description>一块长方形的地毯。</ThreeFiveRectangleRug.description>
+  
+  <!-- EN: Rectangle Rug 3x4 -->
+  <ThreeFourRectangleRug.label>矩形地毯3x4</ThreeFourRectangleRug.label>
+  <!-- EN: A rectangular area rug -->
+  <ThreeFourRectangleRug.description>一块长方形的地毯。</ThreeFourRectangleRug.description>
+  
+  <!-- EN: Round Rug 3x3 -->
+  <ThreeThreeRoundRug.label>圆形地毯3x3</ThreeThreeRoundRug.label>
+  <!-- EN: A round area rug -->
+  <ThreeThreeRoundRug.description>一块圆形地毯。</ThreeThreeRoundRug.description>
+  
+  <!-- EN: Square Rug 3x3 -->
+  <ThreeThreeSquareRug.label>方形地毯3x3</ThreeThreeSquareRug.label>
+  <!-- EN: A square area rug -->
+  <ThreeThreeSquareRug.description>一块方形地毯。</ThreeThreeSquareRug.description>
+  
+  <!-- EN: Achrid Rug -->
+  <TribeRug.label>阿奎德地毯</TribeRug.label>
+  <!-- EN: This piece of art, in the form of a rug, shows a marvelous design used by the Caxigo Braga people on Achrid I. -->
+  <TribeRug.description>这件以地毯形式呈现的艺术品，展示了喀希格布拉加人在阿奎德一世身上所使用的奇妙设计。</TribeRug.description>
+  
+  <!-- EN: Rectangle Rug 2x4 -->
+  <TwoFourRectangleRug.label>矩形地毯2x4</TwoFourRectangleRug.label>
+  <!-- EN: A rectangular area rug -->
+  <TwoFourRectangleRug.description>一块长方形的地毯。</TwoFourRectangleRug.description>
+  
+  <!-- EN: Round Rug 2x2 -->
+  <TwoTwoRoundRug.label>圆形地毯2x2</TwoTwoRoundRug.label>
+  <!-- EN: A round area rug -->
+  <TwoTwoRoundRug.description>一块圆形地毯。</TwoTwoRoundRug.description>
+  
+  <!-- EN: Square Rug 2x2 -->
+  <TwoTwoSquareRug.label>方形地毯2x2</TwoTwoSquareRug.label>
+  <!-- EN: A square area rug -->
+  <TwoTwoSquareRug.description>一块方形地毯。</TwoTwoSquareRug.description>
+  
 </LanguageData>

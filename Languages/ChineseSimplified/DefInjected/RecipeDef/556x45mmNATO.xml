@@ -1,19 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_556x45mmNATO_FMJ.label>制造 5.56x45mm  北约标准弹（全金属被甲弹）x80</MakeAmmo_556x45mmNATO_FMJ.label>
-  <MakeAmmo_556x45mmNATO_FMJ.description>制造 80 5.56x45mm  北约标准弹（全金属被甲弹）。</MakeAmmo_556x45mmNATO_FMJ.description>
-  <MakeAmmo_556x45mmNATO_FMJ.jobString>正在制造 5.56x45mm  北约标准弹（全金属被甲弹）。</MakeAmmo_556x45mmNATO_FMJ.jobString>
-
+  
+  <!-- EN: make 5.56x45mm (AP) cartridge x80 -->
   <MakeAmmo_556x45mmNATO_AP.label>制造 5.56x45mm  北约标准弹（穿甲弹）x80</MakeAmmo_556x45mmNATO_AP.label>
+  <!-- EN: Craft 80 5.56x45mm (AP) cartridges. -->
   <MakeAmmo_556x45mmNATO_AP.description>制造 80 5.56x45mm  北约标准弹（穿甲弹）。</MakeAmmo_556x45mmNATO_AP.description>
+  <!-- EN: Making 5.56x45mm (AP) cartridges. -->
   <MakeAmmo_556x45mmNATO_AP.jobString>正在制造 5.56x45mm  北约标准弹（穿甲弹）。</MakeAmmo_556x45mmNATO_AP.jobString>
-
+  
+  <!-- EN: make 5.56x45mm (FMJ) cartridge x80 -->
+  <MakeAmmo_556x45mmNATO_FMJ.label>制造 5.56x45mm  北约标准弹（全金属被甲弹）x80</MakeAmmo_556x45mmNATO_FMJ.label>
+  <!-- EN: Craft 80 5.56x45mm (FMJ) cartridges. -->
+  <MakeAmmo_556x45mmNATO_FMJ.description>制造 80 5.56x45mm  北约标准弹（全金属被甲弹）。</MakeAmmo_556x45mmNATO_FMJ.description>
+  <!-- EN: Making 5.56x45mm (FMJ) cartridges. -->
+  <MakeAmmo_556x45mmNATO_FMJ.jobString>正在制造 5.56x45mm  北约标准弹（全金属被甲弹）。</MakeAmmo_556x45mmNATO_FMJ.jobString>
+  
+  <!-- EN: make 5.56x45mm (HP) cartridge x80 -->
   <MakeAmmo_556x45mmNATO_HP.label>制造 5.56x45mm  北约标准弹（空尖弹）x80</MakeAmmo_556x45mmNATO_HP.label>
+  <!-- EN: Craft 80 5.56x45mm (HP) cartridges. -->
   <MakeAmmo_556x45mmNATO_HP.description>制造 80 5.56x45mm  北约标准弹（空尖弹）。</MakeAmmo_556x45mmNATO_HP.description>
+  <!-- EN: Making 5.56x45mm (HP) cartridges. -->
   <MakeAmmo_556x45mmNATO_HP.jobString>正在制造 5.56x45mm  北约标准弹（空尖弹）。</MakeAmmo_556x45mmNATO_HP.jobString>
-
-
+  
 </LanguageData>

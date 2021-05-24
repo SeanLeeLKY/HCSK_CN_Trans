@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: meerkat -->
   <Meerkat.label>猫鼬</Meerkat.label>
-  <Meerkat.labelPlural>猫鼬</Meerkat.labelPlural>
-  <Meerkat.lifeStages.0.label>猫鼬</Meerkat.lifeStages.0.label>
-  <Meerkat.lifeStages.0.labelPlural>猫鼬</Meerkat.lifeStages.0.labelPlural>
-  <Meerkat.lifeStages.0.labelMale>雄性猫鼬</Meerkat.lifeStages.0.labelMale>
-  <Meerkat.lifeStages.0.labelMalePlural>雄性猫鼬</Meerkat.lifeStages.0.labelMalePlural>
-  <Meerkat.lifeStages.0.labelFemale>雌性猫鼬</Meerkat.lifeStages.0.labelFemale>
-  <Meerkat.lifeStages.0.labelFemalePlural>雌性猫鼬</Meerkat.lifeStages.0.labelFemalePlural>
-  <Meerkat.lifeStages.1.label>猫鼬</Meerkat.lifeStages.1.label>
-  <Meerkat.lifeStages.1.labelPlural>猫鼬</Meerkat.lifeStages.1.labelPlural>
-  <Meerkat.lifeStages.1.labelMale>雄性猫鼬</Meerkat.lifeStages.1.labelMale>
-  <Meerkat.lifeStages.1.labelMalePlural>雄性猫鼬</Meerkat.lifeStages.1.labelMalePlural>
-  <Meerkat.lifeStages.1.labelFemale>雌性猫鼬</Meerkat.lifeStages.1.labelFemale>
-  <Meerkat.lifeStages.1.labelFemalePlural>雌性猫鼬</Meerkat.lifeStages.1.labelFemalePlural>
-  <Meerkat.lifeStages.2.label>猫鼬</Meerkat.lifeStages.2.label>
-  <Meerkat.lifeStages.2.labelPlural>猫鼬</Meerkat.lifeStages.2.labelPlural>
-  <Meerkat.lifeStages.2.labelMale>雄性猫鼬</Meerkat.lifeStages.2.labelMale>
-  <Meerkat.lifeStages.2.labelMalePlural>雄性猫鼬</Meerkat.lifeStages.2.labelMalePlural>
-  <Meerkat.lifeStages.2.labelFemale>雌性猫鼬</Meerkat.lifeStages.2.labelFemale>
-  <Meerkat.lifeStages.2.labelFemalePlural>雌性猫鼬</Meerkat.lifeStages.2.labelFemalePlural>
-  <Meerkat.lifeStages.3.label>猫鼬</Meerkat.lifeStages.3.label>
-  <Meerkat.lifeStages.3.labelPlural>猫鼬</Meerkat.lifeStages.3.labelPlural>
-  <Meerkat.lifeStages.3.labelMale>雄性猫鼬</Meerkat.lifeStages.3.labelMale>
-  <Meerkat.lifeStages.3.labelMalePlural>雄性猫鼬</Meerkat.lifeStages.3.labelMalePlural>
-  <Meerkat.lifeStages.3.labelFemale>雌性猫鼬</Meerkat.lifeStages.3.labelFemale>
-  <Meerkat.lifeStages.3.labelFemalePlural>雌性猫鼬</Meerkat.lifeStages.3.labelFemalePlural>
-  <Meerkat.labelMale>雄性猫鼬</Meerkat.labelMale>
-  <Meerkat.labelMalePlural>雄性猫鼬</Meerkat.labelMalePlural>
   <Meerkat.labelFemale>雌性猫鼬</Meerkat.labelFemale>
   <Meerkat.labelFemalePlural>雌性猫鼬</Meerkat.labelFemalePlural>
-
-
+  <Meerkat.labelMale>雄性猫鼬</Meerkat.labelMale>
+  <Meerkat.labelMalePlural>雄性猫鼬</Meerkat.labelMalePlural>
+  <Meerkat.labelPlural>猫鼬</Meerkat.labelPlural>
+  <Meerkat.lifeStages.0.label>猫鼬</Meerkat.lifeStages.0.label>
+  <Meerkat.lifeStages.0.labelFemale>雌性猫鼬</Meerkat.lifeStages.0.labelFemale>
+  <Meerkat.lifeStages.0.labelFemalePlural>雌性猫鼬</Meerkat.lifeStages.0.labelFemalePlural>
+  <Meerkat.lifeStages.0.labelMale>雄性猫鼬</Meerkat.lifeStages.0.labelMale>
+  <Meerkat.lifeStages.0.labelMalePlural>雄性猫鼬</Meerkat.lifeStages.0.labelMalePlural>
+  <Meerkat.lifeStages.0.labelPlural>猫鼬</Meerkat.lifeStages.0.labelPlural>
+  <Meerkat.lifeStages.1.label>猫鼬</Meerkat.lifeStages.1.label>
+  <Meerkat.lifeStages.1.labelFemale>雌性猫鼬</Meerkat.lifeStages.1.labelFemale>
+  <Meerkat.lifeStages.1.labelFemalePlural>雌性猫鼬</Meerkat.lifeStages.1.labelFemalePlural>
+  <Meerkat.lifeStages.1.labelMale>雄性猫鼬</Meerkat.lifeStages.1.labelMale>
+  <Meerkat.lifeStages.1.labelMalePlural>雄性猫鼬</Meerkat.lifeStages.1.labelMalePlural>
+  <Meerkat.lifeStages.1.labelPlural>猫鼬</Meerkat.lifeStages.1.labelPlural>
+  <Meerkat.lifeStages.2.label>猫鼬</Meerkat.lifeStages.2.label>
+  <Meerkat.lifeStages.2.labelFemale>雌性猫鼬</Meerkat.lifeStages.2.labelFemale>
+  <Meerkat.lifeStages.2.labelFemalePlural>雌性猫鼬</Meerkat.lifeStages.2.labelFemalePlural>
+  <Meerkat.lifeStages.2.labelMale>雄性猫鼬</Meerkat.lifeStages.2.labelMale>
+  <Meerkat.lifeStages.2.labelMalePlural>雄性猫鼬</Meerkat.lifeStages.2.labelMalePlural>
+  <Meerkat.lifeStages.2.labelPlural>猫鼬</Meerkat.lifeStages.2.labelPlural>
+  <Meerkat.lifeStages.3.label>猫鼬</Meerkat.lifeStages.3.label>
+  <Meerkat.lifeStages.3.labelFemale>雌性猫鼬</Meerkat.lifeStages.3.labelFemale>
+  <Meerkat.lifeStages.3.labelFemalePlural>雌性猫鼬</Meerkat.lifeStages.3.labelFemalePlural>
+  <Meerkat.lifeStages.3.labelMale>雄性猫鼬</Meerkat.lifeStages.3.labelMale>
+  <Meerkat.lifeStages.3.labelMalePlural>雄性猫鼬</Meerkat.lifeStages.3.labelMalePlural>
+  <Meerkat.lifeStages.3.labelPlural>猫鼬</Meerkat.lifeStages.3.labelPlural>
+  
 </LanguageData>

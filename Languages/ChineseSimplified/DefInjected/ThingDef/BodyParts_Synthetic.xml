@@ -1,32 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <BionicLung.label>合成肺</BionicLung.label>
-  <BionicLung.description>高科技的呼吸替代体。会发出轻柔的呼吸声。</BionicLung.description>
-
-  <BionicStomach.label>合成胃</BionicStomach.label>
-  <BionicStomach.description>增强型胃，通过使用更优良的合成织物来增强吸收率。</BionicStomach.description>
-
-  <BionicLiver.label>合成肝</BionicLiver.label>
-  <BionicLiver.description>增强型肝，通过使用更优良的合成织物来增强代谢率。</BionicLiver.description>
-
-  <BionicKidney.label>合成肾</BionicKidney.label>
-  <BionicKidney.description>增强型肾，通过使用更优良的合成织物来增强代谢率。</BionicKidney.description>
-
+  
+  <!-- EN: bionic heart -->
   <BionicHeart.label>仿生心脏</BionicHeart.label>
+  <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
   <BionicHeart.description>一个先进的人工心脏，其中合成的肌肉纤维将以比生物心脏强的功率泵动血液，以达到更强的血液循环能力。</BionicHeart.description>
-
+  
+  <!-- EN: synthetic kidney -->
+  <BionicKidney.label>合成肾</BionicKidney.label>
+  <!-- EN: An enhanced kidney augmented with synthetic fibers to decrease rejection rate. -->
+  <BionicKidney.description>增强型肾，通过使用更优良的合成织物来增强代谢率。</BionicKidney.description>
+  
+  <!-- EN: synthetic liver -->
+  <BionicLiver.label>合成肝</BionicLiver.label>
+  <!-- EN: An enhanced liver augmented with synthetic fibers to decrease rejection rate. -->
+  <BionicLiver.description>增强型肝，通过使用更优良的合成织物来增强代谢率。</BionicLiver.description>
+  
+  <!-- EN: synthetic lung -->
+  <BionicLung.label>合成肺</BionicLung.label>
+  <!-- EN: A high-tech breathing replacement. Makes a soft whirring sound. -->
+  <BionicLung.description>高科技的呼吸替代体。会发出轻柔的呼吸声。</BionicLung.description>
+  
+  <!-- EN: synthetic stomach -->
+  <BionicStomach.label>合成胃</BionicStomach.label>
+  <!-- EN: An enhanced stomach augmented with synthetic fibres to decrease rejection rate. -->
+  <BionicStomach.description>增强型胃，通过使用更优良的合成织物来增强吸收率。</BionicStomach.description>
+  
+  <!-- EN: joywire -->
   <Joywire.label>乐丝芯片</Joywire.label>
+  <!-- EN: This little brain implant will make you feel happy and relaxed. Requires brain surgery research before installing. -->
   <Joywire.description>这个小小的大脑植入体会让你感到愉悦和放松。需要掌握脑部手术技术才能进行安装。</Joywire.description>
-
-  <Painstopper.label>止痛芯片</Painstopper.label>
-  <Painstopper.description>这种大脑植入体会让你感觉不到疼痛。需要掌握脑部手术技术才能进行安装。</Painstopper.description>
-
-
-  <!-- Muscle stimulator -->
-
+  
+  <!-- EN: muscle stimulator -->
   <MuscleStimulator.label>肌肉刺激器</MuscleStimulator.label>
+  <!-- EN: Through special chemicals and electric shocks this little chip is able to stimulate the muscles so they can operate at above maximum performance. -->
   <MuscleStimulator.description>通过特殊的化学物质和电击，这个小芯片能够刺激肌肉，使他们能以最佳状态运作。</MuscleStimulator.description>
-
-
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>止痛芯片</Painstopper.label>
+  <!-- EN: This brain implant will make you not feel pain. Requires brain surgery research before installing. -->
+  <Painstopper.description>这种大脑植入体会让你感觉不到疼痛。需要掌握脑部手术技术才能进行安装。</Painstopper.description>
+  
 </LanguageData>

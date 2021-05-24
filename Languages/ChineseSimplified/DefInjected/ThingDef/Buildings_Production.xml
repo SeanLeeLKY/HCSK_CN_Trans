@@ -1,342 +1,234 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <TableGrill.label>简易烤架</TableGrill.label>
-  <TableGrill.description>一种小型烤架，用于将肉烤成简单的肉干或烤肉。可以用柴火、煤炭、木炭和木质材料作为燃料。</TableGrill.description>
-  <TableGrill_Blueprint.label>简易烤架（蓝图）</TableGrill_Blueprint.label>
-  <TableGrill_Blueprint_Install.label>简易烤架（蓝图）</TableGrill_Blueprint_Install.label>
-  <TableGrill_Frame.label>简易烤架（建造中）</TableGrill_Frame.label>
-  <TableGrill_Frame.description>一种小型烤架，用于将肉烤成简单的肉干或烤肉。可以用柴火、煤炭、木炭和木质材料作为燃料。</TableGrill_Frame.description>
-
-  <ButcherSpot.label>屠宰点</ButcherSpot.label>
-  <ButcherSpot.description>用作宰杀动物的临时屠宰点。</ButcherSpot.description>
-  <ButcherSpot_Blueprint.label>屠宰点（蓝图）</ButcherSpot_Blueprint.label>
-  <ButcherSpot_Blueprint_Install.label>屠宰点（蓝图）</ButcherSpot_Blueprint_Install.label>
-  <ButcherSpot_Frame.label>屠宰点（建造中）</ButcherSpot_Frame.label>
-  <ButcherSpot_Frame.description>用作宰杀动物的临时屠宰点。</ButcherSpot_Frame.description>
-
-  <TableButcher.label>屠宰台</TableButcher.label>
-  <TableButcher.description>一个用于将死掉的动物宰成肉块的厚重桌子。</TableButcher.description>
-  <TableButcher_Blueprint.label>屠宰台（蓝图）</TableButcher_Blueprint.label>
-  <TableButcher_Blueprint_Install.label>屠宰台（蓝图）</TableButcher_Blueprint_Install.label>
-  <TableButcher_Frame.label>屠宰台（建造中）</TableButcher_Frame.label>
-  <TableButcher_Frame.description>一个用于将死掉的动物宰成肉块的厚重桌子。</TableButcher_Frame.description>
-
-  <TableKitchen.label>厨房案桌</TableKitchen.label>
-  <TableKitchen.description>用于准备餐食原料的厚重桌子。</TableKitchen.description>
-  <TableKitchen_Blueprint.label>厨房案桌（蓝图）</TableKitchen_Blueprint.label>
-  <TableKitchen_Blueprint_Install.label>厨房案桌（蓝图）</TableKitchen_Blueprint_Install.label>
-  <TableKitchen_Frame.label>厨房案桌（建造中）</TableKitchen_Frame.label>
-  <TableKitchen_Frame.description>用于准备餐食原料的厚重桌子。</TableKitchen_Frame.description>
-
-  <FueledStove.label>燃料炉灶</FueledStove.label>
-  <FueledStove.description>使用燃料的简易炉灶，有固定的台面用于烹饪食物。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</FueledStove.description>
-  <FueledStove_Blueprint.label>燃料炉灶（蓝图）</FueledStove_Blueprint.label>
-  <FueledStove_Frame.label>燃料炉灶（建造中）</FueledStove_Frame.label>
-  <FueledStove_Frame.description>使用燃料的简易炉灶，有固定的台面用于烹饪食物。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</FueledStove_Frame.description>
-
-  <TableOven.label>烤箱</TableOven.label>
-  <TableOven.description>消耗各种燃料来烘焙面包和其他美食的烹饪工具。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</TableOven.description>
-  <TableOven_Blueprint.label>烤箱（蓝图）</TableOven_Blueprint.label>
-  <TableOven_Blueprint_Install.label>烤箱（蓝图）</TableOven_Blueprint_Install.label>
-  <TableOven_Frame.label>烤箱（建造中）</TableOven_Frame.label>
-  <TableOven_Frame.description>消耗各种燃料来烘焙面包和其他美食的烹饪工具。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</TableOven_Frame.description>
-
-  <ElectricOven.label>电烤箱</ElectricOven.label>
-  <ElectricOven.description>用电力驱动的烤箱。需要电源。</ElectricOven.description>
-  <ElectricOven_Blueprint.label>电烤箱（蓝图）</ElectricOven_Blueprint.label>
-  <ElectricOven_Frame.label>电烤箱（建造中）</ElectricOven_Frame.label>
-  <ElectricOven_Frame.description>用电力驱动的烤箱。需要电源。</ElectricOven_Frame.description>
-
-  <CandyTable.label>糖果桌</CandyTable.label>
-  <CandyTable.description>用于制作巧克力、焦糖和太妃糖的制糖台。需要电源。</CandyTable.description>
-  <CandyTable_Blueprint.label>糖果桌（蓝图）</CandyTable_Blueprint.label>
-  <CandyTable_Blueprint_Install.label>糖果桌（蓝图）</CandyTable_Blueprint_Install.label>
-  <CandyTable_Frame.label>糖果桌（建造中）</CandyTable_Frame.label>
-  <CandyTable_Frame.description>用于制作巧克力、焦糖和太妃糖的制糖台。需要电源。</CandyTable_Frame.description>
-
-  <GrindStone.label>石磨</GrindStone.label>
-  <GrindStone.description>用于快速研磨植物原料的手动小型磨制器具。</GrindStone.description>
-  <GrindStone_Blueprint.label>石磨（蓝图）</GrindStone_Blueprint.label>
-  <GrindStone_Blueprint_Install.label>石磨（蓝图）</GrindStone_Blueprint_Install.label>
-  <GrindStone_Frame.label>石磨（建造中）</GrindStone_Frame.label>
-  <GrindStone_Frame.description>用于快速研磨植物原料的手动小型磨制器具。</GrindStone_Frame.description>
-
-  <MillElectric.label>电动磨</MillElectric.label>
-  <MillElectric.description>电动磨机由高功率电动机驱动，研磨效率非常高。</MillElectric.description>
-  <MillElectric_Blueprint.label>电动磨（蓝图）</MillElectric_Blueprint.label>
-  <MillElectric_Blueprint_Install.label>电动磨（蓝图）</MillElectric_Blueprint_Install.label>
-  <MillElectric_Frame.label>电动磨（建造中）</MillElectric_Frame.label>
-  <MillElectric_Frame.description>电动磨机由高功率电动机驱动，研磨效率非常高。</MillElectric_Frame.description>
-
-  <NutrientPasteDispenser.label>营养膏合成机</NutrientPasteDispenser.label>
-  <NutrientPasteDispenser.description>将有机原料合成为营养膏。比其他的食物生产方法消耗更少的原料和时间，但没人喜欢吃营养膏。可以处理生食，但无法处理某些的植物材料，比如干草。只有当殖民者缺少食物时，才会从营养膏合成机中拿取营养膏。</NutrientPasteDispenser.description>
-  <NutrientPasteDispenser_Blueprint.label>营养膏合成机（蓝图）</NutrientPasteDispenser_Blueprint.label>
-  <NutrientPasteDispenser_Blueprint_Install.label>营养膏合成机（蓝图）</NutrientPasteDispenser_Blueprint_Install.label>
-  <NutrientPasteDispenser_Frame.label>营养膏合成机（建造中）</NutrientPasteDispenser_Frame.label>
-  <NutrientPasteDispenser_Frame.description>将有机原料合成为营养膏。比其他的食物生产方法消耗更少的原料和时间，但没人喜欢吃营养膏。可以处理生食，但无法处理某些的植物材料，比如干草。只有当殖民者缺少食物时，才会从营养膏合成机中拿取营养膏。</NutrientPasteDispenser_Frame.description>
-
-  <Hopper.label>进料口</Hopper.label>
-  <Hopper.description>储存原料以供如营养膏合成机之类的机器使用。</Hopper.description>
-  <Hopper_Blueprint.label>进料口（蓝图）</Hopper_Blueprint.label>
-  <Hopper_Blueprint_Install.label>进料口（蓝图）</Hopper_Blueprint_Install.label>
-  <Hopper_Frame.label>进料口（建造中）</Hopper_Frame.label>
-  <Hopper_Frame.description>储存原料以供如营养膏合成机之类的机器使用。</Hopper_Frame.description>
-
-
-  <!-- Brewery -->
-
-  <Brewery.label>酿造台</Brewery.label>
-  <Brewery.description>一个配备有酿酒设备的工作台。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</Brewery.description>
-  <Brewery_Blueprint.label>酿造台（蓝图）</Brewery_Blueprint.label>
-  <Brewery_Blueprint_Install.label>酿造台（蓝图）</Brewery_Blueprint_Install.label>
-  <Brewery_Frame.label>酿造台（建造中）</Brewery_Frame.label>
-  <Brewery_Frame.description>一个配备有酿酒设备的工作台。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</Brewery_Frame.description>
-
-
-  <!-- Electric Brewery -->
-
-  <ElectricBrewery.label>电动酿造台</ElectricBrewery.label>
-  <ElectricBrewery.description>一个配备了所有酿造酒精饮料和生物燃料所需设备的工作台。需要电力才能正常运作。</ElectricBrewery.description>
-  <ElectricBrewery_Blueprint.label>电动酿造台（蓝图）</ElectricBrewery_Blueprint.label>
-  <ElectricBrewery_Blueprint_Install.label>电动酿造台（蓝图）</ElectricBrewery_Blueprint_Install.label>
-  <ElectricBrewery_Frame.label>电动酿造台（建造中）</ElectricBrewery_Frame.label>
-  <ElectricBrewery_Frame.description>一个配备了所有酿造酒精饮料和生物燃料所需设备的工作台。需要电力才能正常运作。</ElectricBrewery_Frame.description>
-
-
-  <!-- Alcohol Fermenting Barrel -->
-
-  <UniversalFermenter.label>酒类发酵桶</UniversalFermenter.label>
-  <UniversalFermenter.description>一个用于发酵各类产品的大桶。</UniversalFermenter.description>
-  <UniversalFermenter_Blueprint.label>酒类发酵桶（蓝图）</UniversalFermenter_Blueprint.label>
-  <UniversalFermenter_Blueprint_Install.label>酒类发酵桶（蓝图）</UniversalFermenter_Blueprint_Install.label>
-  <UniversalFermenter_Frame.label>酒类发酵桶（建造中）</UniversalFermenter_Frame.label>
-  <UniversalFermenter_Frame.description>一个用于发酵各类产品的大桶。</UniversalFermenter_Frame.description>
-
-
-  <!-- Jerky Drying Rack -->
-
-  <JerkyRack.label>干肉架</JerkyRack.label>
-  <JerkyRack.description>用于将肉类风干成为肉干的架子。</JerkyRack.description>
-  <JerkyRack_Blueprint.label>干肉架（蓝图）</JerkyRack_Blueprint.label>
-  <JerkyRack_Blueprint_Install.label>干肉架（蓝图）</JerkyRack_Blueprint_Install.label>
-  <JerkyRack_Frame.label>干肉架（建造中）</JerkyRack_Frame.label>
-  <JerkyRack_Frame.description>用于将肉类风干成为肉干的架子。</JerkyRack_Frame.description>
-
-  <DryingRack.label>干燥架</DryingRack.label>
-  <DryingRack.description>用于风干大麻叶、烟叶以及各类水果的干燥架。</DryingRack.description>
-  <DryingRack_Blueprint.label>干燥架（蓝图）</DryingRack_Blueprint.label>
-  <DryingRack_Blueprint_Install.label>干燥架（蓝图）</DryingRack_Blueprint_Install.label>
-  <DryingRack_Frame.label>干燥架（建造中）</DryingRack_Frame.label>
-  <DryingRack_Frame.description>用于风干大麻叶、烟叶以及各类水果的干燥架。</DryingRack_Frame.description>
-
-  <CheeseBasin.label>奶酪制作盆</CheeseBasin.label>
-  <CheeseBasin.description>用于将奶制成奶酪的工具容器。</CheeseBasin.description>
-  <CheeseBasin_Blueprint.label>奶酪制作盆（蓝图）</CheeseBasin_Blueprint.label>
-  <CheeseBasin_Blueprint_Install.label>奶酪制作盆（蓝图）</CheeseBasin_Blueprint_Install.label>
-  <CheeseBasin_Frame.label>奶酪制作盆（建造中）</CheeseBasin_Frame.label>
-  <CheeseBasin_Frame.description>用于将奶制成奶酪的工具容器。</CheeseBasin_Frame.description>
-
-  <SilagePile.label>青贮料堆</SilagePile.label>
-  <SilagePile.description>可以在这里将各种植物产品发酵成青贮饲料。</SilagePile.description>
-  <SilagePile_Blueprint.label>青贮料堆（蓝图）</SilagePile_Blueprint.label>
-  <SilagePile_Frame.label>青贮料堆（建造中）</SilagePile_Frame.label>
-  <SilagePile_Frame.description>可以在这里将各种植物产品发酵成青贮饲料。</SilagePile_Frame.description>
-
-  <Saltpeter_pit.label>硝石转化坑</Saltpeter_pit.label>
-  <Saltpeter_pit.description>硝石转化坑。</Saltpeter_pit.description>
-  <Saltpeter_pit_Blueprint.label>硝石转化坑（蓝图）</Saltpeter_pit_Blueprint.label>
-  <Saltpeter_pit_Frame.label>硝石转化坑（建造中）</Saltpeter_pit_Frame.label>
-  <Saltpeter_pit_Frame.description>硝石转化坑。</Saltpeter_pit_Frame.description>
-
-  <DrugLab.label>药物实验台</DrugLab.label>
-  <DrugLab.description>一个配备有各种烧瓶、量杯和加热装置的化学实验台，用于制作各种药物和成瘾品。</DrugLab.description>
-  <DrugLab_Blueprint.label>药物实验台（蓝图）</DrugLab_Blueprint.label>
-  <DrugLab_Blueprint_Install.label>药物实验台（蓝图）</DrugLab_Blueprint_Install.label>
-  <DrugLab_Frame.label>药物实验台（建造中）</DrugLab_Frame.label>
-  <DrugLab_Frame.description>一个配备有各种烧瓶、量杯和加热装置的化学实验台，用于制作各种药物和成瘾品。</DrugLab_Frame.description>
-
-  <TableCoffee.label>咖啡机</TableCoffee.label>
-  <TableCoffee.description>一台用来准备咖啡的机器。也可以用来冲泡茶饮。需要电力才能正常运作。</TableCoffee.description>
-  <TableCoffee_Blueprint.label>咖啡机（蓝图）</TableCoffee_Blueprint.label>
-  <TableCoffee_Blueprint_Install.label>咖啡机（蓝图）</TableCoffee_Blueprint_Install.label>
-  <TableCoffee_Frame.label>咖啡机（建造中）</TableCoffee_Frame.label>
-  <TableCoffee_Frame.description>一台用来准备咖啡的机器。也可以用来冲泡茶饮。需要电力才能正常运作。</TableCoffee_Frame.description>
-
-  <TableSawmillHand.label>手工锯台</TableSawmillHand.label>
-  <TableSawmillHand.description>手动操作的木料加工台，可以将木料加工成木板和柴火。</TableSawmillHand.description>
-  <TableSawmillHand_Blueprint.label>手工锯台（蓝图）</TableSawmillHand_Blueprint.label>
-  <TableSawmillHand_Blueprint_Install.label>手工锯台（蓝图）</TableSawmillHand_Blueprint_Install.label>
-  <TableSawmillHand_Frame.label>手工锯台（建造中）</TableSawmillHand_Frame.label>
-  <TableSawmillHand_Frame.description>手动操作的木料加工台，可以将木料加工成木板和柴火。</TableSawmillHand_Frame.description>
-
-  <TableFurnace.label>熔炉</TableFurnace.label>
-  <TableFurnace.description>用于将基本金属矿石熔炼成金属合金的炉子。可以制作金属罐和用原木生产木炭。可以用柴火、煤炭、木炭、泥炭和木质材料作为燃料。</TableFurnace.description>
-  <TableFurnace_Blueprint.label>熔炉（蓝图）</TableFurnace_Blueprint.label>
-  <TableFurnace_Blueprint_Install.label>熔炉（蓝图）</TableFurnace_Blueprint_Install.label>
-  <TableFurnace_Frame.label>熔炉（建造中）</TableFurnace_Frame.label>
-  <TableFurnace_Frame.description>用于将基本金属矿石熔炼成金属合金的炉子。可以制作金属罐和用原木生产木炭。可以用柴火、煤炭、木炭、泥炭和木质材料作为燃料。</TableFurnace_Frame.description>
-
-  <Kiln.label>窑炉</Kiln.label>
-  <Kiln.description>一种用于生产粘土砖、烧制服装和用作火葬场的简易窑炉。可以用柴火、煤、木炭、泥炭和木质材料为燃料。</Kiln.description>
-  <Kiln_Blueprint.label>窑炉（蓝图）</Kiln_Blueprint.label>
-  <Kiln_Blueprint_Install.label>窑炉（蓝图）</Kiln_Blueprint_Install.label>
-  <Kiln_Frame.label>窑炉（建造中）</Kiln_Frame.label>
-  <Kiln_Frame.description>一种用于生产粘土砖、烧制服装和用作火葬场的简易窑炉。可以用柴火、煤、木炭、泥炭和木质材料为燃料。</Kiln_Frame.description>
-
-  <GlassworkTable.label>玻璃制品工作台</GlassworkTable.label>
-  <GlassworkTable.description>一张有制作玻璃所需的所有工具的桌子。需要电力才能正常运作。</GlassworkTable.description>
-  <GlassworkTable_Blueprint.label>玻璃制品工作台（蓝图）</GlassworkTable_Blueprint.label>
-  <GlassworkTable_Blueprint_Install.label>玻璃制品工作台（蓝图）</GlassworkTable_Blueprint_Install.label>
-  <GlassworkTable_Frame.label>玻璃制品工作台（建造中）</GlassworkTable_Frame.label>
-  <GlassworkTable_Frame.description>一张有制作玻璃所需的所有工具的桌子。需要电力才能正常运作。</GlassworkTable_Frame.description>
-
-  <LeatherworkerTable.label>皮革工作台</LeatherworkerTable.label>
-  <LeatherworkerTable.description>用生皮制作皮革服装的工作台。</LeatherworkerTable.description>
-  <LeatherworkerTable_Blueprint.label>皮革工作台（蓝图）</LeatherworkerTable_Blueprint.label>
-  <LeatherworkerTable_Blueprint_Install.label>皮革工作台（蓝图）</LeatherworkerTable_Blueprint_Install.label>
-  <LeatherworkerTable_Frame.label>皮革工作台（建造中）</LeatherworkerTable_Frame.label>
-  <LeatherworkerTable_Frame.description>用生皮制作皮革服装的工作台。</LeatherworkerTable_Frame.description>
-
-  <HandTailoringBench.label>裁缝工作台</HandTailoringBench.label>
-  <HandTailoringBench.description>用纺织品裁剪基本服装的工作台。</HandTailoringBench.description>
-  <HandTailoringBench_Blueprint.label>裁缝工作台（蓝图）</HandTailoringBench_Blueprint.label>
-  <HandTailoringBench_Blueprint_Install.label>裁缝工作台（蓝图）</HandTailoringBench_Blueprint_Install.label>
-  <HandTailoringBench_Frame.label>裁缝工作台（建造中）</HandTailoringBench_Frame.label>
-  <HandTailoringBench_Frame.description>用纺织品裁剪基本服装的工作台。</HandTailoringBench_Frame.description>
-
-  <ElectricTailoringBench.label>电动裁缝工作台</ElectricTailoringBench.label>
-  <ElectricTailoringBench.description>一个带有缝纫机的工作台，用于快速裁剪衣服。可在断电时以正常情况下40%的速度工作。</ElectricTailoringBench.description>
-  <ElectricTailoringBench_Blueprint.label>电动裁缝工作台（蓝图）</ElectricTailoringBench_Blueprint.label>
-  <ElectricTailoringBench_Blueprint_Install.label>电动裁缝工作台（蓝图）</ElectricTailoringBench_Blueprint_Install.label>
-  <ElectricTailoringBench_Frame.label>电动裁缝工作台（建造中）</ElectricTailoringBench_Frame.label>
-  <ElectricTailoringBench_Frame.description>一个带有缝纫机的工作台，用于快速裁剪衣服。可在断电时以正常情况下40%的速度工作。</ElectricTailoringBench_Frame.description>
-
-  <TableLoom.label>纺织机</TableLoom.label>
-  <TableLoom.description>用来将原料纺成可用纺织品的纺织机。需要电力才能正常运作。</TableLoom.description>
-  <TableLoom_Blueprint.label>纺织机（蓝图）</TableLoom_Blueprint.label>
-  <TableLoom_Blueprint_Install.label>纺织机（蓝图）</TableLoom_Blueprint_Install.label>
-  <TableLoom_Frame.label>纺织机（建造中）</TableLoom_Frame.label>
-  <TableLoom_Frame.description>用来将原料纺成可用纺织品的纺织机。需要电力才能正常运作。</TableLoom_Frame.description>
-
-  <TableMending.label>修理工作台</TableMending.label>
-  <TableMending.description>一个配备了修补和修理损坏物品所需所有工具的工作台。需要电力并且消耗修理包。</TableMending.description>
-  <TableMending_Blueprint.label>修理工作台（蓝图）</TableMending_Blueprint.label>
-  <TableMending_Blueprint_Install.label>修理工作台（蓝图）</TableMending_Blueprint_Install.label>
-  <TableMending_Frame.label>修理工作台（建造中）</TableMending_Frame.label>
-  <TableMending_Frame.description>一个配备了修补和修理损坏物品所需所有工具的工作台。需要电力并且消耗修理包。</TableMending_Frame.description>
-
-  <FabricationBench.label>手工装配台</FabricationBench.label>
-  <FabricationBench.description>一个用于组装零部件、导线和机械组件的工作台。更加高级的研究能够使先进机械组件也能在这里生产，可以在没有电力的情况下工作，但工作速度将降低30%。电力消耗：300W。</FabricationBench.description>
-  <FabricationBench_Blueprint.label>手工装配台（蓝图）</FabricationBench_Blueprint.label>
-  <FabricationBench_Blueprint_Install.label>手工装配台（蓝图）</FabricationBench_Blueprint_Install.label>
-  <FabricationBench_Frame.label>手工装配台（建造中）</FabricationBench_Frame.label>
-  <FabricationBench_Frame.description>一个用于组装零部件、导线和机械组件的工作台。更加高级的研究能够使先进机械组件也能在这里生产，可以在没有电力的情况下工作，但工作速度将降低30%。电力消耗：300W。</FabricationBench_Frame.description>
-
-  <FueledSmithy.label>锻造台</FueledSmithy.label>
-  <FueledSmithy.description>这个铁匠工作坊配置有所有需要的工具，可以打造金属盔甲、工作工具、近战武器、高级弓弩，以及诸如箭矢一类的简单弹药。它需要一些能够产生高温的燃料，如煤或泥炭。</FueledSmithy.description>
-  <FueledSmithy_Blueprint.label>锻造台（蓝图）</FueledSmithy_Blueprint.label>
-  <FueledSmithy_Blueprint_Install.label>锻造台（蓝图）</FueledSmithy_Blueprint_Install.label>
-  <FueledSmithy_Frame.label>锻造台（建造中）</FueledSmithy_Frame.label>
-  <FueledSmithy_Frame.description>这个铁匠工作坊配置有所有需要的工具，可以打造金属盔甲、工作工具、近战武器、高级弓弩，以及诸如箭矢一类的简单弹药。它需要一些能够产生高温的燃料，如煤或泥炭。</FueledSmithy_Frame.description>
-
-  <TableStonecutterNeolithic.label>石匠工作台</TableStonecutterNeolithic.label>
-  <TableStonecutterNeolithic.description>装备了能够将大石块进行简单切割工具的工作台。</TableStonecutterNeolithic.description>
-  <TableStonecutterNeolithic_Blueprint.label>石匠工作台（蓝图）</TableStonecutterNeolithic_Blueprint.label>
-  <TableStonecutterNeolithic_Blueprint_Install.label>石匠工作台（蓝图）</TableStonecutterNeolithic_Blueprint_Install.label>
-  <TableStonecutterNeolithic_Frame.label>石匠工作台（建造中）</TableStonecutterNeolithic_Frame.label>
-  <TableStonecutterNeolithic_Frame.description>装备了能够将大石块进行简单切割工具的工作台。</TableStonecutterNeolithic_Frame.description>
-
-  <TableStonecutter.label>手动石料加工台</TableStonecutter.label>
-  <TableStonecutter.description>一个无动力的工作台，用于将石块加工成石砖、碎石或沙子。钢筋混凝土也在这里制备。</TableStonecutter.description>
-  <TableStonecutter_Blueprint.label>手动石料加工台（蓝图）</TableStonecutter_Blueprint.label>
-  <TableStonecutter_Blueprint_Install.label>手动石料加工台（蓝图）</TableStonecutter_Blueprint_Install.label>
-  <TableStonecutter_Frame.label>手动石料加工台（建造中）</TableStonecutter_Frame.label>
-  <TableStonecutter_Frame.description>一个无动力的工作台，用于将石块加工成石砖、碎石或沙子。钢筋混凝土也在这里制备。</TableStonecutter_Frame.description>
-
-  <TableSculpting.label>雕塑台</TableSculpting.label>
-  <TableSculpting.description>一个配备有雕刻工具的工作台。</TableSculpting.description>
-  <TableSculpting_Blueprint.label>雕塑台（蓝图）</TableSculpting_Blueprint.label>
-  <TableSculpting_Blueprint_Install.label>雕塑台（蓝图）</TableSculpting_Blueprint_Install.label>
-  <TableSculpting_Frame.label>雕塑台（建造中）</TableSculpting_Frame.label>
-  <TableSculpting_Frame.description>一个配备有雕刻工具的工作台。</TableSculpting_Frame.description>
-
-  <ConcreteMixer.label>手动混凝土搅拌器</ConcreteMixer.label>
-  <ConcreteMixer.description>一台手动混凝土搅拌器。混凝土由碎石和沙子等混合而成。</ConcreteMixer.description>
-  <ConcreteMixer_Blueprint.label>手动混凝土搅拌器（蓝图）</ConcreteMixer_Blueprint.label>
-  <ConcreteMixer_Blueprint_Install.label>手动混凝土搅拌器（蓝图）</ConcreteMixer_Blueprint_Install.label>
-  <ConcreteMixer_Frame.label>手动混凝土搅拌器（建造中）</ConcreteMixer_Frame.label>
-  <ConcreteMixer_Frame.description>一台手动混凝土搅拌器。混凝土由碎石和沙子等混合而成。</ConcreteMixer_Frame.description>
-
-  <CompostBarrel.label>堆肥桶</CompostBarrel.label>
-  <CompostBarrel.description>堆肥桶可以将10单位堆肥料转化为10单位肥料。</CompostBarrel.description>
-  <CompostBarrel_Blueprint.label>堆肥桶（蓝图）</CompostBarrel_Blueprint.label>
-  <CompostBarrel_Blueprint_Install.label>堆肥桶（蓝图）</CompostBarrel_Blueprint_Install.label>
-  <CompostBarrel_Frame.label>堆肥桶（建造中）</CompostBarrel_Frame.label>
-  <CompostBarrel_Frame.description>堆肥桶可以将10单位堆肥料转化为10单位肥料。</CompostBarrel_Frame.description>
-
-  <CraftingSpot.label>手工加工台</CraftingSpot.label>
-  <CraftingSpot.description>一个用于加工小刀或者短弓等简单物件的工作台。</CraftingSpot.description>
-  <CraftingSpot_Blueprint.label>手工加工台（蓝图）</CraftingSpot_Blueprint.label>
-  <CraftingSpot_Blueprint_Install.label>手工加工台（蓝图）</CraftingSpot_Blueprint_Install.label>
-  <CraftingSpot_Frame.label>手工加工台（建造中）</CraftingSpot_Frame.label>
-  <CraftingSpot_Frame.description>一个用于加工小刀或者短弓等简单物件的工作台。</CraftingSpot_Frame.description>
-
-  <WeaponCraftingWorkTable.label>武器加工台</WeaponCraftingWorkTable.label>
-  <WeaponCraftingWorkTable.description>生产手枪、步枪等远程武器的工作台。也可以将闲置武器熔炼成金属。需要电力才能正常运作。</WeaponCraftingWorkTable.description>
-  <WeaponCraftingWorkTable_Blueprint.label>武器加工台（蓝图）</WeaponCraftingWorkTable_Blueprint.label>
-  <WeaponCraftingWorkTable_Blueprint_Install.label>武器加工台（蓝图）</WeaponCraftingWorkTable_Blueprint_Install.label>
-  <WeaponCraftingWorkTable_Frame.label>武器加工台（建造中）</WeaponCraftingWorkTable_Frame.label>
-  <WeaponCraftingWorkTable_Frame.description>生产手枪、步枪等远程武器的工作台。也可以将闲置武器熔炼成金属。需要电力才能正常运作。</WeaponCraftingWorkTable_Frame.description>
-
+  
+  <!-- EN: advanced weapon crafting workbench -->
   <AdvWeaponCraftingWorkTable.label>先进武器加工台</AdvWeaponCraftingWorkTable.label>
+  <!-- EN: A workbench that produces advanced ranged weapons like military assault rifles, missile launchers and heavy machine guns. Requires power. -->
   <AdvWeaponCraftingWorkTable.description>生产军用突击步枪、导弹发射器和重机枪等先进武器的工作台。需要电力才能正常运作。</AdvWeaponCraftingWorkTable.description>
-  <AdvWeaponCraftingWorkTable_Blueprint.label>先进武器加工台（蓝图）</AdvWeaponCraftingWorkTable_Blueprint.label>
-  <AdvWeaponCraftingWorkTable_Blueprint_Install.label>先进武器加工台（蓝图）</AdvWeaponCraftingWorkTable_Blueprint_Install.label>
-  <AdvWeaponCraftingWorkTable_Frame.label>先进武器加工台（建造中）</AdvWeaponCraftingWorkTable_Frame.label>
-  <AdvWeaponCraftingWorkTable_Frame.description>生产军用突击步枪、导弹发射器和重机枪等先进武器的工作台。需要电力才能正常运作。</AdvWeaponCraftingWorkTable_Frame.description>
-
+  
+  <!-- EN: ammo crafting table -->
   <AmmoBench.label>弹药工作台</AmmoBench.label>
+  <!-- EN: A crafting table that produces ammunition for use in guns and turrets. Can also produce sulfur from iron ore. Power needed: 500 W. Can work without electricity at 30% of normal speed. -->
   <AmmoBench.description>特种工作台，可以生产枪炮和炮塔使用的弹药。也可以用铁矿石提取硫磺。电力消耗：500W，也可以在没有电的情况下以30%的速度工作。</AmmoBench.description>
-  <AmmoBench_Blueprint.label>弹药工作台（蓝图）</AmmoBench_Blueprint.label>
-  <AmmoBench_Blueprint_Install.label>弹药工作台（蓝图）</AmmoBench_Blueprint_Install.label>
-  <AmmoBench_Frame.label>弹药工作台（建造中）</AmmoBench_Frame.label>
-  <AmmoBench_Frame.description>特种工作台，可以生产枪炮和炮塔使用的弹药。也可以用铁矿石提取硫磺。电力消耗：500W，也可以在没有电的情况下以30%的速度工作。</AmmoBench_Frame.description>
-
+  
+  <!-- EN: brewery -->
+  <Brewery.label>酿造台</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to brew Wort. Can be fueled by Kindling, Coal, Charcoal and wooden stuff. -->
+  <Brewery.description>一个配备有酿酒设备的工作台。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</Brewery.description>
+  
+  <!-- EN: butchering spot -->
+  <ButcherSpot.label>屠宰点</ButcherSpot.label>
+  <!-- EN: A makeshift spot for butchering dead creatures into pieces of raw meat. -->
+  <ButcherSpot.description>用作宰杀动物的临时屠宰点。</ButcherSpot.description>
+  
+  <!-- EN: candy table -->
+  <CandyTable.label>糖果桌</CandyTable.label>
+  <!-- EN: A candy-making table used to make chocolate, caramel and taffy. Requires power. -->
+  <CandyTable.description>用于制作巧克力、焦糖和太妃糖的制糖台。需要电源。</CandyTable.description>
+  
+  <!-- EN: cheesemaking basin -->
+  <CheeseBasin.label>奶酪制作盆</CheeseBasin.label>
+  <!-- EN: Basin for creating cheese from milk. -->
+  <CheeseBasin.description>用于将奶制成奶酪的工具容器。</CheeseBasin.description>
+  
+  <!-- EN: compost barrel -->
+  <CompostBarrel.label>堆肥桶</CompostBarrel.label>
+  <!-- EN: A compost barrel will convert 10 compost into 10 fertilizer. -->
+  <CompostBarrel.description>堆肥桶可以将10单位堆肥料转化为10单位肥料。</CompostBarrel.description>
+  
+  <!-- EN: hand concrete mixer -->
+  <ConcreteMixer.label>手动混凝土搅拌器</ConcreteMixer.label>
+  <!-- EN: A muscle-powered concrete mixer. Concrete is mixed from rubble and sand. -->
+  <ConcreteMixer.description>一台手动混凝土搅拌器。混凝土由碎石和沙子等混合而成。</ConcreteMixer.description>
+  
+  <!-- EN: craftsman table -->
+  <CraftingSpot.label>手工加工台</CraftingSpot.label>
+  <!-- EN: A place for crafting simple things like shivs or bows. -->
+  <CraftingSpot.description>一个用于加工小刀或者短弓等简单物件的工作台。</CraftingSpot.description>
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>药物实验台</DrugLab.label>
+  <!-- EN: A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs. -->
+  <DrugLab.description>一个配备有各种烧瓶、量杯和加热装置的化学实验台，用于制作各种药物和成瘾品。</DrugLab.description>
+  
+  <!-- EN: drying rack -->
+  <DryingRack.label>干燥架</DryingRack.label>
+  <!-- EN: Drying rack used for drying berries, smokeleaf and tobacco leaves. -->
+  <DryingRack.description>用于风干大麻叶、烟叶以及各类水果的干燥架。</DryingRack.description>
+  
+  <!-- EN: electric brewery -->
+  <ElectricBrewery.label>电动酿造台</ElectricBrewery.label>
+  <!-- EN: A work station with all the equipment needed to brew alocholic drinks and ethanol fuel. Requires power. -->
+  <ElectricBrewery.description>一个配备了所有酿造酒精饮料和生物燃料所需设备的工作台。需要电力才能正常运作。</ElectricBrewery.description>
+  
+  <!-- EN: electric oven -->
+  <ElectricOven.label>电烤箱</ElectricOven.label>
+  <!-- EN: An electric powered oven for baking things. Requires power. -->
+  <ElectricOven.description>用电力驱动的烤箱。需要电源。</ElectricOven.description>
+  
+  <!-- EN: electric tailoring bench -->
+  <ElectricTailoringBench.label>电动裁缝工作台</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed. -->
+  <ElectricTailoringBench.description>一个带有缝纫机的工作台，用于快速裁剪衣服。可在断电时以正常情况下40%的速度工作。</ElectricTailoringBench.description>
+  
+  <!-- EN: hand assembling workbench -->
+  <FabricationBench.label>手工装配台</FabricationBench.label>
+  <!-- EN: A table for the assembling of components, wires, and mechanisms. Further research will allow advanced mechanisms to be built here as well. Power needed: 300 W. Can work without electricity, but work speed will be reduced by 30%. -->
+  <FabricationBench.description>一个用于组装零部件、导线和机械组件的工作台。更加高级的研究能够使先进机械组件也能在这里生产，可以在没有电力的情况下工作，但工作速度将降低30%。电力消耗：300W。</FabricationBench.description>
+  
+  <!-- EN: blacksmith -->
+  <FueledSmithy.label>锻造台</FueledSmithy.label>
+  <!-- EN: This blacksmithing setup has all the tools needed to build metal armor, work tools, melee weapons, advanced bows and crossbows, as well as simple ammunition such as arrows. It requires some fuel that burns at a high temperature such as coal or peat. -->
+  <FueledSmithy.description>这个铁匠工作坊配置有所有需要的工具，可以打造金属盔甲、工作工具、近战武器、高级弓弩，以及诸如箭矢一类的简单弹药。它需要一些能够产生高温的燃料，如煤或泥炭。</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>燃料炉灶</FueledStove.label>
+  <!-- EN: A simple wood-fueled stove with an attached countertop for preparing meals. Can be fueled by Kindling, Coal, Charcoal and wooden stuff. -->
+  <FueledStove.description>使用燃料的简易炉灶，有固定的台面用于烹饪食物。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</FueledStove.description>
+  
+  <!-- EN: glassworks table -->
+  <GlassworkTable.label>玻璃制品工作台</GlassworkTable.label>
+  <!-- EN: A table with all the tools you need to make glass. Requires power. -->
+  <GlassworkTable.description>一张有制作玻璃所需的所有工具的桌子。需要电力才能正常运作。</GlassworkTable.description>
+  
+  <!-- EN: milling stone -->
+  <GrindStone.label>石磨</GrindStone.label>
+  <!-- EN: A small muscle-powered grinding stone for quickly grinding raw plants. -->
+  <GrindStone.description>用于快速研磨植物原料的手动小型磨制器具。</GrindStone.description>
+  
+  <!-- EN: tailor's bench -->
+  <HandTailoringBench.label>裁缝工作台</HandTailoringBench.label>
+  <!-- EN: A workbench equipped for tailoring basic clothing from textiles. -->
+  <HandTailoringBench.description>用纺织品裁剪基本服装的工作台。</HandTailoringBench.description>
+  
+  <!-- EN: heavy arms lathe -->
   <HeavyArmsBench.label>重型武器机床</HeavyArmsBench.label>
+  <!-- EN: A crafting table that produces ammunition for use with turrets. Can also produce sulfur from iron ore. Requires power. -->
   <HeavyArmsBench.description>特种工作台，可以生产炮塔使用的弹药。也可以用铁矿石提取硫磺。需要电力才能正常运作。</HeavyArmsBench.description>
-  <HeavyArmsBench_Blueprint.label>重型武器机床（蓝图）</HeavyArmsBench_Blueprint.label>
-  <HeavyArmsBench_Blueprint_Install.label>重型武器机床（蓝图）</HeavyArmsBench_Blueprint_Install.label>
-  <HeavyArmsBench_Frame.label>重型武器机床（建造中）</HeavyArmsBench_Frame.label>
-  <HeavyArmsBench_Frame.description>特种工作台，可以生产炮塔使用的弹药。也可以用铁矿石提取硫磺。需要电力才能正常运作。</HeavyArmsBench_Frame.description>
-
-
-  <!-- EPOE -->
-
-  <TablePrimitiveProsthetic.label>原始假肢工作台</TablePrimitiveProsthetic.label>
-  <TablePrimitiveProsthetic.description>为生产基本假肢而配备的工作台。</TablePrimitiveProsthetic.description>
-  <TablePrimitiveProsthetic_Blueprint.label>原始假肢工作台（蓝图）</TablePrimitiveProsthetic_Blueprint.label>
-  <TablePrimitiveProsthetic_Blueprint_Install.label>原始假肢工作台（蓝图）</TablePrimitiveProsthetic_Blueprint_Install.label>
-  <TablePrimitiveProsthetic_Frame.label>原始假肢工作台（建造中）</TablePrimitiveProsthetic_Frame.label>
-  <TablePrimitiveProsthetic_Frame.description>为生产基本假肢而配备的工作台。</TablePrimitiveProsthetic_Frame.description>
-
+  
+  <!-- EN: hopper -->
+  <Hopper.label>进料口</Hopper.label>
+  <!-- EN: Holds resources for the nutrient paste dispenser or fertilizer machine. -->
+  <Hopper.description>储存原料以供如营养膏合成机之类的机器使用。</Hopper.description>
+  
+  <!-- EN: Jerky Drying Rack -->
+  <JerkyRack.label>干肉架</JerkyRack.label>
+  <!-- EN: A rack with meat prepared for drying into jerky. -->
+  <JerkyRack.description>用于将肉类风干成为肉干的架子。</JerkyRack.description>
+  
+  <!-- EN: kiln -->
+  <Kiln.label>窑炉</Kiln.label>
+  <!-- EN: An improvised kiln used to produce clay bricks, burning apparel and used as crematorium. Can be fueled by Kindling, Coal, Charcoal, Peat and wooden stuff. After researching chemistry it allow to make rubber from raw caoutchouc. -->
+  <Kiln.description>一种用于生产粘土砖、烧制服装和用作火葬场的简易窑炉。可以用柴火、煤、木炭、泥炭和木质材料为燃料。</Kiln.description>
+  
+  <!-- EN: leatherworker table -->
+  <LeatherworkerTable.label>皮革工作台</LeatherworkerTable.label>
+  <!-- EN: A worktable for crafting leather clothing from raw hides. -->
+  <LeatherworkerTable.description>用生皮制作皮革服装的工作台。</LeatherworkerTable.description>
+  
+  <!-- EN: Electric Mill -->
+  <MillElectric.label>电动磨</MillElectric.label>
+  <!-- EN: The electric grinding mechanism is driven by a powerful electric motor, which allows an excellent grinding throughput. -->
+  <MillElectric.description>电动磨机由高功率电动机驱动，研磨效率非常高。</MillElectric.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>营养膏合成机</NutrientPasteDispenser.label>
+  <!-- EN: Synthesizes nutrient paste from organic ingredients. It consumes less ingredients and time than any other meal production method, but nobody likes eating nutrient paste. Requires power. -->
+  <NutrientPasteDispenser.description>将有机原料合成为营养膏。比其他的食物生产方法消耗更少的原料和时间，但没人喜欢吃营养膏。可以处理生食，但无法处理某些的植物材料，比如干草。只有当殖民者缺少食物时，才会从营养膏合成机中拿取营养膏。</NutrientPasteDispenser.description>
+  
+  <!-- EN: Saltpeter Pit -->
+  <Saltpeter_pit.label>硝石转化坑</Saltpeter_pit.label>
+  <!-- EN: Saltpeter pit. -->
+  <Saltpeter_pit.description>硝石转化坑。</Saltpeter_pit.description>
+  
+  <!-- EN: Silage Pile -->
+  <SilagePile.label>青贮料堆</SilagePile.label>
+  <!-- EN: Huge pile where plant matter is fermented into silage. -->
+  <SilagePile.description>可以在这里将各种植物产品发酵成青贮饲料。</SilagePile.description>
+  
+  <!-- EN: prosthetics workbench -->
   <TableBasicProsthetic.label>假肢工作台</TableBasicProsthetic.label>
+  <!-- EN: A workbench equipped for production of very simple prosthetics. Requires power. -->
   <TableBasicProsthetic.description>用于生产非常简单的假肢的工作台。需要电力才能正常运作。</TableBasicProsthetic.description>
-  <TableBasicProsthetic_Blueprint.label>假肢工作台（蓝图）</TableBasicProsthetic_Blueprint.label>
-  <TableBasicProsthetic_Blueprint_Install.label>假肢工作台（蓝图）</TableBasicProsthetic_Blueprint_Install.label>
-  <TableBasicProsthetic_Frame.label>假肢工作台（建造中）</TableBasicProsthetic_Frame.label>
-  <TableBasicProsthetic_Frame.description>用于生产非常简单的假肢的工作台。需要电力才能正常运作。</TableBasicProsthetic_Frame.description>
-
-
-  <!-- Resource rocks -->
-
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>屠宰台</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
+  <TableButcher.description>一个用于将死掉的动物宰成肉块的厚重桌子。</TableButcher.description>
+  
+  <!-- EN: coffee machine -->
+  <TableCoffee.label>咖啡机</TableCoffee.label>
+  <!-- EN: A machine for the preparation of coffee. It can also produce tea. Requires power. -->
+  <TableCoffee.description>一台用来准备咖啡的机器。也可以用来冲泡茶饮。需要电力才能正常运作。</TableCoffee.description>
+  
+  <!-- EN: furnace -->
+  <TableFurnace.label>熔炉</TableFurnace.label>
+  <!-- EN: A furnace used for smelting basic metal ores into metal alloys. Can make metal cans and produce charcoal from logs. Can be fueled by Kindling, Coal, Charcoal, Peat and wooden stuff. -->
+  <TableFurnace.description>用于将基本金属矿石熔炼成金属合金的炉子。可以制作金属罐和用原木生产木炭。可以用柴火、煤炭、木炭、泥炭和木质材料作为燃料。</TableFurnace.description>
+  
+  <!-- EN: simple grill -->
+  <TableGrill.label>简易烤架</TableGrill.label>
+  <!-- EN: A small grill used to cook meat into simple jerky or roasts. Can be fueled by Kindling, Coal, Charcoal and wooden stuff. -->
+  <TableGrill.description>一种小型烤架，用于将肉烤成简单的肉干或烤肉。可以用柴火、煤炭、木炭和木质材料作为燃料。</TableGrill.description>
+  
+  <!-- EN: Kitchen Table -->
+  <TableKitchen.label>厨房案桌</TableKitchen.label>
+  <!-- EN: A heavy table for meal prep. -->
+  <TableKitchen.description>用于准备餐食原料的厚重桌子。</TableKitchen.description>
+  
+  <!-- EN: tailor's loom -->
+  <TableLoom.label>纺织机</TableLoom.label>
+  <!-- EN: A tailor's loom that is used to spin raw materials into usable textiles. Requires power. -->
+  <TableLoom.description>用来将原料纺成可用纺织品的纺织机。需要电力才能正常运作。</TableLoom.description>
+  
+  <!-- EN: mending workbench -->
+  <TableMending.label>修理工作台</TableMending.label>
+  <!-- EN: A workbench equipped with all the tools required to mend and repair damaged items. Requires power and consumes mending kits. -->
+  <TableMending.description>一个配备了修补和修理损坏物品所需所有工具的工作台。需要电力并且消耗修理包。</TableMending.description>
+  
+  <!-- EN: oven -->
+  <TableOven.label>烤箱</TableOven.label>
+  <!-- EN: A fueled oven for baking candies and tasty treats. Can be fueled by Kindling, Coal, Charcoal and wooden stuff. -->
+  <TableOven.description>消耗各种燃料来烘焙面包和其他美食的烹饪工具。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</TableOven.description>
+  
+  <!-- EN: primitive prosthetics bench -->
+  <TablePrimitiveProsthetic.label>原始假肢工作台</TablePrimitiveProsthetic.label>
+  <!-- EN: A workbench equipped for production of basic prosthetics. -->
+  <TablePrimitiveProsthetic.description>为生产基本假肢而配备的工作台。</TablePrimitiveProsthetic.description>
+  
+  <!-- EN: hand sawmill -->
+  <TableSawmillHand.label>手工锯台</TableSawmillHand.label>
+  <!-- EN: A small muscle-powered hand saw for cutting logs into planks and kindling. -->
+  <TableSawmillHand.description>手动操作的木料加工台，可以将木料加工成木板和柴火。</TableSawmillHand.description>
+  
+  <!-- EN: sculptor's table -->
+  <TableSculpting.label>雕塑台</TableSculpting.label>
+  <!-- EN: A workbench equipped for artistic sculpting. -->
+  <TableSculpting.description>一个配备有雕刻工具的工作台。</TableSculpting.description>
+  
+  <!-- EN: hand machining table -->
+  <TableStonecutter.label>手动石料加工台</TableStonecutter.label>
+  <!-- EN: An unpowered work table equipped to process stone chunks into blocks, rubble or sand. Reinforced concrete is prepared here as well. -->
+  <TableStonecutter.description>一个无动力的工作台，用于将石块加工成石砖、碎石或沙子。钢筋混凝土也在这里制备。</TableStonecutter.description>
+  
+  <!-- EN: stonecutter's bench -->
+  <TableStonecutterNeolithic.label>石匠工作台</TableStonecutterNeolithic.label>
+  <!-- EN: A work table equipped to cut rough stone into small stone cobbles. -->
+  <TableStonecutterNeolithic.description>装备了能够将大石块进行简单切割工具的工作台。</TableStonecutterNeolithic.description>
+  
+  <!-- EN: Alcohol Fermenting Barrel -->
+  <UniversalFermenter.label>酒类发酵桶</UniversalFermenter.label>
+  <!-- EN: A barrel for fermenting various things into other products. -->
+  <UniversalFermenter.description>一个用于发酵各类产品的大桶。</UniversalFermenter.description>
+  
+  <!-- EN: salt mine -->
   <VG_SaltMine.label>挖盐点</VG_SaltMine.label>
+  <!-- EN: Place on rough stone for digging up salt. -->
   <VG_SaltMine.description>从粗糙岩石表面挖掘盐矿的工作点。</VG_SaltMine.description>
-  <VG_SaltMine_Blueprint.label>挖盐点（蓝图）</VG_SaltMine_Blueprint.label>
-  <VG_SaltMine_Frame.label>挖盐点（建造中）</VG_SaltMine_Frame.label>
-  <VG_SaltMine_Frame.description>从粗糙岩石表面挖掘盐矿的工作点。</VG_SaltMine_Frame.description>
-
-
-  <!-- 干肉架 -->
-
+  
+  <!-- EN: weapon crafting workbench -->
+  <WeaponCraftingWorkTable.label>武器加工台</WeaponCraftingWorkTable.label>
+  <!-- EN: A workbench that produces ranged weapons like pistols and rifles. Can smelt weapons down into metal. Requires power. -->
+  <WeaponCraftingWorkTable.description>生产手枪、步枪等远程武器的工作台。也可以将闲置武器熔炼成金属。需要电力才能正常运作。</WeaponCraftingWorkTable.description>
+  
 </LanguageData>

@@ -1,85 +1,148 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <cider.label>苹果酒</cider.label>
-  <cider.description>一种由苹果酿成的甜酒精饮品。</cider.description>
-  <cider.ingestible.ingestCommandString>喝{0}</cider.ingestible.ingestCommandString>
-  <cider.ingestible.ingestReportString>正在喝{0}。</cider.ingestible.ingestReportString>
-
-  <rum.label>朗姆酒</rum.label>
-  <rum.description>朗姆酒都到去哪了？</rum.description>
-  <rum.ingestible.ingestCommandString>喝{0}</rum.ingestible.ingestCommandString>
-  <rum.ingestible.ingestReportString>正在喝{0}。</rum.ingestible.ingestReportString>
-
-  <Wine.label>葡萄酒</Wine.label>
-  <Wine.description>一种由葡萄酿成的甜酒精饮品。</Wine.description>
-  <Wine.ingestible.ingestCommandString>喝{0}</Wine.ingestible.ingestCommandString>
-  <Wine.ingestible.ingestReportString>正在喝{0}。</Wine.ingestible.ingestReportString>
-
-  <strawberrywine.label>浆果酒</strawberrywine.label>
-  <strawberrywine.description>一种由草莓酿成的粉红色甜酒精饮品。</strawberrywine.description>
-  <strawberrywine.ingestible.ingestCommandString>喝{0}</strawberrywine.ingestible.ingestCommandString>
-  <strawberrywine.ingestible.ingestReportString>正在喝{0}。</strawberrywine.ingestible.ingestReportString>
-
-  <saki.label>清酒</saki.label>
-  <saki.description>一种由稻米酿成的清爽可口的酒。</saki.description>
-  <saki.ingestible.ingestCommandString>喝{0}</saki.ingestible.ingestCommandString>
-  <saki.ingestible.ingestReportString>正在喝{0}。</saki.ingestible.ingestReportString>
-
-  <vodka.label>伏特加</vodka.label>
-  <vodka.description>一种由马铃薯酿成的蒸馏酒。</vodka.description>
-  <vodka.ingestible.ingestCommandString>喝{0}</vodka.ingestible.ingestCommandString>
-  <vodka.ingestible.ingestReportString>正在喝{0}。</vodka.ingestible.ingestReportString>
-
-  <tequila.label>龙舌兰酒</tequila.label>
-  <tequila.description>用龙舌兰制成的烈性酒。它在瓶子上印有一张看起来像是裸体的醉酒雌猫人的照片。一开始这种酒是被某个奥瑞森人所发现，于是她迅速完善并优化了配方，使其成为奥瑞森人中的上层人士非常喜欢的饮料，并赢得了更为传奇的声誉。</tequila.description>
-  <tequila.ingestible.ingestCommandString>喝{0}</tequila.ingestible.ingestCommandString>
-  <tequila.ingestible.ingestReportString>正在喝{0}。</tequila.ingestible.ingestReportString>
-
-  <whisky.label>威士忌</whisky.label>
-  <whisky.description>一种由玉米酿成的金黄色的酒。</whisky.description>
-  <whisky.ingestible.ingestCommandString>喝{0}</whisky.ingestible.ingestCommandString>
-  <whisky.ingestible.ingestReportString>正在喝{0}。</whisky.ingestible.ingestReportString>
-
-  <Moonshine.label>月光佳酿</Moonshine.label>
-  <Moonshine.description>一瓶好酒。</Moonshine.description>
-  <Moonshine.ingestible.ingestCommandString>喝{0}</Moonshine.ingestible.ingestCommandString>
-  <Moonshine.ingestible.ingestReportString>正在喝{0}。</Moonshine.ingestible.ingestReportString>
-
-  <Gin.label>杜松子酒</Gin.label>
-  <Gin.description>一瓶好酒。</Gin.description>
-  <Gin.ingestible.ingestCommandString>喝{0}</Gin.ingestible.ingestCommandString>
-  <Gin.ingestible.ingestReportString>正在喝{0}。</Gin.ingestible.ingestReportString>
-
-  <Brandy.label>白兰地</Brandy.label>
-  <Brandy.description>一瓶好酒。</Brandy.description>
-  <Brandy.ingestible.ingestCommandString>喝{0}</Brandy.ingestible.ingestCommandString>
-  <Brandy.ingestible.ingestReportString>正在喝{0}。</Brandy.ingestible.ingestReportString>
-
-  <Cognac.label>干邑白兰地</Cognac.label>
-  <Cognac.description>一瓶好酒。</Cognac.description>
-  <Cognac.ingestible.ingestCommandString>喝{0}</Cognac.ingestible.ingestCommandString>
-  <Cognac.ingestible.ingestReportString>正在喝{0}。</Cognac.ingestible.ingestReportString>
-
-  <Kahlua.label>咖啡酒</Kahlua.label>
-  <Kahlua.description>一瓶好酒。</Kahlua.description>
-  <Kahlua.ingestible.ingestCommandString>喝{0}</Kahlua.ingestible.ingestCommandString>
-  <Kahlua.ingestible.ingestReportString>正在喝{0}。</Kahlua.ingestible.ingestReportString>
-
-  <Arak.label>亚力酒</Arak.label>
-  <Arak.description>一瓶好酒。</Arak.description>
-  <Arak.ingestible.ingestCommandString>喝{0}</Arak.ingestible.ingestCommandString>
-  <Arak.ingestible.ingestReportString>正在喝{0}。</Arak.ingestible.ingestReportString>
-
+  
+  <!-- EN: Applejack -->
   <Applejack.label>苹果白兰地</Applejack.label>
+  <!-- EN: A bottle of alcohol -->
   <Applejack.description>一瓶好酒。</Applejack.description>
+  <!-- EN: Drink {0} -->
   <Applejack.ingestible.ingestCommandString>喝{0}</Applejack.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
   <Applejack.ingestible.ingestReportString>正在喝{0}。</Applejack.ingestible.ingestReportString>
-
+  
+  <!-- EN: Arak -->
+  <Arak.label>亚力酒</Arak.label>
+  <!-- EN: A bottle of alcohol -->
+  <Arak.description>一瓶好酒。</Arak.description>
+  <!-- EN: Drink {0} -->
+  <Arak.ingestible.ingestCommandString>喝{0}</Arak.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Arak.ingestible.ingestReportString>正在喝{0}。</Arak.ingestible.ingestReportString>
+  
+  <!-- EN: Brandy -->
+  <Brandy.label>白兰地</Brandy.label>
+  <!-- EN: A bottle of alcohol -->
+  <Brandy.description>一瓶好酒。</Brandy.description>
+  <!-- EN: Drink {0} -->
+  <Brandy.ingestible.ingestCommandString>喝{0}</Brandy.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Brandy.ingestible.ingestReportString>正在喝{0}。</Brandy.ingestible.ingestReportString>
+  
+  <!-- EN: Apple cider -->
+  <cider.label>苹果酒</cider.label>
+  <!-- EN: A bottle of sweet alcohol made from apples. -->
+  <cider.description>一种由苹果酿成的甜酒精饮品。</cider.description>
+  <!-- EN: Drink {0} -->
+  <cider.ingestible.ingestCommandString>喝{0}</cider.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <cider.ingestible.ingestReportString>正在喝{0}。</cider.ingestible.ingestReportString>
+  
+  <!-- EN: Cognac -->
+  <Cognac.label>干邑白兰地</Cognac.label>
+  <!-- EN: A bottle of alcohol -->
+  <Cognac.description>一瓶好酒。</Cognac.description>
+  <!-- EN: Drink {0} -->
+  <Cognac.ingestible.ingestCommandString>喝{0}</Cognac.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Cognac.ingestible.ingestReportString>正在喝{0}。</Cognac.ingestible.ingestReportString>
+  
+  <!-- EN: Gin -->
+  <Gin.label>杜松子酒</Gin.label>
+  <!-- EN: A bottle of alcohol -->
+  <Gin.description>一瓶好酒。</Gin.description>
+  <!-- EN: Drink {0} -->
+  <Gin.ingestible.ingestCommandString>喝{0}</Gin.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Gin.ingestible.ingestReportString>正在喝{0}。</Gin.ingestible.ingestReportString>
+  
+  <!-- EN: Kahlua -->
+  <Kahlua.label>咖啡酒</Kahlua.label>
+  <!-- EN: A bottle of alcohol -->
+  <Kahlua.description>一瓶好酒。</Kahlua.description>
+  <!-- EN: Drink {0} -->
+  <Kahlua.ingestible.ingestCommandString>喝{0}</Kahlua.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Kahlua.ingestible.ingestReportString>正在喝{0}。</Kahlua.ingestible.ingestReportString>
+  
+  <!-- EN: Moonshine -->
+  <Moonshine.label>月光佳酿</Moonshine.label>
+  <!-- EN: A bottle of alcohol -->
+  <Moonshine.description>一瓶好酒。</Moonshine.description>
+  <!-- EN: Drink {0} -->
+  <Moonshine.ingestible.ingestCommandString>喝{0}</Moonshine.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Moonshine.ingestible.ingestReportString>正在喝{0}。</Moonshine.ingestible.ingestReportString>
+  
+  <!-- EN: Patreonbrew -->
   <Patreonbrew.label>众筹佳酿</Patreonbrew.label>
+  <!-- EN: A bottle of charming, supporter-based alcohol. -->
   <Patreonbrew.description>一瓶为各位赞助人特制的佳酿。</Patreonbrew.description>
+  <!-- EN: Drink {0} -->
   <Patreonbrew.ingestible.ingestCommandString>喝{0}</Patreonbrew.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
   <Patreonbrew.ingestible.ingestReportString>正在喝{0}。</Patreonbrew.ingestible.ingestReportString>
-
-
+  
+  <!-- EN: Rum -->
+  <rum.label>朗姆酒</rum.label>
+  <!-- EN: A bottle filled with alcoholic rum. Why is the rum gone? -->
+  <rum.description>朗姆酒都到去哪了？</rum.description>
+  <!-- EN: Drink {0} -->
+  <rum.ingestible.ingestCommandString>喝{0}</rum.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <rum.ingestible.ingestReportString>正在喝{0}。</rum.ingestible.ingestReportString>
+  
+  <!-- EN: Sake -->
+  <saki.label>清酒</saki.label>
+  <!-- EN: A bottle of crisp, refreshing alcohol made from rice. -->
+  <saki.description>一种由稻米酿成的清爽可口的酒。</saki.description>
+  <!-- EN: Drink {0} -->
+  <saki.ingestible.ingestCommandString>喝{0}</saki.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <saki.ingestible.ingestReportString>正在喝{0}。</saki.ingestible.ingestReportString>
+  
+  <!-- EN: Berry Wine -->
+  <strawberrywine.label>浆果酒</strawberrywine.label>
+  <!-- EN: A bottle of sweet, pinkish alcohol made from strawberries. -->
+  <strawberrywine.description>一种由草莓酿成的粉红色甜酒精饮品。</strawberrywine.description>
+  <!-- EN: Drink {0} -->
+  <strawberrywine.ingestible.ingestCommandString>喝{0}</strawberrywine.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <strawberrywine.ingestible.ingestReportString>正在喝{0}。</strawberrywine.ingestible.ingestReportString>
+  
+  <!-- EN: Tequila -->
+  <tequila.label>龙舌兰酒</tequila.label>
+  <!-- EN: A potent liquor made of agave. It has a picture of what looks like a naked and inebriated female cat person on the bottle. Once discovered by a certain Orassan, she quickly perfected the recipe and it became a very popular drink on Orassia and developed an even more storied reputation. -->
+  <tequila.description>用龙舌兰制成的烈性酒。它在瓶子上印有一张看起来像是裸体的醉酒雌猫人的照片。一开始这种酒是被某个奥瑞森人所发现，于是她迅速完善并优化了配方，使其成为奥瑞森人中的上层人士非常喜欢的饮料，并赢得了更为传奇的声誉。</tequila.description>
+  <!-- EN: Drink {0} -->
+  <tequila.ingestible.ingestCommandString>喝{0}</tequila.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <tequila.ingestible.ingestReportString>正在喝{0}。</tequila.ingestible.ingestReportString>
+  
+  <!-- EN: Vodka -->
+  <vodka.label>伏特加</vodka.label>
+  <!-- EN: A bottle of clear, potato-based alcohol. -->
+  <vodka.description>一种由马铃薯酿成的蒸馏酒。</vodka.description>
+  <!-- EN: Drink {0} -->
+  <vodka.ingestible.ingestCommandString>喝{0}</vodka.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <vodka.ingestible.ingestReportString>正在喝{0}。</vodka.ingestible.ingestReportString>
+  
+  <!-- EN: Whiskey -->
+  <whisky.label>威士忌</whisky.label>
+  <!-- EN: A bottle of golden, corn-based alcohol. -->
+  <whisky.description>一种由玉米酿成的金黄色的酒。</whisky.description>
+  <!-- EN: Drink {0} -->
+  <whisky.ingestible.ingestCommandString>喝{0}</whisky.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <whisky.ingestible.ingestReportString>正在喝{0}。</whisky.ingestible.ingestReportString>
+  
+  <!-- EN: Wine -->
+  <Wine.label>葡萄酒</Wine.label>
+  <!-- EN: A sweet alcohol from grapes. From private Reserves often stolen and smuggled. -->
+  <Wine.description>一种由葡萄酿成的甜酒精饮品。</Wine.description>
+  <!-- EN: Drink {0} -->
+  <Wine.ingestible.ingestCommandString>喝{0}</Wine.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Wine.ingestible.ingestReportString>正在喝{0}。</Wine.ingestible.ingestReportString>
+  
 </LanguageData>

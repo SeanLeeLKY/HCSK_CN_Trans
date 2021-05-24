@@ -1,53 +1,84 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: boreal archipelago -->
   <BorealArchipelago.label>北地群岛</BorealArchipelago.label>
+  <!-- EN: A chain of cold, forested islands. -->
   <BorealArchipelago.description>覆盖森林的寒带岛屿。</BorealArchipelago.description>
-
-  <ColdBogArchipelago.label>冷沼群岛</ColdBogArchipelago.label>
-  <ColdBogArchipelago.description>寒冷的沼泽群岛。</ColdBogArchipelago.description>
-
-  <DesertArchipelago.label>沙漠群岛</DesertArchipelago.label>
-  <DesertArchipelago.description>传统类型的荒岛。</DesertArchipelago.description>
-
-  <TemperateArchipelago.label>温带群岛</TemperateArchipelago.label>
-  <TemperateArchipelago.description>一片舒适宜人的森林岛屿。</TemperateArchipelago.description>
-
-  <TemperateSwampArchipelago.label>温带沼泽群岛</TemperateSwampArchipelago.label>
-  <TemperateSwampArchipelago.description>温带沼泽岛屿。</TemperateSwampArchipelago.description>
-
-  <TropicalArchipelago.label>热带群岛</TropicalArchipelago.label>
-  <TropicalArchipelago.description>覆盖热带森林的岛屿。</TropicalArchipelago.description>
-
-  <TropicalSwampArchipelago.label>热带沼泽群岛</TropicalSwampArchipelago.label>
-  <TropicalSwampArchipelago.description>布满热带沼泽的岛屿。</TropicalSwampArchipelago.description>
-
-  <TundraArchipelago.label>冻原群岛</TundraArchipelago.label>
-  <TundraArchipelago.description>典型的寒带冻原荒岛。</TundraArchipelago.description>
-
+  
+  <!-- EN: boreal archipelago (lake) -->
   <BorealArchipelago_Fresh.label>北地群岛（湖）</BorealArchipelago_Fresh.label>
+  <!-- EN: A chain of cold, forested islands. -->
   <BorealArchipelago_Fresh.description>覆盖森林的寒带岛屿。</BorealArchipelago_Fresh.description>
-
+  
+  <!-- EN: cold bog archipelago -->
+  <ColdBogArchipelago.label>冷沼群岛</ColdBogArchipelago.label>
+  <!-- EN: A chain of cold, marshy islands. -->
+  <ColdBogArchipelago.description>寒冷的沼泽群岛。</ColdBogArchipelago.description>
+  
+  <!-- EN: cold bog archipelago (lake) -->
   <ColdBogArchipelago_Fresh.label>冷沼群岛（湖）</ColdBogArchipelago_Fresh.label>
+  <!-- EN: A chain of cold, marshy islands. -->
   <ColdBogArchipelago_Fresh.description>寒冷的沼泽群岛。</ColdBogArchipelago_Fresh.description>
-
+  
+  <!-- EN: desert archipelago -->
+  <DesertArchipelago.label>沙漠群岛</DesertArchipelago.label>
+  <!-- EN: A chain of classic (cliche?) desert islands. -->
+  <DesertArchipelago.description>传统类型的荒岛。</DesertArchipelago.description>
+  
+  <!-- EN: desert archipelago (lake) -->
   <DesertArchipelago_Fresh.label>沙漠群岛（湖）</DesertArchipelago_Fresh.label>
+  <!-- EN: A chain of classic (cliche?) desert islands. -->
   <DesertArchipelago_Fresh.description>传统类型的荒岛。</DesertArchipelago_Fresh.description>
-
+  
+  <!-- EN: temperate archipelago -->
+  <TemperateArchipelago.label>温带群岛</TemperateArchipelago.label>
+  <!-- EN: A chain of pleasant, forested islands. -->
+  <TemperateArchipelago.description>一片舒适宜人的森林岛屿。</TemperateArchipelago.description>
+  
+  <!-- EN: temperate archipelago (lake) -->
   <TemperateArchipelago_Fresh.label>温带群岛（湖）</TemperateArchipelago_Fresh.label>
+  <!-- EN: A chain of pleasant, forested islands. -->
   <TemperateArchipelago_Fresh.description>一片宜人的森林岛屿。</TemperateArchipelago_Fresh.description>
-
+  
+  <!-- EN: temperate swamp archipelago -->
+  <TemperateSwampArchipelago.label>温带沼泽群岛</TemperateSwampArchipelago.label>
+  <!-- EN: A chain of temperate swampy islands. -->
+  <TemperateSwampArchipelago.description>温带沼泽岛屿。</TemperateSwampArchipelago.description>
+  
+  <!-- EN: temperate swamp archipelago (lake) -->
   <TemperateSwampArchipelago_Fresh.label>温带沼泽群岛（湖）</TemperateSwampArchipelago_Fresh.label>
+  <!-- EN: A chain of temperate swampy islands. -->
   <TemperateSwampArchipelago_Fresh.description>温带沼泽的岛屿。</TemperateSwampArchipelago_Fresh.description>
-
+  
+  <!-- EN: tropical archipelago -->
+  <TropicalArchipelago.label>热带群岛</TropicalArchipelago.label>
+  <!-- EN: A chain of tropical islands. -->
+  <TropicalArchipelago.description>覆盖热带森林的岛屿。</TropicalArchipelago.description>
+  
+  <!-- EN: tropical archipelago (lake) -->
   <TropicalArchipelago_Fresh.label>热带群岛（湖）</TropicalArchipelago_Fresh.label>
+  <!-- EN: A chain of tropical islands. -->
   <TropicalArchipelago_Fresh.description>覆盖热带森林的岛屿。</TropicalArchipelago_Fresh.description>
-
+  
+  <!-- EN: tropical swamp archipelago -->
+  <TropicalSwampArchipelago.label>热带沼泽群岛</TropicalSwampArchipelago.label>
+  <!-- EN: A chain of swampy tropical islands. -->
+  <TropicalSwampArchipelago.description>布满热带沼泽的岛屿。</TropicalSwampArchipelago.description>
+  
+  <!-- EN: tropical swamp archipelago (lake) -->
   <TropicalSwampArchipelago_Fresh.label>热带沼泽群岛（湖）</TropicalSwampArchipelago_Fresh.label>
+  <!-- EN: A chain of swampy tropical islands. -->
   <TropicalSwampArchipelago_Fresh.description>布满热带沼泽的岛屿。</TropicalSwampArchipelago_Fresh.description>
-
+  
+  <!-- EN: tundra archipelago -->
+  <TundraArchipelago.label>冻原群岛</TundraArchipelago.label>
+  <!-- EN: A chain of cold, desolate islands. -->
+  <TundraArchipelago.description>典型的寒带冻原荒岛。</TundraArchipelago.description>
+  
+  <!-- EN: tundra archipelago (lake) -->
   <TundraArchipelago_Fresh.label>冻原群岛（湖）</TundraArchipelago_Fresh.label>
+  <!-- EN: A chain of cold, desolate islands. -->
   <TundraArchipelago_Fresh.description>典型的寒带冻原荒岛。</TundraArchipelago_Fresh.description>
-
-
+  
 </LanguageData>

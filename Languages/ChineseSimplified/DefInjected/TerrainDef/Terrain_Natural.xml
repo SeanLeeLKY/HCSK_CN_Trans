@@ -1,80 +1,109 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Standard soils -->
-
-  <Soil.label>土地</Soil.label>
-  <Soil.tools.0.label>尘土</Soil.tools.0.label>
-
-  <MossyTerrain.label>苔藓地面</MossyTerrain.label>
-
-  <MarshyTerrain.label>湿软土地</MarshyTerrain.label>
-  <MarshyTerrain.tools.0.label>泥地</MarshyTerrain.tools.0.label>
-
-
-  <!-- Rich soils -->
-
-  <SoilRich.label>肥沃土地</SoilRich.label>
-  <SoilRich.description>富含肥料以改善作物生长的土壤。肥沃度：150％。</SoilRich.description>
-  <SoilRich.tools.0.label>尘土</SoilRich.tools.0.label>
-
-
-  <!-- Poor soils -->
-
-  <Gravel.label>砂砾</Gravel.label>
-  <Gravel.description>砾石地带是由不同大小的小岩石组成的。可以从上面收集碎石。美观度：-1。</Gravel.description>
-  <Gravel.tools.0.label>砂砾</Gravel.tools.0.label>
-
-
-  <!-- Sand -->
-
-  <Sand.label>沙地</Sand.label>
-  <Sand.description>沙子是细分化的岩石和矿物颗粒。大量分布于沙漠和沙滩。美观度：-1。</Sand.description>
-  <Sand.tools.0.label>沙地</Sand.tools.0.label>
-
-  <SoftSand.label>细沙地</SoftSand.label>
-  <SoftSand.description>沙子是细分化的岩石和矿物颗粒。大量分布于沙漠和沙滩。美观度：-1。</SoftSand.description>
-  <SoftSand.tools.0.label>沙地</SoftSand.tools.0.label>
-
-
-  <!-- Infertile ground -->
-
-  <Mud.label>泥地</Mud.label>
-  <Mud.tools.0.label>泥地</Mud.tools.0.label>
-
-  <Marsh.label>沼泽</Marsh.label>
-  <Marsh.tools.0.label>泥地</Marsh.tools.0.label>
-
-  <SavannaSoil.label>草原土地</SavannaSoil.label>
-  <SavannaSoil.tools.0.label>尘土</SavannaSoil.tools.0.label>
-
-  <RockySoil.label>石砾</RockySoil.label>
-  <RockySoil.description>全是石渣的土地，植被稀少。肥沃度：30%。</RockySoil.description>
-  <RockySoil.tools.0.label>尘土</RockySoil.tools.0.label>
-
-  <Topsoil.label>表土</Topsoil.label>
-  <Topsoil.description>普通的土壤，可以用于种植。肥沃度：100%。</Topsoil.description>
-  <Topsoil.tools.0.label>尘土</Topsoil.tools.0.label>
-
+  
+  <!-- EN: fertilized topsoil -->
   <DirtFert.label>肥化表土</DirtFert.label>
+  <!-- EN: Fertilized soil, good for plant growth.\nFertility: 140%. -->
   <DirtFert.description>施肥处理过的表土，优质的植物种植土壤。肥沃度：140%。</DirtFert.description>
-  <DirtFert.tools.0.label>尘土</DirtFert.tools.0.label>
-
-  <SoilTilled.label>精耕土地</SoilTilled.label>
-  <SoilTilled.description>精细处理的耕作土壤。肥沃度：180%。</SoilTilled.description>
-  <SoilTilled.tools.0.label>尘土</SoilTilled.tools.0.label>
-
-  <PoorSoil.label>贫瘠土地</PoorSoil.label>
-  <PoorSoil.description>缺水少肥的土壤，不适合种植。肥沃度：30%。</PoorSoil.description>
-  <PoorSoil.tools.0.label>尘土</PoorSoil.tools.0.label>
-
-  <MarginalSoil.label>边角土地</MarginalSoil.label>
-  <MarginalSoil.description>正常土地的边角地带，不适合用于普通种植。肥沃度：70%。</MarginalSoil.description>
-  <MarginalSoil.tools.0.label>尘土</MarginalSoil.tools.0.label>
-
+  <!-- EN: dirt -->
+  <DirtFert.tools.dirt.label>尘土</DirtFert.tools.dirt.label>
+  
+  <!-- EN: dusty soil -->
   <DustySoil.label>沙化土</DustySoil.label>
+  <!-- EN: Dusty soil, too dry and barren to support plant growth.\nFertility: 40%. -->
   <DustySoil.description>沙漠化的土壤，因为缺水而不适合用于普通种植。肥沃度：40%。</DustySoil.description>
-  <DustySoil.tools.0.label>尘土</DustySoil.tools.0.label>
-
-
+  <!-- EN: dirt -->
+  <DustySoil.tools.dirt.label>尘土</DustySoil.tools.dirt.label>
+  
+  <!-- EN: gravel -->
+  <Gravel.label>砂砾</Gravel.label>
+  <!-- EN: Gravel is a composition of small rocks of varying sizes. Rubble can be gathered from it.\nBeauty: -1. -->
+  <Gravel.description>砾石地带是由不同大小的小岩石组成的。可以从上面收集碎石。美观度：-1。</Gravel.description>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>砂砾</Gravel.tools.gravel.label>
+  
+  <!-- EN: marginal soil -->
+  <MarginalSoil.label>边角土地</MarginalSoil.label>
+  <!-- EN: Marginal soil lacks enough nutrients to support plant growth.\nFertility: 70%. -->
+  <MarginalSoil.description>正常土地的边角地带，不适合用于普通种植。肥沃度：70%。</MarginalSoil.description>
+  <!-- EN: dirt -->
+  <MarginalSoil.tools.dirt.label>尘土</MarginalSoil.tools.dirt.label>
+  
+  <!-- EN: marsh -->
+  <Marsh.label>沼泽</Marsh.label>
+  <!-- EN: mud -->
+  <Marsh.tools.mud.label>泥地</Marsh.tools.mud.label>
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>湿软土地</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>泥地</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>苔藓地面</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>泥地</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>泥地</Mud.tools.mud.label>
+  
+  <!-- EN: poor soil -->
+  <PoorSoil.label>贫瘠土地</PoorSoil.label>
+  <!-- EN: Poor soil lacks the nutrients required to support plant growth.\nFertility: 30%. -->
+  <PoorSoil.description>缺水少肥的土壤，不适合种植。肥沃度：30%。</PoorSoil.description>
+  <!-- EN: dirt -->
+  <PoorSoil.tools.dirt.label>尘土</PoorSoil.tools.dirt.label>
+  
+  <!-- EN: rocky dirt -->
+  <RockySoil.label>石砾</RockySoil.label>
+  <!-- EN: Rocky area, not good for plants.\nFertility: 30%. -->
+  <RockySoil.description>全是石渣的土地，植被稀少。肥沃度：30%。</RockySoil.description>
+  <!-- EN: dirt -->
+  <RockySoil.tools.dirt.label>尘土</RockySoil.tools.dirt.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>沙地</Sand.label>
+  <!-- EN: Sand is finely divided rock and mineral particles. Naturally found on beaches and deserts.\nBeauty: -1. -->
+  <Sand.description>沙子是细分化的岩石和矿物颗粒。大量分布于沙漠和沙滩。美观度：-1。</Sand.description>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>沙地</Sand.tools.sand.label>
+  
+  <!-- EN: savanna soil -->
+  <SavannaSoil.label>草原土地</SavannaSoil.label>
+  <!-- EN: dirt -->
+  <SavannaSoil.tools.dirt.label>尘土</SavannaSoil.tools.dirt.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>细沙地</SoftSand.label>
+  <!-- EN: Sand is finely divided rock and mineral particles. Naturally found on beaches and deserts.\nBeauty: -1. -->
+  <SoftSand.description>沙子是细分化的岩石和矿物颗粒。大量分布于沙漠和沙滩。美观度：-1。</SoftSand.description>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>沙地</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>土地</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>尘土</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>肥沃土地</SoilRich.label>
+  <!-- EN: Soil that has been enriched with Fertilizer to improve crop growth.\nFertility: 150%. -->
+  <SoilRich.description>富含肥料以改善作物生长的土壤。肥沃度：150％。</SoilRich.description>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>尘土</SoilRich.tools.dirt.label>
+  
+  <!-- EN: plowed soil -->
+  <SoilTilled.label>精耕土地</SoilTilled.label>
+  <!-- EN: Plowed soil, excelent for plant growth.\nFertility: 180%. -->
+  <SoilTilled.description>精细处理的耕作土壤。肥沃度：180%。</SoilTilled.description>
+  <!-- EN: dirt -->
+  <SoilTilled.tools.dirt.label>尘土</SoilTilled.tools.dirt.label>
+  
+  <!-- EN: topsoil -->
+  <Topsoil.label>表土</Topsoil.label>
+  <!-- EN: Fertilized soil, alright for plant growth.\nFertility: 100%. -->
+  <Topsoil.description>普通的土壤，可以用于种植。肥沃度：100%。</Topsoil.description>
+  <!-- EN: dirt -->
+  <Topsoil.tools.dirt.label>尘土</Topsoil.tools.dirt.label>
+  
 </LanguageData>

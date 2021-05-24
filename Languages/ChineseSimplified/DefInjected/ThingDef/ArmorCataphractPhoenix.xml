@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: phoenix armor -->
+  <Apparel_ArmorCataphractPhoenix.label>凤凰装甲</Apparel_ArmorCataphractPhoenix.label>
+  <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
+  <Apparel_ArmorCataphractPhoenix.description>一种在肩膀位置安装了燃烧弹发射装置的改进型禁卫装甲。这种改进型的装甲提供的普通防护力略低于标准型，不过却大大提高了火焰抗性。肩式发射器备弹量极其有限，需要及时补充。\n\n凤凰装甲特别适用于狭窄地区的作战清除行动，例如山洞内部或者舰载作战行动。它们能够在战士冲入狭窄走廊的时候提供足量保护，并且迅速焚烧整个空间，然后从容不迫的脱离战斗。</Apparel_ArmorCataphractPhoenix.description>
+  <!-- EN: incendiary -->
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>燃烧弹</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
+  <!-- EN: launch 30x64mm incendiary -->
+  <Apparel_ArmorCataphractPhoenix.verbs.launch_30x64mm_incendiary.label>发射30x64mm燃烧弹</Apparel_ArmorCataphractPhoenix.verbs.launch_30x64mm_incendiary.label>
+  
+</LanguageData>

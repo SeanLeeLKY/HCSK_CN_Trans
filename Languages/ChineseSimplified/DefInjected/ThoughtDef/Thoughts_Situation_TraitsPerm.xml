@@ -1,17 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MoodOffsetReligious.stages.0.label>虔诚</MoodOffsetReligious.stages.0.label>
-  <MoodOffsetReligious.stages.0.description>虔诚特性的自然加成。</MoodOffsetReligious.stages.0.description>
-
-  <MoodOffsetNaive.stages.0.label>天真</MoodOffsetNaive.stages.0.label>
-  <MoodOffsetNaive.stages.0.description>天真特性的自然加成。</MoodOffsetNaive.stages.0.description>
-
-  <MoodOffsetFanatic.stages.0.label>狂热</MoodOffsetFanatic.stages.0.label>
-  <MoodOffsetFanatic.stages.0.description>狂热特性的自然加成。</MoodOffsetFanatic.stages.0.description>
-
-  <MoodOffsetNumb.stages.0.label>无情</MoodOffsetNumb.stages.0.label>
-  <MoodOffsetNumb.stages.0.description>无情特性的自然加成。</MoodOffsetNumb.stages.0.description>
-
-
+  
+  <!-- EN: fanatic -->
+  <MoodOffsetFanatic.stages.fanatic.label>狂热</MoodOffsetFanatic.stages.fanatic.label>
+  <!-- EN: Natural bonus from Fanatic trait. -->
+  <MoodOffsetFanatic.stages.fanatic.description>狂热特性的自然加成。</MoodOffsetFanatic.stages.fanatic.description>
+  
+  <!-- EN: naive -->
+  <MoodOffsetNaive.stages.naive.label>天真</MoodOffsetNaive.stages.naive.label>
+  <!-- EN: Natural bonus from Naive trait. -->
+  <MoodOffsetNaive.stages.naive.description>天真特性的自然加成。</MoodOffsetNaive.stages.naive.description>
+  
+  <!-- EN: numb -->
+  <MoodOffsetNumb.stages.numb.label>无情</MoodOffsetNumb.stages.numb.label>
+  <!-- EN: Natural bonus from Numb trait. -->
+  <MoodOffsetNumb.stages.numb.description>无情特性的自然加成。</MoodOffsetNumb.stages.numb.description>
+  
+  <!-- EN: religious -->
+  <MoodOffsetReligious.stages.religious.label>虔诚</MoodOffsetReligious.stages.religious.label>
+  <!-- EN: Natural bonus from Religious trait. -->
+  <MoodOffsetReligious.stages.religious.description>虔诚特性的自然加成。</MoodOffsetReligious.stages.religious.description>
+  
 </LanguageData>

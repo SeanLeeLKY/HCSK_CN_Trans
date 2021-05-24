@@ -1,31 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Floors -->
-
-  <TikiFloorBamboo.label>竹条地板</TikiFloorBamboo.label>
-  <TikiFloorBamboo.description>温馨的条形地板。美观度：1。</TikiFloorBamboo.description>
-
-  <TikiFloorDark.label>暗条地板</TikiFloorDark.label>
-  <TikiFloorDark.description>温馨的暗色条形地板。美观度：1。</TikiFloorDark.description>
-
-  <TikiFloorLight.label>亮条地板</TikiFloorLight.label>
-  <TikiFloorLight.description>温馨的亮色条形地板。美观度：1。</TikiFloorLight.description>
-
-  <TikiFloorFancy.label>花条地板</TikiFloorFancy.label>
-  <TikiFloorFancy.description>温馨的花式条形地板。美观度：3。</TikiFloorFancy.description>
-
+  
+  <!-- EN: log floor -->
   <LogFloor.label>原木地板</LogFloor.label>
+  <!-- EN: A simple log floor.\nBeauty: 1. -->
   <LogFloor.description>简单的原木地板。美观度：1。</LogFloor.description>
-
+  
+  <!-- EN: thatch floor -->
   <ThatchFloor.label>茅草地板</ThatchFloor.label>
+  <!-- EN: A primitive thatch floor.\nBeauty: 1. -->
   <ThatchFloor.description>粗犷的茅草地板。美观度：1。</ThatchFloor.description>
-
+  
+  <!-- EN: bamboo tiki floor -->
+  <TikiFloorBamboo.label>竹条地板</TikiFloorBamboo.label>
+  <!-- EN: A nice bamboo tiki floor. \nBeauty: 1. -->
+  <TikiFloorBamboo.description>温馨的条形地板。美观度：1。</TikiFloorBamboo.description>
+  
+  <!-- EN: dark tiki floor -->
+  <TikiFloorDark.label>暗条地板</TikiFloorDark.label>
+  <!-- EN: A nice dark tiki floor. \nBeauty: 1. -->
+  <TikiFloorDark.description>温馨的暗色条形地板。美观度：1。</TikiFloorDark.description>
+  
+  <!-- EN: fancy tiki floor -->
+  <TikiFloorFancy.label>花条地板</TikiFloorFancy.label>
+  <!-- EN: A nice fancy tiki floor with gold inlays.\nBeauty: 3. -->
+  <TikiFloorFancy.description>温馨的花式条形地板。美观度：3。</TikiFloorFancy.description>
+  
+  <!-- EN: light tiki floor -->
+  <TikiFloorLight.label>亮条地板</TikiFloorLight.label>
+  <!-- EN: A nice light tiki floor.\nBeauty: 1. -->
+  <TikiFloorLight.description>温馨的亮色条形地板。美观度：1。</TikiFloorLight.description>
+  
+  <!-- EN: weave floor -->
   <WeaveFloor.label>编织地板</WeaveFloor.label>
+  <!-- EN: A nice woven floor.\nBeauty: 1. -->
   <WeaveFloor.description>整齐的编织地板。美观度：1。</WeaveFloor.description>
-
+  
+  <!-- EN: woven leaf floor -->
   <WovenLeafFloor.label>叶编地板</WovenLeafFloor.label>
+  <!-- EN: A nice woven leaf floor.\nBeauty: 1. -->
   <WovenLeafFloor.description>整齐的叶编地板。美观度：1。</WovenLeafFloor.description>
-
-
+  
 </LanguageData>

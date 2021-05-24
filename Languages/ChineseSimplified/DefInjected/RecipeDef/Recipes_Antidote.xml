@@ -1,29 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MakeAntidoteSimple.label>制造 简易解毒剂</MakeAntidoteSimple.label>
-  <MakeAntidoteSimple.description>使用毒腺制造简易解毒剂。产出：1。</MakeAntidoteSimple.description>
-  <MakeAntidoteSimple.jobString>正在制造 简易解毒剂</MakeAntidoteSimple.jobString>
-
-  <MakeAntidoteSafe.label>制造 安全解毒剂</MakeAntidoteSafe.label>
-  <MakeAntidoteSafe.description>使用毒腺制造安全解毒剂。产出：1。</MakeAntidoteSafe.description>
-  <MakeAntidoteSafe.jobString>正在制造 安全解毒剂</MakeAntidoteSafe.jobString>
-
-  <EnterBasicAntidote.label>移除 毒素</EnterBasicAntidote.label>
-  <EnterBasicAntidote.description>清除体内毒素。中毒的伤口可能会添加新毒素。</EnterBasicAntidote.description>
-  <EnterBasicAntidote.jobString>正在移除 毒素</EnterBasicAntidote.jobString>
-
+  
+  <!-- EN: Cure poison arrow hit -->
   <CurePoisonArrow.label>治疗 毒箭伤</CurePoisonArrow.label>
+  <!-- EN: Completely heals a poisoned arrow hit -->
   <CurePoisonArrow.description>治疗毒箭伤。</CurePoisonArrow.description>
+  <!-- EN: Removing poison arrow hit -->
   <CurePoisonArrow.jobString>正在移除 毒箭伤</CurePoisonArrow.jobString>
-
-  <CurePoisonScratch.label>治疗 毒性抓伤</CurePoisonScratch.label>
-  <CurePoisonScratch.description>治疗毒性抓伤。</CurePoisonScratch.description>
-  <CurePoisonScratch.jobString>正在移除 毒性抓伤</CurePoisonScratch.jobString>
-
+  
+  <!-- EN: Cure poison bite -->
   <CurePoisonBite.label>治疗 毒性咬伤</CurePoisonBite.label>
+  <!-- EN: Completely heals a poisoned bite -->
   <CurePoisonBite.description>治疗毒性咬伤。</CurePoisonBite.description>
+  <!-- EN: Removing poison bite -->
   <CurePoisonBite.jobString>正在移除 毒性咬伤</CurePoisonBite.jobString>
-
-
+  
+  <!-- EN: Cure poison scratch -->
+  <CurePoisonScratch.label>治疗 毒性抓伤</CurePoisonScratch.label>
+  <!-- EN: Completely heals a poisoned scratch -->
+  <CurePoisonScratch.description>治疗毒性抓伤。</CurePoisonScratch.description>
+  <!-- EN: Removing poison scratch -->
+  <CurePoisonScratch.jobString>正在移除 毒性抓伤</CurePoisonScratch.jobString>
+  
+  <!-- EN: Remove poison -->
+  <EnterBasicAntidote.label>移除 毒素</EnterBasicAntidote.label>
+  <!-- EN: Removes poison from the body. New poison can come from poisoned wounds. -->
+  <EnterBasicAntidote.description>清除体内毒素。中毒的伤口可能会添加新毒素。</EnterBasicAntidote.description>
+  <!-- EN: Removing poison -->
+  <EnterBasicAntidote.jobString>正在移除 毒素</EnterBasicAntidote.jobString>
+  
+  <!-- EN: Make safe antidote -->
+  <MakeAntidoteSafe.label>制造 安全解毒剂</MakeAntidoteSafe.label>
+  <!-- EN: Make safe antidote from poison gland. Produces 1. -->
+  <MakeAntidoteSafe.description>使用毒腺制造安全解毒剂。产出：1。</MakeAntidoteSafe.description>
+  <!-- EN: Making safe antidote -->
+  <MakeAntidoteSafe.jobString>正在制造 安全解毒剂</MakeAntidoteSafe.jobString>
+  
+  <!-- EN: Make simple antidote -->
+  <MakeAntidoteSimple.label>制造 简易解毒剂</MakeAntidoteSimple.label>
+  <!-- EN: Make simple antidote from poison gland. Produces 1. -->
+  <MakeAntidoteSimple.description>使用毒腺制造简易解毒剂。产出：1。</MakeAntidoteSimple.description>
+  <!-- EN: Making simple antidote -->
+  <MakeAntidoteSimple.jobString>正在制造 简易解毒剂</MakeAntidoteSimple.jobString>
+  
 </LanguageData>

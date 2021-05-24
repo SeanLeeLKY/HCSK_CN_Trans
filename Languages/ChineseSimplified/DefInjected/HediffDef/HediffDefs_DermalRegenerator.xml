@@ -1,9 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: dermal regenerator sickness -->
   <DermalRegeneratorSickness.label>真皮再生疾病</DermalRegeneratorSickness.label>
+  <!-- EN: Weakness after skin regeneration -->
   <DermalRegeneratorSickness.description>皮肤再造后的并发虚弱状态。</DermalRegeneratorSickness.description>
+  <!-- EN: a dermal regenerator sickness -->
   <DermalRegeneratorSickness.labelNoun>真皮再生疾病</DermalRegeneratorSickness.labelNoun>
-
-
+  
 </LanguageData>

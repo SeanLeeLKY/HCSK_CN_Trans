@@ -1,46 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Medical rib -->
-
-  <MedicalRib.label>医疗肋骨</MedicalRib.label>
-  <MedicalRib.description>一根人造肋骨，内置小型的血液过滤器和抗生素释放器，让使用者的保持健康。</MedicalRib.description>
-
-
-  <!-- Drugged rib -->
-
-  <DruggedRib.label>迷幻肋骨</DruggedRib.label>
-  <DruggedRib.description>一根人造肋骨，内置小型的酒精释放器，让使用者的保持愉悦。</DruggedRib.description>
-
-
-  <!-- Adrenaline rib -->
-
+  
+  <!-- EN: adrenaline rib replacement -->
   <AdrenalineRib.label>肾上腺素肋骨</AdrenalineRib.label>
+  <!-- EN: An artificial rib, equipped with little adrenaline-dispensers to keep the user fit and awake. -->
   <AdrenalineRib.description>一根人造肋骨，内置小型的肾上腺素释放器，让使用者的保持活力和清醒。</AdrenalineRib.description>
-
-
-  <!-- Painkiller rib -->
-
-  <PainkillerRib.label>止痛肋骨</PainkillerRib.label>
-  <PainkillerRib.description>一根人造肋骨，内置小型的吗啡释放器，麻痹使用者的痛觉。</PainkillerRib.description>
-
-
-  <!-- Heater rib -->
-
-  <HeaterRib.label>加热肋骨</HeaterRib.label>
-  <HeaterRib.description>一种人工肋骨，包含一个微型反应炉，从内部给身体提供热量。</HeaterRib.description>
-
-
-  <!-- Cooler rib -->
-
-  <CoolerRib.label>冷却肋骨</CoolerRib.label>
-  <CoolerRib.description>一种人工肋骨，包含一个微型冷却装置，从内部给身体降温。</CoolerRib.description>
-
-
-  <!-- Coagulator rib -->
-
+  
+  <!-- EN: coagulator rib replacement -->
   <CoagulatorRib.label>止血肋骨</CoagulatorRib.label>
+  <!-- EN: An artificial rib, equipped with little coagulator-dispensers that responds to blood loss, which will make the blood clot easier, in an effort to reduce bleeding. -->
   <CoagulatorRib.description>一种人工肋骨，包含一个微型凝血装置，受伤时可以帮助及时止血。</CoagulatorRib.description>
-
-
+  
+  <!-- EN: cooling rib replacement -->
+  <CoolerRib.label>冷却肋骨</CoolerRib.label>
+  <!-- EN: An artificial rib with a micro coolant system, increasing the effectiveness of heat exchange via dermal exhausts. -->
+  <CoolerRib.description>一种人工肋骨，包含一个微型冷却装置，从内部给身体降温。</CoolerRib.description>
+  
+  <!-- EN: drugged rib replacement -->
+  <DruggedRib.label>迷幻肋骨</DruggedRib.label>
+  <!-- EN: An artificial rib, equipped with little flake-dispensers to keep the user happy. Synthetic liver highly recommended. -->
+  <DruggedRib.description>一根人造肋骨，内置小型的酒精释放器，让使用者的保持愉悦。</DruggedRib.description>
+  
+  <!-- EN: heating rib replacement -->
+  <HeaterRib.label>加热肋骨</HeaterRib.label>
+  <!-- EN: An artificial rib, containing a micro-reactor powered, heat inducing spiral to warm the body from the inside. -->
+  <HeaterRib.description>一种人工肋骨，包含一个微型反应炉，从内部给身体提供热量。</HeaterRib.description>
+  
+  <!-- EN: medical rib replacement -->
+  <MedicalRib.label>医疗肋骨</MedicalRib.label>
+  <!-- EN: An artificial rib, equipped with little blood filters and antibiotics-dispensers to keep the user healthy. -->
+  <MedicalRib.description>一根人造肋骨，内置小型的血液过滤器和抗生素释放器，让使用者的保持健康。</MedicalRib.description>
+  
+  <!-- EN: painkiller rib replacement -->
+  <PainkillerRib.label>止痛肋骨</PainkillerRib.label>
+  <!-- EN: An artificial rib, equipped with little morphine-dispensers to numb the user's pain. -->
+  <PainkillerRib.description>一根人造肋骨，内置小型的吗啡释放器，麻痹使用者的痛觉。</PainkillerRib.description>
+  
 </LanguageData>

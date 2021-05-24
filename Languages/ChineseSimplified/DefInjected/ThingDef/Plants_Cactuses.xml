@@ -1,13 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Cactus -->
-
-  <Plant_SaguaroCactus.label>巨柱仙人掌</Plant_SaguaroCactus.label>
-  <Plant_SaguaroCactus.description>巨柱仙人掌原产于沙漠和干旱的环境。当它完全长成时，它可以产出少量的木材。</Plant_SaguaroCactus.description>
-
+  
+  <!-- EN: pincushion cactus -->
   <Plant_PincushionCactus.label>针垫掌</Plant_PincushionCactus.label>
+  <!-- EN: A pincushion cactus is a short, round cactus with long pin-like needles. It is native to desert and arid environments. -->
   <Plant_PincushionCactus.description>针垫掌是一种短而圆的仙人掌，上面长着像大头针一样的针。它原产于沙漠和干旱的环境。</Plant_PincushionCactus.description>
-
-
+  
+  <!-- EN: saguaro cactus -->
+  <Plant_SaguaroCactus.label>巨柱仙人掌</Plant_SaguaroCactus.label>
+  <!-- EN: The saguaro cactus is native to desert and arid environments. When fully grown, it can be chopped for a small amount of wood. -->
+  <Plant_SaguaroCactus.description>巨柱仙人掌原产于沙漠和干旱的环境。当它完全长成时，它可以产出少量的木材。</Plant_SaguaroCactus.description>
+  
 </LanguageData>

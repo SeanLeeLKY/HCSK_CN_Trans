@@ -1,17 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MakeMiningHelmet.label>制造 采矿头盔</MakeMiningHelmet.label>
-  <MakeMiningHelmet.description>制造一顶采矿用头盔。自带一点移动光源，并且能提高采矿速度。 \n\n产出：1。</MakeMiningHelmet.description>
-  <MakeMiningHelmet.jobString>正在制造 采矿头盔。</MakeMiningHelmet.jobString>
-
-  <MakeCPS.label>制造 生化防护服</MakeCPS.label>
-  <MakeCPS.description>生化防护服（就是众所周知的“三防服”）可以保护人们免受有害物质的侵袭，其中包括化学品、生物制剂和放射性物质。 \n\n产出：1。</MakeCPS.description>
-  <MakeCPS.jobString>正在制造 生化防护服。</MakeCPS.jobString>
-
+  
+  <!-- EN: Fabricate chemical protection helmet -->
   <MakeCPH.label>制造 生化防护服头盔</MakeCPH.label>
+  <!-- EN: A part of the chemical protection suit (also known as a hazmat suit). Protects people from hazardous materials or substances including chemicals, biological agents or radioactive materials. Produces 1. -->
   <MakeCPH.description>生化防护服（就是众所周知的“三防服”）的一个重要组成部分。 可以保护人们免受有害物质的侵袭，其中包括化学品、生物制剂和放射性物质。 \n\n产出：1。</MakeCPH.description>
+  <!-- EN: Making a Chemical Protection Helmet. -->
   <MakeCPH.jobString>正在制造 生化防护服头盔。</MakeCPH.jobString>
-
-
+  
+  <!-- EN: Fabricate chemical protection suit -->
+  <MakeCPS.label>制造 生化防护服</MakeCPS.label>
+  <!-- EN: A chemical protection suit (also known as a hazmat suit) can protect people from hazardous materials or substances including chemicals, biological agents or radioactive materials. Produces 1. -->
+  <MakeCPS.description>生化防护服（就是众所周知的“三防服”）可以保护人们免受有害物质的侵袭，其中包括化学品、生物制剂和放射性物质。 \n\n产出：1。</MakeCPS.description>
+  <!-- EN: Making a Chemical Protection Suit. -->
+  <MakeCPS.jobString>正在制造 生化防护服。</MakeCPS.jobString>
+  
+  <!-- EN: Craft mining helmet -->
+  <MakeMiningHelmet.label>制造 采矿头盔</MakeMiningHelmet.label>
+  <!-- EN: Crafts a mining helmet. Has a built in light and increases mining speed. Produces 1. -->
+  <MakeMiningHelmet.description>制造一顶采矿用头盔。自带一点移动光源，并且能提高采矿速度。 \n\n产出：1。</MakeMiningHelmet.description>
+  <!-- EN: Crafting a mining helmet. -->
+  <MakeMiningHelmet.jobString>正在制造 采矿头盔。</MakeMiningHelmet.jobString>
+  
 </LanguageData>

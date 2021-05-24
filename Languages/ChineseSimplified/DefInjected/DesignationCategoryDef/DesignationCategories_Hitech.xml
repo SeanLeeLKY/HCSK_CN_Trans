@@ -1,31 +1,40 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Production.label>生产</Production.label>
-  <Furniture.label>家具</Furniture.label>
+  
+  <!-- EN: Accessories -->
   <Accessories.label>辅助建筑</Accessories.label>
-  <Security.label>防卫</Security.label>
-  <Power.label>电力</Power.label>
+  
+  <!-- EN: Home Floors -->
   <Floors.label>室内地板</Floors.label>
-  <OutsideFloors.label>特殊地板</OutsideFloors.label>
-  <Misc.label>杂项</Misc.label>
-  <NaturalFloors.label>自然地板</NaturalFloors.label>
-  <Ship.label>飞船</Ship.label>
-  <Temperature.label>温度</Temperature.label>
+  
+  <!-- EN: Furniture -->
+  <Furniture.label>家具</Furniture.label>
+  
+  <!-- EN: Joy -->
   <Joy.label>娱乐</Joy.label>
-
-
-  <!--<Production.description>用于生产产品的建筑。</Production.description>-->
-  <!--<Furniture.description>家具建筑。</Furniture.description>-->
-  <!--<Accessories.description>小型辅助建筑。</Accessories.description>-->
-  <!--<Security.description>防卫和战斗相关的工事、设施。</Security.description>-->
-  <!--<Power.description>发电、输电和管理电网的设施。</Power.description>-->
-  <!--<Floors.description>木质地板或者各种地毯。</Floors.description>-->
-  <!--<OutsideFloors.description>金属地板或者种植土壤。</OutsideFloors.description>-->
-  <!--<Misc.description>各种杂项建造。</Misc.description>-->
-  <!--<NaturalFloors.description>石头、沙子或者粘土类型的地板。</NaturalFloors.description>-->
-  <!--<Ship.description>你逃离星球所必需的飞船零部件。</Ship.description>-->
-  <!--<Temperature.description>用于控制温度的各种设备。</Temperature.description>-->
-  <!--<Joy.description>让殖民者享受娱乐的设施。</Joy.description>-->
-
+  
+  <!-- EN: Misc -->
+  <Misc.label>杂项</Misc.label>
+  
+  <!-- EN: Natural Floors -->
+  <NaturalFloors.label>自然地板</NaturalFloors.label>
+  
+  <!-- EN: Special Floors -->
+  <OutsideFloors.label>特殊地板</OutsideFloors.label>
+  
+  <!-- EN: Power -->
+  <Power.label>电力</Power.label>
+  
+  <!-- EN: Production -->
+  <Production.label>生产</Production.label>
+  
+  <!-- EN: Security -->
+  <Security.label>防卫</Security.label>
+  
+  <!-- EN: Ship -->
+  <Ship.label>飞船</Ship.label>
+  
+  <!-- EN: Temperature -->
+  <Temperature.label>温度</Temperature.label>
+  
 </LanguageData>

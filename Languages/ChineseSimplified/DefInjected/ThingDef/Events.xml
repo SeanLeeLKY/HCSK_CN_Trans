@@ -1,101 +1,119 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <GENcounter.label>未定义的污秽</GENcounter.label>
-  <GENcounter.description>时钟</GENcounter.description>
-
-  <EQcounter.label>未定义的污秽</EQcounter.label>
-  <EQcounter.description>时钟</EQcounter.description>
-
-  <MTcounter.label>未定义的污秽</MTcounter.label>
-  <MTcounter.description>时钟</MTcounter.description>
-
-  <MTRcounter.label>未定义的污秽</MTRcounter.label>
-  <MTRcounter.description>时钟</MTRcounter.description>
-
-  <SCcounter.label>未定义的污秽</SCcounter.label>
-  <SCcounter.description>时钟</SCcounter.description>
-
-  <PCcounter.label>未定义的污秽</PCcounter.label>
-  <PCcounter.description>时钟</PCcounter.description>
-
-  <RADcounter.label>未定义的污秽</RADcounter.label>
-  <RADcounter.description>时钟</RADcounter.description>
-
-  <NFcounter.label>未定义的污秽</NFcounter.label>
-  <NFcounter.description>时钟</NFcounter.description>
-
-  <ORcounter.label>未定义的污秽</ORcounter.label>
-  <ORcounter.description>时钟</ORcounter.description>
-
+  
+  <!-- EN: unspecified filth -->
   <ACcounter.label>未定义的污秽</ACcounter.label>
+  <!-- EN: Ticker -->
   <ACcounter.description>时钟</ACcounter.description>
-
-  <VCcounter.label>未定义的污秽</VCcounter.label>
-  <VCcounter.description>时钟</VCcounter.description>
-
-  <LCcounter.label>未定义的污秽</LCcounter.label>
-  <LCcounter.description>时钟</LCcounter.description>
-
-  <GScounter.label>未定义的污秽</GScounter.label>
-  <GScounter.description>时钟</GScounter.description>
-
+  
+  <!-- EN: radiation filth -->
   <CosmicRAD.label>辐射尘</CosmicRAD.label>
+  <!-- EN: Ticker -->
   <CosmicRAD.description>时钟</CosmicRAD.description>
-
-  <NFRAD.label>辐射尘</NFRAD.label>
-  <NFRAD.description>时钟</NFRAD.description>
-
-  <NuclearStrikeIncoming.label>核打击（临近中）</NuclearStrikeIncoming.label>
-  <OrbitalStrikeIncoming.label>轨道打击（临近中）</OrbitalStrikeIncoming.label>
-  <RazorRainIncoming.label>轨道碎片坠落（临近中）</RazorRainIncoming.label>
-  <Thing_RazorSpawner.label>轨道碎片坠落生成器</Thing_RazorSpawner.label>
-
-
-  <!-- Misc Resources -->
-
-  <VGlower.label>灯</VGlower.label>
-  <ShipChunkIncomingFlame.label>飞船碎片（临近中）</ShipChunkIncomingFlame.label>
-  <FixedMeteoriteIncoming.label>陨石（临近中）</FixedMeteoriteIncoming.label>
-  <FixedMeteoriteIncomingFlame.label>陨石（临近中）</FixedMeteoriteIncomingFlame.label>
-
-
-  <!-- <ThingDef Name="MechanoidShipBase" Abstract="True">
-		<label>Mechanoid ship (incoming)</label>
-		<category>Ethereal</category>
-		<tickerType>Normal</tickerType>
-		<graphicData>
-			<texPath>Things/Building/Genstep/MechanoidShipIncoming</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>(6,6)</drawSize>
-			<shaderType>CutoutFlying</shaderType>
-		</graphicData>
-		<size>(6,6)</size>
-		<altitudeLayer>Skyfaller</altitudeLayer>
-		<drawerType>RealtimeOnly</drawerType>
-		<useHitPoints>false</useHitPoints>
-	</ThingDef>
-
-	<ThingDef ParentName="MechanoidShipBase">
-		<defName>MechanoidShipIncoming</defName>
-		<thingClass>SK.Events.MechanoidShipIncoming</thingClass>
-		<skyfaller>
-			<shadowSize>(3,3)</shadowSize>
-			<explosionRadius>4</explosionRadius>
-			<explosionDamage>Bomb</explosionDamage>
-			<rotateGraphicTowardsDirection>false</rotateGraphicTowardsDirection>
-			<speed>1.2</speed>
-		</skyfaller>
-	</ThingDef> -->
-
+  
+  <!-- EN: Enemy ship (incoming) -->
   <EnemyShipIncoming.label>敌舰（临近中）</EnemyShipIncoming.label>
+  
+  <!-- EN: Enemy ship (incoming) -->
   <EnemyShipOutcome.label>敌舰（临近中）</EnemyShipOutcome.label>
-
+  
+  <!-- EN: Enemy ship -->
   <EnemyShipPart.label>敌舰</EnemyShipPart.label>
+  <!-- EN: An enemy ship. -->
   <EnemyShipPart.description>一艘敌舰。</EnemyShipPart.description>
-
+  
+  <!-- EN: unspecified filth -->
+  <EQcounter.label>未定义的污秽</EQcounter.label>
+  <!-- EN: Ticker -->
+  <EQcounter.description>时钟</EQcounter.description>
+  
+  <!-- EN: meteorite (incoming) -->
+  <FixedMeteoriteIncoming.label>陨石（临近中）</FixedMeteoriteIncoming.label>
+  
+  <!-- EN: meteorite (incoming) -->
+  <FixedMeteoriteIncomingFlame.label>陨石（临近中）</FixedMeteoriteIncomingFlame.label>
+  
+  <!-- EN: unspecified filth -->
+  <GENcounter.label>未定义的污秽</GENcounter.label>
+  <!-- EN: Ticker -->
+  <GENcounter.description>时钟</GENcounter.description>
+  
+  <!-- EN: unspecified filth -->
+  <GScounter.label>未定义的污秽</GScounter.label>
+  <!-- EN: Ticker -->
+  <GScounter.description>时钟</GScounter.description>
+  
+  <!-- EN: unspecified filth -->
+  <LCcounter.label>未定义的污秽</LCcounter.label>
+  <!-- EN: Ticker -->
+  <LCcounter.description>时钟</LCcounter.description>
+  
+  <!-- EN: unspecified filth -->
+  <MTcounter.label>未定义的污秽</MTcounter.label>
+  <!-- EN: Ticker -->
+  <MTcounter.description>时钟</MTcounter.description>
+  
+  <!-- EN: unspecified filth -->
+  <MTRcounter.label>未定义的污秽</MTRcounter.label>
+  <!-- EN: Ticker -->
+  <MTRcounter.description>时钟</MTRcounter.description>
+  
+  <!-- EN: unspecified filth -->
+  <NFcounter.label>未定义的污秽</NFcounter.label>
+  <!-- EN: Ticker -->
+  <NFcounter.description>时钟</NFcounter.description>
+  
+  <!-- EN: radiation filth -->
+  <NFRAD.label>辐射尘</NFRAD.label>
+  <!-- EN: Ticker -->
+  <NFRAD.description>时钟</NFRAD.description>
+  
+  <!-- EN: Nuclear strike (Incoming!) -->
+  <NuclearStrikeIncoming.label>核打击（临近中）</NuclearStrikeIncoming.label>
+  
+  <!-- EN: Orbital strike (Incoming!) -->
+  <OrbitalStrikeIncoming.label>轨道打击（临近中）</OrbitalStrikeIncoming.label>
+  
+  <!-- EN: unspecified filth -->
+  <ORcounter.label>未定义的污秽</ORcounter.label>
+  <!-- EN: Ticker -->
+  <ORcounter.description>时钟</ORcounter.description>
+  
+  <!-- EN: unspecified filth -->
+  <PCcounter.label>未定义的污秽</PCcounter.label>
+  <!-- EN: Ticker -->
+  <PCcounter.description>时钟</PCcounter.description>
+  
+  <!-- EN: unspecified filth -->
+  <RADcounter.label>未定义的污秽</RADcounter.label>
+  <!-- EN: Ticker -->
+  <RADcounter.description>时钟</RADcounter.description>
+  
+  <!-- EN: portal -->
   <RaidPortal.label>入口</RaidPortal.label>
+  <!-- EN: A portal to transport troops. -->
   <RaidPortal.description>传送部队的入口。</RaidPortal.description>
-
-
+  
+  <!-- EN: Razor Rain (Incoming!) -->
+  <RazorRainIncoming.label>轨道碎片坠落（临近中）</RazorRainIncoming.label>
+  
+  <!-- EN: unspecified filth -->
+  <SCcounter.label>未定义的污秽</SCcounter.label>
+  <!-- EN: Ticker -->
+  <SCcounter.description>时钟</SCcounter.description>
+  
+  <!-- EN: ship chunk (incoming) -->
+  <ShipChunkIncomingFlame.label>飞船碎片（临近中）</ShipChunkIncomingFlame.label>
+  
+  <!-- EN: Razor Spawner -->
+  <Thing_RazorSpawner.label>轨道碎片坠落生成器</Thing_RazorSpawner.label>
+  
+  <!-- EN: unspecified filth -->
+  <VCcounter.label>未定义的污秽</VCcounter.label>
+  <!-- EN: Ticker -->
+  <VCcounter.description>时钟</VCcounter.description>
+  
+  <!-- EN: light -->
+  <VGlower.label>灯</VGlower.label>
+  
 </LanguageData>

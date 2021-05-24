@@ -1,13 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <CaffeineHigh.stages.0.label>充满力量的一杯！</CaffeineHigh.stages.0.label>
-  <CaffeineHigh.stages.0.description>我感觉可以开始干活了！</CaffeineHigh.stages.0.description>
-  <CaffeineHigh.stages.1.label>满满的一杯！</CaffeineHigh.stages.1.label>
-  <CaffeineHigh.stages.1.description>哇哦，满满的一杯！</CaffeineHigh.stages.1.description>
-
-  <CaffeineWithdrawal.stages.1.label>酒精戒断</CaffeineWithdrawal.stages.1.label>
-  <CaffeineWithdrawal.stages.1.description>内心无法平静，总感觉不如意！我觉得我应该再喝点！</CaffeineWithdrawal.stages.1.description>
-
-
+  
+  <!-- EN: Had an energizing cup. -->
+  <CaffeineHigh.stages.Had_an_energizing_cup.label>充满力量的一杯！</CaffeineHigh.stages.Had_an_energizing_cup.label>
+  <!-- EN: I feel ready to go. -->
+  <CaffeineHigh.stages.Had_an_energizing_cup.description>我感觉可以开始干活了！</CaffeineHigh.stages.Had_an_energizing_cup.description>
+  <!-- EN: Had a strong cup! -->
+  <CaffeineHigh.stages.Had_a_strong_cup.label>满满的一杯！</CaffeineHigh.stages.Had_a_strong_cup.label>
+  <!-- EN: Whoa, that's some strong drink! -->
+  <CaffeineHigh.stages.Had_a_strong_cup.description>哇哦，满满的一杯！</CaffeineHigh.stages.Had_a_strong_cup.description>
+  
+  <!-- EN: caffeine withdrawal -->
+  <CaffeineWithdrawal.stages.caffeine_withdrawal.label>酒精戒断</CaffeineWithdrawal.stages.caffeine_withdrawal.label>
+  <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking . -->
+  <CaffeineWithdrawal.stages.caffeine_withdrawal.description>内心无法平静，总感觉不如意！我觉得我应该再喝点！</CaffeineWithdrawal.stages.caffeine_withdrawal.description>
+  
 </LanguageData>

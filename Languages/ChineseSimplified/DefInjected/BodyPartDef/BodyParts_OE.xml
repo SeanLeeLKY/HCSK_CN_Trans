@@ -1,11 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Eye.label>眼</Eye.label>
+  
+  <!-- EN: ear -->
   <Ear.label>耳</Ear.label>
-  <Nose.label>鼻</Nose.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>眼</Eye.label>
+  
+  <!-- EN: jaw -->
   <Jaw.label>颌</Jaw.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>鼻</Nose.label>
+  
+  <!-- EN: stomach -->
   <Stomach.label>胃</Stomach.label>
-
-
+  
 </LanguageData>

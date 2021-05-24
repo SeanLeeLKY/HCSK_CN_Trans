@@ -1,15 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Crawler -->
-
-  <PlasmaCutter.label>离子光刃</PlasmaCutter.label>
-
+  
+  <!-- EN: front left leg -->
   <FrontLeftMechanicalLeg.label>左前腿</FrontLeftMechanicalLeg.label>
+  <!-- EN: legs -->
   <FrontLeftMechanicalLeg.labelShort>腿</FrontLeftMechanicalLeg.labelShort>
-
+  
+  <!-- EN: front right leg -->
   <FrontRightMechanicalLeg.label>右前腿</FrontRightMechanicalLeg.label>
+  <!-- EN: legs -->
   <FrontRightMechanicalLeg.labelShort>腿</FrontRightMechanicalLeg.labelShort>
-
-
+  
+  <!-- EN: Plasma cutter -->
+  <PlasmaCutter.label>离子光刃</PlasmaCutter.label>
+  
 </LanguageData>

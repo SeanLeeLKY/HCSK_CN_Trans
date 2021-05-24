@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Campfire meal -->
-
+  
+  <!-- EN: grill fish -->
   <GrillFishCampfire.label>烹制 烤鱼</GrillFishCampfire.label>
+  <!-- EN: Grills a fish so it can be eaten. Tasty and crunchy! -->
   <GrillFishCampfire.description>先准备一条鱼，然后上火慢烤，美味又酥脆！</GrillFishCampfire.description>
+  <!-- EN: Grilling fish. -->
   <GrillFishCampfire.jobString>烤鱼中。</GrillFishCampfire.jobString>
-
-
+  
 </LanguageData>

@@ -1,35 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Hitech -->
-
-  <MeleeWeapon_Tanto.label>武士短刀</MeleeWeapon_Tanto.label>
-  <MeleeWeapon_Tanto.description>一种单刃匕首类近战武器。</MeleeWeapon_Tanto.description>
-  <MeleeWeapon_Tanto.tools.0.label>握把</MeleeWeapon_Tanto.tools.0.label>
-  <MeleeWeapon_Tanto.tools.1.label>刃</MeleeWeapon_Tanto.tools.1.label>
-  <MeleeWeapon_Tanto.tools.2.label>尖</MeleeWeapon_Tanto.tools.2.label>
-
+  
+  <!-- EN: Katana -->
   <MeleeWeapon_Katana.label>武士太刀</MeleeWeapon_Katana.label>
+  <!-- EN: A modern remake of one-handed samurai sword. Comes with laser sharpening. -->
   <MeleeWeapon_Katana.description>单手武士刀的现代翻版。附带光束磨刃功能。</MeleeWeapon_Katana.description>
-  <MeleeWeapon_Katana.tools.0.label>握把</MeleeWeapon_Katana.tools.0.label>
-  <MeleeWeapon_Katana.tools.1.label>尖</MeleeWeapon_Katana.tools.1.label>
-  <MeleeWeapon_Katana.tools.2.label>刃</MeleeWeapon_Katana.tools.2.label>
-
-  <MeleeWeapon_Tsurugi.label>巴斯特之剑</MeleeWeapon_Tsurugi.label>
-  <MeleeWeapon_Tsurugi.description>专为闪耀世界精英士兵设计的双手巨剑。</MeleeWeapon_Tsurugi.description>
-  <MeleeWeapon_Tsurugi.tools.0.label>握把</MeleeWeapon_Tsurugi.tools.0.label>
-  <MeleeWeapon_Tsurugi.tools.1.label>尖</MeleeWeapon_Tsurugi.tools.1.label>
-  <MeleeWeapon_Tsurugi.tools.2.label>刃</MeleeWeapon_Tsurugi.tools.2.label>
-
+  <!-- EN: handle -->
+  <MeleeWeapon_Katana.tools.handle.label>握把</MeleeWeapon_Katana.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Katana.tools.point.label>尖</MeleeWeapon_Katana.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Katana.tools.edge.label>刃</MeleeWeapon_Katana.tools.edge.label>
+  
+  <!-- EN: Sledgehammer -->
   <MeleeWeapon_Sledgehammer.label>大锤</MeleeWeapon_Sledgehammer.label>
+  <!-- EN: A large two-handed hammer. Very popular with the muscular crowd. -->
   <MeleeWeapon_Sledgehammer.description>双手大锤。很受肌肉发达人群的欢迎。</MeleeWeapon_Sledgehammer.description>
-  <MeleeWeapon_Sledgehammer.tools.0.label>握把</MeleeWeapon_Sledgehammer.tools.0.label>
-  <MeleeWeapon_Sledgehammer.tools.1.label>头</MeleeWeapon_Sledgehammer.tools.1.label>
-
-
-  <!--<MeleeWeapon_ScytherBlade.label>飞螳镰刃</MeleeWeapon_ScytherBlade.label>-->
-  <!--<MeleeWeapon_ScytherBlade.description>机械族近战武器。</MeleeWeapon_ScytherBlade.description>-->
-  <!--<MeleeWeapon_ScytherBlade.tools.0.label>尖</MeleeWeapon_ScytherBlade.tools.0.label>-->
-  <!--<MeleeWeapon_ScytherBlade.tools.1.label>刃</MeleeWeapon_ScytherBlade.tools.1.label>-->
-
+  <!-- EN: handle -->
+  <MeleeWeapon_Sledgehammer.tools.handle.label>握把</MeleeWeapon_Sledgehammer.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Sledgehammer.tools.head.label>头</MeleeWeapon_Sledgehammer.tools.head.label>
+  
+  <!-- EN: Tanto -->
+  <MeleeWeapon_Tanto.label>武士短刀</MeleeWeapon_Tanto.label>
+  <!-- EN: A single edged dagger type melee weapon. -->
+  <MeleeWeapon_Tanto.description>一种单刃匕首类近战武器。</MeleeWeapon_Tanto.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Tanto.tools.handle.label>握把</MeleeWeapon_Tanto.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_Tanto.tools.blade.label>刃</MeleeWeapon_Tanto.tools.blade.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Tanto.tools.point.label>尖</MeleeWeapon_Tanto.tools.point.label>
+  
+  <!-- EN: Buster Sword -->
+  <MeleeWeapon_Tsurugi.label>巴斯特之剑</MeleeWeapon_Tsurugi.label>
+  <!-- EN: A huge two-handed sword designed for elite glitterworld soldiers. -->
+  <MeleeWeapon_Tsurugi.description>专为闪耀世界精英士兵设计的双手巨剑。</MeleeWeapon_Tsurugi.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Tsurugi.tools.handle.label>握把</MeleeWeapon_Tsurugi.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Tsurugi.tools.point.label>尖</MeleeWeapon_Tsurugi.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Tsurugi.tools.edge.label>刃</MeleeWeapon_Tsurugi.tools.edge.label>
+  
 </LanguageData>

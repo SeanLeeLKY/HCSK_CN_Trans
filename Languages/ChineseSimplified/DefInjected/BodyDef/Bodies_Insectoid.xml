@@ -1,19 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Antis -->
   <Antis.label>蚁螳</Antis.label>
-  <Antis.corePart.parts.0.customLabel>左鞘翅</Antis.corePart.parts.0.customLabel>
-  <Antis.corePart.parts.1.customLabel>右鞘翅</Antis.corePart.parts.1.customLabel>
-  <Antis.corePart.parts.4.parts.0.customLabel>左前腿</Antis.corePart.parts.4.parts.0.customLabel>
-  <Antis.corePart.parts.4.parts.1.customLabel>右前腿</Antis.corePart.parts.4.parts.1.customLabel>
-  <Antis.corePart.parts.4.parts.2.parts.1.customLabel>左眼</Antis.corePart.parts.4.parts.2.parts.1.customLabel>
-  <Antis.corePart.parts.4.parts.2.parts.2.customLabel>右眼</Antis.corePart.parts.4.parts.2.parts.2.customLabel>
-  <Antis.corePart.parts.4.parts.2.parts.3.customLabel>左触须</Antis.corePart.parts.4.parts.2.parts.3.customLabel>
-  <Antis.corePart.parts.4.parts.2.parts.4.customLabel>右触须</Antis.corePart.parts.4.parts.2.parts.4.customLabel>
-  <Antis.corePart.parts.5.customLabel>左中腿</Antis.corePart.parts.5.customLabel>
-  <Antis.corePart.parts.6.customLabel>右中腿</Antis.corePart.parts.6.customLabel>
-  <Antis.corePart.parts.7.customLabel>左后腿</Antis.corePart.parts.7.customLabel>
-  <Antis.corePart.parts.8.customLabel>右后腿</Antis.corePart.parts.8.customLabel>
-
-
+  <!-- EN: left elytra -->
+  <Antis.corePart.parts.left_elytra.customLabel>左鞘翅</Antis.corePart.parts.left_elytra.customLabel>
+  <!-- EN: right elytra -->
+  <Antis.corePart.parts.right_elytra.customLabel>右鞘翅</Antis.corePart.parts.right_elytra.customLabel>
+  <!-- EN: left fore leg -->
+  <Antis.corePart.parts.Pronotum.parts.left_fore_leg.customLabel>左前腿</Antis.corePart.parts.Pronotum.parts.left_fore_leg.customLabel>
+  <!-- EN: right fore leg -->
+  <Antis.corePart.parts.Pronotum.parts.right_fore_leg.customLabel>右前腿</Antis.corePart.parts.Pronotum.parts.right_fore_leg.customLabel>
+  <!-- EN: left eye -->
+  <Antis.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>左眼</Antis.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Antis.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>右眼</Antis.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <Antis.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>左触须</Antis.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <Antis.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>右触须</Antis.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!-- EN: front left leg -->
+  <Antis.corePart.parts.front_left_leg.customLabel>左中腿</Antis.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <Antis.corePart.parts.front_right_leg.customLabel>右中腿</Antis.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <Antis.corePart.parts.rear_left_leg.customLabel>左后腿</Antis.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <Antis.corePart.parts.rear_right_leg.customLabel>右后腿</Antis.corePart.parts.rear_right_leg.customLabel>
+  
 </LanguageData>

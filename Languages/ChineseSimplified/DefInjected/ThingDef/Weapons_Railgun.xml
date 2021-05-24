@@ -1,13 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- X-ZERO RAILGUN -->
-
+  
+  <!-- EN: X-Zero Railgun -->
   <Gun_RailgunMKI.label>X-0型轨道枪</Gun_RailgunMKI.label>
+  <!-- EN: An electrically charged electromagnetic projectile launcher. -->
   <Gun_RailgunMKI.description>一种先进的强电磁驱动投射武器。</Gun_RailgunMKI.description>
-  <Gun_RailgunMKI.tools.0.label>枪托</Gun_RailgunMKI.tools.0.label>
-  <Gun_RailgunMKI.tools.1.label>枪管</Gun_RailgunMKI.tools.1.label>
-  <Gun_RailgunMKI.tools.2.label>枪口</Gun_RailgunMKI.tools.2.label>
-
-
+  <!-- EN: stock -->
+  <Gun_RailgunMKI.tools.stock.label>枪托</Gun_RailgunMKI.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_RailgunMKI.tools.barrel.label>枪管</Gun_RailgunMKI.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_RailgunMKI.tools.muzzle.label>枪口</Gun_RailgunMKI.tools.muzzle.label>
+  <!-- EN: X-Zero Railgun -->
+  <Gun_RailgunMKI.verbs.Verb_ShootCE.label>X-0型轨道枪</Gun_RailgunMKI.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

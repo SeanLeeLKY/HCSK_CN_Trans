@@ -1,27 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- lifesupport system -->
-
+  
+  <!-- EN: blood pump -->
   <LifesupportHeart.label>血泵</LifesupportHeart.label>
+  <!-- EN: An installed blood pump. A basic piece of technology made to keep the victim/patient alive. -->
   <LifesupportHeart.description>一台已经安装好的血泵。这是一种最为简单的能够保持病人生存的医疗器具。</LifesupportHeart.description>
+  <!-- EN: a blood pump -->
   <LifesupportHeart.labelNoun>血泵</LifesupportHeart.labelNoun>
-
-  <LifesupportLung.label>呼吸器</LifesupportLung.label>
-  <LifesupportLung.description>一台已经安装好的呼吸器。这是一种最为简单的能够保持病人生存的医疗器具。</LifesupportLung.description>
-  <LifesupportLung.labelNoun>呼吸器</LifesupportLung.labelNoun>
-
+  
+  <!-- EN: urine filter -->
   <LifesupportKidney.label>尿液过滤器</LifesupportKidney.label>
+  <!-- EN: An installed urine filter. A basic piece of technology made to keep the victim/patient alive. -->
   <LifesupportKidney.description>一台已经安装好的滤尿器。这是一种最为简单的能够保持病人生存的医疗器具。</LifesupportKidney.description>
+  <!-- EN: an urine filter -->
   <LifesupportKidney.labelNoun>尿液过滤器</LifesupportKidney.labelNoun>
-
+  
+  <!-- EN: blood filter -->
   <LifesupportLiver.label>血液过滤器</LifesupportLiver.label>
+  <!-- EN: An installed blood filter. A basic piece of technology made to keep the victim/patient alive. -->
   <LifesupportLiver.description>一台已经安装好的血液过滤器器。这是一种最为简单的能够保持病人生存的医疗器具。</LifesupportLiver.description>
+  <!-- EN: a blood filter -->
   <LifesupportLiver.labelNoun>血液过滤器</LifesupportLiver.labelNoun>
-
+  
+  <!-- EN: respirator -->
+  <LifesupportLung.label>呼吸器</LifesupportLung.label>
+  <!-- EN: An installed lung respirator. A basic piece of technology made to keep the victim/patient alive. -->
+  <LifesupportLung.description>一台已经安装好的呼吸器。这是一种最为简单的能够保持病人生存的医疗器具。</LifesupportLung.description>
+  <!-- EN: a respirator -->
+  <LifesupportLung.labelNoun>呼吸器</LifesupportLung.labelNoun>
+  
+  <!-- EN: feedingtube -->
   <LifesupportStomach.label>喂食管</LifesupportStomach.label>
+  <!-- EN: An installed feedingtube. A basic piece of technology made to keep the victim/patient alive. -->
   <LifesupportStomach.description>一具已经安装好的喂食管。这是一种最为简单的能够保持病人生存的医疗器具。</LifesupportStomach.description>
+  <!-- EN: a feeding tube -->
   <LifesupportStomach.labelNoun>喂食管</LifesupportStomach.labelNoun>
-
-
+  
 </LanguageData>

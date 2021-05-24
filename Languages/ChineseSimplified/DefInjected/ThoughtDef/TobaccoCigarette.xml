@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <NicotineHigh.stages.0.label>尼古丁亢奋</NicotineHigh.stages.0.label>
-  <NicotineHigh.stages.0.description>没什么比来一支烟更好的了。</NicotineHigh.stages.0.description>
-
-
-  <!-- Nicotine addiction -->
-
-  <NicotineWithdrawal.stages.1.label>尼古丁戒断</NicotineWithdrawal.stages.1.label>
-  <NicotineWithdrawal.stages.1.description>我有一段时间没吸烟了。</NicotineWithdrawal.stages.1.description>
-
-
+  
+  <!-- EN: high on nicotine -->
+  <NicotineHigh.stages.high_on_nicotine.label>尼古丁亢奋</NicotineHigh.stages.high_on_nicotine.label>
+  <!-- EN: Nothing like a good smoke. -->
+  <NicotineHigh.stages.high_on_nicotine.description>没什么比来一支烟更好的了。</NicotineHigh.stages.high_on_nicotine.description>
+  
+  <!-- EN: Nicotine withdrawal -->
+  <NicotineWithdrawal.stages.Nicotine_withdrawal.label>尼古丁戒断</NicotineWithdrawal.stages.Nicotine_withdrawal.label>
+  <!-- EN: I would kill for a smoke right now. -->
+  <NicotineWithdrawal.stages.Nicotine_withdrawal.description>我有一段时间没吸烟了。</NicotineWithdrawal.stages.Nicotine_withdrawal.description>
+  
 </LanguageData>

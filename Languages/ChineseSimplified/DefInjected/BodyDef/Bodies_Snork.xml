@@ -1,21 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Snork -->
   <Snork_bodydef.label>海象</Snork_bodydef.label>
-  <Snork_bodydef.corePart.parts.3.customLabel>左肺</Snork_bodydef.corePart.parts.3.customLabel>
-  <Snork_bodydef.corePart.parts.4.customLabel>右肺</Snork_bodydef.corePart.parts.4.customLabel>
-  <Snork_bodydef.corePart.parts.5.customLabel>左肾</Snork_bodydef.corePart.parts.5.customLabel>
-  <Snork_bodydef.corePart.parts.6.customLabel>右肾</Snork_bodydef.corePart.parts.6.customLabel>
-  <Snork_bodydef.corePart.parts.8.parts.0.parts.1.customLabel>左眼</Snork_bodydef.corePart.parts.8.parts.0.parts.1.customLabel>
-  <Snork_bodydef.corePart.parts.8.parts.0.parts.2.customLabel>右眼</Snork_bodydef.corePart.parts.8.parts.0.parts.2.customLabel>
-  <Snork_bodydef.corePart.parts.8.parts.0.parts.3.customLabel>左耳</Snork_bodydef.corePart.parts.8.parts.0.parts.3.customLabel>
-  <Snork_bodydef.corePart.parts.8.parts.0.parts.4.customLabel>右耳</Snork_bodydef.corePart.parts.8.parts.0.parts.4.customLabel>
-  <Snork_bodydef.corePart.parts.8.parts.0.parts.6.parts.0.customLabel>左獠牙</Snork_bodydef.corePart.parts.8.parts.0.parts.6.parts.0.customLabel>
-  <Snork_bodydef.corePart.parts.8.parts.0.parts.6.parts.1.customLabel>右獠牙</Snork_bodydef.corePart.parts.8.parts.0.parts.6.parts.1.customLabel>
-  <Snork_bodydef.corePart.parts.9.customLabel>左前脚蹼</Snork_bodydef.corePart.parts.9.customLabel>
-  <Snork_bodydef.corePart.parts.10.customLabel>右前脚蹼</Snork_bodydef.corePart.parts.10.customLabel>
-  <Snork_bodydef.corePart.parts.11.customLabel>左后脚蹼</Snork_bodydef.corePart.parts.11.customLabel>
-  <Snork_bodydef.corePart.parts.12.customLabel>右后脚蹼</Snork_bodydef.corePart.parts.12.customLabel>
-
-
+  <!-- EN: left lung -->
+  <Snork_bodydef.corePart.parts.left_lung.customLabel>左肺</Snork_bodydef.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Snork_bodydef.corePart.parts.right_lung.customLabel>右肺</Snork_bodydef.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Snork_bodydef.corePart.parts.left_kidney.customLabel>左肾</Snork_bodydef.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Snork_bodydef.corePart.parts.right_kidney.customLabel>右肾</Snork_bodydef.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Snork_bodydef.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</Snork_bodydef.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Snork_bodydef.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</Snork_bodydef.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Snork_bodydef.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</Snork_bodydef.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Snork_bodydef.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</Snork_bodydef.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left tusk -->
+  <Snork_bodydef.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>左獠牙</Snork_bodydef.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <Snork_bodydef.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>右獠牙</Snork_bodydef.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- EN: front left flipper -->
+  <Snork_bodydef.corePart.parts.front_left_flipper.customLabel>左前脚蹼</Snork_bodydef.corePart.parts.front_left_flipper.customLabel>
+  <!-- EN: front right flipper -->
+  <Snork_bodydef.corePart.parts.front_right_flipper.customLabel>右前脚蹼</Snork_bodydef.corePart.parts.front_right_flipper.customLabel>
+  <!-- EN: rear left flipper -->
+  <Snork_bodydef.corePart.parts.rear_left_flipper.customLabel>左后脚蹼</Snork_bodydef.corePart.parts.rear_left_flipper.customLabel>
+  <!-- EN: rear right flipper -->
+  <Snork_bodydef.corePart.parts.rear_right_flipper.customLabel>右后脚蹼</Snork_bodydef.corePart.parts.rear_right_flipper.customLabel>
+  
 </LanguageData>

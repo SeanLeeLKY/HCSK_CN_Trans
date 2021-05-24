@@ -1,15 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_StoneBall.label>制造 石球 x5</MakeAmmo_StoneBall.label>
-  <MakeAmmo_StoneBall.description>制造 石球。</MakeAmmo_StoneBall.description>
-  <MakeAmmo_StoneBall.jobString>正在制造 石球。</MakeAmmo_StoneBall.jobString>
-
+  
+  <!-- EN: make explosive balls x5 -->
   <MakeAmmo_ExplosiveBall.label>制造 爆炸球 x5</MakeAmmo_ExplosiveBall.label>
+  <!-- EN: Craft explosive balls. -->
   <MakeAmmo_ExplosiveBall.description>制造 爆炸球。</MakeAmmo_ExplosiveBall.description>
+  <!-- EN: Making explosive balls. -->
   <MakeAmmo_ExplosiveBall.jobString>正在制造 爆炸球。</MakeAmmo_ExplosiveBall.jobString>
-
-
+  
+  <!-- EN: make stone balls x5 -->
+  <MakeAmmo_StoneBall.label>制造 石球 x5</MakeAmmo_StoneBall.label>
+  <!-- EN: Craft stone balls. -->
+  <MakeAmmo_StoneBall.description>制造 石球。</MakeAmmo_StoneBall.description>
+  <!-- EN: Making stone balls. -->
+  <MakeAmmo_StoneBall.jobString>正在制造 石球。</MakeAmmo_StoneBall.jobString>
+  
 </LanguageData>

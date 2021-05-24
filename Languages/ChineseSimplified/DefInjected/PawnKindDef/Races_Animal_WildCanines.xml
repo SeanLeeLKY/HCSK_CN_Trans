@@ -1,57 +1,58 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- WildCanines -->
-
-  <Warg.label>座狼</Warg.label>
-  <Warg.labelPlural>座狼</Warg.labelPlural>
-  <Warg.lifeStages.0.label>座狼幼崽</Warg.lifeStages.0.label>
-  <Warg.lifeStages.0.labelPlural>座狼幼崽</Warg.lifeStages.0.labelPlural>
-  <Warg.lifeStages.0.labelMale>座狼幼崽</Warg.lifeStages.0.labelMale>
-  <Warg.lifeStages.0.labelMalePlural>座狼幼崽</Warg.lifeStages.0.labelMalePlural>
-  <Warg.lifeStages.0.labelFemale>座狼幼崽</Warg.lifeStages.0.labelFemale>
-  <Warg.lifeStages.0.labelFemalePlural>座狼幼崽</Warg.lifeStages.0.labelFemalePlural>
-  <Warg.lifeStages.1.label>幼年座狼</Warg.lifeStages.1.label>
-  <Warg.lifeStages.1.labelPlural>幼年座狼</Warg.lifeStages.1.labelPlural>
-  <Warg.lifeStages.1.labelMale>幼年公座狼</Warg.lifeStages.1.labelMale>
-  <Warg.lifeStages.1.labelMalePlural>幼年公座狼</Warg.lifeStages.1.labelMalePlural>
-  <Warg.lifeStages.1.labelFemale>幼年母座狼</Warg.lifeStages.1.labelFemale>
-  <Warg.lifeStages.1.labelFemalePlural>幼年母座狼</Warg.lifeStages.1.labelFemalePlural>
-  <Warg.lifeStages.2.label>座狼</Warg.lifeStages.2.label>
-  <Warg.lifeStages.2.labelPlural>座狼</Warg.lifeStages.2.labelPlural>
-  <Warg.lifeStages.2.labelMale>公座狼</Warg.lifeStages.2.labelMale>
-  <Warg.lifeStages.2.labelMalePlural>公座狼</Warg.lifeStages.2.labelMalePlural>
-  <Warg.lifeStages.2.labelFemale>母座狼</Warg.lifeStages.2.labelFemale>
-  <Warg.lifeStages.2.labelFemalePlural>母座狼</Warg.lifeStages.2.labelFemalePlural>
-  <Warg.labelMale>公座狼</Warg.labelMale>
-  <Warg.labelMalePlural>公座狼</Warg.labelMalePlural>
-  <Warg.labelFemale>母座狼</Warg.labelFemale>
-  <Warg.labelFemalePlural>母座狼</Warg.labelFemalePlural>
-
+  
+  <!-- EN: Nightling -->
   <Nightling.label>夜灵</Nightling.label>
-  <Nightling.labelPlural>夜灵</Nightling.labelPlural>
-  <Nightling.lifeStages.0.label>夜灵幼崽</Nightling.lifeStages.0.label>
-  <Nightling.lifeStages.0.labelPlural>夜灵幼崽</Nightling.lifeStages.0.labelPlural>
-  <Nightling.lifeStages.0.labelMale>雄性夜灵幼崽</Nightling.lifeStages.0.labelMale>
-  <Nightling.lifeStages.0.labelMalePlural>雄性夜灵幼崽</Nightling.lifeStages.0.labelMalePlural>
-  <Nightling.lifeStages.0.labelFemale>雌性夜灵幼崽</Nightling.lifeStages.0.labelFemale>
-  <Nightling.lifeStages.0.labelFemalePlural>雌性夜灵幼崽</Nightling.lifeStages.0.labelFemalePlural>
-  <Nightling.lifeStages.1.label>夜灵</Nightling.lifeStages.1.label>
-  <Nightling.lifeStages.1.labelPlural>夜灵</Nightling.lifeStages.1.labelPlural>
-  <Nightling.lifeStages.1.labelMale>雄性夜灵</Nightling.lifeStages.1.labelMale>
-  <Nightling.lifeStages.1.labelMalePlural>雄性夜灵</Nightling.lifeStages.1.labelMalePlural>
-  <Nightling.lifeStages.1.labelFemale>雌性夜灵</Nightling.lifeStages.1.labelFemale>
-  <Nightling.lifeStages.1.labelFemalePlural>雌性夜灵</Nightling.lifeStages.1.labelFemalePlural>
-  <Nightling.lifeStages.2.label>夜灵</Nightling.lifeStages.2.label>
-  <Nightling.lifeStages.2.labelPlural>夜灵</Nightling.lifeStages.2.labelPlural>
-  <Nightling.lifeStages.2.labelMale>雄性夜灵</Nightling.lifeStages.2.labelMale>
-  <Nightling.lifeStages.2.labelMalePlural>雄性夜灵</Nightling.lifeStages.2.labelMalePlural>
-  <Nightling.lifeStages.2.labelFemale>雌性夜灵</Nightling.lifeStages.2.labelFemale>
-  <Nightling.lifeStages.2.labelFemalePlural>雌性夜灵</Nightling.lifeStages.2.labelFemalePlural>
-  <Nightling.labelMale>雄性夜灵</Nightling.labelMale>
-  <Nightling.labelMalePlural>雄性夜灵</Nightling.labelMalePlural>
   <Nightling.labelFemale>雌性夜灵</Nightling.labelFemale>
   <Nightling.labelFemalePlural>雌性夜灵</Nightling.labelFemalePlural>
-
-
+  <Nightling.labelMale>雄性夜灵</Nightling.labelMale>
+  <Nightling.labelMalePlural>雄性夜灵</Nightling.labelMalePlural>
+  <Nightling.labelPlural>夜灵</Nightling.labelPlural>
+  <!-- EN: Nightling Cup -->
+  <Nightling.lifeStages.Nightling_Cup.label>夜灵幼崽</Nightling.lifeStages.Nightling_Cup.label>
+  <Nightling.lifeStages.Nightling_Cup.labelFemale>雌性夜灵幼崽</Nightling.lifeStages.Nightling_Cup.labelFemale>
+  <Nightling.lifeStages.Nightling_Cup.labelFemalePlural>雌性夜灵幼崽</Nightling.lifeStages.Nightling_Cup.labelFemalePlural>
+  <Nightling.lifeStages.Nightling_Cup.labelMale>雄性夜灵幼崽</Nightling.lifeStages.Nightling_Cup.labelMale>
+  <Nightling.lifeStages.Nightling_Cup.labelMalePlural>雄性夜灵幼崽</Nightling.lifeStages.Nightling_Cup.labelMalePlural>
+  <Nightling.lifeStages.Nightling_Cup.labelPlural>夜灵幼崽</Nightling.lifeStages.Nightling_Cup.labelPlural>
+  <Nightling.lifeStages.1.label>夜灵</Nightling.lifeStages.1.label>
+  <Nightling.lifeStages.1.labelFemale>雌性夜灵</Nightling.lifeStages.1.labelFemale>
+  <Nightling.lifeStages.1.labelFemalePlural>雌性夜灵</Nightling.lifeStages.1.labelFemalePlural>
+  <Nightling.lifeStages.1.labelMale>雄性夜灵</Nightling.lifeStages.1.labelMale>
+  <Nightling.lifeStages.1.labelMalePlural>雄性夜灵</Nightling.lifeStages.1.labelMalePlural>
+  <Nightling.lifeStages.1.labelPlural>夜灵</Nightling.lifeStages.1.labelPlural>
+  <Nightling.lifeStages.2.label>夜灵</Nightling.lifeStages.2.label>
+  <Nightling.lifeStages.2.labelFemale>雌性夜灵</Nightling.lifeStages.2.labelFemale>
+  <Nightling.lifeStages.2.labelFemalePlural>雌性夜灵</Nightling.lifeStages.2.labelFemalePlural>
+  <Nightling.lifeStages.2.labelMale>雄性夜灵</Nightling.lifeStages.2.labelMale>
+  <Nightling.lifeStages.2.labelMalePlural>雄性夜灵</Nightling.lifeStages.2.labelMalePlural>
+  <Nightling.lifeStages.2.labelPlural>夜灵</Nightling.lifeStages.2.labelPlural>
+  
+  <!-- EN: Warg -->
+  <Warg.label>座狼</Warg.label>
+  <Warg.labelFemale>母座狼</Warg.labelFemale>
+  <Warg.labelFemalePlural>母座狼</Warg.labelFemalePlural>
+  <Warg.labelMale>公座狼</Warg.labelMale>
+  <Warg.labelMalePlural>公座狼</Warg.labelMalePlural>
+  <Warg.labelPlural>座狼</Warg.labelPlural>
+  <!-- EN: warg puppy -->
+  <Warg.lifeStages.warg_puppy.label>座狼幼崽</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.labelFemale>座狼幼崽</Warg.lifeStages.warg_puppy.labelFemale>
+  <Warg.lifeStages.warg_puppy.labelFemalePlural>座狼幼崽</Warg.lifeStages.warg_puppy.labelFemalePlural>
+  <Warg.lifeStages.warg_puppy.labelMale>座狼幼崽</Warg.lifeStages.warg_puppy.labelMale>
+  <Warg.lifeStages.warg_puppy.labelMalePlural>座狼幼崽</Warg.lifeStages.warg_puppy.labelMalePlural>
+  <Warg.lifeStages.warg_puppy.labelPlural>座狼幼崽</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.1.label>幼年座狼</Warg.lifeStages.1.label>
+  <Warg.lifeStages.1.labelFemale>幼年母座狼</Warg.lifeStages.1.labelFemale>
+  <Warg.lifeStages.1.labelFemalePlural>幼年母座狼</Warg.lifeStages.1.labelFemalePlural>
+  <Warg.lifeStages.1.labelMale>幼年公座狼</Warg.lifeStages.1.labelMale>
+  <Warg.lifeStages.1.labelMalePlural>幼年公座狼</Warg.lifeStages.1.labelMalePlural>
+  <Warg.lifeStages.1.labelPlural>幼年座狼</Warg.lifeStages.1.labelPlural>
+  <Warg.lifeStages.2.label>座狼</Warg.lifeStages.2.label>
+  <Warg.lifeStages.2.labelFemale>母座狼</Warg.lifeStages.2.labelFemale>
+  <Warg.lifeStages.2.labelFemalePlural>母座狼</Warg.lifeStages.2.labelFemalePlural>
+  <Warg.lifeStages.2.labelMale>公座狼</Warg.lifeStages.2.labelMale>
+  <Warg.lifeStages.2.labelMalePlural>公座狼</Warg.lifeStages.2.labelMalePlural>
+  <Warg.lifeStages.2.labelPlural>座狼</Warg.lifeStages.2.labelPlural>
+  
 </LanguageData>

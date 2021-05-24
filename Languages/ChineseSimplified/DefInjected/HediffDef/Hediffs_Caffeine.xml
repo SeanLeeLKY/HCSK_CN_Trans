@@ -1,23 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: caffeine -->
   <Caffeine.label>咖啡因</Caffeine.label>
+  <!-- EN: An invigorating drink. -->
   <Caffeine.description>一种提神醒脑的饮料。</Caffeine.description>
-  <Caffeine.stages.0.label>兴奋</Caffeine.stages.0.label>
-  <Caffeine.stages.1.label>迟钝</Caffeine.stages.1.label>
-  <Caffeine.stages.2.label>黑视</Caffeine.stages.2.label>
+  <!-- EN: a caffeine -->
   <Caffeine.labelNoun>咖啡因</Caffeine.labelNoun>
-
-  <CaffeineTolerance.label>咖啡因耐受</CaffeineTolerance.label>
-  <CaffeineTolerance.description>加强了咖啡因的效果耐受度。耐受度越强，咖啡因的作用就越低，就越需要更大量的咖啡因来达到相同的效果。</CaffeineTolerance.description>
-  <CaffeineTolerance.stages.0.label>弱</CaffeineTolerance.stages.0.label>
-  <CaffeineTolerance.stages.1.label>强</CaffeineTolerance.stages.1.label>
-  <CaffeineTolerance.stages.2.label>极强</CaffeineTolerance.stages.2.label>
-
+  <!-- EN: wired -->
+  <Caffeine.stages.wired.label>兴奋</Caffeine.stages.wired.label>
+  <!-- EN: jacked up -->
+  <Caffeine.stages.jacked_up.label>迟钝</Caffeine.stages.jacked_up.label>
+  <!-- EN: blackout -->
+  <Caffeine.stages.blackout.label>黑视</Caffeine.stages.blackout.label>
+  
+  <!-- EN: caffeine addiction -->
   <CaffeineAddiction.label>咖啡因成瘾</CaffeineAddiction.label>
+  <!-- EN: A chemical addiction to caffeine. Long-term presence of caffeine has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\nWithout regular doses of caffeine, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
   <CaffeineAddiction.description>咖啡因化学成瘾。因为咖啡因的长期存在已引动细胞水平的神经适应反应，因此如果没有持续的定量摄入，大脑将做出应激反应。\n如果没有持续摄入足够剂量的咖啡因，就会出现戒断症状。但是，长期戒断将迫使大脑从应激反应恢复至正常状态，从而真正戒断成瘾问题。</CaffeineAddiction.description>
-  <CaffeineAddiction.stages.1.label>戒断反应</CaffeineAddiction.stages.1.label>
+  <!-- EN: a caffeine addiction -->
   <CaffeineAddiction.labelNoun>咖啡因成瘾</CaffeineAddiction.labelNoun>
-
-
+  <!-- EN: withdrawal -->
+  <CaffeineAddiction.stages.withdrawal.label>戒断反应</CaffeineAddiction.stages.withdrawal.label>
+  
+  <!-- EN: caffeine tolerance -->
+  <CaffeineTolerance.label>咖啡因耐受</CaffeineTolerance.label>
+  <!-- EN: A built-up tolerance to caffeine. The more severe this tolerance is, the more caffeine it takes to get the same effect. -->
+  <CaffeineTolerance.description>加强了咖啡因的效果耐受度。耐受度越强，咖啡因的作用就越低，就越需要更大量的咖啡因来达到相同的效果。</CaffeineTolerance.description>
+  <!-- EN: small -->
+  <CaffeineTolerance.stages.small.label>弱</CaffeineTolerance.stages.small.label>
+  <!-- EN: large -->
+  <CaffeineTolerance.stages.large.label>强</CaffeineTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <CaffeineTolerance.stages.massive.label>极强</CaffeineTolerance.stages.massive.label>
+  
 </LanguageData>

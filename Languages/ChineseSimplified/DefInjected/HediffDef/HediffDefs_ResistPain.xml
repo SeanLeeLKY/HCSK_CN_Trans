@@ -1,33 +1,53 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <UndeadPassive.label>不死特性</UndeadPassive.label>
-  <UndeadPassive.description>死无再死</UndeadPassive.description>
-  <UndeadPassive.labelNoun>不死</UndeadPassive.labelNoun>
-
-  <ResistPainPassive.label>痛觉阻抗</ResistPainPassive.label>
-  <ResistPainPassive.description>痛觉是什么？</ResistPainPassive.description>
-  <ResistPainPassive.labelNoun>痛觉阻抗</ResistPainPassive.labelNoun>
-
-  <UnstoppablePassive.label>不可阻挡</UnstoppablePassive.label>
-  <UnstoppablePassive.description>一往无前。</UnstoppablePassive.description>
-  <UnstoppablePassive.labelNoun>不可阻挡</UnstoppablePassive.labelNoun>
-
-  <FuriousPassive.label>凶猛状态</FuriousPassive.label>
-  <FuriousPassive.description>别挡道！</FuriousPassive.description>
-  <FuriousPassive.labelNoun>凶猛状态</FuriousPassive.labelNoun>
-
+  
+  <!-- EN: berserk state -->
   <BerserkPassive.label>狂暴状态</BerserkPassive.label>
+  <!-- EN: Real berserker -->
   <BerserkPassive.description>活生生的狂战士。</BerserkPassive.description>
+  <!-- EN: a berserk state -->
   <BerserkPassive.labelNoun>狂暴状态</BerserkPassive.labelNoun>
-
+  
+  <!-- EN: Furious state -->
+  <FuriousPassive.label>凶猛状态</FuriousPassive.label>
+  <!-- EN: Don't stand in his way -->
+  <FuriousPassive.description>别挡道！</FuriousPassive.description>
+  <!-- EN: a furious state -->
+  <FuriousPassive.labelNoun>凶猛状态</FuriousPassive.labelNoun>
+  
+  <!-- EN: hard leather -->
   <HardPassive.label>硬皮</HardPassive.label>
+  <!-- EN: It's hard to break this skin -->
   <HardPassive.description>皮肤硬化。</HardPassive.description>
+  <!-- EN: hard leather -->
   <HardPassive.labelNoun>硬皮</HardPassive.labelNoun>
-
+  
+  <!-- EN: heavy pain resist -->
+  <ResistPainPassive.label>痛觉阻抗</ResistPainPassive.label>
+  <!-- EN: Don't know what pain is -->
+  <ResistPainPassive.description>痛觉是什么？</ResistPainPassive.description>
+  <!-- EN: a heavy pain resist -->
+  <ResistPainPassive.labelNoun>痛觉阻抗</ResistPainPassive.labelNoun>
+  
+  <!-- EN: thick leather -->
   <ThickPassive.label>厚皮</ThickPassive.label>
+  <!-- EN: This skin softens any bumps. -->
   <ThickPassive.description>大大降低了撞击烈度。</ThickPassive.description>
+  <!-- EN: a thick leather -->
   <ThickPassive.labelNoun>厚皮</ThickPassive.labelNoun>
-
-
+  
+  <!-- EN: undead -->
+  <UndeadPassive.label>不死特性</UndeadPassive.label>
+  <!-- EN: Can't die twice... -->
+  <UndeadPassive.description>死无再死</UndeadPassive.description>
+  <!-- EN: an undead -->
+  <UndeadPassive.labelNoun>不死</UndeadPassive.labelNoun>
+  
+  <!-- EN: unstoppable state -->
+  <UnstoppablePassive.label>不可阻挡</UnstoppablePassive.label>
+  <!-- EN: Can only go forward. -->
+  <UnstoppablePassive.description>一往无前。</UnstoppablePassive.description>
+  <!-- EN: an unstoppable state -->
+  <UnstoppablePassive.labelNoun>不可阻挡</UnstoppablePassive.labelNoun>
+  
 </LanguageData>

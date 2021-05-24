@@ -1,24 +1,38 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- ===== PlaceWorker Errors ===== -->
+	<!-- ===== PlaceWorker Errors ===== -->
 
+	<!-- EN: Cannot place on {0} -->
   <RFF.Unplaceable>不能置于{0}之上</RFF.Unplaceable>
 
-  <!-- ===== Composting ===== -->
+	<!-- ===== Composting ===== -->
 
+	<!-- EN: Progress: -->
   <RFF.Progress>进度：</RFF.Progress>
+	<!-- EN: Tried to get a compost barrel temperature but MapHeld is null. -->
   <RFF.NullMapHeld>试图获取堆肥桶的温度，但是 MapHeld 是空值。</RFF.NullMapHeld>
+	<!-- EN: Tried to add raw compost to barrel full of fertilizer. Colonists should take out the fertilizer first. -->
   <RFF.FullOfFert>试图向一个装满的堆肥桶添加生料。殖民者应该先取出桶中的肥料。</RFF.FullOfFert>
+	<!-- EN: Contains fertilizer: -->
   <RFF.ContainsFert>包含的肥料：</RFF.ContainsFert>
+	<!-- EN: Contains raw compost: -->
   <RFF.ContainsComp>包含的生堆肥：</RFF.ContainsComp>
+	<!-- EN: Composted -->
   <RFF.Composted>发酵完成</RFF.Composted>
+	<!-- EN: Composting progress: -->
   <RFF.CompProg>发酵进度：</RFF.CompProg>
+	<!-- EN: Compost barrel out of ideal temperature: -->
   <RFF.OutOfTemp>堆肥桶温度不理想：</RFF.OutOfTemp>
+	<!-- EN: Temperature: -->
   <RFF.Temp>温度：</RFF.Temp>
+	<!-- EN: Ideal composting temp: -->
   <RFF.IdealTemp>理想发酵温度：</RFF.IdealTemp>
+	<!-- EN: Tried to get fertilizer but it's not yet ready. -->
   <RFF.NotReady>试图取出肥料，但是还没有完成发酵。</RFF.NotReady>
+	<!-- EN: Bad temperature -->
   <RFF.BadTemp>温度不适宜</RFF.BadTemp>
+	<!-- EN: Contains no raw compost -->
   <RFF.NoComp>未包含生料</RFF.NoComp>
 
 </LanguageData>

@@ -1,40 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Apparel_SimpleHelmet.label>简易头盔</Apparel_SimpleHelmet.label>
-  <Apparel_SimpleHelmet.description>提供一定利器攻击防护的简易头盔。抵抗钝器类武器不太有效。</Apparel_SimpleHelmet.description>
-
+  
+  <!-- EN: Advanced Helmet -->
   <Apparel_AdvancedHelmet.label>高级头盔</Apparel_AdvancedHelmet.label>
+  <!-- EN: A lightweight armored combat helmet that protects your head and ears. -->
   <Apparel_AdvancedHelmet.description>轻型装甲战斗头盔，能好好保护你的头和耳朵。</Apparel_AdvancedHelmet.description>
-
-  <Marine_Helmet.label>士兵防弹头盔</Marine_Helmet.label>
-  <Marine_Helmet.description>防弹设计的陆战队士兵头盔。这是殖民地陆战队的标准配备。</Marine_Helmet.description>
-
-  <Jaffa_BasicHelmet.label>侦察兵头盔</Jaffa_BasicHelmet.label>
-  <Jaffa_BasicHelmet.description>这种基本的侦察兵头盔并不能提供很好的保护，但它胜在轻便。</Jaffa_BasicHelmet.description>
-
-  <USCM_CamoHelmet.label>迷彩防弹头盔</USCM_CamoHelmet.label>
-  <USCM_CamoHelmet.description>防弹设计的陆战队士兵头盔。这是殖民地陆战队的标准配备。</USCM_CamoHelmet.description>
-
+  
+  <!-- EN: Peaked cap -->
   <Apparel_PC.label>大盖帽</Apparel_PC.label>
+  <!-- EN: Peaked officer hat. Quite rare these days... Very light and comfy, made out of unknown material. Makes you look like real war hero. -->
   <Apparel_PC.description>大盖帽在这年头挺少见的。非常的轻巧舒适，用特制材料制成。让你看起来像真正的战争英雄。</Apparel_PC.description>
-
+  
+  <!-- EN: simple helmet -->
+  <Apparel_SimpleHelmet.label>简易头盔</Apparel_SimpleHelmet.label>
+  <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
+  <Apparel_SimpleHelmet.description>提供一定利器攻击防护的简易头盔。抵抗钝器类武器不太有效。</Apparel_SimpleHelmet.description>
+  
+  <!-- EN: Cosmic Ushanka -->
   <Apparel_Ushanka.label>俄式冬帽</Apparel_Ushanka.label>
+  <!-- EN: Thick and soft hat of ancient design used to keep you warm during coldest winters. Slightly more durable than tuque. -->
   <Apparel_Ushanka.description>带有经典设计感的厚软帽子，可以用来在最寒冷的冬天保暖。比普通御寒帽略微耐用。</Apparel_Ushanka.description>
-
-  <Apparello_Medband.label>医用头巾</Apparello_Medband.label>
-  <Apparello_Medband.description>医护人员的头巾。用来方便在人群中快速找出医护人员。</Apparello_Medband.description>
-
-  <Apparello_Headset.label>通讯头箍</Apparello_Headset.label>
-  <Apparello_Headset.description>这些装备通常用于信息沟通，但它是真无线的，所以根本不起作用。但它给人的印像是，更有社交能力。</Apparello_Headset.description>
-
+  
+  <!-- EN: Beret -->
   <Apparello_Beret.label>贝雷帽</Apparello_Beret.label>
+  <!-- EN: A soft and warm military cap. It is very common amongst off-duty soldiers. Uniforms with berets commonly inspire respect. -->
   <Apparello_Beret.description>柔软，保持头部温暖。在士兵和高级军官中非常普遍。制服通常会激发人们的尊重，但也会造成佩戴者严峻的形象</Apparello_Beret.description>
-
-
-  <!--<Tactical_Helmet.label>战术头盔</Tactical_Helmet.label>-->
-  <!--<Tactical_Helmet.description>特种部队使用的战术头盔。</Tactical_Helmet.description>-->
-  <!--<WeldingHelmet.label>焊接头盔</WeldingHelmet.label>-->
-  <!--<WeldingHelmet.description>焊接安全帽是在进行某些类型的焊接时使用的一种保护眼睛、脸部和颈部免受电弧灼伤、紫外线、火花、红外线和高温的头部装备。</WeldingHelmet.description>-->
-
+  
+  <!-- EN: Headset with Bandana -->
+  <Apparello_Headset.label>通讯头箍</Apparello_Headset.label>
+  <!-- EN: Common usage for these has been in communication. It is wireless and doesn't work, but it gives the impression that you're somehow more social! -->
+  <Apparello_Headset.description>这些装备通常用于信息沟通，但它是真无线的，所以根本不起作用。但它给人的印像是，更有社交能力。</Apparello_Headset.description>
+  
+  <!-- EN: Medic's Bandana -->
+  <Apparello_Medband.label>医用头巾</Apparello_Medband.label>
+  <!-- EN: A medic's bandana. It is used to easily point out medics in a crowd. -->
+  <Apparello_Medband.description>医护人员的头巾。用来方便在人群中快速找出医护人员。</Apparello_Medband.description>
+  
+  <!-- EN: Scout Helmet -->
+  <Jaffa_BasicHelmet.label>侦察兵头盔</Jaffa_BasicHelmet.label>
+  <!-- EN: This basic scout helmet doesn't offer great protection, but it is lightweight. -->
+  <Jaffa_BasicHelmet.description>这种基本的侦察兵头盔并不能提供很好的保护，但它胜在轻便。</Jaffa_BasicHelmet.description>
+  
+  <!-- EN: Marine Ballistic Helmet -->
+  <Marine_Helmet.label>士兵防弹头盔</Marine_Helmet.label>
+  <!-- EN: A marine helmet designed to protect against ballistics. This is a standard issue item for Colonial Marines. -->
+  <Marine_Helmet.description>防弹设计的陆战队士兵头盔。这是殖民地陆战队的标准配备。</Marine_Helmet.description>
+  
+  <!-- EN: Camo Ballistic Helmet -->
+  <USCM_CamoHelmet.label>迷彩防弹头盔</USCM_CamoHelmet.label>
+  <!-- EN: A camouflaged version of the marine ballistic helmet. It is a standard issue item for Colonial Marines. -->
+  <USCM_CamoHelmet.description>防弹设计的陆战队士兵头盔。这是殖民地陆战队的标准配备。</USCM_CamoHelmet.description>
+  
 </LanguageData>

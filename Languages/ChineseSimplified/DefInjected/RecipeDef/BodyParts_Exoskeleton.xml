@@ -1,24 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Install Exoskeleton suit -->
   <InstallExoskeletonSuit.label>安装 外骨骼</InstallExoskeletonSuit.label>
+  <!-- EN: Installs an Exoskeleton. -->
   <InstallExoskeletonSuit.description>安装外骨骼。</InstallExoskeletonSuit.description>
+  <!-- EN: Installing Exoskeleton. -->
   <InstallExoskeletonSuit.jobString>正在安装外骨骼。</InstallExoskeletonSuit.jobString>
-
-  <RemoveExoskeletonSuit.label>移除 外骨骼</RemoveExoskeletonSuit.label>
-  <RemoveExoskeletonSuit.description>移除外骨骼。</RemoveExoskeletonSuit.description>
-  <RemoveExoskeletonSuit.jobString>正在移除外骨骼。</RemoveExoskeletonSuit.jobString>
-
-
-  <!-- Protective exoskeleton -->
-
+  
+  <!-- EN: install protective exoskeleton -->
   <InstallProtectiveExoskeleton.label>安装 防护性外骨骼</InstallProtectiveExoskeleton.label>
+  <!-- EN: Installs protective exoskeleton. -->
   <InstallProtectiveExoskeleton.description>安装防护性外骨骼。</InstallProtectiveExoskeleton.description>
+  <!-- EN: Installing protective exoskeleton. -->
   <InstallProtectiveExoskeleton.jobString>正在安装防护性外骨骼。</InstallProtectiveExoskeleton.jobString>
-
+  
+  <!-- EN: remove exoskeleton suit -->
+  <RemoveExoskeletonSuit.label>移除 外骨骼</RemoveExoskeletonSuit.label>
+  <!-- EN: Remove exoskeleton suit. -->
+  <RemoveExoskeletonSuit.description>移除外骨骼。</RemoveExoskeletonSuit.description>
+  <!-- EN: Removing exoskeleton suit. -->
+  <RemoveExoskeletonSuit.jobString>正在移除外骨骼。</RemoveExoskeletonSuit.jobString>
+  
+  <!-- EN: remove protective exoskeleton -->
   <RemoveProtectiveExoskeleton.label>移除 防护性外骨骼</RemoveProtectiveExoskeleton.label>
+  <!-- EN: Remove protective exoskeleton. -->
   <RemoveProtectiveExoskeleton.description>移除防护性外骨骼。</RemoveProtectiveExoskeleton.description>
+  <!-- EN: Removing protective exoskeleton. -->
   <RemoveProtectiveExoskeleton.jobString>正在移除防护性外骨骼。</RemoveProtectiveExoskeleton.jobString>
-
-
+  
 </LanguageData>

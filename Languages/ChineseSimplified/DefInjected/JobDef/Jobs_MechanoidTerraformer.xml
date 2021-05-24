@@ -1,12 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <JobDef_ScoutStrangeArtifact.reportString>侦察奇异人造物。</JobDef_ScoutStrangeArtifact.reportString>
-  <JobDef_SecureStrangeArtifact.reportString>解除人造物安全系统。</JobDef_SecureStrangeArtifact.reportString>
-  <JobDef_StudyStrangeArtifact.reportString>研究奇异人造物。</JobDef_StudyStrangeArtifact.reportString>
-  <JobDef_ReroutePower.reportString>重定向能量网络。</JobDef_ReroutePower.reportString>
-  <JobDef_ExtractWeatherController.reportString>提取天气控制核心。</JobDef_ExtractWeatherController.reportString>
+  
+  <!-- EN: Disabling terraformer beacon. -->
   <JobDef_DisableBeacon.reportString>关闭通讯信标。</JobDef_DisableBeacon.reportString>
-
-
+  
+  <!-- EN: Extracting weather controller. -->
+  <JobDef_ExtractWeatherController.reportString>提取天气控制核心。</JobDef_ExtractWeatherController.reportString>
+  
+  <!-- EN: Rerouting power. -->
+  <JobDef_ReroutePower.reportString>重定向能量网络。</JobDef_ReroutePower.reportString>
+  
+  <!-- EN: Scouting strange artifact. -->
+  <JobDef_ScoutStrangeArtifact.reportString>侦察奇异人造物。</JobDef_ScoutStrangeArtifact.reportString>
+  
+  <!-- EN: Securing strange artifact. -->
+  <JobDef_SecureStrangeArtifact.reportString>解除人造物安全系统。</JobDef_SecureStrangeArtifact.reportString>
+  
+  <!-- EN: Studying strange artifact. -->
+  <JobDef_StudyStrangeArtifact.reportString>研究奇异人造物。</JobDef_StudyStrangeArtifact.reportString>
+  
 </LanguageData>

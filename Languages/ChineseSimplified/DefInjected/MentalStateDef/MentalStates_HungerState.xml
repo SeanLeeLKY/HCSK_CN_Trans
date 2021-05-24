@@ -1,10 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: hunger state -->
   <HungerState.label>饥饿状态</HungerState.label>
-  <HungerState.beginLetter>{0}处于攻击状态！</HungerState.beginLetter>
-  <HungerState.recoveryMessage>{0}的嗜血性攻击状态已结束。</HungerState.recoveryMessage>
+  <!-- EN: Mental state: The hunger made aggressive -->
   <HungerState.baseInspectLine>精神状态: 饥饿引发的攻击状态</HungerState.baseInspectLine>
-
-
+  <!-- EN: {0} has in aggressive state! -->
+  <HungerState.beginLetter>{0}处于攻击状态！</HungerState.beginLetter>
+  <!-- EN: {0}'s aggressive bloodlust has come to an end. -->
+  <HungerState.recoveryMessage>{0}的嗜血性攻击状态已结束。</HungerState.recoveryMessage>
+  
 </LanguageData>

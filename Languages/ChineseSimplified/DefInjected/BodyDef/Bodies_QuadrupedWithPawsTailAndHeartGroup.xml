@@ -1,23 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Quadruped Animal -->
   <QuadrupedAnimalWithPawsTailAndHeartGroup.label>四足动物</QuadrupedAnimalWithPawsTailAndHeartGroup.label>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.4.customLabel>左肺</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.4.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.5.customLabel>右肺</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.5.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.6.customLabel>左肾</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.6.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.7.customLabel>右肾</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.7.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.9.parts.0.parts.1.customLabel>左眼</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.9.parts.0.parts.1.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.9.parts.0.parts.2.customLabel>右眼</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.9.parts.0.parts.2.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.9.parts.0.parts.3.customLabel>左耳</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.9.parts.0.parts.3.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.9.parts.0.parts.4.customLabel>右耳</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.9.parts.0.parts.4.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.10.parts.0.customLabel>左前蹄爪</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.10.parts.0.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.10.customLabel>左前腿</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.10.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.11.parts.0.customLabel>右前蹄爪</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.11.parts.0.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.11.customLabel>右前腿</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.11.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.12.parts.0.customLabel>左后蹄爪</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.12.parts.0.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.12.customLabel>左后腿</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.12.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.13.parts.0.customLabel>右后蹄爪</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.13.parts.0.customLabel>
-  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.13.customLabel>右后腿</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.13.customLabel>
-
-
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.left_lung.customLabel>左肺</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.right_lung.customLabel>右肺</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.left_kidney.customLabel>左肾</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.right_kidney.customLabel>右肾</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.front_left_leg.customLabel>左前腿</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>左前蹄爪</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.front_right_leg.customLabel>右前腿</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>右前蹄爪</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.rear_left_leg.customLabel>左后腿</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>左后蹄爪</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.rear_right_leg.customLabel>右后腿</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>右后蹄爪</QuadrupedAnimalWithPawsTailAndHeartGroup.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
 </LanguageData>

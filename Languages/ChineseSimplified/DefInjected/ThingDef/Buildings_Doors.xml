@@ -1,47 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Door.label>门</Door.label>
-  <Door.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</Door.description>
-  <Door_Blueprint.label>门（蓝图）</Door_Blueprint.label>
-  <Door_Frame.label>门（建造中）</Door_Frame.label>
-  <Door_Frame.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</Door_Frame.description>
-
-  <MDoor.label>金属门</MDoor.label>
-  <MDoor.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</MDoor.description>
-  <MDoor_Blueprint.label>金属门（蓝图）</MDoor_Blueprint.label>
-  <MDoor_Frame.label>金属门（建造中）</MDoor_Frame.label>
-  <MDoor_Frame.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</MDoor_Frame.description>
-
-  <CellDoor.label>牢门</CellDoor.label>
-  <CellDoor.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</CellDoor.description>
-
+  
+  <!-- EN: autodoor -->
   <Autodoor.label>自动门</Autodoor.label>
+  <!-- EN: A door divides rooms with a closable opening. Powered operation allows people to move through the door without slowing down. -->
   <Autodoor.description>分隔房间，门可以自动开合。不会降低通行速度。</Autodoor.description>
-  <Autodoor_Blueprint.label>自动门（蓝图）</Autodoor_Blueprint.label>
-  <Autodoor_Frame.label>自动门（建造中）</Autodoor_Frame.label>
-  <Autodoor_Frame.description>分隔房间，门可以自动开合。不会降低通行速度。</Autodoor_Frame.description>
-
+  
+  <!-- EN: blast autodoor -->
   <Blastdoor.label>防爆自动门</Blastdoor.label>
+  <!-- EN: A powered, reinforced door that allows people to move through the door without slowing down. -->
   <Blastdoor.description>一扇电动加固门，不会降低通行速度。</Blastdoor.description>
-  <Blastdoor_Blueprint.label>防爆自动门（蓝图）</Blastdoor_Blueprint.label>
-  <Blastdoor_Frame.label>防爆自动门（建造中）</Blastdoor_Frame.label>
-  <Blastdoor_Frame.description>一扇电动加固门，不会降低通行速度。</Blastdoor_Frame.description>
-
-  <OpenBlastDoor.label>大型装甲门（开启）</OpenBlastDoor.label>
-  <OpenBlastDoor.description>一扇又大又坚固的防爆门，可以将敌人阻挡在外面。它需要电源才能运作，而且必须手动打开和关闭。此门目前处于开启状态。</OpenBlastDoor.description>
-
+  
+  <!-- EN: cell door -->
+  <CellDoor.label>牢门</CellDoor.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <CellDoor.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</CellDoor.description>
+  
+  <!-- EN: large armor gate (closed) -->
   <ClosedBlastDoor.label>大型装甲门（关闭）</ClosedBlastDoor.label>
+  <!-- EN: A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently closed. -->
   <ClosedBlastDoor.description>一扇又大又坚固的防爆门，可以将敌人阻挡在外面。它需要电源才能运作，而且必须手动打开和关闭。此门目前处于关闭状态。</ClosedBlastDoor.description>
-  <ClosedBlastDoor_Blueprint.label>大型装甲门（关闭）（蓝图）</ClosedBlastDoor_Blueprint.label>
-  <ClosedBlastDoor_Frame.label>大型装甲门（关闭）（建造中）</ClosedBlastDoor_Frame.label>
-  <ClosedBlastDoor_Frame.description>一扇又大又坚固的防爆门，可以将敌人阻挡在外面。它需要电源才能运作，而且必须手动打开和关闭。此门目前处于关闭状态。</ClosedBlastDoor_Frame.description>
-
+  
+  <!-- EN: rustic door -->
+  <Door.label>门</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</Door.description>
+  
+  <!-- EN: large armor gate (jammed) -->
   <JammedBlastDoor.label>大型装甲门（阻塞）</JammedBlastDoor.label>
+  <!-- EN: A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is jammed. -->
   <JammedBlastDoor.description>一扇又大又坚固的防爆门，可以将敌人阻挡在外面。它需要电源才能运作，而且必须手动打开和关闭。门目前处于阻塞状态。</JammedBlastDoor.description>
-
-
-  <!--<CellDoor_Blueprint.label>牢门（蓝图）</CellDoor_Blueprint.label>-->
-  <!--<CellDoor_Frame.label>牢门（建造中）</CellDoor_Frame.label>-->
-
+  
+  <!-- EN: metal door -->
+  <MDoor.label>金属门</MDoor.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <MDoor.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</MDoor.description>
+  
+  <!-- EN: large armor gate (open) -->
+  <OpenBlastDoor.label>大型装甲门（开启）</OpenBlastDoor.label>
+  <!-- EN: A very large gate that provides protection against hostile outside entities. It requires power, and must be manually opened and closed. The gate is currently open. -->
+  <OpenBlastDoor.description>一扇又大又坚固的防爆门，可以将敌人阻挡在外面。它需要电源才能运作，而且必须手动打开和关闭。此门目前处于开启状态。</OpenBlastDoor.description>
+  
 </LanguageData>

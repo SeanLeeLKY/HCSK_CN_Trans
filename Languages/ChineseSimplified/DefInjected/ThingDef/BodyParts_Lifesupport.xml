@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- lifesupport system -->
-
+  
+  <!-- EN: Life support system -->
   <lifesupport.label>生命支持系统</lifesupport.label>
+  <!-- EN: A basic piece of technology made to keep the victim/patient alive. -->
   <lifesupport.description>为维持病人生命而制造的各种基本配件。</lifesupport.description>
-
-
+  
 </LanguageData>

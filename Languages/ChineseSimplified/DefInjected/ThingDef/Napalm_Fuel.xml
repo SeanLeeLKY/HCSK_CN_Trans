@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Fluids etc -->
-
+  
+  <!-- EN: napalm puddle -->
   <Napalm_Fuel.label>凝固汽油弹坑</Napalm_Fuel.label>
+  <!-- EN: Burns on the ground. -->
   <Napalm_Fuel.description>燃烧的地面。</Napalm_Fuel.description>
-
-
+  
 </LanguageData>

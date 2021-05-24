@@ -1,35 +1,79 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <TerminatorSkull.label>机器人颅骨</TerminatorSkull.label>
-  <TerminatorBrain.label>机器人AI大脑</TerminatorBrain.label>
-  <TerminatorEye.label>机器人眼</TerminatorEye.label>
-  <TerminatorEar.label>机器人耳</TerminatorEar.label>
-  <TerminatorNeck.label>机器人颈</TerminatorNeck.label>
-  <TerminatorNose.label>机器人鼻</TerminatorNose.label>
-  <TerminatorJaw.label>机器人颌</TerminatorJaw.label>
-  <TerminatorRibcage.label>机器人肋骨</TerminatorRibcage.label>
-  <TerminatorSpine.label>机器人脊柱</TerminatorSpine.label>
-  <TerminatorReactor.label>超级反应核心</TerminatorReactor.label>
-  <TerminatorLeg.label>机器人腿</TerminatorLeg.label>
-  <TerminatorFoot.label>机器人足</TerminatorFoot.label>
-  <TerminatorTorso.label>机器人躯干</TerminatorTorso.label>
-  <TerminatorShoulder.label>机器人肩</TerminatorShoulder.label>
+  
+  <!-- EN: android arm -->
   <TerminatorArm.label>机器人臂</TerminatorArm.label>
-  <TerminatorHand.label>机器人手</TerminatorHand.label>
-  <TerminatorFinger.label>机器人手指</TerminatorFinger.label>
-  <TerminatorToe.label>机器人脚趾</TerminatorToe.label>
-
-
-  <!-- Bones -->
-
+  
+  <!-- EN: android AI brain -->
+  <TerminatorBrain.label>机器人AI大脑</TerminatorBrain.label>
+  
+  <!-- EN: android clavicle -->
   <TerminatorClavicle.label>机器人锁骨</TerminatorClavicle.label>
-  <TerminatorSternum.label>胸骨</TerminatorSternum.label>
-  <TerminatorHumerus.label>机器人肱骨</TerminatorHumerus.label>
-  <TerminatorRadius.label>机器人桡骨</TerminatorRadius.label>
-  <TerminatorPelvis.label>机器人骨盆</TerminatorPelvis.label>
+  
+  <!-- EN: android ear -->
+  <TerminatorEar.label>机器人耳</TerminatorEar.label>
+  
+  <!-- EN: android eye -->
+  <TerminatorEye.label>机器人眼</TerminatorEye.label>
+  
+  <!-- EN: android femur -->
   <TerminatorFemur.label>机器人股骨</TerminatorFemur.label>
+  
+  <!-- EN: android finger -->
+  <TerminatorFinger.label>机器人手指</TerminatorFinger.label>
+  
+  <!-- EN: android foot -->
+  <TerminatorFoot.label>机器人足</TerminatorFoot.label>
+  
+  <!-- EN: android hand -->
+  <TerminatorHand.label>机器人手</TerminatorHand.label>
+  
+  <!-- EN: android humerus -->
+  <TerminatorHumerus.label>机器人肱骨</TerminatorHumerus.label>
+  
+  <!-- EN: android jaw -->
+  <TerminatorJaw.label>机器人颌</TerminatorJaw.label>
+  
+  <!-- EN: android leg -->
+  <TerminatorLeg.label>机器人腿</TerminatorLeg.label>
+  
+  <!-- EN: android neck -->
+  <TerminatorNeck.label>机器人颈</TerminatorNeck.label>
+  
+  <!-- EN: android nose -->
+  <TerminatorNose.label>机器人鼻</TerminatorNose.label>
+  
+  <!-- EN: android pelvis -->
+  <TerminatorPelvis.label>机器人骨盆</TerminatorPelvis.label>
+  
+  <!-- EN: android radius -->
+  <TerminatorRadius.label>机器人桡骨</TerminatorRadius.label>
+  
+  <!-- EN: powered reactor -->
+  <TerminatorReactor.label>超级反应核心</TerminatorReactor.label>
+  
+  <!-- EN: android ribcage -->
+  <TerminatorRibcage.label>机器人肋骨</TerminatorRibcage.label>
+  
+  <!-- EN: android shoulder -->
+  <TerminatorShoulder.label>机器人肩</TerminatorShoulder.label>
+  
+  <!-- EN: android skull -->
+  <TerminatorSkull.label>机器人颅骨</TerminatorSkull.label>
+  
+  <!-- EN: android spine -->
+  <TerminatorSpine.label>机器人脊柱</TerminatorSpine.label>
+  
+  <!-- EN: sternum -->
+  <TerminatorSternum.label>胸骨</TerminatorSternum.label>
+  
+  <!-- EN: android tibia -->
   <TerminatorTibia.label>机器人胫骨</TerminatorTibia.label>
-
-
+  
+  <!-- EN: android toe -->
+  <TerminatorToe.label>机器人脚趾</TerminatorToe.label>
+  
+  <!-- EN: android torso -->
+  <TerminatorTorso.label>机器人躯干</TerminatorTorso.label>
+  
 </LanguageData>

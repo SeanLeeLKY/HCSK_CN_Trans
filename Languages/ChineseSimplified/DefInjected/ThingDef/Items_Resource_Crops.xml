@@ -1,37 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Plant matter (inedible by people) -->
-
-  <Kibble.label>粗饲料</Kibble.label>
-  <Kibble.description>将肉和植物原料混合而成的动物粗饲料。人也能吃，但真的、真的没人喜欢。</Kibble.description>
-
-  <Hay.label>干草</Hay.label>
-  <Hay.description>营养丰富的草和幼芽，收获并压缩储存起来。干草是很好的饲料，但对于人类来说难以下咽。</Hay.description>
-
-  <Silage.label>青贮饲料</Silage.label>
-  <Silage.description>由干草和谷物发酵而成营养丰富的动物饲料。发酵可以防止青贮饲料腐坏。</Silage.description>
-
-  <RawHops.label>啤酒花</RawHops.label>
-  <RawHops.description>生的啤酒花。是酿制啤酒时必需的调味剂和保鲜剂。</RawHops.description>
-
-  <PsychoidLeaves.label>精神叶</PsychoidLeaves.label>
-  <PsychoidLeaves.description>从精神叶植物上收获的新鲜叶子。</PsychoidLeaves.description>
-
-  <SmokeleafLeaves.label>大麻叶</SmokeleafLeaves.label>
-  <SmokeleafLeaves.description>从大麻植物上收获的新鲜叶子，可以在手工加工台处被制成烟卷。</SmokeleafLeaves.description>
-
-  <NeutroPetals.label>中性花瓣</NeutroPetals.label>
-  <NeutroPetals.description>中性花的漂亮黄橙色花瓣。用于制作中性胺和药物。</NeutroPetals.description>
-
+  
+  <!-- EN: Aloe Leaves -->
   <aloe.label>芦荟叶</aloe.label>
+  <!-- EN: A bundle of Aloe Leaves from an Aloe Plant. Aloe Leaves are used as a type of natural medicine. -->
   <aloe.description>一捆芦荟植物的叶子。芦荟叶可以作为一种天然药物使用。</aloe.description>
-
+  
+  <!-- EN: Hay -->
+  <Hay.label>干草</Hay.label>
+  <!-- EN: Hay is nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is for good animal feed, but is inedible for humans. -->
+  <Hay.description>营养丰富的草和幼芽，收获并压缩储存起来。干草是很好的饲料，但对于人类来说难以下咽。</Hay.description>
+  
+  <!-- EN: Kibble -->
+  <Kibble.label>粗饲料</Kibble.label>
+  <!-- EN: Kibble animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
+  <Kibble.description>将肉和植物原料混合而成的动物粗饲料。人也能吃，但真的、真的没人喜欢。</Kibble.description>
+  
+  <!-- EN: Neutro Flower Petals -->
+  <NeutroPetals.label>中性花瓣</NeutroPetals.label>
+  <!-- EN: Beautiful Yellow-Orange Petals from the Neutro Flower. Used to make Neutroamine, a medicine base. -->
+  <NeutroPetals.description>中性花的漂亮黄橙色花瓣。用于制作中性胺和药物。</NeutroPetals.description>
+  
+  <!-- EN: psychoid leaves -->
+  <PsychoidLeaves.label>精神叶</PsychoidLeaves.label>
+  <!-- EN: Raw cut leaves of a psychoid plant. -->
+  <PsychoidLeaves.description>从精神叶植物上收获的新鲜叶子。</PsychoidLeaves.description>
+  
+  <!-- EN: Caoutchouc -->
   <RawCaoutchouc.label>天然橡胶</RawCaoutchouc.label>
+  <!-- EN: Caoutchouc is a natural rubber sap collected from a Hevea Tree. It can be vulcanized to create useful rubber materials. -->
   <RawCaoutchouc.description>橡胶液是从橡胶树中收集的天然橡胶树液。可以硫化制成有用的橡胶材料。</RawCaoutchouc.description>
-
-
-  <!--<Pemmican.label>干肉饼</Pemmican.label>-->
-  <!--<Pemmican.description>一种由肉食和素食混合脱水制成的食物。味道平平但又不会让人讨厌。无需冷藏即能保存很长时间，适合长途旅行。</Pemmican.description>-->
-
+  
+  <!-- EN: Hops -->
+  <RawHops.label>啤酒花</RawHops.label>
+  <!-- EN: Hops are flowers and seed cones of a Hops Plant. They are necessary as a flavoring and preserving agent for brewing Wort. -->
+  <RawHops.description>生的啤酒花。是酿制啤酒时必需的调味剂和保鲜剂。</RawHops.description>
+  
+  <!-- EN: Silage -->
+  <Silage.label>青贮饲料</Silage.label>
+  <!-- EN: Silage is nutrient-rich fermented hay and raw food product suitable for animal feed. The fermentation process preserves the silage and prevents it from rotting. -->
+  <Silage.description>由干草和谷物发酵而成营养丰富的动物饲料。发酵可以防止青贮饲料腐坏。</Silage.description>
+  
+  <!-- EN: smokeleaf leaves -->
+  <SmokeleafLeaves.label>大麻叶</SmokeleafLeaves.label>
+  <!-- EN: Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joint at a crafting spot. -->
+  <SmokeleafLeaves.description>从大麻植物上收获的新鲜叶子，可以在手工加工台处被制成烟卷。</SmokeleafLeaves.description>
+  
 </LanguageData>

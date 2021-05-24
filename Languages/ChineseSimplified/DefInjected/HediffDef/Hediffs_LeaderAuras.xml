@@ -1,29 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <LeaderWarriorAura.label>领袖光环-勇士</LeaderWarriorAura.label>
-  <LeaderWarriorAura.description>勇士光环</LeaderWarriorAura.description>
-  <LeaderWarriorAura.stages.0.label>等级1</LeaderWarriorAura.stages.0.label>
-  <LeaderWarriorAura.stages.1.label>等级2</LeaderWarriorAura.stages.1.label>
-  <LeaderWarriorAura.stages.2.label>等级3</LeaderWarriorAura.stages.2.label>
-  <LeaderWarriorAura.stages.3.label>等级4</LeaderWarriorAura.stages.3.label>
-  <LeaderWarriorAura.stages.4.label>等级5</LeaderWarriorAura.stages.4.label>
-
-  <LeaderWarlordAura.label>领袖光环-领主</LeaderWarlordAura.label>
-  <LeaderWarlordAura.description>领主光环</LeaderWarlordAura.description>
-  <LeaderWarlordAura.stages.0.label>等级1</LeaderWarlordAura.stages.0.label>
-  <LeaderWarlordAura.stages.1.label>等级2</LeaderWarlordAura.stages.1.label>
-  <LeaderWarlordAura.stages.2.label>等级3</LeaderWarlordAura.stages.2.label>
-  <LeaderWarlordAura.stages.3.label>等级4</LeaderWarlordAura.stages.3.label>
-  <LeaderWarlordAura.stages.4.label>等级5</LeaderWarlordAura.stages.4.label>
-
+  
+  <!-- EN: Leader Aura - Avenger -->
   <LeaderAvengerAura.label>领袖光环-复仇者</LeaderAvengerAura.label>
+  <!-- EN: Avenger Aura -->
   <LeaderAvengerAura.description>复仇者光环</LeaderAvengerAura.description>
-  <LeaderAvengerAura.stages.0.label>等级1</LeaderAvengerAura.stages.0.label>
-  <LeaderAvengerAura.stages.1.label>等级2</LeaderAvengerAura.stages.1.label>
-  <LeaderAvengerAura.stages.2.label>等级3</LeaderAvengerAura.stages.2.label>
-  <LeaderAvengerAura.stages.3.label>等级4</LeaderAvengerAura.stages.3.label>
-  <LeaderAvengerAura.stages.4.label>等级5</LeaderAvengerAura.stages.4.label>
-
-
+  <!-- EN: Level 1 -->
+  <LeaderAvengerAura.stages.Level_1.label>等级1</LeaderAvengerAura.stages.Level_1.label>
+  <!-- EN: Level 2 -->
+  <LeaderAvengerAura.stages.Level_2.label>等级2</LeaderAvengerAura.stages.Level_2.label>
+  <!-- EN: Level 3 -->
+  <LeaderAvengerAura.stages.Level_3.label>等级3</LeaderAvengerAura.stages.Level_3.label>
+  <!-- EN: Level 4 -->
+  <LeaderAvengerAura.stages.Level_4.label>等级4</LeaderAvengerAura.stages.Level_4.label>
+  <!-- EN: Level 5 -->
+  <LeaderAvengerAura.stages.Level_5.label>等级5</LeaderAvengerAura.stages.Level_5.label>
+  
+  <!-- EN: Leader Aura - Warlord -->
+  <LeaderWarlordAura.label>领袖光环-领主</LeaderWarlordAura.label>
+  <!-- EN: Warlord Aura -->
+  <LeaderWarlordAura.description>领主光环</LeaderWarlordAura.description>
+  <!-- EN: Level 1 -->
+  <LeaderWarlordAura.stages.Level_1.label>等级1</LeaderWarlordAura.stages.Level_1.label>
+  <!-- EN: Level 2 -->
+  <LeaderWarlordAura.stages.Level_2.label>等级2</LeaderWarlordAura.stages.Level_2.label>
+  <!-- EN: Level 3 -->
+  <LeaderWarlordAura.stages.Level_3.label>等级3</LeaderWarlordAura.stages.Level_3.label>
+  <!-- EN: Level 4 -->
+  <LeaderWarlordAura.stages.Level_4.label>等级4</LeaderWarlordAura.stages.Level_4.label>
+  <!-- EN: Level 5 -->
+  <LeaderWarlordAura.stages.Level_5.label>等级5</LeaderWarlordAura.stages.Level_5.label>
+  
+  <!-- EN: Leader Aura - Warrior -->
+  <LeaderWarriorAura.label>领袖光环-勇士</LeaderWarriorAura.label>
+  <!-- EN: Warrior Aura -->
+  <LeaderWarriorAura.description>勇士光环</LeaderWarriorAura.description>
+  <!-- EN: Level 1 -->
+  <LeaderWarriorAura.stages.Level_1.label>等级1</LeaderWarriorAura.stages.Level_1.label>
+  <!-- EN: Level 2 -->
+  <LeaderWarriorAura.stages.Level_2.label>等级2</LeaderWarriorAura.stages.Level_2.label>
+  <!-- EN: Level 3 -->
+  <LeaderWarriorAura.stages.Level_3.label>等级3</LeaderWarriorAura.stages.Level_3.label>
+  <!-- EN: Level 4 -->
+  <LeaderWarriorAura.stages.Level_4.label>等级4</LeaderWarriorAura.stages.Level_4.label>
+  <!-- EN: Level 5 -->
+  <LeaderWarriorAura.stages.Level_5.label>等级5</LeaderWarriorAura.stages.Level_5.label>
+  
 </LanguageData>

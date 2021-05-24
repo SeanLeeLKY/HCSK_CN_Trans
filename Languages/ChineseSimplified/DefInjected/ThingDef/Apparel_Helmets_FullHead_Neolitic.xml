@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: War mask -->
   <Apparel_WarMask.label>战争面具</Apparel_WarMask.label>
+  <!-- EN: A partial mask crafted out of a human's skull. There is something very unsettling about it. -->
   <Apparel_WarMask.description>外观精致而又吓人的战争面具。遮住面部，让人更有勇气。</Apparel_WarMask.description>
-
+  
+  <!-- EN: Horned Head Garment -->
   <Apparello_HornedHead.label>鹿角盔</Apparello_HornedHead.label>
+  <!-- EN: Lovingly crafted out of sturdiest horned head garment. You can almost feel the spirit of this brave animal beast within you. It's very warm and horny. -->
   <Apparello_HornedHead.description>用最坚固的角头精心制作而成。你内心深处几乎可以感受到这只勇敢野兽的精神。它非常的温暖，质感尚佳。</Apparello_HornedHead.description>
-
+  
+  <!-- EN: Thick Leather Head Garment -->
   <Apparello_Slughood.label>厚皮面具</Apparello_Slughood.label>
+  <!-- EN: A head piece that was lovingly crafted out of thick leather. You can almost feel the spirit of this determined beast within you. -->
   <Apparello_Slughood.description>用厚实的皮革精心制作的头饰。你内心深处几乎可以感受到这只坚定野兽的精神。</Apparello_Slughood.description>
-
-
+  
 </LanguageData>

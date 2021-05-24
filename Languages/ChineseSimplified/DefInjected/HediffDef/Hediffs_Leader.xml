@@ -1,29 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <LeaderWarrior.label>领袖-勇士</LeaderWarrior.label>
-  <LeaderWarrior.description>勇士</LeaderWarrior.description>
-  <LeaderWarrior.stages.0.label>等级1</LeaderWarrior.stages.0.label>
-  <LeaderWarrior.stages.1.label>等级2</LeaderWarrior.stages.1.label>
-  <LeaderWarrior.stages.2.label>等级3</LeaderWarrior.stages.2.label>
-  <LeaderWarrior.stages.3.label>等级4</LeaderWarrior.stages.3.label>
-  <LeaderWarrior.stages.4.label>等级5</LeaderWarrior.stages.4.label>
-
-  <LeaderWarlord.label>领袖-领主</LeaderWarlord.label>
-  <LeaderWarlord.description>领主</LeaderWarlord.description>
-  <LeaderWarlord.stages.0.label>等级1</LeaderWarlord.stages.0.label>
-  <LeaderWarlord.stages.1.label>等级2</LeaderWarlord.stages.1.label>
-  <LeaderWarlord.stages.2.label>等级3</LeaderWarlord.stages.2.label>
-  <LeaderWarlord.stages.3.label>等级4</LeaderWarlord.stages.3.label>
-  <LeaderWarlord.stages.4.label>等级5</LeaderWarlord.stages.4.label>
-
+  
+  <!-- EN: Leader - Avenger -->
   <LeaderAvenger.label>领袖-复仇者</LeaderAvenger.label>
+  <!-- EN: Avenger -->
   <LeaderAvenger.description>复仇者</LeaderAvenger.description>
-  <LeaderAvenger.stages.0.label>等级1</LeaderAvenger.stages.0.label>
-  <LeaderAvenger.stages.1.label>等级2</LeaderAvenger.stages.1.label>
-  <LeaderAvenger.stages.2.label>等级3</LeaderAvenger.stages.2.label>
-  <LeaderAvenger.stages.3.label>等级4</LeaderAvenger.stages.3.label>
-  <LeaderAvenger.stages.4.label>等级5</LeaderAvenger.stages.4.label>
-
-
+  <!-- EN: Level 1 -->
+  <LeaderAvenger.stages.Level_1.label>等级1</LeaderAvenger.stages.Level_1.label>
+  <!-- EN: Level 2 -->
+  <LeaderAvenger.stages.Level_2.label>等级2</LeaderAvenger.stages.Level_2.label>
+  <!-- EN: Level 3 -->
+  <LeaderAvenger.stages.Level_3.label>等级3</LeaderAvenger.stages.Level_3.label>
+  <!-- EN: Level 4 -->
+  <LeaderAvenger.stages.Level_4.label>等级4</LeaderAvenger.stages.Level_4.label>
+  <!-- EN: Level 5 -->
+  <LeaderAvenger.stages.Level_5.label>等级5</LeaderAvenger.stages.Level_5.label>
+  
+  <!-- EN: Leader - Warlord -->
+  <LeaderWarlord.label>领袖-领主</LeaderWarlord.label>
+  <!-- EN: Warlord Aura -->
+  <LeaderWarlord.description>领主</LeaderWarlord.description>
+  <!-- EN: Level 1 -->
+  <LeaderWarlord.stages.Level_1.label>等级1</LeaderWarlord.stages.Level_1.label>
+  <!-- EN: Level 2 -->
+  <LeaderWarlord.stages.Level_2.label>等级2</LeaderWarlord.stages.Level_2.label>
+  <!-- EN: Level 3 -->
+  <LeaderWarlord.stages.Level_3.label>等级3</LeaderWarlord.stages.Level_3.label>
+  <!-- EN: Level 4 -->
+  <LeaderWarlord.stages.Level_4.label>等级4</LeaderWarlord.stages.Level_4.label>
+  <!-- EN: Level 5 -->
+  <LeaderWarlord.stages.Level_5.label>等级5</LeaderWarlord.stages.Level_5.label>
+  
+  <!-- EN: Leader - Warrior -->
+  <LeaderWarrior.label>领袖-勇士</LeaderWarrior.label>
+  <!-- EN: Warrior -->
+  <LeaderWarrior.description>勇士</LeaderWarrior.description>
+  <!-- EN: Level 1 -->
+  <LeaderWarrior.stages.Level_1.label>等级1</LeaderWarrior.stages.Level_1.label>
+  <!-- EN: Level 2 -->
+  <LeaderWarrior.stages.Level_2.label>等级2</LeaderWarrior.stages.Level_2.label>
+  <!-- EN: Level 3 -->
+  <LeaderWarrior.stages.Level_3.label>等级3</LeaderWarrior.stages.Level_3.label>
+  <!-- EN: Level 4 -->
+  <LeaderWarrior.stages.Level_4.label>等级4</LeaderWarrior.stages.Level_4.label>
+  <!-- EN: Level 5 -->
+  <LeaderWarrior.stages.Level_5.label>等级5</LeaderWarrior.stages.Level_5.label>
+  
 </LanguageData>

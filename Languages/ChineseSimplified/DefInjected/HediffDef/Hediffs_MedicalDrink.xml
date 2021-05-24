@@ -1,15 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: antibiotics -->
   <MedicalDrink.label>抗生素</MedicalDrink.label>
+  <!-- EN: A concentrated extract of Healroot and some hops. Tastes awful but boosts the immune system. -->
   <MedicalDrink.description>使用酒花和草药混合提取物，经过纯化生产的药物。味道一言难尽，不过可以大大提高免疫力。</MedicalDrink.description>
-  <MedicalDrink.stages.0.label>初始</MedicalDrink.stages.0.label>
-  <MedicalDrink.stages.1.label>感觉好点了</MedicalDrink.stages.1.label>
-  <MedicalDrink.stages.2.label>提高免疫效率</MedicalDrink.stages.2.label>
-  <MedicalDrink.stages.3.label>多余</MedicalDrink.stages.3.label>
-  <MedicalDrink.stages.4.label>过量</MedicalDrink.stages.4.label>
-  <MedicalDrink.stages.5.label>严重过量</MedicalDrink.stages.5.label>
+  <!-- EN: an antibiotics -->
   <MedicalDrink.labelNoun>抗生素</MedicalDrink.labelNoun>
-
-
+  <!-- EN: buzzed-hidden -->
+  <MedicalDrink.stages.buzzedhidden.label>初始</MedicalDrink.stages.buzzedhidden.label>
+  <!-- EN: feeling better -->
+  <MedicalDrink.stages.feeling_better.label>感觉好点了</MedicalDrink.stages.feeling_better.label>
+  <!-- EN: boosted immunedefency -->
+  <MedicalDrink.stages.boosted_immunedefency.label>提高免疫效率</MedicalDrink.stages.boosted_immunedefency.label>
+  <!-- EN: hammered -->
+  <MedicalDrink.stages.hammered.label>多余</MedicalDrink.stages.hammered.label>
+  <!-- EN: overdose -->
+  <MedicalDrink.stages.overdose.label>过量</MedicalDrink.stages.overdose.label>
+  <!-- EN: serious overdose -->
+  <MedicalDrink.stages.serious_overdose.label>严重过量</MedicalDrink.stages.serious_overdose.label>
+  
 </LanguageData>

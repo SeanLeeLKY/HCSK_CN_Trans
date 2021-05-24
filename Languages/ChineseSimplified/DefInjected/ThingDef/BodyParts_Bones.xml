@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: artificial bone -->
   <ArtificialBone.label>人造骨头</ArtificialBone.label>
+  <!-- EN: A carefully crafted synthetic bone piece. It is useful for repairing damaged bones. -->
   <ArtificialBone.description>精心制作的人造合成骨头。对修复受损的骨骼很有帮助。</ArtificialBone.description>
-
-
+  
 </LanguageData>

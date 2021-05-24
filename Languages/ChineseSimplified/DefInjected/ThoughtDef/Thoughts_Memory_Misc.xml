@@ -1,20 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <NuzzledAllergic.stages.0.label>被亲昵</NuzzledAllergic.stages.0.label>
-  <NuzzledAllergic.stages.0.description>一只脏脏的小动物蹭了我一下。</NuzzledAllergic.stages.0.description>
-
-  <NuzzledAnimalLover.stages.0.label>被亲昵</NuzzledAnimalLover.stages.0.label>
-  <NuzzledAnimalLover.stages.0.description>一只可爱的小动物蹭了我一下。</NuzzledAnimalLover.stages.0.description>
-
-
-  <!-- Combat -->
-
-  <WitnessedDeathReaver.stages.0.label>目睹死亡</WitnessedDeathReaver.stages.0.label>
-  <WitnessedDeathReaver.stages.0.description>我看见有人死了！真刺激！</WitnessedDeathReaver.stages.0.description>
-
-  <KilledHumanlikeReaver.stages.0.label>杀了人</KilledHumanlikeReaver.stages.0.label>
-  <KilledHumanlikeReaver.stages.0.description>我亲手杀了一个人！爽爆了！</KilledHumanlikeReaver.stages.0.description>
-
-
+  
+  <!-- EN: killed someone -->
+  <KilledHumanlikeReaver.stages.killed_someone.label>杀了人</KilledHumanlikeReaver.stages.killed_someone.label>
+  <!-- EN: I killed someone! What a rush! -->
+  <KilledHumanlikeReaver.stages.killed_someone.description>我亲手杀了一个人！爽爆了！</KilledHumanlikeReaver.stages.killed_someone.description>
+  
+  <!-- EN: nuzzled -->
+  <NuzzledAllergic.stages.nuzzled.label>被亲昵</NuzzledAllergic.stages.nuzzled.label>
+  <!-- EN: A filthy animal nuzzled me. -->
+  <NuzzledAllergic.stages.nuzzled.description>一只脏脏的小动物蹭了我一下。</NuzzledAllergic.stages.nuzzled.description>
+  
+  <!-- EN: nuzzled -->
+  <NuzzledAnimalLover.stages.nuzzled.label>被亲昵</NuzzledAnimalLover.stages.nuzzled.label>
+  <!-- EN: A very cute animal nuzzled me. -->
+  <NuzzledAnimalLover.stages.nuzzled.description>一只可爱的小动物蹭了我一下。</NuzzledAnimalLover.stages.nuzzled.description>
+  
+  <!-- EN: witnessed death as Reaver -->
+  <WitnessedDeathReaver.stages.witnessed_death_as_Reaver.label>目睹死亡</WitnessedDeathReaver.stages.witnessed_death_as_Reaver.label>
+  <!-- EN: I saw someone die! That was intense! -->
+  <WitnessedDeathReaver.stages.witnessed_death_as_Reaver.description>我看见有人死了！真刺激！</WitnessedDeathReaver.stages.witnessed_death_as_Reaver.description>
+  
 </LanguageData>

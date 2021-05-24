@@ -1,18 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Special mental states not from mental breaks -->
-
-  <WanderConfusedCore.label>迷茫徘徊</WanderConfusedCore.label>
-  <WanderConfusedCore.beginLetter>{0}的脑海中充斥着伪人格核心制造的可怕幻象和回音。</WanderConfusedCore.beginLetter>
-  <WanderConfusedCore.beginLetterLabel>迷茫</WanderConfusedCore.beginLetterLabel>
-  <WanderConfusedCore.recoveryMessage>{0}的伪人格核心被遏制了。</WanderConfusedCore.recoveryMessage>
-  <WanderConfusedCore.baseInspectLine>心理状态：迷茫徘徊</WanderConfusedCore.baseInspectLine>
-
+  
+  <!-- EN: AI takeover -->
   <BerserkCore.label>失控AI</BerserkCore.label>
-  <BerserkCore.beginLetter>{0}的大脑被AI核心直接控制！\n\n[PAWN_pronoun]会攻击[PAWN_pronoun]视野中的任何人。</BerserkCore.beginLetter>
-  <BerserkCore.recoveryMessage>{0}的伪人格核心被遏制了。</BerserkCore.recoveryMessage>
+  <!-- EN: Mental state: AI takeover -->
   <BerserkCore.baseInspectLine>心理状态：失控AI</BerserkCore.baseInspectLine>
-
-
+  <!-- EN: {0}'s AI persona core has assumed direct control!\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <BerserkCore.beginLetter>{0}的大脑被AI核心直接控制！\n\n[PAWN_pronoun]会攻击[PAWN_pronoun]视野中的任何人。</BerserkCore.beginLetter>
+  <!-- EN: {0}'s AI persona core has been contained. -->
+  <BerserkCore.recoveryMessage>{0}的伪人格核心被遏制了。</BerserkCore.recoveryMessage>
+  
+  <!-- EN: confused wandering -->
+  <WanderConfusedCore.label>迷茫徘徊</WanderConfusedCore.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfusedCore.baseInspectLine>心理状态：迷茫徘徊</WanderConfusedCore.baseInspectLine>
+  <!-- EN: {0}'s mind is being flooded with terrible pictures and sounds by the AI persona core. -->
+  <WanderConfusedCore.beginLetter>{0}的脑海中充斥着伪人格核心制造的可怕幻象和回音。</WanderConfusedCore.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfusedCore.beginLetterLabel>迷茫</WanderConfusedCore.beginLetterLabel>
+  <!-- EN: {0}'s AI persona core has been contained. -->
+  <WanderConfusedCore.recoveryMessage>{0}的伪人格核心被遏制了。</WanderConfusedCore.recoveryMessage>
+  
 </LanguageData>

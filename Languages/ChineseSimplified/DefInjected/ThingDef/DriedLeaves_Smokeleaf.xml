@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: dried smokeleaf leaves -->
   <DriedLeavesSmokeleaf.label>干燥大麻叶</DriedLeavesSmokeleaf.label>
+  <!-- EN: Dried smokeleaves. Can be used for rolling joints at a crafting spot. -->
   <DriedLeavesSmokeleaf.description>干燥大麻叶。可以在手工点制成大麻烟。</DriedLeavesSmokeleaf.description>
-
-
+  
 </LanguageData>

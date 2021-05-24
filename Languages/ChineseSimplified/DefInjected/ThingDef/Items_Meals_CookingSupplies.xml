@@ -1,23 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <IceCream.label>冰淇淋</IceCream.label>
-  <IceCream.description>一种特别的甜点，不仅非常美味，还有助于缓解中暑症状。</IceCream.description>
-
-  <Chocomilk.label>巧克力牛奶</Chocomilk.label>
-  <Chocomilk.description>加了巧克力的牛奶。</Chocomilk.description>
-
-  <Caramel.label>焦糖</Caramel.label>
-  <Caramel.description>由糖制成的一种糖果。</Caramel.description>
-
-  <Chocolate.label>巧克力</Chocolate.label>
-  <Chocolate.description>一种美味食品，可可豆与糖和香草一起研磨制成。吃起来让人心情舒畅，但不是很营养。</Chocolate.description>
-
-  <Cheese.label>奶酪</Cheese.label>
-  <Cheese.description>一块奶酪，也叫芝士。</Cheese.description>
-
+  
+  <!-- EN: aged cheese -->
   <AgedCheese.label>陈年奶酪</AgedCheese.label>
+  <!-- EN: A piece of elite aged cheese. -->
   <AgedCheese.description>一块顶级陈年奶酪，也叫芝士。</AgedCheese.description>
-
-
+  
+  <!-- EN: Caramel -->
+  <Caramel.label>焦糖</Caramel.label>
+  <!-- EN: A sweet candy made from sugar. -->
+  <Caramel.description>由糖制成的一种糖果。</Caramel.description>
+  
+  <!-- EN: cheese -->
+  <Cheese.label>奶酪</Cheese.label>
+  <!-- EN: A piece of cheese. -->
+  <Cheese.description>一块奶酪，也叫芝士。</Cheese.description>
+  
+  <!-- EN: Chocolate -->
+  <Chocolate.label>巧克力</Chocolate.label>
+  <!-- EN: A delicious preparation of cocoa seeds ground together with sugar and vanilla. Very pleasurable to eat, but not very nutritious. -->
+  <Chocolate.description>一种美味食品，可可豆与糖和香草一起研磨制成。吃起来让人心情舒畅，但不是很营养。</Chocolate.description>
+  
+  <!-- EN: Chocolate Milk -->
+  <Chocomilk.label>巧克力牛奶</Chocomilk.label>
+  <!-- EN: Chocolate added to milk. -->
+  <Chocomilk.description>加了巧克力的牛奶。</Chocomilk.description>
+  
+  <!-- EN: Ice Cream -->
+  <IceCream.label>冰淇淋</IceCream.label>
+  <!-- EN: A special desert that is not only extreamly tasty, but also helps to ease heatstrokes. -->
+  <IceCream.description>一种特别的甜点，不仅非常美味，还有助于缓解中暑症状。</IceCream.description>
+  
 </LanguageData>

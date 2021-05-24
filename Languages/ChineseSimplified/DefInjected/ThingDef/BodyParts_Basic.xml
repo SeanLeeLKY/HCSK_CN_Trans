@@ -1,22 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- basic parts -->
-
-  <EyePatch.label>眼罩</EyePatch.label>
-  <EyePatch.description>把眼窝罩住。挺吓人的。</EyePatch.description>
-
-  <HookHand.label>钩手</HookHand.label>
-  <HookHand.description>代替缺失的手。哦呀，挺吓人的。</HookHand.description>
-
-  <Denture.label>义齿</Denture.label>
-  <Denture.description>用木制的牙齿代替确实的下巴。有点臭。</Denture.description>
-
+  
+  <!-- EN: cochlear implant -->
   <CochlearImplant.label>人工耳蜗</CochlearImplant.label>
+  <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
   <CochlearImplant.description>一个人工助听装置。缠绕在内耳的电极通过刺激听觉神经，将外部声音信号传送给使用者。效果不如天然的耳朵，但显然强于耳聋。</CochlearImplant.description>
-
+  
+  <!-- EN: denture -->
+  <Denture.label>义齿</Denture.label>
+  <!-- EN: Replaces a missing jaw with wooden teeth. Smells a bit. -->
+  <Denture.description>用木制的牙齿代替确实的下巴。有点臭。</Denture.description>
+  
+  <!-- EN: eye patch -->
+  <EyePatch.label>眼罩</EyePatch.label>
+  <!-- EN: Covers the eye socket. Intimidating. -->
+  <EyePatch.description>把眼窝罩住。挺吓人的。</EyePatch.description>
+  
+  <!-- EN: hook hand -->
+  <HookHand.label>钩手</HookHand.label>
+  <!-- EN: Replaces missing hands. Pretty scary. Yarr. -->
+  <HookHand.description>代替缺失的手。哦呀，挺吓人的。</HookHand.description>
+  
+  <!-- EN: prosthetic heart -->
   <SimpleProstheticHeart.label>人工心脏</SimpleProstheticHeart.label>
+  <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
   <SimpleProstheticHeart.description>一个人造的心脏，其中含有的马达可以稳定的把血液运输到全身。虽然使用者会经常报告说感到脱力，但显然好过其他选择。</SimpleProstheticHeart.description>
-
-
+  
 </LanguageData>

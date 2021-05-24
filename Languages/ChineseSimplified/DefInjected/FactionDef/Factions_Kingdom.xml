@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Kingdom -->
+  <MedievalKingdom.label>王国</MedievalKingdom.label>
+  <!-- EN: king -->
+  <MedievalKingdom.leaderTitle>国王</MedievalKingdom.leaderTitle>
+  <!-- EN: kingdom -->
+  <MedievalKingdom.pawnSingular>国民</MedievalKingdom.pawnSingular>
+  <!-- EN: kingdom -->
+  <MedievalKingdom.pawnsPlural>国民</MedievalKingdom.pawnsPlural>
+  <!-- EN: royal favor -->
+  <MedievalKingdom.royalFavorLabel>皇家宠臣</MedievalKingdom.royalFavorLabel>
+  
+</LanguageData>

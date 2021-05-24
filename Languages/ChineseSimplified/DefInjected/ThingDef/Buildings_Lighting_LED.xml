@@ -1,45 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- LED LIGHTS -->
-
-  <RopeLight.label>LED灯带</RopeLight.label>
-  <RopeLight.description>这种LED灯带可以附着在墙上或者其他建筑上。消耗25W的电力来照明，并且可以为某些无法到达的区域提供电力。</RopeLight.description>
-  <RopeLight_Blueprint.label>LED灯带（蓝图）</RopeLight_Blueprint.label>
-  <RopeLight_Blueprint_Install.label>LED灯带（蓝图）</RopeLight_Blueprint_Install.label>
-  <RopeLight_Frame.label>LED灯带（建造中）</RopeLight_Frame.label>
-  <RopeLight_Frame.description>这种LED灯带可以附着在墙上或者其他建筑上。消耗25W的电力来照明，并且可以为某些无法到达的区域提供电力。</RopeLight_Frame.description>
-
-
-  <!-- Standing LED Lighting -->
-
-  <StandingLampLEDsmall.label>LED落地灯（小）</StandingLampLEDsmall.label>
-  <StandingLampLEDsmall.description>照亮小片区域的LED落地灯。\n电力需求：5 W。</StandingLampLEDsmall.description>
-  <StandingLampLEDsmall_Blueprint.label>LED落地灯（小）（蓝图）</StandingLampLEDsmall_Blueprint.label>
-  <StandingLampLEDsmall_Blueprint_Install.label>LED落地灯（小）（蓝图）</StandingLampLEDsmall_Blueprint_Install.label>
-  <StandingLampLEDsmall_Frame.label>LED落地灯（小）（建造中）</StandingLampLEDsmall_Frame.label>
-  <StandingLampLEDsmall_Frame.description>照亮小片区域的LED落地灯。\n电力需求：5 W。</StandingLampLEDsmall_Frame.description>
-
-  <StandingLampLEDnormal.label>LED落地灯（中）</StandingLampLEDnormal.label>
-  <StandingLampLEDnormal.description>照亮一片区域的LED落地灯。\n电力需求：10 W。</StandingLampLEDnormal.description>
-  <StandingLampLEDnormal_Blueprint.label>LED落地灯（中）（蓝图）</StandingLampLEDnormal_Blueprint.label>
-  <StandingLampLEDnormal_Blueprint_Install.label>LED落地灯（中）（蓝图）</StandingLampLEDnormal_Blueprint_Install.label>
-  <StandingLampLEDnormal_Frame.label>LED落地灯（中）（建造中）</StandingLampLEDnormal_Frame.label>
-  <StandingLampLEDnormal_Frame.description>照亮一片区域的LED落地灯。\n电力需求：10 W。</StandingLampLEDnormal_Frame.description>
-
-  <StandingLampLEDlarge.label>LED落地灯（大）</StandingLampLEDlarge.label>
-  <StandingLampLEDlarge.description>照亮大片区域的LED落地灯。\n电力需求：15 W。</StandingLampLEDlarge.description>
-  <StandingLampLEDlarge_Blueprint.label>LED落地灯（大）（蓝图）</StandingLampLEDlarge_Blueprint.label>
-  <StandingLampLEDlarge_Blueprint_Install.label>LED落地灯（大）（蓝图）</StandingLampLEDlarge_Blueprint_Install.label>
-  <StandingLampLEDlarge_Frame.label>LED落地灯（大）（建造中）</StandingLampLEDlarge_Frame.label>
-  <StandingLampLEDlarge_Frame.description>照亮大片区域的LED落地灯。\n电力需求：15 W。</StandingLampLEDlarge_Frame.description>
-
+  
+  <!-- EN: ceiling LED lamp -->
   <CeilingLEDLamp.label>LED吊灯</CeilingLEDLamp.label>
+  <!-- EN: A ceiling LED lamp that lights an area. People need light to move and work at full speed. Must be placed under a roof. Requires 10 W. -->
   <CeilingLEDLamp.description>照亮一片区域的LED吊灯。人员需要在明亮的环境中才能正常工作和行动。这种灯必须放安装屋顶下面。\n电力需求：10 W。</CeilingLEDLamp.description>
-  <CeilingLEDLamp_Blueprint.label>LED吊灯（蓝图）</CeilingLEDLamp_Blueprint.label>
-  <CeilingLEDLamp_Blueprint_Install.label>LED吊灯（蓝图）</CeilingLEDLamp_Blueprint_Install.label>
-  <CeilingLEDLamp_Frame.label>LED吊灯（建造中）</CeilingLEDLamp_Frame.label>
-  <CeilingLEDLamp_Frame.description>照亮一片区域的LED吊灯。人员需要在明亮的环境中才能正常工作和行动。这种灯必须放安装屋顶下面。\n电力需求：10 W。</CeilingLEDLamp_Frame.description>
-
-
+  
+  <!-- EN: LED rope light -->
+  <RopeLight.label>LED灯带</RopeLight.label>
+  <!-- EN: This LED rope light can be placed over walls and other buildings. It requires 2 W and can be used to help move power around otherwise inaccessable areas. -->
+  <RopeLight.description>这种LED灯带可以附着在墙上或者其他建筑上。消耗25W的电力来照明，并且可以为某些无法到达的区域提供电力。</RopeLight.description>
+  
+  <!-- EN: standing LED lamp (large) -->
+  <StandingLampLEDlarge.label>LED落地灯（大）</StandingLampLEDlarge.label>
+  <!-- EN: A standing LED lamp that lights an large area. Requires 15 W. -->
+  <StandingLampLEDlarge.description>照亮大片区域的LED落地灯。\n电力需求：15 W。</StandingLampLEDlarge.description>
+  
+  <!-- EN: standing LED lamp (normal) -->
+  <StandingLampLEDnormal.label>LED落地灯（中）</StandingLampLEDnormal.label>
+  <!-- EN: A standing LED lamp that lights an area. Requires 10 W. -->
+  <StandingLampLEDnormal.description>照亮一片区域的LED落地灯。\n电力需求：10 W。</StandingLampLEDnormal.description>
+  
+  <!-- EN: standing LED lamp (small) -->
+  <StandingLampLEDsmall.label>LED落地灯（小）</StandingLampLEDsmall.label>
+  <!-- EN: A standing LED lamp that lights an small area. Requires 5 W. -->
+  <StandingLampLEDsmall.description>照亮小片区域的LED落地灯。\n电力需求：5 W。</StandingLampLEDsmall.description>
+  
 </LanguageData>

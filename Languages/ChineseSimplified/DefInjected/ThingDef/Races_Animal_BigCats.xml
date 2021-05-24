@@ -1,109 +1,81 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- BigCats -->
-
+  
+  <!-- EN: Cougar -->
   <Cougar.label>美洲狮</Cougar.label>
+  <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
   <Cougar.description>最危险的大型猫科动物之一，美洲狮长着长而锋利的牙齿和爪子，是独行猎手。它们会潜伏至猎物附近再发动袭击。\n\n它们的食谱中通常没有脆弱的人类，但也不会拒绝送到嘴边的人肉大餐。</Cougar.description>
-  <Cougar.tools.0.label>左爪</Cougar.tools.0.label>
-  <Cougar.tools.1.label>右爪</Cougar.tools.1.label>
-  <Cougar.tools.3.label>头</Cougar.tools.3.label>
-  <!-- <Cougar_Leather.label>美洲狮皮</Cougar_Leather.label>
-  <Cougar_Leather.description>美洲狮皮</Cougar_Leather.description>
-  <Cougar_Leather.stuffProps.stuffAdjective>美洲狮皮</Cougar_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Muffalo -->
-  <Cougar_Corpse.label>美洲狮尸体</Cougar_Corpse.label>
-  <Cougar_Corpse.description>美洲狮尸体</Cougar_Corpse.description>
-
-
-  <!-- BigCats -->
-
-  <Panther.label>黑豹</Panther.label>
-  <Panther.description>一种灵巧凶猛的大型猫科动物，发源于昔日地球的丛林之中。作为独行的潜行肉食动物，黑豹是狩猎大型猎物和小型猎物的大师。目击者倾向于关注他们优雅的动作，但近距离接触过的人才了解它们那足以摧毁颅骨的力量。</Panther.description>
-  <Panther.tools.0.label>左爪</Panther.tools.0.label>
-  <Panther.tools.1.label>右爪</Panther.tools.1.label>
-  <Panther.tools.3.label>头</Panther.tools.3.label>
-  <!-- <Panther_Leather.label>黑豹皮</Panther_Leather.label>
-  <Panther_Leather.description>黑豹皮</Panther_Leather.description>
-  <Panther_Leather.stuffProps.stuffAdjective>黑豹皮</Panther_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Muffalo -->
-  <Panther_Corpse.label>黑豹尸体</Panther_Corpse.label>
-  <Panther_Corpse.description>黑豹尸体</Panther_Corpse.description>
-
-
-  <!-- BigCats -->
-
-  <Lynx.label>猞猁</Lynx.label>
-  <Lynx.description>一种比家猫大，比美洲狮小的野生猫科动物。猞猁以捕食小型鸟类和动物为生。它们身上异常保暖的毛皮能够在北方地区的严寒下保护它们。</Lynx.description>
-  <Lynx.tools.0.label>左爪</Lynx.tools.0.label>
-  <Lynx.tools.1.label>右爪</Lynx.tools.1.label>
-  <Lynx.tools.3.label>头</Lynx.tools.3.label>
-  <!-- <Lynx_Leather.label>猞猁皮</Lynx_Leather.label>
-  <Lynx_Leather.description>猞猁皮</Lynx_Leather.description>
-  <Lynx_Leather.stuffProps.stuffAdjective>猞猁皮</Lynx_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Muffalo -->
-  <Lynx_Corpse.label>猞猁尸体</Lynx_Corpse.label>
-  <Lynx_Corpse.description>猞猁尸体</Lynx_Corpse.description>
-
-
-  <!-- BigCats -->
-
-  <Tiger.label>老虎</Tiger.label>
-  <Tiger.description>老虎是最大的猫科动物，最容易辨认的是它们的红色皮毛上的深色垂直条纹，底面较浅。老虎是顶级掠食者，主要捕食鹿和牛等有蹄类动物。它们有领地意识，通常是独居但群居的动物，通常需要大片相邻的栖息地来满足它们的猎物需求。</Tiger.description>
-  <Tiger.tools.0.label>左爪</Tiger.tools.0.label>
-  <Tiger.tools.1.label>右爪</Tiger.tools.1.label>
-  <Tiger.tools.3.label>头</Tiger.tools.3.label>
-  <!-- <Tiger_Leather.label>老虎皮</Tiger_Leather.label>
-  <Tiger_Leather.description>老虎皮</Tiger_Leather.description>
-  <Tiger_Leather.stuffProps.stuffAdjective>老虎皮</Tiger_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Muffalo -->
-  <Tiger_Corpse.label>老虎尸体</Tiger_Corpse.label>
-  <Tiger_Corpse.description>老虎尸体</Tiger_Corpse.description>
-
-
-  <!-- BigCats -->
-
-  <WhiteTiger.label>白虎</WhiteTiger.label>
-  <WhiteTiger.description>白虎是老虎的一种色素沉着变体。白虎因其皮毛的颜色而与众不同。皮毛呈白色是由于缺乏色素伪黑色素造成的，这种色素存在于毛色为橙色的老虎中。</WhiteTiger.description>
-  <WhiteTiger.tools.0.label>左爪</WhiteTiger.tools.0.label>
-  <WhiteTiger.tools.1.label>右爪</WhiteTiger.tools.1.label>
-  <WhiteTiger.tools.3.label>头</WhiteTiger.tools.3.label>
-  <!-- <WhiteTiger_Leather.label>白虎皮</WhiteTiger_Leather.label>
-  <WhiteTiger_Leather.description>白虎皮</WhiteTiger_Leather.description>
-  <WhiteTiger_Leather.stuffProps.stuffAdjective>白虎皮</WhiteTiger_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Muffalo -->
-  <WhiteTiger_Corpse.label>白虎尸体</WhiteTiger_Corpse.label>
-  <WhiteTiger_Corpse.description>白虎尸体</WhiteTiger_Corpse.description>
-
-
-  <!-- BigCats -->
-
-  <SnowLeopard.label>雪豹</SnowLeopard.label>
-  <SnowLeopard.description>敏捷而强大的大型猫科动物，生于寒冷的生物群落。 作为单独的伏击捕食者，雪豹是捕杀大小猎物的大师。 围观者倾向于将注意力集中在他们优美的动作上，而那些近距离接触的人通常会注意到他们的压碎头骨的力量。</SnowLeopard.description>
-  <SnowLeopard.tools.0.label>左爪</SnowLeopard.tools.0.label>
-  <SnowLeopard.tools.1.label>右爪</SnowLeopard.tools.1.label>
-  <SnowLeopard.tools.3.label>头</SnowLeopard.tools.3.label>
-  <!-- <SnowLeopard_Leather.label>雪豹皮</SnowLeopard_Leather.label>
-  <SnowLeopard_Leather.description>雪豹皮</SnowLeopard_Leather.description>
-  <SnowLeopard_Leather.stuffProps.stuffAdjective>雪豹皮</SnowLeopard_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Muffalo -->
-  <SnowLeopard_Corpse.label>雪豹尸体</SnowLeopard_Corpse.label>
-  <SnowLeopard_Corpse.description>雪豹尸体</SnowLeopard_Corpse.description>
-
-
-  <!-- BigCats -->
-
+  <!-- EN: left claw -->
+  <Cougar.tools.left_claw.label>左爪</Cougar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Cougar.tools.right_claw.label>右爪</Cougar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Cougar.tools.head.label>头</Cougar.tools.head.label>
+  
+  <!-- EN: Jaguar -->
   <Jaguar.label>美洲豹</Jaguar.label>
+  <!-- EN: The jaguar is the third-largest feline after the tiger and the lion. -->
   <Jaguar.description>美洲豹是仅次于老虎和狮子的第三大猫科动物。</Jaguar.description>
-  <Jaguar.tools.0.label>左爪</Jaguar.tools.0.label>
-  <Jaguar.tools.1.label>右爪</Jaguar.tools.1.label>
-  <Jaguar.tools.3.label>头</Jaguar.tools.3.label>
-  <!-- <Jaguar_Leather.label>美洲豹皮</Jaguar_Leather.label>
-  <Jaguar_Leather.description>美洲豹皮</Jaguar_Leather.description>
-  <Jaguar_Leather.stuffProps.stuffAdjective>美洲豹皮</Jaguar_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Muffalo -->
-  <Jaguar_Corpse.label>美洲豹尸体</Jaguar_Corpse.label>
-  <Jaguar_Corpse.description>美洲豹尸体</Jaguar_Corpse.description>
-
-
+  <!-- EN: left claw -->
+  <Jaguar.tools.left_claw.label>左爪</Jaguar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Jaguar.tools.right_claw.label>右爪</Jaguar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Jaguar.tools.head.label>头</Jaguar.tools.head.label>
+  
+  <!-- EN: Lynx -->
+  <Lynx.label>猞猁</Lynx.label>
+  <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their northern territories. -->
+  <Lynx.description>一种比家猫大，比美洲狮小的野生猫科动物。猞猁以捕食小型鸟类和动物为生。它们身上异常保暖的毛皮能够在北方地区的严寒下保护它们。</Lynx.description>
+  <!-- EN: left claw -->
+  <Lynx.tools.left_claw.label>左爪</Lynx.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Lynx.tools.right_claw.label>右爪</Lynx.tools.right_claw.label>
+  <!-- EN: head -->
+  <Lynx.tools.head.label>头</Lynx.tools.head.label>
+  
+  <!-- EN: Panther -->
+  <Panther.label>黑豹</Panther.label>
+  <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
+  <Panther.description>一种灵巧凶猛的大型猫科动物，发源于昔日地球的丛林之中。作为独行的潜行肉食动物，黑豹是狩猎大型猎物和小型猎物的大师。目击者倾向于关注他们优雅的动作，但近距离接触过的人才了解它们那足以摧毁颅骨的力量。</Panther.description>
+  <!-- EN: left claw -->
+  <Panther.tools.left_claw.label>左爪</Panther.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Panther.tools.right_claw.label>右爪</Panther.tools.right_claw.label>
+  <!-- EN: head -->
+  <Panther.tools.head.label>头</Panther.tools.head.label>
+  
+  <!-- EN: snow leopard -->
+  <SnowLeopard.label>雪豹</SnowLeopard.label>
+  <!-- EN: An agile and powerful big cat native to the cold biomes. As solitary ambush predators, Snow leopards are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
+  <SnowLeopard.description>敏捷而强大的大型猫科动物，生于寒冷的生物群落。 作为单独的伏击捕食者，雪豹是捕杀大小猎物的大师。 围观者倾向于将注意力集中在他们优美的动作上，而那些近距离接触的人通常会注意到他们的压碎头骨的力量。</SnowLeopard.description>
+  <!-- EN: left claw -->
+  <SnowLeopard.tools.left_claw.label>左爪</SnowLeopard.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SnowLeopard.tools.right_claw.label>右爪</SnowLeopard.tools.right_claw.label>
+  <!-- EN: head -->
+  <SnowLeopard.tools.head.label>头</SnowLeopard.tools.head.label>
+  
+  <!-- EN: Tiger -->
+  <Tiger.label>老虎</Tiger.label>
+  <!-- EN: The tiger is the largest cat species, most recognisable for their pattern of dark vertical stripes on reddish-orange fur with a lighter underside. Tigers are apex predators, primarily preying on ungulates such as deer and bovids. They are territorial and generally solitary but social animals, often requiring large contiguous areas of habitat that support their prey requirements. -->
+  <Tiger.description>老虎是最大的猫科动物，最容易辨认的是它们的红色皮毛上的深色垂直条纹，底面较浅。老虎是顶级掠食者，主要捕食鹿和牛等有蹄类动物。它们有领地意识，通常是独居但群居的动物，通常需要大片相邻的栖息地来满足它们的猎物需求。</Tiger.description>
+  <!-- EN: left claw -->
+  <Tiger.tools.left_claw.label>左爪</Tiger.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Tiger.tools.right_claw.label>右爪</Tiger.tools.right_claw.label>
+  <!-- EN: head -->
+  <Tiger.tools.head.label>头</Tiger.tools.head.label>
+  
+  <!-- EN: White tiger -->
+  <WhiteTiger.label>白虎</WhiteTiger.label>
+  <!-- EN: The white tiger is a pigmentation variant of the tiger. The white tigers are distinctive due to the color of their fur. The white fur caused by a lack of the pigment pheomelanin, which is found in tigers with orange color fur. -->
+  <WhiteTiger.description>白虎是老虎的一种色素沉着变体。白虎因其皮毛的颜色而与众不同。皮毛呈白色是由于缺乏色素伪黑色素造成的，这种色素存在于毛色为橙色的老虎中。</WhiteTiger.description>
+  <!-- EN: left claw -->
+  <WhiteTiger.tools.left_claw.label>左爪</WhiteTiger.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <WhiteTiger.tools.right_claw.label>右爪</WhiteTiger.tools.right_claw.label>
+  <!-- EN: head -->
+  <WhiteTiger.tools.head.label>头</WhiteTiger.tools.head.label>
+  
 </LanguageData>

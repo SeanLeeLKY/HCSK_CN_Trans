@@ -1,45 +1,73 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <SandstoneBoulder.label>砂岩陨石</SandstoneBoulder.label>
-  <SandstoneBoulder.description>一颗可以挖掘的砂岩陨石。</SandstoneBoulder.description>
-
-  <SlateBoulder.label>板岩陨石</SlateBoulder.label>
-  <SlateBoulder.description>一颗可以挖掘的板岩陨石。</SlateBoulder.description>
-
-  <IronBoulder.label>铁核陨石</IronBoulder.label>
-  <IronBoulder.description>一颗含有少量铁矿的陨石。</IronBoulder.description>
-
-  <LimestoneBoulder.label>石灰岩陨石</LimestoneBoulder.label>
-  <LimestoneBoulder.description>一颗可以挖掘的石灰岩陨石。</LimestoneBoulder.description>
-
-  <GraniteBoulder.label>花岗岩陨石</GraniteBoulder.label>
-  <GraniteBoulder.description>一颗可以挖掘的花岗岩陨石。</GraniteBoulder.description>
-
-  <CopperBoulder.label>铜核陨石</CopperBoulder.label>
-  <CopperBoulder.description>一颗可以挖掘的铜核陨石。</CopperBoulder.description>
-
-  <MarbleBoulder.label>大理石陨石</MarbleBoulder.label>
-  <MarbleBoulder.description>一颗可以挖掘的大理石陨石。</MarbleBoulder.description>
-
-  <MineralBoulder.label>铁核陨石</MineralBoulder.label>
-  <MineralBoulder.description>一颗含有少量铁矿的陨石。</MineralBoulder.description>
-
-  <SilverBoulder.label>银核陨石</SilverBoulder.label>
-  <SilverBoulder.description>一颗含有少量银矿的陨石。</SilverBoulder.description>
-
+  
+  <!-- EN: Aluminium Meteorite -->
   <AluminiumBoulder.label>铝核陨石</AluminiumBoulder.label>
+  <!-- EN: A Meteorite containing trace amounts of Bauxite Ore. -->
   <AluminiumBoulder.description>一颗含有少量铝土矿的陨石。</AluminiumBoulder.description>
-
-  <UraniumBoulder.label>铀核陨石</UraniumBoulder.label>
-  <UraniumBoulder.description>一颗含有少量铀矿的陨石。</UraniumBoulder.description>
-
+  
+  <!-- EN: Big meteorite -->
   <BigIronBoulder.label>巨型陨石</BigIronBoulder.label>
+  <!-- EN: A Huge meteorite containing a lot amounts of Iron Ore. -->
   <BigIronBoulder.description>一颗含有大量铁矿的陨石。</BigIronBoulder.description>
-
-  <MeteorIncoming.label>陨石来袭！</MeteorIncoming.label>
-  <Thing_MeteorSpawner.label>陨石生成器</Thing_MeteorSpawner.label>
+  
+  <!-- EN: Copper Meteorite -->
+  <CopperBoulder.label>铜核陨石</CopperBoulder.label>
+  <!-- EN: A Meteorite mineable for Copper Ore. -->
+  <CopperBoulder.description>一颗可以挖掘的铜核陨石。</CopperBoulder.description>
+  
+  <!-- EN: Granite Meteorite -->
+  <GraniteBoulder.label>花岗岩陨石</GraniteBoulder.label>
+  <!-- EN: A Meteorite mineable for Granite. -->
+  <GraniteBoulder.description>一颗可以挖掘的花岗岩陨石。</GraniteBoulder.description>
+  
+  <!-- EN: Iron Meteorite -->
+  <IronBoulder.label>铁核陨石</IronBoulder.label>
+  <!-- EN: A Meteorite Containing trace amounts of Iron Ore. -->
+  <IronBoulder.description>一颗含有少量铁矿的陨石。</IronBoulder.description>
+  
+  <!-- EN: Limestone Meteorite -->
+  <LimestoneBoulder.label>石灰岩陨石</LimestoneBoulder.label>
+  <!-- EN: A Meteorite mineable for Limestone. -->
+  <LimestoneBoulder.description>一颗可以挖掘的石灰岩陨石。</LimestoneBoulder.description>
+  
+  <!-- EN: Marble Meteorite -->
+  <MarbleBoulder.label>大理石陨石</MarbleBoulder.label>
+  <!-- EN: A Meteorite mineable for Marble. -->
+  <MarbleBoulder.description>一颗可以挖掘的大理石陨石。</MarbleBoulder.description>
+  
+  <!-- EN: Meteor -->
   <Meteor.label>陨石</Meteor.label>
-
-
+  
+  <!-- EN: Meteor (Incoming!) -->
+  <MeteorIncoming.label>陨石来袭！</MeteorIncoming.label>
+  
+  <!-- EN: Iron Meteorite -->
+  <MineralBoulder.label>铁核陨石</MineralBoulder.label>
+  <!-- EN: A Meteorite containing trace amounts of Iron Ore. -->
+  <MineralBoulder.description>一颗含有少量铁矿的陨石。</MineralBoulder.description>
+  
+  <!-- EN: Sandstone Meteorite -->
+  <SandstoneBoulder.label>砂岩陨石</SandstoneBoulder.label>
+  <!-- EN: A Meteorite mineable for Sandstone. -->
+  <SandstoneBoulder.description>一颗可以挖掘的砂岩陨石。</SandstoneBoulder.description>
+  
+  <!-- EN: Silver Meteorite -->
+  <SilverBoulder.label>银核陨石</SilverBoulder.label>
+  <!-- EN: A Meteorite containing trace amounts of Silver Ore. -->
+  <SilverBoulder.description>一颗含有少量银矿的陨石。</SilverBoulder.description>
+  
+  <!-- EN: Slate Meteorite -->
+  <SlateBoulder.label>板岩陨石</SlateBoulder.label>
+  <!-- EN: A Meteorite mineable for Slate. -->
+  <SlateBoulder.description>一颗可以挖掘的板岩陨石。</SlateBoulder.description>
+  
+  <!-- EN: Meteor Spawner -->
+  <Thing_MeteorSpawner.label>陨石生成器</Thing_MeteorSpawner.label>
+  
+  <!-- EN: Uranium Meteorite -->
+  <UraniumBoulder.label>铀核陨石</UraniumBoulder.label>
+  <!-- EN: A Meteorite containing trace amounts of Uranium Ore. -->
+  <UraniumBoulder.description>一颗含有少量铀矿的陨石。</UraniumBoulder.description>
+  
 </LanguageData>

@@ -1,105 +1,82 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: grizzly bear -->
   <Bear_Grizzly.label>灰熊</Bear_Grizzly.label>
-  <Bear_Grizzly.labelPlural>灰熊</Bear_Grizzly.labelPlural>
-  <Bear_Grizzly.lifeStages.0.label>灰熊幼崽</Bear_Grizzly.lifeStages.0.label>
-  <Bear_Grizzly.lifeStages.0.labelPlural>灰熊幼崽</Bear_Grizzly.lifeStages.0.labelPlural>
-  <Bear_Grizzly.lifeStages.0.labelMale>灰熊幼崽</Bear_Grizzly.lifeStages.0.labelMale>
-  <Bear_Grizzly.lifeStages.0.labelMalePlural>灰熊幼崽</Bear_Grizzly.lifeStages.0.labelMalePlural>
-  <Bear_Grizzly.lifeStages.0.labelFemale>灰熊幼崽</Bear_Grizzly.lifeStages.0.labelFemale>
-  <Bear_Grizzly.lifeStages.0.labelFemalePlural>灰熊幼崽</Bear_Grizzly.lifeStages.0.labelFemalePlural>
-  <Bear_Grizzly.lifeStages.1.label>幼年灰熊</Bear_Grizzly.lifeStages.1.label>
-  <Bear_Grizzly.lifeStages.1.labelPlural>幼年灰熊</Bear_Grizzly.lifeStages.1.labelPlural>
-  <Bear_Grizzly.lifeStages.1.labelMale>幼年公灰熊</Bear_Grizzly.lifeStages.1.labelMale>
-  <Bear_Grizzly.lifeStages.1.labelMalePlural>幼年公灰熊</Bear_Grizzly.lifeStages.1.labelMalePlural>
-  <Bear_Grizzly.lifeStages.1.labelFemale>幼年母灰熊</Bear_Grizzly.lifeStages.1.labelFemale>
-  <Bear_Grizzly.lifeStages.1.labelFemalePlural>幼年母灰熊</Bear_Grizzly.lifeStages.1.labelFemalePlural>
-  <Bear_Grizzly.lifeStages.2.label>灰熊</Bear_Grizzly.lifeStages.2.label>
-  <Bear_Grizzly.lifeStages.2.labelPlural>灰熊</Bear_Grizzly.lifeStages.2.labelPlural>
-  <Bear_Grizzly.lifeStages.2.labelMale>公灰熊</Bear_Grizzly.lifeStages.2.labelMale>
-  <Bear_Grizzly.lifeStages.2.labelMalePlural>公灰熊</Bear_Grizzly.lifeStages.2.labelMalePlural>
-  <Bear_Grizzly.lifeStages.2.labelFemale>母灰熊</Bear_Grizzly.lifeStages.2.labelFemale>
-  <Bear_Grizzly.lifeStages.2.labelFemalePlural>母灰熊</Bear_Grizzly.lifeStages.2.labelFemalePlural>
-  <Bear_Grizzly.labelMale>公灰熊</Bear_Grizzly.labelMale>
-  <Bear_Grizzly.labelMalePlural>公灰熊</Bear_Grizzly.labelMalePlural>
   <Bear_Grizzly.labelFemale>母灰熊</Bear_Grizzly.labelFemale>
   <Bear_Grizzly.labelFemalePlural>母灰熊</Bear_Grizzly.labelFemalePlural>
-
+  <Bear_Grizzly.labelMale>公灰熊</Bear_Grizzly.labelMale>
+  <Bear_Grizzly.labelMalePlural>公灰熊</Bear_Grizzly.labelMalePlural>
+  <Bear_Grizzly.labelPlural>灰熊</Bear_Grizzly.labelPlural>
+  <Bear_Grizzly.lifeStages.0.label>灰熊幼崽</Bear_Grizzly.lifeStages.0.label>
+  <Bear_Grizzly.lifeStages.0.labelFemale>灰熊幼崽</Bear_Grizzly.lifeStages.0.labelFemale>
+  <Bear_Grizzly.lifeStages.0.labelFemalePlural>灰熊幼崽</Bear_Grizzly.lifeStages.0.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.0.labelMale>灰熊幼崽</Bear_Grizzly.lifeStages.0.labelMale>
+  <Bear_Grizzly.lifeStages.0.labelMalePlural>灰熊幼崽</Bear_Grizzly.lifeStages.0.labelMalePlural>
+  <Bear_Grizzly.lifeStages.0.labelPlural>灰熊幼崽</Bear_Grizzly.lifeStages.0.labelPlural>
+  <Bear_Grizzly.lifeStages.1.label>幼年灰熊</Bear_Grizzly.lifeStages.1.label>
+  <Bear_Grizzly.lifeStages.1.labelFemale>幼年母灰熊</Bear_Grizzly.lifeStages.1.labelFemale>
+  <Bear_Grizzly.lifeStages.1.labelFemalePlural>幼年母灰熊</Bear_Grizzly.lifeStages.1.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.1.labelMale>幼年公灰熊</Bear_Grizzly.lifeStages.1.labelMale>
+  <Bear_Grizzly.lifeStages.1.labelMalePlural>幼年公灰熊</Bear_Grizzly.lifeStages.1.labelMalePlural>
+  <Bear_Grizzly.lifeStages.1.labelPlural>幼年灰熊</Bear_Grizzly.lifeStages.1.labelPlural>
+  <Bear_Grizzly.lifeStages.2.label>灰熊</Bear_Grizzly.lifeStages.2.label>
+  <Bear_Grizzly.lifeStages.2.labelFemale>母灰熊</Bear_Grizzly.lifeStages.2.labelFemale>
+  <Bear_Grizzly.lifeStages.2.labelFemalePlural>母灰熊</Bear_Grizzly.lifeStages.2.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.2.labelMale>公灰熊</Bear_Grizzly.lifeStages.2.labelMale>
+  <Bear_Grizzly.lifeStages.2.labelMalePlural>公灰熊</Bear_Grizzly.lifeStages.2.labelMalePlural>
+  <Bear_Grizzly.lifeStages.2.labelPlural>灰熊</Bear_Grizzly.lifeStages.2.labelPlural>
+  
+  <!-- EN: polar bear -->
   <Bear_Polar.label>北极熊</Bear_Polar.label>
-  <Bear_Polar.labelPlural>北极熊</Bear_Polar.labelPlural>
-  <Bear_Polar.lifeStages.0.label>北极熊幼崽</Bear_Polar.lifeStages.0.label>
-  <Bear_Polar.lifeStages.0.labelPlural>北极熊幼崽</Bear_Polar.lifeStages.0.labelPlural>
-  <Bear_Polar.lifeStages.0.labelMale>北极熊幼崽</Bear_Polar.lifeStages.0.labelMale>
-  <Bear_Polar.lifeStages.0.labelMalePlural>北极熊幼崽</Bear_Polar.lifeStages.0.labelMalePlural>
-  <Bear_Polar.lifeStages.0.labelFemale>北极熊幼崽</Bear_Polar.lifeStages.0.labelFemale>
-  <Bear_Polar.lifeStages.0.labelFemalePlural>北极熊幼崽</Bear_Polar.lifeStages.0.labelFemalePlural>
-  <Bear_Polar.lifeStages.1.label>幼年北极熊</Bear_Polar.lifeStages.1.label>
-  <Bear_Polar.lifeStages.1.labelPlural>幼年北极熊</Bear_Polar.lifeStages.1.labelPlural>
-  <Bear_Polar.lifeStages.1.labelMale>幼年公北极熊</Bear_Polar.lifeStages.1.labelMale>
-  <Bear_Polar.lifeStages.1.labelMalePlural>幼年公北极熊</Bear_Polar.lifeStages.1.labelMalePlural>
-  <Bear_Polar.lifeStages.1.labelFemale>幼年母北极熊</Bear_Polar.lifeStages.1.labelFemale>
-  <Bear_Polar.lifeStages.1.labelFemalePlural>幼年母北极熊</Bear_Polar.lifeStages.1.labelFemalePlural>
-  <Bear_Polar.lifeStages.2.label>北极熊</Bear_Polar.lifeStages.2.label>
-  <Bear_Polar.lifeStages.2.labelPlural>北极熊</Bear_Polar.lifeStages.2.labelPlural>
-  <Bear_Polar.lifeStages.2.labelMale>公北极熊</Bear_Polar.lifeStages.2.labelMale>
-  <Bear_Polar.lifeStages.2.labelMalePlural>公北极熊</Bear_Polar.lifeStages.2.labelMalePlural>
-  <Bear_Polar.lifeStages.2.labelFemale>母北极熊</Bear_Polar.lifeStages.2.labelFemale>
-  <Bear_Polar.lifeStages.2.labelFemalePlural>母北极熊</Bear_Polar.lifeStages.2.labelFemalePlural>
-  <Bear_Polar.labelMale>公北极熊</Bear_Polar.labelMale>
-  <Bear_Polar.labelMalePlural>公北极熊</Bear_Polar.labelMalePlural>
   <Bear_Polar.labelFemale>母北极熊</Bear_Polar.labelFemale>
   <Bear_Polar.labelFemalePlural>母北极熊</Bear_Polar.labelFemalePlural>
-
+  <Bear_Polar.labelMale>公北极熊</Bear_Polar.labelMale>
+  <Bear_Polar.labelMalePlural>公北极熊</Bear_Polar.labelMalePlural>
+  <Bear_Polar.labelPlural>北极熊</Bear_Polar.labelPlural>
+  <Bear_Polar.lifeStages.0.label>北极熊幼崽</Bear_Polar.lifeStages.0.label>
+  <Bear_Polar.lifeStages.0.labelFemale>北极熊幼崽</Bear_Polar.lifeStages.0.labelFemale>
+  <Bear_Polar.lifeStages.0.labelFemalePlural>北极熊幼崽</Bear_Polar.lifeStages.0.labelFemalePlural>
+  <Bear_Polar.lifeStages.0.labelMale>北极熊幼崽</Bear_Polar.lifeStages.0.labelMale>
+  <Bear_Polar.lifeStages.0.labelMalePlural>北极熊幼崽</Bear_Polar.lifeStages.0.labelMalePlural>
+  <Bear_Polar.lifeStages.0.labelPlural>北极熊幼崽</Bear_Polar.lifeStages.0.labelPlural>
+  <Bear_Polar.lifeStages.1.label>幼年北极熊</Bear_Polar.lifeStages.1.label>
+  <Bear_Polar.lifeStages.1.labelFemale>幼年母北极熊</Bear_Polar.lifeStages.1.labelFemale>
+  <Bear_Polar.lifeStages.1.labelFemalePlural>幼年母北极熊</Bear_Polar.lifeStages.1.labelFemalePlural>
+  <Bear_Polar.lifeStages.1.labelMale>幼年公北极熊</Bear_Polar.lifeStages.1.labelMale>
+  <Bear_Polar.lifeStages.1.labelMalePlural>幼年公北极熊</Bear_Polar.lifeStages.1.labelMalePlural>
+  <Bear_Polar.lifeStages.1.labelPlural>幼年北极熊</Bear_Polar.lifeStages.1.labelPlural>
+  <Bear_Polar.lifeStages.2.label>北极熊</Bear_Polar.lifeStages.2.label>
+  <Bear_Polar.lifeStages.2.labelFemale>母北极熊</Bear_Polar.lifeStages.2.labelFemale>
+  <Bear_Polar.lifeStages.2.labelFemalePlural>母北极熊</Bear_Polar.lifeStages.2.labelFemalePlural>
+  <Bear_Polar.lifeStages.2.labelMale>公北极熊</Bear_Polar.lifeStages.2.labelMale>
+  <Bear_Polar.lifeStages.2.labelMalePlural>公北极熊</Bear_Polar.lifeStages.2.labelMalePlural>
+  <Bear_Polar.lifeStages.2.labelPlural>北极熊</Bear_Polar.lifeStages.2.labelPlural>
+  
+  <!-- EN: panda -->
   <PandaBear.label>熊猫</PandaBear.label>
-  <PandaBear.labelPlural>熊猫</PandaBear.labelPlural>
-  <PandaBear.lifeStages.0.label>熊猫</PandaBear.lifeStages.0.label>
-  <PandaBear.lifeStages.0.labelPlural>熊猫</PandaBear.lifeStages.0.labelPlural>
-  <PandaBear.lifeStages.0.labelMale>雄性熊猫</PandaBear.lifeStages.0.labelMale>
-  <PandaBear.lifeStages.0.labelMalePlural>雄性熊猫</PandaBear.lifeStages.0.labelMalePlural>
-  <PandaBear.lifeStages.0.labelFemale>雌性熊猫</PandaBear.lifeStages.0.labelFemale>
-  <PandaBear.lifeStages.0.labelFemalePlural>雌性熊猫</PandaBear.lifeStages.0.labelFemalePlural>
-  <PandaBear.lifeStages.1.label>熊猫</PandaBear.lifeStages.1.label>
-  <PandaBear.lifeStages.1.labelPlural>熊猫</PandaBear.lifeStages.1.labelPlural>
-  <PandaBear.lifeStages.1.labelMale>雄性熊猫</PandaBear.lifeStages.1.labelMale>
-  <PandaBear.lifeStages.1.labelMalePlural>雄性熊猫</PandaBear.lifeStages.1.labelMalePlural>
-  <PandaBear.lifeStages.1.labelFemale>雌性熊猫</PandaBear.lifeStages.1.labelFemale>
-  <PandaBear.lifeStages.1.labelFemalePlural>雌性熊猫</PandaBear.lifeStages.1.labelFemalePlural>
-  <PandaBear.lifeStages.2.label>熊猫</PandaBear.lifeStages.2.label>
-  <PandaBear.lifeStages.2.labelPlural>熊猫</PandaBear.lifeStages.2.labelPlural>
-  <PandaBear.lifeStages.2.labelMale>雄性熊猫</PandaBear.lifeStages.2.labelMale>
-  <PandaBear.lifeStages.2.labelMalePlural>雄性熊猫</PandaBear.lifeStages.2.labelMalePlural>
-  <PandaBear.lifeStages.2.labelFemale>雌性熊猫</PandaBear.lifeStages.2.labelFemale>
-  <PandaBear.lifeStages.2.labelFemalePlural>雌性熊猫</PandaBear.lifeStages.2.labelFemalePlural>
-  <PandaBear.labelMale>雄性熊猫</PandaBear.labelMale>
-  <PandaBear.labelMalePlural>雄性熊猫</PandaBear.labelMalePlural>
   <PandaBear.labelFemale>雌性熊猫</PandaBear.labelFemale>
   <PandaBear.labelFemalePlural>雌性熊猫</PandaBear.labelFemalePlural>
-
-
-  <!--<Blackbear.label>黑熊</Blackbear.label>-->
-  <!--<Blackbear.labelPlural>黑熊</Blackbear.labelPlural>-->
-  <!--<Blackbear.lifeStages.0.label>黑熊</Blackbear.lifeStages.0.label>-->
-  <!--<Blackbear.lifeStages.0.labelPlural>黑熊</Blackbear.lifeStages.0.labelPlural>-->
-  <!--<Blackbear.lifeStages.0.labelMale>雄性黑熊</Blackbear.lifeStages.0.labelMale>-->
-  <!--<Blackbear.lifeStages.0.labelMalePlural>雄性黑熊</Blackbear.lifeStages.0.labelMalePlural>-->
-  <!--<Blackbear.lifeStages.0.labelFemale>雌性黑熊</Blackbear.lifeStages.0.labelFemale>-->
-  <!--<Blackbear.lifeStages.0.labelFemalePlural>雌性黑熊</Blackbear.lifeStages.0.labelFemalePlural>-->
-  <!--<Blackbear.lifeStages.1.label>黑熊</Blackbear.lifeStages.1.label>-->
-  <!--<Blackbear.lifeStages.1.labelPlural>黑熊</Blackbear.lifeStages.1.labelPlural>-->
-  <!--<Blackbear.lifeStages.1.labelMale>雄性黑熊</Blackbear.lifeStages.1.labelMale>-->
-  <!--<Blackbear.lifeStages.1.labelMalePlural>雄性黑熊</Blackbear.lifeStages.1.labelMalePlural>-->
-  <!--<Blackbear.lifeStages.1.labelFemale>雌性黑熊</Blackbear.lifeStages.1.labelFemale>-->
-  <!--<Blackbear.lifeStages.1.labelFemalePlural>雌性黑熊</Blackbear.lifeStages.1.labelFemalePlural>-->
-  <!--<Blackbear.lifeStages.2.label>黑熊</Blackbear.lifeStages.2.label>-->
-  <!--<Blackbear.lifeStages.2.labelPlural>黑熊</Blackbear.lifeStages.2.labelPlural>-->
-  <!--<Blackbear.lifeStages.2.labelMale>雄性黑熊</Blackbear.lifeStages.2.labelMale>-->
-  <!--<Blackbear.lifeStages.2.labelMalePlural>雄性黑熊</Blackbear.lifeStages.2.labelMalePlural>-->
-  <!--<Blackbear.lifeStages.2.labelFemale>雌性黑熊</Blackbear.lifeStages.2.labelFemale>-->
-  <!--<Blackbear.lifeStages.2.labelFemalePlural>雌性黑熊</Blackbear.lifeStages.2.labelFemalePlural>-->
-  <!--<Blackbear.labelMale>雄性黑熊</Blackbear.labelMale>-->
-  <!--<Blackbear.labelMalePlural>雄性黑熊</Blackbear.labelMalePlural>-->
-  <!--<Blackbear.labelFemale>雌性黑熊</Blackbear.labelFemale>-->
-  <!--<Blackbear.labelFemalePlural>雌性黑熊</Blackbear.labelFemalePlural>-->
-
+  <PandaBear.labelMale>雄性熊猫</PandaBear.labelMale>
+  <PandaBear.labelMalePlural>雄性熊猫</PandaBear.labelMalePlural>
+  <PandaBear.labelPlural>熊猫</PandaBear.labelPlural>
+  <PandaBear.lifeStages.0.label>熊猫</PandaBear.lifeStages.0.label>
+  <PandaBear.lifeStages.0.labelFemale>雌性熊猫</PandaBear.lifeStages.0.labelFemale>
+  <PandaBear.lifeStages.0.labelFemalePlural>雌性熊猫</PandaBear.lifeStages.0.labelFemalePlural>
+  <PandaBear.lifeStages.0.labelMale>雄性熊猫</PandaBear.lifeStages.0.labelMale>
+  <PandaBear.lifeStages.0.labelMalePlural>雄性熊猫</PandaBear.lifeStages.0.labelMalePlural>
+  <PandaBear.lifeStages.0.labelPlural>熊猫</PandaBear.lifeStages.0.labelPlural>
+  <PandaBear.lifeStages.1.label>熊猫</PandaBear.lifeStages.1.label>
+  <PandaBear.lifeStages.1.labelFemale>雌性熊猫</PandaBear.lifeStages.1.labelFemale>
+  <PandaBear.lifeStages.1.labelFemalePlural>雌性熊猫</PandaBear.lifeStages.1.labelFemalePlural>
+  <PandaBear.lifeStages.1.labelMale>雄性熊猫</PandaBear.lifeStages.1.labelMale>
+  <PandaBear.lifeStages.1.labelMalePlural>雄性熊猫</PandaBear.lifeStages.1.labelMalePlural>
+  <PandaBear.lifeStages.1.labelPlural>熊猫</PandaBear.lifeStages.1.labelPlural>
+  <PandaBear.lifeStages.2.label>熊猫</PandaBear.lifeStages.2.label>
+  <PandaBear.lifeStages.2.labelFemale>雌性熊猫</PandaBear.lifeStages.2.labelFemale>
+  <PandaBear.lifeStages.2.labelFemalePlural>雌性熊猫</PandaBear.lifeStages.2.labelFemalePlural>
+  <PandaBear.lifeStages.2.labelMale>雄性熊猫</PandaBear.lifeStages.2.labelMale>
+  <PandaBear.lifeStages.2.labelMalePlural>雄性熊猫</PandaBear.lifeStages.2.labelMalePlural>
+  <PandaBear.lifeStages.2.labelPlural>熊猫</PandaBear.lifeStages.2.labelPlural>
+  
 </LanguageData>

@@ -1,21 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <OverheatMechanoid.label>过热</OverheatMechanoid.label>
-  <OverheatMechanoid.description>过热导致的系统错误。</OverheatMechanoid.description>
-  <OverheatMechanoid.stages.0.label>初始</OverheatMechanoid.stages.0.label>
-  <OverheatMechanoid.stages.1.label>初期</OverheatMechanoid.stages.1.label>
-  <OverheatMechanoid.stages.2.label>轻度</OverheatMechanoid.stages.2.label>
-  <OverheatMechanoid.stages.3.label>严重</OverheatMechanoid.stages.3.label>
-  <OverheatMechanoid.stages.4.label>极度</OverheatMechanoid.stages.4.label>
-
+  
+  <!-- EN: glaciation -->
   <GlaciationMechanoid.label>结冰</GlaciationMechanoid.label>
+  <!-- EN: Glaciation causes system failure -->
   <GlaciationMechanoid.description>冰晶化导致的系统错误。</GlaciationMechanoid.description>
-  <GlaciationMechanoid.stages.0.label>初始</GlaciationMechanoid.stages.0.label>
-  <GlaciationMechanoid.stages.1.label>轻度</GlaciationMechanoid.stages.1.label>
-  <GlaciationMechanoid.stages.2.label>中度</GlaciationMechanoid.stages.2.label>
-  <GlaciationMechanoid.stages.3.label>严重</GlaciationMechanoid.stages.3.label>
-  <GlaciationMechanoid.stages.4.label>极度</GlaciationMechanoid.stages.4.label>
-
-
+  <!-- EN: minor -->
+  <GlaciationMechanoid.stages.minor-0.label>初始</GlaciationMechanoid.stages.minor-0.label>
+  <!-- EN: minor -->
+  <GlaciationMechanoid.stages.minor-1.label>轻度</GlaciationMechanoid.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <GlaciationMechanoid.stages.moderate.label>中度</GlaciationMechanoid.stages.moderate.label>
+  <!-- EN: serious -->
+  <GlaciationMechanoid.stages.serious.label>严重</GlaciationMechanoid.stages.serious.label>
+  <!-- EN: extreme -->
+  <GlaciationMechanoid.stages.extreme.label>极度</GlaciationMechanoid.stages.extreme.label>
+  
+  <!-- EN: overheat -->
+  <OverheatMechanoid.label>过热</OverheatMechanoid.label>
+  <!-- EN: Overheating causes system failure -->
+  <OverheatMechanoid.description>过热导致的系统错误。</OverheatMechanoid.description>
+  <!-- EN: initial -->
+  <OverheatMechanoid.stages.initial-0.label>初始</OverheatMechanoid.stages.initial-0.label>
+  <!-- EN: initial -->
+  <OverheatMechanoid.stages.initial-1.label>初期</OverheatMechanoid.stages.initial-1.label>
+  <!-- EN: minor -->
+  <OverheatMechanoid.stages.minor.label>轻度</OverheatMechanoid.stages.minor.label>
+  <!-- EN: serious -->
+  <OverheatMechanoid.stages.serious.label>严重</OverheatMechanoid.stages.serious.label>
+  <!-- EN: extreme -->
+  <OverheatMechanoid.stages.extreme.label>极度</OverheatMechanoid.stages.extreme.label>
+  
 </LanguageData>

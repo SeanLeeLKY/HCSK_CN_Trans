@@ -1,17 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MiningHelmet.label>采矿头盔</MiningHelmet.label>
-  <MiningHelmet.description>矿工的好搭档。当山体崩塌时，这顶头盔可以保你免于一死。头盔自带照明设施，可陪伴你在黑暗的洞穴中工作。</MiningHelmet.description>
-
-  <Apparel_HSH.label>防化头盔</Apparel_HSH.label>
-  <Apparel_HSH.description>防化服（也称为危险品防护服或者三防服）的一部分。它有助于保护人们免受危险材料或物质（包括化学品、生物制剂或放射性材料）的伤害。</Apparel_HSH.description>
-
+  
+  <!-- EN: Chemical Protection Suit -->
   <Apparel_HS.label>防化服</Apparel_HS.label>
+  <!-- EN: A Chemical Protection Suit (also known as a hazmat suit) can protect people from hazardous materials or substances including chemicals, biological agents, or radioactive materials. -->
   <Apparel_HS.description>防化服（也称为危险品防护服或者三防服）可以保护人们免受危险材料或物质的侵害，包括化学品、生物制剂或放射性物质。</Apparel_HS.description>
-
+  
+  <!-- EN: Chemical Protection Helmet -->
+  <Apparel_HSH.label>防化头盔</Apparel_HSH.label>
+  <!-- EN: A part of a Chemical Protection Suit (also known as a hazmat suit). It helps to protect people from hazardous materials or substances including chemicals, biological agents, or radioactive materials. -->
+  <Apparel_HSH.description>防化服（也称为危险品防护服或者三防服）的一部分。它有助于保护人们免受危险材料或物质（包括化学品、生物制剂或放射性材料）的伤害。</Apparel_HSH.description>
+  
+  <!-- EN: Mining Helmet -->
+  <MiningHelmet.label>采矿头盔</MiningHelmet.label>
+  <!-- EN: A miner's best friend. This hard hat will help protect you when the roof comes crashing down. The built in light is also reassuring when alone in dark caves. -->
+  <MiningHelmet.description>矿工的好搭档。当山体崩塌时，这顶头盔可以保你免于一死。头盔自带照明设施，可陪伴你在黑暗的洞穴中工作。</MiningHelmet.description>
+  
+  <!-- EN: mining vest -->
   <MiningVest.label>采矿背心</MiningVest.label>
+  <!-- EN: A working apparel designed for mining operations. Embeds a personal light. -->
   <MiningVest.description>专为采矿作业设计的工作服装。嵌入个人照明系统。</MiningVest.description>
-
-
+  
 </LanguageData>

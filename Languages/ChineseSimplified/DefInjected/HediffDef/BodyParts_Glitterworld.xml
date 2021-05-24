@@ -1,69 +1,64 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Tactical cornea implant -->
-
-  <TacticalCorneaImplant.label>战术角膜植入物</TacticalCorneaImplant.label>
-  <TacticalCorneaImplant.description>已安装的战术角膜植入物。</TacticalCorneaImplant.description>
-
-
-  <!-- Auxiliary AI (construction) -->
-
-  <ConstructorCore.label>辅助AI（建造）</ConstructorCore.label>
-  <ConstructorCore.description>安装在大脑中的人工智能可与用户建立实时通信并提供建筑类工作辅助。</ConstructorCore.description>
-
-
-  <!-- Auxiliary AI (agricultural) -->
-
-  <FarmerCore.label>辅助AI（种植）</FarmerCore.label>
-  <FarmerCore.description>安装在大脑中的人工智能可与用户建立实时通信并提供农业类工作辅助。</FarmerCore.description>
-
-
-  <!-- Auxiliary AI (mining) -->
-
-  <MinerCore.label>辅助AI（采矿）</MinerCore.label>
-  <MinerCore.description>安装在大脑中的人工智能可与用户建立实时通信并提供矿业类工作辅助。</MinerCore.description>
-
-
-  <!-- Auxiliary AI (medical) -->
-
-  <DoctorCore.label>辅助AI（医疗）</DoctorCore.label>
-  <DoctorCore.description>安装在大脑中的人工智能可与用户建立实时通信并提供医药类工作辅助。</DoctorCore.description>
-
-
-  <!-- Auxiliary AI (diplomatic) -->
-
-  <DiplomatCore.label>辅助AI（社交）</DiplomatCore.label>
-  <DiplomatCore.description>安装在大脑中的人工智能可与用户建立实时通信并提供社交类活动辅助。</DiplomatCore.description>
-
-
-  <!-- Auxiliary AI (sharpshooter) -->
-
-  <AuxiliaryAI_Sharpshooter.label>辅助AI（射击）</AuxiliaryAI_Sharpshooter.label>
-  <AuxiliaryAI_Sharpshooter.description>安装在大脑中的人工智能可与用户建立实时通信并提供作战类活动辅助。特别是在长距离作战中提供精度支持。不能和其他辅助AI一同安装。</AuxiliaryAI_Sharpshooter.description>
-
-
-  <!-- Auxiliary AI (commando) -->
-
-  <AuxiliaryAI_Commando.label>辅助AI（作战）</AuxiliaryAI_Commando.label>
-  <AuxiliaryAI_Commando.description>安装在大脑中的人工智能可与用户建立实时通信并提供作战类活动辅助。特别是在长时间作战中减轻战场压力。不能和其他辅助AI一同安装。</AuxiliaryAI_Commando.description>
-
-
-  <!-- Auxiliary AI (brawler) -->
-
-  <AuxiliaryAI_Brawler.label>辅助AI（格斗）</AuxiliaryAI_Brawler.label>
-  <AuxiliaryAI_Brawler.description>安装在大脑中的人工智能可与用户建立实时通信并提供作战类活动辅助。特别是在近身作战中提供辅助计算。不能和其他辅助AI一同安装。</AuxiliaryAI_Brawler.description>
-
-
-  <!-- AI persona core -->
-
+  
+  <!-- EN: AI persona core -->
   <AIPersonaCore.label>伪人格核心</AIPersonaCore.label>
+  <!-- EN: An installed AI persona core. Requires minimum 60% medical tending as maintenance to prevent the AI persona core from going rogue. -->
   <AIPersonaCore.description>已安装的伪人格核心。维护度低于60</AIPersonaCore.description>
-  <AIPersonaCore.stages.0.label>未维护</AIPersonaCore.stages.0.label>
-  <AIPersonaCore.stages.1.label>未维护</AIPersonaCore.stages.1.label>
-  <AIPersonaCore.stages.2.label>需要维护</AIPersonaCore.stages.2.label>
-  <AIPersonaCore.stages.3.label>急需维护</AIPersonaCore.stages.3.label>
+  <!-- EN: an AI persona core -->
   <AIPersonaCore.labelNoun>伪人格核心</AIPersonaCore.labelNoun>
-
-
+  <!-- EN: Unmaintained -->
+  <AIPersonaCore.stages.Unmaintained-0.label>未维护</AIPersonaCore.stages.Unmaintained-0.label>
+  <!-- EN: Unmaintained -->
+  <AIPersonaCore.stages.Unmaintained-1.label>未维护</AIPersonaCore.stages.Unmaintained-1.label>
+  <!-- EN: Maintenance critical -->
+  <AIPersonaCore.stages.Maintenance_critical.label>需要维护</AIPersonaCore.stages.Maintenance_critical.label>
+  <!-- EN: Maintenance required -->
+  <AIPersonaCore.stages.Maintenance_required.label>急需维护</AIPersonaCore.stages.Maintenance_required.label>
+  
+  <!-- EN: auxiliary AI: brawler -->
+  <AuxiliaryAI_Brawler.label>辅助AI（格斗）</AuxiliaryAI_Brawler.label>
+  <!-- EN: An installed auxiliary AI that aids close quarter combat, supporting the user with life or death decisions. Cannot be installed with other auxiliary AI. -->
+  <AuxiliaryAI_Brawler.description>安装在大脑中的人工智能可与用户建立实时通信并提供作战类活动辅助。特别是在近身作战中提供辅助计算。不能和其他辅助AI一同安装。</AuxiliaryAI_Brawler.description>
+  
+  <!-- EN: auxiliary AI: commando -->
+  <AuxiliaryAI_Commando.label>辅助AI（作战）</AuxiliaryAI_Commando.label>
+  <!-- EN: An installed auxiliary AI that aids combat, supporting the user in coping with the pressures of combat. Cannot be installed with other auxiliary AI. -->
+  <AuxiliaryAI_Commando.description>安装在大脑中的人工智能可与用户建立实时通信并提供作战类活动辅助。特别是在长时间作战中减轻战场压力。不能和其他辅助AI一同安装。</AuxiliaryAI_Commando.description>
+  
+  <!-- EN: auxiliary AI: sharpshooter -->
+  <AuxiliaryAI_Sharpshooter.label>辅助AI（射击）</AuxiliaryAI_Sharpshooter.label>
+  <!-- EN: An installed auxiliary AI that aids combat, specializing in accuracy and long distance fire. Cannot be installed with other auxiliary AI. -->
+  <AuxiliaryAI_Sharpshooter.description>安装在大脑中的人工智能可与用户建立实时通信并提供作战类活动辅助。特别是在长距离作战中提供精度支持。不能和其他辅助AI一同安装。</AuxiliaryAI_Sharpshooter.description>
+  
+  <!-- EN: auxiliary AI: construction -->
+  <ConstructorCore.label>辅助AI（建造）</ConstructorCore.label>
+  <!-- EN: An installed auxiliary AI that aids with construction. -->
+  <ConstructorCore.description>安装在大脑中的人工智能可与用户建立实时通信并提供建筑类工作辅助。</ConstructorCore.description>
+  
+  <!-- EN: auxiliary AI: diplomatic -->
+  <DiplomatCore.label>辅助AI（社交）</DiplomatCore.label>
+  <!-- EN: An installed auxiliary AI that aids with diplomatic conversations. -->
+  <DiplomatCore.description>安装在大脑中的人工智能可与用户建立实时通信并提供社交类活动辅助。</DiplomatCore.description>
+  
+  <!-- EN: auxiliary AI: medical -->
+  <DoctorCore.label>辅助AI（医疗）</DoctorCore.label>
+  <!-- EN: An installed auxiliary AI that aids with medical procedures. -->
+  <DoctorCore.description>安装在大脑中的人工智能可与用户建立实时通信并提供医药类工作辅助。</DoctorCore.description>
+  
+  <!-- EN: auxiliary AI: agricultural -->
+  <FarmerCore.label>辅助AI（种植）</FarmerCore.label>
+  <!-- EN: An installed auxiliary AI that aids with farming. -->
+  <FarmerCore.description>安装在大脑中的人工智能可与用户建立实时通信并提供农业类工作辅助。</FarmerCore.description>
+  
+  <!-- EN: auxiliary AI: mining -->
+  <MinerCore.label>辅助AI（采矿）</MinerCore.label>
+  <!-- EN: An installed auxiliary AI that aids with mining. -->
+  <MinerCore.description>安装在大脑中的人工智能可与用户建立实时通信并提供矿业类工作辅助。</MinerCore.description>
+  
+  <!-- EN: tactical cornea implant -->
+  <TacticalCorneaImplant.label>战术角膜植入物</TacticalCorneaImplant.label>
+  <!-- EN: An installed tactical cornea implant. -->
+  <TacticalCorneaImplant.description>已安装的战术角膜植入物。</TacticalCorneaImplant.description>
+  
 </LanguageData>

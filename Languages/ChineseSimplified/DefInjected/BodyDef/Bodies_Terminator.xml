@@ -1,51 +1,95 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: humanoid terminator -->
   <HumanoidTerminator.label>人型终结者</HumanoidTerminator.label>
-  <HumanoidTerminator.corePart.parts.5.parts.0.parts.1.customLabel>左眼</HumanoidTerminator.corePart.parts.5.parts.0.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.5.parts.0.parts.2.customLabel>右眼</HumanoidTerminator.corePart.parts.5.parts.0.parts.2.customLabel>
-  <HumanoidTerminator.corePart.parts.5.parts.0.parts.3.customLabel>左耳</HumanoidTerminator.corePart.parts.5.parts.0.parts.3.customLabel>
-  <HumanoidTerminator.corePart.parts.5.parts.0.parts.4.customLabel>右耳</HumanoidTerminator.corePart.parts.5.parts.0.parts.4.customLabel>
-  <HumanoidTerminator.corePart.parts.6.parts.0.customLabel>左锁骨</HumanoidTerminator.corePart.parts.6.parts.0.customLabel>
-  <HumanoidTerminator.corePart.parts.6.parts.1.parts.0.customLabel>左肱骨</HumanoidTerminator.corePart.parts.6.parts.1.parts.0.customLabel>
-  <HumanoidTerminator.corePart.parts.6.parts.1.parts.1.customLabel>左桡骨</HumanoidTerminator.corePart.parts.6.parts.1.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.0.customLabel>左小指</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.0.customLabel>
-  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.1.customLabel>左无名指</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.2.customLabel>左中指</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.2.customLabel>
-  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.3.customLabel>左食指</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.3.customLabel>
-  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.4.customLabel>左拇指</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.parts.4.customLabel>
-  <HumanoidTerminator.corePart.parts.6.parts.1.parts.2.customLabel>左手</HumanoidTerminator.corePart.parts.6.parts.1.parts.2.customLabel>
-  <HumanoidTerminator.corePart.parts.6.parts.1.customLabel>左臂</HumanoidTerminator.corePart.parts.6.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.6.customLabel>左肩</HumanoidTerminator.corePart.parts.6.customLabel>
-  <HumanoidTerminator.corePart.parts.7.parts.0.customLabel>右锁骨</HumanoidTerminator.corePart.parts.7.parts.0.customLabel>
-  <HumanoidTerminator.corePart.parts.7.parts.1.parts.0.customLabel>右肱骨</HumanoidTerminator.corePart.parts.7.parts.1.parts.0.customLabel>
-  <HumanoidTerminator.corePart.parts.7.parts.1.parts.1.customLabel>右桡骨</HumanoidTerminator.corePart.parts.7.parts.1.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.0.customLabel>右小指</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.0.customLabel>
-  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.1.customLabel>右无名指</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.2.customLabel>右中指</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.2.customLabel>
-  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.3.customLabel>右食指</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.3.customLabel>
-  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.4.customLabel>右拇指</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.parts.4.customLabel>
-  <HumanoidTerminator.corePart.parts.7.parts.1.parts.2.customLabel>右手</HumanoidTerminator.corePart.parts.7.parts.1.parts.2.customLabel>
-  <HumanoidTerminator.corePart.parts.7.parts.1.customLabel>右臂</HumanoidTerminator.corePart.parts.7.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.7.customLabel>右肩</HumanoidTerminator.corePart.parts.7.customLabel>
-  <HumanoidTerminator.corePart.parts.9.parts.0.customLabel>左股骨</HumanoidTerminator.corePart.parts.9.parts.0.customLabel>
-  <HumanoidTerminator.corePart.parts.9.parts.1.customLabel>左胫骨</HumanoidTerminator.corePart.parts.9.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.9.parts.2.parts.0.customLabel>左小趾</HumanoidTerminator.corePart.parts.9.parts.2.parts.0.customLabel>
-  <HumanoidTerminator.corePart.parts.9.parts.2.parts.1.customLabel>左四趾</HumanoidTerminator.corePart.parts.9.parts.2.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.9.parts.2.parts.2.customLabel>左中趾</HumanoidTerminator.corePart.parts.9.parts.2.parts.2.customLabel>
-  <HumanoidTerminator.corePart.parts.9.parts.2.parts.3.customLabel>左二趾</HumanoidTerminator.corePart.parts.9.parts.2.parts.3.customLabel>
-  <HumanoidTerminator.corePart.parts.9.parts.2.parts.4.customLabel>左拇趾</HumanoidTerminator.corePart.parts.9.parts.2.parts.4.customLabel>
-  <HumanoidTerminator.corePart.parts.9.parts.2.customLabel>左足</HumanoidTerminator.corePart.parts.9.parts.2.customLabel>
-  <HumanoidTerminator.corePart.parts.9.customLabel>左腿</HumanoidTerminator.corePart.parts.9.customLabel>
-  <HumanoidTerminator.corePart.parts.10.parts.0.customLabel>右股骨</HumanoidTerminator.corePart.parts.10.parts.0.customLabel>
-  <HumanoidTerminator.corePart.parts.10.parts.1.customLabel>右胫骨</HumanoidTerminator.corePart.parts.10.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.10.parts.2.parts.0.customLabel>右小趾</HumanoidTerminator.corePart.parts.10.parts.2.parts.0.customLabel>
-  <HumanoidTerminator.corePart.parts.10.parts.2.parts.1.customLabel>右四趾</HumanoidTerminator.corePart.parts.10.parts.2.parts.1.customLabel>
-  <HumanoidTerminator.corePart.parts.10.parts.2.parts.2.customLabel>右中趾</HumanoidTerminator.corePart.parts.10.parts.2.parts.2.customLabel>
-  <HumanoidTerminator.corePart.parts.10.parts.2.parts.3.customLabel>右二趾</HumanoidTerminator.corePart.parts.10.parts.2.parts.3.customLabel>
-  <HumanoidTerminator.corePart.parts.10.parts.2.parts.4.customLabel>右拇趾</HumanoidTerminator.corePart.parts.10.parts.2.parts.4.customLabel>
-  <HumanoidTerminator.corePart.parts.10.parts.2.customLabel>右足</HumanoidTerminator.corePart.parts.10.parts.2.customLabel>
-  <HumanoidTerminator.corePart.parts.10.customLabel>右腿</HumanoidTerminator.corePart.parts.10.customLabel>
-
-
+  <!-- EN: left eye -->
+  <HumanoidTerminator.corePart.parts.TerminatorNeck.parts.Head.parts.left_eye.customLabel>左眼</HumanoidTerminator.corePart.parts.TerminatorNeck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <HumanoidTerminator.corePart.parts.TerminatorNeck.parts.Head.parts.right_eye.customLabel>右眼</HumanoidTerminator.corePart.parts.TerminatorNeck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <HumanoidTerminator.corePart.parts.TerminatorNeck.parts.Head.parts.left_ear.customLabel>左耳</HumanoidTerminator.corePart.parts.TerminatorNeck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <HumanoidTerminator.corePart.parts.TerminatorNeck.parts.Head.parts.right_ear.customLabel>右耳</HumanoidTerminator.corePart.parts.TerminatorNeck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.customLabel>左肩</HumanoidTerminator.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>左锁骨</HumanoidTerminator.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.customLabel>左臂</HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>左肱骨</HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>左桡骨</HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>左手</HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>左小指</HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>左无名指</HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>左中指</HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>左食指</HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>左拇指</HumanoidTerminator.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.customLabel>右肩</HumanoidTerminator.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>右锁骨</HumanoidTerminator.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.customLabel>右臂</HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>右肱骨</HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>右桡骨</HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>右手</HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>右小指</HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>右无名指</HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>右中指</HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>右食指</HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>右拇指</HumanoidTerminator.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <HumanoidTerminator.corePart.parts.left_leg.customLabel>左腿</HumanoidTerminator.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <HumanoidTerminator.corePart.parts.left_leg.parts.left_femur.customLabel>左股骨</HumanoidTerminator.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <HumanoidTerminator.corePart.parts.left_leg.parts.left_tibia.customLabel>左胫骨</HumanoidTerminator.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.customLabel>左足</HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>左小趾</HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>左四趾</HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>左中趾</HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>左二趾</HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>左拇趾</HumanoidTerminator.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <HumanoidTerminator.corePart.parts.right_leg.customLabel>右腿</HumanoidTerminator.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <HumanoidTerminator.corePart.parts.right_leg.parts.right_femur.customLabel>右股骨</HumanoidTerminator.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <HumanoidTerminator.corePart.parts.right_leg.parts.right_tibia.customLabel>右胫骨</HumanoidTerminator.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.customLabel>右足</HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>右小趾</HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>右四趾</HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>右中趾</HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>右二趾</HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>右拇趾</HumanoidTerminator.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
 </LanguageData>

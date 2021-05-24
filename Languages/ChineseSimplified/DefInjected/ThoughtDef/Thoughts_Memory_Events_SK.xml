@@ -1,26 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Amnesia.stages.0.label>失忆</Amnesia.stages.0.label>
-  <Amnesia.stages.0.description>我突然忘了所有的事情，这不是什么好兆头。</Amnesia.stages.0.description>
-
-  <EclipseSubEventAFeral.stages.0.label>古怪的噩梦</EclipseSubEventAFeral.stages.0.label>
-  <EclipseSubEventAFeral.stages.0.description>先是日蚀，又是噩梦！这什么时候才是个头？</EclipseSubEventAFeral.stages.0.description>
-
-  <EclipseSubEventBMeteor.stages.0.label>从陨石灾变中存活</EclipseSubEventBMeteor.stages.0.label>
-  <EclipseSubEventBMeteor.stages.0.description>我目睹死亡就发生在身边，还好我依旧活着！</EclipseSubEventBMeteor.stages.0.description>
-
-  <Rescued.stages.0.label>我可以回家了</Rescued.stages.0.label>
-  <Rescued.stages.0.description>可以回家的感觉让人如梦似幻，令人着迷，不过我现在不能离开这个星球。因为这儿现在也是我的家！</Rescued.stages.0.description>
-
-  <MeteorShower.stages.0.label>我看见了一场流星雨</MeteorShower.stages.0.label>
-  <MeteorShower.stages.0.description>即使因为命运的原因被抛弃在这个地方，那壮丽的宇宙之美仍旧让人惊心动魄！</MeteorShower.stages.0.description>
-
-  <SolarFlareSubEventACosmicRadiation.stages.0.label>创伤事件</SolarFlareSubEventACosmicRadiation.stages.0.label>
-  <SolarFlareSubEventACosmicRadiation.stages.0.description>一切都变黑了几秒钟，大多数殖民者都跪到在地，我的头好痛。</SolarFlareSubEventACosmicRadiation.stages.0.description>
-
-  <NuclearFalloutThought.stages.0.label>核事故</NuclearFalloutThought.stages.0.label>
-  <NuclearFalloutThought.stages.0.description>看来某人想给我们加点放射性调料！</NuclearFalloutThought.stages.0.description>
-
-
+  
+  <!-- EN: Blackout -->
+  <Amnesia.stages.Blackout.label>失忆</Amnesia.stages.Blackout.label>
+  <!-- EN: I suddenly forgot everything, that's not good. -->
+  <Amnesia.stages.Blackout.description>我突然忘了所有的事情，这不是什么好兆头。</Amnesia.stages.Blackout.description>
+  
+  <!-- EN: A nightmare is happening -->
+  <EclipseSubEventAFeral.stages.A_nightmare_is_happening.label>古怪的噩梦</EclipseSubEventAFeral.stages.A_nightmare_is_happening.label>
+  <!-- EN: First an eclipse an now this! when is this nightmare going to end. -->
+  <EclipseSubEventAFeral.stages.A_nightmare_is_happening.description>先是日蚀，又是噩梦！这什么时候才是个头？</EclipseSubEventAFeral.stages.A_nightmare_is_happening.description>
+  
+  <!-- EN: Survived a meteor apocalypse -->
+  <EclipseSubEventBMeteor.stages.Survived_a_meteor_apocalypse.label>从陨石灾变中存活</EclipseSubEventBMeteor.stages.Survived_a_meteor_apocalypse.label>
+  <!-- EN: I looked at death itself, good thing I'm still here. -->
+  <EclipseSubEventBMeteor.stages.Survived_a_meteor_apocalypse.description>我目睹死亡就发生在身边，还好我依旧活着！</EclipseSubEventBMeteor.stages.Survived_a_meteor_apocalypse.description>
+  
+  <!-- EN: I looked at a meteor shower. -->
+  <MeteorShower.stages.I_looked_at_a_meteor_shower.label>我看见了一场流星雨</MeteorShower.stages.I_looked_at_a_meteor_shower.label>
+  <!-- EN: The cosmos, still so beautiful even after abandoning me here. -->
+  <MeteorShower.stages.I_looked_at_a_meteor_shower.description>即使因为命运的原因被抛弃在这个地方，那壮丽的宇宙之美仍旧让人惊心动魄！</MeteorShower.stages.I_looked_at_a_meteor_shower.description>
+  
+  <!-- EN: Nuke accident -->
+  <NuclearFalloutThought.stages.Nuke_accident.label>核事故</NuclearFalloutThought.stages.Nuke_accident.label>
+  <!-- EN: Somebody tried to nuke us! -->
+  <NuclearFalloutThought.stages.Nuke_accident.description>看来某人想给我们加点放射性调料！</NuclearFalloutThought.stages.Nuke_accident.description>
+  
+  <!-- EN: I could go home. -->
+  <Rescued.stages.I_could_go_home.label>我可以回家了</Rescued.stages.I_could_go_home.label>
+  <!-- EN: The feeling that you can go home after having experienced so much is tantalizing, but I just can't leave this planet. This place is now my home. -->
+  <Rescued.stages.I_could_go_home.description>可以回家的感觉让人如梦似幻，令人着迷，不过我现在不能离开这个星球。因为这儿现在也是我的家！</Rescued.stages.I_could_go_home.description>
+  
+  <!-- EN: Experienced a traumatic phenomenon -->
+  <SolarFlareSubEventACosmicRadiation.stages.Experienced_a_traumatic_phenomenon.label>创伤事件</SolarFlareSubEventACosmicRadiation.stages.Experienced_a_traumatic_phenomenon.label>
+  <!-- EN: Everything went black for a few seconds, and most colonists were down on their knees, my head hurts like hell. -->
+  <SolarFlareSubEventACosmicRadiation.stages.Experienced_a_traumatic_phenomenon.description>一切都变黑了几秒钟，大多数殖民者都跪到在地，我的头好痛。</SolarFlareSubEventACosmicRadiation.stages.Experienced_a_traumatic_phenomenon.description>
+  
 </LanguageData>

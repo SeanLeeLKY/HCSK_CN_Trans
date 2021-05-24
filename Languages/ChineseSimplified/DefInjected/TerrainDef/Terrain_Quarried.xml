@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: quarried ground -->
   <QRY_QuarriedGround.label>开掘地表</QRY_QuarriedGround.label>
-  <QRY_QuarriedGround.tools.0.label>尘土</QRY_QuarriedGround.tools.0.label>
-
+  <!-- EN: dirt -->
+  <QRY_QuarriedGround.tools.dirt.label>尘土</QRY_QuarriedGround.tools.dirt.label>
+  
+  <!-- EN: quarried ground -->
   <QRY_QuarriedGroundWall.label>开掘地表</QRY_QuarriedGroundWall.label>
-  <QRY_QuarriedGroundWall.tools.0.label>尘土</QRY_QuarriedGroundWall.tools.0.label>
-
+  <!-- EN: dirt -->
+  <QRY_QuarriedGroundWall.tools.dirt.label>尘土</QRY_QuarriedGroundWall.tools.dirt.label>
+  
+  <!-- EN: reclaimed soil -->
   <QRY_ReclaimedSoil.label>回填土地</QRY_ReclaimedSoil.label>
-  <QRY_ReclaimedSoil.tools.0.label>尘土</QRY_ReclaimedSoil.tools.0.label>
-
-
+  <!-- EN: dirt -->
+  <QRY_ReclaimedSoil.tools.dirt.label>尘土</QRY_ReclaimedSoil.tools.dirt.label>
+  
 </LanguageData>

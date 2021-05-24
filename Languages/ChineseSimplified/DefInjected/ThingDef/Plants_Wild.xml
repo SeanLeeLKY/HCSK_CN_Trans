@@ -1,50 +1,74 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Plant_Moss.label>苔藓</Plant_Moss.label>
-  <Plant_Moss.description>一种野生苔藓，在潮湿阴暗的环境下成片生长。适应性强并且十分耐寒。</Plant_Moss.description>
-
-  <Plant_ShrubLow.label>矮灌木</Plant_ShrubLow.label>
-  <Plant_ShrubLow.description>低矮的阔叶灌木。它们成群生长，会稍微减缓运动速度。</Plant_ShrubLow.description>
-
-  <Plant_Chokevine.label>勒藤</Plant_Chokevine.label>
-  <Plant_Chokevine.description>缠绕在一起的大量的绳状、尖刺的藤蔓植物，它们攀缘在地面上。勒藤会使所有从它身上走过的生物降低移动速度。多个部落无关地流传着孩子们夜晚被它勒住窒息死亡的故事，作为一种吓唬小孩子让他们在天黑之前回家的方式来说非常管用。</Plant_Chokevine.description>
-
+  
+  <!-- EN: brambles -->
   <Plant_Brambles.label>荆棘</Plant_Brambles.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Slows down anyone moving over it a little bit. -->
   <Plant_Brambles.description>布满叶子的缠结带棘的小灌木。从上面走过时速度会变慢一点点。</Plant_Brambles.description>
-
-  <Plant_Fern.label>蕨</Plant_Fern.label>
-  <Plant_Fern.description>一种利用孢子繁殖的多叶柔软植物，。</Plant_Fern.description>
-
+  
+  <!-- EN: bromeliad -->
   <Plant_Bromeliad.label>凤梨</Plant_Bromeliad.label>
+  <!-- EN: A plant adapted to warm climates. It can grow on thin soil and traps water in its leaves. -->
   <Plant_Bromeliad.description>一种适应温暖气候的植物。它可以生长在薄土层，并将水分储存在叶子里。</Plant_Bromeliad.description>
-
-  <Plant_Hosta.label>玉簪</Plant_Hosta.label>
-  <Plant_Hosta.description>一种漂亮的耐阴植物。</Plant_Hosta.description>
-
-
-  <!-- Grass -->
-
+  
+  <!-- EN: chokevine -->
+  <Plant_Chokevine.label>勒藤</Plant_Chokevine.label>
+  <!-- EN: Dense shrub which slows down anyone moving over it. -->
+  <Plant_Chokevine.description>缠绕在一起的大量的绳状、尖刺的藤蔓植物，它们攀缘在地面上。勒藤会使所有从它身上走过的生物降低移动速度。多个部落无关地流传着孩子们夜晚被它勒住窒息死亡的故事，作为一种吓唬小孩子让他们在天黑之前回家的方式来说非常管用。</Plant_Chokevine.description>
+  
+  <!-- EN: fern -->
+  <Plant_Fern.label>蕨</Plant_Fern.label>
+  <!-- EN: A soft, leafy plant that reproduces using spores. -->
+  <Plant_Fern.description>一种利用孢子繁殖的多叶柔软植物，。</Plant_Fern.description>
+  
+  <!-- EN: grass -->
   <Plant_Grass.label>草</Plant_Grass.label>
+  <!-- EN: Wild grass. It grows anywhere that there is a little light and minimally fertile ground. -->
   <Plant_Grass.description>野草，在稍微有点光线和土地的地方就会长出来。</Plant_Grass.description>
-
-  <Plant_TallGrass.label>高草</Plant_TallGrass.label>
-  <Plant_TallGrass.description>野生的高草。从上面走过时速度会明显变慢。</Plant_TallGrass.description>
-
+  
+  <!-- EN: haygrass -->
   <Plant_Haygrass.label>干草</Plant_Haygrass.label>
+  <!-- EN: A mixture of nutrient-rich grasses that yield large amounts of Hay. Hay is edible for animals, but not humans. Haygrass is not destroyed when an animal eats it, so it can be used to make an improved, more compact grazing area for ranching animals. -->
   <Plant_Haygrass.description>各种营养丰富的草混合在一起种植，产出大量用于喂养动物的干草。干草是很好的饲料，但对于人类来说难以下咽。</Plant_Haygrass.description>
-
-  <Plant_WildRose.label>野玫瑰</Plant_WildRose.label>
-  <Plant_WildRose.description>野玫瑰是由玫瑰的种子长成的红色花朵，叫做野玫瑰。这种植物也被称为带刺玫瑰、硬刺玫瑰和北极玫瑰。它们被用于由烟草工作台卷制成各种奇异口味，也由医疗工作台制成的高级医药包，以及最后，从烹饪炉制成的豪华餐食。</Plant_WildRose.description>
-
+  
+  <!-- EN: hosta -->
+  <Plant_Hosta.label>玉簪</Plant_Hosta.label>
+  <!-- EN: An attractive shade-tolerant plant. -->
+  <Plant_Hosta.description>一种漂亮的耐阴植物。</Plant_Hosta.description>
+  
+  <!-- EN: hypericum plant -->
   <Plant_Hypericum.label>金丝桃</Plant_Hypericum.label>
+  <!-- EN: Hypericum plants produce a type of medicinal flower called hypericum. They are used in herb collections made from the tobacco rolling bench, advanced medicine kits made from the medical table, and lastly, into luxury meals from the cook stove. -->
   <Plant_Hypericum.description>金丝桃属植物产生一种药用花，叫做金丝桃。它们被用于由烟草工作台卷制成各种奇异口味，也由医疗工作台制成的高级医药包，以及最后，从烹饪炉制成的豪华餐食。</Plant_Hypericum.description>
-
+  
+  <!-- EN: mint plant -->
   <Plant_Mint.label>薄荷</Plant_Mint.label>
+  <!-- EN: Mint plants are herbs that grow aromatic leaves called mint leaves. They are used in herb collections made from the tobacco rolling bench, advanced medicine kits made from the medical table, and into luxury meals from the cook stove. -->
   <Plant_Mint.description>薄荷植物是一种长有芳香叶的草本植物。它们被用于由烟草工作台卷制成各种奇异口味，也由医疗工作台制成的高级医药包，以及最后，从烹饪炉制成的豪华餐食。</Plant_Mint.description>
-
+  
+  <!-- EN: moss -->
+  <Plant_Moss.label>苔藓</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
+  <Plant_Moss.description>一种野生苔藓，在潮湿阴暗的环境下成片生长。适应性强并且十分耐寒。</Plant_Moss.description>
+  
+  <!-- EN: onion plant -->
   <Plant_Onion.label>洋葱</Plant_Onion.label>
+  <!-- EN: Onions plants produce vegetable bulbs called onions. They are considered to be a luxury crop and are used in Luxury Meals from the Cook Stove. A pungent chemical is released when onions are chopped that can make you cry! -->
   <Plant_Onion.description>洋葱植物生产一种叫做洋葱的球茎蔬菜。它们被认为是一种奢侈的作物，用于烹饪奢侈食物。切开洋葱的时候会释放一种刺激性的化学物质，会让你泪流不止！</Plant_Onion.description>
-
-
+  
+  <!-- EN: low shrubs -->
+  <Plant_ShrubLow.label>矮灌木</Plant_ShrubLow.label>
+  <!-- EN: Low broadleaf shrubs. These grow in clusters and slow down movement somewhat. -->
+  <Plant_ShrubLow.description>低矮的阔叶灌木。它们成群生长，会稍微减缓运动速度。</Plant_ShrubLow.description>
+  
+  <!-- EN: tall grass -->
+  <Plant_TallGrass.label>高草</Plant_TallGrass.label>
+  <!-- EN: Wild tall grass is grass that grew exceedingly high. It significantly slows down anyone moving over it. -->
+  <Plant_TallGrass.description>野生的高草。从上面走过时速度会明显变慢。</Plant_TallGrass.description>
+  
+  <!-- EN: wild rose flowers -->
+  <Plant_WildRose.label>野玫瑰</Plant_WildRose.label>
+  <!-- EN: Wild rose flowers are from wild rose seeds and produce red flowers called wild roses. The plant is also known as the prickly rose, bristly rose and arctic rose. They are used in berb collections made from the tobacco rolling bench, Advanced medicine kits made from the medical table, and lastly, into luxury meals from the cook stove. -->
+  <Plant_WildRose.description>野玫瑰是由玫瑰的种子长成的红色花朵，叫做野玫瑰。这种植物也被称为带刺玫瑰、硬刺玫瑰和北极玫瑰。它们被用于由烟草工作台卷制成各种奇异口味，也由医疗工作台制成的高级医药包，以及最后，从烹饪炉制成的豪华餐食。</Plant_WildRose.description>
+  
 </LanguageData>

@@ -1,36 +1,58 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PlayGo.reportString>玩飞行棋。</PlayGo.reportString>
-  <PlayCards.reportString>玩牌。</PlayCards.reportString>
-  <PlayReversi.reportString>玩黑白棋。</PlayReversi.reportString>
-  <PlayRimColony.reportString>玩边缘殖民地。（滑稽.jpg）</PlayRimColony.reportString>
-  <ReadBook.reportString>读书。</ReadBook.reportString>
-
-
-  <!-- <JobDef>
-		<defName>GetMassage</defName>
-		<driverClass>JobDriver_WatchBuilding</driverClass>
-		<reportString>Getting a massage.</reportString>
-		<joyDuration>4000</joyDuration>
-		<joyMaxParticipants>1</joyMaxParticipants>
-		<joyGainRate>1</joyGainRate>
-		<joyKind>Meditative</joyKind>
-	</JobDef> -->
-
+  
+  <!-- EN: Doodling. -->
   <Doodle.reportString>涂鸦。</Doodle.reportString>
+  
+  <!-- EN: Interpreting artwork. -->
   <InterpretArt.reportString>欣赏艺术。</InterpretArt.reportString>
-  <PlayArcadeRS.reportString>玩朗姆旋涡。</PlayArcadeRS.reportString>
-  <PlayArcadeMC.reportString>玩铸币世界。</PlayArcadeMC.reportString>
-  <PlayArcadeHL.reportString>玩哈瓦人生。</PlayArcadeHL.reportString>
-  <PlayArcadeES.reportString>玩少女卷轴。</PlayArcadeES.reportString>
+  
+  <!-- EN: Playing Baguettris. -->
   <PlayArcadeBG.reportString>玩野外求生。</PlayArcadeBG.reportString>
+  
+  <!-- EN: Playing Cooking Baba. -->
   <PlayArcadeCB.reportString>玩金牌主厨。</PlayArcadeCB.reportString>
-  <PlayArcadePS.reportString>玩植物大战火腿肠。</PlayArcadePS.reportString>
+  
+  <!-- EN: Playing Elder Scones. -->
+  <PlayArcadeES.reportString>玩少女卷轴。</PlayArcadeES.reportString>
+  
+  <!-- EN: Playing Halva Life. -->
+  <PlayArcadeHL.reportString>玩哈瓦人生。</PlayArcadeHL.reportString>
+  
+  <!-- EN: Playing MintCraft. -->
+  <PlayArcadeMC.reportString>玩铸币世界。</PlayArcadeMC.reportString>
+  
+  <!-- EN: Playing Psycho Knots. -->
   <PlayArcadePK.reportString>玩幻想世界。</PlayArcadePK.reportString>
+  
+  <!-- EN: Playing Plants Vs. Salamis. -->
+  <PlayArcadePS.reportString>玩植物大战火腿肠。</PlayArcadePS.reportString>
+  
+  <!-- EN: Playing Rum Swirled. -->
+  <PlayArcadeRS.reportString>玩朗姆旋涡。</PlayArcadeRS.reportString>
+  
+  <!-- EN: Playing Speltunky. -->
   <PlayArcadeSP.reportString>玩洞穴探险。</PlayArcadeSP.reportString>
-  <PlayArcadeTZ.reportString>玩复变函数。</PlayArcadeTZ.reportString>
+  
+  <!-- EN: Playing Trauma Vendor. -->
   <PlayArcadeTV.reportString>玩商业世界。</PlayArcadeTV.reportString>
-
-
+  
+  <!-- EN: Playing The Zimz. -->
+  <PlayArcadeTZ.reportString>玩复变函数。</PlayArcadeTZ.reportString>
+  
+  <!-- EN: Playing a card game. -->
+  <PlayCards.reportString>玩牌。</PlayCards.reportString>
+  
+  <!-- EN: Playing Go. -->
+  <PlayGo.reportString>玩飞行棋。</PlayGo.reportString>
+  
+  <!-- EN: Playing Reversi. -->
+  <PlayReversi.reportString>玩黑白棋。</PlayReversi.reportString>
+  
+  <!-- EN: Playing RimColony. -->
+  <PlayRimColony.reportString>玩边缘殖民地。（滑稽.jpg）</PlayRimColony.reportString>
+  
+  <!-- EN: Reading a book. -->
+  <ReadBook.reportString>读书。</ReadBook.reportString>
+  
 </LanguageData>

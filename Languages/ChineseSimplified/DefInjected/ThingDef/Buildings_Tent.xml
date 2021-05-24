@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: tent door -->
   <TentDoor.label>帐篷门</TentDoor.label>
+  <!-- EN: Divides rooms. Must be manually opened and closed, which slows people down. -->
   <TentDoor.description>划分房间。必须手动打开和关闭，这会降低人们出入的速度。</TentDoor.description>
-
+  
+  <!-- EN: tent wall -->
   <TentWall.label>帐篷墙布</TentWall.label>
+  <!-- EN: A fragile yet practical wall. -->
   <TentWall.description>脆弱而实用的墙布。</TentWall.description>
-
-
+  
 </LanguageData>

@@ -1,41 +1,64 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Rainstorm.label>特大暴雨</Rainstorm.label>
-  <Rainstorm.description>闪电会引发火灾，但是雨水会把火扑灭。同时大雨会降低移动速度和远程武器的命中率。</Rainstorm.description>
-
+  
+  <!-- EN: Blizzard -->
   <Blizzard.label>暴雪</Blizzard.label>
+  <!-- EN: A blizzard is a severe snowstorm characterized by strong sustained winds. It will last for a prolonged period of time. -->
   <Blizzard.description>大雪会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度,并且持续相当长的时间。</Blizzard.description>
-
+  
+  <!-- EN: Fallout -->
   <Fallout.label>辐射尘</Fallout.label>
+  <!-- EN: A small nuclear fallout. -->
   <Fallout.description>一团小型的辐射云尘。</Fallout.description>
-
-  <Whiteout.label>雪茫</Whiteout.label>
-  <Whiteout.description>一场雪茫会降低远程武器的命中率，同时还会降低移动速度。</Whiteout.description>
-
+  
+  <!-- EN: Hurricane -->
   <Hurricane.label>台风</Hurricane.label>
+  <!-- EN: Extreme wind and a thick layer of clouds ravages the land. This renders ranged weapons nearly useless. Staying outside of shelter is nearly impossible. -->
   <Hurricane.description>极端的风云开始摧残大地。这使得远程武器几乎无法使用。这时候待在旷野地里可不是什么好主意！</Hurricane.description>
-
+  
+  <!-- EN: Nuclear winter -->
   <NuclearWinter.label>核冬天</NuclearWinter.label>
+  <!-- EN: Nuclear winter is the severe global-climatic-cooling-effect. -->
   <NuclearWinter.description>核辐射尘埃造成的气温严重下降，就像冬天来到一样。</NuclearWinter.description>
-
-  <ToxicRain.label>毒雨</ToxicRain.label>
-  <ToxicRain.description>对人和动物都有毒，但植物除外。降低远程武器的精度，熄灭火焰，减缓人的速度。</ToxicRain.description>
-
+  
+  <!-- EN: Heavy Rainstorm -->
+  <Rainstorm.label>特大暴雨</Rainstorm.label>
+  <!-- EN: The lightning will start fires but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <Rainstorm.description>闪电会引发火灾，但是雨水会把火扑灭。同时大雨会降低移动速度和远程武器的命中率。</Rainstorm.description>
+  
+  <!-- EN: toxic foggy rain -->
   <ToxicFoggyRain.label>毒雾雨</ToxicFoggyRain.label>
+  <!-- EN: Poisonous to people and animals, but save for plants. Reduces the accuracy of ranged weapon, extinguishes fire, and slows people down. -->
   <ToxicFoggyRain.description>对人和动物都有毒，但植物除外。降低远程武器的精度，熄灭火焰，减缓人的速度。</ToxicFoggyRain.description>
-
-  <ToxicRainyThunderstorm.label>毒暴风雨</ToxicRainyThunderstorm.label>
-  <ToxicRainyThunderstorm.description>闪电会引发火灾，但是雨水会把火扑灭。对人和动物都有毒，但植物除外。降低远程武器的精度，减缓人的速度。</ToxicRainyThunderstorm.description>
-
-  <ToxicSnowGentle.label>毒雪</ToxicSnowGentle.label>
-  <ToxicSnowGentle.description>对人和动物都有毒，但植物除外。降低远程武器的精度，熄灭火焰，减缓人的速度。</ToxicSnowGentle.description>
-
+  
+  <!-- EN: toxic foggy snow -->
   <ToxicFoggySnow.label>毒雾雪</ToxicFoggySnow.label>
+  <!-- EN: Poisonous to people and animals, but save for plants. Reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
   <ToxicFoggySnow.description>对人和动物都有毒，但植物除外。降低远程武器的精度，熄灭火焰，减缓人的速度。</ToxicFoggySnow.description>
-
+  
+  <!-- EN: toxic rain -->
+  <ToxicRain.label>毒雨</ToxicRain.label>
+  <!-- EN: Poisonous to people and animals, but save for plants. Reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <ToxicRain.description>对人和动物都有毒，但植物除外。降低远程武器的精度，熄灭火焰，减缓人的速度。</ToxicRain.description>
+  
+  <!-- EN: toxic rainy thunderstorm -->
+  <ToxicRainyThunderstorm.label>毒暴风雨</ToxicRainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. Poisonous to people and animals, but save for plants. The rain also reduces movement speed and shooting accuracy. -->
+  <ToxicRainyThunderstorm.description>闪电会引发火灾，但是雨水会把火扑灭。对人和动物都有毒，但植物除外。降低远程武器的精度，减缓人的速度。</ToxicRainyThunderstorm.description>
+  
+  <!-- EN: toxic snow -->
+  <ToxicSnowGentle.label>毒雪</ToxicSnowGentle.label>
+  <!-- EN: Poisonous to people and animals, but save for plants. Reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <ToxicSnowGentle.description>对人和动物都有毒，但植物除外。降低远程武器的精度，熄灭火焰，减缓人的速度。</ToxicSnowGentle.description>
+  
+  <!-- EN: toxic blizzard -->
   <ToxicSnowHard.label>毒暴雪</ToxicSnowHard.label>
+  <!-- EN: Poisonous to people and animals, but save for plants. Reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
   <ToxicSnowHard.description>对人和动物都有毒，但植物除外。降低远程武器的精度，熄灭火焰，减缓人的速度。</ToxicSnowHard.description>
-
-
+  
+  <!-- EN: Whiteout -->
+  <Whiteout.label>雪茫</Whiteout.label>
+  <!-- EN: A whiteout is taking place so visibilty is severely reduced. Due to the snow, the use of ranged weapons is a very poor choice. -->
+  <Whiteout.description>一场雪茫会降低远程武器的命中率，同时还会降低移动速度。</Whiteout.description>
+  
 </LanguageData>

@@ -1,11 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Planetary Recon -->
   <NovaScenario.label>行星侦察</NovaScenario.label>
+  <!-- EN: Your crew and supplies are being dropped in a new unexplored region of this remote planet. Your task is to establish a perimeter, build a permanent habitat and start to explore world. \n\nYou will play for nova race. -->
   <NovaScenario.description>你的队员和补给品已经被空投到这个边缘星球上一个新的未开发地区。你的任务是设立一个警戒区，然后建立一个前进基地，并开始探索世界。\n\n本剧本你将扮演诺瓦人族。</NovaScenario.description>
-  <NovaScenario.scenario.name>行星侦察</NovaScenario.scenario.name>
-  <NovaScenario.scenario.summary>确定侦察边界，建立前哨站，开始探索围边。</NovaScenario.scenario.summary>
+  <!-- EN: Your crew and supplies are being dropped in a new unexplored region of this remote planet. Your task is to establish a perimeter, build a permanent habitat and start to explore world. \n\nYou will play for nova race. -->
   <NovaScenario.scenario.description>你的队员和补给品已经被空投到这个边缘星球上一个新的未开发地区。你的任务是设立一个警戒区，然后建立一个前进基地，并开始探索世界。\n\n本剧本你将扮演诺瓦人族。</NovaScenario.scenario.description>
-
-
+  <!-- EN: Planetary Recon -->
+  <NovaScenario.scenario.name>行星侦察</NovaScenario.scenario.name>
+  <!-- EN: Your crew and supplies are being dropped in a new unexplored region of this remote planet. Your task is to establish a perimeter, build a permanent habitat and start to explore world. -->
+  <NovaScenario.scenario.parts.GameStartDialog.textKey>你的队员和补给品已经被空投到这个边缘星球上一个新的未开发地区。你的任务是设立一个警戒区，然后建立一个前进基地，并开始探索世界。</NovaScenario.scenario.parts.GameStartDialog.textKey>
+  <!-- EN: Establish a perimeter, build a habitat and start to explore. -->
+  <NovaScenario.scenario.summary>确定侦察边界，建立前哨站，开始探索围边。</NovaScenario.scenario.summary>
+  
 </LanguageData>

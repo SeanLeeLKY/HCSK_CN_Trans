@@ -1,20 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <ElectronicCraftingSpeed.label>电子器件制作速度</ElectronicCraftingSpeed.label>
-  <ElectronicCraftingSpeed.description>制作电子器件的工作速度。</ElectronicCraftingSpeed.description>
-
-  <StonecuttingSpeed.label>切石速度</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>将石块切割成为石砖的速度。</StonecuttingSpeed.description>
-
+  
+  <!-- EN: Collecting speed -->
   <CollectingSpeed.label>收集速度</CollectingSpeed.label>
+  <!-- EN: Speed at which this person collects clay, sand, peat, etc. -->
   <CollectingSpeed.description>从地面收集粘土、泥炭等资源的速度。</CollectingSpeed.description>
-
-  <TailoringSpeed.label>裁缝速度</TailoringSpeed.label>
-  <TailoringSpeed.description>这个人物制作衣物的速度。\n\n这个因素只影响制作速度而不影响制成品的品质。品质是由裁缝的手工技能等级决定的。</TailoringSpeed.description>
-
+  
+  <!-- EN: Electronic crafting speed -->
+  <ElectronicCraftingSpeed.label>电子器件制作速度</ElectronicCraftingSpeed.label>
+  <!-- EN: Speed at which this person crafts electronic devices. -->
+  <ElectronicCraftingSpeed.description>制作电子器件的工作速度。</ElectronicCraftingSpeed.description>
+  
+  <!-- EN: smithing speed -->
   <SmithingSpeed.label>锻造速度</SmithingSpeed.label>
+  <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
   <SmithingSpeed.description>这个人物制作武器，机械和弹药的速度。\n\n这个因素只影响制作速度而不影响制成品的品质。品质是由制作者的手工技能等级决定的。</SmithingSpeed.description>
-
-
+  
+  <!-- EN: stonecutting speed -->
+  <StonecuttingSpeed.label>切石速度</StonecuttingSpeed.label>
+  <!-- EN: Speed at which this person cuts rough stone into blocks. -->
+  <StonecuttingSpeed.description>将石块切割成为石砖的速度。</StonecuttingSpeed.description>
+  
+  <!-- EN: tailoring speed -->
+  <TailoringSpeed.label>裁缝速度</TailoringSpeed.label>
+  <!-- EN: The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill. -->
+  <TailoringSpeed.description>这个人物制作衣物的速度。\n\n这个因素只影响制作速度而不影响制成品的品质。品质是由裁缝的手工技能等级决定的。</TailoringSpeed.description>
+  
 </LanguageData>

@@ -1,34 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Horses -->
-
+  
+  <!-- EN: horse -->
   <Horse.label>马</Horse.label>
+  <!-- EN: A large, peaceful herbivore widely known for its great speed and strength. Horses and humans have a history stretching back for millenia, so it is no surprise to see one. Unfortunately, all your colonists are absolutely inept at riding, otherwise it could make a fitting steed. -->
   <Horse.description>一种安静的大型食草动物，以其速度和力量而闻名。马和人类的历史可以追溯到几千年前，被古人驯服并用于交通了。</Horse.description>
-  <Horse.tools.0.label>左蹄</Horse.tools.0.label>
-  <Horse.tools.1.label>右蹄</Horse.tools.1.label>
-  <Horse.tools.3.label>头</Horse.tools.3.label>
- <!--  <Horse_Leather.label>马皮</Horse_Leather.label>
-  <Horse_Leather.description>马皮</Horse_Leather.description>
-  <Horse_Leather.stuffProps.stuffAdjective>马皮</Horse_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Elephant -->
-  <Horse_Corpse.label>马尸体</Horse_Corpse.label>
-  <Horse_Corpse.description>马尸体</Horse_Corpse.description>
-
-
-  <!-- Woolly Horse -->
-
+  <!-- EN: left hoof -->
+  <Horse.tools.left_hoof.label>左蹄</Horse.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Horse.tools.right_hoof.label>右蹄</Horse.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Horse.tools.head.label>头</Horse.tools.head.label>
+  
+  <!-- EN: woolly horse -->
   <Horse_Wooly.label>长鬃马</Horse_Wooly.label>
+  <!-- EN: A plump horse covered in a thick fur fit for much colder climates. Oddly enough, woolly horses have a throwback to their slower ancestors- actual toed feet; though much larger and further splayed, so as to act as a snowshoe. Odder yet, they seem to be omnivorous, with a set of large canines to boot. -->
   <Horse_Wooly.description>一种胖胖的马，身上披着厚厚的皮毛，适合更寒冷的气候。奇怪的是，长鬃马和马的祖先有不同之处——真正有脚趾的脚，虽然要大得多，而且要张开得更大，以便充当雪鞋。更奇怪的是，它们似乎是杂食动物，还有一套大型犬齿系统。</Horse_Wooly.description>
-  <Horse_Wooly.tools.0.label>左蹄</Horse_Wooly.tools.0.label>
-  <Horse_Wooly.tools.1.label>右蹄</Horse_Wooly.tools.1.label>
-  <Horse_Wooly.tools.3.label>头</Horse_Wooly.tools.3.label>
- <!--  <Horse_Wooly_Leather.label>长鬃马皮</Horse_Wooly_Leather.label>
-  <Horse_Wooly_Leather.description>长鬃马皮</Horse_Wooly_Leather.description>
-  <Horse_Wooly_Leather.stuffProps.stuffAdjective>长鬃马皮</Horse_Wooly_Leather.stuffProps.stuffAdjective> -->
-  <!-- Use Meat From: Elephant -->
-  <Horse_Wooly_Corpse.label>长鬃马尸体</Horse_Wooly_Corpse.label>
-  <Horse_Wooly_Corpse.description>长鬃马尸体</Horse_Wooly_Corpse.description>
-
-
+  <!-- EN: left hoof -->
+  <Horse_Wooly.tools.left_hoof.label>左蹄</Horse_Wooly.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Horse_Wooly.tools.right_hoof.label>右蹄</Horse_Wooly.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Horse_Wooly.tools.head.label>头</Horse_Wooly.tools.head.label>
+  
 </LanguageData>

@@ -1,10 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Activated сarbon -->
   <ActivatedCarbon.label>活性炭</ActivatedCarbon.label>
+  <!-- EN: Simple but effective way to cure food poisoning. Several doses of the drug are required until full healing. Caution, it could cause a diarrhea. -->
   <ActivatedCarbon.description>治疗食物中毒简单而有效的方式。需要多次使用，直到完全治愈。副作用是会引起腹泻反应。</ActivatedCarbon.description>
+  <!-- EN: Take {0} -->
   <ActivatedCarbon.ingestible.ingestCommandString>使用{0}</ActivatedCarbon.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
   <ActivatedCarbon.ingestible.ingestReportString>正在使用{0}。</ActivatedCarbon.ingestible.ingestReportString>
-
-
+  
 </LanguageData>

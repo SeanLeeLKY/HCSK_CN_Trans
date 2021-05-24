@@ -1,56 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Traps -->
-
+  
+  <!-- EN: razor wire trap -->
   <Razor_Wire_Trap.label>刀片刺网陷阱</Razor_Wire_Trap.label>
+  <!-- EN: Very dangerous trap. -->
   <Razor_Wire_Trap.description>一种非常危险的陷阱。</Razor_Wire_Trap.description>
-  <Razor_Wire_Trap_Blueprint.label>刀片刺网陷阱（蓝图）</Razor_Wire_Trap_Blueprint.label>
-  <Razor_Wire_Trap_Blueprint_Install.label>刀片刺网陷阱（蓝图）</Razor_Wire_Trap_Blueprint_Install.label>
-  <Razor_Wire_Trap_Frame.label>刀片刺网陷阱（建造中）</Razor_Wire_Trap_Frame.label>
-  <Razor_Wire_Trap_Frame.description>一种非常危险的陷阱。</Razor_Wire_Trap_Frame.description>
-
-  <TrapSpike.label>尖刺陷阱</TrapSpike.label>
-  <TrapSpike.description>用一个巧妙的触发机关将将尖刺压住。当目标触发机关时，尖刺弹出使目标受到伤害。</TrapSpike.description>
-  <TrapSpike_Blueprint.label>尖刺陷阱（蓝图）</TrapSpike_Blueprint.label>
-  <TrapSpike_Blueprint_Install.label>尖刺陷阱（蓝图）</TrapSpike_Blueprint_Install.label>
-  <TrapSpike_Frame.label>尖刺陷阱（建造中）</TrapSpike_Frame.label>
-  <TrapSpike_Frame.description>用一个巧妙的触发机关将将尖刺压住。当目标触发机关时，尖刺弹出使目标受到伤害。</TrapSpike_Frame.description>
-
-  <TrapIED_HighExplosive.label>简易炸弹陷阱</TrapIED_HighExplosive.label>
-  <TrapIED_HighExplosive.description>一枚炮弹连接到一个自制的扳机上。当有人干扰扳机时，炮弹就会爆炸。简易的触发器有一个随机的延迟，可能会让灵活的敌人逃脱。</TrapIED_HighExplosive.description>
-  <TrapIED_HighExplosive_Blueprint.label>简易炸弹陷阱（蓝图）</TrapIED_HighExplosive_Blueprint.label>
-  <TrapIED_HighExplosive_Blueprint_Install.label>简易炸弹陷阱（蓝图）</TrapIED_HighExplosive_Blueprint_Install.label>
-  <TrapIED_HighExplosive_Frame.label>简易炸弹陷阱（建造中）</TrapIED_HighExplosive_Frame.label>
-  <TrapIED_HighExplosive_Frame.description>一枚炮弹连接到一个自制的扳机上。当有人干扰扳机时，炮弹就会爆炸。简易的触发器有一个随机的延迟，可能会让灵活的敌人逃脱。</TrapIED_HighExplosive_Frame.description>
-
-  <TrapIED_Incendiary.label>简易燃烧陷阱</TrapIED_Incendiary.label>
-  <TrapIED_Incendiary.description>将炸药与燃烧剂经过混合，然后采用化学引信引爆。</TrapIED_Incendiary.description>
-  <TrapIED_Incendiary_Blueprint.label>简易燃烧陷阱（蓝图）</TrapIED_Incendiary_Blueprint.label>
-  <TrapIED_Incendiary_Blueprint_Install.label>简易燃烧陷阱（蓝图）</TrapIED_Incendiary_Blueprint_Install.label>
-  <TrapIED_Incendiary_Frame.label>简易燃烧陷阱（建造中）</TrapIED_Incendiary_Frame.label>
-  <TrapIED_Incendiary_Frame.description>将炸药与燃烧剂经过混合，然后采用化学引信引爆。</TrapIED_Incendiary_Frame.description>
-
-  <TrapIED_EMP.label>简易EMP陷阱</TrapIED_EMP.label>
-  <TrapIED_EMP.description>由一个EMP炮弹和自制的触发机关组成的陷阱。爆炸可以使机械体瘫痪数秒。</TrapIED_EMP.description>
-  <TrapIED_EMP_Blueprint.label>简易EMP陷阱（蓝图）</TrapIED_EMP_Blueprint.label>
-  <TrapIED_EMP_Blueprint_Install.label>简易EMP陷阱（蓝图）</TrapIED_EMP_Blueprint_Install.label>
-  <TrapIED_EMP_Frame.label>简易EMP陷阱（建造中）</TrapIED_EMP_Frame.label>
-  <TrapIED_EMP_Frame.description>由一个EMP炮弹和自制的触发机关组成的陷阱。爆炸可以使机械体瘫痪数秒。</TrapIED_EMP_Frame.description>
-
-  <TrapIED_Firefoam.label>简易泡沫灭火陷阱</TrapIED_Firefoam.label>
-  <TrapIED_Firefoam.description>当有人触碰到机关时，陷阱会爆炸并向四周喷洒出灭火泡沫。</TrapIED_Firefoam.description>
-  <TrapIED_Firefoam_Blueprint.label>简易泡沫灭火陷阱（蓝图）</TrapIED_Firefoam_Blueprint.label>
-  <TrapIED_Firefoam_Blueprint_Install.label>简易泡沫灭火陷阱（蓝图）</TrapIED_Firefoam_Blueprint_Install.label>
-  <TrapIED_Firefoam_Frame.label>简易泡沫灭火陷阱（建造中）</TrapIED_Firefoam_Frame.label>
-  <TrapIED_Firefoam_Frame.description>当有人触碰到机关时，陷阱会爆炸并向四周喷洒出灭火泡沫。</TrapIED_Firefoam_Frame.description>
-
+  
+  <!-- EN: IED antigrain warhead trap -->
   <TrapIED_AntigrainWarhead.label>简易反粒子弹头陷阱</TrapIED_AntigrainWarhead.label>
+  <!-- EN: A tiny warhead connected to a homemade trigger. Creates a huge explosion and starts fires around itself when disturbed. -->
   <TrapIED_AntigrainWarhead.description>用一个自制的触发机关连接到高科技反粒子弹头上。引爆时会让反粒子弹头从内部爆炸，产生大规模的爆炸。</TrapIED_AntigrainWarhead.description>
-  <TrapIED_AntigrainWarhead_Blueprint.label>简易反粒子弹头陷阱（蓝图）</TrapIED_AntigrainWarhead_Blueprint.label>
-  <TrapIED_AntigrainWarhead_Blueprint_Install.label>简易反粒子弹头陷阱（蓝图）</TrapIED_AntigrainWarhead_Blueprint_Install.label>
-  <TrapIED_AntigrainWarhead_Frame.label>简易反粒子弹头陷阱（建造中）</TrapIED_AntigrainWarhead_Frame.label>
-  <TrapIED_AntigrainWarhead_Frame.description>用一个自制的触发机关连接到高科技反粒子弹头上。引爆时会让反粒子弹头从内部爆炸，产生大规模的爆炸。</TrapIED_AntigrainWarhead_Frame.description>
-
-
+  
+  <!-- EN: IED EMP trap -->
+  <TrapIED_EMP.label>简易EMP陷阱</TrapIED_EMP.label>
+  <!-- EN: A simple trap consisting of an EMP shell and a homemade trigger. The explosion can paralyze mechanical creatures for a few seconds. Can be triggered even by those who are unaffacted by EMP explosions. -->
+  <TrapIED_EMP.description>由一个EMP炮弹和自制的触发机关组成的陷阱。爆炸可以使机械体瘫痪数秒。</TrapIED_EMP.description>
+  
+  <!-- EN: IED firefoam trap -->
+  <TrapIED_Firefoam.label>简易泡沫灭火陷阱</TrapIED_Firefoam.label>
+  <!-- EN: When someone touches the trigger, the trap explodes and sprays a fire-extinguishing foam around itself. -->
+  <TrapIED_Firefoam.description>当有人触碰到机关时，陷阱会爆炸并向四周喷洒出灭火泡沫。</TrapIED_Firefoam.description>
+  
+  <!-- EN: IED trap -->
+  <TrapIED_HighExplosive.label>简易炸弹陷阱</TrapIED_HighExplosive.label>
+  <!-- EN: An artillery shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape. -->
+  <TrapIED_HighExplosive.description>一枚炮弹连接到一个自制的扳机上。当有人干扰扳机时，炮弹就会爆炸。简易的触发器有一个随机的延迟，可能会让灵活的敌人逃脱。</TrapIED_HighExplosive.description>
+  
+  <!-- EN: IED incendiary trap -->
+  <TrapIED_Incendiary.label>简易燃烧陷阱</TrapIED_Incendiary.label>
+  <!-- EN: Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable. -->
+  <TrapIED_Incendiary.description>将炸药与燃烧剂经过混合，然后采用化学引信引爆。</TrapIED_Incendiary.description>
+  
+  <!-- EN: spike trap -->
+  <TrapSpike.label>尖刺陷阱</TrapSpike.label>
+  <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forthm and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapSpike.description>用一个巧妙的触发机关将将尖刺压住。当目标触发机关时，尖刺弹出使目标受到伤害。</TrapSpike.description>
+  
 </LanguageData>

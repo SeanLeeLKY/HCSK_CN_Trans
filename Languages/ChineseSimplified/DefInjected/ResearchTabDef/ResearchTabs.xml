@@ -1,14 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- To add a research tab, make a new ResearchTabDef here and then set the <tab> field of your research project to match it -->
-
-  <Main.label>工业</Main.label>
-  <SpacerTech.label>极致工业</SpacerTech.label>
+  
+  <!-- EN: Agriculture -->
   <Agriculture.label>农业</Agriculture.label>
+  
+  <!-- EN: Interior -->
   <Furniture.label>内饰</Furniture.label>
+  
+  <!-- EN: Industry -->
+  <Main.label>工业</Main.label>
+  
+  <!-- EN: Power -->
   <Power.label>能源</Power.label>
+  
+  <!-- EN: Security -->
   <Security.label>安防</Security.label>
-
-
+  
+  <!-- EN: Post Industry -->
+  <SpacerTech.label>极致工业</SpacerTech.label>
+  
 </LanguageData>

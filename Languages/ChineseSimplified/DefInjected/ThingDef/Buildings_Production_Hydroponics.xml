@@ -1,51 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- SATURATED SOIL -->
-
-  <PrimitiveHydroponic.label>饱和土</PrimitiveHydroponic.label>
-  <PrimitiveHydroponic.description>营养富集的人工土壤。肥沃度：80。</PrimitiveHydroponic.description>
-  <PrimitiveHydroponic_Blueprint.label>饱和土（蓝图）</PrimitiveHydroponic_Blueprint.label>
-  <PrimitiveHydroponic_Frame.label>饱和土（建造中）</PrimitiveHydroponic_Frame.label>
-  <PrimitiveHydroponic_Frame.description>营养富集的人工土壤。肥沃度：80。</PrimitiveHydroponic_Frame.description>
-
-
-  <!-- BASIC BASIN -->
-
-  <HydroponicsBasin.label>水培槽</HydroponicsBasin.label>
-  <HydroponicsBasin.description>在人工培养液中快速种植植物。运行时需要消耗电力，断电后植物会死亡。肥沃度：150。</HydroponicsBasin.description>
-  <HydroponicsBasin_Blueprint.label>水培槽（蓝图）</HydroponicsBasin_Blueprint.label>
-  <HydroponicsBasin_Frame.label>水培槽（建造中）</HydroponicsBasin_Frame.label>
-  <HydroponicsBasin_Frame.description>在人工培养液中快速种植植物。运行时需要消耗电力，断电后植物会死亡。肥沃度：150。</HydroponicsBasin_Frame.description>
-
-
-  <!-- ADVANCED HYDROPONICS -->
-
-  <NewHydroponicsBasin.label>先进水培槽</NewHydroponicsBasin.label>
-  <NewHydroponicsBasin.description>在人工培养液中快速种植植物，这个版本自带光照单元。运行时需要消耗电力，断电后植物会死亡。肥沃度：210。</NewHydroponicsBasin.description>
-  <NewHydroponicsBasin_Blueprint.label>先进水培槽（蓝图）</NewHydroponicsBasin_Blueprint.label>
-  <NewHydroponicsBasin_Frame.label>先进水培槽（建造中）</NewHydroponicsBasin_Frame.label>
-  <NewHydroponicsBasin_Frame.description>在人工培养液中快速种植植物，这个版本自带光照单元。运行时需要消耗电力，断电后植物会死亡。肥沃度：210。</NewHydroponicsBasin_Frame.description>
-
-
-  <!-- POT -->
-
-  <ClutterAlloyHydroponicsBasinVS.label>水培盆</ClutterAlloyHydroponicsBasinVS.label>
-  <ClutterAlloyHydroponicsBasinVS.description>在人工培养液中快速种植植物的水培容器。运行时需要消耗电力。肥沃度：180。</ClutterAlloyHydroponicsBasinVS.description>
-  <ClutterAlloyHydroponicsBasinVS_Blueprint.label>水培盆（蓝图）</ClutterAlloyHydroponicsBasinVS_Blueprint.label>
-  <ClutterAlloyHydroponicsBasinVS_Frame.label>水培盆（建造中）</ClutterAlloyHydroponicsBasinVS_Frame.label>
-  <ClutterAlloyHydroponicsBasinVS_Frame.description>在人工培养液中快速种植植物的水培容器。运行时需要消耗电力。肥沃度：180。</ClutterAlloyHydroponicsBasinVS_Frame.description>
-
-
-  <!-- BOX -->
-
+  
+  <!-- EN: hydroponic box -->
   <Agrarian.label>水培箱</Agrarian.label>
+  <!-- EN: A small self-watering wooden wood box with earth in it for growing plants. Requires power. 120 fertility -->
   <Agrarian.description>一个带有营养液和培植土的植物种植箱。需要电力运作。肥沃度：120。</Agrarian.description>
-  <Agrarian_Blueprint.label>水培箱（蓝图）</Agrarian_Blueprint.label>
-  <Agrarian_Frame.label>水培箱（建造中）</Agrarian_Frame.label>
-  <Agrarian_Frame.description>一个带有营养液和培植土的植物种植箱。需要电力运作。肥沃度：120。</Agrarian_Frame.description>
-
-
-  <!-- 饱和土 -->
-
+  
+  <!-- EN: hydroponic pot -->
+  <ClutterAlloyHydroponicsBasinVS.label>水培盆</ClutterAlloyHydroponicsBasinVS.label>
+  <!-- EN: A hydroponic pot planted into the ground. Requires power. 180 fertility -->
+  <ClutterAlloyHydroponicsBasinVS.description>在人工培养液中快速种植植物的水培容器。运行时需要消耗电力。肥沃度：180。</ClutterAlloyHydroponicsBasinVS.description>
+  
+  <!-- EN: hydroponic basin -->
+  <HydroponicsBasin.label>水培槽</HydroponicsBasin.label>
+  <!-- EN: A hydroponic basin can grow several plants quickly. The basin requires power to work and plants will die if the power is cut.150 fertility -->
+  <HydroponicsBasin.description>在人工培养液中快速种植植物。运行时需要消耗电力，断电后植物会死亡。肥沃度：150。</HydroponicsBasin.description>
+  
+  <!-- EN: advanced hydroponic basin -->
+  <NewHydroponicsBasin.label>先进水培槽</NewHydroponicsBasin.label>
+  <!-- EN: Advanced hydroponic basins grow plants quicker and provide their own light source. The basin requires power to work and plants will die if the power is lost. 210 fertility -->
+  <NewHydroponicsBasin.description>在人工培养液中快速种植植物，这个版本自带光照单元。运行时需要消耗电力，断电后植物会死亡。肥沃度：210。</NewHydroponicsBasin.description>
+  
+  <!-- EN: saturated soil -->
+  <PrimitiveHydroponic.label>饱和土</PrimitiveHydroponic.label>
+  <!-- EN: Еnrichment soil. 80 fertility -->
+  <PrimitiveHydroponic.description>营养富集的人工土壤。肥沃度：80。</PrimitiveHydroponic.description>
+  
 </LanguageData>

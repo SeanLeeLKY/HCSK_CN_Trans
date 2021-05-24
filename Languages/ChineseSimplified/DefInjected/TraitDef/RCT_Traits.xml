@@ -1,112 +1,193 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Aesthete.degreeDatas.0.label>唯美主义</Aesthete.degreeDatas.0.label>
-  <Aesthete.degreeDatas.0.description>{PAWN_nameDef}喜欢各种美丽的事物，而且十分关注{PAWN_possessive}周围的景物环境。</Aesthete.degreeDatas.0.description>
-
-  <Bipolar.degreeDatas.0.label>极端</Bipolar.degreeDatas.0.label>
-  <Bipolar.degreeDatas.0.description>{PAWN_nameDef}非常容易陷入极端情绪。当{PAWN_pronoun}感觉开心的时候，{PAWN_pronoun}会热情高涨的对待一切，但是{PAWN_pronoun}心情不好的时候，{PAWN_pronoun}就会变得极其危险。</Bipolar.degreeDatas.0.description>
-
-  <BrownThumb.degreeDatas.0.label>园艺不通</BrownThumb.degreeDatas.0.label>
-  <BrownThumb.degreeDatas.0.description>{PAWN_nameDef}种植作物的水平极其糟糕。能在{PAWN_pronoun}手里活下来的植物可能也就只有杂草了。</BrownThumb.degreeDatas.0.description>
-  <BrownThumb.degreeDatas.1.label>园艺热爱</BrownThumb.degreeDatas.1.label>
-  <BrownThumb.degreeDatas.1.description>{PAWN_nameDef}对于园艺工作总是会有很好的耐心。每当{PAWN_pronoun}播种植物的时候，{PAWN_pronoun}总是感觉心情舒畅。</BrownThumb.degreeDatas.1.description>
-
-  <Butcher.degreeDatas.0.label>屠夫</Butcher.degreeDatas.0.label>
-  <Butcher.degreeDatas.0.description>{PAWN_nameDef}非常喜欢摆弄肉类食材。{PAWN_possessive}屠宰分割尸体的效率非常高，不过{PAWN_pronoun}这样高的效率也就仅限于动物尸体。{PAWN_pronoun}对于处理机械族残骸完全就是一窍不通。</Butcher.degreeDatas.0.description>
-
-  <Chemist.degreeDatas.0.label>化学家</Chemist.degreeDatas.0.label>
-  <Chemist.degreeDatas.0.description>{PAWN_nameDef}对于生物化学方面的知识水平很高，在发酵酿造和生产化学制品的方面更显得得心应手。</Chemist.degreeDatas.0.description>
-
-  <Claustrophobic.degreeDatas.0.label>幽闭恐惧症</Claustrophobic.degreeDatas.0.label>
-  <Claustrophobic.degreeDatas.0.description>{PAWN_nameDef}是一名幽闭恐惧症患者。{PAWN_pronoun}非常厌恶狭窄的空间感，也没法成为一名优秀的矿道工人。</Claustrophobic.degreeDatas.0.description>
-
-  <ColdLover.degreeDatas.0.label>低温嗜好</ColdLover.degreeDatas.0.label>
-  <ColdLover.degreeDatas.0.description>{PAWN_nameDef}比常人喜欢更低的温度。{PAWN_pronoun}不会抱怨天气太冷，不过会在环境炎热的时候更加难过。</ColdLover.degreeDatas.0.description>
-
-  <DeepSleeper.degreeDatas.0.label>沉眠者</DeepSleeper.degreeDatas.0.label>
-  <DeepSleeper.degreeDatas.0.description>{PAWN_nameDef}在哪里都能睡得很踏实。</DeepSleeper.degreeDatas.0.description>
-
-  <Gourmet.degreeDatas.0.label>美食家</Gourmet.degreeDatas.0.label>
-  <Gourmet.degreeDatas.0.description>{PAWN_nameDef}对于烹饪美食真是充满热情。{PAWN_possessive}烹饪的食物真是色香味俱全，不过正因为如此，{PAWN_pronoun}需要花费更多的时间来让食物被烹饪得“刚刚好”。</Gourmet.degreeDatas.0.description>
-
-  <HeatLover.degreeDatas.0.label>高温嗜好</HeatLover.degreeDatas.0.label>
-  <HeatLover.degreeDatas.0.description>{PAWN_nameDef}比常人喜欢更高的温度。{PAWN_pronoun}不会抱怨天气太热，不过会在环境寒冷的时候更加难过。</HeatLover.degreeDatas.0.description>
-
-  <Aptitude.degreeDatas.0.label>笨拙</Aptitude.degreeDatas.0.label>
-  <Aptitude.degreeDatas.0.description>{PAWN_pronoun}心意虽好，但是{PAWN_nameDef}实在是太不协调了，无法成为一个优秀的技术工人。</Aptitude.degreeDatas.0.description>
-  <Aptitude.degreeDatas.1.label>协调</Aptitude.degreeDatas.1.label>
-  <Aptitude.degreeDatas.1.description>{PAWN_nameDef}非常灵活协调，可以胜任对技术要求较高的工种。</Aptitude.degreeDatas.1.description>
-
-  <PainThreshold.degreeDatas.0.label>钢铁意志</PainThreshold.degreeDatas.0.label>
-  <PainThreshold.degreeDatas.0.description>{PAWN_nameDef}具有极高的忍耐力。{PAWN_pronoun}可以做到不被外物所左右。</PainThreshold.degreeDatas.0.description>
-  <PainThreshold.degreeDatas.1.label>痛不堪忍</PainThreshold.degreeDatas.1.label>
-  <PainThreshold.degreeDatas.1.description>{PAWN_nameDef}比其他人更怕疼痛带来的副作用。</PainThreshold.degreeDatas.1.description>
-
-  <Inventor.degreeDatas.0.label>发明家</Inventor.degreeDatas.0.label>
-  <Inventor.degreeDatas.0.description>{PAWN_nameDef}经常会冒出很多别具一格的想法。对于{PAWN_objective}来说，搞科研是一件非常容易的事，但是{PAWN_pronoun}看起来总是因为这些奇思妙想而困扰不已。</Inventor.degreeDatas.0.description>
-
-  <Eyesight.degreeDatas.0.label>近视</Eyesight.degreeDatas.0.label>
-  <Eyesight.degreeDatas.0.description>{PAWN_nameDef}看东西总是很模糊，除非{PAWN_pronoun}走得很近。</Eyesight.degreeDatas.0.description>
-  <Eyesight.degreeDatas.1.label>鹰眼</Eyesight.degreeDatas.1.label>
-  <Eyesight.degreeDatas.1.description>{PAWN_nameDef}视力非常好，因此能够更快的瞄准目标。</Eyesight.degreeDatas.1.description>
-
-  <NeatFreak.degreeDatas.0.label>挑刺</NeatFreak.degreeDatas.0.label>
-  <NeatFreak.degreeDatas.0.description>{PAWN_nameDef}总是对一些小问题十分挑剔。</NeatFreak.degreeDatas.0.description>
-
-  <EatingSpeed.degreeDatas.0.label>细嚼慢咽</EatingSpeed.degreeDatas.0.label>
-  <EatingSpeed.degreeDatas.0.description>{PAWN_nameDef}带着{PAWN_possessive}食物，慢悠悠的吃完{PAWN_possessive}每餐。</EatingSpeed.degreeDatas.0.description>
-  <EatingSpeed.degreeDatas.1.label>狼吞虎咽</EatingSpeed.degreeDatas.1.label>
-  <EatingSpeed.degreeDatas.1.description>{PAWN_nameDef}对付{PAWN_possessive}餐食总是比其他人快太多了。</EatingSpeed.degreeDatas.1.description>
-
-  <Nyctophobe.degreeDatas.0.label>黑夜恐惧</Nyctophobe.degreeDatas.0.label>
-  <Nyctophobe.degreeDatas.0.description>{PAWN_nameDef}非常怕黑。</Nyctophobe.degreeDatas.0.description>
-  <Nyctophobe.degreeDatas.1.label>黑夜嗜好</Nyctophobe.degreeDatas.1.label>
-  <Nyctophobe.degreeDatas.1.description>{PAWN_nameDef}完全不怕黑。</Nyctophobe.degreeDatas.1.description>
-
-  <Perfectionist.degreeDatas.0.label>完美主义者</Perfectionist.degreeDatas.0.label>
-  <Perfectionist.degreeDatas.0.description>{PAWN_nameDef}拒绝接受不完美的事物，以至于无论花费多少时间，一定要做到{PAWN_possessive}最好。因此，{PAWN_pronoun}的工作不容易失误，但是{PAWN_pronoun}需要花费更多的时间来完成一件事情。</Perfectionist.degreeDatas.0.description>
-
-  <Medic.degreeDatas.0.label>疗效降低</Medic.degreeDatas.0.label>
-  <Medic.degreeDatas.0.description>即便是有最好的意愿，总是有些人对于医药这件事没什么天赋。{PAWN_nameDef}可能就是这样的人。</Medic.degreeDatas.0.description>
-  <Medic.degreeDatas.1.label>熟练医疗</Medic.degreeDatas.1.label>
-  <Medic.degreeDatas.1.description>{PAWN_nameDef}看起来对于医疗工作非常有天分。在{PAWN_possessive}照顾下的病人总是会感觉好得多。</Medic.degreeDatas.1.description>
-  <Medic.degreeDatas.2.label>医疗大师</Medic.degreeDatas.2.label>
-  <Medic.degreeDatas.2.description>{PAWN_nameDef}是一位极具天赋的医疗专家。经过{PAWN_possessive}稳健又熟练的双手和{PAWN_possessive}令人如沐春风的问诊后，{PAWN_possessive}照顾的患者几乎感觉自己已经好了。</Medic.degreeDatas.2.description>
-
-  <Rockhound.degreeDatas.0.label>岩石猎手</Rockhound.degreeDatas.0.label>
-  <Rockhound.degreeDatas.0.description>{PAWN_nameDef}喜欢和各种各样的石头打交道。{PAWN_possessive}采掘的速度比普通人更快，但是因为{PAWN_possessive}缺乏对于其他事物的兴趣而导致其他工作时{PAWN_objective}的速度下降。而且{PAWN_pronoun}非常讨厌摆弄植物。</Rockhound.degreeDatas.0.description>
-
-  <Dodging.degreeDatas.0.label>行动迟缓</Dodging.degreeDatas.0.label>
-  <Dodging.degreeDatas.0.description>{PAWN_nameDef}不太擅长躲闪打击。</Dodging.degreeDatas.0.description>
-  <Dodging.degreeDatas.1.label>反应迅捷</Dodging.degreeDatas.1.label>
-  <Dodging.degreeDatas.1.description>{PAWN_nameDef}有猫一般的迅捷反应能力，极其擅长躲闪。</Dodging.degreeDatas.1.description>
-
-  <Trader.degreeDatas.0.label>傻瓜</Trader.degreeDatas.0.label>
-  <Trader.degreeDatas.0.description>{PAWN_nameDef}在买卖东西的时候经常做一些被别人卖了还帮别人数钱的事情。{PAWN_pronoun}经常会给出比{PAWN_pronoun}应该给的正常水平更高的价格，而且{PAWN_pronoun}还老是觉得自己占了便宜。</Trader.degreeDatas.0.description>
-  <Trader.degreeDatas.1.label>讨价还价</Trader.degreeDatas.1.label>
-  <Trader.degreeDatas.1.description>{PAWN_nameDef}非常喜欢砍价，而且精于此道。{PAWN_pronoun}总是能获得比大多数人要有利的成交价格。</Trader.degreeDatas.1.description>
-  <Trader.degreeDatas.2.label>交易大师</Trader.degreeDatas.2.label>
-  <Trader.degreeDatas.2.description>{PAWN_nameDef}总是能够将商品交易出最有利的价格。</Trader.degreeDatas.2.description>
-
-  <ShootingAccuracy.degreeDatas.0.label>细心瞄准</ShootingAccuracy.degreeDatas.0.label>
-  <ShootingAccuracy.degreeDatas.0.description>{PAWN_nameDef}会用更多的时间来精细瞄准。正因如此，{PAWN_pronoun}射速总是比别人慢，不过精度却高得多。</ShootingAccuracy.degreeDatas.0.description>
-  <ShootingAccuracy.degreeDatas.1.label>好战狂</ShootingAccuracy.degreeDatas.1.label>
-  <ShootingAccuracy.degreeDatas.1.description>哒哒哒！哒哒哒！{PAWN_nameDef}非常喜欢扣动扳机的感觉。{PAWN_pronoun}射速比其他人快得多，不过精度也是不言而喻的差。</ShootingAccuracy.degreeDatas.1.description>
-  <ShootingAccuracy.degreeDatas.2.label>致命一击</ShootingAccuracy.degreeDatas.2.label>
-  <ShootingAccuracy.degreeDatas.2.description>{PAWN_nameDef}精于操作手中武器，能射的又快又准。</ShootingAccuracy.degreeDatas.2.description>
-
-  <Diplomat.degreeDatas.0.label>粗野</Diplomat.degreeDatas.0.label>
-  <Diplomat.degreeDatas.0.description>含蓄是什么？外交有啥用？{PAWN_nameDef}甚至不知道说出口的词句是什么意思。</Diplomat.degreeDatas.0.description>
-  <Diplomat.degreeDatas.1.label>外交官</Diplomat.degreeDatas.1.label>
-  <Diplomat.degreeDatas.1.description>{PAWN_nameDef}知道如何圆滑的处理各种外交事务。</Diplomat.degreeDatas.1.description>
-  <Diplomat.degreeDatas.2.label>外交大师</Diplomat.degreeDatas.2.label>
-  <Diplomat.degreeDatas.2.description>{PAWN_nameDef}总是能够让人如沐春风的说出合情合理的建议来缓解{PAWN_pronoun}不断面对的各种紧张情况。{PAWN_pronoun}就算说上几天也不乏听众。</Diplomat.degreeDatas.2.description>
-
-  <Constitution.degreeDatas.0.label>虚弱</Constitution.degreeDatas.0.label>
-  <Constitution.degreeDatas.0.description>{PAWN_nameDef}特别容易受到疾病，病原体和有毒物质的影响。</Constitution.degreeDatas.0.description>
-  <Constitution.degreeDatas.1.label>强健</Constitution.degreeDatas.1.label>
-  <Constitution.degreeDatas.1.description>{PAWN_nameDef}的身体在抵抗疾病，病原体和有毒物质方面比正常人强。</Constitution.degreeDatas.1.description>
-
-
+  
+  <!-- EN: aesthete -->
+  <Aesthete.degreeDatas.aesthete.label>唯美主义</Aesthete.degreeDatas.aesthete.label>
+  <!-- EN: {PAWN_nameDef} loves beautiful things, and really cares about how {PAWN_possessive} enviroment looks. -->
+  <Aesthete.degreeDatas.aesthete.description>{PAWN_nameDef}喜欢各种美丽的事物，而且十分关注{PAWN_possessive}周围的景物环境。</Aesthete.degreeDatas.aesthete.description>
+  
+  <!-- EN: inept -->
+  <Aptitude.degreeDatas.inept.label>笨拙</Aptitude.degreeDatas.inept.label>
+  <!-- EN: {PAWN_pronoun} means well, but {PAWN_nameDef} is uncoordinated, and just not very good at any sort of skilled labor. -->
+  <Aptitude.degreeDatas.inept.description>{PAWN_pronoun}心意虽好，但是{PAWN_nameDef}实在是太不协调了，无法成为一个优秀的技术工人。</Aptitude.degreeDatas.inept.description>
+  <!-- EN: coordinated -->
+  <Aptitude.degreeDatas.coordinated.label>协调</Aptitude.degreeDatas.coordinated.label>
+  <!-- EN: {PAWN_nameDef} is unusually coordinated, and good at most any sort of skilled labor. -->
+  <Aptitude.degreeDatas.coordinated.description>{PAWN_nameDef}非常灵活协调，可以胜任对技术要求较高的工种。</Aptitude.degreeDatas.coordinated.description>
+  
+  <!-- EN: bipolar -->
+  <Bipolar.degreeDatas.bipolar.label>极端</Bipolar.degreeDatas.bipolar.label>
+  <!-- EN: {PAWN_nameDef} is prone to extreme mood swings. When {PAWN_pronoun}'s happy, {PAWN_pronoun} can be very happy, but when {PAWN_pronoun}'s sad, {PAWN_pronoun} can become dangerously depressed. -->
+  <Bipolar.degreeDatas.bipolar.description>{PAWN_nameDef}非常容易陷入极端情绪。当{PAWN_pronoun}感觉开心的时候，{PAWN_pronoun}会热情高涨的对待一切，但是{PAWN_pronoun}心情不好的时候，{PAWN_pronoun}就会变得极其危险。</Bipolar.degreeDatas.bipolar.description>
+  
+  <!-- EN: brown thumb -->
+  <BrownThumb.degreeDatas.brown_thumb.label>园艺不通</BrownThumb.degreeDatas.brown_thumb.label>
+  <!-- EN: {PAWN_nameDef} is a terrible gardener. The only thing {PAWN_pronoun} seems able to grow is weeds. -->
+  <BrownThumb.degreeDatas.brown_thumb.description>{PAWN_nameDef}种植作物的水平极其糟糕。能在{PAWN_pronoun}手里活下来的植物可能也就只有杂草了。</BrownThumb.degreeDatas.brown_thumb.description>
+  <!-- EN: green thumb -->
+  <BrownThumb.degreeDatas.green_thumb.label>园艺热爱</BrownThumb.degreeDatas.green_thumb.label>
+  <!-- EN: {PAWN_nameDef} has a passion for gardening. {PAWN_pronoun} gets a mood bonus while {PAWN_pronoun} sowing plants. -->
+  <BrownThumb.degreeDatas.green_thumb.description>{PAWN_nameDef}对于园艺工作总是会有很好的耐心。每当{PAWN_pronoun}播种植物的时候，{PAWN_pronoun}总是感觉心情舒畅。</BrownThumb.degreeDatas.green_thumb.description>
+  
+  <!-- EN: butcher -->
+  <Butcher.degreeDatas.butcher.label>屠夫</Butcher.degreeDatas.butcher.label>
+  <!-- EN: {PAWN_nameDef} enjoys preparing meat for cooking. {PAWN_possessive} butchering speed is greatly increased, but only if {PAWN_pronoun}'s dealing with animal corpses. {PAWN_pronoun}'s terrible with mechanoids. -->
+  <Butcher.degreeDatas.butcher.description>{PAWN_nameDef}非常喜欢摆弄肉类食材。{PAWN_possessive}屠宰分割尸体的效率非常高，不过{PAWN_pronoun}这样高的效率也就仅限于动物尸体。{PAWN_pronoun}对于处理机械族残骸完全就是一窍不通。</Butcher.degreeDatas.butcher.description>
+  
+  <!-- EN: chemist -->
+  <Chemist.degreeDatas.chemist.label>化学家</Chemist.degreeDatas.chemist.label>
+  <!-- EN: {PAWN_nameDef} has a knack for organic chemistry, and is quite an efficient worker when brewing or producing drugs. -->
+  <Chemist.degreeDatas.chemist.description>{PAWN_nameDef}对于生物化学方面的知识水平很高，在发酵酿造和生产化学制品的方面更显得得心应手。</Chemist.degreeDatas.chemist.description>
+  
+  <!-- EN: claustrophobic -->
+  <Claustrophobic.degreeDatas.claustrophobic.label>幽闭恐惧症</Claustrophobic.degreeDatas.claustrophobic.label>
+  <!-- EN: {PAWN_nameDef} is claustrophobic. {PAWN_pronoun} is terrified of tight spaces, and thus is not a very competent miner. -->
+  <Claustrophobic.degreeDatas.claustrophobic.description>{PAWN_nameDef}是一名幽闭恐惧症患者。{PAWN_pronoun}非常厌恶狭窄的空间感，也没法成为一名优秀的矿道工人。</Claustrophobic.degreeDatas.claustrophobic.description>
+  
+  <!-- EN: cold lover -->
+  <ColdLover.degreeDatas.cold_lover.label>低温嗜好</ColdLover.degreeDatas.cold_lover.label>
+  <!-- EN: {PAWN_nameDef} loves colder temperatures. {PAWN_pronoun}'ll complain less than others when it's chilly, but will whine more when it's hot. -->
+  <ColdLover.degreeDatas.cold_lover.description>{PAWN_nameDef}比常人喜欢更低的温度。{PAWN_pronoun}不会抱怨天气太冷，不过会在环境炎热的时候更加难过。</ColdLover.degreeDatas.cold_lover.description>
+  
+  <!-- EN: weak constitution -->
+  <Constitution.degreeDatas.weak_constitution.label>虚弱</Constitution.degreeDatas.weak_constitution.label>
+  <!-- EN: {PAWN_nameDef} is especially vulnerable to diseases, pathogens and toxic fallout. -->
+  <Constitution.degreeDatas.weak_constitution.description>{PAWN_nameDef}特别容易受到疾病，病原体和有毒物质的影响。</Constitution.degreeDatas.weak_constitution.description>
+  <!-- EN: strong constitution -->
+  <Constitution.degreeDatas.strong_constitution.label>强健</Constitution.degreeDatas.strong_constitution.label>
+  <!-- EN: {PAWN_nameDef}'s body is stronger than normal against diseases, pathogens and toxic fallout. -->
+  <Constitution.degreeDatas.strong_constitution.description>{PAWN_nameDef}的身体在抵抗疾病，病原体和有毒物质方面比正常人强。</Constitution.degreeDatas.strong_constitution.description>
+  
+  <!-- EN: deep sleeper -->
+  <DeepSleeper.degreeDatas.deep_sleeper.label>沉眠者</DeepSleeper.degreeDatas.deep_sleeper.label>
+  <!-- EN: {PAWN_nameDef} can sleep through anything. -->
+  <DeepSleeper.degreeDatas.deep_sleeper.description>{PAWN_nameDef}在哪里都能睡得很踏实。</DeepSleeper.degreeDatas.deep_sleeper.description>
+  
+  <!-- EN: uncouth -->
+  <Diplomat.degreeDatas.uncouth.label>粗野</Diplomat.degreeDatas.uncouth.label>
+  <!-- EN: Subtlety? Diplomacy? {PAWN_nameDef} barely even understands the meaning of the words. -->
+  <Diplomat.degreeDatas.uncouth.description>含蓄是什么？外交有啥用？{PAWN_nameDef}甚至不知道说出口的词句是什么意思。</Diplomat.degreeDatas.uncouth.description>
+  <!-- EN: diplomat -->
+  <Diplomat.degreeDatas.diplomat.label>外交官</Diplomat.degreeDatas.diplomat.label>
+  <!-- EN: {PAWN_nameDef} knows how to grease the wheels of diplomacy. -->
+  <Diplomat.degreeDatas.diplomat.description>{PAWN_nameDef}知道如何圆滑的处理各种外交事务。</Diplomat.degreeDatas.diplomat.description>
+  <!-- EN: master diplomat -->
+  <Diplomat.degreeDatas.master_diplomat.label>外交大师</Diplomat.degreeDatas.master_diplomat.label>
+  <!-- EN: {PAWN_nameDef} has such a way with words that {PAWN_pronoun} always manages to cool down a tense situation. {PAWN_pronoun} could talk for days and people would still listen. -->
+  <Diplomat.degreeDatas.master_diplomat.description>{PAWN_nameDef}总是能够让人如沐春风的说出合情合理的建议来缓解{PAWN_pronoun}不断面对的各种紧张情况。{PAWN_pronoun}就算说上几天也不乏听众。</Diplomat.degreeDatas.master_diplomat.description>
+  
+  <!-- EN: sluggish -->
+  <Dodging.degreeDatas.sluggish.label>行动迟缓</Dodging.degreeDatas.sluggish.label>
+  <!-- EN: {PAWN_nameDef} is not very good at getting out of the way of blows. -->
+  <Dodging.degreeDatas.sluggish.description>{PAWN_nameDef}不太擅长躲闪打击。</Dodging.degreeDatas.sluggish.description>
+  <!-- EN: swift reflexes -->
+  <Dodging.degreeDatas.swift_reflexes.label>反应迅捷</Dodging.degreeDatas.swift_reflexes.label>
+  <!-- EN: {PAWN_nameDef} has cat-like reflexes, and excels at evading attacks. -->
+  <Dodging.degreeDatas.swift_reflexes.description>{PAWN_nameDef}有猫一般的迅捷反应能力，极其擅长躲闪。</Dodging.degreeDatas.swift_reflexes.description>
+  
+  <!-- EN: nibbler -->
+  <EatingSpeed.degreeDatas.nibbler.label>细嚼慢咽</EatingSpeed.degreeDatas.nibbler.label>
+  <!-- EN: {PAWN_nameDef} picks at {PAWN_possessive} food, taking extra time to finish {PAWN_possessive} meals. -->
+  <EatingSpeed.degreeDatas.nibbler.description>{PAWN_nameDef}带着{PAWN_possessive}食物，慢悠悠的吃完{PAWN_possessive}每餐。</EatingSpeed.degreeDatas.nibbler.description>
+  <!-- EN: glutton -->
+  <EatingSpeed.degreeDatas.glutton.label>狼吞虎咽</EatingSpeed.degreeDatas.glutton.label>
+  <!-- EN: {PAWN_nameDef} devours {PAWN_possessive} meals much faster than others. -->
+  <EatingSpeed.degreeDatas.glutton.description>{PAWN_nameDef}对付{PAWN_possessive}餐食总是比其他人快太多了。</EatingSpeed.degreeDatas.glutton.description>
+  
+  <!-- EN: near-sighted -->
+  <Eyesight.degreeDatas.nearsighted.label>近视</Eyesight.degreeDatas.nearsighted.label>
+  <!-- EN: {PAWN_nameDef} has a hard time seeing things clearly unless {PAWN_pronoun} is relatively close to them. -->
+  <Eyesight.degreeDatas.nearsighted.description>{PAWN_nameDef}看东西总是很模糊，除非{PAWN_pronoun}走得很近。</Eyesight.degreeDatas.nearsighted.description>
+  <!-- EN: eagle-eyed -->
+  <Eyesight.degreeDatas.eagleeyed.label>鹰眼</Eyesight.degreeDatas.eagleeyed.label>
+  <!-- EN: {PAWN_nameDef} has a keen eye, and can quickly spot targets. -->
+  <Eyesight.degreeDatas.eagleeyed.description>{PAWN_nameDef}视力非常好，因此能够更快的瞄准目标。</Eyesight.degreeDatas.eagleeyed.description>
+  
+  <!-- EN: gourmet -->
+  <Gourmet.degreeDatas.gourmet.label>美食家</Gourmet.degreeDatas.gourmet.label>
+  <!-- EN: {PAWN_nameDef} has a passion for food preparation. {PAWN_possessive} culinary creations are quite tasty, but {PAWN_pronoun} tends to take a while getting them "just right." -->
+  <Gourmet.degreeDatas.gourmet.description>{PAWN_nameDef}对于烹饪美食真是充满热情。{PAWN_possessive}烹饪的食物真是色香味俱全，不过正因为如此，{PAWN_pronoun}需要花费更多的时间来让食物被烹饪得“刚刚好”。</Gourmet.degreeDatas.gourmet.description>
+  
+  <!-- EN: heat lover -->
+  <HeatLover.degreeDatas.heat_lover.label>高温嗜好</HeatLover.degreeDatas.heat_lover.label>
+  <!-- EN: {PAWN_nameDef} loves the heat. {PAWN_pronoun}'ll complain less than others when it's hot, but will whine more when it's cold. -->
+  <HeatLover.degreeDatas.heat_lover.description>{PAWN_nameDef}比常人喜欢更高的温度。{PAWN_pronoun}不会抱怨天气太热，不过会在环境寒冷的时候更加难过。</HeatLover.degreeDatas.heat_lover.description>
+  
+  <!-- EN: inventor -->
+  <Inventor.degreeDatas.inventor.label>发明家</Inventor.degreeDatas.inventor.label>
+  <!-- EN: Strange new ideas just appear in {PAWN_nameDef}'s mind. Researching new technologies comes easily to {PAWN_objective}, but {PAWN_pronoun} always seems distracted. -->
+  <Inventor.degreeDatas.inventor.description>{PAWN_nameDef}经常会冒出很多别具一格的想法。对于{PAWN_objective}来说，搞科研是一件非常容易的事，但是{PAWN_pronoun}看起来总是因为这些奇思妙想而困扰不已。</Inventor.degreeDatas.inventor.description>
+  
+  <!-- EN: poor medic -->
+  <Medic.degreeDatas.poor_medic.label>疗效降低</Medic.degreeDatas.poor_medic.label>
+  <!-- EN: Even when they have the best of intentions, some people just aren't cut out for medicine. {PAWN_nameDef} is one of those people. -->
+  <Medic.degreeDatas.poor_medic.description>即便是有最好的意愿，总是有些人对于医药这件事没什么天赋。{PAWN_nameDef}可能就是这样的人。</Medic.degreeDatas.poor_medic.description>
+  <!-- EN: skilled medic -->
+  <Medic.degreeDatas.skilled_medic.label>熟练医疗</Medic.degreeDatas.skilled_medic.label>
+  <!-- EN: {PAWN_nameDef} seems to have a knack for medical work. Patients in {PAWN_possessive} care will likely fare well. -->
+  <Medic.degreeDatas.skilled_medic.description>{PAWN_nameDef}看起来对于医疗工作非常有天分。在{PAWN_possessive}照顾下的病人总是会感觉好得多。</Medic.degreeDatas.skilled_medic.description>
+  <!-- EN: master medic -->
+  <Medic.degreeDatas.master_medic.label>医疗大师</Medic.degreeDatas.master_medic.label>
+  <!-- EN: {PAWN_nameDef} has a natural aptitude for medical work. Between {PAWN_possessive} steady, skilled hands and {PAWN_possessive} inspiring bedside manner, patients in {PAWN_possessive} care will have little to fear. -->
+  <Medic.degreeDatas.master_medic.description>{PAWN_nameDef}是一位极具天赋的医疗专家。经过{PAWN_possessive}稳健又熟练的双手和{PAWN_possessive}令人如沐春风的问诊后，{PAWN_possessive}照顾的患者几乎感觉自己已经好了。</Medic.degreeDatas.master_medic.description>
+  
+  <!-- EN: neat freak -->
+  <NeatFreak.degreeDatas.neat_freak.label>挑刺</NeatFreak.degreeDatas.neat_freak.label>
+  <!-- EN: {PAWN_nameDef} is fastidious to a fault. -->
+  <NeatFreak.degreeDatas.neat_freak.description>{PAWN_nameDef}总是对一些小问题十分挑剔。</NeatFreak.degreeDatas.neat_freak.description>
+  
+  <!-- EN: nyctophobe -->
+  <Nyctophobe.degreeDatas.nyctophobe.label>黑夜恐惧</Nyctophobe.degreeDatas.nyctophobe.label>
+  <!-- EN: {PAWN_nameDef} is really afraid of the dark. -->
+  <Nyctophobe.degreeDatas.nyctophobe.description>{PAWN_nameDef}非常怕黑。</Nyctophobe.degreeDatas.nyctophobe.description>
+  <!-- EN: nyctophile -->
+  <Nyctophobe.degreeDatas.nyctophile.label>黑夜嗜好</Nyctophobe.degreeDatas.nyctophile.label>
+  <!-- EN: {PAWN_nameDef} doesn't fear the dark at all. -->
+  <Nyctophobe.degreeDatas.nyctophile.description>{PAWN_nameDef}完全不怕黑。</Nyctophobe.degreeDatas.nyctophile.description>
+  
+  <!-- EN: ironman -->
+  <PainThreshold.degreeDatas.ironman.label>钢铁意志</PainThreshold.degreeDatas.ironman.label>
+  <!-- EN: {PAWN_nameDef} has an exceptionally high tolerance for pain. {PAWN_pronoun} is unlikely to be immobilized by it. -->
+  <PainThreshold.degreeDatas.ironman.description>{PAWN_nameDef}具有极高的忍耐力。{PAWN_pronoun}可以做到不被外物所左右。</PainThreshold.degreeDatas.ironman.description>
+  <!-- EN: low pain tolerance -->
+  <PainThreshold.degreeDatas.low_pain_tolerance.label>痛不堪忍</PainThreshold.degreeDatas.low_pain_tolerance.label>
+  <!-- EN: {PAWN_nameDef} will become immobilized by pain more quickly than most. -->
+  <PainThreshold.degreeDatas.low_pain_tolerance.description>{PAWN_nameDef}比其他人更怕疼痛带来的副作用。</PainThreshold.degreeDatas.low_pain_tolerance.description>
+  
+  <!-- EN: perfectionist -->
+  <Perfectionist.degreeDatas.perfectionist.label>完美主义者</Perfectionist.degreeDatas.perfectionist.label>
+  <!-- EN: {PAWN_nameDef} refuses to accept less than {PAWN_possessive} best in any endeavor, no matter how long it takes. {PAWN_pronoun}'s less likely to fail when doing something, but {PAWN_pronoun} works slowly. -->
+  <Perfectionist.degreeDatas.perfectionist.description>{PAWN_nameDef}拒绝接受不完美的事物，以至于无论花费多少时间，一定要做到{PAWN_possessive}最好。因此，{PAWN_pronoun}的工作不容易失误，但是{PAWN_pronoun}需要花费更多的时间来完成一件事情。</Perfectionist.degreeDatas.perfectionist.description>
+  
+  <!-- EN: rockhound -->
+  <Rockhound.degreeDatas.rockhound.label>岩石猎手</Rockhound.degreeDatas.rockhound.label>
+  <!-- EN: {PAWN_nameDef} enjoys working with rocks. {PAWN_possessive} mining speed is increased, but {PAWN_possessive} lack of interest in other areas slows {PAWN_objective} down when doing other jobs. And {PAWN_pronoun} hates working with plants. -->
+  <Rockhound.degreeDatas.rockhound.description>{PAWN_nameDef}喜欢和各种各样的石头打交道。{PAWN_possessive}采掘的速度比普通人更快，但是因为{PAWN_possessive}缺乏对于其他事物的兴趣而导致其他工作时{PAWN_objective}的速度下降。而且{PAWN_pronoun}非常讨厌摆弄植物。</Rockhound.degreeDatas.rockhound.description>
+  
+  <!-- EN: careful shooter -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>细心瞄准</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <!-- EN: {PAWN_nameDef} takes more time to aim when shooting. {PAWN_pronoun} shoots less often than others, but with more accuracy. -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>{PAWN_nameDef}会用更多的时间来精细瞄准。正因如此，{PAWN_pronoun}射速总是比别人慢，不过精度却高得多。</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <!-- EN: trigger-happy -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>好战狂</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <!-- EN: Pew! Pew! Pew! {PAWN_nameDef} just likes pulling the trigger. {PAWN_pronoun} shoots faster than others, but less accurately. -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>哒哒哒！哒哒哒！{PAWN_nameDef}非常喜欢扣动扳机的感觉。{PAWN_pronoun}射速比其他人快得多，不过精度也是不言而喻的差。</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  <!-- EN: deadshot -->
+  <ShootingAccuracy.degreeDatas.deadshot.label>致命一击</ShootingAccuracy.degreeDatas.deadshot.label>
+  <!-- EN: {PAWN_nameDef} knows how to handle a firearm, and can shoot both quickly and accurately. -->
+  <ShootingAccuracy.degreeDatas.deadshot.description>{PAWN_nameDef}精于操作手中武器，能射的又快又准。</ShootingAccuracy.degreeDatas.deadshot.description>
+  
+  <!-- EN: sucker -->
+  <Trader.degreeDatas.sucker.label>傻瓜</Trader.degreeDatas.sucker.label>
+  <!-- EN: {PAWN_nameDef} just can't seem to help but get taken advantage of while trading. {PAWN_pronoun}'ll pay more than {PAWN_pronoun} should, and still think that {PAWN_pronoun} got a good deal. -->
+  <Trader.degreeDatas.sucker.description>{PAWN_nameDef}在买卖东西的时候经常做一些被别人卖了还帮别人数钱的事情。{PAWN_pronoun}经常会给出比{PAWN_pronoun}应该给的正常水平更高的价格，而且{PAWN_pronoun}还老是觉得自己占了便宜。</Trader.degreeDatas.sucker.description>
+  <!-- EN: haggler -->
+  <Trader.degreeDatas.haggler.label>讨价还价</Trader.degreeDatas.haggler.label>
+  <!-- EN: {PAWN_nameDef} likes to haggle, and isn't bad at it. {PAWN_pronoun} tends to get better prices than most people. -->
+  <Trader.degreeDatas.haggler.description>{PAWN_nameDef}非常喜欢砍价，而且精于此道。{PAWN_pronoun}总是能获得比大多数人要有利的成交价格。</Trader.degreeDatas.haggler.description>
+  <!-- EN: master trader -->
+  <Trader.degreeDatas.master_trader.label>交易大师</Trader.degreeDatas.master_trader.label>
+  <!-- EN: {PAWN_nameDef} always gets the best deals. -->
+  <Trader.degreeDatas.master_trader.description>{PAWN_nameDef}总是能够将商品交易出最有利的价格。</Trader.degreeDatas.master_trader.description>
+  
 </LanguageData>

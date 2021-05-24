@@ -1,40 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Improvised turret gun -->
-
-  <Gun_MiniTurret.label>轻型哨戒炮</Gun_MiniTurret.label>
-  <Gun_MiniTurret.description>安装在基座上的轻型自动武器。</Gun_MiniTurret.description>
-
-
-  <!-- Blaster Turret -->
-
-  <Gun_BlasterTurret.label>冲击哨戒炮</Gun_BlasterTurret.label>
-  <Gun_BlasterTurret.description>安装在基座上的电荷冲击炮。</Gun_BlasterTurret.description>
-
-
-  <!-- turret laser gun -->
-
-  <Gun_TurretSniper.label>炮塔光束枪</Gun_TurretSniper.label>
-  <Gun_TurretSniper.description>安装在基座上的光束武器。</Gun_TurretSniper.description>
-
-
-  <!-- Heavy Turret -->
-
+  
+  <!-- EN: Sentry heavy gun -->
   <Gun_AutocannonTurret.label>重型哨戒炮</Gun_AutocannonTurret.label>
+  <!-- EN: Large caliber gun on a turret mount. -->
   <Gun_AutocannonTurret.description>安装在基座上的大口径自动武器。</Gun_AutocannonTurret.description>
-
-
-  <!-- Automated security gun -->
-
+  <!-- EN: Sentry heavy gun -->
+  <Gun_AutocannonTurret.verbs.Verb_ShootCE.label>重型哨戒炮</Gun_AutocannonTurret.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Sentry blaster gun -->
+  <Gun_BlasterTurret.label>冲击哨戒炮</Gun_BlasterTurret.label>
+  <!-- EN: Charge blaster attached to a turret mount. -->
+  <Gun_BlasterTurret.description>安装在基座上的电荷冲击炮。</Gun_BlasterTurret.description>
+  <!-- EN: Sentry blaster gun -->
+  <Gun_BlasterTurret.verbs.Verb_ShootCE.label>冲击哨戒炮</Gun_BlasterTurret.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Sentry light gun -->
+  <Gun_MiniTurret.label>轻型哨戒炮</Gun_MiniTurret.label>
+  <!-- EN: Jury-rigged automatic gun attached to a turret. -->
+  <Gun_MiniTurret.description>安装在基座上的轻型自动武器。</Gun_MiniTurret.description>
+  <!-- EN: Sentry light gun -->
+  <Gun_MiniTurret.verbs.Verb_ShootCE.label>轻型哨戒炮</Gun_MiniTurret.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Sentry naval cannon -->
   <Gun_NavalGun.label>哨戒机炮</Gun_NavalGun.label>
+  <!-- EN: 35mm auto naval gun for heavy turrets. -->
   <Gun_NavalGun.description>安装在基座上的自动机炮。</Gun_NavalGun.description>
-
-
-  <!-- Sentry rocket launcher -->
-
+  <!-- EN: Sentry naval cannon -->
+  <Gun_NavalGun.verbs.Verb_ShootCE.label>哨戒机炮</Gun_NavalGun.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Sentry rocket launcher -->
   <Gun_SentryRocketLauncher.label>哨戒火箭发射器</Gun_SentryRocketLauncher.label>
+  <!-- EN: Rocket launcher for turret. -->
   <Gun_SentryRocketLauncher.description>安装在基座上的火箭武器。</Gun_SentryRocketLauncher.description>
-
-
+  <!-- EN: Sentry rocket launcher -->
+  <Gun_SentryRocketLauncher.verbs.Verb_ShootCE.label>哨戒火箭发射器</Gun_SentryRocketLauncher.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: Laser Turret Gun -->
+  <Gun_TurretSniper.label>炮塔光束枪</Gun_TurretSniper.label>
+  <!-- EN: Laser gun for turret. -->
+  <Gun_TurretSniper.description>安装在基座上的光束武器。</Gun_TurretSniper.description>
+  <!-- EN: Laser Turret Gun -->
+  <Gun_TurretSniper.verbs.Verb_ShootCE.label>炮塔光束枪</Gun_TurretSniper.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

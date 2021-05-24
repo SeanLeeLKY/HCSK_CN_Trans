@@ -1,49 +1,69 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- C1 ASCENSION -->
-
-  <Gun_PlasmaPistol.label>C1“晋升”</Gun_PlasmaPistol.label>
-  <Gun_PlasmaPistol.description>一种具有高精度的等离子手枪。</Gun_PlasmaPistol.description>
-  <Gun_PlasmaPistol.tools.0.label>握把</Gun_PlasmaPistol.tools.0.label>
-  <Gun_PlasmaPistol.tools.1.label>枪管</Gun_PlasmaPistol.tools.1.label>
-  <Gun_PlasmaPistol.tools.2.label>枪口</Gun_PlasmaPistol.tools.2.label>
-
-
-  <!-- C2 MOONSPELL -->
-
-  <Gun_PlasmaPrecision.label>C2“月咒”</Gun_PlasmaPrecision.label>
-  <Gun_PlasmaPrecision.description>一种等离子狙击步枪，精度很高，但是射速较慢。</Gun_PlasmaPrecision.description>
-  <Gun_PlasmaPrecision.tools.0.label>枪托</Gun_PlasmaPrecision.tools.0.label>
-  <Gun_PlasmaPrecision.tools.1.label>枪管</Gun_PlasmaPrecision.tools.1.label>
-  <Gun_PlasmaPrecision.tools.2.label>枪口</Gun_PlasmaPrecision.tools.2.label>
-
-
-  <!-- C3 CONJURER -->
-
+  
+  <!-- EN: C3 Conjurer -->
   <Gun_PlasmaCarbine.label>C3“巫师”</Gun_PlasmaCarbine.label>
+  <!-- EN: A short range, lightweight plasma rifle. -->
   <Gun_PlasmaCarbine.description>一种射程较短的轻量级等离子步枪。</Gun_PlasmaCarbine.description>
-  <Gun_PlasmaCarbine.tools.0.label>枪托</Gun_PlasmaCarbine.tools.0.label>
-  <Gun_PlasmaCarbine.tools.1.label>枪管</Gun_PlasmaCarbine.tools.1.label>
-  <Gun_PlasmaCarbine.tools.2.label>枪口</Gun_PlasmaCarbine.tools.2.label>
-
-
-  <!-- C5 INCANTATOR -->
-
-  <Gun_PlasmaShotgun.label>C5“魔咒”</Gun_PlasmaShotgun.label>
-  <Gun_PlasmaShotgun.description>一种非常稀有的等离子霰弹枪。近距离作战威力极大，不过远距离上几乎毫无建树。能够有效对抗装甲、护盾以及生物屏障。这种武器是单独为克洛根人（krogan）设计使用，因为其单发后坐力足以折断人类手臂骨骼。由于制造版权管理技术（FRM）的保护，这种武器几乎无法复制，所以其价格非常昂贵。</Gun_PlasmaShotgun.description>
-  <Gun_PlasmaShotgun.tools.0.label>枪托</Gun_PlasmaShotgun.tools.0.label>
-  <Gun_PlasmaShotgun.tools.1.label>枪管</Gun_PlasmaShotgun.tools.1.label>
-  <Gun_PlasmaShotgun.tools.2.label>枪口</Gun_PlasmaShotgun.tools.2.label>
-
-
-  <!-- C7 STORMWIZARD -->
-
+  <!-- EN: stock -->
+  <Gun_PlasmaCarbine.tools.stock.label>枪托</Gun_PlasmaCarbine.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_PlasmaCarbine.tools.barrel.label>枪管</Gun_PlasmaCarbine.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_PlasmaCarbine.tools.muzzle.label>枪口</Gun_PlasmaCarbine.tools.muzzle.label>
+  <!-- EN: C3 Conjurer -->
+  <Gun_PlasmaCarbine.verbs.Verb_ShootCE.label>C3“巫师”</Gun_PlasmaCarbine.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: C1 Ascension -->
+  <Gun_PlasmaPistol.label>C1“晋升”</Gun_PlasmaPistol.label>
+  <!-- EN: A highly accurate plasma pistol. -->
+  <Gun_PlasmaPistol.description>一种具有高精度的等离子手枪。</Gun_PlasmaPistol.description>
+  <!-- EN: grip -->
+  <Gun_PlasmaPistol.tools.grip.label>握把</Gun_PlasmaPistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_PlasmaPistol.tools.barrel.label>枪管</Gun_PlasmaPistol.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_PlasmaPistol.tools.muzzle.label>枪口</Gun_PlasmaPistol.tools.muzzle.label>
+  <!-- EN: C1 Ascension -->
+  <Gun_PlasmaPistol.verbs.Verb_ShootCE.label>C1“晋升”</Gun_PlasmaPistol.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: C2 Moonspell -->
+  <Gun_PlasmaPrecision.label>C2“月咒”</Gun_PlasmaPrecision.label>
+  <!-- EN: A plasma sniper rifle, highly accurate but with a low rate of fire. -->
+  <Gun_PlasmaPrecision.description>一种等离子狙击步枪，精度很高，但是射速较慢。</Gun_PlasmaPrecision.description>
+  <!-- EN: stock -->
+  <Gun_PlasmaPrecision.tools.stock.label>枪托</Gun_PlasmaPrecision.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_PlasmaPrecision.tools.barrel.label>枪管</Gun_PlasmaPrecision.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_PlasmaPrecision.tools.muzzle.label>枪口</Gun_PlasmaPrecision.tools.muzzle.label>
+  <!-- EN: C2 Moonspell -->
+  <Gun_PlasmaPrecision.verbs.Verb_ShootCE.label>C2“月咒”</Gun_PlasmaPrecision.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: C7 StormWizard -->
   <Gun_PlasmaRifle.label>C7“暴雪”</Gun_PlasmaRifle.label>
+  <!-- EN: A Multi-Plasma Blaster, with good stopping power and range. -->
   <Gun_PlasmaRifle.description>一种射程高，停止力好，能够发射多重等离子冲击弹药的武器。</Gun_PlasmaRifle.description>
-  <Gun_PlasmaRifle.tools.0.label>枪托</Gun_PlasmaRifle.tools.0.label>
-  <Gun_PlasmaRifle.tools.1.label>枪管</Gun_PlasmaRifle.tools.1.label>
-  <Gun_PlasmaRifle.tools.2.label>枪口</Gun_PlasmaRifle.tools.2.label>
-
-
+  <!-- EN: stock -->
+  <Gun_PlasmaRifle.tools.stock.label>枪托</Gun_PlasmaRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_PlasmaRifle.tools.barrel.label>枪管</Gun_PlasmaRifle.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_PlasmaRifle.tools.muzzle.label>枪口</Gun_PlasmaRifle.tools.muzzle.label>
+  <!-- EN: C7 StormWizard -->
+  <Gun_PlasmaRifle.verbs.Verb_ShootCE.label>C7“暴雪”</Gun_PlasmaRifle.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: C5 Incantator -->
+  <Gun_PlasmaShotgun.label>C5“魔咒”</Gun_PlasmaShotgun.label>
+  <!-- EN: Very rare plasma shotgun. Deals high damage at short range; less effective at long range. Effective against armor, shields and biotic barriers. It is of human design but is only used by krogan, due to the fact that the kickback from a single shot has enough force to break a human's arm. Protected by Fabrication Rights Management (FRM) technology, this weapon is nearly impossible to reproduce and is prohibitively expensive. -->
+  <Gun_PlasmaShotgun.description>一种非常稀有的等离子霰弹枪。近距离作战威力极大，不过远距离上几乎毫无建树。能够有效对抗装甲、护盾以及生物屏障。这种武器是单独为克洛根人（krogan）设计使用，因为其单发后坐力足以折断人类手臂骨骼。由于制造版权管理技术（FRM）的保护，这种武器几乎无法复制，所以其价格非常昂贵。</Gun_PlasmaShotgun.description>
+  <!-- EN: stock -->
+  <Gun_PlasmaShotgun.tools.stock.label>枪托</Gun_PlasmaShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_PlasmaShotgun.tools.barrel.label>枪管</Gun_PlasmaShotgun.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <Gun_PlasmaShotgun.tools.muzzle.label>枪口</Gun_PlasmaShotgun.tools.muzzle.label>
+  <!-- EN: C5 Incantator -->
+  <Gun_PlasmaShotgun.verbs.Verb_ShootCE.label>C5“魔咒”</Gun_PlasmaShotgun.verbs.Verb_ShootCE.label>
+  
 </LanguageData>

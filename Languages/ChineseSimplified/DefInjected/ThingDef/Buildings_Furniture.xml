@@ -1,343 +1,196 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Basic domestic furniture -->
-
-  <PrimitiveStoolStone.label>石凳</PrimitiveStoolStone.label>
-  <PrimitiveStoolStone.description>略微原始的石凳子。</PrimitiveStoolStone.description>
-  <PrimitiveStoolStone_Blueprint.label>石凳（蓝图）</PrimitiveStoolStone_Blueprint.label>
-  <PrimitiveStoolStone_Blueprint_Install.label>石凳（蓝图）</PrimitiveStoolStone_Blueprint_Install.label>
-  <PrimitiveStoolStone_Frame.label>石凳（建造中）</PrimitiveStoolStone_Frame.label>
-  <PrimitiveStoolStone_Frame.description>略微原始的石凳子。</PrimitiveStoolStone_Frame.description>
-
-  <PrimitiveStoolWood.label>凳子</PrimitiveStoolWood.label>
-  <PrimitiveStoolWood.description>一张普通的凳子，仿照在某个世界的著名的红树人遗址中发现的凳子建造的。</PrimitiveStoolWood.description>
-  <PrimitiveStoolWood_Blueprint.label>凳子（蓝图）</PrimitiveStoolWood_Blueprint.label>
-  <PrimitiveStoolWood_Blueprint_Install.label>凳子（蓝图）</PrimitiveStoolWood_Blueprint_Install.label>
-  <PrimitiveStoolWood_Frame.label>凳子（建造中）</PrimitiveStoolWood_Frame.label>
-  <PrimitiveStoolWood_Frame.description>一张普通的凳子，仿照在某个世界的著名的红树人遗址中发现的凳子建造的。</PrimitiveStoolWood_Frame.description>
-
-  <Stool.label>板凳</Stool.label>
-  <Stool.description>一块有支撑的平面。但是没有靠背。</Stool.description>
-  <Stool_Blueprint.label>板凳（蓝图）</Stool_Blueprint.label>
-  <Stool_Blueprint_Install.label>板凳（蓝图）</Stool_Blueprint_Install.label>
-  <Stool_Frame.label>板凳（建造中）</Stool_Frame.label>
-  <Stool_Frame.description>一块有支撑的平面。但是没有靠背。</Stool_Frame.description>
-
-  <SimplePillow.label>软垫</SimplePillow.label>
-  <SimplePillow.description>把你的屁股放在这个软软的垫子上吧！</SimplePillow.description>
-  <SimplePillow_Blueprint.label>软垫（蓝图）</SimplePillow_Blueprint.label>
-  <SimplePillow_Blueprint_Install.label>软垫（蓝图）</SimplePillow_Blueprint_Install.label>
-  <SimplePillow_Frame.label>软垫（建造中）</SimplePillow_Frame.label>
-  <SimplePillow_Frame.description>把你的屁股放在这个软软的垫子上吧！</SimplePillow_Frame.description>
-
-  <SlabChair.label>石板椅</SlabChair.label>
-  <SlabChair.description>谁说石头不舒服？用这张完美舒适的石板椅的复制品来证明所有人都错了。</SlabChair.description>
-  <SlabChair_Blueprint.label>石板椅（蓝图）</SlabChair_Blueprint.label>
-  <SlabChair_Blueprint_Install.label>石板椅（蓝图）</SlabChair_Blueprint_Install.label>
-  <SlabChair_Frame.label>石板椅（建造中）</SlabChair_Frame.label>
-  <SlabChair_Frame.description>谁说石头不舒服？用这张完美舒适的石板椅的复制品来证明所有人都错了。</SlabChair_Frame.description>
-
-  <FoldingStool.label>折叠凳</FoldingStool.label>
-  <FoldingStool.description>金属支架上覆盖着毛皮材质的座面。</FoldingStool.description>
-  <FoldingStool_Blueprint.label>折叠凳（蓝图）</FoldingStool_Blueprint.label>
-  <FoldingStool_Blueprint_Install.label>折叠凳（蓝图）</FoldingStool_Blueprint_Install.label>
-  <FoldingStool_Frame.label>折叠凳（建造中）</FoldingStool_Frame.label>
-  <FoldingStool_Frame.description>金属支架上覆盖着毛皮材质的座面。</FoldingStool_Frame.description>
-
-  <Bench.label>长凳</Bench.label>
-  <Bench.description>一个简单的长凳，可以坐在上面。</Bench.description>
-  <Bench_Blueprint.label>长凳（蓝图）</Bench_Blueprint.label>
-  <Bench_Blueprint_Install.label>长凳（蓝图）</Bench_Blueprint_Install.label>
-  <Bench_Frame.label>长凳（建造中）</Bench_Frame.label>
-  <Bench_Frame.description>一个简单的长凳，可以坐在上面。</Bench_Frame.description>
-
-  <DiningChair.label>餐椅</DiningChair.label>
-  <DiningChair.description>一张放在桌子前看起来很舒适和招人喜爱的椅子。比坐凳子舒服多了。</DiningChair.description>
-  <DiningChair_Blueprint.label>餐椅（蓝图）</DiningChair_Blueprint.label>
-  <DiningChair_Blueprint_Install.label>餐椅（蓝图）</DiningChair_Blueprint_Install.label>
-  <DiningChair_Frame.label>餐椅（建造中）</DiningChair_Frame.label>
-  <DiningChair_Frame.description>一张放在桌子前看起来很舒适和招人喜爱的椅子。比坐凳子舒服多了。</DiningChair_Frame.description>
-
-  <MilleniumChair.label>千禧椅</MilleniumChair.label>
-  <MilleniumChair.description>千禧风格的椅子。</MilleniumChair.description>
-  <MilleniumChair_Blueprint.label>千禧椅（蓝图）</MilleniumChair_Blueprint.label>
-  <MilleniumChair_Blueprint_Install.label>千禧椅（蓝图）</MilleniumChair_Blueprint_Install.label>
-  <MilleniumChair_Frame.label>千禧椅（建造中）</MilleniumChair_Frame.label>
-  <MilleniumChair_Frame.description>千禧风格的椅子。</MilleniumChair_Frame.description>
-
-  <EggArmchair.label>蛋形椅</EggArmchair.label>
-  <EggArmchair.description>千禧风格的蛋形扶手椅。感觉自己像一只小鸡————被包裹在蛋壳里。</EggArmchair.description>
-  <EggArmchair_Blueprint.label>蛋形椅（蓝图）</EggArmchair_Blueprint.label>
-  <EggArmchair_Blueprint_Install.label>蛋形椅（蓝图）</EggArmchair_Blueprint_Install.label>
-  <EggArmchair_Frame.label>蛋形椅（建造中）</EggArmchair_Frame.label>
-  <EggArmchair_Frame.description>千禧风格的蛋形扶手椅。感觉自己像一只小鸡————被包裹在蛋壳里。</EggArmchair_Frame.description>
-
+  
+  <!-- EN: armchair -->
   <Armchair.label>扶手椅</Armchair.label>
+  <!-- EN: A large, soft and comfy seat. Great for relaxation. Whoever thought of adding soft padding to a chair is a genious. -->
   <Armchair.description>一个非常大、柔软、舒适的椅子。非常适合休闲放松。</Armchair.description>
-  <Armchair_Blueprint.label>扶手椅（蓝图）</Armchair_Blueprint.label>
-  <Armchair_Blueprint_Install.label>扶手椅（蓝图）</Armchair_Blueprint_Install.label>
-  <Armchair_Frame.label>扶手椅（建造中）</Armchair_Frame.label>
-  <Armchair_Frame.description>一个非常大、柔软、舒适的椅子。非常适合休闲放松。</Armchair_Frame.description>
-
-
-  <!-- Seats -->
-
-  <RusticCouch.label>普通沙发</RusticCouch.label>
-  <RusticCouch.description>沙发是满足坐姿休息的终极家具。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</RusticCouch.description>
-  <RusticCouch_Blueprint.label>普通沙发（蓝图）</RusticCouch_Blueprint.label>
-  <RusticCouch_Blueprint_Install.label>普通沙发（蓝图）</RusticCouch_Blueprint_Install.label>
-  <RusticCouch_Frame.label>普通沙发（建造中）</RusticCouch_Frame.label>
-  <RusticCouch_Frame.description>沙发是满足坐姿休息的终极家具。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</RusticCouch_Frame.description>
-
+  
+  <!-- EN: bench -->
+  <Bench.label>长凳</Bench.label>
+  <!-- EN: A simple platform on which to sit. -->
+  <Bench.description>一个简单的长凳，可以坐在上面。</Bench.description>
+  
+  <!-- EN: couch -->
   <ClutterCouchA.label>沙发</ClutterCouchA.label>
+  <!-- EN: A couch is type of furniture that could be suitable for two, but is usable by only one. It won't make colonists lazy, in theory at least. -->
   <ClutterCouchA.description>双座沙发，是的。理论上可以两个人使用，不过一般情况下只能一个人。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</ClutterCouchA.description>
-  <ClutterCouchA_Blueprint.label>沙发（蓝图）</ClutterCouchA_Blueprint.label>
-  <ClutterCouchA_Blueprint_Install.label>沙发（蓝图）</ClutterCouchA_Blueprint_Install.label>
-  <ClutterCouchA_Frame.label>沙发（建造中）</ClutterCouchA_Frame.label>
-  <ClutterCouchA_Frame.description>双座沙发，是的。理论上可以两个人使用，不过一般情况下只能一个人。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</ClutterCouchA_Frame.description>
-
-  <MilleniumCouch.label>千禧沙发</MilleniumCouch.label>
-  <MilleniumCouch.description>千禧风格沙发是满足坐感的终极家具作品。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</MilleniumCouch.description>
-  <MilleniumCouch_Blueprint.label>千禧沙发（蓝图）</MilleniumCouch_Blueprint.label>
-  <MilleniumCouch_Blueprint_Install.label>千禧沙发（蓝图）</MilleniumCouch_Blueprint_Install.label>
-  <MilleniumCouch_Frame.label>千禧沙发（建造中）</MilleniumCouch_Frame.label>
-  <MilleniumCouch_Frame.description>千禧风格沙发是满足坐感的终极家具作品。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</MilleniumCouch_Frame.description>
-
-  <PodChair.label>单座沙发</PodChair.label>
-  <PodChair.description>看这玩意的舒服样，感觉都不需要人坐进去了！</PodChair.description>
-  <PodChair_Blueprint.label>单座沙发（蓝图）</PodChair_Blueprint.label>
-  <PodChair_Blueprint_Install.label>单座沙发（蓝图）</PodChair_Blueprint_Install.label>
-  <PodChair_Frame.label>单座沙发（建造中）</PodChair_Frame.label>
-  <PodChair_Frame.description>看这玩意的舒服样，感觉都不需要人坐进去了！</PodChair_Frame.description>
-
-
-  <!-- Table base -->
-
-  <PrimitiveTableStone.label>小石桌</PrimitiveTableStone.label>
-  <PrimitiveTableStone.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</PrimitiveTableStone.description>
-  <PrimitiveTableStone_Blueprint.label>小石桌（蓝图）</PrimitiveTableStone_Blueprint.label>
-  <PrimitiveTableStone_Blueprint_Install.label>小石桌（蓝图）</PrimitiveTableStone_Blueprint_Install.label>
-  <PrimitiveTableStone_Frame.label>小石桌（建造中）</PrimitiveTableStone_Frame.label>
-  <PrimitiveTableStone_Frame.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</PrimitiveTableStone_Frame.description>
-
-  <TableStone.label>石桌</TableStone.label>
-  <TableStone.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</TableStone.description>
-  <TableStone_Blueprint.label>石桌（蓝图）</TableStone_Blueprint.label>
-  <TableStone_Blueprint_Install.label>石桌（蓝图）</TableStone_Blueprint_Install.label>
-  <TableStone_Frame.label>石桌（建造中）</TableStone_Frame.label>
-  <TableStone_Frame.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</TableStone_Frame.description>
-
-  <PrimitiveTableWood.label>原始木桌</PrimitiveTableWood.label>
-  <PrimitiveTableWood.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</PrimitiveTableWood.description>
-  <PrimitiveTableWood_Blueprint.label>原始木桌（蓝图）</PrimitiveTableWood_Blueprint.label>
-  <PrimitiveTableWood_Blueprint_Install.label>原始木桌（蓝图）</PrimitiveTableWood_Blueprint_Install.label>
-  <PrimitiveTableWood_Frame.label>原始木桌（建造中）</PrimitiveTableWood_Frame.label>
-  <PrimitiveTableWood_Frame.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</PrimitiveTableWood_Frame.description>
-
-  <Table1x1c.label>桌子（1x1)</Table1x1c.label>
-  <Table1x1c.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x1c.description>
-  <Table1x1c_Blueprint.label>桌子（1x1）（蓝图）</Table1x1c_Blueprint.label>
-  <Table1x1c_Blueprint_Install.label>桌子（1x1）（蓝图）</Table1x1c_Blueprint_Install.label>
-  <Table1x1c_Frame.label>桌子（1x1）（建造中）</Table1x1c_Frame.label>
-  <Table1x1c_Frame.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x1c_Frame.description>
-
-  <Table1x2c.label>桌子（1x2)</Table1x2c.label>
-  <Table1x2c.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x2c.description>
-  <Table1x2c_Blueprint.label>桌子（1x2）（蓝图）</Table1x2c_Blueprint.label>
-  <Table1x2c_Blueprint_Install.label>桌子（1x2）（蓝图）</Table1x2c_Blueprint_Install.label>
-  <Table1x2c_Frame.label>桌子（1x2）（建造中）</Table1x2c_Frame.label>
-  <Table1x2c_Frame.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x2c_Frame.description>
-
-  <Table1x3c.label>桌子（1x3)</Table1x3c.label>
-  <Table1x3c.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x3c.description>
-  <Table1x3c_Blueprint.label>桌子（1x3）（蓝图）</Table1x3c_Blueprint.label>
-  <Table1x3c_Blueprint_Install.label>桌子（1x3）（蓝图）</Table1x3c_Blueprint_Install.label>
-  <Table1x3c_Frame.label>桌子（1x3）（建造中）</Table1x3c_Frame.label>
-  <Table1x3c_Frame.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x3c_Frame.description>
-
-  <Table2x2c.label>桌子（2x2)</Table2x2c.label>
-  <Table2x2c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种小桌子适合4人使用。</Table2x2c.description>
-  <Table2x2c_Blueprint.label>桌子（2x2）（蓝图）</Table2x2c_Blueprint.label>
-  <Table2x2c_Blueprint_Install.label>桌子（2x2）（蓝图）</Table2x2c_Blueprint_Install.label>
-  <Table2x2c_Frame.label>桌子（2x2）（建造中）</Table2x2c_Frame.label>
-  <Table2x2c_Frame.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种小桌子适合4人使用。</Table2x2c_Frame.description>
-
-  <Table2x4c.label>桌子（2x3)</Table2x4c.label>
-  <Table2x4c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种长桌子适合8人使用。</Table2x4c.description>
-  <Table2x4c_Blueprint.label>桌子（2x3）（蓝图）</Table2x4c_Blueprint.label>
-  <Table2x4c_Blueprint_Install.label>桌子（2x3）（蓝图）</Table2x4c_Blueprint_Install.label>
-  <Table2x4c_Frame.label>桌子（2x3）（建造中）</Table2x4c_Frame.label>
-  <Table2x4c_Frame.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种长桌子适合8人使用。</Table2x4c_Frame.description>
-
-  <Table3x3c.label>桌子（3x3)</Table3x3c.label>
-  <Table3x3c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种长桌子适合8人使用。</Table3x3c.description>
-  <Table3x3c_Blueprint.label>桌子（3x3）（蓝图）</Table3x3c_Blueprint.label>
-  <Table3x3c_Blueprint_Install.label>桌子（3x3）（蓝图）</Table3x3c_Blueprint_Install.label>
-  <Table3x3c_Frame.label>桌子（3x3）（建造中）</Table3x3c_Frame.label>
-  <Table3x3c_Frame.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种长桌子适合8人使用。</Table3x3c_Frame.description>
-
-  <TeaTable.label>茶桌</TeaTable.label>
-  <TeaTable.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。 这种小玻璃桌子适合一个人使用。</TeaTable.description>
-  <TeaTable_Blueprint.label>茶桌（蓝图）</TeaTable_Blueprint.label>
-  <TeaTable_Blueprint_Install.label>茶桌（蓝图）</TeaTable_Blueprint_Install.label>
-  <TeaTable_Frame.label>茶桌（建造中）</TeaTable_Frame.label>
-  <TeaTable_Frame.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。 这种小玻璃桌子适合一个人使用。</TeaTable_Frame.description>
-
-  <MilleniumTableSmall.label>千禧桌（1x1)</MilleniumTableSmall.label>
-  <MilleniumTableSmall.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTableSmall.description>
-  <MilleniumTableSmall_Blueprint.label>千禧桌（1x1）（蓝图）</MilleniumTableSmall_Blueprint.label>
-  <MilleniumTableSmall_Blueprint_Install.label>千禧桌（1x1）（蓝图）</MilleniumTableSmall_Blueprint_Install.label>
-  <MilleniumTableSmall_Frame.label>千禧桌（1x1）（建造中）</MilleniumTableSmall_Frame.label>
-  <MilleniumTableSmall_Frame.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTableSmall_Frame.description>
-
-  <MilleniumTable1x2c.label>千禧桌（1x2)</MilleniumTable1x2c.label>
-  <MilleniumTable1x2c.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable1x2c.description>
-  <MilleniumTable1x2c_Blueprint.label>千禧桌（1x2）（蓝图）</MilleniumTable1x2c_Blueprint.label>
-  <MilleniumTable1x2c_Blueprint_Install.label>千禧桌（1x2）（蓝图）</MilleniumTable1x2c_Blueprint_Install.label>
-  <MilleniumTable1x2c_Frame.label>千禧桌（1x2）（建造中）</MilleniumTable1x2c_Frame.label>
-  <MilleniumTable1x2c_Frame.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable1x2c_Frame.description>
-
-  <MilleniumTable1x3c.label>千禧桌（1x3)</MilleniumTable1x3c.label>
-  <MilleniumTable1x3c.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable1x3c.description>
-  <MilleniumTable1x3c_Blueprint.label>千禧桌（1x3）（蓝图）</MilleniumTable1x3c_Blueprint.label>
-  <MilleniumTable1x3c_Blueprint_Install.label>千禧桌（1x3）（蓝图）</MilleniumTable1x3c_Blueprint_Install.label>
-  <MilleniumTable1x3c_Frame.label>千禧桌（1x3）（建造中）</MilleniumTable1x3c_Frame.label>
-  <MilleniumTable1x3c_Frame.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable1x3c_Frame.description>
-
-  <MilleniumTable.label>千禧桌（2x2)</MilleniumTable.label>
-  <MilleniumTable.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable.description>
-  <MilleniumTable_Blueprint.label>千禧桌（2x2）（蓝图）</MilleniumTable_Blueprint.label>
-  <MilleniumTable_Blueprint_Install.label>千禧桌（2x2）（蓝图）</MilleniumTable_Blueprint_Install.label>
-  <MilleniumTable_Frame.label>千禧桌（2x2）（建造中）</MilleniumTable_Frame.label>
-  <MilleniumTable_Frame.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable_Frame.description>
-
-  <MilleniumTable2x3c.label>千禧桌（2x3)</MilleniumTable2x3c.label>
-  <MilleniumTable2x3c.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable2x3c.description>
-  <MilleniumTable2x3c_Blueprint.label>千禧桌（2x3）（蓝图）</MilleniumTable2x3c_Blueprint.label>
-  <MilleniumTable2x3c_Blueprint_Install.label>千禧桌（2x3）（蓝图）</MilleniumTable2x3c_Blueprint_Install.label>
-  <MilleniumTable2x3c_Frame.label>千禧桌（2x3）（建造中）</MilleniumTable2x3c_Frame.label>
-  <MilleniumTable2x3c_Frame.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable2x3c_Frame.description>
-
+  
+  <!-- EN: locker -->
   <ClutterLocker.label>寄物柜</ClutterLocker.label>
+  <!-- EN: A locker that can store a set clothing for easy outfit swapping. A colonist can be assigned ownership of this locker. It comes with dust contractor unit for that good, ancient feeling. -->
   <ClutterLocker.description>一个可以存放一套衣服的储物柜，方便更换装备。殖民者可以被分配这个储物柜的所有权。它带有尘土清除装置，让人感觉经典可靠。</ClutterLocker.description>
-  <ClutterLocker_Blueprint.label>寄物柜（蓝图）</ClutterLocker_Blueprint.label>
-  <ClutterLocker_Blueprint_Install.label>寄物柜（蓝图）</ClutterLocker_Blueprint_Install.label>
-  <ClutterLocker_Frame.label>寄物柜（建造中）</ClutterLocker_Frame.label>
-  <ClutterLocker_Frame.description>一个可以存放一套衣服的储物柜，方便更换装备。殖民者可以被分配这个储物柜的所有权。它带有尘土清除装置，让人感觉经典可靠。</ClutterLocker_Frame.description>
-
+  
+  <!-- EN: barber bench -->
   <ClutterStylist.label>理发椅</ClutterStylist.label>
+  <!-- EN: Place where hair go wild! -->
   <ClutterStylist.description>让你的发型个性飞扬！</ClutterStylist.description>
-
-
-  <!-- Dresser -->
-
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>餐椅</DiningChair.label>
+  <!-- EN: A sturdy and attractive chair that is typically used for sitting at a table. It is a proper seating improvement over stools. -->
+  <DiningChair.description>一张放在桌子前看起来很舒适和招人喜爱的椅子。比坐凳子舒服多了。</DiningChair.description>
+  
+  <!-- EN: dressing table -->
   <Dresser.label>梳妆台</Dresser.label>
+  <!-- EN: A Dresser to make Pawns look more snappy. -->
   <Dresser.description>合理使用梳妆台能让殖民者看起来更有气势。</Dresser.description>
-  <Dresser_Blueprint.label>梳妆台（蓝图）</Dresser_Blueprint.label>
-  <Dresser_Blueprint_Install.label>梳妆台（蓝图）</Dresser_Blueprint_Install.label>
-  <Dresser_Frame.label>梳妆台（建造中）</Dresser_Frame.label>
-  <Dresser_Frame.description>合理使用梳妆台能让殖民者看起来更有气势。</Dresser_Frame.description>
-
-
-  <!-- <ThingDef ParentName="ContainerBase">
-		<defName>Bookcase</defName>
-		<label>bookcase</label>
-		<description>A bookcase with a wide variety of books. Up to 5 items.</description>
-		<graphicData>
-			<texPath>Things/Building/Furniture/Bookcases/bookcase</texPath>
-			<graphicClass>Graphic_Multi</graphicClass>
-			<drawSize>(1.1,1.1)</drawSize>
-			<shadowData>
-				<volume>(0.6, 0.6, 0.6)</volume>
-			</shadowData>
-			<damageData>
-				<rect>(0.15,0.15,1.7,1.7)</rect>
-			</damageData>
-			<shaderType>CutoutComplex</shaderType>
-		</graphicData>
-		<altitudeLayer>Building</altitudeLayer>
-		<passability>Impassable</passability>
-		<fillPercent>0.5</fillPercent>
-		<statBases>
-			<MaxHitPoints>70</MaxHitPoints>
-			<WorkToBuild>3000</WorkToBuild>
-			<Flammability>1.0</Flammability>
-			<Beauty>15</Beauty>
-			<Bulk>50</Bulk>
-			<Mass>15</Mass>
-		</statBases>
-		<socialPropernessMatters>true</socialPropernessMatters>
-		<size>(1,1)</size>
-		<rotatable>true</rotatable>
-		<defaultPlacingRot>South</defaultPlacingRot>
-		<stuffCategories>
-			<li>Metallic</li>
-			<li>Woody</li>
-			<li>Plastic</li>
-			<li>Glass</li>
-			<li>Precious</li>
-		</stuffCategories>
-		<costStuffCount>85</costStuffCount>
-		<costList>
-			<ComponentIndustrial>4</ComponentIndustrial>
-		</costList>
-		<designationCategory>Furniture</designationCategory>
-		<building>
-			<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
-			<fixedStorageSettings>
-				<priority>Important</priority>
-				<filter>
-					<thingDefs>
-						<li>PileOfBooks</li>
-					</thingDefs>
-				</filter>
-			</fixedStorageSettings>
-		</building>
-		<comps>
-			<li Class="SK.CompContainer_Properties">
-				<itemsCap>6</itemsCap>
-				<texfull>false</texfull>
-			</li>
-		</comps>
-		<researchPrerequisites>
-			<li>SK_RecreationRoomII</li>
-		</researchPrerequisites>
-		<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
-	</ThingDef> -->
-
-  <EndTableSimple.label>床头柜</EndTableSimple.label>
-  <EndTableSimple.description>床边的小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。</EndTableSimple.description>
-  <EndTableSimple_Blueprint.label>床头柜（蓝图）</EndTableSimple_Blueprint.label>
-  <EndTableSimple_Blueprint_Install.label>床头柜（蓝图）</EndTableSimple_Blueprint_Install.label>
-  <EndTableSimple_Frame.label>床头柜（建造中）</EndTableSimple_Frame.label>
-  <EndTableSimple_Frame.description>床边的小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。</EndTableSimple_Frame.description>
-
+  
+  <!-- EN: egg armchair -->
+  <EggArmchair.label>蛋形椅</EggArmchair.label>
+  <!-- EN: Millenium Line Egg Armchair. Feel like a chick - sit in an egg.. -->
+  <EggArmchair.description>千禧风格的蛋形扶手椅。感觉自己像一只小鸡————被包裹在蛋壳里。</EggArmchair.description>
+  
+  <!-- EN: end table with lamp -->
   <EndTable.label>床头柜（灯）</EndTable.label>
+  <!-- EN: A small table with a lamp and a drawer. It would be a nice addition beside a bed. Uses 20 W to light a small area. -->
   <EndTable.description>床边的带灯小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。消耗20W电力。</EndTable.description>
-  <EndTable_Blueprint.label>床头柜（灯）（蓝图）</EndTable_Blueprint.label>
-  <EndTable_Blueprint_Install.label>床头柜（灯）（蓝图）</EndTable_Blueprint_Install.label>
-  <EndTable_Frame.label>床头柜（灯）（建造中）</EndTable_Frame.label>
-  <EndTable_Frame.description>床边的带灯小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。消耗20W电力。</EndTable_Frame.description>
-
-  <JournalTable.label>日志桌</JournalTable.label>
-  <JournalTable.description>有一本日记的装饰性桌子。殖民者们可以聚集在这里严肃讨论日志和各种史诗经历。</JournalTable.description>
-  <JournalTable_Blueprint.label>日志桌（蓝图）</JournalTable_Blueprint.label>
-  <JournalTable_Blueprint_Install.label>日志桌（蓝图）</JournalTable_Blueprint_Install.label>
-  <JournalTable_Frame.label>日志桌（建造中）</JournalTable_Frame.label>
-  <JournalTable_Frame.description>有一本日记的装饰性桌子。殖民者们可以聚集在这里严肃讨论日志和各种史诗经历。</JournalTable_Frame.description>
-
+  
+  <!-- EN: end table -->
+  <EndTableSimple.label>床头柜</EndTableSimple.label>
+  <!-- EN: This small table goes well with a bed. When placed with a bed it will increase comfort and rest effectiveness slightly -->
+  <EndTableSimple.description>床边的小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。</EndTableSimple.description>
+  
+  <!-- EN: folding stool -->
+  <FoldingStool.label>折叠凳</FoldingStool.label>
+  <!-- EN: A piece of leather and some steel - et voilà! An ingenious way of sitting, invented by the Galga Ler on Achron V. -->
+  <FoldingStool.description>金属支架上覆盖着毛皮材质的座面。</FoldingStool.description>
+  
+  <!-- EN: holographic cell -->
   <HolographicCell.label>全息单元</HolographicCell.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
   <HolographicCell.description>一种方便的设施，能够直接从galanet发出必要的信息并将其投影到现实空间中，从而加快工作速度。</HolographicCell.description>
-  <HolographicCell_Blueprint.label>全息单元（蓝图）</HolographicCell_Blueprint.label>
-  <HolographicCell_Blueprint_Install.label>全息单元（蓝图）</HolographicCell_Blueprint_Install.label>
-  <HolographicCell_Frame.label>全息单元（建造中）</HolographicCell_Frame.label>
-  <HolographicCell_Frame.description>一种方便的设施，能够直接从galanet发出必要的信息并将其投影到现实空间中，从而加快工作速度。</HolographicCell_Frame.description>
-
+  
+  <!-- EN: journal table -->
+  <JournalTable.label>日志桌</JournalTable.label>
+  <!-- EN: A decorative table with a journal on it. Colonists can gather here to discuss the majestic journal and the mighty steed that is the table that it rests upon. -->
+  <JournalTable.description>有一本日记的装饰性桌子。殖民者们可以聚集在这里严肃讨论日志和各种史诗经历。</JournalTable.description>
+  
+  <!-- EN: millenium chair -->
+  <MilleniumChair.label>千禧椅</MilleniumChair.label>
+  <!-- EN: Millenium Line chair. -->
+  <MilleniumChair.description>千禧风格的椅子。</MilleniumChair.description>
+  
+  <!-- EN: millenium couch -->
+  <MilleniumCouch.label>千禧沙发</MilleniumCouch.label>
+  <!-- EN: Millenium Line couch is the ultimate furniture piece for sitting satisfaction. Relaxing on it won't make colonists lazy, in theory at least. -->
+  <MilleniumCouch.description>千禧风格沙发是满足坐感的终极家具作品。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</MilleniumCouch.description>
+  
+  <!-- EN: millenium table (2x2) -->
+  <MilleniumTable.label>千禧桌（2x2)</MilleniumTable.label>
+  <!-- EN: This splendidly designed table is the perfect center-piece for any dining room! -->
+  <MilleniumTable.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable.description>
+  
+  <!-- EN: millenium table (1x2) -->
+  <MilleniumTable1x2c.label>千禧桌（1x2)</MilleniumTable1x2c.label>
+  <!-- EN: This splendidly designed table is the perfect center-piece for any dining room! -->
+  <MilleniumTable1x2c.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable1x2c.description>
+  
+  <!-- EN: millenium table (1x3) -->
+  <MilleniumTable1x3c.label>千禧桌（1x3)</MilleniumTable1x3c.label>
+  <!-- EN: This splendidly designed table is the perfect center-piece for any dining room! -->
+  <MilleniumTable1x3c.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable1x3c.description>
+  
+  <!-- EN: millenium table (2x3) -->
+  <MilleniumTable2x3c.label>千禧桌（2x3)</MilleniumTable2x3c.label>
+  <!-- EN: This splendidly designed table is the perfect center-piece for any dining room! -->
+  <MilleniumTable2x3c.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable2x3c.description>
+  
+  <!-- EN: millenium table  (1x1) -->
+  <MilleniumTableSmall.label>千禧桌（1x1)</MilleniumTableSmall.label>
+  <!-- EN: This splendidly designed table is the perfect center-piece for any dining room! -->
+  <MilleniumTableSmall.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTableSmall.description>
+  
+  <!-- EN: pod chair -->
+  <PodChair.label>单座沙发</PodChair.label>
+  <!-- EN: Enter to galahoo, himself! It need a human ? -->
+  <PodChair.description>看这玩意的舒服样，感觉都不需要人坐进去了！</PodChair.description>
+  
+  <!-- EN: stone stool -->
+  <PrimitiveStoolStone.label>石凳</PrimitiveStoolStone.label>
+  <!-- EN: Primitive stone stool. -->
+  <PrimitiveStoolStone.description>略微原始的石凳子。</PrimitiveStoolStone.description>
+  
+  <!-- EN: wooden stool -->
+  <PrimitiveStoolWood.label>凳子</PrimitiveStoolWood.label>
+  <!-- EN: Is an authentic stool, fashioned after those found in the ruins of the Red Tree People on Xentis Ham. -->
+  <PrimitiveStoolWood.description>一张普通的凳子，仿照在某个世界的著名的红树人遗址中发现的凳子建造的。</PrimitiveStoolWood.description>
+  
+  <!-- EN: small stone table -->
+  <PrimitiveTableStone.label>小石桌</PrimitiveTableStone.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <PrimitiveTableStone.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</PrimitiveTableStone.description>
+  
+  <!-- EN: primitive wood table -->
+  <PrimitiveTableWood.label>原始木桌</PrimitiveTableWood.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <PrimitiveTableWood.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</PrimitiveTableWood.description>
+  
+  <!-- EN: rustic couch -->
+  <RusticCouch.label>普通沙发</RusticCouch.label>
+  <!-- EN: A couch is the ultimate furniture piece for sitting satisfaction. Relaxing on it won't make colonists lazy, in theory at least. -->
+  <RusticCouch.description>沙发是满足坐姿休息的终极家具。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</RusticCouch.description>
+  
+  <!-- EN: pillow -->
+  <SimplePillow.label>软垫</SimplePillow.label>
+  <!-- EN: Rest your tushie on this plushy cushion! -->
+  <SimplePillow.description>把你的屁股放在这个软软的垫子上吧！</SimplePillow.description>
+  
+  <!-- EN: stone armchair -->
+  <SlabChair.label>石板椅</SlabChair.label>
+  <!-- EN: Whoever said that stone is not comfortable? Prove everyone wrong with this replica of a perfectly comfortable stony armchair. -->
+  <SlabChair.description>谁说石头不舒服？用这张完美舒适的石板椅的复制品来证明所有人都错了。</SlabChair.description>
+  
+  <!-- EN: backless stool -->
+  <Stool.label>板凳</Stool.label>
+  <!-- EN: A very basic platform on which to sit. It lacks a backrest. -->
+  <Stool.description>一块有支撑的平面。但是没有靠背。</Stool.description>
+  
+  <!-- EN: table (1x1) -->
+  <Table1x1c.label>桌子（1x1)</Table1x1c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x1c.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x1c.description>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>桌子（1x2)</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x2c.description>
+  
+  <!-- EN: table (1x3) -->
+  <Table1x3c.label>桌子（1x3)</Table1x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x3c.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x3c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>桌子（2x2)</Table2x2c.label>
+  <!-- EN: Colonists will eat off of tables when a chair is facing it. This short table is suitable for 4 at once. -->
+  <Table2x2c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种小桌子适合4人使用。</Table2x2c.description>
+  
+  <!-- EN: table (2x3) -->
+  <Table2x4c.label>桌子（2x3)</Table2x4c.label>
+  <!-- EN: Colonists will eat off of tables when a chair is facing it. This long table is suitable for 8 at once. -->
+  <Table2x4c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种长桌子适合8人使用。</Table2x4c.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>桌子（3x3)</Table3x3c.label>
+  <!-- EN: Colonists will eat off of tables when a chair is facing it. This long table is suitable for 8 at once. -->
+  <Table3x3c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种长桌子适合8人使用。</Table3x3c.description>
+  
+  <!-- EN: stone table -->
+  <TableStone.label>石桌</TableStone.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <TableStone.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</TableStone.description>
+  
+  <!-- EN: tea table -->
+  <TeaTable.label>茶桌</TeaTable.label>
+  <!-- EN: Colonists will eat off of tables when a chair is facing it. This tiny glass table is suitable for 1. -->
+  <TeaTable.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。 这种小玻璃桌子适合一个人使用。</TeaTable.description>
+  
+  <!-- EN: tent support -->
   <TentDeployed.label>帐篷支架</TentDeployed.label>
+  <!-- EN: Supports the tent. -->
   <TentDeployed.description>帐篷的支架。</TentDeployed.description>
-  <TentDeployed.comps.1.useLabel>打包帐篷</TentDeployed.comps.1.useLabel>
-  <TentDeployed_Blueprint_Install.label>帐篷支架（蓝图）</TentDeployed_Blueprint_Install.label>
-
-
+  <!-- EN: Pack the tent -->
+  <TentDeployed.comps.CompPackTent.useLabel>打包帐篷</TentDeployed.comps.CompPackTent.useLabel>
+  
 </LanguageData>

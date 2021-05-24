@@ -1,15 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Electric tree pot -->
   <ElectricTreePot.label>电动树盆</ElectricTreePot.label>
+  <!-- EN: Special electric pot is suitable for new year tree. -->
   <ElectricTreePot.description>可以用来栽种新年树的特殊花盆。</ElectricTreePot.description>
-  <ElectricTreePot_Blueprint.label>电动树盆（蓝图）</ElectricTreePot_Blueprint.label>
-  <ElectricTreePot_Blueprint_Install.label>电动树盆（蓝图）</ElectricTreePot_Blueprint_Install.label>
-  <ElectricTreePot_Frame.label>电动树盆（建造中）</ElectricTreePot_Frame.label>
-  <ElectricTreePot_Frame.description>可以用来栽种新年树的特殊花盆。</ElectricTreePot_Frame.description>
-
+  
+  <!-- EN: New year tree -->
   <NewYearTree.label>新年树</NewYearTree.label>
+  <!-- EN: New year tree with a pleasant smell will decorate any interior well. -->
   <NewYearTree.description>拥有迷人香味的新年树可以很好的装饰屋子。</NewYearTree.description>
-
-
+  
 </LanguageData>

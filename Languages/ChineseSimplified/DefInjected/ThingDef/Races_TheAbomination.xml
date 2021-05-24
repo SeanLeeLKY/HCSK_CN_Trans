@@ -1,15 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Abomination -->
-
+  
+  <!-- EN: Abomination -->
   <Abomination.label>憎恶</Abomination.label>
+  <!-- EN: Abominations are slow, hulking, relentless manifestations of flesh. Their bodies twist and contort to heal even major wounds quickly. Their mangled maw seeps with toxic bile. They will consume and assimilate, corpse by corpse. -->
   <Abomination.description>憎恶的是一种缓慢、笨重、无情的血肉生物。他们的身体扭曲而怪异，能迅速愈合伤口。它们的残缺的残缺的部分总有毒性胆汁渗出，并且能同化吞噬尸体。</Abomination.description>
-  <Abomination.tools.0.label>头</Abomination.tools.0.label>
-  <!-- Leather Amount: 0 -->
-  <!-- Meat Amount: 0 -->
-  <Abomination_Corpse.label>憎恶尸体</Abomination_Corpse.label>
-  <Abomination_Corpse.description>憎恶尸体</Abomination_Corpse.description>
-
-
+  <!-- EN: head -->
+  <Abomination.tools.head.label>头</Abomination.tools.head.label>
+  
 </LanguageData>

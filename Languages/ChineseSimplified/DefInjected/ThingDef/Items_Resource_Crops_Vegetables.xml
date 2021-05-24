@@ -1,29 +1,40 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <RawPotatoes.label>土豆</RawPotatoes.label>
-  <RawPotatoes.description>土豆是一种拥有富含淀粉块茎的作物。生吃时它们不太好吃，但它们确实长得很快。</RawPotatoes.description>
-  <RawPotatoes.stuffProps.stuffAdjective>土豆</RawPotatoes.stuffProps.stuffAdjective>
-
-  <Rawbean.label>豆荚</Rawbean.label>
-  <Rawbean.description>豆荚是豆科植物的可食种子。它们可以用于烹饪或制造生物燃料。生吃味道很差。</Rawbean.description>
-  <Rawbean.stuffProps.stuffAdjective>豆荚</Rawbean.stuffProps.stuffAdjective>
-
-  <RawTomatoes.label>番茄</RawTomatoes.label>
-  <RawTomatoes.description>西红柿是圆形，棕榈大小的红色，味道酸甜的果实。它在烹饪中是有用的，即使是生吃也是令人愉快的。</RawTomatoes.description>
-  <RawTomatoes.stuffProps.stuffAdjective>番茄</RawTomatoes.stuffProps.stuffAdjective>
-
-  <RawCarrots.label>胡萝卜</RawCarrots.label>
-  <RawCarrots.description>胡萝卜是一种长而脆、桔黄色根的块根类蔬菜。生吃比较提神。</RawCarrots.description>
-  <RawCarrots.stuffProps.stuffAdjective>胡萝卜</RawCarrots.stuffProps.stuffAdjective>
-
-  <Rawmushroom.label>香菇</Rawmushroom.label>
-  <Rawmushroom.description>生香菇是小的白色或棕色的可食用的菌菇帽。这些菌菇外表是圆的。生吃的时候很难吃，因为口感和生肉相似。</Rawmushroom.description>
-  <Rawmushroom.stuffProps.stuffAdjective>香菇</Rawmushroom.stuffProps.stuffAdjective>
-
+  
+  <!-- EN: Algae -->
   <RawAlgae.label>水藻</RawAlgae.label>
+  <!-- EN: Algae. -->
   <RawAlgae.description>水藻。</RawAlgae.description>
   <RawAlgae.stuffProps.stuffAdjective>水藻</RawAlgae.stuffProps.stuffAdjective>
-
-
+  
+  <!-- EN: Bean Pod -->
+  <Rawbean.label>豆荚</Rawbean.label>
+  <!-- EN: Bean Pods are the edible seeds of the Bean Plant. They can be used for cooking or for making BioDiesel Fuel. Unpleasant when eaten raw. -->
+  <Rawbean.description>豆荚是豆科植物的可食种子。它们可以用于烹饪或制造生物燃料。生吃味道很差。</Rawbean.description>
+  <Rawbean.stuffProps.stuffAdjective>豆荚</Rawbean.stuffProps.stuffAdjective>
+  
+  <!-- EN: Carrots -->
+  <RawCarrots.label>胡萝卜</RawCarrots.label>
+  <!-- EN: Carrots are long, crunchy, orange root vegetables of the Carrot Plant. Refreshing when eaten raw. -->
+  <RawCarrots.description>胡萝卜是一种长而脆、桔黄色根的块根类蔬菜。生吃比较提神。</RawCarrots.description>
+  <RawCarrots.stuffProps.stuffAdjective>胡萝卜</RawCarrots.stuffProps.stuffAdjective>
+  
+  <!-- EN: Raw Champignon -->
+  <Rawmushroom.label>香菇</Rawmushroom.label>
+  <!-- EN: Raw Champignon are small white or brown edible caps of the Champignon Mushroom. The caps are round in appearance. Unsavory when eaten raw, as the texture is similar to raw meat. -->
+  <Rawmushroom.description>生香菇是小的白色或棕色的可食用的菌菇帽。这些菌菇外表是圆的。生吃的时候很难吃，因为口感和生肉相似。</Rawmushroom.description>
+  <Rawmushroom.stuffProps.stuffAdjective>香菇</Rawmushroom.stuffProps.stuffAdjective>
+  
+  <!-- EN: Potatoes -->
+  <RawPotatoes.label>土豆</RawPotatoes.label>
+  <!-- EN: Potatoes are a starchy, tuberous crop of a Potato Plant. They are not very tasty when eaten raw but they do grow quickly. -->
+  <RawPotatoes.description>土豆是一种拥有富含淀粉块茎的作物。生吃时它们不太好吃，但它们确实长得很快。</RawPotatoes.description>
+  <RawPotatoes.stuffProps.stuffAdjective>土豆</RawPotatoes.stuffProps.stuffAdjective>
+  
+  <!-- EN: Tomatoes -->
+  <RawTomatoes.label>番茄</RawTomatoes.label>
+  <!-- EN: Tomatoes are round, palm sized, red, sharp-tasting fruits of the Tomato Vine. It is useful in cooking and is enjoyable to eat even when raw. -->
+  <RawTomatoes.description>西红柿是圆形，棕榈大小的红色，味道酸甜的果实。它在烹饪中是有用的，即使是生吃也是令人愉快的。</RawTomatoes.description>
+  <RawTomatoes.stuffProps.stuffAdjective>番茄</RawTomatoes.stuffProps.stuffAdjective>
+  
 </LanguageData>

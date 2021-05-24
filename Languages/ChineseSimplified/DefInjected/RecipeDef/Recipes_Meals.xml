@@ -1,276 +1,123 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MakeVegetables.label>烹饪 炒蔬菜</MakeVegetables.label>
-  <MakeVegetables.description>烹饪一份简单的蔬菜合炒。\n\n产出：1。</MakeVegetables.description>
-  <MakeVegetables.jobString>正在烹饪 炒蔬菜。</MakeVegetables.jobString>
-
-  <MakeVegetables_Bulk.label>烹饪 炒蔬菜（x4）</MakeVegetables_Bulk.label>
-  <MakeVegetables_Bulk.description>烹饪几份简单的蔬菜合炒。\n\n产出：4。</MakeVegetables_Bulk.description>
-  <MakeVegetables_Bulk.jobString>正在烹饪 炒蔬菜。</MakeVegetables_Bulk.jobString>
-
-  <MakeFriedMushrooms.label>烹饪 炒蘑菇</MakeFriedMushrooms.label>
-  <MakeFriedMushrooms.description>烹饪 炒蘑菇。\n\n产出：1。</MakeFriedMushrooms.description>
-  <MakeFriedMushrooms.jobString>正在烹饪 炒蘑菇。</MakeFriedMushrooms.jobString>
-
-  <MakeFriedMushrooms_Bulk.label>烹饪 炒蘑菇（x4）</MakeFriedMushrooms_Bulk.label>
-  <MakeFriedMushrooms_Bulk.description>烹饪 炒蘑菇。\n\n产出：4。</MakeFriedMushrooms_Bulk.description>
-  <MakeFriedMushrooms_Bulk.jobString>正在烹饪 炒蘑菇。</MakeFriedMushrooms_Bulk.jobString>
-
-  <CookScrambledEggs.label>烹饪 煎蛋</CookScrambledEggs.label>
-  <CookScrambledEggs.description>烹饪 煎蛋。\n\n产出：1。</CookScrambledEggs.description>
-  <CookScrambledEggs.jobString>正在烹饪 煎蛋。</CookScrambledEggs.jobString>
-
-  <CookScrambledEggs_Bulk.label>烹饪 煎蛋（x4）</CookScrambledEggs_Bulk.label>
-  <CookScrambledEggs_Bulk.description>烹饪 煎蛋。\n\n产出：4。</CookScrambledEggs_Bulk.description>
-  <CookScrambledEggs_Bulk.jobString>正在烹饪 煎蛋。</CookScrambledEggs_Bulk.jobString>
-
-  <CookMealSalad.label>烹饪 水果沙拉</CookMealSalad.label>
-  <CookMealSalad.description>烹饪水果沙拉，由各种水果制成。\n\n产出：1。</CookMealSalad.description>
-  <CookMealSalad.jobString>正在烹饪 水果沙拉。</CookMealSalad.jobString>
-
-  <CookMealSalad_Bulk.label>烹饪 水果沙拉（x4）</CookMealSalad_Bulk.label>
-  <CookMealSalad_Bulk.description>烹饪水果沙拉，由各种水果制成。\n\n产出：4。</CookMealSalad_Bulk.description>
-  <CookMealSalad_Bulk.jobString>正在烹饪 水果沙拉。</CookMealSalad_Bulk.jobString>
-
-  <CookRoastedMeat.label>烹饪 烤肉</CookRoastedMeat.label>
-  <CookRoastedMeat.description>烹饪 烤肉。\n\n产出：1。</CookRoastedMeat.description>
-  <CookRoastedMeat.jobString>正在烹饪 烤肉。</CookRoastedMeat.jobString>
-
-  <CookRoadMeatx4.label>烹饪 烤肉（x4）</CookRoadMeatx4.label>
-  <CookRoadMeatx4.description>烹饪 烤肉。\n\n产出：4。</CookRoadMeatx4.description>
-  <CookRoadMeatx4.jobString>正在烹饪 烤肉。</CookRoadMeatx4.jobString>
-
+  
+  <!-- EN: cook fine meal -->
   <CookMealFine.label>烹饪 优质食物</CookMealFine.label>
+  <!-- EN: Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients. Produces 2. -->
   <CookMealFine.description>将生肉和素食材料组合，烹饪一份相对复杂的食物。\n\n产出：2。</CookMealFine.description>
+  <!-- EN: Cooking fine meal. -->
   <CookMealFine.jobString>正在烹饪 优质食物。</CookMealFine.jobString>
-
+  
+  <!-- EN: cook fine meals (x4) -->
   <CookMealFine_Bulk.label>烹饪 优质食物（x4）</CookMealFine_Bulk.label>
+  <!-- EN: Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients. Produces 8. -->
   <CookMealFine_Bulk.description>将生肉和素食材料组合，烹饪一份相对复杂的食物。\n\n产出：8。</CookMealFine_Bulk.description>
+  <!-- EN: Cooking fine meals. -->
   <CookMealFine_Bulk.jobString>正在烹饪 优质食物。</CookMealFine_Bulk.jobString>
-
+  
+  <!-- EN: cook lavish meal -->
   <CookMealLavish.label>烹饪 精致的食物</CookMealLavish.label>
+  <!-- EN: Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Produces 2. -->
   <CookMealLavish.description>将生肉和素食材料组合，烹饪一份非常复杂的食物。\n\n产出：2。</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>正在烹饪 精致的食物。</CookMealLavish.jobString>
-
+  
+  <!-- EN: cook lavish meals (x4) -->
   <CookMealLavish_Bulk.label>烹饪 精致的食物（x4）</CookMealLavish_Bulk.label>
+  <!-- EN: Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Produces 8. -->
   <CookMealLavish_Bulk.description>将生肉和素食材料组合，烹饪一份非常复杂的食物。\n\n产出：8。</CookMealLavish_Bulk.description>
+  <!-- EN: Cooking lavish meals. -->
   <CookMealLavish_Bulk.jobString>正在烹饪 精致的食物。</CookMealLavish_Bulk.jobString>
-
-
-  <!-- <RecipeDef>
-		<defName>CookMealLuxury</defName>
-		<label>cook luxury meal</label>
-		<description>Cooks a luxurious meal from a combination of raw meat and raw plant ingredients. Some ingredients are wasted as only the finest will do. Produces 1.</description>
-		<jobString>Cooking luxurious meal.</jobString>
-		<workSpeedStat>CookSpeed</workSpeedStat>
-		<effectWorking>Cook</effectWorking>
-		<soundWorking>Recipe_CookMeal</soundWorking>
-		<workAmount>700</workAmount>
-		<requiredGiverWorkType>Cooking</requiredGiverWorkType>
-		<allowMixingIngredients>true</allowMixingIngredients>
-		<ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
-		<ingredients>
-			<li>
-				<filter>
-					<categories>
-						<li>AnimalProductRaw</li>
-					</categories>
-					<thingDefs>
-						<li>Meat_Muffalo</li>
-						<li>MetalCannedMeat_prime</li>
-					</thingDefs>
-				</filter>
-				<count>0.3</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>ExtraPlantFoodRaw</li>
-					</categories>
-				</filter>
-				<count>0.2</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>BasicPlantFoodRaw</li>
-					</categories>
-				</filter>
-				<count>0.4</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>LuxuryStuffs</li>
-					</categories>
-				</filter>
-				<count>0.1</count>
-			</li>
-		</ingredients>
-		<products>
-			<MealLuxury>1</MealLuxury>
-		</products>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>WildRose</li>
-				<li>Hypericum</li>
-				<li>MintLeaves</li>   
-				<li>Rawonion</li>
-				<li>Meat_Muffalo</li>
-				<li>MetalCannedMeat_prime</li>
-			</thingDefs>
-			<categories>
-				<li>ExtraPlantFoodRaw</li>
-				<li>BasicPlantFoodRaw</li>
-				<li>LuxuryStuffs</li>
-				<li>AnimalProductRaw</li>
-			</categories>
-		</fixedIngredientFilter>
-		<defaultIngredientFilter>
-			<thingDefs>
-				<li>WildRose</li>
-				<li>Hypericum</li>
-				<li>MintLeaves</li>   
-				<li>Rawonion</li>
-				<li>Meat_Muffalo</li>
-				<li>MetalCannedMeat_prime</li>
-			</thingDefs>
-			<categories>
-				<li>ExtraPlantFoodRaw</li>
-				<li>BasicPlantFoodRaw</li>
-				<li>LuxuryStuffs</li>
-				<li>AnimalProductRaw</li>
-			</categories>
-			<disallowedThingDefs>
-				<li>Meat_Megaspider</li>
-				<li>Meat_Human</li>
-				<li>InsectJelly</li>
-			</disallowedThingDefs>
-			<disallowedCategories>
-				<li>EggsFertilized</li>
-			</disallowedCategories>
-		</defaultIngredientFilter>
-		<skillRequirements>
-			<Cooking>15</Cooking>
-		</skillRequirements>
-		<workSkill>Cooking</workSkill>
-	</RecipeDef>
-
-
-	<RecipeDef>
-		<defName>CookMealLuxury_Bulk</defName>
-		<label>cook luxury meals (x4)</label>
-		<description>Cooks Luxurious meals from a combination of raw meat and raw plant ingredients. Some ingredients are wasted as only the finest will do. Produces 4.</description>
-		<jobString>Cooking luxurious meals.</jobString>
-		<workSpeedStat>CookSpeed</workSpeedStat>
-		<effectWorking>Cook</effectWorking>
-		<soundWorking>Recipe_CookMeal</soundWorking>
-		<workAmount>2800</workAmount>
-		<requiredGiverWorkType>Cooking</requiredGiverWorkType>
-		<allowMixingIngredients>true</allowMixingIngredients>
-		<ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
-		<ingredients>
-			<li>
-				<filter>
-					<categories>
-						<li>AnimalProductRaw</li>
-					</categories>
-					<thingDefs>
-						<li>Meat_Muffalo</li>
-						<li>MetalCannedMeat_prime</li>
-					</thingDefs>
-				</filter>
-				<count>1.2</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>ExtraPlantFoodRaw</li>
-					</categories>
-				</filter>
-				<count>0.8</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>BasicPlantFoodRaw</li>
-					</categories>
-				</filter>
-				<count>1.6</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>LuxuryStuffs</li>
-					</categories>
-				</filter>
-				<count>0.4</count>
-			</li>
-		</ingredients>
-		<products>
-			<MealLuxury>4</MealLuxury>
-		</products>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>WildRose</li>
-				<li>Hypericum</li>
-				<li>MintLeaves</li>   
-				<li>Rawonion</li>
-				<li>Meat_Muffalo</li>
-				<li>MetalCannedMeat_prime</li>
-			</thingDefs>
-			<categories>
-				<li>ExtraPlantFoodRaw</li>
-				<li>BasicPlantFoodRaw</li>
-				<li>LuxuryStuffs</li>
-				<li>AnimalProductRaw</li>
-			</categories>
-		</fixedIngredientFilter>
-		<defaultIngredientFilter>
-			<thingDefs>
-				<li>WildRose</li>
-				<li>Hypericum</li>
-				<li>MintLeaves</li>   
-				<li>Rawonion</li>
-				<li>Meat_Muffalo</li>
-				<li>MetalCannedMeat_prime</li>
-			</thingDefs>
-			<categories>
-				<li>ExtraPlantFoodRaw</li>
-				<li>BasicPlantFoodRaw</li>
-				<li>LuxuryStuffs</li>
-				<li>AnimalProductRaw</li>
-			</categories>
-			<disallowedThingDefs>
-				<li>Meat_Megaspider</li>
-				<li>Meat_Human</li>
-				<li>InsectJelly</li>
-			</disallowedThingDefs>
-			<disallowedCategories>
-				<li>EggsFertilized</li>
-			</disallowedCategories>
-		</defaultIngredientFilter>
-		<skillRequirements>
-			<Cooking>15</Cooking>
-		</skillRequirements>
-		<workSkill>Cooking</workSkill>
-		<recipeUsers>
-			<li>ElectricStove_Pro</li>
-		</recipeUsers>
-	</RecipeDef> -->
-
+  
+  <!-- EN: cook fruit salad -->
+  <CookMealSalad.label>烹饪 水果沙拉</CookMealSalad.label>
+  <!-- EN: Prepares a fruit salad made from raw fruits. Produces 1. -->
+  <CookMealSalad.description>烹饪水果沙拉，由各种水果制成。\n\n产出：1。</CookMealSalad.description>
+  <!-- EN: Preparing fruit salad. -->
+  <CookMealSalad.jobString>正在烹饪 水果沙拉。</CookMealSalad.jobString>
+  
+  <!-- EN: cook fruit salads (x4) -->
+  <CookMealSalad_Bulk.label>烹饪 水果沙拉（x4）</CookMealSalad_Bulk.label>
+  <!-- EN: Prepares fruit salads made from raw fruits. Produces 4. -->
+  <CookMealSalad_Bulk.description>烹饪水果沙拉，由各种水果制成。\n\n产出：4。</CookMealSalad_Bulk.description>
+  <!-- EN: Preparing simple fruit salads. -->
+  <CookMealSalad_Bulk.jobString>正在烹饪 水果沙拉。</CookMealSalad_Bulk.jobString>
+  
+  <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>烹饪 包装生存食品</CookMealSurvival.label>
+  <!-- EN: Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted. -->
   <CookMealSurvival.description>将生肉和素食材料组合，烹饪一分包装生存食品。大部分材料会被浪费。</CookMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>正在烹饪 包装生存食品。</CookMealSurvival.jobString>
-
+  
+  <!-- EN: cook roasted meat (x4) -->
+  <CookRoadMeatx4.label>烹饪 烤肉（x4）</CookRoadMeatx4.label>
+  <!-- EN: Prepares roasted meat. Produces 4. -->
+  <CookRoadMeatx4.description>烹饪 烤肉。\n\n产出：4。</CookRoadMeatx4.description>
+  <!-- EN: Roast meat. -->
+  <CookRoadMeatx4.jobString>正在烹饪 烤肉。</CookRoadMeatx4.jobString>
+  
+  <!-- EN: cook roasted meat -->
+  <CookRoastedMeat.label>烹饪 烤肉</CookRoastedMeat.label>
+  <!-- EN: Prepares roasted meat. Produces 1. -->
+  <CookRoastedMeat.description>烹饪 烤肉。\n\n产出：1。</CookRoastedMeat.description>
+  <!-- EN: Roasting meat. -->
+  <CookRoastedMeat.jobString>正在烹饪 烤肉。</CookRoastedMeat.jobString>
+  
+  <!-- EN: cook scrambled eggs -->
+  <CookScrambledEggs.label>烹饪 煎蛋</CookScrambledEggs.label>
+  <!-- EN: Prepare scrambled eggs. Produces 1. -->
+  <CookScrambledEggs.description>烹饪 煎蛋。\n\n产出：1。</CookScrambledEggs.description>
+  <!-- EN: Preparing scrambled eggs. -->
+  <CookScrambledEggs.jobString>正在烹饪 煎蛋。</CookScrambledEggs.jobString>
+  
+  <!-- EN: cook scrambled eggs (x4) -->
+  <CookScrambledEggs_Bulk.label>烹饪 煎蛋（x4）</CookScrambledEggs_Bulk.label>
+  <!-- EN: Prepare scrambled eggs. Produces 4. -->
+  <CookScrambledEggs_Bulk.description>烹饪 煎蛋。\n\n产出：4。</CookScrambledEggs_Bulk.description>
+  <!-- EN: Preparing scrambled eggs. -->
+  <CookScrambledEggs_Bulk.jobString>正在烹饪 煎蛋。</CookScrambledEggs_Bulk.jobString>
+  
+  <!-- EN: make pemmican -->
   <Make_Pemmican.label>制作 干肉饼</Make_Pemmican.label>
+  <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
   <Make_Pemmican.description>制作干肉饼, 一种由肉食和素食混合脱水制成的食物。味道平平。无需冷藏即能保存很长时间。</Make_Pemmican.description>
+  <!-- EN: Making pemmican. -->
   <Make_Pemmican.jobString>正在制作 干肉饼。</Make_Pemmican.jobString>
-
+  
+  <!-- EN: make pemmican x4 -->
   <Make_PemmicanBulk.label>制作 干肉饼（x4）</Make_PemmicanBulk.label>
+  <!-- EN: Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
   <Make_PemmicanBulk.description>一次制作大量干肉饼, 一种由肉食和素食混合脱水制成的食物。味道平平。无需冷藏即能保存很长时间。</Make_PemmicanBulk.description>
+  <!-- EN: Making bulk pemmican. -->
   <Make_PemmicanBulk.jobString>正在制作 干肉饼。</Make_PemmicanBulk.jobString>
-
-
+  
+  <!-- EN: cook fried cave mushrooms -->
+  <MakeFriedMushrooms.label>烹饪 炒蘑菇</MakeFriedMushrooms.label>
+  <!-- EN: Prepares fried cave mushrooms. Produces 1. -->
+  <MakeFriedMushrooms.description>烹饪 炒蘑菇。\n\n产出：1。</MakeFriedMushrooms.description>
+  <!-- EN: Preparing fried cave mushrooms. -->
+  <MakeFriedMushrooms.jobString>正在烹饪 炒蘑菇。</MakeFriedMushrooms.jobString>
+  
+  <!-- EN: cook fried cave mushrooms (x4) -->
+  <MakeFriedMushrooms_Bulk.label>烹饪 炒蘑菇（x4）</MakeFriedMushrooms_Bulk.label>
+  <!-- EN: Prepares fried cave mushrooms. Produces 4. -->
+  <MakeFriedMushrooms_Bulk.description>烹饪 炒蘑菇。\n\n产出：4。</MakeFriedMushrooms_Bulk.description>
+  <!-- EN: Preparing fried cave mushrooms. -->
+  <MakeFriedMushrooms_Bulk.jobString>正在烹饪 炒蘑菇。</MakeFriedMushrooms_Bulk.jobString>
+  
+  <!-- EN: cook fried assorts -->
+  <MakeVegetables.label>烹饪 炒蔬菜</MakeVegetables.label>
+  <!-- EN: Prepares a simple dried assortment of vegetables. Produces 1. -->
+  <MakeVegetables.description>烹饪一份简单的蔬菜合炒。\n\n产出：1。</MakeVegetables.description>
+  <!-- EN: Cooking fried assorts. -->
+  <MakeVegetables.jobString>正在烹饪 炒蔬菜。</MakeVegetables.jobString>
+  
+  <!-- EN: cook fried assorts (x4) -->
+  <MakeVegetables_Bulk.label>烹饪 炒蔬菜（x4）</MakeVegetables_Bulk.label>
+  <!-- EN: Prepares a simple dried assortment of vegetables. Produces 4. -->
+  <MakeVegetables_Bulk.description>烹饪几份简单的蔬菜合炒。\n\n产出：4。</MakeVegetables_Bulk.description>
+  <!-- EN: Cooking fried assorts. -->
+  <MakeVegetables_Bulk.jobString>正在烹饪 炒蔬菜。</MakeVegetables_Bulk.jobString>
+  
 </LanguageData>

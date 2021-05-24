@@ -1,52 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Soldier -->
-
-  <SectarianSoldier.label>教派士兵</SectarianSoldier.label>
-  <SectarianSoldier.labelPlural>教派士兵</SectarianSoldier.labelPlural>
-
-
-  <!-- Striker -->
-
-  <SectarianStriker.label>教派袭击者</SectarianStriker.label>
-  <SectarianStriker.labelPlural>教派袭击者</SectarianStriker.labelPlural>
-
-
-  <!-- Hunter -->
-
-  <SectarianHunter.label>教派猎人</SectarianHunter.label>
-  <SectarianHunter.labelPlural>教派猎人</SectarianHunter.labelPlural>
-
-
-  <!-- Demolisher -->
-
+  
+  <!-- EN: Sectarian Demolisher -->
   <SectarianDemolisher.label>教派摧毁者</SectarianDemolisher.label>
   <SectarianDemolisher.labelPlural>教派摧毁者</SectarianDemolisher.labelPlural>
-
-
-  <!-- EagleEye -->
-
-  <SectarianEagleEye.label>教派猎鹰</SectarianEagleEye.label>
-  <SectarianEagleEye.labelPlural>教派猎鹰</SectarianEagleEye.labelPlural>
-
-
-  <!-- Destroyer -->
-
+  
+  <!-- EN: Sectarian Destroyer -->
   <SectarianDestroyer.label>教派破坏者</SectarianDestroyer.label>
   <SectarianDestroyer.labelPlural>教派破坏者</SectarianDestroyer.labelPlural>
-
-
-  <!-- Trader -->
-
-  <SectarianTrader.label>教派商人</SectarianTrader.label>
-  <SectarianTrader.labelPlural>教派商人</SectarianTrader.labelPlural>
-
-
-  <!-- Sentinel -->
-
+  
+  <!-- EN: Sectarian Eagle Eye -->
+  <SectarianEagleEye.label>教派猎鹰</SectarianEagleEye.label>
+  <SectarianEagleEye.labelPlural>教派猎鹰</SectarianEagleEye.labelPlural>
+  
+  <!-- EN: Sectarian Hunter -->
+  <SectarianHunter.label>教派猎人</SectarianHunter.label>
+  <SectarianHunter.labelPlural>教派猎人</SectarianHunter.labelPlural>
+  
+  <!-- EN: Sectarian Sentinel -->
   <SectarianSentinel.label>教派哨兵</SectarianSentinel.label>
   <SectarianSentinel.labelPlural>教派哨兵</SectarianSentinel.labelPlural>
-
-
+  
+  <!-- EN: Sectarian Soldier -->
+  <SectarianSoldier.label>教派士兵</SectarianSoldier.label>
+  <SectarianSoldier.labelPlural>教派士兵</SectarianSoldier.labelPlural>
+  
+  <!-- EN: Sectarian Striker -->
+  <SectarianStriker.label>教派袭击者</SectarianStriker.label>
+  <SectarianStriker.labelPlural>教派袭击者</SectarianStriker.labelPlural>
+  
+  <!-- EN: Sectarian trader -->
+  <SectarianTrader.label>教派商人</SectarianTrader.label>
+  <SectarianTrader.labelPlural>教派商人</SectarianTrader.labelPlural>
+  
 </LanguageData>
