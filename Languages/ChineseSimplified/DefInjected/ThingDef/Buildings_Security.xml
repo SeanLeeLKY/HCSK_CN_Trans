@@ -36,7 +36,7 @@
   <!-- EN: Medium missile system -->
   <MediumMissileSystem.label>中型导弹系统</MediumMissileSystem.label>
   <!-- EN: The Medium Missile System fires 3 missiles at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged. -->
-  <MediumMissileSystem.description>一种每次发射三枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</MediumMissileSystem.description>
+  <MediumMissileSystem.description>一种每轮可以向目标区域发射三枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</MediumMissileSystem.description>
   
   <!-- EN: sentry naval turret -->
   <NavalGunTurretGun.label>舰载哨戒炮塔</NavalGunTurretGun.label>
@@ -46,7 +46,7 @@
   <!-- EN: Heavy missile system -->
   <RLGun.label>重型导弹系统</RLGun.label>
   <!-- EN: The Heavy Missile System fires 6 missiles at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged. -->
-  <RLGun.description>一种每次发射六枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</RLGun.description>
+  <RLGun.description>一种每轮可以向目标区域发射六枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</RLGun.description>
   
   <!-- EN: AGS-30 -->
   <Turret_AGS30GrenadeLauncher.label>AGS-30榴弹发射器</Turret_AGS30GrenadeLauncher.label>
