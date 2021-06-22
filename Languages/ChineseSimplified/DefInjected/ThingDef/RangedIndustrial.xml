@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Gun_AssaultRifle.verbs.Verb_Shoot.label>突击步枪</Gun_AssaultRifle.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_Autopistol.verbs.Verb_Shoot.label>自动手枪</Gun_Autopistol.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>栓动步枪</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_ChainShotgun.verbs.Verb_Shoot.label>链式霰弹枪</Gun_ChainShotgun.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_HeavySMG.tools.grip.label>握把</Gun_HeavySMG.tools.grip.label>
+  <Gun_HeavySMG.verbs.Verb_Shoot.label>重型冲锋枪</Gun_HeavySMG.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_IncendiaryLauncher.tools.stock.label>枪托</Gun_IncendiaryLauncher.tools.stock.label>
+  <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>燃烧弹发射器</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_LMG.tools.stock.label>枪托</Gun_LMG.tools.stock.label>
+  <Gun_LMG.verbs.Verb_Shoot.label>轻机枪</Gun_LMG.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_MachinePistol.tools.grip.label>握把</Gun_MachinePistol.tools.grip.label>
+  <Gun_MachinePistol.verbs.Verb_Shoot.label>冲锋手枪</Gun_MachinePistol.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_Minigun.tools.barrels.label>枪管</Gun_Minigun.tools.barrels.label>
+  <Gun_Minigun.verbs.Verb_Shoot.label>速射机枪</Gun_Minigun.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_PumpShotgun.verbs.Verb_Shoot.label>泵动霰弹枪</Gun_PumpShotgun.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_Revolver.verbs.Verb_Shoot.label>左轮手枪</Gun_Revolver.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_SniperRifle.verbs.Verb_Shoot.label>狙击步枪</Gun_SniperRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

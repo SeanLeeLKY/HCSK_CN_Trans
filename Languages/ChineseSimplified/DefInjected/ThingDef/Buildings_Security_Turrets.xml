@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Artillery_Mortar.verbs.Verb_Shoot.label>迫击炮</Artillery_Mortar.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>加农炮</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_MiniTurret.verbs.Verb_Shoot.label>小型机枪</Gun_MiniTurret.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Gun_TurretSniper.verbs.Verb_Shoot.label>铀弹加农炮</Gun_TurretSniper.verbs.Verb_Shoot.label>
+  
+  <!-- UNUSED -->
+  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>炮管耐久度</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>射击直到炮管报废</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>无法射击：需要新炮管</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- UNUSED -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>炮管耐久度</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>射击直到炮管报废</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>无法射击：需要新炮管</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- UNUSED -->
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>铀弹</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Sniper.comps.CompRefuelable.fuelLabel>射击直到弹药打空</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>无法射击：没有弹药</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

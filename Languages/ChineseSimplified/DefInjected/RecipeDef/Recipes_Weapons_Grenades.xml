@@ -21,10 +21,6 @@
   <BuildFragGrenades.description>中规中矩的老式手雷，依靠爆炸破片伤害敌人。</BuildFragGrenades.description>
   <!-- EN: Building Frag Grenades. -->
   <BuildFragGrenades.jobString>正在制造 破片手榴弹。</BuildFragGrenades.jobString>
-
-  <MakeHighExplosiveGrenades.label>制造 高爆手榴弹</MakeHighExplosiveGrenades.label>
-	<MakeHighExplosiveGrenades.description>制造 高爆手榴弹，</MakeHighExplosiveGrenades.description>
-	<MakeHighExplosiveGrenades.jobString>正在制造 高爆手榴弹。</MakeHighExplosiveGrenades.jobString>
   
   <!-- EN: Build Fusion Grenades -->
   <BuildFusionGrenades.label>制造 融熔手榴弹</BuildFusionGrenades.label>
@@ -39,6 +35,13 @@
   <BuildPlasmaGrenades.description>由不稳定的等离子材料制成的强大武器，虽然看起来不怎么起眼，但是它的爆炸范围和伤害都是致命的。 \n\n产出：1。</BuildPlasmaGrenades.description>
   <!-- EN: Building Plasma Grenades. -->
   <BuildPlasmaGrenades.jobString>正在制造 等离子手榴弹。</BuildPlasmaGrenades.jobString>
+  
+  <!-- EN: make high explosive grenades -->
+  <MakeHighExplosiveGrenades.label>制造 高爆手榴弹</MakeHighExplosiveGrenades.label>
+  <!-- EN: Old-school high explosive grenades. -->
+  <MakeHighExplosiveGrenades.description>制造 高爆手榴弹，</MakeHighExplosiveGrenades.description>
+  <!-- EN: Making high explosive grenades. -->
+  <MakeHighExplosiveGrenades.jobString>正在制造 高爆手榴弹。</MakeHighExplosiveGrenades.jobString>
   
   <!-- EN: Build Incendiary Grenade -->
   <MakeIncendiaryGrenade.label>制造 燃烧手榴弹</MakeIncendiaryGrenade.label>

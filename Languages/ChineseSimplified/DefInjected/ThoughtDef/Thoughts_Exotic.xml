@@ -1,25 +1,37 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: psychic soothe (medium) -->
-  <PsychicDroneCultist.stages.psychic_soothe_medium.label>心灵抚慰（中）</PsychicDroneCultist.stages.psychic_soothe_medium.label>
+  <!-- EN: psychic soothe -->
+  <PsychicDroneCultist.stages.psychic_soothe.label>TODO</PsychicDroneCultist.stages.psychic_soothe.label>
   <!-- EN: It's like a calming voice at the back of my mind, soothing me, settling my nerves. -->
-  <PsychicDroneCultist.stages.psychic_soothe_medium.description>一种使人平静的声音在我脑内回荡，抚慰着我，让我感到十分放松。</PsychicDroneCultist.stages.psychic_soothe_medium.description>
-  <!-- EN: psychic drone (low) -->
-  <PsychicDroneCultist.stages.psychic_drone_low.label>心灵低语（低）</PsychicDroneCultist.stages.psychic_drone_low.label>
+  <PsychicDroneCultist.stages.psychic_soothe.description>TODO</PsychicDroneCultist.stages.psychic_soothe.description>
+  <!-- EN: low psychic drone -->
+  <PsychicDroneCultist.stages.low_psychic_drone.label>TODO</PsychicDroneCultist.stages.low_psychic_drone.label>
   <!-- EN: It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I recognize the song calling to me. -->
-  <PsychicDroneCultist.stages.psychic_drone_low.description>似乎有什么东西在侵扰我的思想，一个声音，在我耳边，我只能听清几个字，这很讨厌。</PsychicDroneCultist.stages.psychic_drone_low.description>
-  <!-- EN: psychic drone (medium) -->
-  <PsychicDroneCultist.stages.psychic_drone_medium.label>心灵低语（中）</PsychicDroneCultist.stages.psychic_drone_medium.label>
+  <PsychicDroneCultist.stages.low_psychic_drone.description>TODO</PsychicDroneCultist.stages.low_psychic_drone.description>
+  <!-- EN: moderate psychic drone -->
+  <PsychicDroneCultist.stages.moderate_psychic_drone.label>TODO</PsychicDroneCultist.stages.moderate_psychic_drone.label>
   <!-- EN: I feel like the voice could be coming from just around the corner. -->
-  <PsychicDroneCultist.stages.psychic_drone_medium.description>我感觉总是有看不见的人在跟我说话，声音一直在变但是内容不变，说我应该去伤害他人，快让它消失吧！</PsychicDroneCultist.stages.psychic_drone_medium.description>
-  <!-- EN: psychic drone (high) -->
-  <PsychicDroneCultist.stages.psychic_drone_high.label>心灵低语（高）</PsychicDroneCultist.stages.psychic_drone_high.label>
+  <PsychicDroneCultist.stages.moderate_psychic_drone.description>TODO</PsychicDroneCultist.stages.moderate_psychic_drone.description>
+  <!-- EN: high psychic drone -->
+  <PsychicDroneCultist.stages.high_psychic_drone.label>TODO</PsychicDroneCultist.stages.high_psychic_drone.label>
   <!-- EN: The voice is serene and comforting -->
-  <PsychicDroneCultist.stages.psychic_drone_high.description>说话的声音太响了，难以承受，精神也无法集中，我试图跟它说话，对着它吼叫，但是都毫无效果！</PsychicDroneCultist.stages.psychic_drone_high.description>
-  <!-- EN: psychic drone (extreme) -->
-  <PsychicDroneCultist.stages.psychic_drone_extreme.label>心灵低语（极高）</PsychicDroneCultist.stages.psychic_drone_extreme.label>
+  <PsychicDroneCultist.stages.high_psychic_drone.description>TODO</PsychicDroneCultist.stages.high_psychic_drone.description>
+  <!-- EN: extreme psychic drone -->
+  <PsychicDroneCultist.stages.extreme_psychic_drone.label>TODO</PsychicDroneCultist.stages.extreme_psychic_drone.label>
   <!-- EN: My heart pounds and I'm sweating. The call has found me. -->
+  <PsychicDroneCultist.stages.extreme_psychic_drone.description>TODO</PsychicDroneCultist.stages.extreme_psychic_drone.description>
+  
+  <!-- UNUSED -->
+  <PsychicDroneCultist.stages.psychic_soothe_medium.label>心灵抚慰（中）</PsychicDroneCultist.stages.psychic_soothe_medium.label>
+  <PsychicDroneCultist.stages.psychic_soothe_medium.description>一种使人平静的声音在我脑内回荡，抚慰着我，让我感到十分放松。</PsychicDroneCultist.stages.psychic_soothe_medium.description>
+  <PsychicDroneCultist.stages.psychic_drone_low.label>心灵低语（低）</PsychicDroneCultist.stages.psychic_drone_low.label>
+  <PsychicDroneCultist.stages.psychic_drone_low.description>似乎有什么东西在侵扰我的思想，一个声音，在我耳边，我只能听清几个字，这很讨厌。</PsychicDroneCultist.stages.psychic_drone_low.description>
+  <PsychicDroneCultist.stages.psychic_drone_medium.label>心灵低语（中）</PsychicDroneCultist.stages.psychic_drone_medium.label>
+  <PsychicDroneCultist.stages.psychic_drone_medium.description>我感觉总是有看不见的人在跟我说话，声音一直在变但是内容不变，说我应该去伤害他人，快让它消失吧！</PsychicDroneCultist.stages.psychic_drone_medium.description>
+  <PsychicDroneCultist.stages.psychic_drone_high.label>心灵低语（高）</PsychicDroneCultist.stages.psychic_drone_high.label>
+  <PsychicDroneCultist.stages.psychic_drone_high.description>说话的声音太响了，难以承受，精神也无法集中，我试图跟它说话，对着它吼叫，但是都毫无效果！</PsychicDroneCultist.stages.psychic_drone_high.description>
+  <PsychicDroneCultist.stages.psychic_drone_extreme.label>心灵低语（极高）</PsychicDroneCultist.stages.psychic_drone_extreme.label>
   <PsychicDroneCultist.stages.psychic_drone_extreme.description>我的心脏在疯狂跳动，我浑身上下都是汗，我现在只想杀掉我周围的这些敌人，他们是我的噩梦……噩梦……噩梦……</PsychicDroneCultist.stages.psychic_drone_extreme.description>
   
 </LanguageData>

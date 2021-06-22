@@ -3,18 +3,10 @@
   
   <!-- EN: Charged laser charge pack -->
   <Ammo_ChargedLaser.label>电荷光束弹</Ammo_ChargedLaser.label>
-  <!-- EN: 
-\n\n光束弹（非稳态）:
-\n非稳态光束弹（能够点燃物体）。
-\n\n使用于： -->
   <Ammo_ChargedLaser.description>\n\n光束弹（非稳态）:\n非稳态光束弹（能够点燃物体）。\n\n使用于：</Ammo_ChargedLaser.description>
   
   <!-- EN: Charged laser charge pack (stable) -->
   <Ammo_ChargedLaser_Stable.label>电荷光束弹（稳态）</Ammo_ChargedLaser_Stable.label>
-  <!-- EN: 
-\n\n光束弹（稳态）:
-\n稳态光束弹（不会点燃物体）。
-\n\n使用于： -->
   <Ammo_ChargedLaser_Stable.description>\n\n光束弹（稳态）:\n稳态光束弹（不会点燃物体）。\n\n使用于：</Ammo_ChargedLaser_Stable.description>
   
   <!-- EN: Laser beam -->

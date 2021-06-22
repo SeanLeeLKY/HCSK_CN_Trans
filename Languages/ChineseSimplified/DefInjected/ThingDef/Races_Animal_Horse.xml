@@ -5,6 +5,7 @@
   <Horse.label>马</Horse.label>
   <!-- EN: A large, peaceful herbivore widely known for its great speed and strength. Horses and humans have a history stretching back for millenia, so it is no surprise to see one. Unfortunately, all your colonists are absolutely inept at riding, otherwise it could make a fitting steed. -->
   <Horse.description>一种安静的大型食草动物，以其速度和力量而闻名。马和人类的历史可以追溯到几千年前，被古人驯服并用于交通了。</Horse.description>
+  <Horse.race.meatLabel>马肉</Horse.race.meatLabel>
   <!-- EN: left hoof -->
   <Horse.tools.left_hoof.label>左蹄</Horse.tools.left_hoof.label>
   <!-- EN: right hoof -->

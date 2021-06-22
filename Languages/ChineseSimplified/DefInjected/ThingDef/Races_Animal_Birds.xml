@@ -5,10 +5,14 @@
   <Cassowary.label>鹤鸵</Cassowary.label>
   <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
   <Cassowary.description>一种不会飞的大型鸟类，又被称为食火鸡，拥有鲜艳的羽毛。虽然看起来很漂亮，但它踢起人来相当凶残。</Cassowary.description>
+  <Cassowary.race.meatLabel>鸟肉</Cassowary.race.meatLabel>
   <!-- EN: claws -->
   <Cassowary.tools.claws.label>爪</Cassowary.tools.claws.label>
   <!-- EN: head -->
   <Cassowary.tools.head.label>头</Cassowary.tools.head.label>
+  
+  <!-- UNUSED -->
+  <Cassowary.tools.beak.label>喙</Cassowary.tools.beak.label>
   
   <!-- EN: emu -->
   <Emu.label>鸸鹋</Emu.label>
@@ -19,6 +23,9 @@
   <!-- EN: head -->
   <Emu.tools.head.label>头</Emu.tools.head.label>
   
+  <!-- UNUSED -->
+  <Emu.tools.beak.label>喙</Emu.tools.beak.label>
+  
   <!-- EN: ostrich -->
   <Ostrich.label>鸵鸟</Ostrich.label>
   <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. -->
@@ -28,6 +35,9 @@
   <!-- EN: head -->
   <Ostrich.tools.head.label>头</Ostrich.tools.head.label>
   
+  <!-- UNUSED -->
+  <Ostrich.tools.beak.label>喙</Ostrich.tools.beak.label>
+  
   <!-- EN: turkey -->
   <Turkey.label>火鸡</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
@@ -36,5 +46,8 @@
   <Turkey.tools.claws.label>爪</Turkey.tools.claws.label>
   <!-- EN: head -->
   <Turkey.tools.head.label>头</Turkey.tools.head.label>
+  
+  <!-- UNUSED -->
+  <Turkey.tools.beak.label>喙</Turkey.tools.beak.label>
   
 </LanguageData>

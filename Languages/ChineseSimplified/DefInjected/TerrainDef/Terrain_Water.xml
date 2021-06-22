@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- UNUSED -->
+  <Marsh.tools.water.label>水</Marsh.tools.water.label>
+  
   <!-- EN: deep water -->
   <WaterDeep.label>深水</WaterDeep.label>
   <!-- EN: water -->

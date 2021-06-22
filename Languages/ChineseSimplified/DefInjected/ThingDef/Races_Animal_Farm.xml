@@ -27,6 +27,10 @@
   <!-- EN: head -->
   <Bison.tools.head.label>头</Bison.tools.head.label>
   
+  <!-- UNUSED -->
+  <Bison.tools.left_hoof-0.label>左蹄</Bison.tools.left_hoof-0.label>
+  <Bison.tools.right_hoof-0.label>右蹄</Bison.tools.right_hoof-0.label>
+  
   <!-- EN: chicken -->
   <Chicken.label>鸡</Chicken.label>
   <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
@@ -42,10 +46,15 @@
   <Cow.label>牛</Cow.label>
   <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
   <Cow.description>奶牛是一种大型的驯养有蹄类动物，几千年来人们一直在饲养奶牛，以生产大量的奶、肉和皮革。他们是非常温和的生物，无论他们受到多少次伤害都不会寻求报复。它们中的大多数非常适应农场生活，无法在野外生存。</Cow.description>
+  <Cow.race.meatLabel>牛肉</Cow.race.meatLabel>
   <!-- EN: head -->
   <Cow.tools.head.label>头</Cow.tools.head.label>
   <!-- EN: horns -->
   <Cow.tools.horns.label>角</Cow.tools.horns.label>
+  
+  <!-- UNUSED -->
+  <Cow.tools.left_hoof.label>左蹄</Cow.tools.left_hoof.label>
+  <Cow.tools.right_hoof.label>右蹄</Cow.tools.right_hoof.label>
   
   <!-- EN: donkey -->
   <Donkey.label>驴</Donkey.label>
@@ -102,13 +111,19 @@
   <Pig.label>猪</Pig.label>
   <!-- EN: The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks. -->
   <Pig.description>猪是最早被人类驯化的动物之一。通常饲养它是为了吃肉，而且由于它的杂食性饮食，很容易喂养。虽然猪看起来笨笨的，但它们可以被训练完成复杂的任务。</Pig.description>
+  <Pig.race.meatLabel>猪肉</Pig.race.meatLabel>
   <!-- EN: head -->
   <Pig.tools.head.label>头</Pig.tools.head.label>
+  
+  <!-- UNUSED -->
+  <Sheep.tools.left_hoof.label>左蹄</Sheep.tools.left_hoof.label>
+  <Sheep.tools.right_hoof.label>右蹄</Sheep.tools.right_hoof.label>
   
   <!-- EN: yak -->
   <Yak.label>牦牛</Yak.label>
   <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
   <Yak.description>牦牛体格健壮，短而粗且四蹄张开的腿能帮助它们在雪地里行走。</Yak.description>
+  <Yak.race.meatLabel>牦牛肉</Yak.race.meatLabel>
   <!-- EN: left hoof -->
   <Yak.tools.left_hoof-0.label>左蹄</Yak.tools.left_hoof-0.label>
   <!-- EN: left hoof -->
@@ -119,5 +134,9 @@
   <Yak.tools.right_hoof-1.label>右蹄</Yak.tools.right_hoof-1.label>
   <!-- EN: head -->
   <Yak.tools.head.label>头</Yak.tools.head.label>
+  
+  <!-- UNUSED -->
+  <Yak.tools.left_hoof-0.label>左蹄</Yak.tools.left_hoof-0.label>
+  <Yak.tools.right_hoof-0.label>右蹄</Yak.tools.right_hoof-0.label>
   
 </LanguageData>

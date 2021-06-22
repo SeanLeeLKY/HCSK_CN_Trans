@@ -15,6 +15,7 @@
   <ColdSnap.label>寒流</ColdSnap.label>
   <!-- EN: Cold snap -->
   <ColdSnap.letterLabel>寒流</ColdSnap.letterLabel>
+  <ColdSnap.letterText>一场罕见的寒流开始了。\n\n寒流中，低温症是致命的。确保室内的热量才能生存下去，穿上合适的衣物，并且设法在作物冻死之前进行收获。</ColdSnap.letterText>
   
   <!-- EN: crop blight -->
   <CropBlight.label>枯萎病</CropBlight.label>
@@ -26,11 +27,13 @@
   <Flashstorm.label>闪电风暴</Flashstorm.label>
   <!-- EN: Flashstorm -->
   <Flashstorm.letterLabel>闪电风暴</Flashstorm.letterLabel>
+  <Flashstorm.letterText>极少量的闪电击中一个小区域。这会引起巨大的火灾。</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
   <HeatWave.label>热浪</HeatWave.label>
   <!-- EN: Heat wave -->
   <HeatWave.letterLabel>热浪</HeatWave.letterLabel>
+  <HeatWave.letterText>一场罕见的热浪开始了。\n\n在热浪中如果中暑，极易死亡。建造冷却器来降温或呆在清凉的山洞深处。</HeatWave.letterText>
   
   <!-- EN: herd migration -->
   <HerdMigration.label>兽群迁徙</HerdMigration.label>
@@ -79,11 +82,13 @@
   <ToxicFallout.label>有毒尘埃</ToxicFallout.label>
   <!-- EN: Toxic fallout -->
   <ToxicFallout.letterLabel>有毒尘埃</ToxicFallout.letterLabel>
+  <ToxicFallout.letterText>遥远地方的一起化学品火灾释放的有毒尘埃弥漫了整个地区。\n\n不在屋顶下的人类和动物都会慢慢被有空气中的有毒粉尘致病。\n\n毒雾会持续在几天或超过一个月。</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>火山冬天</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
   <VolcanicWinter.letterLabel>火山冬天</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterText>一个遥远的超级火山爆发了，喷出的火山灰散布在数百万平方公里的大气中。\n\n火山灰在大气中遮蔽了太阳。气温下降、植物会缺乏阳光而枯萎。火山灰有可能在几周内散去，或者持续几个月。</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>流浪者加入</WandererJoin.label>

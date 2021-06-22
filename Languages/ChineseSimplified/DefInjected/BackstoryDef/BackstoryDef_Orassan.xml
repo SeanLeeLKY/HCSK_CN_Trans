@@ -37,7 +37,7 @@
   <Orassan_ColonyChild.titleShort>开拓者</Orassan_ColonyChild.titleShort>
   
   <!-- EN: [PAWN_nameDef]非常享受[PAWN_possessive]的工作，在太空和地面上修建大型结构体。 尽管[PAWN_pronoun]从未参与建筑物的设计规划，但[PAWN_pronoun]仍然为[PAWN_possessive]工作感到自豪。 -->
-  <Orassan_Constructor.backstory.baseDesc>[PAWN_nameDef]非常享受[PAWN_possessive]的工作，在太空和地面上修建大型结构体。 尽管[PAWN_pronoun]从未参与建筑物的设计规划，但[PAWN_pronoun]仍然为[PAWN_possessive]工作感到自豪。</Orassan_Constructor.backstory.baseDesc>
+  <Orassan_Constructor.backstory.baseDesc>TODO</Orassan_Constructor.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] enjoyed [PAWN_possessive] work, building large structures both in space, and on solid ground. While [PAWN_pronoun] didn't plan the building themselves, [PAWN_pronoun] to pride in [PAWN_possessive] work. -->
   <Orassan_Constructor.baseDescription>[PAWN_nameDef]非常享受[PAWN_possessive]的工作，在太空和地面上修建大型结构体。 尽管[PAWN_pronoun]从未参与建筑物的设计规划，但[PAWN_pronoun]仍然为[PAWN_possessive]工作感到自豪。</Orassan_Constructor.baseDescription>
   <!-- EN: Construction worker -->
@@ -95,7 +95,7 @@
   <Orassan_Explorer.titleShort>探查员</Orassan_Explorer.titleShort>
   
   <!-- EN: [PAWN_nameDef]在经常会发生轻微事故的场所工作，工作是提供急救护理，并为轻伤人员提供急救服务。 尽管[PAWN_pronoun]几乎不必处理重大事故，但[PAWN_possessive]的工作经历却向[PAWN_objective]传授了很多有关医疗救护的知识。 -->
-  <Orassan_FR.backstory.baseDesc>[PAWN_nameDef]在经常会发生轻微事故的场所工作，工作是提供急救护理，并为轻伤人员提供急救服务。 尽管[PAWN_pronoun]几乎不必处理重大事故，但[PAWN_possessive]的工作经历却向[PAWN_objective]传授了很多有关医疗救护的知识。</Orassan_FR.backstory.baseDesc>
+  <Orassan_FR.backstory.baseDesc>TODO</Orassan_FR.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] frequently tended to minor workplace accidents, providing first-responce care, and first-aid to small injuries. While [PAWN_pronoun] scarcely had to deal with major accidents, [PAWN_possessive] work taught [PAWN_objective] much about patching wounds. -->
   <Orassan_FR.baseDescription>[PAWN_nameDef]在经常会发生轻微事故的场所工作，工作是提供急救护理，并为轻伤人员提供急救服务。 尽管[PAWN_pronoun]几乎不必处理重大事故，但[PAWN_possessive]的工作经历却向[PAWN_objective]传授了很多有关医疗救护的知识。</Orassan_FR.baseDescription>
   <!-- EN: First responder -->
@@ -167,7 +167,7 @@
   <Orassan_MilitaryC.titleShort>军国主义者</Orassan_MilitaryC.titleShort>
   
   <!-- EN: 资源对于扩张至关重要，[PAWN_nameDef]是负责收集资源的众多工作人员之一。 [PAWN_pronoun]会前往产地，添置设备，并尽一切必要的努力充分利用这些东西。 -->
-  <Orassan_Miner.backstory.baseDesc>资源对于扩张至关重要，[PAWN_nameDef]是负责收集资源的众多工作人员之一。 [PAWN_pronoun]会前往产地，添置设备，并尽一切必要的努力充分利用这些东西。</Orassan_Miner.backstory.baseDesc>
+  <Orassan_Miner.backstory.baseDesc>TODO</Orassan_Miner.backstory.baseDesc>
   <!-- EN: Resources are critical for expansion, and [PAWN_nameDef] was one of many in charge of gathering them. [PAWN_pronoun] would go to deposits, set up equiptment, and do what was nessessary to get the most out of them. -->
   <Orassan_Miner.baseDescription>资源对于扩张至关重要，[PAWN_nameDef]是负责收集资源的众多工作人员之一。 [PAWN_pronoun]会前往产地，添置设备，并尽一切必要的努力充分利用这些东西。</Orassan_Miner.baseDescription>
   <!-- EN: Resource-procurement specialist -->
@@ -211,7 +211,7 @@
   <Orassan_Officer.titleShort>军官</Orassan_Officer.titleShort>
   
   <!-- EN: 表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式表达自己。 [PAWN_pronoun]以散布恐怖的方式来聚集物质财富。 -->
-  <Orassan_Pirate.backstory.baseDesc>表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式表达自己。 [PAWN_pronoun]以散布恐怖的方式来聚集物质财富。</Orassan_Pirate.backstory.baseDesc>
+  <Orassan_Pirate.backstory.baseDesc>TODO</Orassan_Pirate.backstory.baseDesc>
   <!-- EN: There are many ways to express oneself, but [PAWN_nameDef] did so in a dangerous and illegal way. [PAWN_pronoun] spread terror in pursuit of material wealth. -->
   <Orassan_Pirate.baseDescription>表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式表达自己。 [PAWN_pronoun]以散布恐怖的方式来聚集物质财富。</Orassan_Pirate.baseDescription>
   <!-- EN: Pirate -->
@@ -311,7 +311,7 @@
   <Orassan_Stylist.titleShort>造型师</Orassan_Stylist.titleShort>
   
   <!-- EN: 表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式解释自己。 [PAWN_pronoun]在[PAWN_nameDef]的理念中坚定了恐怖主义道路。 -->
-  <Orassan_Terrorist.backstory.baseDesc>表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式解释自己。 [PAWN_pronoun]在[PAWN_nameDef]的理念中坚定了恐怖主义道路。</Orassan_Terrorist.backstory.baseDesc>
+  <Orassan_Terrorist.backstory.baseDesc>TODO</Orassan_Terrorist.backstory.baseDesc>
   <!-- EN: There are many ways to express oneself, but [PAWN_nameDef] did so in a dangerous and illegal way. [PAWN_pronoun] spread terror in the [PAWN_nameDef] of their ideaology. -->
   <Orassan_Terrorist.baseDescription>表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式解释自己。 [PAWN_pronoun]在[PAWN_nameDef]的理念中坚定了恐怖主义道路。</Orassan_Terrorist.baseDescription>
   <!-- EN: Terrorist -->
