@@ -23,11 +23,11 @@
   <BuildFragGrenades.jobString>正在制造 破片手榴弹。</BuildFragGrenades.jobString>
   
   <!-- EN: Build Fusion Grenades -->
-  <BuildFusionGrenades.label>制造 融熔手榴弹</BuildFusionGrenades.label>
+  <BuildFusionGrenades.label>制造 温压手榴弹</BuildFusionGrenades.label>
   <!-- EN: An improvement over the simple frag grenade, contains a more potent explosive. Produces 1. -->
   <BuildFusionGrenades.description>普通破片手榴弹的升级版本，里面包含了更多更强的爆炸物质。 \n\n产出：1。</BuildFusionGrenades.description>
   <!-- EN: Building Fusion Grenades. -->
-  <BuildFusionGrenades.jobString>正在制造 融熔手榴弹。</BuildFusionGrenades.jobString>
+  <BuildFusionGrenades.jobString>正在制造 温压手榴弹。</BuildFusionGrenades.jobString>
   
   <!-- EN: Build Plasma Grenades -->
   <BuildPlasmaGrenades.label>制造 等离子手榴弹</BuildPlasmaGrenades.label>

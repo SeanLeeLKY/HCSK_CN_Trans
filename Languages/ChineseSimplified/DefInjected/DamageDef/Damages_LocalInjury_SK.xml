@@ -67,9 +67,9 @@
   <Plasma.deathMessage>{0} 被熔化了。</Plasma.deathMessage>
   
   <!-- EN: Plasma -->
-  <PlasmaFlame.label>TODO</PlasmaFlame.label>
+  <PlasmaFlame.label>等离子</PlasmaFlame.label>
   <!-- EN: {0} has been melted. -->
-  <PlasmaFlame.deathMessage>TODO</PlasmaFlame.deathMessage>
+  <PlasmaFlame.deathMessage>{0} 被熔化了。</PlasmaFlame.deathMessage>
   
   <!-- EN: poison -->
   <Poison.label>毒性</Poison.label>
