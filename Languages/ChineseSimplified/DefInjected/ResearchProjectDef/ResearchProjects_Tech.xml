@@ -85,6 +85,8 @@
   <Fabrication.label>生产 I</Fabrication.label>
   <!-- EN: Learn how to refine and make some useful stuff. Allows your colonists to understand the various uses of weed and tobacco, such as rolling special cigarettes, making hemp and various medicinal uses.\n				\n\nAlso unlocks the candy making table to make sweet treats and Ammo Bench to create some ammo for your guns and turrets. -->
   <Fabrication.description>学习如何提炼和制作一些有用的东西。让你的殖民者了解大麻和烟叶的各种用途，例如制作特殊的卷烟、利用麻纤维和各种医药用途。\n\n同时还解锁糖果工作台来制作一些甜食和弹药工作台来为您的枪和炮塔制造备用弹药。</Fabrication.description>
+  <Fabrication.discoveredLetterText>现在你可以建造精密装配台了，但是还缺乏一些高级零部件，你可以通过以下几种方式得到：\n\n-所有外来者定居点都有高级零部件出售。可以派出远行队去买一些。\n- 来访的贸易商队有时候也会携带高级零部件。邀请或等待他们造访。\n-一些任务会给予高级零部件作为奖励。</Fabrication.discoveredLetterText>
+  <Fabrication.discoveredLetterTitle>关于：获取高级零部件</Fabrication.discoveredLetterTitle>
   
   <!-- EN: Tailoring II -->
   <FlakArmor.label>裁纺技术 II</FlakArmor.label>
@@ -215,6 +217,8 @@
   <ShipBasics.label>航天学</ShipBasics.label>
   <!-- EN: Allows you to start researching more advanced shipbuilding technologies and eventually build a ship to escape the planet. -->
   <ShipBasics.description>解锁研究更多高级的飞船建造技术，最终能够建造出载人逃离这个星球的飞船。</ShipBasics.description>
+  <ShipBasics.discoveredLetterText>逃离这个星球——最终将获得自由，也许终点会是家园。\n\n但这样做也非常危险。\n\n许多绝望的灵魂想要离开这个星球。飞船反应堆需要15天的时间充电。一旦启动，反应堆发出的巨大能量信息会传到千里之外。就像嗅到美味的蟑螂一样，袭击者会从四面八方蜂拥而至，用你从未见过的强度发起攻击。远古机械也一样。\n\n想逃出生天，你需要储备资源、武器和防御力量。</ShipBasics.discoveredLetterText>
+  <ShipBasics.discoveredLetterTitle>关于：发射飞船</ShipBasics.discoveredLetterTitle>
   
   <!-- EN: Spaceship computer core -->
   <ShipComputerCore.label>飞船电脑核心</ShipComputerCore.label>

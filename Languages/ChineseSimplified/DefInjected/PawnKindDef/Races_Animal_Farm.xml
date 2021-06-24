@@ -249,6 +249,9 @@
   <GuineaPig.lifeStages.2.labelMalePlural>公豚鼠</GuineaPig.lifeStages.2.labelMalePlural>
   <GuineaPig.lifeStages.2.labelPlural>豚鼠</GuineaPig.lifeStages.2.labelPlural>
   
+  <!-- UNUSED -->
+  <Horse.lifeStages.foal.label>马驹</Horse.lifeStages.foal.label>
+  
   <!-- EN: pig -->
   <Pig.label>猪</Pig.label>
   <!-- EN: sow -->

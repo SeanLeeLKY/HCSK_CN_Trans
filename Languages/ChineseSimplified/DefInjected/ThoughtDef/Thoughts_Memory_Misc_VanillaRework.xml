@@ -6,9 +6,13 @@
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
   <AteWithoutTable.stages.ate_without_table.description>我不得不在地上吃饭。我们不能弄张桌子吗？</AteWithoutTable.stages.ate_without_table.description>
   
-  <!-- EN: I butchered humanlike -->
-  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>屠宰了人类</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <!-- EN: i butchered humanlike -->
+  <ButcheredHumanlikeCorpse.stages.i_butchered_humanlike.label>屠宰了人类</ButcheredHumanlikeCorpse.stages.i_butchered_humanlike.label>
   <!-- EN: I butchered someone up like an animal. -->
+  <ButcheredHumanlikeCorpse.stages.i_butchered_humanlike.description>我把人像动物一样屠宰了！</ButcheredHumanlikeCorpse.stages.i_butchered_humanlike.description>
+  
+  <!-- UNUSED -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>屠宰了人类</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>我把人像动物一样屠宰了！</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
   <!-- EN: catharsis -->
@@ -31,9 +35,13 @@
   <!-- EN: I killed someone! What a rush! -->
   <KilledHumanlikeBloodlust.stages.killed_someone.description>我亲手杀了一个人！爽爆了！</KilledHumanlikeBloodlust.stages.killed_someone.description>
   
-  <!-- EN: We butchered humanlike -->
-  <KnowButcheredHumanlikeCorpse.stages.We_butchered_humanlike.label>有人被屠宰了</KnowButcheredHumanlikeCorpse.stages.We_butchered_humanlike.label>
+  <!-- EN: we butchered humanlike -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>有人被屠宰了</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
   <!-- EN: We butchered someone up like an animal. -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>我们把人像动物一样屠宰了。</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  
+  <!-- UNUSED -->
+  <KnowButcheredHumanlikeCorpse.stages.We_butchered_humanlike.label>有人被屠宰了</KnowButcheredHumanlikeCorpse.stages.We_butchered_humanlike.label>
   <KnowButcheredHumanlikeCorpse.stages.We_butchered_humanlike.description>我们把人像动物一样屠宰了。</KnowButcheredHumanlikeCorpse.stages.We_butchered_humanlike.description>
   
   <!-- EN: someone's organ harvested -->

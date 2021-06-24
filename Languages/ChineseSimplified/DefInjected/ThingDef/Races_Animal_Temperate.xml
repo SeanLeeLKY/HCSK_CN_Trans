@@ -18,6 +18,7 @@
   <Deer.label>鹿</Deer.label>
   <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
   <Deer.description>一种中型的素食动物。一般在不被打扰时性情温顺。</Deer.description>
+  <Deer.race.meatLabel>鹿肉</Deer.race.meatLabel>
   <!-- EN: left hoof -->
   <Deer.tools.left_hoof.label>左蹄</Deer.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -26,6 +27,9 @@
   <Deer.tools.head.label>头</Deer.tools.head.label>
   <!-- EN: antlers -->
   <Deer.tools.antlers.label>角</Deer.tools.antlers.label>
+  
+  <!-- UNUSED -->
+  <Deer.tools.teeth.label>牙齿</Deer.tools.teeth.label>
   
   <!-- EN: elk -->
   <Elk.label>驼鹿</Elk.label>
@@ -60,6 +64,9 @@
   <!-- EN: head -->
   <Tortoise.tools.head.label>头</Tortoise.tools.head.label>
   
+  <!-- UNUSED -->
+  <Tortoise.tools.beak.label>喙</Tortoise.tools.beak.label>
+  
   <!-- EN: wild boar -->
   <WildBoar.label>野猪</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
@@ -70,5 +77,8 @@
   <WildBoar.tools.tusk-1.label>獠牙</WildBoar.tools.tusk-1.label>
   <!-- EN: head -->
   <WildBoar.tools.head.label>头</WildBoar.tools.head.label>
+  
+  <!-- UNUSED -->
+  <WildBoar.tools.tusk-0.label>獠牙</WildBoar.tools.tusk-0.label>
   
 </LanguageData>

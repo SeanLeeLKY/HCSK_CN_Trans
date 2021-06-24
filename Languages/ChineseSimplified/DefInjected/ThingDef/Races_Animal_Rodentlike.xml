@@ -76,6 +76,10 @@
   <!-- EN: head -->
   <Rat.tools.head.label>头</Rat.tools.head.label>
   
+  <!-- UNUSED -->
+  <Rat.tools.left_claw.label>左爪</Rat.tools.left_claw.label>
+  <Rat.tools.right_claw.label>右爪</Rat.tools.right_claw.label>
+  
   <!-- EN: squirrel -->
   <Squirrel.label>松鼠</Squirrel.label>
   <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->

@@ -24,8 +24,11 @@
   <!-- EN: frag grenade -->
   <Proj_GrenadeFrag.label>破片手榴弹</Proj_GrenadeFrag.label>
   
-  <!-- EN: Fusion Grenade -->
-  <Proj_GrenadeFusion.label>融熔手榴弹</Proj_GrenadeFusion.label>
+  <!-- EN: Thermobaric Grenade -->
+  <Proj_GrenadeFusion.label>温压手榴弹</Proj_GrenadeFusion.label>
+  
+  <!-- EN: high explosive grenade -->
+  <Proj_GrenadeHighExplosive.label>高爆手榴弹</Proj_GrenadeHighExplosive.label>
   
   <!-- EN: molotov cocktail -->
   <Proj_GrenadeMolotov.label>莫洛托夫燃烧瓶</Proj_GrenadeMolotov.label>
@@ -82,13 +85,18 @@
   <!-- UNUSED -->
   <Weapon_GrenadeFrag.verbs.0.label>投掷破片手榴弹</Weapon_GrenadeFrag.verbs.0.label>
   
-  <!-- EN: Fusion Grenades -->
-  <Weapon_GrenadeFusion.label>融熔手榴弹</Weapon_GrenadeFusion.label>
-  <!-- EN: An improvement over the simple frag grenade, it contains a more potent explosive. -->
+  <!-- EN: Thermobaric Grenades -->
+  <Weapon_GrenadeFusion.label>温压手榴弹</Weapon_GrenadeFusion.label>
+  <!-- EN: An improvement version of simple high explosive grenade, it contains a more potent explosive. -->
   <Weapon_GrenadeFusion.description>破片手榴弹的一种先进升级版，内装药更加具有威力。</Weapon_GrenadeFusion.description>
   
   <!-- UNUSED -->
-  <Weapon_GrenadeFusion.verbs.0.label>投掷融熔手榴弹</Weapon_GrenadeFusion.verbs.0.label>
+  <Weapon_GrenadeFusion.verbs.0.label>投掷温压手榴弹</Weapon_GrenadeFusion.verbs.0.label>
+  
+  <!-- EN: high explosive grenade -->
+  <Weapon_GrenadeHighExplosive.label>高爆手榴弹</Weapon_GrenadeHighExplosive.label>
+  <!-- EN: Simple high explosive grenades. -->
+  <Weapon_GrenadeHighExplosive.description>简易的高爆手榴弹。</Weapon_GrenadeHighExplosive.description>
   
   <!-- EN: molotov cocktail -->
   <Weapon_GrenadeMolotov.label>莫洛托夫燃烧瓶</Weapon_GrenadeMolotov.label>
@@ -118,9 +126,6 @@
   <Weapon_GrenadeStickBomb.label>木柄炸弹</Weapon_GrenadeStickBomb.label>
   <!-- EN: Primitive fuse-lit explosive. A favorite of tribals who use these to fight technologically advanced enemies with heavy armor. -->
   <Weapon_GrenadeStickBomb.description>一种原始的火药爆炸武器。部落时代的人们用这种东西加重型盔甲来对付高科技的强大敌人。</Weapon_GrenadeStickBomb.description>
-
-  <Weapon_GrenadeHighExplosive.label>高爆手榴弹</Weapon_GrenadeHighExplosive.label>
-  <Weapon_GrenadeHighExplosive.description>简易的高爆手榴弹。</Weapon_GrenadeHighExplosive.description>
   
   <!-- UNUSED -->
   <Weapon_GrenadeStickBomb.verbs.0.label>投掷木柄炸弹</Weapon_GrenadeStickBomb.verbs.0.label>

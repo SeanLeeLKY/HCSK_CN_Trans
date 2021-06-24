@@ -6,6 +6,18 @@
   <!-- EN: I killed someone! What a rush! -->
   <KilledHumanlikeReaver.stages.killed_someone.description>我亲手杀了一个人！爽爆了！</KilledHumanlikeReaver.stages.killed_someone.description>
   
+  <!-- UNUSED -->
+  <KnowPrisonerSold.stages.prisoner_sold.label>囚犯被贩卖</KnowPrisonerSold.stages.prisoner_sold.label>
+  <KnowPrisonerSold.stages.prisoner_sold.description>这个殖民地会把囚犯卖给奴隶贩子，这真令我担忧。</KnowPrisonerSold.stages.prisoner_sold.description>
+  
+  <!-- UNUSED -->
+  <NewColonyHope.stages.initial_hope.label>新殖民地的希望</NewColonyHope.stages.initial_hope.label>
+  <NewColonyHope.stages.initial_hope.description>我已经开始习惯这里，但依然还有很多令人兴奋的挑战，我希望未来一切顺利……</NewColonyHope.stages.initial_hope.description>
+  
+  <!-- UNUSED -->
+  <NewColonyOptimism.stages.initial_optimism.label>新殖民地的乐观</NewColonyOptimism.stages.initial_optimism.label>
+  <NewColonyOptimism.stages.initial_optimism.description>我们刚抵达这里，还有很多问题要克服，但我对能够建立一个新殖民地感到兴奋。</NewColonyOptimism.stages.initial_optimism.description>
+  
   <!-- EN: nuzzled -->
   <NuzzledAllergic.stages.nuzzled.label>被亲昵</NuzzledAllergic.stages.nuzzled.label>
   <!-- EN: A filthy animal nuzzled me. -->
@@ -15,6 +27,10 @@
   <NuzzledAnimalLover.stages.nuzzled.label>被亲昵</NuzzledAnimalLover.stages.nuzzled.label>
   <!-- EN: A very cute animal nuzzled me. -->
   <NuzzledAnimalLover.stages.nuzzled.description>一只可爱的小动物蹭了我一下。</NuzzledAnimalLover.stages.nuzzled.description>
+  
+  <!-- UNUSED -->
+  <Rescued.stages.rescued.label>获救</Rescued.stages.rescued.label>
+  <Rescued.stages.rescued.description>我被救了！我甚至一度已经放弃了希望。十分感激。</Rescued.stages.rescued.description>
   
   <!-- EN: witnessed death as Reaver -->
   <WitnessedDeathReaver.stages.witnessed_death_as_Reaver.label>目睹死亡</WitnessedDeathReaver.stages.witnessed_death_as_Reaver.label>

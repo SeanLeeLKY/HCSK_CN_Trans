@@ -1612,7 +1612,7 @@
   <!-- EN: 修理工作台（蓝图） -->
   <Blueprint_Install_TableMending.label>修理工作台（蓝图）</Blueprint_Install_TableMending.label>
   
-  <!-- EN: 烤箱（蓝图） -->
+  <!-- EN: 烤炉（蓝图） -->
   <Blueprint_Install_TableOven.label>烤箱（蓝图）</Blueprint_Install_TableOven.label>
   
   <!-- EN: 原始假肢工作台（蓝图） -->
@@ -2527,7 +2527,7 @@
   <!-- EN: 器官实验室（蓝图） -->
   <Blueprint_TableOrganvat.label>器官实验室（蓝图）</Blueprint_TableOrganvat.label>
   
-  <!-- EN: 烤箱（蓝图） -->
+  <!-- EN: 烤炉（蓝图） -->
   <Blueprint_TableOven.label>烤箱（蓝图）</Blueprint_TableOven.label>
   
   <!-- EN: 原始假肢工作台（蓝图） -->
@@ -5051,7 +5051,7 @@
   
   <!-- EN: 中型导弹系统（建造中） -->
   <Frame_MediumMissileSystem.label>中型导弹系统（建造中）</Frame_MediumMissileSystem.label>
-  <!-- EN: 一种每次发射三枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。 -->
+  <!-- EN: 一种每轮可以向目标区域发射三枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。 -->
   <Frame_MediumMissileSystem.description>一种每次发射三枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</Frame_MediumMissileSystem.description>
   
   <!-- EN: 巨屏电视（建造中） -->
@@ -5506,7 +5506,7 @@
   
   <!-- EN: 重型导弹系统（建造中） -->
   <Frame_RLGun.label>重型导弹系统（建造中）</Frame_RLGun.label>
-  <!-- EN: 一种每次发射六枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。 -->
+  <!-- EN: 一种每轮可以向目标区域发射六枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。 -->
   <Frame_RLGun.description>一种每次发射六枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</Frame_RLGun.description>
   
   <!-- EN: 自动化装配器（建造中） -->
@@ -6009,7 +6009,7 @@
   <!-- EN: 像一个巨大罐子的试验台，可以将生物尸体转化成为纯粹的生物质，并用这些生物质来“种植”出天然器官。需要电力才能正常运作。 -->
   <Frame_TableOrganvat.description>像一个巨大罐子的试验台，可以将生物尸体转化成为纯粹的生物质，并用这些生物质来“种植”出天然器官。需要电力才能正常运作。</Frame_TableOrganvat.description>
   
-  <!-- EN: 烤箱（建造中） -->
+  <!-- EN: 烤炉（建造中） -->
   <Frame_TableOven.label>烤箱（建造中）</Frame_TableOven.label>
   <!-- EN: 消耗各种燃料来烘焙面包和其他美食的烹饪工具。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。 -->
   <Frame_TableOven.description>消耗各种燃料来烘焙面包和其他美食的烹饪工具。可以使用柴火、煤炭、木炭和其他木质材料作为燃料。</Frame_TableOven.description>
@@ -6529,7 +6529,7 @@
   <!-- EN: 通过收集自水中的氙气并电离成等离子体来发电。必须放置于间隙泉之上。温度越高，工作效率越高，甚至可以超过100%。例如：温度处于250摄氏度时，涡轮机工作效率约为150%，发电量为5000W。 -->
   <Frame_XenonIonTurbine.description>通过收集自水中的氙气并电离成等离子体来发电。必须放置于间隙泉之上。温度越高，工作效率越高，甚至可以超过100%。例如：温度处于250摄氏度时，涡轮机工作效率约为150%，发电量为5000W。</Frame_XenonIonTurbine.description>
   
-  <!-- EN: Raw Meat -->
+  <!-- EN: 生肉 -->
   <Meat_Elephant.label>生肉</Meat_Elephant.label>
   <!-- EN: 新鲜屠宰的生肉，可进一步烹饪为菜肴或生吃。 -->
   <Meat_Elephant.description>生肉</Meat_Elephant.description>
@@ -6539,17 +6539,17 @@
   <!-- EN: 新鲜屠宰的生肉。可进一步烹饪为菜肴或生吃，尽管大部分人类不喜欢这个主意。 -->
   <Meat_Human.description>人肉</Meat_Human.description>
   
-  <!-- EN: insect meat -->
+  <!-- EN: 虫肉 -->
   <Meat_Megaspider.label>虫肉</Meat_Megaspider.label>
   <!-- EN: 新鲜屠宰的生肉。如果吃药的话，可进一步烹饪为菜肴，甚至生吃。极度难吃。 -->
   <Meat_Megaspider.description>虫肉</Meat_Megaspider.description>
   
-  <!-- EN: prime meat -->
+  <!-- EN: 精肉 -->
   <Meat_Muffalo.label>精肉</Meat_Muffalo.label>
   <!-- EN: 新鲜屠宰的生肉，可进一步烹饪为菜肴或生吃。 -->
   <Meat_Muffalo.description>精肉</Meat_Muffalo.description>
   
-  <!-- EN: Fish meat -->
+  <!-- EN: 鱼肉 -->
   <Meat_ThingDefFishSduiggles.label>鱼肉</Meat_ThingDefFishSduiggles.label>
   <!-- EN: 新鲜屠宰的生肉，可进一步烹饪为菜肴或生吃。 -->
   <Meat_ThingDefFishSduiggles.description>鱼肉</Meat_ThingDefFishSduiggles.description>
