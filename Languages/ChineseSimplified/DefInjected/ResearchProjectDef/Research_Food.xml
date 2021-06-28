@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Alcohol production II -->
+  <Alcohol_B2.label>酒精生产 II</Alcohol_B2.label>
+  <!-- EN: description -->
+  <Alcohol_B2.description>TODO</Alcohol_B2.description>
+  
+  <!-- EN: Baking I -->
+  <Bakery_B1.label>烘焙 I</Bakery_B1.label>
+  <!-- EN: description -->
+  <Bakery_B1.description>TODO</Bakery_B1.description>
+  
+  <!-- EN: Baking II -->
+  <Bakery_B2.label>烘焙 II</Bakery_B2.label>
+  <!-- EN: description -->
+  <Bakery_B2.description>TODO</Bakery_B2.description>
+  
+  <!-- EN: Baking III -->
+  <Bakery_C1.label>烘焙 III</Bakery_C1.label>
+  <!-- EN: description -->
+  <Bakery_C1.description>TODO</Bakery_C1.description>
+  
+  <!-- EN: Alcohol production I -->
+  <Brewing.label>酒精生产 I</Brewing.label>
+  <!-- EN: description -->
+  <Brewing.description>TODO<!-- 解锁各种酒精酿造工艺。 --></Brewing.description>
+  
+  <!-- EN: Basic knowledge of food II -->
+  <Food_0.label>食品基本知识 II</Food_0.label>
+  <!-- EN: description -->
+  <Food_0.description>TODO</Food_0.description>
+  
+  <!-- EN: Basic knowledge of food I -->
+  <Food_00.label>食品基本知识 I</Food_00.label>
+  <!-- EN: description -->
+  <Food_00.description>TODO</Food_00.description>
+  
+  <!-- EN: Food II -->
+  <Food_B1.label>食品 II</Food_B1.label>
+  <!-- EN: description -->
+  <Food_B1.description>TODO</Food_B1.description>
+  
+  <!-- EN: Food III -->
+  <Food_B2.label>食品 III</Food_B2.label>
+  <!-- EN: description -->
+  <Food_B2.description>TODO</Food_B2.description>
+  
+  <!-- EN: Cooking I -->
+  <Food_B3.label>烹饪 I</Food_B3.label>
+  <!-- EN: description -->
+  <Food_B3.description>TODO</Food_B3.description>
+  
+  <!-- EN: Cooking II -->
+  <Food_B4.label>烹饪 II</Food_B4.label>
+  <!-- EN: description -->
+  <Food_B4.description>TODO</Food_B4.description>
+  
+  <!-- EN: Cooking III -->
+  <Food_C1.label>烹饪 III</Food_C1.label>
+  <!-- EN: description -->
+  <Food_C1.description>TODO</Food_C1.description>
+  
+  <!-- EN: Advanced cooking I -->
+  <Food_C2.label>高级烹饪 I</Food_C2.label>
+  <!-- EN: description -->
+  <Food_C2.description>TODO</Food_C2.description>
+  
+  <!-- EN: Drinkables -->
+  <Food_C3.label>饮料</Food_C3.label>
+  <!-- EN: description -->
+  <Food_C3.description>TODO</Food_C3.description>
+  
+  <!-- EN: Sweets -->
+  <Food_C4.label>甜食</Food_C4.label>
+  <!-- EN: description -->
+  <Food_C4.description>TODO</Food_C4.description>
+  
+  <!-- EN: Advanced cooking II -->
+  <Food_C6.label>高级烹饪 II</Food_C6.label>
+  <!-- EN: description -->
+  <Food_C6.description>TODO</Food_C6.description>
+  
+  <!-- EN: Cooking V -->
+  <Food_C7.label>烹饪 V</Food_C7.label>
+  <!-- EN: description -->
+  <Food_C7.description>TODO</Food_C7.description>
+  
+  <!-- EN: Soylent technology -->
+  <NutrientPaste.label>食物合成机</NutrientPaste.label>
+  <!-- EN: Allows you to build the Soylent Green Machine to make Soylent Green from Humanlike corpses. -->
+  <NutrientPaste.description>解锁建造「食物合成机」，能自动将生食高效地合成为营养膏。用于应对食物短缺，也能解放一部分殖民者人手。</NutrientPaste.description>
+  
+  <!-- EN: Cooking IV -->
+  <PackagedSurvivalMeal.label>烹饪 IV</PackagedSurvivalMeal.label>
+  <!-- EN: description -->
+  <PackagedSurvivalMeal.description>TODO<!-- 对如何用电来提炼和制造有用的东西有很深的知识。解锁各类电压力容器——罐头食品压制工作台，以及用来批量生产食物的专业烹调炉。 --></PackagedSurvivalMeal.description>
+  
+  <!-- EN: Food I -->
+  <Pemmican.label>食品 I</Pemmican.label>
+  <!-- EN: description -->
+  <Pemmican.description>TODO<!-- 解锁制作「干肉饼」，由肉食和素食混合制成，保质期很长。居家旅行必备。 --></Pemmican.description>
+  
+</LanguageData>

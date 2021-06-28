@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Fruit Plants II -->
+  <Cocoa.label>水果植物 II</Cocoa.label>
+  <!-- EN: description -->
+  <Cocoa.description>TODO<!-- 对树木的培育技术有了更深的研究，现在殖民者们可以种植培育橡树、松树和柚木。 --></Cocoa.description>
+  
+  <!-- EN: Agriculture II -->
+  <Cultivation_C1.label>农业 II</Cultivation_C1.label>
+  <!-- EN: description -->
+  <Cultivation_C1.description>TODO</Cultivation_C1.description>
+  
+  <!-- EN: Agriculture IV -->
+  <Cultivation_C3.label>农业 IV</Cultivation_C3.label>
+  <!-- EN: description -->
+  <Cultivation_C3.description>TODO</Cultivation_C3.description>
+  
+  <!-- EN: Fabric Plants IV -->
+  <Devilstrand.label>纤纺植物 IV</Devilstrand.label>
+  <!-- EN: description -->
+  <Devilstrand.description>TODO<!-- 对农作物的培育技术有了进一步的了解，现在殖民者们可以种植培恶魔菇。 --></Devilstrand.description>
+  
+  <!-- EN: Drug plants I -->
+  <Drug_plants_A1.label>药用植物 I</Drug_plants_A1.label>
+  <!-- EN: description -->
+  <Drug_plants_A1.description>TODO</Drug_plants_A1.description>
+  
+  <!-- EN: Drug plants II -->
+  <Drug_plants_A2.label>药用植物 II</Drug_plants_A2.label>
+  <!-- EN: description -->
+  <Drug_plants_A2.description>TODO</Drug_plants_A2.description>
+  
+  <!-- EN: Fabric Plants I -->
+  <Fabric_Plants_A1.label>纤纺植物 I</Fabric_Plants_A1.label>
+  <!-- EN: description -->
+  <Fabric_Plants_A1.description>TODO</Fabric_Plants_A1.description>
+  
+  <!-- EN: Fabric Plants II -->
+  <Fabric_Plants_A2.label>纤纺植物 II</Fabric_Plants_A2.label>
+  <!-- EN: description -->
+  <Fabric_Plants_A2.description>TODO</Fabric_Plants_A2.description>
+  
+  <!-- EN: Fabric Plants III -->
+  <Fabric_Plants_B1.label>纤纺植物 III</Fabric_Plants_B1.label>
+  <!-- EN: description -->
+  <Fabric_Plants_B1.description>TODO</Fabric_Plants_B1.description>
+  
+  <!-- EN: Flowers I -->
+  <Flowers_A1.label>花卉 I</Flowers_A1.label>
+  <!-- EN: description -->
+  <Flowers_A1.description>TODO</Flowers_A1.description>
+  
+  <!-- EN: Flowers II -->
+  <Flowers_A2.label>花卉 II</Flowers_A2.label>
+  <!-- EN: description -->
+  <Flowers_A2.description>TODO</Flowers_A2.description>
+  
+  <!-- EN: Vegetables and cereals I -->
+  <Food_Plants_A1.label>蔬菜和谷物 I</Food_Plants_A1.label>
+  <!-- EN: description -->
+  <Food_Plants_A1.description>TODO</Food_Plants_A1.description>
+  
+  <!-- EN: Vegetables and cereals II -->
+  <Food_Plants_A2.label>蔬菜和谷物 II</Food_Plants_A2.label>
+  <!-- EN: description -->
+  <Food_Plants_A2.description>TODO</Food_Plants_A2.description>
+  
+  <!-- EN: Fruit Plants I -->
+  <Fruit_Plants_B1.label>水果植物 I</Fruit_Plants_B1.label>
+  <!-- EN: description -->
+  <Fruit_Plants_B1.description>TODO</Fruit_Plants_B1.descriptiIon>
+  
+  <!-- EN: Fungiponics I -->
+  <Fungiponics_A1.label>菌类培育 I</Fungiponics_A1.label>
+  <!-- EN: description -->
+  <Fungiponics_A1.description>TODO</Fungiponics_A1.description>
+  
+  <!-- EN: Fungiponics II -->
+  <Fungiponics_B1.label>菌类培育 II</Fungiponics_B1.label>
+  <!-- EN: description -->
+  <Fungiponics_B1.description>TODO</Fungiponics_B1.description>
+  
+  <!-- EN: Agriculture III -->
+  <Hydroponics.label>农业 III</Hydroponics.label>
+  <!-- EN: description -->
+  <Hydroponics.description>农业技术的发展突破了土地种植的限制，殖民地能够解锁水栽培技术。这项技术也是室内农业的重要支撑技术。</Hydroponics.description>
+  
+  <!-- EN: Medical Plants I -->
+  <Medical_Plants_A1.label>医用植物 I</Medical_Plants_A1.label>
+  <!-- EN: description -->
+  <Medical_Plants_A1.description>TODO</Medical_Plants_A1.description>
+  
+  <!-- EN: Medical Plants II -->
+  <Medical_Plants_A2.label>医用植物 II</Medical_Plants_A2.label>
+  <!-- EN: description -->
+  <Medical_Plants_A2.description>TODO</Medical_Plants_A2.description>
+  
+  <!-- EN: Medical Plants III -->
+  <Medical_Plants_A3.label>医用植物 III</Medical_Plants_A3.label>
+  <!-- EN: description -->
+  <Medical_Plants_A3.description>TODO</Medical_Plants_A3.description>
+  
+  <!-- EN: Agriculture I -->
+  <SewageSludgeComposting.label>农业 I</SewageSludgeComposting.label>
+  <!-- EN: description -->
+  <SewageSludgeComposting.description>TODO</SewageSludgeComposting.description>
+  
+  <!-- EN: Trees II -->
+  <Trees_B2.label>树木种植 II</Trees_B2.label>
+  <!-- EN: description -->
+  <Trees_B2.description>TODO</Trees_B2.description>
+  
+  <!-- EN: Trees III -->
+  <Trees_B3.label>树木种植 III</Trees_B3.label>
+  <!-- EN: description -->
+  <Trees_B3.description>TODO</Trees_B3.description>
+  
+  <!-- EN: Trees I -->
+  <TreeSowing.label>树木种植 I</TreeSowing.label>
+  <!-- EN: description -->
+  <TreeSowing.description>TODO<!-- 研究如何种植培育树木，解锁天蚕树和竹子。 --></TreeSowing.description>
+  
+</LanguageData>
