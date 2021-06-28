@@ -239,6 +239,13 @@
   <!-- EN: 正在制作童帽。 -->
   <Make_Apparel_Bonnet.jobString>正在制造 童帽。</Make_Apparel_Bonnet.jobString>
   
+  <!-- EN: 制作安全帽 -->
+  <Make_Apparel_BowlerHat.label>制作 安全帽</Make_Apparel_BowlerHat.label>
+  <!-- EN: 制作安全帽。 -->
+  <Make_Apparel_BowlerHat.description>制作安全帽。</Make_Apparel_BowlerHat.description>
+  <!-- EN: 正在制作安全帽。 -->
+  <Make_Apparel_BowlerHat.jobString>正在制作安全帽。</Make_Apparel_BowlerHat.jobString>
+  
   <!-- EN: 制作纽扣衬衫 -->
   <Make_Apparel_CollarShirt.label>制造 纽扣衬衫</Make_Apparel_CollarShirt.label>
   <!-- EN: 制作纽扣衬衫。 -->
@@ -456,12 +463,26 @@
   <!-- EN: 正在制作部落背包。 -->
   <Make_Apparel_TribalBackpack.jobString>正在制造 部落背包。</Make_Apparel_TribalBackpack.jobString>
   
+  <!-- EN: 制作羽毛头饰 -->
+  <Make_Apparel_TribalHeaddress.label>制作 羽毛头饰</Make_Apparel_TribalHeaddress.label>
+  <!-- EN: 制作羽毛头饰。 -->
+  <Make_Apparel_TribalHeaddress.description>制作羽毛头饰。</Make_Apparel_TribalHeaddress.description>
+  <!-- EN: 正在制作羽毛头饰。 -->
+  <Make_Apparel_TribalHeaddress.jobString>正在制作羽毛头饰。</Make_Apparel_TribalHeaddress.jobString>
+  
   <!-- EN: 制作精致短袍 -->
   <Make_Apparel_TunicFine.label>制造 精致短袍</Make_Apparel_TunicFine.label>
   <!-- EN: 制作精致短袍。 -->
   <Make_Apparel_TunicFine.description>制造 精致短袍。</Make_Apparel_TunicFine.description>
   <!-- EN: 正在制作精致短袍。 -->
   <Make_Apparel_TunicFine.jobString>正在制造 精致短袍。</Make_Apparel_TunicFine.jobString>
+  
+  <!-- EN: 制作毛线帽 -->
+  <Make_Apparel_Tuque.label>制作 毛线帽</Make_Apparel_Tuque.label>
+  <!-- EN: 制作毛线帽。 -->
+  <Make_Apparel_Tuque.description>制作毛线帽。</Make_Apparel_Tuque.description>
+  <!-- EN: 正在制作毛线帽。 -->
+  <Make_Apparel_Tuque.jobString>正在制作毛线帽。</Make_Apparel_Tuque.jobString>
   
   <!-- EN: 制作仆人服 -->
   <Make_Apparel_VicScullery.label>制造 仆人服</Make_Apparel_VicScullery.label>
@@ -967,13 +988,6 @@
   <!-- EN: 正在制作辅助AI（射击）。 -->
   <Make_AuxiliaryAI_Sharpshooter.jobString>正在制造 辅助AI（射击）。</Make_AuxiliaryAI_Sharpshooter.jobString>
   
-  <!-- EN: 制作GAU-8复仇者火炮 -->
-  <Make_AvengerTurretGun.label>制造 30mm GAU-8复仇者火炮</Make_AvengerTurretGun.label>
-  <!-- EN: 制作GAU-8复仇者火炮。 -->
-  <Make_AvengerTurretGun.description>制造 30mm GAU-8复仇者火炮。</Make_AvengerTurretGun.description>
-  <!-- EN: 正在制作GAU-8复仇者火炮。 -->
-  <Make_AvengerTurretGun.jobString>正在制造 30mm GAU-8复仇者火炮。</Make_AvengerTurretGun.jobString>
-  
   <!-- EN: 制作防弹盾牌 -->
   <Make_BallisticShield.label>制造 防弹盾牌</Make_BallisticShield.label>
   <!-- EN: 制作防弹盾牌。 -->
@@ -1380,13 +1394,6 @@
   <!-- EN: 正在制作钩手。 -->
   <Make_HookHand.jobString>正在制造 钩手。</Make_HookHand.jobString>
   
-  <!-- EN: 制作155mm榴弹炮 -->
-  <Make_HowitzerTurretGun.label>制造 155mm 榴弹炮</Make_HowitzerTurretGun.label>
-  <!-- EN: 制作155mm榴弹炮。 -->
-  <Make_HowitzerTurretGun.description>制造 155mm 榴弹炮。</Make_HowitzerTurretGun.description>
-  <!-- EN: 正在制作155mm榴弹炮。 -->
-  <Make_HowitzerTurretGun.jobString>正在制造 155mm 榴弹炮。</Make_HowitzerTurretGun.jobString>
-  
   <!-- EN: 制作超感优化纳米机器人 -->
   <Make_InstinctOptimizingNanobots.label>制造 超感优化纳米机器人</Make_InstinctOptimizingNanobots.label>
   <!-- EN: 制作超感优化纳米机器人。 -->
@@ -1407,13 +1414,6 @@
   <Make_lifesupport.description>制造 生命支持系统。</Make_lifesupport.description>
   <!-- EN: 正在制作生命支持系统。 -->
   <Make_lifesupport.jobString>正在制造 生命支持系统。</Make_lifesupport.jobString>
-  
-  <!-- EN: 制作FGM-148“标枪”反坦克导弹 -->
-  <Make_LightMissileSystem.label>制造 FGM-148“标枪”反坦克导弹</Make_LightMissileSystem.label>
-  <!-- EN: 制作FGM-148“标枪”反坦克导弹。 -->
-  <Make_LightMissileSystem.description>制造 FGM-148“标枪”反坦克导弹。</Make_LightMissileSystem.description>
-  <!-- EN: 正在制作FGM-148“标枪”反坦克导弹。 -->
-  <Make_LightMissileSystem.jobString>正在制造 FGM-148“标枪”反坦克导弹。</Make_LightMissileSystem.jobString>
   
   <!-- EN: 制作医疗助理芯片 -->
   <Make_MAAI_Chip.label>制造 医疗助理芯片</Make_MAAI_Chip.label>
@@ -1443,13 +1443,6 @@
   <!-- EN: 正在制作医疗肋骨。 -->
   <Make_MedicalRib.jobString>正在制造 医疗肋骨。</Make_MedicalRib.jobString>
   
-  <!-- EN: 制作石弩 -->
-  <Make_Medieval_Catapult.label>制造 石弩</Make_Medieval_Catapult.label>
-  <!-- EN: 制作石弩。 -->
-  <Make_Medieval_Catapult.description>制造 石弩。</Make_Medieval_Catapult.description>
-  <!-- EN: 正在制作石弩。 -->
-  <Make_Medieval_Catapult.jobString>正在制造 石弩。</Make_Medieval_Catapult.jobString>
-  
   <!-- EN: 制作软铠 -->
   <Make_MedievalArmor_Gambeson.label>制造 软铠</Make_MedievalArmor_Gambeson.label>
   <!-- EN: 制作软铠。 -->
@@ -1470,13 +1463,6 @@
   <Make_MedievalShield.description>制造 中世纪盾牌。</Make_MedievalShield.description>
   <!-- EN: 正在制作中世纪盾牌。 -->
   <Make_MedievalShield.jobString>正在制造 中世纪盾牌。</Make_MedievalShield.jobString>
-  
-  <!-- EN: 制作弩炮 -->
-  <Make_MedievalTimes_Ballista.label>制造 弩炮</Make_MedievalTimes_Ballista.label>
-  <!-- EN: 制作弩炮。 -->
-  <Make_MedievalTimes_Ballista.description>制造 弩炮。</Make_MedievalTimes_Ballista.description>
-  <!-- EN: 正在制作弩炮。 -->
-  <Make_MedievalTimes_Ballista.jobString>正在制造 弩炮。</Make_MedievalTimes_Ballista.jobString>
   
   <!-- EN: 制作战靴 -->
   <Make_MedievalTimes_Boots_Combat.label>制造 战靴</Make_MedievalTimes_Boots_Combat.label>
@@ -1575,13 +1561,6 @@
   <Make_MedievalTimes_Shirt_Tunic.description>制造 中世纪短袍。</Make_MedievalTimes_Shirt_Tunic.description>
   <!-- EN: 正在制作中世纪短袍。 -->
   <Make_MedievalTimes_Shirt_Tunic.jobString>正在制造 中世纪短袍。</Make_MedievalTimes_Shirt_Tunic.jobString>
-  
-  <!-- EN: 制作中型导弹系统 -->
-  <Make_MediumMissileSystem.label>制造 中型导弹系统</Make_MediumMissileSystem.label>
-  <!-- EN: 制作中型导弹系统。 -->
-  <Make_MediumMissileSystem.description>制造 中型导弹系统。</Make_MediumMissileSystem.description>
-  <!-- EN: 正在制作中型导弹系统。 -->
-  <Make_MediumMissileSystem.jobString>正在制造 中型导弹系统。</Make_MediumMissileSystem.jobString>
   
   <!-- EN: 制作骨锯 -->
   <Make_MeleeWeapon_Bonesaw.label>制造 骨锯</Make_MeleeWeapon_Bonesaw.label>
@@ -1947,13 +1926,6 @@
   <!-- EN: 正在制作皇后雕塑。 -->
   <Make_QueenArt.jobString>正在制造 皇后雕塑。</Make_QueenArt.jobString>
   
-  <!-- EN: 制作重型导弹系统 -->
-  <Make_RLGun.label>制造 重型导弹系统</Make_RLGun.label>
-  <!-- EN: 制作重型导弹系统。 -->
-  <Make_RLGun.description>制造 重型导弹系统。</Make_RLGun.description>
-  <!-- EN: 正在制作重型导弹系统。 -->
-  <Make_RLGun.jobString>正在制造 重型导弹系统。</Make_RLGun.jobString>
-  
   <!-- EN: 制作宏伟雕塑 -->
   <Make_SculptureGrand.label>制造 宏伟雕塑</Make_SculptureGrand.label>
   <!-- EN: 制作宏伟雕塑。 -->
@@ -2149,83 +2121,6 @@
   <Make_TobaccoCigarette.description>制造 香烟。</Make_TobaccoCigarette.description>
   <!-- EN: 正在制作香烟。 -->
   <Make_TobaccoCigarette.jobString>正在制造 香烟。</Make_TobaccoCigarette.jobString>
-  
-  <!-- EN: 制作AGS-30榴弹发射器 -->
-  <Make_Turret_AGS30GrenadeLauncher.label>制造 AGS-30榴弹发射器</Make_Turret_AGS30GrenadeLauncher.label>
-  <!-- EN: 制作AGS-30榴弹发射器。 -->
-  <Make_Turret_AGS30GrenadeLauncher.description>制造 AGS-30榴弹发射器。</Make_Turret_AGS30GrenadeLauncher.description>
-  <!-- EN: 正在制作AGS-30榴弹发射器。 -->
-  <Make_Turret_AGS30GrenadeLauncher.jobString>正在制造 AGS-30榴弹发射器。</Make_Turret_AGS30GrenadeLauncher.jobString>
-  
-  <!-- EN: 制作AGS-17榴弹发射器 -->
-  <Make_Turret_AGSThirty.label>制造 AGS-17榴弹发射器</Make_Turret_AGSThirty.label>
-  <!-- EN: 制作AGS-17榴弹发射器。 -->
-  <Make_Turret_AGSThirty.description>制造 AGS-17榴弹发射器。</Make_Turret_AGSThirty.description>
-  <!-- EN: 正在制作AGS-17榴弹发射器。 -->
-  <Make_Turret_AGSThirty.jobString>正在制造 AGS-17榴弹发射器。</Make_Turret_AGSThirty.jobString>
-  
-  <!-- EN: 制作120mm坦克炮 -->
-  <Make_Turret_Cannon.label>制造 120mm 坦克炮</Make_Turret_Cannon.label>
-  <!-- EN: 制作120mm坦克炮。 -->
-  <Make_Turret_Cannon.description>制造 120mm 坦克炮。</Make_Turret_Cannon.description>
-  <!-- EN: 正在制作120mm坦克炮。 -->
-  <Make_Turret_Cannon.jobString>正在制造 120mm 坦克炮。</Make_Turret_Cannon.jobString>
-  
-  <!-- EN: 制作90mm高射炮塔 -->
-  <Make_Turret_Flak.label>制造 90mm 高射炮塔</Make_Turret_Flak.label>
-  <!-- EN: 制作90mm高射炮塔。 -->
-  <Make_Turret_Flak.description>制造 90mm 高射炮塔。</Make_Turret_Flak.description>
-  <!-- EN: 正在制作90mm高射炮塔。 -->
-  <Make_Turret_Flak.jobString>正在制造 90mm 高射炮塔。</Make_Turret_Flak.jobString>
-  
-  <!-- EN: 制作KPV重机枪 -->
-  <Make_Turret_KPV.label>制造 14.5mm KPV重机枪</Make_Turret_KPV.label>
-  <!-- EN: 制作KPV重机枪。 -->
-  <Make_Turret_KPV.description>制造 14.5mm KPV重机枪。</Make_Turret_KPV.description>
-  <!-- EN: 正在制作KPV重机枪。 -->
-  <Make_Turret_KPV.jobString>正在制造 14.5mm KPV重机枪。</Make_Turret_KPV.jobString>
-  
-  <!-- EN: 制作M240B机枪 -->
-  <Make_Turret_M240B.label>制造 7.62x51mm M240B机枪</Make_Turret_M240B.label>
-  <!-- EN: 制作M240B机枪。 -->
-  <Make_Turret_M240B.description>制造 7.62x51mm M240B机枪。</Make_Turret_M240B.description>
-  <!-- EN: 正在制作M240B机枪。 -->
-  <Make_Turret_M240B.jobString>正在制造 7.62x51mm M240B机枪。</Make_Turret_M240B.jobString>
-  
-  <!-- EN: 制作M2 .50勃朗宁机枪 -->
-  <Make_Turret_M2Browning.label>制造 M2 .50勃朗宁机枪</Make_Turret_M2Browning.label>
-  <!-- EN: 制作M2 .50勃朗宁机枪。 -->
-  <Make_Turret_M2Browning.description>制造 M2 .50勃朗宁机枪。</Make_Turret_M2Browning.description>
-  <!-- EN: 正在制作M2 .50勃朗宁机枪。 -->
-  <Make_Turret_M2Browning.jobString>正在制造 M2 .50勃朗宁机枪。</Make_Turret_M2Browning.jobString>
-  
-  <!-- EN: 制作M134速射机枪 -->
-  <Make_Turret_Minigun.label>制造 M134速射机枪</Make_Turret_Minigun.label>
-  <!-- EN: 制作M134速射机枪。 -->
-  <Make_Turret_Minigun.description>制造 M134速射机枪。</Make_Turret_Minigun.description>
-  <!-- EN: 正在制作M134速射机枪。 -->
-  <Make_Turret_Minigun.jobString>正在制造 M134速射机枪。</Make_Turret_Minigun.jobString>
-  
-  <!-- EN: 制作20mm奥瑞康机炮 -->
-  <Make_Turret_Oerlikonautocannon.label>制造 20mm 奥瑞康机炮</Make_Turret_Oerlikonautocannon.label>
-  <!-- EN: 制作20mm奥瑞康机炮。 -->
-  <Make_Turret_Oerlikonautocannon.description>制造 20mm 奥瑞康机炮。</Make_Turret_Oerlikonautocannon.description>
-  <!-- EN: 正在制作20mm奥瑞康机炮。 -->
-  <Make_Turret_Oerlikonautocannon.jobString>正在制造 20mm 奥瑞康机炮。</Make_Turret_Oerlikonautocannon.jobString>
-  
-  <!-- EN: 制作BGM-71“陶式”反坦克导弹 -->
-  <Make_Turret_TOWLauncher.label>制造 BGM-71“陶式”反坦克导弹</Make_Turret_TOWLauncher.label>
-  <!-- EN: 制作BGM-71“陶式”反坦克导弹。 -->
-  <Make_Turret_TOWLauncher.description>制造 BGM-71“陶式”反坦克导弹。</Make_Turret_TOWLauncher.description>
-  <!-- EN: 正在制作BGM-71“陶式”反坦克导弹。 -->
-  <Make_Turret_TOWLauncher.jobString>正在制造 BGM-71“陶式”反坦克导弹。</Make_Turret_TOWLauncher.jobString>
-  
-  <!-- EN: 制作20mm火神炮 -->
-  <Make_Turret_VulcanCannon.label>制造 20mm 火神炮</Make_Turret_VulcanCannon.label>
-  <!-- EN: 制作20mm火神炮。 -->
-  <Make_Turret_VulcanCannon.description>制造 20mm 火神炮。</Make_Turret_VulcanCannon.description>
-  <!-- EN: 正在制作20mm火神炮。 -->
-  <Make_Turret_VulcanCannon.jobString>正在制造 20mm 火神炮。</Make_Turret_VulcanCannon.jobString>
   
   <!-- EN: 制作止痛药 -->
   <Make_VG_Ibuprofen.label>制造 止痛药</Make_VG_Ibuprofen.label>

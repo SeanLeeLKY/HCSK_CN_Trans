@@ -156,18 +156,18 @@
   <Make_Fertilizer_x5.jobString>正在制作肥料x5。</Make_Fertilizer_x5.jobString>
   
   <!-- EN: make jerky -->
-  <Make_Jekry.label>制作 肉干</Make_Jekry.label>
+  <Make_Jerky.label>制作 肉干</Make_Jerky.label>
   <!-- EN: Make jerky meat. Takes 2 days to make -->
-  <Make_Jekry.description>制作肉干。基准制作时间：2 天。</Make_Jekry.description>
+  <Make_Jerky.description>制作肉干。基准制作时间：2 天。</Make_Jerky.description>
   <!-- EN: Doing an unknown recipe. -->
-  <Make_Jekry.jobString>正在制作肉干。</Make_Jekry.jobString>
+  <Make_Jerky.jobString>正在制作肉干。</Make_Jerky.jobString>
   
   <!-- EN: make jerky x5 -->
-  <Make_Jekry_x5.label>制作 肉干x5</Make_Jekry_x5.label>
+  <Make_Jerky_x5.label>制作 肉干x5</Make_Jerky_x5.label>
   <!-- EN: Make jerky meat x5. Takes 2 days to make -->
-  <Make_Jekry_x5.description>制作肉干x5。基准制作时间：2 天。</Make_Jekry_x5.description>
+  <Make_Jerky_x5.description>制作肉干x5。基准制作时间：2 天。</Make_Jerky_x5.description>
   <!-- EN: Doing an unknown recipe. -->
-  <Make_Jekry_x5.jobString>正在制作肉干x5。</Make_Jekry_x5.jobString>
+  <Make_Jerky_x5.jobString>正在制作肉干x5。</Make_Jerky_x5.jobString>
   
   <!-- EN: Extracts nitre from body -->
   <Make_Nitre_Body.label>提取 硝石（尸体）</Make_Nitre_Body.label>
