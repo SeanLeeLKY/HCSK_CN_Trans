@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Chemistry I -->
+  <BiofuelRefining.label>化学 I</BiofuelRefining.label>
+  <!-- EN: description -->
+  <BiofuelRefining.description>TODO<!-- 解锁基本的生物化学知识，例如用玉米来制作生物燃料。 --></BiofuelRefining.description>
+  
+  <!-- EN: Chemistry II -->
+  <Chemistry_C2.label>化学 II</Chemistry_C2.label>
+  <!-- EN: description -->
+  <Chemistry_C2.description>TODO</Chemistry_C2.description>
+  
+  <!-- EN: Chemistry III -->
+  <Chemistry_C3.label>化学 III</Chemistry_C3.label>
+  <!-- EN: description -->
+  <Chemistry_C3.description>TODO</Chemistry_C3.description>
+  
+  <!-- EN: Components I -->
+  <Components_D1.label>部件 I</Components_D1.label>
+  <!-- EN: description -->
+  <Components_D1.description>TODO</Components_D1.description>
+  
+  <!-- EN: Components II -->
+  <Components_D2.label>部件 II</Components_D2.label>
+  <!-- EN: description -->
+  <Components_D2.description>TODO</Components_D2.description>
+  
+  <!-- EN: Components III -->
+  <Components_D3.label>部件 III</Components_D3.label>
+  <!-- EN: description -->
+  <Components_D3.description>TODO</Components_D3.description>
+  
+  <!-- EN: Components IV -->
+  <Components_E1.label>部件 IV</Components_E1.label>
+  <!-- EN: description -->
+  <Components_E1.description>TODO</Components_E1.description>
+  
+  <!-- EN: Concrete I -->
+  <Concrete_C1.label>混凝土 I</Concrete_C1.label>
+  <!-- EN: description -->
+  <Concrete_C1.description>TODO</Concrete_C1.description>
+  
+  <!-- EN: Concrete II -->
+  <Concrete_C2.label>混凝土 II</Concrete_C2.label>
+  <!-- EN: description -->
+  <Concrete_C2.description>TODO</Concrete_C2.description>
+  
+  <!-- EN: Metal processing I -->
+  <Craft_B1.label>金属加工 I</Craft_B1.label>
+  <!-- EN: description -->
+  <Craft_B1.description>TODO</Craft_B1.description>
+  
+  <!-- EN: Mining III -->
+  <DeepDrilling.label>采矿 III</DeepDrilling.label>
+  <!-- EN: description -->
+  <DeepDrilling.description>TODO<!-- 解锁建造开采钻井。 --></DeepDrilling.description>
+  
+  <!-- EN: Robotics I -->
+  <Droids_D1.label>机器人 I</Droids_D1.label>
+  <!-- EN: description -->
+  <Droids_D1.description>TODO</Droids_D1.description>
+  
+  <!-- EN: Robotics II -->
+  <Droids_D2.label>机器人 II</Droids_D2.label>
+  <!-- EN: description -->
+  <Droids_D2.description>TODO</Droids_D2.description>
+  
+  <!-- EN: Robotics III -->
+  <Droids_D3.label>机器人 III</Droids_D3.label>
+  <!-- EN: description -->
+  <Droids_D3.description>TODO</Droids_D3.description>
+  
+  <!-- EN: Robotics IV -->
+  <Droids_E1.label>机器人 IV</Droids_E1.label>
+  <!-- EN: description -->
+  <Droids_E1.description>TODO</Droids_E1.description>
+  
+  <!-- EN: Upgrades: Proficency -->
+  <Droids_E2.label>升级：高效模块</Droids_E2.label>
+  <!-- EN: description -->
+  <Droids_E2.description>TODO</Droids_E2.description>
+  
+  <!-- EN: Upgrades: Core -->
+  <Droids_E3.label>升级：核心模块</Droids_E3.label>
+  <!-- EN: description -->
+  <Droids_E3.description>TODO</Droids_E3.description>
+  
+  <!-- EN: Upgrades: Physique -->
+  <Droids_E4.label>升级：体型模块</Droids_E4.label>
+  <!-- EN: description -->
+  <Droids_E4.description>TODO</Droids_E4.description>
+  
+  <!-- EN: Upgrades: Skin -->
+  <Droids_E5.label>升级：皮肤模块</Droids_E5.label>
+  <!-- EN: description -->
+  <Droids_E5.description>TODO</Droids_E5.description>
+  
+  <!-- EN: Upgrades: Utility -->
+  <Droids_E6.label>升级：工具模块</Droids_E6.label>
+  <!-- EN: description -->
+  <Droids_E6.description>TODO</Droids_E6.description>
+  
+  <!-- EN: Upgrades: Archotech -->
+  <Droids_E7.label>升级：远古科技</Droids_E7.label>
+  <!-- EN: description -->
+  <Droids_E7.description>TODO</Droids_E7.description>
+  
+  <!-- EN: Electronics II -->
+  <Electronics_C2.label>电子学 II</Electronics_C2.label>
+  <!-- EN: description -->
+  <Electronics_C2.description>TODO</Electronics_C2.description>
+  
+  <!-- EN: Electronics III -->
+  <Electronics_D1.label>电子学 III</Electronics_D1.label>
+  <!-- EN: description -->
+  <Electronics_D1.description>TODO</Electronics_D1.description>
+  
+  <!-- EN: Ergonomics I -->
+  <Ergonomics_C1.label>工效学 I</Ergonomics_C1.label>
+  <!-- EN: description -->
+  <Ergonomics_C1.description>TODO</Ergonomics_C1.description>
+  
+  <!-- EN: Ergonomics II -->
+  <Ergonomics_C2.label>工效学 II</Ergonomics_C2.label>
+  <!-- EN: description -->
+  <Ergonomics_C2.description>TODO</Ergonomics_C2.description>
+  
+  <!-- EN: Ergonomics III -->
+  <Ergonomics_D1.label>工效学 III</Ergonomics_D1.label>
+  <!-- EN: description -->
+  <Ergonomics_D1.description>TODO</Ergonomics_D1.description>
+  
+  <!-- EN: Glass making I -->
+  <Glass_B1.label>玻璃制造 I</Glass_B1.label>
+  <!-- EN: description -->
+  <Glass_B1.description>TODO</Glass_B1.description>
+  
+  <!-- EN: Glass making II -->
+  <Glass_C1.label>玻璃制造 II</Glass_C1.label>
+  <!-- EN: description -->
+  <Glass_C1.description>TODO</Glass_C1.description>
+  
+  <!-- EN: Mining IV -->
+  <GroundPenetratingScanner.label>采矿 IV</GroundPenetratingScanner.label>
+  <!-- EN: description -->
+  <GroundPenetratingScanner.description>TODO<!-- 高深的地质物理知识。解锁地址扫描仪和先进矿物提取器以采掘各种稀有矿物。 --></GroundPenetratingScanner.description>
+  
+  <!-- EN: Mining VI -->
+  <LongRangeMineralScanner.label>采矿 VI</LongRangeMineralScanner.label>
+  <!-- EN: description -->
+  <LongRangeMineralScanner.description>TODO<!-- 解锁建造「远距离矿物扫描仪」，可自动探测附近区域（非扫描仪所在区域）的稀有矿物，比如黄金或翡翠，建造时需要高级零部件。\n\n可以调整为只寻找特定矿物。 --></LongRangeMineralScanner.description>
+  
+  <!-- EN: Metal processing II -->
+  <Metals_C1.label>金属加工 II</Metals_C1.label>
+  <!-- EN: description -->
+  <Metals_C1.description>TODO</Metals_C1.description>
+  
+  <!-- EN: Metal processing III -->
+  <Metals_C2.label>金属加工 III</Metals_C2.label>
+  <!-- EN: description -->
+  <Metals_C2.description>TODO</Metals_C2.description>
+  
+  <!-- EN: Metal processing IV -->
+  <Metals_C3.label>金属加工 IV</Metals_C3.label>
+  <!-- EN: description -->
+  <Metals_C3.description>TODO</Metals_C3.description>
+  
+  <!-- EN: Metal processing V -->
+  <Metals_D1.label>金属加工 V</Metals_D1.label>
+  <!-- EN: description -->
+  <Metals_D1.description>TODO</Metals_D1.description>
+  
+  <!-- EN: Electronics I -->
+  <MicroelectronicsBasics.label>电子学 I</MicroelectronicsBasics.label>
+  <!-- EN: description -->
+  <MicroelectronicsBasics.description>TODO<!-- 用精密复杂的电子进行工作的基础。解锁制造高集成度的芯片产品以及矿物声呐模组。 --></MicroelectronicsBasics.description>
+  
+  <!-- EN: Mining I -->
+  <Mining_B1.label>采矿 I</Mining_B1.label>
+  <!-- EN: description -->
+  <Mining_B1.description>TODO</Mining_B1.description>
+  
+  <!-- EN: Mining II -->
+  <Mining_C1.label>采矿 II</Mining_C1.label>
+  <!-- EN: description -->
+  <Mining_C1.description>TODO</Mining_C1.description>
+  
+  <!-- EN: Research technologies V -->
+  <MultiAnalyzer.label>科研技术 V</MultiAnalyzer.label>
+  <!-- EN: description -->
+  <MultiAnalyzer.description>TODO<!-- 通过进一步的数据分析得出更加优解的工作流程，能够让殖民地建造提高工作效率的设施。解锁多元分析仪。 --></MultiAnalyzer.description>
+  
+  <!-- EN: Oil production I -->
+  <Oil_Industry_C1.label>原油生产 I</Oil_Industry_C1.label>
+  <!-- EN: description -->
+  <Oil_Industry_C1.description>TODO</Oil_Industry_C1.description>
+  
+  <!-- EN: Petrochemistry I -->
+  <Oil_Industry_C2.label>石油化工 I</Oil_Industry_C2.label>
+  <!-- EN: description -->
+  <Oil_Industry_C2.description>TODO</Oil_Industry_C2.description>
+  
+  <!-- EN: Petrochemistry II -->
+  <Oil_Industry_C3.label>石油化工 II</Oil_Industry_C3.label>
+  <!-- EN: description -->
+  <Oil_Industry_C3.description>TODO</Oil_Industry_C3.description>
+  
+  <!-- EN: Petrochemistry III -->
+  <Oil_Industry_C4.label>石油化工 III</Oil_Industry_C4.label>
+  <!-- EN: description -->
+  <Oil_Industry_C4.description>TODO</Oil_Industry_C4.description>
+  
+  <!-- EN: Petrochemistry IV -->
+  <Oil_Industry_C5.label>石油化工 IV</Oil_Industry_C5.label>
+  <!-- EN: description -->
+  <Oil_Industry_C5.description>TODO</Oil_Industry_C5.description>
+  
+  <!-- EN: Petrochemistry V -->
+  <Oil_Industry_C6.label>石油化工 V</Oil_Industry_C6.label>
+  <!-- EN: description -->
+  <Oil_Industry_C6.description>TODO</Oil_Industry_C6.description>
+  
+  <!-- EN: Oil production II -->
+  <Oil_Industry_C7.label>原油生产 II</Oil_Industry_C7.label>
+  <!-- EN: description -->
+  <Oil_Industry_C7.description>TODO</Oil_Industry_C7.description>
+  
+  <!-- EN: Petrochemistry VI -->
+  <Oil_Industry_D1.label>石油化工 VI</Oil_Industry_D1.label>
+  <!-- EN: description -->
+  <Oil_Industry_D1.description>TODO</Oil_Industry_D1.description>
+  
+  <!-- EN: Repair table -->
+  <Repair_table_C1.label>修理台</Repair_table_C1.label>
+  <!-- EN: description -->
+  <Repair_table_C1.description>TODO</Repair_table_C1.description>
+  
+  <!-- EN: Research technologies I -->
+  <Research_table_B1.label>科研技术 I</Research_table_B1.label>
+  <!-- EN: description -->
+  <Research_table_B1.description>TODO</Research_table_B1.description>
+  
+  <!-- EN: Research technologies II -->
+  <Research_table_B2.label>科研技术 II</Research_table_B2.label>
+  <!-- EN: description -->
+  <Research_table_B2.description>TODO</Research_table_B2.description>
+  
+  <!-- EN: Research technologies III -->
+  <Research_table_C1.label>科研技术 III</Research_table_C1.label>
+  <!-- EN: description -->
+  <Research_table_C1.description>TODO</Research_table_C1.description>
+  
+  <!-- EN: Research technologies IV -->
+  <Research_table_C2.label>科研技术 IV</Research_table_C2.label>
+  <!-- EN: description -->
+  <Research_table_C2.description>TODO</Research_table_C2.description>
+  
+  <!-- EN: Research technologies VI -->
+  <Research_table_D2.label>科研技术 VI</Research_table_D2.label>
+  <!-- EN: description -->
+  <Research_table_D2.description>TODO</Research_table_D2.description>
+  
+  <!-- EN: Mining V -->
+  <ResearchMobileMineralSonarEnhancedScan.label>采矿 V</ResearchMobileMineralSonarEnhancedScan.label>
+  <!-- EN: description -->
+  <ResearchMobileMineralSonarEnhancedScan.description>TODO<!-- 通过在矿物声纳技术降噪算法做一些代码重构，你的研究人员可以提高矿物扫描雷达效率。\n-提高矿物声纳技术，以提升矿物扫描雷达效率。 --></ResearchMobileMineralSonarEnhancedScan.description>
+  
+  <!-- EN: Starflight basics -->
+  <ShipBasics.label>航天学</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>解锁研究更多高级的飞船建造技术，最终能够建造出载人逃离这个星球的飞船。</ShipBasics.description>
+  <ShipBasics.discoveredLetterText>逃离这个星球——最终将获得自由，也许终点会是家园。\n\n但这样做也非常危险。\n\n许多绝望的灵魂想要离开这个星球。飞船反应堆需要15天的时间充电。一旦启动，反应堆发出的巨大能量信息会传到千里之外。就像嗅到美味的蟑螂一样，袭击者会从四面八方蜂拥而至，用你从未见过的强度发起攻击。远古机械也一样。\n\n想逃出生天，你需要储备资源、武器和防御力量。</ShipBasics.discoveredLetterText>
+  <ShipBasics.discoveredLetterTitle>关于：发射飞船</ShipBasics.discoveredLetterTitle>
+  
+  <!-- EN: Machine persuasion -->
+  <ShipComputerCore.label>飞船电脑核心</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>解锁强制将现有的AI伪人格核心装入用于飞船导航的人工智能电脑核心中。</ShipComputerCore.description>
+  
+  <!-- EN: Vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>飞船低温休眠舱</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>解锁建造「飞船低温休眠舱」，用于星际交通中殖民者休眠。</ShipCryptosleep.description>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>反物质飞船推进器</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>解锁建造「飞船推进器」。</ShipEngine.description>
+  
+  <!-- EN: Starship reactor -->
+  <ShipReactor.label>反物质飞船反应炉</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>解锁使用反物质约束核心建造用于给飞船提供动力的反应炉。</ShipReactor.description>
+  
+  <!-- EN: Starflight sensors -->
+  <ShipSensorCluster.label>飞船集成传感器</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>解锁建造用于飞船的远距离传感器。</ShipSensorCluster.description>
+  
+  <!-- EN: Stone processing I -->
+  <Stonecutting.label>石料加工 I</Stonecutting.label>
+  <!-- EN: description -->
+  <Stonecutting.description>TODO<!-- 解锁切石工作设施，可以用于将各种石块切制成建筑用的标准石砖。 --></Stonecutting.description>
+  
+  <!-- EN: Stone processing II -->
+  <Stones_C1.label>石料加工 II</Stones_C1.label>
+  <!-- EN: description -->
+  <Stones_C1.description>TODO</Stones_C1.description>
+  
+  <!-- EN: Transformation of matter I -->
+  <Super_matter_D1.label>物质转化 I</Super_matter_D1.label>
+  <!-- EN: description -->
+  <Super_matter_D1.description>TODO</Super_matter_D1.description>
+  
+  <!-- EN: Transformation of matter II -->
+  <Super_matter_E1.label>物质转化 II</Super_matter_E1.label>
+  <!-- EN: description -->
+  <Super_matter_E1.description>TODO</Super_matter_E1.description>
+  
+  <!-- EN: Transformation of matter III -->
+  <Super_matter_E2.label>物质转化 III</Super_matter_E2.label>
+  <!-- EN: description -->
+  <Super_matter_E2.description>TODO</Super_matter_E2.description>
+  
+</LanguageData>

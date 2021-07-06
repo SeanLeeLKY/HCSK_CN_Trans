@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Terraforming III -->
+  <MoisturePump.label>地形改造 III</MoisturePump.label>
+  <!-- EN: description -->
+  <MoisturePump.description>TODO<!-- 随着对本地环境的更进一步研究，现在殖民地已经可以建造更加复杂的地形改造设备了。解锁肥料泵和抽水泵，这些设施可以缓慢的将普通地形改造成为可耕种土壤。 --></MoisturePump.description>
+  
+  <!-- EN: Terraforming I -->
+  <Terraform_A1.label>地形改造 I</Terraform_A1.label>
+  <!-- EN: description -->
+  <Terraform_A1.description>TODO</Terraform_A1.description>
+  
+  <!-- EN: Terraforming II -->
+  <Terraform_B1.label>地形改造 II</Terraform_B1.label>
+  <!-- EN: description -->
+  <Terraform_B1.description>TODO</Terraform_B1.description>
+  
+</LanguageData>

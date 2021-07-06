@@ -27,10 +27,6 @@
   <!-- EN: head -->
   <Bison.tools.head.label>头</Bison.tools.head.label>
   
-  <!-- UNUSED -->
-  <Bison.tools.left_hoof-0.label>左蹄</Bison.tools.left_hoof-0.label>
-  <Bison.tools.right_hoof-0.label>右蹄</Bison.tools.right_hoof-0.label>
-  
   <!-- EN: chicken -->
   <Chicken.label>鸡</Chicken.label>
   <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
@@ -134,9 +130,5 @@
   <Yak.tools.right_hoof-1.label>右蹄</Yak.tools.right_hoof-1.label>
   <!-- EN: head -->
   <Yak.tools.head.label>头</Yak.tools.head.label>
-  
-  <!-- UNUSED -->
-  <Yak.tools.left_hoof-0.label>左蹄</Yak.tools.left_hoof-0.label>
-  <Yak.tools.right_hoof-0.label>右蹄</Yak.tools.right_hoof-0.label>
   
 </LanguageData>

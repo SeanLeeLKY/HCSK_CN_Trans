@@ -1,20 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: bake cornbread (2x) -->
-  <BakeCornbread.label>烘焙 玉米面包（2x）</BakeCornbread.label>
-  <!-- EN: Bake a tasty cornbread loaf. Produces 2. -->
-  <BakeCornbread.description>烘焙一条美味的玉米面包。 \n\n产出：2。</BakeCornbread.description>
-  <!-- EN: Baking cornbread. -->
-  <BakeCornbread.jobString>正在烘焙 玉米面包。</BakeCornbread.jobString>
-  
-  <!-- EN: bake cornbread muffins (3x) -->
-  <BakeCornbreadmuffin.label>烘焙 玉米松糕（3x）</BakeCornbreadmuffin.label>
-  <!-- EN: Bake some tasty cornbread muffins. Produces 3. -->
-  <BakeCornbreadmuffin.description>烘焙一些美味的玉米松糕。 \n\n产出：3。</BakeCornbreadmuffin.description>
-  <!-- EN: Baking cornbread muffins. -->
-  <BakeCornbreadmuffin.jobString>正在烘焙 玉米松糕。</BakeCornbreadmuffin.jobString>
-  
   <!-- EN: bake chocolate cookies -->
   <MakeCookies.label>烘焙 巧克力曲奇</MakeCookies.label>
   <!-- EN: Bakes cookies from flour, sugar and chocolate; using grandma's recipe. Produces 10. -->
