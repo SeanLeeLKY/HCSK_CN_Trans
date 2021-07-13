@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- A Dog Said... Animal Prosthetics -->
+
+    <Animal_B1.label>Simple animal prostheses</Animal_B1.label>
+    <Animal_B1.description>Healing for your animals!</Animal_B1.description>
+
+    <Animal_C2.label>Bionics for animals</Animal_C2.label>
+    <Animal_C2.description>Your muffalo lost his legs? Dont worry, now you can fix that!</Animal_C2.description>
+
+    <Animal_D1.label>Animal Healing</Animal_D1.label>
+    <Animal_D1.description>Learn to heal old wounds on animals</Animal_D1.description>
+
+    <!-- Children, school and learning -->
+
+    <Contraceptions_C1.label>Contraceptions</Contraceptions_C1.label>
+    <Contraceptions_C1.description>description</Contraceptions_C1.description>
+
+    <!--  Dubs Bad Hygiene -->
+
+    <Hygiene_13.label>卫生 I</Hygiene_13.label>
+    <Hygiene_13.description>TODO</Hygiene_13.description>
+
+    <LogBoilers.label>卫生 II</LogBoilers.label>
+    <LogBoilers.description>TODO</LogBoilers.description>
+
+    <CentralHeating.label>卫生 III</CentralHeating.label>
+    <CentralHeating.description>TODO</CentralHeating.description>
+
+    <ModernFixtures.label>卫生 IV</ModernFixtures.label>
+    <ModernFixtures.description>TODO</ModernFixtures.description>
+
+    <ElectricPumps.label>卫生 V</ElectricPumps.label>
+    <ElectricPumps.description>TODO</ElectricPumps.description>
+
+    <Hygiene_29.label>卫生 VI</Hygiene_29.label>
+    <Hygiene_29.description>TODO</Hygiene_29.description>
+
+    <Hygiene_2A.label>卫生 VII</Hygiene_2A.label>
+    <Hygiene_2A.description>TODO</Hygiene_2A.description>
+
+    <Hygiene_31.label>卫生 VII</Hygiene_31.label>
+    <Hygiene_31.description>TODO</Hygiene_31.description>
+
+    <!-- NewRatkinPlus -->
+
+    <Ratkin_Apparel_B1.label>Ratkin cloth I</Ratkin_Apparel_B1.label>
+    <Ratkin_Apparel_B1.description>description</Ratkin_Apparel_B1.description>
+
+    <Ratkin_Apparel_B2.label>Ratkin cloth II</Ratkin_Apparel_B2.label>
+    <Ratkin_Apparel_B2.description>Ratkin cloth II</Ratkin_Apparel_B2.description>
+
+    <Ratkin_Armor_B1.label>Ratkin armor I</Ratkin_Armor_B1.label>
+    <Ratkin_Armor_B1.description>Ratkin armor I</Ratkin_Armor_B1.description>
+
+    <Ratkin_Apparel_C1.label>Ratkin cloth III</Ratkin_Apparel_C1.label>
+    <Ratkin_Apparel_C1.description>Ratkin cloth III</Ratkin_Apparel_C1.description>
+
+    <Ratkin_Armor_D1.label>Ratkin armor II</Ratkin_Armor_D1.label>
+    <Ratkin_Armor_D1.description>Ratkin armor II</Ratkin_Armor_D1.description>
+
+    <!-- MineralsFrozen_SK -->
+
+    <Ice_Stuff_A1.label>Frozen Construction I</Ice_Stuff_A1.label>
+    <Ice_Stuff_A1.description>Make things out of snow.</Ice_Stuff_A1.description>
+
+    <Ice_Stuff_A2.label>Frozen Construction II</Ice_Stuff_A2.label>
+    <Ice_Stuff_A2.description>Make things out of ice.</Ice_Stuff_A2.description>
+
+    <Ice_Stuff_A3.label>Frozen Construction III</Ice_Stuff_A3.label>
+    <Ice_Stuff_A3.description>Make more things out of pykrete.</Ice_Stuff_A3.description>
+
+    <!-- Industrial Rollers -->
+
+    <Assembly_C1.label>Industrial Conveyors</Assembly_C1.label>
+    <Assembly_C1.description>Improve your production lines by automating hauling and material delivery.</Assembly_C1.description>
+
+</LanguageData>
