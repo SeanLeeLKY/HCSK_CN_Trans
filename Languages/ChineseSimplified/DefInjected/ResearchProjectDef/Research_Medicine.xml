@@ -9,7 +9,7 @@
   <!-- EN: Prosthesis making VIII -->
   <Bionics.label>义肢制造 VIII</Bionics.label>
   <!-- EN: description -->
-  <Bionics.description>TODO<!-- 探索微型电路以及动力装置的联合应用路径。发展更好更强的肢体辅助设备，以及人体器官的强化替代方案。解锁仿生器官工作台。 --></Bionics.description>
+  <Bionics.description>TODO</Bionics.description>
   
   <!-- EN: Brain wiring -->
   <BrainWiring.label>大脑链接</BrainWiring.label>
@@ -54,7 +54,7 @@
   <!-- EN: Drugs IV -->
   <DrugProduction.label>药物 IV</DrugProduction.label>
   <!-- EN: description -->
-  <DrugProduction.description>TODO<!-- 药物制备和合成的基础知识。允许建造药物工作台。制造特定药物需要进一步研究。 --></DrugProduction.description>
+  <DrugProduction.description>TODO</DrugProduction.description>
   
   <!-- EN: Drugs I -->
   <Drugs_A1.label>药物 I</Drugs_A1.label>
@@ -129,7 +129,7 @@
   <!-- EN: Medical equipment III -->
   <HospitalBed.label>医疗设备 III</HospitalBed.label>
   <!-- EN: description -->
-  <HospitalBed.description>TODO<!-- 解锁部分医疗设备，你可以更加轻松的治疗一些诸如冻伤、割伤等小问题。你也可以为还有一口气的殖民者安装生命支持系统，或者修建一些病床。 --></HospitalBed.description>
+  <HospitalBed.description>TODO</HospitalBed.description>
   
   <!-- EN: Medical supplies I -->
   <Medicine_A1.label>医疗用品 I</Medicine_A1.label>
@@ -159,7 +159,7 @@
   <!-- EN: Medical supplies V -->
   <MedicineProduction.label>医疗用品 V</MedicineProduction.label>
   <!-- EN: description -->
-  <MedicineProduction.description>TODO<!-- 解锁医药工作台，开启制药生产能力。 --></MedicineProduction.description>
+  <MedicineProduction.description>TODO</MedicineProduction.description>
   
   <!-- EN: Molecular analysis -->
   <MolecularAnalysis.label>分子分析</MolecularAnalysis.label>
@@ -174,7 +174,7 @@
   <!-- EN: Drugs V -->
   <PenoxycylineProduction.label>药物 V</PenoxycylineProduction.label>
   <!-- EN: description -->
-  <PenoxycylineProduction.description>TODO<!-- 解锁制作「佩诺西林」，一种预防疾病的预防性药物。 --></PenoxycylineProduction.description>
+  <PenoxycylineProduction.description>TODO</PenoxycylineProduction.description>
   
   <!-- EN: Prosthesis install II -->
   <Prosthesis_install_C1.label>义肢安装 II</Prosthesis_install_C1.label>
@@ -289,7 +289,7 @@
   <!-- EN: Prosthesis install I -->
   <Prosthetics.label>义肢安装 I</Prosthetics.label>
   <!-- EN: description -->
-  <Prosthetics.description>TODO<!-- 了解基本的医药“艺术”。缺胳膊少腿么？还是缺点其他的东西？没事，拿块木头拿块铁，砰砰砰！搞定！解锁假体工作台。 --></Prosthetics.description>
+  <Prosthetics.description>TODO</Prosthetics.description>
   
   <!-- EN: Psychite Refining -->
   <PsychiteRefining.label>精神药物提炼</PsychiteRefining.label>
@@ -299,7 +299,7 @@
   <!-- EN: Drugs II -->
   <PsychoidBrewing.label>药物 II</PsychoidBrewing.label>
   <!-- EN: description -->
-  <PsychoidBrewing.description>TODO<!-- 用开水冲泡制备精神叶，制作产生轻度欣快感和让人上瘾的茶。 --></PsychoidBrewing.description>
+  <PsychoidBrewing.description>TODO</PsychoidBrewing.description>
   
   <!-- EN: Skin hardening -->
   <SkinHardening.label>皮肤硬化</SkinHardening.label>
@@ -319,7 +319,7 @@
   <!-- EN: Medical equipment IV -->
   <VitalsMonitor.label>医疗设备 IV</VitalsMonitor.label>
   <!-- EN: description -->
-  <VitalsMonitor.description>TODO<!-- 进阶的医疗知识为你提供了更佳的治疗方案。你现在可以为殖民者移植一些小型的次要身体部件类似于鼻子、耳朵之类，或者用人造骨骼来修复一些身体损伤、深度疤痕、割伤等等。亦可以建造生命体征监测仪来提高医疗质量、手术成功率等。 --></VitalsMonitor.description>
+  <VitalsMonitor.description>TODO</VitalsMonitor.description>
   
   <!-- EN: Wake-up Production -->
   <WakeUpProduction.label>清醒丸制作</WakeUpProduction.label>

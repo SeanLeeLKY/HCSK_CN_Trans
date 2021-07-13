@@ -24,7 +24,7 @@
   <!-- EN: Alcohol production I -->
   <Brewing.label>酒精生产 I</Brewing.label>
   <!-- EN: description -->
-  <Brewing.description>TODO<!-- 解锁各种酒精酿造工艺。 --></Brewing.description>
+  <Brewing.description>TODO</Brewing.description>
   
   <!-- EN: Basic knowledge of food II -->
   <Food_0.label>食品基本知识 II</Food_0.label>
@@ -94,11 +94,11 @@
   <!-- EN: Cooking IV -->
   <PackagedSurvivalMeal.label>烹饪 IV</PackagedSurvivalMeal.label>
   <!-- EN: description -->
-  <PackagedSurvivalMeal.description>TODO<!-- 对如何用电来提炼和制造有用的东西有很深的知识。解锁各类电压力容器——罐头食品压制工作台，以及用来批量生产食物的专业烹调炉。 --></PackagedSurvivalMeal.description>
+  <PackagedSurvivalMeal.description>TODO</PackagedSurvivalMeal.description>
   
   <!-- EN: Food I -->
   <Pemmican.label>食品 I</Pemmican.label>
   <!-- EN: description -->
-  <Pemmican.description>TODO<!-- 解锁制作「干肉饼」，由肉食和素食混合制成，保质期很长。居家旅行必备。 --></Pemmican.description>
+  <Pemmican.description>TODO</Pemmican.description>
   
 </LanguageData>

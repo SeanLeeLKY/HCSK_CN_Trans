@@ -4,7 +4,7 @@
   <!-- EN: Apparel production IV -->
   <AdvancedFabrication.label>服装生产 IV</AdvancedFabrication.label>
   <!-- EN: description -->
-  <AdvancedFabrication.description>TODO<!-- 学习如何用电能提炼和制造一些有用的东西。允许你的殖民者建造一个复杂的咖啡机，它把咖啡豆变成热饮，而且你也可以用它泡茶。\n\n同时解锁电力炉灶和电力酿造台。 --></AdvancedFabrication.description>
+  <AdvancedFabrication.description>TODO</AdvancedFabrication.description>
   
   <!-- EN: Apparel production I -->
   <Apparel_A1.label>服装生产 I</Apparel_A1.label>
@@ -74,19 +74,17 @@
   <!-- EN: Advanced sewing II -->
   <ComplexClothing.label>高级缝纫 II</ComplexClothing.label>
   <!-- EN: description -->
-  <ComplexClothing.description>TODO<!-- 了解基本的纺织裁缝技术。解锁纺织工作台——可以将各种合适原材料处理成基础纺材（例如布匹等）。 --></ComplexClothing.description>
+  <ComplexClothing.description>TODO</ComplexClothing.description>
   
   <!-- EN: Apparel production III -->
   <Fabrication.label>服装生产 III</Fabrication.label>
   <!-- EN: description -->
-  <Fabrication.description>TODO<!-- 学习如何提炼和制作一些有用的东西。让你的殖民者了解大麻和烟叶的各种用途，例如制作特殊的卷烟、利用麻纤维和各种医药用途。\n\n同时还解锁糖果工作台来制作一些甜食和弹药工作台来为您的枪和炮塔制造备用弹药。 --></Fabrication.description>
-  <Fabrication.discoveredLetterText>TODO<!-- 现在你可以建造精密装配台了，但是还缺乏一些高级零部件，你可以通过以下几种方式得到：\n\n-所有外来者定居点都有高级零部件出售。可以派出远行队去买一些。\n- 来访的贸易商队有时候也会携带高级零部件。邀请或等待他们造访。\n-一些任务会给予高级零部件作为奖励。 --></Fabrication.discoveredLetterText>
-  <Fabrication.discoveredLetterTitle>TODO<!-- 关于：获取高级零部件 --></Fabrication.discoveredLetterTitle>
+  <Fabrication.description>TODO</Fabrication.description>
   
   <!-- EN: Armor IV -->
   <FlakArmor.label>护甲 IV</FlakArmor.label>
   <!-- EN: description -->
-  <FlakArmor.description>TODO<!-- 了解更多的裁缝知识，解锁电力裁缝工作台等可以用来制作衣物的工作台。 --></FlakArmor.description>
+  <FlakArmor.description>TODO</FlakArmor.description>
   
   <!-- EN: gunlink -->
   <Gunlink.label>辅瞄器</Gunlink.label>
@@ -106,17 +104,17 @@
   <!-- EN: Armor I -->
   <PlateArmor.label>护甲 I</PlateArmor.label>
   <!-- EN: description -->
-  <PlateArmor.description>TODO<!-- 学习如何处理不同种类的金属，如铝，铜镍，锰铁和硅铁等等。 --></PlateArmor.description>
+  <PlateArmor.description>TODO</PlateArmor.description>
   
   <!-- EN: Armor VII -->
   <PoweredArmor.label>护甲 VII</PoweredArmor.label>
   <!-- EN: description -->
-  <PoweredArmor.description>TODO<!-- 将先进的神经模拟机器人和各种新材料应用于衣物技术，解锁制造动力装甲和头盔等高级衣物。 --></PoweredArmor.description>
+  <PoweredArmor.description>TODO</PoweredArmor.description>
   
   <!-- EN: Armor VI -->
   <ReconArmor.label>护甲 VI</ReconArmor.label>
   <!-- EN: description -->
-  <ReconArmor.description>TODO<!-- 解锁制作「斥候装甲」，一种轻型装甲，能为侦察部队提供防护。注意，制作时需要高级零部件。 --></ReconArmor.description>
+  <ReconArmor.description>TODO</ReconArmor.description>
   
   <!-- EN: royal apparel -->
   <RoyalApparel.label>皇家服饰</RoyalApparel.label>

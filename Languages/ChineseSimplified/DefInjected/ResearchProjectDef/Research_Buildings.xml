@@ -14,17 +14,17 @@
   <!-- EN: Temperature control III -->
   <AirConditioning.label>温度控制 III</AirConditioning.label>
   <!-- EN: description -->
-  <AirConditioning.description>TODO<!-- 解锁建造不同类型的灯具，小型冷却器、加热器和通风设备。同时也可以提高15%的电池效率。 --></AirConditioning.description>
+  <AirConditioning.description>TODO</AirConditioning.description>
   
   <!-- EN: Construction V -->
   <Autodoors.label>建造技术 V</Autodoors.label>
   <!-- EN: description -->
-  <Autodoors.description>TODO<!-- 解锁建造自动门，中型冷却器和加热器，各种功能性墙体。同时也可以提高15%的电池效率。 --></Autodoors.description>
+  <Autodoors.description>TODO</Autodoors.description>
   
   <!-- EN: Electrical networks I -->
   <Batteries.label>电力网络 I</Batteries.label>
   <!-- EN: description -->
-  <Batteries.description>TODO<!-- 解锁建造高科技研究台，重型电缆，隐藏电缆，工业冷却器和加热器。同时也可以提高15%的电池效率。 --></Batteries.description>
+  <Batteries.description>TODO</Batteries.description>
   
   <!-- EN: Beds I -->
   <Beds_A1.label>床铺 I</Beds_A1.label>
@@ -59,12 +59,12 @@
   <!-- EN: Lighting VI -->
   <ColoredLights.label>照明 VI</ColoredLights.label>
   <!-- EN: description -->
-  <ColoredLights.description>TODO<!-- 解锁建造装饰性的彩色落地灯。 --></ColoredLights.description>
+  <ColoredLights.description>TODO</ColoredLights.description>
   
   <!-- EN: Furniture I -->
   <ComplexFurniture.label>家具 I</ComplexFurniture.label>
   <!-- EN: description -->
-  <ComplexFurniture.description>TODO<!-- 解锁建造更加舒适的餐厅家具，例如餐椅等。 --></ComplexFurniture.description>
+  <ComplexFurniture.description>TODO</ComplexFurniture.description>
   
   <!-- EN: Construction I -->
   <Construction_B1.label>建造技术 I</Construction_B1.label>
@@ -84,7 +84,7 @@
   <!-- EN: Beds VI -->
   <Cryptosleep.label>床铺 VI</Cryptosleep.label>
   <!-- EN: description -->
-  <Cryptosleep.description>TODO<!-- 解锁建造「低温休眠舱」，可使其内的生命体进入生理上的暂停状态。 --></Cryptosleep.description>
+  <Cryptosleep.description>TODO</Cryptosleep.description>
   
   <!-- EN: Electrical networks II -->
   <Electrical_engineering_C2.label>电力网络 II</Electrical_engineering_C2.label>
@@ -104,7 +104,7 @@
   <!-- EN: Power engineering I -->
   <Electricity.label>电力工程</Electricity.label>
   <!-- EN: description -->
-  <Electricity.description>TODO<!-- 研究如何发电，并将电力用于其他简单的作业。 --></Electricity.description>
+  <Electricity.description>TODO</Electricity.description>
   
   <!-- EN: Enjoyment I -->
   <Enjoyment_A1.label>娱乐 I</Enjoyment_A1.label>
@@ -124,12 +124,12 @@
   <!-- EN: Construction IV -->
   <Firefoam.label>建造技术 IV</Firefoam.label>
   <!-- EN: description -->
-  <Firefoam.description>TODO<!-- 解锁建造「泡沫灭火器」，一种消防设备，感应到火焰时喷出大量的能扑灭火灾的泡沫。 --></Firefoam.description>
+  <Firefoam.description>TODO</Firefoam.description>
   
   <!-- EN: Enjoyment VII -->
   <FlatscreenTelevision.label>娱乐 VII</FlatscreenTelevision.label>
   <!-- EN: description -->
-  <FlatscreenTelevision.description>TODO<!-- 努力让生活变得更加舒适也是一项非常重要的内容，为殖民地解锁望远镜和更好的电视机。 --></FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
   
   <!-- EN: Fortification I -->
   <Fortification_A1.label>防御工事 I</Fortification_A1.label>
@@ -194,22 +194,22 @@
   <!-- EN: Renewable energy V -->
   <GeothermalPower.label>可再生能源 V</GeothermalPower.label>
   <!-- EN: description -->
-  <GeothermalPower.description>TODO<!-- 解锁建造「地热发电机」，建造在蒸汽间歇喷泉上，提供不间断的电力。 --></GeothermalPower.description>
+  <GeothermalPower.description>TODO</GeothermalPower.description>
   
   <!-- EN: Enjoyment III -->
   <Harp.label>娱乐 III</Harp.label>
   <!-- EN: description -->
-  <Harp.description>TODO<!-- 制作竖琴，在某些文化中很受贵族欢迎的一种简单的固定乐器。 --></Harp.description>
+  <Harp.description>TODO</Harp.description>
   
   <!-- EN: Enjoyment IV -->
   <Harpsichord.label>娱乐 IV</Harpsichord.label>
   <!-- EN: description -->
-  <Harpsichord.description>TODO<!-- 制作大键琴，一种复杂的固定乐器。 --></Harpsichord.description>
+  <Harpsichord.description>TODO</Harpsichord.description>
   
   <!-- EN: Fortification IV -->
   <IEDs.label>防御工事 IV</IEDs.label>
   <!-- EN: description -->
-  <IEDs.description>TODO<!-- 进一步研究安全防御设施，解锁利用炮弹建造爆炸物陷阱的能力。同时解锁铁丝网和女墙等防御设施。 --></IEDs.description>
+  <IEDs.description>TODO</IEDs.description>
   
   <!-- EN: Ion satellite broadcaster -->
   <Ion_gun_D1.label>离子卫星系统</Ion_gun_D1.label>
@@ -249,12 +249,12 @@
   <!-- EN: Temperature control I -->
   <PassiveCooler.label>温度控制 I</PassiveCooler.label>
   <!-- EN: description -->
-  <PassiveCooler.description>TODO<!-- 解锁建造「蒸发制冷器」，一种不需要通电即可降温的工具。 --></PassiveCooler.description>
+  <PassiveCooler.description>TODO</PassiveCooler.description>
   
   <!-- EN: Enjoyment V -->
   <Piano.label>娱乐 V</Piano.label>
   <!-- EN: description -->
-  <Piano.description>TODO<!-- 制作钢琴，一种先进的固定乐器。 --></Piano.description>
+  <Piano.description>TODO</Piano.description>
   
   <!-- EN: Renewable energy II -->
   <Renewable_energy_C2.label>可再生能源 II</Renewable_energy_C2.label>
@@ -284,7 +284,7 @@
   <!-- EN: Skywrath -->
   <ResearchSkywrathController.label>天怒控制器</ResearchSkywrathController.label>
   <!-- EN: description -->
-  <ResearchSkywrathController.description>TODO<!-- 不用研究这个东西，这只是MOD作者用来变戏法的东西。 --></ResearchSkywrathController.description>
+  <ResearchSkywrathController.description>TODO</ResearchSkywrathController.description>
   
   <!-- EN: thick stone roofs -->
   <Roof_D2.label>厚岩顶</Roof_D2.label>
@@ -294,7 +294,7 @@
   <!-- EN: Renewable energy III -->
   <SolarPanels.label>可再生能源 III</SolarPanels.label>
   <!-- EN: description -->
-  <SolarPanels.description>TODO<!-- 我们在能源技术上的步伐开始加快，现在我们可以直接利用太阳能了。解锁太阳能发电设备。 --></SolarPanels.description>
+  <SolarPanels.description>TODO</SolarPanels.description>
   
   <!-- EN: Stargate -->
   <Stargate_F1.label>星门技术</Stargate_F1.label>
@@ -384,16 +384,16 @@
   <!-- EN: Transport pods -->
   <TransportPod.label>运输舱</TransportPod.label>
   <!-- EN: description -->
-  <TransportPod.description>TODO<!-- 建造可发射的「运输舱」，可以远距离发射你的人和物资越过行星表面。 --></TransportPod.description>
+  <TransportPod.description>TODO</TransportPod.description>
   
   <!-- EN: Enjoyment VI -->
   <TubeTelevision.label>娱乐 VI</TubeTelevision.label>
   <!-- EN: description -->
-  <TubeTelevision.description>TODO<!-- 努力让生活变得更加舒适也是一项非常重要的内容，为殖民地解锁台球桌以及电视机。 --></TubeTelevision.description>
+  <TubeTelevision.description>TODO</TubeTelevision.description>
   
   <!-- EN: Renewable energy I -->
   <WatermillGenerator.label>可再生能源 I</WatermillGenerator.label>
   <!-- EN: description -->
-  <WatermillGenerator.description>TODO<!-- 解锁建造「水轮发电机」。建造在河流上，提供无消耗不间断的电力。 --></WatermillGenerator.description>
+  <WatermillGenerator.description>TODO</WatermillGenerator.description>
   
 </LanguageData>

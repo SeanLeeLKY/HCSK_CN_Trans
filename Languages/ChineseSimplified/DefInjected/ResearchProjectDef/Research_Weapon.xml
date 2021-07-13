@@ -29,7 +29,7 @@
   <!-- EN: SMG I -->
   <BlowbackOperation.label>冲锋枪 I</BlowbackOperation.label>
   <!-- EN: Be like Big Al -->
-  <BlowbackOperation.description>TODO<!-- 研究解锁先进武器工作台，可以制造更加强大的各类军用标准突击步枪，便携式导弹发射装置以及重机枪等。 --></BlowbackOperation.description>
+  <BlowbackOperation.description>TODO</BlowbackOperation.description>
   
   <!-- EN: Bows I -->
   <Bow_A1.label>弓 I</Bow_A1.label>
@@ -54,17 +54,17 @@
   <!-- EN: Directed-energy weapon -->
   <ChargedShot.label>定向能武器</ChargedShot.label>
   <!-- EN: Phased plasma rifle in the 40-watt range -->
-  <ChargedShot.description>TODO<!-- 解锁建造各类自动火炮诸如高射炮塔等武器。 --></ChargedShot.description>
+  <ChargedShot.description>TODO</ChargedShot.description>
   
   <!-- EN: Shotgun I -->
   <GasOperation.label>霰弹枪 I</GasOperation.label>
   <!-- EN: Very heavy pew -->
-  <GasOperation.description>TODO<!-- 解锁建造14.5mm重机枪炮塔的能力。这种炮塔需要手动操作，使用 14.5mm重机枪子弹。发射速度较慢，但是大口径的子弹威力保证了其强大的压制能力，哪个敌人被它盯上了，就准备在掩体里呆一辈子吧！ --></GasOperation.description>
+  <GasOperation.description>TODO</GasOperation.description>
   
   <!-- EN: Crossbows I -->
   <Greatbow.label>弩 I</Greatbow.label>
   <!-- EN: Not as good as real gun, but silent and cheap -->
-  <Greatbow.description>TODO<!-- 解锁制造强弓和弩等强力武器。 --></Greatbow.description>
+  <Greatbow.description>TODO</Greatbow.description>
   
   <!-- EN: Grenades I -->
   <Grenade_C1.label>榴弹 I</Grenade_C1.label>
@@ -89,12 +89,12 @@
   <!-- EN: Pistols I -->
   <Gunsmithing.label>手枪 I</Gunsmithing.label>
   <!-- EN: Pew-pew -->
-  <Gunsmithing.description>TODO<!-- 学习如何构建电力锻造台和武器制作工作台。\n\n电力锻造台可以用电力进行驱动，无需添加燃料。武器工作台则可以用于加工某些技术程度不高的枪械诸如手枪、步枪等。也可以将不用的武器回收熔炼成为基础资源。 --></Gunsmithing.description>
+  <Gunsmithing.description>TODO</Gunsmithing.description>
   
   <!-- EN: Autoturrets I -->
   <GunTurrets.label>自动炮塔 I</GunTurrets.label>
   <!-- EN: ...use a gun. -->
-  <GunTurrets.description>TODO<!-- 解锁建造基础的自动炮塔，这种内置弱AI的自动武器可以无需人工操作自动攻击范围内的敌人。但是需要手动装填备弹。 --></GunTurrets.description>
+  <GunTurrets.description>TODO</GunTurrets.description>
   
   <!-- EN: Heavy weapons III -->
   <Heavy_C3.label>重型武器 III</Heavy_C3.label>
@@ -134,12 +134,12 @@
   <!-- EN: Melee II -->
   <LongBlades.label>近战武器 II</LongBlades.label>
   <!-- EN: Get me something big and sharp -->
-  <LongBlades.description>TODO<!-- 解锁锻造更加强力的长剑和长矛等。 --></LongBlades.description>
+  <LongBlades.description>TODO</LongBlades.description>
   
   <!-- EN: Guns I -->
   <Machining.label>枪械 I</Machining.label>
   <!-- EN: Good gun is a bad gun, if it dont have ammo -->
-  <Machining.description>TODO<!-- 研究如果将机械应用到基本生产的模式。解锁电力锯台和维修工作台，解锁修理包配方。 --></Machining.description>
+  <Machining.description>TODO</Machining.description>
   
   <!-- EN: Melee III -->
   <Melee_C1.label>近战武器 III</Melee_C1.label>
@@ -184,7 +184,7 @@
   <!-- EN: Sniper rifles II -->
   <PrecisionRifling.label>狙击步枪 II</PrecisionRifling.label>
   <!-- EN: Boom. Headshot. -->
-  <PrecisionRifling.description>TODO<!-- 研究更高层次的金属加工工艺，解锁更加先进的武器加工设施，让殖民地可以生产诸如光束步枪等能量武器。 --></PrecisionRifling.description>
+  <PrecisionRifling.description>TODO</PrecisionRifling.description>
   
   <!-- EN: Guns II -->
   <Range_C2.label>枪械 II</Range_C2.label>
@@ -194,7 +194,7 @@
   <!-- EN: Bows II -->
   <RecurveBow.label>弓 II</RecurveBow.label>
   <!-- EN: But good bow is better -->
-  <RecurveBow.description>TODO<!-- 研究安全防御的基础知识，解锁殖民地基本防御设施诸如沙袋和陷阱等。 --></RecurveBow.description>
+  <RecurveBow.description>TODO</RecurveBow.description>
   
   <!-- EN: Rifles I -->
   <Rifles_C1.label>步枪 I</Rifles_C1.label>
@@ -244,7 +244,7 @@
   <!-- EN: Melee I -->
   <Smithing.label>近战武器 I</Smithing.label>
   <!-- EN: A lil' of the ol' chop-chop -->
-  <Smithing.description>TODO<!-- 解锁建造「锻造台」，将金属打造成武器和工具。 --></Smithing.description>
+  <Smithing.description>TODO</Smithing.description>
   
   <!-- EN: Sniper rifles I -->
   <Sniper_rifles_C1.label>狙击步枪 I</Sniper_rifles_C1.label>
@@ -259,7 +259,7 @@
   <!-- EN: Heavy turrets I -->
   <SniperTurret.label>重型炮塔 I</SniperTurret.label>
   <!-- EN: The answer... -->
-  <SniperTurret.description>TODO<!-- 解锁建造120mm火炮炮台。需要手动操作并装填120mm炮弹。这种炮塔威力、射程和精度都首屈一指，直接命中目标时能造成额外伤害。\n\n同时解锁155mm榴弹炮台。需要手动操作并装填155mm炮弹。这种炮塔可以像迫击炮一样攻击敌人，并且有多种炮弹可以选择。 --></SniperTurret.description>
+  <SniperTurret.description>TODO</SniperTurret.description>
   
   <!-- EN: Turrets I -->
   <Turrets_31.label>炮塔 I</Turrets_31.label>
