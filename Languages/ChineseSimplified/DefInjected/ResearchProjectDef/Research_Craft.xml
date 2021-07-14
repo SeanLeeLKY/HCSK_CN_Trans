@@ -4,7 +4,7 @@
   <!-- EN: Chemistry I -->
   <BiofuelRefining.label>化学 I</BiofuelRefining.label>
   <!-- EN: description -->
-  <BiofuelRefining.description>TODO<!-- 解锁基本的生物化学知识，例如用玉米来制作生物燃料。 --></BiofuelRefining.description>
+  <BiofuelRefining.description>TODO</BiofuelRefining.description>
   
   <!-- EN: Chemistry II -->
   <Chemistry_C2.label>化学 II</Chemistry_C2.label>
@@ -54,7 +54,7 @@
   <!-- EN: Mining III -->
   <DeepDrilling.label>采矿 III</DeepDrilling.label>
   <!-- EN: description -->
-  <DeepDrilling.description>TODO<!-- 解锁建造开采钻井。 --></DeepDrilling.description>
+  <DeepDrilling.description>TODO</DeepDrilling.description>
   
   <!-- EN: Robotics I -->
   <Droids_D1.label>机器人 I</Droids_D1.label>
@@ -144,12 +144,12 @@
   <!-- EN: Mining IV -->
   <GroundPenetratingScanner.label>采矿 IV</GroundPenetratingScanner.label>
   <!-- EN: description -->
-  <GroundPenetratingScanner.description>TODO<!-- 高深的地质物理知识。解锁地址扫描仪和先进矿物提取器以采掘各种稀有矿物。 --></GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
   
   <!-- EN: Mining VI -->
   <LongRangeMineralScanner.label>采矿 VI</LongRangeMineralScanner.label>
   <!-- EN: description -->
-  <LongRangeMineralScanner.description>TODO<!-- 解锁建造「远距离矿物扫描仪」，可自动探测附近区域（非扫描仪所在区域）的稀有矿物，比如黄金或翡翠，建造时需要高级零部件。\n\n可以调整为只寻找特定矿物。 --></LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>TODO</LongRangeMineralScanner.description>
   
   <!-- EN: Metal processing II -->
   <Metals_C1.label>金属加工 II</Metals_C1.label>
@@ -174,7 +174,7 @@
   <!-- EN: Electronics I -->
   <MicroelectronicsBasics.label>电子学 I</MicroelectronicsBasics.label>
   <!-- EN: description -->
-  <MicroelectronicsBasics.description>TODO<!-- 用精密复杂的电子进行工作的基础。解锁制造高集成度的芯片产品以及矿物声呐模组。 --></MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.description>TODO</MicroelectronicsBasics.description>
   
   <!-- EN: Mining I -->
   <Mining_B1.label>采矿 I</Mining_B1.label>
@@ -189,7 +189,7 @@
   <!-- EN: Research technologies V -->
   <MultiAnalyzer.label>科研技术 V</MultiAnalyzer.label>
   <!-- EN: description -->
-  <MultiAnalyzer.description>TODO<!-- 通过进一步的数据分析得出更加优解的工作流程，能够让殖民地建造提高工作效率的设施。解锁多元分析仪。 --></MultiAnalyzer.description>
+  <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
   
   <!-- EN: Oil production I -->
   <Oil_Industry_C1.label>原油生产 I</Oil_Industry_C1.label>
@@ -264,7 +264,7 @@
   <!-- EN: Mining V -->
   <ResearchMobileMineralSonarEnhancedScan.label>采矿 V</ResearchMobileMineralSonarEnhancedScan.label>
   <!-- EN: description -->
-  <ResearchMobileMineralSonarEnhancedScan.description>TODO<!-- 通过在矿物声纳技术降噪算法做一些代码重构，你的研究人员可以提高矿物扫描雷达效率。\n-提高矿物声纳技术，以提升矿物扫描雷达效率。 --></ResearchMobileMineralSonarEnhancedScan.description>
+  <ResearchMobileMineralSonarEnhancedScan.description>TODO</ResearchMobileMineralSonarEnhancedScan.description>
   
   <!-- EN: Starflight basics -->
   <ShipBasics.label>航天学</ShipBasics.label>
@@ -301,7 +301,7 @@
   <!-- EN: Stone processing I -->
   <Stonecutting.label>石料加工 I</Stonecutting.label>
   <!-- EN: description -->
-  <Stonecutting.description>TODO<!-- 解锁切石工作设施，可以用于将各种石块切制成建筑用的标准石砖。 --></Stonecutting.description>
+  <Stonecutting.description>TODO</Stonecutting.description>
   
   <!-- EN: Stone processing II -->
   <Stones_C1.label>石料加工 II</Stones_C1.label>

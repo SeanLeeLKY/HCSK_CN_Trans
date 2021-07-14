@@ -4,7 +4,7 @@
   <!-- EN: Fruit Plants II -->
   <Cocoa.label>水果植物 II</Cocoa.label>
   <!-- EN: description -->
-  <Cocoa.description>TODO<!-- 对树木的培育技术有了更深的研究，现在殖民者们可以种植培育橡树、松树和柚木。 --></Cocoa.description>
+  <Cocoa.description>TODO</Cocoa.description>
   
   <!-- EN: Agriculture II -->
   <Cultivation_C1.label>农业 II</Cultivation_C1.label>
@@ -19,7 +19,7 @@
   <!-- EN: Fabric Plants IV -->
   <Devilstrand.label>纤纺植物 IV</Devilstrand.label>
   <!-- EN: description -->
-  <Devilstrand.description>TODO<!-- 对农作物的培育技术有了进一步的了解，现在殖民者们可以种植培恶魔菇。 --></Devilstrand.description>
+  <Devilstrand.description>TODO</Devilstrand.description>
   
   <!-- EN: Drug plants I -->
   <Drug_plants_A1.label>药用植物 I</Drug_plants_A1.label>
@@ -69,7 +69,7 @@
   <!-- EN: Fruit Plants I -->
   <Fruit_Plants_B1.label>水果植物 I</Fruit_Plants_B1.label>
   <!-- EN: description -->
-  <Fruit_Plants_B1.description>TODO</Fruit_Plants_B1.descriptiIon>
+  <Fruit_Plants_B1.description>TODO</Fruit_Plants_B1.description>
   
   <!-- EN: Fungiponics I -->
   <Fungiponics_A1.label>菌类培育 I</Fungiponics_A1.label>
@@ -119,6 +119,6 @@
   <!-- EN: Trees I -->
   <TreeSowing.label>树木种植 I</TreeSowing.label>
   <!-- EN: description -->
-  <TreeSowing.description>TODO<!-- 研究如何种植培育树木，解锁天蚕树和竹子。 --></TreeSowing.description>
+  <TreeSowing.description>TODO</TreeSowing.description>
   
 </LanguageData>
