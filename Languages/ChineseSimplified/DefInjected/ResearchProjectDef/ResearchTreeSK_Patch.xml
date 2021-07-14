@@ -3,18 +3,18 @@
 
     <!-- A Dog Said... Animal Prosthetics -->
 
-    <Animal_B1.label>Simple animal prostheses</Animal_B1.label>
-    <Animal_B1.description>Healing for your animals!</Animal_B1.description>
+    <Animal_B1.label>简易动物义肢</Animal_B1.label>
+    <Animal_B1.description>治疗动物们！</Animal_B1.description>
 
-    <Animal_C2.label>Bionics for animals</Animal_C2.label>
-    <Animal_C2.description>Your muffalo lost his legs? Dont worry, now you can fix that!</Animal_C2.description>
+    <Animal_C2.label>动物仿生体</Animal_C2.label>
+    <Animal_C2.description>你的牛儿少了一条腿？别担心，现在你可以修复它了！</Animal_C2.description>
 
-    <Animal_D1.label>Animal Healing</Animal_D1.label>
-    <Animal_D1.description>Learn to heal old wounds on animals</Animal_D1.description>
+    <Animal_D1.label>动物医疗</Animal_D1.label>
+    <Animal_D1.description>学习如何医治动物的旧伤。</Animal_D1.description>
 
     <!-- Children, school and learning -->
 
-    <Contraceptions_C1.label>Contraceptions</Contraceptions_C1.label>
+    <Contraceptions_C1.label>节育措施</Contraceptions_C1.label>
     <Contraceptions_C1.description>description</Contraceptions_C1.description>
 
     <!--  Dubs Bad Hygiene -->
@@ -40,40 +40,40 @@
     <Hygiene_2A.label>卫生 VII</Hygiene_2A.label>
     <Hygiene_2A.description>TODO</Hygiene_2A.description>
 
-    <Hygiene_31.label>卫生 VII</Hygiene_31.label>
+    <Hygiene_31.label>卫生 VIII</Hygiene_31.label>
     <Hygiene_31.description>TODO</Hygiene_31.description>
 
     <!-- NewRatkinPlus -->
 
-    <Ratkin_Apparel_B1.label>Ratkin cloth I</Ratkin_Apparel_B1.label>
+    <Ratkin_Apparel_B1.label>鼠族衣物 I</Ratkin_Apparel_B1.label>
     <Ratkin_Apparel_B1.description>description</Ratkin_Apparel_B1.description>
 
-    <Ratkin_Apparel_B2.label>Ratkin cloth II</Ratkin_Apparel_B2.label>
-    <Ratkin_Apparel_B2.description>Ratkin cloth II</Ratkin_Apparel_B2.description>
+    <Ratkin_Apparel_B2.label>鼠族衣物 II</Ratkin_Apparel_B2.label>
+    <Ratkin_Apparel_B2.description>鼠族衣物 II</Ratkin_Apparel_B2.description>
 
-    <Ratkin_Armor_B1.label>Ratkin armor I</Ratkin_Armor_B1.label>
-    <Ratkin_Armor_B1.description>Ratkin armor I</Ratkin_Armor_B1.description>
+    <Ratkin_Armor_B1.label>鼠族护甲 I</Ratkin_Armor_B1.label>
+    <Ratkin_Armor_B1.description>鼠族护甲 I</Ratkin_Armor_B1.description>
 
-    <Ratkin_Apparel_C1.label>Ratkin cloth III</Ratkin_Apparel_C1.label>
-    <Ratkin_Apparel_C1.description>Ratkin cloth III</Ratkin_Apparel_C1.description>
+    <Ratkin_Apparel_C1.label>鼠族衣物 III</Ratkin_Apparel_C1.label>
+    <Ratkin_Apparel_C1.description>鼠族衣物 III</Ratkin_Apparel_C1.description>
 
-    <Ratkin_Armor_D1.label>Ratkin armor II</Ratkin_Armor_D1.label>
-    <Ratkin_Armor_D1.description>Ratkin armor II</Ratkin_Armor_D1.description>
+    <Ratkin_Armor_D1.label>鼠族护甲 II</Ratkin_Armor_D1.label>
+    <Ratkin_Armor_D1.description>鼠族护甲 II</Ratkin_Armor_D1.description>
 
     <!-- MineralsFrozen_SK -->
 
-    <Ice_Stuff_A1.label>Frozen Construction I</Ice_Stuff_A1.label>
-    <Ice_Stuff_A1.description>Make things out of snow.</Ice_Stuff_A1.description>
+    <Ice_Stuff_A1.label>冰冻建筑 I</Ice_Stuff_A1.label>
+    <Ice_Stuff_A1.description>用雪建造东西。</Ice_Stuff_A1.description>
 
-    <Ice_Stuff_A2.label>Frozen Construction II</Ice_Stuff_A2.label>
-    <Ice_Stuff_A2.description>Make things out of ice.</Ice_Stuff_A2.description>
+    <Ice_Stuff_A2.label>冰冻建筑 II</Ice_Stuff_A2.label>
+    <Ice_Stuff_A2.description>用冰建造东西。</Ice_Stuff_A2.description>
 
-    <Ice_Stuff_A3.label>Frozen Construction III</Ice_Stuff_A3.label>
-    <Ice_Stuff_A3.description>Make more things out of pykrete.</Ice_Stuff_A3.description>
+    <Ice_Stuff_A3.label>冰冻建筑 III</Ice_Stuff_A3.label>
+    <Ice_Stuff_A3.description>用复合冰雪材料建造更多东西。</Ice_Stuff_A3.description>
 
     <!-- Industrial Rollers -->
 
-    <Assembly_C1.label>Industrial Conveyors</Assembly_C1.label>
-    <Assembly_C1.description>Improve your production lines by automating hauling and material delivery.</Assembly_C1.description>
+    <Assembly_C1.label>工业传送带</Assembly_C1.label>
+    <Assembly_C1.description>通过自动化材料运输科技来改善您的生产线。</Assembly_C1.description>
 
 </LanguageData>
