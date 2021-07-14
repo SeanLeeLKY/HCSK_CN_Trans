@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animal husbandry I -->
+  <Animal_A1.label>畜牧业 I</Animal_A1.label>
+  <!-- EN: Allows you to care about your animals -->
+  <Animal_A1.description>现在你可以好好照顾你的动物们了。</Animal_A1.description>
+  
+  <!-- EN: Animal husbandry II -->
+  <Animal_A2.label>畜牧业 II</Animal_A2.label>
+  <!-- EN: Allow you to make some food for your animals, and some cool stuff for your cats -->
+  <Animal_A2.description>现在你可以为动物们制作一些饲料，还特别为猫咪们准备了一些很厉害的“玩意”。</Animal_A2.description>
+  
+  <!-- EN: Animal husbandry III -->
+  <Animal_C1.label>畜牧业 III</Animal_C1.label>
+  <!-- EN: Beds for animals to every house! -->
+  <Animal_C1.description>现在动物们也可以在房间中有自己的床了。</Animal_C1.description>
+  
+  <!-- EN: Fishing I -->
+  <Fish_A1.label>渔业 I</Fish_A1.label>
+  <!-- EN: This one allows you to fish(its really cool for your pawns!) -->
+  <Fish_A1.description>解锁渔业的功能，殖民者们现在可以捕鱼了。</Fish_A1.description>
+  
+  <!-- EN: Fishing II -->
+  <Fish_C1.label>渔业 II</Fish_C1.label>
+  <!-- EN: Fishing has never been so easy! -->
+  <Fish_C1.description>捕鱼可不是一件简单的事情！</Fish_C1.description>
+  
+</LanguageData>

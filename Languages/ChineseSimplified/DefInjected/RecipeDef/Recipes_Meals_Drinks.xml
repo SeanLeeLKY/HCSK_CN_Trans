@@ -22,13 +22,6 @@
   <!-- EN: Mixing milk with chocolate. -->
   <MakeChocoMilk.jobString>正在调制 巧克力牛奶。</MakeChocoMilk.jobString>
   
-  <!-- EN: mix bulk chocolate milk -->
-  <MakeChocoMilk_Bulk.label>调制 巧克力牛奶（批量）</MakeChocoMilk_Bulk.label>
-  <!-- EN: Mix milk or soy milk with chocolate for tastier beverages. Produces 10. -->
-  <MakeChocoMilk_Bulk.description>用各种奶或者代奶，再加上巧克力精心烹制而成的一种美味饮料。 \n\n产出：10。</MakeChocoMilk_Bulk.description>
-  <!-- EN: Mixing milk with chocolate. -->
-  <MakeChocoMilk_Bulk.jobString>正在调制 巧克力牛奶。</MakeChocoMilk_Bulk.jobString>
-  
   <!-- EN: press fruit drinks -->
   <MakeFruitDrink.label>榨制 水果饮料</MakeFruitDrink.label>
   <!-- EN: Press fruit to make some tasty fruit drinks. Produces 3. -->

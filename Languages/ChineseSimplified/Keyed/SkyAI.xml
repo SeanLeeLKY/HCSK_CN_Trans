@@ -1,191 +1,362 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
 	<!-- Specific -->
-	<SkyAI.Cells>格</SkyAI.Cells>
-	<SkyAI.Kg>千克</SkyAI.Kg>
+	<!-- EN: cells -->
+  <SkyAI.Cells>格</SkyAI.Cells>
+	<!-- EN: kg -->
+  <SkyAI.Kg>千克</SkyAI.Kg>
 
 	<!-- Siege AI -->
-	<SkyAI.SiegeAILabel>围攻AI</SkyAI.SiegeAILabel>
-	<SkyAI.CanMineMineablesLabel>启用敌人开采挖掘</SkyAI.CanMineMineablesLabel>
-	<SkyAI.CanMineMineablesDesc>敌人在对付岩石等可开采物的时候使用采矿技能进行挖掘，而不是直接攻击。</SkyAI.CanMineMineablesDesc>
-	<SkyAI.CanMineWallsLabel>启用敌人开采墙面</SkyAI.CanMineWallsLabel>
-	<SkyAI.CanMineWallsDesc>敌人在对付墙面的时候使用采矿技能进行挖掘，而不是直接攻击。</SkyAI.CanMineWallsDesc>
-	<SkyAI.MainBlowTacticLabel>启用主力攻击围攻战术</SkyAI.MainBlowTacticLabel>
-	<SkyAI.MainBlowTacticDesc>临时禁止</SkyAI.MainBlowTacticDesc>
-	<SkyAI.ScaleRaidWidthLabel>按敌人数量调整袭击宽度</SkyAI.ScaleRaidWidthLabel>
-	<SkyAI.ScaleRaidWidthDesc>袭击宽度按照敌人数量进行调整。默认袭击宽度为半径25格的区域。</SkyAI.ScaleRaidWidthDesc>
-	<SkyAI.GatherTroopsLabel>启用首领在附近聚集部队</SkyAI.GatherTroopsLabel>
-	<SkyAI.GatherTroopsDesc>在进攻前，敌人首领会在玩家的基地附近集结部队，这样敌军人员就有时间在进攻前汇合到一起行动。</SkyAI.GatherTroopsDesc>
-	<SkyAI.GatherRangeLabel>聚集位置范围因数</SkyAI.GatherRangeLabel>
-	<SkyAI.GatherRangeDesc>敌人可以从生成地点选择多远的聚集地点。</SkyAI.GatherRangeDesc>
-	<SkyAI.MinSquadLabel>小队最低人员数量</SkyAI.MinSquadLabel>
-	<SkyAI.MinSquadDesc>小队最低人员数量。</SkyAI.MinSquadDesc>
-	<SkyAI.MaxSquadLabel>最大小队数量</SkyAI.MaxSquadLabel>
-	<SkyAI.MaxSquadDesc>一次袭击的最大小队数量。</SkyAI.MaxSquadDesc>
-	<SkyAI.DestroyersExDelayLabel>攻城者调整延迟</SkyAI.DestroyersExDelayLabel>
-	<SkyAI.DestroyersExDelayDesc>携带攻城武器的人员，因为某些原因而迟迟不能寻找到攻城目标时，将会转变为接触战AI控制。转变延迟设置计数？计数数量为经过多少次调用后，围攻AI转换为新AI。</SkyAI.DestroyersExDelayDesc>
+	<!-- EN: Siege AI -->
+  <SkyAI.SiegeAILabel>围攻AI</SkyAI.SiegeAILabel>
+	<!-- EN: Enable enemy can mine mineables -->
+  <SkyAI.CanMineMineablesLabel>启用敌人开采挖掘</SkyAI.CanMineMineablesLabel>
+	<!-- EN: Pawns will be able to use the digging skill for rocks instead of attacking them. -->
+  <SkyAI.CanMineMineablesDesc>敌人在对付岩石等可开采物的时候使用采矿技能进行挖掘，而不是直接攻击。</SkyAI.CanMineMineablesDesc>
+	<!-- EN: Enable enemy can mine walls -->
+  <SkyAI.CanMineWallsLabel>启用敌人开采墙面</SkyAI.CanMineWallsLabel>
+	<!-- EN: Pawns will be able to use the digging skill for walls instead of attacking them. -->
+  <SkyAI.CanMineWallsDesc>敌人在对付墙面的时候使用采矿技能进行挖掘，而不是直接攻击。</SkyAI.CanMineWallsDesc>
+	<!-- EN: Enable main blow siege tactic -->
+  <SkyAI.MainBlowTacticLabel>启用主力攻击围攻战术</SkyAI.MainBlowTacticLabel>
+	<!-- EN: Temp. disabled -->
+  <SkyAI.MainBlowTacticDesc>临时禁止</SkyAI.MainBlowTacticDesc>
+	<!-- EN: Scale raid width by enemy raid count -->
+  <SkyAI.ScaleRaidWidthLabel>按敌人数量调整袭击宽度</SkyAI.ScaleRaidWidthLabel>
+	<!-- EN: The width of the raid depends on the number of pawns in the raid. The default raid width is 25 cells in radius. -->
+  <SkyAI.ScaleRaidWidthDesc>袭击宽度按照敌人数量进行调整。默认袭击宽度为半径25格的区域。</SkyAI.ScaleRaidWidthDesc>
+	<!-- EN: Enable leader gathers troops near colony -->
+  <SkyAI.GatherTroopsLabel>启用首领在附近聚集部队</SkyAI.GatherTroopsLabel>
+	<!-- EN: Before the attack, the raid leader will gather troops near the player's base, so the enemy pawn have time to reach the duty point before attack. -->
+  <SkyAI.GatherTroopsDesc>在进攻前，敌人首领会在玩家的基地附近集结部队，这样敌军人员就有时间在进攻前汇合到一起行动。</SkyAI.GatherTroopsDesc>
+	<!-- EN: Gather position range multiplier -->
+  <SkyAI.GatherRangeLabel>聚集位置范围因数</SkyAI.GatherRangeLabel>
+	<!-- EN: How far the raid can select the gathering location from the spawn location. -->
+  <SkyAI.GatherRangeDesc>敌人可以从生成地点选择多远的聚集地点。</SkyAI.GatherRangeDesc>
+	<!-- EN: Min. squad pawn amount -->
+  <SkyAI.MinSquadLabel>小队最低人员数量</SkyAI.MinSquadLabel>
+	<!-- EN: The minimum number of pawns a squad should have. -->
+  <SkyAI.MinSquadDesc>小队最低人员数量。</SkyAI.MinSquadDesc>
+	<!-- EN: Max. squad count -->
+  <SkyAI.MaxSquadLabel>最大小队数量</SkyAI.MaxSquadLabel>
+	<!-- EN: The maximum number of squad units that can create a raid. -->
+  <SkyAI.MaxSquadDesc>一次袭击的最大小队数量。</SkyAI.MaxSquadDesc>
+	<!-- EN: Destroyers exclusion delay -->
+  <SkyAI.DestroyersExDelayLabel>攻城者调整延迟</SkyAI.DestroyersExDelayLabel>
+	<!-- EN: Pawns with siege weapons, which for some reason cannot find a target for an attack for a long time, are included in the exclusion list and go into close combat. What is the delay to get out of the list back? Delay in the number of calls to the siege AI for a new job. -->
+  <SkyAI.DestroyersExDelayDesc>携带攻城武器的人员，因为某些原因而迟迟不能寻找到攻城目标时，将会转变为接触战AI控制。转变延迟设置计数？计数数量为经过多少次调用后，围攻AI转换为新AI。</SkyAI.DestroyersExDelayDesc>
 	
 	<!-- Roles and Modes -->
-	<SkyAI.RolesAndModesLabel>角色和模式</SkyAI.RolesAndModesLabel>
-	<SkyAI.SupporterRoleLabel>启用支援者角色</SkyAI.SupporterRoleLabel>
-	<SkyAI.SupporterRoleDesc>支援者的作用是掩护主攻区的攻击群体。如果该区域有足够多的攻击者，志愿者就会倾向于掩护，而不是试图攻击其它建筑。</SkyAI.SupporterRoleDesc>
-	<SkyAI.MechSupporterRoleLabel>启用机械族支援者角色</SkyAI.MechSupporterRoleLabel>
-	<SkyAI.MechSupporterRoleDesc>机械族也将会使用支援战术？</SkyAI.MechSupporterRoleDesc>
-	<SkyAI.DestroyerRoleLabel>启用攻城者角色</SkyAI.DestroyerRoleLabel>
-	<SkyAI.DestroyerRoleDesc>某些携带了对建筑物有伤害加成武器的人员会被指定为攻城者角色。</SkyAI.DestroyerRoleDesc>
-	<SkyAI.SniperRoleLabel>启用狙击手角色</SkyAI.SniperRoleLabel>
-	<SkyAI.SniperRoleDesc>某些携带了狙击武器的人员会被指定为狙击手角色，并且会试图在较远的距离压制敌方目标。</SkyAI.SniperRoleDesc>
-	<SkyAI.DoctorRoleLabel>启用野战医生角色</SkyAI.DoctorRoleLabel>
-	<SkyAI.DoctorRoleDesc>小队中会出现野战医生。</SkyAI.DoctorRoleDesc>
-	<SkyAI.LeaderRoleLabel>启用首领角色</SkyAI.LeaderRoleLabel>
-	<SkyAI.LeaderRoleDesc>小队会生成进攻首领。</SkyAI.LeaderRoleDesc>
-	<SkyAI.ExtinguishFireLabel>启用盟友灭火模式</SkyAI.ExtinguishFireLabel>
-	<SkyAI.ExtinguishFireDesc>AI会试图扑灭盟友身上的火焰。</SkyAI.ExtinguishFireDesc>
-	<SkyAI.ResqueAlliesLabel>启用盟友拯救模式</SkyAI.ResqueAlliesLabel>
-	<SkyAI.ResqueAlliesDesc>当进行撤离行为时，AI会尽可能的带走盟友的受伤人员和尸体。</SkyAI.ResqueAlliesDesc>
-	<SkyAI.StealingLabel>启用偷窃模式</SkyAI.StealingLabel>
-	<SkyAI.StealingDesc>AI会试图偷走东西。而不仅仅是在袭击撤离时偷窃。</SkyAI.StealingDesc>
-	<SkyAI.LeaderCombatAuraLabel>启用袭击首领战斗光环</SkyAI.LeaderCombatAuraLabel>
-	<SkyAI.LeaderCombatAuraDesc>袭击首领将会自带战斗光环，提升附近队伍人员的战斗能力。</SkyAI.LeaderCombatAuraDesc>
-	<SkyAI.SquadLeaderCombatAuraLabel>启用小队长战斗光环</SkyAI.SquadLeaderCombatAuraLabel>
-	<SkyAI.SquadLeaderCombatAuraDesc>袭击小队长将会自带战斗光环，提升附近小队人员的战斗能力。</SkyAI.SquadLeaderCombatAuraDesc>
-	<SkyAI.SuppressionFireLabel>启用敌方压制火力模式</SkyAI.SuppressionFireLabel>
-	<SkyAI.SuppressionFireDesc>小队枪手、狙击手会试图压制出现在视野中的敌方人员。</SkyAI.SuppressionFireDesc>
-	<SkyAI.AdvancedSuppressionFireLabel>启用敌方高级压制火力模式</SkyAI.AdvancedSuppressionFireLabel>
-	<SkyAI.AdvancedSuppressionFireDesc>小队中的机枪手，会持续使用火力压制敌方人员。</SkyAI.AdvancedSuppressionFireDesc>
-	<SkyAI.SquadSuppressionRatioLabel>小队最大压制比率</SkyAI.SquadSuppressionRatioLabel>
-	<SkyAI.SquadSuppressionRatioDesc>被分配压制敌人点位的小队百分比。</SkyAI.SquadSuppressionRatioDesc>
-	<SkyAI.MinDistanceGoalPositionLabel>到目标位置的最小距离</SkyAI.MinDistanceGoalPositionLabel>
-	<SkyAI.MinDistanceGoalPositionDesc>人员开始搜索建筑目标进行攻击的距离。数值越大，寻路开销就越大。</SkyAI.MinDistanceGoalPositionDesc>
-	<SkyAI.MinWeaponWeightLabel>被视为轻型武器的最小武器重量</SkyAI.MinWeaponWeightLabel>
-	<SkyAI.MinWeaponWeightDesc>如果人员携带的武器超过重量阈值，此人员将不会被指定为某些角色，比如战地医生等。</SkyAI.MinWeaponWeightDesc>
-	<SkyAI.MinEffectiveRangeLabel>有效距离的最小范围</SkyAI.MinEffectiveRangeLabel>
-	<SkyAI.MinEffectiveRangeDesc>根据敌方位置，使用武器有效射程计算位置选择时适用的最小距离。</SkyAI.MinEffectiveRangeDesc>
+	<!-- EN: Roles and Modes -->
+  <SkyAI.RolesAndModesLabel>角色和模式</SkyAI.RolesAndModesLabel>
+	<!-- EN: Enable supporter role -->
+  <SkyAI.SupporterRoleLabel>启用支援者角色</SkyAI.SupporterRoleLabel>
+	<!-- EN: The role of the support is to cover the group of attackers in the main attack area. If there are enough attackers in the zone, the pawns will tend to cover, instead of trying to attack another free (not-reserved) building. -->
+  <SkyAI.SupporterRoleDesc>支援者的作用是掩护主攻区的攻击群体。如果该区域有足够多的攻击者，支援者就会倾向于掩护，而不是试图攻击其它建筑。</SkyAI.SupporterRoleDesc>
+	<!-- EN: Enable mechanoid will use support role -->
+  <SkyAI.MechSupporterRoleLabel>启用机械族支援者角色</SkyAI.MechSupporterRoleLabel>
+	<!-- EN: Will mechanoids use support tactics? -->
+  <SkyAI.MechSupporterRoleDesc>机械族也将会使用支援战术？</SkyAI.MechSupporterRoleDesc>
+	<!-- EN: Enable destroyer role -->
+  <SkyAI.DestroyerRoleLabel>启用攻城者角色</SkyAI.DestroyerRoleLabel>
+	<!-- EN: Pawns with the main weapon capable of inflicting big damage on buildings are assigned to the role of destroyers. -->
+  <SkyAI.DestroyerRoleDesc>某些携带了对建筑物有伤害加成武器的人员会被指定为攻城者角色。</SkyAI.DestroyerRoleDesc>
+	<!-- EN: Enable sniper role -->
+  <SkyAI.SniperRoleLabel>启用狙击手角色</SkyAI.SniperRoleLabel>
+	<!-- EN: Pawns with sniper weapons are assigned to the role of snipers and will try to cover and target enemies from afar. -->
+  <SkyAI.SniperRoleDesc>某些携带了狙击武器的人员会被指定为狙击手角色，并且会试图在较远的距离压制敌方目标。</SkyAI.SniperRoleDesc>
+	<!-- EN: Enable field doctor role -->
+  <SkyAI.DoctorRoleLabel>启用野战医生角色</SkyAI.DoctorRoleLabel>
+	<!-- EN: NPC squads will create field doctors. -->
+  <SkyAI.DoctorRoleDesc>小队中会出现野战医生。</SkyAI.DoctorRoleDesc>
+	<!-- EN: Enable leader role -->
+  <SkyAI.LeaderRoleLabel>启用首领角色</SkyAI.LeaderRoleLabel>
+	<!-- EN: NPC raid will create raid leader. -->
+  <SkyAI.LeaderRoleDesc>小队会生成进攻首领。</SkyAI.LeaderRoleDesc>
+	<!-- EN: Enable fire extinguish allies mode -->
+  <SkyAI.ExtinguishFireLabel>启用盟友灭火模式</SkyAI.ExtinguishFireLabel>
+	<!-- EN: AI will try to extinguish allies from fire. -->
+  <SkyAI.ExtinguishFireDesc>AI会试图扑灭盟友身上的火焰。</SkyAI.ExtinguishFireDesc>
+	<!-- EN: Enable rescue allies mode -->
+  <SkyAI.ResqueAlliesLabel>启用盟友拯救模式</SkyAI.ResqueAlliesLabel>
+	<!-- EN: When retreating, the AI will, if possible, evacuate the wounded and the corpses of allies. -->
+  <SkyAI.ResqueAlliesDesc>当进行撤离行为时，AI会尽可能的带走盟友的受伤人员和尸体。</SkyAI.ResqueAlliesDesc>
+	<!-- EN: Enable stealing mode -->
+  <SkyAI.StealingLabel>启用偷窃模式</SkyAI.StealingLabel>
+	<!-- EN: Ai will try to steal something. Not only when the raid leaves with steal duty. -->
+  <SkyAI.StealingDesc>AI会试图偷走东西。而不仅仅是在袭击撤离时偷窃。</SkyAI.StealingDesc>
+	<!-- EN: Enable raid leader combat aura -->
+  <SkyAI.LeaderCombatAuraLabel>启用袭击首领战斗光环</SkyAI.LeaderCombatAuraLabel>
+	<!-- EN: The raid leader will have a combat aura and improve the combat capabilities of the squad around. -->
+  <SkyAI.LeaderCombatAuraDesc>袭击首领将会自带战斗光环，提升附近队伍人员的战斗能力。</SkyAI.LeaderCombatAuraDesc>
+	<!-- EN: Enable squad commander combat aura -->
+  <SkyAI.SquadLeaderCombatAuraLabel>启用小队长战斗光环</SkyAI.SquadLeaderCombatAuraLabel>
+	<!-- EN: The squad commanders will have a combat aura and improve the combat capabilities of the group around. -->
+  <SkyAI.SquadLeaderCombatAuraDesc>袭击小队长将会自带战斗光环，提升附近小队人员的战斗能力。</SkyAI.SquadLeaderCombatAuraDesc>
+	<!-- EN: Enable enemy suppression fire mode -->
+  <SkyAI.SuppressionFireLabel>启用敌方压制火力模式</SkyAI.SuppressionFireLabel>
+	<!-- EN: Enemy gunners, snipers will try to keep on sight enemy defensive positions. -->
+  <SkyAI.SuppressionFireDesc>小队枪手、狙击手会试图压制出现在视野中的敌方人员。</SkyAI.SuppressionFireDesc>
+	<!-- EN: Enable enemy advanced suppression fire mode -->
+  <SkyAI.AdvancedSuppressionFireLabel>启用敌方高级压制火力模式</SkyAI.AdvancedSuppressionFireLabel>
+	<!-- EN: Enemy machine gunners, will try constantly suppress enemy defensive positions. -->
+  <SkyAI.AdvancedSuppressionFireDesc>小队中的机枪手，会持续使用火力压制敌方人员。</SkyAI.AdvancedSuppressionFireDesc>
+	<!-- EN: Max suppression squad ratio -->
+  <SkyAI.SquadSuppressionRatioLabel>小队最大压制比率</SkyAI.SquadSuppressionRatioLabel>
+	<!-- EN: Percentage of the squad that will be allocated to suppress enemy positions. -->
+  <SkyAI.SquadSuppressionRatioDesc>被分配压制敌人点位的小队百分比。</SkyAI.SquadSuppressionRatioDesc>
+	<!-- EN: Min. distance to goal position -->
+  <SkyAI.MinDistanceGoalPositionLabel>到目标位置的最小距离</SkyAI.MinDistanceGoalPositionLabel>
+	<!-- EN: The distance from which pawns begin to search for building targets to attack. The greater the value, the higher the burden of pathfinding. -->
+  <SkyAI.MinDistanceGoalPositionDesc>人员开始搜索建筑目标进行攻击的距离。数值越大，寻路开销就越大。</SkyAI.MinDistanceGoalPositionDesc>
+	<!-- EN: Min. weapon weight to consider as light weapon -->
+  <SkyAI.MinWeaponWeightLabel>被视为轻型武器的最小武器重量</SkyAI.MinWeaponWeightLabel>
+	<!-- EN: If a pawn has a weapon mass greater than this value, it will not be considered for example, for the role of doctor. -->
+  <SkyAI.MinWeaponWeightDesc>如果人员携带的武器超过重量阈值，此人员将不会被指定为某些角色，比如战地医生等。</SkyAI.MinWeaponWeightDesc>
+	<!-- EN: Min. range for effective range -->
+  <SkyAI.MinEffectiveRangeLabel>有效距离的最小范围</SkyAI.MinEffectiveRangeLabel>
+	<!-- EN: The minimum distance to be applied to calculate position selection with using pawn weapon effective range based on an enemy position. -->
+  <SkyAI.MinEffectiveRangeDesc>根据敌方位置，使用武器有效射程计算位置选择时适用的最小距离。</SkyAI.MinEffectiveRangeDesc>
 	
 	<!-- Leaving and retreating -->	
-	<SkyAI.LeavingAndRetreatingLabel>离开和撤退</SkyAI.LeavingAndRetreatingLabel>
-	<SkyAI.SaveExitSpotsLabel>启用保存出口点</SkyAI.SaveExitSpotsLabel>
-	<SkyAI.SaveExitSpotsDesc>改进了从地图上寻找出口的方法，预计敌人可能出现在地图上的线路。</SkyAI.SaveExitSpotsDesc>
-	<SkyAI.CommonExitSpotsLabel>启用普通出口点</SkyAI.CommonExitSpotsLabel>
-	<SkyAI.CommonExitSpotsDesc>离开地图时，人员会试图往一个方向移动。</SkyAI.CommonExitSpotsDesc>
-	<SkyAI.EscapeChanceNoWeaponLabel>启用无武器敌人有几率逃离</SkyAI.EscapeChanceNoWeaponLabel>
-	<SkyAI.EscapeChanceNoWeaponDesc>没有主武器的敌人有几率逃离。人格特性会影响此数值。</SkyAI.EscapeChanceNoWeaponDesc> 
-	<SkyAI.EscapeChanceExhaustedLabel>启用疲劳敌人有几率逃离</SkyAI.EscapeChanceExhaustedLabel> 
-	<SkyAI.EscapeChanceExhaustedDesc>体力耗尽的敌人有几率逃离。人格特性会影响此数值。</SkyAI.EscapeChanceExhaustedDesc> 
-	<SkyAI.EscapeChanceWoundedLabel>启用受伤敌人有几率逃离</SkyAI.EscapeChanceWoundedLabel>
-	<SkyAI.EscapeChanceWoundedDesc>受伤的敌人有几率逃离。人格特性会影响此数值。</SkyAI.EscapeChanceWoundedDesc>
-	<SkyAI.EscapeChanceTempInjLabel>启用受温度影响的敌人有几率逃离</SkyAI.EscapeChanceTempInjLabel>
-	<SkyAI.EscapeChanceTempInjDesc>人员受到环境温度影响（例如冻伤、灼烧等）时有几率逃离。</SkyAI.EscapeChanceTempInjDesc>
-	<SkyAI.EscapeChanceMultiplierLabel>逃离几率因数</SkyAI.EscapeChanceMultiplierLabel>
-	<SkyAI.EscapeChanceMultiplierDesc>影响逃离几率的因数。</SkyAI.EscapeChanceMultiplierDesc>
+	<!-- EN: Leaving and retreating -->
+  <SkyAI.LeavingAndRetreatingLabel>离开和撤退</SkyAI.LeavingAndRetreatingLabel>
+	<!-- EN: Enable save exit spots -->
+  <SkyAI.SaveExitSpotsLabel>启用保存出口点</SkyAI.SaveExitSpotsLabel>
+	<!-- EN: Improved finding an exit from the map, taking into account possible enemies on the route. -->
+  <SkyAI.SaveExitSpotsDesc>改进了从地图上寻找出口的方法，预计敌人可能出现在地图上的线路。</SkyAI.SaveExitSpotsDesc>
+	<!-- EN: Enable common exit spots -->
+  <SkyAI.CommonExitSpotsLabel>启用普通出口点</SkyAI.CommonExitSpotsLabel>
+	<!-- EN: When leaving from map, pawns will try to move in one direction. -->
+  <SkyAI.CommonExitSpotsDesc>离开地图时，人员会试图往一个方向移动。</SkyAI.CommonExitSpotsDesc>
+	<!-- EN: Enable enemies to escape chance with no any weapon -->
+  <SkyAI.EscapeChanceNoWeaponLabel>启用无武器敌人有几率逃离</SkyAI.EscapeChanceNoWeaponLabel>
+	<!-- EN: Enemies with some chance may leave if have no primary weapon. Personal traits affect the chance. -->
+  <SkyAI.EscapeChanceNoWeaponDesc>没有主武器的敌人有几率逃离。人格特性会影响此数值。</SkyAI.EscapeChanceNoWeaponDesc> 
+	<!-- EN: Enable enemies to escape chance when exhausted -->
+  <SkyAI.EscapeChanceExhaustedLabel>启用疲劳敌人有几率逃离</SkyAI.EscapeChanceExhaustedLabel> 
+	<!-- EN: Pawns with some chance can leave if exhausted. Personal traits affect the chance. -->
+  <SkyAI.EscapeChanceExhaustedDesc>体力耗尽的敌人有几率逃离。人格特性会影响此数值。</SkyAI.EscapeChanceExhaustedDesc> 
+	<!-- EN: Enable enemies to escape chance when wounded -->
+  <SkyAI.EscapeChanceWoundedLabel>启用受伤敌人有几率逃离</SkyAI.EscapeChanceWoundedLabel>
+	<!-- EN: Pawns with some chance can leave if wounded. Personal traits affect the chance. -->
+  <SkyAI.EscapeChanceWoundedDesc>受伤的敌人有几率逃离。人格特性会影响此数值。</SkyAI.EscapeChanceWoundedDesc>
+	<!-- EN: Enable enemies to escape due to temperature injuries -->
+  <SkyAI.EscapeChanceTempInjLabel>启用受温度影响的敌人有几率逃离</SkyAI.EscapeChanceTempInjLabel>
+	<!-- EN: Pawns can leave with some chance of frostbite or burns caused by the environment. -->
+  <SkyAI.EscapeChanceTempInjDesc>人员受到环境温度影响（例如冻伤、灼烧等）时有几率逃离。</SkyAI.EscapeChanceTempInjDesc>
+	<!-- EN: Escape chance multiplier -->
+  <SkyAI.EscapeChanceMultiplierLabel>逃离几率因数</SkyAI.EscapeChanceMultiplierLabel>
+	<!-- EN: General multiplier of the effect on the chance of escape. -->
+  <SkyAI.EscapeChanceMultiplierDesc>影响逃离几率的因数。</SkyAI.EscapeChanceMultiplierDesc>
 	
 	<!-- Icons -->	
-	<SkyAI.IconsLabel>图标</SkyAI.IconsLabel>
-	<SkyAI.MainRoleIconLabel>启用主要角色图标</SkyAI.MainRoleIconLabel>
-	<SkyAI.MainRoleIconDesc>启用人员在队伍中主要角色的图标显示。</SkyAI.MainRoleIconDesc>
-	<SkyAI.TraderIconLabel>启用商人图标</SkyAI.TraderIconLabel>
-	<SkyAI.TraderIconDesc>启用人员在队伍中作为商人角色的图标显示。</SkyAI.TraderIconDesc>
-	<SkyAI.AggroIconLabel>启用精神异常图标</SkyAI.AggroIconLabel>
-	<SkyAI.AggroIconDesc>启用人员处于精神异常状态的图标显示。</SkyAI.AggroIconDesc>
-	<SkyAI.AnimalAggroIconLabel>启用动物精神异常图标</SkyAI.AnimalAggroIconLabel>
-	<SkyAI.AnimalAggroIconDesc>启用动物处于精神异常状态的图标显示。</SkyAI.AnimalAggroIconDesc>
-	<SkyAI.CatCrazyIconLabel>启用“疯猫时刻”图标</SkyAI.CatCrazyIconLabel>
-	<SkyAI.CatCrazyIconDesc>启用猫咪处于“疯猫时刻”状态的图标显示。</SkyAI.CatCrazyIconDesc>
+	<!-- EN: Icons -->
+  <SkyAI.IconsLabel>图标</SkyAI.IconsLabel>
+	<!-- EN: Enable main role icon -->
+  <SkyAI.MainRoleIconLabel>启用主要角色图标</SkyAI.MainRoleIconLabel>
+	<!-- EN: Enable display the icon above the pawn that corresponds to the role in the group. -->
+  <SkyAI.MainRoleIconDesc>启用人员在队伍中主要角色的图标显示。</SkyAI.MainRoleIconDesc>
+	<!-- EN: Enable trader icons -->
+  <SkyAI.TraderIconLabel>启用商人图标</SkyAI.TraderIconLabel>
+	<!-- EN: Enable display the icon above the pawn that corresponds to traders. -->
+  <SkyAI.TraderIconDesc>启用人员在队伍中作为商人角色的图标显示。</SkyAI.TraderIconDesc>
+	<!-- EN: Enable agro mental state icons -->
+  <SkyAI.AggroIconLabel>启用精神异常图标</SkyAI.AggroIconLabel>
+	<!-- EN: Enable display the icon above the pawn that corresponds to pawns with agressive mental state. -->
+  <SkyAI.AggroIconDesc>启用人员处于精神异常状态的图标显示。</SkyAI.AggroIconDesc>
+	<!-- EN: Enable animal agro mental state icons -->
+  <SkyAI.AnimalAggroIconLabel>启用动物精神异常图标</SkyAI.AnimalAggroIconLabel>
+	<!-- EN: Enable display the icon above the animal that corresponds to animal agressive mental state. -->
+  <SkyAI.AnimalAggroIconDesc>启用动物处于精神异常状态的图标显示。</SkyAI.AnimalAggroIconDesc>
+	<!-- EN: Enable cat crazy time icons -->
+  <SkyAI.CatCrazyIconLabel>启用“疯猫时刻”图标</SkyAI.CatCrazyIconLabel>
+	<!-- EN: Enable display the icon above the pawn that corresponds to cats with crazytime pastime. -->
+  <SkyAI.CatCrazyIconDesc>启用猫咪处于“疯猫时刻”状态的图标显示。</SkyAI.CatCrazyIconDesc>
 	
 	<!-- Various -->
-	<SkyAI.VariousLabel>杂项</SkyAI.VariousLabel>
-	<SkyAI.RememberOwnedThingsLabel>人员会记住自有物品</SkyAI.RememberOwnedThingsLabel>
-	<SkyAI.RememberOwnedThingsDesc>人员会记住自己的装备、携带物以及武器等，并且会将这些物品视为自己的物品。</SkyAI.RememberOwnedThingsDesc>
-	<SkyAI.CaravansPickUpCargoLabel>交易远行队会带走己方货物</SkyAI.CaravansPickUpCargoLabel>
-	<SkyAI.CaravansPickUpCargoDesc>如果商队的某个驼运动物倒下，商队成员会试图取走掉落的货物。需要启用前置设置。</SkyAI.CaravansPickUpCargoDesc>
-	<SkyAI.ReactToThreatsLabel>非战斗人员会对威胁做出反应</SkyAI.ReactToThreatsLabel>
-	<SkyAI.ReactToThreatsDesc>作为非战斗人员，在面对威胁的时候会转为防御模式。</SkyAI.ReactToThreatsDesc>
-	<SkyAI.ReactToThreatsAreaLabel>盟友将做出反应的区域</SkyAI.ReactToThreatsAreaLabel>
-	<SkyAI.ReactToThreatsAreaDesc>盟友人员能够对友方的伤害做出反应并参与事件的距离。</SkyAI.ReactToThreatsAreaDesc>
-	<SkyAI.СombatEnemyKeepRangeLabel>接敌反应距离</SkyAI.СombatEnemyKeepRangeLabel>
-	<SkyAI.СombatEnemyKeepRangeDesc>探测敌人的基础距离。</SkyAI.СombatEnemyKeepRangeDesc>
-	<SkyAI.ActiveThreatRangeLabel>非战斗状态敌人激活距离</SkyAI.ActiveThreatRangeLabel>
-	<SkyAI.ActiveThreatRangeDesc>人员能够确定开始接敌作战的距离。</SkyAI.ActiveThreatRangeDesc>
-	<SkyAI.EnchancedReactionToThreatLabel>启用增强威胁反应</SkyAI.EnchancedReactionToThreatLabel>
-	<SkyAI.EnchancedReactionToThreatDesc>战斗中的人员将能更快地对敌人的威胁做出反应，并将优先级调整到高于当前工作。</SkyAI.EnchancedReactionToThreatDesc>
-	<SkyAI.CanBreakDistanceLabel>启用远程武器敌人可打破距离</SkyAI.CanBreakDistanceLabel>
-	<SkyAI.CanBreakDistanceDesc>某些时候，携带远程武器的人员会试图在某个距离外攻击敌人。</SkyAI.CanBreakDistanceDesc>
-	<SkyAI.KiteMechanicLabel>启用狙击手风筝机制</SkyAI.KiteMechanicLabel>
-	<SkyAI.KiteMechanicDesc>狙击手会试图和敌人保持距离，避免距离过近。</SkyAI.KiteMechanicDesc>
-	<SkyAI.ExternalTakeEquipJobLabel>启用外部取用装备工作</SkyAI.ExternalTakeEquipJobLabel>
-	<SkyAI.ExternalTakeEquipJobDesc>增加在附近搜索武器弹药的能力。</SkyAI.ExternalTakeEquipJobDesc>
-	<SkyAI.AdvancedExplosionDetectionLabel>启用高级爆炸侦测</SkyAI.AdvancedExplosionDetectionLabel>
-	<SkyAI.AdvancedExplosionDetectionDesc>人员会试图避免来自手雷、地雷甚至燃烧弹药的爆炸。</SkyAI.AdvancedExplosionDetectionDesc>
-	<SkyAI.DangerousCellsDetectionLabel>启用危险方格侦测</SkyAI.DangerousCellsDetectionLabel>
-	<SkyAI.DangerousCellsDetectionDesc>每次对目标的射击动作都会在射手和目标之间产生一个危险区域。其余人员在行动的时候会尽量避开此区域。</SkyAI.DangerousCellsDetectionDesc>
-	<SkyAI.AdvancedExplosionDetectionLabel>殖民地人员启用高级爆炸侦测</SkyAI.AdvancedExplosionDetectionLabel>
-	<SkyAI.AdvancedExplosionDetectionDesc>殖民地人员会试图避免来自手雷、地雷等物品的爆炸伤害。</SkyAI.AdvancedExplosionDetectionDesc>
-	<SkyAI.ExplosionRadiusDetectionLabel>爆炸范围侦测</SkyAI.ExplosionRadiusDetectionLabel>
-	<SkyAI.ExplosionRadiusDetectionDesc>人员能探测到手榴弹或弹药爆炸的威胁的半径。</SkyAI.ExplosionRadiusDetectionDesc>
-	<SkyAI.ConsiderAlliesChoosingTargetLabel>选择目标时考虑盟友</SkyAI.ConsiderAlliesChoosingTargetLabel>
-	<SkyAI.StopFiringFriendlyFireLabel>当会发生友军伤害时停火</SkyAI.StopFiringFriendlyFireLabel>
-	<SkyAI.StopFiringFriendlyFireDesc>如果有盟友在交火范围内，人员可以改变瞄准和射击准备。</SkyAI.StopFiringFriendlyFireDesc>
-	<SkyAI.ShootlineFriendlyFireLabel>友伤射击线</SkyAI.ShootlineFriendlyFireLabel>
-	<SkyAI.ShootlineDisabledMode>已禁用</SkyAI.ShootlineDisabledMode>
-	<SkyAI.ShootlineSiegeWeaponMode>仅攻城武器</SkyAI.ShootlineSiegeWeaponMode>
-	<SkyAI.ShootlineSiegeMGWeaponMode>仅攻城武器和机枪</SkyAI.ShootlineSiegeMGWeaponMode>
-	<SkyAI.ShootlineAllRangedWeaponMode>所有远程武器</SkyAI.ShootlineAllRangedWeaponMode>	
-	<SkyAI.AutoSwitchRangedWeaponsLabel>自动切换到所有远程武器</SkyAI.AutoSwitchRangedWeaponsLabel>
-	<SkyAI.AutoSwitchRangedWeaponsDesc>如果地图上拥有枪械的士兵数量少于60人，则自动激活“所有远程武器”模式，友军伤害控制的选项可能会导致TPS下降。</SkyAI.AutoSwitchRangedWeaponsDesc>
-	<SkyAI.CanMissFriendlyFireLabel>拥有“愚蠢”特性的人员会忽略友伤</SkyAI.CanMissFriendlyFireLabel>
-	<SkyAI.CanMissFriendlyFireDesc>拥有“愚蠢”特性的人员会刻意忽略友伤火力检测。</SkyAI.CanMissFriendlyFireDesc>
-	<SkyAI.ChanceMissFriendlyFireLabel>忽略友伤几率</SkyAI.ChanceMissFriendlyFireLabel>
-	<SkyAI.ChanceMissFriendlyFireDesc>决定一名人员忽略友伤火力检测的几率。</SkyAI.ChanceMissFriendlyFireDesc>
-	<SkyAI.ExtraFriendlyFireMinDistanceLabel>额外友伤火力最小距离</SkyAI.ExtraFriendlyFireMinDistanceLabel>
-	<SkyAI.ExtraFriendlyFireMinDistanceDesc>avoidFriendlyFire（友伤火力避免距离）数值的额外加项。该值越高，用溅射伤害击中盟友的机会就越低，但同时也会使目标更难寻找。</SkyAI.ExtraFriendlyFireMinDistanceDesc>
-	<SkyAI.WillSwitchWeaponCombatLabel>敌人会在战斗中切换武器</SkyAI.WillSwitchWeaponCombatLabel>
-	<SkyAI.WillSwitchWeaponCombatDesc>敌人会在战斗中切换武器，前提是待切换的物品携带在身上。</SkyAI.WillSwitchWeaponCombatDesc>
-	<SkyAI.IncendiaryWeaponUseLabel>敌人会使用燃烧的武器检测</SkyAI.IncendiaryWeaponUseLabel>
-	<SkyAI.IncendiaryWeaponUseDesc>如果有火焰伤害类型的武器，人员会尽量选择火焰易伤的攻击目标。</SkyAI.IncendiaryWeaponUseDesc>
-	<SkyAI.InventoryUseSiegeWeaponLabel>敌人会使用携带的攻城武器</SkyAI.InventoryUseSiegeWeaponLabel>
-	<SkyAI.InventoryUseSiegeWeaponDesc>当需要把某些东西炸上天的时候，人员会尝试切换到攻城类型的武器（例如手榴弹等）。</SkyAI.InventoryUseSiegeWeaponDesc>
-	<SkyAI.NonLOSDangerTargetCheckLabel>启用无视觉危险目标检测</SkyAI.NonLOSDangerTargetCheckLabel>
-	<SkyAI.NonLOSDangerTargetCheckDesc>敌人会尽量不以不在视线范围内的区域为目标，从而减少被偷袭的机会。</SkyAI.NonLOSDangerTargetCheckDesc>
-	<SkyAI.AdvancedNonLOSDangerTargetCheckLabel>启用高级无视觉危险目标检测</SkyAI.AdvancedNonLOSDangerTargetCheckLabel>
-	<SkyAI.AdvancedNonLOSDangerTargetCheckDesc>敌人将检查区域的门和围墙，而不是简单的目视探测，因为危险往往都在这些东西后面。</SkyAI.AdvancedNonLOSDangerTargetCheckDesc>
-	<SkyAI.NotAttackAnimalsLabel>敌人不会攻击非异常状态的殖民地动物</SkyAI.NotAttackAnimalsLabel>
-	<SkyAI.NotAttackAnimalsDesc>只要殖民地动物不是处于控制或者精神异常状态，敌人不会将它们视作目标。</SkyAI.NotAttackAnimalsDesc>
-	<SkyAI.UnderCrossfireLabel>敌人会检测交火区域</SkyAI.UnderCrossfireLabel>
-	<SkyAI.UnderCrossfireDesc>在一些脚本中，敌人会检查方格情况，以避免会在交火中被抓住，从而避免愚蠢致死。</SkyAI.UnderCrossfireDesc>
-	<SkyAI.PerformTreatmentLabel>敌人会进行治疗</SkyAI.PerformTreatmentLabel>
-	<SkyAI.PerformTreatmentDesc>非玩家人员现在也会自我治疗。</SkyAI.PerformTreatmentDesc>
-	<SkyAI.InheritAlliesDutyLabel>倒地后经过治疗的敌人会继承盟友的职责</SkyAI.InheritAlliesDutyLabel>
-	<SkyAI.InheritAlliesDutyDesc>被击倒的敌人，将失去他们在小队中的初始职责，苏醒后可能会离开地图。该选项增加了对最近的医生或其他盟友小队成员职责的继承权，从而使他们继续参加袭击任务。</SkyAI.InheritAlliesDutyDesc>
-	<SkyAI.PerformTreatmentColonyPawnsLabel>盟友的医生能够治疗（医疗处理工作）殖民地人员。</SkyAI.PerformTreatmentColonyPawnsLabel>
-	<SkyAI.PerformTreatmentColonyPawnsDesc>盟友的医生能够治疗（医疗处理工作）殖民地人员。目前可能会出现一些问题，默认情况下禁用。</SkyAI.PerformTreatmentColonyPawnsDesc>
-	<SkyAI.PerformTreatmentEnemyPawnsLabel>盟友的医生能够治疗（医疗处理工作）殖民地敌对人员</SkyAI.PerformTreatmentEnemyPawnsLabel>
-	<SkyAI.PerformTreatmentEnemyPawnsDesc>盟友的医生能够治疗（医疗处理工作）对于殖民地方敌对，但是对于己方友好的人员。</SkyAI.PerformTreatmentEnemyPawnsDesc>
-	<SkyAI.LayingOnGroundSelfTendLabel>启用躺在地上进行自我治疗</SkyAI.LayingOnGroundSelfTendLabel>
-	<SkyAI.LayingOnGroundSelfTendDesc>人员会试图躺在地上进行自我治疗（医疗处理工作）。</SkyAI.LayingOnGroundSelfTendDesc>
-	<SkyAI.PerformСonsciousnessBuffLabel>敌人医生会增添意识效果</SkyAI.PerformСonsciousnessBuffLabel>
-	<SkyAI.PerformСonsciousnessBuffDesc>医生将会添加意识增强的成瘾品效果，添加的具体效果取决于派系科技水平。</SkyAI.PerformСonsciousnessBuffDesc>
-	<SkyAI.PerformTreatmentAlliesLabel>敌人医生会治疗（医疗处理工作）倒地的盟友</SkyAI.PerformTreatmentAlliesLabel>
-	<SkyAI.PerformTreatmentAlliesDesc>敌人医生会治疗（医疗处理工作）倒地的盟友。</SkyAI.PerformTreatmentAlliesDesc>
-	<SkyAI.DownedAlliesScanRangeLabel>倒地盟友侦测范围</SkyAI.DownedAlliesScanRangeLabel>
-	<SkyAI.DownedAlliesScanRangeDesc>侦测倒地盟友的范围，因为被击倒的人员会失去其在小队中的角色位置。</SkyAI.DownedAlliesScanRangeDesc>
-	<SkyAI.MinRaidSizeForLeaderLabel>生成首领带队的最小袭击规模</SkyAI.MinRaidSizeForLeaderLabel>
-	<SkyAI.MinRaidSizeForLeaderDesc>多大规模人员数量的袭击会生成带队首领。</SkyAI.MinRaidSizeForLeaderDesc>
-	<SkyAI.MinRaidSizeForDoctorLabel>生成野战医生的最小袭击规模</SkyAI.MinRaidSizeForDoctorLabel>
-	<SkyAI.MinRaidSizeForDoctorDesc>多大规模人员数量的袭击会生成野战医生。</SkyAI.MinRaidSizeForDoctorDesc>
-	<SkyAI.DoctorFrequencySpawnLabel>每X名袭击队员将会产生野战医生</SkyAI.DoctorFrequencySpawnLabel>
-	<SkyAI.DoctorFrequencySpawnDesc>举个例子，如果袭击规模是30人，X=10，那么袭击将会产生3名医生。</SkyAI.DoctorFrequencySpawnDesc>
-	<SkyAI.MedicineCountSpawnLabel>医生携带医药计数</SkyAI.MedicineCountSpawnLabel>
-	<SkyAI.MedicineCountSpawnDesc>每名医生所携带的药物种类数量。药物种类取决于派系的科技等级。</SkyAI.MedicineCountSpawnDesc>
+	<!-- EN: Various -->
+  <SkyAI.VariousLabel>杂项</SkyAI.VariousLabel>
+	<!-- EN: Pawns will remember the owned things -->
+  <SkyAI.RememberOwnedThingsLabel>人员会记住自有物品</SkyAI.RememberOwnedThingsLabel>
+	<!-- EN: Pawns remember what equipment, cargo, weapons they have with them and will consider them as their own. -->
+  <SkyAI.RememberOwnedThingsDesc>人员会记住自己的装备、携带物以及武器等，并且会将这些物品视为自己的物品。</SkyAI.RememberOwnedThingsDesc>
+	<!-- EN: Trade caravans will pick up their cargo -->
+  <SkyAI.CaravansPickUpCargoLabel>交易远行队会带走己方货物</SkyAI.CaravansPickUpCargoLabel>
+	<!-- EN: If one of the pack animals goes down, the caravan will try to pick up the dropped goods. Requires enabled previous setting. -->
+  <SkyAI.CaravansPickUpCargoDesc>如果商队的某个驼运动物倒下，商队成员会试图取走掉落的货物。需要启用前置设置。</SkyAI.CaravansPickUpCargoDesc>
+	<!-- EN: Non-combat pawn will react to threats -->
+  <SkyAI.ReactToThreatsLabel>非战斗人员会对威胁做出反应</SkyAI.ReactToThreatsLabel>
+	<!-- EN: Pawns, which perform a non-combat task, may switch to defense mode if threatened. -->
+  <SkyAI.ReactToThreatsDesc>作为非战斗人员，在面对威胁的时候会转为防御模式。</SkyAI.ReactToThreatsDesc>
+	<!-- EN: The area in which allies will react -->
+  <SkyAI.ReactToThreatsAreaLabel>盟友将做出反应的区域</SkyAI.ReactToThreatsAreaLabel>
+	<!-- EN: The distance from which allied pawns will be able to react on damage for allies and engage. -->
+  <SkyAI.ReactToThreatsAreaDesc>盟友人员能够对友方的伤害做出反应并参与事件的距离。</SkyAI.ReactToThreatsAreaDesc>
+	<!-- EN: Сombat enemy keep range -->
+  <SkyAI.СombatEnemyKeepRangeLabel>接敌反应距离</SkyAI.СombatEnemyKeepRangeLabel>
+	<!-- EN: Base enemy detection distance. -->
+  <SkyAI.СombatEnemyKeepRangeDesc>探测敌人的基础距离。</SkyAI.СombatEnemyKeepRangeDesc>
+	<!-- EN: Non-combat enemy activeThreat range -->
+  <SkyAI.ActiveThreatRangeLabel>非战斗状态敌人激活距离</SkyAI.ActiveThreatRangeLabel>
+	<!-- EN: The distance from which a pawn can determine that it has been targeted. -->
+  <SkyAI.ActiveThreatRangeDesc>人员能够确定开始接敌作战的距离。</SkyAI.ActiveThreatRangeDesc>
+	<!-- EN: Enable enchanced reaction to threat -->
+  <SkyAI.EnchancedReactionToThreatLabel>启用增强威胁反应</SkyAI.EnchancedReactionToThreatLabel>
+	<!-- EN: Pawns in battle will be able to react much faster to the enemy threats, overriding the current work. -->
+  <SkyAI.EnchancedReactionToThreatDesc>战斗中的人员将能更快地对敌人的威胁做出反应，并将优先级调整到高于当前工作。</SkyAI.EnchancedReactionToThreatDesc>
+	<!-- EN: Enable enemy with ranged weapon can break distance -->
+  <SkyAI.CanBreakDistanceLabel>启用远程武器敌人可打破距离</SkyAI.CanBreakDistanceLabel>
+	<!-- EN: Sometimes pawns with ranged weapon may try to break the distance with an enemy. -->
+  <SkyAI.CanBreakDistanceDesc>某些时候，携带远程武器的人员会试图在某个距离外攻击敌人。</SkyAI.CanBreakDistanceDesc>
+	<!-- EN: Enable snipers kite mechanic -->
+  <SkyAI.KiteMechanicLabel>启用狙击手风筝机制</SkyAI.KiteMechanicLabel>
+	<!-- EN: Snipers will try to keep their distance, not to let the enemy too close. -->
+  <SkyAI.KiteMechanicDesc>狙击手会试图和敌人保持距离，避免距离过近。</SkyAI.KiteMechanicDesc>
+	<!-- EN: Enable external take and equip job -->
+  <SkyAI.ExternalTakeEquipJobLabel>启用外部取用装备工作</SkyAI.ExternalTakeEquipJobLabel>
+	<!-- EN: Adds the ability to search for weapons and ammunition nearby. -->
+  <SkyAI.ExternalTakeEquipJobDesc>增加在附近搜索武器弹药的能力。</SkyAI.ExternalTakeEquipJobDesc>
+	<!-- EN: Enable advanced explosion detection -->
+  <SkyAI.AdvancedExplosionDetectionLabel>启用高级爆炸侦测</SkyAI.AdvancedExplosionDetectionLabel>
+	<!-- EN: Pawns will avoid explosions from grenades, mines, and even burning ammo. -->
+  <SkyAI.AdvancedExplosionDetectionDesc>人员会试图避免来自手雷、地雷甚至燃烧弹药的爆炸。</SkyAI.AdvancedExplosionDetectionDesc>
+	<!-- EN: Enable dangerous cells detection -->
+  <SkyAI.DangerousCellsDetectionLabel>启用危险方格侦测</SkyAI.DangerousCellsDetectionLabel>
+	<!-- EN: Each shot at a target creates a dangerous area between the shooter and the target. Pawns will try to avoid this area, to not taking damage. -->
+  <SkyAI.DangerousCellsDetectionDesc>每次对目标的射击动作都会在射手和目标之间产生一个危险区域。其余人员在行动的时候会尽量避开此区域。</SkyAI.DangerousCellsDetectionDesc>
+	<!-- EN: Colony pawns will use advanced explosion detection -->
+  <SkyAI.AdvancedExplosionDetectionLabel>启用高级爆炸侦测</SkyAI.AdvancedExplosionDetectionLabel>
+	<!-- EN: Allow colony pawns to use improved explosion detection to grenades, explosions. -->
+  <SkyAI.AdvancedExplosionDetectionDesc>人员会试图避免来自手雷、地雷甚至燃烧弹药的爆炸。</SkyAI.AdvancedExplosionDetectionDesc>
+	<!-- EN: Explosion radius detection -->
+  <SkyAI.ExplosionRadiusDetectionLabel>爆炸范围侦测</SkyAI.ExplosionRadiusDetectionLabel>
+	<!-- EN: The radius at which a pawn can detect a threat from a grenade or an explosion of ammo. -->
+  <SkyAI.ExplosionRadiusDetectionDesc>人员能探测到手榴弹或弹药爆炸的威胁的半径。</SkyAI.ExplosionRadiusDetectionDesc>
+	<!-- EN: Consider allies when choosing target -->
+  <SkyAI.ConsiderAlliesChoosingTargetLabel>选择目标时考虑盟友</SkyAI.ConsiderAlliesChoosingTargetLabel>
+	<!-- EN: Stop firing due to friendly fire -->
+  <SkyAI.StopFiringFriendlyFireLabel>当会发生友军伤害时停火</SkyAI.StopFiringFriendlyFireLabel>
+	<!-- EN: Pawns can override the aiming and fire preparation if there is an ally in range. -->
+  <SkyAI.StopFiringFriendlyFireDesc>如果有盟友在交火范围内，人员可以改变瞄准和射击准备。</SkyAI.StopFiringFriendlyFireDesc>
+	<!-- EN: Shootline friendly fire -->
+  <SkyAI.ShootlineFriendlyFireLabel>友伤射击线</SkyAI.ShootlineFriendlyFireLabel>
+	<!-- EN: Disabled -->
+  <SkyAI.ShootlineDisabledMode>已禁用</SkyAI.ShootlineDisabledMode>
+	<!-- EN: Siege weapon only -->
+  <SkyAI.ShootlineSiegeWeaponMode>仅攻城武器</SkyAI.ShootlineSiegeWeaponMode>
+	<!-- EN: Siege and machineguns only -->
+  <SkyAI.ShootlineSiegeMGWeaponMode>仅攻城武器和机枪</SkyAI.ShootlineSiegeMGWeaponMode>
+	<!-- EN: All ranged weapon -->
+  <SkyAI.ShootlineAllRangedWeaponMode>所有远程武器</SkyAI.ShootlineAllRangedWeaponMode>	
+	<!-- EN: Auto switch to all range weapons -->
+  <SkyAI.AutoSwitchRangedWeaponsLabel>自动切换到所有远程武器</SkyAI.AutoSwitchRangedWeaponsLabel>
+	<!-- EN: If the number of pawns with firearms on the map is less than 60, automatically activates ~All Ranged Weapons~ friendly fire setting as a control against a possible tps decrease. -->
+  <SkyAI.AutoSwitchRangedWeaponsDesc>如果地图上拥有枪械的士兵数量少于60人，则自动激活“所有远程武器”模式，友军伤害控制的选项可能会导致TPS下降。</SkyAI.AutoSwitchRangedWeaponsDesc>
+	<!-- EN: Pawns with stupidity traits can miss friendly fire -->
+  <SkyAI.CanMissFriendlyFireLabel>拥有“愚蠢”特性的人员会忽略友伤</SkyAI.CanMissFriendlyFireLabel>
+	<!-- EN: Pawns who have stupid character traits can intentionally miss a friendly fire check. -->
+  <SkyAI.CanMissFriendlyFireDesc>拥有“愚蠢”特性的人员会刻意忽略友伤火力检测。</SkyAI.CanMissFriendlyFireDesc>
+	<!-- EN: Chance to miss friendly fire -->
+  <SkyAI.ChanceMissFriendlyFireLabel>忽略友伤几率</SkyAI.ChanceMissFriendlyFireLabel>
+	<!-- EN: Determine with what chance a pawn can miss friendly fire check. -->
+  <SkyAI.ChanceMissFriendlyFireDesc>决定一名人员忽略友伤火力检测的几率。</SkyAI.ChanceMissFriendlyFireDesc>
+	<!-- EN: Extra friendly fire minimum distance -->
+  <SkyAI.ExtraFriendlyFireMinDistanceLabel>额外友伤火力最小距离</SkyAI.ExtraFriendlyFireMinDistanceLabel>
+	<!-- EN: Extra distance to avoidFriendlyFire value, which adds up. The higher the value, the lower the chance of hitting allies with splash damage, but at the same time it makes it harder to find possible targets. -->
+  <SkyAI.ExtraFriendlyFireMinDistanceDesc>avoidFriendlyFire（友伤火力避免距离）数值的额外加项。该值越高，用溅射伤害击中盟友的机会就越低，但同时也会使目标更难寻找。</SkyAI.ExtraFriendlyFireMinDistanceDesc>
+	<!-- EN: Enemies will switch weapon during combat -->
+  <SkyAI.WillSwitchWeaponCombatLabel>敌人会在战斗中切换武器</SkyAI.WillSwitchWeaponCombatLabel>
+	<!-- EN: Pawns will be able to switch weapons in combat, which have in the inventory. -->
+  <SkyAI.WillSwitchWeaponCombatDesc>敌人会在战斗中切换武器，前提是待切换的物品携带在身上。</SkyAI.WillSwitchWeaponCombatDesc>
+	<!-- EN: Enemies will use incendiary weapon check -->
+  <SkyAI.IncendiaryWeaponUseLabel>敌人会使用燃烧的武器检测</SkyAI.IncendiaryWeaponUseLabel>
+	<!-- EN: Pawns will try to choose a target that is vulnerable to fire if possible if have a weapon with fire damage type. -->
+  <SkyAI.IncendiaryWeaponUseDesc>如果有火焰伤害类型的武器，人员会尽量选择火焰易伤的攻击目标。</SkyAI.IncendiaryWeaponUseDesc>
+	<!-- EN: Enemies will use inventory for siege weapon -->
+  <SkyAI.InventoryUseSiegeWeaponLabel>敌人会使用携带的攻城武器</SkyAI.InventoryUseSiegeWeaponLabel>
+	<!-- EN: Pawns will switch to siege weapons (grenades) if possible, if its necessary to blow something up. -->
+  <SkyAI.InventoryUseSiegeWeaponDesc>当需要把某些东西炸上天的时候，人员会尝试切换到攻城类型的武器（例如手榴弹等）。</SkyAI.InventoryUseSiegeWeaponDesc>
+	<!-- EN: Enable non-LOS danger target check -->
+  <SkyAI.NonLOSDangerTargetCheckLabel>启用无视觉危险目标检测</SkyAI.NonLOSDangerTargetCheckLabel>
+	<!-- EN: Enemy pawns will try not to target areas that are not in sight, thereby reducing the chance of being caught by surprise. -->
+  <SkyAI.NonLOSDangerTargetCheckDesc>敌人会尽量不以不在视线范围内的区域为目标，从而减少被偷袭的机会。</SkyAI.NonLOSDangerTargetCheckDesc>
+	<!-- EN: Enable advanced non-LOS danger target check -->
+  <SkyAI.AdvancedNonLOSDangerTargetCheckLabel>启用高级无视觉危险目标检测</SkyAI.AdvancedNonLOSDangerTargetCheckLabel>
+	<!-- EN: Enemy pawns will check area for doors and embrasures instead of simple enemy pawn detection behind which the enemy could potentially be. -->
+  <SkyAI.AdvancedNonLOSDangerTargetCheckDesc>敌人将检查区域的门和围墙，而不是简单的目视探测，因为危险往往都在这些东西后面。</SkyAI.AdvancedNonLOSDangerTargetCheckDesc>
+	<!-- EN: Enemies will not attack non-aggressive colony animals -->
+  <SkyAI.NotAttackAnimalsLabel>敌人不会攻击非异常状态的殖民地动物</SkyAI.NotAttackAnimalsLabel>
+	<!-- EN: Enemy pawns will not consider the colony's animals as a target, as long as the animal is not aggressive toward them. -->
+  <SkyAI.NotAttackAnimalsDesc>只要殖民地动物不是处于控制或者精神异常状态，敌人不会将它们视作目标。</SkyAI.NotAttackAnimalsDesc>
+	<!-- EN: Enemies will be checking crossfire -->
+  <SkyAI.UnderCrossfireLabel>敌人会检测交火区域</SkyAI.UnderCrossfireLabel>
+	<!-- EN: In some scripts, enemy pawns will check the cells for a chance to get caught in the crossfire, thus avoiding a foolish death. -->
+  <SkyAI.UnderCrossfireDesc>在一些脚本中，敌人会检查方格情况，以避免会在交火中被抓住，从而避免愚蠢致死。</SkyAI.UnderCrossfireDesc>
+	<!-- EN: Enemies will perform treatment -->
+  <SkyAI.PerformTreatmentLabel>敌人会进行治疗</SkyAI.PerformTreatmentLabel>
+	<!-- EN: Non-player pawns can perform self-healing. -->
+  <SkyAI.PerformTreatmentDesc>非玩家人员现在也会自我治疗。</SkyAI.PerformTreatmentDesc>
+	<!-- EN: Downed enemies after treatment inherit allies duty -->
+  <SkyAI.InheritAlliesDutyLabel>倒地后经过治疗的敌人会继承盟友的职责</SkyAI.InheritAlliesDutyLabel>
+	<!-- EN: Downed pawns, lose their initial status in the squad and leave if will be able to arise. The option adds an inheritance of the squad from the nearest doctor or other ally, thereby turning the fighter back to raid. -->
+  <SkyAI.InheritAlliesDutyDesc>被击倒的敌人，将失去他们在小队中的初始职责，苏醒后可能会离开地图。该选项增加了对最近的医生或其他盟友小队成员职责的继承权，从而使他们继续参加袭击任务。</SkyAI.InheritAlliesDutyDesc>
+	<!-- EN: Allied doctor could perform treatment (tend job) to colony pawns -->
+  <SkyAI.PerformTreatmentColonyPawnsLabel>盟友的医生能够治疗（医疗处理工作）殖民地人员。</SkyAI.PerformTreatmentColonyPawnsLabel>
+	<!-- EN: Allied doctor could perform treatment (tend job) to colony pawns. It may not work correctly yet, temp. disabled by default. -->
+  <SkyAI.PerformTreatmentColonyPawnsDesc>盟友的医生能够治疗（医疗处理工作）殖民地人员。目前可能会出现一些问题，默认情况下禁用。</SkyAI.PerformTreatmentColonyPawnsDesc>
+	<!-- EN: Allied doctor could perform treatment (tend job) to colony enemy pawns -->
+  <SkyAI.PerformTreatmentEnemyPawnsLabel>盟友的医生能够治疗（医疗处理工作）殖民地敌对人员</SkyAI.PerformTreatmentEnemyPawnsLabel>
+	<!-- EN: Allied doctor could perform treatment (tend job) to colony enemy pawns which is friendly for their faction. -->
+  <SkyAI.PerformTreatmentEnemyPawnsDesc>盟友的医生能够治疗（医疗处理工作）对于殖民地方敌对，但是对于己方友好的人员。</SkyAI.PerformTreatmentEnemyPawnsDesc>
+	<!-- EN: Enable laying on ground on self tend -->
+  <SkyAI.LayingOnGroundSelfTendLabel>启用躺在地上进行自我治疗</SkyAI.LayingOnGroundSelfTendLabel>
+	<!-- EN: Pawn will try to lie down during treatment (tend job). -->
+  <SkyAI.LayingOnGroundSelfTendDesc>人员会试图躺在地上进行自我治疗（医疗处理工作）。</SkyAI.LayingOnGroundSelfTendDesc>
+	<!-- EN: Enemy doctor will add consciousness buff -->
+  <SkyAI.PerformСonsciousnessBuffLabel>敌人医生会增添意识效果</SkyAI.PerformСonsciousnessBuffLabel>
+	<!-- EN: Doctors will be able to add one of the possible consciousness-enhancing drugs based on faction tech. -->
+  <SkyAI.PerformСonsciousnessBuffDesc>医生将会添加意识增强的成瘾品效果，添加的具体效果取决于派系科技水平。</SkyAI.PerformСonsciousnessBuffDesc>
+	<!-- EN: Enemy doctor perform treatment (tend job) to downed allies -->
+  <SkyAI.PerformTreatmentAlliesLabel>敌人医生会治疗（医疗处理工作）倒地的盟友</SkyAI.PerformTreatmentAlliesLabel>
+	<!-- EN: Doctors will be able to perform treatment (tend job) for downed allies. -->
+  <SkyAI.PerformTreatmentAlliesDesc>敌人医生会治疗（医疗处理工作）倒地的盟友。</SkyAI.PerformTreatmentAlliesDesc>
+	<!-- EN: Downed allies scan range -->
+  <SkyAI.DownedAlliesScanRangeLabel>倒地盟友侦测范围</SkyAI.DownedAlliesScanRangeLabel>
+	<!-- EN: Range of detection of downed allies, as a downed pawn loses its status as a member of the squad. -->
+  <SkyAI.DownedAlliesScanRangeDesc>侦测倒地盟友的范围，因为被击倒的人员会失去其在小队中的角色位置。</SkyAI.DownedAlliesScanRangeDesc>
+	<!-- EN: Min. raid size to get leader -->
+  <SkyAI.MinRaidSizeForLeaderLabel>生成首领带队的最小袭击规模</SkyAI.MinRaidSizeForLeaderLabel>
+	<!-- EN: What is the total number of pawns in the raid required to form a leader? -->
+  <SkyAI.MinRaidSizeForLeaderDesc>多大规模人员数量的袭击会生成带队首领。</SkyAI.MinRaidSizeForLeaderDesc>
+	<!-- EN: Min. raid size to get doctor -->
+  <SkyAI.MinRaidSizeForDoctorLabel>生成野战医生的最小袭击规模</SkyAI.MinRaidSizeForDoctorLabel>
+	<!-- EN: What is the total number of pawns in the raid required to form a doctor? -->
+  <SkyAI.MinRaidSizeForDoctorDesc>多大规模人员数量的袭击会生成野战医生。</SkyAI.MinRaidSizeForDoctorDesc>
+	<!-- EN: Every X raid member become field doctor -->
+  <SkyAI.DoctorFrequencySpawnLabel>每X名袭击队员将会产生野战医生</SkyAI.DoctorFrequencySpawnLabel>
+	<!-- EN: For example, a raid of 30 pawns. If every x = 10, raid will be with 3 doctors. -->
+  <SkyAI.DoctorFrequencySpawnDesc>举个例子，如果袭击规模是30人，X=10，那么袭击将会产生3名医生。</SkyAI.DoctorFrequencySpawnDesc>
+	<!-- EN: Doctors medicine count to spawn -->
+  <SkyAI.MedicineCountSpawnLabel>医生携带医药计数</SkyAI.MedicineCountSpawnLabel>
+	<!-- EN: What number of medicine will be added to each doctor. The type of medicine depends on the tech. level of the faction. -->
+  <SkyAI.MedicineCountSpawnDesc>每名医生所携带的药物种类数量。药物种类取决于派系的科技等级。</SkyAI.MedicineCountSpawnDesc>
 
 	<!-- Debug Settings -->
-	<SkyAI.DebugSettingsLabel>调试选项</SkyAI.DebugSettingsLabel>
+	<!-- EN: Debug Settings -->
+  <SkyAI.DebugSettingsLabel>调试选项</SkyAI.DebugSettingsLabel>
 	
 	<!-- Useful functions -->
-	<SkyAI.UsefulFunctionsLabel>特殊功能</SkyAI.UsefulFunctionsLabel>
-	<SkyAI.RestoreToDefaultLabel>将已经存储的MOD选项重置为默认值。</SkyAI.RestoreToDefaultLabel>
-	<SkyAI.RestoreToDefaultDesc>重置为默认值</SkyAI.RestoreToDefaultDesc>
-	<SkyAI.ClearDataLabel>如果已经升级到最新的模组版本，请使用这个选项清除所有字典数据、列表数据并移除地图上的所有相关实体。</SkyAI.ClearDataLabel>
-	<SkyAI.ClearDataDesc>清除模组数据</SkyAI.ClearDataDesc>
+	<!-- EN: Useful functions -->
+  <SkyAI.UsefulFunctionsLabel>特殊功能</SkyAI.UsefulFunctionsLabel>
+	<!-- EN: Replace saved mod settings and restore to default. -->
+  <SkyAI.RestoreToDefaultLabel>将已经存储的MOD选项重置为默认值。</SkyAI.RestoreToDefaultLabel>
+	<!-- EN: Restore to default -->
+  <SkyAI.RestoreToDefaultDesc>重置为默认值</SkyAI.RestoreToDefaultDesc>
+	<!-- EN: Clear all dictionaries, lists, removes pawns from the map, as if you had updated to the new mod version. -->
+  <SkyAI.ClearDataLabel>如果已经升级到最新的模组版本，请使用这个选项清除所有字典数据、列表数据并移除地图上的所有相关实体。</SkyAI.ClearDataLabel>
+	<!-- EN: Clear mod data -->
+  <SkyAI.ClearDataDesc>清除模组数据</SkyAI.ClearDataDesc>
 
 </LanguageData>

@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Artificial metabolism -->
+  <ArtificialMetabolism.label>人工代谢</ArtificialMetabolism.label>
+  <!-- EN: Craft bionics that process food more safely or efficiently than a biological stomach. -->
+  <ArtificialMetabolism.description>制作能比生物胃更安全有效的消化食物的仿生产品。</ArtificialMetabolism.description>
+  
+  <!-- EN: Prosthesis making VIII -->
+  <Bionics.label>义肢制造 VIII</Bionics.label>
+  <!-- EN: description -->
+  <Bionics.description>TODO</Bionics.description>
+  
+  <!-- EN: Brain wiring -->
+  <BrainWiring.label>大脑链接</BrainWiring.label>
+  <!-- EN: Craft brain implants that induce or prevent blunt sensations like joy or pain. -->
+  <BrainWiring.description>制作可以诱发或防止他人生硬情绪的脑部植入物。</BrainWiring.description>
+  
+  <!-- EN: Circadian influence -->
+  <CircadianInfluence.label>作息节律</CircadianInfluence.label>
+  <!-- EN: Craft brain implants that chemically manipulate the circadian rhythm, reducing or altering the need to sleep. -->
+  <CircadianInfluence.description>制作通过化学反应调节昼夜节律，减少睡眠需求的脑部植入物。</CircadianInfluence.description>
+  
+  <!-- EN: Medical equipment I -->
+  <Clinical_B1.label>医疗设备 I</Clinical_B1.label>
+  <!-- EN: description -->
+  <Clinical_B1.description>TODO</Clinical_B1.description>
+  
+  <!-- EN: Medical equipment II -->
+  <Clinical_C1.label>医疗设备 II</Clinical_C1.label>
+  <!-- EN: description -->
+  <Clinical_C1.description>TODO</Clinical_C1.description>
+  
+  <!-- EN: Medical equipment V -->
+  <Clinical_D1.label>医疗设备 V</Clinical_D1.label>
+  <!-- EN: description -->
+  <Clinical_D1.description>TODO</Clinical_D1.description>
+  
+  <!-- EN: Medical equipment VI -->
+  <Clinical_D2.label>医疗设备 VI</Clinical_D2.label>
+  <!-- EN: description -->
+  <Clinical_D2.description>TODO</Clinical_D2.description>
+  
+  <!-- EN: Medical equipment VII -->
+  <Clinical_E1.label>医疗设备 VII</Clinical_E1.label>
+  <!-- EN: description -->
+  <Clinical_E1.description>TODO</Clinical_E1.description>
+  
+  <!-- EN: Compact weaponry -->
+  <CompactWeaponry.label>紧凑武器</CompactWeaponry.label>
+  <!-- EN: Craft compact, concealable bionic weapons which can be embedded in various body parts. -->
+  <CompactWeaponry.description>制作紧凑的，可隐藏的仿生武器，可以嵌入人体的各个部位。</CompactWeaponry.description>
+  
+  <!-- EN: Drugs IV -->
+  <DrugProduction.label>药物 IV</DrugProduction.label>
+  <!-- EN: description -->
+  <DrugProduction.description>TODO</DrugProduction.description>
+  
+  <!-- EN: Drugs I -->
+  <Drugs_A1.label>药物 I</Drugs_A1.label>
+  <!-- EN: description -->
+  <Drugs_A1.description>TODO</Drugs_A1.description>
+  
+  <!-- EN: Drugs III -->
+  <Drugs_B1.label>药物 III</Drugs_B1.label>
+  <!-- EN: description -->
+  <Drugs_B1.description>TODO</Drugs_B1.description>
+  
+  <!-- EN: Penoxycyline Production -->
+  <Drugs_C2.label>佩诺西林生产</Drugs_C2.label>
+  <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <Drugs_C2.description>TODO</Drugs_C2.description>
+  
+  <!-- EN: Drugs VI -->
+  <Drugs_C3.label>药物 VI</Drugs_C3.label>
+  <!-- EN: description -->
+  <Drugs_C3.description>TODO</Drugs_C3.description>
+  
+  <!-- EN: Flesh Shaping -->
+  <FleshShaping.label>躯体整形</FleshShaping.label>
+  <!-- EN: Craft bionics which induce the reshaping or natural flesh, usually for the purposes of aesthetic enhancement or personal pleasure. -->
+  <FleshShaping.description>制作能够模仿或重塑体型的仿生产品。通常用于提升美感或个人乐趣。</FleshShaping.description>
+  
+  <!-- EN: Go-juice Production -->
+  <GoJuiceProduction.label>活力水制作</GoJuiceProduction.label>
+  <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
+  <GoJuiceProduction.description>解锁制作「活力水」，一种战斗用精神药物，能够提高战斗和移动能力，降低对疼痛的敏感度。</GoJuiceProduction.description>
+  
+  <!-- EN: Healing I -->
+  <Heal_B1.label>治疗技术 I</Heal_B1.label>
+  <!-- EN: description -->
+  <Heal_B1.description>TODO</Heal_B1.description>
+  
+  <!-- EN: Healing II -->
+  <Heal_C1.label>治疗技术 II</Heal_C1.label>
+  <!-- EN: description -->
+  <Heal_C1.description>TODO</Heal_C1.description>
+  
+  <!-- EN: Healing III -->
+  <Heal_C2.label>治疗技术 III</Heal_C2.label>
+  <!-- EN: description -->
+  <Heal_C2.description>TODO</Heal_C2.description>
+  
+  <!-- EN: Healing IV -->
+  <Heal_C3.label>治疗技术 IV</Heal_C3.label>
+  <!-- EN: description -->
+  <Heal_C3.description>TODO</Heal_C3.description>
+  
+  <!-- EN: Healing V -->
+  <Heal_D1.label>治疗技术 V</Heal_D1.label>
+  <!-- EN: description -->
+  <Heal_D1.description>TODO</Heal_D1.description>
+  
+  <!-- EN: Treatment of diseases I -->
+  <Heal_disease_C1.label>疾病治疗 I</Heal_disease_C1.label>
+  <!-- EN: description -->
+  <Heal_disease_C1.description>TODO</Heal_disease_C1.description>
+  
+  <!-- EN: Treatment of diseases II -->
+  <Heal_disease_D1.label>疾病治疗 II</Heal_disease_D1.label>
+  <!-- EN: description -->
+  <Heal_disease_D1.description>TODO</Heal_disease_D1.description>
+  
+  <!-- EN: Healing factors -->
+  <HealingFactors.label>愈合因子</HealingFactors.label>
+  <!-- EN: Craft bionics that enhance natural healing processes. -->
+  <HealingFactors.description>制作可加快自然愈合速度的仿生体</HealingFactors.description>
+  
+  <!-- EN: Medical equipment III -->
+  <HospitalBed.label>医疗设备 III</HospitalBed.label>
+  <!-- EN: description -->
+  <HospitalBed.description>TODO</HospitalBed.description>
+  
+  <!-- EN: Medical supplies I -->
+  <Medicine_A1.label>医疗用品 I</Medicine_A1.label>
+  <!-- EN: description -->
+  <Medicine_A1.description>TODO</Medicine_A1.description>
+  
+  <!-- EN: Medical supplies II -->
+  <Medicine_A2.label>医疗用品 II</Medicine_A2.label>
+  <!-- EN: description -->
+  <Medicine_A2.description>TODO</Medicine_A2.description>
+  
+  <!-- EN: Medical supplies III -->
+  <Medicine_B1.label>医疗用品 III</Medicine_B1.label>
+  <!-- EN: description -->
+  <Medicine_B1.description>TODO</Medicine_B1.description>
+  
+  <!-- EN: Medical supplies IV -->
+  <Medicine_B2.label>医疗用品 IV</Medicine_B2.label>
+  <!-- EN: description -->
+  <Medicine_B2.description>TODO</Medicine_B2.description>
+  
+  <!-- EN: Medical supplies VI -->
+  <Medicine_D1.label>医疗用品 VI</Medicine_D1.label>
+  <!-- EN: description -->
+  <Medicine_D1.description>TODO</Medicine_D1.description>
+  
+  <!-- EN: Medical supplies V -->
+  <MedicineProduction.label>医疗用品 V</MedicineProduction.label>
+  <!-- EN: description -->
+  <MedicineProduction.description>TODO</MedicineProduction.description>
+  
+  <!-- EN: Molecular analysis -->
+  <MolecularAnalysis.label>分子分析</MolecularAnalysis.label>
+  <!-- EN: Craft bionics with molecular analyzers for assisting the immune system or analyzing food. -->
+  <MolecularAnalysis.description>使用分子分析仪来制作仿生体，以强化免疫系统或分析食物。</MolecularAnalysis.description>
+  
+  <!-- EN: Neural computation -->
+  <NeuralComputation.label>神经计算</NeuralComputation.label>
+  <!-- EN: Craft brain implants that assist thought and learning by use of a direct, shallow brain-computer interface. -->
+  <NeuralComputation.description>通过使用浅层次的脑机接口来制作有助于思考和学习的脑部植入物。</NeuralComputation.description>
+  
+  <!-- EN: Drugs V -->
+  <PenoxycylineProduction.label>药物 V</PenoxycylineProduction.label>
+  <!-- EN: description -->
+  <PenoxycylineProduction.description>TODO</PenoxycylineProduction.description>
+  
+  <!-- EN: Prosthesis install II -->
+  <Prosthesis_install_C1.label>义肢安装 II</Prosthesis_install_C1.label>
+  <!-- EN: description -->
+  <Prosthesis_install_C1.description>TODO</Prosthesis_install_C1.description>
+  
+  <!-- EN: Prosthesis install III -->
+  <Prosthesis_install_C2.label>义肢安装 III</Prosthesis_install_C2.label>
+  <!-- EN: description -->
+  <Prosthesis_install_C2.description>TODO</Prosthesis_install_C2.description>
+  
+  <!-- EN: Prosthesis install IV -->
+  <Prosthesis_install_C3.label>义肢安装 IV</Prosthesis_install_C3.label>
+  <!-- EN: description -->
+  <Prosthesis_install_C3.description>TODO</Prosthesis_install_C3.description>
+  
+  <!-- EN: Prosthesis install V -->
+  <Prosthesis_install_D1.label>义肢安装 V</Prosthesis_install_D1.label>
+  <!-- EN: description -->
+  <Prosthesis_install_D1.description>TODO</Prosthesis_install_D1.description>
+  
+  <!-- EN: Prosthesis install VI -->
+  <Prosthesis_install_D2.label>义肢安装 VI</Prosthesis_install_D2.label>
+  <!-- EN: description -->
+  <Prosthesis_install_D2.description>TODO</Prosthesis_install_D2.description>
+  
+  <!-- EN: Prosthesis install VII -->
+  <Prosthesis_install_D3.label>义肢安装 VII</Prosthesis_install_D3.label>
+  <!-- EN: description -->
+  <Prosthesis_install_D3.description>TODO</Prosthesis_install_D3.description>
+  
+  <!-- EN: Prosthesis install VIII -->
+  <Prosthesis_install_D4.label>义肢安装 VIII</Prosthesis_install_D4.label>
+  <!-- EN: description -->
+  <Prosthesis_install_D4.description>TODO</Prosthesis_install_D4.description>
+  
+  <!-- EN: Prosthesis install IX -->
+  <Prosthesis_install_E1.label>义肢安装 IX</Prosthesis_install_E1.label>
+  <!-- EN: description -->
+  <Prosthesis_install_E1.description>TODO</Prosthesis_install_E1.description>
+  
+  <!-- EN: Prosthesis install X -->
+  <Prosthesis_install_E2.label>义肢安装 X</Prosthesis_install_E2.label>
+  <!-- EN: description -->
+  <Prosthesis_install_E2.description>TODO</Prosthesis_install_E2.description>
+  
+  <!-- EN: Prosthesis making I -->
+  <Prosthesis_making_B1.label>义肢制造 I</Prosthesis_making_B1.label>
+  <!-- EN: description -->
+  <Prosthesis_making_B1.description>TODO</Prosthesis_making_B1.description>
+  
+  <!-- EN: Prosthesis making II -->
+  <Prosthesis_making_C1.label>义肢制造 II</Prosthesis_making_C1.label>
+  <!-- EN: description -->
+  <Prosthesis_making_C1.description>TODO</Prosthesis_making_C1.description>
+  
+  <!-- EN: Prosthesis making III -->
+  <Prosthesis_making_C2.label>义肢制造 III</Prosthesis_making_C2.label>
+  <!-- EN: description -->
+  <Prosthesis_making_C2.description>TODO</Prosthesis_making_C2.description>
+  
+  <!-- EN: Prosthesis making IV -->
+  <Prosthesis_making_D1.label>义肢制造 IV</Prosthesis_making_D1.label>
+  <!-- EN: description -->
+  <Prosthesis_making_D1.description>TODO</Prosthesis_making_D1.description>
+  
+  <!-- EN: Prosthesis making V -->
+  <Prosthesis_making_D2.label>义肢制造 V</Prosthesis_making_D2.label>
+  <!-- EN: description -->
+  <Prosthesis_making_D2.description>TODO</Prosthesis_making_D2.description>
+  
+  <!-- EN: Prosthesis making VI -->
+  <Prosthesis_making_D3.label>义肢制造 VI</Prosthesis_making_D3.label>
+  <!-- EN: description -->
+  <Prosthesis_making_D3.description>TODO</Prosthesis_making_D3.description>
+  
+  <!-- EN: Prosthesis making VII -->
+  <Prosthesis_making_D4.label>义肢制造 VII</Prosthesis_making_D4.label>
+  <!-- EN: description -->
+  <Prosthesis_making_D4.description>TODO</Prosthesis_making_D4.description>
+  
+  <!-- EN: Prosthesis making IX -->
+  <Prosthesis_making_E1.label>义肢制造 IX</Prosthesis_making_E1.label>
+  <!-- EN: description -->
+  <Prosthesis_making_E1.description>TODO</Prosthesis_making_E1.description>
+  
+  <!-- EN: Prosthesis making X -->
+  <Prosthesis_making_E2.label>义肢制造 X</Prosthesis_making_E2.label>
+  <!-- EN: description -->
+  <Prosthesis_making_E2.description>TODO</Prosthesis_making_E2.description>
+  
+  <!-- EN: Prosthesis making XI -->
+  <Prosthesis_making_E3.label>义肢制造 XI</Prosthesis_making_E3.label>
+  <!-- EN: description -->
+  <Prosthesis_making_E3.description>TODO</Prosthesis_making_E3.description>
+  
+  <!-- EN: Prosthesis making XII -->
+  <Prosthesis_making_E4.label>义肢制造 XII</Prosthesis_making_E4.label>
+  <!-- EN: description -->
+  <Prosthesis_making_E4.description>TODO</Prosthesis_making_E4.description>
+  
+  <!-- EN: Prosthesis making XIII -->
+  <Prosthesis_making_E5.label>义肢制造 XIII</Prosthesis_making_E5.label>
+  <!-- EN: description -->
+  <Prosthesis_making_E5.description>TODO</Prosthesis_making_E5.description>
+  
+  <!-- EN: Prosthesis making XIV -->
+  <Prosthesis_making_E6.label>义肢制造 XIV</Prosthesis_making_E6.label>
+  <!-- EN: description -->
+  <Prosthesis_making_E6.description>TODO</Prosthesis_making_E6.description>
+  
+  <!-- EN: Prosthesis install I -->
+  <Prosthetics.label>义肢安装 I</Prosthetics.label>
+  <!-- EN: description -->
+  <Prosthetics.description>TODO</Prosthetics.description>
+  
+  <!-- EN: Psychite Refining -->
+  <PsychiteRefining.label>精神药物提炼</PsychiteRefining.label>
+  <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
+  <PsychiteRefining.description>允许殖民者对精神叶进行精炼，解锁制作「薄片」和「呀呦粉」。</PsychiteRefining.description>
+  
+  <!-- EN: Drugs II -->
+  <PsychoidBrewing.label>药物 II</PsychoidBrewing.label>
+  <!-- EN: description -->
+  <PsychoidBrewing.description>TODO</PsychoidBrewing.description>
+  
+  <!-- EN: Skin hardening -->
+  <SkinHardening.label>皮肤硬化</SkinHardening.label>
+  <!-- EN: Craft bionic implants which induce the toughening of natural skin, producing an armor-like effect. -->
+  <SkinHardening.description>制作能够让皮肤韧性增加，产生类似盔甲效果的植入物。</SkinHardening.description>
+  
+  <!-- EN: Specialized limbs -->
+  <SpecializedLimbs.label>专业肢体</SpecializedLimbs.label>
+  <!-- EN: Craft specialized bionic limbs built for specific purposes - both combat and labor. -->
+  <SpecializedLimbs.description>制作专门用于特定目的的仿生肢体-战斗或者劳动。</SpecializedLimbs.description>
+  
+  <!-- EN: Poison synthesis -->
+  <VenomSynthesis.label>毒素合成</VenomSynthesis.label>
+  <!-- EN: Craft bionics that synthesize venom from internal chemical reactors for use in toxifying attacks. -->
+  <VenomSynthesis.description>制作能够通过内部化学物质反应生成毒液的仿生体，用于在战斗中对敌人施用毒素。</VenomSynthesis.description>
+  
+  <!-- EN: Medical equipment IV -->
+  <VitalsMonitor.label>医疗设备 IV</VitalsMonitor.label>
+  <!-- EN: description -->
+  <VitalsMonitor.description>TODO</VitalsMonitor.description>
+  
+  <!-- EN: Wake-up Production -->
+  <WakeUpProduction.label>清醒丸制作</WakeUpProduction.label>
+  <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
+  <WakeUpProduction.description>解锁制作「清醒丸」，清醒丸可以取代睡眠，延长工作时间，使人忘记疲劳的精神药物，但会有一些副作用。</WakeUpProduction.description>
+  
+</LanguageData>

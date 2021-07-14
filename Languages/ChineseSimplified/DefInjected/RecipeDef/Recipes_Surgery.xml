@@ -95,117 +95,117 @@
   <!-- EN: {0} has successfully cured {1}'s bite scar. -->
   <RepairBite.successfullyRemovedHediffMessage>{0}已成功修复{1}的咬伤疤痕。</RepairBite.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure bite -->
-  <RepairBrainBite.label>修复咬伤</RepairBrainBite.label>
-  <!-- EN: Cure a bite scar. -->
+  <!-- EN: cure bite (brain) -->
+  <RepairBrainBite.label>修复咬伤（大脑）</RepairBrainBite.label>
+  <!-- EN: Cure a bite scar (brain). -->
   <RepairBrainBite.description>修复咬伤疤痕。</RepairBrainBite.description>
   <!-- EN: Mending bite scar. -->
   <RepairBrainBite.jobString>正在修复咬伤疤痕。</RepairBrainBite.jobString>
   <!-- EN: {0} has successfully cured {1}'s bite scar. -->
   <RepairBrainBite.successfullyRemovedHediffMessage>{0}已成功修复{1}的咬伤疤痕。</RepairBrainBite.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure mangled bruise scar -->
-  <RepairBrainBruise.label>修复疤痕</RepairBrainBruise.label>
-  <!-- EN: Cure a mangled scar. -->
+  <!-- EN: cure mangled bruise scar (brain) -->
+  <RepairBrainBruise.label>修复疤痕（大脑）</RepairBrainBruise.label>
+  <!-- EN: Cure a mangled scar (brain). -->
   <RepairBrainBruise.description>修复破裂疤痕。</RepairBrainBruise.description>
   <!-- EN: Mending mangled scar. -->
   <RepairBrainBruise.jobString>正在修复破裂疤痕。</RepairBrainBruise.jobString>
   <!-- EN: {0} has successfully cured {1}'s mangled scar. -->
   <RepairBrainBruise.successfullyRemovedHediffMessage>{0}已成功修复{1}的破裂疤痕。</RepairBrainBruise.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure burn -->
-  <RepairBrainBurn.label>修复烧伤</RepairBrainBurn.label>
-  <!-- EN: Cure a burn scar. -->
+  <!-- EN: cure burn (brain) -->
+  <RepairBrainBurn.label>修复烧伤（大脑）</RepairBrainBurn.label>
+  <!-- EN: Cure a burn scar (brain). -->
   <RepairBrainBurn.description>修复烧伤疤痕。</RepairBrainBurn.description>
   <!-- EN: Mending burn scar. -->
   <RepairBrainBurn.jobString>正在修复烧伤疤痕。</RepairBrainBurn.jobString>
   <!-- EN: {0} has successfully cured {1}'s burn scar. -->
   <RepairBrainBurn.successfullyRemovedHediffMessage>{0}已成功修复{1}的烧伤疤痕。</RepairBrainBurn.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure chemical burn -->
-  <RepairBrainChemicalBurn.label>修复化学烧伤</RepairBrainChemicalBurn.label>
-  <!-- EN: Cure a chemical burn scar. -->
+  <!-- EN: cure chemical burn (brain) -->
+  <RepairBrainChemicalBurn.label>修复化学烧伤（大脑）</RepairBrainChemicalBurn.label>
+  <!-- EN: Cure a chemical burn scar (brain). -->
   <RepairBrainChemicalBurn.description>修复化学烧伤疤痕。</RepairBrainChemicalBurn.description>
   <!-- EN: Mending chemical burn scar. -->
   <RepairBrainChemicalBurn.jobString>正在修复化学烧伤疤痕。</RepairBrainChemicalBurn.jobString>
   <!-- EN: {0} has successfully cured {1}'s chemical burn scar. -->
   <RepairBrainChemicalBurn.successfullyRemovedHediffMessage>{0}已成功修复{1}的化学烧伤疤痕。</RepairBrainChemicalBurn.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure mangled crack scar -->
-  <RepairBrainCrack.label>修复破裂</RepairBrainCrack.label>
-  <!-- EN: Cure a mangled scar. -->
+  <!-- EN: cure mangled crack scar (brain) -->
+  <RepairBrainCrack.label>修复破裂（大脑）</RepairBrainCrack.label>
+  <!-- EN: Cure a mangled scar (brain). -->
   <RepairBrainCrack.description>修复破裂疤痕。</RepairBrainCrack.description>
   <!-- EN: Mending mangled scar. -->
   <RepairBrainCrack.jobString>正在修复破裂疤痕。</RepairBrainCrack.jobString>
   <!-- EN: {0} has successfully cured {1}'s mangled scar. -->
   <RepairBrainCrack.successfullyRemovedHediffMessage>{0}已成功修复{1}的破裂疤痕。</RepairBrainCrack.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure mangled crush scar -->
-  <RepairBrainCrush.label>修复压伤</RepairBrainCrush.label>
-  <!-- EN: Cure a mangled scar. -->
+  <!-- EN: cure mangled crush scar (brain) -->
+  <RepairBrainCrush.label>修复压伤（大脑）</RepairBrainCrush.label>
+  <!-- EN: Cure a mangled scar (brain). -->
   <RepairBrainCrush.description>修复压伤疤痕。</RepairBrainCrush.description>
   <!-- EN: Mending mangled scar. -->
   <RepairBrainCrush.jobString>正在修复压伤疤痕。</RepairBrainCrush.jobString>
   <!-- EN: {0} has successfully cured {1}'s mangled scar. -->
   <RepairBrainCrush.successfullyRemovedHediffMessage>{0}已成功修复{1}的压伤疤痕。</RepairBrainCrush.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure cut -->
-  <RepairBrainCut.label>修复割伤</RepairBrainCut.label>
-  <!-- EN: Cure a cut scar. -->
+  <!-- EN: cure cut (brain) -->
+  <RepairBrainCut.label>修复割伤（大脑）</RepairBrainCut.label>
+  <!-- EN: Cure a cut scar (brain). -->
   <RepairBrainCut.description>修复割伤疤痕。</RepairBrainCut.description>
   <!-- EN: Mending cut scar. -->
   <RepairBrainCut.jobString>正在修复割伤疤痕。</RepairBrainCut.jobString>
   <!-- EN: {0} has successfully cured {1}'s cut scar. -->
   <RepairBrainCut.successfullyRemovedHediffMessage>{0}已成功修复{1}的cut疤痕。</RepairBrainCut.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure frostbite -->
-  <RepairBrainFrostbite.label>修复冻伤</RepairBrainFrostbite.label>
-  <!-- EN: Cure a frostbite scar. -->
+  <!-- EN: cure frostbite (brain) -->
+  <RepairBrainFrostbite.label>修复冻伤（大脑）</RepairBrainFrostbite.label>
+  <!-- EN: Cure a frostbite scar (brain). -->
   <RepairBrainFrostbite.description>修复冻伤疤痕。</RepairBrainFrostbite.description>
   <!-- EN: Mending frostbite scar. -->
   <RepairBrainFrostbite.jobString>正在修复冻伤疤痕。</RepairBrainFrostbite.jobString>
   <!-- EN: {0} has successfully cured {1}'s frostbite scar. -->
   <RepairBrainFrostbite.successfullyRemovedHediffMessage>{0}已成功修复{1}的冻伤疤痕。</RepairBrainFrostbite.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure gunshot -->
-  <RepairBrainGunshot.label>修复枪伤</RepairBrainGunshot.label>
-  <!-- EN: Cure a gunshot scar. -->
+  <!-- EN: cure gunshot (brain) -->
+  <RepairBrainGunshot.label>修复枪伤（大脑）</RepairBrainGunshot.label>
+  <!-- EN: Cure a gunshot scar (brain). -->
   <RepairBrainGunshot.description>修复老枪伤。</RepairBrainGunshot.description>
   <!-- EN: Mending gunshot scar. -->
   <RepairBrainGunshot.jobString>正在修复老枪伤。</RepairBrainGunshot.jobString>
   <!-- EN: {0} has successfully cured {1}'s gunshot scar. -->
   <RepairBrainGunshot.successfullyRemovedHediffMessage>{0}已成功修复{1}的老枪伤。</RepairBrainGunshot.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure scratch -->
-  <RepairBrainScratch.label>修复抓伤</RepairBrainScratch.label>
-  <!-- EN: Cure a scratch scar. -->
+  <!-- EN: cure scratch (brain) -->
+  <RepairBrainScratch.label>修复抓伤（大脑）</RepairBrainScratch.label>
+  <!-- EN: Cure a scratch scar (brain). -->
   <RepairBrainScratch.description>修复抓伤疤痕。</RepairBrainScratch.description>
   <!-- EN: Mending scratch scar. -->
   <RepairBrainScratch.jobString>正在修复抓伤疤痕。</RepairBrainScratch.jobString>
   <!-- EN: {0} has successfully cured {1}'s scratch scar. -->
   <RepairBrainScratch.successfullyRemovedHediffMessage>{0}已成功修复{1}的抓伤疤痕。</RepairBrainScratch.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure shredded -->
-  <RepairBrainShredded.label>修复炸伤</RepairBrainShredded.label>
-  <!-- EN: Cure a shredded scar. -->
+  <!-- EN: cure shredded (brain) -->
+  <RepairBrainShredded.label>修复炸伤（大脑）</RepairBrainShredded.label>
+  <!-- EN: Cure a shredded scar (brain). -->
   <RepairBrainShredded.description>修复炸伤疤痕。</RepairBrainShredded.description>
   <!-- EN: Mending shredded scar. -->
   <RepairBrainShredded.jobString>正在修复炸伤疤痕。</RepairBrainShredded.jobString>
   <!-- EN: {0} has successfully cured {1}'s shredded scar. -->
   <RepairBrainShredded.successfullyRemovedHediffMessage>{0}已成功修复{1}的炸伤疤痕。</RepairBrainShredded.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure stab -->
-  <RepairBrainStab.label>修复刺伤</RepairBrainStab.label>
-  <!-- EN: Cure a stab scar. -->
+  <!-- EN: cure stab (brain) -->
+  <RepairBrainStab.label>修复刺伤（大脑）</RepairBrainStab.label>
+  <!-- EN: Cure a stab scar (brain). -->
   <RepairBrainStab.description>修复刺伤疤痕。</RepairBrainStab.description>
   <!-- EN: Mending stab scar. -->
   <RepairBrainStab.jobString>正在修复刺伤疤痕。</RepairBrainStab.jobString>
   <!-- EN: {0} has successfully cured {1}'s stab scar. -->
   <RepairBrainStab.successfullyRemovedHediffMessage>{0}已成功修复{1}的刺伤疤痕。</RepairBrainStab.successfullyRemovedHediffMessage>
   
-  <!-- EN: cure surgical cut -->
-  <RepairBrainSurgicalCut.label>修复手术伤</RepairBrainSurgicalCut.label>
-  <!-- EN: Cure a surgical cut scar. -->
+  <!-- EN: cure surgical cut (brain) -->
+  <RepairBrainSurgicalCut.label>修复手术伤（大脑）</RepairBrainSurgicalCut.label>
+  <!-- EN: Cure a surgical cut scar (brain). -->
   <RepairBrainSurgicalCut.description>修复手术伤疤痕。</RepairBrainSurgicalCut.description>
   <!-- EN: Mending surgical cut scar. -->
   <RepairBrainSurgicalCut.jobString>正在修复手术伤疤痕。</RepairBrainSurgicalCut.jobString>

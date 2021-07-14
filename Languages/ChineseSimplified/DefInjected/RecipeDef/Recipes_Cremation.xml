@@ -36,4 +36,11 @@
   <!-- EN: Cremating a corpse. -->
   <CremateCorpse.jobString>正在火化。</CremateCorpse.jobString>
   
+  <!-- EN: Cremate corpse -->
+  <CremateCorpseCampfire.label>火化 尸体</CremateCorpseCampfire.label>
+  <!-- EN: Cremate a corpse into ashes. Produces 4. -->
+  <CremateCorpseCampfire.description>将尸体烧成灰烬。\n\n产出：4</CremateCorpseCampfire.description>
+  <!-- EN: Cremating a corpse. -->
+  <CremateCorpseCampfire.jobString>正在火化。</CremateCorpseCampfire.jobString>
+  
 </LanguageData>

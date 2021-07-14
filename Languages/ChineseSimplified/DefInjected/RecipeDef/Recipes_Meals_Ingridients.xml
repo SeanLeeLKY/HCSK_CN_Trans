@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: grind corn -->
-  <CraftCornmeal.label>磨制 玉米</CraftCornmeal.label>
-  <!-- EN: Grind corn into cornmeal. Produces 4. -->
-  <CraftCornmeal.description>将玉米研磨成为玉米粉。 \n\n产出：4。</CraftCornmeal.description>
-  <!-- EN: Grinding corn. -->
-  <CraftCornmeal.jobString>正在研磨 玉米。</CraftCornmeal.jobString>
-  
   <!-- EN: split coconuts -->
   <HalfCoconut.label>劈开 椰子</HalfCoconut.label>
   <!-- EN: Splits coconuts into two and harvests the milk from the fruit. Produces 5. -->

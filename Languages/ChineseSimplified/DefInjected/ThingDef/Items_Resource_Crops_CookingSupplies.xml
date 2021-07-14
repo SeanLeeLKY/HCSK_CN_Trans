@@ -1,12 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Cornmeal -->
-  <Cornmeal.label>玉米粉</Cornmeal.label>
-  <!-- EN: Simple cornmeal, used in baking. -->
-  <Cornmeal.description>简单的玉米粉，用于烘焙。</Cornmeal.description>
-  <Cornmeal.stuffProps.stuffAdjective>玉米粉</Cornmeal.stuffProps.stuffAdjective>
-  
   <!-- EN: Cocoa Beans -->
   <Rawcocoa.label>可可豆</Rawcocoa.label>
   <!-- EN: Cocoa Beans are the seeds of cocoa pods from a Cocoa Tree. They can be refined into chocolate. -->
