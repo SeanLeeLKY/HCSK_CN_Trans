@@ -3,7 +3,7 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_762x25mmTT_FMJ.label>制造 7.62x25mm托卡列夫弹（全金属被甲弹）x90</MakeAmmo_762x25mmTT_FMJ.label>
+  <!-- <MakeAmmo_762x25mmTT_FMJ.label>制造 7.62x25mm托卡列夫弹（全金属被甲弹）x90</MakeAmmo_762x25mmTT_FMJ.label>
   <MakeAmmo_762x25mmTT_FMJ.description>制造90发7.62x25mm托卡列夫弹（全金属被甲弹）。</MakeAmmo_762x25mmTT_FMJ.description>
   <MakeAmmo_762x25mmTT_FMJ.jobString>正在制造7.62x25mm托卡列夫弹（全金属被甲弹）。</MakeAmmo_762x25mmTT_FMJ.jobString>
 
@@ -18,6 +18,6 @@
   <MakeAmmo_762x25mmTT_API.label>制造 7.62x25mm托卡列夫弹（穿甲燃烧弹）x90</MakeAmmo_762x25mmTT_API.label>
   <MakeAmmo_762x25mmTT_API.description>制造90发7.62x25mm托卡列夫弹（穿甲燃烧弹）。</MakeAmmo_762x25mmTT_API.description>
   <MakeAmmo_762x25mmTT_API.jobString>正在制造7.62x25mm托卡列夫弹（穿甲燃烧弹）。</MakeAmmo_762x25mmTT_API.jobString>
-
+ -->
 
 </LanguageData>

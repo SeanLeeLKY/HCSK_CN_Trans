@@ -3,16 +3,16 @@
 
   <!-- AKS-74U -->
 
-  <BuildGun_AKS74U.label>制造 AKS-74U卡宾枪</BuildGun_AKS74U.label>
+  <!-- <BuildGun_AKS74U.label>制造 AKS-74U卡宾枪</BuildGun_AKS74U.label>
   <BuildGun_AKS74U.description>制造AKS-74U卡宾枪，整体尺寸及有效射程与冲锋枪相似。在战术部署方面，AKS-74U填补了冲锋枪和突击步枪之间的空白。\n弹种：5.45x39mm</BuildGun_AKS74U.description>
   <BuildGun_AKS74U.jobString>正在制造AKS-74U卡宾枪。</BuildGun_AKS74U.jobString>
-
+ -->
 
   <!-- SKS -->
 
-  <BuildGun_SKS.label>制造 SKS半自动步枪</BuildGun_SKS.label>
+  <!-- <BuildGun_SKS.label>制造 SKS半自动步枪</BuildGun_SKS.label>
   <BuildGun_SKS.description>制造一把老式卡宾枪。射程和威力都不错，不过射速较低。\n弹种：7.62x39mm</BuildGun_SKS.description>
   <BuildGun_SKS.jobString>正在制造SKS半自动步枪。</BuildGun_SKS.jobString>
-
+ -->
 
 </LanguageData>

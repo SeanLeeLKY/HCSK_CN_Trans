@@ -3,7 +3,7 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_9x39mmSoviet_FMJ.label>制造 9x39mm 苏制子弹（全金属被甲弹）x90</MakeAmmo_9x39mmSoviet_FMJ.label>
+  <!-- <MakeAmmo_9x39mmSoviet_FMJ.label>制造 9x39mm 苏制子弹（全金属被甲弹）x90</MakeAmmo_9x39mmSoviet_FMJ.label>
   <MakeAmmo_9x39mmSoviet_FMJ.description>制造90发9x39mm 苏制子弹（全金属被甲弹）。</MakeAmmo_9x39mmSoviet_FMJ.description>
   <MakeAmmo_9x39mmSoviet_FMJ.jobString>正在制造9x39mm 苏制子弹（全金属被甲弹）。</MakeAmmo_9x39mmSoviet_FMJ.jobString>
 
@@ -18,6 +18,6 @@
   <MakeAmmo_9x39mmSoviet_EMP.label>制造 9x39mm 苏制子弹（EMP）x90</MakeAmmo_9x39mmSoviet_EMP.label>
   <MakeAmmo_9x39mmSoviet_EMP.description>制造90发9x39mm 苏制子弹（EMP）。</MakeAmmo_9x39mmSoviet_EMP.description>
   <MakeAmmo_9x39mmSoviet_EMP.jobString>正在制造9x39mm 苏制子弹（EMP）。</MakeAmmo_9x39mmSoviet_EMP.jobString>
-
+ -->
 
 </LanguageData>
