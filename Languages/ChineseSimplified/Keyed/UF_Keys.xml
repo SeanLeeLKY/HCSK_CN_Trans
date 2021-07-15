@@ -148,6 +148,22 @@
 	<!-- EN: Target -->
   <UF_TargetQuality>目标</UF_TargetQuality>
 
+  
+	<!-- For ThingDef_UF info dialog -->
+	<UF_SlotsCountLabel>槽位计数</UF_SlotsCountLabel>
+	<UF_SlotsCountDesc>发酵器的槽位数。\n\n每个发酵过程（配方）都要消耗一个或多个原料槽位。</UF_SlotsCountDesc>
+	
+	<!-- For Dialog_BillConfig and WikiRim -->
+	<UF_WikiRim_Section>发酵过程</UF_WikiRim_Section>
+	
+    <RecipeDef_UF__slotsRequired>需求槽位：</RecipeDef_UF__slotsRequired>
+	<RecipeDef_UF__processDays>预计天数：</RecipeDef_UF__processDays>
+	<RecipeDef_UF__temperatureSafe>安全温度，°С：</RecipeDef_UF__temperatureSafe>
+	<RecipeDef_UF__temperatureIdeal>理想温度，°С：</RecipeDef_UF__temperatureIdeal>
+	<RecipeDef_UF__ruinedPerDegreePerHour>因不安全温度导致的腐坏，X %/°С/小时：</RecipeDef_UF__ruinedPerDegreePerHour>
+	
+	<ThingDef_UF__slotsCount>最大槽位数：</ThingDef_UF__slotsCount>
+
   <!-- UNUSED -->
   <UF_RunningStacksNoun>堆</UF_RunningStacksNoun>
   <UF_ContainsIngredientsGeneric>含有{0}/{1}种成分</UF_ContainsIngredientsGeneric>
