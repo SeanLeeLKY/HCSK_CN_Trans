@@ -300,44 +300,50 @@
   <Stargate_F1.label>星门技术</Stargate_F1.label>
   <!-- EN: description -->
   <Stargate_F1.description>TODO</Stargate_F1.description>
+
+  <Storage_A1.label>存储设施 I</Storage_A1.label>
+  <Storage_A1.description>description</Storage_A1.description>
   
   <!-- EN: Storage I -->
-  <Storage_B1.label>存储设施 I</Storage_B1.label>
+  <Storage_B1.label>存储设施 II</Storage_B1.label>
   <!-- EN: description -->
   <Storage_B1.description>TODO</Storage_B1.description>
   
   <!-- EN: Storage II -->
-  <Storage_B2.label>存储设施 II</Storage_B2.label>
+  <Storage_B2.label>存储设施 III</Storage_B2.label>
   <!-- EN: description -->
   <Storage_B2.description>TODO</Storage_B2.description>
   
   <!-- EN: Storage III -->
-  <Storage_B3.label>存储设施 III</Storage_B3.label>
+  <Storage_B3.label>存储设施 IV</Storage_B3.label>
   <!-- EN: description -->
   <Storage_B3.description>TODO</Storage_B3.description>
   
   <!-- EN: Storage IV -->
-  <Storage_B4.label>存储设施 IV</Storage_B4.label>
+  <Storage_B4.label>存储设施 V</Storage_B4.label>
   <!-- EN: description -->
   <Storage_B4.description>TODO</Storage_B4.description>
   
   <!-- EN: Storage V -->
-  <Storage_C1.label>存储设施 V</Storage_C1.label>
+  <Storage_C1.label>存储设施 VI</Storage_C1.label>
   <!-- EN: description -->
   <Storage_C1.description>TODO</Storage_C1.description>
   
   <!-- EN: Storage VI -->
-  <Storage_C2.label>存储设施 VI</Storage_C2.label>
+  <Storage_C2.label>存储设施 VII</Storage_C2.label>
   <!-- EN: description -->
   <Storage_C2.description>TODO</Storage_C2.description>
   
   <!-- EN: Storage VII -->
-  <Storage_C3.label>存储设施 VII</Storage_C3.label>
+  <Storage_C3.label>存储设施 VIII</Storage_C3.label>
   <!-- EN: description -->
   <Storage_C3.description>TODO</Storage_C3.description>
+
+  <Storage_C4.label>存储设施 IX</Storage_C4.label>
+  <Storage_C4.description>description</Storage_C4.description>
   
   <!-- EN: Storage VIII -->
-  <Storage_D1.label>存储设施 VIII</Storage_D1.label>
+  <Storage_D1.label>存储设施 X</Storage_D1.label>
   <!-- EN: description -->
   <Storage_D1.description>TODO</Storage_D1.description>
   
