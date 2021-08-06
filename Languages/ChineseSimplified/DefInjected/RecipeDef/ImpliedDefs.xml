@@ -1689,11 +1689,11 @@
   <Make_MeleeWeapon_Scimitar.jobString>正在制造 弯刃大刀。</Make_MeleeWeapon_Scimitar.jobString>
   
   <!-- EN: 制作Shiv -->
-  <Make_MeleeWeapon_Shiv.label>制造 小刀</Make_MeleeWeapon_Shiv.label>
+  <Make_MeleeWeapon_Shciv.label>制造 小刀</Make_MeleeWeapon_Schiv.label>
   <!-- EN: 制作Shiv。 -->
-  <Make_MeleeWeapon_Shiv.description>制造 小刀。</Make_MeleeWeapon_Shiv.description>
+  <Make_MeleeWeapon_Schiv.description>制造 小刀。</Make_MeleeWeapon_Schiv.description>
   <!-- EN: 正在制作Shiv。 -->
-  <Make_MeleeWeapon_Shiv.jobString>正在制造 小刀。</Make_MeleeWeapon_Shiv.jobString>
+  <Make_MeleeWeapon_Schiv.jobString>正在制造 小刀。</Make_MeleeWeapon_Schiv.jobString>
   
   <!-- EN: 制作电击器 -->
   <Make_MeleeWeapon_Shocker.label>制造 电击器</Make_MeleeWeapon_Shocker.label>

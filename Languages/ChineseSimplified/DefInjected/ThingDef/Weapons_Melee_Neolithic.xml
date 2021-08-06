@@ -25,13 +25,13 @@
   <MeleeWeapon_Mace.tools.head.label>前端</MeleeWeapon_Mace.tools.head.label>
   
   <!-- EN: Shiv -->
-  <MeleeWeapon_Shiv.label>小刀</MeleeWeapon_Shiv.label>
+  <MeleeWeapon_Schiv.label>小刀</MeleeWeapon_Schiv.label>
   <!-- EN: An improvised knife-like weapon. -->
-  <MeleeWeapon_Shiv.description>一种简易制作的短刀。</MeleeWeapon_Shiv.description>
+  <MeleeWeapon_Schiv.description>一种简易制作的短刀。</MeleeWeapon_Schiv.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Shiv.tools.handle.label>握把</MeleeWeapon_Shiv.tools.handle.label>
+  <MeleeWeapon_Schiv.tools.handle.label>握把</MeleeWeapon_Schiv.tools.handle.label>
   <!-- EN: point -->
-  <MeleeWeapon_Shiv.tools.point.label>刀尖</MeleeWeapon_Shiv.tools.point.label>
+  <MeleeWeapon_Schiv.tools.point.label>刀尖</MeleeWeapon_Schiv.tools.point.label>
   
   <!-- EN: Spear -->
   <MeleeWeapon_Spear.label>长矛</MeleeWeapon_Spear.label>
