@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: 12 gauge shell (Bean) -->
-  <Ammo_12Gauge_Beanbag.label>12 号子弹（豆弹）</Ammo_12Gauge_Beanbag.label>
+  <Ammo_12Gauge_Beanbag.label>12 号子弹（豆袋弹）</Ammo_12Gauge_Beanbag.label>
   <!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
   <Ammo_12Gauge_Beanbag.description>极为常见的霰弹枪口径，从狩猎到防暴，再到军用枪械，几乎随处可见。</Ammo_12Gauge_Beanbag.description>
   
@@ -27,7 +27,7 @@
   <Ammo_12Gauge_Slug.description>极为常见的霰弹枪口径，从狩猎到防暴，再到军用枪械，几乎随处可见。</Ammo_12Gauge_Slug.description>
   
   <!-- EN: beanbag -->
-  <Bullet_12Gauge_Beanbag.label>豆弹</Bullet_12Gauge_Beanbag.label>
+  <Bullet_12Gauge_Beanbag.label>豆袋弹</Bullet_12Gauge_Beanbag.label>
   
   <!-- EN: birdshot pellet -->
   <Bullet_12Gauge_Bird.label>鸟弹</Bullet_12Gauge_Bird.label>
