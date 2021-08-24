@@ -6,6 +6,7 @@
 		<li>1.0</li>
 		<li>1.1</li>
 		<li>1.2</li>
+		<li>1.3</li>
 	</supportedVersions>
 	<packageId>SeaN.ChineseTransPackage.HCSK</packageId>
 	<modDependencies>
@@ -34,6 +35,9 @@ B18：
 About.xml文件更新，支持原版1.1,1.0。
 1.2
 About.xml文件更新，支持1.2。
+1.3.3087
+About.xml文件更新，支持1.3。
+
 
 
 
