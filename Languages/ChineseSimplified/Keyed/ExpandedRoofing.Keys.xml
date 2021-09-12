@@ -2,22 +2,22 @@
 <LanguageData>
 
 	<!-- EN: Expand no thick roof area -->
-  <DesignatorAreaNoThickRoof>TODO</DesignatorAreaNoThickRoof>
+  <DesignatorAreaNoThickRoof>扩展非厚岩顶区域</DesignatorAreaNoThickRoof>
 	<!-- EN: Colonists will remove roofs in this area (including overhead mountain). -->
-  <DesignatorAreaNoThickRoofDesc>TODO</DesignatorAreaNoThickRoofDesc>
+  <DesignatorAreaNoThickRoofDesc>殖民者将会拆除这个区域的屋顶（包括山脉厚岩顶）。</DesignatorAreaNoThickRoofDesc>
 
 	<!-- EN: Expanded Roofing -->
-  <ER_ExpandedRoofing>TODO</ER_ExpandedRoofing>
+  <ER_ExpandedRoofing>已扩大屋顶</ER_ExpandedRoofing>
 	<!-- EN: Solar controller max output -->
-  <ER_MaxOutputLabel>TODO</ER_MaxOutputLabel>
+  <ER_MaxOutputLabel>太阳能控制器最大输出</ER_MaxOutputLabel>
 	<!-- EN: Solar controller wattage per solar panel -->
-  <ER_WattagePerSolarPanelLabel>TODO</ER_WattagePerSolarPanelLabel>
+  <ER_WattagePerSolarPanelLabel>太阳能控制器输出功率（每片太阳能板）</ER_WattagePerSolarPanelLabel>
 	<!-- EN: Swap glass for steel when 'Glass+Lights' mod installed -->
-  <ER_GlassLights>TODO</ER_GlassLights>
+  <ER_GlassLights>检测到「Glass+Lights」模组加载时，将使用材料中的「钢铁」替换成「玻璃」。</ER_GlassLights>
 	<!-- EN: Sets if roof maintenance jobs will be executed -->
-  <ER_RoofMaintenance>TODO</ER_RoofMaintenance>
+  <ER_RoofMaintenance>设置是否要执行屋顶维护工作</ER_RoofMaintenance>
 
 	<!-- EN: Solar Roof Area -->
-  <SolarRoofArea>TODO</SolarRoofArea>
+  <SolarRoofArea>太阳能屋顶区域</SolarRoofArea>
 
 </LanguageData>

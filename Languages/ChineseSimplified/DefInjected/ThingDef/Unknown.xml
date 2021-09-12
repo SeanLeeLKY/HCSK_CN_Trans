@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: solar roofing（蓝图） -->
-  <Blueprint_RoofSolarFraming.label>TODO</Blueprint_RoofSolarFraming.label>
+  <Blueprint_RoofSolarFraming.label>太阳能屋顶（蓝图）</Blueprint_RoofSolarFraming.label>
   
   <!-- EN: transparent roofing（蓝图） -->
-  <Blueprint_RoofTransparentFraming.label>TODO</Blueprint_RoofTransparentFraming.label>
+  <Blueprint_RoofTransparentFraming.label>透明屋顶（蓝图）</Blueprint_RoofTransparentFraming.label>
   
   <!-- EN: thick stone roofing（蓝图） -->
-  <Blueprint_ThickStoneRoofFraming.label>TODO</Blueprint_ThickStoneRoofFraming.label>
+  <Blueprint_ThickStoneRoofFraming.label>厚岩顶（蓝图）</Blueprint_ThickStoneRoofFraming.label>
   
   <!-- EN: solar roofing（建造中） -->
-  <Frame_RoofSolarFraming.label>TODO</Frame_RoofSolarFraming.label>
+  <Frame_RoofSolarFraming.label>太阳能屋顶（建造中）</Frame_RoofSolarFraming.label>
   <!-- EN: Solar roofing generates power on your roof.  Requires a Solar Controller to function. -->
-  <Frame_RoofSolarFraming.description>TODO</Frame_RoofSolarFraming.description>
+  <Frame_RoofSolarFraming.description>太阳能屋顶可以用于发电。需要太阳能控制器来输出电力。</Frame_RoofSolarFraming.description>
   
   <!-- EN: transparent roofing（建造中） -->
-  <Frame_RoofTransparentFraming.label>TODO</Frame_RoofTransparentFraming.label>
+  <Frame_RoofTransparentFraming.label>透明屋顶（建造中）</Frame_RoofTransparentFraming.label>
   <!-- EN: Transparent roofing lets the light through, but keeps the weather out! -->
-  <Frame_RoofTransparentFraming.description>TODO</Frame_RoofTransparentFraming.description>
+  <Frame_RoofTransparentFraming.description>透明屋顶可以让阳光穿过，同时隔绝外部天气影响。</Frame_RoofTransparentFraming.description>
   
   <!-- EN: thick stone roofing（建造中） -->
-  <Frame_ThickStoneRoofFraming.label>TODO</Frame_ThickStoneRoofFraming.label>
+  <Frame_ThickStoneRoofFraming.label>厚岩顶（建造中）</Frame_ThickStoneRoofFraming.label>
   <!-- EN: Provides a thick roofing to keep drop pods out. -->
-  <Frame_ThickStoneRoofFraming.description>TODO</Frame_ThickStoneRoofFraming.description>
+  <Frame_ThickStoneRoofFraming.description>厚岩顶可以防止空投仓掉入覆盖区域。</Frame_ThickStoneRoofFraming.description>
   
 </LanguageData>

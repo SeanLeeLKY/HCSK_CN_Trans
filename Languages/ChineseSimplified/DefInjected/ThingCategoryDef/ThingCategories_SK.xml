@@ -19,6 +19,9 @@
   <!-- EN: Animal products -->
   <AnimalProductRaw.label>禽畜产品</AnimalProductRaw.label>
   
+  <!-- EN: animals -->
+  <Animals.label>动物</Animals.label>
+  
   <!-- EN: Apparel -->
   <Apparel.label>衣着</Apparel.label>
   
@@ -241,6 +244,9 @@
   <!-- EN: Hydrocarbons -->
   <Hydrocarbons.label>烃类物</Hydrocarbons.label>
   
+  <!-- EN: inert relics -->
+  <InertRelics.label>圣物</InertRelics.label>
+  
   <!-- EN: Items -->
   <Items.label>物品</Items.label>
   
@@ -321,6 +327,9 @@
   
   <!-- EN: plant matter -->
   <PlantMatter.label>植物</PlantMatter.label>
+  
+  <!-- EN: plants -->
+  <Plants.label>植物</Plants.label>
   
   <!-- EN: Precious -->
   <PRS.label>贵重物品</PRS.label>
@@ -549,5 +558,8 @@
   
   <!-- EN: Crafted Wood -->
   <Woody.label>木制产品</Woody.label>
+  
+  <!-- EN: wools -->
+  <Wools.label>毛料</Wools.label>
   
 </LanguageData>

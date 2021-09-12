@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: solar roofing -->
-  <RoofSolarFraming.label>TODO</RoofSolarFraming.label>
+  <RoofSolarFraming.label>太阳能屋顶</RoofSolarFraming.label>
   <!-- EN: Solar roofing generates power on your roof.  Requires a Solar Controller to function.\n(Core SK) -->
-  <RoofSolarFraming.description>TODO</RoofSolarFraming.description>
+  <RoofSolarFraming.description>太阳能屋顶可以用于发电。需要太阳能控制器来输出电力。</RoofSolarFraming.description>
   
   <!-- EN: transparent roofing -->
-  <RoofTransparentFraming.label>TODO</RoofTransparentFraming.label>
+  <RoofTransparentFraming.label>透明屋顶</RoofTransparentFraming.label>
   <!-- EN: Transparent roofing lets the light through, but keeps the weather out!\n(Core SK) -->
-  <RoofTransparentFraming.description>TODO</RoofTransparentFraming.description>
+  <RoofTransparentFraming.description>透明屋顶可以让阳光穿过，同时隔绝外部天气影响。</RoofTransparentFraming.description>
   
   <!-- EN: thick stone roofing -->
-  <ThickStoneRoofFraming.label>TODO</ThickStoneRoofFraming.label>
+  <ThickStoneRoofFraming.label>厚岩顶</ThickStoneRoofFraming.label>
   <!-- EN: Provides a thick roofing to keep drop pods out.\n(Core SK) -->
-  <ThickStoneRoofFraming.description>TODO</ThickStoneRoofFraming.description>
+  <ThickStoneRoofFraming.description>厚岩顶可以防止空投仓掉入覆盖区域。</ThickStoneRoofFraming.description>
   
 </LanguageData>

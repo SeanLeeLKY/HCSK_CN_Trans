@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- EN: Speed: {0}\n -->
-  <MIB.Speed>速度：{0}\n</MIB.Speed>
+  <MIB.Speed>速度：{0}</MIB.Speed>
 	<!-- EN: Fertility: {0}\n -->
-  <MIB.Fertility>肥沃度：{0}\n</MIB.Fertility>
+  <MIB.Fertility>肥沃度：{0}</MIB.Fertility>
 	<!-- EN: Beauty: {0}\n -->
-  <MIB.Beauty>美观度：{0}\n</MIB.Beauty>
+  <MIB.Beauty>美观度：{0}</MIB.Beauty>
 	<!-- EN: Cleanliness: {0}\n -->
-  <MIB.Cleanliness>清洁度：{0}\n</MIB.Cleanliness>
+  <MIB.Cleanliness>清洁度：{0}</MIB.Cleanliness>
 	<!-- EN: Impassable -->
   <MIB.Impassable>不可通过</MIB.Impassable>
 </LanguageData>
