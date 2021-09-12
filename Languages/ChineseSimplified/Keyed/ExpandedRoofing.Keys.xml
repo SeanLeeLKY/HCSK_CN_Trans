@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Expand no thick roof area -->
+  <DesignatorAreaNoThickRoof>TODO</DesignatorAreaNoThickRoof>
+	<!-- EN: Colonists will remove roofs in this area (including overhead mountain). -->
+  <DesignatorAreaNoThickRoofDesc>TODO</DesignatorAreaNoThickRoofDesc>
+
+	<!-- EN: Expanded Roofing -->
+  <ER_ExpandedRoofing>TODO</ER_ExpandedRoofing>
+	<!-- EN: Solar controller max output -->
+  <ER_MaxOutputLabel>TODO</ER_MaxOutputLabel>
+	<!-- EN: Solar controller wattage per solar panel -->
+  <ER_WattagePerSolarPanelLabel>TODO</ER_WattagePerSolarPanelLabel>
+	<!-- EN: Swap glass for steel when 'Glass+Lights' mod installed -->
+  <ER_GlassLights>TODO</ER_GlassLights>
+	<!-- EN: Sets if roof maintenance jobs will be executed -->
+  <ER_RoofMaintenance>TODO</ER_RoofMaintenance>
+
+	<!-- EN: Solar Roof Area -->
+  <SolarRoofArea>TODO</SolarRoofArea>
+
+</LanguageData>

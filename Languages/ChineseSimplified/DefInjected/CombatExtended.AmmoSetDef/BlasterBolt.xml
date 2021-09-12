@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- AmmoSet -->
-
+  
+  <!-- EN: Blaster bolt -->
   <AmmoSet_BlasterBolt.label>冲击电荷弹</AmmoSet_BlasterBolt.label>
-
-
+  
 </LanguageData>

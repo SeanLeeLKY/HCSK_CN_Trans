@@ -26,13 +26,6 @@
   <!-- EN: It seems radiation effect soon goes to normal level. -->
   <CosmicRadiation.endMessage>似乎辐射效应已经恢复到正常水平。</CosmicRadiation.endMessage>
   
-  <!-- EN: Darkness -->
-  <Darkness.label>漆黑之夜</Darkness.label>
-  <!-- EN: An unusual dark and cold... night. -->
-  <Darkness.description>一个不寻常的寒冷之夜。</Darkness.description>
-  <!-- EN: The darkness is gone -->
-  <Darkness.endMessage>黑暗消散了。</Darkness.endMessage>
-  
   <!-- EN: Drought -->
   <Drought.label>旱灾</Drought.label>
   <!-- EN: An unusual drought has set in.\n\nDrought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can. -->
@@ -127,13 +120,6 @@
   <LongNight.description>一个巨型空间实体遮住了恒星的光芒，引发了一场漫长的日食现象。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。</LongNight.description>
   <!-- EN: The long night is ending -->
   <LongNight.endMessage>晨曦已露，长夜终尽。</LongNight.endMessage>
-  
-  <!-- EN: Nuclear fallout -->
-  <NuclearFallout.label>核辐射</NuclearFallout.label>
-  <!-- EN: You colony has been struck by a low-yield nuclear weapon, in addition to the explosion, it has lofted a plume of radioactive particles into the lower atmosphere, blocking sunlight and irradiating the area. Temperatures will be lowered and exposed people and animals will take radiation damage. -->
-  <NuclearFallout.description>你的殖民地被一颗低当量的核弹头攻击了，除了巨大的核爆炸以外，由核爆炸产生的放射性烟雾和粉尘已扩散至空气中，产生的核冬天效应将阻挡阳光照射地面，气温也会下降到较低水平。暴露在核污染环境中的人和动物会受到持续的辐射伤害。</NuclearFallout.description>
-  <!-- EN: Congratulations! Radiation soon goes to natural normal level. If you have received this message, probably you are one of the best Rimworld players! -->
-  <NuclearFallout.endMessage>祝贺你！辐射强度已经开始恢复到自然水平。如果你能收到这条信息，那么你可能是一位精通Rimworld的厉害玩家！再次祝贺！</NuclearFallout.endMessage>
   
   <!-- EN: beam strike -->
   <PowerBeamStrikeCondition.label>光束打击</PowerBeamStrikeCondition.label>

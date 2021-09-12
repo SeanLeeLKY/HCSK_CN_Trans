@@ -1,18 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: r_name(p=2)->[WordTribal_EN] [WordTribal_EN] -->
-  <NamerPersonTribalEN.rulePack.rulesStrings.0>r_name(p=2)->[WordTribal_EN] [WordTribal_EN]</NamerPersonTribalEN.rulePack.rulesStrings.0>
-  <!-- EN: r_name->[WordTribal_EN] '[AnimalBadass]' [WordTribal_EN] -->
-  <NamerPersonTribalEN.rulePack.rulesStrings.1>r_name->[WordTribal_EN] '[AnimalBadass]' [WordTribal_EN]</NamerPersonTribalEN.rulePack.rulesStrings.1>
-  <!-- EN: r_name->[Color] [WordTribal_EN] -->
-  <NamerPersonTribalEN.rulePack.rulesStrings.2>r_name->[Color] [WordTribal_EN]</NamerPersonTribalEN.rulePack.rulesStrings.2>
-  <!-- EN: r_name->[WordTribal_EN] [Animal] -->
-  <NamerPersonTribalEN.rulePack.rulesStrings.3>r_name->[WordTribal_EN] [Animal]</NamerPersonTribalEN.rulePack.rulesStrings.3>
-  <!-- EN: r_name->[Animal] [WordTribal_EN] -->
-  <NamerPersonTribalEN.rulePack.rulesStrings.4>r_name->[Animal] [WordTribal_EN]</NamerPersonTribalEN.rulePack.rulesStrings.4>
-  <!-- EN: r_name->[Color] [Animal] -->
-  <NamerPersonTribalEN.rulePack.rulesStrings.5>r_name->[Color] [Animal]</NamerPersonTribalEN.rulePack.rulesStrings.5>
+  <!-- EN:
+    <li>r_name(p=2)->[WordTribal_EN] [WordTribal_EN]</li>
+    <li>r_name->[WordTribal_EN] '[AnimalBadass]' [WordTribal_EN]</li>
+    <li>r_name->[Color] [WordTribal_EN]</li>
+    <li>r_name->[WordTribal_EN] [Animal]</li>
+    <li>r_name->[Animal] [WordTribal_EN]</li>
+    <li>r_name->[Color] [Animal]</li>
+  -->
+  <NamerPersonCorunanEN.rulePack.rulesStrings>TODO</NamerPersonCorunanEN.rulePack.rulesStrings>
   
   <!-- EN: WordTribal_EN(p=3)->[tribal_word_file_EN] -->
   <TribalWordUtilityEN.rulePack.rulesStrings.0>WordTribal_EN(p=3)->[tribal_word_file_EN]</TribalWordUtilityEN.rulePack.rulesStrings.0>

@@ -6,9 +6,6 @@
   <!-- EN: A mighty explosive bomb. -->
   <Norbhammar.description>一枚巨大的炸弹。</Norbhammar.description>
   
-  <!-- UNUSED -->
-  <Norbhammar.verbs.0.label>投掷奥丁之锤</Norbhammar.verbs.0.label>
-  
   <!-- EN: EMP Grenade -->
   <Proj_GrenadeEMP.label>EMP手榴弹</Proj_GrenadeEMP.label>
   
@@ -50,48 +47,30 @@
   <!-- EN: Electromagnetic pulse grenade damaging to electronic equipment. -->
   <Weapon_GrenadeEMP.description>电磁脉冲（EMP）手榴弹可以对电子设备造成损害。</Weapon_GrenadeEMP.description>
   
-  <!-- UNUSED -->
-  <Weapon_GrenadeEMP.verbs.0.label>投掷EMP手榴弹</Weapon_GrenadeEMP.verbs.0.label>
-  
   <!-- EN: firefoam grenade -->
   <Weapon_GrenadeFirefoam.label>泡沫手榴弹</Weapon_GrenadeFirefoam.label>
   <!-- EN: Special firefighting grenade. Releases a cloud of firefoam upon impact. -->
   <Weapon_GrenadeFirefoam.description>特制的灭火用手榴弹。能够释放出一大片附着于物体表面的泡沫。</Weapon_GrenadeFirefoam.description>
-  
-  <!-- UNUSED -->
-  <Weapon_GrenadeFirefoam.verbs.0.label>投掷泡沫手榴弹</Weapon_GrenadeFirefoam.verbs.0.label>
   
   <!-- EN: Incendiary Grenades -->
   <Weapon_GrenadeFlame.label>燃烧手榴弹</Weapon_GrenadeFlame.label>
   <!-- EN: A condensed mix of plasma materials make for a small but chaos inducing explosion. -->
   <Weapon_GrenadeFlame.description>浓缩的燃剂材料混合物会在受到引信装药点燃时候会引起飞溅爆炸。</Weapon_GrenadeFlame.description>
   
-  <!-- UNUSED -->
-  <Weapon_GrenadeFlame.verbs.0.label>投掷燃烧手榴弹</Weapon_GrenadeFlame.verbs.0.label>
-  
   <!-- EN: flashbang grenade -->
   <Weapon_GrenadeFlashbang.label>震撼手榴弹</Weapon_GrenadeFlashbang.label>
   <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment. -->
   <Weapon_GrenadeFlashbang.description>发出强光和电磁脉冲损伤电子设备，让生物眩晕的武器。</Weapon_GrenadeFlashbang.description>
-  
-  <!-- UNUSED -->
-  <Weapon_GrenadeFlashbang.verbs.0.label>投掷震撼手榴弹</Weapon_GrenadeFlashbang.verbs.0.label>
   
   <!-- EN: Frag Grenade -->
   <Weapon_GrenadeFrag.label>破片手榴弹</Weapon_GrenadeFrag.label>
   <!-- EN: Old-school fragmentation grenades. -->
   <Weapon_GrenadeFrag.description>老式的破片手榴弹。</Weapon_GrenadeFrag.description>
   
-  <!-- UNUSED -->
-  <Weapon_GrenadeFrag.verbs.0.label>投掷破片手榴弹</Weapon_GrenadeFrag.verbs.0.label>
-  
   <!-- EN: Thermobaric Grenades -->
   <Weapon_GrenadeFusion.label>温压手榴弹</Weapon_GrenadeFusion.label>
   <!-- EN: An improvement version of simple high explosive grenade, it contains a more potent explosive. -->
   <Weapon_GrenadeFusion.description>破片手榴弹的一种先进升级版，内装药更加具有威力。</Weapon_GrenadeFusion.description>
-  
-  <!-- UNUSED -->
-  <Weapon_GrenadeFusion.verbs.0.label>投掷温压手榴弹</Weapon_GrenadeFusion.verbs.0.label>
   
   <!-- EN: high explosive grenade -->
   <Weapon_GrenadeHighExplosive.label>高爆手榴弹</Weapon_GrenadeHighExplosive.label>
@@ -103,31 +82,19 @@
   <!-- EN: Glass bottle filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim. -->
   <Weapon_GrenadeMolotov.description>装有易燃液体的玻璃瓶，瓶口有一块燃烧的布。恶棍们的最爱。</Weapon_GrenadeMolotov.description>
   
-  <!-- UNUSED -->
-  <Weapon_GrenadeMolotov.verbs.0.label>投掷莫洛托夫燃烧瓶</Weapon_GrenadeMolotov.verbs.0.label>
-  
   <!-- EN: Plasma Grenades -->
   <Weapon_GrenadePlasma.label>等离子手榴弹</Weapon_GrenadePlasma.label>
   <!-- EN: A very potent mix of plasma particles make for a small but deadly explosion. -->
   <Weapon_GrenadePlasma.description>混合了部分不稳定等离子变化材料的武器，爆破面积小但是非常致命。</Weapon_GrenadePlasma.description>
-  
-  <!-- UNUSED -->
-  <Weapon_GrenadePlasma.verbs.0.label>投掷等离子手榴弹</Weapon_GrenadePlasma.verbs.0.label>
   
   <!-- EN: smoke grenade -->
   <Weapon_GrenadeSmoke.label>烟雾手榴弹</Weapon_GrenadeSmoke.label>
   <!-- EN: Releases a large cloud of defensive smoke, providing concealment against gunfire. -->
   <Weapon_GrenadeSmoke.description>能够在段时间内释放出大量烟雾，为进攻或者防御提供掩护效果。</Weapon_GrenadeSmoke.description>
   
-  <!-- UNUSED -->
-  <Weapon_GrenadeSmoke.verbs.0.label>投掷烟雾手榴弹</Weapon_GrenadeSmoke.verbs.0.label>
-  
   <!-- EN: stick bomb -->
   <Weapon_GrenadeStickBomb.label>木柄炸弹</Weapon_GrenadeStickBomb.label>
   <!-- EN: Primitive fuse-lit explosive. A favorite of tribals who use these to fight technologically advanced enemies with heavy armor. -->
   <Weapon_GrenadeStickBomb.description>一种原始的火药爆炸武器。部落时代的人们用这种东西加重型盔甲来对付高科技的强大敌人。</Weapon_GrenadeStickBomb.description>
-  
-  <!-- UNUSED -->
-  <Weapon_GrenadeStickBomb.verbs.0.label>投掷木柄炸弹</Weapon_GrenadeStickBomb.verbs.0.label>
   
 </LanguageData>

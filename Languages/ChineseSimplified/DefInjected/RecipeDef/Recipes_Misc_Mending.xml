@@ -15,6 +15,13 @@
   <!-- EN: Repairing. -->
   <MendComplexWeapon.jobString>正在维修。</MendComplexWeapon.jobString>
   
+  <!-- EN: repair armor/weapons -->
+  <MendRepairArmor.label>TODO</MendRepairArmor.label>
+  <!-- EN: Repair low-tech armor and melee weapons.\n(Core SK) -->
+  <MendRepairArmor.description>TODO</MendRepairArmor.description>
+  <!-- EN: Mending. -->
+  <MendRepairArmor.jobString>TODO</MendRepairArmor.jobString>
+  
   <!-- EN: mend simple apparel -->
   <MendSimpleApparel.label>修理 简单衣物</MendSimpleApparel.label>
   <!-- EN: Mend simple apparel. -->
@@ -28,6 +35,13 @@
   <MendSimpleWeapon.description>修理武器。</MendSimpleWeapon.description>
   <!-- EN: Repairing. -->
   <MendSimpleWeapon.jobString>正在维修。</MendSimpleWeapon.jobString>
+  
+  <!-- EN: mend textile apparel -->
+  <MendTextileApparel.label>TODO</MendTextileApparel.label>
+  <!-- EN: Mend pre-modern apparel made of textiles.\n(Core SK) -->
+  <MendTextileApparel.description>TODO</MendTextileApparel.description>
+  <!-- EN: Mending. -->
+  <MendTextileApparel.jobString>TODO</MendTextileApparel.jobString>
   
   <!-- EN: recycle apparel -->
   <RecycleApparel.label>回收 衣物</RecycleApparel.label>

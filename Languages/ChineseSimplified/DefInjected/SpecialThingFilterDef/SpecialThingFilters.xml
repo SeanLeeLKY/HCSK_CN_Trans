@@ -1,6 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: allow archotech apparel -->
+  <AllowApparelArchotech.label>TODO</AllowApparelArchotech.label>
+  
+  <!-- EN: allow industrial apparel -->
+  <AllowApparelIndustrial.label>TODO</AllowApparelIndustrial.label>
+  
+  <!-- EN: allow medieval apparel -->
+  <AllowApparelMedieval.label>TODO</AllowApparelMedieval.label>
+  
+  <!-- EN: allow neolithic apparel -->
+  <AllowApparelNeolithic.label>TODO</AllowApparelNeolithic.label>
+  
+  <!-- EN: allow spacer apparel -->
+  <AllowApparelSpacer.label>TODO</AllowApparelSpacer.label>
+  
+  <!-- EN: allow ultra apparel -->
+  <AllowApparelUltra.label>TODO</AllowApparelUltra.label>
+  
+  <!-- EN: allow metallic -->
+  <AllowMetallicStuffApparel.label>TODO</AllowMetallicStuffApparel.label>
+  
+  <!-- EN: allow non-metallic -->
+  <AllowNonMetallicStuffApparel.label>TODO</AllowNonMetallicStuffApparel.label>
+  
   <!-- EN: human meat -->
   <HumanlikeMeat.label>人肉</HumanlikeMeat.label>
   <!-- EN: Allow humanlike meat -->

@@ -115,7 +115,7 @@
 	<!-- EN: {PRODUCT_label} is always the same quality. -->
   <UF_QualityTooltipNA>{PRODUCT_label}始终是同样品质。</UF_QualityTooltipNA>
 
-  <!-- EN: temperature -->
+	<!-- EN: temperature -->
   <UF_WeatherTemperature>温度</UF_WeatherTemperature>
 	<!-- EN: sunshine -->
   <UF_WeatherSunshine>阳光</UF_WeatherSunshine>
@@ -147,27 +147,29 @@
   <UF_Product>产品</UF_Product>
 	<!-- EN: Target -->
   <UF_TargetQuality>目标</UF_TargetQuality>
-
-  
+	
 	<!-- For ThingDef_UF info dialog -->
-	<UF_SlotsCountLabel>槽位计数</UF_SlotsCountLabel>
-	<UF_SlotsCountDesc>发酵器的槽位数。\n\n每个发酵过程（配方）都要消耗一个或多个原料槽位。</UF_SlotsCountDesc>
+	<!-- EN: Slots count -->
+  <UF_SlotsCountLabel>槽位计数</UF_SlotsCountLabel>
+	<!-- EN: The slots count of fermenter.\n\nEach fermenting process (recipe) consumes one or more slots for its ingredients. -->
+  <UF_SlotsCountDesc>发酵器的槽位数。\n\n每个发酵过程（配方）都要消耗一个或多个原料槽位。</UF_SlotsCountDesc>
 	
 	<!-- For Dialog_BillConfig and WikiRim -->
-	<UF_WikiRim_Section>发酵过程</UF_WikiRim_Section>
+	<!-- EN: Fermenting process -->
+  <UF_WikiRim_Section>发酵过程</UF_WikiRim_Section>
 	
-    <RecipeDef_UF__slotsRequired>需求槽位：</RecipeDef_UF__slotsRequired>
-	<RecipeDef_UF__processDays>预计天数：</RecipeDef_UF__processDays>
-	<RecipeDef_UF__temperatureSafe>安全温度，°С：</RecipeDef_UF__temperatureSafe>
-	<RecipeDef_UF__temperatureIdeal>理想温度，°С：</RecipeDef_UF__temperatureIdeal>
-	<RecipeDef_UF__ruinedPerDegreePerHour>因不安全温度导致的腐坏，X %/°С/小时：</RecipeDef_UF__ruinedPerDegreePerHour>
+    <!-- EN: Requires slots: -->
+  <RecipeDef_UF__slotsRequired>需求槽位：</RecipeDef_UF__slotsRequired>
+	<!-- EN: Required days: -->
+  <RecipeDef_UF__processDays>预计天数：</RecipeDef_UF__processDays>
+	<!-- EN: Safe temperature, °С: -->
+  <RecipeDef_UF__temperatureSafe>安全温度，°С：</RecipeDef_UF__temperatureSafe>
+	<!-- EN: Ideal temperature, °С: -->
+  <RecipeDef_UF__temperatureIdeal>理想温度，°С：</RecipeDef_UF__temperatureIdeal>
+	<!-- EN: Corruption rate due to unsafe temperature, % per °С per hour: -->
+  <RecipeDef_UF__ruinedPerDegreePerHour>因不安全温度导致的腐坏，X %/°С/小时：</RecipeDef_UF__ruinedPerDegreePerHour>
 	
-	<ThingDef_UF__slotsCount>最大槽位数：</ThingDef_UF__slotsCount>
-
-  <!-- UNUSED -->
-  <UF_RunningStacksNoun>堆</UF_RunningStacksNoun>
-  <UF_ContainsIngredientsGeneric>含有{0}/{1}种成分</UF_ContainsIngredientsGeneric>
-  <UF_ContainsIngredient>包含{0}/{1}{2}</UF_ContainsIngredient>
-  <UF_ContainsProduct>包含{0}/{1}{2}</UF_ContainsProduct>
+	<!-- EN: Total slots count: -->
+  <ThingDef_UF__slotsCount>最大槽位数：</ThingDef_UF__slotsCount>
 
 </LanguageData>

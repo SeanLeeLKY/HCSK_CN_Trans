@@ -323,6 +323,13 @@
   <!-- EN: 正在制作长外套。 -->
   <Make_Apparel_FSFurCoat.jobString>正在制造 长外套。</Make_Apparel_FSFurCoat.jobString>
   
+  <!-- EN: 制作粉碎者头盔 -->
+  <Make_Apparel_GrinderHelmet.label>制造 蛮族废金属头盔</Make_Apparel_GrinderHelmet.label>
+  <!-- EN: 制作粉碎者头盔。 -->
+  <Make_Apparel_GrinderHelmet.description>制造 蛮族废金属头盔</Make_Apparel_GrinderHelmet.description>
+  <!-- EN: 正在制作粉碎者头盔。 -->
+  <Make_Apparel_GrinderHelmet.jobString>正在制造 蛮族废金属头盔</Make_Apparel_GrinderHelmet.jobString>
+  
   <!-- EN: 制作防化服 -->
   <Make_Apparel_HS.label>制造 防化服</Make_Apparel_HS.label>
   <!-- EN: 制作防化服。 -->
@@ -336,6 +343,13 @@
   <Make_Apparel_HSH.description>制造 防化头盔。</Make_Apparel_HSH.description>
   <!-- EN: 正在制作防化头盔。 -->
   <Make_Apparel_HSH.jobString>正在制造 防化头盔。</Make_Apparel_HSH.jobString>
+  
+  <!-- EN: 制作剥皮者头盔 -->
+  <Make_Apparel_HuskerHood.label>制造 野性钢丝帽</Make_Apparel_HuskerHood.label>
+  <!-- EN: 制作剥皮者头盔。 -->
+  <Make_Apparel_HuskerHood.description>制造 野性钢丝帽</Make_Apparel_HuskerHood.description>
+  <!-- EN: 正在制作剥皮者头盔。 -->
+  <Make_Apparel_HuskerHood.jobString>正在制造 野性钢丝帽</Make_Apparel_HuskerHood.jobString>
   
   <!-- EN: 制作夹克 -->
   <Make_Apparel_Jacket.label>制造 夹克</Make_Apparel_Jacket.label>
@@ -407,6 +421,20 @@
   <!-- EN: 正在制作心灵防护头盔。 -->
   <Make_Apparel_PsychicFoilHelmet.jobString>正在制造 心灵防护头盔。</Make_Apparel_PsychicFoilHelmet.jobString>
   
+  <!-- EN: 制作粗陋衣服 -->
+  <Make_Apparel_RagDress.label>制造 铁匠围裙</Make_Apparel_RagDress.label>
+  <!-- EN: 制作粗陋衣服。 -->
+  <Make_Apparel_RagDress.description>制造 铁匠围裙</Make_Apparel_RagDress.description>
+  <!-- EN: 正在制作粗陋衣服。 -->
+  <Make_Apparel_RagDress.jobString>正在制造 铁匠围裙</Make_Apparel_RagDress.jobString>
+  
+  <!-- EN: 制作粗陋短袍 -->
+  <Make_Apparel_RagDressB.label>制造 拼接服装</Make_Apparel_RagDressB.label>
+  <!-- EN: 制作粗陋短袍。 -->
+  <Make_Apparel_RagDressB.description>制造 拼接服装</Make_Apparel_RagDressB.description>
+  <!-- EN: 正在制作粗陋短袍。 -->
+  <Make_Apparel_RagDressB.jobString>正在制造 拼接服装</Make_Apparel_RagDressB.jobString>
+  
   <!-- EN: 制作呼吸器 -->
   <Make_Apparel_Respirator.label>制造 呼吸器</Make_Apparel_Respirator.label>
   <!-- EN: 制作呼吸器。 -->
@@ -435,6 +463,13 @@
   <!-- EN: 正在制作简易头盔。 -->
   <Make_Apparel_SimpleHelmet.jobString>正在制造 简易头盔。</Make_Apparel_SimpleHelmet.jobString>
   
+  <!-- EN: 制作潜伏者头盔 -->
+  <Make_Apparel_SkulkerHood.label>制造 邮帽</Make_Apparel_SkulkerHood.label>
+  <!-- EN: 制作潜伏者头盔。 -->
+  <Make_Apparel_SkulkerHood.description>制造 邮帽</Make_Apparel_SkulkerHood.description>
+  <!-- EN: 正在制作潜伏者头盔。 -->
+  <Make_Apparel_SkulkerHood.jobString>正在制造 邮帽</Make_Apparel_SkulkerHood.jobString>
+  
   <!-- EN: 制作烟罐腰带 -->
   <Make_Apparel_SmokepopBelt.label>制造 烟罐腰带</Make_Apparel_SmokepopBelt.label>
   <!-- EN: 制作烟罐腰带。 -->
@@ -448,6 +483,13 @@
   <Make_Apparel_TacVest.description>制造 战术背袋。</Make_Apparel_TacVest.description>
   <!-- EN: 正在制作战术背袋。 -->
   <Make_Apparel_TacVest.jobString>正在制造 战术背袋。</Make_Apparel_TacVest.jobString>
+  
+  <!-- EN: 制作破坏者头盔 -->
+  <Make_Apparel_ThumperHood.label>制造 部落头盔</Make_Apparel_ThumperHood.label>
+  <!-- EN: 制作破坏者头盔。 -->
+  <Make_Apparel_ThumperHood.description>制造 部落头盔</Make_Apparel_ThumperHood.description>
+  <!-- EN: 正在制作破坏者头盔。 -->
+  <Make_Apparel_ThumperHood.jobString>正在制造 部落头盔</Make_Apparel_ThumperHood.jobString>
   
   <!-- EN: 制作部落装 -->
   <Make_Apparel_TribalA.label>制造 部落装</Make_Apparel_TribalA.label>
@@ -476,6 +518,13 @@
   <Make_Apparel_TunicFine.description>制造 精致短袍。</Make_Apparel_TunicFine.description>
   <!-- EN: 正在制作精致短袍。 -->
   <Make_Apparel_TunicFine.jobString>正在制造 精致短袍。</Make_Apparel_TunicFine.jobString>
+  
+  <!-- EN: 制作劣质短袍 -->
+  <Make_Apparel_TunicPoor.label>制造 工作短袍</Make_Apparel_TunicPoor.label>
+  <!-- EN: 制作劣质短袍。 -->
+  <Make_Apparel_TunicPoor.description>制造 工作短袍</Make_Apparel_TunicPoor.description>
+  <!-- EN: 正在制作劣质短袍。 -->
+  <Make_Apparel_TunicPoor.jobString>正在制造 工作短袍</Make_Apparel_TunicPoor.jobString>
   
   <!-- EN: 制作毛线帽 -->
   <Make_Apparel_Tuque.label>制作 毛线帽</Make_Apparel_Tuque.label>
@@ -652,12 +701,26 @@
   <!-- EN: 正在制作蒸汽头盔。 -->
   <Make_Apparello_Hivehell.jobString>正在制造 蒸汽头盔。</Make_Apparello_Hivehell.jobString>
   
+  <!-- EN: 制作花哨裤子 -->
+  <Make_Apparello_Holdem.label>制造 花哨的马裤</Make_Apparello_Holdem.label>
+  <!-- EN: 制作花哨裤子。 -->
+  <Make_Apparello_Holdem.description>制造 花哨的马裤</Make_Apparello_Holdem.description>
+  <!-- EN: 正在制作花哨裤子。 -->
+  <Make_Apparello_Holdem.jobString>正在制造 花哨的马裤</Make_Apparello_Holdem.jobString>
+  
   <!-- EN: 制作枪套护腿 -->
   <Make_Apparello_Holser.label>制造 枪套护腿</Make_Apparello_Holser.label>
   <!-- EN: 制作枪套护腿。 -->
   <Make_Apparello_Holser.description>制造 枪套护腿。</Make_Apparello_Holser.description>
   <!-- EN: 正在制作枪套护腿。 -->
   <Make_Apparello_Holser.jobString>正在制造 枪套护腿。</Make_Apparello_Holser.jobString>
+  
+  <!-- EN: 制作鹿角盔 -->
+  <Make_Apparello_HornedHead.label>制造 斜面轻头盔</Make_Apparello_HornedHead.label>
+  <!-- EN: 制作鹿角盔。 -->
+  <Make_Apparello_HornedHead.description>制造 斜面轻头盔</Make_Apparello_HornedHead.description>
+  <!-- EN: 正在制作鹿角盔。 -->
+  <Make_Apparello_HornedHead.jobString>正在制造 斜面轻头盔</Make_Apparello_HornedHead.jobString>
   
   <!-- EN: 制作牛仔裤 -->
   <Make_Apparello_Jeans.label>制造 牛仔裤</Make_Apparello_Jeans.label>
@@ -736,12 +799,54 @@
   <!-- EN: 正在制作皮革拳套。 -->
   <Make_Apparello_Motorglove.jobString>正在制造 皮革拳套。</Make_Apparello_Motorglove.jobString>
   
+  <!-- EN: 制作骷髅帽 -->
+  <Make_Apparello_NorbalArcher.label>制造 轻头盔</Make_Apparello_NorbalArcher.label>
+  <!-- EN: 制作骷髅帽。 -->
+  <Make_Apparello_NorbalArcher.description>制造 轻头盔</Make_Apparello_NorbalArcher.description>
+  <!-- EN: 正在制作骷髅帽。 -->
+  <Make_Apparello_NorbalArcher.jobString>正在制造 轻头盔</Make_Apparello_NorbalArcher.jobString>
+  
+  <!-- EN: 制作角盔 -->
+  <Make_Apparello_NorbalKing.label>制造 鹿角毛皮帽</Make_Apparello_NorbalKing.label>
+  <!-- EN: 制作角盔。 -->
+  <Make_Apparello_NorbalKing.description>制造 鹿角毛皮帽</Make_Apparello_NorbalKing.description>
+  <!-- EN: 正在制作角盔。 -->
+  <Make_Apparello_NorbalKing.jobString>正在制造 鹿角毛皮帽</Make_Apparello_NorbalKing.jobString>
+  
+  <!-- EN: 制作毛皮靴 -->
+  <Make_Apparello_NorbalMuffshoes.label>制造 凉鞋</Make_Apparello_NorbalMuffshoes.label>
+  <!-- EN: 制作毛皮靴。 -->
+  <Make_Apparello_NorbalMuffshoes.description>制造 凉鞋</Make_Apparello_NorbalMuffshoes.description>
+  <!-- EN: 正在制作毛皮靴。 -->
+  <Make_Apparello_NorbalMuffshoes.jobString>正在制造 凉鞋</Make_Apparello_NorbalMuffshoes.jobString>
+  
   <!-- EN: 制作头罩 -->
   <Make_Apparello_NorbalSagecowl.label>制造 头罩</Make_Apparello_NorbalSagecowl.label>
   <!-- EN: 制作头罩。 -->
   <Make_Apparello_NorbalSagecowl.description>制造 头罩。</Make_Apparello_NorbalSagecowl.description>
   <!-- EN: 正在制作头罩。 -->
   <Make_Apparello_NorbalSagecowl.jobString>正在制造 头罩。</Make_Apparello_NorbalSagecowl.jobString>
+  
+  <!-- EN: 制作翼状骷髅帽 -->
+  <Make_Apparello_NorbalThunder.label>制造 罗马军团头盔</Make_Apparello_NorbalThunder.label>
+  <!-- EN: 制作翼状骷髅帽。 -->
+  <Make_Apparello_NorbalThunder.description>制造 罗马军团头盔</Make_Apparello_NorbalThunder.description>
+  <!-- EN: 正在制作翼状骷髅帽。 -->
+  <Make_Apparello_NorbalThunder.jobString>正在制造 罗马军团头盔</Make_Apparello_NorbalThunder.jobString>
+  
+  <!-- EN: 制作链甲头盔 -->
+  <Make_Apparello_NorbalWarrior.label>制造 巨型头盔</Make_Apparello_NorbalWarrior.label>
+  <!-- EN: 制作链甲头盔。 -->
+  <Make_Apparello_NorbalWarrior.description>制造 巨型头盔</Make_Apparello_NorbalWarrior.description>
+  <!-- EN: 正在制作链甲头盔。 -->
+  <Make_Apparello_NorbalWarrior.jobString>正在制造 巨型头盔</Make_Apparello_NorbalWarrior.jobString>
+  
+  <!-- EN: 制作闪亮头冠 -->
+  <Make_Apparello_ohlala.label>制作 闪亮头冠</Make_Apparello_ohlala.label>
+  <!-- EN: 制作闪亮头冠。 -->
+  <Make_Apparello_ohlala.description>制作 闪亮头冠</Make_Apparello_ohlala.description>
+  <!-- EN: 正在制作闪亮头冠。 -->
+  <Make_Apparello_ohlala.jobString>正在制作 闪亮头冠</Make_Apparello_ohlala.jobString>
   
   <!-- EN: 制作头巾 -->
   <Make_Apparello_pieband.label>制造 头巾</Make_Apparello_pieband.label>
@@ -806,6 +911,13 @@
   <!-- EN: 正在制作加固手套。 -->
   <Make_Apparello_ReinforcedGlove.jobString>正在制造 加固手套。</Make_Apparello_ReinforcedGlove.jobString>
   
+  <!-- EN: 制作公羊头盔 -->
+  <Make_Apparello_Rimramhood.label>制造 编织护甲</Make_Apparello_Rimramhood.label>
+  <!-- EN: 制作公羊头盔。 -->
+  <Make_Apparello_Rimramhood.description>制造 编织护甲</Make_Apparello_Rimramhood.description>
+  <!-- EN: 正在制作公羊头盔。 -->
+  <Make_Apparello_Rimramhood.jobString>正在制造 编织护甲</Make_Apparello_Rimramhood.jobString>
+  
   <!-- EN: 制作遮阳镜 -->
   <Make_Apparello_Shadess.label>制造 遮阳镜</Make_Apparello_Shadess.label>
   <!-- EN: 制作遮阳镜。 -->
@@ -827,12 +939,26 @@
   <!-- EN: 正在制作鞋子。 -->
   <Make_Apparello_Shoes.jobString>正在制造 鞋子。</Make_Apparello_Shoes.jobString>
   
+  <!-- EN: 制作厚皮面具 -->
+  <Make_Apparello_Slughood.label>制造 青铜头盔</Make_Apparello_Slughood.label>
+  <!-- EN: 制作厚皮面具。 -->
+  <Make_Apparello_Slughood.description>制造 青铜头盔</Make_Apparello_Slughood.description>
+  <!-- EN: 正在制作厚皮面具。 -->
+  <Make_Apparello_Slughood.jobString>正在制造 青铜头盔</Make_Apparello_Slughood.jobString>
+  
   <!-- EN: 制作围兜围裙 -->
   <Make_Apparello_Smithaprontosaurus.label>制造 围兜围裙</Make_Apparello_Smithaprontosaurus.label>
   <!-- EN: 制作围兜围裙。 -->
   <Make_Apparello_Smithaprontosaurus.description>制造 围兜围裙。</Make_Apparello_Smithaprontosaurus.description>
   <!-- EN: 正在制作围兜围裙。 -->
   <Make_Apparello_Smithaprontosaurus.jobString>正在制造 围兜围裙。</Make_Apparello_Smithaprontosaurus.jobString>
+  
+  <!-- EN: 制作獠牙头盔 -->
+  <Make_Apparello_Snorkhood.label>制造 獠牙头盔</Make_Apparello_Snorkhood.label>
+  <!-- EN: 制作獠牙头盔。 -->
+  <Make_Apparello_Snorkhood.description>制造 獠牙头盔</Make_Apparello_Snorkhood.description>
+  <!-- EN: 正在制作獠牙头盔。 -->
+  <Make_Apparello_Snorkhood.jobString>正在制造 獠牙头盔</Make_Apparello_Snorkhood.jobString>
   
   <!-- EN: 制作雪地靴 -->
   <Make_Apparello_Snowboots.label>制造 雪地靴</Make_Apparello_Snowboots.label>
@@ -883,6 +1009,13 @@
   <!-- EN: 正在制作流浪者胸甲。 -->
   <Make_Apparello_Syndicatellorare.jobString>正在制造 流浪者胸甲。</Make_Apparello_Syndicatellorare.jobString>
   
+  <!-- EN: 制作部落护肩 -->
+  <Make_Apparello_Tribalpad.label>制造 杆板式护甲</Make_Apparello_Tribalpad.label>
+  <!-- EN: 制作部落护肩。 -->
+  <Make_Apparello_Tribalpad.description>制造 杆板式护甲</Make_Apparello_Tribalpad.description>
+  <!-- EN: 正在制作部落护肩。 -->
+  <Make_Apparello_Tribalpad.jobString>正在制造 杆板式护甲</Make_Apparello_Tribalpad.jobString>
+  
   <!-- EN: 制作三角帽 -->
   <Make_Apparello_Tricorn.label>制造 三角帽</Make_Apparello_Tricorn.label>
   <!-- EN: 制作三角帽。 -->
@@ -903,6 +1036,13 @@
   <Make_Apparello_Urbulence.description>制造 都市衬衫。</Make_Apparello_Urbulence.description>
   <!-- EN: 正在制作都市衬衫。 -->
   <Make_Apparello_Urbulence.jobString>正在制造 都市衬衫。</Make_Apparello_Urbulence.jobString>
+  
+  <!-- EN: 制作盖头巾 -->
+  <Make_Apparello_Vandal.label>制造 鼠族头巾</Make_Apparello_Vandal.label>
+  <!-- EN: 制作盖头巾。 -->
+  <Make_Apparello_Vandal.description>制造鼠族头巾。</Make_Apparello_Vandal.description>
+  <!-- EN: 正在制作盖头巾。 -->
+  <Make_Apparello_Vandal.jobString>正在制造 鼠族头巾。</Make_Apparello_Vandal.jobString>
   
   <!-- EN: 制作皮手套 -->
   <Make_Apparello_Workglove.label>制造 皮手套</Make_Apparello_Workglove.label>
@@ -1450,6 +1590,20 @@
   <!-- EN: 正在制作软铠。 -->
   <Make_MedievalArmor_Gambeson.jobString>正在制造 软铠。</Make_MedievalArmor_Gambeson.jobString>
   
+  <!-- EN: 制作锁子甲 -->
+  <Make_MedievalArmor_Hauberk.label>制造 信使锁子甲</Make_MedievalArmor_Hauberk.label>
+  <!-- EN: 制作锁子甲。 -->
+  <Make_MedievalArmor_Hauberk.description>制造 信使锁子甲</Make_MedievalArmor_Hauberk.description>
+  <!-- EN: 正在制作锁子甲。 -->
+  <Make_MedievalArmor_Hauberk.jobString>正在制造 信使锁子甲</Make_MedievalArmor_Hauberk.jobString>
+  
+  <!-- EN: 制作护鼻头盔 -->
+  <Make_MedievalArmor_NasalHelmet.label>制造 碟型头盔</Make_MedievalArmor_NasalHelmet.label>
+  <!-- EN: 制作护鼻头盔。 -->
+  <Make_MedievalArmor_NasalHelmet.description>制造 碟型头盔</Make_MedievalArmor_NasalHelmet.description>
+  <!-- EN: 正在制作护鼻头盔。 -->
+  <Make_MedievalArmor_NasalHelmet.jobString>正在制造 碟型头盔</Make_MedievalArmor_NasalHelmet.jobString>
+  
   <!-- EN: 制作全身板甲 -->
   <Make_MedievalArmor_PlateArmor.label>制造 全身板甲</Make_MedievalArmor_PlateArmor.label>
   <!-- EN: 制作全身板甲。 -->
@@ -1491,6 +1645,13 @@
   <Make_MedievalTimes_Cloak.description>制造 长斗篷。</Make_MedievalTimes_Cloak.description>
   <!-- EN: 正在制作长斗篷。 -->
   <Make_MedievalTimes_Cloak.jobString>正在制造 长斗篷。</Make_MedievalTimes_Cloak.jobString>
+  
+  <!-- EN: 制作披风锁甲 -->
+  <Make_MedievalTimes_Cloaked_Hauberk.label>制造 部落勇士铠甲</Make_MedievalTimes_Cloaked_Hauberk.label>
+  <!-- EN: 制作披风锁甲。 -->
+  <Make_MedievalTimes_Cloaked_Hauberk.description>制造 部落勇士铠甲</Make_MedievalTimes_Cloaked_Hauberk.description>
+  <!-- EN: 正在制作披风锁甲。 -->
+  <Make_MedievalTimes_Cloaked_Hauberk.jobString>正在制造 部落勇士铠甲</Make_MedievalTimes_Cloaked_Hauberk.jobString>
   
   <!-- EN: 制作金属护手 -->
   <Make_MedievalTimes_Gauntlets.label>制造 金属护手</Make_MedievalTimes_Gauntlets.label>
@@ -1534,6 +1695,27 @@
   <!-- EN: 正在制作巴萨内特盔。 -->
   <Make_MedievalTimes_Helmet_Bascinet.jobString>正在制造 巴萨内特盔。</Make_MedievalTimes_Helmet_Bascinet.jobString>
   
+  <!-- EN: 制作圆顶头盔 -->
+  <Make_MedievalTimes_Helmet_Domed.label>制造 卡布托头盔</Make_MedievalTimes_Helmet_Domed.label>
+  <!-- EN: 制作圆顶头盔。 -->
+  <Make_MedievalTimes_Helmet_Domed.description>制造 卡布托头盔</Make_MedievalTimes_Helmet_Domed.description>
+  <!-- EN: 正在制作圆顶头盔。 -->
+  <Make_MedievalTimes_Helmet_Domed.jobString>正在制造 卡布托头盔</Make_MedievalTimes_Helmet_Domed.jobString>
+  
+  <!-- EN: 制作轻头盔 -->
+  <Make_MedievalTimes_Helmet_Sallet.label>制造 面纱轻头盔</Make_MedievalTimes_Helmet_Sallet.label>
+  <!-- EN: 制作轻头盔。 -->
+  <Make_MedievalTimes_Helmet_Sallet.description>制造 面纱轻头盔</Make_MedievalTimes_Helmet_Sallet.description>
+  <!-- EN: 正在制作轻头盔。 -->
+  <Make_MedievalTimes_Helmet_Sallet.jobString>正在制造 面纱轻头盔</Make_MedievalTimes_Helmet_Sallet.jobString>
+  
+  <!-- EN: 制作衬垫夹克 -->
+  <Make_MedievalTimes_PaddedJacket.label>制作 衬垫夹克</Make_MedievalTimes_PaddedJacket.label>
+  <!-- EN: 制作衬垫夹克。 -->
+  <Make_MedievalTimes_PaddedJacket.description>制作 衬垫夹克</Make_MedievalTimes_PaddedJacket.description>
+  <!-- EN: 正在制作衬垫夹克。 -->
+  <Make_MedievalTimes_PaddedJacket.jobString>正在制作 衬垫夹克</Make_MedievalTimes_PaddedJacket.jobString>
+  
   <!-- EN: 制作背带裤 -->
   <Make_MedievalTimes_Pants_Suspenders.label>制造 背带裤</Make_MedievalTimes_Pants_Suspenders.label>
   <!-- EN: 制作背带裤。 -->
@@ -1554,6 +1736,13 @@
   <Make_MedievalTimes_Plates_Full_Cloaked.description>制造 镶钉皮甲。</Make_MedievalTimes_Plates_Full_Cloaked.description>
   <!-- EN: 正在制作镶钉皮甲。 -->
   <Make_MedievalTimes_Plates_Full_Cloaked.jobString>正在制造 镶钉皮甲。</Make_MedievalTimes_Plates_Full_Cloaked.jobString>
+  
+  <!-- EN: 制作护胸甲 -->
+  <Make_MedievalTimes_Plates_Steel_Middle.label>制造 曼奇拉</Make_MedievalTimes_Plates_Steel_Middle.label>
+  <!-- EN: 制作护胸甲。 -->
+  <Make_MedievalTimes_Plates_Steel_Middle.description>制造 曼奇拉</Make_MedievalTimes_Plates_Steel_Middle.description>
+  <!-- EN: 正在制作护胸甲。 -->
+  <Make_MedievalTimes_Plates_Steel_Middle.jobString>正在制造 曼奇拉</Make_MedievalTimes_Plates_Steel_Middle.jobString>
   
   <!-- EN: 制作中世纪短袍 -->
   <Make_MedievalTimes_Shirt_Tunic.label>制造 中世纪短袍</Make_MedievalTimes_Shirt_Tunic.label>
@@ -1681,19 +1870,19 @@
   <!-- EN: 正在制作斧枪。 -->
   <Make_MeleeWeapon_Partisan.jobString>正在制造 斧枪。</Make_MeleeWeapon_Partisan.jobString>
   
+  <!-- EN: 制作小刀 -->
+  <Make_MeleeWeapon_Schiv.label>制造 小刀</Make_MeleeWeapon_Schiv.label>
+  <!-- EN: 制作小刀。 -->
+  <Make_MeleeWeapon_Schiv.description>制造 小刀。</Make_MeleeWeapon_Schiv.description>
+  <!-- EN: 正在制作小刀。 -->
+  <Make_MeleeWeapon_Schiv.jobString>正在制造 小刀。</Make_MeleeWeapon_Schiv.jobString>
+  
   <!-- EN: 制作弯刃大刀 -->
   <Make_MeleeWeapon_Scimitar.label>制造 弯刃大刀</Make_MeleeWeapon_Scimitar.label>
   <!-- EN: 制作弯刃大刀。 -->
   <Make_MeleeWeapon_Scimitar.description>制造 弯刃大刀。</Make_MeleeWeapon_Scimitar.description>
   <!-- EN: 正在制作弯刃大刀。 -->
   <Make_MeleeWeapon_Scimitar.jobString>正在制造 弯刃大刀。</Make_MeleeWeapon_Scimitar.jobString>
-  
-  <!-- EN: 制作Shiv -->
-  <Make_MeleeWeapon_Schiv.label>制造 小刀</Make_MeleeWeapon_Schiv.label>
-  <!-- EN: 制作Shiv。 -->
-  <Make_MeleeWeapon_Schiv.description>制造 小刀。</Make_MeleeWeapon_Schiv.description>
-  <!-- EN: 正在制作Shiv。 -->
-  <Make_MeleeWeapon_Schiv.jobString>正在制造 小刀。</Make_MeleeWeapon_Schiv.jobString>
   
   <!-- EN: 制作电击器 -->
   <Make_MeleeWeapon_Shocker.label>制造 电击器</Make_MeleeWeapon_Shocker.label>
@@ -2002,6 +2191,13 @@
   <Make_SimpleProstheticLeg.description>制造 简易的假腿。</Make_SimpleProstheticLeg.description>
   <!-- EN: 正在制作简易的假腿。 -->
   <Make_SimpleProstheticLeg.jobString>正在制造 简易的假腿。</Make_SimpleProstheticLeg.jobString>
+  
+  <!-- EN: 制作蛮族板甲 -->
+  <Make_Slag_Plate_Crude.label>制造 蛮族废金属盔甲</Make_Slag_Plate_Crude.label>
+  <!-- EN: 制作蛮族板甲。 -->
+  <Make_Slag_Plate_Crude.description>制造 蛮族废金属盔甲</Make_Slag_Plate_Crude.description>
+  <!-- EN: 正在制作蛮族板甲。 -->
+  <Make_Slag_Plate_Crude.jobString>正在制造 蛮族废金属盔甲</Make_Slag_Plate_Crude.jobString>
   
   <!-- EN: 制作尖刺蛮族板甲 -->
   <Make_Slag_Plate_Improved.label>制造 尖刺蛮族板甲</Make_Slag_Plate_Improved.label>

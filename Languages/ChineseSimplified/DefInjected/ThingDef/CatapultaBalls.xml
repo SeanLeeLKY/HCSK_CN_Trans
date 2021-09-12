@@ -5,11 +5,15 @@
   <Ammo_ExplosiveBall.label>爆炸球</Ammo_ExplosiveBall.label>
   <!-- EN: Fired from catapults, explode on impact. -->
   <Ammo_ExplosiveBall.description>用石弩发射，撞击后爆炸。</Ammo_ExplosiveBall.description>
+  <!-- EN: 用石弩发射，撞击后爆炸。\n(Core SK) -->
+  <Ammo_ExplosiveBall.oldDescription>TODO</Ammo_ExplosiveBall.oldDescription>
   
   <!-- EN: Stone Ball -->
   <Ammo_StoneBall.label>石球</Ammo_StoneBall.label>
   <!-- EN: Fired from catapults, explode on impact. -->
   <Ammo_StoneBall.description>用石弩发射，撞击后爆炸。</Ammo_StoneBall.description>
+  <!-- EN: 用石弩发射，撞击后爆炸。\n(Core SK) -->
+  <Ammo_StoneBall.oldDescription>TODO</Ammo_StoneBall.oldDescription>
   
   <!-- EN: Explosive ball -->
   <Explosive_Ball.label>爆炸球</Explosive_Ball.label>

@@ -1,16 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Other bows -->
-
+  
+  <!-- EN: arrows -->
   <AmmoSet_Arrow.label>箭矢</AmmoSet_Arrow.label>
-
-
-  <!-- Recurve bow -->
-
+  
+  <!-- EN: arrows -->
   <AmmoSet_StreamlinedArrow.label>箭矢</AmmoSet_StreamlinedArrow.label>
-
-
-  <!-- AmmoSet -->
-
+  
 </LanguageData>

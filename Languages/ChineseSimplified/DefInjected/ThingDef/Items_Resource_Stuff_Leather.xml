@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: Chitin -->
+  <Chitin.label>甲壳</Chitin.label>
+  <!-- EN: Chitin is a long-chain polymer. It can be obtained from the exoskeletons of insects or shelled creatures. It can be used like leather, but it is quite difficult and expensive. -->
+  <Chitin.description>甲壳是一种长链聚合物。它可以从昆虫或有壳生物的外骨骼中获得。</Chitin.description>
+  <Chitin.stuffProps.stuffAdjective>甲壳</Chitin.stuffProps.stuffAdjective>
+  
   <!-- EN: barghest fur pelt -->
   <Leather_BarghestFur.label>犬魔皮</Leather_BarghestFur.label>
   <!-- EN: Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
@@ -49,7 +55,7 @@
   <Leather_FeatheredRaptorLeather.description>奢侈并且出奇地耐用。它的防护性能和隔温性能通常用于制作高品质工艺品。</Leather_FeatheredRaptorLeather.description>
   <Leather_FeatheredRaptorLeather.stuffProps.stuffAdjective>翼猛龙皮</Leather_FeatheredRaptorLeather.stuffProps.stuffAdjective>
   
-  <!-- EN: feenix dragonskin -->
+  <!-- EN: feenix dragonskin scales -->
   <Leather_FireDragonskin.label>芬尼克斯龙皮</Leather_FireDragonskin.label>
   <!-- EN: Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
   <Leather_FireDragonskin.description>奢侈并且出奇地耐用。它的防护性能和隔温性能通常用于制作高品质工艺品。</Leather_FireDragonskin.description>

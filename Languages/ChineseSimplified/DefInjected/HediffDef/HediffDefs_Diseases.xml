@@ -14,10 +14,10 @@
   <Coronavirus.description>一种能引起呼吸道症状的传染性病毒，病人需要单独隔离和长期护理。</Coronavirus.description>
   <!-- EN: a SARS -->
   <Coronavirus.labelNoun>冠状病毒</Coronavirus.labelNoun>
-  <!-- EN: minor-hidden -->
-  <Coronavirus.stages.minorhidden.label>轻度-隐藏</Coronavirus.stages.minorhidden.label>
   <!-- EN: minor -->
-  <Coronavirus.stages.minor.label>轻度</Coronavirus.stages.minor.label>
+  <Coronavirus.stages.minor-0.label>轻度</Coronavirus.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Coronavirus.stages.minor-1.label>TODO</Coronavirus.stages.minor-1.label>
   <!-- EN: major -->
   <Coronavirus.stages.major.label>严重</Coronavirus.stages.major.label>
   <!-- EN: extreme -->

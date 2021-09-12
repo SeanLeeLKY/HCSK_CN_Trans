@@ -5,16 +5,22 @@
   <Ammo_30x64mmFuel_Foam.label>30x64mm 燃料弹（泡沫弹）</Ammo_30x64mmFuel_Foam.label>
   <!-- EN: Container holding fuel for incendiary shot firearms. -->
   <Ammo_30x64mmFuel_Foam.description>装满各种用途燃料的炮弹。</Ammo_30x64mmFuel_Foam.description>
+  <!-- EN: 装满各种用途燃料的炮弹。\n(Core SK) -->
+  <Ammo_30x64mmFuel_Foam.oldDescription>TODO</Ammo_30x64mmFuel_Foam.oldDescription>
   
   <!-- EN: 30x64mm fuel cell (Incendiary) -->
   <Ammo_30x64mmFuel_Incendiary.label>30x64mm 燃料弹（燃烧弹）</Ammo_30x64mmFuel_Incendiary.label>
   <!-- EN: Container holding fuel for incendiary shot firearms. -->
   <Ammo_30x64mmFuel_Incendiary.description>装满各种用途燃料的炮弹。</Ammo_30x64mmFuel_Incendiary.description>
+  <!-- EN: 装满各种用途燃料的炮弹。\n(Core SK) -->
+  <Ammo_30x64mmFuel_Incendiary.oldDescription>TODO</Ammo_30x64mmFuel_Incendiary.oldDescription>
   
   <!-- EN: 30x64mm fuel cell (Thermobaric) -->
   <Ammo_30x64mmFuel_Thermobaric.label>30x64mm 燃料弹（温压弹）</Ammo_30x64mmFuel_Thermobaric.label>
   <!-- EN: Container holding fuel for incendiary shot firearms. -->
   <Ammo_30x64mmFuel_Thermobaric.description>装满各种用途燃料的炮弹。</Ammo_30x64mmFuel_Thermobaric.description>
+  <!-- EN: 装满各种用途燃料的炮弹。\n(Core SK) -->
+  <Ammo_30x64mmFuel_Thermobaric.oldDescription>TODO</Ammo_30x64mmFuel_Thermobaric.oldDescription>
   
   <!-- EN: foam bolt -->
   <Bullet_30x64mmFuel_Foam.label>泡沫弹</Bullet_30x64mmFuel_Foam.label>

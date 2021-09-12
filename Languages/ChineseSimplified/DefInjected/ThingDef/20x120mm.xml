@@ -5,16 +5,22 @@
   <Ammo_20x102mm_FMJ.label>20x102mm 弹药（全金属被甲弹）</Ammo_20x102mm_FMJ.label>
   <!-- EN: The 20 mm caliber is a specific size of cannon and autocannon ammunition. -->
   <Ammo_20x102mm_FMJ.description>20毫米口径是某些火炮和自动机炮的特定口径。</Ammo_20x102mm_FMJ.description>
+  <!-- EN: 20毫米口径是某些火炮和自动机炮的特定口径。\n(Core SK) -->
+  <Ammo_20x102mm_FMJ.oldDescription>TODO</Ammo_20x102mm_FMJ.oldDescription>
   
   <!-- EN: 20x102mm cartridge (HE) -->
   <Ammo_20x102mm_HE.label>20x102mm 弹药（高爆弹）</Ammo_20x102mm_HE.label>
   <!-- EN: The 20 mm caliber is a specific size of cannon and autocannon ammunition. -->
   <Ammo_20x102mm_HE.description>20毫米口径是某些火炮和自动机炮的特定口径。</Ammo_20x102mm_HE.description>
+  <!-- EN: 20毫米口径是某些火炮和自动机炮的特定口径。\n(Core SK) -->
+  <Ammo_20x102mm_HE.oldDescription>TODO</Ammo_20x102mm_HE.oldDescription>
   
   <!-- EN: 20x102mm cartridge (AP-I) -->
   <Ammo_20x102mm_Incendiary.label>20x102mm 弹药（穿甲燃烧弹）</Ammo_20x102mm_Incendiary.label>
   <!-- EN: The 20 mm caliber is a specific size of cannon and autocannon ammunition. -->
   <Ammo_20x102mm_Incendiary.description>20毫米口径是某些火炮和自动机炮的特定口径。</Ammo_20x102mm_Incendiary.description>
+  <!-- EN: 20毫米口径是某些火炮和自动机炮的特定口径。\n(Core SK) -->
+  <Ammo_20x102mm_Incendiary.oldDescription>TODO</Ammo_20x102mm_Incendiary.oldDescription>
   
   <!-- EN: 20x102mm bullet (FMJ) -->
   <Bullet_20x102mm_FMJ.label>20x102mm 子弹（全金属被甲弹）</Bullet_20x102mm_FMJ.label>

@@ -8,6 +8,13 @@
   <!-- EN: Making patchleather. -->
   <Make_Patchleather.jobString>正在缝制混缝皮革。</Make_Patchleather.jobString>
   
+  <!-- EN: Create chitin plating -->
+  <MakeChitinPlating.label>TODO</MakeChitinPlating.label>
+  <!-- EN: Create chitin plating from chitin and synthetic fibers. Produces 15.\n(Core SK) -->
+  <MakeChitinPlating.description>TODO</MakeChitinPlating.description>
+  <!-- EN: Spinning synthread from synthetic fibers. -->
+  <MakeChitinPlating.jobString>TODO</MakeChitinPlating.jobString>
+  
   <!-- EN: Spin cloth -->
   <MakeCloth.label>纺织 布</MakeCloth.label>
   <!-- EN: Spin cloth from raw cotton. Produces 20. -->

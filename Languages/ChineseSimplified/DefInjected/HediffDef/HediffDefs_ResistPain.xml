@@ -36,13 +36,6 @@
   <!-- EN: a thick leather -->
   <ThickPassive.labelNoun>厚皮</ThickPassive.labelNoun>
   
-  <!-- EN: undead -->
-  <UndeadPassive.label>不死特性</UndeadPassive.label>
-  <!-- EN: Can't die twice... -->
-  <UndeadPassive.description>死无再死</UndeadPassive.description>
-  <!-- EN: an undead -->
-  <UndeadPassive.labelNoun>不死</UndeadPassive.labelNoun>
-  
   <!-- EN: unstoppable state -->
   <UnstoppablePassive.label>不可阻挡</UnstoppablePassive.label>
   <!-- EN: Can only go forward. -->

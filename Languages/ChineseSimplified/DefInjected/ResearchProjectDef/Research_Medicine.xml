@@ -8,7 +8,7 @@
   
   <!-- EN: Prosthesis making VIII -->
   <Bionics.label>义肢制造 VIII</Bionics.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Bionics.description>TODO</Bionics.description>
   
   <!-- EN: Brain wiring -->
@@ -23,27 +23,27 @@
   
   <!-- EN: Medical equipment I -->
   <Clinical_B1.label>医疗设备 I</Clinical_B1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Clinical_B1.description>TODO</Clinical_B1.description>
   
   <!-- EN: Medical equipment II -->
   <Clinical_C1.label>医疗设备 II</Clinical_C1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Clinical_C1.description>TODO</Clinical_C1.description>
   
   <!-- EN: Medical equipment V -->
   <Clinical_D1.label>医疗设备 V</Clinical_D1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Clinical_D1.description>TODO</Clinical_D1.description>
   
   <!-- EN: Medical equipment VI -->
   <Clinical_D2.label>医疗设备 VI</Clinical_D2.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Clinical_D2.description>TODO</Clinical_D2.description>
   
   <!-- EN: Medical equipment VII -->
   <Clinical_E1.label>医疗设备 VII</Clinical_E1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Clinical_E1.description>TODO</Clinical_E1.description>
   
   <!-- EN: Compact weaponry -->
@@ -53,27 +53,27 @@
   
   <!-- EN: Drugs IV -->
   <DrugProduction.label>药物 IV</DrugProduction.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <DrugProduction.description>TODO</DrugProduction.description>
   
   <!-- EN: Drugs I -->
   <Drugs_A1.label>药物 I</Drugs_A1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Drugs_A1.description>TODO</Drugs_A1.description>
   
   <!-- EN: Drugs III -->
   <Drugs_B1.label>药物 III</Drugs_B1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Drugs_B1.description>TODO</Drugs_B1.description>
   
   <!-- EN: Penoxycyline Production -->
   <Drugs_C2.label>佩诺西林生产</Drugs_C2.label>
-  <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start.\n(Core SK) -->
   <Drugs_C2.description>TODO</Drugs_C2.description>
   
   <!-- EN: Drugs VI -->
   <Drugs_C3.label>药物 VI</Drugs_C3.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Drugs_C3.description>TODO</Drugs_C3.description>
   
   <!-- EN: Flesh Shaping -->
@@ -88,37 +88,37 @@
   
   <!-- EN: Healing I -->
   <Heal_B1.label>治疗技术 I</Heal_B1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Heal_B1.description>TODO</Heal_B1.description>
   
   <!-- EN: Healing II -->
   <Heal_C1.label>治疗技术 II</Heal_C1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Heal_C1.description>TODO</Heal_C1.description>
   
   <!-- EN: Healing III -->
   <Heal_C2.label>治疗技术 III</Heal_C2.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Heal_C2.description>TODO</Heal_C2.description>
   
   <!-- EN: Healing IV -->
   <Heal_C3.label>治疗技术 IV</Heal_C3.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Heal_C3.description>TODO</Heal_C3.description>
   
   <!-- EN: Healing V -->
   <Heal_D1.label>治疗技术 V</Heal_D1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Heal_D1.description>TODO</Heal_D1.description>
   
   <!-- EN: Treatment of diseases I -->
   <Heal_disease_C1.label>疾病治疗 I</Heal_disease_C1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Heal_disease_C1.description>TODO</Heal_disease_C1.description>
   
   <!-- EN: Treatment of diseases II -->
   <Heal_disease_D1.label>疾病治疗 II</Heal_disease_D1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Heal_disease_D1.description>TODO</Heal_disease_D1.description>
   
   <!-- EN: Healing factors -->
@@ -128,37 +128,37 @@
   
   <!-- EN: Medical equipment III -->
   <HospitalBed.label>医疗设备 III</HospitalBed.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <HospitalBed.description>TODO</HospitalBed.description>
   
   <!-- EN: Medical supplies I -->
   <Medicine_A1.label>医疗用品 I</Medicine_A1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Medicine_A1.description>TODO</Medicine_A1.description>
   
   <!-- EN: Medical supplies II -->
   <Medicine_A2.label>医疗用品 II</Medicine_A2.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Medicine_A2.description>TODO</Medicine_A2.description>
   
   <!-- EN: Medical supplies III -->
   <Medicine_B1.label>医疗用品 III</Medicine_B1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Medicine_B1.description>TODO</Medicine_B1.description>
   
   <!-- EN: Medical supplies IV -->
   <Medicine_B2.label>医疗用品 IV</Medicine_B2.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Medicine_B2.description>TODO</Medicine_B2.description>
   
   <!-- EN: Medical supplies VI -->
   <Medicine_D1.label>医疗用品 VI</Medicine_D1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Medicine_D1.description>TODO</Medicine_D1.description>
   
   <!-- EN: Medical supplies V -->
   <MedicineProduction.label>医疗用品 V</MedicineProduction.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <MedicineProduction.description>TODO</MedicineProduction.description>
   
   <!-- EN: Molecular analysis -->
@@ -173,122 +173,122 @@
   
   <!-- EN: Drugs V -->
   <PenoxycylineProduction.label>药物 V</PenoxycylineProduction.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <PenoxycylineProduction.description>TODO</PenoxycylineProduction.description>
   
   <!-- EN: Prosthesis install II -->
   <Prosthesis_install_C1.label>义肢安装 II</Prosthesis_install_C1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_install_C1.description>TODO</Prosthesis_install_C1.description>
   
   <!-- EN: Prosthesis install III -->
   <Prosthesis_install_C2.label>义肢安装 III</Prosthesis_install_C2.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_install_C2.description>TODO</Prosthesis_install_C2.description>
   
   <!-- EN: Prosthesis install IV -->
   <Prosthesis_install_C3.label>义肢安装 IV</Prosthesis_install_C3.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_install_C3.description>TODO</Prosthesis_install_C3.description>
   
   <!-- EN: Prosthesis install V -->
   <Prosthesis_install_D1.label>义肢安装 V</Prosthesis_install_D1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_install_D1.description>TODO</Prosthesis_install_D1.description>
   
   <!-- EN: Prosthesis install VI -->
   <Prosthesis_install_D2.label>义肢安装 VI</Prosthesis_install_D2.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_install_D2.description>TODO</Prosthesis_install_D2.description>
   
   <!-- EN: Prosthesis install VII -->
   <Prosthesis_install_D3.label>义肢安装 VII</Prosthesis_install_D3.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_install_D3.description>TODO</Prosthesis_install_D3.description>
   
   <!-- EN: Prosthesis install VIII -->
   <Prosthesis_install_D4.label>义肢安装 VIII</Prosthesis_install_D4.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_install_D4.description>TODO</Prosthesis_install_D4.description>
   
   <!-- EN: Prosthesis install IX -->
   <Prosthesis_install_E1.label>义肢安装 IX</Prosthesis_install_E1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_install_E1.description>TODO</Prosthesis_install_E1.description>
   
   <!-- EN: Prosthesis install X -->
   <Prosthesis_install_E2.label>义肢安装 X</Prosthesis_install_E2.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_install_E2.description>TODO</Prosthesis_install_E2.description>
   
   <!-- EN: Prosthesis making I -->
   <Prosthesis_making_B1.label>义肢制造 I</Prosthesis_making_B1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_B1.description>TODO</Prosthesis_making_B1.description>
   
   <!-- EN: Prosthesis making II -->
   <Prosthesis_making_C1.label>义肢制造 II</Prosthesis_making_C1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_C1.description>TODO</Prosthesis_making_C1.description>
   
   <!-- EN: Prosthesis making III -->
   <Prosthesis_making_C2.label>义肢制造 III</Prosthesis_making_C2.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_C2.description>TODO</Prosthesis_making_C2.description>
   
   <!-- EN: Prosthesis making IV -->
   <Prosthesis_making_D1.label>义肢制造 IV</Prosthesis_making_D1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_D1.description>TODO</Prosthesis_making_D1.description>
   
   <!-- EN: Prosthesis making V -->
   <Prosthesis_making_D2.label>义肢制造 V</Prosthesis_making_D2.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_D2.description>TODO</Prosthesis_making_D2.description>
   
   <!-- EN: Prosthesis making VI -->
   <Prosthesis_making_D3.label>义肢制造 VI</Prosthesis_making_D3.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_D3.description>TODO</Prosthesis_making_D3.description>
   
   <!-- EN: Prosthesis making VII -->
   <Prosthesis_making_D4.label>义肢制造 VII</Prosthesis_making_D4.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_D4.description>TODO</Prosthesis_making_D4.description>
   
   <!-- EN: Prosthesis making IX -->
   <Prosthesis_making_E1.label>义肢制造 IX</Prosthesis_making_E1.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_E1.description>TODO</Prosthesis_making_E1.description>
   
   <!-- EN: Prosthesis making X -->
   <Prosthesis_making_E2.label>义肢制造 X</Prosthesis_making_E2.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_E2.description>TODO</Prosthesis_making_E2.description>
   
   <!-- EN: Prosthesis making XI -->
   <Prosthesis_making_E3.label>义肢制造 XI</Prosthesis_making_E3.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_E3.description>TODO</Prosthesis_making_E3.description>
   
   <!-- EN: Prosthesis making XII -->
   <Prosthesis_making_E4.label>义肢制造 XII</Prosthesis_making_E4.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_E4.description>TODO</Prosthesis_making_E4.description>
   
   <!-- EN: Prosthesis making XIII -->
   <Prosthesis_making_E5.label>义肢制造 XIII</Prosthesis_making_E5.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_E5.description>TODO</Prosthesis_making_E5.description>
   
   <!-- EN: Prosthesis making XIV -->
   <Prosthesis_making_E6.label>义肢制造 XIV</Prosthesis_making_E6.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthesis_making_E6.description>TODO</Prosthesis_making_E6.description>
   
   <!-- EN: Prosthesis install I -->
   <Prosthetics.label>义肢安装 I</Prosthetics.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <Prosthetics.description>TODO</Prosthetics.description>
   
   <!-- EN: Psychite Refining -->
@@ -298,7 +298,7 @@
   
   <!-- EN: Drugs II -->
   <PsychoidBrewing.label>药物 II</PsychoidBrewing.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <PsychoidBrewing.description>TODO</PsychoidBrewing.description>
   
   <!-- EN: Skin hardening -->
@@ -318,7 +318,7 @@
   
   <!-- EN: Medical equipment IV -->
   <VitalsMonitor.label>医疗设备 IV</VitalsMonitor.label>
-  <!-- EN: description -->
+  <!-- EN: description\n(Core SK) -->
   <VitalsMonitor.description>TODO</VitalsMonitor.description>
   
   <!-- EN: Wake-up Production -->

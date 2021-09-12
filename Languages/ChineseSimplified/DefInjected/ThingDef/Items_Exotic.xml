@@ -10,9 +10,6 @@
   <!-- EN: point -->
   <ElephantTusk.tools.point.label>尖</ElephantTusk.tools.point.label>
   
-  <!-- UNUSED -->
-  <ElephantTusk.tools.base.label>根部</ElephantTusk.tools.base.label>
-  
   <!-- EN: thrumbo horn -->
   <ThrumboHorn.label>敲击兽角</ThrumboHorn.label>
   <!-- EN: The horn from a previously living thrumbo. It's razor-sharp, very hard and priceless in most markets. This is a true trophy. -->
@@ -21,9 +18,6 @@
   <ThrumboHorn.tools.handle.label>把手</ThrumboHorn.tools.handle.label>
   <!-- EN: point -->
   <ThrumboHorn.tools.point.label>尖</ThrumboHorn.tools.point.label>
-  
-  <!-- UNUSED -->
-  <ThrumboHorn.tools.base.label>根部</ThrumboHorn.tools.base.label>
   
   <!-- EN: Weather controller core -->
   <WeatherControllerCore.label>天气控制器核心</WeatherControllerCore.label>

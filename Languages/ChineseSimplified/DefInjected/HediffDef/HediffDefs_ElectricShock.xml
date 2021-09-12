@@ -12,9 +12,4 @@
   <!-- EN: {0} in the {1} -->
   <ElectricShock.labelNounPretty>{1}中的{0}</ElectricShock.labelNounPretty>
   
-  <!-- UNUSED -->
-  <ElectricShock.comps.0.labelTendedWell>已包扎</ElectricShock.comps.0.labelTendedWell>
-  <ElectricShock.comps.0.labelTendedWellInner>已缝合</ElectricShock.comps.0.labelTendedWellInner>
-  <ElectricShock.comps.0.labelSolidTendedWell>已固定</ElectricShock.comps.0.labelSolidTendedWell>
-  
 </LanguageData>

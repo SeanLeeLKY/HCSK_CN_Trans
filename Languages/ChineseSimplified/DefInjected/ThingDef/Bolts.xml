@@ -5,16 +5,22 @@
   <Ammo_Bolt_Explosive.label>弩箭（爆炸）</Ammo_Bolt_Explosive.label>
   <!-- EN: Simple arrow with explosive bolt. -->
   <Ammo_Bolt_Explosive.description>简单的爆炸弩箭。</Ammo_Bolt_Explosive.description>
+  <!-- EN: 简单的爆炸弩箭。\n(Core SK) -->
+  <Ammo_Bolt_Explosive.oldDescription>TODO</Ammo_Bolt_Explosive.oldDescription>
   
   <!-- EN: metallic bolt -->
   <Ammo_Bolt_Metallic.label>弩箭（金属）</Ammo_Bolt_Metallic.label>
   <!-- EN: Simple arrow with metallic bolt. -->
   <Ammo_Bolt_Metallic.description>简单的金属弩箭。</Ammo_Bolt_Metallic.description>
+  <!-- EN: 简单的金属弩箭。\n(Core SK) -->
+  <Ammo_Bolt_Metallic.oldDescription>TODO</Ammo_Bolt_Metallic.oldDescription>
   
   <!-- EN: poison bolt -->
   <Ammo_Bolt_Poison.label>弩箭（毒性）</Ammo_Bolt_Poison.label>
   <!-- EN: Simple arrow with poison bolt. -->
   <Ammo_Bolt_Poison.description>简单的毒弩箭。</Ammo_Bolt_Poison.description>
+  <!-- EN: 简单的毒弩箭。\n(Core SK) -->
+  <Ammo_Bolt_Poison.oldDescription>TODO</Ammo_Bolt_Poison.oldDescription>
   
   <!-- EN: explosive bolt -->
   <Projectile_ExplosiveBolt.label>弩箭（爆炸）</Projectile_ExplosiveBolt.label>

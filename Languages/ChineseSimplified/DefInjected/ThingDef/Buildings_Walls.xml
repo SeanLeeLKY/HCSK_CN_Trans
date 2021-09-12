@@ -16,6 +16,11 @@
   <!-- EN: A structural column capable of holding up a roof. It does not impede movement or provide cover. -->
   <Column.description>一个能够支撑屋顶的柱子，不影响视野和移动，看起来还挺漂亮。</Column.description>
   
+  <!-- EN: fence -->
+  <Fence.label>栅栏</Fence.label>
+  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <Fence.description>由横杆连接而成的栅栏，用于为某些种类的动物建造围栏。有些种类的动物可以越过栅栏。捕食者不会猎杀栅栏另一侧的生物，但仍可能在里面徘徊。</Fence.description>
+  
   <!-- EN: wall -->
   <Wall.label>墙</Wall.label>
   <!-- EN: An impassable wall. It is capable of holding up a roof. -->

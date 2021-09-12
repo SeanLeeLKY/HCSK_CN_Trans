@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: British Shorthair -->
+  <BritishShorthair.label>英国短毛猫</BritishShorthair.label>
+  <BritishShorthair.labelFemale>雌性英国短毛猫</BritishShorthair.labelFemale>
+  <BritishShorthair.labelFemalePlural>雌性英国短毛猫</BritishShorthair.labelFemalePlural>
+  <BritishShorthair.labelMale>雄性英国短毛猫</BritishShorthair.labelMale>
+  <BritishShorthair.labelMalePlural>雄性英国短毛猫</BritishShorthair.labelMalePlural>
+  <BritishShorthair.labelPlural>英国短毛猫</BritishShorthair.labelPlural>
+  <!-- EN: British Shorthair Kitten -->
+  <BritishShorthair.lifeStages.British_Shorthair_Kitten.label>英国短毛猫崽</BritishShorthair.lifeStages.British_Shorthair_Kitten.label>
+  <BritishShorthair.lifeStages.British_Shorthair_Kitten.labelFemale>雌性英国短毛猫崽</BritishShorthair.lifeStages.British_Shorthair_Kitten.labelFemale>
+  <BritishShorthair.lifeStages.British_Shorthair_Kitten.labelFemalePlural>雌性英国短毛猫崽</BritishShorthair.lifeStages.British_Shorthair_Kitten.labelFemalePlural>
+  <BritishShorthair.lifeStages.British_Shorthair_Kitten.labelMale>雄性英国短毛猫崽</BritishShorthair.lifeStages.British_Shorthair_Kitten.labelMale>
+  <BritishShorthair.lifeStages.British_Shorthair_Kitten.labelMalePlural>雄性英国短毛猫崽</BritishShorthair.lifeStages.British_Shorthair_Kitten.labelMalePlural>
+  <BritishShorthair.lifeStages.British_Shorthair_Kitten.labelPlural>英国短毛猫崽</BritishShorthair.lifeStages.British_Shorthair_Kitten.labelPlural>
+  <BritishShorthair.lifeStages.1.label>英国短毛猫</BritishShorthair.lifeStages.1.label>
+  <BritishShorthair.lifeStages.1.labelFemale>雌性英国短毛猫</BritishShorthair.lifeStages.1.labelFemale>
+  <BritishShorthair.lifeStages.1.labelFemalePlural>雌性英国短毛猫</BritishShorthair.lifeStages.1.labelFemalePlural>
+  <BritishShorthair.lifeStages.1.labelMale>雄性英国短毛猫</BritishShorthair.lifeStages.1.labelMale>
+  <BritishShorthair.lifeStages.1.labelMalePlural>雄性英国短毛猫</BritishShorthair.lifeStages.1.labelMalePlural>
+  <BritishShorthair.lifeStages.1.labelPlural>英国短毛猫</BritishShorthair.lifeStages.1.labelPlural>
+  <BritishShorthair.lifeStages.2.label>英国短毛猫</BritishShorthair.lifeStages.2.label>
+  <BritishShorthair.lifeStages.2.labelFemale>雌性英国短毛猫</BritishShorthair.lifeStages.2.labelFemale>
+  <BritishShorthair.lifeStages.2.labelFemalePlural>雌性英国短毛猫</BritishShorthair.lifeStages.2.labelFemalePlural>
+  <BritishShorthair.lifeStages.2.labelMale>雄性英国短毛猫</BritishShorthair.lifeStages.2.labelMale>
+  <BritishShorthair.lifeStages.2.labelMalePlural>雄性英国短毛猫</BritishShorthair.lifeStages.2.labelMalePlural>
+  <BritishShorthair.lifeStages.2.labelPlural>英国短毛猫</BritishShorthair.lifeStages.2.labelPlural>
+  
+  <!-- EN: cat -->
+  <Cat.label>猫</Cat.label>
+  <Cat.labelFemale>母猫</Cat.labelFemale>
+  <Cat.labelFemalePlural>母猫</Cat.labelFemalePlural>
+  <Cat.labelMale>公猫</Cat.labelMale>
+  <Cat.labelMalePlural>公猫</Cat.labelMalePlural>
+  <Cat.labelPlural>猫</Cat.labelPlural>
+  <!-- EN: kitten -->
+  <Cat.lifeStages.kitten.label>小猫崽</Cat.lifeStages.kitten.label>
+  <Cat.lifeStages.kitten.labelFemale>小猫崽</Cat.lifeStages.kitten.labelFemale>
+  <Cat.lifeStages.kitten.labelFemalePlural>小猫崽</Cat.lifeStages.kitten.labelFemalePlural>
+  <Cat.lifeStages.kitten.labelMale>小猫崽</Cat.lifeStages.kitten.labelMale>
+  <Cat.lifeStages.kitten.labelMalePlural>小猫崽</Cat.lifeStages.kitten.labelMalePlural>
+  <Cat.lifeStages.kitten.labelPlural>小猫崽</Cat.lifeStages.kitten.labelPlural>
+  <Cat.lifeStages.1.label>幼年猫</Cat.lifeStages.1.label>
+  <Cat.lifeStages.1.labelFemale>幼年母猫</Cat.lifeStages.1.labelFemale>
+  <Cat.lifeStages.1.labelFemalePlural>幼年母猫</Cat.lifeStages.1.labelFemalePlural>
+  <Cat.lifeStages.1.labelMale>幼年公猫</Cat.lifeStages.1.labelMale>
+  <Cat.lifeStages.1.labelMalePlural>幼年公猫</Cat.lifeStages.1.labelMalePlural>
+  <Cat.lifeStages.1.labelPlural>幼年猫</Cat.lifeStages.1.labelPlural>
+  <Cat.lifeStages.2.label>猫</Cat.lifeStages.2.label>
+  <Cat.lifeStages.2.labelFemale>母猫</Cat.lifeStages.2.labelFemale>
+  <Cat.lifeStages.2.labelFemalePlural>母猫</Cat.lifeStages.2.labelFemalePlural>
+  <Cat.lifeStages.2.labelMale>公猫</Cat.lifeStages.2.labelMale>
+  <Cat.lifeStages.2.labelMalePlural>公猫</Cat.lifeStages.2.labelMalePlural>
+  <Cat.lifeStages.2.labelPlural>猫</Cat.lifeStages.2.labelPlural>
+  
+  <!-- EN: European Shorthair -->
+  <EuropeanShorthair.label>欧洲短毛猫</EuropeanShorthair.label>
+  <EuropeanShorthair.labelFemale>雌性欧洲短毛猫</EuropeanShorthair.labelFemale>
+  <EuropeanShorthair.labelFemalePlural>雌性欧洲短毛猫</EuropeanShorthair.labelFemalePlural>
+  <EuropeanShorthair.labelMale>雄性欧洲短毛猫</EuropeanShorthair.labelMale>
+  <EuropeanShorthair.labelMalePlural>雄性欧洲短毛猫</EuropeanShorthair.labelMalePlural>
+  <EuropeanShorthair.labelPlural>欧洲短毛猫</EuropeanShorthair.labelPlural>
+  <!-- EN: European Shorthair Kitten -->
+  <EuropeanShorthair.lifeStages.European_Shorthair_Kitten.label>欧洲短毛猫崽</EuropeanShorthair.lifeStages.European_Shorthair_Kitten.label>
+  <EuropeanShorthair.lifeStages.European_Shorthair_Kitten.labelFemale>雌性欧洲短毛猫崽</EuropeanShorthair.lifeStages.European_Shorthair_Kitten.labelFemale>
+  <EuropeanShorthair.lifeStages.European_Shorthair_Kitten.labelFemalePlural>雌性欧洲短毛猫崽</EuropeanShorthair.lifeStages.European_Shorthair_Kitten.labelFemalePlural>
+  <EuropeanShorthair.lifeStages.European_Shorthair_Kitten.labelMale>雄性欧洲短毛猫崽</EuropeanShorthair.lifeStages.European_Shorthair_Kitten.labelMale>
+  <EuropeanShorthair.lifeStages.European_Shorthair_Kitten.labelMalePlural>雄性欧洲短毛猫崽</EuropeanShorthair.lifeStages.European_Shorthair_Kitten.labelMalePlural>
+  <EuropeanShorthair.lifeStages.European_Shorthair_Kitten.labelPlural>欧洲短毛猫崽</EuropeanShorthair.lifeStages.European_Shorthair_Kitten.labelPlural>
+  <EuropeanShorthair.lifeStages.1.label>欧洲短毛猫</EuropeanShorthair.lifeStages.1.label>
+  <EuropeanShorthair.lifeStages.1.labelFemale>雌性欧洲短毛猫</EuropeanShorthair.lifeStages.1.labelFemale>
+  <EuropeanShorthair.lifeStages.1.labelFemalePlural>雌性欧洲短毛猫</EuropeanShorthair.lifeStages.1.labelFemalePlural>
+  <EuropeanShorthair.lifeStages.1.labelMale>雄性欧洲短毛猫</EuropeanShorthair.lifeStages.1.labelMale>
+  <EuropeanShorthair.lifeStages.1.labelMalePlural>雄性欧洲短毛猫</EuropeanShorthair.lifeStages.1.labelMalePlural>
+  <EuropeanShorthair.lifeStages.1.labelPlural>欧洲短毛猫</EuropeanShorthair.lifeStages.1.labelPlural>
+  <EuropeanShorthair.lifeStages.2.label>欧洲短毛猫</EuropeanShorthair.lifeStages.2.label>
+  <EuropeanShorthair.lifeStages.2.labelFemale>雌性欧洲短毛猫</EuropeanShorthair.lifeStages.2.labelFemale>
+  <EuropeanShorthair.lifeStages.2.labelFemalePlural>雌性欧洲短毛猫</EuropeanShorthair.lifeStages.2.labelFemalePlural>
+  <EuropeanShorthair.lifeStages.2.labelMale>雄性欧洲短毛猫</EuropeanShorthair.lifeStages.2.labelMale>
+  <EuropeanShorthair.lifeStages.2.labelMalePlural>雄性欧洲短毛猫</EuropeanShorthair.lifeStages.2.labelMalePlural>
+  <EuropeanShorthair.lifeStages.2.labelPlural>欧洲短毛猫</EuropeanShorthair.lifeStages.2.labelPlural>
+  
+  <!-- EN: maine coon -->
+  <MaineCoon.label>缅因猫</MaineCoon.label>
+  <MaineCoon.labelFemale>雌性缅因猫</MaineCoon.labelFemale>
+  <MaineCoon.labelFemalePlural>雌性缅因猫</MaineCoon.labelFemalePlural>
+  <MaineCoon.labelMale>雄性缅因猫</MaineCoon.labelMale>
+  <MaineCoon.labelMalePlural>雄性缅因猫</MaineCoon.labelMalePlural>
+  <MaineCoon.labelPlural>缅因猫</MaineCoon.labelPlural>
+  <!-- EN: Maine Coon Kitten -->
+  <MaineCoon.lifeStages.Maine_Coon_Kitten.label>缅因猫崽</MaineCoon.lifeStages.Maine_Coon_Kitten.label>
+  <MaineCoon.lifeStages.Maine_Coon_Kitten.labelFemale>雌性缅因猫崽</MaineCoon.lifeStages.Maine_Coon_Kitten.labelFemale>
+  <MaineCoon.lifeStages.Maine_Coon_Kitten.labelFemalePlural>雌性缅因猫崽</MaineCoon.lifeStages.Maine_Coon_Kitten.labelFemalePlural>
+  <MaineCoon.lifeStages.Maine_Coon_Kitten.labelMale>雄性缅因猫崽</MaineCoon.lifeStages.Maine_Coon_Kitten.labelMale>
+  <MaineCoon.lifeStages.Maine_Coon_Kitten.labelMalePlural>雄性缅因猫崽</MaineCoon.lifeStages.Maine_Coon_Kitten.labelMalePlural>
+  <MaineCoon.lifeStages.Maine_Coon_Kitten.labelPlural>缅因猫崽</MaineCoon.lifeStages.Maine_Coon_Kitten.labelPlural>
+  <MaineCoon.lifeStages.1.label>缅因猫</MaineCoon.lifeStages.1.label>
+  <MaineCoon.lifeStages.1.labelFemale>雌性缅因猫</MaineCoon.lifeStages.1.labelFemale>
+  <MaineCoon.lifeStages.1.labelFemalePlural>雌性缅因猫</MaineCoon.lifeStages.1.labelFemalePlural>
+  <MaineCoon.lifeStages.1.labelMale>雄性缅因猫</MaineCoon.lifeStages.1.labelMale>
+  <MaineCoon.lifeStages.1.labelMalePlural>雄性缅因猫</MaineCoon.lifeStages.1.labelMalePlural>
+  <MaineCoon.lifeStages.1.labelPlural>缅因猫</MaineCoon.lifeStages.1.labelPlural>
+  <MaineCoon.lifeStages.2.label>缅因猫</MaineCoon.lifeStages.2.label>
+  <MaineCoon.lifeStages.2.labelFemale>雌性缅因猫</MaineCoon.lifeStages.2.labelFemale>
+  <MaineCoon.lifeStages.2.labelFemalePlural>雌性缅因猫</MaineCoon.lifeStages.2.labelFemalePlural>
+  <MaineCoon.lifeStages.2.labelMale>雄性缅因猫</MaineCoon.lifeStages.2.labelMale>
+  <MaineCoon.lifeStages.2.labelMalePlural>雄性缅因猫</MaineCoon.lifeStages.2.labelMalePlural>
+  <MaineCoon.lifeStages.2.labelPlural>缅因猫</MaineCoon.lifeStages.2.labelPlural>
+  
+  <!-- EN: miniature maine coon -->
+  <MiniMaineCoon.label>迷你缅因猫</MiniMaineCoon.label>
+  <MiniMaineCoon.labelFemale>雌性迷你缅因猫</MiniMaineCoon.labelFemale>
+  <MiniMaineCoon.labelFemalePlural>雌性迷你缅因猫</MiniMaineCoon.labelFemalePlural>
+  <MiniMaineCoon.labelMale>雄性迷你缅因猫</MiniMaineCoon.labelMale>
+  <MiniMaineCoon.labelMalePlural>雄性迷你缅因猫</MiniMaineCoon.labelMalePlural>
+  <MiniMaineCoon.labelPlural>迷你缅因猫</MiniMaineCoon.labelPlural>
+  <!-- EN: Miniature Maine Coon Kitten -->
+  <MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.label>迷你缅因猫崽</MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.label>
+  <MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.labelFemale>雌性迷你缅因猫崽</MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.labelFemale>
+  <MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.labelFemalePlural>雌性迷你缅因猫崽</MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.labelFemalePlural>
+  <MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.labelMale>雄性迷你缅因猫崽</MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.labelMale>
+  <MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.labelMalePlural>雄性迷你缅因猫崽</MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.labelMalePlural>
+  <MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.labelPlural>迷你缅因猫崽</MiniMaineCoon.lifeStages.Miniature_Maine_Coon_Kitten.labelPlural>
+  <MiniMaineCoon.lifeStages.1.label>迷你缅因猫</MiniMaineCoon.lifeStages.1.label>
+  <MiniMaineCoon.lifeStages.1.labelFemale>雌性迷你缅因猫</MiniMaineCoon.lifeStages.1.labelFemale>
+  <MiniMaineCoon.lifeStages.1.labelFemalePlural>雌性迷你缅因猫</MiniMaineCoon.lifeStages.1.labelFemalePlural>
+  <MiniMaineCoon.lifeStages.1.labelMale>雄性迷你缅因猫</MiniMaineCoon.lifeStages.1.labelMale>
+  <MiniMaineCoon.lifeStages.1.labelMalePlural>雄性迷你缅因猫</MiniMaineCoon.lifeStages.1.labelMalePlural>
+  <MiniMaineCoon.lifeStages.1.labelPlural>迷你缅因猫</MiniMaineCoon.lifeStages.1.labelPlural>
+  <MiniMaineCoon.lifeStages.2.label>迷你缅因猫</MiniMaineCoon.lifeStages.2.label>
+  <MiniMaineCoon.lifeStages.2.labelFemale>雌性迷你缅因猫</MiniMaineCoon.lifeStages.2.labelFemale>
+  <MiniMaineCoon.lifeStages.2.labelFemalePlural>雌性迷你缅因猫</MiniMaineCoon.lifeStages.2.labelFemalePlural>
+  <MiniMaineCoon.lifeStages.2.labelMale>雄性迷你缅因猫</MiniMaineCoon.lifeStages.2.labelMale>
+  <MiniMaineCoon.lifeStages.2.labelMalePlural>雄性迷你缅因猫</MiniMaineCoon.lifeStages.2.labelMalePlural>
+  <MiniMaineCoon.lifeStages.2.labelPlural>迷你缅因猫</MiniMaineCoon.lifeStages.2.labelPlural>
+  
+  <!-- EN: Norwegian Forest Cat -->
+  <NorwegianForestCat.label>挪威森林猫</NorwegianForestCat.label>
+  <NorwegianForestCat.labelFemale>雌性挪威森林猫</NorwegianForestCat.labelFemale>
+  <NorwegianForestCat.labelFemalePlural>雌性挪威森林猫</NorwegianForestCat.labelFemalePlural>
+  <NorwegianForestCat.labelMale>雄性挪威森林猫</NorwegianForestCat.labelMale>
+  <NorwegianForestCat.labelMalePlural>雄性挪威森林猫</NorwegianForestCat.labelMalePlural>
+  <NorwegianForestCat.labelPlural>挪威森林猫</NorwegianForestCat.labelPlural>
+  <!-- EN: Norwegian Forest Cat Kitten -->
+  <NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.label>挪威森林猫崽</NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.label>
+  <NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.labelFemale>雌性挪威森林猫崽</NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.labelFemale>
+  <NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.labelFemalePlural>雌性挪威森林猫崽</NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.labelFemalePlural>
+  <NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.labelMale>雄性挪威森林猫崽</NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.labelMale>
+  <NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.labelMalePlural>雄性挪威森林猫崽</NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.labelMalePlural>
+  <NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.labelPlural>挪威森林猫崽</NorwegianForestCat.lifeStages.Norwegian_Forest_Cat_Kitten.labelPlural>
+  <NorwegianForestCat.lifeStages.1.label>挪威森林猫</NorwegianForestCat.lifeStages.1.label>
+  <NorwegianForestCat.lifeStages.1.labelFemale>雌性挪威森林猫</NorwegianForestCat.lifeStages.1.labelFemale>
+  <NorwegianForestCat.lifeStages.1.labelFemalePlural>雌性挪威森林猫</NorwegianForestCat.lifeStages.1.labelFemalePlural>
+  <NorwegianForestCat.lifeStages.1.labelMale>雄性挪威森林猫</NorwegianForestCat.lifeStages.1.labelMale>
+  <NorwegianForestCat.lifeStages.1.labelMalePlural>雄性挪威森林猫</NorwegianForestCat.lifeStages.1.labelMalePlural>
+  <NorwegianForestCat.lifeStages.1.labelPlural>挪威森林猫</NorwegianForestCat.lifeStages.1.labelPlural>
+  <NorwegianForestCat.lifeStages.2.label>挪威森林猫</NorwegianForestCat.lifeStages.2.label>
+  <NorwegianForestCat.lifeStages.2.labelFemale>雌性挪威森林猫</NorwegianForestCat.lifeStages.2.labelFemale>
+  <NorwegianForestCat.lifeStages.2.labelFemalePlural>雌性挪威森林猫</NorwegianForestCat.lifeStages.2.labelFemalePlural>
+  <NorwegianForestCat.lifeStages.2.labelMale>雄性挪威森林猫</NorwegianForestCat.lifeStages.2.labelMale>
+  <NorwegianForestCat.lifeStages.2.labelMalePlural>雄性挪威森林猫</NorwegianForestCat.lifeStages.2.labelMalePlural>
+  <NorwegianForestCat.lifeStages.2.labelPlural>挪威森林猫</NorwegianForestCat.lifeStages.2.labelPlural>
+  
+  <!-- EN: Siamese -->
+  <Siamese.label>暹罗猫</Siamese.label>
+  <Siamese.labelFemale>雌性暹罗猫</Siamese.labelFemale>
+  <Siamese.labelFemalePlural>雌性暹罗猫</Siamese.labelFemalePlural>
+  <Siamese.labelMale>雄性暹罗猫</Siamese.labelMale>
+  <Siamese.labelMalePlural>雄性暹罗猫</Siamese.labelMalePlural>
+  <Siamese.labelPlural>暹罗猫</Siamese.labelPlural>
+  <!-- EN: Siamese Kitten -->
+  <Siamese.lifeStages.Siamese_Kitten.label>暹罗猫崽</Siamese.lifeStages.Siamese_Kitten.label>
+  <Siamese.lifeStages.Siamese_Kitten.labelFemale>雌性暹罗猫崽</Siamese.lifeStages.Siamese_Kitten.labelFemale>
+  <Siamese.lifeStages.Siamese_Kitten.labelFemalePlural>雌性暹罗猫崽</Siamese.lifeStages.Siamese_Kitten.labelFemalePlural>
+  <Siamese.lifeStages.Siamese_Kitten.labelMale>雄性暹罗猫崽</Siamese.lifeStages.Siamese_Kitten.labelMale>
+  <Siamese.lifeStages.Siamese_Kitten.labelMalePlural>雄性暹罗猫崽</Siamese.lifeStages.Siamese_Kitten.labelMalePlural>
+  <Siamese.lifeStages.Siamese_Kitten.labelPlural>暹罗猫崽</Siamese.lifeStages.Siamese_Kitten.labelPlural>
+  <Siamese.lifeStages.1.label>暹罗猫</Siamese.lifeStages.1.label>
+  <Siamese.lifeStages.1.labelFemale>雌性暹罗猫</Siamese.lifeStages.1.labelFemale>
+  <Siamese.lifeStages.1.labelFemalePlural>雌性暹罗猫</Siamese.lifeStages.1.labelFemalePlural>
+  <Siamese.lifeStages.1.labelMale>雄性暹罗猫</Siamese.lifeStages.1.labelMale>
+  <Siamese.lifeStages.1.labelMalePlural>雄性暹罗猫</Siamese.lifeStages.1.labelMalePlural>
+  <Siamese.lifeStages.1.labelPlural>暹罗猫</Siamese.lifeStages.1.labelPlural>
+  <Siamese.lifeStages.2.label>暹罗猫</Siamese.lifeStages.2.label>
+  <Siamese.lifeStages.2.labelFemale>雌性暹罗猫</Siamese.lifeStages.2.labelFemale>
+  <Siamese.lifeStages.2.labelFemalePlural>雌性暹罗猫</Siamese.lifeStages.2.labelFemalePlural>
+  <Siamese.lifeStages.2.labelMale>雄性暹罗猫</Siamese.lifeStages.2.labelMale>
+  <Siamese.lifeStages.2.labelMalePlural>雄性暹罗猫</Siamese.lifeStages.2.labelMalePlural>
+  <Siamese.lifeStages.2.labelPlural>暹罗猫</Siamese.lifeStages.2.labelPlural>
+  
+</LanguageData>

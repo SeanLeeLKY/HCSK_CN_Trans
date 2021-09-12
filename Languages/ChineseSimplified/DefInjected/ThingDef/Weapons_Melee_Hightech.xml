@@ -1,46 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Katana -->
-  <MeleeWeapon_Katana.label>武士太刀</MeleeWeapon_Katana.label>
-  <!-- EN: A modern remake of one-handed samurai sword. Comes with laser sharpening. -->
-  <MeleeWeapon_Katana.description>单手武士刀的现代翻版。附带光束磨刃功能。</MeleeWeapon_Katana.description>
+  <!-- EN: Powered shortsword -->
+  <MeleeWeapon_PoweredShortsword.label>TODO</MeleeWeapon_PoweredShortsword.label>
+  <!-- EN: A highly-advanced short sword. Commonly used by Glitterworld assault troops, the blade is coated in a field of ionized plasma, helping it cut through enemy armor.\n(Core SK) -->
+  <MeleeWeapon_PoweredShortsword.description>TODO</MeleeWeapon_PoweredShortsword.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Katana.tools.handle.label>握把</MeleeWeapon_Katana.tools.handle.label>
+  <MeleeWeapon_PoweredShortsword.tools.handle.label>TODO</MeleeWeapon_PoweredShortsword.tools.handle.label>
   <!-- EN: point -->
-  <MeleeWeapon_Katana.tools.point.label>尖</MeleeWeapon_Katana.tools.point.label>
-  <!-- EN: edge -->
-  <MeleeWeapon_Katana.tools.edge.label>刃</MeleeWeapon_Katana.tools.edge.label>
-  
-  <!-- EN: Sledgehammer -->
-  <MeleeWeapon_Sledgehammer.label>大锤</MeleeWeapon_Sledgehammer.label>
-  <!-- EN: A large two-handed hammer. Very popular with the muscular crowd. -->
-  <MeleeWeapon_Sledgehammer.description>双手大锤。很受肌肉发达人群的欢迎。</MeleeWeapon_Sledgehammer.description>
-  <!-- EN: handle -->
-  <MeleeWeapon_Sledgehammer.tools.handle.label>握把</MeleeWeapon_Sledgehammer.tools.handle.label>
-  <!-- EN: head -->
-  <MeleeWeapon_Sledgehammer.tools.head.label>头</MeleeWeapon_Sledgehammer.tools.head.label>
-  
-  <!-- EN: Tanto -->
-  <MeleeWeapon_Tanto.label>武士短刀</MeleeWeapon_Tanto.label>
-  <!-- EN: A single edged dagger type melee weapon. -->
-  <MeleeWeapon_Tanto.description>一种单刃匕首类近战武器。</MeleeWeapon_Tanto.description>
-  <!-- EN: handle -->
-  <MeleeWeapon_Tanto.tools.handle.label>握把</MeleeWeapon_Tanto.tools.handle.label>
+  <MeleeWeapon_PoweredShortsword.tools.point.label>TODO</MeleeWeapon_PoweredShortsword.tools.point.label>
   <!-- EN: blade -->
-  <MeleeWeapon_Tanto.tools.blade.label>刃</MeleeWeapon_Tanto.tools.blade.label>
-  <!-- EN: point -->
-  <MeleeWeapon_Tanto.tools.point.label>尖</MeleeWeapon_Tanto.tools.point.label>
+  <MeleeWeapon_PoweredShortsword.tools.blade.label>TODO</MeleeWeapon_PoweredShortsword.tools.blade.label>
   
-  <!-- EN: Buster Sword -->
-  <MeleeWeapon_Tsurugi.label>巴斯特之剑</MeleeWeapon_Tsurugi.label>
-  <!-- EN: A huge two-handed sword designed for elite glitterworld soldiers. -->
-  <MeleeWeapon_Tsurugi.description>专为闪耀世界精英士兵设计的双手巨剑。</MeleeWeapon_Tsurugi.description>
+  <!-- EN: Wraith blade -->
+  <MeleeWeapon_WraithBlade.label>TODO</MeleeWeapon_WraithBlade.label>
+  <!-- EN: Highly advanced melee weapon. When active it emits a constant stream of ionized plasma that can cut through almost any armor. It's otherworldly appearance earned it the moniker and inspired many norbal folktales.\n(Core SK) -->
+  <MeleeWeapon_WraithBlade.description>TODO</MeleeWeapon_WraithBlade.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Tsurugi.tools.handle.label>握把</MeleeWeapon_Tsurugi.tools.handle.label>
+  <MeleeWeapon_WraithBlade.tools.handle.label>TODO</MeleeWeapon_WraithBlade.tools.handle.label>
   <!-- EN: point -->
-  <MeleeWeapon_Tsurugi.tools.point.label>尖</MeleeWeapon_Tsurugi.tools.point.label>
+  <MeleeWeapon_WraithBlade.tools.point.label>TODO</MeleeWeapon_WraithBlade.tools.point.label>
   <!-- EN: edge -->
-  <MeleeWeapon_Tsurugi.tools.edge.label>刃</MeleeWeapon_Tsurugi.tools.edge.label>
+  <MeleeWeapon_WraithBlade.tools.edge.label>TODO</MeleeWeapon_WraithBlade.tools.edge.label>
   
 </LanguageData>

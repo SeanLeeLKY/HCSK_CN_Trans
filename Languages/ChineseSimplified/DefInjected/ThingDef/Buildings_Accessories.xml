@@ -56,6 +56,11 @@
   <!-- EN: A beautiful lamp topped with glowstone, emitting reflected light from dozen of glowstones. People need light to move and work at full speed. Free source of light. -->
   <GlowstoneLamp.description>一盏安装了两个小块萤石的灯，适合于卧室或工作室。</GlowstoneLamp.description>
   
+  <!-- EN: Holy Metal Basin -->
+  <HolyBasin.label>净洗盆</HolyBasin.label>
+  <!-- EN: Old metal basin where you wash your clothes to remove a worn by corpse effect from Apparel. -->
+  <HolyBasin.description>旧金属盆，可以用来洗衣服，可以把死者衣物的标签（亡）洗掉。</HolyBasin.description>
+  
   <!-- EN: path light -->
   <Lighting_PathLamp.label>路灯</Lighting_PathLamp.label>
   <!-- EN: Small light with built in solar panel that lights an area. People need light to move and work at full speed. -->

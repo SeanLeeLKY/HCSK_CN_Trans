@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: Build M60E4 GPMG -->
+  <Build_M60GPMG.label>TODO</Build_M60GPMG.label>
+  <!-- EN: Builds the M60E4, a general purpose machine gun. It has a 100 round magazine and fires in 12 round bursts. Received the nickname "The Pig" due to its bulky size and appetite for ammunition.\nCaliber: 7.62x51mm\n(Core SK) -->
+  <Build_M60GPMG.description>TODO</Build_M60GPMG.description>
+  <!-- EN: Building M60E4 GPMG. -->
+  <Build_M60GPMG.jobString>TODO</Build_M60GPMG.jobString>
+  
   <!-- EN: Build Galil ACE Heavy -->
   <BuildGalilBurstRifle.label>制造 加利尔ACE轻机枪</BuildGalilBurstRifle.label>
   <!-- EN: Builds the Galil ACE Heavy, an ancient pattern military rifle. Fires an 14-round burst. Good range, low power and high rate of fire.\nCaliber: 7.62x39mm Soviet -->

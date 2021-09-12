@@ -41,10 +41,6 @@
   <!-- EN: head -->
   <Mech_Pikeman.tools.head.label>头</Mech_Pikeman.tools.head.label>
   
-  <!-- UNUSED -->
-  <Mech_Pikeman.tools.front_left_leg.label>左腿</Mech_Pikeman.tools.front_left_leg.label>
-  <Mech_Pikeman.tools.front_right_leg.label>右腿</Mech_Pikeman.tools.front_right_leg.label>
-  
   <!-- EN: Scyther -->
   <Mech_Scyther.label>机械飞螳</Mech_Scyther.label>
   <!-- EN: Scythers are fast, spindly, armored human-sized combat Mechanoids. They usually carry one primary ranged weapon, and their bodies are adorned with two articulated blades to make them deadly in melee combat. They don't use cover. They are best handled by concentrated, overwhelming force. -->
@@ -59,5 +55,12 @@
   <Mech_Scyther.tools.right_blade-1.label>右镰刃</Mech_Scyther.tools.right_blade-1.label>
   <!-- EN: head -->
   <Mech_Scyther.tools.head.label>头</Mech_Scyther.tools.head.label>
+  
+  <!-- EN: termite -->
+  <Mech_Termite.label>机械白蚁</Mech_Termite.label>
+  <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
+  <Mech_Termite.description>一种中等大小的机械人。白蚁擅长钻探、挖掘和突破防御结构。防御者需要决定是在白蚁挖破他们的防御之前尝试消灭它，还是在它出现的地方将其消灭。</Mech_Termite.description>
+  <!-- EN: head -->
+  <Mech_Termite.tools.head.label>头</Mech_Termite.tools.head.label>
   
 </LanguageData>
