@@ -1,27 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: crunchesher -->
-  <Crunchesher.label>TODO</Crunchesher.label>
-  
+  <Crunchesher.label>粉碎者</Crunchesher.label>
+  <Crunchesher.labelPlural>粉碎者</Crunchesher.labelPlural>
+
   <!-- EN: drifter -->
   <Drifter.label>流浪者</Drifter.label>
   <Drifter.labelPlural>流浪者</Drifter.labelPlural>
-  
+
   <!-- EN: pirate gunner -->
   <Pirate.label>海盗枪手</Pirate.label>
   <Pirate.labelPlural>海盗枪手</Pirate.labelPlural>
-  
+
   <!-- EN: pirate bomber -->
   <PirateBomb.label>海盗投弹手</PirateBomb.label>
   <PirateBomb.labelPlural>海盗投弹手</PirateBomb.labelPlural>
-  
+
   <!-- EN: scavenger -->
   <Scavenger.label>拾荒者</Scavenger.label>
   <Scavenger.labelPlural>拾荒者</Scavenger.labelPlural>
-  
+
   <!-- EN: thrasher -->
   <Thrasher.label>打手</Thrasher.label>
   <Thrasher.labelPlural>打手</Thrasher.labelPlural>
-  
+
 </LanguageData>

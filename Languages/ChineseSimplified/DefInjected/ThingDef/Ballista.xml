@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Balista bolt -->
   <Ammo_BalistaBolt.label>弩炮箭</Ammo_BalistaBolt.label>
   <!-- EN: A large crossbow-like weapon. -->
   <Ammo_BalistaBolt.description>一支巨型弩箭。</Ammo_BalistaBolt.description>
   <!-- EN: 一支巨型弩箭。\n(Core SK) -->
-  <Ammo_BalistaBolt.oldDescription>TODO</Ammo_BalistaBolt.oldDescription>
-  
+  <Ammo_BalistaBolt.oldDescription>一支巨型弩箭。</Ammo_BalistaBolt.oldDescription>
+
   <!-- EN: Ballista Bolt -->
   <Projectile_BalistaBolt.label>弩炮箭</Projectile_BalistaBolt.label>
-  
+
 </LanguageData>

@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Common cold -->
   <CommonCold.label>感冒</CommonCold.label>
   <!-- EN: A common cold makes your life more boring -->
   <CommonCold.description>一场普通感冒，会让你感觉不太舒服。</CommonCold.description>
   <!-- EN: a common cold -->
   <CommonCold.labelNoun>感冒</CommonCold.labelNoun>
-  
+
   <!-- EN: SARS -->
   <Coronavirus.label>冠状病毒</Coronavirus.label>
   <!-- EN: An infectious virus that causes respiratory symptoms, patients require isolation and constant care. -->
@@ -17,19 +17,19 @@
   <!-- EN: minor -->
   <Coronavirus.stages.minor-0.label>轻度</Coronavirus.stages.minor-0.label>
   <!-- EN: minor -->
-  <Coronavirus.stages.minor-1.label>TODO</Coronavirus.stages.minor-1.label>
+  <Coronavirus.stages.minor-1.label>一般</Coronavirus.stages.minor-1.label>
   <!-- EN: major -->
   <Coronavirus.stages.major.label>严重</Coronavirus.stages.major.label>
   <!-- EN: extreme -->
   <Coronavirus.stages.extreme.label>极重</Coronavirus.stages.extreme.label>
-  
+
   <!-- EN: ear ache -->
   <Earache.label>耳痛</Earache.label>
   <!-- EN: You hear worse with ear ache -->
   <Earache.description>耳朵不知道出了什么毛病，听见声音就疼。</Earache.description>
   <!-- EN: an ear ache -->
   <Earache.labelNoun>耳痛</Earache.labelNoun>
-  
+
   <!-- EN: ebola -->
   <Ebola.label>埃博拉</Ebola.label>
   <!-- EN: Your chances of survival are drastically reduced with ebola -->
@@ -44,14 +44,14 @@
   <Ebola.stages.major.label>严重</Ebola.stages.major.label>
   <!-- EN: extreme -->
   <Ebola.stages.extreme.label>极重</Ebola.stages.extreme.label>
-  
+
   <!-- EN: fever -->
   <Fever.label>发烧</Fever.label>
   <!-- EN: You are shaking and reeling from a fever -->
   <Fever.description>发烧了，你需要休息。</Fever.description>
   <!-- EN: a fever -->
   <Fever.labelNoun>发烧</Fever.labelNoun>
-  
+
   <!-- EN: measles -->
   <Measles.label>麻疹</Measles.label>
   <!-- EN: The most contagious disease is already here -->
@@ -66,7 +66,7 @@
   <Measles.stages.major.label>严重</Measles.stages.major.label>
   <!-- EN: extreme -->
   <Measles.stages.extreme.label>极重</Measles.stages.extreme.label>
-  
+
   <!-- EN: pneumonia -->
   <Pneumonia.label>肺炎</Pneumonia.label>
   <!-- EN: Your lungs are inflamed. It may end badly. -->
@@ -81,12 +81,12 @@
   <Pneumonia.stages.major.label>严重</Pneumonia.stages.major.label>
   <!-- EN: extreme -->
   <Pneumonia.stages.extreme.label>极重</Pneumonia.stages.extreme.label>
-  
+
   <!-- EN: strep throat -->
   <StrepThroat.label>咽喉炎</StrepThroat.label>
   <!-- EN: It’s hard to talk with a strep throat -->
   <StrepThroat.description>一张口就疼，不是很想说话。</StrepThroat.description>
   <!-- EN: a strep throat -->
   <StrepThroat.labelNoun>咽喉炎</StrepThroat.labelNoun>
-  
+
 </LanguageData>

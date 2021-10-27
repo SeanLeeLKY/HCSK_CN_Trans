@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: 30x29mm grenade (EMP) -->
   <Ammo_30x29mmGrenade_EMP.label>30x29mm 榴弹（EMP）</Ammo_30x29mmGrenade_EMP.label>
   <!-- EN: Relatively small, low velocity grenade for use in grenade launchers. -->
   <Ammo_30x29mmGrenade_EMP.description>用于榴弹发射器的低速榴弹。</Ammo_30x29mmGrenade_EMP.description>
   <!-- EN: 用于榴弹发射器的低速榴弹。\n(Core SK) -->
-  <Ammo_30x29mmGrenade_EMP.oldDescription>TODO</Ammo_30x29mmGrenade_EMP.oldDescription>
-  
+  <Ammo_30x29mmGrenade_EMP.oldDescription>用于榴弹发射器的低速榴弹。</Ammo_30x29mmGrenade_EMP.oldDescription>
+
   <!-- EN: 30x29mm grenade (HE) -->
   <Ammo_30x29mmGrenade_HE.label>30x29mm 榴弹（高爆弹）</Ammo_30x29mmGrenade_HE.label>
   <!-- EN: Relatively small, low velocity grenade for use in grenade launchers. -->
   <Ammo_30x29mmGrenade_HE.description>用于榴弹发射器的低速榴弹。</Ammo_30x29mmGrenade_HE.description>
   <!-- EN: 用于榴弹发射器的低速榴弹。\n(Core SK) -->
-  <Ammo_30x29mmGrenade_HE.oldDescription>TODO</Ammo_30x29mmGrenade_HE.oldDescription>
-  
+  <Ammo_30x29mmGrenade_HE.oldDescription>用于榴弹发射器的低速榴弹。</Ammo_30x29mmGrenade_HE.oldDescription>
+
   <!-- EN: 30x29mm grenade (EMP) -->
   <Bullet_30x29mmGrenade_EMP.label>30x29mm 榴弹（EMP）</Bullet_30x29mmGrenade_EMP.label>
-  
+
   <!-- EN: 30x29mm grenade (HE) -->
   <Bullet_30x29mmGrenade_HE.label>30x29mm 榴弹（高爆弹）</Bullet_30x29mmGrenade_HE.label>
-  
+
 </LanguageData>

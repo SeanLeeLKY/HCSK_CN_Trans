@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: .50 BMG cartridge (FMJ) -->
   <Ammo_50BMG_FMJ.label>.50 机枪弹（全金属被甲弹）</Ammo_50BMG_FMJ.label>
   <!-- EN: Large caliber bullet used by many heavy machine guns and anti-materiel rifles. -->
   <Ammo_50BMG_FMJ.description>一种用于重机枪或者反器材武器的大口径弹药。</Ammo_50BMG_FMJ.description>
   <!-- EN: 一种用于重机枪或者反器材武器的大口径弹药。\n(Core SK) -->
-  <Ammo_50BMG_FMJ.oldDescription>TODO</Ammo_50BMG_FMJ.oldDescription>
-  
+  <Ammo_50BMG_FMJ.oldDescription>一种用于重机枪或者反器材武器的大口径弹药。</Ammo_50BMG_FMJ.oldDescription>
+
   <!-- EN: .50 BMG cartridge (HE) -->
   <Ammo_50BMG_HE.label>.50 机枪弹（高爆弹）</Ammo_50BMG_HE.label>
   <!-- EN: Large caliber bullet used by many heavy machine guns and anti-materiel rifles. -->
   <Ammo_50BMG_HE.description>一种用于重机枪或者反器材武器的大口径弹药。</Ammo_50BMG_HE.description>
   <!-- EN: 一种用于重机枪或者反器材武器的大口径弹药。\n(Core SK) -->
-  <Ammo_50BMG_HE.oldDescription>TODO</Ammo_50BMG_HE.oldDescription>
-  
+  <Ammo_50BMG_HE.oldDescription>一种用于重机枪或者反器材武器的大口径弹药。</Ammo_50BMG_HE.oldDescription>
+
   <!-- EN: .50 BMG cartridge (AP-I) -->
   <Ammo_50BMG_Incendiary.label>.50 机枪弹（穿甲燃烧弹）</Ammo_50BMG_Incendiary.label>
   <!-- EN: Large caliber bullet used by many heavy machine guns and anti-materiel rifles. -->
   <Ammo_50BMG_Incendiary.description>一种用于重机枪或者反器材武器的大口径弹药。</Ammo_50BMG_Incendiary.description>
   <!-- EN: 一种用于重机枪或者反器材武器的大口径弹药。\n(Core SK) -->
-  <Ammo_50BMG_Incendiary.oldDescription>TODO</Ammo_50BMG_Incendiary.oldDescription>
-  
+  <Ammo_50BMG_Incendiary.oldDescription>一种用于重机枪或者反器材武器的大口径弹药。</Ammo_50BMG_Incendiary.oldDescription>
+
   <!-- EN: .50 BMG cartridge (Sabot) -->
   <Ammo_50BMG_Sabot.label>.50 机枪弹（萨博弹）</Ammo_50BMG_Sabot.label>
   <!-- EN: Large caliber bullet used by many heavy machine guns and anti-materiel rifles. -->
   <Ammo_50BMG_Sabot.description>一种用于重机枪或者反器材武器的大口径弹药。</Ammo_50BMG_Sabot.description>
   <!-- EN: 一种用于重机枪或者反器材武器的大口径弹药。\n(Core SK) -->
-  <Ammo_50BMG_Sabot.oldDescription>TODO</Ammo_50BMG_Sabot.oldDescription>
-  
+  <Ammo_50BMG_Sabot.oldDescription>一种用于重机枪或者反器材武器的大口径弹药。</Ammo_50BMG_Sabot.oldDescription>
+
   <!-- EN: .50 BMG bullet (FMJ) -->
   <Bullet_50BMG_FMJ.label>.50 机枪弹（全金属被甲弹）</Bullet_50BMG_FMJ.label>
-  
+
   <!-- EN: .50 BMG bullet (HE) -->
   <Bullet_50BMG_HE.label>.50 机枪弹（高爆弹）</Bullet_50BMG_HE.label>
-  
+
   <!-- EN: .50 BMG bullet (AP-I) -->
   <Bullet_50BMG_Incendiary.label>.50 机枪弹（穿甲燃烧弹）</Bullet_50BMG_Incendiary.label>
-  
+
   <!-- EN: .50 BMG bullet (Sabot) -->
   <Bullet_50BMG_Sabot.label>.50 机枪弹（萨博弹）</Bullet_50BMG_Sabot.label>
-  
+
 </LanguageData>

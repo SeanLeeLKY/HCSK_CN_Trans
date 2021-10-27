@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: 90mm cannon shell (EMP) -->
   <Ammo_90mmCannonShell_EMP.label>90mm 炮弹（EMP）</Ammo_90mmCannonShell_EMP.label>
   <!-- EN: Relatively small cannon shell. -->
   <Ammo_90mmCannonShell_EMP.description>相对小的炮弹。</Ammo_90mmCannonShell_EMP.description>
   <!-- EN: 相对小的炮弹。\n(Core SK) -->
-  <Ammo_90mmCannonShell_EMP.oldDescription>TODO</Ammo_90mmCannonShell_EMP.oldDescription>
-  
+  <Ammo_90mmCannonShell_EMP.oldDescription>相对小的炮弹。</Ammo_90mmCannonShell_EMP.oldDescription>
+
   <!-- EN: 90mm cannon shell (HE) -->
   <Ammo_90mmCannonShell_HE.label>90mm 炮弹（高爆弹）</Ammo_90mmCannonShell_HE.label>
   <!-- EN: Relatively small cannon shell. -->
   <Ammo_90mmCannonShell_HE.description>相对小的炮弹。</Ammo_90mmCannonShell_HE.description>
   <!-- EN: 相对小的炮弹。\n(Core SK) -->
-  <Ammo_90mmCannonShell_HE.oldDescription>TODO</Ammo_90mmCannonShell_HE.oldDescription>
-  
+  <Ammo_90mmCannonShell_HE.oldDescription>相对小的炮弹。</Ammo_90mmCannonShell_HE.oldDescription>
+
   <!-- EN: 90mm cannon shell (HEAT) -->
   <Ammo_90mmCannonShell_HEAT.label>90mm 炮弹（破甲弹）</Ammo_90mmCannonShell_HEAT.label>
   <!-- EN: Relatively small cannon shell. -->
   <Ammo_90mmCannonShell_HEAT.description>相对小的炮弹。</Ammo_90mmCannonShell_HEAT.description>
   <!-- EN: 相对小的炮弹。\n(Core SK) -->
-  <Ammo_90mmCannonShell_HEAT.oldDescription>TODO</Ammo_90mmCannonShell_HEAT.oldDescription>
-  
+  <Ammo_90mmCannonShell_HEAT.oldDescription>相对小的炮弹。</Ammo_90mmCannonShell_HEAT.oldDescription>
+
   <!-- EN: 90mm cannon shell (EMP) -->
   <Bullet_90mmCannonShell_EMP.label>90mm 炮弹（EMP）</Bullet_90mmCannonShell_EMP.label>
-  
+
   <!-- EN: 90mm cannon shell (HE) -->
   <Bullet_90mmCannonShell_HE.label>90mm 炮弹（高爆弹）</Bullet_90mmCannonShell_HE.label>
-  
+
   <!-- EN: 90mm cannon shell (HEAT) -->
   <Bullet_90mmCannonShell_HEAT.label>90mm 炮弹（破甲弹）</Bullet_90mmCannonShell_HEAT.label>
-  
+
 </LanguageData>
