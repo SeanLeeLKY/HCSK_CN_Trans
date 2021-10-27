@@ -6,10 +6,15 @@
   <!-- EN: A simple log floor.\nBeauty: 1. -->
   <LogFloor.description>简单的原木地板。美观度：1。</LogFloor.description>
   
+  <!-- EN: straw matting -->
+  <StrawMatting.label>草垫</StrawMatting.label>
+  <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth.\n		Beauty: 0. -->
+  <StrawMatting.description>粗糙的干草垫子，用于动物畜舍。它很便宜，而且很少保留脏东西。</StrawMatting.description>
+  
   <!-- EN: thatch floor -->
   <ThatchFloor.label>茅草地板</ThatchFloor.label>
-  <!-- EN: A primitive thatch floor.\nBeauty: 1. -->
-  <ThatchFloor.description>粗犷的茅草地板。美观度：1。</ThatchFloor.description>
+  <!-- EN: A primitive thatch floor. It is cheap and accepts very little filth.\nBeauty: 1. -->
+  <ThatchFloor.description>粗犷的茅草地板。它很便宜，而且很少保留脏东西。美观度：1。</ThatchFloor.description>
   
   <!-- EN: bamboo tiki floor -->
   <TikiFloorBamboo.label>竹条地板</TikiFloorBamboo.label>
@@ -33,12 +38,12 @@
   
   <!-- EN: weave floor -->
   <WeaveFloor.label>编织地板</WeaveFloor.label>
-  <!-- EN: A nice woven floor.\nBeauty: 1. -->
-  <WeaveFloor.description>整齐的编织地板。美观度：1。</WeaveFloor.description>
+  <!-- EN: A nice woven floor. It is cheap and accepts very little filth.\nBeauty: 1. -->
+  <WeaveFloor.description>整齐的编织地板。它很便宜，而且很少保留脏东西。美观度：1。</WeaveFloor.description>
   
   <!-- EN: woven leaf floor -->
   <WovenLeafFloor.label>叶编地板</WovenLeafFloor.label>
-  <!-- EN: A nice woven leaf floor.\nBeauty: 1. -->
-  <WovenLeafFloor.description>整齐的叶编地板。美观度：1。</WovenLeafFloor.description>
+  <!-- EN: A nice woven leaf floor. It is cheap and accepts very little filth.\nBeauty: 1. -->
+  <WovenLeafFloor.description>整齐的叶编地板。它很便宜，而且很少保留脏东西。美观度：1。</WovenLeafFloor.description>
   
 </LanguageData>

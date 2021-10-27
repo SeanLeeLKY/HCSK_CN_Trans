@@ -1,183 +1,183 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Rocky dirt -->
   <Gravel-RockyDirt.label>石砾</Gravel-RockyDirt.label>
-  <!-- EN: ↑ Gravel \n\n↓ Rocky dirt\n\n  ▪ 2 dirt\n  ▪ 2 sand -->
-  <Gravel-RockyDirt.description>↑ 砂砾 \n\n↓ 石砾\n\n  ▪ 30 碎石\n  ▪ 8 泥土\n  ▪ 8 沙</Gravel-RockyDirt.description>
-  
+  <!-- EN: ↑ Gravel \n\n↓ Rocky dirt\n\n  ▪ 12 rubble\n  ▪ 2 dirt\n  ▪ 3 sand -->
+  <Gravel-RockyDirt.description>↑ 砂砾 \n\n↓ 石砾\n\n  ▪ 12 碎石\n  ▪ 2 泥土\n  ▪ 3 沙</Gravel-RockyDirt.description>
+
   <!-- EN: Sand -->
   <Gravel-Sand.label>沙</Gravel-Sand.label>
-  <!-- EN: ↑ Gravel \n\n↓ Sand\n\n  ▪ 2 rubble -->
-  <Gravel-Sand.description>↑ 砂砾 \n\n↓ 沙\n\n  ▪ 50 碎石\n  ▪ 10 泥土</Gravel-Sand.description>
-  
+  <!-- EN: ↑ Gravel \n\n↓ Sand\n\n  ▪ 20 rubble\n  ▪ 2 dirt -->
+  <Gravel-Sand.description>↑ 砂砾 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 2 泥土</Gravel-Sand.description>
+
   <!-- EN: Soil -->
   <Gravel-SoilF.label>土地</Gravel-SoilF.label>
   <!-- EN: ↑ Gravel\n\n↓ Soil -->
   <Gravel-SoilF.description>↑ 砂砾\n\n↓ 土地</Gravel-SoilF.description>
-  
+
   <!-- EN: Ice ► Shallow water -->
   <Ice-WaterShallow.label>冰面 ► 浅水</Ice-WaterShallow.label>
   <!-- EN: ↑ Ice\n\n↓ Shallow water -->
   <Ice-WaterShallow.description>↑ 冰面\n\n↓ 浅水</Ice-WaterShallow.description>
-  
+
   <!-- EN: Lichen-covered dirt ► Soil -->
   <LichenCoveredDirt-Soil.label>苔藓地 ► 土地</LichenCoveredDirt-Soil.label>
   <!-- EN: ↑ Lichen-covered dirt\n\n↓ Soil -->
   <LichenCoveredDirt-Soil.description>↑ 苔藓地\n\n↓ 土地</LichenCoveredDirt-Soil.description>
-  
+
   <!-- EN: Marginal soil ► Soil -->
   <MarginalSoil-Soil.label>边角土地 ► 土地</MarginalSoil-Soil.label>
   <!-- EN: ↑ Marginal soil\n↑ Savanna soil\n↑ Reclaimed soil\n\n↓ Soil -->
   <MarginalSoil-Soil.description>↑ 边角土地\n↑ 草原土地\n↑ 回填土地\n\n↓ 土地</MarginalSoil-Soil.description>
-  
+
   <!-- EN: Marshy soil -->
   <Marsh-SoilMarshy.label>湿软土地</Marsh-SoilMarshy.label>
   <!-- EN: ↑ Marsh\n↑ Mud\n\n↓ Marshy soil -->
   <Marsh-SoilMarshy.description>↑ 沼泽\n↑ 泥地\n\n↓ 湿软土地</Marsh-SoilMarshy.description>
-  
+
   <!-- EN: Shallow water -->
   <Marsh-WaterShallow.label>浅水</Marsh-WaterShallow.label>
-  <!-- EN: ↑ Shallow water\n\n↓ Marsh\n\n  ▪ 5 dirt -->
-  <Marsh-WaterShallow.description>↑ 浅水\n\n↓ 沼泽\n\n  ▪ 20 碎石\n  ▪ 20 泥土\n  ▪ 10 粘土\n  ▪ 15 泥炭\n  ▪ 10 沙\n  ▪ 4 肥料</Marsh-WaterShallow.description>
-  
+  <!-- EN: ↑ Shallow water\n\n↓ Marsh\n\n  ▪ 8 rubble\n  ▪ 3 dirt\n  ▪ 8 clay\n  ▪ 12 peat\n  ▪ 4 sand\n  ▪ 4 compost\n  ▪ 2 fertilizer -->
+  <Marsh-WaterShallow.description>↑ 浅水\n\n↓ 沼泽\n\n  ▪ 8 碎石\n  ▪ 3 泥土\n  ▪ 8 粘土\n  ▪ 12 泥炭\n  ▪ 4 沙\n ▪ 4 堆肥料\n ▪ 4 肥料</Marsh-WaterShallow.description>
+
   <!-- EN: Packed dirt ► Soil -->
   <PackedDirt-SoilF.label>压实泥土 ► 土地</PackedDirt-SoilF.label>
   <!-- EN: ↑ Packed dirt\n\n↓ Soil -->
   <PackedDirt-SoilF.description>↑ 压实泥土\n\n↓ 土地</PackedDirt-SoilF.description>
-  
+
   <!-- EN: Poor soil ► Marginal soil -->
   <PoorSoil-MarginalSoil.label>贫瘠土地 ► 边角土地</PoorSoil-MarginalSoil.label>
   <!-- EN: ↑ Poor soil\n\n↓ Marginal soil -->
   <PoorSoil-MarginalSoil.description>↑ 贫瘠土地\n\n↓ 边角土地</PoorSoil-MarginalSoil.description>
-  
+
   <!-- EN: Gravel -->
   <RockyDirt-Gravel.label>砂砾</RockyDirt-Gravel.label>
   <!-- EN: ↑ Rocky dirt\n\n↓ Gravel -->
   <RockyDirt-Gravel.description>↑ 石砾\n\n↓ 砂砾</RockyDirt-Gravel.description>
-  
+
   <!-- EN: Sand -->
   <RockyDirt-Sand.label>沙</RockyDirt-Sand.label>
   <!-- EN: ↑ Rocky dirt\n\n↓ Sand -->
   <RockyDirt-Sand.description>↑ 石砾\n\n↓ 沙</RockyDirt-Sand.description>
-  
+
   <!-- EN: Rough stone -->
   <RockyDirt-Stone.label>粗糙石面</RockyDirt-Stone.label>
   <!-- EN: ↑ Rocky dirt\n\n↓ Rough stone -->
   <RockyDirt-Stone.description>↑ 石砾\n\n↓ 粗糙石面</RockyDirt-Stone.description>
-  
+
   <!-- EN: Gravel -->
   <Sand-Gravel.label>砂砾</Sand-Gravel.label>
   <!-- EN: ↑ Sand \n\n↓ Gravel -->
   <Sand-Gravel.description>↑ 沙\n\n↓ 砂砾</Sand-Gravel.description>
-  
+
   <!-- EN: Rocky dirt -->
   <Sand-RockyDirt.label>石砾</Sand-RockyDirt.label>
-  <!-- EN: ↑ Sand\n↑ Soft sand\n\n↓ Rocky dirt\n\n  ▪ 3 sand -->
-  <Sand-RockyDirt.description>↑ 沙\n↑ 细沙\n\n↓ 石砾\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 40 沙</Sand-RockyDirt.description>
-  
+  <!-- EN: ↑ Sand\n↑ Soft sand\n\n↓ Rocky dirt\n\n  ▪ 2 rubble\n  ▪ 2 dirt\n  ▪ 16 sand -->
+  <Sand-RockyDirt.description>↑ 沙\n↑ 细沙\n\n↓ 石砾\n\n  ▪ 2 碎石\n  ▪ 2 泥土\n  ▪ 16 沙</Sand-RockyDirt.description>
+
   <!-- EN: Soil -->
   <Sand-SoilF.label>土地</Sand-SoilF.label>
   <!-- EN: ↑ Sand \n\n↓ Soil -->
   <Sand-SoilF.description>↑ 沙\n\n↓ 土地</Sand-SoilF.description>
-  
+
   <!-- EN: Shallow water -->
   <Sand-WaterShallow.label>浅水</Sand-WaterShallow.label>
-  <!-- EN: ↑ Sand (near water)\n\n↓ Shallow water\n\n ▪ 5 sand -->
-  <Sand-WaterShallow.description>↑ 沙（近水）\n\n↓ 浅水\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 20 粘土\n  ▪ 80 沙</Sand-WaterShallow.description>
-  
+  <!-- EN: ↑ Sand (near water)\n\n↓ Shallow water\n\n  ▪ 4 rubble\n  ▪ 2 dirt\n  ▪ 15 clay\n  ▪ 32 sand -->
+  <Sand-WaterShallow.description>↑ 沙（近水）\n\n↓ 浅水\n\n  ▪ 4 碎石\n  ▪ 2 泥土\n  ▪ 15 粘土\n  ▪ 32 沙</Sand-WaterShallow.description>
+
   <!-- EN: Gravel -->
   <SoilF-Gravel.label>砂砾</SoilF-Gravel.label>
-  <!-- EN: ↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n\n↓ Gravel\n\n  ▪ 2 dirt -->
-  <SoilF-Gravel.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 30 泥土\n  ▪ 20 粘土\n  ▪ 5 泥炭\n  ▪ 10 沙</SoilF-Gravel.description>
-  
+  <!-- EN: ↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n\n↓ Gravel\n\n  ▪ 2 dirt\n  ▪ 15 clay\n  ▪ 4 peat\n  ▪ 4 sand -->
+  <SoilF-Gravel.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 2 泥土\n  ▪ 15 粘土\n  ▪ 4 泥炭\n  ▪ 4 沙</SoilF-Gravel.description>
+
   <!-- EN: Marshy soil -->
   <SoilF-Marsh.label>湿软土地</SoilF-Marsh.label>
-  <!-- EN: ↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n\n↓ Marshy soil\n\n  ▪ 3 dirt -->
-  <SoilF-Marsh.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 湿软土地\n\n  ▪ 10 碎石\n  ▪ 30 泥土\n  ▪ 30 粘土\n  ▪ 5 泥炭\n  ▪ 20 沙\n  ▪ 2 肥料</SoilF-Marsh.description>
-  
+  <!-- EN: ↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n\n↓ Gravel\n\n  ▪ 2 dirt\n  ▪ 15 clay\n  ▪ 4 peat\n  ▪ 4 sand -->
+  <SoilF-Marsh.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 2 泥土\n  ▪ 15 粘土\n  ▪ 4 泥炭\n  ▪ 4 沙</SoilF-Marsh.description>
+
   <!-- EN: Packed dirt -->
   <SoilF-PackedDirt.label>压实泥土</SoilF-PackedDirt.label>
   <!-- EN: ↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Lichen-covered dirt\n\n↓ Packed dirt -->
   <SoilF-PackedDirt.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 苔藓地\n\n↓ 压实泥土</SoilF-PackedDirt.description>
-  
+
   <!-- EN: Rocky dirt -->
   <SoilF-RockyDirt.label>石砾</SoilF-RockyDirt.label>
-  <!-- EN: ↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n↑ Poor soil \n\n↓ Rocky dirt\n\n  ▪ 3 dirt -->
-  <SoilF-RockyDirt.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 贫瘠土地 \n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 45 泥土\n  ▪ 10 粘土\n  ▪ 5 泥炭\n  ▪ 15 沙\n  ▪ 2 肥料</SoilF-RockyDirt.description>
-  
+  <!-- EN: ↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n↑ Poor soil \n\n↓ Rocky dirt\n\n  ▪ 4 rubble\n  ▪ 2 dirt\n  ▪ 8 clay\n  ▪ 4 peat\n  ▪ 6 sand\n  ▪ 2 compost\n  ▪ 1 fertilizer -->
+  <SoilF-RockyDirt.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 贫瘠土地 \n\n↓ 石砾\n\n  ▪ 4 碎石\n  ▪ 2 泥土\n  ▪ 8 粘土\n  ▪ 4 泥炭\n  ▪ 6 沙\n  ▪ 2 肥料</SoilF-RockyDirt.description>
+
   <!-- EN: Sand -->
   <SoilF-Sand.label>沙</SoilF-Sand.label>
-  <!-- EN: ↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n↑ Dusty soil \n↑ Poor soil \n\n↓ Sand\n\n  ▪ 2 dirt -->
-  <SoilF-Sand.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 沙化土 \n↑ 贫瘠土地 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 50 泥土\n  ▪ 20 粘土\n  ▪ 15 泥炭\n  ▪ 4 肥料</SoilF-Sand.description>
-  
+  <!-- EN: ↑ Soil\n↑ Savanna soil\n↑ Rich soil\n↑ Marginal soil\n↑ Reclaimed soil\n↑ Lichen-covered dirt\n↑ Dusty soil \n↑ Poor soil \n\n↓ Sand\n\n  ▪ 8 rubble\n  ▪ 2 dirt\n  ▪ 15 clay\n  ▪ 12 peat\n  ▪ 4 compost\n  ▪ 2 fertilizer -->
+  <SoilF-Sand.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 沙化土 \n↑ 贫瘠土地 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 50 泥土\n  ▪ 20 粘土\n  ▪ 15 泥炭\n  ▪ 2 堆肥料\n▪ 2 肥料</SoilF-Sand.description>
+
   <!-- EN: Rich soil -->
   <SoilF-SoilRich.label>肥沃土地</SoilF-SoilRich.label>
   <!-- EN: ↑ Soil\n↑ Lichen-covered dirt\n\n↓ Rich soil -->
   <SoilF-SoilRich.description>↑ 土地\n↑ 苔藓地\n\n↓ 肥沃土地</SoilF-SoilRich.description>
-  
+
   <!-- EN: Marsh -->
   <SoilMarshy-Marsh.label>沼泽</SoilMarshy-Marsh.label>
-  <!-- EN: ↑ Marshy soil\n\n↓ Marsh\n\n  ▪ 2 dirt -->
-  <SoilMarshy-Marsh.description>↑ 湿软土地\n\n↓ 沼泽\n\n  ▪ 15 泥土\n  ▪ 20 粘土\n  ▪ 20 泥炭\n  ▪ 5 沙\n  ▪ 4 肥料</SoilMarshy-Marsh.description>
-  
+  <!-- EN: ↑ Marshy soil\n\n↓ Marsh\n\n  ▪ 4 dirt\n  ▪ 15 clay\n  ▪ 15 peat\n  ▪ 2 sand\n  ▪ 4 compost\n  ▪ 2 fertilizer -->
+  <SoilMarshy-Marsh.description>↑ 湿软土地\n\n↓ 沼泽\n\n  ▪ 4 泥土\n  ▪ 15 粘土\n  ▪ 15 泥炭\n  ▪ 2 沙\n ▪ 4 堆肥料\n▪ 2 肥料</SoilMarshy-Marsh.description>
+
   <!-- EN: Rocky dirt -->
   <SoilMarshy-RockyDirt.label>石砾</SoilMarshy-RockyDirt.label>
-  <!-- EN: ↑ Marshy soil\n\n↓ Rocky dirt\n\n  ▪ 2 dirt -->
-  <SoilMarshy-RockyDirt.description>↑ 湿软土地\n\n↓ 石砾\n\n  ▪ 15 碎石\n  ▪ 30 泥土\n  ▪ 5 粘土\n  ▪ 5 泥炭\n  ▪ 25 沙\n  ▪ 2 肥料</SoilMarshy-RockyDirt.description>
-  
+  <!-- EN: ↑ Marshy soil\n\n↓ Rocky dirt\n\n  ▪ 6 rubble\n  ▪ 2 dirt\n  ▪ 4 clay\n  ▪ 4 peat\n  ▪ 10 sand\n  ▪ 2 compost -->
+  <SoilMarshy-RockyDirt.description>↑ 湿软土地\n\n↓ 石砾\n\n  ▪ 6 碎石\n  ▪ 2 泥土\n  ▪ 4 粘土\n  ▪ 4 泥炭\n  ▪ 10 沙\n  ▪ 2 堆肥料</SoilMarshy-RockyDirt.description>
+
   <!-- EN: Soil -->
   <SoilMarshy-SoilF.label>土地</SoilMarshy-SoilF.label>
   <!-- EN: ↑ Marshy soil\n\n↓ Soil -->
   <SoilMarshy-SoilF.description>↑ 湿软土地\n\n↓ 土地</SoilMarshy-SoilF.description>
-  
+
   <!-- EN: Plowed soil -->
   <SoilRich-SoilTilled.label>精耕土地</SoilRich-SoilTilled.label>
   <!-- EN: ↑ Rich soil\n↑ Fertilized topsoil\n\n↓ Plowed soil\n\n► Plowed soil can be removed with the "Remove Floor" tool. -->
   <SoilRich-SoilTilled.description>↑ 肥沃土地\n↑ 肥化表土\n\n↓ 精耕土地\n\n► 精耕土地可以用“移除地板”命令清除。</SoilRich-SoilTilled.description>
-  
+
   <!-- EN: Stone ► Rocky dirt -->
   <Stone-RockyDirt.label>石面 ► 石砾</Stone-RockyDirt.label>
   <!-- EN: ↑ Rough or Smooth stone\n\n↓ Rocky dirt\n\n  ▪ Rock chunk (sometimes) -->
   <Stone-RockyDirt.description>↑ 粗糙或者光滑石面\n\n↓ 石砾\n\n  ▪ 石块（有几率）</Stone-RockyDirt.description>
-  
+
   <!-- EN: Stone ► Topsoil -->
   <Stone-Topsoil.label>石面 ► 表土</Stone-Topsoil.label>
   <!-- EN: ↑ Smooth stone\n\n↓ Topsoil\n\n► Topsoil can be removed with the "Remove Floor" tool. -->
   <Stone-Topsoil.description>↑ 光滑石面\n\n↓ 表土\n\n► 表土可以用“移除地板”命令清除。</Stone-Topsoil.description>
-  
+
   <!-- EN: Fertilized topsoil -->
   <Topsoil-DirtFert.label>肥化表土</Topsoil-DirtFert.label>
   <!-- EN: ↑ Topsoil\n\n↓ Fertilized topsoil\n\n► Fertilized topsoil can be removed with the "Remove Floor" tool. -->
   <Topsoil-DirtFert.description>↑ 表土\n\n↓ 肥化表土\n\n► 肥化表土可以用“移除地板”命令清除。</Topsoil-DirtFert.description>
-  
+
   <!-- EN: Wasteland ► Gravel -->
   <Wasteland-Gravel.label>废土 ► 砂砾</Wasteland-Gravel.label>
   <!-- EN: ↑ Wasteland radiated terrain\n\n↓ Gravel -->
   <Wasteland-Gravel.description>↑ 废土地形\n\n↓ 砂砾</Wasteland-Gravel.description>
-  
+
   <!-- EN: Deep water ► Shallow water -->
   <WaterDeep-WaterShallow.label>深水► 浅水</WaterDeep-WaterShallow.label>
   <!-- EN: ↑ Deep water\n\n↓ Shallow water -->
   <WaterDeep-WaterShallow.description>↑ 深水\n\n↓ 浅水</WaterDeep-WaterShallow.description>
-  
+
   <!-- EN: Marsh -->
   <WaterShallow-Marsh.label>沼泽</WaterShallow-Marsh.label>
   <!-- EN: ↑ Shallow water\n\n↓ Marsh -->
   <WaterShallow-Marsh.description>↑ 浅水\n\n↓ 沼泽</WaterShallow-Marsh.description>
-  
+
   <!-- EN: Sand -->
   <WaterShallow-Sand.label>沙</WaterShallow-Sand.label>
   <!-- EN: ↑ Shallow Water\n\n↓ Sand -->
   <WaterShallow-Sand.description>↑ 浅水\n\n↓ 沙</WaterShallow-Sand.description>
-  
+
   <!-- EN: Deep water -->
   <WaterShallow-WaterDeep.label>深水</WaterShallow-WaterDeep.label>
-  <!-- EN: ↑ Shallow water\n\n↓ Deep water\n\n ▪ 10 dirt\n  \n\n► Placing impassable terrain on the map is overpowered and potentially game-breaking. Use with caution! -->
-  <WaterShallow-WaterDeep.description>↑ 浅水\n\n↓ 深水\n\n  ▪ 5 碎石\n  ▪ 70 泥土\n  ▪ 70 粘土\n  ▪ 40 泥炭\n  ▪ 120 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！</WaterShallow-WaterDeep.description>
+  <!-- EN: ↑ Shallow water\n\n↓ Deep water\n\n  ▪ 2 rubble\n  ▪ 2 dirt\n  ▪ 50 clay\n  ▪ 30 peat\n  ▪ 48 sand\n\n► Placing impassable terrain on the map is overpowered and potentially game-breaking. Use with caution! -->
+  <WaterShallow-WaterDeep.description>↑ 浅水\n\n↓ 深水\n\n  ▪ 2 碎石\n  ▪ 2 泥土\n  ▪ 50 粘土\n  ▪ 30 泥炭\n  ▪ 48 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！</WaterShallow-WaterDeep.description>
 
 
-   <Peat-WaterShallow.label>从土地收集泥炭</Peat-WaterShallow.label>
+  <Peat-WaterShallow.label>从土地收集泥炭</Peat-WaterShallow.label>
   <Peat-WaterShallow.description>↑ 苔藓地\n↑ 沼泽\n↑ 泥地\n\n↓ 浅水\n\n ▪ 2 碎石\n ▪ 4 泥土\n ▪ 15 粘土\n ▪ 15 泥炭\n ▪ 2 沙</Peat-WaterShallow.description>
 
   <Peat-SoilRich.label>从沃土收集泥炭</Peat-SoilRich.label>
@@ -193,5 +193,5 @@
   <SoftClay-SoilRich.description>↑ 肥沃土地\n↑ 土地\n↑ 苔藓地\n\n↓ 石砾\n\n ▪ 4 碎石\n ▪ 4 泥土\n ▪ 30 粘土\n ▪ 5 泥炭\n ▪ 4 沙</SoftClay-SoilRich.description>
 
 
-  
+
 </LanguageData>
