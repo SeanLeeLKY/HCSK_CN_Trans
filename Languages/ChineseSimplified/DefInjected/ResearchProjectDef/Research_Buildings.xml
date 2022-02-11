@@ -1,414 +1,414 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Accessory I -->
   <Accessory_A1.label>辅助设施 I</Accessory_A1.label>
   <!-- EN: description\n(Core SK) -->
   <Accessory_A1.description>TODO</Accessory_A1.description>
-  
+
   <!-- EN: Accessory II -->
   <Accessory_B1.label>辅助设施 II</Accessory_B1.label>
   <!-- EN: description\n(Core SK) -->
   <Accessory_B1.description>TODO</Accessory_B1.description>
-  
+
   <!-- EN: Temperature control III -->
   <AirConditioning.label>温度控制 III</AirConditioning.label>
   <!-- EN: description\n(Core SK) -->
   <AirConditioning.description>TODO</AirConditioning.description>
-  
+
   <!-- EN: Construction V -->
   <Autodoors.label>建造技术 V</Autodoors.label>
   <!-- EN: description\n(Core SK) -->
   <Autodoors.description>TODO</Autodoors.description>
-  
+
   <!-- EN: Electrical networks I -->
   <Batteries.label>电力网络 I</Batteries.label>
   <!-- EN: description\n(Core SK) -->
   <Batteries.description>TODO</Batteries.description>
-  
+
   <!-- EN: Beds I -->
   <Beds_A1.label>床铺 I</Beds_A1.label>
   <!-- EN: description\n(Core SK) -->
   <Beds_A1.description>TODO</Beds_A1.description>
-  
+
   <!-- EN: Beds II -->
   <Beds_B1.label>床铺 II</Beds_B1.label>
   <!-- EN: description\n(Core SK) -->
   <Beds_B1.description>TODO</Beds_B1.description>
-  
+
   <!-- EN: Beds III -->
   <Beds_C1.label>床铺 III</Beds_C1.label>
   <!-- EN: description\n(Core SK) -->
   <Beds_C1.description>TODO</Beds_C1.description>
-  
+
   <!-- EN: Beds IV -->
   <Beds_C2.label>床铺 IV</Beds_C2.label>
   <!-- EN: description\n(Core SK) -->
   <Beds_C2.description>TODO</Beds_C2.description>
-  
+
   <!-- EN: Beds V -->
   <Beds_C3.label>床铺 V</Beds_C3.label>
   <!-- EN: description\n(Core SK) -->
   <Beds_C3.description>TODO</Beds_C3.description>
-  
+
   <!-- EN: Beds VII -->
   <Beds_E1.label>床铺 VII</Beds_E1.label>
   <!-- EN: description\n(Core SK) -->
   <Beds_E1.description>TODO</Beds_E1.description>
-  
+
   <!-- EN: Lighting VI -->
   <ColoredLights.label>照明 VI</ColoredLights.label>
   <!-- EN: description\n(Core SK) -->
   <ColoredLights.description>TODO</ColoredLights.description>
-  
+
   <!-- EN: Furniture I -->
   <ComplexFurniture.label>家具 I</ComplexFurniture.label>
   <!-- EN: description\n(Core SK) -->
   <ComplexFurniture.description>TODO</ComplexFurniture.description>
-  
+
   <!-- EN: Construction I -->
   <Construction_B1.label>建造技术 I</Construction_B1.label>
   <!-- EN: description\n(Core SK) -->
   <Construction_B1.description>TODO</Construction_B1.description>
-  
+
   <!-- EN: Construction II -->
   <Construction_B2.label>建造技术 II</Construction_B2.label>
   <!-- EN: description\n(Core SK) -->
   <Construction_B2.description>TODO</Construction_B2.description>
-  
+
   <!-- EN: Construction III -->
   <Construction_B3.label>建造技术 III</Construction_B3.label>
   <!-- EN: description\n(Core SK) -->
   <Construction_B3.description>TODO</Construction_B3.description>
-  
+
   <!-- EN: Beds VI -->
   <Cryptosleep.label>床铺 VI</Cryptosleep.label>
   <!-- EN: description\n(Core SK) -->
   <Cryptosleep.description>TODO</Cryptosleep.description>
-  
+
   <!-- EN: Electrical networks II -->
   <Electrical_engineering_C2.label>电力网络 II</Electrical_engineering_C2.label>
   <!-- EN: description\n(Core SK) -->
   <Electrical_engineering_C2.description>TODO</Electrical_engineering_C2.description>
-  
+
   <!-- EN: Electrical networks III -->
   <Electrical_engineering_E1.label>电力网络 III</Electrical_engineering_E1.label>
   <!-- EN: description\n(Core SK) -->
   <Electrical_engineering_E1.description>TODO</Electrical_engineering_E1.description>
-  
+
   <!-- EN: Electrical networks IV -->
   <Electrical_engineering_E2.label>电力网络 IV</Electrical_engineering_E2.label>
   <!-- EN: description\n(Core SK) -->
   <Electrical_engineering_E2.description>TODO</Electrical_engineering_E2.description>
-  
+
   <!-- EN: Power engineering I -->
   <Electricity.label>电力工程</Electricity.label>
   <!-- EN: description\n(Core SK) -->
   <Electricity.description>TODO</Electricity.description>
-  
+
   <!-- EN: Enjoyment I -->
   <Enjoyment_A1.label>娱乐 I</Enjoyment_A1.label>
   <!-- EN: description\n(Core SK) -->
   <Enjoyment_A1.description>TODO</Enjoyment_A1.description>
-  
+
   <!-- EN: Enjoyment II -->
   <Enjoyment_A2.label>娱乐 II</Enjoyment_A2.label>
   <!-- EN: description\n(Core SK) -->
   <Enjoyment_A2.description>TODO</Enjoyment_A2.description>
-  
+
   <!-- EN: Enjoyment VII -->
   <Enjoyment_D1.label>娱乐 VII</Enjoyment_D1.label>
   <!-- EN: description\n(Core SK) -->
   <Enjoyment_D1.description>TODO</Enjoyment_D1.description>
-  
+
   <!-- EN: Construction IV -->
   <Firefoam.label>建造技术 IV</Firefoam.label>
   <!-- EN: description\n(Core SK) -->
   <Firefoam.description>TODO</Firefoam.description>
-  
+
   <!-- EN: Enjoyment VII -->
   <FlatscreenTelevision.label>娱乐 VII</FlatscreenTelevision.label>
   <!-- EN: description\n(Core SK) -->
   <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
-  
+
   <!-- EN: Fortification I -->
   <Fortification_A1.label>防御工事 I</Fortification_A1.label>
   <!-- EN: description\n(Core SK) -->
   <Fortification_A1.description>TODO</Fortification_A1.description>
-  
+
   <!-- EN: Fortification II -->
   <Fortification_B1.label>防御工事 II</Fortification_B1.label>
   <!-- EN: description\n(Core SK) -->
   <Fortification_B1.description>TODO</Fortification_B1.description>
-  
+
   <!-- EN: Fortification III -->
   <Fortification_B2.label>防御工事 III</Fortification_B2.label>
   <!-- EN: description\n(Core SK) -->
   <Fortification_B2.description>TODO</Fortification_B2.description>
-  
+
   <!-- EN: Fortification V -->
   <Fortification_C2.label>防御工事 V</Fortification_C2.label>
   <!-- EN: description\n(Core SK) -->
   <Fortification_C2.description>TODO</Fortification_C2.description>
-  
+
   <!-- EN: Shield technology -->
   <Fortification_E1.label>护盾技术</Fortification_E1.label>
   <!-- EN: description\n(Core SK) -->
   <Fortification_E1.description>TODO</Fortification_E1.description>
-  
+
   <!-- EN: Orbital Shield -->
   <Fortification_E2.label>轨道护盾</Fortification_E2.label>
   <!-- EN: description\n(Core SK) -->
   <Fortification_E2.description>TODO</Fortification_E2.description>
-  
+
   <!-- EN: Power engineering II -->
   <Generators_C2.label>电力工程 II</Generators_C2.label>
   <!-- EN: description\n(Core SK) -->
   <Generators_C2.description>TODO</Generators_C2.description>
-  
+
   <!-- EN: Power engineering III -->
   <Generators_C3.label>电力工程 III</Generators_C3.label>
   <!-- EN: description\n(Core SK) -->
   <Generators_C3.description>TODO</Generators_C3.description>
-  
+
   <!-- EN: Power engineering IV -->
   <Generators_C4.label>电力工程 IV</Generators_C4.label>
   <!-- EN: description\n(Core SK) -->
   <Generators_C4.description>TODO</Generators_C4.description>
-  
+
   <!-- EN: Power engineering V -->
   <Generators_D1.label>电力工程 V</Generators_D1.label>
   <!-- EN: description\n(Core SK) -->
   <Generators_D1.description>TODO</Generators_D1.description>
-  
+
   <!-- EN: Power engineering VI -->
   <Generators_D2.label>电力工程 VI</Generators_D2.label>
   <!-- EN: description\n(Core SK) -->
   <Generators_D2.description>TODO</Generators_D2.description>
-  
+
   <!-- EN: Power engineering VII -->
   <Generators_E1.label>电力工程 VII</Generators_E1.label>
   <!-- EN: description\n(Core SK) -->
   <Generators_E1.description>TODO</Generators_E1.description>
-  
+
   <!-- EN: Renewable energy V -->
   <GeothermalPower.label>可再生能源 V</GeothermalPower.label>
   <!-- EN: description\n(Core SK) -->
   <GeothermalPower.description>TODO</GeothermalPower.description>
-  
+
   <!-- EN: Enjoyment III -->
   <Harp.label>娱乐 III</Harp.label>
   <!-- EN: description\n(Core SK) -->
   <Harp.description>TODO</Harp.description>
-  
+
   <!-- EN: Enjoyment IV -->
   <Harpsichord.label>娱乐 IV</Harpsichord.label>
   <!-- EN: description\n(Core SK) -->
   <Harpsichord.description>TODO</Harpsichord.description>
-  
+
   <!-- EN: Fortification IV -->
   <IEDs.label>防御工事 IV</IEDs.label>
   <!-- EN: description\n(Core SK) -->
   <IEDs.description>TODO</IEDs.description>
-  
+
   <!-- EN: Ion satellite broadcaster -->
   <Ion_gun_D1.label>离子卫星系统</Ion_gun_D1.label>
   <!-- EN: description\n(Core SK) -->
   <Ion_gun_D1.description>TODO</Ion_gun_D1.description>
-  
+
   <!-- EN: Lighting I -->
   <Light_B1.label>照明 I</Light_B1.label>
   <!-- EN: description\n(Core SK) -->
   <Light_B1.description>TODO</Light_B1.description>
-  
+
   <!-- EN: Lighting II -->
   <Light_B2.label>照明 II</Light_B2.label>
   <!-- EN: description\n(Core SK) -->
   <Light_B2.description>TODO</Light_B2.description>
-  
+
   <!-- EN: Lighting III -->
   <Light_C1.label>照明 III</Light_C1.label>
   <!-- EN: description\n(Core SK) -->
   <Light_C1.description>TODO</Light_C1.description>
-  
+
   <!-- EN: Lighting IV -->
   <Light_C2.label>照明 IV</Light_C2.label>
   <!-- EN: description\n(Core SK) -->
   <Light_C2.description>TODO</Light_C2.description>
-  
+
   <!-- EN: Lighting V -->
   <Light_C3.label>照明 V</Light_C3.label>
   <!-- EN: description\n(Core SK) -->
   <Light_C3.description>TODO</Light_C3.description>
-  
+
   <!-- EN: Lighting VII -->
   <Light_C5.label>照明 VII</Light_C5.label>
   <!-- EN: description\n(Core SK) -->
   <Light_C5.description>TODO</Light_C5.description>
-  
+
   <!-- EN: Temperature control I -->
   <PassiveCooler.label>温度控制 I</PassiveCooler.label>
   <!-- EN: description\n(Core SK) -->
   <PassiveCooler.description>TODO</PassiveCooler.description>
-  
+
   <!-- EN: Enjoyment V -->
   <Piano.label>娱乐 V</Piano.label>
   <!-- EN: description\n(Core SK) -->
   <Piano.description>TODO</Piano.description>
-  
+
   <!-- EN: Renewable energy II -->
   <Renewable_energy_C2.label>可再生能源 II</Renewable_energy_C2.label>
   <!-- EN: description\n(Core SK) -->
   <Renewable_energy_C2.description>TODO</Renewable_energy_C2.description>
-  
+
   <!-- EN: Renewable energy IV -->
   <Renewable_energy_C4.label>可再生能源 IV</Renewable_energy_C4.label>
   <!-- EN: description\n(Core SK) -->
   <Renewable_energy_C4.description>TODO</Renewable_energy_C4.description>
-  
+
   <!-- EN: Renewable energy VI -->
   <Renewable_energy_D1.label>可再生能源 VI</Renewable_energy_D1.label>
   <!-- EN: description\n(Core SK) -->
   <Renewable_energy_D1.description>TODO</Renewable_energy_D1.description>
-  
+
   <!-- EN: Renewable energy VII -->
   <Renewable_energy_D2.label>可再生能源 VII</Renewable_energy_D2.label>
   <!-- EN: description\n(Core SK) -->
   <Renewable_energy_D2.description>TODO</Renewable_energy_D2.description>
-  
+
   <!-- EN: Renewable energy VIII -->
   <Renewable_energy_D3.label>可再生能源 VIII</Renewable_energy_D3.label>
   <!-- EN: description\n(Core SK) -->
   <Renewable_energy_D3.description>TODO</Renewable_energy_D3.description>
-  
+
   <!-- EN: Skywrath -->
   <ResearchSkywrathController.label>天怒控制器</ResearchSkywrathController.label>
   <!-- EN: description\n(Core SK) -->
   <ResearchSkywrathController.description>TODO</ResearchSkywrathController.description>
-  
+
   <!-- EN: thick stone roofs -->
   <Roof_D2.label>厚岩顶</Roof_D2.label>
   <!-- EN: Allows you to build thick stone roofs which can block drop pods. -->
   <Roof_D2.description>解锁建造厚岩顶的能力，能够阻挡空降仓。</Roof_D2.description>
-  
+
   <!-- EN: Renewable energy III -->
   <SolarPanels.label>可再生能源 III</SolarPanels.label>
   <!-- EN: description\n(Core SK) -->
   <SolarPanels.description>TODO</SolarPanels.description>
-  
+
   <!-- EN: Stargate -->
   <Stargate_F1.label>星门技术</Stargate_F1.label>
   <!-- EN: description\n(Core SK) -->
   <Stargate_F1.description>TODO</Stargate_F1.description>
-  
+
   <!-- EN: Storage I -->
   <Storage_A1.label>存储设施 I</Storage_A1.label>
   <!-- EN: Neolithic Storage: Learn to pots for storing food and wicker baskets. -->
-  <Storage_A1.description>description</Storage_A1.description>
-  
+  <Storage_A1.description>原始存储：学会建造食物存储篮和物品篮。</Storage_A1.description>
+
   <!-- EN: Storage II -->
   <Storage_B1.label>存储设施 II</Storage_B1.label>
   <!-- EN: Medieval Storage: Learn to pots for storing food and wicker baskets.\n(Core SK) -->
-  <Storage_B1.description>TODO</Storage_B1.description>
-  
+  <Storage_B1.description>中古存储：学会建造食物存储罐和编制篮。</Storage_B1.description>
+
   <!-- EN: Storage III -->
   <Storage_B2.label>存储设施 III</Storage_B2.label>
   <!-- EN: Medieval Storage: Learn to make general storage containers for everyday items.\n(Core SK) -->
-  <Storage_B2.description>TODO</Storage_B2.description>
-  
+  <Storage_B2.description>中古存储：学会建造存储日常物品的箱子。</Storage_B2.description>
+
   <!-- EN: Storage IV -->
   <Storage_B3.label>存储设施 IV</Storage_B3.label>
   <!-- EN: Food and Grain Storage: Everything you need to keep your meals preserved and farm products safe and organized.\n(Core SK) -->
-  <Storage_B3.description>TODO</Storage_B3.description>
-  
+  <Storage_B3.description>食物和谷物存储：保存食物和农产品的存储设施。</Storage_B3.description>
+
   <!-- EN: Storage V -->
   <Storage_B4.label>存储设施 V</Storage_B4.label>
   <!-- EN: Wardrobe Storage: Give your colonists a place to store their clothes and your tailors a place to keep their materials.\n(Core SK) -->
-  <Storage_B4.description>TODO</Storage_B4.description>
-  
+  <Storage_B4.description>服装存储：给各种衣物和纺织材料建立一个安全高效的存储设施。</Storage_B4.description>
+
   <!-- EN: Storage VI -->
   <Storage_C1.label>存储设施 VI</Storage_C1.label>
   <!-- EN: Drugs and Guns Storage: Medicine, booze, and weapons. Keep them separate, but organized.\n(Core SK) -->
-  <Storage_C1.description>TODO</Storage_C1.description>
-  
+  <Storage_C1.description>药物和武器存储：药品，酒类和武器要分开存放，但要组织有序。</Storage_C1.description>
+
   <!-- EN: Storage VII -->
   <Storage_C2.label>存储设施 VII</Storage_C2.label>
   <!-- EN: Warehouse Storage: Pallet racks, utility shelving, display cases, and other very necessary storage units for a growing colony.\n(Core SK) -->
-  <Storage_C2.description>TODO</Storage_C2.description>
-  
+  <Storage_C2.description>货物存储：平板货架，多功能搁板，易查箱以及其他各式各样的存储设施单元。</Storage_C2.description>
+
   <!-- EN: Storage VIII -->
   <Storage_C3.label>存储设施 VIII</Storage_C3.label>
   <!-- EN: Refrigeration: Freezers for long-term storage of food and produce, a well as a refrigerated display case which every cafe needs.\n(Core SK) -->
-  <Storage_C3.description>TODO</Storage_C3.description>
-  
+  <Storage_C3.description>冰箱：能够长时间冷冻那些易腐食物和产品，当然，面板的玻璃也能清晰的展示给那些喜欢喝咖啡的朋友们。</Storage_C3.description>
+
   <!-- EN: Storage IX -->
   <Storage_C4.label>存储设施 IX</Storage_C4.label>
   <!-- EN: Arsenal: Safe and secure storage for weapons, ammo, and other important things that might or might not explode. -->
-  <Storage_C4.description>description</Storage_C4.description>
-  
+  <Storage_C4.description>军械库：可以安全的储放武器，弹药和其他重要物资，不管它们是不是易燃易爆东西。</Storage_C4.description>
+
   <!-- EN: Storage X -->
   <Storage_D1.label>存储设施 X</Storage_D1.label>
   <!-- EN: description\n(Core SK) -->
   <Storage_D1.description>TODO</Storage_D1.description>
-  
+
   <!-- EN: Furniture II -->
   <Tables_B2.label>家具 II</Tables_B2.label>
   <!-- EN: description\n(Core SK) -->
   <Tables_B2.description>TODO</Tables_B2.description>
-  
+
   <!-- EN: Furniture III -->
   <Tables_C1.label>家具 III</Tables_C1.label>
   <!-- EN: description\n(Core SK) -->
   <Tables_C1.description>TODO</Tables_C1.description>
-  
+
   <!-- EN: Furniture IV -->
   <Tables_C2.label>家具 IV</Tables_C2.label>
   <!-- EN: description\n(Core SK) -->
   <Tables_C2.description>TODO</Tables_C2.description>
-  
+
   <!-- EN: Telecommunications I -->
   <Telecommunications_C1.label>通讯技术 I</Telecommunications_C1.label>
   <!-- EN: description\n(Core SK) -->
   <Telecommunications_C1.description>TODO</Telecommunications_C1.description>
-  
+
   <!-- EN: Telecommunications II -->
   <Telecommunications_D1.label>通讯技术 II</Telecommunications_D1.label>
   <!-- EN: description\n(Core SK) -->
   <Telecommunications_D1.description>TODO</Telecommunications_D1.description>
-  
+
   <!-- EN: Temperature control II -->
   <Temperature_control_B1.label>温度控制 II</Temperature_control_B1.label>
   <!-- EN: description\n(Core SK) -->
   <Temperature_control_B1.description>TODO</Temperature_control_B1.description>
-  
+
   <!-- EN: Temperature control IV -->
   <Temperature_control_C2.label>温度控制 IV</Temperature_control_C2.label>
   <!-- EN: description\n(Core SK) -->
   <Temperature_control_C2.description>TODO</Temperature_control_C2.description>
-  
+
   <!-- EN: Temperature control V -->
   <Temperature_control_C3.label>温度控制 V</Temperature_control_C3.label>
   <!-- EN: description\n(Core SK) -->
   <Temperature_control_C3.description>TODO</Temperature_control_C3.description>
-  
+
   <!-- EN: thick stone roof removal -->
-  <ThickStoneRoofRemoval.label>TODO</ThickStoneRoofRemoval.label>
+  <ThickStoneRoofRemoval.label>厚岩顶移除</ThickStoneRoofRemoval.label>
   <!-- EN: Allows you to remove thick stone roofs.\n(Core SK) -->
-  <ThickStoneRoofRemoval.description>TODO</ThickStoneRoofRemoval.description>
-  
+  <ThickStoneRoofRemoval.description>让你能够移除厚岩顶。</ThickStoneRoofRemoval.description>
+
   <!-- EN: Transport pods -->
   <TransportPod.label>运输舱</TransportPod.label>
   <!-- EN: description\n(Core SK) -->
   <TransportPod.description>TODO</TransportPod.description>
-  
+
   <!-- EN: Enjoyment VI -->
   <TubeTelevision.label>娱乐 VI</TubeTelevision.label>
   <!-- EN: description\n(Core SK) -->
   <TubeTelevision.description>TODO</TubeTelevision.description>
-  
+
   <!-- EN: Renewable energy I -->
   <WatermillGenerator.label>可再生能源 I</WatermillGenerator.label>
   <!-- EN: description\n(Core SK) -->
   <WatermillGenerator.description>TODO</WatermillGenerator.description>
-  
+
 </LanguageData>

@@ -1,409 +1,409 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: 由于奥瑞森人对其他外星种族持开放接受的态度，[PAWN_nameDef]以[PAWN_possessive]作为外国大使的工作而感到自豪。[PAWN_pronoun]定期与许多异星种族会面，并与其保持友好关系。\n(Core SK) -->
-  <Orassan_Ambassador.backstory.baseDesc>TODO</Orassan_Ambassador.backstory.baseDesc>
+  <Orassan_Ambassador.backstory.baseDesc>由于奥瑞森人对其他外星种族持开放接受的态度，[PAWN_nameDef]以[PAWN_possessive]作为外国大使的工作而感到自豪。[PAWN_pronoun]定期与许多异星种族会面，并与其保持友好关系。</Orassan_Ambassador.backstory.baseDesc>
   <!-- EN: With the largely acceptive opinion Orassans have with aliens, [PAWN_nameDef] took pride in [PAWN_possessive] work as a foreign ambassador. [PAWN_pronoun] regularly met, and kept goodwill with many xeno species.\n		 -->
   <Orassan_Ambassador.baseDescription>由于奥瑞森人对其他外星种族持开放接受的态度，[PAWN_nameDef]以[PAWN_possessive]作为外国大使的工作而感到自豪。[PAWN_pronoun]定期与许多异星种族会面，并与其保持友好关系。</Orassan_Ambassador.baseDescription>
   <!-- EN: Ambassador -->
   <Orassan_Ambassador.title>大使</Orassan_Ambassador.title>
   <!-- EN: Ambassador -->
   <Orassan_Ambassador.titleShort>大使</Orassan_Ambassador.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]出生于奥瑞森首星。[PAWN_pronoun]出生于一个富裕的家庭，家里有一片山脉般大小的庄园。\n(Core SK) -->
-  <Orassan_CapitalChild.backstory.baseDesc>TODO</Orassan_CapitalChild.backstory.baseDesc>
+  <Orassan_CapitalChild.backstory.baseDesc>[PAWN_nameDef]出生于奥瑞森首星。[PAWN_pronoun]出生于一个富裕的家庭，家里有一片山脉般大小的庄园。</Orassan_CapitalChild.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was born on the capital planet of Orassia. [PAWN_pronoun] was born to a wealthy family that lived in a mountain side estate. -->
   <Orassan_CapitalChild.baseDescription>[PAWN_nameDef]出生于奥瑞森首星。[PAWN_pronoun]出生于一个富裕的家庭，家里有一片山脉般大小的庄园。</Orassan_CapitalChild.baseDescription>
   <!-- EN: Orassia born -->
   <Orassan_CapitalChild.title>奥瑞森小孩</Orassan_CapitalChild.title>
   <!-- EN: Orassan -->
   <Orassan_CapitalChild.titleShort>奥瑞森</Orassan_CapitalChild.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]从小就精于攀爬，增强力量和技巧的方式来源于寻找[PAWN_possessive]爬上树顶的方法。\n(Core SK) -->
-  <Orassan_Climber.backstory.baseDesc>TODO</Orassan_Climber.backstory.baseDesc>
+  <Orassan_Climber.backstory.baseDesc>[PAWN_nameDef]从小就精于攀爬，增强力量和技巧的方式来源于寻找[PAWN_possessive]爬上树顶的方法。</Orassan_Climber.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was a climber as a kid, building strength by finding [PAWN_possessive] ways to tops of trees. -->
   <Orassan_Climber.baseDescription>[PAWN_nameDef]从小就精于攀爬，增强力量和技巧的方式来源于寻找[PAWN_possessive]爬上树顶的方法。</Orassan_Climber.baseDescription>
   <!-- EN: Climber -->
   <Orassan_Climber.title>攀爬者</Orassan_Climber.title>
   <!-- EN: Climber -->
   <Orassan_Climber.titleShort>攀爬者</Orassan_Climber.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是奥瑞森帝国开拓团的一名开拓者。\n(Core SK) -->
-  <Orassan_Colinizer.backstory.baseDesc>TODO</Orassan_Colinizer.backstory.baseDesc>
+  <Orassan_Colinizer.backstory.baseDesc>[PAWN_nameDef]是奥瑞森帝国开拓团的一名开拓者。</Orassan_Colinizer.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] is part of the effort to expand the Orassan Empire.\n		 -->
   <Orassan_Colinizer.baseDescription>[PAWN_nameDef]是奥瑞森帝国开拓团的一名开拓者。</Orassan_Colinizer.baseDescription>
   <!-- EN: Colonizer -->
   <Orassan_Colinizer.title>开拓者</Orassan_Colinizer.title>
   <!-- EN: Colonizer -->
   <Orassan_Colinizer.titleShort>开拓者</Orassan_Colinizer.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]出生在一个新建立的殖民地并且必须为殖民地努力工作。\n(Core SK) -->
-  <Orassan_ColonyChild.backstory.baseDesc>TODO</Orassan_ColonyChild.backstory.baseDesc>
+  <Orassan_ColonyChild.backstory.baseDesc>[PAWN_nameDef]出生在一个新建立的殖民地并且必须为殖民地努力工作。</Orassan_ColonyChild.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] grew up in a fledgling colony. They had to help the community grow and thrive. -->
   <Orassan_ColonyChild.baseDescription>[PAWN_nameDef]出生在一个新建立的殖民地并且必须为殖民地努力工作。</Orassan_ColonyChild.baseDescription>
   <!-- EN: Colonizer -->
   <Orassan_ColonyChild.title>殖民地小孩</Orassan_ColonyChild.title>
   <!-- EN: Colonizer -->
   <Orassan_ColonyChild.titleShort>开拓者</Orassan_ColonyChild.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]非常享受[PAWN_possessive]的工作，在太空和地面上修建大型结构体。 尽管[PAWN_pronoun]从未参与建筑物的设计规划，但[PAWN_pronoun]仍然为[PAWN_possessive]工作感到自豪。\n(Core SK) -->
-  <Orassan_Constructor.backstory.baseDesc>TODO</Orassan_Constructor.backstory.baseDesc>
+  <Orassan_Constructor.backstory.baseDesc>[PAWN_nameDef]非常享受[PAWN_possessive]的工作，在太空和地面上修建大型结构体。 尽管[PAWN_pronoun]从未参与建筑物的设计规划，但[PAWN_pronoun]仍然为[PAWN_possessive]工作感到自豪。</Orassan_Constructor.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] enjoyed [PAWN_possessive] work, building large structures both in space, and on solid ground. While [PAWN_pronoun] didn't plan the building themselves, [PAWN_pronoun] to pride in [PAWN_possessive] work. -->
   <Orassan_Constructor.baseDescription>[PAWN_nameDef]非常享受[PAWN_possessive]的工作，在太空和地面上修建大型结构体。 尽管[PAWN_pronoun]从未参与建筑物的设计规划，但[PAWN_pronoun]仍然为[PAWN_possessive]工作感到自豪。</Orassan_Constructor.baseDescription>
   <!-- EN: Construction worker -->
   <Orassan_Constructor.title>建筑工人</Orassan_Constructor.title>
   <!-- EN: Constructor -->
   <Orassan_Constructor.titleShort>建筑工</Orassan_Constructor.titleShort>
-  
+
   <!-- EN: 任何文明最终都会发现自己处于战争之中，或与自己，或与他人。[PAWN_nameDef]是一位战争武器的设计师，[PAWN_pronoun]和[PAWN_possessive]设计团队的其他成员一起，制造和改进了很多杀人武器。\n(Core SK) -->
-  <Orassan_Crafter.backstory.baseDesc>TODO</Orassan_Crafter.backstory.baseDesc>
+  <Orassan_Crafter.backstory.baseDesc>任何文明最终都会发现自己处于战争之中，或与自己，或与他人。[PAWN_nameDef]是一位战争武器的设计师，[PAWN_pronoun]和[PAWN_possessive]设计团队的其他成员一起，制造和改进了很多杀人武器。</Orassan_Crafter.backstory.baseDesc>
   <!-- EN: Any civilization finds themselves eventuially in war, either with themselves, or others. [PAWN_nameDef] was a designer of weapons of war, and [PAWN_pronoun], along with others of [PAWN_possessive] design team, made and improved weapons that have killed many, many people.\n		 -->
   <Orassan_Crafter.baseDescription>任何文明最终都会发现自己处于战争之中，或与自己，或与他人。[PAWN_nameDef]是一位战争武器的设计师，[PAWN_pronoun]和[PAWN_possessive]设计团队的其他成员一起，制造和改进了很多杀人武器。</Orassan_Crafter.baseDescription>
   <!-- EN: Weaponsmith -->
   <Orassan_Crafter.title>武器工匠</Orassan_Crafter.title>
   <!-- EN: Weaponsmith -->
   <Orassan_Crafter.titleShort>武器工匠</Orassan_Crafter.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是曙光教派的一份子。曙光教派是奥瑞森帝国刚进入宇航时代时候的一个叛乱组织，由帝国的敌人资助建立。虽然因为教派首领死亡而变得分崩离析，但是余孽们仍然潜伏在暗处，等待死灰复燃。\n(Core SK) -->
-  <Orassan_Cultist.backstory.baseDesc>TODO</Orassan_Cultist.backstory.baseDesc>
+  <Orassan_Cultist.backstory.baseDesc>[PAWN_nameDef]是曙光教派的一份子。曙光教派是奥瑞森帝国刚进入宇航时代时候的一个叛乱组织，由帝国的敌人资助建立。虽然因为教派首领死亡而变得分崩离析，但是余孽们仍然潜伏在暗处，等待死灰复燃。</Orassan_Cultist.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was part of Dawn's Light, a religous cult that rebelled against the Orassan government near the begining of the Empire's space age with the help of newfound enemies of the Empire. The leader has since been killed, but the embers of the cult still flicker... awaiting to reignite. -->
   <Orassan_Cultist.baseDescription>[PAWN_nameDef]是曙光教派的一份子。曙光教派是奥瑞森帝国刚进入宇航时代时候的一个叛乱组织，由帝国的敌人资助建立。虽然因为教派首领死亡而变得分崩离析，但是余孽们仍然潜伏在暗处，等待死灰复燃。</Orassan_Cultist.baseDescription>
   <!-- EN: Cultist -->
   <Orassan_Cultist.title>邪教徒</Orassan_Cultist.title>
   <!-- EN: Cultist -->
   <Orassan_Cultist.titleShort>邪教徒</Orassan_Cultist.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]在医疗事业上奉献[PAWN_possessive]一生。\n(Core SK) -->
-  <Orassan_Doctor.backstory.baseDesc>TODO</Orassan_Doctor.backstory.baseDesc>
+  <Orassan_Doctor.backstory.baseDesc>[PAWN_nameDef]在医疗事业上奉献[PAWN_possessive]一生。</Orassan_Doctor.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] has dedicated [PAWN_possessive] life to healing others. -->
   <Orassan_Doctor.baseDescription>[PAWN_nameDef]在医疗事业上奉献[PAWN_possessive]一生。</Orassan_Doctor.baseDescription>
   <!-- EN: Doctor -->
   <Orassan_Doctor.title>医生</Orassan_Doctor.title>
   <!-- EN: Doctor -->
   <Orassan_Doctor.titleShort>医生</Orassan_Doctor.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]出生于一个星球般大小的普世城。[PAWN_pronoun]从小就不得不适应这种周遭亿万人口，不怎么舒适的环境，以及充斥着各种工业科技制品的社会。\n(Core SK) -->
-  <Orassan_Ecumenopolis.backstory.baseDesc>TODO</Orassan_Ecumenopolis.backstory.baseDesc>
+  <Orassan_Ecumenopolis.backstory.baseDesc>[PAWN_nameDef]出生于一个星球般大小的普世城。[PAWN_pronoun]从小就不得不适应这种周遭亿万人口，不怎么舒适的环境，以及充斥着各种工业科技制品的社会。</Orassan_Ecumenopolis.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was born in a planet sized city. [PAWN_pronoun] had to grow up with a population of potentially trillions, crowded condtions, and a lifestyle geared towards industry and science. -->
   <Orassan_Ecumenopolis.baseDescription>[PAWN_nameDef]出生于一个星球般大小的普世城。[PAWN_pronoun]从小就不得不适应这种周遭亿万人口，不怎么舒适的环境，以及充斥着各种工业科技制品的社会。</Orassan_Ecumenopolis.baseDescription>
   <!-- EN: Ecumenopolis child -->
   <Orassan_Ecumenopolis.title>星城儿童</Orassan_Ecumenopolis.title>
   <!-- EN: E-child -->
   <Orassan_Ecumenopolis.titleShort>星城儿童</Orassan_Ecumenopolis.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]生活在一个如星球般大小的城市中。[PAWN_pronoun]和其他成千上万的工人一样在一个巨型制造中心工作。\n(Core SK) -->
-  <Orassan_EcumenopolisA.backstory.baseDesc>TODO</Orassan_EcumenopolisA.backstory.baseDesc>
+  <Orassan_EcumenopolisA.backstory.baseDesc>[PAWN_nameDef]生活在一个如星球般大小的城市中。[PAWN_pronoun]和其他成千上万的工人一样在一个巨型制造中心工作。</Orassan_EcumenopolisA.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] lived in a planet sized city. [PAWN_pronoun] worked in a massive production center with thousands or tens of thousands of other workers. -->
   <Orassan_EcumenopolisA.baseDescription>[PAWN_nameDef]生活在一个如星球般大小的城市中。[PAWN_pronoun]和其他成千上万的工人一样在一个巨型制造中心工作。</Orassan_EcumenopolisA.baseDescription>
   <!-- EN: Ecumenopolis worker -->
   <Orassan_EcumenopolisA.title>星城工人</Orassan_EcumenopolisA.title>
   <!-- EN: E-worker -->
   <Orassan_EcumenopolisA.titleShort>星城工人</Orassan_EcumenopolisA.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]生活在一个星球般大小的城市中。[PAWN_pronoun]和好几千同仁共同供职于一个巨型科研中心。\n(Core SK) -->
-  <Orassan_EcumenopolisB.backstory.baseDesc>TODO</Orassan_EcumenopolisB.backstory.baseDesc>
+  <Orassan_EcumenopolisB.backstory.baseDesc>[PAWN_nameDef]生活在一个星球般大小的城市中。[PAWN_pronoun]和好几千同仁共同供职于一个巨型科研中心。</Orassan_EcumenopolisB.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] lived in a planet sized city. [PAWN_pronoun] worked in a massive science center with thousands of other intellectuals. -->
   <Orassan_EcumenopolisB.baseDescription>[PAWN_nameDef]生活在一个星球般大小的城市中。[PAWN_pronoun]和好几千同仁共同供职于一个巨型科研中心。</Orassan_EcumenopolisB.baseDescription>
   <!-- EN: Ecumenopolis scientist -->
   <Orassan_EcumenopolisB.title>星城科学家</Orassan_EcumenopolisB.title>
   <!-- EN: E-scientist -->
   <Orassan_EcumenopolisB.titleShort>E——科学家</Orassan_EcumenopolisB.titleShort>
-  
+
   <!-- EN: 勘探周遭事物一直是一项重要的基础工作，无论是在行星地表，在海洋深处，还是在幽深太空，[PAWN_nameDef]都是一名不停勘测搜索的专家。[PAWN_pronoun]探索各种事物，绘制繁杂的数据图表，记录类目从物种到矿带，包罗万象。\n(Core SK) -->
-  <Orassan_Explorer.backstory.baseDesc>TODO</Orassan_Explorer.backstory.baseDesc>
+  <Orassan_Explorer.backstory.baseDesc>勘探周遭事物一直是一项重要的基础工作，无论是在行星地表，在海洋深处，还是在幽深太空，[PAWN_nameDef]都是一名不停勘测搜索的专家。[PAWN_pronoun]探索各种事物，绘制繁杂的数据图表，记录类目从物种到矿带，包罗万象。</Orassan_Explorer.backstory.baseDesc>
   <!-- EN: Exploration is always needed, be it across the surface of a planet, down in the depths of the ocean, or up in the darkest reaches of space, and [PAWN_nameDef] was one who was out there searching. [PAWN_pronoun] searched, charted, logged, and explored, finding all sorts of things, from other races, to resource deposits. -->
   <Orassan_Explorer.baseDescription>勘探周遭事物一直是一项重要的基础工作，无论是在行星地表，在海洋深处，还是在幽深太空，[PAWN_nameDef]都是一名不停勘测搜索的专家。[PAWN_pronoun]探索各种事物，绘制繁杂的数据图表，记录类目从物种到矿带，包罗万象。</Orassan_Explorer.baseDescription>
   <!-- EN: Exploration officer -->
   <Orassan_Explorer.title>勘探专员</Orassan_Explorer.title>
   <!-- EN: Explorer -->
   <Orassan_Explorer.titleShort>探查员</Orassan_Explorer.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]在经常会发生轻微事故的场所工作，工作是提供急救护理，并为轻伤人员提供急救服务。 尽管[PAWN_pronoun]几乎不必处理重大事故，但[PAWN_possessive]的工作经历却向[PAWN_objective]传授了很多有关医疗救护的知识。\n(Core SK) -->
-  <Orassan_FR.backstory.baseDesc>TODO</Orassan_FR.backstory.baseDesc>
+  <Orassan_FR.backstory.baseDesc>[PAWN_nameDef]在经常会发生轻微事故的场所工作，工作是提供急救护理，并为轻伤人员提供急救服务。 尽管[PAWN_pronoun]几乎不必处理重大事故，但[PAWN_possessive]的工作经历却向[PAWN_objective]传授了很多有关医疗救护的知识。</Orassan_FR.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] frequently tended to minor workplace accidents, providing first-responce care, and first-aid to small injuries. While [PAWN_pronoun] scarcely had to deal with major accidents, [PAWN_possessive] work taught [PAWN_objective] much about patching wounds. -->
   <Orassan_FR.baseDescription>[PAWN_nameDef]在经常会发生轻微事故的场所工作，工作是提供急救护理，并为轻伤人员提供急救服务。 尽管[PAWN_pronoun]几乎不必处理重大事故，但[PAWN_possessive]的工作经历却向[PAWN_objective]传授了很多有关医疗救护的知识。</Orassan_FR.baseDescription>
   <!-- EN: First responder -->
   <Orassan_FR.title>急救员</Orassan_FR.title>
   <!-- EN: Paramedic -->
   <Orassan_FR.titleShort>急救员</Orassan_FR.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]生活在盖亚星球上————一种几乎适合任何碳基生命形式的行星。[PAWN_pronoun]拥有近乎完美的生活和工作环境。\n(Core SK) -->
-  <Orassan_GaiaA.backstory.baseDesc>TODO</Orassan_GaiaA.backstory.baseDesc>
+  <Orassan_GaiaA.backstory.baseDesc>[PAWN_nameDef]生活在盖亚星球上————一种几乎适合任何碳基生命形式的行星。[PAWN_pronoun]拥有近乎完美的生活和工作环境。</Orassan_GaiaA.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] lived on a Gaia planet; a planet perfectly suited for nearly any carbon based life form. [PAWN_pronoun] benifited from a near perfect enviroment to live and work in. -->
   <Orassan_GaiaA.baseDescription>[PAWN_nameDef]生活在盖亚星球上————一种几乎适合任何碳基生命形式的行星。[PAWN_pronoun]拥有近乎完美的生活和工作环境。</Orassan_GaiaA.baseDescription>
   <!-- EN: Gaia citizen -->
   <Orassan_GaiaA.title>盖亚居民</Orassan_GaiaA.title>
   <!-- EN: Gaia -->
   <Orassan_GaiaA.titleShort>盖亚居民</Orassan_GaiaA.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]出生于盖亚星球————一种几乎适合任何碳基生命形式的行星。[PAWN_pronoun]就在这种近乎完美的环境中生活成长。\n(Core SK) -->
-  <Orassan_GaiaChild.backstory.baseDesc>TODO</Orassan_GaiaChild.backstory.baseDesc>
+  <Orassan_GaiaChild.backstory.baseDesc>[PAWN_nameDef]出生于盖亚星球————一种几乎适合任何碳基生命形式的行星。[PAWN_pronoun]就在这种近乎完美的环境中生活成长。</Orassan_GaiaChild.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was born on a Gaia planet; a planet perfectly suited for nearly any carbon based life form. [PAWN_pronoun] benifited from a near perfect enviroment to grow up in. -->
   <Orassan_GaiaChild.baseDescription>[PAWN_nameDef]出生于盖亚星球————一种几乎适合任何碳基生命形式的行星。[PAWN_pronoun]就在这种近乎完美的环境中生活成长。</Orassan_GaiaChild.baseDescription>
   <!-- EN: Gaia child -->
   <Orassan_GaiaChild.title>盖亚儿童</Orassan_GaiaChild.title>
   <!-- EN: Gaia -->
   <Orassan_GaiaChild.titleShort>盖亚儿童</Orassan_GaiaChild.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是一个经过了正向基因工程修改的孩子。\n(Core SK) -->
-  <Orassan_GeneChild.backstory.baseDesc>TODO</Orassan_GeneChild.backstory.baseDesc>
+  <Orassan_GeneChild.backstory.baseDesc>[PAWN_nameDef]是一个经过了正向基因工程修改的孩子。</Orassan_GeneChild.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was genetically engineered to be a perfect child. -->
   <Orassan_GeneChild.baseDescription>[PAWN_nameDef]是一个经过了正向基因工程修改的孩子。</Orassan_GeneChild.baseDescription>
   <!-- EN: Designer baby -->
   <Orassan_GeneChild.title>基因调制婴儿</Orassan_GeneChild.title>
   <!-- EN: Db -->
   <Orassan_GeneChild.titleShort>Db</Orassan_GeneChild.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是经过基因修改工程产生的超级战士。\n(Core SK) -->
-  <Orassan_GeneWarrior.backstory.baseDesc>TODO</Orassan_GeneWarrior.backstory.baseDesc>
+  <Orassan_GeneWarrior.backstory.baseDesc>[PAWN_nameDef]是经过基因修改工程产生的超级战士。</Orassan_GeneWarrior.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] is a genetically engineered supersoldier for the Orassan Empire. -->
   <Orassan_GeneWarrior.baseDescription>[PAWN_nameDef]是经过基因修改工程产生的超级战士。</Orassan_GeneWarrior.baseDescription>
   <!-- EN: Gene warrior -->
   <Orassan_GeneWarrior.title>改造战士</Orassan_GeneWarrior.title>
   <!-- EN: Warrior -->
   <Orassan_GeneWarrior.titleShort>勇士</Orassan_GeneWarrior.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]来自一颗高重力星球。也就是说，[PAWN_pronoun]会比普通人更加强壮。\n(Core SK) -->
-  <Orassan_Gravity.backstory.baseDesc>TODO</Orassan_Gravity.backstory.baseDesc>
+  <Orassan_Gravity.backstory.baseDesc>[PAWN_nameDef]来自一颗高重力星球。也就是说，[PAWN_pronoun]会比普通人更加强壮。</Orassan_Gravity.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was from a high-gravity planet. As such, [PAWN_pronoun] is stronger then most. -->
   <Orassan_Gravity.baseDescription>[PAWN_nameDef]来自一颗高重力星球。也就是说，[PAWN_pronoun]会比普通人更加强壮。</Orassan_Gravity.baseDescription>
   <!-- EN: Colonizer -->
   <Orassan_Gravity.title>殖民者</Orassan_Gravity.title>
   <!-- EN: Colonizer -->
   <Orassan_Gravity.titleShort>殖民者</Orassan_Gravity.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]在奥瑞森帝国的某个大型水培农场设施里工作，这个设施的产出能够养活相当多人口。[PAWN_pronoun]精通机器维护和水培工作，是维护水培工厂正常运转的中坚力量。\n(Core SK) -->
-  <Orassan_Hydro.backstory.baseDesc>TODO</Orassan_Hydro.backstory.baseDesc>
+  <Orassan_Hydro.backstory.baseDesc>[PAWN_nameDef]在奥瑞森帝国的某个大型水培农场设施里工作，这个设施的产出能够养活相当多人口。[PAWN_pronoun]精通机器维护和水培工作，是维护水培工厂正常运转的中坚力量。</Orassan_Hydro.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] worked in a giant hydroponics facility on one of the planets in the Orassan Empire to feed its many citizens. [PAWN_pronoun] was an expert in Plants food and maintaining the machinery that kept the facility operational.\n		 -->
   <Orassan_Hydro.baseDescription>[PAWN_nameDef]在奥瑞森帝国的某个大型水培农场设施里工作，这个设施的产出能够养活相当多人口。[PAWN_pronoun]精通机器维护和水培工作，是维护水培工厂正常运转的中坚力量。</Orassan_Hydro.baseDescription>
   <!-- EN: Hydroponics worker -->
   <Orassan_Hydro.title>水培工人</Orassan_Hydro.title>
   <!-- EN: Grower -->
   <Orassan_Hydro.titleShort>种植工</Orassan_Hydro.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是个恶霸。[PAWN_pronoun]非常喜欢欺凌其他孩子，并且精于躲避追责。\n(Core SK) -->
-  <Orassan_Kyle.backstory.baseDesc>TODO</Orassan_Kyle.backstory.baseDesc>
+  <Orassan_Kyle.backstory.baseDesc>[PAWN_nameDef]是个恶霸。[PAWN_pronoun]非常喜欢欺凌其他孩子，并且精于躲避追责。</Orassan_Kyle.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was a bully. [PAWN_pronoun] enjoyed roughing up the other children, and was very good at avoiding getting caught. -->
   <Orassan_Kyle.baseDescription>[PAWN_nameDef]是个恶霸。[PAWN_pronoun]非常喜欢欺凌其他孩子，并且精于躲避追责。</Orassan_Kyle.baseDescription>
   <!-- EN: Bully -->
   <Orassan_Kyle.title>恶霸</Orassan_Kyle.title>
   <!-- EN: Bully -->
   <Orassan_Kyle.titleShort>恶霸</Orassan_Kyle.titleShort>
-  
+
   <!-- EN: 虽然雇佣兵在奥瑞森帝国里面不怎么受人欢迎，但是如果酬劳合适的话，仍然有很多人愿意为了这份报酬做任何工作。\n(Core SK) -->
-  <Orassan_Mercenary.backstory.baseDesc>TODO</Orassan_Mercenary.backstory.baseDesc>
+  <Orassan_Mercenary.backstory.baseDesc>虽然雇佣兵在奥瑞森帝国里面不怎么受人欢迎，但是如果酬劳合适的话，仍然有很多人愿意为了这份报酬做任何工作。</Orassan_Mercenary.backstory.baseDesc>
   <!-- EN: While not a popular profession in the Orassan Empire, there are still those willing to do any job if the pay is right. -->
   <Orassan_Mercenary.baseDescription>虽然雇佣兵在奥瑞森帝国里面不怎么受人欢迎，但是如果酬劳合适的话，仍然有很多人愿意为了这份报酬做任何工作。</Orassan_Mercenary.baseDescription>
   <!-- EN: Mercenary -->
   <Orassan_Mercenary.title>雇佣兵</Orassan_Mercenary.title>
   <!-- EN: Mercenary -->
   <Orassan_Mercenary.titleShort>雇佣兵</Orassan_Mercenary.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]总是痴迷于奥瑞森星海军队的各种知识。[PAWN_pronoun]常常流连于军事基地观看各种武器测试\n(Core SK) -->
-  <Orassan_MilitaryC.backstory.baseDesc>TODO</Orassan_MilitaryC.backstory.baseDesc>
+  <Orassan_MilitaryC.backstory.baseDesc>[PAWN_nameDef]总是痴迷于奥瑞森星海军队的各种知识。[PAWN_pronoun]常常流连于军事基地观看各种武器测试。</Orassan_MilitaryC.backstory.baseDesc>
   <!-- EN: The Orassan Navy always facinated [PAWN_nameDef]. [PAWN_pronoun] often visited military bases and watched weapon tests. -->
-  <Orassan_MilitaryC.baseDescription>[PAWN_nameDef]总是痴迷于奥瑞森星海军队的各种知识。[PAWN_pronoun]常常流连于军事基地观看各种武器测试</Orassan_MilitaryC.baseDescription>
+  <Orassan_MilitaryC.baseDescription>[PAWN_nameDef]总是痴迷于奥瑞森星海军队的各种知识。[PAWN_pronoun]常常流连于军事基地观看各种武器测试。</Orassan_MilitaryC.baseDescription>
   <!-- EN: Military child -->
   <Orassan_MilitaryC.title>军队儿童</Orassan_MilitaryC.title>
   <!-- EN: Militarist -->
   <Orassan_MilitaryC.titleShort>军国主义者</Orassan_MilitaryC.titleShort>
-  
+
   <!-- EN: 资源对于扩张至关重要，[PAWN_nameDef]是负责收集资源的众多工作人员之一。 [PAWN_pronoun]会前往产地，添置设备，并尽一切必要的努力充分利用这些东西。\n(Core SK) -->
-  <Orassan_Miner.backstory.baseDesc>TODO</Orassan_Miner.backstory.baseDesc>
+  <Orassan_Miner.backstory.baseDesc>资源对于扩张至关重要，[PAWN_nameDef]是负责收集资源的众多工作人员之一。 [PAWN_pronoun]会前往产地，添置设备，并尽一切必要的努力充分利用这些东西。</Orassan_Miner.backstory.baseDesc>
   <!-- EN: Resources are critical for expansion, and [PAWN_nameDef] was one of many in charge of gathering them. [PAWN_pronoun] would go to deposits, set up equiptment, and do what was nessessary to get the most out of them. -->
   <Orassan_Miner.baseDescription>资源对于扩张至关重要，[PAWN_nameDef]是负责收集资源的众多工作人员之一。 [PAWN_pronoun]会前往产地，添置设备，并尽一切必要的努力充分利用这些东西。</Orassan_Miner.baseDescription>
   <!-- EN: Resource-procurement specialist -->
   <Orassan_Miner.title>资源采购专员</Orassan_Miner.title>
   <!-- EN: RPS -->
   <Orassan_Miner.titleShort>采购员</Orassan_Miner.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]出生在一颗平均温度较高的星球上，小时候就经常被人发现在泥里挖掘，在花园里挖掘，在各种地方挖掘。当人们终于受不了，要求[PAWN_pronoun]修复这些坑洞的过程中，[PAWN_pronoun]也学到了一些有关重新覆土复种的知识。\n(Core SK) -->
-  <Orassan_Mud.backstory.baseDesc>TODO</Orassan_Mud.backstory.baseDesc>
+  <Orassan_Mud.backstory.baseDesc>[PAWN_nameDef]出生在一颗平均温度较高的星球上，小时候就经常被人发现在泥里挖掘，在花园里挖掘，在各种地方挖掘。当人们终于受不了，要求[PAWN_pronoun]修复这些坑洞的过程中，[PAWN_pronoun]也学到了一些有关重新覆土复种的知识。</Orassan_Mud.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was born on a more temperate planet and could frequently be found digging in the mud as a child, excavating potholes in the garden. [PAWN_pronoun] also learned a little about re-planting, when [PAWN_pronoun] was forced to fix what was dug.\n		 -->
   <Orassan_Mud.baseDescription>[PAWN_nameDef]出生在一颗平均温度较高的星球上，小时候就经常被人发现在泥里挖掘，在花园里挖掘，在各种地方挖掘。当人们终于受不了，要求[PAWN_pronoun]修复这些坑洞的过程中，[PAWN_pronoun]也学到了一些有关重新覆土复种的知识。</Orassan_Mud.baseDescription>
   <!-- EN: Digger -->
   <Orassan_Mud.title>挖掘者</Orassan_Mud.title>
   <!-- EN: Digger -->
   <Orassan_Mud.titleShort>挖掘者</Orassan_Mud.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]喜欢制作音乐，[PAWN_pronoun]在音乐事业上非常成功。\n(Core SK) -->
-  <Orassan_Muscisian.backstory.baseDesc>TODO</Orassan_Muscisian.backstory.baseDesc>
+  <Orassan_Muscisian.backstory.baseDesc>[PAWN_nameDef]喜欢制作音乐，[PAWN_pronoun]在音乐事业上非常成功。</Orassan_Muscisian.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] enjoyed making music, so much so [PAWN_pronoun] made a fairly sucessful career out of it. -->
   <Orassan_Muscisian.baseDescription>[PAWN_nameDef]喜欢制作音乐，[PAWN_pronoun]在音乐事业上非常成功。</Orassan_Muscisian.baseDescription>
   <!-- EN: Musician -->
   <Orassan_Muscisian.title>音乐家</Orassan_Muscisian.title>
   <!-- EN: Musician -->
   <Orassan_Muscisian.titleShort>音乐家</Orassan_Muscisian.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是奥瑞森海军舰队的一名厨师。\n(Core SK) -->
-  <Orassan_NavyCook.backstory.baseDesc>TODO</Orassan_NavyCook.backstory.baseDesc>
+  <Orassan_NavyCook.backstory.baseDesc>[PAWN_nameDef]是奥瑞森海军舰队的一名厨师。</Orassan_NavyCook.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] serves as a chef in the Orassan navy.\n		 -->
   <Orassan_NavyCook.baseDescription>[PAWN_nameDef]是奥瑞森海军舰队的一名厨师。</Orassan_NavyCook.baseDescription>
   <!-- EN: Navy cook -->
   <Orassan_NavyCook.title>海军厨师</Orassan_NavyCook.title>
   <!-- EN: Cook -->
   <Orassan_NavyCook.titleShort>厨师</Orassan_NavyCook.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是一位协助医生救治病人的护士。\n(Core SK) -->
-  <Orassan_Nurse.backstory.baseDesc>TODO</Orassan_Nurse.backstory.baseDesc>
+  <Orassan_Nurse.backstory.baseDesc>[PAWN_nameDef]是一位协助医生救治病人的护士。</Orassan_Nurse.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] assists doctors in tending to various patients.\n		 -->
   <Orassan_Nurse.baseDescription>[PAWN_nameDef]是一位协助医生救治病人的护士。</Orassan_Nurse.baseDescription>
   <!-- EN: Nurse -->
   <Orassan_Nurse.title>护士</Orassan_Nurse.title>
   <!-- EN: Nurse -->
   <Orassan_Nurse.titleShort>护士</Orassan_Nurse.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是一个带领分队作战的军官。\n(Core SK) -->
-  <Orassan_Officer.backstory.baseDesc>TODO</Orassan_Officer.backstory.baseDesc>
+  <Orassan_Officer.backstory.baseDesc>[PAWN_nameDef]是一个带领分队作战的军官。</Orassan_Officer.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] leads squads of soldiers in combat.\n		 -->
   <Orassan_Officer.baseDescription>[PAWN_nameDef]是一个带领分队作战的军官。</Orassan_Officer.baseDescription>
   <!-- EN: Officer -->
   <Orassan_Officer.title>军官</Orassan_Officer.title>
   <!-- EN: Officer -->
   <Orassan_Officer.titleShort>军官</Orassan_Officer.titleShort>
-  
+
   <!-- EN: 表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式表达自己。 [PAWN_pronoun]以散布恐怖的方式来聚集物质财富。\n(Core SK) -->
-  <Orassan_Pirate.backstory.baseDesc>TODO</Orassan_Pirate.backstory.baseDesc>
+  <Orassan_Pirate.backstory.baseDesc>表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式表达自己。 [PAWN_pronoun]以散布恐怖的方式来聚集物质财富。</Orassan_Pirate.backstory.baseDesc>
   <!-- EN: There are many ways to express oneself, but [PAWN_nameDef] did so in a dangerous and illegal way. [PAWN_pronoun] spread terror in pursuit of material wealth. -->
   <Orassan_Pirate.baseDescription>表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式表达自己。 [PAWN_pronoun]以散布恐怖的方式来聚集物质财富。</Orassan_Pirate.baseDescription>
   <!-- EN: Pirate -->
   <Orassan_Pirate.title>海盗</Orassan_Pirate.title>
   <!-- EN: Pirate -->
   <Orassan_Pirate.titleShort>海盗</Orassan_Pirate.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是一位非常有名的全息成人明星。\n(Core SK) -->
-  <Orassan_Pornstar.backstory.baseDesc>TODO</Orassan_Pornstar.backstory.baseDesc>
+  <Orassan_Pornstar.backstory.baseDesc>[PAWN_nameDef]是一位非常有名的全息成人明星。</Orassan_Pornstar.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] is well known for their performance in adult Holovids. -->
   <Orassan_Pornstar.baseDescription>[PAWN_nameDef]是一位非常有名的全息成人明星。</Orassan_Pornstar.baseDescription>
   <!-- EN: Holovid star -->
   <Orassan_Pornstar.title>全息明星</Orassan_Pornstar.title>
   <!-- EN: Holo-star -->
   <Orassan_Pornstar.titleShort>全息明星</Orassan_Pornstar.titleShort>
-  
+
   <!-- EN: 与奥瑞森的个人主义倾向不同，一个人在不越界的情况下表达自己的能力是有限度的。[PAWN_nameDef]是为数不多的处理专门事件的人选之一，这些事件需要比一般警察部队更温和的方法应对，在不被抵触的情况下达到制约目的。\n(Core SK) -->
-  <Orassan_PsiPolice.backstory.baseDesc>TODO</Orassan_PsiPolice.backstory.baseDesc>
+  <Orassan_PsiPolice.backstory.baseDesc>与奥瑞森的个人主义倾向不同，一个人在不越界的情况下表达自己的能力是有限度的。[PAWN_nameDef]是为数不多的处理专门事件的人选之一，这些事件需要比一般警察部队更温和的方法应对，在不被抵触的情况下达到制约目的。</Orassan_PsiPolice.backstory.baseDesc>
   <!-- EN: Dispite the Orassan's individualistic tendancies, there are limits to just how much one can express themselves without crossing the line. [PAWN_nameDef] was one of a specialised few who took care of incidents that required a more gentle approach then the general police force, to restrain others without inhibiting individuality. -->
   <Orassan_PsiPolice.baseDescription>与奥瑞森的个人主义倾向不同，一个人在不越界的情况下表达自己的能力是有限度的。[PAWN_nameDef]是为数不多的处理专门事件的人选之一，这些事件需要比一般警察部队更温和的方法应对，在不被抵触的情况下达到制约目的。</Orassan_PsiPolice.baseDescription>
   <!-- EN: Specialist -->
   <Orassan_PsiPolice.title>问题专员</Orassan_PsiPolice.title>
   <!-- EN: Specialist -->
   <Orassan_PsiPolice.titleShort>问题专员</Orassan_PsiPolice.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是为数不多的被发现有灵能天赋的奥瑞森人。在帝国知晓此情况后，[PAWN_pronoun]被培养成为了一名灵能战士。\n(Core SK) -->
-  <Orassan_PsiWarrior.backstory.baseDesc>TODO</Orassan_PsiWarrior.backstory.baseDesc>
+  <Orassan_PsiWarrior.backstory.baseDesc>[PAWN_nameDef]是为数不多的被发现有灵能天赋的奥瑞森人。在帝国知晓此情况后，[PAWN_pronoun]被培养成为了一名灵能战士。</Orassan_PsiWarrior.backstory.baseDesc>
   <!-- EN: Few orassans display latent psionic abilities. [PAWN_nameDef] is one of them. Once the empire discovered, [PAWN_pronoun] was recuited to be a psionic warrior. -->
   <Orassan_PsiWarrior.baseDescription>[PAWN_nameDef]是为数不多的被发现有灵能天赋的奥瑞森人。在帝国知晓此情况后，[PAWN_pronoun]被培养成为了一名灵能战士。</Orassan_PsiWarrior.baseDescription>
   <!-- EN: Psionic warrior -->
   <Orassan_PsiWarrior.title>灵能战士</Orassan_PsiWarrior.title>
   <!-- EN: Psionic -->
   <Orassan_PsiWarrior.titleShort>灵能者</Orassan_PsiWarrior.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]曾经是个恶霸，但随后[PAWN_pronoun]与反击的人们成为朋友。[PAWN_objective]的这段经历留下了深深的疤痕，现在[PAWN_pronoun]更愿意用和平的方式解决问题。\n(Core SK) -->
-  <Orassan_Rbully.backstory.baseDesc>TODO</Orassan_Rbully.backstory.baseDesc>
+  <Orassan_Rbully.backstory.baseDesc>[PAWN_nameDef]曾经是个恶霸，但随后[PAWN_pronoun]与反击的人们成为朋友。[PAWN_objective]的这段经历留下了深深的疤痕，现在[PAWN_pronoun]更愿意用和平的方式解决问题。</Orassan_Rbully.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] used to be a bully, but then [PAWN_pronoun] messed with someone who fought back. The experience left [PAWN_objective] scarred, and [PAWN_pronoun] prefers to avoid fighting at all. -->
   <Orassan_Rbully.baseDescription>[PAWN_nameDef]曾经是个恶霸，但随后[PAWN_pronoun]与反击的人们成为朋友。[PAWN_objective]的这段经历留下了深深的疤痕，现在[PAWN_pronoun]更愿意用和平的方式解决问题。</Orassan_Rbully.baseDescription>
   <!-- EN: Repentant bully -->
   <Orassan_Rbully.title>回头浪子</Orassan_Rbully.title>
   <!-- EN: Repentant -->
   <Orassan_Rbully.titleShort>悔过者</Orassan_Rbully.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是奥瑞森帝国的一名研究员。[PAWN_pronoun]在发现未知事物这个事业上奉献了[PAWN_possessive]一生。\n(Core SK) -->
-  <Orassan_Scientist.backstory.baseDesc>TODO</Orassan_Scientist.backstory.baseDesc>
+  <Orassan_Scientist.backstory.baseDesc>[PAWN_nameDef]是奥瑞森帝国的一名研究员。[PAWN_pronoun]在发现未知事物这个事业上奉献了[PAWN_possessive]一生。</Orassan_Scientist.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] is a researcher for the Orassan Empire. [PAWN_pronoun] has dedicated [PAWN_possessive] life to discovering the unknown.\n		 -->
   <Orassan_Scientist.baseDescription>[PAWN_nameDef]是奥瑞森帝国的一名研究员。[PAWN_pronoun]在发现未知事物这个事业上奉献了[PAWN_possessive]一生。</Orassan_Scientist.baseDescription>
   <!-- EN: Scientist -->
   <Orassan_Scientist.title>科学家</Orassan_Scientist.title>
   <!-- EN: Scientist -->
   <Orassan_Scientist.titleShort>科学家</Orassan_Scientist.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]日复一日地努力工作，研究和修理各个种族各种碰巧在[PAWN_possessive]太空港进行维修的机器。因为从来不问物品来源，[PAWN_pronoun]都能够修复运到[PAWN_possessive]商店中的任何物品而声名大噪。\n(Core SK) -->
-  <Orassan_SEngineer.backstory.baseDesc>TODO</Orassan_SEngineer.backstory.baseDesc>
+  <Orassan_SEngineer.backstory.baseDesc>[PAWN_nameDef]日复一日地努力工作，研究和修理各个种族各种碰巧在[PAWN_possessive]太空港进行维修的机器。因为从来不问物品来源，[PAWN_pronoun]都能够修复运到[PAWN_possessive]商店中的任何物品而声名大噪。</Orassan_SEngineer.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] worked hard, day in, and day out, studying and fixing machines from all sorts of races that happened to need repairs at [PAWN_possessive] spaceport. [PAWN_pronoun] earned a reputation for being able to fix anything that was carried into [PAWN_possessive] shop, no matter it's origin. -->
   <Orassan_SEngineer.baseDescription>[PAWN_nameDef]日复一日地努力工作，研究和修理各个种族各种碰巧在[PAWN_possessive]太空港进行维修的机器。因为从来不问物品来源，[PAWN_pronoun]都能够修复运到[PAWN_possessive]商店中的任何物品而声名大噪。</Orassan_SEngineer.baseDescription>
   <!-- EN: Spaceport engineer -->
   <Orassan_SEngineer.title>星港工程师</Orassan_SEngineer.title>
   <!-- EN: Engineer -->
   <Orassan_SEngineer.titleShort>工程师</Orassan_SEngineer.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]服役于奥瑞森军队。在参与了一次失败的入侵行动后，[PAWN_pronoun]是那支小队的唯一幸存者。\n(Core SK) -->
-  <Orassan_Shellshocked.backstory.baseDesc>TODO</Orassan_Shellshocked.backstory.baseDesc>
+  <Orassan_Shellshocked.backstory.baseDesc>[PAWN_nameDef]服役于奥瑞森军队。在参与了一次失败的入侵行动后，[PAWN_pronoun]是那支小队的唯一幸存者。</Orassan_Shellshocked.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] served in the Orassan army. After serving on an invasion force against a rival army, [PAWN_pronoun] was the only survivor in their squad in a failed invasion attempt.\n		 -->
   <Orassan_Shellshocked.baseDescription>[PAWN_nameDef]服役于奥瑞森军队。在参与了一次失败的入侵行动后，[PAWN_pronoun]是那支小队的唯一幸存者。</Orassan_Shellshocked.baseDescription>
   <!-- EN: Survivor -->
   <Orassan_Shellshocked.title>幸存者</Orassan_Shellshocked.title>
   <!-- EN: Survivor -->
   <Orassan_Shellshocked.titleShort>幸存者</Orassan_Shellshocked.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是一名前线士兵，主要作战模式为前线接触作战。\n(Core SK) -->
-  <Orassan_Slasher.backstory.baseDesc>TODO</Orassan_Slasher.backstory.baseDesc>
+  <Orassan_Slasher.backstory.baseDesc>[PAWN_nameDef]是一名前线士兵，主要作战模式为前线接触作战。</Orassan_Slasher.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] serves as a frontline soldier, typically in close quarters combat. -->
   <Orassan_Slasher.baseDescription>[PAWN_nameDef]是一名前线士兵，主要作战模式为前线接触作战。</Orassan_Slasher.baseDescription>
   <!-- EN: Frontline soldier -->
   <Orassan_Slasher.title>前线士兵</Orassan_Slasher.title>
   <!-- EN: Frontliner -->
   <Orassan_Slasher.titleShort>前线士兵</Orassan_Slasher.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是奥瑞森帝国的一名士兵。\n(Core SK) -->
-  <Orassan_Soldier.backstory.baseDesc>TODO</Orassan_Soldier.backstory.baseDesc>
+  <Orassan_Soldier.backstory.baseDesc>[PAWN_nameDef]是奥瑞森帝国的一名士兵。</Orassan_Soldier.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] is a soldier for the Orassan Empire.\n		 -->
   <Orassan_Soldier.baseDescription>[PAWN_nameDef]是奥瑞森帝国的一名士兵。</Orassan_Soldier.baseDescription>
   <!-- EN: Soldier -->
   <Orassan_Soldier.title>士兵</Orassan_Soldier.title>
   <!-- EN: Soldier -->
   <Orassan_Soldier.titleShort>士兵</Orassan_Soldier.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]出生在一艘宇宙飞船上，并且他童年的大部分时间也是在数艘飞船上度过的。[PAWN_pronoun]对于[PAWN_possessive]邻居非常友善，而且还精于维护[PAWN_pronoun]所在的飞船。\n(Core SK) -->
-  <Orassan_SpacerChild.backstory.baseDesc>TODO</Orassan_SpacerChild.backstory.baseDesc>
+  <Orassan_SpacerChild.backstory.baseDesc>[PAWN_nameDef]出生在一艘宇宙飞船上，并且他童年的大部分时间也是在数艘飞船上度过的。[PAWN_pronoun]对于[PAWN_possessive]邻居非常友善，而且还精于维护[PAWN_pronoun]所在的飞船。</Orassan_SpacerChild.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was born on a space ship and spent most of their childhood on one ship or another. The close quarters meant that [PAWN_pronoun] had to be friendly with [PAWN_possessive] neighbors and had to know how to maintain the ship [PAWN_pronoun] was on. -->
   <Orassan_SpacerChild.baseDescription>[PAWN_nameDef]出生在一艘宇宙飞船上，并且他童年的大部分时间也是在数艘飞船上度过的。[PAWN_pronoun]对于[PAWN_possessive]邻居非常友善，而且还精于维护[PAWN_pronoun]所在的飞船。</Orassan_SpacerChild.baseDescription>
   <!-- EN: Spacer -->
   <Orassan_SpacerChild.title>宇航员</Orassan_SpacerChild.title>
   <!-- EN: Spacer -->
   <Orassan_SpacerChild.titleShort>宇航员</Orassan_SpacerChild.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]总是痴迷于星空，[PAWN_pronoun]深切的明白“书中自有黄金屋”这句话，通过提高[PAWN_possessive]知识水平，总有一天能够到达[PAWN_objective]。\n(Core SK) -->
-  <Orassan_Stargazer.backstory.baseDesc>TODO</Orassan_Stargazer.backstory.baseDesc>
+  <Orassan_Stargazer.backstory.baseDesc>[PAWN_nameDef]总是痴迷于星空，[PAWN_pronoun]深切的明白“书中自有黄金屋”这句话，通过提高[PAWN_possessive]知识水平，总有一天能够到达[PAWN_objective]。</Orassan_Stargazer.backstory.baseDesc>
   <!-- EN: The stars always facinated [PAWN_nameDef], and knowing that one day [PAWN_pronoun] could go out amongst them drove [PAWN_objective] through [PAWN_possessive] education at a very directed pace. -->
   <Orassan_Stargazer.baseDescription>[PAWN_nameDef]总是痴迷于星空，[PAWN_pronoun]深切的明白“书中自有黄金屋”这句话，通过提高[PAWN_possessive]知识水平，总有一天能够到达[PAWN_objective]。</Orassan_Stargazer.baseDescription>
   <!-- EN: Stargazer -->
   <Orassan_Stargazer.title>观星者</Orassan_Stargazer.title>
   <!-- EN: Stargazer -->
   <Orassan_Stargazer.titleShort>观星者</Orassan_Stargazer.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]在一家夜总会工作，为顾客跳舞。保镖人员也会确保顾客的双手不会乱放。[PAWN_pronoun]非常善于赚取小费。\n(Core SK) -->
-  <Orassan_Stripper.backstory.baseDesc>TODO</Orassan_Stripper.backstory.baseDesc>
+  <Orassan_Stripper.backstory.baseDesc>[PAWN_nameDef]在一家夜总会工作，为顾客跳舞。保镖人员也会确保顾客的双手不会乱放。[PAWN_pronoun]非常善于赚取小费。</Orassan_Stripper.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] worked at a nightclub and gave dances for patrons. Bouncers made sure that the patrons kept their hands to themselves. [PAWN_pronoun] was very proficient at getting tips. -->
   <Orassan_Stripper.baseDescription>[PAWN_nameDef]在一家夜总会工作，为顾客跳舞。保镖人员也会确保顾客的双手不会乱放。[PAWN_pronoun]非常善于赚取小费。</Orassan_Stripper.baseDescription>
   <!-- EN: Exotic dancer -->
   <Orassan_Stripper.title>异域舞者</Orassan_Stripper.title>
   <!-- EN: Dancer -->
   <Orassan_Stripper.titleShort>舞者</Orassan_Stripper.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]是一位造型师，他会和客户聊天，小心地修剪头发，还会在两耳之间系上蝴蝶结，让坐在[PAWN_possessive]椅子上的人看起来更漂亮。\n(Core SK) -->
-  <Orassan_Stylist.backstory.baseDesc>TODO</Orassan_Stylist.backstory.baseDesc>
+  <Orassan_Stylist.backstory.baseDesc>[PAWN_nameDef]是一位造型师，他会和客户聊天，小心地修剪头发，还会在两耳之间系上蝴蝶结，让坐在[PAWN_possessive]椅子上的人看起来更漂亮。</Orassan_Stylist.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] was a stylist, chatting with clients, carefully trimming hair, and putting bows between ears to make anyone who sat in [PAWN_possessive] chair look nicer. -->
   <Orassan_Stylist.baseDescription>[PAWN_nameDef]是一位造型师，他会和客户聊天，小心地修剪头发，还会在两耳之间系上蝴蝶结，让坐在[PAWN_possessive]椅子上的人看起来更漂亮。</Orassan_Stylist.baseDescription>
   <!-- EN: Stylist -->
   <Orassan_Stylist.title>造型师</Orassan_Stylist.title>
   <!-- EN: Stylist -->
   <Orassan_Stylist.titleShort>造型师</Orassan_Stylist.titleShort>
-  
+
   <!-- EN: 表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式解释自己。 [PAWN_pronoun]在[PAWN_nameDef]的理念中坚定了恐怖主义道路。\n(Core SK) -->
-  <Orassan_Terrorist.backstory.baseDesc>TODO</Orassan_Terrorist.backstory.baseDesc>
+  <Orassan_Terrorist.backstory.baseDesc>表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式解释自己。 [PAWN_pronoun]在[PAWN_nameDef]的理念中坚定了恐怖主义道路。</Orassan_Terrorist.backstory.baseDesc>
   <!-- EN: There are many ways to express oneself, but [PAWN_nameDef] did so in a dangerous and illegal way. [PAWN_pronoun] spread terror in the [PAWN_nameDef] of their ideaology. -->
   <Orassan_Terrorist.baseDescription>表达自己的方式有很多种，但是[PAWN_nameDef]以危险和非法的方式解释自己。 [PAWN_pronoun]在[PAWN_nameDef]的理念中坚定了恐怖主义道路。</Orassan_Terrorist.baseDescription>
   <!-- EN: Terrorist -->
   <Orassan_Terrorist.title>恐怖分子</Orassan_Terrorist.title>
   <!-- EN: Terrorist -->
   <Orassan_Terrorist.titleShort>恐怖分子</Orassan_Terrorist.titleShort>
-  
+
   <!-- EN: [PAWN_nameDef]在奥瑞森帝国的许多异种动物园中工作过，并且非常喜欢动物。\n(Core SK) -->
-  <Orassan_XenoZoo.backstory.baseDesc>TODO</Orassan_XenoZoo.backstory.baseDesc>
+  <Orassan_XenoZoo.backstory.baseDesc>[PAWN_nameDef]在奥瑞森帝国的许多异种动物园中工作过，并且非常喜欢动物。</Orassan_XenoZoo.backstory.baseDesc>
   <!-- EN: [PAWN_nameDef] works at one of the many Xeno Zoos in the Orassan Empire and is very fond of animals.\n		 -->
   <Orassan_XenoZoo.baseDescription>[PAWN_nameDef]在奥瑞森帝国的许多异种动物园中工作过，并且非常喜欢动物。</Orassan_XenoZoo.baseDescription>
   <!-- EN: Xeno zookeeper -->
   <Orassan_XenoZoo.title>异种看护</Orassan_XenoZoo.title>
   <!-- EN: Zookeeper -->
   <Orassan_XenoZoo.titleShort>异种看护</Orassan_XenoZoo.titleShort>
-  
+
 </LanguageData>
