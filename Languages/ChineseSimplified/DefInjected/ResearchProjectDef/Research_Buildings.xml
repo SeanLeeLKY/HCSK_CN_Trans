@@ -291,6 +291,11 @@
   <!-- EN: Allows you to build thick stone roofs which can block drop pods. -->
   <Roof_D2.description>解锁建造厚岩顶的能力，能够阻挡空降仓。</Roof_D2.description>
 
+  <!-- EN: bunker roof -->
+  <Roof_D3.label>堡垒屋顶</Roof_D3.label>
+  <!-- EN: Allows you to build bunker roof which helps keep out the drop pods, mortar rounds, reduces the likelihood of roof collapse during normal earthquakes. -->
+  <Roof_D3.description>解锁建造堡垒屋顶的技术，能够阻挡空降仓、炮弹，并且降低地震时屋顶垮塌的几率。</Roof_D3.description>
+
   <!-- EN: Renewable energy III -->
   <SolarPanels.label>可再生能源 III</SolarPanels.label>
   <!-- EN: description\n(Core SK) -->
