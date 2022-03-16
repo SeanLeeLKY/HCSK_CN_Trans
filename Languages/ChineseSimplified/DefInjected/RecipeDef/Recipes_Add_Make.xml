@@ -229,9 +229,9 @@
 
   <!-- Recipe Users: TablePrimitiveProsthetic, TableBasicProsthetic -->
 
-  <Make_ClothTail.label>制造 布尾巴</Make_ClothTail.label>
-  <Make_ClothTail.description>制造 布尾巴。</Make_ClothTail.description>
-  <Make_ClothTail.jobString>正在制造 布尾巴。</Make_ClothTail.jobString>
+  <Make_ClothTail.label>制造 织物假尾</Make_ClothTail.label>
+  <Make_ClothTail.description>制造 织物假尾。</Make_ClothTail.description>
+  <Make_ClothTail.jobString>正在制造 织物假尾。</Make_ClothTail.jobString>
 
 
   <!-- Recipe Users: TableBionics -->

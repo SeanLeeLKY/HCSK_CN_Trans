@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: Expand no thick roof area -->
-  <DesignatorAreaNoThickRoof>扩展非厚岩顶区域</DesignatorAreaNoThickRoof>
+  <DesignatorAreaNoThickRoof>移除厚岩顶区域</DesignatorAreaNoThickRoof>
   <!-- EN: Colonists will remove roofs in this area (including overhead mountain). -->
   <DesignatorAreaNoThickRoofDesc>殖民者将会拆除这个区域的屋顶（包括山脉厚岩顶）。</DesignatorAreaNoThickRoofDesc>
 

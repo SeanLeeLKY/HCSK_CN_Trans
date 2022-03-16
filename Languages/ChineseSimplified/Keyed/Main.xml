@@ -1580,11 +1580,11 @@
 	<!-- EN: Droppods -->
 	<Droppods>空降仓</Droppods>
 	<!-- EN:  hears the loud noise of incoming drop pods.\n\nYou should better take  -->
-	<hear>听见了临近空降仓发出的巨大噪音。\n\n你最好</hear>
+	<hear>听见了临近空降仓发出的巨大噪音。\n\n你最好赶紧注意</hear>
 	<!-- EN:  is just arriving near the strange building when  -->
 	<strange_building>正在到达那个奇怪的建筑物附近，同时</strange_building>
 	<!-- EN:  to safety... and fast!\n -->
-	<to_safety>安全...还有，赶快！\n</to_safety>
+	<to_safety>安全...越快越好！\n</to_safety>
 	<Artifactsecured>设施安全协议已解除</Artifactsecured>
 	<!-- EN:    You have secured the strange building.\n\nYou are now sure of one thing: this is a mechanoid device.\nAs usual when dealing with mechanoid technology, be really careful. You should better be prepared for anything...\n -->
 	<secure_artifact>你已经成功的解除了这个奇怪建筑物的安全协议。\n\n你现在可以确定一件事：这个东西是一种机械族装置。\n通常情况下，在处理和机械族有关的任何东西的时候，你都要做好一切应对手段，因为你有可能面对各种突发情况...\n</secure_artifact>
