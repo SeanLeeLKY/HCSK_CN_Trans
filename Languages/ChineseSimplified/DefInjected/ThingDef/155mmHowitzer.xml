@@ -1,24 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: 155mm howitzer shell (EMP) -->
   <Ammo_155mmHowitzerShell_EMP.label>155mm 炮弹（EMP）</Ammo_155mmHowitzerShell_EMP.label>
   <!-- EN: 155 mm (6.1") is standard artillery calibre. -->
   <Ammo_155mmHowitzerShell_EMP.description>155毫米（6.1英寸）是一种常见的北约标准火炮口径。</Ammo_155mmHowitzerShell_EMP.description>
-  <!-- EN: 155毫米（6.1英寸）是一种常见的北约标准火炮口径。\n(Core SK) -->
   <Ammo_155mmHowitzerShell_EMP.oldDescription>155毫米（6.1英寸）是一种常见的北约标准火炮口径。</Ammo_155mmHowitzerShell_EMP.oldDescription>
-
+  
   <!-- EN: 155mm howitzer shell (HE) -->
   <Ammo_155mmHowitzerShell_HE.label>155mm 炮弹（高爆弹）</Ammo_155mmHowitzerShell_HE.label>
   <!-- EN: 155 mm (6.1") is a standard artillery calibre. -->
   <Ammo_155mmHowitzerShell_HE.description>155毫米（6.1英寸）是一种常见的北约标准火炮口径。</Ammo_155mmHowitzerShell_HE.description>
-  <!-- EN: 155毫米（6.1英寸）是一种常见的北约标准火炮口径。\n(Core SK) -->
   <Ammo_155mmHowitzerShell_HE.oldDescription>155毫米（6.1英寸）是一种常见的北约标准火炮口径。</Ammo_155mmHowitzerShell_HE.oldDescription>
-
+  
   <!-- EN: 155mm howitzer shell (EMP) -->
   <Bullet_155mmHowitzerShell_EMP.label>155mm 炮弹（EMP）</Bullet_155mmHowitzerShell_EMP.label>
-
+  
   <!-- EN: 155mm howitzer shell (HE) -->
   <Bullet_155mmHowitzerShell_HE.label>155mm 炮弹（高爆弹）</Bullet_155mmHowitzerShell_HE.label>
-
+  
 </LanguageData>

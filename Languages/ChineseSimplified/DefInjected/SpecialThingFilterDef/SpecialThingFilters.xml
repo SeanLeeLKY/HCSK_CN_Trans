@@ -1,38 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: allow archotech apparel -->
   <AllowApparelArchotech.label>允许超凡时代服装</AllowApparelArchotech.label>
-
+  
   <!-- EN: allow industrial apparel -->
   <AllowApparelIndustrial.label>允许工业时代服装</AllowApparelIndustrial.label>
-
+  
   <!-- EN: allow medieval apparel -->
   <AllowApparelMedieval.label>允许中古世纪服装</AllowApparelMedieval.label>
-
+  
   <!-- EN: allow neolithic apparel -->
   <AllowApparelNeolithic.label>允许原始时代服装</AllowApparelNeolithic.label>
-
+  
   <!-- EN: allow spacer apparel -->
   <AllowApparelSpacer.label>允许宇航时代服装</AllowApparelSpacer.label>
-
+  
   <!-- EN: allow ultra apparel -->
   <AllowApparelUltra.label>允许极致时代服装</AllowApparelUltra.label>
-
+  
   <!-- EN: allow metallic -->
   <AllowMetallicStuffApparel.label>允许金属材质</AllowMetallicStuffApparel.label>
-
+  
   <!-- EN: allow non-metallic -->
   <AllowNonMetallicStuffApparel.label>允许非金属材质</AllowNonMetallicStuffApparel.label>
-
+  
   <!-- EN: human meat -->
   <HumanlikeMeat.label>人肉</HumanlikeMeat.label>
   <!-- EN: Allow humanlike meat -->
   <HumanlikeMeat.description>允许人肉</HumanlikeMeat.description>
-
+  
   <!-- EN: insect meat -->
   <InsectMeat.label>虫肉</InsectMeat.label>
   <!-- EN: Allow insect meat -->
   <InsectMeat.description>允许虫肉</InsectMeat.description>
-
+  
 </LanguageData>

@@ -38,7 +38,7 @@
   
   <!-- EN: cook bulk fruit yogurts -->
   <MakeFruitYogurt_Bulk.label>烹制 水果酸奶（批量）</MakeFruitYogurt_Bulk.label>
-  <!-- EN: Cook yogurts from milk or soy milk and some fruits. Produces 10. -->
+  <!-- EN: Cook yogurts from milk or soy milk and some fruits. Produces 10. Much of the ingredients are wasted in order to create the best eating experience. -->
   <MakeFruitYogurt_Bulk.description>用奶或者代奶再加上一些水果来制作水果酸奶。 \n\n产出：10。</MakeFruitYogurt_Bulk.description>
   <!-- EN: Cookig yogurts. -->
   <MakeFruitYogurt_Bulk.jobString>正在烹制 水果酸奶。</MakeFruitYogurt_Bulk.jobString>

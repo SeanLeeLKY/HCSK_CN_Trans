@@ -1,129 +1,134 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: bowl lamp -->
   <BowlLamp.label>碗形灯</BowlLamp.label>
   <!-- EN: A bright and warm little fire, perfectly contained in a bowl. People need light to move and work at full speed. -->
   <BowlLamp.description>明亮而温暖的小火苗，完美地装在碗里。人员在明亮的环境中才能全速移动和工作。</BowlLamp.description>
-
+  
   <!-- EN: candle -->
   <Candle.label>蜡烛</Candle.label>
   <!-- EN: People need light to move and work at full speed. Can be refueled. Not a good source of heat. -->
   <Candle.description>可以手动添加燃料的一种小型光源，不适合用作热源。人员在明亮的环境中才能全速移动和工作。</Candle.description>
-
+  
+  <!-- EN: ceiling dark lamp -->
+  <CeilingDarkLamp.label>微光吊灯</CeilingDarkLamp.label>
+  <!-- EN: A ceiling lamp that lights an area with dark light. People need light to move and work at full speed. Must be placed under a roof. Requires 30 W. -->
+  <CeilingDarkLamp.description>微光吊灯必须放置于屋顶下，并且能够照亮一片区域。殖民者们需要合适的光亮才能高效工作。电力需求：30W。</CeilingDarkLamp.description>
+  
   <!-- EN: ceiling lamp -->
   <CeilingLamp.label>吊灯</CeilingLamp.label>
   <!-- EN: A ceiling lamp that lights an area. People need light to move and work at full speed. Must be placed under a roof. Requires 80 W. -->
   <CeilingLamp.description>吊灯必须放置于屋顶下，并且能够照亮一片区域。殖民者们需要合适的光亮才能高效工作。电力需求：80W。</CeilingLamp.description>
-
+  
   <!-- EN: floor lamp -->
   <ClutterFloorLampA.label>地灯</ClutterFloorLampA.label>
   <!-- EN: People need light to move and work at full speed. Requires 80 W. -->
   <ClutterFloorLampA.description>殖民者们需要合适的光亮才能高效工作。</ClutterFloorLampA.description>
-
+  
   <!-- EN: decorated pot -->
   <DecoratedPot.label>装饰花盆</DecoratedPot.label>
   <!-- EN: A plant pot that can hold decorative flowers to improve the mood of people nearby. -->
   <DecoratedPot.description>种植装饰性的花朵来提升附近的人的心情。</DecoratedPot.description>
-
+  
   <!-- EN: Zone marker -->
   <FloorAddonA.label>区域标记</FloorAddonA.label>
   <!-- EN: Simple slab of steel with some paint on it. -->
   <FloorAddonA.description>简单的钢筋板，再加上一些涂料。</FloorAddonA.description>
-
+  
   <!-- EN: square floor light (white) -->
   <FloorLightSquare.label>方形地灯 （白）</FloorLightSquare.label>
   <!-- EN: A square floor light integrated into the ground with a white lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W. -->
   <FloorLightSquare.description>一盏方形的落地灯融入地面，配上一盏白色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare.description>
-
+  
   <!-- EN: square floor light (blue) -->
   <FloorLightSquare_Blue.label>方形地灯 （蓝）</FloorLightSquare_Blue.label>
   <!-- EN: A square floor light integrated into the ground with a blue lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W. -->
   <FloorLightSquare_Blue.description>一盏方形的落地灯融入地面，配上一盏蓝色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare_Blue.description>
-
+  
   <!-- EN: square floor light (green) -->
   <FloorLightSquare_Green.label>方形地灯 （绿）</FloorLightSquare_Green.label>
   <!-- EN: A square floor light integrated into the ground with a green lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W. -->
   <FloorLightSquare_Green.description>一盏方形的落地灯融入地面，配上一盏绿色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare_Green.description>
-
+  
   <!-- EN: square floor light (red) -->
   <FloorLightSquare_Red.label>方形地灯 （红）</FloorLightSquare_Red.label>
   <!-- EN: A square floor light integraded into the ground with a red lamp. People need light to move and work at full speed. Waterproof and quite pretty. Requires 30 W. -->
   <FloorLightSquare_Red.description>一盏方形的落地灯融入地面，配上一盏红色的灯。人员在明亮的环境中才能全速移动和工作。相当漂亮的防水灯具。电力消耗：30W。</FloorLightSquare_Red.description>
-
+  
   <!-- EN: glowstone lamp -->
   <GlowstoneLamp.label>萤石灯</GlowstoneLamp.label>
   <!-- EN: A beautiful lamp topped with glowstone, emitting reflected light from dozen of glowstones. People need light to move and work at full speed. Free source of light. -->
   <GlowstoneLamp.description>一盏安装了两个小块萤石的灯，适合于卧室或工作室。</GlowstoneLamp.description>
-
+  
   <!-- EN: Holy Metal Basin -->
   <HolyBasin.label>净洗盆</HolyBasin.label>
   <!-- EN: Old metal basin where you wash your clothes to remove a worn by corpse effect from Apparel. -->
   <HolyBasin.description>旧金属盆，可以用来洗衣服，可以把死者衣物的标签（亡）洗掉。</HolyBasin.description>
-
+  
   <!-- EN: path light -->
   <Lighting_PathLamp.label>路灯</Lighting_PathLamp.label>
   <!-- EN: Small light with built in solar panel that lights an area. People need light to move and work at full speed. -->
   <Lighting_PathLamp.description>内置太阳能电池板的小灯，可以照亮一片区域。人员在明亮的环境中才能全速移动和工作。</Lighting_PathLamp.description>
-
+  
   <!-- EN: wall light -->
   <Lighting_WallLight.label>墙灯</Lighting_WallLight.label>
   <!-- EN: A small light that must be placed on a supporting wall. People need light to move and work at full speed. Requires 70 W. -->
   <Lighting_WallLight.description>一盏必须放置在支撑墙面上的小灯。人员在明亮的环境中才能全速移动和工作。电力需求：70W。</Lighting_WallLight.description>
-
+  
   <!-- EN: outdoor lamp -->
   <OutdoorGroundLamp.label>户外地灯</OutdoorGroundLamp.label>
   <!-- EN: A small ground lamp that is powered by the sun. People need light to move and work at full speed. It lights a small area outdoors. -->
   <OutdoorGroundLamp.description>一盏小地灯，它的能量来自于太阳。它可以照亮室外的一小块区域。人员在明亮的环境中才能全速移动和工作。</OutdoorGroundLamp.description>
-
+  
   <!-- EN: penta plant pot -->
   <PentaPlantPot.label>五边花盆</PentaPlantPot.label>
   <!-- EN: Roses are red, violets are blue, we love our Penta Pot, and so will you! -->
   <PentaPlantPot.description>红玫瑰，紫罗兰，我们都喜欢美丽的事物，你喜欢吗？你喜欢！</PentaPlantPot.description>
-
+  
   <!-- EN: plant pot -->
   <PlantPot.label>花盆</PlantPot.label>
   <!-- EN: A plant pot that can hold decorative flowers to improve the mood of people nearby. -->
   <PlantPot.description>种植装饰性的花朵来提升附近的人的心情。</PlantPot.description>
-
+  
   <!-- EN: standing lamp -->
   <StandingLamp.label>落地灯 （白）</StandingLamp.label>
   <!-- EN: A standing lamp that lights an area. Requires 80 W. -->
   <StandingLamp.description>照亮一片区域的落地灯。电力需求：80W。</StandingLamp.description>
-
+  
   <!-- EN: standing lamp (blue) -->
   <StandingLamp_Blue.label>落地灯 （蓝）</StandingLamp_Blue.label>
   <!-- EN: A standing lamp that lights an area in blue glow. Requires 80 W. -->
   <StandingLamp_Blue.description>照亮一片区域的落地灯。电力需求：80W。</StandingLamp_Blue.description>
-
+  
   <!-- EN: standing lamp (green) -->
   <StandingLamp_Green.label>落地灯 （绿）</StandingLamp_Green.label>
   <!-- EN: A standing lamp that lights an area in a green glow. Requires 80 W. -->
   <StandingLamp_Green.description>照亮一片区域的落地灯。电力需求：80W。</StandingLamp_Green.description>
-
+  
   <!-- EN: standing lamp (red) -->
   <StandingLamp_Red.label>落地灯 （红）</StandingLamp_Red.label>
   <!-- EN: A standing lamp that lights an area in a red glow. Requires 80 W. -->
   <StandingLamp_Red.description>照亮一片区域的落地灯。电力需求：80W。</StandingLamp_Red.description>
-
+  
   <!-- EN: torch lamp -->
   <TorchLamp.label>火把</TorchLamp.label>
   <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be refueled. Produces a small amount of heat. -->
   <TorchLamp.description>将一片区域照亮的木制火把。人员在明亮的环境中才能全速移动和工作。殖民者会手动添加燃料。 \n\n产出：少量的热。</TorchLamp.description>
-
+  
   <!-- EN: tusk pot -->
   <TuskPot.label>弯牙盆</TuskPot.label>
   <!-- EN: Designed by the honorable Shinzhor of Shinzaram, this lovely horn offers a charming alternative to plant your flowers in. -->
   <TuskPot.description>这款造型奇特的角型花盆独具设计感，搭配上迷人的小花简直太棒了！</TuskPot.description>
-
+  
   <!-- EN: wall lamp -->
   <WallLamp.label>壁灯</WallLamp.label>
   <!-- EN: A lamp that must be placed against a supporting wall. People need light to move and work at full speed. Requires 80 W. It has a bigger glow than most lights. -->
   <WallLamp.description>必须靠着支撑墙放置的灯具。人员在明亮的环境中才能全速移动和工作。这种灯的照亮范围比一般的灯要大些。电力需求：80W。</WallLamp.description>
-
+  
   <!-- EN: wall torch -->
   <WallTorch.label>火把（墙）</WallTorch.label>
   <!-- EN: A wall mounted torch for lighting an area. Can be refueled. Not a good source of heat. Must be placed on a wall. People need light to move and work at full speed. -->
   <WallTorch.description>壁挂式火炬，用于照明区域。可以手动添加燃料。散发较少的热量，必须放置在墙上。人员在明亮的环境中才能全速移动和工作。</WallTorch.description>
-
+  
 </LanguageData>

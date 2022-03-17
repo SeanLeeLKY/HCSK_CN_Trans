@@ -56,15 +56,20 @@
   <!-- EN: Sandstone is a sedimentary rock that is composed of sand particles that have been compressed together. This is a large chunk of rock that can be cut into blocks. -->
   <ChunkSandstone.description>一种由砂粒相互挤压胶结所形成的沉积岩。这是一大块岩石，可以将其切割成可用的石砖。</ChunkSandstone.description>
   
-  <!-- EN: Steel Slag Chunk -->
-  <ChunkSlagSteel.label>钢渣块</ChunkSlagSteel.label>
+  <!-- EN: Slag Chunk -->
+  <ChunkSlagSteel.label>熔渣块</ChunkSlagSteel.label>
   <!-- EN: A rough glob of metal that has been melted from extreme temperatures. It can be smelted into alloy at an electric smelter. -->
-  <ChunkSlagSteel.description>一块钢渣。按照当前的形状没什么用处，但可以从中熔炼出部分有用的金属。</ChunkSlagSteel.description>
+  <ChunkSlagSteel.description>一块熔渣。按照当前的形状没什么用处，但可以在电熔炼器中熔炼出部分有用的金属。</ChunkSlagSteel.description>
   
   <!-- EN: Slate Chunk -->
   <ChunkSlate.label>板岩块</ChunkSlate.label>
   <!-- EN: Slate is a dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. This is a large chunk of rock that can be cut into blocks. -->
   <ChunkSlate.description>一种暗色的变性岩。岩石上的精细分层是板岩劈理的特征。这是一大块岩石，可以将其切割成可用的石砖。</ChunkSlate.description>
+  
+  <!-- EN: Reinforced concrete chunk -->
+  <CollapsedReinforcedConcrete.label>钢筋混凝土块</CollapsedReinforcedConcrete.label>
+  <!-- EN: This is a large chunk of reinforced concrete that can be processed to useful materials. -->
+  <CollapsedReinforcedConcrete.description>一块巨大的钢筋混凝土块，通过适当的处理能够变成有用的材料。</CollapsedReinforcedConcrete.description>
   
   <!-- EN: Granite Deposit -->
   <Granite.label>花岗岩</Granite.label>

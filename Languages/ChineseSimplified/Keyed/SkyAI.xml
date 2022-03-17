@@ -178,6 +178,10 @@
 	<!-- Various -->
 	<!-- EN: Various -->
   <SkyAI.VariousLabel>杂项</SkyAI.VariousLabel>
+	<!-- EN: Boost enemy dash speed -->
+  <SkyAI.BoostEnemyDashSpeedLabel>加快敌人冲刺速度</SkyAI.BoostEnemyDashSpeedLabel>
+	<!-- EN: Enemy pawns will be quicker than usual. -->
+  <SkyAI.BoostEnemyDashSpeedDesc>敌人在进攻时速度会比平时更快。</SkyAI.BoostEnemyDashSpeedDesc>
 	<!-- EN: Pawns will remember the owned things -->
   <SkyAI.RememberOwnedThingsLabel>人员会记住自有物品</SkyAI.RememberOwnedThingsLabel>
 	<!-- EN: Pawns remember what equipment, cargo, weapons they have with them and will consider them as their own. -->
@@ -302,12 +306,12 @@
   <SkyAI.InheritAlliesDutyLabel>倒地后经过治疗的敌人会继承盟友的职责</SkyAI.InheritAlliesDutyLabel>
 	<!-- EN: Downed pawns, lose their initial status in the squad and leave if will be able to arise. The option adds an inheritance of the squad from the nearest doctor or other ally, thereby turning the fighter back to raid. -->
   <SkyAI.InheritAlliesDutyDesc>被击倒的敌人，将失去他们在小队中的初始职责，苏醒后可能会离开地图。该选项增加了对最近的医生或其他盟友小队成员职责的继承权，从而使他们继续参加袭击任务。</SkyAI.InheritAlliesDutyDesc>
-	<!-- EN: Allied doctor could perform treatment (tend job) to colony pawns -->
-  <SkyAI.PerformTreatmentColonyPawnsLabel>盟友的医生能够治疗（医疗处理工作）殖民地人员。</SkyAI.PerformTreatmentColonyPawnsLabel>
+	<!-- EN: Allied doctor perform treatment to colony pawns -->
+  <SkyAI.PerformTreatmentColonyPawnsLabel>盟友医生治疗殖民地人员。</SkyAI.PerformTreatmentColonyPawnsLabel>
 	<!-- EN: Allied doctor could perform treatment (tend job) to colony pawns. It may not work correctly yet, temp. disabled by default. -->
   <SkyAI.PerformTreatmentColonyPawnsDesc>盟友的医生能够治疗（医疗处理工作）殖民地人员。目前可能会出现一些问题，默认情况下禁用。</SkyAI.PerformTreatmentColonyPawnsDesc>
-	<!-- EN: Allied doctor could perform treatment (tend job) to colony enemy pawns -->
-  <SkyAI.PerformTreatmentEnemyPawnsLabel>盟友的医生能够治疗（医疗处理工作）殖民地敌对人员</SkyAI.PerformTreatmentEnemyPawnsLabel>
+	<!-- EN: Allied doctor perform treatment to colony enemies -->
+  <SkyAI.PerformTreatmentEnemyPawnsLabel>盟友医生治疗殖民地敌对人员</SkyAI.PerformTreatmentEnemyPawnsLabel>
 	<!-- EN: Allied doctor could perform treatment (tend job) to colony enemy pawns which is friendly for their faction. -->
   <SkyAI.PerformTreatmentEnemyPawnsDesc>盟友的医生能够治疗（医疗处理工作）对于殖民地方敌对，但是对于己方友好的人员。</SkyAI.PerformTreatmentEnemyPawnsDesc>
 	<!-- EN: Enable laying on ground on self tend -->

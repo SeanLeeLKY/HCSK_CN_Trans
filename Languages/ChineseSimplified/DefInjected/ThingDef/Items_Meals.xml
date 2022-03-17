@@ -1,12 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: fried cave mushrooms -->
-  <FriedMushrooms.label>煎蘑菇</FriedMushrooms.label>
-  <!-- EN: Fried cave mushrooms. Rich with proteins and are able to replace meat in some recipes. -->
-  <FriedMushrooms.description>煎蘑菇洞穴。富含蛋白质，在某些食谱中可以代替肉类。</FriedMushrooms.description>
-  
-  <!-- EN: Fried Assorts -->
+  <!-- EN: Panfried Vegetables -->
   <FriedVegetables.label>炒蔬菜</FriedVegetables.label>
   <!-- EN: A simple fried assortment of vegetables. Not too nutritious or tasty. -->
   <FriedVegetables.description>一种简单的炒制蔬菜。不太有营养也不怎么好吃。</FriedVegetables.description>
@@ -22,9 +17,9 @@
   <MealLavish.description>精选原料，工艺复杂，从色香味型上看来都是上乘之作。</MealLavish.description>
   
   <!-- EN: Fruit Salad -->
-  <MealSalad.label>水果沙拉</MealSalad.label>
+  <MealSimple.label>水果沙拉</MealSimple.label>
   <!-- EN: A fruit salad made from gathered fruit. -->
-  <MealSalad.description>用水果制成的一盘沙拉。</MealSalad.description>
+  <MealSimple.description>用水果制成的一盘沙拉。</MealSimple.description>
   
   <!-- EN: Packaged Survival Meal -->
   <MealSurvivalPack.label>包装生存食品</MealSurvivalPack.label>
@@ -36,9 +31,9 @@
   <!-- EN: Freshly roasted meat. -->
   <RoastedMeat.description>新鲜的烤肉。</RoastedMeat.description>
   
-  <!-- EN: Scrambled Eggs -->
-  <ScrambledEggs.label>煎蛋</ScrambledEggs.label>
-  <!-- EN: A dish made from eggs stirred or beaten together while being gently heated. -->
-  <ScrambledEggs.description>搅匀的蛋液均匀的铺在盘子上，然后慢火加热直到熟透，香浓味美。</ScrambledEggs.description>
+  <!-- EN: Scramble -->
+  <ScrambledEggs.label>煎蛋饼</ScrambledEggs.label>
+  <!-- EN: A dish made from eggs or tofu stirred or beaten together while being gently heated. -->
+  <ScrambledEggs.description>搅匀的蛋液或者豆腐均匀的铺在盘子上，然后慢火加热直到熟透，香浓味美。</ScrambledEggs.description>
   
 </LanguageData>

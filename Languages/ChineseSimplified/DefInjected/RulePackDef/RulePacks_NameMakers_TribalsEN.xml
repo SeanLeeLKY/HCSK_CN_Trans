@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN:
     <li>r_name(p=2)->[WordTribal_EN] [WordTribal_EN]</li>
     <li>r_name->[WordTribal_EN] '[AnimalBadass]' [WordTribal_EN]</li>
@@ -17,7 +17,7 @@
     <li>r_name->[Animal] [WordTribal_EN]</li>
     <li>r_name->[Color] [Animal]</li>
   </NamerPersonCorunanEN.rulePack.rulesStrings>
-
+  
   <!-- EN: WordTribal_EN(p=3)->[tribal_word_file_EN] -->
   <TribalWordUtilityEN.rulePack.rulesStrings.0>WordTribal_EN(p=3)->[tribal_word_file_EN]</TribalWordUtilityEN.rulePack.rulesStrings.0>
   <!-- EN: WordTribal_EN(p=3)->[SylG_EN][SylG_EN] -->
@@ -26,5 +26,5 @@
   <TribalWordUtilityEN.rulePack.rulesStrings.2>WordTribal_EN(p=2)->[SylG_EN] [SylG_EN] [SylG_EN]</TribalWordUtilityEN.rulePack.rulesStrings.2>
   <!-- EN: WordTribal_EN->[SylG_EN][SylG_EN][SylG_EN][SylG_EN] -->
   <TribalWordUtilityEN.rulePack.rulesStrings.3>WordTribal_EN->[SylG_EN] [SylG_EN] [SylG_EN] [SylG_EN]</TribalWordUtilityEN.rulePack.rulesStrings.3>
-
+  
 </LanguageData>

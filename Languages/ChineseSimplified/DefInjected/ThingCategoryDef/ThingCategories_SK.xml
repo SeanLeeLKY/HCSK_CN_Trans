@@ -25,6 +25,9 @@
   <!-- EN: Apparel -->
   <Apparel.label>衣着</Apparel.label>
   
+  <!-- EN: Noble Dress -->
+  <ApparelNoble.label>高雅衣物</ApparelNoble.label>
+  
   <!-- EN: artifacts -->
   <Artifacts.label>神器</Artifacts.label>
   
@@ -193,6 +196,9 @@
   <!-- EN: Full Bodysuit -->
   <FullBodySuitsCat.label>紧身衣裤</FullBodySuitsCat.label>
   
+  <!-- EN: Fungi -->
+  <FungusPlantRaw.label>菌菇</FungusPlantRaw.label>
+  
   <!-- EN: Futuristic -->
   <Futuristic.label>未来武器</Futuristic.label>
   
@@ -219,6 +225,9 @@
   
   <!-- EN: Headgear -->
   <Headgear.label>帽子</Headgear.label>
+  
+  <!-- EN: Noble Headress -->
+  <HeadgearNoble.label>高雅头饰</HeadgearNoble.label>
   
   <!-- EN: Heavy -->
   <HeavyBar.label>重质金属</HeavyBar.label>
@@ -277,6 +286,9 @@
   <!-- EN: Meat -->
   <MeatRaw.label>肉类</MeatRaw.label>
   
+  <!-- EN: MeatSubstitute -->
+  <MeatSubRaw.label>肉类替代品</MeatSubRaw.label>
+  
   <!-- EN: Medicine -->
   <Medicine.label>医疗药品</Medicine.label>
   
@@ -331,6 +343,9 @@
   <!-- EN: plants -->
   <Plants.label>植物</Plants.label>
   
+  <!-- EN: Preserves -->
+  <Preserves.label>腌制品</Preserves.label>
+  
   <!-- EN: Precious -->
   <PRS.label>贵重物品</PRS.label>
   
@@ -360,7 +375,7 @@
   
   <!-- EN: root -->
   <Root.label>根目录</Root.label>
-  
+
   <!-- EN: Seeds -->
   <SeedsCategory.label>种子</SeedsCategory.label>
   
@@ -405,6 +420,9 @@
   
   <!-- EN: Miner Set -->
   <SetMiner.label>矿工</SetMiner.label>
+  
+  <!-- EN: Noble Set -->
+  <SetNoble.label>高雅</SetNoble.label>
   
   <!-- EN: Power Armor Set -->
   <Setpowerarmor.label>动力装甲</Setpowerarmor.label>
@@ -531,10 +549,10 @@
   
   <!-- EN: Vests -->
   <VestsCat.label>背心</VestsCat.label>
-  
+
   <!-- EN: waste -->
   <Waste.label>废物</Waste.label>
-  
+    
   <!-- EN: Weapon Crate -->
   <WeaponCrate.label>武器箱</WeaponCrate.label>
   

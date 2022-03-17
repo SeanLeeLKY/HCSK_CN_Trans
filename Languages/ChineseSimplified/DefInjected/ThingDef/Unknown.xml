@@ -1,18 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: solar roofing（蓝图） -->
+  <!-- EN: 堡垒屋顶（蓝图） -->
+  <Blueprint_BunkerRoofFraming.label>堡垒屋顶（蓝图）</Blueprint_BunkerRoofFraming.label>
+  
+  <!-- EN: 太阳能屋顶（蓝图） -->
   <Blueprint_RoofSolarFraming.label>太阳能屋顶（蓝图）</Blueprint_RoofSolarFraming.label>
   
-  <!-- EN: transparent roofing（蓝图） -->
+  <!-- EN: 透明屋顶（蓝图） -->
   <Blueprint_RoofTransparentFraming.label>透明屋顶（蓝图）</Blueprint_RoofTransparentFraming.label>
   
-  <!-- EN: thick stone roofing（蓝图） -->
+  <!-- EN: 厚岩顶（蓝图） -->
   <Blueprint_ThickStoneRoofFraming.label>厚岩顶（蓝图）</Blueprint_ThickStoneRoofFraming.label>
   
-  <!-- EN: solar roofing（建造中） -->
+  <!-- EN: 堡垒屋顶（建造中） -->
+  <Frame_BunkerRoofFraming.label>堡垒屋顶（建造中）</Frame_BunkerRoofFraming.label>
+  <!-- EN: 堡垒屋顶能够阻挡空降仓、炮弹，并且降低地震时屋顶垮塌的几率。 -->
+  <Frame_BunkerRoofFraming.description>堡垒屋顶能够阻挡空降仓、炮弹，并且降低地震时屋顶垮塌的几率。</Frame_BunkerRoofFraming.description>
+  
+  <!-- EN: 太阳能屋顶（建造中） -->
   <Frame_RoofSolarFraming.label>太阳能屋顶（建造中）</Frame_RoofSolarFraming.label>
-  <!-- EN: Solar roofing generates power on your roof.  Requires a Solar Controller to function. -->
+  <!-- EN: 太阳能屋顶可以用于发电。需要太阳能控制器来输出电力。 -->
   <Frame_RoofSolarFraming.description>太阳能屋顶可以用于发电。需要太阳能控制器来输出电力。</Frame_RoofSolarFraming.description>
   
   <!-- EN: transparent roofing（建造中） -->

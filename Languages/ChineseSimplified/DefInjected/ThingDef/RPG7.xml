@@ -1,34 +1,40 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: RPG-7 grenade (Frag) -->
   <Ammo_RPG7Grenade_Frag.label>RPG-7榴弹（破片）</Ammo_RPG7Grenade_Frag.label>
   <!-- EN: Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further. -->
   <Ammo_RPG7Grenade_Frag.description>设计用于RPG-7火箭筒的火箭推进榴弹。发射后以弹头尾部的火箭推动榴弹向前。</Ammo_RPG7Grenade_Frag.description>
-  <!-- EN: 设计用于RPG-7火箭筒的火箭推进榴弹。发射后以弹头尾部的火箭推动榴弹向前。\n(Core SK) -->
   <Ammo_RPG7Grenade_Frag.oldDescription>设计用于RPG-7火箭筒的火箭推进榴弹。发射后以弹头尾部的火箭推动榴弹向前。</Ammo_RPG7Grenade_Frag.oldDescription>
-
+  
   <!-- EN: RPG-7 grenade (HEAT) -->
   <Ammo_RPG7Grenade_HEAT.label>RPG-7榴弹（破甲）</Ammo_RPG7Grenade_HEAT.label>
   <!-- EN: Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further. -->
   <Ammo_RPG7Grenade_HEAT.description>设计用于RPG-7火箭筒的火箭推进榴弹。发射后以弹头尾部的火箭推动榴弹向前。</Ammo_RPG7Grenade_HEAT.description>
-  <!-- EN: 设计用于RPG-7火箭筒的火箭推进榴弹。发射后以弹头尾部的火箭推动榴弹向前。\n(Core SK) -->
   <Ammo_RPG7Grenade_HEAT.oldDescription>设计用于RPG-7火箭筒的火箭推进榴弹。发射后以弹头尾部的火箭推动榴弹向前。</Ammo_RPG7Grenade_HEAT.oldDescription>
-
+  
   <!-- EN: RPG-7 grenade (Thermobaric) -->
   <Ammo_RPG7Grenade_Thermobaric.label>RPG-7榴弹（温压）</Ammo_RPG7Grenade_Thermobaric.label>
   <!-- EN: Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further. -->
   <Ammo_RPG7Grenade_Thermobaric.description>设计用于RPG-7火箭筒的火箭推进榴弹。发射后以弹头尾部的火箭推动榴弹向前。</Ammo_RPG7Grenade_Thermobaric.description>
-  <!-- EN: 设计用于RPG-7火箭筒的火箭推进榴弹。发射后以弹头尾部的火箭推动榴弹向前。\n(Core SK) -->
   <Ammo_RPG7Grenade_Thermobaric.oldDescription>设计用于RPG-7火箭筒的火箭推进榴弹。发射后以弹头尾部的火箭推动榴弹向前。</Ammo_RPG7Grenade_Thermobaric.oldDescription>
-
+  
   <!-- EN: RPG-7 grenade (Frag) -->
   <Bullet_RPG7Grenade_Frag.label>RPG-7榴弹（破片）</Bullet_RPG7Grenade_Frag.label>
-
+  
   <!-- EN: RPG-7 grenade (HEAT) -->
   <Bullet_RPG7Grenade_HEAT.label>RPG-7榴弹（破甲）</Bullet_RPG7Grenade_HEAT.label>
-
+  
   <!-- EN: RPG-7 grenade (Thermobaric) -->
   <Bullet_RPG7Grenade_Thermobaric.label>RPG-7榴弹（温压）</Bullet_RPG7Grenade_Thermobaric.label>
-
+  
+  <!-- EN: RPG-7 small grenade (Frag) -->
+  <Bullet_RPG7TripleGrenade_Frag.label>RPG-7小型榴弹（破片）</Bullet_RPG7TripleGrenade_Frag.label>
+  
+  <!-- EN: RPG-7 small grenade (HEAT) -->
+  <Bullet_RPG7TripleGrenade_HEAT.label>RPG-7小型榴弹（破甲）</Bullet_RPG7TripleGrenade_HEAT.label>
+  
+  <!-- EN: RPG-7 small grenade (Thermobaric) -->
+  <Bullet_RPG7TripleGrenade_Thermobaric.label>RPG-7小型榴弹（温压）</Bullet_RPG7TripleGrenade_Thermobaric.label>
+  
 </LanguageData>

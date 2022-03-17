@@ -8,12 +8,26 @@
   <!-- EN: Cooking hearty stew. -->
   <CookHeartyStew.jobString>正在烹饪 炖菜。</CookHeartyStew.jobString>
   
+  <!-- EN: cook hearty stew (x4) -->
+  <CookHeartyStewBulk.label>烹制 炖菜（x4）</CookHeartyStewBulk.label>
+  <!-- EN: Prepares a hearty stew from raw meat, potatoes and carrots. Produces 8. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookHeartyStewBulk.description>用生肉、土豆和胡萝卜制作丰盛的炖菜。\n\n产出：8。</CookHeartyStewBulk.description>
+  <!-- EN: Cooking hearty stew. -->
+  <CookHeartyStewBulk.jobString>正在烹饪 炖菜。</CookHeartyStewBulk.jobString>
+  
   <!-- EN: cook meat soup -->
   <CookMeatSoup.label>烹制 肉汤</CookMeatSoup.label>
   <!-- EN: Prepares a meat soup from raw meat and a few raw plants. Produces 3. -->
-  <CookMeatSoup.description>用生肉和一些蔬菜制作肉汤。\n\n产出：1。</CookMeatSoup.description>
+  <CookMeatSoup.description>用生肉和一些蔬菜制作肉汤。\n\n产出：3。</CookMeatSoup.description>
   <!-- EN: Cooking meat soup. -->
   <CookMeatSoup.jobString>正在烹饪 肉汤。</CookMeatSoup.jobString>
+  
+  <!-- EN: cook meat soup (x4) -->
+  <CookMeatSoupBulk.label>烹制 肉汤（x4）</CookMeatSoupBulk.label>
+  <!-- EN: Prepares a meat soup from raw meat and a few raw plants. Produces 12. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMeatSoupBulk.description>用生肉和一些蔬菜制作肉汤。\n\n产出：12。</CookMeatSoupBulk.description>
+  <!-- EN: Cooking meat soup. -->
+  <CookMeatSoupBulk.jobString>正在烹饪 肉汤。</CookMeatSoupBulk.jobString>
   
   <!-- EN: cook cheese burger -->
   <MakeBurgerCheese.label>烹制 芝士汉堡</MakeBurgerCheese.label>
@@ -29,12 +43,26 @@
   <!-- EN: Grilling cheese sandwich. -->
   <MakeCheeseGrilled.jobString>正在烤制 芝士三明治。</MakeCheeseGrilled.jobString>
   
+  <!-- EN: Grill cheese sandwich (x4) -->
+  <MakeCheeseGrilledBulk.label>烤制 芝士三明治（x4）</MakeCheeseGrilledBulk.label>
+  <!-- EN: Grills a sandwich from bread and cheese. Produces 8. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <MakeCheeseGrilledBulk.description>用面包和奶酪一起烤制三明治。\n\n产出：8。</MakeCheeseGrilledBulk.description>
+  <!-- EN: Grilling cheese sandwich. -->
+  <MakeCheeseGrilledBulk.jobString>正在烤制 芝士三明治。</MakeCheeseGrilledBulk.jobString>
+  
   <!-- EN: cook coconut curry -->
   <MakeCoconutCurry.label>烹制 椰香咖喱</MakeCoconutCurry.label>
   <!-- EN: Prepares an exotic dish from meat, rice and coconut milk. Produces 2. -->
   <MakeCoconutCurry.description>用肉、米和椰奶制作异国风味的菜肴。\n\n产出：2。</MakeCoconutCurry.description>
   <!-- EN: Cooking coconut curry. -->
   <MakeCoconutCurry.jobString>正在烹饪 椰香咖喱。</MakeCoconutCurry.jobString>
+  
+  <!-- EN: cook coconut curry (x4) -->
+  <MakeCoconutCurryBulk.label>烹制 椰香咖喱（x4）</MakeCoconutCurryBulk.label>
+  <!-- EN: Prepares an exotic dish from meat, rice and coconut milk. Produces 8. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <MakeCoconutCurryBulk.description>用肉、米和椰奶制作异国风味的菜肴。\n\n产出：8。</MakeCoconutCurryBulk.description>
+  <!-- EN: Cooking coconut curry. -->
+  <MakeCoconutCurryBulk.jobString>正在烹饪 椰香咖喱。</MakeCoconutCurryBulk.jobString>
   
   <!-- EN: make kebab -->
   <MakeKebab.label>制作 烤肉串</MakeKebab.label>
@@ -43,6 +71,13 @@
   <!-- EN: Cooking kebab. -->
   <MakeKebab.jobString>正在烹饪 烤肉串。</MakeKebab.jobString>
   
+  <!-- EN: make kebab (x4) -->
+  <MakeKebabBulk.label>制作 烤肉串（x4）</MakeKebabBulk.label>
+  <!-- EN: Make kebab from vegetables, mushrooms and meat. Produces 8. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <MakeKebabBulk.description>用蔬菜、蘑菇和肉做烤肉串。\n\n产出：8。</MakeKebabBulk.description>
+  <!-- EN: Cooking kebab. -->
+  <MakeKebabBulk.jobString>正在烹饪 烤肉串。</MakeKebabBulk.jobString>
+  
   <!-- EN: make maki rolls -->
   <MakeMakiRolls.label>制作 细卷</MakeMakiRolls.label>
   <!-- EN: Make maki rolls from rice, algae and fish meat. Produces 2. -->
@@ -50,10 +85,17 @@
   <!-- EN: Cooking maki rolls. -->
   <MakeMakiRolls.jobString>正在烹饪 细卷。</MakeMakiRolls.jobString>
   
+  <!-- EN: make maki rolls (x4) -->
+  <MakeMakiRollsBulk.label>制作 细卷（x4）</MakeMakiRollsBulk.label>
+  <!-- EN: Make maki rolls from rice, algae and fish meat. Produces 8. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <MakeMakiRollsBulk.description>用大米、藻类和鱼肉制作的叫细卷的寿司卷。\n\n产出：8。</MakeMakiRollsBulk.description>
+  <!-- EN: Cooking maki rolls. -->
+  <MakeMakiRollsBulk.jobString>正在烹饪 细卷。</MakeMakiRollsBulk.jobString>
+  
   <!-- EN: cook miso soup -->
   <MakeMisoSoup.label>烹制 味噌汤</MakeMisoSoup.label>
   <!-- EN: Prepares a luxury miso soup from tofu, algae, mushrooms and onion. Produces 2. -->
-  <MakeMisoSoup.description>用豆腐、藻类、蘑菇和洋葱制作豪华味噌汤\n\n产出：2。</MakeMisoSoup.description>
+  <MakeMisoSoup.description>用豆腐、藻类、蘑菇和洋葱制作豪华味噌汤。\n\n产出：2。</MakeMisoSoup.description>
   <!-- EN: Cooking coconut curry. -->
   <MakeMisoSoup.jobString>正在烹饪 味噌汤。</MakeMisoSoup.jobString>
   
@@ -64,6 +106,13 @@
   <!-- EN: Cooking mushroom madness. -->
   <MakeMushroomMadness.jobString>正在烹饪 幻菇秘串。</MakeMushroomMadness.jobString>
   
+  <!-- EN: make mushroom madness (x4) -->
+  <MakeMushroomMadnessBulk.label>制作 幻菇秘串（x4）</MakeMushroomMadnessBulk.label>
+  <!-- EN: Make a mysterious dish from different mushrooms. Produces 8. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <MakeMushroomMadnessBulk.description>用不同的蘑菇做一道神秘的菜。\n\n产出：8。</MakeMushroomMadnessBulk.description>
+  <!-- EN: Cooking mushroom madness. -->
+  <MakeMushroomMadnessBulk.jobString>正在烹饪 幻菇秘串。</MakeMushroomMadnessBulk.jobString>
+  
   <!-- EN: make pelmeni -->
   <MakePelmeni.label>烹制 俄式饺子</MakePelmeni.label>
   <!-- EN: Make pelmeni from flour and prime meat. Produces 2. -->
@@ -71,11 +120,25 @@
   <!-- EN: Cooking pelmeni. -->
   <MakePelmeni.jobString>正在烹制 俄式饺子。</MakePelmeni.jobString>
   
+  <!-- EN: make pelmeni (x4) -->
+  <MakePelmeniBulk.label>烹制 俄式饺子 （x4）</MakePelmeniBulk.label>
+  <!-- EN: Make pelmeni from flour and prime meat. Produces 8. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <MakePelmeniBulk.description>用肉和面粉制作俄式饺子。\n\n产出：8。</MakePelmeniBulk.description>
+  <!-- EN: Cooking pelmeni. -->
+  <MakePelmeniBulk.jobString>正在烹制 俄式饺子。</MakePelmeniBulk.jobString>
+  
   <!-- EN: Grill potatoes with cheese -->
   <MakePotatoesCheese.label>烤制 芝士土豆</MakePotatoesCheese.label>
   <!-- EN: Grills potatoes with some cheese on top. Produces 3. -->
   <MakePotatoesCheese.description>烤制放上奶酪的土豆。\n\n产出：3。</MakePotatoesCheese.description>
   <!-- EN: Grilling potatoes with cheese. -->
   <MakePotatoesCheese.jobString>正在烤制 芝士土豆。</MakePotatoesCheese.jobString>
+  
+  <!-- EN: Grill potatoes with cheese (x4) -->
+  <MakePotatoesCheeseBulk.label>烤制 芝士土豆（x4）</MakePotatoesCheeseBulk.label>
+  <!-- EN: Grills potatoes with some cheese on top. Produces 12. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <MakePotatoesCheeseBulk.description>烤制放上奶酪的土豆。\n\n产出：12。</MakePotatoesCheeseBulk.description>
+  <!-- EN: Grilling potatoes with cheese. -->
+  <MakePotatoesCheeseBulk.jobString>正在烤制 芝士土豆。</MakePotatoesCheeseBulk.jobString>
   
 </LanguageData>

@@ -798,7 +798,7 @@
   
   <!-- EN: 先进纺织工作台（蓝图） -->
   <Blueprint_HyperTailoringBench.label>先进纺织工作台（蓝图）</Blueprint_HyperTailoringBench.label>
-  
+
   <!-- EN: 冰面 ► 浅水（蓝图） -->
   <Blueprint_Ice-WaterShallow.label>冰面 ► 浅水 （蓝图）</Blueprint_Ice-WaterShallow.label>
   
@@ -1500,6 +1500,9 @@
   
   <!-- EN: 软垫（蓝图） -->
   <Blueprint_Install_SimplePillow.label>软垫（蓝图）</Blueprint_Install_SimplePillow.label>
+  
+  <!-- EN: 基础研究台（蓝图） -->
+  <Blueprint_Install_SimpleResearchBench.label>基础研究台（蓝图）</Blueprint_Install_SimpleResearchBench.label>
   
   <!-- EN: 圆形地毯6x6（蓝图） -->
   <Blueprint_Install_SixSixRoundRug.label>圆形地毯6x6 （蓝图）</Blueprint_Install_SixSixRoundRug.label>
@@ -3541,8 +3544,8 @@
   
   <!-- EN: 圆桶（建造中） -->
   <Frame_Barrel.label>圆桶（建造中）</Frame_Barrel.label>
-  <!-- EN: 一种用木头或者金属建造的大圆桶。可以存储多种物品。最多装载5样物品。 -->
-  <Frame_Barrel.description>一种用木头或者金属建造的大圆桶。可以存储多种物品。最多装载5样物品。</Frame_Barrel.description>
+  <!-- EN: 一种用木头或者金属建造的大圆桶。可以存储多种物品。如果设置单个圆桶只存放一种物品将会更加便于管理。最多装载5样物品。 -->
+  <Frame_Barrel.description>一种用木头或者金属建造的大圆桶。可以存储多种物品。如果设置单个圆桶只存放一种物品将会更加便于管理。最多装载5样物品。</Frame_Barrel.description>
   
   <!-- EN: 路障（建造中） -->
   <Frame_Barricade.label>路障 （建造中）</Frame_Barricade.label>
@@ -3646,8 +3649,8 @@
   
   <!-- EN: 蜡烛（建造中） -->
   <Frame_Candle.label>蜡烛 （建造中）</Frame_Candle.label>
-  <!-- EN: 可以手动添加燃料的一种小型光源。散发较少的热量，必须放置在墙上。人员在明亮的环境中才能全速移动和工作。 -->
-  <Frame_Candle.description>可以手动添加燃料的一种小型光源。散发较少的热量，必须放置在墙上。人员在明亮的环境中才能全速移动和工作。</Frame_Candle.description>
+  <!-- EN: 可以手动添加燃料的一种小型光源，不适合用作热源。人员在明亮的环境中才能全速移动和工作。 -->
+  <Frame_Candle.description>可以手动添加燃料的一种小型光源，不适合用作热源。人员在明亮的环境中才能全速移动和工作。</Frame_Candle.description>
   
   <!-- EN: 糖果桌（建造中） -->
   <Frame_CandyTable.label>糖果桌（建造中）</Frame_CandyTable.label>
@@ -4586,13 +4589,13 @@
   
   <!-- EN: 石砾（建造中） -->
   <Frame_Gravel-RockyDirt.label>石砾 （建造中）</Frame_Gravel-RockyDirt.label>
-  <!-- EN: ↑ 砂砾 \n\n↓ 石砾\n\n  ▪ 30 碎石\n  ▪ 8 泥土\n  ▪ 8 沙 -->
-  <Frame_Gravel-RockyDirt.description>↑ 砂砾 \n\n↓ 石砾\n\n  ▪ 30 碎石\n  ▪ 8 泥土\n  ▪ 8 沙</Frame_Gravel-RockyDirt.description>
+  <!-- EN: ↑ 砂砾 \n\n↓ 石砾\n\n  ▪ 12 碎石\n  ▪ 2 泥土\n  ▪ 3 沙 -->
+  <Frame_Gravel-RockyDirt.description>↑ 砂砾 \n\n↓ 石砾\n\n  ▪ 12 碎石\n  ▪ 2 泥土\n  ▪ 3 沙</Frame_Gravel-RockyDirt.description>
   
   <!-- EN: 沙（建造中） -->
   <Frame_Gravel-Sand.label>沙（建造中）</Frame_Gravel-Sand.label>
-  <!-- EN: ↑ 砂砾 \n\n↓ 沙\n\n  ▪ 50 碎石\n  ▪ 10 泥土 -->
-  <Frame_Gravel-Sand.description>↑ 砂砾 \n\n↓ 沙\n\n  ▪ 50 碎石\n  ▪ 10 泥土</Frame_Gravel-Sand.description>
+  <!-- EN: ↑ 砂砾 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 2 泥土 -->
+  <Frame_Gravel-Sand.description>↑ 砂砾 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 2 泥土</Frame_Gravel-Sand.description>
   
   <!-- EN: 土地（建造中） -->
   <Frame_Gravel-SoilF.label>土地（建造中）</Frame_Gravel-SoilF.label>
@@ -4738,12 +4741,12 @@
   <Frame_HyperTailoringBench.label>先进纺织工作台（建造中）</Frame_HyperTailoringBench.label>
   <!-- EN: 一个复杂的工作台，用于裁剪和锻造先进的战斗服装，动力盔甲，增强手套和战斗头盔。需要电力才能正常运作。 -->
   <Frame_HyperTailoringBench.description>一个复杂的工作台，用于裁剪和锻造先进的战斗服装，动力盔甲，增强手套和战斗头盔。需要电力才能正常运作。</Frame_HyperTailoringBench.description>
-  
+
   <!-- EN: 冰面 ► 浅水（建造中） -->
   <Frame_Ice-WaterShallow.label>冰面 ► 浅水 （建造中）</Frame_Ice-WaterShallow.label>
   <!-- EN: ↑ 冰面\n\n↓ 浅水 -->
   <Frame_Ice-WaterShallow.description>↑ 冰面\n\n↓ 浅水</Frame_Ice-WaterShallow.description>
-  
+
   <!-- EN: 基岩定向爆破器（建造中） -->
   <Frame_ImpactionCharge.label>基岩定向爆破器（建造中）</Frame_ImpactionCharge.label>
   <!-- EN: 一种用于小行星采矿或者深层钻孔的装置。可以设置按需起爆，向地下生成一束能够穿透基岩层的强力等离子射流。 -->
@@ -4916,8 +4919,8 @@
   
   <!-- EN: 浅水（建造中） -->
   <Frame_Marsh-WaterShallow.label>浅水（建造中）</Frame_Marsh-WaterShallow.label>
-  <!-- EN: ↑ 浅水\n\n↓ 沼泽\n\n  ▪ 20 碎石\n  ▪ 20 泥土\n  ▪ 10 粘土\n  ▪ 15 泥炭\n  ▪ 10 沙\n  ▪ 4 肥料 -->
-  <Frame_Marsh-WaterShallow.description>↑ 浅水\n\n↓ 沼泽\n\n  ▪ 20 碎石\n  ▪ 20 泥土\n  ▪ 10 粘土\n  ▪ 15 泥炭\n  ▪ 10 沙\n  ▪ 4 肥料</Frame_Marsh-WaterShallow.description>
+  <!-- EN: ↑ 浅水\n\n↓ 沼泽\n\n  ▪ 8 碎石\n  ▪ 3 泥土\n  ▪ 8 粘土\n  ▪ 12 泥炭\n  ▪ 4 沙\n ▪ 4 堆肥料\n ▪ 4 肥料 -->
+  <Frame_Marsh-WaterShallow.description>↑ 浅水\n\n↓ 沼泽\n\n  ▪ 8 碎石\n  ▪ 3 泥土\n  ▪ 8 粘土\n  ▪ 12 泥炭\n  ▪ 4 沙\n ▪ 4 堆肥料\n ▪ 4 肥料</Frame_Marsh-WaterShallow.description>
   
   <!-- EN: 大型坟墓（建造中） -->
   <Frame_MassGrave.label>大型坟墓（建造中）</Frame_MassGrave.label>
@@ -5051,8 +5054,8 @@
   
   <!-- EN: 中型导弹系统（建造中） -->
   <Frame_MediumMissileSystem.label>中型导弹系统（建造中）</Frame_MediumMissileSystem.label>
-  <!-- EN: 一种每轮可以向目标区域发射三枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。 -->
-  <Frame_MediumMissileSystem.description>一种每次发射三枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</Frame_MediumMissileSystem.description>
+  <!-- EN: 一种每轮可以向目标区域发射两枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。 -->
+  <Frame_MediumMissileSystem.description>一种每轮可以向目标区域发射两枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</Frame_MediumMissileSystem.description>
   
   <!-- EN: 巨屏电视（建造中） -->
   <Frame_MegascreenTelevision.label>巨屏电视（建造中）</Frame_MegascreenTelevision.label>
@@ -5506,8 +5509,8 @@
   
   <!-- EN: 重型导弹系统（建造中） -->
   <Frame_RLGun.label>重型导弹系统（建造中）</Frame_RLGun.label>
-  <!-- EN: 一种每轮可以向目标区域发射六枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。 -->
-  <Frame_RLGun.description>一种每次发射六枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</Frame_RLGun.description>
+  <!-- EN: 一种每轮可以向目标区域发射三枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。 -->
+  <Frame_RLGun.description>一种每轮可以向目标区域发射三枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</Frame_RLGun.description>
   
   <!-- EN: 自动化装配器（建造中） -->
   <Frame_RobAssem.label>自动化装配器（建造中）</Frame_RobAssem.label>
@@ -5601,8 +5604,8 @@
   
   <!-- EN: 石砾（建造中） -->
   <Frame_Sand-RockyDirt.label>石砾 （建造中）</Frame_Sand-RockyDirt.label>
-  <!-- EN: ↑ 沙\n↑ 细沙\n\n↓ 石砾\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 40 沙 -->
-  <Frame_Sand-RockyDirt.description>↑ 沙\n↑ 细沙\n\n↓ 石砾\n\n  ▪ 5 碎石\n  ▪ 10 泥土\n  ▪ 40 沙</Frame_Sand-RockyDirt.description>
+  <!-- EN: ↑ 沙\n↑ 细沙\n\n↓ 石砾\n\n  ▪ 2 碎石\n  ▪ 2 泥土\n  ▪ 16 沙 -->
+  <Frame_Sand-RockyDirt.description>↑ 沙\n↑ 细沙\n\n↓ 石砾\n\n  ▪ 2 碎石\n  ▪ 2 泥土\n  ▪ 16 沙</Frame_Sand-RockyDirt.description>
   
   <!-- EN: 土地（建造中） -->
   <Frame_Sand-SoilF.label>土地（建造中）</Frame_Sand-SoilF.label>
@@ -5611,8 +5614,8 @@
   
   <!-- EN: 浅水（建造中） -->
   <Frame_Sand-WaterShallow.label>浅水（建造中）</Frame_Sand-WaterShallow.label>
-  <!-- EN: ↑ 沙（近水）\n\n↓ 浅水\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 20 粘土\n  ▪ 80 沙 -->
-  <Frame_Sand-WaterShallow.description>↑ 沙（近水）\n\n↓ 浅水\n\n  ▪ 10 碎石\n  ▪ 10 泥土\n  ▪ 20 粘土\n  ▪ 80 沙</Frame_Sand-WaterShallow.description>
+  <!-- EN: ↑ 沙（近水）\n\n↓ 浅水\n\n  ▪ 4 碎石\n  ▪ 2 泥土\n  ▪ 15 粘土\n  ▪ 32 沙 -->
+  <Frame_Sand-WaterShallow.description>↑ 沙（近水）\n\n↓ 浅水\n\n  ▪ 4 碎石\n  ▪ 2 泥土\n  ▪ 15 粘土\n  ▪ 32 沙</Frame_Sand-WaterShallow.description>
   
   <!-- EN: 棺材（建造中） -->
   <Frame_Sarcophagus.label>棺材（建造中）</Frame_Sarcophagus.label>
@@ -5756,13 +5759,13 @@
   
   <!-- EN: 砂砾（建造中） -->
   <Frame_SoilF-Gravel.label>砂砾（建造中）</Frame_SoilF-Gravel.label>
-  <!-- EN: ↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 30 泥土\n  ▪ 20 粘土\n  ▪ 5 泥炭\n  ▪ 10 沙 -->
-  <Frame_SoilF-Gravel.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 30 泥土\n  ▪ 20 粘土\n  ▪ 5 泥炭\n  ▪ 10 沙</Frame_SoilF-Gravel.description>
+  <!-- EN: ↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 2 泥土\n  ▪ 15 粘土\n  ▪ 4 泥炭\n  ▪ 4 沙 -->
+  <Frame_SoilF-Gravel.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 2 泥土\n  ▪ 15 粘土\n  ▪ 4 泥炭\n  ▪ 4 沙</Frame_SoilF-Gravel.description>
   
   <!-- EN: 湿软土地（建造中） -->
   <Frame_SoilF-Marsh.label>湿软土地（建造中）</Frame_SoilF-Marsh.label>
-  <!-- EN: ↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 湿软土地\n\n  ▪ 10 碎石\n  ▪ 30 泥土\n  ▪ 30 粘土\n  ▪ 5 泥炭\n  ▪ 20 沙\n  ▪ 2 肥料 -->
-  <Frame_SoilF-Marsh.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 湿软土地\n\n  ▪ 10 碎石\n  ▪ 30 泥土\n  ▪ 30 粘土\n  ▪ 5 泥炭\n  ▪ 20 沙\n  ▪ 2 肥料</Frame_SoilF-Marsh.description>
+  <!-- EN: ↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 2 泥土\n  ▪ 15 粘土\n  ▪ 4 泥炭\n  ▪ 4 沙 -->
+  <Frame_SoilF-Marsh.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n\n↓ 砂砾\n\n  ▪ 2 泥土\n  ▪ 15 粘土\n  ▪ 4 泥炭\n  ▪ 4 沙</Frame_SoilF-Marsh.description>
   
   <!-- EN: 压实泥土（建造中） -->
   <Frame_SoilF-PackedDirt.label>压实泥土（建造中）</Frame_SoilF-PackedDirt.label>
@@ -5771,13 +5774,13 @@
   
   <!-- EN: 石砾（建造中） -->
   <Frame_SoilF-RockyDirt.label>石砾 （建造中）</Frame_SoilF-RockyDirt.label>
-  <!-- EN: ↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 贫瘠土地 \n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 45 泥土\n  ▪ 10 粘土\n  ▪ 5 泥炭\n  ▪ 15 沙\n  ▪ 2 肥料 -->
-  <Frame_SoilF-RockyDirt.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 贫瘠土地 \n\n↓ 石砾\n\n  ▪ 10 碎石\n  ▪ 45 泥土\n  ▪ 10 粘土\n  ▪ 5 泥炭\n  ▪ 15 沙\n  ▪ 2 肥料</Frame_SoilF-RockyDirt.description>
+  <!-- EN: ↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 贫瘠土地 \n\n↓ 石砾\n\n  ▪ 4 碎石\n  ▪ 2 泥土\n  ▪ 8 粘土\n  ▪ 4 泥炭\n  ▪ 6 沙\n  ▪ 2 肥料 -->
+  <Frame_SoilF-RockyDirt.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 贫瘠土地 \n\n↓ 石砾\n\n  ▪ 4 碎石\n  ▪ 2 泥土\n  ▪ 8 粘土\n  ▪ 4 泥炭\n  ▪ 6 沙\n  ▪ 2 肥料</Frame_SoilF-RockyDirt.description>
   
   <!-- EN: 沙（建造中） -->
   <Frame_SoilF-Sand.label>沙（建造中）</Frame_SoilF-Sand.label>
-  <!-- EN: ↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 沙化土 \n↑ 贫瘠土地 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 50 泥土\n  ▪ 20 粘土\n  ▪ 15 泥炭\n  ▪ 4 肥料 -->
-  <Frame_SoilF-Sand.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 沙化土 \n↑ 贫瘠土地 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 50 泥土\n  ▪ 20 粘土\n  ▪ 15 泥炭\n  ▪ 4 肥料</Frame_SoilF-Sand.description>
+  <!-- EN: ↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 沙化土 \n↑ 贫瘠土地 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 50 泥土\n  ▪ 20 粘土\n  ▪ 15 泥炭\n  ▪ 2 堆肥料\n▪ 2 肥料 -->
+  <Frame_SoilF-Sand.description>↑ 土地\n↑ 草原土地\n↑ 肥沃土地\n↑ 边角土地\n↑ 回填土地\n↑ 苔藓地\n↑ 沙化土 \n↑ 贫瘠土地 \n\n↓ 沙\n\n  ▪ 20 碎石\n  ▪ 50 泥土\n  ▪ 20 粘土\n  ▪ 15 泥炭\n  ▪ 2 堆肥料\n▪ 2 肥料</Frame_SoilF-Sand.description>
   
   <!-- EN: 肥沃土地（建造中） -->
   <Frame_SoilF-SoilRich.label>肥沃土地（建造中）</Frame_SoilF-SoilRich.label>
@@ -5786,13 +5789,13 @@
   
   <!-- EN: 沼泽（建造中） -->
   <Frame_SoilMarshy-Marsh.label>沼泽（建造中）</Frame_SoilMarshy-Marsh.label>
-  <!-- EN: ↑ 湿软土地\n\n↓ 沼泽\n\n  ▪ 15 泥土\n  ▪ 20 粘土\n  ▪ 20 泥炭\n  ▪ 5 沙\n  ▪ 4 肥料 -->
-  <Frame_SoilMarshy-Marsh.description>↑ 湿软土地\n\n↓ 沼泽\n\n  ▪ 15 泥土\n  ▪ 20 粘土\n  ▪ 20 泥炭\n  ▪ 5 沙\n  ▪ 4 肥料</Frame_SoilMarshy-Marsh.description>
+  <!-- EN: ↑ 湿软土地\n\n↓ 沼泽\n\n  ▪ 4 泥土\n  ▪ 15 粘土\n  ▪ 15 泥炭\n  ▪ 2 沙\n ▪ 4 堆肥料\n▪ 2 肥料 -->
+  <Frame_SoilMarshy-Marsh.description>↑ 湿软土地\n\n↓ 沼泽\n\n  ▪ 4 泥土\n  ▪ 15 粘土\n  ▪ 15 泥炭\n  ▪ 2 沙\n ▪ 4 堆肥料\n▪ 2 肥料</Frame_SoilMarshy-Marsh.description>
   
   <!-- EN: 石砾（建造中） -->
   <Frame_SoilMarshy-RockyDirt.label>石砾 （建造中）</Frame_SoilMarshy-RockyDirt.label>
-  <!-- EN: ↑ 湿软土地\n\n↓ 石砾\n\n  ▪ 15 碎石\n  ▪ 30 泥土\n  ▪ 5 粘土\n  ▪ 5 泥炭\n  ▪ 25 沙\n  ▪ 2 肥料 -->
-  <Frame_SoilMarshy-RockyDirt.description>↑ 湿软土地\n\n↓ 石砾\n\n  ▪ 15 碎石\n  ▪ 30 泥土\n  ▪ 5 粘土\n  ▪ 5 泥炭\n  ▪ 25 沙\n  ▪ 2 肥料</Frame_SoilMarshy-RockyDirt.description>
+  <!-- EN: ↑ 湿软土地\n\n↓ 石砾\n\n  ▪ 6 碎石\n  ▪ 2 泥土\n  ▪ 4 粘土\n  ▪ 4 泥炭\n  ▪ 10 沙\n  ▪ 2 堆肥料 -->
+  <Frame_SoilMarshy-RockyDirt.description>↑ 湿软土地\n\n↓ 石砾\n\n  ▪ 6 碎石\n  ▪ 2 泥土\n  ▪ 4 粘土\n  ▪ 4 泥炭\n  ▪ 10 沙\n  ▪ 2 堆肥料</Frame_SoilMarshy-RockyDirt.description>
   
   <!-- EN: 土地（建造中） -->
   <Frame_SoilMarshy-SoilF.label>土地（建造中）</Frame_SoilMarshy-SoilF.label>
@@ -6461,8 +6464,8 @@
   
   <!-- EN: 深水（建造中） -->
   <Frame_WaterShallow-WaterDeep.label>深水（建造中）</Frame_WaterShallow-WaterDeep.label>
-  <!-- EN: ↑ 浅水\n\n↓ 深水\n\n  ▪ 5 碎石\n  ▪ 70 泥土\n  ▪ 70 粘土\n  ▪ 40 泥炭\n  ▪ 120 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！ -->
-  <Frame_WaterShallow-WaterDeep.description>↑ 浅水\n\n↓ 深水\n\n  ▪ 5 碎石\n  ▪ 70 泥土\n  ▪ 70 粘土\n  ▪ 40 泥炭\n  ▪ 120 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！</Frame_WaterShallow-WaterDeep.description>
+  <!-- EN: ↑ 浅水\n\n↓ 深水\n\n  ▪ 2 碎石\n  ▪ 2 泥土\n  ▪ 50 粘土\n  ▪ 30 泥炭\n  ▪ 48 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！ -->
+  <Frame_WaterShallow-WaterDeep.description>↑ 浅水\n\n↓ 深水\n\n  ▪ 2 碎石\n  ▪ 2 泥土\n  ▪ 50 粘土\n  ▪ 30 泥炭\n  ▪ 48 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！</Frame_WaterShallow-WaterDeep.description>
   
   <!-- EN: 武器加工台（建造中） -->
   <Frame_WeaponCraftingWorkTable.label>武器加工台（建造中）</Frame_WeaponCraftingWorkTable.label>

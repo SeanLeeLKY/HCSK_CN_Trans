@@ -1,136 +1,136 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: 81mm mortar -->
   <Artillery_Mortar.label>81mm迫击炮</Artillery_Mortar.label>
   <!-- EN: Lobs mortar shells on a high arc. Very inaccurate but long-ranged and capable of indirect fire. -->
   <Artillery_Mortar.description>迫击炮弹道呈高弧线形状。精度不高但射程很长，能实施间瞄射击。</Artillery_Mortar.description>
   <!-- EN: 81mm mortar -->
   <Artillery_Mortar.verbs.Verb_ShootMortarCE.label>81mm迫击炮</Artillery_Mortar.verbs.Verb_ShootMortarCE.label>
-
+  
   <!-- EN: 30mm GAU-8 Avenger -->
   <AvengerTurretGun.label>GAU-8复仇者火炮</AvengerTurretGun.label>
   <!-- EN: A manned turret mounted with a GAU-8 Avenger Fire Cannon that shoots at enemies. It deals extra armor-piercing damage if the round has a direct hit. It uses 30x173mm cartridge for ammo. The turret explodes when heavily damaged. -->
   <AvengerTurretGun.description>需要人工控制的GAU-8复仇者火炮塔。拥有较强的反器材能力。当承受大量伤害时可能发生大爆炸。使用30x173mm炮弹。</AvengerTurretGun.description>
-
+  
   <!-- EN: 155mm Howitzer cannon turret -->
   <HowitzerTurretGun.label>155mm榴弹炮</HowitzerTurretGun.label>
   <!-- EN: A turret mounted with a 155mm Howitzer Cannon. Fires over walls and needs to be manned. The turret explodes when heavily damaged. It uses 155mm Howitzer Shells for ammo. -->
   <HowitzerTurretGun.description>固定式的人工操作155mm榴弹炮。能够进行越墙攻击。当承受大量伤害时会发生爆炸。使用155mm口径炮弹。</HowitzerTurretGun.description>
-
+  
   <!-- EN: MS FGM-148 Javelin -->
   <LightMissileSystem.label>FGM-148“标枪”反坦克导弹</LightMissileSystem.label>
   <!-- EN: The Light Missile System fires 1 missile at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged. -->
   <LightMissileSystem.description>一种每次发射一枚导弹的轻型导弹系统。需要人工操作。当承受大量伤害时会发生爆炸。</LightMissileSystem.description>
-
+  
   <!-- EN: catapult -->
   <Medieval_Catapult.label>石弩</Medieval_Catapult.label>
   <!-- EN: A catapult that launches explosive/incendiary shells. Must be manned. -->
   <Medieval_Catapult.description>一种投射爆炸/燃烧弹药的攻城器械。需要人手动操作。</Medieval_Catapult.description>
-
+  
   <!-- EN: ballista -->
   <MedievalTimes_Ballista.label>弩炮</MedievalTimes_Ballista.label>
   <!-- EN: A large siege weapon originally developed by the Romans. fires a the equivalent of a massive crossbow bolt. Must me manned. -->
   <MedievalTimes_Ballista.description>这是最初由罗马人应用的一种大型攻城武器。它发射一种巨大的特制弩箭。需要人手动操作。</MedievalTimes_Ballista.description>
-
+  
   <!-- EN: Medium missile system -->
   <MediumMissileSystem.label>中型导弹系统</MediumMissileSystem.label>
   <!-- EN: The Medium Missile System fires 3 missiles at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged. -->
   <MediumMissileSystem.description>一种每轮可以向目标区域发射两枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</MediumMissileSystem.description>
-
+  
   <!-- EN: sentry naval turret -->
   <NavalGunTurretGun.label>舰载哨戒炮塔</NavalGunTurretGun.label>
   <!-- EN: An AI-controlled 35mm autocannon turret automatically fires at enemies. It requires 2,200 W to function. It deals extra armor-piercing damage if the round has a direct hit. The turret explodes when heavily damaged.\nCaliber: 30x173mm -->
   <NavalGunTurretGun.description>由AI控制的自动火炮塔。拥有较强的反器材能力。当承受大量伤害时可能发生爆炸。\n电力需求：2200W\n弹种：30x173mm炮弹</NavalGunTurretGun.description>
-
+  
   <!-- EN: Heavy missile system -->
   <RLGun.label>重型导弹系统</RLGun.label>
   <!-- EN: The Heavy Missile System fires 6 missiles at a target area with each volley. Fires over walls and needs to be manned. The turret explodes when heavily damaged. -->
   <RLGun.description>一种每轮可以向目标区域发射三枚导弹的武器系统。需要人工操作。当承受大量伤害时会发生爆炸。</RLGun.description>
-
+  
   <!-- EN: AGS-30 -->
   <Turret_AGS30GrenadeLauncher.label>AGS-30榴弹发射器</Turret_AGS30GrenadeLauncher.label>
   <!-- EN: A manned 30mm Grenade Launcher mounted on a turret. It uses 30mmx6 GL Turret Grenades for ammo. It fires a burst of 6 explosive grenades over medium distances. -->
   <Turret_AGS30GrenadeLauncher.description>一种手动操作的固定式榴弹发射器。使用30mmx6炮塔用榴弹。它可以在中等作战距离上一次投射6枚弹药。</Turret_AGS30GrenadeLauncher.description>
-
+  
   <!-- EN: AGS-17 -->
   <Turret_AGSThirty.label>AGS-17榴弹发射器</Turret_AGSThirty.label>
   <!-- EN: Lightweight automatic grenade launcher. -->
   <Turret_AGSThirty.description>一种轻型自动榴弹发射器。</Turret_AGSThirty.description>
-
+  
   <!-- EN: sentry heavy turret -->
   <Turret_Autocannon.label>重型哨戒炮塔</Turret_Autocannon.label>
   <!-- EN: An AI-controlled plated automatic turret with large caliber machine gun. Very resistant to damage. Requires 1,800 W to function.\nCaliber: 14.5x114mm -->
   <Turret_Autocannon.description>由AI控制的大载弹量机枪塔。能够抵抗大量伤害。\n电力需求：1800W\n弹种：14.5x114mm机枪弹</Turret_Autocannon.description>
-
+  
   <!-- EN: sentry blaster turret -->
   <Turret_Blaster.label>冲击哨戒炮塔</Turret_Blaster.label>
   <!-- EN: An AI-controlled turret equipped with a charge blaster. Requires 1,200 W to function.\nCaliber: 6x24mmCharged -->
   <Turret_Blaster.description>由AI控制的电荷冲击炮塔，会自动攻击靠近的敌人。\n电力需求：1200W\n弹种：6x24mm电荷弹</Turret_Blaster.description>
-
+  
   <!-- EN: 120mm tank cannon turret -->
   <Turret_Cannon.label>120mm坦克炮</Turret_Cannon.label>
   <!-- EN: A turret mounted with a 120mm tank gun. It can fire an explosive shell long distances, over walls and through constructed roofs. The turret will explode when heavily damaged. It uses 120mm Cannon Shells for ammo. -->
   <Turret_Cannon.description>装备了120mm坦克炮的炮塔。能够发射各种相应的爆炸弹药，射程较远并且能越墙攻击。当承受大量伤害时会发生爆炸。使用120mm口径炮弹。</Turret_Cannon.description>
-
+  
   <!-- EN: 90mm flak turret -->
   <Turret_Flak.label>90mm高射炮塔</Turret_Flak.label>
   <!-- EN: Old school anti-aircraft cannon. Ineffective against modern aviation but still popular on rimworlds for use against entrenched enemies and vehicles. -->
   <Turret_Flak.description>一种老式的防空火炮。现代战场上基本看不到这种武器了，不过在边缘世界，这依旧是一种很好用的防御和反器材武器。</Turret_Flak.description>
-
+  
   <!-- EN: 14.5mm KPV MG -->
   <Turret_KPV.label>KPV重机枪</Turret_KPV.label>
   <!-- EN: KPV heavy machine gun mounted on a tripod. -->
   <Turret_KPV.description>固定的KPV重机枪，使用14.5mm大口径机枪弹。</Turret_KPV.description>
-
+  
   <!-- EN: 7.62x51mm M240B MG -->
   <Turret_M240B.label>M240B机枪</Turret_M240B.label>
   <!-- EN: M240B medium machine gun mounted on a tripod. -->
   <Turret_M240B.description>在一个地面支架上固定一挺M240B型机枪。</Turret_M240B.description>
-
+  
   <!-- EN: 50BMG M2 Browning MG -->
   <Turret_M2Browning.label>M2 .50勃朗宁机枪</Turret_M2Browning.label>
   <!-- EN: A manned, mounted M2 Browning Heavy Machine Gun. It uses .50 BMG Bullets for ammo and fires in a 15 round burst. -->
   <Turret_M2Browning.description>一种需要手动操作，固定的M2勃朗宁重机枪。使用.50大口径机枪弹，每次点射发射15发弹药。</Turret_M2Browning.description>
-
+  
   <!-- EN: M134 minigun -->
   <Turret_Minigun.label>M134速射机枪</Turret_Minigun.label>
   <!-- EN: Sentry turret with M134 minigun. -->
   <Turret_Minigun.description>装有M134速射机枪的哨戒炮塔。</Turret_Minigun.description>
-
+  
   <!-- EN: sentry light turret -->
   <Turret_MiniTurret.label>轻型哨戒炮塔</Turret_MiniTurret.label>
   <!-- EN: An AI-controlled turret that automatically fires at nearby enemies. Requires 700 W to function.\nCaliber: 5.56x45mm NATO -->
   <Turret_MiniTurret.description>一种由AI控制的轻型炮塔，会自动攻击靠近的敌人。\n电力需求：700W\n弹种：5.56x45mm北约标准弹</Turret_MiniTurret.description>
-
+  
   <!-- EN: 81mm artillery mortar -->
   <Turret_Mortar.label>81mm迫击炮</Turret_Mortar.label>
   <!-- EN: A mortar that launches explosive shells. Must be manned. -->
   <Turret_Mortar.description>迫击炮弹道呈高弧线形状。精度不高但射程很长，能实施间瞄射击。</Turret_Mortar.description>
-
+  
   <!-- EN: 20mm Oerlikon autocannon -->
   <Turret_Oerlikonautocannon.label>20mm奥瑞康机炮</Turret_Oerlikonautocannon.label>
   <!-- EN: A manned turret mounted with a 20mm Oerlikon autocannon. It deals armor-piercing damage. The turret explodes when heavily damaged. It uses 20x102mm rounds for ammo. -->
   <Turret_Oerlikonautocannon.description>需要人工控制的奥瑞康机炮炮塔。拥有较强的反器材能力。当承受大量伤害时可能发生大爆炸。使用20x102mm炮弹。</Turret_Oerlikonautocannon.description>
-
+  
   <!-- EN: sentry rocket launcher -->
   <Turret_SentryRocketLauncher.label>哨戒火箭发射器</Turret_SentryRocketLauncher.label>
   <!-- EN: An AI-controlled sentry turret with rocket launcher. Requires 1,600 W to function.\nCaliber: AT Missile -->
   <Turret_SentryRocketLauncher.description>由AI控制的火箭发射系统。\n电力需求：1600W\n弹种：反坦克导弹</Turret_SentryRocketLauncher.description>
-
+  
   <!-- EN: sentry laserbeam turret -->
   <Turret_Sniper.label>光束哨戒炮塔</Turret_Sniper.label>
   <!-- EN: An AI-controlled highly calibrated gun turret with advanced optics. This allows it to deliver a single but precise laserbeam at fairly long distances. Requires 1,500 W to function.\nCaliber: Charged laser beam -->
   <Turret_Sniper.description>由AI控制的精密光学校准炮塔。可以在远距离上发射精确的单一光束弹。\n电力需求：1500W\n弹种：电荷光束弹</Turret_Sniper.description>
-
+  
   <!-- EN: BGM-71 TOW -->
   <Turret_TOWLauncher.label>BGM-71“陶式”反坦克导弹</Turret_TOWLauncher.label>
   <!-- EN: The TOW ("Tube-launched, Optically-tracked, Wire-guided") launcher is an anti-tank missile. First produced in 1970, the TOW is one of the most widely used anti-tank guided missiles. -->
   <Turret_TOWLauncher.description>“陶式”（TOW-管式发射，光学跟踪，有线制导）反坦克导弹于1970年首次生产，是应用最广泛的反坦克武器之一。</Turret_TOWLauncher.description>
-
+  
   <!-- EN: 20mm Vulcan cannon -->
   <Turret_VulcanCannon.label>20mm火神炮</Turret_VulcanCannon.label>
   <!-- EN: A fortified tower with a mounted 20mm Vulcan Cannon. It requires 800 W to function. It fires a quick, continuous stream of 20 bullets. Its high placement allows for a much longer range, but unfortunately due to that it can't aim directly down or close to itself and can't be placed indoors. It creates a sizable explosion when destroyed. -->
   <Turret_VulcanCannon.description>固定式安装的20mm火神炮炮塔。射速较高，一次发射20枚弹药。但是因为系统问题而无法瞄准卧倒目标或者过于靠近的目标，也无法安装在室内。当承受大量伤害时可能会发生大爆炸。\n电力需求：800W</Turret_VulcanCannon.description>
-
+  
 </LanguageData>

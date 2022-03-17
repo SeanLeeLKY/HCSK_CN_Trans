@@ -1,22 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: Charged laser charge pack -->
   <Ammo_ChargedLaser.label>电荷光束弹</Ammo_ChargedLaser.label>
   <Ammo_ChargedLaser.description>光束弹（非稳态）:\n非稳态光束弹（能够点燃物体）。\n\n使用于：</Ammo_ChargedLaser.description>
-  <!-- EN: 光束弹（非稳态）:\n非稳态光束弹（能够点燃物体）。\n\n使用于：\n(Core SK) -->
   <Ammo_ChargedLaser.oldDescription>光束弹（非稳态）:\n非稳态光束弹（能够点燃物体）。\n\n使用于：</Ammo_ChargedLaser.oldDescription>
-
+  
   <!-- EN: Charged laser charge pack (stable) -->
   <Ammo_ChargedLaser_Stable.label>电荷光束弹（稳态）</Ammo_ChargedLaser_Stable.label>
   <Ammo_ChargedLaser_Stable.description>光束弹（稳态）:\n稳态光束弹（不会点燃物体）。\n\n使用于：</Ammo_ChargedLaser_Stable.description>
-  <!-- EN: 光束弹（稳态）:\n稳态光束弹（不会点燃物体）。\n\n使用于：\n(Core SK) -->
   <Ammo_ChargedLaser_Stable.oldDescription>光束弹（稳态）:\n稳态光束弹（不会点燃物体）。\n\n使用于：</Ammo_ChargedLaser_Stable.oldDescription>
-
+  
   <!-- EN: Laser beam -->
   <Bullet_Laserbeam.label>电荷光束弹</Bullet_Laserbeam.label>
-
+  
   <!-- EN: Laser beam (Stable) -->
   <Bullet_Laserbeam_Stable.label>电荷光束弹（稳态）</Bullet_Laserbeam_Stable.label>
-
+  
 </LanguageData>

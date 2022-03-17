@@ -1,34 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: 5.56x45mm cartridge (AP) -->
   <Ammo_556x45mmNATO_AP.label>5.56x45mm 北约标准弹（穿甲弹）</Ammo_556x45mmNATO_AP.label>
   <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
   <Ammo_556x45mmNATO_AP.description>用于各种突击步枪的小型高速步枪子弹。</Ammo_556x45mmNATO_AP.description>
-  <!-- EN: 用于各种突击步枪的小型高速步枪子弹。\n(Core SK) -->
   <Ammo_556x45mmNATO_AP.oldDescription>用于各种突击步枪的小型高速步枪子弹。</Ammo_556x45mmNATO_AP.oldDescription>
-
+  
   <!-- EN: 5.56x45mm cartridge (FMJ) -->
   <Ammo_556x45mmNATO_FMJ.label>5.56x45mm 北约标准弹（全金属被甲弹）</Ammo_556x45mmNATO_FMJ.label>
   <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
   <Ammo_556x45mmNATO_FMJ.description>用于各种突击步枪的小型高速步枪子弹。</Ammo_556x45mmNATO_FMJ.description>
-  <!-- EN: 用于各种突击步枪的小型高速步枪子弹。\n(Core SK) -->
   <Ammo_556x45mmNATO_FMJ.oldDescription>用于各种突击步枪的小型高速步枪子弹。</Ammo_556x45mmNATO_FMJ.oldDescription>
-
+  
   <!-- EN: 5.56x45mm cartridge (HP) -->
   <Ammo_556x45mmNATO_HP.label>5.56x45mm 北约标准弹（空尖弹）</Ammo_556x45mmNATO_HP.label>
   <!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
   <Ammo_556x45mmNATO_HP.description>用于各种突击步枪的小型高速步枪子弹。</Ammo_556x45mmNATO_HP.description>
-  <!-- EN: 用于各种突击步枪的小型高速步枪子弹。\n(Core SK) -->
   <Ammo_556x45mmNATO_HP.oldDescription>用于各种突击步枪的小型高速步枪子弹。</Ammo_556x45mmNATO_HP.oldDescription>
-
+  
   <!-- EN: 5.56mm bullet (AP) -->
   <Bullet_556x45mmNATO_AP.label>5.56x45mm 北约标准弹（穿甲弹）</Bullet_556x45mmNATO_AP.label>
-
+  
   <!-- EN: 5.56mm bullet (FMJ) -->
   <Bullet_556x45mmNATO_FMJ.label>5.56x45mm 北约标准弹（全金属被甲弹）</Bullet_556x45mmNATO_FMJ.label>
-
+  
   <!-- EN: 5.56mm bullet (HP) -->
   <Bullet_556x45mmNATO_HP.label>5.56x45mm 北约标准弹（空尖弹）</Bullet_556x45mmNATO_HP.label>
-
+  
 </LanguageData>

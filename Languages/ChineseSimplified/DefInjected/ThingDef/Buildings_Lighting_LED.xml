@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: ceiling LED dark lamp -->
+  <CeilingLEDDarkLamp.label>微光LED吊灯</CeilingLEDDarkLamp.label>
+  <!-- EN: A ceiling LED lamp that lights an area. People need light to move and work at full speed. Must be placed under a roof. Requires 7 W. -->
+  <CeilingLEDDarkLamp.description>照亮一片区域的LED吊灯。人员需要在明亮的环境中才能正常工作和行动。这种灯必须放安装屋顶下面。\n电力需求：7 W。</CeilingLEDDarkLamp.description>
+  
   <!-- EN: ceiling LED lamp -->
   <CeilingLEDLamp.label>LED吊灯</CeilingLEDLamp.label>
   <!-- EN: A ceiling LED lamp that lights an area. People need light to move and work at full speed. Must be placed under a roof. Requires 10 W. -->
@@ -10,6 +15,11 @@
   <RopeLight.label>LED灯带</RopeLight.label>
   <!-- EN: This LED rope light can be placed over walls and other buildings. It requires 2 W and can be used to help move power around otherwise inaccessable areas. -->
   <RopeLight.description>这种LED灯带可以附着在墙上或者其他建筑上。消耗25W的电力来照明，并且可以为某些无法到达的区域提供电力。</RopeLight.description>
+  
+  <!-- EN: standing LED dark lamp (normal) -->
+  <StandingDarkLampLEDnormal.label>微光LED落地灯（中）</StandingDarkLampLEDnormal.label>
+  <!-- EN: A standing LED lamp that lights an area. Requires 7 W. -->
+  <StandingDarkLampLEDnormal.description>照亮一片区域的LED落地灯。\n电力需求：7 W。</StandingDarkLampLEDnormal.description>
   
   <!-- EN: standing LED lamp (large) -->
   <StandingLampLEDlarge.label>LED落地灯（大）</StandingLampLEDlarge.label>

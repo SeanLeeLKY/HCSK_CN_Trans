@@ -1,161 +1,116 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: cook fine meal -->
-  <CookMealFine.label>烹饪 优质食物</CookMealFine.label>
-  <!-- EN: Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients. Produces 2. -->
-  <CookMealFine.description>将生肉和素食材料组合，烹饪一份相对复杂的食物。\n\n产出：2。</CookMealFine.description>
-  <!-- EN: Cooking fine meal. -->
+  
+  <!-- EN: cook fine meal (x2) -->
+  <CookMealFine.label>烹饪 优质食物（x2）</CookMealFine.label>
+  <!-- EN: Cooks a somewhat complex meal from a combination of a protein and raw plant ingredients. Produces 2. -->
+  <CookMealFine.description>将蛋白素材和素食材料组合，烹饪一份相对复杂的食物。\n\n产出：2。</CookMealFine.description>
+  <!-- EN: Cooking fine meals (x2). -->
   <CookMealFine.jobString>正在烹饪 优质食物。</CookMealFine.jobString>
-
-  <!-- EN: cook fine meals （x4） -->
-  <CookMealFine_Bulk.label>烹饪 优质食物（x4）</CookMealFine_Bulk.label>
-  <!-- EN: Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients. Produces 8. -->
-  <CookMealFine_Bulk.description>将生肉和素食材料组合，烹饪一份相对复杂的食物。\n\n产出：8。</CookMealFine_Bulk.description>
-  <!-- EN: Cooking fine meals. -->
-  <CookMealFine_Bulk.jobString>正在烹饪 优质食物。</CookMealFine_Bulk.jobString>
-
-  <!-- EN: cook lavish meal -->
-  <CookMealLavish.label>烹饪 精致的食物</CookMealLavish.label>
-  <!-- EN: Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Produces 2. -->
-  <CookMealLavish.description>将生肉和素食材料组合，烹饪一份非常复杂的食物。\n\n产出：2。</CookMealLavish.description>
-  <!-- EN: Cooking lavish meal. -->
+  
+  <!-- EN: cook fine meal (x8) -->
+  <CookMealFineBulk.label>烹饪 优质食物（x8）</CookMealFineBulk.label>
+  <!-- EN: Cooks a somewhat complex meal from a combination of a protein and raw plant ingredients. Meals are produced in large, time-efficient batches at the expense of some wasted ingredients. Produces 8. -->
+  <CookMealFineBulk.description>将蛋白素材和素食材料组合，烹饪相对复杂的食物。因为是批量生产，为了减少处理时间，所以只能浪费一些原料。\n\n产出：8。。</CookMealFineBulk.description>
+  <!-- EN: Cooking fine meal (x8). -->
+  <CookMealFineBulk.jobString>正在烹饪 优质食物。</CookMealFineBulk.jobString>
+  
+  <!-- EN: cook lavish meal (x2) -->
+  <CookMealLavish.label>烹饪 精致的食物（x2）</CookMealLavish.label>
+  <!-- EN: Cooks a gourmet meal utilizing prime cuts of meat and garnished with other plant or meat ingredients. Produces 2. -->
+  <CookMealLavish.description>用切好的肉和其他配料，烹饪一顿美食。\n\n产出：2。</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal (x2). -->
   <CookMealLavish.jobString>正在烹饪 精致的食物。</CookMealLavish.jobString>
-
-  <!-- EN: cook lavish meals （x4） -->
-  <CookMealLavish_Bulk.label>烹饪 精致的食物（x4）</CookMealLavish_Bulk.label>
-  <!-- EN: Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Produces 8. -->
-  <CookMealLavish_Bulk.description>将生肉和素食材料组合，烹饪一份非常复杂的食物。\n\n产出：8。</CookMealLavish_Bulk.description>
-  <!-- EN: Cooking lavish meals. -->
-  <CookMealLavish_Bulk.jobString>正在烹饪 精致的食物。</CookMealLavish_Bulk.jobString>
-
+  
+  <!-- EN: cook lavish meal (x8) -->
+  <CookMealLavishBulk.label>烹饪 精致的食物（x8）</CookMealLavishBulk.label>
+  <!-- EN: Cooks a gourmet meal utilizing prime cuts of meat and garnished with other plant or meat ingredients. Meals are produced in large, time-efficient batches at the expense of some wasted ingredients. Produces 8. -->
+  <CookMealLavishBulk.description>用切好的肉和其他配料，烹饪一顿美食。因为是批量生产，为了减少处理时间，所以只能浪费一些原料。\n\n产出：8。</CookMealLavishBulk.description>
+  <!-- EN: Cooking lavish meal (x8). -->
+  <CookMealLavishBulk.jobString>正在 精致的食物。</CookMealLavishBulk.jobString>
+  
   <!-- EN: cook fruit salad -->
-  <CookMealSalad.label>烹饪 水果沙拉</CookMealSalad.label>
+  <CookMealSimple.label>烹饪 水果沙拉</CookMealSimple.label>
   <!-- EN: Prepares a fruit salad made from raw fruits. Produces 1. -->
-  <CookMealSalad.description>烹饪水果沙拉，由各种水果制成。\n\n产出：1。</CookMealSalad.description>
+  <CookMealSimple.description>各种水果制成的水果沙拉。\n\n产出：1。</CookMealSimple.description>
   <!-- EN: Preparing fruit salad. -->
-  <CookMealSalad.jobString>正在烹饪 水果沙拉。</CookMealSalad.jobString>
-
-  <!-- EN: cook fruit salads （x4） -->
-  <CookMealSalad_Bulk.label>烹饪 水果沙拉（x4）</CookMealSalad_Bulk.label>
-  <!-- EN: Prepares fruit salads made from raw fruits. Produces 4. -->
-  <CookMealSalad_Bulk.description>烹饪水果沙拉，由各种水果制成。\n\n产出：4。</CookMealSalad_Bulk.description>
+  <CookMealSimple.jobString>正在烹饪 水果沙拉。</CookMealSimple.jobString>
+  
+  <!-- EN: cook fruit salads (x4) -->
+  <CookMealSimpleBulk.label>烹饪 水果沙拉（x4）</CookMealSimpleBulk.label>
+  <!-- EN: Prepares fruit salads made from raw fruits. Produces 4. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealSimpleBulk.description>各种水果制成的水果沙拉。因为是批量生产，为了减少处理时间，所以只能浪费一些原料。\n\n产出：4。</CookMealSimpleBulk.description>
   <!-- EN: Preparing simple fruit salads. -->
-  <CookMealSalad_Bulk.jobString>正在烹饪 水果沙拉。</CookMealSalad_Bulk.jobString>
-
+  <CookMealSimpleBulk.jobString>正在烹饪 水果沙拉。</CookMealSimpleBulk.jobString>
+  
   <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>烹饪 包装生存食品</CookMealSurvival.label>
   <!-- EN: Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted. -->
   <CookMealSurvival.description>将生肉和素食材料组合，烹饪一分包装生存食品。大部分材料会被浪费。</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>正在烹饪 包装生存食品。</CookMealSurvival.jobString>
-
-  <!-- EN: cook roasted meat （x4） -->
-  <CookRoadMeatx4.label>烹饪 烤肉（x4）</CookRoadMeatx4.label>
-  <!-- EN: Prepares roasted meat. Produces 4. -->
-  <CookRoadMeatx4.description>烹饪 烤肉。\n\n产出：4。</CookRoadMeatx4.description>
-  <!-- EN: Roast meat. -->
-  <CookRoadMeatx4.jobString>正在烹饪 烤肉。</CookRoadMeatx4.jobString>
-
+  
+  <!-- EN: cook packaged survival meal (x4) -->
+  <CookMealSurvivalBulk.label>烹饪 包装生存食品（x4）</CookMealSurvivalBulk.label>
+  <!-- EN: Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealSurvivalBulk.description>将生肉和素食材料组合，烹饪包装生存食品。大部分材料会被浪费。</CookMealSurvivalBulk.description>
+  <!-- EN: Cooking survival meal (x4). -->
+  <CookMealSurvivalBulk.jobString>正在烹饪 包装生存食品。</CookMealSurvivalBulk.jobString>
+  
   <!-- EN: cook roasted meat -->
   <CookRoastedMeat.label>烹饪 烤肉</CookRoastedMeat.label>
   <!-- EN: Prepares roasted meat. Produces 1. -->
   <CookRoastedMeat.description>烹饪 烤肉。\n\n产出：1。</CookRoastedMeat.description>
   <!-- EN: Roasting meat. -->
   <CookRoastedMeat.jobString>正在烹饪 烤肉。</CookRoastedMeat.jobString>
-
-  <!-- EN: cook scrambled eggs -->
-  <CookScrambledEggs.label>烹饪 煎蛋</CookScrambledEggs.label>
-  <!-- EN: Prepare scrambled eggs. Produces 1. -->
-  <CookScrambledEggs.description>烹饪 煎蛋。\n\n产出：1。</CookScrambledEggs.description>
+  
+  <!-- EN: cook roasted meat (x4) -->
+  <CookRoastedMeatBulk.label>烹饪 烤肉（x4）</CookRoastedMeatBulk.label>
+  <!-- EN: Prepares roasted meat. Produces 4. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookRoastedMeatBulk.description>烹饪一批烤肉。因为是批量生产，为了减少处理时间，所以只能浪费一些原料。\n\n产出：4。</CookRoastedMeatBulk.description>
+  <!-- EN: Roast meat. -->
+  <CookRoastedMeatBulk.jobString>正在烹饪 烤肉。</CookRoastedMeatBulk.jobString>
+  
+  <!-- EN: cook scramble -->
+  <CookScrambledEggs.label>烹饪 煎蛋饼</CookScrambledEggs.label>
+  <!-- EN: Prepare scrambled eggs or tofu. Produces 1. -->
+  <CookScrambledEggs.description>烹炒煎蛋或者豆腐。\n\n产出：1。</CookScrambledEggs.description>
+  <!-- EN: Preparing scrambled eggs or tofu. -->
+  <CookScrambledEggs.jobString>正在烹饪 煎蛋饼。</CookScrambledEggs.jobString>
+  
+  <!-- EN: cook scrambled eggs (x4) -->
+  <CookScrambledEggsBulk.label>烹饪 煎蛋饼（x4）</CookScrambledEggsBulk.label>
+  <!-- EN: Prepare scrambled eggs. Produces 4. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookScrambledEggsBulk.description>烹炒煎蛋或者豆腐。因为是批量生产，为了减少处理时间，所以只能浪费一些原料。\n\n产出：4。</CookScrambledEggsBulk.description>
   <!-- EN: Preparing scrambled eggs. -->
-  <CookScrambledEggs.jobString>正在烹饪 煎蛋。</CookScrambledEggs.jobString>
-
-  <!-- EN: cook scrambled eggs （x4） -->
-  <CookScrambledEggs_Bulk.label>烹饪 煎蛋（x4）</CookScrambledEggs_Bulk.label>
-  <!-- EN: Prepare scrambled eggs. Produces 4. -->
-  <CookScrambledEggs_Bulk.description>烹饪 煎蛋。\n\n产出：4。</CookScrambledEggs_Bulk.description>
-  <!-- EN: Preparing scrambled eggs. -->
-  <CookScrambledEggs_Bulk.jobString>正在烹饪 煎蛋。</CookScrambledEggs_Bulk.jobString>
-
+  <CookScrambledEggsBulk.jobString>正在烹饪 煎蛋饼。</CookScrambledEggsBulk.jobString>
+  
   <!-- EN: make pemmican -->
   <Make_Pemmican.label>制作 干肉饼</Make_Pemmican.label>
   <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
   <Make_Pemmican.description>制作干肉饼, 一种由肉食和素食混合脱水制成的食物。味道平平。无需冷藏即能保存很长时间。</Make_Pemmican.description>
   <!-- EN: Making pemmican. -->
   <Make_Pemmican.jobString>正在制作 干肉饼。</Make_Pemmican.jobString>
-
+  
   <!-- EN: make pemmican x4 -->
   <Make_PemmicanBulk.label>制作 干肉饼（x4）</Make_PemmicanBulk.label>
-  <!-- EN: Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
+  <!-- EN: Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. Much of the ingredients are wasted in order to create the best eating experience. -->
   <Make_PemmicanBulk.description>一次制作大量干肉饼, 一种由肉食和素食混合脱水制成的食物。味道平平。无需冷藏即能保存很长时间。</Make_PemmicanBulk.description>
   <!-- EN: Making bulk pemmican. -->
   <Make_PemmicanBulk.jobString>正在制作 干肉饼。</Make_PemmicanBulk.jobString>
-
-  <!-- EN: cook fried cave mushrooms -->
-  <MakeFriedMushrooms.label>烹饪 炒蘑菇</MakeFriedMushrooms.label>
-  <!-- EN: Prepares fried cave mushrooms. Produces 1. -->
-  <MakeFriedMushrooms.description>烹饪 炒蘑菇。\n\n产出：1。</MakeFriedMushrooms.description>
-  <!-- EN: Preparing fried cave mushrooms. -->
-  <MakeFriedMushrooms.jobString>正在烹饪 炒蘑菇。</MakeFriedMushrooms.jobString>
-
-  <!-- EN: cook fried cave mushrooms （x4） -->
-  <MakeFriedMushrooms_Bulk.label>烹饪 炒蘑菇（x4）</MakeFriedMushrooms_Bulk.label>
-  <!-- EN: Prepares fried cave mushrooms. Produces 4. -->
-  <MakeFriedMushrooms_Bulk.description>烹饪 炒蘑菇。\n\n产出：4。</MakeFriedMushrooms_Bulk.description>
-  <!-- EN: Preparing fried cave mushrooms. -->
-  <MakeFriedMushrooms_Bulk.jobString>正在烹饪 炒蘑菇。</MakeFriedMushrooms_Bulk.jobString>
-
-  <!-- EN: cook fried assorts -->
+  
+  <!-- EN: panfry vegetables -->
   <MakeVegetables.label>烹饪 炒蔬菜</MakeVegetables.label>
   <!-- EN: Prepares a simple dried assortment of vegetables. Produces 1. -->
   <MakeVegetables.description>烹饪一份简单的蔬菜合炒。\n\n产出：1。</MakeVegetables.description>
   <!-- EN: Cooking fried assorts. -->
   <MakeVegetables.jobString>正在烹饪 炒蔬菜。</MakeVegetables.jobString>
-
-  <!-- EN: cook fried assorts （x4） -->
-  <MakeVegetables_Bulk.label>烹饪 炒蔬菜（x4）</MakeVegetables_Bulk.label>
-  <!-- EN: Prepares a simple dried assortment of vegetables. Produces 4. -->
-  <MakeVegetables_Bulk.description>烹饪几份简单的蔬菜合炒。\n\n产出：4。</MakeVegetables_Bulk.description>
+  
+  <!-- EN: panfry vegetables (x4) -->
+  <MakeVegetablesBulk.label>烹饪 炒蔬菜（x4）</MakeVegetablesBulk.label>
+  <!-- EN: Prepares a simple dried assortment of vegetables. Produces 4. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <MakeVegetablesBulk.description>烹饪简单的蔬菜合炒。因为是批量生产，为了减少处理时间，所以只能浪费一些原料。\n\n产出：4。</MakeVegetablesBulk.description>
   <!-- EN: Cooking fried assorts. -->
-  <MakeVegetables_Bulk.jobString>正在烹饪 炒蔬菜。</MakeVegetables_Bulk.jobString>
-
-  <MakePelmeniBulk.label>烹制 俄式饺子 （x4）</MakePelmeniBulk.label>
-  <MakePelmeniBulk.description>用肉和面粉制作俄式饺子。\n\n产出：8。</MakePelmeniBulk.description>
-  <MakePelmeniBulk.jobString>正在烹制 俄式饺子。</MakePelmeniBulk.jobString>
-
-  <MakePotatoesCheeseBulk.label>烤制 芝士土豆（x4）</MakePotatoesCheeseBulk.label>
-  <MakePotatoesCheeseBulk.description>烤制放上奶酪的土豆。\n\n产出：12。</MakePotatoesCheeseBulk.description>
-  <MakePotatoesCheeseBulk.jobString>正在烤制 芝士土豆。</MakePotatoesCheeseBulk.jobString>
-
-  <MakeCoconutCurryBulk.label>烹制 椰香咖喱（x4）</MakeCoconutCurryBulk.label>
-  <MakeCoconutCurryBulk.description>用肉、米和椰奶制作异国风味的菜肴。</MakeCoconutCurryBulk.description>
-  <MakeCoconutCurryBulk.jobString>正在烹饪 椰香咖喱。</MakeCoconutCurryBulk.jobString>
-
-  <MakeMushroomMadnessBulk.label>制作 幻菇秘串（x4）</MakeMushroomMadnessBulk.label>
-  <MakeMushroomMadnessBulk.description>用不同的蘑菇做一道神秘的菜。</MakeMushroomMadnessBulk.description>
-  <MakeMushroomMadnessBulk.jobString>正在烹饪 幻菇秘串。</MakeMushroomMadnessBulk.jobString>
-
-  <MakeKebabBulk.label>制作 烤肉串（x4）</MakeKebabBulk.label>
-  <MakeKebabBulk.description>用蔬菜、蘑菇和肉做烤肉串。</MakeKebabBulk.description>
-  <MakeKebabBulk.jobString>正在烹饪 烤肉串。</MakeKebabBulk.jobString>
-
-  <MakeMakiRollsBulk.label>制作 细卷（x4）</MakeMakiRollsBulk.label>
-  <MakeMakiRollsBulk.description>用大米、藻类和鱼肉制作的叫细卷的寿司卷。</MakeMakiRollsBulk.description>
-  <MakeMakiRollsBulk.jobString>正在烹饪 细卷。</MakeMakiRollsBulk.jobString>
-
-  <CookHeartyStewBulk.label>烹制 炖菜рагу （x4）</CookHeartyStewBulk.label>
-  <CookHeartyStewBulk.description>用生肉、土豆和胡萝卜制作丰盛的炖菜。</CookHeartyStewBulk.description>
-  <CookHeartyStewBulk.jobString>正在烹饪 炖菜。</CookHeartyStewBulk.jobString>
-
-  <CookMeatSoupBulk.label>烹制 肉汤（x4）</CookMeatSoupBulk.label>
-  <CookMeatSoupBulk.description>用生肉和一些蔬菜制作肉汤。</CookMeatSoupBulk.description>
-  <CookMeatSoupBulk.jobString>正在烹饪 肉汤。</CookMeatSoupBulk.jobString>
-
-  <MakeCheeseGrilledBulk.label>烤制 芝士三明治（x4）</MakeCheeseGrilledBulk.label>
-  <MakeCheeseGrilledBulk.description>用面包和奶酪一起烤制三明治。</MakeCheeseGrilledBulk.description>
-  <MakeCheeseGrilledBulk.jobString>正在烤制 芝士三明治。</MakeCheeseGrilledBulk.jobString>
-
-
-
+  <MakeVegetablesBulk.jobString>正在烹饪 炒蔬菜。</MakeVegetablesBulk.jobString>
+  
 </LanguageData>

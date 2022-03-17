@@ -3,67 +3,67 @@
   
   <!-- EN: Apparel production IV -->
   <AdvancedFabrication.label>服装生产 IV</AdvancedFabrication.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <AdvancedFabrication.description>TODO</AdvancedFabrication.description>
   
   <!-- EN: Apparel production I -->
   <Apparel_A1.label>服装生产 I</Apparel_A1.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Apparel_A1.description>TODO</Apparel_A1.description>
   
   <!-- EN: Advanced sewing I -->
   <Apparel_A2.label>高级缝纫 I</Apparel_A2.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Apparel_A2.description>TODO</Apparel_A2.description>
   
   <!-- EN: Apparel production II -->
   <Apparel_B1.label>服装生产 II</Apparel_B1.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Apparel_B1.description>TODO</Apparel_B1.description>
   
   <!-- EN: Advanced sewing III -->
   <Apparel_B3.label>高级缝纫 III</Apparel_B3.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Apparel_B3.description>TODO</Apparel_B3.description>
   
   <!-- EN: Advanced sewing IV -->
   <Apparel_C2.label>高级缝纫 IV</Apparel_C2.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Apparel_C2.description>TODO</Apparel_C2.description>
   
   <!-- EN: Sewing technology -->
   <Apparel_C3.label>缝纫技术</Apparel_C3.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Apparel_C3.description>TODO</Apparel_C3.description>
   
   <!-- EN: Advanced sewing V -->
   <Apparel_C5.label>高级缝纫 V</Apparel_C5.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Apparel_C5.description>TODO</Apparel_C5.description>
   
   <!-- EN: Apparel production V -->
   <Apparel_D1.label>服装生产 V</Apparel_D1.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Apparel_D1.description>TODO</Apparel_D1.description>
   
   <!-- EN: Armor II -->
   <Armor_B2.label>护甲 II</Armor_B2.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Armor_B2.description>TODO</Armor_B2.description>
   
   <!-- EN: Armor III -->
   <Armor_C1.label>护甲 III</Armor_C1.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Armor_C1.description>TODO</Armor_C1.description>
   
   <!-- EN: Armor V -->
   <Armor_D1.label>护甲 V</Armor_D1.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Armor_D1.description>TODO</Armor_D1.description>
   
   <!-- EN: Armor VIII -->
   <Armor_E3.label>护甲 VIII</Armor_E3.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Armor_E3.description>TODO</Armor_E3.description>
   
   <!-- EN: cataphract armor -->
@@ -73,19 +73,19 @@
   
   <!-- EN: Advanced sewing II -->
   <ComplexClothing.label>高级缝纫 II</ComplexClothing.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <ComplexClothing.description>TODO</ComplexClothing.description>
   
   <!-- EN: Apparel production III -->
   <Fabrication.label>服装生产 III</Fabrication.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <Fabrication.description>TODO</Fabrication.description>
   <Fabrication.discoveredLetterText>现在你可以建造精密装配台了，但是还缺乏一些高级零部件，你可以通过以下几种方式得到：\n\n-所有外来者定居点都有高级零部件出售。可以派出远行队去买一些。\n- 来访的贸易商队有时候也会携带高级零部件。邀请或等待他们造访。\n-一些任务会给予高级零部件作为奖励。</Fabrication.discoveredLetterText>
   <Fabrication.discoveredLetterTitle>关于：获取高级零部件</Fabrication.discoveredLetterTitle>
   
   <!-- EN: Armor IV -->
   <FlakArmor.label>护甲 IV</FlakArmor.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <FlakArmor.description>TODO</FlakArmor.description>
   
   <!-- EN: gunlink -->
@@ -105,17 +105,17 @@
   
   <!-- EN: Armor I -->
   <PlateArmor.label>护甲 I</PlateArmor.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <PlateArmor.description>TODO</PlateArmor.description>
   
   <!-- EN: Armor VII -->
   <PoweredArmor.label>护甲 VII</PoweredArmor.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <PoweredArmor.description>TODO</PoweredArmor.description>
   
   <!-- EN: Armor VI -->
   <ReconArmor.label>护甲 VI</ReconArmor.label>
-  <!-- EN: description\n(Core SK) -->
+  <!-- EN: description -->
   <ReconArmor.description>TODO</ReconArmor.description>
   
   <!-- EN: royal apparel -->
