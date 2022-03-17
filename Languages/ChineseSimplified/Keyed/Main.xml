@@ -570,7 +570,7 @@
 	<!-- EN:  low temp -->
   <LTStatus>温度过低</LTStatus>
 	<!-- EN: Limit capacity to  -->
-  <LimitMaxFuelTo>TODO</LimitMaxFuelTo>
+  <LimitMaxFuelTo>最大容量至</LimitMaxFuelTo>
 	<!-- EN: Refuel at  -->
   <RefuelAt>添加燃料于</RefuelAt>
 	<!-- EN: Fuel search radius:  -->
@@ -584,7 +584,7 @@
 	<!-- EN: Max temperature:  -->
   <MaxTempertarure>最高温度：</MaxTempertarure>
 	<!-- EN: Weather penalty:  -->
-  <RainPenalty>TODO</RainPenalty>
+  <RainPenalty>天气影响：</RainPenalty>
 	<!-- EN: No fuel -->
   <NoFuel>没有燃料</NoFuel>
 	<!-- EN: Fuel Drop -->
