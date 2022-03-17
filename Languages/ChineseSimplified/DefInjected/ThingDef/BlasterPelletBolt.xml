@@ -3,8 +3,8 @@
   
   <!-- EN: Blaster pellet bolt -->
   <Ammo_BlasterPelletBolt.label>冲击电荷霰弹</Ammo_BlasterPelletBolt.label>
-  <Ammo_BlasterPelletBolt.description><!-- 电荷弹（聚能）:\n将大量带电粒子聚焦在弹头尖端周围，以阻止能量的消耗提高装甲穿透力。\n\n使用于： --></Ammo_BlasterPelletBolt.description>
-  <!-- <Ammo_BlasterPelletBolt.oldDescription>电荷弹（聚能）:\n将大量带电粒子聚焦在弹头尖端周围，以阻止能量的消耗提高装甲穿透力。\n\n使用于：</Ammo_BlasterPelletBolt.oldDescription> -->
+  <Ammo_BlasterPelletBolt.description>电荷弹（聚能）:\n将大量带电粒子聚焦在弹头尖端周围，以阻止能量的消耗提高装甲穿透力。</Ammo_BlasterPelletBolt.description>
+  <Ammo_BlasterPelletBolt.oldDescription>电荷弹（聚能）:\n将大量带电粒子聚焦在弹头尖端周围，以阻止能量的消耗提高装甲穿透力。</Ammo_BlasterPelletBolt.oldDescription>
   
   <!-- EN: Blaster pellet bolt -->
   <Bullet_BlasterPelletBolt.label>冲击电荷霰弹</Bullet_BlasterPelletBolt.label>
