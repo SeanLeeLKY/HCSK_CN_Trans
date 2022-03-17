@@ -3,9 +3,9 @@
 
   <!-- EN: Plasma bolt -->
   <Ammo_PlasmaBolt.label>等离子弹</Ammo_PlasmaBolt.label>
-  <Ammo_PlasmaBolt.description>\n\n电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。\n\n使用于：</Ammo_PlasmaBolt.description>
-  <!-- EN: \n\n电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。\n\n使用于：\n(Core SK) -->
-  <Ammo_PlasmaBolt.oldDescription>\n\n电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。\n\n使用于：</Ammo_PlasmaBolt.oldDescription>
+  <Ammo_PlasmaBolt.description>电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。\n\n使用于：</Ammo_PlasmaBolt.description>
+  <!-- EN: 电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。\n\n使用于：\n(Core SK) -->
+  <Ammo_PlasmaBolt.oldDescription>电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。\n\n使用于：</Ammo_PlasmaBolt.oldDescription>
 
   <!-- EN: Plasma bolt -->
   <Bullet_Plasma.label>等离子弹</Bullet_Plasma.label>
