@@ -1,81 +1,81 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>缝制 混缝皮革</Make_Patchleather.label>
+  <Make_Patchleather.label>缝制混缝皮革</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
   <Make_Patchleather.description>将多种皮革混合缝制成劣质的混缝皮革。</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
   <Make_Patchleather.jobString>正在缝制混缝皮革。</Make_Patchleather.jobString>
-  
+
   <!-- EN: Create chitin plating -->
-  <MakeChitinPlating.label>制造 甲壳板</MakeChitinPlating.label>
+  <MakeChitinPlating.label>制作甲壳板</MakeChitinPlating.label>
   <!-- EN: Create chitin plating from chitin and synthetic fibers. Produces 15. -->
   <MakeChitinPlating.description>使用动物甲壳和人造纤维来制造甲壳板。\n\n产出：15</MakeChitinPlating.description>
   <!-- EN: Spinning synthread from synthetic fibers. -->
   <MakeChitinPlating.jobString>正在制造甲壳板。</MakeChitinPlating.jobString>
-  
+
   <!-- EN: Spin cloth -->
-  <MakeCloth.label>纺织 布</MakeCloth.label>
+  <MakeCloth.label>纺织布</MakeCloth.label>
   <!-- EN: Spin cloth from raw cotton. Produces 20. -->
   <MakeCloth.description>将棉花纺织成布。\n\n产出：20</MakeCloth.description>
   <!-- EN: Spinning cloth from raw cotton. -->
   <MakeCloth.jobString>正在纺织布。</MakeCloth.jobString>
-  
+
   <!-- EN: Spin devilstrand cloth -->
-  <MakeDevilstrand.label>纺织 魔菇布</MakeDevilstrand.label>
+  <MakeDevilstrand.label>纺织魔菇布</MakeDevilstrand.label>
   <!-- EN: Spin devilstrand cloth from synthetic fibers. Produces 15. -->
   <MakeDevilstrand.description>将恶魔菇制成魔菇布。\n\n产出：15</MakeDevilstrand.description>
   <!-- EN: Spinning devilstrand cloth from synthetic fibers. -->
   <MakeDevilstrand.jobString>正在制作魔菇布。</MakeDevilstrand.jobString>
-  
+
   <!-- EN: Spin hemp -->
-  <MakeHempCloth.label>纺织 麻布</MakeHempCloth.label>
+  <MakeHempCloth.label>纺织麻布</MakeHempCloth.label>
   <!-- EN: Spin weed into hemp. Produces 15. -->
   <MakeHempCloth.description>将大麻纤维纺织成麻布。\n\n产出：15</MakeHempCloth.description>
   <!-- EN: Spinning hemp from weed. -->
   <MakeHempCloth.jobString>正在纺织麻布。</MakeHempCloth.jobString>
-  
+
   <!-- EN: Craft hex-cells -->
-  <MakeHexcell.label>制作 动力电池</MakeHexcell.label>
+  <MakeHexcell.label>制作动力电池</MakeHexcell.label>
   <!-- EN: Craft hex-cells. These are used as power source in various pieces of high-tech armor. Produces 10. -->
   <MakeHexcell.description>制作动力电池。主要用于各类高科技盔甲的内置能量源。 \n\n产出：10</MakeHexcell.description>
   <!-- EN: Crafting hex-cells. -->
   <MakeHexcell.jobString>正在制作动力电池。</MakeHexcell.jobString>
-  
+
   <!-- EN: Spin hyperweave -->
   <MakeHyperweaveCloth.label>纺织超织物</MakeHyperweaveCloth.label>
   <!-- EN: Spin hyperweave from synthread and devilstrand cloth. Produces 10. -->
   <MakeHyperweaveCloth.description>将人造纤维和魔菇布制成成超织物。\n\n产出：10</MakeHyperweaveCloth.description>
   <!-- EN: Spinning hyperweave from devilstrand and synthread. -->
   <MakeHyperweaveCloth.jobString>正在制作超超织物。</MakeHyperweaveCloth.jobString>
-  
+
   <!-- EN: Create kevlar -->
-  <MakeKevlar.label>制造 凯夫拉</MakeKevlar.label>
+  <MakeKevlar.label>制作凯夫拉</MakeKevlar.label>
   <!-- EN: Create kevlar from plastic and synthetic fibers. Produces 10. -->
   <MakeKevlar.description>利用人造纤维以及塑料制造凯夫拉材料。 \n\n产出：10。</MakeKevlar.description>
   <!-- EN: Creating kevlar. -->
-  <MakeKevlar.jobString>正在制造 凯夫拉。</MakeKevlar.jobString>
-  
+  <MakeKevlar.jobString>正在制作凯夫拉。</MakeKevlar.jobString>
+
   <!-- EN: Spin linen cloth -->
-  <MakeLinen.label>纺织 亚麻布</MakeLinen.label>
+  <MakeLinen.label>纺织亚麻布</MakeLinen.label>
   <!-- EN: Spin linen cloth from raw flax. Produces 10. -->
   <MakeLinen.description>将亚麻织成亚麻布。\n\n产出：10</MakeLinen.description>
   <!-- EN: Spinning linen cloth from raw flax. -->
   <MakeLinen.jobString>正在纺织亚麻布。</MakeLinen.jobString>
-  
+
   <!-- EN: Spin synthread -->
-  <MakeSynthreadCloth.label>制作 合成纤维</MakeSynthreadCloth.label>
+  <MakeSynthreadCloth.label>制作合成纤维</MakeSynthreadCloth.label>
   <!-- EN: Spin synthread from raw cotton and synthetic fibers. Produces 10. -->
   <MakeSynthreadCloth.description>将棉花纤维和人造纤维纺织成合成纤维。 \n\n产出：10</MakeSynthreadCloth.description>
   <!-- EN: Spinning synthread from synthetic fibers. -->
   <MakeSynthreadCloth.jobString>正在制作合成纤维。</MakeSynthreadCloth.jobString>
-  
+
   <!-- EN: Spin velour -->
-  <MakeVelour.label>纺织 丝绒</MakeVelour.label>
+  <MakeVelour.label>纺织丝绒</MakeVelour.label>
   <!-- EN: Spin velour, a plush woven fabric resembling velvet, chiefly used for soft furnishings, casual clothing, and hats. Produces 25. -->
   <MakeVelour.description>纺织丝绒，一种类似天鹅绒的毛绒机织物，主要用于制造柔软的家具、休闲服装和帽子。 \n\n产出：25</MakeVelour.description>
   <!-- EN: Spinning velour from various materials. -->
   <MakeVelour.jobString>正在纺织丝绒。</MakeVelour.jobString>
-  
+
 </LanguageData>

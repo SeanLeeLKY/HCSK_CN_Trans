@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: make metallic balista bolts x10 -->
-  <MakeAmmo_BalistaBolt.label>制造 金属头弩炮箭 x10</MakeAmmo_BalistaBolt.label>
+  <MakeAmmo_BalistaBolt.label>制作金属头弩炮箭 x10</MakeAmmo_BalistaBolt.label>
   <!-- EN: Craft 10 balista metallic bolts. -->
-  <MakeAmmo_BalistaBolt.description>制造 10 金属头弩炮箭。</MakeAmmo_BalistaBolt.description>
+  <MakeAmmo_BalistaBolt.description>制作10 金属头弩炮箭。</MakeAmmo_BalistaBolt.description>
   <!-- EN: Making balista bolts. -->
-  <MakeAmmo_BalistaBolt.jobString>正在制造 弩炮箭。</MakeAmmo_BalistaBolt.jobString>
-  
+  <MakeAmmo_BalistaBolt.jobString>正在制作弩炮箭。</MakeAmmo_BalistaBolt.jobString>
+
 </LanguageData>

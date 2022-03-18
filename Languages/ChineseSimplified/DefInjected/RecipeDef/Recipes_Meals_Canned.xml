@@ -1,46 +1,46 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: cook basic canned food -->
-  <MakeBasicCannedFood.label>制作 罐装主食</MakeBasicCannedFood.label>
+  <MakeBasicCannedFood.label>制作罐装主食</MakeBasicCannedFood.label>
   <!-- EN: Preserve plant ingredients in cans to prevent spoiling. Produces 75. -->
   <MakeBasicCannedFood.description>将新鲜食材封存到罐头中，可以防止食材变质。 \n\n产出：75</MakeBasicCannedFood.description>
   <!-- EN: Canning plant ingredients. -->
-  <MakeBasicCannedFood.jobString>正在制作 罐头</MakeBasicCannedFood.jobString>
-  
+  <MakeBasicCannedFood.jobString>正在制作罐头</MakeBasicCannedFood.jobString>
+
   <!-- EN: cook extra canned food -->
-  <MakeExtraCannedFood.label>制作 罐装副食</MakeExtraCannedFood.label>
+  <MakeExtraCannedFood.label>制作罐装副食</MakeExtraCannedFood.label>
   <!-- EN: Preserve plant ingredients in cans to prevent spoiling. Produces 75. -->
   <MakeExtraCannedFood.description>将新鲜食材封存到罐头中，可以防止食材变质。 \n\n产出：75</MakeExtraCannedFood.description>
   <!-- EN: Canning extra plant ingriedents. -->
-  <MakeExtraCannedFood.jobString>正在制作 罐头</MakeExtraCannedFood.jobString>
-  
+  <MakeExtraCannedFood.jobString>正在制作罐头</MakeExtraCannedFood.jobString>
+
   <!-- EN: cook canned prime meat -->
-  <MakeMetalCannedMeat_prime.label>制作 罐装精肉</MakeMetalCannedMeat_prime.label>
+  <MakeMetalCannedMeat_prime.label>制作罐装精肉</MakeMetalCannedMeat_prime.label>
   <!-- EN: Preserve meat in cans to prevent spoiling. Produces 75. -->
   <MakeMetalCannedMeat_prime.description>将新鲜肉类封存到罐头中，可以防止食材变质。 \n\n产出：75</MakeMetalCannedMeat_prime.description>
   <!-- EN: Canning meat. -->
-  <MakeMetalCannedMeat_prime.jobString>正在制作 罐头</MakeMetalCannedMeat_prime.jobString>
-  
+  <MakeMetalCannedMeat_prime.jobString>正在制作罐头</MakeMetalCannedMeat_prime.jobString>
+
   <!-- EN: cook canned raw meat -->
-  <MakeMetalCannedMeat_raw.label>制作 罐装生肉</MakeMetalCannedMeat_raw.label>
+  <MakeMetalCannedMeat_raw.label>制作罐装生肉</MakeMetalCannedMeat_raw.label>
   <!-- EN: Preserve meat in cans to prevent spoiling. Produces 75. -->
   <MakeMetalCannedMeat_raw.description>将新鲜肉类封存到罐头中，可以防止食材变质。 \n\n产出：75</MakeMetalCannedMeat_raw.description>
   <!-- EN: Canning meat. -->
-  <MakeMetalCannedMeat_raw.jobString>正在制作 罐头</MakeMetalCannedMeat_raw.jobString>
-  
+  <MakeMetalCannedMeat_raw.jobString>正在制作罐头</MakeMetalCannedMeat_raw.jobString>
+
   <!-- EN: pickle vegetable -->
-  <PickleVegetable.label>腌制 蔬菜</PickleVegetable.label>
+  <PickleVegetable.label>腌制蔬菜</PickleVegetable.label>
   <!-- EN: Preserve vegetables in a salty brine to prevent spoiling. -->
   <PickleVegetable.description>用盐水腌制蔬菜，可以防止蔬菜过快变质。</PickleVegetable.description>
   <!-- EN: Pickling vegetables. -->
-  <PickleVegetable.jobString>正在腌制 蔬菜</PickleVegetable.jobString>
-  
+  <PickleVegetable.jobString>正在腌制蔬菜</PickleVegetable.jobString>
+
   <!-- EN: salt meat -->
-  <SaltMeat.label>腌制 肉类</SaltMeat.label>
+  <SaltMeat.label>腌制肉类</SaltMeat.label>
   <!-- EN: Preserve meats in salt to prevent spoiling. -->
   <SaltMeat.description>用盐腌制肉类，可以防止肉类过快变质。</SaltMeat.description>
   <!-- EN: Salting meat. -->
-  <SaltMeat.jobString>正在腌制 肉类</SaltMeat.jobString>
-  
+  <SaltMeat.jobString>正在腌制肉类</SaltMeat.jobString>
+
 </LanguageData>

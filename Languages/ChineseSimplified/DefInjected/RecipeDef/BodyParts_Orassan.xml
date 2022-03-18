@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Install bionic tail -->
-  <InstallBionicTail.label>安装 仿生尾</InstallBionicTail.label>
+  <InstallBionicTail.label>安装仿生尾</InstallBionicTail.label>
   <!-- EN: Installs bionic tail. -->
-  <InstallBionicTail.description>安装 仿生尾。</InstallBionicTail.description>
+  <InstallBionicTail.description>安装仿生尾。</InstallBionicTail.description>
   <!-- EN: Installing bionic tail. -->
-  <InstallBionicTail.jobString>正在安装 仿生尾。</InstallBionicTail.jobString>
-  
+  <InstallBionicTail.jobString>正在安装仿生尾。</InstallBionicTail.jobString>
+
   <!-- EN: Install cloth tail -->
-  <InstallClothTail.label>安装 布尾</InstallClothTail.label>
+  <InstallClothTail.label>安装布尾</InstallClothTail.label>
   <!-- EN: Installs cloth tail. -->
-  <InstallClothTail.description>安装 布尾。</InstallClothTail.description>
+  <InstallClothTail.description>安装布尾。</InstallClothTail.description>
   <!-- EN: Installing cloth tail. -->
-  <InstallClothTail.jobString>正在安装 布尾。</InstallClothTail.jobString>
-  
+  <InstallClothTail.jobString>正在安装布尾。</InstallClothTail.jobString>
+
   <!-- EN: Install cybernetic tail -->
-  <InstallCyberneticTail.label>安装 神经机械尾</InstallCyberneticTail.label>
+  <InstallCyberneticTail.label>安装神经机械尾</InstallCyberneticTail.label>
   <!-- EN: Installs cybernetic tail. -->
-  <InstallCyberneticTail.description>安装 神经机械尾。</InstallCyberneticTail.description>
+  <InstallCyberneticTail.description>安装神经机械尾。</InstallCyberneticTail.description>
   <!-- EN: Installing cybernetic tail. -->
-  <InstallCyberneticTail.jobString>正在安装 神经机械尾。</InstallCyberneticTail.jobString>
-  
+  <InstallCyberneticTail.jobString>正在安装神经机械尾。</InstallCyberneticTail.jobString>
+
   <!-- EN: Install tail -->
-  <InstallOrassanTail.label>安装 尾巴</InstallOrassanTail.label>
+  <InstallOrassanTail.label>安装尾巴</InstallOrassanTail.label>
   <!-- EN: Installs tail. -->
-  <InstallOrassanTail.description>安装 尾巴。</InstallOrassanTail.description>
+  <InstallOrassanTail.description>安装尾巴。</InstallOrassanTail.description>
   <!-- EN: Installing tail. -->
-  <InstallOrassanTail.jobString>正在安装 尾巴。</InstallOrassanTail.jobString>
-  
+  <InstallOrassanTail.jobString>正在安装尾巴。</InstallOrassanTail.jobString>
+
   <!-- EN: Install advanced claws -->
-  <InstallPlasteelClaws.label>安装 高级爪</InstallPlasteelClaws.label>
+  <InstallPlasteelClaws.label>安装高级爪</InstallPlasteelClaws.label>
   <!-- EN: Installs advanced claws. -->
-  <InstallPlasteelClaws.description>安装 高级爪。</InstallPlasteelClaws.description>
+  <InstallPlasteelClaws.description>安装高级爪。</InstallPlasteelClaws.description>
   <!-- EN: Installing advanced claws. -->
-  <InstallPlasteelClaws.jobString>正在安装 高级爪。</InstallPlasteelClaws.jobString>
-  
+  <InstallPlasteelClaws.jobString>正在安装高级爪。</InstallPlasteelClaws.jobString>
+
 </LanguageData>

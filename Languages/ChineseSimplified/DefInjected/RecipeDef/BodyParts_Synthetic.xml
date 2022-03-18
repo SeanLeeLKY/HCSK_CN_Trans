@@ -1,67 +1,67 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Install bionic heart -->
-  <InstallBionicHeart.label>安装 仿生心脏</InstallBionicHeart.label>
+  <InstallBionicHeart.label>安装仿生心脏</InstallBionicHeart.label>
   <!-- EN: Installs a bionic heart. -->
-  <InstallBionicHeart.description>安装 仿生心脏。</InstallBionicHeart.description>
+  <InstallBionicHeart.description>安装仿生心脏。</InstallBionicHeart.description>
   <!-- EN: Installing Synthetic Heart. -->
-  <InstallBionicHeart.jobString>正在安装 仿生心脏。</InstallBionicHeart.jobString>
-  
+  <InstallBionicHeart.jobString>正在安装仿生心脏。</InstallBionicHeart.jobString>
+
   <!-- EN: Install synthetic kidney -->
-  <InstallBionicKidney.label>安装 合成肾</InstallBionicKidney.label>
+  <InstallBionicKidney.label>安装合成肾</InstallBionicKidney.label>
   <!-- EN: Installs a Synthetic Kidney. -->
-  <InstallBionicKidney.description>安装 合成肾。</InstallBionicKidney.description>
+  <InstallBionicKidney.description>安装合成肾。</InstallBionicKidney.description>
   <!-- EN: Installing Synthetic Kidney. -->
-  <InstallBionicKidney.jobString>正在安装 合成肾。</InstallBionicKidney.jobString>
-  
+  <InstallBionicKidney.jobString>正在安装合成肾。</InstallBionicKidney.jobString>
+
   <!-- EN: Install Synthetic Liver -->
-  <InstallBionicLiver.label>安装 合成肝</InstallBionicLiver.label>
+  <InstallBionicLiver.label>安装合成肝</InstallBionicLiver.label>
   <!-- EN: Installs a Synthetic Liver. -->
-  <InstallBionicLiver.description>安装 合成肝。</InstallBionicLiver.description>
+  <InstallBionicLiver.description>安装合成肝。</InstallBionicLiver.description>
   <!-- EN: Installing Synthetic Liver. -->
-  <InstallBionicLiver.jobString>正在安装 合成肝。</InstallBionicLiver.jobString>
-  
+  <InstallBionicLiver.jobString>正在安装合成肝。</InstallBionicLiver.jobString>
+
   <!-- EN: Install synthetic lung -->
-  <InstallBionicLung.label>安装 合成肺</InstallBionicLung.label>
+  <InstallBionicLung.label>安装合成肺</InstallBionicLung.label>
   <!-- EN: Installs a synthetic lung. -->
-  <InstallBionicLung.description>安装 合成肺。</InstallBionicLung.description>
+  <InstallBionicLung.description>安装合成肺。</InstallBionicLung.description>
   <!-- EN: Installing Synthetic Lung. -->
-  <InstallBionicLung.jobString>正在安装 合成肺。</InstallBionicLung.jobString>
-  
+  <InstallBionicLung.jobString>正在安装合成肺。</InstallBionicLung.jobString>
+
   <!-- EN: Install synthetic stomach -->
-  <InstallBionicStomach.label>安装 合成胃</InstallBionicStomach.label>
+  <InstallBionicStomach.label>安装合成胃</InstallBionicStomach.label>
   <!-- EN: Installs a Synthetic Stomach. -->
-  <InstallBionicStomach.description>安装 合成胃。</InstallBionicStomach.description>
+  <InstallBionicStomach.description>安装合成胃。</InstallBionicStomach.description>
   <!-- EN: Installing Synthetic Stomach. -->
-  <InstallBionicStomach.jobString>正在安装 合成胃。</InstallBionicStomach.jobString>
-  
+  <InstallBionicStomach.jobString>正在安装合成胃。</InstallBionicStomach.jobString>
+
   <!-- EN: Install Joywire -->
-  <InstallJoywire.label>安装 乐丝芯片</InstallJoywire.label>
+  <InstallJoywire.label>安装乐丝芯片</InstallJoywire.label>
   <!-- EN: Installs joywire. -->
-  <InstallJoywire.description>安装 乐丝芯片。</InstallJoywire.description>
+  <InstallJoywire.description>安装乐丝芯片。</InstallJoywire.description>
   <!-- EN: Installing joywire. -->
-  <InstallJoywire.jobString>正在安装 乐丝芯片。</InstallJoywire.jobString>
-  
+  <InstallJoywire.jobString>正在安装乐丝芯片。</InstallJoywire.jobString>
+
   <!-- EN: install muscle stimulator -->
-  <InstallMuscleStimulatorArms.label>安装 肌肉刺激器</InstallMuscleStimulatorArms.label>
+  <InstallMuscleStimulatorArms.label>安装肌肉刺激器</InstallMuscleStimulatorArms.label>
   <!-- EN: Installs muscle stimulator in the arm. -->
   <InstallMuscleStimulatorArms.description>安装肌肉刺激器。</InstallMuscleStimulatorArms.description>
   <!-- EN: Installing muscle stimulator. -->
   <InstallMuscleStimulatorArms.jobString>正在安装肌肉刺激器。</InstallMuscleStimulatorArms.jobString>
-  
+
   <!-- EN: install muscle stimulator -->
-  <InstallMuscleStimulatorLegs.label>安装 肌肉刺激器</InstallMuscleStimulatorLegs.label>
+  <InstallMuscleStimulatorLegs.label>安装肌肉刺激器</InstallMuscleStimulatorLegs.label>
   <!-- EN: Installs muscle stimulator in the leg. -->
   <InstallMuscleStimulatorLegs.description>安装肌肉刺激器。</InstallMuscleStimulatorLegs.description>
   <!-- EN: Installing muscle stimulator. -->
   <InstallMuscleStimulatorLegs.jobString>正在安装肌肉刺激器。</InstallMuscleStimulatorLegs.jobString>
-  
+
   <!-- EN: Install Painstopper -->
-  <InstallPainstopper.label>安装 止痛芯片</InstallPainstopper.label>
+  <InstallPainstopper.label>安装止痛芯片</InstallPainstopper.label>
   <!-- EN: Installs painstopper. -->
-  <InstallPainstopper.description>安装 止痛芯片。</InstallPainstopper.description>
+  <InstallPainstopper.description>安装止痛芯片。</InstallPainstopper.description>
   <!-- EN: Installing painstopper. -->
-  <InstallPainstopper.jobString>正在安装 止痛芯片。</InstallPainstopper.jobString>
-  
+  <InstallPainstopper.jobString>正在安装止痛芯片。</InstallPainstopper.jobString>
+
 </LanguageData>

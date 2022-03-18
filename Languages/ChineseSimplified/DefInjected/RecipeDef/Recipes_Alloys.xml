@@ -1,214 +1,214 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Smelt alnico alloy -->
-  <MakeAlnicoAlloy.label>提炼 亚力可合金</MakeAlnicoAlloy.label>
+  <MakeAlnicoAlloy.label>提炼亚力可合金</MakeAlnicoAlloy.label>
   <!-- EN: Smelts alnico, an alloy of steel, nickel, aluminum and cobalt. Alnico is used in the creation of strong permanent magnets, and can be magnetised to produce strong magnetic fields. Produces 20. -->
   <MakeAlnicoAlloy.description>提炼亚力可合金, 一种由铁、镍、铝、钴组成的合金。亚力可合金一般用于制造超强永磁体，这种材料可以强化磁体的磁场。 \n\n产出：20</MakeAlnicoAlloy.description>
   <!-- EN: Smelting alnico alloy. -->
-  <MakeAlnicoAlloy.jobString>正在提炼 亚力可合金。</MakeAlnicoAlloy.jobString>
-  
+  <MakeAlnicoAlloy.jobString>正在提炼亚力可合金。</MakeAlnicoAlloy.jobString>
+
   <!-- EN: Smelt aluminium alloy -->
-  <MakeAluminiumBars_Electric.label>提炼 铝合金</MakeAluminiumBars_Electric.label>
+  <MakeAluminiumBars_Electric.label>提炼铝合金</MakeAluminiumBars_Electric.label>
   <!-- EN: Smelts aluminium alloy from bauxite ore. Produces 20. -->
   <MakeAluminiumBars_Electric.description>从铝土矿中冶炼铝合金。 \n\n产出：20</MakeAluminiumBars_Electric.description>
   <!-- EN: Smelting aluminium alloy. -->
   <MakeAluminiumBars_Electric.jobString>正在提炼铝合金。</MakeAluminiumBars_Electric.jobString>
-  
+
   <!-- EN: Smelt bronze alloy -->
-  <MakeBronze_Electric.label>提炼 青铜</MakeBronze_Electric.label>
+  <MakeBronze_Electric.label>提炼青铜</MakeBronze_Electric.label>
   <!-- EN: Smelts bronze alloy from copper ore and other metals. Produces 30. -->
   <MakeBronze_Electric.description>用铜矿和其他材料一起提炼青铜。 \n\n产出：30</MakeBronze_Electric.description>
   <!-- EN: Smelting bronze alloy. -->
   <MakeBronze_Electric.jobString>正在提炼青铜。</MakeBronze_Electric.jobString>
-  
+
   <!-- EN: Smelt bronze alloy -->
-  <MakeBronze_Hand.label>提炼 青铜</MakeBronze_Hand.label>
+  <MakeBronze_Hand.label>提炼青铜</MakeBronze_Hand.label>
   <!-- EN: Smelts bronze alloy from copper ore and other metals. Produces 30. -->
   <MakeBronze_Hand.description>用铜矿和其他材料一起提炼青铜。 \n\n产出：30</MakeBronze_Hand.description>
   <!-- EN: Smelting bronze alloy. -->
   <MakeBronze_Hand.jobString>正在提炼青铜。</MakeBronze_Hand.jobString>
-  
+
   <!-- EN: Smelt carbon fiber alloy -->
-  <MakeCarbonAlloy.label>提炼 碳纤维</MakeCarbonAlloy.label>
+  <MakeCarbonAlloy.label>提炼碳纤维</MakeCarbonAlloy.label>
   <!-- EN: Smelts carbon fiber alloy, a polymer composite material of interwoven strands of carbon fibers arranged in a matrix of polymer resins. Produces 10. -->
   <MakeCarbonAlloy.description>提炼碳纤维锭，这是一种在树脂基体中，多股交织排列的碳纤维束聚合而成的复合材料。 \n\n产出：10</MakeCarbonAlloy.description>
   <!-- EN: Smelting carbon fiber alloy. -->
   <MakeCarbonAlloy.jobString>正在提炼碳纤维。</MakeCarbonAlloy.jobString>
-  
+
   <!-- EN: Smelt copper alloy -->
-  <MakeCopperBars_Electric.label>提炼 铜锭</MakeCopperBars_Electric.label>
+  <MakeCopperBars_Electric.label>提炼铜锭</MakeCopperBars_Electric.label>
   <!-- EN: Smelts copper alloy from copper ore. Produces 20. -->
   <MakeCopperBars_Electric.description>将铜矿提炼成为铜锭。 \n\n产出：20</MakeCopperBars_Electric.description>
   <!-- EN: Smelting copper alloy. -->
   <MakeCopperBars_Electric.jobString>正在提炼铜锭。</MakeCopperBars_Electric.jobString>
-  
+
   <!-- EN: Smelt copper alloy -->
-  <MakeCopperBars_Hand.label>提炼 铜锭</MakeCopperBars_Hand.label>
+  <MakeCopperBars_Hand.label>提炼铜锭</MakeCopperBars_Hand.label>
   <!-- EN: Smelts copper alloy from copper ore. Produces 10. -->
   <MakeCopperBars_Hand.description>将铜矿提炼成为铜锭。 \n\n产出：10</MakeCopperBars_Hand.description>
   <!-- EN: Smelting copper alloy. -->
   <MakeCopperBars_Hand.jobString>正在提炼铜锭。</MakeCopperBars_Hand.jobString>
-  
+
   <!-- EN: Smelt melchior alloy -->
-  <MakeCupronickelAlloy.label>提炼 梅尔基奥合金</MakeCupronickelAlloy.label>
+  <MakeCupronickelAlloy.label>提炼梅尔基奥合金</MakeCupronickelAlloy.label>
   <!-- EN: Smelts melchior alloy from copper and nickel. Melchior has a high electrical resistance. Produces 30. -->
   <MakeCupronickelAlloy.description>梅尔基奥合金是一种由铜、镍、铝组成的合金，其拥有很高的电阻率。 \n\n产出：30</MakeCupronickelAlloy.description>
   <!-- EN: Smelting melchior alloy. -->
   <MakeCupronickelAlloy.jobString>正在提炼梅尔基奥合金。</MakeCupronickelAlloy.jobString>
-  
+
   <!-- EN: Depleted uranium alloy -->
-  <MakeDepletedUraniumAlloy.label>提炼 贫铀合金</MakeDepletedUraniumAlloy.label>
+  <MakeDepletedUraniumAlloy.label>提炼贫铀合金</MakeDepletedUraniumAlloy.label>
   <!-- EN: Smelts depleted uranium alloy from uranium. Produces 10. -->
   <MakeDepletedUraniumAlloy.description>从铀矿中提炼贫铀合金。\n\n产出：10</MakeDepletedUraniumAlloy.description>
   <!-- EN: Smelting depleted uranium alloy. -->
-  <MakeDepletedUraniumAlloy.jobString>正在提炼 贫铀合金。</MakeDepletedUraniumAlloy.jobString>
-  
+  <MakeDepletedUraniumAlloy.jobString>正在提炼贫铀合金。</MakeDepletedUraniumAlloy.jobString>
+
   <!-- EN: Smelt stein alloy -->
-  <MakeFerronickelAlloy.label>提炼 斯坦合金</MakeFerronickelAlloy.label>
+  <MakeFerronickelAlloy.label>提炼斯坦合金</MakeFerronickelAlloy.label>
   <!-- EN: Smelts stein alloy from iron, nickel. Stein is a tougher metal than sendust. Produces 20. -->
   <MakeFerronickelAlloy.description>斯坦合金由铁、镍、锰组成，而且这种金属的硬度甚至超过了斯特合金。 \n\n产出：20</MakeFerronickelAlloy.description>
   <!-- EN: Smelting stein alloy. -->
   <MakeFerronickelAlloy.jobString>正在提炼斯坦合金。</MakeFerronickelAlloy.jobString>
-  
+
   <!-- EN: Smelt sendust alloy -->
-  <MakeFerrosiliconAlloy.label>提炼 斯特合金</MakeFerrosiliconAlloy.label>
+  <MakeFerrosiliconAlloy.label>提炼斯特合金</MakeFerrosiliconAlloy.label>
   <!-- EN: Smelts sendust alloy by reducing silicon in the presence of iron and aluminium. Sendust is a tougher metal than steel. Produces 30. -->
   <MakeFerrosiliconAlloy.description>在保持铁和铝的含量不变的情况下，用换还原法降低硅的含量冶炼出来的一种合金。它是一种比钢铁更加坚硬的物质。\n\n产出：30</MakeFerrosiliconAlloy.description>
   <!-- EN: Smelting sendust alloy. -->
   <MakeFerrosiliconAlloy.jobString>正在提炼斯特合金。</MakeFerrosiliconAlloy.jobString>
-  
+
   <!-- EN: Smelt ferrotitanium alloy -->
-  <MakeFerrotitaniumAlloy.label>提炼 钛铁合金</MakeFerrotitaniumAlloy.label>
+  <MakeFerrotitaniumAlloy.label>提炼钛铁合金</MakeFerrotitaniumAlloy.label>
   <!-- EN: Smelts ferrotitanium, a very durable alloy made from steel, titanium and carbon fiber. Produces 15. -->
   <MakeFerrotitaniumAlloy.description>冶炼钛铁合金，一种非常耐用的合金，由钢、钛和碳纤维组成。 \n\n产出：15</MakeFerrotitaniumAlloy.description>
   <!-- EN: Smelting ferrotitanium alloy. -->
   <MakeFerrotitaniumAlloy.jobString>正在提炼钛铁合金。</MakeFerrotitaniumAlloy.jobString>
-  
+
   <!-- EN: Smelt gold alloy -->
-  <MakeGoldBars_Electric.label>提炼 黄金</MakeGoldBars_Electric.label>
+  <MakeGoldBars_Electric.label>提炼黄金</MakeGoldBars_Electric.label>
   <!-- EN: Smelts gold, a beautiful, precious alloy of gold and copper or bauxite. Produces 15. -->
   <MakeGoldBars_Electric.description>提炼黄金，一种美丽、珍贵的金属。大部分成分是金，复合有少量的铜或铝的合金。 \n\n产出：15</MakeGoldBars_Electric.description>
   <!-- EN: Smelting gold alloy. -->
   <MakeGoldBars_Electric.jobString>正在提炼黄金。</MakeGoldBars_Electric.jobString>
-  
+
   <!-- EN: Smelt gold alloy -->
-  <MakeGoldBars_Hand.label>提炼 黄金</MakeGoldBars_Hand.label>
+  <MakeGoldBars_Hand.label>提炼黄金</MakeGoldBars_Hand.label>
   <!-- EN: Smelts gold, a beautiful, precious alloy of gold and copper or bauxite. Produces 15. -->
   <MakeGoldBars_Hand.description>提炼黄金，一种美丽、珍贵的金属。大部分成分是金，复合有少量的铜或铝的合金。 \n\n产出：15</MakeGoldBars_Hand.description>
   <!-- EN: Smelting gold alloy. -->
   <MakeGoldBars_Hand.jobString>正在提炼黄金。</MakeGoldBars_Hand.jobString>
-  
+
   <!-- EN: Smelt lead alloy -->
-  <MakeLeadBars_Electric.label>提炼 铅锭</MakeLeadBars_Electric.label>
+  <MakeLeadBars_Electric.label>提炼铅锭</MakeLeadBars_Electric.label>
   <!-- EN: Smelts lead alloy from anglesite ore. Produces 20. -->
   <MakeLeadBars_Electric.description>从铅矾矿中提炼铅金属。\n\n产出：20</MakeLeadBars_Electric.description>
   <!-- EN: Smelting lead alloy. -->
-  <MakeLeadBars_Electric.jobString>正在提炼 铅锭。</MakeLeadBars_Electric.jobString>
-  
+  <MakeLeadBars_Electric.jobString>正在提炼铅锭。</MakeLeadBars_Electric.jobString>
+
   <!-- EN: Smelt lead alloy -->
-  <MakeLeadBars_Hand.label>提炼 铅锭</MakeLeadBars_Hand.label>
+  <MakeLeadBars_Hand.label>提炼铅锭</MakeLeadBars_Hand.label>
   <!-- EN: Smelts lead alloy from anglesite ore. Produces 10. -->
   <MakeLeadBars_Hand.description>从铅矾矿中提炼铅金属。\n\n产出：10</MakeLeadBars_Hand.description>
   <!-- EN: Smelting lead alloy. -->
-  <MakeLeadBars_Hand.jobString>正在提炼 铅锭。</MakeLeadBars_Hand.jobString>
-  
+  <MakeLeadBars_Hand.jobString>正在提炼铅锭。</MakeLeadBars_Hand.jobString>
+
   <!-- EN: Smelt nitinol alloy -->
-  <MakeNitinolAlloy.label>提炼 镍钛合金</MakeNitinolAlloy.label>
+  <MakeNitinolAlloy.label>提炼镍钛合金</MakeNitinolAlloy.label>
   <!-- EN: Smelts nitinol, an alloy of nickel and titanium. It is exceptionally durable, somewhat beautiful and difficult to make. Produces 15. -->
   <MakeNitinolAlloy.description>提炼镍钛合金, 一种镍和钛的合金。它十分耐用，而且光泽色彩也很漂亮，但是制作流程非常复杂。 \n\n产出：15</MakeNitinolAlloy.description>
   <!-- EN: Smelting nitinol alloy. -->
   <MakeNitinolAlloy.jobString>正在提炼镍钛合金。</MakeNitinolAlloy.jobString>
-  
+
   <!-- EN: Smelt pobedite alloy -->
-  <MakePobediteAlloy.label>提炼 钨钴合金</MakePobediteAlloy.label>
+  <MakePobediteAlloy.label>提炼钨钴合金</MakePobediteAlloy.label>
   <!-- EN: Smelts pobedite, an alloy of carbon fiber, tungsten and cobalt. This composite alloy possesses a particularly high hardness. Produces 10. -->
   <MakePobediteAlloy.description>提炼钨钴合金, 一种由碳纤维、钨和钴组成的合金。这种复合合金具有极高的硬度。 \n\n产出：10</MakePobediteAlloy.description>
   <!-- EN: Smelting pobedite alloy. -->
-  <MakePobediteAlloy.jobString>正在提炼 钨钴合金。</MakePobediteAlloy.jobString>
-  
+  <MakePobediteAlloy.jobString>正在提炼钨钴合金。</MakePobediteAlloy.jobString>
+
   <!-- EN: Smelt sterling silver alloy -->
-  <MakeSilverBars_Electric.label>提炼 标准银锭</MakeSilverBars_Electric.label>
+  <MakeSilverBars_Electric.label>提炼标准银锭</MakeSilverBars_Electric.label>
   <!-- EN: Smelts sterling silver, a valuable alloy of silver and either copper or bauxite. Produces 15. -->
   <MakeSilverBars_Electric.description>提炼标准银锭，一种有价值的银合金，其复合元素既可以是铜也可以是铝。 \n\n产出：15</MakeSilverBars_Electric.description>
   <!-- EN: Smelting sterling silver alloy. -->
   <MakeSilverBars_Electric.jobString>正在提炼标准银锭。</MakeSilverBars_Electric.jobString>
-  
+
   <!-- EN: Smelt sterling silver alloy -->
-  <MakeSilverBars_Hand.label>提炼 标准银锭</MakeSilverBars_Hand.label>
+  <MakeSilverBars_Hand.label>提炼标准银锭</MakeSilverBars_Hand.label>
   <!-- EN: Smelts sterling silver, a valuable alloy of silver and either copper or bauxite. Produces 10. -->
   <MakeSilverBars_Hand.description>提炼标准银锭，一种有价值的银合金，其复合元素既可以是铜也可以是铝。 \n\n产出：10</MakeSilverBars_Hand.description>
   <!-- EN: Smelting sterling silver alloy. -->
   <MakeSilverBars_Hand.jobString>正在提炼标准银锭。</MakeSilverBars_Hand.jobString>
-  
+
   <!-- EN: Smelt steel alloy -->
-  <MakeSteelBars_Electric.label>提炼 钢铁</MakeSteelBars_Electric.label>
+  <MakeSteelBars_Electric.label>提炼钢铁</MakeSteelBars_Electric.label>
   <!-- EN: Smelts steel alloy from iron ore and coal or charcoal. Produces 20. -->
   <MakeSteelBars_Electric.description>利用煤炭或者木炭，混合铁矿石提炼钢铁。 \n\n产出：20</MakeSteelBars_Electric.description>
   <!-- EN: Smelting steel alloy. -->
   <MakeSteelBars_Electric.jobString>正在提炼钢铁。</MakeSteelBars_Electric.jobString>
-  
+
   <!-- EN: Smelt steel alloy -->
-  <MakeSteelBars_Hand.label>提炼 钢铁</MakeSteelBars_Hand.label>
+  <MakeSteelBars_Hand.label>提炼钢铁</MakeSteelBars_Hand.label>
   <!-- EN: Smelts steel alloy from iron ore and coal or charcoal. Produces 20. -->
   <MakeSteelBars_Hand.description>利用煤炭或者木炭，混合铁矿石提炼钢铁。 \n\n产出：20</MakeSteelBars_Hand.description>
   <!-- EN: Smelting steel alloy. -->
   <MakeSteelBars_Hand.jobString>正在提炼钢铁。</MakeSteelBars_Hand.jobString>
-  
+
   <!-- EN: Smelt stellite alloy -->
-  <MakeStelliteAlloy.label>提炼 司太立合金</MakeStelliteAlloy.label>
+  <MakeStelliteAlloy.label>提炼司太立合金</MakeStelliteAlloy.label>
   <!-- EN: Smelts stellite, an alloy of cobalt, chromium and tungsten. Stellite is designed for wear resistance. Produces 20. -->
   <MakeStelliteAlloy.description>司太立合金是由钴、铬和钨组成的合金。其最突出的特点就是耐磨性非常优秀。 \n\n产出：20</MakeStelliteAlloy.description>
   <!-- EN: Smelting stellite alloy. -->
   <MakeStelliteAlloy.jobString>正在提炼司太立合金。</MakeStelliteAlloy.jobString>
-  
+
   <!-- EN: Smelt tin alloy -->
-  <MakeTinBars_Electric.label>提炼 锡锭</MakeTinBars_Electric.label>
+  <MakeTinBars_Electric.label>提炼锡锭</MakeTinBars_Electric.label>
   <!-- EN: Smelts tin alloy from tin ore. Tin can be used to construct workbenches with higher than average working speed. Produces 20. -->
   <MakeTinBars_Electric.description>从锡矿石中冶炼锡合金。锡合金材料建造的生产建筑可以达到比一般材料更高的工作速度加成。 \n\n产出：20</MakeTinBars_Electric.description>
   <!-- EN: Smelting tin alloy. -->
   <MakeTinBars_Electric.jobString>正在提炼锡锭。</MakeTinBars_Electric.jobString>
-  
+
   <!-- EN: Smelt tin alloy -->
-  <MakeTinBars_Hand.label>提炼 锡锭</MakeTinBars_Hand.label>
+  <MakeTinBars_Hand.label>提炼锡锭</MakeTinBars_Hand.label>
   <!-- EN: Smelts tin alloy from tin ore. Tin can be used to construct workbenches with higher than average working speed. Produces 10. -->
   <MakeTinBars_Hand.description>从锡矿石中冶炼锡合金。锡合金材料建造的生产建筑可以达到比一般材料更高的工作速度加成。 \n\n产出：10</MakeTinBars_Hand.description>
   <!-- EN: Smelting tin alloy. -->
   <MakeTinBars_Hand.jobString>正在提炼锡锭。</MakeTinBars_Hand.jobString>
-  
+
   <!-- EN: Smelt cobalt alloy -->
-  <ProcessCobalt.label>提炼 钴</ProcessCobalt.label>
+  <ProcessCobalt.label>提炼钴</ProcessCobalt.label>
   <!-- EN: Smelts cobalt alloy from nickel ore. Produces 15. -->
   <ProcessCobalt.description>从镍矿中提炼钴。 \n\n产出：15</ProcessCobalt.description>
   <!-- EN: Smelting cobalt alloy. -->
   <ProcessCobalt.jobString>正在提炼钴。</ProcessCobalt.jobString>
-  
+
   <!-- EN: Smelt chromium alloy -->
-  <ProcessForChromium.label>提炼 铬</ProcessForChromium.label>
+  <ProcessForChromium.label>提炼铬</ProcessForChromium.label>
   <!-- EN: Smelts chromium alloy from iron ore. Chromium is a vital ingredient used in the production of nichrome. Produces 10. -->
   <ProcessForChromium.description>从铁矿中提炼铬。铬是制造镍铬合金的重要材料。 \n\n产出：10</ProcessForChromium.description>
   <!-- EN: Smelting chromium alloy. -->
   <ProcessForChromium.jobString>正在提炼铬。</ProcessForChromium.jobString>
-  
+
   <!-- EN: Smelt nickel alloy -->
-  <ProcessNickelOre.label>提炼 镍</ProcessNickelOre.label>
+  <ProcessNickelOre.label>提炼镍</ProcessNickelOre.label>
   <!-- EN: Smelts nickel alloy from nickel ore. Produces 15. -->
   <ProcessNickelOre.description>从镍矿中提炼镍。 \n\n产出：15</ProcessNickelOre.description>
   <!-- EN: Smelting nickel alloy. -->
   <ProcessNickelOre.jobString>正在提炼镍。</ProcessNickelOre.jobString>
-  
+
   <!-- EN: Smelt titanium alloy -->
-  <ProcessTitanium.label>提炼 钛</ProcessTitanium.label>
+  <ProcessTitanium.label>提炼钛</ProcessTitanium.label>
   <!-- EN: Smelts ilmenite ore into titanium alloy. Produces 15. -->
   <ProcessTitanium.description>从钛铁矿中提炼钛。 \n\n产出：15</ProcessTitanium.description>
   <!-- EN: Smelting titanium alloy. -->
   <ProcessTitanium.jobString>正在提炼钛。</ProcessTitanium.jobString>
-  
+
   <!-- EN: Smelt tungsten alloy -->
-  <ProcessTungsten.label>提炼 钨</ProcessTungsten.label>
+  <ProcessTungsten.label>提炼钨</ProcessTungsten.label>
   <!-- EN: Smelts wolframite ore into tungsten alloy. Produces 15. -->
   <ProcessTungsten.description>从黑钨矿中提炼钨。 \n\n产出：15</ProcessTungsten.description>
   <!-- EN: Smelting tungsten alloy. -->
   <ProcessTungsten.jobString>正在提炼钨。</ProcessTungsten.jobString>
-  
+
 </LanguageData>

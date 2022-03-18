@@ -1,172 +1,172 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Assemble advanced components -->
-  <Make_ComponentAdvanced.label>组装 先进零部件</Make_ComponentAdvanced.label>
+  <Make_ComponentAdvanced.label>组装先进零部件</Make_ComponentAdvanced.label>
   <!-- EN: Assemble advanced components from metal. Produces 10. -->
   <Make_ComponentAdvanced.description>将金属加工成先进零部件。\n\n产出：10。</Make_ComponentAdvanced.description>
   <!-- EN: Assembling advanced components. -->
   <Make_ComponentAdvanced.jobString>正在组装先进零部件。</Make_ComponentAdvanced.jobString>
-  
+
   <!-- EN: Assemble components -->
-  <Make_ComponentIndustrial.label>组装 普通零部件</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>组装普通零部件</Make_ComponentIndustrial.label>
   <!-- EN: Assembles components from metal. Produces 10. -->
   <Make_ComponentIndustrial.description>将金属加工成普通零部件。\n\n产出：10。</Make_ComponentIndustrial.description>
   <!-- EN: Assembling components. -->
   <Make_ComponentIndustrial.jobString>正在组装零部件。</Make_ComponentIndustrial.jobString>
-  
+
   <!-- EN: Assemble medieval components from wood -->
-  <Make_ComponentMedieval.label>组装 原始零部件</Make_ComponentMedieval.label>
+  <Make_ComponentMedieval.label>组装原始零部件</Make_ComponentMedieval.label>
   <!-- EN: Assembles medieval components from wood. Produces 10. -->
   <Make_ComponentMedieval.description>用木头组装原始零部件。\n\n产出：10。</Make_ComponentMedieval.description>
   <!-- EN: Assembling components. -->
   <Make_ComponentMedieval.jobString>正在组装零部件。</Make_ComponentMedieval.jobString>
-  
+
   <!-- EN: Assemble medieval components from metal -->
-  <Make_ComponentMedievalBronze.label>组装 原始零部件（金属材料）</Make_ComponentMedievalBronze.label>
+  <Make_ComponentMedievalBronze.label>组装原始零部件（金属材料）</Make_ComponentMedievalBronze.label>
   <!-- EN: Assembles components from metal. Produces 10. -->
   <Make_ComponentMedievalBronze.description>用金属组装原始零部件\n\n产出：10。</Make_ComponentMedievalBronze.description>
   <!-- EN: Assembling components. -->
   <Make_ComponentMedievalBronze.jobString>正在组装零部件。</Make_ComponentMedievalBronze.jobString>
-  
+
   <!-- EN: Assemble spacer components -->
-  <Make_ComponentSpacer.label>组装 高级零部件</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>组装高级零部件</Make_ComponentSpacer.label>
   <!-- EN: Assemble spacer components from metal. Produces 10. -->
   <Make_ComponentSpacer.description>将金属加工成高级零部件。\n\n产出：10。</Make_ComponentSpacer.description>
   <!-- EN: Assembling spacer components. -->
   <Make_ComponentSpacer.jobString>正在组装高级零部件。</Make_ComponentSpacer.jobString>
-  
+
   <!-- EN: Assemble ultra components -->
-  <Make_ComponentUltra.label>组装 超级零部件</Make_ComponentUltra.label>
+  <Make_ComponentUltra.label>组装超级零部件</Make_ComponentUltra.label>
   <!-- EN: Assemble ultra components from metal. Produces 10. -->
   <Make_ComponentUltra.description>将金属加工成超级零部件。\n\n产出：10。</Make_ComponentUltra.description>
   <!-- EN: Assembling ultra components. -->
   <Make_ComponentUltra.jobString>正在组装超级零部件。</Make_ComponentUltra.jobString>
-  
+
   <!-- EN: Assemble advanced mechanisms -->
-  <MakeAdvMechanism_Electric.label>组装 先进机械组件</MakeAdvMechanism_Electric.label>
+  <MakeAdvMechanism_Electric.label>组装先进机械组件</MakeAdvMechanism_Electric.label>
   <!-- EN: Assemble advanced mechanisms. Advanced mechanisms are intricate gear-like parts for use in complex machines or workbenches. Quite fast. Produces 10. -->
   <MakeAdvMechanism_Electric.description>组装先进机械组件。 先进机械组件是机械组件的升级版，拥有更高的部件集成度，一般用于组装复杂机械或工作台建造。 极快的制造速度。 \n\n产出：10。</MakeAdvMechanism_Electric.description>
   <!-- EN: Assembling advanced mechanisms. -->
   <MakeAdvMechanism_Electric.jobString>组装先进机械组件。</MakeAdvMechanism_Electric.jobString>
-  
+
   <!-- EN: Assemble advanced mechanisms -->
-  <MakeAdvMechanism_Hand.label>组装 先进机械组件</MakeAdvMechanism_Hand.label>
+  <MakeAdvMechanism_Hand.label>组装先进机械组件</MakeAdvMechanism_Hand.label>
   <!-- EN: Assemble advanced mechanisms. Advanced mechanisms are intricate gear-like parts for use in complex machines or workbenches. Quite slow. Produces 5. -->
   <MakeAdvMechanism_Hand.description>组装先进机械组件。 先进机械组件是机械组件的升级版，拥有更高的部件集成度，一般用于组装复杂机械或工作台建造。 \n\n产出：5。</MakeAdvMechanism_Hand.description>
   <!-- EN: Assembling advanced mechanisms. -->
   <MakeAdvMechanism_Hand.jobString>组装先进机械组件。</MakeAdvMechanism_Hand.jobString>
-  
+
   <!-- EN: crush blocks into rubble -->
   <MakeCrushedStone_Electric.label>将石砖碾磨成碎石</MakeCrushedStone_Electric.label>
   <!-- EN: Crush stone blocks into rubble. Quite fast. Produces 40. -->
   <MakeCrushedStone_Electric.description>将石砖碾磨成碎石。 极快的制造速度。 \n\n产出：40。</MakeCrushedStone_Electric.description>
   <!-- EN: Crushing stone into rubble. -->
   <MakeCrushedStone_Electric.jobString>将石砖碾磨成碎石。</MakeCrushedStone_Electric.jobString>
-  
+
   <!-- EN: crush chunks into rubble -->
   <MakeCrushedStone_Electric_Chunk.label>将石块碾磨成碎石</MakeCrushedStone_Electric_Chunk.label>
   <!-- EN: Crush stone chunks into rubble. Quite slow. Produces 32. -->
   <MakeCrushedStone_Electric_Chunk.description>将石块碾磨成碎石。 缓慢的制造速度。 \n\n产出：32。</MakeCrushedStone_Electric_Chunk.description>
   <!-- EN: Crushing chunk into rubble. -->
   <MakeCrushedStone_Electric_Chunk.jobString>将石块碾磨成碎石。</MakeCrushedStone_Electric_Chunk.jobString>
-  
+
   <!-- EN: crush blocks into rubble -->
   <MakeCrushedStone_Hand.label>将石砖碾磨成碎石</MakeCrushedStone_Hand.label>
   <!-- EN: Crush stone blocks into rubble. Quite slow. Produces 20. -->
   <MakeCrushedStone_Hand.description>将石砖碾磨成碎石。 缓慢的制造速度。 \n\n产出：20。</MakeCrushedStone_Hand.description>
   <!-- EN: Crushing stone into rubble. -->
   <MakeCrushedStone_Hand.jobString>将石砖碾磨成碎石。</MakeCrushedStone_Hand.jobString>
-  
+
   <!-- EN: crush chunks into rubble -->
   <MakeCrushedStone_Hand_Chunk.label>将石块碾磨成碎石</MakeCrushedStone_Hand_Chunk.label>
   <!-- EN: Crush stone chunks into rubble. Quite slow. Produces 32. -->
   <MakeCrushedStone_Hand_Chunk.description>将石块碾磨成碎石。 缓慢的制造速度。 \n\n产出：32。</MakeCrushedStone_Hand_Chunk.description>
   <!-- EN: Crushing chunk into rubble. -->
   <MakeCrushedStone_Hand_Chunk.jobString>将石块碾磨成碎石。</MakeCrushedStone_Hand_Chunk.jobString>
-  
+
   <!-- EN: craft mending kits -->
-  <MakeMendingKit.label>制造 修理包</MakeMendingKit.label>
+  <MakeMendingKit.label>制作修理包</MakeMendingKit.label>
   <!-- EN: Craft mending kits from various materials. Produces enough to re-stock the mending table. -->
   <MakeMendingKit.description>使用多种材料制造修理包。主要用于修理工作台工作消耗。</MakeMendingKit.description>
   <!-- EN: Crafting mending kit. -->
   <MakeMendingKit.jobString>正在制造修理包。</MakeMendingKit.jobString>
-  
+
   <!-- EN: craft metal cans -->
-  <MakeMetalCan.label>制造 金属罐</MakeMetalCan.label>
+  <MakeMetalCan.label>制作金属罐</MakeMetalCan.label>
   <!-- EN: Craft cans from metal. Cans are typically used to preserve food when there are no freezers nearby. Produces 10. -->
   <MakeMetalCan.description>制造金属罐。通常用来在没有冷冻环境的地方保存食物用。 \n\n产出：10。</MakeMetalCan.description>
   <!-- EN: Crafting metal cans. -->
   <MakeMetalCan.jobString>正在制造金属罐。</MakeMetalCan.jobString>
-  
+
   <!-- EN: create reinforced concrete -->
-  <MakeReinforcedConcrete_Electric.label>制作 钢筋混凝土</MakeReinforcedConcrete_Electric.label>
+  <MakeReinforcedConcrete_Electric.label>制作钢筋混凝土</MakeReinforcedConcrete_Electric.label>
   <!-- EN: Create reinforced concrete from concrete and metal. Quite fast. Produces 16. -->
   <MakeReinforcedConcrete_Electric.description>用金属和混凝土搅拌成钢筋混凝土。 极快的制造速度。 \n\n产出：16。</MakeReinforcedConcrete_Electric.description>
   <!-- EN: Creating reinforced concrete. -->
   <MakeReinforcedConcrete_Electric.jobString>制作钢筋混凝土。</MakeReinforcedConcrete_Electric.jobString>
-  
+
   <!-- EN: create reinforced concrete -->
-  <MakeReinforcedConcrete_Hand.label>制作 钢筋混凝土</MakeReinforcedConcrete_Hand.label>
+  <MakeReinforcedConcrete_Hand.label>制作钢筋混凝土</MakeReinforcedConcrete_Hand.label>
   <!-- EN: Create reinforced concrete from concrete and metal. Quite slow. Produces 8. -->
   <MakeReinforcedConcrete_Hand.description>用金属和混凝土搅拌成钢筋混凝土。 缓慢的制造速度。 \n\n产出：8。</MakeReinforcedConcrete_Hand.description>
   <!-- EN: Creating reinforced concrete. -->
   <MakeReinforcedConcrete_Hand.jobString>制作钢筋混凝土。</MakeReinforcedConcrete_Hand.jobString>
-  
+
   <!-- EN: crush rubble into sand -->
   <MakeSand_Electric.label>将碎石碾磨成沙子</MakeSand_Electric.label>
   <!-- EN: Crush rubble to obtain sand. Quite fast. Produces 50. -->
   <MakeSand_Electric.description>将碎石碾磨成沙子。 极快的制造速度。 \n\n产出：50。</MakeSand_Electric.description>
   <!-- EN: Crushing rubble into sand. -->
   <MakeSand_Electric.jobString>正在将碎石碾磨成沙子。</MakeSand_Electric.jobString>
-  
+
   <!-- EN: pulverize chunks into sand -->
   <MakeSand_Electric_Chunk.label>将石块碾磨成沙子</MakeSand_Electric_Chunk.label>
   <!-- EN: Obtain sand by pulverizing a chunk of stone. Quite fast. Produces 80. -->
   <MakeSand_Electric_Chunk.description>将一整块石头碾碎磨成细沙。极快的制造速度。 \n\n产出：80。</MakeSand_Electric_Chunk.description>
   <!-- EN: Pulverizing chunk into sand. -->
   <MakeSand_Electric_Chunk.jobString>正在将石块碾磨成沙子。</MakeSand_Electric_Chunk.jobString>
-  
+
   <!-- EN: crush rubble into sand -->
   <MakeSand_Hand.label>将碎石碾磨成沙子</MakeSand_Hand.label>
   <!-- EN: Crush rubble to obtain sand. Quite slow. Produces 25. -->
   <MakeSand_Hand.description>将碎石碾磨成沙子。 缓慢的制造速度。 \n\n产出：25。</MakeSand_Hand.description>
   <!-- EN: Crushing rubble into sand. -->
   <MakeSand_Hand.jobString>正在将碎石碾磨成沙子。</MakeSand_Hand.jobString>
-  
+
   <!-- EN: pulverize chunks into sand -->
   <MakeSand_Hand_Chunk.label>将石块碾磨成沙子</MakeSand_Hand_Chunk.label>
   <!-- EN: Obtain sand by pulverizing a chunk of stone. Quite slow. Produces 80. -->
   <MakeSand_Hand_Chunk.description>将一整块石头碾碎磨成细沙。缓慢的制造速度。 \n\n产出：80。</MakeSand_Hand_Chunk.description>
   <!-- EN: Pulverizing chunk into sand. -->
   <MakeSand_Hand_Chunk.jobString>正在将石块碾磨成沙子。</MakeSand_Hand_Chunk.jobString>
-  
+
   <!-- EN: Assemble mechanisms -->
-  <MakeSimpleMechanism_Electric.label>组装 机械组件</MakeSimpleMechanism_Electric.label>
+  <MakeSimpleMechanism_Electric.label>组装机械组件</MakeSimpleMechanism_Electric.label>
   <!-- EN: Assemble mechanisms. Mechanisms are simple gear-like parts for use in machines or workbenches. Quite fast. Produces 10. -->
   <MakeSimpleMechanism_Electric.description>组装机械组件。机械组件是各种简单的齿轮杠杆类的零件统称，一般用于机器制造或工作台建造。 极快的制造速度。 \n\n产出：10。</MakeSimpleMechanism_Electric.description>
   <!-- EN: Assembling mechanisms. -->
   <MakeSimpleMechanism_Electric.jobString>组装机械组件。</MakeSimpleMechanism_Electric.jobString>
-  
+
   <!-- EN: Assemble mechanisms -->
-  <MakeSimpleMechanism_Hand.label>组装 机械组件</MakeSimpleMechanism_Hand.label>
+  <MakeSimpleMechanism_Hand.label>组装机械组件</MakeSimpleMechanism_Hand.label>
   <!-- EN: Assemble mechanisms. Mechanisms are simple gear-like parts for use in machines or workbenches. Quite slow. Produces 5. -->
   <MakeSimpleMechanism_Hand.description>组装机械组件。机械组件是各种简单的齿轮杠杆类的零件统称，一般用于机器制造或工作台建造。 缓慢的制造速度。 \n\n产出：5。</MakeSimpleMechanism_Hand.description>
   <!-- EN: Assembling mechanisms. -->
   <MakeSimpleMechanism_Hand.jobString>组装机械组件。</MakeSimpleMechanism_Hand.jobString>
-  
+
   <!-- EN: Craft wires -->
-  <MakeWires_Electric.label>制造 电线</MakeWires_Electric.label>
+  <MakeWires_Electric.label>制作电线</MakeWires_Electric.label>
   <!-- EN: Craft wires from high conductivity metals. Quite fast. Produces 40. -->
   <MakeWires_Electric.description>用高导电率的金属制造电线。很快的制造速度。\n\n产出：40。</MakeWires_Electric.description>
   <!-- EN: Crafting wires. -->
   <MakeWires_Electric.jobString>正在制造电线。</MakeWires_Electric.jobString>
-  
+
   <!-- EN: Craft wires -->
-  <MakeWires_Hand.label>制造 电线</MakeWires_Hand.label>
+  <MakeWires_Hand.label>制作电线</MakeWires_Hand.label>
   <!-- EN: Craft wires from high conductivity metals. Quite slow. Produces 20. -->
   <MakeWires_Hand.description>用高导电率的金属制造电线。缓慢的制造速度。 \n\n产出：20。</MakeWires_Hand.description>
   <!-- EN: Crafting wires. -->
   <MakeWires_Hand.jobString>正在制造电线。</MakeWires_Hand.jobString>
-  
+
 </LanguageData>

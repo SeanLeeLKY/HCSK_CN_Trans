@@ -1,46 +1,46 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: butcher corpse -->
   <ButcherCorpseFlesh.label>屠宰 尸体</ButcherCorpseFlesh.label>
   <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
   <ButcherCorpseFlesh.description>屠宰尸体以获取可用的肉。</ButcherCorpseFlesh.description>
   <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>正在屠宰。</ButcherCorpseFlesh.jobString>
-  
+
   <!-- EN: destroy weapon -->
-  <DestroyWeapon.label>销毁 武器</DestroyWeapon.label>
+  <DestroyWeapon.label>销毁武器</DestroyWeapon.label>
   <!-- EN: Use heat to destroy unwanted weapons. Faster than smelting, and works on non-smeltable items, but yields no resources. -->
   <DestroyWeapon.description>用强热销毁不想要的武器。比熔炼快，用于不可熔炼的物品，但不产出资源。</DestroyWeapon.description>
   <!-- EN: Destroying weapon. -->
-  <DestroyWeapon.jobString>正在销毁 武器。</DestroyWeapon.jobString>
-  
+  <DestroyWeapon.jobString>正在销毁武器。</DestroyWeapon.jobString>
+
   <!-- EN: smelt metal from slag -->
-  <ExtractMetalFromSlag.label>熔炼 钢渣块</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.label>熔炼钢渣块</ExtractMetalFromSlag.label>
   <!-- EN: Use heat and strong electromagnets to separate useful metal from slag chunks. -->
   <ExtractMetalFromSlag.description>用强热和电磁铁从钢渣块中提炼出有用的金属。</ExtractMetalFromSlag.description>
   <!-- EN: Smelting metal from slag. -->
-  <ExtractMetalFromSlag.jobString>正在熔炼 钢渣块。</ExtractMetalFromSlag.jobString>
-  
+  <ExtractMetalFromSlag.jobString>正在熔炼钢渣块。</ExtractMetalFromSlag.jobString>
+
   <!-- EN: obtain soylent green -->
-  <Make_SoylentGreen.label>提取 绿色营养物质</Make_SoylentGreen.label>
+  <Make_SoylentGreen.label>提取绿色营养物质</Make_SoylentGreen.label>
   <!-- EN: Obtain Soylent Green from a humanlike corpse. Produces 45. -->
   <Make_SoylentGreen.description>从人类生物的尸体中提取高质量营养物质。 \n\n产出：45。</Make_SoylentGreen.description>
   <!-- EN: Obtaining Soylent Green. -->
   <Make_SoylentGreen.jobString>正在提取绿色营养物质。</Make_SoylentGreen.jobString>
-  
+
   <!-- EN: cut stone blocks -->
-  <Make_StoneBlocksAny.label>切割 石砖</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.label>切割石砖</Make_StoneBlocksAny.label>
   <!-- EN: Cuts a stone chunk into usable stone blocks. -->
   <Make_StoneBlocksAny.description>将岩石块切割成可用的石块。</Make_StoneBlocksAny.description>
   <!-- EN: Cutting stone chunk into blocks. -->
   <Make_StoneBlocksAny.jobString>正在切割石材。</Make_StoneBlocksAny.jobString>
-  
+
   <!-- EN: smelt metal from weapon -->
-  <SmeltWeapon.label>熔炼 武器</SmeltWeapon.label>
+  <SmeltWeapon.label>熔炼武器</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to separate useful metal from weapons. -->
   <SmeltWeapon.description>用强热和电磁铁将武器分解成有用的金属。</SmeltWeapon.description>
   <!-- EN: Smelting metal from weapon. -->
-  <SmeltWeapon.jobString>正在熔炼 武器。</SmeltWeapon.jobString>
-  
+  <SmeltWeapon.jobString>正在熔炼武器。</SmeltWeapon.jobString>
+
 </LanguageData>

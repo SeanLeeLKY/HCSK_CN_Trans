@@ -1,53 +1,53 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: make EMP grenades x3 -->
-  <MakeEMPGrenade.label>制造 EMP手榴弹 x3</MakeEMPGrenade.label>
+  <MakeEMPGrenade.label>制作EMP手榴弹 x3</MakeEMPGrenade.label>
   <!-- EN: Craft 3 EMP grenades. -->
-  <MakeEMPGrenade.description>制造 3 EMP手榴弹。</MakeEMPGrenade.description>
+  <MakeEMPGrenade.description>制作3 EMP手榴弹。</MakeEMPGrenade.description>
   <!-- EN: Making EMP grenades. -->
-  <MakeEMPGrenade.jobString>正在制造 EMP手榴弹。</MakeEMPGrenade.jobString>
-  
+  <MakeEMPGrenade.jobString>正在制作EMP手榴弹。</MakeEMPGrenade.jobString>
+
   <!-- EN: make firefoam grenades x3 -->
-  <MakeFirefoamGrenade.label>制造 泡沫手榴弹 x3</MakeFirefoamGrenade.label>
+  <MakeFirefoamGrenade.label>制作泡沫手榴弹 x3</MakeFirefoamGrenade.label>
   <!-- EN: Craft 3 firefoam grenades. -->
-  <MakeFirefoamGrenade.description>制造 3 泡沫手榴弹。</MakeFirefoamGrenade.description>
+  <MakeFirefoamGrenade.description>制作3 泡沫手榴弹。</MakeFirefoamGrenade.description>
   <!-- EN: Making firefoam grenades. -->
-  <MakeFirefoamGrenade.jobString>正在制造 泡沫手榴弹。</MakeFirefoamGrenade.jobString>
-  
+  <MakeFirefoamGrenade.jobString>正在制作泡沫手榴弹。</MakeFirefoamGrenade.jobString>
+
   <!-- EN: make flashbang grenades x3 -->
-  <MakeFlashbangGrenade.label>制造 震撼手榴弹 x3</MakeFlashbangGrenade.label>
+  <MakeFlashbangGrenade.label>制作震撼手榴弹 x3</MakeFlashbangGrenade.label>
   <!-- EN: Craft 3 flashbang grenades. -->
-  <MakeFlashbangGrenade.description>制造 3 震撼手榴弹。</MakeFlashbangGrenade.description>
+  <MakeFlashbangGrenade.description>制作3 震撼手榴弹。</MakeFlashbangGrenade.description>
   <!-- EN: Making flashbang grenades. -->
-  <MakeFlashbangGrenade.jobString>正在制造 震撼手榴弹。</MakeFlashbangGrenade.jobString>
-  
+  <MakeFlashbangGrenade.jobString>正在制作震撼手榴弹。</MakeFlashbangGrenade.jobString>
+
   <!-- EN: make frag grenades x3 -->
-  <MakeFragGrenade.label>制造 破片手榴弹 x3</MakeFragGrenade.label>
+  <MakeFragGrenade.label>制作破片手榴弹 x3</MakeFragGrenade.label>
   <!-- EN: Craft 3 frag grenades. -->
-  <MakeFragGrenade.description>制造 3 破片手榴弹。</MakeFragGrenade.description>
+  <MakeFragGrenade.description>制作3 破片手榴弹。</MakeFragGrenade.description>
   <!-- EN: Making frag grenades. -->
-  <MakeFragGrenade.jobString>正在制造 破片手榴弹。</MakeFragGrenade.jobString>
-  
+  <MakeFragGrenade.jobString>正在制作破片手榴弹。</MakeFragGrenade.jobString>
+
   <!-- EN: make molotov cocktails x3 -->
-  <MakeMolotovCocktail.label>制造 莫洛托夫燃烧瓶 x3</MakeMolotovCocktail.label>
+  <MakeMolotovCocktail.label>制作莫洛托夫燃烧瓶 x3</MakeMolotovCocktail.label>
   <!-- EN: Craft 3 molotov cocktails. -->
-  <MakeMolotovCocktail.description>制造 3 莫洛托夫燃烧瓶。</MakeMolotovCocktail.description>
+  <MakeMolotovCocktail.description>制作3 莫洛托夫燃烧瓶。</MakeMolotovCocktail.description>
   <!-- EN: Making frag grenades. -->
-  <MakeMolotovCocktail.jobString>正在制造 莫洛托夫燃烧瓶。</MakeMolotovCocktail.jobString>
-  
+  <MakeMolotovCocktail.jobString>正在制作莫洛托夫燃烧瓶。</MakeMolotovCocktail.jobString>
+
   <!-- EN: make smoke grenades x3 -->
-  <MakeSmokeGrenade.label>制造 烟雾手榴弹 x3</MakeSmokeGrenade.label>
+  <MakeSmokeGrenade.label>制作烟雾手榴弹 x3</MakeSmokeGrenade.label>
   <!-- EN: Craft 3 smoke grenades. -->
-  <MakeSmokeGrenade.description>制造 3 烟雾手榴弹。</MakeSmokeGrenade.description>
+  <MakeSmokeGrenade.description>制作3 烟雾手榴弹。</MakeSmokeGrenade.description>
   <!-- EN: Making smoke grenades. -->
-  <MakeSmokeGrenade.jobString>正在制造 烟雾手榴弹。</MakeSmokeGrenade.jobString>
-  
+  <MakeSmokeGrenade.jobString>正在制作烟雾手榴弹。</MakeSmokeGrenade.jobString>
+
   <!-- EN: make stick bombs x3 -->
-  <MakeStickBomb.label>制造 木柄炸弹 x3</MakeStickBomb.label>
+  <MakeStickBomb.label>制作木柄炸弹 x3</MakeStickBomb.label>
   <!-- EN: Craft 3 stick bombs. -->
-  <MakeStickBomb.description>制造 3 木柄炸弹。</MakeStickBomb.description>
+  <MakeStickBomb.description>制作3 木柄炸弹。</MakeStickBomb.description>
   <!-- EN: Making stick bombs. -->
-  <MakeStickBomb.jobString>正在制造 木柄炸弹。</MakeStickBomb.jobString>
-  
+  <MakeStickBomb.jobString>正在制作木柄炸弹。</MakeStickBomb.jobString>
+
 </LanguageData>

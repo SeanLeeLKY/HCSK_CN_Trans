@@ -1,60 +1,60 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: install cochlear implant -->
-  <InstallCochlearImplant.label>安装 人工耳蜗</InstallCochlearImplant.label>
+  <InstallCochlearImplant.label>安装人工耳蜗</InstallCochlearImplant.label>
   <!-- EN: Install a cochlear implant. -->
-  <InstallCochlearImplant.description>安装 人工耳蜗。</InstallCochlearImplant.description>
+  <InstallCochlearImplant.description>安装人工耳蜗。</InstallCochlearImplant.description>
   <!-- EN: Installing cochlear implant. -->
-  <InstallCochlearImplant.jobString>正在安装 人工耳蜗。</InstallCochlearImplant.jobString>
-  
+  <InstallCochlearImplant.jobString>正在安装人工耳蜗。</InstallCochlearImplant.jobString>
+
   <!-- EN: Install Denture -->
-  <InstallDenture.label>安装 义齿</InstallDenture.label>
+  <InstallDenture.label>安装义齿</InstallDenture.label>
   <!-- EN: Installs a simple Denture. -->
   <InstallDenture.description>安装义齿。</InstallDenture.description>
   <!-- EN: Installing Denture. -->
-  <InstallDenture.jobString>正在安装 义齿。</InstallDenture.jobString>
-  
+  <InstallDenture.jobString>正在安装义齿。</InstallDenture.jobString>
+
   <!-- EN: Install Eye Patch -->
-  <InstallEyePatch.label>安装 眼罩</InstallEyePatch.label>
+  <InstallEyePatch.label>安装眼罩</InstallEyePatch.label>
   <!-- EN: Installs an Eye Patch. -->
   <InstallEyePatch.description>安装眼罩。</InstallEyePatch.description>
   <!-- EN: Installing Eye Patch. -->
-  <InstallEyePatch.jobString>正在安装 眼罩。</InstallEyePatch.jobString>
-  
+  <InstallEyePatch.jobString>正在安装眼罩。</InstallEyePatch.jobString>
+
   <!-- EN: Install Hook Hand -->
-  <InstallHookHand.label>安装 钩手</InstallHookHand.label>
+  <InstallHookHand.label>安装钩手</InstallHookHand.label>
   <!-- EN: Installs a Hook Hand. -->
   <InstallHookHand.description>安装钩手。</InstallHookHand.description>
   <!-- EN: Installing Hook Hand. -->
-  <InstallHookHand.jobString>正在安装 钩手。</InstallHookHand.jobString>
-  
+  <InstallHookHand.jobString>正在安装钩手。</InstallHookHand.jobString>
+
   <!-- EN: Install Peg Leg -->
-  <InstallPegLeg.label>安装 木腿</InstallPegLeg.label>
+  <InstallPegLeg.label>安装木腿</InstallPegLeg.label>
   <!-- EN: Installs a Peg Leg. -->
   <InstallPegLeg.description>安装木腿。</InstallPegLeg.description>
   <!-- EN: Installing Peg Leg. -->
-  <InstallPegLeg.jobString>正在安装 木腿。</InstallPegLeg.jobString>
-  
+  <InstallPegLeg.jobString>正在安装木腿。</InstallPegLeg.jobString>
+
   <!-- EN: install prosthetic heart -->
-  <InstallSimpleProstheticHeart.label>安装 人工心脏</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.label>安装人工心脏</InstallSimpleProstheticHeart.label>
   <!-- EN: Install a prosthetic heart. -->
-  <InstallSimpleProstheticHeart.description>安装 人工心脏。</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.description>安装人工心脏。</InstallSimpleProstheticHeart.description>
   <!-- EN: Installing prosthetic heart. -->
-  <InstallSimpleProstheticHeart.jobString>正在安装 人工心脏。</InstallSimpleProstheticHeart.jobString>
-  
+  <InstallSimpleProstheticHeart.jobString>正在安装人工心脏。</InstallSimpleProstheticHeart.jobString>
+
   <!-- EN: Install Wooden Foot -->
-  <InstallWoodenFoot.label>安装 木足</InstallWoodenFoot.label>
+  <InstallWoodenFoot.label>安装木足</InstallWoodenFoot.label>
   <!-- EN: Installs a Wooden Foot. -->
   <InstallWoodenFoot.description>安装木足。</InstallWoodenFoot.description>
   <!-- EN: Installing Wooden Foot. -->
-  <InstallWoodenFoot.jobString>正在安装 木足。</InstallWoodenFoot.jobString>
-  
+  <InstallWoodenFoot.jobString>正在安装木足。</InstallWoodenFoot.jobString>
+
   <!-- EN: install wooden hand -->
-  <InstallWoodenHand.label>安装 木手</InstallWoodenHand.label>
+  <InstallWoodenHand.label>安装木手</InstallWoodenHand.label>
   <!-- EN: Install a wooden hand. -->
-  <InstallWoodenHand.description>安装 木手。</InstallWoodenHand.description>
+  <InstallWoodenHand.description>安装木手。</InstallWoodenHand.description>
   <!-- EN: Installing Wooden Foot. -->
-  <InstallWoodenHand.jobString>正在安装 木手。</InstallWoodenHand.jobString>
-  
+  <InstallWoodenHand.jobString>正在安装木手。</InstallWoodenHand.jobString>
+
 </LanguageData>

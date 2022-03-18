@@ -1,32 +1,32 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Synthesize BioSynthetic material -->
-  <BuildBiosyntheticMaterial.label>合成 生物合成材料</BuildBiosyntheticMaterial.label>
+  <BuildBiosyntheticMaterial.label>合成生物合成材料</BuildBiosyntheticMaterial.label>
   <!-- EN: Synthesize high ductility BioSynthetic material. Produces 5. -->
   <BuildBiosyntheticMaterial.description>合成韧性极高的生物合成材料。 \n\n产出：5。</BuildBiosyntheticMaterial.description>
   <!-- EN: Synthesizing BioSynthetic material. -->
-  <BuildBiosyntheticMaterial.jobString>正在合成 生物合成材料。</BuildBiosyntheticMaterial.jobString>
-  
+  <BuildBiosyntheticMaterial.jobString>正在合成生物合成材料。</BuildBiosyntheticMaterial.jobString>
+
   <!-- EN: Synthesize magnetic material -->
-  <BuildMagneticMaterial.label>合成 磁性材料</BuildMagneticMaterial.label>
+  <BuildMagneticMaterial.label>合成磁性材料</BuildMagneticMaterial.label>
   <!-- EN: Synthesize strong magnetic material from magnetic metals. Produces 5. -->
   <BuildMagneticMaterial.description>使用磁性金属合成强磁性材料。 \n\n产出：5。</BuildMagneticMaterial.description>
   <!-- EN: Synthesizing magnetic material. -->
-  <BuildMagneticMaterial.jobString>正在合成 磁性材料。</BuildMagneticMaterial.jobString>
-  
+  <BuildMagneticMaterial.jobString>正在合成磁性材料。</BuildMagneticMaterial.jobString>
+
   <!-- EN: Fabricate alpha poly -->
-  <ProduceAPoly.label>制造 阿尔法聚合物</ProduceAPoly.label>
+  <ProduceAPoly.label>制作阿尔法聚合物</ProduceAPoly.label>
   <!-- EN: Use heat and strong electromagnets to assemble artifical elements. Produces 15. -->
   <ProduceAPoly.description>利用强电场和极高的温度加工出来的特殊人造材料。 \n\n产出：15。</ProduceAPoly.description>
   <!-- EN: Fabricating alpha poly. -->
-  <ProduceAPoly.jobString>正在制造 阿尔法聚合物。</ProduceAPoly.jobString>
-  
+  <ProduceAPoly.jobString>正在制作阿尔法聚合物。</ProduceAPoly.jobString>
+
   <!-- EN: Fabricate beta poly -->
-  <ProduceBPoly.label>制造 贝塔聚合物</ProduceBPoly.label>
+  <ProduceBPoly.label>制作贝塔聚合物</ProduceBPoly.label>
   <!-- EN: Use heat and strong electromagnets to assemble artifical elements. Produces 5. -->
   <ProduceBPoly.description>利用强电场和极高的温度加工出来的特殊人造材料。 \n\n产出：5。</ProduceBPoly.description>
   <!-- EN: Fabricating beta poly. -->
-  <ProduceBPoly.jobString>正在制造 贝塔聚合物。</ProduceBPoly.jobString>
-  
+  <ProduceBPoly.jobString>正在制作贝塔聚合物。</ProduceBPoly.jobString>
+
 </LanguageData>

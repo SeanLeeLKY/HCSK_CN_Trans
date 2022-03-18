@@ -1,53 +1,53 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Install Artificial Nose -->
-  <InstallArtificialNose.label>安装 人造鼻</InstallArtificialNose.label>
+  <InstallArtificialNose.label>安装人造鼻</InstallArtificialNose.label>
   <!-- EN: Installs an Artificial Nose. -->
-  <InstallArtificialNose.description>安装 人造鼻。</InstallArtificialNose.description>
+  <InstallArtificialNose.description>安装人造鼻。</InstallArtificialNose.description>
   <!-- EN: Installing Artificial Nose. -->
-  <InstallArtificialNose.jobString>正在安装 人造鼻。</InstallArtificialNose.jobString>
-  
+  <InstallArtificialNose.jobString>正在安装人造鼻。</InstallArtificialNose.jobString>
+
   <!-- EN: Install Artifical Pelvis -->
-  <InstallArtificialPelvis.label>安装 人造骨盆</InstallArtificialPelvis.label>
+  <InstallArtificialPelvis.label>安装人造骨盆</InstallArtificialPelvis.label>
   <!-- EN: Installs an Artifical Pelvis. -->
-  <InstallArtificialPelvis.description>安装 人造骨盆。</InstallArtificialPelvis.description>
+  <InstallArtificialPelvis.description>安装人造骨盆。</InstallArtificialPelvis.description>
   <!-- EN: Installing Artifical Pelvis. -->
-  <InstallArtificialPelvis.jobString>正在安装 人造骨盆。</InstallArtificialPelvis.jobString>
-  
+  <InstallArtificialPelvis.jobString>正在安装人造骨盆。</InstallArtificialPelvis.jobString>
+
   <!-- EN: Install Glass Eye -->
-  <InstallGlassEye.label>安装 玻璃眼</InstallGlassEye.label>
+  <InstallGlassEye.label>安装玻璃眼</InstallGlassEye.label>
   <!-- EN: Installs a Glass Eye. -->
-  <InstallGlassEye.description>安装 玻璃眼。</InstallGlassEye.description>
+  <InstallGlassEye.description>安装玻璃眼。</InstallGlassEye.description>
   <!-- EN: Installing Glass Eye. -->
-  <InstallGlassEye.jobString>正在安装 玻璃眼。</InstallGlassEye.jobString>
-  
+  <InstallGlassEye.jobString>正在安装玻璃眼。</InstallGlassEye.jobString>
+
   <!-- EN: Install Simple Prosthetic Arm -->
-  <InstallSimpleProstheticArm.label>安装 简易的假臂</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.label>安装简易的假臂</InstallSimpleProstheticArm.label>
   <!-- EN: Installs a Simple Prosthetic Arm. -->
-  <InstallSimpleProstheticArm.description>安装 简易的假臂。</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.description>安装简易的假臂。</InstallSimpleProstheticArm.description>
   <!-- EN: Installing Simple Prosthetic Arm. -->
-  <InstallSimpleProstheticArm.jobString>正在安装 简易的假臂。</InstallSimpleProstheticArm.jobString>
-  
+  <InstallSimpleProstheticArm.jobString>正在安装简易的假臂。</InstallSimpleProstheticArm.jobString>
+
   <!-- EN: Install Simple Prosthetic Foot -->
-  <InstallSimpleProstheticFoot.label>安装 简易的假足</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.label>安装简易的假足</InstallSimpleProstheticFoot.label>
   <!-- EN: Installs a Simple Prosthetic Foot. -->
-  <InstallSimpleProstheticFoot.description>安装 简易的假足。</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.description>安装简易的假足。</InstallSimpleProstheticFoot.description>
   <!-- EN: Installing Simple Prosthetic Foot. -->
-  <InstallSimpleProstheticFoot.jobString>正在安装 简易的假足。</InstallSimpleProstheticFoot.jobString>
-  
+  <InstallSimpleProstheticFoot.jobString>正在安装简易的假足。</InstallSimpleProstheticFoot.jobString>
+
   <!-- EN: Install Simple Prosthetic Hand -->
-  <InstallSimpleProstheticHand.label>安装 简易的假手</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.label>安装简易的假手</InstallSimpleProstheticHand.label>
   <!-- EN: Installs a Simple Prosthetic Hand. -->
-  <InstallSimpleProstheticHand.description>安装 简易的假手。</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.description>安装简易的假手。</InstallSimpleProstheticHand.description>
   <!-- EN: Installing Simple Prosthetic Hand. -->
-  <InstallSimpleProstheticHand.jobString>正在安装 简易的假手。</InstallSimpleProstheticHand.jobString>
-  
+  <InstallSimpleProstheticHand.jobString>正在安装简易的假手。</InstallSimpleProstheticHand.jobString>
+
   <!-- EN: Install Simple Prosthetic Leg -->
-  <InstallSimpleProstheticLeg.label>安装 简易的假腿</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.label>安装简易的假腿</InstallSimpleProstheticLeg.label>
   <!-- EN: Installs a Simple Prosthetic Leg. -->
-  <InstallSimpleProstheticLeg.description>安装 简易的假腿。</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.description>安装简易的假腿。</InstallSimpleProstheticLeg.description>
   <!-- EN: Installing Simple Prosthetic Leg. -->
-  <InstallSimpleProstheticLeg.jobString>正在安装 简易的假腿。</InstallSimpleProstheticLeg.jobString>
-  
+  <InstallSimpleProstheticLeg.jobString>正在安装简易的假腿。</InstallSimpleProstheticLeg.jobString>
+
 </LanguageData>

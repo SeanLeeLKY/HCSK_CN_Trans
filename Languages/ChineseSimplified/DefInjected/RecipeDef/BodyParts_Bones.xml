@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Install Artificial Bones -->
-  <InstallArtificialBone_Medium.label>安装 人造骨头</InstallArtificialBone_Medium.label>
+  <InstallArtificialBone_Medium.label>安装人造骨头</InstallArtificialBone_Medium.label>
   <!-- EN: Repairs a damaged bone with two Artificial Bones. -->
   <InstallArtificialBone_Medium.description>用人造骨头修复身体骨头损伤。</InstallArtificialBone_Medium.description>
   <!-- EN: Installing Artificial Bones. -->
-  <InstallArtificialBone_Medium.jobString>正在安装 人造骨头。</InstallArtificialBone_Medium.jobString>
-  
+  <InstallArtificialBone_Medium.jobString>正在安装人造骨头。</InstallArtificialBone_Medium.jobString>
+
   <!-- EN: Install Artificial Bone -->
-  <InstallArtificialBone_Small.label>安装 人造骨头</InstallArtificialBone_Small.label>
+  <InstallArtificialBone_Small.label>安装人造骨头</InstallArtificialBone_Small.label>
   <!-- EN: Repairs a damaged bone with an Artificial Bone. -->
   <InstallArtificialBone_Small.description>用人造骨头修复身体骨头损伤。</InstallArtificialBone_Small.description>
   <!-- EN: Installing Artificial Bone. -->
-  <InstallArtificialBone_Small.jobString>正在安装 人造骨头。</InstallArtificialBone_Small.jobString>
-  
+  <InstallArtificialBone_Small.jobString>正在安装人造骨头。</InstallArtificialBone_Small.jobString>
+
   <!-- EN: Install Artificial Bones -->
-  <InstallArtificialBonePiece_Large.label>安装 人造骨头</InstallArtificialBonePiece_Large.label>
+  <InstallArtificialBonePiece_Large.label>安装人造骨头</InstallArtificialBonePiece_Large.label>
   <!-- EN: Repairs a damaged bone with three Artificial Bones. -->
   <InstallArtificialBonePiece_Large.description>用人造骨头修复身体骨头损伤。</InstallArtificialBonePiece_Large.description>
   <!-- EN: Installing Artificial Bones. -->
-  <InstallArtificialBonePiece_Large.jobString>正在安装 人造骨头。</InstallArtificialBonePiece_Large.jobString>
-  
+  <InstallArtificialBonePiece_Large.jobString>正在安装人造骨头。</InstallArtificialBonePiece_Large.jobString>
+
 </LanguageData>
