@@ -11,7 +11,7 @@
   <!-- EN: Build Lee-Enfield -->
   <BuildGun_BoltActionRifle.label>制作李-恩菲尔德步枪</BuildGun_BoltActionRifle.label>
   <!-- EN: Builds an ancient bolt-action rifle. Good range, good power and low rate of fire.\nCaliber: .303 British -->
-  <BuildGun_BoltActionRifle.description>制造一支古老的栓动步枪。射程较远，威力较好，但是射击速度慢。\n弹药： .303 英制弹药</BuildGun_BoltActionRifle.description>
+  <BuildGun_BoltActionRifle.description>制造一支古老的栓动步枪。射程较远，威力较好，但是射击速度慢。\n弹药： .303 英制子弹</BuildGun_BoltActionRifle.description>
   <!-- EN: Building Lee-Enfield. -->
   <BuildGun_BoltActionRifle.jobString>正在制作李-恩菲尔德步枪。</BuildGun_BoltActionRifle.jobString>
 
