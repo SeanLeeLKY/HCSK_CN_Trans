@@ -911,6 +911,13 @@
   <!-- EN: 正在制作加固手套。 -->
   <Make_Apparello_ReinforcedGlove.jobString>正在制作加固手套。</Make_Apparello_ReinforcedGlove.jobString>
 
+  <!-- EN: 制作公羊头盔 -->
+  <Make_Apparello_Rimramhood.label>制作公羊头盔</Make_Apparello_Rimramhood.label>
+  <!-- EN: 制作公羊头盔。 -->
+  <Make_Apparello_Rimramhood.description>制作公羊头盔。</Make_Apparello_Rimramhood.description>
+  <!-- EN: 正在制作公羊头盔。 -->
+  <Make_Apparello_Rimramhood.jobString>正在制作公羊头盔。</Make_Apparello_Rimramhood.jobString>
+
   <!-- EN: 制作遮阳镜 -->
   <Make_Apparello_Shadess.label>制作遮阳镜</Make_Apparello_Shadess.label>
   <!-- EN: 制作遮阳镜。 -->
@@ -1815,11 +1822,11 @@
   <Make_MeleeWeapon_Katana.jobString>正在制作武士太刀。</Make_MeleeWeapon_Katana.jobString>
 
   <!-- EN: 制作小刀 -->
-  <Make_MeleeWeapon_Knife.label>制作匕首</Make_MeleeWeapon_Knife.label>
+  <Make_MeleeWeapon_Knife.label>制作小刀</Make_MeleeWeapon_Knife.label>
   <!-- EN: 制作小刀。 -->
-  <Make_MeleeWeapon_Knife.description>制作匕首。</Make_MeleeWeapon_Knife.description>
+  <Make_MeleeWeapon_Knife.description>制作小刀。</Make_MeleeWeapon_Knife.description>
   <!-- EN: 正在制作小刀。 -->
-  <Make_MeleeWeapon_Knife.jobString>正在制作匕首。</Make_MeleeWeapon_Knife.jobString>
+  <Make_MeleeWeapon_Knife.jobString>正在制作小刀。</Make_MeleeWeapon_Knife.jobString>
 
   <!-- EN: 制作长剑 -->
   <Make_MeleeWeapon_LongSword.label>制作长剑</Make_MeleeWeapon_LongSword.label>
@@ -1864,11 +1871,11 @@
   <Make_MeleeWeapon_Partisan.jobString>正在制作斧枪。</Make_MeleeWeapon_Partisan.jobString>
 
   <!-- EN: 制作小刀 -->
-  <Make_MeleeWeapon_Schiv.label>制作小刀</Make_MeleeWeapon_Schiv.label>
+  <Make_MeleeWeapon_Schiv.label>制作剃刀</Make_MeleeWeapon_Schiv.label>
   <!-- EN: 制作小刀。 -->
-  <Make_MeleeWeapon_Schiv.description>制作小刀。</Make_MeleeWeapon_Schiv.description>
+  <Make_MeleeWeapon_Schiv.description>制作剃刀。</Make_MeleeWeapon_Schiv.description>
   <!-- EN: 正在制作小刀。 -->
-  <Make_MeleeWeapon_Schiv.jobString>正在制作小刀。</Make_MeleeWeapon_Schiv.jobString>
+  <Make_MeleeWeapon_Schiv.jobString>正在制作剃刀。</Make_MeleeWeapon_Schiv.jobString>
 
   <!-- EN: 制作弯刃大刀 -->
   <Make_MeleeWeapon_Scimitar.label>制作弯刃大刀</Make_MeleeWeapon_Scimitar.label>

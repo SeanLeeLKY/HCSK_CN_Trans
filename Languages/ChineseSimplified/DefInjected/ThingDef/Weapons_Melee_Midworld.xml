@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Bonesaw -->
   <MeleeWeapon_Bonesaw.label>骨锯</MeleeWeapon_Bonesaw.label>
   <!-- EN: Theres never a dull moment with a doctor armed with this and their favourite phrases at the ready. "Trust me! You won't feel a thing" And "Oops, is this supposed to bleed so much?" -->
@@ -9,7 +9,7 @@
   <MeleeWeapon_Bonesaw.tools.handle.label>把手</MeleeWeapon_Bonesaw.tools.handle.label>
   <!-- EN: blade -->
   <MeleeWeapon_Bonesaw.tools.blade.label>刃</MeleeWeapon_Bonesaw.tools.blade.label>
-  
+
   <!-- EN: Cleaver -->
   <MeleeWeapon_Cleaver.label>切肉刀</MeleeWeapon_Cleaver.label>
   <!-- EN: Tool designed to separate meat from bones and casting menacing shadows through shower curtains. -->
@@ -18,7 +18,7 @@
   <MeleeWeapon_Cleaver.tools.handle.label>把手</MeleeWeapon_Cleaver.tools.handle.label>
   <!-- EN: edge -->
   <MeleeWeapon_Cleaver.tools.edge.label>刀刃</MeleeWeapon_Cleaver.tools.edge.label>
-  
+
   <!-- EN: Katana -->
   <MeleeWeapon_Katana.label>武士太刀</MeleeWeapon_Katana.label>
   <!-- EN: A modern remake of one-handed samurai sword. Comes with laser sharpening. -->
@@ -29,16 +29,16 @@
   <MeleeWeapon_Katana.tools.point.label>尖</MeleeWeapon_Katana.tools.point.label>
   <!-- EN: edge -->
   <MeleeWeapon_Katana.tools.edge.label>刃</MeleeWeapon_Katana.tools.edge.label>
-  
+
   <!-- EN: Knife -->
   <MeleeWeapon_Knife.label>小刀</MeleeWeapon_Knife.label>
   <!-- EN: One of humankind's oldest tools, the knife is both an everyday tool and a deadly weapon. -->
-  <MeleeWeapon_Knife.description>一种简易制作的短刀。</MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.description>人类的一种古老工具，既可以用于日常生活生产，也能变成致命武器。</MeleeWeapon_Knife.description>
   <!-- EN: handle -->
   <MeleeWeapon_Knife.tools.handle.label>握把</MeleeWeapon_Knife.tools.handle.label>
   <!-- EN: point -->
   <MeleeWeapon_Knife.tools.point.label>刀尖</MeleeWeapon_Knife.tools.point.label>
-  
+
   <!-- EN: Machete -->
   <MeleeWeapon_Machete.label>开山刀</MeleeWeapon_Machete.label>
   <!-- EN: Meant to be used for clearing path in dense jungles, Nowadays mostly used for clearing density from someone's shoulders. -->
@@ -49,7 +49,7 @@
   <MeleeWeapon_Machete.tools.blade.label>刃</MeleeWeapon_Machete.tools.blade.label>
   <!-- EN: point -->
   <MeleeWeapon_Machete.tools.point.label>尖端</MeleeWeapon_Machete.tools.point.label>
-  
+
   <!-- EN: Monkey Wrench -->
   <MeleeWeapon_Monkeywrench.label>活动扳手</MeleeWeapon_Monkeywrench.label>
   <!-- EN: A ginormous wrench, mainly used in spaceship maintenance but could technically be applied to mechanoid disassembly process. -->
@@ -58,7 +58,7 @@
   <MeleeWeapon_Monkeywrench.tools.handle.label>把手</MeleeWeapon_Monkeywrench.tools.handle.label>
   <!-- EN: head -->
   <MeleeWeapon_Monkeywrench.tools.head.label>尖端</MeleeWeapon_Monkeywrench.tools.head.label>
-  
+
   <!-- EN: Sledgehammer -->
   <MeleeWeapon_Sledgehammer.label>大锤</MeleeWeapon_Sledgehammer.label>
   <!-- EN: A large two-handed hammer. Very popular with the muscular crowd. -->
@@ -67,7 +67,7 @@
   <MeleeWeapon_Sledgehammer.tools.handle.label>握把</MeleeWeapon_Sledgehammer.tools.handle.label>
   <!-- EN: head -->
   <MeleeWeapon_Sledgehammer.tools.head.label>头</MeleeWeapon_Sledgehammer.tools.head.label>
-  
+
   <!-- EN: Tanto -->
   <MeleeWeapon_Tanto.label>武士短刀</MeleeWeapon_Tanto.label>
   <!-- EN: A single edged dagger type melee weapon. -->
@@ -78,7 +78,7 @@
   <MeleeWeapon_Tanto.tools.blade.label>刃</MeleeWeapon_Tanto.tools.blade.label>
   <!-- EN: point -->
   <MeleeWeapon_Tanto.tools.point.label>尖</MeleeWeapon_Tanto.tools.point.label>
-  
+
   <!-- EN: Buster Sword -->
   <MeleeWeapon_Tsurugi.label>巴斯特之剑</MeleeWeapon_Tsurugi.label>
   <!-- EN: A huge two-handed sword designed for elite glitterworld soldiers. -->
@@ -89,5 +89,5 @@
   <MeleeWeapon_Tsurugi.tools.point.label>尖</MeleeWeapon_Tsurugi.tools.point.label>
   <!-- EN: edge -->
   <MeleeWeapon_Tsurugi.tools.edge.label>刃</MeleeWeapon_Tsurugi.tools.edge.label>
-  
+
 </LanguageData>

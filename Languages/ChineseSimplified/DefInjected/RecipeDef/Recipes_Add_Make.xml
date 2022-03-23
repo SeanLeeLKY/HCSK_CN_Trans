@@ -1365,9 +1365,9 @@
 
   <!-- Recipe Users: ElectricSmithy -->
 
-  <Make_MeleeWeapon_Knife.label>制作匕首</Make_MeleeWeapon_Knife.label>
-  <Make_MeleeWeapon_Knife.description>制作匕首。</Make_MeleeWeapon_Knife.description>
-  <Make_MeleeWeapon_Knife.jobString>正在制作匕首。</Make_MeleeWeapon_Knife.jobString>
+  <Make_MeleeWeapon_Knife.label>制作小刀</Make_MeleeWeapon_Knife.label>
+  <Make_MeleeWeapon_Knife.description>制作小刀。</Make_MeleeWeapon_Knife.description>
+  <Make_MeleeWeapon_Knife.jobString>正在制作小刀。</Make_MeleeWeapon_Knife.jobString>
 
   <Make_MeleeWeapon_Bonesaw.label>制作骨锯</Make_MeleeWeapon_Bonesaw.label>
   <Make_MeleeWeapon_Bonesaw.description>制作骨锯。</Make_MeleeWeapon_Bonesaw.description>
@@ -1404,9 +1404,9 @@
   <Make_MeleeWeapon_Club.description>制作棍棒。</Make_MeleeWeapon_Club.description>
   <Make_MeleeWeapon_Club.jobString>正在制作棍棒。</Make_MeleeWeapon_Club.jobString>
 
-  <Make_MeleeWeapon_Schiv.label>制作小刀</Make_MeleeWeapon_Schiv.label>
-  <Make_MeleeWeapon_Schiv.description>制作小刀。</Make_MeleeWeapon_Schiv.description>
-  <Make_MeleeWeapon_Schiv.jobString>正在制作小刀。</Make_MeleeWeapon_Schiv.jobString>
+  <Make_MeleeWeapon_Schiv.label>制作剃刀</Make_MeleeWeapon_Schiv.label>
+  <Make_MeleeWeapon_Schiv.description>制作剃刀。</Make_MeleeWeapon_Schiv.description>
+  <Make_MeleeWeapon_Schiv.jobString>正在制作剃刀。</Make_MeleeWeapon_Schiv.jobString>
 
   <Make_Bow_Short.label>制作短弓</Make_Bow_Short.label>
   <Make_Bow_Short.description>制作短弓。</Make_Bow_Short.description>
