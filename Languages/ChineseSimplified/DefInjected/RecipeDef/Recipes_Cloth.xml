@@ -48,7 +48,7 @@
   <!-- EN: Spin hyperweave from synthread and devilstrand cloth. Produces 10. -->
   <MakeHyperweaveCloth.description>将人造纤维和魔菇布制成成超织物。\n\n产出：10</MakeHyperweaveCloth.description>
   <!-- EN: Spinning hyperweave from devilstrand and synthread. -->
-  <MakeHyperweaveCloth.jobString>正在制作超超织物。</MakeHyperweaveCloth.jobString>
+  <MakeHyperweaveCloth.jobString>正在纺织超织物。</MakeHyperweaveCloth.jobString>
 
   <!-- EN: Create kevlar -->
   <MakeKevlar.label>制作凯夫拉</MakeKevlar.label>
@@ -65,11 +65,11 @@
   <MakeLinen.jobString>正在纺织亚麻布。</MakeLinen.jobString>
 
   <!-- EN: Spin synthread -->
-  <MakeSynthreadCloth.label>制作合成纤维</MakeSynthreadCloth.label>
+  <MakeSynthreadCloth.label>纺织合成纤维</MakeSynthreadCloth.label>
   <!-- EN: Spin synthread from raw cotton and synthetic fibers. Produces 10. -->
   <MakeSynthreadCloth.description>将棉花纤维和人造纤维纺织成合成纤维。 \n\n产出：10</MakeSynthreadCloth.description>
   <!-- EN: Spinning synthread from synthetic fibers. -->
-  <MakeSynthreadCloth.jobString>正在制作合成纤维。</MakeSynthreadCloth.jobString>
+  <MakeSynthreadCloth.jobString>正在纺织合成纤维。</MakeSynthreadCloth.jobString>
 
   <!-- EN: Spin velour -->
   <MakeVelour.label>纺织丝绒</MakeVelour.label>
