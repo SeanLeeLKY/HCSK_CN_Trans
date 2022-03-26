@@ -1,74 +1,74 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Behir Egg (Fertilized) -->
-  <EggBehirFertilized.label>犬魔蛋（已受精）</EggBehirFertilized.label>
+  <EggBehirFertilized.label>青足龙蛇蛋（已受精）</EggBehirFertilized.label>
   <!-- EN: A fertilized egg of a Behir. If Eggs can be eaten raw, but are much better when cooked. -->
-  <EggBehirFertilized.description>已受精的犬魔蛋。蛋可以生吃，但煮熟了吃更好。</EggBehirFertilized.description>
-  
+  <EggBehirFertilized.description>已受精的青足龙蛇蛋。蛋可以生吃，但煮熟了吃更好。</EggBehirFertilized.description>
+
   <!-- EN: Behir Egg (Unfertilized) -->
-  <EggBehirUnfertilized.label>犬魔蛋（未受精）</EggBehirUnfertilized.label>
+  <EggBehirUnfertilized.label>青足龙蛇蛋（未受精）</EggBehirUnfertilized.label>
   <!-- EN: An unfertilized egg of a Behir. If Eggs can be eaten raw, but are much better when cooked. -->
-  <EggBehirUnfertilized.description>未受精的犬魔蛋。蛋可以生吃，但煮熟了吃更好。</EggBehirUnfertilized.description>
-  
+  <EggBehirUnfertilized.description>未受精的青足龙蛇蛋。蛋可以生吃，但煮熟了吃更好。</EggBehirUnfertilized.description>
+
   <!-- EN: Fenix Egg (Fertilized) -->
   <EggFenixFertilized.label>芬尼克斯蛋（已受精）</EggFenixFertilized.label>
   <!-- EN: A fertilized egg of a Fenix. If Eggs can be eaten raw, but are much better when cooked. -->
   <EggFenixFertilized.description>已受精的芬尼克斯蛋。蛋可以生吃，但煮熟了吃更好。</EggFenixFertilized.description>
-  
+
   <!-- EN: Fenix Egg (Unfertilized) -->
   <EggFenixUnfertilized.label>芬尼克斯蛋（未受精）</EggFenixUnfertilized.label>
   <!-- EN: An unfertilized egg of a Fenix. -->
   <EggFenixUnfertilized.description>未受精的芬尼克斯蛋。</EggFenixUnfertilized.description>
-  
+
   <!-- EN: Raptor Egg (Fertilized) -->
   <EggFRaptorFertilized.label>翼猛龙蛋（已受精）</EggFRaptorFertilized.label>
   <!-- EN: A fertilized egg of a Raptor. If all goes well, it should hatch into a Baby Raptor. Eggs can be eaten raw, but are much better when cooked. -->
   <EggFRaptorFertilized.description>已受精的翼猛龙蛋。如果一切无恙，应该可以孵化出翼猛龙幼崽。蛋可以生吃，但煮熟了吃更好。</EggFRaptorFertilized.description>
-  
+
   <!-- EN: Raptor Egg (Unfertilized) -->
   <EggFRaptorUnfertilized.label>翼猛龙蛋（未受精）</EggFRaptorUnfertilized.label>
   <!-- EN: An unfertilized egg of a Raptor. -->
   <EggFRaptorUnfertilized.description>未受精的翼猛龙蛋。</EggFRaptorUnfertilized.description>
-  
+
   <!-- EN: Green wyvern Egg (Fertilized) -->
   <EggGreenWyvernFertilized.label>绿飞龙蛋（已受精）</EggGreenWyvernFertilized.label>
   <!-- EN: A fertilized egg of a Green wyvern. If Eggs can be eaten raw, but are much better when cooked. -->
   <EggGreenWyvernFertilized.description>已受精的绿飞龙蛋。蛋可以生吃，但煮熟了吃更好。</EggGreenWyvernFertilized.description>
-  
+
   <!-- EN: Green wyvern Egg (Unfertilized) -->
   <EggGreenWyvernUnfertilized.label>绿飞龙蛋（未受精）</EggGreenWyvernUnfertilized.label>
   <!-- EN: An unfertilized egg of a  Green wyvern. -->
   <EggGreenWyvernUnfertilized.description>未受精的绿飞龙蛋。</EggGreenWyvernUnfertilized.description>
-  
+
   <!-- EN: Lacosdile Egg (Fertilized) -->
   <EggLacosdileFertilized.label>拉科斯帝鳄蜥（已受精）</EggLacosdileFertilized.label>
   <!-- EN: A fertilized egg of a Lacosdile. If all goes well, it should hatch into a Baby Lacosdile. Eggs can be eaten raw, but are much better when cooked. -->
   <EggLacosdileFertilized.description>已受精的拉科斯帝鳄蜥。如果一切无恙，应该可以孵化出拉科斯帝鳄蜥幼崽。蛋可以生吃，但煮熟了吃更好。</EggLacosdileFertilized.description>
-  
+
   <!-- EN: Lacosdile Egg (Unfertilized) -->
   <EggLacosdileUnfertilized.label>拉科斯帝鳄蜥（未受精）</EggLacosdileUnfertilized.label>
   <!-- EN: An unfertilized egg of a Lacosdile. Eggs can be eaten raw, but are much better when cooked. -->
   <EggLacosdileUnfertilized.description>未受精的拉科斯帝鳄蜥。蛋可以生吃，但煮熟了吃更好。</EggLacosdileUnfertilized.description>
-  
+
   <!-- EN: Nightling egg (Fertilized) -->
   <EggNightlingFertilized.label>夜灵蛋（已受精）</EggNightlingFertilized.label>
   <!-- EN: Fertilized Nightling egg. If all goes well, it should hatch into a baby Nightling. It can be eaten raw, but it's much better cooked. -->
   <EggNightlingFertilized.description>已受精的夜灵蛋。如果一切无恙，应该可以孵化出夜灵幼崽。蛋可以生吃，但煮熟了吃更好。</EggNightlingFertilized.description>
-  
+
   <!-- EN: Nightling egg (Unfertilized) -->
   <EggNightlingUnfertilized.label>夜灵蛋（未受精）</EggNightlingUnfertilized.label>
   <!-- EN: An unfertilized Nightling egg. It can be eaten raw, but it's much better cooked. -->
   <EggNightlingUnfertilized.description>未受精的夜灵蛋。蛋可以生吃，但煮熟了吃更好。</EggNightlingUnfertilized.description>
-  
+
   <!-- EN: ptarmigan egg (Fertilized) -->
   <EggPtarmiganFertilized.label>松鸡蛋（已受精）</EggPtarmiganFertilized.label>
   <!-- EN: Fertilized ptarmigan egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
   <EggPtarmiganFertilized.description>已受精的松鸡蛋。如果一切无恙，应该可以孵化出小鸡。 蛋可以生吃，但煮熟了吃更好。</EggPtarmiganFertilized.description>
-  
+
   <!-- EN: ptarmigan egg (Unfertilized) -->
   <EggPtarmiganUnfertilized.label>松鸡蛋（未受精）</EggPtarmiganUnfertilized.label>
   <!-- EN: Unfertilized ptarmigan egg. It can be eaten raw, but it's much, much better cooked. -->
   <EggPtarmiganUnfertilized.description>未受精的松鸡蛋。蛋可以生吃，但煮熟了吃更好。</EggPtarmiganUnfertilized.description>
-  
+
 </LanguageData>
