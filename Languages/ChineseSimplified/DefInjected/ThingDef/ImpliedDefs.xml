@@ -373,8 +373,8 @@
   <!-- EN: 双人睡眠点（蓝图） -->
   <Blueprint_DoubleSleepingSpot.label>双人睡眠点（蓝图）</Blueprint_DoubleSleepingSpot.label>
 
-  <!-- EN: 梳妆台（蓝图） -->
-  <Blueprint_Dresser.label>梳妆台（蓝图）</Blueprint_Dresser.label>
+  <!-- EN: 化妆台（蓝图） -->
+  <Blueprint_Dresser.label>化妆台（蓝图）</Blueprint_Dresser.label>
 
   <!-- EN: 药物实验台（蓝图） -->
   <Blueprint_DrugLab.label>药物实验台（蓝图）</Blueprint_DrugLab.label>
@@ -1024,8 +1024,8 @@
   <!-- EN: 龙蛇雕塑（蓝图） -->
   <Blueprint_Install_DragonArt.label>龙蛇雕塑（蓝图）</Blueprint_Install_DragonArt.label>
 
-  <!-- EN: 梳妆台（蓝图） -->
-  <Blueprint_Install_Dresser.label>梳妆台（蓝图）</Blueprint_Install_Dresser.label>
+  <!-- EN: 化妆台（蓝图） -->
+  <Blueprint_Install_Dresser.label>化妆台（蓝图）</Blueprint_Install_Dresser.label>
 
   <!-- EN: 药物实验台（蓝图） -->
   <Blueprint_Install_DrugLab.label>药物实验台（蓝图）</Blueprint_Install_DrugLab.label>
@@ -4032,10 +4032,10 @@
   <!-- EN: 在地板上指定两个人睡在一起的位置。一点也不舒服。 -->
   <Frame_DoubleSleepingSpot.description>在地板上指定两个人睡在一起的位置。一点也不舒服。</Frame_DoubleSleepingSpot.description>
 
-  <!-- EN: 梳妆台（建造中） -->
-  <Frame_Dresser.label>梳妆台（建造中）</Frame_Dresser.label>
-  <!-- EN: 合理使用梳妆台能让殖民者看起来更有气势。 -->
-  <Frame_Dresser.description>合理使用梳妆台能让殖民者看起来更有气势。</Frame_Dresser.description>
+  <!-- EN: 化妆台（建造中） -->
+  <Frame_Dresser.label>化妆台（建造中）</Frame_Dresser.label>
+  <!-- EN: 合理使用化妆台能让殖民者看起来更有气势。 -->
+  <Frame_Dresser.description>合理使用化妆台能让殖民者看起来更有气势。</Frame_Dresser.description>
 
   <!-- EN: 药物实验台（建造中） -->
   <Frame_DrugLab.label>药物实验台（建造中）</Frame_DrugLab.label>

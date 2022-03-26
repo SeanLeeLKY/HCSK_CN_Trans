@@ -1,196 +1,196 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: armchair -->
   <Armchair.label>扶手椅</Armchair.label>
   <!-- EN: A large, soft and comfy seat. Great for relaxation. Whoever thought of adding soft padding to a chair is a genious. -->
   <Armchair.description>一个非常大、柔软、舒适的椅子。非常适合休闲放松。</Armchair.description>
-  
+
   <!-- EN: bench -->
   <Bench.label>长凳</Bench.label>
   <!-- EN: A simple platform on which to sit. -->
   <Bench.description>一个简单的长凳，可以坐在上面。</Bench.description>
-  
+
   <!-- EN: couch -->
   <ClutterCouchA.label>沙发</ClutterCouchA.label>
   <!-- EN: A couch is type of furniture that could be suitable for two, but is usable by only one. It won't make colonists lazy, in theory at least. -->
   <ClutterCouchA.description>双座沙发，是的。理论上可以两个人使用，不过一般情况下只能一个人。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</ClutterCouchA.description>
-  
+
   <!-- EN: locker -->
   <ClutterLocker.label>寄物柜</ClutterLocker.label>
   <!-- EN: A locker that can store a set clothing for easy outfit swapping. A colonist can be assigned ownership of this locker. It comes with dust contractor unit for that good, ancient feeling. -->
   <ClutterLocker.description>一个可以存放一套衣服的储物柜，方便更换装备。殖民者可以被分配这个储物柜的所有权。它带有尘土清除装置，让人感觉经典可靠。</ClutterLocker.description>
-  
+
   <!-- EN: barber bench -->
   <ClutterStylist.label>理发椅</ClutterStylist.label>
   <!-- EN: Place where hair go wild! -->
   <ClutterStylist.description>让你的发型个性飞扬！</ClutterStylist.description>
-  
+
   <!-- EN: dining chair -->
   <DiningChair.label>餐椅</DiningChair.label>
   <!-- EN: A sturdy and attractive chair that is typically used for sitting at a table. It is a proper seating improvement over stools. -->
   <DiningChair.description>一张放在桌子前看起来很舒适和招人喜爱的椅子。比坐凳子舒服多了。</DiningChair.description>
-  
+
   <!-- EN: dressing table -->
-  <Dresser.label>梳妆台</Dresser.label>
+  <Dresser.label>化妆台</Dresser.label>
   <!-- EN: A Dresser to make Pawns look more snappy. -->
-  <Dresser.description>合理使用梳妆台能让殖民者看起来更有气势。</Dresser.description>
-  
+  <Dresser.description>合理使用化妆台能让殖民者看起来更有气势。</Dresser.description>
+
   <!-- EN: egg armchair -->
   <EggArmchair.label>蛋形椅</EggArmchair.label>
   <!-- EN: Millenium Line Egg Armchair. Feel like a chick - sit in an egg.. -->
   <EggArmchair.description>千禧风格的蛋形扶手椅。感觉自己像一只小鸡————被包裹在蛋壳里。</EggArmchair.description>
-  
+
   <!-- EN: end table with lamp -->
   <EndTable.label>床头柜（灯）</EndTable.label>
   <!-- EN: A small table with a lamp and a drawer. It would be a nice addition beside a bed. Uses 20 W to light a small area. -->
   <EndTable.description>床边的带灯小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。消耗20W电力。</EndTable.description>
-  
+
   <!-- EN: end table -->
   <EndTableSimple.label>床头柜</EndTableSimple.label>
   <!-- EN: This small table goes well with a bed. When placed with a bed it will increase comfort and rest effectiveness slightly -->
   <EndTableSimple.description>床边的小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。</EndTableSimple.description>
-  
+
   <!-- EN: folding stool -->
   <FoldingStool.label>折叠凳</FoldingStool.label>
   <!-- EN: A piece of leather and some steel - et voilà! An ingenious way of sitting, invented by the Galga Ler on Achron V. -->
   <FoldingStool.description>金属支架上覆盖着毛皮材质的座面。</FoldingStool.description>
-  
+
   <!-- EN: holographic cell -->
   <HolographicCell.label>全息单元</HolographicCell.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <HolographicCell.description>一种方便的设施，能够直接从galanet发出必要的信息并将其投影到现实空间中，从而加快工作速度。</HolographicCell.description>
-  
+
   <!-- EN: journal table -->
   <JournalTable.label>日志桌</JournalTable.label>
   <!-- EN: A decorative table with a journal on it. Colonists can gather here to discuss the majestic journal and the mighty steed that is the table that it rests upon. -->
   <JournalTable.description>有一本日记的装饰性桌子。殖民者们可以聚集在这里严肃讨论日志和各种史诗经历。</JournalTable.description>
-  
+
   <!-- EN: millenium chair -->
   <MilleniumChair.label>千禧椅</MilleniumChair.label>
   <!-- EN: Millenium Line chair. -->
   <MilleniumChair.description>千禧风格的椅子。</MilleniumChair.description>
-  
+
   <!-- EN: millenium couch -->
   <MilleniumCouch.label>千禧沙发</MilleniumCouch.label>
   <!-- EN: Millenium Line couch is the ultimate furniture piece for sitting satisfaction. Relaxing on it won't make colonists lazy, in theory at least. -->
   <MilleniumCouch.description>千禧风格沙发是满足坐感的终极家具作品。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</MilleniumCouch.description>
-  
+
   <!-- EN: millenium table (2x2) -->
   <MilleniumTable.label>千禧桌（2x2)</MilleniumTable.label>
   <!-- EN: This splendidly designed table is the perfect center-piece for any dining room! -->
   <MilleniumTable.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable.description>
-  
+
   <!-- EN: millenium table (1x2) -->
   <MilleniumTable1x2c.label>千禧桌（1x2)</MilleniumTable1x2c.label>
   <!-- EN: This splendidly designed table is the perfect center-piece for any dining room! -->
   <MilleniumTable1x2c.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable1x2c.description>
-  
+
   <!-- EN: millenium table (1x3) -->
   <MilleniumTable1x3c.label>千禧桌（1x3)</MilleniumTable1x3c.label>
   <!-- EN: This splendidly designed table is the perfect center-piece for any dining room! -->
   <MilleniumTable1x3c.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable1x3c.description>
-  
+
   <!-- EN: millenium table (2x3) -->
   <MilleniumTable2x3c.label>千禧桌（2x3)</MilleniumTable2x3c.label>
   <!-- EN: This splendidly designed table is the perfect center-piece for any dining room! -->
   <MilleniumTable2x3c.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTable2x3c.description>
-  
+
   <!-- EN: millenium table  (1x1) -->
   <MilleniumTableSmall.label>千禧桌（1x1)</MilleniumTableSmall.label>
   <!-- EN: This splendidly designed table is the perfect center-piece for any dining room! -->
   <MilleniumTableSmall.description>这是一种非常适合放在饭厅使用的漂亮家具。</MilleniumTableSmall.description>
-  
+
   <!-- EN: pod chair -->
   <PodChair.label>单座沙发</PodChair.label>
   <!-- EN: Enter to galahoo, himself! It need a human ? -->
   <PodChair.description>看这玩意的舒服样，感觉都不需要人坐进去了！</PodChair.description>
-  
+
   <!-- EN: stone stool -->
   <PrimitiveStoolStone.label>石凳</PrimitiveStoolStone.label>
   <!-- EN: Primitive stone stool. -->
   <PrimitiveStoolStone.description>略微原始的石凳子。</PrimitiveStoolStone.description>
-  
+
   <!-- EN: wooden stool -->
   <PrimitiveStoolWood.label>凳子</PrimitiveStoolWood.label>
   <!-- EN: Is an authentic stool, fashioned after those found in the ruins of the Red Tree People on Xentis Ham. -->
   <PrimitiveStoolWood.description>一张普通的凳子，仿照在某个世界的著名的红树人遗址中发现的凳子建造的。</PrimitiveStoolWood.description>
-  
+
   <!-- EN: small stone table -->
   <PrimitiveTableStone.label>小石桌</PrimitiveTableStone.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <PrimitiveTableStone.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</PrimitiveTableStone.description>
-  
+
   <!-- EN: primitive wood table -->
   <PrimitiveTableWood.label>原始木桌</PrimitiveTableWood.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <PrimitiveTableWood.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</PrimitiveTableWood.description>
-  
+
   <!-- EN: rustic couch -->
   <RusticCouch.label>普通沙发</RusticCouch.label>
   <!-- EN: A couch is the ultimate furniture piece for sitting satisfaction. Relaxing on it won't make colonists lazy, in theory at least. -->
   <RusticCouch.description>沙发是满足坐姿休息的终极家具。在上面放松身心，应该不会让殖民者变得懒散，理论上是这样的！</RusticCouch.description>
-  
+
   <!-- EN: pillow -->
   <SimplePillow.label>软垫</SimplePillow.label>
   <!-- EN: Rest your tushie on this plushy cushion! -->
   <SimplePillow.description>把你的屁股放在这个软软的垫子上吧！</SimplePillow.description>
-  
+
   <!-- EN: stone armchair -->
   <SlabChair.label>石板椅</SlabChair.label>
   <!-- EN: Whoever said that stone is not comfortable? Prove everyone wrong with this replica of a perfectly comfortable stony armchair. -->
   <SlabChair.description>谁说石头不舒服？用这张完美舒适的石板椅的复制品来证明所有人都错了。</SlabChair.description>
-  
+
   <!-- EN: backless stool -->
   <Stool.label>板凳</Stool.label>
   <!-- EN: A very basic platform on which to sit. It lacks a backrest. -->
   <Stool.description>一块有支撑的平面。但是没有靠背。</Stool.description>
-  
+
   <!-- EN: table (1x1) -->
   <Table1x1c.label>桌子（1x1)</Table1x1c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table1x1c.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x1c.description>
-  
+
   <!-- EN: table (1x2) -->
   <Table1x2c.label>桌子（1x2)</Table1x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table1x2c.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x2c.description>
-  
+
   <!-- EN: table (1x3) -->
   <Table1x3c.label>桌子（1x3)</Table1x3c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table1x3c.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</Table1x3c.description>
-  
+
   <!-- EN: table (2x2) -->
   <Table2x2c.label>桌子（2x2)</Table2x2c.label>
   <!-- EN: Colonists will eat off of tables when a chair is facing it. This short table is suitable for 4 at once. -->
   <Table2x2c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种小桌子适合4人使用。</Table2x2c.description>
-  
+
   <!-- EN: table (2x3) -->
   <Table2x4c.label>桌子（2x3)</Table2x4c.label>
   <!-- EN: Colonists will eat off of tables when a chair is facing it. This long table is suitable for 8 at once. -->
   <Table2x4c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种长桌子适合8人使用。</Table2x4c.description>
-  
+
   <!-- EN: table (3x3) -->
   <Table3x3c.label>桌子（3x3)</Table3x3c.label>
   <!-- EN: Colonists will eat off of tables when a chair is facing it. This long table is suitable for 8 at once. -->
   <Table3x3c.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。这种长桌子适合8人使用。</Table3x3c.description>
-  
+
   <!-- EN: stone table -->
   <TableStone.label>石桌</TableStone.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <TableStone.description>当椅子对着桌子摆放时，人们会坐在椅子上吃饭。</TableStone.description>
-  
+
   <!-- EN: tea table -->
   <TeaTable.label>茶桌</TeaTable.label>
   <!-- EN: Colonists will eat off of tables when a chair is facing it. This tiny glass table is suitable for 1. -->
   <TeaTable.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。 这种小玻璃桌子适合一个人使用。</TeaTable.description>
-  
+
   <!-- EN: tent support -->
   <TentDeployed.label>帐篷支架</TentDeployed.label>
   <!-- EN: Supports the tent. -->
   <TentDeployed.description>帐篷的支架。</TentDeployed.description>
   <!-- EN: Pack the tent -->
   <TentDeployed.comps.CompPackTent.useLabel>打包帐篷</TentDeployed.comps.CompPackTent.useLabel>
-  
+
 </LanguageData>
