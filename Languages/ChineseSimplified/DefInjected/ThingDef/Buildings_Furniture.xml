@@ -44,12 +44,12 @@
   <!-- EN: end table with lamp -->
   <EndTable.label>床头柜（灯）</EndTable.label>
   <!-- EN: A small table with a lamp and a drawer. It would be a nice addition beside a bed. Uses 20 W to light a small area. -->
-  <EndTable.description>床边的带灯小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。消耗20W电力。</EndTable.description>
+  <EndTable.description>床边的带灯小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与床毗邻的位置。消耗20W电力。</EndTable.description>
 
   <!-- EN: end table -->
   <EndTableSimple.label>床头柜</EndTableSimple.label>
   <!-- EN: This small table goes well with a bed. When placed with a bed it will increase comfort and rest effectiveness slightly -->
-  <EndTableSimple.description>床边的小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。</EndTableSimple.description>
+  <EndTableSimple.description>床边的小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与床毗邻的位置。</EndTableSimple.description>
 
   <!-- EN: folding stool -->
   <FoldingStool.label>折叠凳</FoldingStool.label>

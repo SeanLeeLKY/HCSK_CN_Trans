@@ -807,11 +807,11 @@
   <Make_Apparello_NorbalArcher.jobString>正在制作轻头盔</Make_Apparello_NorbalArcher.jobString>
 
   <!-- EN: 制作角盔 -->
-  <Make_Apparello_NorbalKing.label>制作鹿角毛皮帽</Make_Apparello_NorbalKing.label>
+  <Make_Apparello_NorbalKing.label>制作角盔</Make_Apparello_NorbalKing.label>
   <!-- EN: 制作角盔。 -->
-  <Make_Apparello_NorbalKing.description>制作鹿角毛皮帽</Make_Apparello_NorbalKing.description>
+  <Make_Apparello_NorbalKing.description>制作角盔</Make_Apparello_NorbalKing.description>
   <!-- EN: 正在制作角盔。 -->
-  <Make_Apparello_NorbalKing.jobString>正在制作鹿角毛皮帽</Make_Apparello_NorbalKing.jobString>
+  <Make_Apparello_NorbalKing.jobString>正在制作角盔</Make_Apparello_NorbalKing.jobString>
 
   <!-- EN: 制作毛皮靴 -->
   <Make_Apparello_NorbalMuffshoes.label>制作凉鞋</Make_Apparello_NorbalMuffshoes.label>
@@ -828,18 +828,18 @@
   <Make_Apparello_NorbalSagecowl.jobString>正在制作头罩。</Make_Apparello_NorbalSagecowl.jobString>
 
   <!-- EN: 制作翼状骷髅帽 -->
-  <Make_Apparello_NorbalThunder.label>制作罗马军团头盔</Make_Apparello_NorbalThunder.label>
+  <Make_Apparello_NorbalThunder.label>制作翼状骷髅帽</Make_Apparello_NorbalThunder.label>
   <!-- EN: 制作翼状骷髅帽。 -->
-  <Make_Apparello_NorbalThunder.description>制作罗马军团头盔</Make_Apparello_NorbalThunder.description>
+  <Make_Apparello_NorbalThunder.description>制作翼状骷髅帽</Make_Apparello_NorbalThunder.description>
   <!-- EN: 正在制作翼状骷髅帽。 -->
-  <Make_Apparello_NorbalThunder.jobString>正在制作罗马军团头盔</Make_Apparello_NorbalThunder.jobString>
+  <Make_Apparello_NorbalThunder.jobString>正在制作翼状骷髅帽</Make_Apparello_NorbalThunder.jobString>
 
   <!-- EN: 制作链甲头盔 -->
-  <Make_Apparello_NorbalWarrior.label>制作巨型头盔</Make_Apparello_NorbalWarrior.label>
+  <Make_Apparello_NorbalWarrior.label>制作链甲头盔</Make_Apparello_NorbalWarrior.label>
   <!-- EN: 制作链甲头盔。 -->
-  <Make_Apparello_NorbalWarrior.description>制作巨型头盔</Make_Apparello_NorbalWarrior.description>
+  <Make_Apparello_NorbalWarrior.description>制作链甲头盔</Make_Apparello_NorbalWarrior.description>
   <!-- EN: 正在制作链甲头盔。 -->
-  <Make_Apparello_NorbalWarrior.jobString>正在制作巨型头盔</Make_Apparello_NorbalWarrior.jobString>
+  <Make_Apparello_NorbalWarrior.jobString>正在制作链甲头盔</Make_Apparello_NorbalWarrior.jobString>
 
   <!-- EN: 制作闪亮头冠 -->
   <Make_Apparello_ohlala.label>制作闪亮头冠</Make_Apparello_ohlala.label>
@@ -1598,11 +1598,11 @@
   <Make_MedievalArmor_Hauberk.jobString>正在制作信使锁子甲</Make_MedievalArmor_Hauberk.jobString>
 
   <!-- EN: 制作护鼻头盔 -->
-  <Make_MedievalArmor_NasalHelmet.label>制作碟型头盔</Make_MedievalArmor_NasalHelmet.label>
+  <Make_MedievalArmor_NasalHelmet.label>制作护鼻头盔</Make_MedievalArmor_NasalHelmet.label>
   <!-- EN: 制作护鼻头盔。 -->
-  <Make_MedievalArmor_NasalHelmet.description>制作碟型头盔</Make_MedievalArmor_NasalHelmet.description>
+  <Make_MedievalArmor_NasalHelmet.description>制作护鼻头盔</Make_MedievalArmor_NasalHelmet.description>
   <!-- EN: 正在制作护鼻头盔。 -->
-  <Make_MedievalArmor_NasalHelmet.jobString>正在制作碟型头盔</Make_MedievalArmor_NasalHelmet.jobString>
+  <Make_MedievalArmor_NasalHelmet.jobString>正在制作护鼻头盔</Make_MedievalArmor_NasalHelmet.jobString>
 
   <!-- EN: 制作全身板甲 -->
   <Make_MedievalArmor_PlateArmor.label>制作全身板甲</Make_MedievalArmor_PlateArmor.label>
@@ -1696,18 +1696,18 @@
   <Make_MedievalTimes_Helmet_Bascinet.jobString>正在制作巴萨内特盔。</Make_MedievalTimes_Helmet_Bascinet.jobString>
 
   <!-- EN: 制作圆顶头盔 -->
-  <Make_MedievalTimes_Helmet_Domed.label>制作卡布托头盔</Make_MedievalTimes_Helmet_Domed.label>
+  <Make_MedievalTimes_Helmet_Domed.label>制作圆顶头盔</Make_MedievalTimes_Helmet_Domed.label>
   <!-- EN: 制作圆顶头盔。 -->
-  <Make_MedievalTimes_Helmet_Domed.description>制作卡布托头盔</Make_MedievalTimes_Helmet_Domed.description>
+  <Make_MedievalTimes_Helmet_Domed.description>制作圆顶头盔</Make_MedievalTimes_Helmet_Domed.description>
   <!-- EN: 正在制作圆顶头盔。 -->
-  <Make_MedievalTimes_Helmet_Domed.jobString>正在制作卡布托头盔</Make_MedievalTimes_Helmet_Domed.jobString>
+  <Make_MedievalTimes_Helmet_Domed.jobString>正在制作圆顶头盔</Make_MedievalTimes_Helmet_Domed.jobString>
 
   <!-- EN: 制作轻头盔 -->
-  <Make_MedievalTimes_Helmet_Sallet.label>制作面纱轻头盔</Make_MedievalTimes_Helmet_Sallet.label>
+  <Make_MedievalTimes_Helmet_Sallet.label>制作轻头盔</Make_MedievalTimes_Helmet_Sallet.label>
   <!-- EN: 制作轻头盔。 -->
-  <Make_MedievalTimes_Helmet_Sallet.description>制作面纱轻头盔</Make_MedievalTimes_Helmet_Sallet.description>
+  <Make_MedievalTimes_Helmet_Sallet.description>制作轻头盔</Make_MedievalTimes_Helmet_Sallet.description>
   <!-- EN: 正在制作轻头盔。 -->
-  <Make_MedievalTimes_Helmet_Sallet.jobString>正在制作面纱轻头盔</Make_MedievalTimes_Helmet_Sallet.jobString>
+  <Make_MedievalTimes_Helmet_Sallet.jobString>正在制作轻头盔</Make_MedievalTimes_Helmet_Sallet.jobString>
 
   <!-- EN: 制作衬垫夹克 -->
   <Make_MedievalTimes_PaddedJacket.label>制作衬垫夹克</Make_MedievalTimes_PaddedJacket.label>
