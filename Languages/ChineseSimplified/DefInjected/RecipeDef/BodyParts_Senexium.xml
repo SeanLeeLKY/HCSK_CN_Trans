@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Install senexium -->
-  <InstallSenexium.label>安装 年龄加速器</InstallSenexium.label>
+  <InstallSenexium.label>安装年龄加速器</InstallSenexium.label>
   <!-- EN: Installs senexium device. -->
-  <InstallSenexium.description>安装 年龄加速器。</InstallSenexium.description>
+  <InstallSenexium.description>安装年龄加速器。</InstallSenexium.description>
   <!-- EN: Installing senexium device. -->
-  <InstallSenexium.jobString>正在安装 年龄加速器。</InstallSenexium.jobString>
-  
+  <InstallSenexium.jobString>正在安装年龄加速器。</InstallSenexium.jobString>
+
 </LanguageData>

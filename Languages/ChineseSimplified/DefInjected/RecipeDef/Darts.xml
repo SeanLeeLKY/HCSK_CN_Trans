@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: make poison darts x50 -->
-  <MakeAmmo_Dart.label>制造 毒镖 x50</MakeAmmo_Dart.label>
+  <MakeAmmo_Dart.label>制作毒镖 x50</MakeAmmo_Dart.label>
   <!-- EN: Craft 50 poison darts. -->
-  <MakeAmmo_Dart.description>制造 50 毒镖。</MakeAmmo_Dart.description>
+  <MakeAmmo_Dart.description>制作50 毒镖。</MakeAmmo_Dart.description>
   <!-- EN: Making poison darts. -->
-  <MakeAmmo_Dart.jobString>正在制造 毒镖。</MakeAmmo_Dart.jobString>
-  
+  <MakeAmmo_Dart.jobString>正在制作毒镖。</MakeAmmo_Dart.jobString>
+
 </LanguageData>

@@ -3,7 +3,8 @@
   
   <!-- EN: Charged Rail Ray -->
   <Ammo_RailRay.label>电荷轨道射线弹</Ammo_RailRay.label>
-  <Ammo_RailRay.description>电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。\n\n使用于：</Ammo_RailRay.description>
+  <Ammo_RailRay.description>电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。</Ammo_RailRay.description>
+  <Ammo_RailRay.oldDescription>电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。</Ammo_RailRay.oldDescription>
   
   <!-- EN: MH-1 Charge lance -->
   <Bullet_ChargeLance.label>MH-1电荷标枪</Bullet_ChargeLance.label>

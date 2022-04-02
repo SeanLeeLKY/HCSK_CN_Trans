@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gleamcap stem -->
+  <GleamcapStem.label>闪帽菇</GleamcapStem.label>
+  <!-- EN: A massive gleamcap stem. Known for its natural healing properties by caveworld tenders, it can be used to treat injuries and ease the pain. -->
+  <GleamcapStem.description>一朵巨大的菌帽。一种巨大的洞穴蘑菇。洞穴世界驰名的医疗用品。</GleamcapStem.description>
+  
+  <!-- EN: raw fungus -->
+  <RawFungus.label>生菌菇</RawFungus.label>
+  <!-- EN: Raw fungus. -->
+  <RawFungus.description>生菌菇。</RawFungus.description>
+  
+  <!-- EN: glowbulb -->
+  <RawGlowbulb.label>炽光菇</RawGlowbulb.label>
+  <!-- EN: Raw glowbulb. While being nutritious, its very rough taste make it better used as a cooked ingredient. -->
+  <RawGlowbulb.description>生的炽光菇。就像一个发光的小灯泡，虽然很有营养，但它直接入口的味道很干涩，所以作为烹饪原料使用更好。</RawGlowbulb.description>
+  
+  <!-- EN: Raw Champignon -->
+  <Rawmushroom.label>蘑菇</Rawmushroom.label>
+  <!-- EN: Raw Champignon are small white or brown edible caps of the Champignon Mushroom. The caps are round in appearance. Unsavory when eaten raw, as the texture is similar to raw meat. -->
+  <Rawmushroom.description>蘑菇是小的白色或棕色的可食用的菌菇帽。这些菌菇外表是圆的。生吃的时候很难吃，因为口感和生肉相似。</Rawmushroom.description>
+  
+  <!-- EN: shimmershroom -->
+  <RawShimmershroom.label>微光菇</RawShimmershroom.label>
+  <!-- EN: Raw shimmershroom. Its delicate taste and nutrition qualities are much appreciated by caveworlds inhabitants. -->
+  <RawShimmershroom.description>生的微光菇。是一种又好看又好吃的洞穴微光蘑菇，富含营养，是一种深受洞穴世界居民喜爱的美味。</RawShimmershroom.description>
+  
+</LanguageData>

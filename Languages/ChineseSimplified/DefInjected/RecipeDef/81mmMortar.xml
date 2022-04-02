@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: make 81mm EMP mortar shells x1 -->
-  <MakeShell_EMP.label>制造 81mm EMP 迫击炮弹 x1</MakeShell_EMP.label>
+  <MakeShell_EMP.label>制作81mm EMP 迫击炮弹 x1</MakeShell_EMP.label>
   <!-- EN: Craft 81mm EMP mortar shells. -->
-  <MakeShell_EMP.description>制造 81mm EMP 迫击炮弹。</MakeShell_EMP.description>
+  <MakeShell_EMP.description>制作81mm EMP 迫击炮弹。</MakeShell_EMP.description>
   <!-- EN: Making 81mm EMP mortar shells. -->
-  <MakeShell_EMP.jobString>正在制造 81mm EMP 迫击炮弹。</MakeShell_EMP.jobString>
-  
+  <MakeShell_EMP.jobString>正在制作81mm EMP 迫击炮弹。</MakeShell_EMP.jobString>
+
   <!-- EN: make 81mm firefoam mortar shells x1 -->
-  <MakeShell_Firefoam.label>制造 81mm 泡沫迫击炮弹 x1</MakeShell_Firefoam.label>
+  <MakeShell_Firefoam.label>制作81mm 泡沫迫击炮弹 x1</MakeShell_Firefoam.label>
   <!-- EN: Craft 81mm firefoam mortar shells. -->
-  <MakeShell_Firefoam.description>制造 81mm 泡沫迫击炮弹。</MakeShell_Firefoam.description>
+  <MakeShell_Firefoam.description>制作81mm 泡沫迫击炮弹。</MakeShell_Firefoam.description>
   <!-- EN: Making 81mm firefoam mortar shells. -->
-  <MakeShell_Firefoam.jobString>正在制造 81mm 泡沫迫击炮弹。</MakeShell_Firefoam.jobString>
-  
+  <MakeShell_Firefoam.jobString>正在制作81mm 泡沫迫击炮弹。</MakeShell_Firefoam.jobString>
+
   <!-- EN: make 81mm HE mortar shells x1 -->
-  <MakeShell_HighExplosive.label>制造 81mm 高爆迫击炮弹 x1</MakeShell_HighExplosive.label>
+  <MakeShell_HighExplosive.label>制作81mm 高爆迫击炮弹 x1</MakeShell_HighExplosive.label>
   <!-- EN: Craft 81mm HE mortar shells. -->
-  <MakeShell_HighExplosive.description>制造 81mm 高爆迫击炮弹。</MakeShell_HighExplosive.description>
+  <MakeShell_HighExplosive.description>制作81mm 高爆迫击炮弹。</MakeShell_HighExplosive.description>
   <!-- EN: Making 81mm HE mortar shells. -->
-  <MakeShell_HighExplosive.jobString>正在制造 81mm 高爆迫击炮弹。</MakeShell_HighExplosive.jobString>
-  
+  <MakeShell_HighExplosive.jobString>正在制作81mm 高爆迫击炮弹。</MakeShell_HighExplosive.jobString>
+
   <!-- EN: make 81mm incendiary mortar shells x1 -->
-  <MakeShell_Incendiary.label>制造 81mm 燃烧迫击炮弹 x1</MakeShell_Incendiary.label>
+  <MakeShell_Incendiary.label>制作81mm 燃烧迫击炮弹 x1</MakeShell_Incendiary.label>
   <!-- EN: Craft 81mm incendiary mortar shells. -->
-  <MakeShell_Incendiary.description>制造 81mm 燃烧迫击炮弹。</MakeShell_Incendiary.description>
+  <MakeShell_Incendiary.description>制作81mm 燃烧迫击炮弹。</MakeShell_Incendiary.description>
   <!-- EN: Making 81mm incendiary mortar shells. -->
-  <MakeShell_Incendiary.jobString>正在制造 81mm 燃烧迫击炮弹。</MakeShell_Incendiary.jobString>
-  
+  <MakeShell_Incendiary.jobString>正在制作81mm 燃烧迫击炮弹。</MakeShell_Incendiary.jobString>
+
   <!-- EN: make 81mm smoke mortar shells x1 -->
-  <MakeShell_Smoke.label>制造 81mm 烟雾迫击炮弹 x1</MakeShell_Smoke.label>
+  <MakeShell_Smoke.label>制作81mm 烟雾迫击炮弹 x1</MakeShell_Smoke.label>
   <!-- EN: Craft 81mm smoke mortar shells. -->
-  <MakeShell_Smoke.description>制造 81mm 烟雾迫击炮弹。</MakeShell_Smoke.description>
+  <MakeShell_Smoke.description>制作81mm 烟雾迫击炮弹。</MakeShell_Smoke.description>
   <!-- EN: Making 81mm smoke mortar shells. -->
-  <MakeShell_Smoke.jobString>正在制造 81mm 烟雾迫击炮弹。</MakeShell_Smoke.jobString>
-  
+  <MakeShell_Smoke.jobString>正在制作81mm 烟雾迫击炮弹。</MakeShell_Smoke.jobString>
+
 </LanguageData>

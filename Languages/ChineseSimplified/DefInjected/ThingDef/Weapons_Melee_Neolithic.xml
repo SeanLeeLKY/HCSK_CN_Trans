@@ -1,13 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
+  <!-- EN: breach axe -->
+  <MeleeWeapon_BreachAxe.label>破墙斧</MeleeWeapon_BreachAxe.label>
+  <!-- EN: A combined blade and tool-head attached to a sturdy haft. While slightly less effective than other weapons against human enemies, it excels at tearing down walls, doors, and other structures thanks to its integrated tool-head. -->
+  <MeleeWeapon_BreachAxe.description>一个结合了刀片和工具头的工具，连接在一个坚固的轴上。虽然对人类敌人的效果比其他武器稍差，但由于其集成的工具头，它擅长拆毁墙壁、门和其他结构。</MeleeWeapon_BreachAxe.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_BreachAxe.tools.handle.label>把手</MeleeWeapon_BreachAxe.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_BreachAxe.tools.head.label>斧头</MeleeWeapon_BreachAxe.tools.head.label>
+
   <!-- EN: Club -->
   <MeleeWeapon_Club.label>棍棒</MeleeWeapon_Club.label>
   <!-- EN: A club is the oldest human weapon. It is a one-handed blunt weapon for bashing enemies to death. Primitive but effective. -->
   <MeleeWeapon_Club.description>用来击毙敌人的末端比较重的棍棒。这种古老的武器是人类进化史的一部分，原始但是有效。</MeleeWeapon_Club.description>
   <!-- EN: head -->
   <MeleeWeapon_Club.tools.head.label>前端</MeleeWeapon_Club.tools.head.label>
-  
+
   <!-- EN: Short Spear -->
   <MeleeWeapon_Ikwa.label>短矛</MeleeWeapon_Ikwa.label>
   <!-- EN: A short one-handed primitive spear, designed to be driven into vital organs with a quick thrust. -->
@@ -16,23 +25,23 @@
   <MeleeWeapon_Ikwa.tools.shaft.label>杆</MeleeWeapon_Ikwa.tools.shaft.label>
   <!-- EN: head -->
   <MeleeWeapon_Ikwa.tools.head.label>尖头</MeleeWeapon_Ikwa.tools.head.label>
-  
+
   <!-- EN: Mace -->
   <MeleeWeapon_Mace.label>钉头锤</MeleeWeapon_Mace.label>
   <!-- EN: A one-handed mace, engineered for efficient swinging and deadly impacts. -->
   <MeleeWeapon_Mace.description>一根精致的棍棒，在挥舞和杀伤上有特别的设计。</MeleeWeapon_Mace.description>
   <!-- EN: head -->
   <MeleeWeapon_Mace.tools.head.label>前端</MeleeWeapon_Mace.tools.head.label>
-  
+
   <!-- EN: Shiv -->
-  <MeleeWeapon_Schiv.label>小刀</MeleeWeapon_Schiv.label>
+  <MeleeWeapon_Schiv.label>剃刀</MeleeWeapon_Schiv.label>
   <!-- EN: An improvised knife-like weapon. -->
   <MeleeWeapon_Schiv.description>一种简易制作的短刀。</MeleeWeapon_Schiv.description>
   <!-- EN: handle -->
   <MeleeWeapon_Schiv.tools.handle.label>握把</MeleeWeapon_Schiv.tools.handle.label>
   <!-- EN: point -->
   <MeleeWeapon_Schiv.tools.point.label>刀尖</MeleeWeapon_Schiv.tools.point.label>
-  
+
   <!-- EN: Spear -->
   <MeleeWeapon_Spear.label>长矛</MeleeWeapon_Spear.label>
   <!-- EN: A two-handed polearm tipped with a sharp point for stabbing opponents in melee combat. -->
@@ -41,5 +50,5 @@
   <MeleeWeapon_Spear.tools.shaft.label>杆</MeleeWeapon_Spear.tools.shaft.label>
   <!-- EN: head -->
   <MeleeWeapon_Spear.tools.head.label>尖头</MeleeWeapon_Spear.tools.head.label>
-  
+
 </LanguageData>

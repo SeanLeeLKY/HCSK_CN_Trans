@@ -3,32 +3,47 @@
   
   <!-- EN: barrel -->
   <Barrel.label>圆桶</Barrel.label>
-  <!-- EN: A barrel made of wood or metal. Used to store various things inside. Up to 5 items. -->
-  <Barrel.description>一种用木头或者金属建造的大圆桶。可以存储多种物品。最多装载5样物品。</Barrel.description>
+  <!-- EN: A barrel made of wood or metal. Used to store various things inside, though easier to manage when it's all that same type of thing. Up to 5 items. -->
+  <Barrel.description>一种用木头或者金属建造的大圆桶。可以存储多种物品。如果设置单个圆桶只存放一种物品将会更加便于管理。最多装载5样物品。</Barrel.description>
   
-  <!-- EN: basket -->
+  <!-- EN: Mounted Bar Shelf -->
+  <BarShelf.label>酒吧架</BarShelf.label>
+  <!-- EN: Shelves attached to a wall for storing bottles and jars. Perfect for that crampt space behind a bar. -->
+  <BarShelf.description>安装在墙上的架子，经常用于储存各种瓶瓶罐罐。非常适合用于酒吧后台的狭窄空间。</BarShelf.description>
+  
+  <!-- EN: Wicker basket -->
   <Basket.label>篮子</Basket.label>
-  <!-- EN: A basket made of leather or textile. Used to store various things inside. Up to 6 items. -->
+  <!-- EN: A woven container made typically of plant matierals, but may also be fashioned with synthetic ingredients. Can store just about anything, protects from the elements, and does well keeping fruits and veggies fresh by reducing spoilage by 30%. -->
   <Basket.description>用毛皮或者其他纤维纺织物建造的容器。可以存储多种物品。最多装载6样物品。</Basket.description>
+  
+  <!-- EN: Bin rack -->
+  <BinRack.label>货架箱</BinRack.label>
+  <!-- EN: A cabinet of bins with lids. They slide out and open with ease and are labelled for optimum organization. Lightning fast. -->
+  <BinRack.description>一个带盖的箱子。它们可以被轻松滑出打开使用，还可以贴上标签分类使用。使用起来又快又好。</BinRack.description>
   
   <!-- EN: chest -->
   <Chest.label>箱子</Chest.label>
-  <!-- EN: A simple chest. Used to store various things inside. Up to 6 items. -->
+  <!-- EN: A chest with compartments for quicker organization. Up to 6 items. -->
   <Chest.description>一个简单的箱子。可以存储多种物品。最多装载6样物品。</Chest.description>
   
-  <!-- EN: armored box -->
-  <ClutterLockerA.label>加固装备箱</ClutterLockerA.label>
-  <!-- EN: Stores weapons, weapon parts, weapon crates, ammo and apparel; prevents deterioration. Up to 8 items. -->
-  <ClutterLockerA.description>存储武器，武器零件，武器组件，弹药和衣物等，防止自燃。最多装载8样物品。</ClutterLockerA.description>
+  <!-- EN: vault safe -->
+  <ClutterLockerA.label>保险箱</ClutterLockerA.label>
+  <!-- EN: Strong and secure safe which protects dangerous or valuable items in case of disaster. Flame-proof, and nearly explosion-proof, but can still be destroyed by conventional methods. Stores up to 8 items...slowly. -->
+  <ClutterLockerA.description>坚固可靠的保险箱，在发生灾难时能防止危险或贵重物品损毁。防火防爆，但是仍然可以用常规方式摧毁。最多装载8样物品。</ClutterLockerA.description>
   
-  <!-- EN: commode -->
-  <Commode.label>抽屉柜</Commode.label>
-  <!-- EN: A place for colonist to store personal belongings. When placed with a bed it will increase comfort and rest effectiveness slightly. Up to 8 items. -->
-  <Commode.description>殖民者用来存储个人物品的容器。放在床旁边可以增加一点舒适度和休息效率。最多装载8样物品。</Commode.description>
+  <!-- EN: wardrobe -->
+  <Commode.label>衣橱</Commode.label>
+  <!-- EN: A dresser for colonists to store and organize their clothes. -->
+  <Commode.description>殖民者用来存储个人衣物的衣橱。</Commode.description>
+  
+  <!-- EN: display case -->
+  <DisplayCase.label>展示柜</DisplayCase.label>
+  <!-- EN: A glass case for showing off your wares to guests. -->
+  <DisplayCase.description>用来向客人展示商品的玻璃柜。</DisplayCase.description>
   
   <!-- EN: Hamper -->
   <FabricHamperSingle.label>篮筐</FabricHamperSingle.label>
-  <!-- EN: This is a smaller hamper made out of fabric.  The various pockets allow storing large amounts of diverse small items with ease. -->
+  <!-- EN: This is a smaller hamper made out of fabric with a lid for protecting the contents. On the glitterworlds, it's used for collecting dirty laundry, but out here on the Rim, it's more commonly used by farmers and gatherers to drop off their harvests. -->
   <FabricHamperSingle.description>这是由织物制成的较小的篮筐。 各种口袋可轻松存放大量不同的小物品</FabricHamperSingle.description>
   
   <!-- EN: feeding bowl -->
@@ -36,79 +51,119 @@
   <!-- EN: Your animals will love this bowl so much that they'll go eat out of here first! -->
   <FeedingBowl.description>你的动物们非常喜欢这个漂亮的小盆子，它们肯定很愿意先到这里来看看有没有食物！</FeedingBowl.description>
   
+  <!-- EN: food display counter -->
+  <FoodDisplayCounter.label>食品展示柜</FoodDisplayCounter.label>
+  <!-- EN: A glass case for displaying meals, baked goods, or even drugs, and helps keep them fresh longer. -->
+  <FoodDisplayCounter.description>用来展示食物、烘焙物品或者是某些药品的玻璃柜子，能够延长物品的保存时间。</FoodDisplayCounter.description>
+  
   <!-- EN: armored chest -->
   <IndustrialChest.label>加固箱子</IndustrialChest.label>
   <!-- EN: An armored chest made of metal. Used to store various things inside. Up to 6 items. -->
   <IndustrialChest.description>一种用金属建造的箱子。可以存储多种物品。最多装载6样物品。</IndustrialChest.description>
   
-  <!-- EN: Double Shelf -->
+  <!-- EN: Wall shelves -->
   <LWM_BigShelf.label>双层置物架</LWM_BigShelf.label>
-  <!-- EN: A shelf for storing miscellaneous items, from artillery shells to artwork, from bionic arms to bricks, from chairs to corpses.  It doesn't ask questions, it just stores things.\n\nItems stored in this will not deteriorate, even if outside.\n\nThis shelf holds twice as much as the regular one. -->
+  <!-- EN: Shelves attached to a wall for storing things. Looks nice and doesn't impede traffic. -->
   <LWM_BigShelf.description>用于存放杂物的架子。从炮弹到艺术品，从仿生臂到石砖，从椅子到尸体。它不问问题，只管储存。\n\n储存于此的物品即使露天也不会老化。\n\n容量是普通物品架的两倍。</LWM_BigShelf.description>
   
   <!-- EN: Skip -->
   <LWM_DeepStorage_Skip.label>废料箱</LWM_DeepStorage_Skip.label>
-  <!-- EN: A large metal bin for tossing heavy things in.  These skips are not covered; they are open to the weather. -->
+  <!-- EN: A large metal bin. Best for storing big, heavy items unless you want to spend hours rooting around for that missing sock - it's easier to find when it's still attached to the body. These skips are not covered; they are open to the weather, but sturdier than a pallet. -->
   <LWM_DeepStorage_Skip.description>用于堆放重物的大型露天垃圾箱。</LWM_DeepStorage_Skip.description>
   
-  <!-- EN: Hayloft -->
-  <LWM_Hayloft.label>草料槽</LWM_Hayloft.label>
-  <!-- EN: This structure can be used to store hay, silage, and various other plant materials off of damp floors. You probably want to build it under a (very tall) roof. -->
-  <LWM_Hayloft.description>这个建筑可以用来储存干草，青贮饲料，和其他各种植物材料，能够让材料远离潮湿的地板。你可能想把它建在仓储室内。</LWM_Hayloft.description>
+  <!-- EN: Hay barn -->
+  <LWM_Hayloft.label>草料仓</LWM_Hayloft.label>
+  <!-- EN: This structure can be used to store hay, silage, and various other plant materials to keep it dry and protect it from the weather. -->
+  <LWM_Hayloft.description>这个建筑可以用来储存干草，青贮饲料，和其他各种植物材料，能够让材料保持干燥，并且防备天气带来的影响。</LWM_Hayloft.description>
   
   <!-- EN: Meat Hook -->
   <LWM_Meat_Hook.label>挂肉钩</LWM_Meat_Hook.label>
   <!-- EN: A tall metal frame with several hooks hanging from chains.  A simple crank allows hoisting several hanging things into the air.  A way to store the dead bodies of fellow animals you have killed, before cutting them up and consuming their flesh.  You monster.\n\n			Note that you can only fit so many giant corpses into one space, even if you stack them.  The frame will only hold so much weight. -->
   <LWM_Meat_Hook.description>一个高大的金属框架，链条上悬挂着多个钩子，使用简单的曲柄可以将数个悬挂物吊起。它提供了一种能储存杀死的动物、人或者同伴尸体的方法。然后，它们将会被切碎并被做成食物。你这个坏蛋。\n请注意，尸体会放在同一个单元格。另外框架承受的重量有限。</LWM_Meat_Hook.description>
   
-  <!-- EN: Medicine Cabinet -->
-  <LWM_Medicine_Cabinet.label>药品柜</LWM_Medicine_Cabinet.label>
-  <!-- EN: A set of cabinets and shelves for stocking medicines and drugs.  Recommended: keep an eye on children. -->
-  <LWM_Medicine_Cabinet.description>用于存放药品的柜子。温馨提示：注意看好你的孩子。</LWM_Medicine_Cabinet.description>
+  <!-- EN: Medical cart -->
+  <LWM_Medicine_Cabinet.label>医疗柜</LWM_Medicine_Cabinet.label>
+  <!-- EN: A cart for quickly organizing medicine and sanitation materials. Makes it easier to keep exam rooms clean. -->
+  <LWM_Medicine_Cabinet.description>一个用于存放药品和其他医疗物品的柜子。能够让打扫医疗室更加方便。</LWM_Medicine_Cabinet.description>
   
   <!-- EN: Pallet -->
   <LWM_Pallet.label>托盘</LWM_Pallet.label>
-  <!-- EN: A flat pallet for packing things.  Does not protect against the weather.  Sometimes difficult to manage, but useful nonetheless. -->
+  <!-- EN: A cheap, flat pallet for packing things. Does not protect against the weather. Difficult to manage if storing a variety of items. -->
   <LWM_Pallet.description>用于放置物品的扁平托盘。露天时会使物品老化。有时难以管理，但仍然很有用。</LWM_Pallet.description>
   
-  <!-- EN: tall shelf -->
+  <!-- EN: Utility Racks -->
   <LWM_VeryBigShelf.label>多层置物柜</LWM_VeryBigShelf.label>
-  <!-- EN: A set of tall covered shelves for storing miscellaneous items, from artillery shells to artwork, from bionic arms to bricks, from chairs to corpses. It doesn't ask questions, it just stores things. -->
+  <!-- EN: A fairly sturdy set of wire racks for storing things. More organized than pallets. -->
   <LWM_VeryBigShelf.description>用于存放大量杂物的高层柜子。从炮弹到艺术品，从仿生臂到石砖，从椅子到尸体。它不问问题，只管储存。</LWM_VeryBigShelf.description>
   
   <!-- EN: Weapons Cabinet -->
   <LWM_WeaponsCabinet.label>武器柜</LWM_WeaponsCabinet.label>
-  <!-- EN: A sturdy cabinet for storing multiple weapons. Items stored in this will not deteriorate, even if outside. -->
-  <LWM_WeaponsCabinet.description>用于储存许多武器的坚固柜子。即使放在室外，储存在其中的物品也不会老化。</LWM_WeaponsCabinet.description>
+  <!-- EN: A sturdy cabinet for storing multiple weapons. A must-have furniture item for any hunting lodge. Items stored in this will not deteriorate, even if outside. -->
+  <LWM_WeaponsCabinet.description>用于储存许多武器的坚固柜子。即使放在室外，储存在其中的物品也不会老化。算是各种狩猎小屋的必备设施。</LWM_WeaponsCabinet.description>
   
   <!-- EN: Weapons Locker -->
   <LWM_WeaponsLocker.label>军用武器柜</LWM_WeaponsLocker.label>
   <!-- EN: A high-capacity metal locker for securely storing many weapons. Items stored in this will not deteriorate, even if outside. -->
   <LWM_WeaponsLocker.description>用于安全存放大量武器的大容量金属武器柜。即使放在室外，储存在其中的物品也不会老化。</LWM_WeaponsLocker.description>
   
+  <!-- EN: Pallet Rack -->
+  <PalletRack.label>栈板货架</PalletRack.label>
+  <!-- EN: A large warehouse shelving unit complete with pallets which allows you to stack stacks of things. More organized and easier to use than plain old pallets and it's the only feasible way of stacking large items like stone chunks and even other buildings. -->
+  <PalletRack.description>一个完整的大型仓库货架单元，可以让你堆放大宗货物。比普通的托盘更有组织条理，使用更加方便，它也是用于堆放石块以及其它建筑材料等大宗物品的最佳设施。</PalletRack.description>
+  
+  <!-- EN: Small Pallet -->
+  <PalletSmall.label>小型货架</PalletSmall.label>
+  <!-- EN: A cheap, flat pallet for packing things. Does not protect against the weather. Difficult to manage if storing a variety of items. -->
+  <PalletSmall.description>存储货物的低成本托盘架。不能抵御天气影响。如果存放的物品种类过多，将会导致使用效率下降。</PalletSmall.description>
+  
   <!-- EN: pot -->
   <Pot.label>罐子</Pot.label>
-  <!-- EN: A big pot made of wood, metal or ceramics; used to preserve food. Slows rotting process. -->
+  <!-- EN: A big pot made of wood, metal or ceramics; used to preserve food. Slows rotting process by 40%. -->
   <Pot.description>一种用木头、金属或者陶瓷建造的容器，可以用来存储食物，能够延长一点食物的保质期。</Pot.description>
+  
+  <!-- EN: root cellar -->
+  <RootCellar.label>地窖</RootCellar.label>
+  <!-- EN: A cellar dug into the ground to keep produce cool and dry. Reduces spoilage by 40%. Slow to store and retrieve items, since it takes a bit of time to "root" around in there. Can store up to 27 items but takes of 3x3 space. -->
+  <RootCellar.description>一种为了保持凉爽的温度和干燥的环境而挖入地面以下的储窖。可以降低存储物40%的腐败速度。因为需要分门别类的储存和规整，所以存取物品的时间相对较长。可以存储27样物品，占用3x3的空间。</RootCellar.description>
+  
+  <!-- EN: Tow Sack -->
+  <Sack.label>拖链袋</Sack.label>
+  <!-- EN: A woven bag for filling with rice, potatoes, sand, assorted lengths of wire, etc. Quick to use if you only fill it with one kind of thing. Reduces spoilage by 25%. -->
+  <Sack.description>一个大编织袋，可以用来装储大米、土豆、沙子、各种长度的电线等。如果只装一种东西，能提高使用速度。可以降低存储物25%的腐败速度。</Sack.description>
+  
+  <!-- EN: shed -->
+  <Shed.label>货棚</Shed.label>
+  <!-- EN: An all purpose shed. You can store your tools, use it as a pantry, or hide the bodies. Has shelves and hangers for better organization. Slows spoilage by 25%. -->
+  <Shed.description>一个多用途的棚子。你可以用来储存工具，也可以作为一个储藏室，或者用来隐藏尸体。里面有架子和挂钩，可以更好更高效地存放各种物品。可以降低存储物25%的腐败速度。</Shed.description>
   
   <!-- EN: Clothing Rack -->
   <Shelf.label>衣架</Shelf.label>
-  <!-- EN: A covered rack for storing clothing for easy, quick access and a tidy room. -->
+  <!-- EN: A rack for storing clothing for easy, quick access and a tidy room. Is not protected from the elements. -->
   <Shelf.description>一个顶部封闭的架子，用于存放衣物。使你能够方便地保持整洁，不再被堆满地的衣服困扰。</Shelf.description>
+  
+  <!-- EN: Small Clothing Rack -->
+  <SmallClothingRack.label>小型衣架</SmallClothingRack.label>
+  <!-- EN: A rack for storing clothing for easy, quick access and a tidy room. Is not protected from the elements. Hold considerably less than the larger version, but good for displaying. -->
+  <SmallClothingRack.description>储存衣物的架子，方便快速取用，保持房间整洁。在室外时无法保护衣物不受天气影响。储存量比大的版本少很多，但适合排列展示。</SmallClothingRack.description>
   
   <!-- EN: armored ammo box -->
   <Storage_ExplosiveContainer.label>加固弹药箱</Storage_ExplosiveContainer.label>
-  <!-- EN: Stores ammos; prevents deterioration. Up to 8 items. -->
+  <!-- EN: Stores and protects ammo; prevents deterioration. Up to 8 items. -->
   <Storage_ExplosiveContainer.description>存储弹药，防止自燃。最多装载8样物品。</Storage_ExplosiveContainer.description>
   
-  <!-- EN: ammo box -->
+  <!-- EN: ammo storage -->
   <Storage_HazMatContainer.label>弹药箱</Storage_HazMatContainer.label>
-  <!-- EN: Stores ammos; prevents deterioration. Up to 8 items. -->
-  <Storage_HazMatContainer.description>存储弹药，防止自燃。最多装载8样物品。</Storage_HazMatContainer.description>
+  <!-- EN: Stores ammo; prevents deterioration. Up to 9 items. -->
+  <Storage_HazMatContainer.description>存储弹药，防止自燃。最多装载9样物品。</Storage_HazMatContainer.description>
+  
+  <!-- EN: Textile rack -->
+  <TextileRack.label>织物架</TextileRack.label>
+  <!-- EN: Bins and hangers for storing bolts of textile. -->
+  <TextileRack.description>用于储存纺织品锭的箱子和挂架。</TextileRack.description>
   
   <!-- EN: serving table -->
   <TrayRackSingle.label>服务桌</TrayRackSingle.label>
-  <!-- EN: This is a smaller tall tray rack; haulers carry meals and treats here for storage. -->
-  <TrayRackSingle.description>这是一个较小的高托盘架，搬运工把食物和零食运到这里储存。</TrayRackSingle.description>
+  <!-- EN: A small table for keeping meals fresh, complete with sneeze-guard. -->
+  <TrayRackSingle.description>一个能够让食物保鲜的小托盘桌，配有防飞沫护板。</TrayRackSingle.description>
   
 </LanguageData>

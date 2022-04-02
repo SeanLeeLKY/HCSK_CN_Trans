@@ -1,46 +1,46 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: brew cups of coffee -->
-  <BrewCoffee.label>烹煮 咖啡</BrewCoffee.label>
+  <BrewCoffee.label>烹制咖啡</BrewCoffee.label>
   <!-- EN: Brews cups of coffee. Don't overdose on caffeine! Produces 5. -->
   <BrewCoffee.description>烹煮美味的饮品，但是注意不要过量饮用。 \n\n产出：5。</BrewCoffee.description>
   <!-- EN: Brewing coffee. -->
-  <BrewCoffee.jobString>正在烹煮 咖啡。</BrewCoffee.jobString>
-  
+  <BrewCoffee.jobString>正在烹制咖啡。</BrewCoffee.jobString>
+
   <!-- EN: brew cups of tea -->
-  <BrewTea.label>沏泡 茶</BrewTea.label>
+  <BrewTea.label>沏泡茶饮</BrewTea.label>
   <!-- EN: Prepare tea leaves and brew them into cups of tea. Produces 3. -->
   <BrewTea.description>用茶叶沏泡美味提神的饮品。 \n\n产出：3。</BrewTea.description>
   <!-- EN: Brewing cups of tea. -->
   <BrewTea.jobString>正在沏茶。</BrewTea.jobString>
-  
+
   <!-- EN: mix chocolate milks -->
-  <MakeChocoMilk.label>调制 巧克力牛奶</MakeChocoMilk.label>
+  <MakeChocoMilk.label>调制巧克力牛奶</MakeChocoMilk.label>
   <!-- EN: Mix milk or soy milk with chocolate for tastier beverages. Produces 3. -->
   <MakeChocoMilk.description>用各种奶或者代奶，再加上巧克力精心烹制而成的一种美味饮料。 \n\n产出：3。</MakeChocoMilk.description>
   <!-- EN: Mixing milk with chocolate. -->
-  <MakeChocoMilk.jobString>正在调制 巧克力牛奶。</MakeChocoMilk.jobString>
-  
+  <MakeChocoMilk.jobString>正在调制巧克力牛奶。</MakeChocoMilk.jobString>
+
   <!-- EN: press fruit drinks -->
-  <MakeFruitDrink.label>榨制 水果饮料</MakeFruitDrink.label>
+  <MakeFruitDrink.label>榨制水果饮料</MakeFruitDrink.label>
   <!-- EN: Press fruit to make some tasty fruit drinks. Produces 3. -->
   <MakeFruitDrink.description>压榨各种水果，调制美味的果汁。 \n\n产出：3。</MakeFruitDrink.description>
   <!-- EN: Pressing fruit into drinks. -->
-  <MakeFruitDrink.jobString>正在榨制 水果饮料。</MakeFruitDrink.jobString>
-  
+  <MakeFruitDrink.jobString>正在榨制水果饮料。</MakeFruitDrink.jobString>
+
   <!-- EN: cook fruit yogurts -->
-  <MakeFruitYogurt.label>烹制 水果酸奶</MakeFruitYogurt.label>
+  <MakeFruitYogurt.label>烹制水果酸奶</MakeFruitYogurt.label>
   <!-- EN: Cook yogurts from milk or soy milk and some fruits. Produces 3. -->
   <MakeFruitYogurt.description>用奶或者代奶再加上一些水果来制作水果酸奶。 \n\n产出：3。</MakeFruitYogurt.description>
   <!-- EN: Cooking yogurts. -->
-  <MakeFruitYogurt.jobString>正在烹制 水果酸奶。</MakeFruitYogurt.jobString>
-  
+  <MakeFruitYogurt.jobString>正在烹制水果酸奶。</MakeFruitYogurt.jobString>
+
   <!-- EN: cook bulk fruit yogurts -->
-  <MakeFruitYogurt_Bulk.label>烹制 水果酸奶（批量）</MakeFruitYogurt_Bulk.label>
-  <!-- EN: Cook yogurts from milk or soy milk and some fruits. Produces 10. -->
+  <MakeFruitYogurt_Bulk.label>烹制水果酸奶（批量）</MakeFruitYogurt_Bulk.label>
+  <!-- EN: Cook yogurts from milk or soy milk and some fruits. Produces 10. Much of the ingredients are wasted in order to create the best eating experience. -->
   <MakeFruitYogurt_Bulk.description>用奶或者代奶再加上一些水果来制作水果酸奶。 \n\n产出：10。</MakeFruitYogurt_Bulk.description>
   <!-- EN: Cookig yogurts. -->
-  <MakeFruitYogurt_Bulk.jobString>正在烹制 水果酸奶。</MakeFruitYogurt_Bulk.jobString>
-  
+  <MakeFruitYogurt_Bulk.jobString>正在烹制水果酸奶。</MakeFruitYogurt_Bulk.jobString>
+
 </LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Settings -->
+	<!-- EN: Enable insectoid jumps -->
+  <enableInsectoidJumps>启用虫类跳跃</enableInsectoidJumps>
+	<!-- EN: Insectoids can jump on the victim. -->
+  <enableInsectoidJumpsDesc>虫类能够以跳跃方式扑击目标。</enableInsectoidJumpsDesc>
+	
+</LanguageData>

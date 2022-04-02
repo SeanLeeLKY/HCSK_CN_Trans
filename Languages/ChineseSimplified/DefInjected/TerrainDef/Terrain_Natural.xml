@@ -17,8 +17,8 @@
   
   <!-- EN: gravel -->
   <Gravel.label>砂砾</Gravel.label>
-  <!-- EN: Gravel is a composition of small rocks of varying sizes. Rubble can be gathered from it.\nBeauty: -1. -->
-  <Gravel.description>砾石地带是由不同大小的小岩石组成的。可以从上面收集碎石。美观度：-1。</Gravel.description>
+  <!-- EN: Gravel is a composition of small rocks of varying sizes. Rubble can be gathered from it. -->
+  <Gravel.description>砾石地带是由不同大小的小岩石组成的。可以从上面收集碎石。</Gravel.description>
   <!-- EN: gravel -->
   <Gravel.tools.gravel.label>砂砾</Gravel.tools.gravel.label>
   
@@ -63,8 +63,8 @@
   
   <!-- EN: sand -->
   <Sand.label>沙地</Sand.label>
-  <!-- EN: Sand is finely divided rock and mineral particles. Naturally found on beaches and deserts.\nBeauty: -1. -->
-  <Sand.description>沙子是细分化的岩石和矿物颗粒。大量分布于沙漠和沙滩。美观度：-1。</Sand.description>
+  <!-- EN: Sand is finely divided rock and mineral particles. Naturally found on beaches and deserts. -->
+  <Sand.description>沙子是细分化的岩石和矿物颗粒。大量分布于沙漠和沙滩。</Sand.description>
   <!-- EN: sand -->
   <Sand.tools.sand.label>沙地</Sand.tools.sand.label>
   
@@ -75,8 +75,8 @@
   
   <!-- EN: soft sand -->
   <SoftSand.label>细沙地</SoftSand.label>
-  <!-- EN: Sand is finely divided rock and mineral particles. Naturally found on beaches and deserts.\nBeauty: -1. -->
-  <SoftSand.description>沙子是细分化的岩石和矿物颗粒。大量分布于沙漠和沙滩。美观度：-1。</SoftSand.description>
+  <!-- EN: Sand is finely divided rock and mineral particles. Naturally found on beaches and deserts. -->
+  <SoftSand.description>沙子是细分化的岩石和矿物颗粒。大量分布于沙漠和沙滩。</SoftSand.description>
   <!-- EN: sand -->
   <SoftSand.tools.sand.label>沙地</SoftSand.tools.sand.label>
   

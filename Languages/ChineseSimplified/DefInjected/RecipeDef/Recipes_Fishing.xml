@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Make fishing baits -->
-  <MakeFishingBait.label>制作 鱼饵</MakeFishingBait.label>
+  <MakeFishingBait.label>制作鱼饵</MakeFishingBait.label>
   <!-- EN: Make a fishing baits to improve the results of fishing. Produces 5. -->
   <MakeFishingBait.description>制作用于提高鱼儿上钩几率的鱼饵。\n\n产出：5。</MakeFishingBait.description>
   <!-- EN: Making fishing baits. -->
   <MakeFishingBait.jobString>正在制作鱼饵。</MakeFishingBait.jobString>
-  
+
 </LanguageData>

@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Chitin -->
-  <Chitin.label>甲壳</Chitin.label>
-  <!-- EN: Chitin is a long-chain polymer. It can be obtained from the exoskeletons of insects or shelled creatures. -->
-  <Chitin.description>甲壳是一种长链聚合物。它可以从昆虫或有壳生物的外骨骼中获得。</Chitin.description>
-  <Chitin.stuffProps.stuffAdjective>甲壳</Chitin.stuffProps.stuffAdjective>
+  <!-- EN: Chitin plating -->
+  <ChitinPlating.label>甲壳板</ChitinPlating.label>
+  <!-- EN: A modified version of the insect exoskeleton. Has increased durability and ease of use as a textile. -->
+  <ChitinPlating.description>昆虫外骨骼甲板的加工改良品。具有更高的耐用性，并且可以作为纺织品来使用。</ChitinPlating.description>
   
   <!-- EN: cloth -->
   <Cloth.label>布</Cloth.label>

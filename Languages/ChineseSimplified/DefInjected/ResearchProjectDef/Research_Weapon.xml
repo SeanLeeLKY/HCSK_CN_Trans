@@ -1,269 +1,274 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Artillery II -->
   <Artillery_C2.label>火炮 II</Artillery_C2.label>
   <!-- EN: Ultima ratio regis -->
-  <Artillery_C2.description>TODO</Artillery_C2.description>
-  
+  <Artillery_C2.description>加根管子。</Artillery_C2.description>
+
   <!-- EN: Autoturrets II -->
   <Autoturrets_D2.label>自动炮塔 II</Autoturrets_D2.label>
   <!-- EN: ...use more gun. -->
-  <Autoturrets_D2.description>TODO</Autoturrets_D2.description>
-  
+  <Autoturrets_D2.description>加更多的管子。</Autoturrets_D2.description>
+
   <!-- EN: Autoturrets III -->
   <Autoturrets_D3.label>自动炮塔 III</Autoturrets_D3.label>
   <!-- EN: I told ya don't touch that darn thing -->
-  <Autoturrets_D3.description>TODO</Autoturrets_D3.description>
-  
+  <Autoturrets_D3.description>捆在一起，别去动就行。</Autoturrets_D3.description>
+
   <!-- EN: Autoturrets IV -->
   <Autoturrets_E1.label>自动炮塔 IV</Autoturrets_E1.label>
   <!-- EN: We've got lightning guns. We can do anything. -->
-  <Autoturrets_E1.description>TODO</Autoturrets_E1.description>
-  
+  <Autoturrets_E1.description>迅如电光。我们无敌了！</Autoturrets_E1.description>
+
   <!-- EN: Siege weapons -->
   <Ballista_B1.label>攻城武器</Ballista_B1.label>
   <!-- EN: My turn -->
-  <Ballista_B1.description>TODO</Ballista_B1.description>
-  
+  <Ballista_B1.description>有来有往。</Ballista_B1.description>
+
   <!-- EN: SMG I -->
   <BlowbackOperation.label>冲锋枪 I</BlowbackOperation.label>
   <!-- EN: Be like Big Al -->
-  <BlowbackOperation.description>TODO</BlowbackOperation.description>
-  
+  <BlowbackOperation.description>像个大号手枪。</BlowbackOperation.description>
+
   <!-- EN: Bows I -->
   <Bow_A1.label>弓 I</Bow_A1.label>
   <!-- EN: Good arrows is good -->
-  <Bow_A1.description>TODO</Bow_A1.description>
-  
+  <Bow_A1.description>箭好才是真的好。</Bow_A1.description>
+
   <!-- EN: Crossbows II -->
   <Bow_B2.label>弩 II</Bow_B2.label>
   <!-- EN: Some ancient artillery stuff -->
-  <Bow_B2.description>TODO</Bow_B2.description>
-  
+  <Bow_B2.description>古老“艺术”的开端。</Bow_B2.description>
+
   <!-- EN: Charge weapons I -->
   <Charge_weapons_D.label>电荷武器 I</Charge_weapons_D.label>
   <!-- EN: description -->
   <Charge_weapons_D.description>TODO</Charge_weapons_D.description>
-  
+
   <!-- EN: Charge weapons II -->
   <Charge_weapons_E.label>电荷武器 II</Charge_weapons_E.label>
   <!-- EN: description -->
   <Charge_weapons_E.description>TODO</Charge_weapons_E.description>
-  
+
   <!-- EN: Directed-energy weapon -->
   <ChargedShot.label>定向能武器</ChargedShot.label>
   <!-- EN: Phased plasma rifle in the 40-watt range -->
-  <ChargedShot.description>TODO</ChargedShot.description>
-  
+  <ChargedShot.description>40瓦的等离子步枪。</ChargedShot.description>
+
   <!-- EN: Shotgun I -->
   <GasOperation.label>霰弹枪 I</GasOperation.label>
   <!-- EN: Very heavy pew -->
-  <GasOperation.description>TODO</GasOperation.description>
-  
+  <GasOperation.description>噗！Duang！！！</GasOperation.description>
+
   <!-- EN: Crossbows I -->
   <Greatbow.label>弩 I</Greatbow.label>
   <!-- EN: Not as good as real gun, but silent and cheap -->
-  <Greatbow.description>TODO</Greatbow.description>
-  
+  <Greatbow.description>不如真枪好用，但是成本低，而且没啥声音。</Greatbow.description>
+
   <!-- EN: Grenades I -->
   <Grenade_C1.label>榴弹 I</Grenade_C1.label>
   <!-- EN: Let it go, let it go\n			Can't hold it back anymore -->
-  <Grenade_C1.description>TODO</Grenade_C1.description>
-  
+  <Grenade_C1.description>随它吧！随它吧！\n回头已没有办法！\n（译者注：这里原文是电影冰雪奇缘主题曲《Let it go》的歌词，译者套用了中文版歌词）</Grenade_C1.description>
+
   <!-- EN: Grenades II -->
   <Grenade_C2.label>榴弹 II</Grenade_C2.label>
   <!-- EN: O Lord, bless this Thy hand grenade, that with it Thou mayest blow Thine enemies to tiny bits, in Thy mercy. -->
-  <Grenade_C2.description>TODO</Grenade_C2.description>
-  
+  <Grenade_C2.description>主啊，祝福这颗你的手雷吧，你可以用它来把你的敌人炸得粉碎。\n以主的名义！</Grenade_C2.description>
+
   <!-- EN: Grenade launchers I -->
   <Grenade_launchers_C1.label>榴弹发射器 I</Grenade_launchers_C1.label>
   <!-- EN: What makes me a good Demoman? -->
-  <Grenade_launchers_C1.description>TODO</Grenade_launchers_C1.description>
-  
+  <Grenade_launchers_C1.description>我能成为一个好的爆破手是有原因的！</Grenade_launchers_C1.description>
+
   <!-- EN: Grenade launchers II -->
   <Grenade_launchers_C2.label>榴弹发射器 II</Grenade_launchers_C2.label>
   <!-- EN: If I were a bad Demoman, I wouldn't be sittin' here, discussin' it with you now would I? -->
-  <Grenade_launchers_C2.description>TODO</Grenade_launchers_C2.description>
-  
+  <Grenade_launchers_C2.description>如果我是不好的爆破手，我就不会坐在这里和你讨论这件事了，不是吗?</Grenade_launchers_C2.description>
+
   <!-- EN: Pistols I -->
   <Gunsmithing.label>手枪 I</Gunsmithing.label>
   <!-- EN: Pew-pew -->
-  <Gunsmithing.description>TODO</Gunsmithing.description>
-  
+  <Gunsmithing.description>啾-啾！</Gunsmithing.description>
+
   <!-- EN: Autoturrets I -->
   <GunTurrets.label>自动炮塔 I</GunTurrets.label>
   <!-- EN: ...use a gun. -->
-  <GunTurrets.description>TODO</GunTurrets.description>
-  
+  <GunTurrets.description>安了一把枪。</GunTurrets.description>
+
   <!-- EN: Heavy weapons III -->
   <Heavy_C3.label>重型武器 III</Heavy_C3.label>
   <!-- EN: It costs four hundred thousand dollars to fire this weapon...for twelve seconds. -->
-  <Heavy_C3.description>TODO</Heavy_C3.description>
-  
+  <Heavy_C3.description>花了40万美元就是为了让这玩意开火......12秒钟？</Heavy_C3.description>
+
   <!-- EN: Heavy turrets II -->
   <Heavy_turrets_C2.label>重型炮塔 II</Heavy_turrets_C2.label>
   <!-- EN: And if that don't work.... -->
-  <Heavy_turrets_C2.description>TODO</Heavy_turrets_C2.description>
-  
+  <Heavy_turrets_C2.description>而且如果这玩意不起作用的话......</Heavy_turrets_C2.description>
+
   <!-- EN: Heavy turrets III -->
   <Heavy_turrets_C3.label>重型炮塔 III</Heavy_turrets_C3.label>
   <!-- EN: One crossed wire, one wayward pinch of potassium chlorate, one errant twitch... -->
-  <Heavy_turrets_C3.description>TODO</Heavy_turrets_C3.description>
-  
+  <Heavy_turrets_C3.description>一根交叠的线缆，一撮氯酸钾，然后一拉......</Heavy_turrets_C3.description>
+
   <!-- EN: Heavy weapons I -->
   <HeavyTurrets.label>重型炮塔 I</HeavyTurrets.label>
   <!-- EN: Some people think they can outsmart me -->
-  <HeavyTurrets.description>解锁建造更多种类的自动炮塔，这种内置弱AI的自动武器可以无需人工操作自动攻击范围内的敌人。但是需要手动装填备弹。</HeavyTurrets.description>
-  
+  <HeavyTurrets.description>总有人觉得他比我聪明。</HeavyTurrets.description>
+
   <!-- EN: IED I -->
   <IED_C1.label>简易爆炸装置 I</IED_C1.label>
   <!-- EN: description -->
   <IED_C1.description>TODO</IED_C1.description>
-  
+
   <!-- EN: Laser weapons I -->
   <Laser_weapons_D.label>激光武器 I</Laser_weapons_D.label>
   <!-- EN: description -->
   <Laser_weapons_D.description>TODO</Laser_weapons_D.description>
-  
+
   <!-- EN: Laser weapons II -->
   <Laser_weapons_E.label>激光武器 II</Laser_weapons_E.label>
   <!-- EN: Being a device that flouts conventional scientific consensus that the molecules composing the human body must be arranged 'just so', and not, for example, across a square-mile radius -->
-  <Laser_weapons_E.description>TODO</Laser_weapons_E.description>
-  
+  <Laser_weapons_E.description>作为一个藐视传统科学共识的设备，这个东西认为：构成人体的分子必须“恰到好处”地排列，而不是，例如，横跨一平方英里的半径。</Laser_weapons_E.description>
+
   <!-- EN: Melee II -->
   <LongBlades.label>近战武器 II</LongBlades.label>
   <!-- EN: Get me something big and sharp -->
-  <LongBlades.description>TODO</LongBlades.description>
-  
+  <LongBlades.description>来些又大又猛的玩意！</LongBlades.description>
+
   <!-- EN: Guns I -->
   <Machining.label>枪械 I</Machining.label>
   <!-- EN: Good gun is a bad gun, if it dont have ammo -->
-  <Machining.description>TODO</Machining.description>
-  
+  <Machining.description>看一把枪好不好用，主要是看它有没有弹药。</Machining.description>
+
   <!-- EN: Melee III -->
   <Melee_C1.label>近战武器 III</Melee_C1.label>
   <!-- EN: Guns for show, knives for a pro. -->
-  <Melee_C1.description>TODO</Melee_C1.description>
-  
+  <Melee_C1.description>枪是花活儿，刀才是专业。</Melee_C1.description>
+
   <!-- EN: Melee IV -->
   <Melee_C2.label>近战武器 IV</Melee_C2.label>
   <!-- EN: Stun settings are for people who can't commit -->
-  <Melee_C2.description>TODO</Melee_C2.description>
-  
+  <Melee_C2.description>昏迷是为了那些不准备实现诺言的人准备的。</Melee_C2.description>
+
+  <!-- EN: Melee V -->
+  <Melee_D1.label>近战武器 V</Melee_D1.label>
+  <!-- EN: One, two! One, two! And through, and through. The charged blade went snicker-snack! -->
+  <Melee_D1.description>一二！一二！穿来穿去！光刃嗤嗤只剩回响！</Melee_D1.description>
+
   <!-- EN: Psychological weapon -->
   <Melee_E1.label>心灵武器</Melee_E1.label>
   <!-- EN: Is it a melee if it has "lance" in a name? -->
-  <Melee_E1.description>TODO</Melee_E1.description>
-  
+  <Melee_E1.description>这东西名字里有“长矛”，但是这玩意算是近战武器么？</Melee_E1.description>
+
   <!-- EN: Artillery I -->
   <Mortars.label>火炮 I</Mortars.label>
   <!-- EN: To the guns! -->
-  <Mortars.description>解锁建造能够长距离投射的迫击炮。同时解锁90mm高炮。</Mortars.description>
-  
+  <Mortars.description>向枪致敬！</Mortars.description>
+
   <!-- EN: Heavy weapons II -->
   <MultibarrelWeapons.label>重型武器 II</MultibarrelWeapons.label>
   <!-- EN: I've yet to meet one that can outsmart bullet -->
-  <MultibarrelWeapons.description>解锁制造速射机枪和KPV重机枪的能力。</MultibarrelWeapons.description>
-  
+  <MultibarrelWeapons.description>我还没见过比子弹更聪明的人！</MultibarrelWeapons.description>
+
   <!-- EN: Pistols II -->
   <Pistols_C2.label>手枪 II</Pistols_C2.label>
   <!-- EN: Pew-pew_v_2.0 -->
-  <Pistols_C2.description>TODO</Pistols_C2.description>
-  
+  <Pistols_C2.description>啾-啾！2.0</Pistols_C2.description>
+
   <!-- EN: Plasma weapons I -->
   <Plasma_weapons_D.label>等离子武器 I</Plasma_weapons_D.label>
   <!-- EN: description -->
   <Plasma_weapons_D.description>TODO</Plasma_weapons_D.description>
-  
+
   <!-- EN: Plasma weapons II -->
   <Plasma_weapons_E.label>等离子武器 II</Plasma_weapons_E.label>
   <!-- EN: Powerful weapon that produces an intense, energetic beam of heat in the tens of thousands of degrees centigrade -->
-  <Plasma_weapons_E.description>TODO</Plasma_weapons_E.description>
-  
+  <Plasma_weapons_E.description>强大的武器，可产生数万摄氏度的高能离子束。</Plasma_weapons_E.description>
+
   <!-- EN: Sniper rifles II -->
   <PrecisionRifling.label>狙击步枪 II</PrecisionRifling.label>
   <!-- EN: Boom. Headshot. -->
-  <PrecisionRifling.description>TODO</PrecisionRifling.description>
-  
+  <PrecisionRifling.description>Duang！爆头！</PrecisionRifling.description>
+
   <!-- EN: Guns II -->
   <Range_C2.label>枪械 II</Range_C2.label>
   <!-- EN: .50 - your enemies already dead -->
-  <Range_C2.description>TODO</Range_C2.description>
-  
+  <Range_C2.description>.50口径，你的敌人已经没了！</Range_C2.description>
+
   <!-- EN: Bows II -->
   <RecurveBow.label>弓 II</RecurveBow.label>
   <!-- EN: But good bow is better -->
-  <RecurveBow.description>TODO</RecurveBow.description>
-  
+  <RecurveBow.description>好一点的弓总是更好点。</RecurveBow.description>
+
   <!-- EN: Rifles I -->
   <Rifles_C1.label>步枪 I</Rifles_C1.label>
   <!-- EN: Some people say you can use blood of your enemies as weapon oil with this guns -->
-  <Rifles_C1.description>TODO</Rifles_C1.description>
-  
+  <Rifles_C1.description>人们常说：用敌人的血来做枪油效果更好哦！</Rifles_C1.description>
+
   <!-- EN: Rifles II -->
   <Rifles_C2.label>步枪 II</Rifles_C2.label>
   <!-- EN: I love my gun -->
-  <Rifles_C2.description>TODO</Rifles_C2.description>
-  
+  <Rifles_C2.description>我爱我枪！</Rifles_C2.description>
+
   <!-- EN: Rifles III -->
   <Rifles_C3.label>步枪 III</Rifles_C3.label>
   <!-- EN: Pocket Protectors -->
-  <Rifles_C3.description>TODO</Rifles_C3.description>
-  
+  <Rifles_C3.description>口袋护卫！</Rifles_C3.description>
+
   <!-- EN: Rockets I -->
   <Rockets_C1.label>火箭 I</Rockets_C1.label>
   <!-- EN: If fighting is sure to result in victory, then you must fight! -->
-  <Rockets_C1.description>TODO</Rockets_C1.description>
-  
+  <Rockets_C1.description>如果必须要战斗才能胜利，那么请毫不犹豫的去战斗吧！</Rockets_C1.description>
+
   <!-- EN: Rockets II -->
   <Rockets_C2.label>火箭 II</Rockets_C2.label>
   <!-- EN: Sun Tzu said that, and I'd say he knows a little more about fighting than you do, pal, because he invented it! -->
-  <Rockets_C2.description>TODO</Rockets_C2.description>
-  
+  <Rockets_C2.description>孙子说过的名言证明他确实比你更加懂得什么叫“战斗”，因为战斗本身就是他发明的！</Rockets_C2.description>
+
   <!-- EN: Rockets III -->
   <Rockets_D1.label>火箭 III</Rockets_D1.label>
   <!-- EN: And then he perfected it so that no living man could best him in the ring of honor! -->
-  <Rockets_D1.description>TODO</Rockets_D1.description>
-  
+  <Rockets_D1.description>然后他完善了战斗的意义，以至于没有活人能在这方面的荣誉超过他!</Rockets_D1.description>
+
   <!-- EN: Rockets IV -->
   <Rockets_D2.label>火箭 IV</Rockets_D2.label>
   <!-- EN: You will not be missed. -->
-  <Rockets_D2.description>TODO</Rockets_D2.description>
-  
+  <Rockets_D2.description>放心勿念！</Rockets_D2.description>
+
   <!-- EN: Shotgun II -->
   <Shotgun_C2.label>霰弹枪 II</Shotgun_C2.label>
   <!-- EN: Heavy is good, heavy is reliable. If it doesn't work, you can always hit them with it. -->
-  <Shotgun_C2.description>TODO</Shotgun_C2.description>
-  
+  <Shotgun_C2.description>重型玩意就是好，重型玩意就是妙！重型玩意出问题了，踹两脚就可以继续搞！</Shotgun_C2.description>
+
   <!-- EN: SMG II -->
   <SMG_C2.label>冲锋枪 II</SMG_C2.label>
   <!-- EN: Be like Big Al, but a bit better -->
-  <SMG_C2.description>TODO</SMG_C2.description>
-  
+  <SMG_C2.description>大号手枪，稍微更好点。</SMG_C2.description>
+
   <!-- EN: Melee I -->
   <Smithing.label>近战武器 I</Smithing.label>
   <!-- EN: A lil' of the ol' chop-chop -->
-  <Smithing.description>TODO</Smithing.description>
-  
+  <Smithing.description>快！快！快！砍瓜切菜！</Smithing.description>
+
   <!-- EN: Sniper rifles I -->
   <Sniper_rifles_C1.label>狙击步枪 I</Sniper_rifles_C1.label>
   <!-- EN: description -->
   <Sniper_rifles_C1.description>TODO</Sniper_rifles_C1.description>
-  
+
   <!-- EN: Sniper rifles III -->
   <Sniper_rifles_D1.label>狙击步枪 III</Sniper_rifles_D1.label>
   <!-- EN: description -->
   <Sniper_rifles_D1.description>TODO</Sniper_rifles_D1.description>
-  
+
   <!-- EN: Heavy turrets I -->
   <SniperTurret.label>重型炮塔 I</SniperTurret.label>
   <!-- EN: The answer... -->
-  <SniperTurret.description>TODO</SniperTurret.description>
-  
+  <SniperTurret.description>这就是答案......</SniperTurret.description>
+
   <!-- EN: Turrets I -->
   <Turrets_31.label>炮塔 I</Turrets_31.label>
   <!-- EN: How am I going to stop some big mean mother hubbard from tearing me a structurally superfluous new behind? -->
-  <Turrets_31.description>TODO</Turrets_31.description>
-  
+  <Turrets_31.description>我要怎么才能阻止某些大家伙把我撕成几段，然后再在我屁股上安一个新玩意？</Turrets_31.description>
+
 </LanguageData>

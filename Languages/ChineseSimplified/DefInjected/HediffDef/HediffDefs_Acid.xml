@@ -16,11 +16,6 @@
   <!-- EN: {0} in the {1} -->
   <Acid_Burn.labelNounPretty>{1}中的{0}</Acid_Burn.labelNounPretty>
   
-  <!-- UNUSED -->
-  <Acid_Burn.comps.0.labelTendedWell>已包扎</Acid_Burn.comps.0.labelTendedWell>
-  <Acid_Burn.comps.0.labelTendedWellInner>已缝合</Acid_Burn.comps.0.labelTendedWellInner>
-  <Acid_Burn.comps.0.labelSolidTendedWell>已固定</Acid_Burn.comps.0.labelSolidTendedWell>
-  
   <!-- EN: acid toxicity -->
   <Acid_Poison.label>酸性毒性</Acid_Poison.label>
   <!-- EN: Blood supply has worsened -->

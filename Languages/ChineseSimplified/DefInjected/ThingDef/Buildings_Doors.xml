@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: animal flap -->
+  <AnimalFlap.label>帷幔</AnimalFlap.label>
+  <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
+  <AnimalFlap.description>悬挂着厚厚的重叠布条或皮条的门洞。它允许动物通过，同时隔绝温度。帷幔通常被用作畜棚的门，给圈养的动物提供一个遮蔽的睡眠场所。</AnimalFlap.description>
+  
   <!-- EN: autodoor -->
   <Autodoor.label>自动门</Autodoor.label>
   <!-- EN: A door divides rooms with a closable opening. Powered operation allows people to move through the door without slowing down. -->
@@ -25,6 +30,11 @@
   <Door.label>门</Door.label>
   <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
   <Door.description>用于分隔房间。这些简易门必须手动开合，也会降低通行速度。减速的程度取决于门的材质。</Door.description>
+  
+  <!-- EN: fence gate -->
+  <FenceGate.label>栅栏门</FenceGate.label>
+  <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
+  <FenceGate.description>一个由柱子和横杆组成的简单的门。它像栅栏一样阻挡一些动物。饲养员可以通过这些门带领动物进出围栏。</FenceGate.description>
   
   <!-- EN: large armor gate (jammed) -->
   <JammedBlastDoor.label>大型装甲门（阻塞）</JammedBlastDoor.label>

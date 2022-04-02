@@ -9,7 +9,12 @@
   <!-- EN: candle -->
   <Candle.label>蜡烛</Candle.label>
   <!-- EN: People need light to move and work at full speed. Can be refueled. Not a good source of heat. -->
-  <Candle.description>可以手动添加燃料的一种小型光源。散发较少的热量，必须放置在墙上。人员在明亮的环境中才能全速移动和工作。</Candle.description>
+  <Candle.description>可以手动添加燃料的一种小型光源，不适合用作热源。人员在明亮的环境中才能全速移动和工作。</Candle.description>
+  
+  <!-- EN: ceiling dark lamp -->
+  <CeilingDarkLamp.label>微光吊灯</CeilingDarkLamp.label>
+  <!-- EN: A ceiling lamp that lights an area with dark light. People need light to move and work at full speed. Must be placed under a roof. Requires 30 W. -->
+  <CeilingDarkLamp.description>微光吊灯必须放置于屋顶下，并且能够照亮一片区域。殖民者们需要合适的光亮才能高效工作。电力需求：30W。</CeilingDarkLamp.description>
   
   <!-- EN: ceiling lamp -->
   <CeilingLamp.label>吊灯</CeilingLamp.label>
@@ -55,6 +60,11 @@
   <GlowstoneLamp.label>萤石灯</GlowstoneLamp.label>
   <!-- EN: A beautiful lamp topped with glowstone, emitting reflected light from dozen of glowstones. People need light to move and work at full speed. Free source of light. -->
   <GlowstoneLamp.description>一盏安装了两个小块萤石的灯，适合于卧室或工作室。</GlowstoneLamp.description>
+  
+  <!-- EN: Holy Metal Basin -->
+  <HolyBasin.label>净洗盆</HolyBasin.label>
+  <!-- EN: Old metal basin where you wash your clothes to remove a worn by corpse effect from Apparel. -->
+  <HolyBasin.description>旧金属盆，可以用来洗衣服，可以把死者衣物的标签（亡）洗掉。</HolyBasin.description>
   
   <!-- EN: path light -->
   <Lighting_PathLamp.label>路灯</Lighting_PathLamp.label>

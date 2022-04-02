@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: solar controller -->
+  <SolarController.label>太阳能控制器</SolarController.label>
+  <!-- EN: Interfaces with solar roof panels. -->
+  <SolarController.description>太阳能屋顶的控制和输出接口。</SolarController.description>
+  
+</LanguageData>

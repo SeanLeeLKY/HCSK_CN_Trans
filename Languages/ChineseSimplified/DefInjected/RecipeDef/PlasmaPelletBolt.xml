@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: make Plasma Charged pellet bolt cartridge x80 -->
-  <MakeAmmo_PlasmaPelletBolt.label>制造 等离子霰弹 x80</MakeAmmo_PlasmaPelletBolt.label>
+  <MakeAmmo_PlasmaPelletBolt.label>制作等离子霰弹 x80</MakeAmmo_PlasmaPelletBolt.label>
   <!-- EN: Craft 80 Plasma charged pellet bolt cartridges. -->
-  <MakeAmmo_PlasmaPelletBolt.description>制造 80 等离子霰弹</MakeAmmo_PlasmaPelletBolt.description>
+  <MakeAmmo_PlasmaPelletBolt.description>制作80 等离子霰弹</MakeAmmo_PlasmaPelletBolt.description>
   <!-- EN: Making Plasma Charged pellet bolt cartridges. -->
-  <MakeAmmo_PlasmaPelletBolt.jobString>正在制造 等离子霰弹</MakeAmmo_PlasmaPelletBolt.jobString>
-  
+  <MakeAmmo_PlasmaPelletBolt.jobString>正在制作等离子霰弹</MakeAmmo_PlasmaPelletBolt.jobString>
+
 </LanguageData>

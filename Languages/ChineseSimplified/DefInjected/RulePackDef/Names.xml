@@ -1,25 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: WordImperial(p=4)->[SylB_EN][SylB_EN] -->
   <EmpireNameUtilityEN.rulePack.rulesStrings.0>WordImperial(p=4)->[SylB_EN] [SylB_EN]</EmpireNameUtilityEN.rulePack.rulesStrings.0>
   <!-- EN: WordImperial(p=2)->[SylB_EN][SylB_EN][SylB_EN] -->
   <EmpireNameUtilityEN.rulePack.rulesStrings.1>WordImperial(p=2)->[SylB_EN] [SylB_EN] [SylB_EN]</EmpireNameUtilityEN.rulePack.rulesStrings.1>
   <!-- EN: WordImperial(p=0.2)->[SylB_EN][SylB_EN][SylB_EN][SylB_EN] -->
   <EmpireNameUtilityEN.rulePack.rulesStrings.2>WordImperial(p=0.2)->[SylB_EN] [SylB_EN] [SylB_EN] [SylB_EN]</EmpireNameUtilityEN.rulePack.rulesStrings.2>
-  
-  <!-- EN: r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast] -->
-  <NamerPersonEmpireEN.rulePack.rulesStrings.0>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</NamerPersonEmpireEN.rulePack.rulesStrings.0>
-  <!-- EN: r_name(p=2)->[ImperialNameFirstMale] [WordImperial] -->
-  <NamerPersonEmpireEN.rulePack.rulesStrings.1>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</NamerPersonEmpireEN.rulePack.rulesStrings.1>
-  <!-- EN: r_name(p=2)->[WordImperial] [WordImperial] -->
-  <NamerPersonEmpireEN.rulePack.rulesStrings.2>r_name(p=2)->[WordImperial] [WordImperial]</NamerPersonEmpireEN.rulePack.rulesStrings.2>
-  
-  <!-- EN: r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast] -->
-  <NamerPersonEmpireFemaleEN.rulePack.rulesStrings.0>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</NamerPersonEmpireFemaleEN.rulePack.rulesStrings.0>
-  <!-- EN: r_name(p=2)->[ImperialNameFirstFemale] [WordImperial] -->
-  <NamerPersonEmpireFemaleEN.rulePack.rulesStrings.1>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</NamerPersonEmpireFemaleEN.rulePack.rulesStrings.1>
-  <!-- EN: r_name(p=2)->[WordImperial] [WordImperial] -->
-  <NamerPersonEmpireFemaleEN.rulePack.rulesStrings.2>r_name(p=2)->[WordImperial] [WordImperial]</NamerPersonEmpireFemaleEN.rulePack.rulesStrings.2>
-  
+
+  <!-- EN:
+    <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  -->
+  <NamerPersonSophianEN.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonSophianEN.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  -->
+  <NamerPersonSophianFemaleEN.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonSophianFemaleEN.rulePack.rulesStrings>
+
 </LanguageData>

@@ -1,165 +1,165 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Make dirt -->
-  <make_dirt.label>制作 泥土</make_dirt.label>
+  <make_dirt.label>制作泥土</make_dirt.label>
   <!-- EN: Make dirt from sand and fertilizer. -->
   <make_dirt.description>用肥料和沙子制造普通泥土。</make_dirt.description>
   <!-- EN: Making dirt. -->
-  <make_dirt.jobString>正在制作 泥土。</make_dirt.jobString>
-  
+  <make_dirt.jobString>正在制作泥土。</make_dirt.jobString>
+
   <!-- EN: Make dirt -->
-  <make_dirt_Electric.label>制作 泥土</make_dirt_Electric.label>
+  <make_dirt_Electric.label>制作泥土</make_dirt_Electric.label>
   <!-- EN: Make dirt from sand and fertilizer. -->
   <make_dirt_Electric.description>用肥料和沙子制造普通泥土。</make_dirt_Electric.description>
   <!-- EN: Making dirt. -->
-  <make_dirt_Electric.jobString>正在制作 泥土。</make_dirt_Electric.jobString>
-  
+  <make_dirt_Electric.jobString>正在制作泥土。</make_dirt_Electric.jobString>
+
   <!-- EN: Make dirt -->
-  <make_dirt_hand.label>制作 泥土</make_dirt_hand.label>
+  <make_dirt_hand.label>制作泥土</make_dirt_hand.label>
   <!-- EN: Make dirt from sand and fertilizer. -->
   <make_dirt_hand.description>用肥料和沙子制造普通泥土。</make_dirt_hand.description>
   <!-- EN: Making dirt. -->
-  <make_dirt_hand.jobString>正在制作 泥土。</make_dirt_hand.jobString>
-  
+  <make_dirt_hand.jobString>正在制作泥土。</make_dirt_hand.jobString>
+
   <!-- EN: saw bamboo planks -->
-  <MakeBambooPlanks_Electric.label>加工 竹板</MakeBambooPlanks_Electric.label>
+  <MakeBambooPlanks_Electric.label>加工竹板</MakeBambooPlanks_Electric.label>
   <!-- EN: Saws bamboo logs into bamboo planks. Quite fast. Produces 30. -->
   <MakeBambooPlanks_Electric.description>将竹子加工成竹板。 较高的工作效率。 \n\n产出：30。</MakeBambooPlanks_Electric.description>
   <!-- EN: Sawing bamboo planks. -->
-  <MakeBambooPlanks_Electric.jobString>正在加工 竹板。</MakeBambooPlanks_Electric.jobString>
-  
+  <MakeBambooPlanks_Electric.jobString>正在加工竹板。</MakeBambooPlanks_Electric.jobString>
+
   <!-- EN: saw bamboo planks -->
-  <MakeBambooPlanks_Hand.label>加工 竹板</MakeBambooPlanks_Hand.label>
+  <MakeBambooPlanks_Hand.label>加工竹板</MakeBambooPlanks_Hand.label>
   <!-- EN: Saw bamboo logs into bamboo planks. Quite slow. Produces 15. -->
   <MakeBambooPlanks_Hand.description>将竹子加工成竹板。较低的工作效率。 \n\n产出：15。</MakeBambooPlanks_Hand.description>
   <!-- EN: Sawing bamboo planks. -->
-  <MakeBambooPlanks_Hand.jobString>正在加工 竹板。</MakeBambooPlanks_Hand.jobString>
-  
+  <MakeBambooPlanks_Hand.jobString>正在加工竹板。</MakeBambooPlanks_Hand.jobString>
+
   <!-- EN: bake ceramics -->
-  <MakeCeramics.label>烧制 陶瓷</MakeCeramics.label>
+  <MakeCeramics.label>烧制陶瓷</MakeCeramics.label>
   <!-- EN: Bakes glazed ceramics. Produces 10. -->
   <MakeCeramics.description>烧制釉面陶瓷材料。 \n\n产出：10。</MakeCeramics.description>
   <!-- EN: Baking ceramics. -->
-  <MakeCeramics.jobString>正在烧制 陶瓷。</MakeCeramics.jobString>
-  
+  <MakeCeramics.jobString>正在烧制陶瓷。</MakeCeramics.jobString>
+
   <!-- EN: create charcoal -->
-  <MakeCharcoal_Electric.label>制作 木炭</MakeCharcoal_Electric.label>
+  <MakeCharcoal_Electric.label>制作木炭</MakeCharcoal_Electric.label>
   <!-- EN: Burn wood logs or bamboo logs into charcoal. Quite fast. Produces 20. -->
   <MakeCharcoal_Electric.description>将原木或者竹子烧制成为木炭。较高的工作效率。 \n\n产出：20。</MakeCharcoal_Electric.description>
   <!-- EN: Creating charcoal. -->
-  <MakeCharcoal_Electric.jobString>正在烧制 木炭。</MakeCharcoal_Electric.jobString>
-  
+  <MakeCharcoal_Electric.jobString>正在烧制木炭。</MakeCharcoal_Electric.jobString>
+
   <!-- EN: create charcoal -->
-  <MakeCharcoal_Hand.label>制作 木炭</MakeCharcoal_Hand.label>
+  <MakeCharcoal_Hand.label>制作木炭</MakeCharcoal_Hand.label>
   <!-- EN: Burn wood logs or bamboo into charcoal. Quite slow. Produces 20. -->
   <MakeCharcoal_Hand.description>将原木或者竹子烧制成为木炭。较低的工作效率。 \n\n产出：20。</MakeCharcoal_Hand.description>
   <!-- EN: Creating charcoal. -->
-  <MakeCharcoal_Hand.jobString>正在烧制 木炭。</MakeCharcoal_Hand.jobString>
-  
+  <MakeCharcoal_Hand.jobString>正在烧制木炭。</MakeCharcoal_Hand.jobString>
+
   <!-- EN: create fuel -->
-  <MakeChemfuel.label>制造 化合燃料</MakeChemfuel.label>
+  <MakeChemfuel.label>制作化合燃料</MakeChemfuel.label>
   <!-- EN: Create fuel from raw corn, wheat or rice. Produces 5. -->
   <MakeChemfuel.description>用玉米、小麦或者稻米制造化合燃料。 \n\n产出：5。</MakeChemfuel.description>
   <!-- EN: Creating fuel. -->
-  <MakeChemfuel.jobString>正在制造 化合燃料。</MakeChemfuel.jobString>
-  
+  <MakeChemfuel.jobString>正在制作化合燃料。</MakeChemfuel.jobString>
+
   <!-- EN: bake clay bricks -->
-  <MakeClayBricks.label>烧制 粘土砖</MakeClayBricks.label>
+  <MakeClayBricks.label>烧制粘土砖</MakeClayBricks.label>
   <!-- EN: Creates clay bricks by baking soft clay. Produces 5. -->
   <MakeClayBricks.description>用软粘土烧制粘土砖。 \n\n产出：5。</MakeClayBricks.description>
   <!-- EN: Baking clay into bricks. -->
-  <MakeClayBricks.jobString>正在烧制 粘土砖。</MakeClayBricks.jobString>
-  
+  <MakeClayBricks.jobString>正在烧制粘土砖。</MakeClayBricks.jobString>
+
   <!-- EN: create glass frames -->
-  <MakeGlass.label>烧制 玻璃块</MakeGlass.label>
+  <MakeGlass.label>烧制玻璃块</MakeGlass.label>
   <!-- EN: Create glass frames from glass batch. Produces 10. -->
-  <MakeGlass.description>用玻璃配合料烧制成品玻璃。 \n\n产出：10。</MakeGlass.description>
+  <MakeGlass.description>用玻璃生料烧制成品玻璃。 \n\n产出：10。</MakeGlass.description>
   <!-- EN: Creating glass frames. -->
-  <MakeGlass.jobString>正在烧制 玻璃块。</MakeGlass.jobString>
-  
+  <MakeGlass.jobString>正在烧制玻璃块。</MakeGlass.jobString>
+
   <!-- EN: create glass batch -->
-  <MakeGlassBatch.label>烧制 玻璃配合料</MakeGlassBatch.label>
+  <MakeGlassBatch.label>烧制玻璃生料</MakeGlassBatch.label>
   <!-- EN: Smelt sand into a batch of glass. Produces 25. -->
-  <MakeGlassBatch.description>用高温将沙子烧制成为玻璃配合料。 \n\n产出：25。</MakeGlassBatch.description>
+  <MakeGlassBatch.description>用高温将沙子烧制成为玻璃生料。 \n\n产出：25。</MakeGlassBatch.description>
   <!-- EN: Creating glass batch. -->
-  <MakeGlassBatch.jobString>正在烧制 玻璃配合料。</MakeGlassBatch.jobString>
-  
+  <MakeGlassBatch.jobString>正在烧制玻璃生料。</MakeGlassBatch.jobString>
+
   <!-- EN: chop firewood -->
-  <MakeKindling_Electric.label>加工 柴火</MakeKindling_Electric.label>
+  <MakeKindling_Electric.label>加工柴火</MakeKindling_Electric.label>
   <!-- EN: Chop wood logs or bamboo logs into kindling. Quite fast. Produces 40. -->
   <MakeKindling_Electric.description>将原木或者竹子加工成为普通燃料。 较高的工作效率。 \n\n产出：40。</MakeKindling_Electric.description>
   <!-- EN: Chopping logs into kindling. -->
-  <MakeKindling_Electric.jobString>正在加工 柴火。</MakeKindling_Electric.jobString>
-  
+  <MakeKindling_Electric.jobString>正在加工柴火。</MakeKindling_Electric.jobString>
+
   <!-- EN: chop firewood -->
-  <MakeKindling_Hand.label>加工 柴火</MakeKindling_Hand.label>
+  <MakeKindling_Hand.label>加工柴火</MakeKindling_Hand.label>
   <!-- EN: Chop wood logs or bamboo logs into kindling. Quite slow. Produces 20. -->
   <MakeKindling_Hand.description>将原木或者竹子加工成为普通燃料。 较低的工作效率。 \n\n产出：20。</MakeKindling_Hand.description>
   <!-- EN: Chopping logs into kindling. -->
-  <MakeKindling_Hand.jobString>正在加工 柴火。</MakeKindling_Hand.jobString>
-  
+  <MakeKindling_Hand.jobString>正在加工柴火。</MakeKindling_Hand.jobString>
+
   <!-- EN: saw redwood planks -->
-  <MakeRedWoodPlanks_Electric.label>加工 红木板</MakeRedWoodPlanks_Electric.label>
+  <MakeRedWoodPlanks_Electric.label>加工红木板</MakeRedWoodPlanks_Electric.label>
   <!-- EN: Saws redwood logs into planks. Quite fast. Produces 30. -->
   <MakeRedWoodPlanks_Electric.description>将红木原木加工成为木板。 较高的工作效率。 \n\n产出：30。</MakeRedWoodPlanks_Electric.description>
   <!-- EN: Sawing redwood planks. -->
-  <MakeRedWoodPlanks_Electric.jobString>正在加工 红木板。</MakeRedWoodPlanks_Electric.jobString>
-  
+  <MakeRedWoodPlanks_Electric.jobString>正在加工红木板。</MakeRedWoodPlanks_Electric.jobString>
+
   <!-- EN: saw redwood planks -->
-  <MakeRedWoodPlanks_Hand.label>加工 红木板</MakeRedWoodPlanks_Hand.label>
+  <MakeRedWoodPlanks_Hand.label>加工红木板</MakeRedWoodPlanks_Hand.label>
   <!-- EN: Saws redwood logs into planks. Quite slow. Produces 15. -->
   <MakeRedWoodPlanks_Hand.description>将红木原木加工成为木板。较低的工作效率。 \n\n产出：15。</MakeRedWoodPlanks_Hand.description>
   <!-- EN: Sawing redwood planks. -->
-  <MakeRedWoodPlanks_Hand.jobString>正在加工 红木板。</MakeRedWoodPlanks_Hand.jobString>
-  
+  <MakeRedWoodPlanks_Hand.jobString>正在加工红木板。</MakeRedWoodPlanks_Hand.jobString>
+
   <!-- EN: reinforce glass frames -->
-  <MakeReinforcedGlass.label>制作 强化玻璃</MakeReinforcedGlass.label>
+  <MakeReinforcedGlass.label>制作强化玻璃</MakeReinforcedGlass.label>
   <!-- EN: Turn fragile glass frames into reinforced glass frames by adding sythetic fibers. Produces 6. -->
   <MakeReinforcedGlass.description>通过添加熔炼人造纤维，使得普通玻璃变成具有特种用途的强化玻璃。 \n\n产出：6。</MakeReinforcedGlass.description>
   <!-- EN: Reinforcing glass frame. -->
-  <MakeReinforcedGlass.jobString>正在制作 强化玻璃。</MakeReinforcedGlass.jobString>
-  
+  <MakeReinforcedGlass.jobString>正在制作强化玻璃。</MakeReinforcedGlass.jobString>
+
   <!-- EN: extract silicon -->
   <MakeSilicon_Electric.label>提炼 硅</MakeSilicon_Electric.label>
   <!-- EN: Melts down sand to extract the silicon from it. Quite fast. Produces 5. -->
   <MakeSilicon_Electric.description>用高温熔炼沙子，提炼和纯化其中的硅成分。 较高的工作效率。 \n\n产出：5。</MakeSilicon_Electric.description>
   <!-- EN: Extracting silicon from sand. -->
   <MakeSilicon_Electric.jobString>正在提炼 硅。</MakeSilicon_Electric.jobString>
-  
+
   <!-- EN: render tallow -->
-  <MakeTallow.label>提取 兽脂</MakeTallow.label>
+  <MakeTallow.label>提取兽脂</MakeTallow.label>
   <!-- EN: Render tallow from meat. Produces 15. -->
   <MakeTallow.description>从肉中提取油脂备用。\n\n产出：15。</MakeTallow.description>
   <!-- EN: Creating fuel. -->
   <MakeTallow.jobString>正在制造燃料。</MakeTallow.jobString>
-  
+
   <!-- EN: saw wood planks -->
-  <MakeWoodPlanks_Electric.label>加工 木板</MakeWoodPlanks_Electric.label>
+  <MakeWoodPlanks_Electric.label>加工木板</MakeWoodPlanks_Electric.label>
   <!-- EN: Saws wood logs into planks. Quite fast. Produces 30. -->
   <MakeWoodPlanks_Electric.description>将原木加工成为板材。 较高的工作效率。 \n\n产出：30。</MakeWoodPlanks_Electric.description>
   <!-- EN: Sawing wood planks. -->
-  <MakeWoodPlanks_Electric.jobString>正在加工 木板。</MakeWoodPlanks_Electric.jobString>
-  
+  <MakeWoodPlanks_Electric.jobString>正在加工木板。</MakeWoodPlanks_Electric.jobString>
+
   <!-- EN: saw wood planks -->
-  <MakeWoodPlanks_Hand.label>加工 木板</MakeWoodPlanks_Hand.label>
+  <MakeWoodPlanks_Hand.label>加工木板</MakeWoodPlanks_Hand.label>
   <!-- EN: Saws wood logs into planks. Quite slow. Produces 15. -->
   <MakeWoodPlanks_Hand.description>将原木加工成为板材。较低的工作效率。 \n\n产出：15。</MakeWoodPlanks_Hand.description>
   <!-- EN: Sawing wood planks. -->
-  <MakeWoodPlanks_Hand.jobString>正在加工 木板。</MakeWoodPlanks_Hand.jobString>
-  
+  <MakeWoodPlanks_Hand.jobString>正在加工木板。</MakeWoodPlanks_Hand.jobString>
+
   <!-- EN: mix concrete -->
-  <MixConcrete.label>搅拌 混凝土</MixConcrete.label>
+  <MixConcrete.label>搅拌混凝土</MixConcrete.label>
   <!-- EN: Mixes sand and rubble into concrete. Produces 15. -->
   <MixConcrete.description>将沙子和碎石按一定比例混合，然后添加粘合剂和水制成普通混凝土。 \n\n产出：15。</MixConcrete.description>
   <!-- EN: Mixing concrete. -->
-  <MixConcrete.jobString>正在搅拌 混凝土。</MixConcrete.jobString>
-  
+  <MixConcrete.jobString>正在搅拌混凝土。</MixConcrete.jobString>
+
   <!-- EN: mix concrete -->
-  <MixConcreteElectric.label>搅拌 混凝土</MixConcreteElectric.label>
+  <MixConcreteElectric.label>搅拌混凝土</MixConcreteElectric.label>
   <!-- EN: Mixes sand and rubble into concrete. Produces 15. -->
   <MixConcreteElectric.description>将沙子和碎石按一定比例混合，然后添加粘合剂和水制成普通混凝土。 \n\n产出：15。</MixConcreteElectric.description>
   <!-- EN: Mixing concrete. -->
-  <MixConcreteElectric.jobString>正在搅拌 混凝土。</MixConcreteElectric.jobString>
-  
+  <MixConcreteElectric.jobString>正在搅拌混凝土。</MixConcreteElectric.jobString>
+
 </LanguageData>

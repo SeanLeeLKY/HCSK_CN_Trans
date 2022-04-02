@@ -19,11 +19,11 @@
   <RawCarrots.description>胡萝卜是一种长而脆、桔黄色根的块根类蔬菜。生吃比较提神。</RawCarrots.description>
   <RawCarrots.stuffProps.stuffAdjective>胡萝卜</RawCarrots.stuffProps.stuffAdjective>
   
-  <!-- EN: Raw Champignon -->
-  <Rawmushroom.label>香菇</Rawmushroom.label>
-  <!-- EN: Raw Champignon are small white or brown edible caps of the Champignon Mushroom. The caps are round in appearance. Unsavory when eaten raw, as the texture is similar to raw meat. -->
-  <Rawmushroom.description>生香菇是小的白色或棕色的可食用的菌菇帽。这些菌菇外表是圆的。生吃的时候很难吃，因为口感和生肉相似。</Rawmushroom.description>
-  <Rawmushroom.stuffProps.stuffAdjective>香菇</Rawmushroom.stuffProps.stuffAdjective>
+  <!-- EN: giant leaf -->
+  <RawGiantLeaf.label>巨叶</RawGiantLeaf.label>
+  <!-- EN: Raw giant leaf. Not really appetizing raw, it is better prepared as a soup. -->
+  <RawGiantLeaf.description>生的巨叶叶片。生的不太好吃，用来煮汤最佳。</RawGiantLeaf.description>
+  <RawGiantLeaf.stuffProps.stuffAdjective>巨叶</RawGiantLeaf.stuffProps.stuffAdjective>
   
   <!-- EN: Potatoes -->
   <RawPotatoes.label>土豆</RawPotatoes.label>
@@ -32,9 +32,9 @@
   <RawPotatoes.stuffProps.stuffAdjective>土豆</RawPotatoes.stuffProps.stuffAdjective>
   
   <!-- EN: Tomatoes -->
-  <RawTomatoes.label>番茄</RawTomatoes.label>
+  <RawTomatoes.label>西红柿</RawTomatoes.label>
   <!-- EN: Tomatoes are round, palm sized, red, sharp-tasting fruits of the Tomato Vine. It is useful in cooking and is enjoyable to eat even when raw. -->
   <RawTomatoes.description>西红柿是圆形，棕榈大小的红色，味道酸甜的果实。它在烹饪中是有用的，即使是生吃也是令人愉快的。</RawTomatoes.description>
-  <RawTomatoes.stuffProps.stuffAdjective>番茄</RawTomatoes.stuffProps.stuffAdjective>
+  <RawTomatoes.stuffProps.stuffAdjective>西红柿</RawTomatoes.stuffProps.stuffAdjective>
   
 </LanguageData>

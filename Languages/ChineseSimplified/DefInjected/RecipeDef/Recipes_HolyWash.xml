@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Wash clothes -->
+  <BasinWashApparel.label>洗衣服</BasinWashApparel.label>
+  <!-- EN: Removes the Worn By Corpse effect from the apparel. -->
+  <BasinWashApparel.description>可以把死者衣物的标签（亡）洗掉。</BasinWashApparel.description>
+  <!-- EN: washing clothes. -->
+  <BasinWashApparel.jobString>正在清洗衣服。</BasinWashApparel.jobString>
+  
+</LanguageData>

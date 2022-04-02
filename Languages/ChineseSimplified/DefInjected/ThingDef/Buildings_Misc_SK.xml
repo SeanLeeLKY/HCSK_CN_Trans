@@ -100,7 +100,7 @@
   
   <!-- EN: hi-tech research bench -->
   <HiTechResearchBench.label>高级研究台</HiTechResearchBench.label>
-  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power. -->
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Research is speed up by the high-tech tools. Requires power. -->
   <HiTechResearchBench.description>一种配有电脑和电子测量设备的高科技工作台。高科技工具加快了研究速度。需要消耗电力。</HiTechResearchBench.description>
   
   <!-- EN: holosuite -->
@@ -172,6 +172,11 @@
   <Patterner.label>样版设计器</Patterner.label>
   <!-- EN: A important place to store textiles used for increases work speed on textile benches. -->
   <Patterner.description>存放各种纺织品设施，可以提高纺织工作台的工作速度。</Patterner.description>
+  
+  <!-- EN: pen marker -->
+  <PenMarker.label>畜栏标牌</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>一个带标志的柱子，指定一个畜栏。它必须放置在由栅栏、路障、墙壁和门围起来的区域。你可以给每个畜栏标牌指定一套接受的动物，饲养员会把动物带到合适的畜栏。</PenMarker.description>
   
   <!-- EN: pod launcher -->
   <PodLauncher.label>运输舱发射器</PodLauncher.label>

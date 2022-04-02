@@ -26,11 +26,11 @@
   <!-- EN: A two-handed polearm with a long curved blade on the end. -->
   <MeleeWeapon_Glaive.description>一种双手持柄，末端有长长弯刃的武器。</MeleeWeapon_Glaive.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Glaive.tools.handle.label>把手</MeleeWeapon_Glaive.tools.handle.label>
+  <MeleeWeapon_Glaive.tools.handle.label>杆</MeleeWeapon_Glaive.tools.handle.label>
   <!-- EN: head -->
-  <MeleeWeapon_Glaive.tools.head.label>头</MeleeWeapon_Glaive.tools.head.label>
+  <MeleeWeapon_Glaive.tools.head.label>刃</MeleeWeapon_Glaive.tools.head.label>
   <!-- EN: edge -->
-  <MeleeWeapon_Glaive.tools.edge.label>刃</MeleeWeapon_Glaive.tools.edge.label>
+  <MeleeWeapon_Glaive.tools.edge.label>尖</MeleeWeapon_Glaive.tools.edge.label>
   
   <!-- EN: Greatsword -->
   <MeleeWeapon_GreatSword.label>巨剑</MeleeWeapon_GreatSword.label>

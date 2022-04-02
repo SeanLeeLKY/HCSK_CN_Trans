@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced night vision goggles -->
+  <Apparel_AdvancedNightVision.label>高级夜视目镜</Apparel_AdvancedNightVision.label>
+  <!-- EN: An set of advanced night vision goggles offering detailed, panoramic vision when fighting in the dark. -->
+  <Apparel_AdvancedNightVision.description>一套先进的夜视目镜，在黑暗中战斗时提供详细的全景视野。</Apparel_AdvancedNightVision.description>
+  
+  <!-- EN: night vision monocular -->
+  <Apparel_SimpleNightVision.label>简易夜视目镜</Apparel_SimpleNightVision.label>
+  <!-- EN: A simple, monocular night vision device, worn strapped to the head. -->
+  <Apparel_SimpleNightVision.description>一种简单的单目夜视装置。</Apparel_SimpleNightVision.description>
+  
+</LanguageData>

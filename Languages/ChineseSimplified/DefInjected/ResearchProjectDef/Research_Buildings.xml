@@ -291,6 +291,11 @@
   <!-- EN: Allows you to build thick stone roofs which can block drop pods. -->
   <Roof_D2.description>解锁建造厚岩顶的能力，能够阻挡空降仓。</Roof_D2.description>
   
+  <!-- EN: bunker roof -->
+  <Roof_D3.label>堡垒屋顶</Roof_D3.label>
+  <!-- EN: Allows you to build bunker roof which helps keep out the drop pods, mortar rounds, reduces the likelihood of roof collapse during normal earthquakes. -->
+  <Roof_D3.description>解锁建造堡垒屋顶的技术，能够阻挡空降仓、炮弹，并且降低地震时屋顶垮塌的几率。</Roof_D3.description>
+  
   <!-- EN: Renewable energy III -->
   <SolarPanels.label>可再生能源 III</SolarPanels.label>
   <!-- EN: description -->
@@ -300,49 +305,53 @@
   <Stargate_F1.label>星门技术</Stargate_F1.label>
   <!-- EN: description -->
   <Stargate_F1.description>TODO</Stargate_F1.description>
-
-  <Storage_A1.label>存储设施 I</Storage_A1.label>
-  <Storage_A1.description>description</Storage_A1.description>
   
   <!-- EN: Storage I -->
-  <Storage_B1.label>存储设施 II</Storage_B1.label>
-  <!-- EN: description -->
-  <Storage_B1.description>TODO</Storage_B1.description>
+  <Storage_A1.label>存储设施 I</Storage_A1.label>
+  <!-- EN: Neolithic Storage: Learn to pots for storing food and wicker baskets. -->
+  <Storage_A1.description>原始存储：学会建造食物存储篮和物品篮。</Storage_A1.description>
   
   <!-- EN: Storage II -->
-  <Storage_B2.label>存储设施 III</Storage_B2.label>
-  <!-- EN: description -->
-  <Storage_B2.description>TODO</Storage_B2.description>
+  <Storage_B1.label>存储设施 II</Storage_B1.label>
+  <!-- EN: Medieval Storage: Learn to pots for storing food and wicker baskets. -->
+  <Storage_B1.description>中古存储：学会建造食物存储罐和编制篮。</Storage_B1.description>
   
   <!-- EN: Storage III -->
-  <Storage_B3.label>存储设施 IV</Storage_B3.label>
-  <!-- EN: description -->
-  <Storage_B3.description>TODO</Storage_B3.description>
+  <Storage_B2.label>存储设施 III</Storage_B2.label>
+  <!-- EN: Medieval Storage: Learn to make general storage containers for everyday items. -->
+  <Storage_B2.description>中古存储：学会建造存储日常物品的箱子。</Storage_B2.description>
   
   <!-- EN: Storage IV -->
-  <Storage_B4.label>存储设施 V</Storage_B4.label>
-  <!-- EN: description -->
-  <Storage_B4.description>TODO</Storage_B4.description>
+  <Storage_B3.label>存储设施 IV</Storage_B3.label>
+  <!-- EN: Food and Grain Storage: Everything you need to keep your meals preserved and farm products safe and organized. -->
+  <Storage_B3.description>食物和谷物存储：保存食物和农产品的存储设施。</Storage_B3.description>
   
   <!-- EN: Storage V -->
-  <Storage_C1.label>存储设施 VI</Storage_C1.label>
-  <!-- EN: description -->
-  <Storage_C1.description>TODO</Storage_C1.description>
+  <Storage_B4.label>存储设施 V</Storage_B4.label>
+  <!-- EN: Wardrobe Storage: Give your colonists a place to store their clothes and your tailors a place to keep their materials. -->
+  <Storage_B4.description>服装存储：给各种衣物和纺织材料建立一个安全高效的存储设施。</Storage_B4.description>
   
   <!-- EN: Storage VI -->
-  <Storage_C2.label>存储设施 VII</Storage_C2.label>
-  <!-- EN: description -->
-  <Storage_C2.description>TODO</Storage_C2.description>
+  <Storage_C1.label>存储设施 VI</Storage_C1.label>
+  <!-- EN: Drugs and Guns Storage: Medicine, booze, and weapons. Keep them separate, but organized. -->
+  <Storage_C1.description>药物和武器存储：药品，酒类和武器要分开存放，但要组织有序。</Storage_C1.description>
   
   <!-- EN: Storage VII -->
-  <Storage_C3.label>存储设施 VIII</Storage_C3.label>
-  <!-- EN: description -->
-  <Storage_C3.description>TODO</Storage_C3.description>
-
-  <Storage_C4.label>存储设施 IX</Storage_C4.label>
-  <Storage_C4.description>description</Storage_C4.description>
+  <Storage_C2.label>存储设施 VII</Storage_C2.label>
+  <!-- EN: Warehouse Storage: Pallet racks, utility shelving, display cases, and other very necessary storage units for a growing colony. -->
+  <Storage_C2.description>货物存储：平板货架，多功能搁板，易查箱以及其他各式各样的存储设施单元。</Storage_C2.description>
   
   <!-- EN: Storage VIII -->
+  <Storage_C3.label>存储设施 VIII</Storage_C3.label>
+  <!-- EN: Refrigeration: Freezers for long-term storage of food and produce, a well as a refrigerated display case which every cafe needs. -->
+  <Storage_C3.description>冰箱：能够长时间冷冻那些易腐食物和产品，当然，面板的玻璃也能清晰的展示给那些喜欢喝咖啡的朋友们。</Storage_C3.description>
+  
+  <!-- EN: Storage IX -->
+  <Storage_C4.label>存储设施 IX</Storage_C4.label>
+  <!-- EN: Arsenal: Safe and secure storage for weapons, ammo, and other important things that might or might not explode. -->
+  <Storage_C4.description>军械库：可以安全的储放武器，弹药和其他重要物资，不管它们是不是易燃易爆东西。</Storage_C4.description>
+  
+  <!-- EN: Storage X -->
   <Storage_D1.label>存储设施 X</Storage_D1.label>
   <!-- EN: description -->
   <Storage_D1.description>TODO</Storage_D1.description>
@@ -386,6 +395,11 @@
   <Temperature_control_C3.label>温度控制 V</Temperature_control_C3.label>
   <!-- EN: description -->
   <Temperature_control_C3.description>TODO</Temperature_control_C3.description>
+  
+  <!-- EN: thick stone roof removal -->
+  <ThickStoneRoofRemoval.label>厚岩顶移除</ThickStoneRoofRemoval.label>
+  <!-- EN: Allows you to remove thick stone roofs. -->
+  <ThickStoneRoofRemoval.description>让你能够移除厚岩顶。</ThickStoneRoofRemoval.description>
   
   <!-- EN: Transport pods -->
   <TransportPod.label>运输舱</TransportPod.label>

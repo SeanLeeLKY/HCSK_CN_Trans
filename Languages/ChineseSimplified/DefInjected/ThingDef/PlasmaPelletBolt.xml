@@ -3,7 +3,8 @@
   
   <!-- EN: Plasma pellet bolt -->
   <Ammo_PlasmaPelletBolt.label>等离子霰弹</Ammo_PlasmaPelletBolt.label>
-  <Ammo_PlasmaPelletBolt.description>\n\n电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。\n\n使用于：</Ammo_PlasmaPelletBolt.description>
+  <Ammo_PlasmaPelletBolt.description>电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。</Ammo_PlasmaPelletBolt.description>
+  <Ammo_PlasmaPelletBolt.oldDescription>电荷弹：\n电荷子弹对于装甲和组织拥有一样的伤害力。</Ammo_PlasmaPelletBolt.oldDescription>
   
   <!-- EN: Plasma pellet bolt -->
   <Bullet_PlasmaPelletBolt.label>等离子霰弹</Bullet_PlasmaPelletBolt.label>

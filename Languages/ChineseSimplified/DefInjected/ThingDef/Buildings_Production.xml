@@ -96,6 +96,11 @@
   <!-- EN: A small muscle-powered grinding stone for quickly grinding raw plants. -->
   <GrindStone.description>用于快速研磨植物原料的手动小型磨制器具。</GrindStone.description>
   
+  <!-- EN: hand mending workbench -->
+  <HandMendingWorkbench.label>手工维修台</HandMendingWorkbench.label>
+  <!-- EN: A workbench equipped with all the tools required to mend and repair damaged medieval apparel, armor and weapons. Keep it stocked with mending kits. -->
+  <HandMendingWorkbench.description>一个配备了必要工具的工作台，可以用于修理损坏的低科技服装，盔甲和武器。工作时需要消耗修补包。</HandMendingWorkbench.description>
+  
   <!-- EN: tailor's bench -->
   <HandTailoringBench.label>裁缝工作台</HandTailoringBench.label>
   <!-- EN: A workbench equipped for tailoring basic clothing from textiles. -->

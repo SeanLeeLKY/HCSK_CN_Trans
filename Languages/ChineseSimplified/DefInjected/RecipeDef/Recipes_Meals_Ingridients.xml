@@ -1,81 +1,81 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: split coconuts -->
   <HalfCoconut.label>劈开 椰子</HalfCoconut.label>
   <!-- EN: Splits coconuts into two and harvests the milk from the fruit. Produces 5. -->
   <HalfCoconut.description>将椰子劈成两半，还能获取椰奶。 \n\n产出：5。</HalfCoconut.description>
   <!-- EN: Splitting coconut. -->
   <HalfCoconut.jobString>正在劈 椰子。</HalfCoconut.jobString>
-  
+
   <!-- EN: bake bread loaves -->
-  <MakeBread.label>烘焙 面包</MakeBread.label>
+  <MakeBread.label>烘焙面包</MakeBread.label>
   <!-- EN: Bakes loaves of bread. Produces 2. -->
   <MakeBread.description>烘焙一大块面包。 \n\n产出：2。</MakeBread.description>
   <!-- EN: Baking bread loaves. -->
-  <MakeBread.jobString>正在烘焙 面包。</MakeBread.jobString>
-  
+  <MakeBread.jobString>正在烘焙面包。</MakeBread.jobString>
+
   <!-- EN: Caramelize sugar -->
-  <MakeCaramel.label>制作 焦糖</MakeCaramel.label>
+  <MakeCaramel.label>制作焦糖</MakeCaramel.label>
   <!-- EN: Turns sugar into a caramel snacks. Produces 3. -->
   <MakeCaramel.description>将糖制作成为焦糖。 \n\n产出：3。</MakeCaramel.description>
   <!-- EN: Camarelize sugar into caramel. -->
-  <MakeCaramel.jobString>正在制作 焦糖。</MakeCaramel.jobString>
-  
+  <MakeCaramel.jobString>正在制作焦糖。</MakeCaramel.jobString>
+
   <!-- EN: process cheese -->
-  <Makecheese.label>制作 奶酪</Makecheese.label>
+  <Makecheese.label>制作奶酪</Makecheese.label>
   <!-- EN: Turns milk or soy milk into cheese using cheesy technique. Less efficient then proper aging. Produces 4. -->
   <Makecheese.description>将各种奶或者奶的代制品制成奶酪。 \n\n产出：4。</Makecheese.description>
   <!-- EN: Processing milk into cheese. -->
-  <Makecheese.jobString>正在制作 奶酪。</Makecheese.jobString>
-  
+  <Makecheese.jobString>正在制作奶酪。</Makecheese.jobString>
+
   <!-- EN: Cook chocolates -->
-  <MakeChocolate.label>制作 巧克力</MakeChocolate.label>
+  <MakeChocolate.label>制作巧克力</MakeChocolate.label>
   <!-- EN: Roast cocoa beans and sugar to make chocolate, a sweet treat. Produces 5. -->
   <MakeChocolate.description>利用可可豆和糖制作巧克力——一种美味的零食。 \n\n产出：5。</MakeChocolate.description>
   <!-- EN: Roasting cocoa beans into chocolate. -->
-  <MakeChocolate.jobString>正在制作 巧克力。</MakeChocolate.jobString>
-  
+  <MakeChocolate.jobString>正在制作巧克力。</MakeChocolate.jobString>
+
   <!-- EN: grind flour -->
-  <MakeFlour.label>磨制 面粉</MakeFlour.label>
+  <MakeFlour.label>磨制面粉</MakeFlour.label>
   <!-- EN: Grind wheat, corn, rice or oats into flour. Produces 10. -->
   <MakeFlour.description>将小麦、玉米、稻米或者燕麦磨制成为面粉。 \n\n产出：10。</MakeFlour.description>
   <!-- EN: Grinding flour. -->
-  <MakeFlour.jobString>正在研磨 面粉。</MakeFlour.jobString>
-  
+  <MakeFlour.jobString>正在研磨面粉。</MakeFlour.jobString>
+
   <!-- EN: Produce Ice Cream -->
-  <MakeIceCream.label>制作 冰淇淋</MakeIceCream.label>
+  <MakeIceCream.label>制作冰淇淋</MakeIceCream.label>
   <!-- EN: How is it made? Is there a freezer? Produces 3. -->
   <MakeIceCream.description>这东西是怎么做出来的？这儿有冷冻器吗？\n\n产出：3。</MakeIceCream.description>
   <!-- EN: Producing ice cream. -->
-  <MakeIceCream.jobString>正在制作 冰淇淋。</MakeIceCream.jobString>
-  
+  <MakeIceCream.jobString>正在制作冰淇淋。</MakeIceCream.jobString>
+
   <!-- EN: press soy milk -->
-  <Makesoymilk.label>榨制 豆浆</Makesoymilk.label>
+  <Makesoymilk.label>榨制豆浆</Makesoymilk.label>
   <!-- EN: Press beans into soy milk. Produces 4. -->
   <Makesoymilk.description>将豆子压榨成豆浆这种奶状物。 \n\n产出：4。</Makesoymilk.description>
   <!-- EN: Pressing beans into soy milk. -->
-  <Makesoymilk.jobString>正在榨制 豆浆。</Makesoymilk.jobString>
-  
+  <Makesoymilk.jobString>正在榨制豆浆。</Makesoymilk.jobString>
+
   <!-- EN: grind sugarcane -->
-  <MakeSugar.label>榨制 甘蔗</MakeSugar.label>
+  <MakeSugar.label>榨制甘蔗</MakeSugar.label>
   <!-- EN: Beat and grind those canes to get at that sugar! Produces 5. -->
   <MakeSugar.description>通过物理磨压的方式将甘蔗制成糖！ \n\n产出：5。</MakeSugar.description>
   <!-- EN: Grinding sugarcane into sugar. -->
   <MakeSugar.jobString>正在磨压 甘蔗。</MakeSugar.jobString>
-  
+
   <!-- EN: press tofu -->
-  <MakeTofu.label>压制 豆腐</MakeTofu.label>
+  <MakeTofu.label>压制豆腐</MakeTofu.label>
   <!-- EN: Turns beans into tofu. Tofu is used in place of meat in meals or can be eaten raw. Produces 5. -->
   <MakeTofu.description>将豆类食材转化成豆腐。豆腐可以被用来作为肉的替代品，也可以直接生吃。 \n\n产出：5。</MakeTofu.description>
   <!-- EN: Pressing tofu. -->
-  <MakeTofu.jobString>正在压制 豆腐。</MakeTofu.jobString>
-  
+  <MakeTofu.jobString>正在压制豆腐。</MakeTofu.jobString>
+
   <!-- EN: melting sugary substances -->
-  <MeltSugar.label>融炼 糖分物质</MeltSugar.label>
+  <MeltSugar.label>提炼糖分物质</MeltSugar.label>
   <!-- EN: Boiling down high sugar substances into a sugar substitute residue Produces 5. -->
   <MeltSugar.description>把糖分物质煮沸提炼，制作成为糖的替代品。 \n\n产出：5。</MeltSugar.description>
   <!-- EN: Boiling down sugary substances into sugar residue. -->
-  <MeltSugar.jobString>正在提炼 糖分物质。</MeltSugar.jobString>
-  
+  <MeltSugar.jobString>正在提炼糖分物质。</MeltSugar.jobString>
+
 </LanguageData>

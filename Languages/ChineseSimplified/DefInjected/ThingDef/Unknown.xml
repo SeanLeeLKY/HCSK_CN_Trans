@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 堡垒屋顶（蓝图） -->
+  <Blueprint_BunkerRoofFraming.label>堡垒屋顶（蓝图）</Blueprint_BunkerRoofFraming.label>
+  
+  <!-- EN: 太阳能屋顶（蓝图） -->
+  <Blueprint_RoofSolarFraming.label>太阳能屋顶（蓝图）</Blueprint_RoofSolarFraming.label>
+  
+  <!-- EN: 透明屋顶（蓝图） -->
+  <Blueprint_RoofTransparentFraming.label>透明屋顶（蓝图）</Blueprint_RoofTransparentFraming.label>
+  
+  <!-- EN: 厚岩顶（蓝图） -->
+  <Blueprint_ThickStoneRoofFraming.label>厚岩顶（蓝图）</Blueprint_ThickStoneRoofFraming.label>
+  
+  <!-- EN: 堡垒屋顶（建造中） -->
+  <Frame_BunkerRoofFraming.label>堡垒屋顶（建造中）</Frame_BunkerRoofFraming.label>
+  <!-- EN: 堡垒屋顶能够阻挡空降仓、炮弹，并且降低地震时屋顶垮塌的几率。 -->
+  <Frame_BunkerRoofFraming.description>堡垒屋顶能够阻挡空降仓、炮弹，并且降低地震时屋顶垮塌的几率。</Frame_BunkerRoofFraming.description>
+  
+  <!-- EN: 太阳能屋顶（建造中） -->
+  <Frame_RoofSolarFraming.label>太阳能屋顶（建造中）</Frame_RoofSolarFraming.label>
+  <!-- EN: 太阳能屋顶可以用于发电。需要太阳能控制器来输出电力。 -->
+  <Frame_RoofSolarFraming.description>太阳能屋顶可以用于发电。需要太阳能控制器来输出电力。</Frame_RoofSolarFraming.description>
+  
+  <!-- EN: transparent roofing（建造中） -->
+  <Frame_RoofTransparentFraming.label>透明屋顶（建造中）</Frame_RoofTransparentFraming.label>
+  <!-- EN: Transparent roofing lets the light through, but keeps the weather out! -->
+  <Frame_RoofTransparentFraming.description>透明屋顶可以让阳光穿过，同时隔绝外部天气影响。</Frame_RoofTransparentFraming.description>
+  
+  <!-- EN: thick stone roofing（建造中） -->
+  <Frame_ThickStoneRoofFraming.label>厚岩顶（建造中）</Frame_ThickStoneRoofFraming.label>
+  <!-- EN: Provides a thick roofing to keep drop pods out. -->
+  <Frame_ThickStoneRoofFraming.description>厚岩顶可以防止空投仓掉入覆盖区域。</Frame_ThickStoneRoofFraming.description>
+  
+</LanguageData>

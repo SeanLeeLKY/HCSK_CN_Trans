@@ -1,32 +1,32 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Build Beretta CX4 -->
-  <BuildCXfour.label>制造 伯莱塔Cx4卡宾枪</BuildCXfour.label>
+  <BuildCXfour.label>制作伯莱塔Cx4卡宾枪</BuildCXfour.label>
   <!-- EN: Builds the Beretta CX4, a highly reliable compact carbine. Below average damage, average fire rate, above average range and fires in two round burst.\nCaliber: 9x19mm Para -->
   <BuildCXfour.description>制造伯莱塔Cx4“风暴”卡宾枪，一种高度可靠的紧凑型卡宾枪。低于平均伤害、平均开火速率，高于平均射程，两轮短点射。\n弹药： 9x19mm 子弹</BuildCXfour.description>
   <!-- EN: Building Beretta CX4. -->
-  <BuildCXfour.jobString>正在制造 伯莱塔Cx4卡宾枪。</BuildCXfour.jobString>
-  
+  <BuildCXfour.jobString>正在制作伯莱塔Cx4卡宾枪。</BuildCXfour.jobString>
+
   <!-- EN: Build Lee-Enfield -->
-  <BuildGun_BoltActionRifle.label>制造 李-恩菲尔德步枪</BuildGun_BoltActionRifle.label>
+  <BuildGun_BoltActionRifle.label>制作李-恩菲尔德步枪</BuildGun_BoltActionRifle.label>
   <!-- EN: Builds an ancient bolt-action rifle. Good range, good power and low rate of fire.\nCaliber: .303 British -->
-  <BuildGun_BoltActionRifle.description>制造一支古老的栓动步枪。射程较远，威力较好，但是射击速度慢。\n弹药： .303 英制弹药</BuildGun_BoltActionRifle.description>
+  <BuildGun_BoltActionRifle.description>制造一支古老的栓动步枪。射程较远，威力较好，但是射击速度慢。\n弹药： .303 英制子弹</BuildGun_BoltActionRifle.description>
   <!-- EN: Building Lee-Enfield. -->
-  <BuildGun_BoltActionRifle.jobString>正在制造 李-恩菲尔德步枪。</BuildGun_BoltActionRifle.jobString>
-  
+  <BuildGun_BoltActionRifle.jobString>正在制作李-恩菲尔德步枪。</BuildGun_BoltActionRifle.jobString>
+
   <!-- EN: Build M4A1 Carbine -->
-  <BuildM4A1Gun.label>制造 M4A1卡宾枪</BuildM4A1Gun.label>
+  <BuildM4A1Gun.label>制作M4A1卡宾枪</BuildM4A1Gun.label>
   <!-- EN: Builds the M4A1 Carbine, a shorter and lighter variant of the M16A2 assault rifle. Average damage and range, good rate of fire and good accurracy.\nCaliber: 5.56x45mm NATO -->
-  <BuildM4A1Gun.description>制造 M4A1卡宾枪。基本属于M16A2突击步枪的轻度简化版本，威力和射程一般，但是有较高的开火速率和较好的精度。\n弹药： 5.56x45mm 北约标准弹</BuildM4A1Gun.description>
+  <BuildM4A1Gun.description>制作M4A1卡宾枪。基本属于M16A2突击步枪的轻度简化版本，威力和射程一般，但是有较高的开火速率和较好的精度。\n弹药： 5.56x45mm 北约标准弹</BuildM4A1Gun.description>
   <!-- EN: Building M4A1 Carbine. -->
-  <BuildM4A1Gun.jobString>正在制造 M4A1卡宾枪。</BuildM4A1Gun.jobString>
-  
+  <BuildM4A1Gun.jobString>正在制作M4A1卡宾枪。</BuildM4A1Gun.jobString>
+
   <!-- EN: Build HK USC -->
-  <BuildUSC.label>制造 USC半自动卡宾枪</BuildUSC.label>
+  <BuildUSC.label>制作USC半自动卡宾枪</BuildUSC.label>
   <!-- EN: Builds the HK USC, a stable semi-automatic pistol-calibre carbine with low kickback and an unusual stock design. Average damage, above average fire rate and range that fires three round bursts.\nCaliber: .45 ACP -->
-  <BuildUSC.description>制造 HK USC半自动卡宾枪，一种较为稳定的半自动手枪口径卡宾枪，反冲较低，弹仓设计也比较新颖。威力一般，但是开火速率和射程高于同等平均水平，单次开火能发射3发子弹。\n弹药： .45 自动手枪弹</BuildUSC.description>
+  <BuildUSC.description>制作HK USC半自动卡宾枪，一种较为稳定的半自动手枪口径卡宾枪，反冲较低，弹仓设计也比较新颖。威力一般，但是开火速率和射程高于同等平均水平，单次开火能发射3发子弹。\n弹药： .45 自动手枪弹</BuildUSC.description>
   <!-- EN: Building HK USC. -->
-  <BuildUSC.jobString>正在制造 USC半自动卡宾枪。</BuildUSC.jobString>
-  
+  <BuildUSC.jobString>正在制作USC半自动卡宾枪。</BuildUSC.jobString>
+
 </LanguageData>

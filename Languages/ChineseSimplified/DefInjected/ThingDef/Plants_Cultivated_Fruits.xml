@@ -6,10 +6,15 @@
   <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
   <Plant_Agave.description>宽大叶子的沙漠植物，花和茎可以食用。</Plant_Agave.description>
   
-  <!-- EN: raspberry bush -->
+  <!-- EN: berry bush -->
   <Plant_Berry.label>野山莓</Plant_Berry.label>
-  <!-- EN: Raspberry bushes are plants that produce fragile, red, bumpy fruits called raspberries. -->
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
   <Plant_Berry.description>长有好吃的红色浆果的灌木。</Plant_Berry.description>
+  
+  <!-- EN: strawberry plant -->
+  <Plant_Strawberry.label>草莓</Plant_Strawberry.label>
+  <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
+  <Plant_Strawberry.description>一种脆弱，但是非常好吃的水果。就算生吃也很可口。</Plant_Strawberry.description>
   
   <!-- EN: Apple Tree -->
   <Plant_TreeApple.label>苹果树</Plant_TreeApple.label>

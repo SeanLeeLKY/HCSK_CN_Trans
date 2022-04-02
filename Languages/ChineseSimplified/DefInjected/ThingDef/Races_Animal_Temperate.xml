@@ -28,9 +28,6 @@
   <!-- EN: antlers -->
   <Deer.tools.antlers.label>角</Deer.tools.antlers.label>
   
-  <!-- UNUSED -->
-  <Deer.tools.teeth.label>牙齿</Deer.tools.teeth.label>
-  
   <!-- EN: elk -->
   <Elk.label>驼鹿</Elk.label>
   <!-- EN: A moose or elk is a larger member of the deer family. It is well-adapted to life in cold climates. -->
@@ -63,9 +60,6 @@
   <Tortoise.description>这种身披重甲的陆生爬行动物以其缓慢的移动速度和令人惊讶的恶毒撕咬而闻名。由于其天然的护甲，它很难被杀死，在长时间的肉搏战斗中可以造成严重的伤害。</Tortoise.description>
   <!-- EN: head -->
   <Tortoise.tools.head.label>头</Tortoise.tools.head.label>
-  
-  <!-- UNUSED -->
-  <Tortoise.tools.beak.label>喙</Tortoise.tools.beak.label>
   
   <!-- EN: wild boar -->
   <WildBoar.label>野猪</WildBoar.label>

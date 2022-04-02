@@ -5,16 +5,19 @@
   <Ammo_45ACP_AP.label>.45 自动手枪弹（穿甲弹）</Ammo_45ACP_AP.label>
   <!-- EN: Pistol cartridge favoured for its above average stopping power. -->
   <Ammo_45ACP_AP.description>一种停止力优于平均水平的手枪子弹。</Ammo_45ACP_AP.description>
+  <Ammo_45ACP_AP.oldDescription>一种停止力优于平均水平的手枪子弹。</Ammo_45ACP_AP.oldDescription>
   
   <!-- EN: .45 ACP cartridge (FMJ) -->
   <Ammo_45ACP_FMJ.label>.45 自动手枪弹（全金属被甲弹）</Ammo_45ACP_FMJ.label>
   <!-- EN: Pistol cartridge favoured for its above average stopping power. -->
   <Ammo_45ACP_FMJ.description>一种停止力优于平均水平的手枪子弹。</Ammo_45ACP_FMJ.description>
+  <Ammo_45ACP_FMJ.oldDescription>一种停止力优于平均水平的手枪子弹。</Ammo_45ACP_FMJ.oldDescription>
   
   <!-- EN: .45 ACP cartridge (HP) -->
   <Ammo_45ACP_HP.label>.45 自动手枪弹（空尖弹）</Ammo_45ACP_HP.label>
   <!-- EN: Pistol cartridge favoured for its above average stopping power. -->
   <Ammo_45ACP_HP.description>一种停止力优于平均水平的手枪子弹。</Ammo_45ACP_HP.description>
+  <Ammo_45ACP_HP.oldDescription>一种停止力优于平均水平的手枪子弹。</Ammo_45ACP_HP.oldDescription>
   
   <!-- EN: .45 ACP bullet (AP) -->
   <Bullet_45ACP_AP.label>.45 自动手枪弹（穿甲弹）</Bullet_45ACP_AP.label>

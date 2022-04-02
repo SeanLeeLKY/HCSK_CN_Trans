@@ -6,1492 +6,1492 @@
 
   <!-- Recipe Users: TablePrimitiveProsthetic, TableBasicProsthetic -->
 
-  <Make_EyePatch.label>制造 眼罩</Make_EyePatch.label>
+  <Make_EyePatch.label>制作眼罩</Make_EyePatch.label>
   <Make_EyePatch.description>使用织物缝制眼罩。 \n\n产出：1。</Make_EyePatch.description>
-  <Make_EyePatch.jobString>正在制造 眼罩。</Make_EyePatch.jobString>
+  <Make_EyePatch.jobString>正在制作眼罩。</Make_EyePatch.jobString>
 
-  <Make_HookHand.label>制造 钩手</Make_HookHand.label>
-  <Make_HookHand.description>制造 钩手。 海盗风格！ \n\n产出：1。</Make_HookHand.description>
-  <Make_HookHand.jobString>正在制造 钩手。</Make_HookHand.jobString>
+  <Make_HookHand.label>制作钩手</Make_HookHand.label>
+  <Make_HookHand.description>制作钩手。 海盗风格！ \n\n产出：1。</Make_HookHand.description>
+  <Make_HookHand.jobString>正在制作钩手。</Make_HookHand.jobString>
 
-  <Make_Denture.label>制造 义齿</Make_Denture.label>
-  <Make_Denture.description>制造 义齿。 \n\n产出：1。</Make_Denture.description>
-  <Make_Denture.jobString>正在制造 义齿。</Make_Denture.jobString>
+  <Make_Denture.label>制作义齿</Make_Denture.label>
+  <Make_Denture.description>制作义齿。 \n\n产出：1。</Make_Denture.description>
+  <Make_Denture.jobString>正在制作义齿。</Make_Denture.jobString>
 
-  <Make_CochlearImplant.label>制造 人工耳蜗</Make_CochlearImplant.label>
-  <Make_CochlearImplant.description>制造 人工耳蜗。</Make_CochlearImplant.description>
-  <Make_CochlearImplant.jobString>正在制造 人工耳蜗。</Make_CochlearImplant.jobString>
+  <Make_CochlearImplant.label>制作人工耳蜗</Make_CochlearImplant.label>
+  <Make_CochlearImplant.description>制作人工耳蜗。</Make_CochlearImplant.description>
+  <Make_CochlearImplant.jobString>正在制作人工耳蜗。</Make_CochlearImplant.jobString>
 
-  <Make_SimpleProstheticHeart.label>制造 人工心脏</Make_SimpleProstheticHeart.label>
-  <Make_SimpleProstheticHeart.description>制造 人工心脏。</Make_SimpleProstheticHeart.description>
-  <Make_SimpleProstheticHeart.jobString>正在制造 人工心脏。</Make_SimpleProstheticHeart.jobString>
+  <Make_SimpleProstheticHeart.label>制作人工心脏</Make_SimpleProstheticHeart.label>
+  <Make_SimpleProstheticHeart.description>制作人工心脏。</Make_SimpleProstheticHeart.description>
+  <Make_SimpleProstheticHeart.jobString>正在制作人工心脏。</Make_SimpleProstheticHeart.jobString>
 
 
   <!-- Recipe Users: TableBionics -->
 
-  <Make_BionicHand.label>制造 仿生手</Make_BionicHand.label>
-  <Make_BionicHand.description>制造 仿生手。</Make_BionicHand.description>
-  <Make_BionicHand.jobString>正在制造 仿生手。</Make_BionicHand.jobString>
+  <Make_BionicHand.label>制作仿生手</Make_BionicHand.label>
+  <Make_BionicHand.description>制作仿生手。</Make_BionicHand.description>
+  <Make_BionicHand.jobString>正在制作仿生手。</Make_BionicHand.jobString>
 
-  <Make_BionicFoot.label>制造 仿生足</Make_BionicFoot.label>
-  <Make_BionicFoot.description>制造 仿生足。</Make_BionicFoot.description>
-  <Make_BionicFoot.jobString>正在制造 仿生足。</Make_BionicFoot.jobString>
+  <Make_BionicFoot.label>制作仿生足</Make_BionicFoot.label>
+  <Make_BionicFoot.description>制作仿生足。</Make_BionicFoot.description>
+  <Make_BionicFoot.jobString>正在制作仿生足。</Make_BionicFoot.jobString>
 
-  <Make_BionicEar.label>制造 仿生耳</Make_BionicEar.label>
-  <Make_BionicEar.description>制造 仿生耳。</Make_BionicEar.description>
-  <Make_BionicEar.jobString>正在制造 仿生耳。</Make_BionicEar.jobString>
+  <Make_BionicEar.label>制作仿生耳</Make_BionicEar.label>
+  <Make_BionicEar.description>制作仿生耳。</Make_BionicEar.description>
+  <Make_BionicEar.jobString>正在制作仿生耳。</Make_BionicEar.jobString>
 
-  <Make_BionicJaw.label>制造 仿生颌</Make_BionicJaw.label>
-  <Make_BionicJaw.description>制造 仿生颌。</Make_BionicJaw.description>
-  <Make_BionicJaw.jobString>正在制造 仿生颌。</Make_BionicJaw.jobString>
+  <Make_BionicJaw.label>制作仿生颌</Make_BionicJaw.label>
+  <Make_BionicJaw.description>制作仿生颌。</Make_BionicJaw.description>
+  <Make_BionicJaw.jobString>正在制作仿生颌。</Make_BionicJaw.jobString>
 
-  <Make_BionicSpine.label>制造 仿生脊椎</Make_BionicSpine.label>
-  <Make_BionicSpine.description>制造 仿生脊椎。</Make_BionicSpine.description>
-  <Make_BionicSpine.jobString>正在制造 仿生脊椎。</Make_BionicSpine.jobString>
+  <Make_BionicSpine.label>制作仿生脊椎</Make_BionicSpine.label>
+  <Make_BionicSpine.description>制作仿生脊椎。</Make_BionicSpine.description>
+  <Make_BionicSpine.jobString>正在制作仿生脊椎。</Make_BionicSpine.jobString>
 
-  <Make_BionicEye.label>制造 仿生眼</Make_BionicEye.label>
-  <Make_BionicEye.description>制造 仿生眼。</Make_BionicEye.description>
-  <Make_BionicEye.jobString>正在制造 仿生眼。</Make_BionicEye.jobString>
+  <Make_BionicEye.label>制作仿生眼</Make_BionicEye.label>
+  <Make_BionicEye.description>制作仿生眼。</Make_BionicEye.description>
+  <Make_BionicEye.jobString>正在制作仿生眼。</Make_BionicEye.jobString>
 
-  <Make_BionicArm.label>制造 仿生臂</Make_BionicArm.label>
-  <Make_BionicArm.description>制造 仿生臂。</Make_BionicArm.description>
-  <Make_BionicArm.jobString>正在制造 仿生臂。</Make_BionicArm.jobString>
+  <Make_BionicArm.label>制作仿生臂</Make_BionicArm.label>
+  <Make_BionicArm.description>制作仿生臂。</Make_BionicArm.description>
+  <Make_BionicArm.jobString>正在制作仿生臂。</Make_BionicArm.jobString>
 
-  <Make_BionicLeg.label>制造 仿生腿</Make_BionicLeg.label>
-  <Make_BionicLeg.description>制造 仿生腿。</Make_BionicLeg.description>
-  <Make_BionicLeg.jobString>正在制造 仿生腿。</Make_BionicLeg.jobString>
+  <Make_BionicLeg.label>制作仿生腿</Make_BionicLeg.label>
+  <Make_BionicLeg.description>制作仿生腿。</Make_BionicLeg.description>
+  <Make_BionicLeg.jobString>正在制作仿生腿。</Make_BionicLeg.jobString>
 
-  <Make_PowerClaw.label>制造 动力爪</Make_PowerClaw.label>
-  <Make_PowerClaw.description>制造 动力爪。</Make_PowerClaw.description>
-  <Make_PowerClaw.jobString>正在制造 动力爪。</Make_PowerClaw.jobString>
+  <Make_PowerClaw.label>制作动力爪</Make_PowerClaw.label>
+  <Make_PowerClaw.description>制作动力爪。</Make_PowerClaw.description>
+  <Make_PowerClaw.jobString>正在制作动力爪。</Make_PowerClaw.jobString>
 
 
   <!-- Recipe Users: TableBionics, TableElectronics -->
 
-  <Make_BrainStimulator.label>制造 脑激励器</Make_BrainStimulator.label>
-  <Make_BrainStimulator.description>制造 脑激励器。</Make_BrainStimulator.description>
-  <Make_BrainStimulator.jobString>正在制造 脑激励器。</Make_BrainStimulator.jobString>
+  <Make_BrainStimulator.label>制作脑激励器</Make_BrainStimulator.label>
+  <Make_BrainStimulator.description>制作脑激励器。</Make_BrainStimulator.description>
+  <Make_BrainStimulator.jobString>正在制作脑激励器。</Make_BrainStimulator.jobString>
 
-  <Make_AIChip.label>制造 AI芯片</Make_AIChip.label>
-  <Make_AIChip.description>制造 AI芯片。</Make_AIChip.description>
-  <Make_AIChip.jobString>正在制造 AI芯片。</Make_AIChip.jobString>
+  <Make_AIChip.label>制作AI芯片</Make_AIChip.label>
+  <Make_AIChip.description>制作AI芯片。</Make_AIChip.description>
+  <Make_AIChip.jobString>正在制作AI芯片。</Make_AIChip.jobString>
 
 
   <!-- Recipe Users: TableSynthetics -->
 
-  <Make_MedicalRib.label>制造 医疗肋骨</Make_MedicalRib.label>
-  <Make_MedicalRib.description>制造 医疗肋骨。</Make_MedicalRib.description>
-  <Make_MedicalRib.jobString>正在制造 医疗肋骨。</Make_MedicalRib.jobString>
+  <Make_MedicalRib.label>制作医疗肋骨</Make_MedicalRib.label>
+  <Make_MedicalRib.description>制作医疗肋骨。</Make_MedicalRib.description>
+  <Make_MedicalRib.jobString>正在制作医疗肋骨。</Make_MedicalRib.jobString>
 
-  <Make_DruggedRib.label>制造 迷幻肋骨</Make_DruggedRib.label>
-  <Make_DruggedRib.description>制造 迷幻肋骨。</Make_DruggedRib.description>
-  <Make_DruggedRib.jobString>正在制造 迷幻肋骨。</Make_DruggedRib.jobString>
+  <Make_DruggedRib.label>制作迷幻肋骨</Make_DruggedRib.label>
+  <Make_DruggedRib.description>制作迷幻肋骨。</Make_DruggedRib.description>
+  <Make_DruggedRib.jobString>正在制作迷幻肋骨。</Make_DruggedRib.jobString>
 
-  <Make_AdrenalineRib.label>制造 肾上腺素肋骨</Make_AdrenalineRib.label>
-  <Make_AdrenalineRib.description>制造 肾上腺素肋骨。</Make_AdrenalineRib.description>
-  <Make_AdrenalineRib.jobString>正在制造 肾上腺素肋骨。</Make_AdrenalineRib.jobString>
+  <Make_AdrenalineRib.label>制作肾上腺素肋骨</Make_AdrenalineRib.label>
+  <Make_AdrenalineRib.description>制作肾上腺素肋骨。</Make_AdrenalineRib.description>
+  <Make_AdrenalineRib.jobString>正在制作肾上腺素肋骨。</Make_AdrenalineRib.jobString>
 
-  <Make_PainkillerRib.label>制造 止痛肋骨</Make_PainkillerRib.label>
-  <Make_PainkillerRib.description>制造 止痛肋骨。</Make_PainkillerRib.description>
-  <Make_PainkillerRib.jobString>正在制造 止痛肋骨。</Make_PainkillerRib.jobString>
+  <Make_PainkillerRib.label>制作止痛肋骨</Make_PainkillerRib.label>
+  <Make_PainkillerRib.description>制作止痛肋骨。</Make_PainkillerRib.description>
+  <Make_PainkillerRib.jobString>正在制作止痛肋骨。</Make_PainkillerRib.jobString>
 
-  <Make_HeaterRib.label>制造 加热肋骨</Make_HeaterRib.label>
-  <Make_HeaterRib.description>制造 加热肋骨。</Make_HeaterRib.description>
-  <Make_HeaterRib.jobString>正在制造 加热肋骨。</Make_HeaterRib.jobString>
+  <Make_HeaterRib.label>制作加热肋骨</Make_HeaterRib.label>
+  <Make_HeaterRib.description>制作加热肋骨。</Make_HeaterRib.description>
+  <Make_HeaterRib.jobString>正在制作加热肋骨。</Make_HeaterRib.jobString>
 
-  <Make_CoolerRib.label>制造 冷却肋骨</Make_CoolerRib.label>
-  <Make_CoolerRib.description>制造 冷却肋骨。</Make_CoolerRib.description>
-  <Make_CoolerRib.jobString>正在制造 冷却肋骨。</Make_CoolerRib.jobString>
+  <Make_CoolerRib.label>制作冷却肋骨</Make_CoolerRib.label>
+  <Make_CoolerRib.description>制作冷却肋骨。</Make_CoolerRib.description>
+  <Make_CoolerRib.jobString>正在制作冷却肋骨。</Make_CoolerRib.jobString>
 
-  <Make_CoagulatorRib.label>制造 凝血肋骨</Make_CoagulatorRib.label>
-  <Make_CoagulatorRib.description>制造 凝血肋骨。</Make_CoagulatorRib.description>
-  <Make_CoagulatorRib.jobString>正在制造 凝血肋骨。</Make_CoagulatorRib.jobString>
+  <Make_CoagulatorRib.label>制作凝血肋骨</Make_CoagulatorRib.label>
+  <Make_CoagulatorRib.description>制作凝血肋骨。</Make_CoagulatorRib.description>
+  <Make_CoagulatorRib.jobString>正在制作凝血肋骨。</Make_CoagulatorRib.jobString>
 
-  <Make_ArtificialBone.label>制造 人造骨头</Make_ArtificialBone.label>
-  <Make_ArtificialBone.description>制造 人造骨头。</Make_ArtificialBone.description>
-  <Make_ArtificialBone.jobString>正在制造 人造骨头。</Make_ArtificialBone.jobString>
-
-
-  <!-- Recipe Users: UpgradingStation -->
-
-  <Make_GTEar.label>制造 神经机械仿生耳</Make_GTEar.label>
-  <Make_GTEar.description>制造 神经机械仿生耳。</Make_GTEar.description>
-  <Make_GTEar.jobString>正在制造 神经机械仿生耳。</Make_GTEar.jobString>
-
-  <Make_ArchotechEye.label>制造 神经机械仿生眼</Make_ArchotechEye.label>
-  <Make_ArchotechEye.description>制造 神经机械仿生眼。</Make_ArchotechEye.description>
-  <Make_ArchotechEye.jobString>正在制造 神经机械仿生眼。</Make_ArchotechEye.jobString>
-
-  <Make_ArchotechArm.label>制造 神经机械仿生臂</Make_ArchotechArm.label>
-  <Make_ArchotechArm.description>制造 神经机械仿生臂。</Make_ArchotechArm.description>
-  <Make_ArchotechArm.jobString>正在制造 神经机械仿生臂。</Make_ArchotechArm.jobString>
-
-  <Make_ArchotechLeg.label>制造 神经机械仿生腿</Make_ArchotechLeg.label>
-  <Make_ArchotechLeg.description>制造 神经机械仿生腿。</Make_ArchotechLeg.description>
-  <Make_ArchotechLeg.jobString>正在制造 神经机械仿生腿。</Make_ArchotechLeg.jobString>
-
-  <Make_GTHeart.label>制造 神经机械心</Make_GTHeart.label>
-  <Make_GTHeart.description>制造 神经机械心。</Make_GTHeart.description>
-  <Make_GTHeart.jobString>正在制造 神经机械心。</Make_GTHeart.jobString>
-
-  <Make_GTLung.label>制造 神经机械肺</Make_GTLung.label>
-  <Make_GTLung.description>制造 神经机械肺。</Make_GTLung.description>
-  <Make_GTLung.jobString>正在制造 神经机械肺。</Make_GTLung.jobString>
-
-  <Make_GTKidney.label>制造 神经机械肾</Make_GTKidney.label>
-  <Make_GTKidney.description>制造 神经机械肾。</Make_GTKidney.description>
-  <Make_GTKidney.jobString>正在制造 神经机械肾。</Make_GTKidney.jobString>
-
-  <Make_GTLiver.label>制造 神经机械肝</Make_GTLiver.label>
-  <Make_GTLiver.description>制造 神经机械肝。</Make_GTLiver.description>
-  <Make_GTLiver.jobString>正在制造 神经机械肝。</Make_GTLiver.jobString>
-
-  <Make_GTstomach.label>制造 神经机械胃</Make_GTstomach.label>
-  <Make_GTstomach.description>制造 神经机械胃。</Make_GTstomach.description>
-  <Make_GTstomach.jobString>正在制造 神经机械胃。</Make_GTstomach.jobString>
-
-  <Make_GTHand.label>制造 神经机械仿生手</Make_GTHand.label>
-  <Make_GTHand.description>制造 神经机械仿生手。</Make_GTHand.description>
-  <Make_GTHand.jobString>正在制造 神经机械仿生手。</Make_GTHand.jobString>
-
-  <Make_GTFoot.label>制造 神经机械仿生足</Make_GTFoot.label>
-  <Make_GTFoot.description>制造 神经机械仿生足。</Make_GTFoot.description>
-  <Make_GTFoot.jobString>正在制造 神经机械仿生足。</Make_GTFoot.jobString>
-
-  <Make_GTDentures.label>制造 神经机械颌</Make_GTDentures.label>
-  <Make_GTDentures.description>制造 神经机械颌。</Make_GTDentures.description>
-  <Make_GTDentures.jobString>正在制造 神经机械颌。</Make_GTDentures.jobString>
-
-  <Make_GTSpine.label>制造 神经机械仿生脊椎</Make_GTSpine.label>
-  <Make_GTSpine.description>制造 神经机械仿生脊椎。</Make_GTSpine.description>
-  <Make_GTSpine.jobString>正在制造 神经机械仿生脊椎。</Make_GTSpine.jobString>
-
-
-  <!-- Recipe Users: TableBionics -->
-
-  <Make_ExoskeletonSuit.label>制造 外骨骼</Make_ExoskeletonSuit.label>
-  <Make_ExoskeletonSuit.description>制造 外骨骼。</Make_ExoskeletonSuit.description>
-  <Make_ExoskeletonSuit.jobString>正在制造 外骨骼。</Make_ExoskeletonSuit.jobString>
+  <Make_ArtificialBone.label>制作人造骨头</Make_ArtificialBone.label>
+  <Make_ArtificialBone.description>制作人造骨头。</Make_ArtificialBone.description>
+  <Make_ArtificialBone.jobString>正在制作人造骨头。</Make_ArtificialBone.jobString>
 
 
   <!-- Recipe Users: UpgradingStation -->
 
-  <Make_ProtectiveExoskeleton.label>制造 防护性外骨骼</Make_ProtectiveExoskeleton.label>
-  <Make_ProtectiveExoskeleton.description>制造 防护性外骨骼。</Make_ProtectiveExoskeleton.description>
-  <Make_ProtectiveExoskeleton.jobString>正在制造 防护性外骨骼。</Make_ProtectiveExoskeleton.jobString>
+  <Make_GTEar.label>制作神经机械仿生耳</Make_GTEar.label>
+  <Make_GTEar.description>制作神经机械仿生耳。</Make_GTEar.description>
+  <Make_GTEar.jobString>正在制作神经机械仿生耳。</Make_GTEar.jobString>
+
+  <Make_ArchotechEye.label>制作神经机械仿生眼</Make_ArchotechEye.label>
+  <Make_ArchotechEye.description>制作神经机械仿生眼。</Make_ArchotechEye.description>
+  <Make_ArchotechEye.jobString>正在制作神经机械仿生眼。</Make_ArchotechEye.jobString>
+
+  <Make_ArchotechArm.label>制作神经机械仿生臂</Make_ArchotechArm.label>
+  <Make_ArchotechArm.description>制作神经机械仿生臂。</Make_ArchotechArm.description>
+  <Make_ArchotechArm.jobString>正在制作神经机械仿生臂。</Make_ArchotechArm.jobString>
+
+  <Make_ArchotechLeg.label>制作神经机械仿生腿</Make_ArchotechLeg.label>
+  <Make_ArchotechLeg.description>制作神经机械仿生腿。</Make_ArchotechLeg.description>
+  <Make_ArchotechLeg.jobString>正在制作神经机械仿生腿。</Make_ArchotechLeg.jobString>
+
+  <Make_GTHeart.label>制作神经机械心</Make_GTHeart.label>
+  <Make_GTHeart.description>制作神经机械心。</Make_GTHeart.description>
+  <Make_GTHeart.jobString>正在制作神经机械心。</Make_GTHeart.jobString>
+
+  <Make_GTLung.label>制作神经机械肺</Make_GTLung.label>
+  <Make_GTLung.description>制作神经机械肺。</Make_GTLung.description>
+  <Make_GTLung.jobString>正在制作神经机械肺。</Make_GTLung.jobString>
+
+  <Make_GTKidney.label>制作神经机械肾</Make_GTKidney.label>
+  <Make_GTKidney.description>制作神经机械肾。</Make_GTKidney.description>
+  <Make_GTKidney.jobString>正在制作神经机械肾。</Make_GTKidney.jobString>
+
+  <Make_GTLiver.label>制作神经机械肝</Make_GTLiver.label>
+  <Make_GTLiver.description>制作神经机械肝。</Make_GTLiver.description>
+  <Make_GTLiver.jobString>正在制作神经机械肝。</Make_GTLiver.jobString>
+
+  <Make_GTstomach.label>制作神经机械胃</Make_GTstomach.label>
+  <Make_GTstomach.description>制作神经机械胃。</Make_GTstomach.description>
+  <Make_GTstomach.jobString>正在制作神经机械胃。</Make_GTstomach.jobString>
+
+  <Make_GTHand.label>制作神经机械仿生手</Make_GTHand.label>
+  <Make_GTHand.description>制作神经机械仿生手。</Make_GTHand.description>
+  <Make_GTHand.jobString>正在制作神经机械仿生手。</Make_GTHand.jobString>
+
+  <Make_GTFoot.label>制作神经机械仿生足</Make_GTFoot.label>
+  <Make_GTFoot.description>制作神经机械仿生足。</Make_GTFoot.description>
+  <Make_GTFoot.jobString>正在制作神经机械仿生足。</Make_GTFoot.jobString>
+
+  <Make_GTDentures.label>制作神经机械颌</Make_GTDentures.label>
+  <Make_GTDentures.description>制作神经机械颌。</Make_GTDentures.description>
+  <Make_GTDentures.jobString>正在制作神经机械颌。</Make_GTDentures.jobString>
+
+  <Make_GTSpine.label>制作神经机械仿生脊椎</Make_GTSpine.label>
+  <Make_GTSpine.description>制作神经机械仿生脊椎。</Make_GTSpine.description>
+  <Make_GTSpine.jobString>正在制作神经机械仿生脊椎。</Make_GTSpine.jobString>
 
 
   <!-- Recipe Users: TableBionics -->
 
-  <Make_TacticalCorneaImplant.label>制造 战术角膜植入物</Make_TacticalCorneaImplant.label>
-  <Make_TacticalCorneaImplant.description>制造 战术角膜植入物。</Make_TacticalCorneaImplant.description>
-  <Make_TacticalCorneaImplant.jobString>正在制造 战术角膜植入物。</Make_TacticalCorneaImplant.jobString>
+  <Make_ExoskeletonSuit.label>制作外骨骼</Make_ExoskeletonSuit.label>
+  <Make_ExoskeletonSuit.description>制作外骨骼。</Make_ExoskeletonSuit.description>
+  <Make_ExoskeletonSuit.jobString>正在制作外骨骼。</Make_ExoskeletonSuit.jobString>
 
-  <Make_ConstructorCore.label>制造 辅助AI（建造）</Make_ConstructorCore.label>
-  <Make_ConstructorCore.description>制造 辅助AI（建造）。</Make_ConstructorCore.description>
-  <Make_ConstructorCore.jobString>正在制造 辅助AI（建造）。</Make_ConstructorCore.jobString>
 
-  <Make_FarmerCore.label>制造 辅助AI（种植）</Make_FarmerCore.label>
-  <Make_FarmerCore.description>制造 辅助AI（种植）。</Make_FarmerCore.description>
-  <Make_FarmerCore.jobString>正在制造 辅助AI（种植）。</Make_FarmerCore.jobString>
+  <!-- Recipe Users: UpgradingStation -->
 
-  <Make_MinerCore.label>制造 辅助AI（采矿）</Make_MinerCore.label>
-  <Make_MinerCore.description>制造 辅助AI（采矿）。</Make_MinerCore.description>
-  <Make_MinerCore.jobString>正在制造 辅助AI（采矿）。</Make_MinerCore.jobString>
+  <Make_ProtectiveExoskeleton.label>制作防护性外骨骼</Make_ProtectiveExoskeleton.label>
+  <Make_ProtectiveExoskeleton.description>制作防护性外骨骼。</Make_ProtectiveExoskeleton.description>
+  <Make_ProtectiveExoskeleton.jobString>正在制作防护性外骨骼。</Make_ProtectiveExoskeleton.jobString>
 
-  <Make_DoctorCore.label>制造 辅助AI（医疗）</Make_DoctorCore.label>
-  <Make_DoctorCore.description>制造 辅助AI（医疗）。</Make_DoctorCore.description>
-  <Make_DoctorCore.jobString>正在制造 辅助AI（医疗）。</Make_DoctorCore.jobString>
 
-  <Make_DiplomatCore.label>制造 辅助AI（社交）</Make_DiplomatCore.label>
-  <Make_DiplomatCore.description>制造 辅助AI（社交）。</Make_DiplomatCore.description>
-  <Make_DiplomatCore.jobString>正在制造 辅助AI（社交）。</Make_DiplomatCore.jobString>
+  <!-- Recipe Users: TableBionics -->
 
-  <Make_AuxiliaryAI_Sharpshooter.label>制造 辅助AI（射击）</Make_AuxiliaryAI_Sharpshooter.label>
-  <Make_AuxiliaryAI_Sharpshooter.description>制造 辅助AI（射击）。</Make_AuxiliaryAI_Sharpshooter.description>
-  <Make_AuxiliaryAI_Sharpshooter.jobString>正在制造 辅助AI（射击）。</Make_AuxiliaryAI_Sharpshooter.jobString>
+  <Make_TacticalCorneaImplant.label>制作战术角膜植入物</Make_TacticalCorneaImplant.label>
+  <Make_TacticalCorneaImplant.description>制作战术角膜植入物。</Make_TacticalCorneaImplant.description>
+  <Make_TacticalCorneaImplant.jobString>正在制作战术角膜植入物。</Make_TacticalCorneaImplant.jobString>
 
-  <Make_AuxiliaryAI_Commando.label>制造 辅助AI（作战）</Make_AuxiliaryAI_Commando.label>
-  <Make_AuxiliaryAI_Commando.description>制造 辅助AI（作战）。</Make_AuxiliaryAI_Commando.description>
-  <Make_AuxiliaryAI_Commando.jobString>正在制造 辅助AI（作战）。</Make_AuxiliaryAI_Commando.jobString>
+  <Make_ConstructorCore.label>制作辅助AI（建造）</Make_ConstructorCore.label>
+  <Make_ConstructorCore.description>制作辅助AI（建造）。</Make_ConstructorCore.description>
+  <Make_ConstructorCore.jobString>正在制作辅助AI（建造）。</Make_ConstructorCore.jobString>
 
-  <Make_AuxiliaryAI_Brawler.label>制造 辅助AI（格斗）</Make_AuxiliaryAI_Brawler.label>
-  <Make_AuxiliaryAI_Brawler.description>制造 辅助AI（格斗）。</Make_AuxiliaryAI_Brawler.description>
-  <Make_AuxiliaryAI_Brawler.jobString>正在制造 辅助AI（格斗）。</Make_AuxiliaryAI_Brawler.jobString>
+  <Make_FarmerCore.label>制作辅助AI（种植）</Make_FarmerCore.label>
+  <Make_FarmerCore.description>制作辅助AI（种植）。</Make_FarmerCore.description>
+  <Make_FarmerCore.jobString>正在制作辅助AI（种植）。</Make_FarmerCore.jobString>
+
+  <Make_MinerCore.label>制作辅助AI（采矿）</Make_MinerCore.label>
+  <Make_MinerCore.description>制作辅助AI（采矿）。</Make_MinerCore.description>
+  <Make_MinerCore.jobString>正在制作辅助AI（采矿）。</Make_MinerCore.jobString>
+
+  <Make_DoctorCore.label>制作辅助AI（医疗）</Make_DoctorCore.label>
+  <Make_DoctorCore.description>制作辅助AI（医疗）。</Make_DoctorCore.description>
+  <Make_DoctorCore.jobString>正在制作辅助AI（医疗）。</Make_DoctorCore.jobString>
+
+  <Make_DiplomatCore.label>制作辅助AI（社交）</Make_DiplomatCore.label>
+  <Make_DiplomatCore.description>制作辅助AI（社交）。</Make_DiplomatCore.description>
+  <Make_DiplomatCore.jobString>正在制作辅助AI（社交）。</Make_DiplomatCore.jobString>
+
+  <Make_AuxiliaryAI_Sharpshooter.label>制作辅助AI（射击）</Make_AuxiliaryAI_Sharpshooter.label>
+  <Make_AuxiliaryAI_Sharpshooter.description>制作辅助AI（射击）。</Make_AuxiliaryAI_Sharpshooter.description>
+  <Make_AuxiliaryAI_Sharpshooter.jobString>正在制作辅助AI（射击）。</Make_AuxiliaryAI_Sharpshooter.jobString>
+
+  <Make_AuxiliaryAI_Commando.label>制作辅助AI（作战）</Make_AuxiliaryAI_Commando.label>
+  <Make_AuxiliaryAI_Commando.description>制作辅助AI（作战）。</Make_AuxiliaryAI_Commando.description>
+  <Make_AuxiliaryAI_Commando.jobString>正在制作辅助AI（作战）。</Make_AuxiliaryAI_Commando.jobString>
+
+  <Make_AuxiliaryAI_Brawler.label>制作辅助AI（格斗）</Make_AuxiliaryAI_Brawler.label>
+  <Make_AuxiliaryAI_Brawler.description>制作辅助AI（格斗）。</Make_AuxiliaryAI_Brawler.description>
+  <Make_AuxiliaryAI_Brawler.jobString>正在制作辅助AI（格斗）。</Make_AuxiliaryAI_Brawler.jobString>
 
 
   <!-- Recipe Users: TablePrimitiveProsthetic, meditable -->
 
-  <Make_lifesupport.label>制造 生命支持系统</Make_lifesupport.label>
-  <Make_lifesupport.description>制造 生命支持系统。</Make_lifesupport.description>
-  <Make_lifesupport.jobString>正在制造 生命支持系统。</Make_lifesupport.jobString>
+  <Make_lifesupport.label>制作生命支持系统</Make_lifesupport.label>
+  <Make_lifesupport.description>制作生命支持系统。</Make_lifesupport.description>
+  <Make_lifesupport.jobString>正在制作生命支持系统。</Make_lifesupport.jobString>
 
 
   <!-- Recipe Users: TablePrimitiveProsthetic, TableBasicProsthetic -->
 
-  <Make_ClothTail.label>制造 布尾巴</Make_ClothTail.label>
-  <Make_ClothTail.description>制造 布尾巴。</Make_ClothTail.description>
-  <Make_ClothTail.jobString>正在制造 布尾巴。</Make_ClothTail.jobString>
+  <Make_ClothTail.label>制作织物假尾</Make_ClothTail.label>
+  <Make_ClothTail.description>制作织物假尾。</Make_ClothTail.description>
+  <Make_ClothTail.jobString>正在制作织物假尾。</Make_ClothTail.jobString>
 
 
   <!-- Recipe Users: TableBionics -->
 
-  <Make_BionicTail.label>制造 仿生尾</Make_BionicTail.label>
-  <Make_BionicTail.description>制造 仿生尾。</Make_BionicTail.description>
-  <Make_BionicTail.jobString>正在制造 仿生尾。</Make_BionicTail.jobString>
+  <Make_BionicTail.label>制作仿生尾</Make_BionicTail.label>
+  <Make_BionicTail.description>制作仿生尾。</Make_BionicTail.description>
+  <Make_BionicTail.jobString>正在制作仿生尾。</Make_BionicTail.jobString>
 
-  <Make_PlasteelClaws.label>制造 高级爪</Make_PlasteelClaws.label>
-  <Make_PlasteelClaws.description>制造 高级爪。</Make_PlasteelClaws.description>
-  <Make_PlasteelClaws.jobString>正在制造 高级爪。</Make_PlasteelClaws.jobString>
+  <Make_PlasteelClaws.label>制作高级爪</Make_PlasteelClaws.label>
+  <Make_PlasteelClaws.description>制作高级爪。</Make_PlasteelClaws.description>
+  <Make_PlasteelClaws.jobString>正在制作高级爪。</Make_PlasteelClaws.jobString>
 
 
   <!-- Recipe Users: UpgradingStation -->
 
-  <Make_CyberneticTail.label>制造 神经机械尾</Make_CyberneticTail.label>
-  <Make_CyberneticTail.description>制造 神经机械尾。</Make_CyberneticTail.description>
-  <Make_CyberneticTail.jobString>正在制造 神经机械尾。</Make_CyberneticTail.jobString>
+  <Make_CyberneticTail.label>制作神经机械尾</Make_CyberneticTail.label>
+  <Make_CyberneticTail.description>制作神经机械尾。</Make_CyberneticTail.description>
+  <Make_CyberneticTail.jobString>正在制作神经机械尾。</Make_CyberneticTail.jobString>
 
 
   <!-- Recipe Users: TableSynthetics -->
 
-  <Make_OrganicOptimizingNanobots.label>制造 机体优化纳米机器人</Make_OrganicOptimizingNanobots.label>
-  <Make_OrganicOptimizingNanobots.description>制造 机体优化纳米机器人。</Make_OrganicOptimizingNanobots.description>
-  <Make_OrganicOptimizingNanobots.jobString>正在制造 机体优化纳米机器人。</Make_OrganicOptimizingNanobots.jobString>
+  <Make_OrganicOptimizingNanobots.label>制作机体优化纳米机器人</Make_OrganicOptimizingNanobots.label>
+  <Make_OrganicOptimizingNanobots.description>制作机体优化纳米机器人。</Make_OrganicOptimizingNanobots.description>
+  <Make_OrganicOptimizingNanobots.jobString>正在制作机体优化纳米机器人。</Make_OrganicOptimizingNanobots.jobString>
 
-  <Make_InstinctOptimizingNanobots.label>制造 超感优化纳米机器人</Make_InstinctOptimizingNanobots.label>
-  <Make_InstinctOptimizingNanobots.description>制造 超感优化纳米机器人。</Make_InstinctOptimizingNanobots.description>
-  <Make_InstinctOptimizingNanobots.jobString>正在制造 超感优化纳米机器人。</Make_InstinctOptimizingNanobots.jobString>
+  <Make_InstinctOptimizingNanobots.label>制作超感优化纳米机器人</Make_InstinctOptimizingNanobots.label>
+  <Make_InstinctOptimizingNanobots.description>制作超感优化纳米机器人。</Make_InstinctOptimizingNanobots.description>
+  <Make_InstinctOptimizingNanobots.jobString>正在制作超感优化纳米机器人。</Make_InstinctOptimizingNanobots.jobString>
 
 
   <!-- Recipe Users: TableSynthetics, TableSynthetics -->
 
-  <Make_SyntheticSkin.label>制造 合成皮肤</Make_SyntheticSkin.label>
-  <Make_SyntheticSkin.description>制造 合成皮肤。</Make_SyntheticSkin.description>
-  <Make_SyntheticSkin.jobString>正在制造 合成皮肤。</Make_SyntheticSkin.jobString>
+  <Make_SyntheticSkin.label>制作合成皮肤</Make_SyntheticSkin.label>
+  <Make_SyntheticSkin.description>制作合成皮肤。</Make_SyntheticSkin.description>
+  <Make_SyntheticSkin.jobString>正在制作合成皮肤。</Make_SyntheticSkin.jobString>
 
-  <Make_NeuromuscularFramework.label>制造 神经肌肉结构</Make_NeuromuscularFramework.label>
-  <Make_NeuromuscularFramework.description>制造 神经肌肉结构。</Make_NeuromuscularFramework.description>
-  <Make_NeuromuscularFramework.jobString>正在制造 神经肌肉结构。</Make_NeuromuscularFramework.jobString>
+  <Make_NeuromuscularFramework.label>制作神经肌肉结构</Make_NeuromuscularFramework.label>
+  <Make_NeuromuscularFramework.description>制作神经肌肉结构。</Make_NeuromuscularFramework.description>
+  <Make_NeuromuscularFramework.jobString>正在制作神经肌肉结构。</Make_NeuromuscularFramework.jobString>
 
-  <Make_NeurocureFramework.label>制造 神经治疗结构</Make_NeurocureFramework.label>
-  <Make_NeurocureFramework.description>制造 神经治疗结构。</Make_NeurocureFramework.description>
-  <Make_NeurocureFramework.jobString>正在制造 神经治疗结构。</Make_NeurocureFramework.jobString>
+  <Make_NeurocureFramework.label>制作神经治疗结构</Make_NeurocureFramework.label>
+  <Make_NeurocureFramework.description>制作神经治疗结构。</Make_NeurocureFramework.description>
+  <Make_NeurocureFramework.jobString>正在制作神经治疗结构。</Make_NeurocureFramework.jobString>
 
 
   <!-- Recipe Users: RobAssem -->
 
-  <Make_MAAI_Chip.label>制造 医疗助理芯片</Make_MAAI_Chip.label>
-  <Make_MAAI_Chip.description>制造 医疗助理芯片。</Make_MAAI_Chip.description>
-  <Make_MAAI_Chip.jobString>正在制造 医疗助理芯片。</Make_MAAI_Chip.jobString>
+  <Make_MAAI_Chip.label>制作医疗助理芯片</Make_MAAI_Chip.label>
+  <Make_MAAI_Chip.description>制作医疗助理芯片。</Make_MAAI_Chip.description>
+  <Make_MAAI_Chip.jobString>正在制作医疗助理芯片。</Make_MAAI_Chip.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy -->
 
-  <Make_ScytherBlade.label>制造 飞螳镰刃</Make_ScytherBlade.label>
-  <Make_ScytherBlade.description>制造 飞螳镰刃。</Make_ScytherBlade.description>
-  <Make_ScytherBlade.jobString>正在制造 飞螳镰刃。</Make_ScytherBlade.jobString>
+  <Make_ScytherBlade.label>制作飞螳镰刃</Make_ScytherBlade.label>
+  <Make_ScytherBlade.description>制作飞螳镰刃。</Make_ScytherBlade.description>
+  <Make_ScytherBlade.jobString>正在制作飞螳镰刃。</Make_ScytherBlade.jobString>
 
 
   <!-- Recipe Users: TableSynthetics -->
 
-  <Make_SenexiumImplant.label>制造 年龄加速器</Make_SenexiumImplant.label>
-  <Make_SenexiumImplant.description>制造 年龄加速器。</Make_SenexiumImplant.description>
-  <Make_SenexiumImplant.jobString>正在制造 年龄加速器。</Make_SenexiumImplant.jobString>
+  <Make_SenexiumImplant.label>制作年龄加速器</Make_SenexiumImplant.label>
+  <Make_SenexiumImplant.description>制作年龄加速器。</Make_SenexiumImplant.description>
+  <Make_SenexiumImplant.jobString>正在制作年龄加速器。</Make_SenexiumImplant.jobString>
 
 
   <!-- Recipe Users: TableBasicProsthetic -->
 
-  <Make_GlassEye.label>制造 玻璃眼</Make_GlassEye.label>
-  <Make_GlassEye.description>制造 玻璃眼。</Make_GlassEye.description>
-  <Make_GlassEye.jobString>正在制造 玻璃眼。</Make_GlassEye.jobString>
+  <Make_GlassEye.label>制作玻璃眼</Make_GlassEye.label>
+  <Make_GlassEye.description>制作玻璃眼。</Make_GlassEye.description>
+  <Make_GlassEye.jobString>正在制作玻璃眼。</Make_GlassEye.jobString>
 
-  <Make_ArtificialNose.label>制造 人造鼻</Make_ArtificialNose.label>
-  <Make_ArtificialNose.description>制造 人造鼻。</Make_ArtificialNose.description>
-  <Make_ArtificialNose.jobString>正在制造 人造鼻。</Make_ArtificialNose.jobString>
+  <Make_ArtificialNose.label>制作人造鼻</Make_ArtificialNose.label>
+  <Make_ArtificialNose.description>制作人造鼻。</Make_ArtificialNose.description>
+  <Make_ArtificialNose.jobString>正在制作人造鼻。</Make_ArtificialNose.jobString>
 
-  <Make_SimpleProstheticHand.label>制造 简易的假手</Make_SimpleProstheticHand.label>
-  <Make_SimpleProstheticHand.description>制造 简易的假手。</Make_SimpleProstheticHand.description>
-  <Make_SimpleProstheticHand.jobString>正在制造 简易的假手。</Make_SimpleProstheticHand.jobString>
+  <Make_SimpleProstheticHand.label>制作简易的假手</Make_SimpleProstheticHand.label>
+  <Make_SimpleProstheticHand.description>制作简易的假手。</Make_SimpleProstheticHand.description>
+  <Make_SimpleProstheticHand.jobString>正在制作简易的假手。</Make_SimpleProstheticHand.jobString>
 
-  <Make_SimpleProstheticFoot.label>制造 简易的假足</Make_SimpleProstheticFoot.label>
-  <Make_SimpleProstheticFoot.description>制造 简易的假足。</Make_SimpleProstheticFoot.description>
-  <Make_SimpleProstheticFoot.jobString>正在制造 简易的假足。</Make_SimpleProstheticFoot.jobString>
+  <Make_SimpleProstheticFoot.label>制作简易的假足</Make_SimpleProstheticFoot.label>
+  <Make_SimpleProstheticFoot.description>制作简易的假足。</Make_SimpleProstheticFoot.description>
+  <Make_SimpleProstheticFoot.jobString>正在制作简易的假足。</Make_SimpleProstheticFoot.jobString>
 
-  <Make_SimpleProstheticLeg.label>制造 简易的假腿</Make_SimpleProstheticLeg.label>
-  <Make_SimpleProstheticLeg.description>制造 简易的假腿。</Make_SimpleProstheticLeg.description>
-  <Make_SimpleProstheticLeg.jobString>正在制造 简易的假腿。</Make_SimpleProstheticLeg.jobString>
+  <Make_SimpleProstheticLeg.label>制作简易的假腿</Make_SimpleProstheticLeg.label>
+  <Make_SimpleProstheticLeg.description>制作简易的假腿。</Make_SimpleProstheticLeg.description>
+  <Make_SimpleProstheticLeg.jobString>正在制作简易的假腿。</Make_SimpleProstheticLeg.jobString>
 
-  <Make_SimpleProstheticArm.label>制造 简易的假臂</Make_SimpleProstheticArm.label>
-  <Make_SimpleProstheticArm.description>制造 简易的假臂。</Make_SimpleProstheticArm.description>
-  <Make_SimpleProstheticArm.jobString>正在制造 简易的假臂。</Make_SimpleProstheticArm.jobString>
+  <Make_SimpleProstheticArm.label>制作简易的假臂</Make_SimpleProstheticArm.label>
+  <Make_SimpleProstheticArm.description>制作简易的假臂。</Make_SimpleProstheticArm.description>
+  <Make_SimpleProstheticArm.jobString>正在制作简易的假臂。</Make_SimpleProstheticArm.jobString>
 
-  <Make_ArtificialPelvis.label>制造 人造骨盆</Make_ArtificialPelvis.label>
-  <Make_ArtificialPelvis.description>制造 人造骨盆。</Make_ArtificialPelvis.description>
-  <Make_ArtificialPelvis.jobString>正在制造 人造骨盆。</Make_ArtificialPelvis.jobString>
+  <Make_ArtificialPelvis.label>制作人造骨盆</Make_ArtificialPelvis.label>
+  <Make_ArtificialPelvis.description>制作人造骨盆。</Make_ArtificialPelvis.description>
+  <Make_ArtificialPelvis.jobString>正在制作人造骨盆。</Make_ArtificialPelvis.jobString>
 
 
   <!-- Recipe Users: TableSynthetics -->
 
-  <Make_BionicLung.label>制造 合成肺</Make_BionicLung.label>
-  <Make_BionicLung.description>制造 合成肺。</Make_BionicLung.description>
-  <Make_BionicLung.jobString>正在制造 合成肺。</Make_BionicLung.jobString>
+  <Make_BionicLung.label>制作合成肺</Make_BionicLung.label>
+  <Make_BionicLung.description>制作合成肺。</Make_BionicLung.description>
+  <Make_BionicLung.jobString>正在制作合成肺。</Make_BionicLung.jobString>
 
-  <Make_BionicStomach.label>制造 合成胃</Make_BionicStomach.label>
-  <Make_BionicStomach.description>制造 合成胃。</Make_BionicStomach.description>
-  <Make_BionicStomach.jobString>正在制造 合成胃。</Make_BionicStomach.jobString>
+  <Make_BionicStomach.label>制作合成胃</Make_BionicStomach.label>
+  <Make_BionicStomach.description>制作合成胃。</Make_BionicStomach.description>
+  <Make_BionicStomach.jobString>正在制作合成胃。</Make_BionicStomach.jobString>
 
-  <Make_BionicLiver.label>制造 合成肝</Make_BionicLiver.label>
-  <Make_BionicLiver.description>制造 合成肝。</Make_BionicLiver.description>
-  <Make_BionicLiver.jobString>正在制造 合成肝。</Make_BionicLiver.jobString>
+  <Make_BionicLiver.label>制作合成肝</Make_BionicLiver.label>
+  <Make_BionicLiver.description>制作合成肝。</Make_BionicLiver.description>
+  <Make_BionicLiver.jobString>正在制作合成肝。</Make_BionicLiver.jobString>
 
-  <Make_BionicKidney.label>制造 合成肾</Make_BionicKidney.label>
-  <Make_BionicKidney.description>制造 合成肾。</Make_BionicKidney.description>
-  <Make_BionicKidney.jobString>正在制造 合成肾。</Make_BionicKidney.jobString>
+  <Make_BionicKidney.label>制作合成肾</Make_BionicKidney.label>
+  <Make_BionicKidney.description>制作合成肾。</Make_BionicKidney.description>
+  <Make_BionicKidney.jobString>正在制作合成肾。</Make_BionicKidney.jobString>
 
-  <Make_BionicHeart.label>制造 仿生心脏</Make_BionicHeart.label>
-  <Make_BionicHeart.description>制造 仿生心脏。</Make_BionicHeart.description>
-  <Make_BionicHeart.jobString>正在制造 仿生心脏。</Make_BionicHeart.jobString>
+  <Make_BionicHeart.label>制作仿生心脏</Make_BionicHeart.label>
+  <Make_BionicHeart.description>制作仿生心脏。</Make_BionicHeart.description>
+  <Make_BionicHeart.jobString>正在制作仿生心脏。</Make_BionicHeart.jobString>
 
-  <Make_Joywire.label>制造 乐丝芯片</Make_Joywire.label>
-  <Make_Joywire.description>制造 乐丝芯片。</Make_Joywire.description>
-  <Make_Joywire.jobString>正在制造 乐丝芯片。</Make_Joywire.jobString>
+  <Make_Joywire.label>制作乐丝芯片</Make_Joywire.label>
+  <Make_Joywire.description>制作乐丝芯片。</Make_Joywire.description>
+  <Make_Joywire.jobString>正在制作乐丝芯片。</Make_Joywire.jobString>
 
-  <Make_Painstopper.label>制造 止痛芯片</Make_Painstopper.label>
-  <Make_Painstopper.description>制造 止痛芯片。</Make_Painstopper.description>
-  <Make_Painstopper.jobString>正在制造 止痛芯片。</Make_Painstopper.jobString>
+  <Make_Painstopper.label>制作止痛芯片</Make_Painstopper.label>
+  <Make_Painstopper.description>制作止痛芯片。</Make_Painstopper.description>
+  <Make_Painstopper.jobString>正在制作止痛芯片。</Make_Painstopper.jobString>
 
-  <Make_MuscleStimulator.label>制造 肌肉刺激器</Make_MuscleStimulator.label>
-  <Make_MuscleStimulator.description>制造 肌肉刺激器。</Make_MuscleStimulator.description>
-  <Make_MuscleStimulator.jobString>正在制造 肌肉刺激器。</Make_MuscleStimulator.jobString>
-
-
-  <!-- Recipe Users: DrugLab -->
-
-  <Make_VG_Ibuprofen.label>制造 止痛药</Make_VG_Ibuprofen.label>
-  <Make_VG_Ibuprofen.description>制造 止痛药。</Make_VG_Ibuprofen.description>
-  <Make_VG_Ibuprofen.jobString>正在制造 止痛药。</Make_VG_Ibuprofen.jobString>
-
-
-  <!-- Recipe Users: CraftingSpot, DrugLab -->
-
-  <Make_Berserk_herb.label>制造 狂暴草</Make_Berserk_herb.label>
-  <Make_Berserk_herb.description>制造 狂暴草。</Make_Berserk_herb.description>
-  <Make_Berserk_herb.jobString>正在制造 狂暴草。</Make_Berserk_herb.jobString>
+  <Make_MuscleStimulator.label>制作肌肉刺激器</Make_MuscleStimulator.label>
+  <Make_MuscleStimulator.description>制作肌肉刺激器。</Make_MuscleStimulator.description>
+  <Make_MuscleStimulator.jobString>正在制作肌肉刺激器。</Make_MuscleStimulator.jobString>
 
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_Neutroamine.label>制造 中性胺</Make_Neutroamine.label>
-  <Make_Neutroamine.description>制造 中性胺。</Make_Neutroamine.description>
-  <Make_Neutroamine.jobString>正在制造 中性胺。</Make_Neutroamine.jobString>
-
-  <Make_Methadone.label>制造 美沙酮</Make_Methadone.label>
-  <Make_Methadone.description>制造 美沙酮。</Make_Methadone.description>
-  <Make_Methadone.jobString>正在制造 美沙酮。</Make_Methadone.jobString>
+  <Make_VG_Ibuprofen.label>制作止痛药</Make_VG_Ibuprofen.label>
+  <Make_VG_Ibuprofen.description>制作止痛药。</Make_VG_Ibuprofen.description>
+  <Make_VG_Ibuprofen.jobString>正在制作止痛药。</Make_VG_Ibuprofen.jobString>
 
 
   <!-- Recipe Users: CraftingSpot, DrugLab -->
 
-  <Make_SmokeleafJoint.label>制造 卷烟</Make_SmokeleafJoint.label>
-  <Make_SmokeleafJoint.description>制造 卷烟。</Make_SmokeleafJoint.description>
-  <Make_SmokeleafJoint.jobString>正在制造 卷烟。</Make_SmokeleafJoint.jobString>
+  <Make_Berserk_herb.label>制作狂暴草</Make_Berserk_herb.label>
+  <Make_Berserk_herb.description>制作狂暴草。</Make_Berserk_herb.description>
+  <Make_Berserk_herb.jobString>正在制作狂暴草。</Make_Berserk_herb.jobString>
 
-  <Make_TobaccoCigar.label>制造 雪茄</Make_TobaccoCigar.label>
-  <Make_TobaccoCigar.description>制造 雪茄。</Make_TobaccoCigar.description>
-  <Make_TobaccoCigar.jobString>正在制造 雪茄。</Make_TobaccoCigar.jobString>
 
-  <Make_TobaccoCigarChocolate.label>制造 巧克力雪茄</Make_TobaccoCigarChocolate.label>
-  <Make_TobaccoCigarChocolate.description>制造 巧克力雪茄。</Make_TobaccoCigarChocolate.description>
-  <Make_TobaccoCigarChocolate.jobString>正在制造 巧克力雪茄。</Make_TobaccoCigarChocolate.jobString>
+  <!-- Recipe Users: DrugLab -->
 
-  <Make_TobaccoCigarette.label>制造 香烟</Make_TobaccoCigarette.label>
-  <Make_TobaccoCigarette.description>制造 香烟。</Make_TobaccoCigarette.description>
-  <Make_TobaccoCigarette.jobString>正在制造 香烟。</Make_TobaccoCigarette.jobString>
+  <Make_Neutroamine.label>制作中性胺</Make_Neutroamine.label>
+  <Make_Neutroamine.description>制作中性胺。</Make_Neutroamine.description>
+  <Make_Neutroamine.jobString>正在制作中性胺。</Make_Neutroamine.jobString>
+
+  <Make_Methadone.label>制作美沙酮</Make_Methadone.label>
+  <Make_Methadone.description>制作美沙酮。</Make_Methadone.description>
+  <Make_Methadone.jobString>正在制作美沙酮。</Make_Methadone.jobString>
+
+
+  <!-- Recipe Users: CraftingSpot, DrugLab -->
+
+  <Make_SmokeleafJoint.label>制作卷烟</Make_SmokeleafJoint.label>
+  <Make_SmokeleafJoint.description>制作卷烟。</Make_SmokeleafJoint.description>
+  <Make_SmokeleafJoint.jobString>正在制作卷烟。</Make_SmokeleafJoint.jobString>
+
+  <Make_TobaccoCigar.label>制作雪茄</Make_TobaccoCigar.label>
+  <Make_TobaccoCigar.description>制作雪茄。</Make_TobaccoCigar.description>
+  <Make_TobaccoCigar.jobString>正在制作雪茄。</Make_TobaccoCigar.jobString>
+
+  <Make_TobaccoCigarChocolate.label>制作巧克力雪茄</Make_TobaccoCigarChocolate.label>
+  <Make_TobaccoCigarChocolate.description>制作巧克力雪茄。</Make_TobaccoCigarChocolate.description>
+  <Make_TobaccoCigarChocolate.jobString>正在制作巧克力雪茄。</Make_TobaccoCigarChocolate.jobString>
+
+  <Make_TobaccoCigarette.label>制作香烟</Make_TobaccoCigarette.label>
+  <Make_TobaccoCigarette.description>制作香烟。</Make_TobaccoCigarette.description>
+  <Make_TobaccoCigarette.jobString>正在制作香烟。</Make_TobaccoCigarette.jobString>
 
 
   <!-- Recipe Users: TableCoffee, Brewery, ElectricBrewery -->
 
-  <Make_PsychiteTea.label>制造 精神茶</Make_PsychiteTea.label>
-  <Make_PsychiteTea.description>制造 精神茶。</Make_PsychiteTea.description>
-  <Make_PsychiteTea.jobString>正在制造 精神茶。</Make_PsychiteTea.jobString>
+  <Make_PsychiteTea.label>制作精神茶</Make_PsychiteTea.label>
+  <Make_PsychiteTea.description>制作精神茶。</Make_PsychiteTea.description>
+  <Make_PsychiteTea.jobString>正在制作精神茶。</Make_PsychiteTea.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparello_Pilot.label>制造 飞行墨镜</Make_Apparello_Pilot.label>
-  <Make_Apparello_Pilot.description>制造 飞行墨镜。</Make_Apparello_Pilot.description>
-  <Make_Apparello_Pilot.jobString>正在制造 飞行墨镜。</Make_Apparello_Pilot.jobString>
+  <Make_Apparello_Pilot.label>制作飞行墨镜</Make_Apparello_Pilot.label>
+  <Make_Apparello_Pilot.description>制作飞行墨镜。</Make_Apparello_Pilot.description>
+  <Make_Apparello_Pilot.jobString>正在制作飞行墨镜。</Make_Apparello_Pilot.jobString>
 
-  <Make_Apparello_Shadess.label>制造 遮阳镜</Make_Apparello_Shadess.label>
-  <Make_Apparello_Shadess.description>制造 遮阳镜。</Make_Apparello_Shadess.description>
-  <Make_Apparello_Shadess.jobString>正在制造 遮阳镜。</Make_Apparello_Shadess.jobString>
+  <Make_Apparello_Shadess.label>制作遮阳镜</Make_Apparello_Shadess.label>
+  <Make_Apparello_Shadess.description>制作遮阳镜。</Make_Apparello_Shadess.description>
+  <Make_Apparello_Shadess.jobString>正在制作遮阳镜。</Make_Apparello_Shadess.jobString>
 
-  <Make_Apparello_Brimsk.label>制造 滑雪护目镜</Make_Apparello_Brimsk.label>
-  <Make_Apparello_Brimsk.description>制造 滑雪护目镜。</Make_Apparello_Brimsk.description>
-  <Make_Apparello_Brimsk.jobString>正在制造 滑雪护目镜。</Make_Apparello_Brimsk.jobString>
+  <Make_Apparello_Brimsk.label>制作滑雪护目镜</Make_Apparello_Brimsk.label>
+  <Make_Apparello_Brimsk.description>制作滑雪护目镜。</Make_Apparello_Brimsk.description>
+  <Make_Apparello_Brimsk.jobString>正在制作滑雪护目镜。</Make_Apparello_Brimsk.jobString>
 
-  <Make_Marine_BattleMask.label>制造 士兵防风面罩</Make_Marine_BattleMask.label>
-  <Make_Marine_BattleMask.description>制造 士兵防风面罩。</Make_Marine_BattleMask.description>
-  <Make_Marine_BattleMask.jobString>正在制造 士兵防风面罩。</Make_Marine_BattleMask.jobString>
+  <Make_Marine_BattleMask.label>制作士兵防风面罩</Make_Marine_BattleMask.label>
+  <Make_Marine_BattleMask.description>制作士兵防风面罩。</Make_Marine_BattleMask.description>
+  <Make_Marine_BattleMask.jobString>正在制作士兵防风面罩。</Make_Marine_BattleMask.jobString>
 
-  <Make_Apparel_Earmuff.label>制造 耳罩</Make_Apparel_Earmuff.label>
-  <Make_Apparel_Earmuff.description>制造 耳罩。</Make_Apparel_Earmuff.description>
-  <Make_Apparel_Earmuff.jobString>正在制造 耳罩。</Make_Apparel_Earmuff.jobString>
+  <Make_Apparel_Earmuff.label>制作耳罩</Make_Apparel_Earmuff.label>
+  <Make_Apparel_Earmuff.description>制作耳罩。</Make_Apparel_Earmuff.description>
+  <Make_Apparel_Earmuff.jobString>正在制作耳罩。</Make_Apparel_Earmuff.jobString>
 
-  <Make_Apparel_FlakJacket.label>制造 套装夹克</Make_Apparel_FlakJacket.label>
-  <Make_Apparel_FlakJacket.description>制造 套装夹克。</Make_Apparel_FlakJacket.description>
-  <Make_Apparel_FlakJacket.jobString>正在制造 套装夹克。</Make_Apparel_FlakJacket.jobString>
+  <Make_Apparel_FlakJacket.label>制作套装夹克</Make_Apparel_FlakJacket.label>
+  <Make_Apparel_FlakJacket.description>制作套装夹克。</Make_Apparel_FlakJacket.description>
+  <Make_Apparel_FlakJacket.jobString>正在制作套装夹克。</Make_Apparel_FlakJacket.jobString>
 
-  <Make_Apparello_Meditux.label>制造 医师夹克</Make_Apparello_Meditux.label>
-  <Make_Apparello_Meditux.description>制造 医师夹克。</Make_Apparello_Meditux.description>
-  <Make_Apparello_Meditux.jobString>正在制造 医师夹克。</Make_Apparello_Meditux.jobString>
+  <Make_Apparello_Meditux.label>制作医师夹克</Make_Apparello_Meditux.label>
+  <Make_Apparello_Meditux.description>制作医师夹克。</Make_Apparello_Meditux.description>
+  <Make_Apparello_Meditux.jobString>正在制作医师夹克。</Make_Apparello_Meditux.jobString>
 
-  <Make_Apparel_FSChefJacket.label>制造 厨师夹克</Make_Apparel_FSChefJacket.label>
-  <Make_Apparel_FSChefJacket.description>制造 厨师夹克。</Make_Apparel_FSChefJacket.description>
-  <Make_Apparel_FSChefJacket.jobString>正在制造 厨师夹克。</Make_Apparel_FSChefJacket.jobString>
+  <Make_Apparel_FSChefJacket.label>制作厨师夹克</Make_Apparel_FSChefJacket.label>
+  <Make_Apparel_FSChefJacket.description>制作厨师夹克。</Make_Apparel_FSChefJacket.description>
+  <Make_Apparel_FSChefJacket.jobString>正在制作厨师夹克。</Make_Apparel_FSChefJacket.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
 
-  <Make_Apparel_Jacket.label>制造 夹克</Make_Apparel_Jacket.label>
-  <Make_Apparel_Jacket.description>制造 夹克。</Make_Apparel_Jacket.description>
-  <Make_Apparel_Jacket.jobString>正在制造 夹克。</Make_Apparel_Jacket.jobString>
+  <Make_Apparel_Jacket.label>制作夹克</Make_Apparel_Jacket.label>
+  <Make_Apparel_Jacket.description>制作夹克。</Make_Apparel_Jacket.description>
+  <Make_Apparel_Jacket.jobString>正在制作夹克。</Make_Apparel_Jacket.jobString>
 
-  <Make_Apparel_Parka.label>制造 风雪大衣</Make_Apparel_Parka.label>
-  <Make_Apparel_Parka.description>制造 风雪大衣。</Make_Apparel_Parka.description>
-  <Make_Apparel_Parka.jobString>正在制造 风雪大衣。</Make_Apparel_Parka.jobString>
+  <Make_Apparel_Parka.label>制作风雪大衣</Make_Apparel_Parka.label>
+  <Make_Apparel_Parka.description>制作风雪大衣。</Make_Apparel_Parka.description>
+  <Make_Apparel_Parka.jobString>正在制作风雪大衣。</Make_Apparel_Parka.jobString>
 
-  <Make_Apparel_ParkaB.label>制造 绗缝夹克</Make_Apparel_ParkaB.label>
-  <Make_Apparel_ParkaB.description>制造 绗缝夹克。</Make_Apparel_ParkaB.description>
-  <Make_Apparel_ParkaB.jobString>正在制造 绗缝夹克。</Make_Apparel_ParkaB.jobString>
+  <Make_Apparel_ParkaB.label>制作绗缝夹克</Make_Apparel_ParkaB.label>
+  <Make_Apparel_ParkaB.description>制作绗缝夹克。</Make_Apparel_ParkaB.description>
+  <Make_Apparel_ParkaB.jobString>正在制作绗缝夹克。</Make_Apparel_ParkaB.jobString>
 
-  <Make_Apparel_Duster.label>制造 防尘大衣</Make_Apparel_Duster.label>
-  <Make_Apparel_Duster.description>制造 防尘大衣。</Make_Apparel_Duster.description>
-  <Make_Apparel_Duster.jobString>正在制造 防尘大衣。</Make_Apparel_Duster.jobString>
+  <Make_Apparel_Duster.label>制作防尘大衣</Make_Apparel_Duster.label>
+  <Make_Apparel_Duster.description>制作防尘大衣。</Make_Apparel_Duster.description>
+  <Make_Apparel_Duster.jobString>正在制作防尘大衣。</Make_Apparel_Duster.jobString>
 
-  <Make_Apparello_PonPon.label>制造 斗篷</Make_Apparello_PonPon.label>
-  <Make_Apparello_PonPon.description>制造 斗篷。</Make_Apparello_PonPon.description>
-  <Make_Apparello_PonPon.jobString>正在制造 斗篷。</Make_Apparello_PonPon.jobString>
+  <Make_Apparello_PonPon.label>制作斗篷</Make_Apparello_PonPon.label>
+  <Make_Apparello_PonPon.description>制作斗篷。</Make_Apparello_PonPon.description>
+  <Make_Apparello_PonPon.jobString>正在制作斗篷。</Make_Apparello_PonPon.jobString>
 
 
   <!-- Recipe Users: LeatherworkerTable -->
 
-  <Make_Apparel_TribalA.label>制造 部落装</Make_Apparel_TribalA.label>
-  <Make_Apparel_TribalA.description>制造 部落装。</Make_Apparel_TribalA.description>
-  <Make_Apparel_TribalA.jobString>正在制造 部落装。</Make_Apparel_TribalA.jobString>
+  <Make_Apparel_TribalA.label>制作部落装</Make_Apparel_TribalA.label>
+  <Make_Apparel_TribalA.description>制作部落装。</Make_Apparel_TribalA.description>
+  <Make_Apparel_TribalA.jobString>正在制作部落装。</Make_Apparel_TribalA.jobString>
 
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_Apparello_GShell.label>制造 轻型动力装甲</Make_Apparello_GShell.label>
-  <Make_Apparello_GShell.description>制造 轻型动力装甲。</Make_Apparello_GShell.description>
-  <Make_Apparello_GShell.jobString>正在制造 轻型动力装甲。</Make_Apparello_GShell.jobString>
+  <Make_Apparello_GShell.label>制作轻型动力装甲</Make_Apparello_GShell.label>
+  <Make_Apparello_GShell.description>制作轻型动力装甲。</Make_Apparello_GShell.description>
+  <Make_Apparello_GShell.jobString>正在制作轻型动力装甲。</Make_Apparello_GShell.jobString>
 
-  <Make_Apparello_GShellII.label>制造 中型动力装甲</Make_Apparello_GShellII.label>
-  <Make_Apparello_GShellII.description>制造 中型动力装甲。</Make_Apparello_GShellII.description>
-  <Make_Apparello_GShellII.jobString>正在制造 中型动力装甲。</Make_Apparello_GShellII.jobString>
+  <Make_Apparello_GShellII.label>制作中型动力装甲</Make_Apparello_GShellII.label>
+  <Make_Apparello_GShellII.description>制作中型动力装甲。</Make_Apparello_GShellII.description>
+  <Make_Apparello_GShellII.jobString>正在制作中型动力装甲。</Make_Apparello_GShellII.jobString>
 
 
   <!-- Recipe Users: TableElectronics -->
 
-  <Make_Apparel_ShieldBelt.label>制造 单人护盾</Make_Apparel_ShieldBelt.label>
-  <Make_Apparel_ShieldBelt.description>制造 单人护盾。</Make_Apparel_ShieldBelt.description>
-  <Make_Apparel_ShieldBelt.jobString>正在制造 单人护盾。</Make_Apparel_ShieldBelt.jobString>
+  <Make_Apparel_ShieldBelt.label>制作单人护盾</Make_Apparel_ShieldBelt.label>
+  <Make_Apparel_ShieldBelt.description>制作单人护盾。</Make_Apparel_ShieldBelt.description>
+  <Make_Apparel_ShieldBelt.jobString>正在制作单人护盾。</Make_Apparel_ShieldBelt.jobString>
 
 
   <!-- Recipe Users: LeatherworkerTable -->
 
-  <Make_Apparello_Clawboots.label>制造 爪靴</Make_Apparello_Clawboots.label>
-  <Make_Apparello_Clawboots.description>制造 爪靴。</Make_Apparello_Clawboots.description>
-  <Make_Apparello_Clawboots.jobString>正在制造 爪靴。</Make_Apparello_Clawboots.jobString>
+  <Make_Apparello_Clawboots.label>制作爪靴</Make_Apparello_Clawboots.label>
+  <Make_Apparello_Clawboots.description>制作爪靴。</Make_Apparello_Clawboots.description>
+  <Make_Apparello_Clawboots.jobString>正在制作爪靴。</Make_Apparello_Clawboots.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
 
-  <Make_Apparello_Shoes.label>制造 鞋子</Make_Apparello_Shoes.label>
-  <Make_Apparello_Shoes.description>制造 鞋子。</Make_Apparello_Shoes.description>
-  <Make_Apparello_Shoes.jobString>正在制造 鞋子。</Make_Apparello_Shoes.jobString>
+  <Make_Apparello_Shoes.label>制作鞋子</Make_Apparello_Shoes.label>
+  <Make_Apparello_Shoes.description>制作鞋子。</Make_Apparello_Shoes.description>
+  <Make_Apparello_Shoes.jobString>正在制作鞋子。</Make_Apparello_Shoes.jobString>
 
 
   <!-- Recipe Users: FueledSmithy, ElectricSmithy -->
 
-  <Make_MedievalTimes_Boots_Steel_Plated.label>制造 板甲靴</Make_MedievalTimes_Boots_Steel_Plated.label>
-  <Make_MedievalTimes_Boots_Steel_Plated.description>制造 板甲靴。</Make_MedievalTimes_Boots_Steel_Plated.description>
-  <Make_MedievalTimes_Boots_Steel_Plated.jobString>正在制造 板甲靴。</Make_MedievalTimes_Boots_Steel_Plated.jobString>
+  <Make_MedievalTimes_Boots_Steel_Plated.label>制作板甲靴</Make_MedievalTimes_Boots_Steel_Plated.label>
+  <Make_MedievalTimes_Boots_Steel_Plated.description>制作板甲靴。</Make_MedievalTimes_Boots_Steel_Plated.description>
+  <Make_MedievalTimes_Boots_Steel_Plated.jobString>正在制作板甲靴。</Make_MedievalTimes_Boots_Steel_Plated.jobString>
 
-  <Make_Apparello_MetalBoots.label>制造 金属靴</Make_Apparello_MetalBoots.label>
-  <Make_Apparello_MetalBoots.description>制造 金属靴。</Make_Apparello_MetalBoots.description>
-  <Make_Apparello_MetalBoots.jobString>正在制造 金属靴。</Make_Apparello_MetalBoots.jobString>
+  <Make_Apparello_MetalBoots.label>制作金属靴</Make_Apparello_MetalBoots.label>
+  <Make_Apparello_MetalBoots.description>制作金属靴。</Make_Apparello_MetalBoots.description>
+  <Make_Apparello_MetalBoots.jobString>正在制作金属靴。</Make_Apparello_MetalBoots.jobString>
 
 
   <!-- Recipe Users: LeatherworkerTable -->
 
-  <Make_Apparello_Snowboots.label>制造 雪地靴</Make_Apparello_Snowboots.label>
-  <Make_Apparello_Snowboots.description>制造 雪地靴。</Make_Apparello_Snowboots.description>
-  <Make_Apparello_Snowboots.jobString>正在制造 雪地靴。</Make_Apparello_Snowboots.jobString>
+  <Make_Apparello_Snowboots.label>制作雪地靴</Make_Apparello_Snowboots.label>
+  <Make_Apparello_Snowboots.description>制作雪地靴。</Make_Apparello_Snowboots.description>
+  <Make_Apparello_Snowboots.jobString>正在制作雪地靴。</Make_Apparello_Snowboots.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_MedievalTimes_Boots_Combat.label>制造 战靴</Make_MedievalTimes_Boots_Combat.label>
-  <Make_MedievalTimes_Boots_Combat.description>制造 战靴。</Make_MedievalTimes_Boots_Combat.description>
-  <Make_MedievalTimes_Boots_Combat.jobString>正在制造 战靴。</Make_MedievalTimes_Boots_Combat.jobString>
+  <Make_MedievalTimes_Boots_Combat.label>制作战靴</Make_MedievalTimes_Boots_Combat.label>
+  <Make_MedievalTimes_Boots_Combat.description>制作战靴。</Make_MedievalTimes_Boots_Combat.description>
+  <Make_MedievalTimes_Boots_Combat.jobString>正在制作战靴。</Make_MedievalTimes_Boots_Combat.jobString>
 
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_MedievalTimes_Boots_Techno.label>制造 科技战靴</Make_MedievalTimes_Boots_Techno.label>
-  <Make_MedievalTimes_Boots_Techno.description>制造 科技战靴。</Make_MedievalTimes_Boots_Techno.description>
-  <Make_MedievalTimes_Boots_Techno.jobString>正在制造 科技战靴。</Make_MedievalTimes_Boots_Techno.jobString>
+  <Make_MedievalTimes_Boots_Techno.label>制作科技战靴</Make_MedievalTimes_Boots_Techno.label>
+  <Make_MedievalTimes_Boots_Techno.description>制作科技战靴。</Make_MedievalTimes_Boots_Techno.description>
+  <Make_MedievalTimes_Boots_Techno.jobString>正在制作科技战靴。</Make_MedievalTimes_Boots_Techno.jobString>
 
-  <Make_Apparello_Spboots.label>制造 平衡靴</Make_Apparello_Spboots.label>
-  <Make_Apparello_Spboots.description>制造 平衡靴。</Make_Apparello_Spboots.description>
-  <Make_Apparello_Spboots.jobString>正在制造 平衡靴。</Make_Apparello_Spboots.jobString>
+  <Make_Apparello_Spboots.label>制作平衡靴</Make_Apparello_Spboots.label>
+  <Make_Apparello_Spboots.description>制作平衡靴。</Make_Apparello_Spboots.description>
+  <Make_Apparello_Spboots.jobString>正在制作平衡靴。</Make_Apparello_Spboots.jobString>
 
 
   <!-- Recipe Users: FueledSmithy, ElectricSmithy -->
 
-  <Make_Slag_Plate_Improved.label>制造 尖刺蛮族板甲</Make_Slag_Plate_Improved.label>
-  <Make_Slag_Plate_Improved.description>制造 尖刺蛮族板甲。</Make_Slag_Plate_Improved.description>
-  <Make_Slag_Plate_Improved.jobString>正在制造 尖刺蛮族板甲。</Make_Slag_Plate_Improved.jobString>
+  <Make_Slag_Plate_Improved.label>制作尖刺蛮族板甲</Make_Slag_Plate_Improved.label>
+  <Make_Slag_Plate_Improved.description>制作尖刺蛮族板甲。</Make_Slag_Plate_Improved.description>
+  <Make_Slag_Plate_Improved.jobString>正在制作尖刺蛮族板甲。</Make_Slag_Plate_Improved.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Marine_Armor.label>制造 士兵个人护甲</Make_Marine_Armor.label>
-  <Make_Marine_Armor.description>制造 士兵个人护甲。</Make_Marine_Armor.description>
-  <Make_Marine_Armor.jobString>正在制造 士兵个人护甲。</Make_Marine_Armor.jobString>
+  <Make_Marine_Armor.label>制作士兵个人护甲</Make_Marine_Armor.label>
+  <Make_Marine_Armor.description>制作士兵个人护甲。</Make_Marine_Armor.description>
+  <Make_Marine_Armor.jobString>正在制作士兵个人护甲。</Make_Marine_Armor.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
 
-  <Make_Apparello_Syndicatellorare.label>制造 流浪者胸甲</Make_Apparello_Syndicatellorare.label>
-  <Make_Apparello_Syndicatellorare.description>制造 流浪者胸甲。</Make_Apparello_Syndicatellorare.description>
-  <Make_Apparello_Syndicatellorare.jobString>正在制造 流浪者胸甲。</Make_Apparello_Syndicatellorare.jobString>
+  <Make_Apparello_Syndicatellorare.label>制作流浪者胸甲</Make_Apparello_Syndicatellorare.label>
+  <Make_Apparello_Syndicatellorare.description>制作流浪者胸甲。</Make_Apparello_Syndicatellorare.description>
+  <Make_Apparello_Syndicatellorare.jobString>正在制作流浪者胸甲。</Make_Apparello_Syndicatellorare.jobString>
 
-  <Make_MedievalTimes_Cloak.label>制造 长斗篷</Make_MedievalTimes_Cloak.label>
-  <Make_MedievalTimes_Cloak.description>制造 长斗篷。</Make_MedievalTimes_Cloak.description>
-  <Make_MedievalTimes_Cloak.jobString>正在制造 长斗篷。</Make_MedievalTimes_Cloak.jobString>
+  <Make_MedievalTimes_Cloak.label>制作长斗篷</Make_MedievalTimes_Cloak.label>
+  <Make_MedievalTimes_Cloak.description>制作长斗篷。</Make_MedievalTimes_Cloak.description>
+  <Make_MedievalTimes_Cloak.jobString>正在制作长斗篷。</Make_MedievalTimes_Cloak.jobString>
 
-  <Make_Apparel_FSFurCoat.label>制造 长外套</Make_Apparel_FSFurCoat.label>
-  <Make_Apparel_FSFurCoat.description>制造 长外套。</Make_Apparel_FSFurCoat.description>
-  <Make_Apparel_FSFurCoat.jobString>正在制造 长外套。</Make_Apparel_FSFurCoat.jobString>
+  <Make_Apparel_FSFurCoat.label>制作长外套</Make_Apparel_FSFurCoat.label>
+  <Make_Apparel_FSFurCoat.description>制作长外套。</Make_Apparel_FSFurCoat.description>
+  <Make_Apparel_FSFurCoat.jobString>正在制作长外套。</Make_Apparel_FSFurCoat.jobString>
 
-  <Make_Apparel_FSDesertRobe.label>制造 沙漠罩袍</Make_Apparel_FSDesertRobe.label>
-  <Make_Apparel_FSDesertRobe.description>制造 沙漠罩袍。</Make_Apparel_FSDesertRobe.description>
-  <Make_Apparel_FSDesertRobe.jobString>正在制造 沙漠罩袍。</Make_Apparel_FSDesertRobe.jobString>
+  <Make_Apparel_FSDesertRobe.label>制作沙漠罩袍</Make_Apparel_FSDesertRobe.label>
+  <Make_Apparel_FSDesertRobe.description>制作沙漠罩袍。</Make_Apparel_FSDesertRobe.description>
+  <Make_Apparel_FSDesertRobe.jobString>正在制作沙漠罩袍。</Make_Apparel_FSDesertRobe.jobString>
 
 
   <!-- Recipe Users: FueledSmithy, ElectricSmithy -->
 
-  <Make_MedievalTimes_Hauberk.label>制造 鳞状锁甲</Make_MedievalTimes_Hauberk.label>
-  <Make_MedievalTimes_Hauberk.description>制造 鳞状锁甲。</Make_MedievalTimes_Hauberk.description>
-  <Make_MedievalTimes_Hauberk.jobString>正在制造 鳞状锁甲。</Make_MedievalTimes_Hauberk.jobString>
+  <Make_MedievalTimes_Hauberk.label>制作鳞状锁甲</Make_MedievalTimes_Hauberk.label>
+  <Make_MedievalTimes_Hauberk.description>制作鳞状锁甲。</Make_MedievalTimes_Hauberk.description>
+  <Make_MedievalTimes_Hauberk.jobString>正在制作鳞状锁甲。</Make_MedievalTimes_Hauberk.jobString>
 
-  <Make_MedievalArmor_PlateArmor.label>制造 全身板甲</Make_MedievalArmor_PlateArmor.label>
-  <Make_MedievalArmor_PlateArmor.description>制造 全身板甲。</Make_MedievalArmor_PlateArmor.description>
-  <Make_MedievalArmor_PlateArmor.jobString>正在制造 全身板甲。</Make_MedievalArmor_PlateArmor.jobString>
+  <Make_MedievalArmor_PlateArmor.label>制作全身板甲</Make_MedievalArmor_PlateArmor.label>
+  <Make_MedievalArmor_PlateArmor.description>制作全身板甲。</Make_MedievalArmor_PlateArmor.description>
+  <Make_MedievalArmor_PlateArmor.jobString>正在制作全身板甲。</Make_MedievalArmor_PlateArmor.jobString>
 
-  <Make_MedievalTimes_Plates_Full_Cloaked.label>制造 镶钉皮甲</Make_MedievalTimes_Plates_Full_Cloaked.label>
-  <Make_MedievalTimes_Plates_Full_Cloaked.description>制造 镶钉皮甲。</Make_MedievalTimes_Plates_Full_Cloaked.description>
-  <Make_MedievalTimes_Plates_Full_Cloaked.jobString>正在制造 镶钉皮甲。</Make_MedievalTimes_Plates_Full_Cloaked.jobString>
+  <Make_MedievalTimes_Plates_Full_Cloaked.label>制作镶钉皮甲</Make_MedievalTimes_Plates_Full_Cloaked.label>
+  <Make_MedievalTimes_Plates_Full_Cloaked.description>制作镶钉皮甲。</Make_MedievalTimes_Plates_Full_Cloaked.description>
+  <Make_MedievalTimes_Plates_Full_Cloaked.jobString>正在制作镶钉皮甲。</Make_MedievalTimes_Plates_Full_Cloaked.jobString>
 
-  <Make_Apparel_PlateArmor.label>制造 板甲</Make_Apparel_PlateArmor.label>
-  <Make_Apparel_PlateArmor.description>制造 板甲。</Make_Apparel_PlateArmor.description>
-  <Make_Apparel_PlateArmor.jobString>正在制造 板甲。</Make_Apparel_PlateArmor.jobString>
+  <Make_Apparel_PlateArmor.label>制作板甲</Make_Apparel_PlateArmor.label>
+  <Make_Apparel_PlateArmor.description>制作板甲。</Make_Apparel_PlateArmor.description>
+  <Make_Apparel_PlateArmor.jobString>正在制作板甲。</Make_Apparel_PlateArmor.jobString>
 
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_Apparel_PowerArmor.label>制造 动力装甲</Make_Apparel_PowerArmor.label>
-  <Make_Apparel_PowerArmor.description>制造 动力装甲。</Make_Apparel_PowerArmor.description>
-  <Make_Apparel_PowerArmor.jobString>正在制造 动力装甲。</Make_Apparel_PowerArmor.jobString>
+  <Make_Apparel_PowerArmor.label>制作动力装甲</Make_Apparel_PowerArmor.label>
+  <Make_Apparel_PowerArmor.description>制作动力装甲。</Make_Apparel_PowerArmor.description>
+  <Make_Apparel_PowerArmor.jobString>正在制作动力装甲。</Make_Apparel_PowerArmor.jobString>
 
-  <Make_Apparel_ArmorRecon.label>制造 侦查装甲</Make_Apparel_ArmorRecon.label>
-  <Make_Apparel_ArmorRecon.description>制造 侦查装甲。</Make_Apparel_ArmorRecon.description>
-  <Make_Apparel_ArmorRecon.jobString>正在制造 侦查装甲。</Make_Apparel_ArmorRecon.jobString>
+  <Make_Apparel_ArmorRecon.label>制作侦查装甲</Make_Apparel_ArmorRecon.label>
+  <Make_Apparel_ArmorRecon.description>制作侦查装甲。</Make_Apparel_ArmorRecon.description>
+  <Make_Apparel_ArmorRecon.jobString>正在制作侦查装甲。</Make_Apparel_ArmorRecon.jobString>
 
-  <Make_Apparello_Steamhull.label>制造 蒸汽护甲</Make_Apparello_Steamhull.label>
-  <Make_Apparello_Steamhull.description>制造 蒸汽护甲。</Make_Apparello_Steamhull.description>
-  <Make_Apparello_Steamhull.jobString>正在制造 蒸汽护甲。</Make_Apparello_Steamhull.jobString>
+  <Make_Apparello_Steamhull.label>制作蒸汽护甲</Make_Apparello_Steamhull.label>
+  <Make_Apparello_Steamhull.description>制作蒸汽护甲。</Make_Apparello_Steamhull.description>
+  <Make_Apparello_Steamhull.jobString>正在制作蒸汽护甲。</Make_Apparello_Steamhull.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparello_chefglove.label>制造 烤箱手套</Make_Apparello_chefglove.label>
-  <Make_Apparello_chefglove.description>制造 烤箱手套。</Make_Apparello_chefglove.description>
-  <Make_Apparello_chefglove.jobString>正在制造 烤箱手套。</Make_Apparello_chefglove.jobString>
+  <Make_Apparello_chefglove.label>制作烤箱手套</Make_Apparello_chefglove.label>
+  <Make_Apparello_chefglove.description>制作烤箱手套。</Make_Apparello_chefglove.description>
+  <Make_Apparello_chefglove.jobString>正在制作烤箱手套。</Make_Apparello_chefglove.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
 
-  <Make_Apparello_Workglove.label>制造 皮手套</Make_Apparello_Workglove.label>
-  <Make_Apparello_Workglove.description>制造 皮手套。</Make_Apparello_Workglove.description>
-  <Make_Apparello_Workglove.jobString>正在制造 皮手套。</Make_Apparello_Workglove.jobString>
+  <Make_Apparello_Workglove.label>制作皮手套</Make_Apparello_Workglove.label>
+  <Make_Apparello_Workglove.description>制作皮手套。</Make_Apparello_Workglove.description>
+  <Make_Apparello_Workglove.jobString>正在制作皮手套。</Make_Apparello_Workglove.jobString>
 
 
   <!-- Recipe Users: FueledSmithy, ElectricSmithy -->
 
-  <Make_MedievalTimes_Gloves_Plated.label>制造 板甲手套</Make_MedievalTimes_Gloves_Plated.label>
-  <Make_MedievalTimes_Gloves_Plated.description>制造 板甲手套。</Make_MedievalTimes_Gloves_Plated.description>
-  <Make_MedievalTimes_Gloves_Plated.jobString>正在制造 板甲手套。</Make_MedievalTimes_Gloves_Plated.jobString>
+  <Make_MedievalTimes_Gloves_Plated.label>制作板甲手套</Make_MedievalTimes_Gloves_Plated.label>
+  <Make_MedievalTimes_Gloves_Plated.description>制作板甲手套。</Make_MedievalTimes_Gloves_Plated.description>
+  <Make_MedievalTimes_Gloves_Plated.jobString>正在制作板甲手套。</Make_MedievalTimes_Gloves_Plated.jobString>
 
-  <Make_MedievalTimes_Gauntlets.label>制造 金属护手</Make_MedievalTimes_Gauntlets.label>
-  <Make_MedievalTimes_Gauntlets.description>制造 金属护手。</Make_MedievalTimes_Gauntlets.description>
-  <Make_MedievalTimes_Gauntlets.jobString>正在制造 金属护手。</Make_MedievalTimes_Gauntlets.jobString>
+  <Make_MedievalTimes_Gauntlets.label>制作金属护手</Make_MedievalTimes_Gauntlets.label>
+  <Make_MedievalTimes_Gauntlets.description>制作金属护手。</Make_MedievalTimes_Gauntlets.description>
+  <Make_MedievalTimes_Gauntlets.jobString>正在制作金属护手。</Make_MedievalTimes_Gauntlets.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparello_ReinforcedGlove.label>制造 加固手套</Make_Apparello_ReinforcedGlove.label>
-  <Make_Apparello_ReinforcedGlove.description>制造 加固手套。</Make_Apparello_ReinforcedGlove.description>
-  <Make_Apparello_ReinforcedGlove.jobString>正在制造 加固手套。</Make_Apparello_ReinforcedGlove.jobString>
+  <Make_Apparello_ReinforcedGlove.label>制作加固手套</Make_Apparello_ReinforcedGlove.label>
+  <Make_Apparello_ReinforcedGlove.description>制作加固手套。</Make_Apparello_ReinforcedGlove.description>
+  <Make_Apparello_ReinforcedGlove.jobString>正在制作加固手套。</Make_Apparello_ReinforcedGlove.jobString>
 
-  <Make_Apparello_Motorglove.label>制造 皮革拳套</Make_Apparello_Motorglove.label>
-  <Make_Apparello_Motorglove.description>制造 皮革拳套。</Make_Apparello_Motorglove.description>
-  <Make_Apparello_Motorglove.jobString>正在制造 皮革拳套。</Make_Apparello_Motorglove.jobString>
+  <Make_Apparello_Motorglove.label>制作皮革拳套</Make_Apparello_Motorglove.label>
+  <Make_Apparello_Motorglove.description>制作皮革拳套。</Make_Apparello_Motorglove.description>
+  <Make_Apparello_Motorglove.jobString>正在制作皮革拳套。</Make_Apparello_Motorglove.jobString>
 
-  <Make_MedievalTimes_Gloves_Combat.label>制造 格斗手套</Make_MedievalTimes_Gloves_Combat.label>
-  <Make_MedievalTimes_Gloves_Combat.description>制造 格斗手套。</Make_MedievalTimes_Gloves_Combat.description>
-  <Make_MedievalTimes_Gloves_Combat.jobString>正在制造 格斗手套。</Make_MedievalTimes_Gloves_Combat.jobString>
+  <Make_MedievalTimes_Gloves_Combat.label>制作格斗手套</Make_MedievalTimes_Gloves_Combat.label>
+  <Make_MedievalTimes_Gloves_Combat.description>制作格斗手套。</Make_MedievalTimes_Gloves_Combat.description>
+  <Make_MedievalTimes_Gloves_Combat.jobString>正在制作格斗手套。</Make_MedievalTimes_Gloves_Combat.jobString>
 
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_MedievalTimes_Gauntlets_Techno.label>制造 科技护手</Make_MedievalTimes_Gauntlets_Techno.label>
-  <Make_MedievalTimes_Gauntlets_Techno.description>制造 科技护手。</Make_MedievalTimes_Gauntlets_Techno.description>
-  <Make_MedievalTimes_Gauntlets_Techno.jobString>正在制造 科技护手。</Make_MedievalTimes_Gauntlets_Techno.jobString>
+  <Make_MedievalTimes_Gauntlets_Techno.label>制作科技护手</Make_MedievalTimes_Gauntlets_Techno.label>
+  <Make_MedievalTimes_Gauntlets_Techno.description>制作科技护手。</Make_MedievalTimes_Gauntlets_Techno.description>
+  <Make_MedievalTimes_Gauntlets_Techno.jobString>正在制作科技护手。</Make_MedievalTimes_Gauntlets_Techno.jobString>
 
-  <Make_Apparello_Gamerglove.label>制造 动力手套</Make_Apparello_Gamerglove.label>
-  <Make_Apparello_Gamerglove.description>制造 动力手套。</Make_Apparello_Gamerglove.description>
-  <Make_Apparello_Gamerglove.jobString>正在制造 动力手套。</Make_Apparello_Gamerglove.jobString>
+  <Make_Apparello_Gamerglove.label>制作动力手套</Make_Apparello_Gamerglove.label>
+  <Make_Apparello_Gamerglove.description>制作动力手套。</Make_Apparello_Gamerglove.description>
+  <Make_Apparello_Gamerglove.jobString>正在制作动力手套。</Make_Apparello_Gamerglove.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparello_Chefhatplus.label>制造 创意厨师帽</Make_Apparello_Chefhatplus.label>
-  <Make_Apparello_Chefhatplus.description>制造 创意厨师帽。</Make_Apparello_Chefhatplus.description>
-  <Make_Apparello_Chefhatplus.jobString>正在制造 创意厨师帽。</Make_Apparello_Chefhatplus.jobString>
+  <Make_Apparello_Chefhatplus.label>制作创意厨师帽</Make_Apparello_Chefhatplus.label>
+  <Make_Apparello_Chefhatplus.description>制作创意厨师帽。</Make_Apparello_Chefhatplus.description>
+  <Make_Apparello_Chefhatplus.jobString>正在制作创意厨师帽。</Make_Apparello_Chefhatplus.jobString>
 
-  <Make_Apparello_Docteur.label>制造 外科面罩</Make_Apparello_Docteur.label>
-  <Make_Apparello_Docteur.description>制造 外科面罩。</Make_Apparello_Docteur.description>
-  <Make_Apparello_Docteur.jobString>正在制造 外科面罩。</Make_Apparello_Docteur.jobString>
+  <Make_Apparello_Docteur.label>制作外科面罩</Make_Apparello_Docteur.label>
+  <Make_Apparello_Docteur.description>制作外科面罩。</Make_Apparello_Docteur.description>
+  <Make_Apparello_Docteur.jobString>正在制作外科面罩。</Make_Apparello_Docteur.jobString>
 
-  <Make_Tactical_Helmet.label>制造 战术头盔</Make_Tactical_Helmet.label>
-  <Make_Tactical_Helmet.description>制造 战术头盔。</Make_Tactical_Helmet.description>
-  <Make_Tactical_Helmet.jobString>正在制造 战术头盔。</Make_Tactical_Helmet.jobString>
+  <Make_Tactical_Helmet.label>制作战术头盔</Make_Tactical_Helmet.label>
+  <Make_Tactical_Helmet.description>制作战术头盔。</Make_Tactical_Helmet.description>
+  <Make_Tactical_Helmet.jobString>正在制作战术头盔。</Make_Tactical_Helmet.jobString>
 
-  <Make_WeldingHelmet.label>制造 焊接头盔</Make_WeldingHelmet.label>
-  <Make_WeldingHelmet.description>制造 焊接头盔。</Make_WeldingHelmet.description>
-  <Make_WeldingHelmet.jobString>正在制造 焊接头盔。</Make_WeldingHelmet.jobString>
+  <Make_WeldingHelmet.label>制作焊接头盔</Make_WeldingHelmet.label>
+  <Make_WeldingHelmet.description>制作焊接头盔。</Make_WeldingHelmet.description>
+  <Make_WeldingHelmet.jobString>正在制作焊接头盔。</Make_WeldingHelmet.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
 
-  <Make_Apparello_NorbalSagecowl.label>制造 头罩</Make_Apparello_NorbalSagecowl.label>
-  <Make_Apparello_NorbalSagecowl.description>制造 头罩。</Make_Apparello_NorbalSagecowl.description>
-  <Make_Apparello_NorbalSagecowl.jobString>正在制造 头罩。</Make_Apparello_NorbalSagecowl.jobString>
+  <Make_Apparello_NorbalSagecowl.label>制作头罩</Make_Apparello_NorbalSagecowl.label>
+  <Make_Apparello_NorbalSagecowl.description>制作头罩。</Make_Apparello_NorbalSagecowl.description>
+  <Make_Apparello_NorbalSagecowl.jobString>正在制作头罩。</Make_Apparello_NorbalSagecowl.jobString>
 
 
   <!-- Recipe Users: FueledSmithy, ElectricSmithy -->
 
-  <Make_MedievalTimes_Helmet_Bascinet.label>制造 巴萨内特盔</Make_MedievalTimes_Helmet_Bascinet.label>
-  <Make_MedievalTimes_Helmet_Bascinet.description>制造 巴萨内特盔。</Make_MedievalTimes_Helmet_Bascinet.description>
-  <Make_MedievalTimes_Helmet_Bascinet.jobString>正在制造 巴萨内特盔。</Make_MedievalTimes_Helmet_Bascinet.jobString>
+  <Make_MedievalTimes_Helmet_Bascinet.label>制作巴萨内特盔</Make_MedievalTimes_Helmet_Bascinet.label>
+  <Make_MedievalTimes_Helmet_Bascinet.description>制作巴萨内特盔。</Make_MedievalTimes_Helmet_Bascinet.description>
+  <Make_MedievalTimes_Helmet_Bascinet.jobString>正在制作巴萨内特盔。</Make_MedievalTimes_Helmet_Bascinet.jobString>
 
 
   <!-- Recipe Users: LeatherworkerTable -->
 
-  <Make_Apparel_WarMask.label>制造 战争面具</Make_Apparel_WarMask.label>
-  <Make_Apparel_WarMask.description>制造 战争面具。</Make_Apparel_WarMask.description>
-  <Make_Apparel_WarMask.jobString>正在制造 战争面具。</Make_Apparel_WarMask.jobString>
+  <Make_Apparel_WarMask.label>制作战争面具</Make_Apparel_WarMask.label>
+  <Make_Apparel_WarMask.description>制作战争面具。</Make_Apparel_WarMask.description>
+  <Make_Apparel_WarMask.jobString>正在制作战争面具。</Make_Apparel_WarMask.jobString>
 
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_Apparel_PowerArmorHelmet.label>制造 动力头盔</Make_Apparel_PowerArmorHelmet.label>
-  <Make_Apparel_PowerArmorHelmet.description>制造 动力头盔。</Make_Apparel_PowerArmorHelmet.description>
-  <Make_Apparel_PowerArmorHelmet.jobString>正在制造 动力头盔。</Make_Apparel_PowerArmorHelmet.jobString>
+  <Make_Apparel_PowerArmorHelmet.label>制作动力头盔</Make_Apparel_PowerArmorHelmet.label>
+  <Make_Apparel_PowerArmorHelmet.description>制作动力头盔。</Make_Apparel_PowerArmorHelmet.description>
+  <Make_Apparel_PowerArmorHelmet.jobString>正在制作动力头盔。</Make_Apparel_PowerArmorHelmet.jobString>
 
-  <Make_Apparel_ArmorHelmetRecon.label>制造 侦察头盔</Make_Apparel_ArmorHelmetRecon.label>
-  <Make_Apparel_ArmorHelmetRecon.description>制造 侦察头盔。</Make_Apparel_ArmorHelmetRecon.description>
-  <Make_Apparel_ArmorHelmetRecon.jobString>正在制造 侦察头盔。</Make_Apparel_ArmorHelmetRecon.jobString>
+  <Make_Apparel_ArmorHelmetRecon.label>制作侦察头盔</Make_Apparel_ArmorHelmetRecon.label>
+  <Make_Apparel_ArmorHelmetRecon.description>制作侦察头盔。</Make_Apparel_ArmorHelmetRecon.description>
+  <Make_Apparel_ArmorHelmetRecon.jobString>正在制作侦察头盔。</Make_Apparel_ArmorHelmetRecon.jobString>
 
-  <Make_Apparello_Proto.label>制造 精神力头饰</Make_Apparello_Proto.label>
-  <Make_Apparello_Proto.description>制造 精神力头饰。</Make_Apparello_Proto.description>
-  <Make_Apparello_Proto.jobString>正在制造 精神力头饰。</Make_Apparello_Proto.jobString>
+  <Make_Apparello_Proto.label>制作精神力头饰</Make_Apparello_Proto.label>
+  <Make_Apparello_Proto.description>制作精神力头饰。</Make_Apparello_Proto.description>
+  <Make_Apparello_Proto.jobString>正在制作精神力头饰。</Make_Apparello_Proto.jobString>
 
-  <Make_Apparello_ProtoFin.label>制造 心灵冲击头饰</Make_Apparello_ProtoFin.label>
-  <Make_Apparello_ProtoFin.description>制造 心灵冲击头饰。</Make_Apparello_ProtoFin.description>
-  <Make_Apparello_ProtoFin.jobString>正在制造 心灵冲击头饰。</Make_Apparello_ProtoFin.jobString>
+  <Make_Apparello_ProtoFin.label>制作心灵冲击头饰</Make_Apparello_ProtoFin.label>
+  <Make_Apparello_ProtoFin.description>制作心灵冲击头饰。</Make_Apparello_ProtoFin.description>
+  <Make_Apparello_ProtoFin.jobString>正在制作心灵冲击头饰。</Make_Apparello_ProtoFin.jobString>
 
-  <Make_Apparello_Antsyhat.label>制造 反对者头饰</Make_Apparello_Antsyhat.label>
-  <Make_Apparello_Antsyhat.description>制造 反对者头饰。</Make_Apparello_Antsyhat.description>
-  <Make_Apparello_Antsyhat.jobString>正在制造 反对者头饰。</Make_Apparello_Antsyhat.jobString>
+  <Make_Apparello_Antsyhat.label>制作反对者头饰</Make_Apparello_Antsyhat.label>
+  <Make_Apparello_Antsyhat.description>制作反对者头饰。</Make_Apparello_Antsyhat.description>
+  <Make_Apparello_Antsyhat.jobString>正在制作反对者头饰。</Make_Apparello_Antsyhat.jobString>
 
-  <Make_Apparello_Meffect.label>制造 适应性头罩</Make_Apparello_Meffect.label>
-  <Make_Apparello_Meffect.description>制造 适应性头罩。</Make_Apparello_Meffect.description>
-  <Make_Apparello_Meffect.jobString>正在制造 适应性头罩。</Make_Apparello_Meffect.jobString>
+  <Make_Apparello_Meffect.label>制作适应性头罩</Make_Apparello_Meffect.label>
+  <Make_Apparello_Meffect.description>制作适应性头罩。</Make_Apparello_Meffect.description>
+  <Make_Apparello_Meffect.jobString>正在制作适应性头罩。</Make_Apparello_Meffect.jobString>
 
-  <Make_Apparello_Hivehell.label>制造 蒸汽头盔</Make_Apparello_Hivehell.label>
-  <Make_Apparello_Hivehell.description>制造 蒸汽头盔。</Make_Apparello_Hivehell.description>
-  <Make_Apparello_Hivehell.jobString>正在制造 蒸汽头盔。</Make_Apparello_Hivehell.jobString>
+  <Make_Apparello_Hivehell.label>制作蒸汽头盔</Make_Apparello_Hivehell.label>
+  <Make_Apparello_Hivehell.description>制作蒸汽头盔。</Make_Apparello_Hivehell.description>
+  <Make_Apparello_Hivehell.jobString>正在制作蒸汽头盔。</Make_Apparello_Hivehell.jobString>
 
-  <Make_Apparello_LPow.label>制造 轻型动力头盔</Make_Apparello_LPow.label>
-  <Make_Apparello_LPow.description>制造 轻型动力头盔。</Make_Apparello_LPow.description>
-  <Make_Apparello_LPow.jobString>正在制造 轻型动力头盔。</Make_Apparello_LPow.jobString>
+  <Make_Apparello_LPow.label>制作轻型动力头盔</Make_Apparello_LPow.label>
+  <Make_Apparello_LPow.description>制作轻型动力头盔。</Make_Apparello_LPow.description>
+  <Make_Apparello_LPow.jobString>正在制作轻型动力头盔。</Make_Apparello_LPow.jobString>
 
-  <Make_Apparel_DoomHelmet.label>制造 末日头盔</Make_Apparel_DoomHelmet.label>
-  <Make_Apparel_DoomHelmet.description>制造 末日头盔。</Make_Apparel_DoomHelmet.description>
-  <Make_Apparel_DoomHelmet.jobString>正在制造 末日头盔。</Make_Apparel_DoomHelmet.jobString>
+  <Make_Apparel_DoomHelmet.label>制作末日头盔</Make_Apparel_DoomHelmet.label>
+  <Make_Apparel_DoomHelmet.description>制作末日头盔。</Make_Apparel_DoomHelmet.description>
+  <Make_Apparel_DoomHelmet.jobString>正在制作末日头盔。</Make_Apparel_DoomHelmet.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparel_SimpleHelmet.label>制造 简易头盔</Make_Apparel_SimpleHelmet.label>
-  <Make_Apparel_SimpleHelmet.description>制造 简易头盔。</Make_Apparel_SimpleHelmet.description>
-  <Make_Apparel_SimpleHelmet.jobString>正在制造 简易头盔。</Make_Apparel_SimpleHelmet.jobString>
+  <Make_Apparel_SimpleHelmet.label>制作简易头盔</Make_Apparel_SimpleHelmet.label>
+  <Make_Apparel_SimpleHelmet.description>制作简易头盔。</Make_Apparel_SimpleHelmet.description>
+  <Make_Apparel_SimpleHelmet.jobString>正在制作简易头盔。</Make_Apparel_SimpleHelmet.jobString>
 
-  <Make_Apparel_AdvancedHelmet.label>制造 高级头盔</Make_Apparel_AdvancedHelmet.label>
-  <Make_Apparel_AdvancedHelmet.description>制造 高级头盔。</Make_Apparel_AdvancedHelmet.description>
-  <Make_Apparel_AdvancedHelmet.jobString>正在制造 高级头盔。</Make_Apparel_AdvancedHelmet.jobString>
+  <Make_Apparel_AdvancedHelmet.label>制作高级头盔</Make_Apparel_AdvancedHelmet.label>
+  <Make_Apparel_AdvancedHelmet.description>制作高级头盔。</Make_Apparel_AdvancedHelmet.description>
+  <Make_Apparel_AdvancedHelmet.jobString>正在制作高级头盔。</Make_Apparel_AdvancedHelmet.jobString>
 
-  <Make_Apparello_Medband.label>制造 医用头巾</Make_Apparello_Medband.label>
-  <Make_Apparello_Medband.description>制造 医用头巾。</Make_Apparello_Medband.description>
-  <Make_Apparello_Medband.jobString>正在制造 医用头巾。</Make_Apparello_Medband.jobString>
+  <Make_Apparello_Medband.label>制作医用头巾</Make_Apparello_Medband.label>
+  <Make_Apparello_Medband.description>制作医用头巾。</Make_Apparello_Medband.description>
+  <Make_Apparello_Medband.jobString>正在制作医用头巾。</Make_Apparello_Medband.jobString>
 
-  <Make_Apparello_Beret.label>制造 贝雷帽</Make_Apparello_Beret.label>
-  <Make_Apparello_Beret.description>制造 贝雷帽。</Make_Apparello_Beret.description>
-  <Make_Apparello_Beret.jobString>正在制造 贝雷帽。</Make_Apparello_Beret.jobString>
+  <Make_Apparello_Beret.label>制作贝雷帽</Make_Apparello_Beret.label>
+  <Make_Apparello_Beret.description>制作贝雷帽。</Make_Apparello_Beret.description>
+  <Make_Apparello_Beret.jobString>正在制作贝雷帽。</Make_Apparello_Beret.jobString>
 
 
   <!-- Recipe Users: FueledSmithy, ElectricSmithy -->
 
-  <Make_Apparello_Moron.label>制造 圆边头盔</Make_Apparello_Moron.label>
-  <Make_Apparello_Moron.description>制造 圆边头盔。</Make_Apparello_Moron.description>
-  <Make_Apparello_Moron.jobString>正在制造 圆边头盔。</Make_Apparello_Moron.jobString>
+  <Make_Apparello_Moron.label>制作圆边头盔</Make_Apparello_Moron.label>
+  <Make_Apparello_Moron.description>制作圆边头盔。</Make_Apparello_Moron.description>
+  <Make_Apparello_Moron.jobString>正在制作圆边头盔。</Make_Apparello_Moron.jobString>
 
 
   <!-- Recipe Users: LeatherworkerTable -->
 
-  <Make_Apparello_MojoFeather.label>制造 部落头饰</Make_Apparello_MojoFeather.label>
-  <Make_Apparello_MojoFeather.description>制造 部落头饰。</Make_Apparello_MojoFeather.description>
-  <Make_Apparello_MojoFeather.jobString>正在制造 部落头饰。</Make_Apparello_MojoFeather.jobString>
+  <Make_Apparello_MojoFeather.label>制作部落头饰</Make_Apparello_MojoFeather.label>
+  <Make_Apparello_MojoFeather.description>制作部落头饰。</Make_Apparello_MojoFeather.description>
+  <Make_Apparello_MojoFeather.jobString>正在制作部落头饰。</Make_Apparello_MojoFeather.jobString>
 
-  <Make_Apparello_Furxhood.label>制造 皮质头盔</Make_Apparello_Furxhood.label>
-  <Make_Apparello_Furxhood.description>制造 皮质头盔。</Make_Apparello_Furxhood.description>
-  <Make_Apparello_Furxhood.jobString>正在制造 皮质头盔。</Make_Apparello_Furxhood.jobString>
+  <Make_Apparello_Furxhood.label>制作皮质头盔</Make_Apparello_Furxhood.label>
+  <Make_Apparello_Furxhood.description>制作皮质头盔。</Make_Apparello_Furxhood.description>
+  <Make_Apparello_Furxhood.jobString>正在制作皮质头盔。</Make_Apparello_Furxhood.jobString>
 
-  <Make_Apparell_ArcticWolfHood.label>制造 狼头罩</Make_Apparell_ArcticWolfHood.label>
-  <Make_Apparell_ArcticWolfHood.description>制造 狼头罩。</Make_Apparell_ArcticWolfHood.description>
-  <Make_Apparell_ArcticWolfHood.jobString>正在制造 狼头罩。</Make_Apparell_ArcticWolfHood.jobString>
+  <Make_Apparell_ArcticWolfHood.label>制作狼头罩</Make_Apparell_ArcticWolfHood.label>
+  <Make_Apparell_ArcticWolfHood.description>制作狼头罩。</Make_Apparell_ArcticWolfHood.description>
+  <Make_Apparell_ArcticWolfHood.jobString>正在制作狼头罩。</Make_Apparell_ArcticWolfHood.jobString>
 
-  <Make_Apparel_WarVeil.label>制造 甲壳头盔</Make_Apparel_WarVeil.label>
-  <Make_Apparel_WarVeil.description>制造 甲壳头盔。</Make_Apparel_WarVeil.description>
-  <Make_Apparel_WarVeil.jobString>正在制造 甲壳头盔。</Make_Apparel_WarVeil.jobString>
+  <Make_Apparel_WarVeil.label>制作甲壳头盔</Make_Apparel_WarVeil.label>
+  <Make_Apparel_WarVeil.description>制作甲壳头盔。</Make_Apparel_WarVeil.description>
+  <Make_Apparel_WarVeil.jobString>正在制作甲壳头盔。</Make_Apparel_WarVeil.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparello_Furhat.label>制造 皮帽</Make_Apparello_Furhat.label>
-  <Make_Apparello_Furhat.description>制造 皮帽。</Make_Apparello_Furhat.description>
-  <Make_Apparello_Furhat.jobString>正在制造 皮帽。</Make_Apparello_Furhat.jobString>
+  <Make_Apparello_Furhat.label>制作皮帽</Make_Apparello_Furhat.label>
+  <Make_Apparello_Furhat.description>制作皮帽。</Make_Apparello_Furhat.description>
+  <Make_Apparello_Furhat.jobString>正在制作皮帽。</Make_Apparello_Furhat.jobString>
 
-  <Make_Apparello_pieband.label>制造 头巾</Make_Apparello_pieband.label>
-  <Make_Apparello_pieband.description>制造 头巾。</Make_Apparello_pieband.description>
-  <Make_Apparello_pieband.jobString>正在制造 头巾。</Make_Apparello_pieband.jobString>
+  <Make_Apparello_pieband.label>制作头巾</Make_Apparello_pieband.label>
+  <Make_Apparello_pieband.description>制作头巾。</Make_Apparello_pieband.description>
+  <Make_Apparello_pieband.jobString>正在制作头巾。</Make_Apparello_pieband.jobString>
 
-  <Make_Apparel_CowboyHat.label>制造 侠盗帽</Make_Apparel_CowboyHat.label>
-  <Make_Apparel_CowboyHat.description>制造 侠盗帽。</Make_Apparel_CowboyHat.description>
-  <Make_Apparel_CowboyHat.jobString>正在制造 侠盗帽。</Make_Apparel_CowboyHat.jobString>
+  <Make_Apparel_CowboyHat.label>制作侠盗帽</Make_Apparel_CowboyHat.label>
+  <Make_Apparel_CowboyHat.description>制作侠盗帽。</Make_Apparel_CowboyHat.description>
+  <Make_Apparel_CowboyHat.jobString>正在制作侠盗帽。</Make_Apparel_CowboyHat.jobString>
 
-  <Make_Apparel_Kufiya.label>制造 包头巾</Make_Apparel_Kufiya.label>
-  <Make_Apparel_Kufiya.description>制造 包头巾。</Make_Apparel_Kufiya.description>
-  <Make_Apparel_Kufiya.jobString>正在制造 包头巾。</Make_Apparel_Kufiya.jobString>
+  <Make_Apparel_Kufiya.label>制作包头巾</Make_Apparel_Kufiya.label>
+  <Make_Apparel_Kufiya.description>制作包头巾。</Make_Apparel_Kufiya.description>
+  <Make_Apparel_Kufiya.jobString>正在制作包头巾。</Make_Apparel_Kufiya.jobString>
 
-  <Make_Apparello_Chefhat.label>制造 厨师帽</Make_Apparello_Chefhat.label>
-  <Make_Apparello_Chefhat.description>制造 厨师帽。</Make_Apparello_Chefhat.description>
-  <Make_Apparello_Chefhat.jobString>正在制造 厨师帽。</Make_Apparello_Chefhat.jobString>
+  <Make_Apparello_Chefhat.label>制作厨师帽</Make_Apparello_Chefhat.label>
+  <Make_Apparello_Chefhat.description>制作厨师帽。</Make_Apparello_Chefhat.description>
+  <Make_Apparello_Chefhat.jobString>正在制作厨师帽。</Make_Apparello_Chefhat.jobString>
 
-  <Make_Apparello_Tricorn.label>制造 三角帽</Make_Apparello_Tricorn.label>
-  <Make_Apparello_Tricorn.description>制造 三角帽。</Make_Apparello_Tricorn.description>
-  <Make_Apparello_Tricorn.jobString>正在制造 三角帽。</Make_Apparello_Tricorn.jobString>
+  <Make_Apparello_Tricorn.label>制作三角帽</Make_Apparello_Tricorn.label>
+  <Make_Apparello_Tricorn.description>制作三角帽。</Make_Apparello_Tricorn.description>
+  <Make_Apparello_Tricorn.jobString>正在制作三角帽。</Make_Apparello_Tricorn.jobString>
 
-  <Make_Apparel_BeanieCat.label>制造 猫耳帽</Make_Apparel_BeanieCat.label>
-  <Make_Apparel_BeanieCat.description>制造 猫耳帽。</Make_Apparel_BeanieCat.description>
-  <Make_Apparel_BeanieCat.jobString>正在制造 猫耳帽。</Make_Apparel_BeanieCat.jobString>
+  <Make_Apparel_BeanieCat.label>制作猫耳帽</Make_Apparel_BeanieCat.label>
+  <Make_Apparel_BeanieCat.description>制作猫耳帽。</Make_Apparel_BeanieCat.description>
+  <Make_Apparel_BeanieCat.jobString>正在制作猫耳帽。</Make_Apparel_BeanieCat.jobString>
 
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_Apparello_Raz.label>制造 乐丝面甲</Make_Apparello_Raz.label>
-  <Make_Apparello_Raz.description>制造 乐丝面甲。</Make_Apparello_Raz.description>
-  <Make_Apparello_Raz.jobString>正在制造 乐丝面甲。</Make_Apparello_Raz.jobString>
+  <Make_Apparello_Raz.label>制作乐丝面甲</Make_Apparello_Raz.label>
+  <Make_Apparello_Raz.description>制作乐丝面甲。</Make_Apparello_Raz.description>
+  <Make_Apparello_Raz.jobString>正在制作乐丝面甲。</Make_Apparello_Raz.jobString>
 
-  <Make_Apparello_Quote.label>制造 战地工程师面甲</Make_Apparello_Quote.label>
-  <Make_Apparello_Quote.description>制造 战地工程师面甲。</Make_Apparello_Quote.description>
-  <Make_Apparello_Quote.jobString>正在制造 战地工程师面甲。</Make_Apparello_Quote.jobString>
+  <Make_Apparello_Quote.label>制作战地工程师面甲</Make_Apparello_Quote.label>
+  <Make_Apparello_Quote.description>制作战地工程师面甲。</Make_Apparello_Quote.description>
+  <Make_Apparello_Quote.jobString>正在制作战地工程师面甲。</Make_Apparello_Quote.jobString>
 
-  <Make_Apparel_PsychicFoilHelmet.label>制造 心灵防护头盔</Make_Apparel_PsychicFoilHelmet.label>
-  <Make_Apparel_PsychicFoilHelmet.description>制造 心灵防护头盔。</Make_Apparel_PsychicFoilHelmet.description>
-  <Make_Apparel_PsychicFoilHelmet.jobString>正在制造 心灵防护头盔。</Make_Apparel_PsychicFoilHelmet.jobString>
+  <Make_Apparel_PsychicFoilHelmet.label>制作心灵防护头盔</Make_Apparel_PsychicFoilHelmet.label>
+  <Make_Apparel_PsychicFoilHelmet.description>制作心灵防护头盔。</Make_Apparel_PsychicFoilHelmet.description>
+  <Make_Apparel_PsychicFoilHelmet.jobString>正在制作心灵防护头盔。</Make_Apparel_PsychicFoilHelmet.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparel_TacVest.label>制造 战术背袋</Make_Apparel_TacVest.label>
-  <Make_Apparel_TacVest.description>制造 战术背袋。</Make_Apparel_TacVest.description>
-  <Make_Apparel_TacVest.jobString>正在制造 战术背袋。</Make_Apparel_TacVest.jobString>
+  <Make_Apparel_TacVest.label>制作战术背袋</Make_Apparel_TacVest.label>
+  <Make_Apparel_TacVest.description>制作战术背袋。</Make_Apparel_TacVest.description>
+  <Make_Apparel_TacVest.jobString>正在制作战术背袋。</Make_Apparel_TacVest.jobString>
 
-  <Make_Apparello_Ammobelt.label>制造 子弹带</Make_Apparello_Ammobelt.label>
-  <Make_Apparello_Ammobelt.description>制造 子弹带。</Make_Apparello_Ammobelt.description>
-  <Make_Apparello_Ammobelt.jobString>正在制造 子弹带。</Make_Apparello_Ammobelt.jobString>
+  <Make_Apparello_Ammobelt.label>制作子弹带</Make_Apparello_Ammobelt.label>
+  <Make_Apparello_Ammobelt.description>制作子弹带。</Make_Apparello_Ammobelt.description>
+  <Make_Apparello_Ammobelt.jobString>正在制作子弹带。</Make_Apparello_Ammobelt.jobString>
 
-  <Make_Apparel_Backpack.label>制造 背包</Make_Apparel_Backpack.label>
-  <Make_Apparel_Backpack.description>制造 背包。</Make_Apparel_Backpack.description>
-  <Make_Apparel_Backpack.jobString>正在制造 背包。</Make_Apparel_Backpack.jobString>
+  <Make_Apparel_Backpack.label>制作背包</Make_Apparel_Backpack.label>
+  <Make_Apparel_Backpack.description>制作背包。</Make_Apparel_Backpack.description>
+  <Make_Apparel_Backpack.jobString>正在制作背包。</Make_Apparel_Backpack.jobString>
 
 
   <!-- Recipe Users: LeatherworkerTable -->
 
-  <Make_Apparel_TribalBackpack.label>制造 部落背包</Make_Apparel_TribalBackpack.label>
-  <Make_Apparel_TribalBackpack.description>制造 部落背包。</Make_Apparel_TribalBackpack.description>
-  <Make_Apparel_TribalBackpack.jobString>正在制造 部落背包。</Make_Apparel_TribalBackpack.jobString>
+  <Make_Apparel_TribalBackpack.label>制作部落背包</Make_Apparel_TribalBackpack.label>
+  <Make_Apparel_TribalBackpack.description>制作部落背包。</Make_Apparel_TribalBackpack.description>
+  <Make_Apparel_TribalBackpack.jobString>正在制作部落背包。</Make_Apparel_TribalBackpack.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparello_Lederhose.label>制造 皮裤</Make_Apparello_Lederhose.label>
-  <Make_Apparello_Lederhose.description>制造 皮裤。</Make_Apparello_Lederhose.description>
-  <Make_Apparello_Lederhose.jobString>正在制造 皮裤。</Make_Apparello_Lederhose.jobString>
+  <Make_Apparello_Lederhose.label>制作皮裤</Make_Apparello_Lederhose.label>
+  <Make_Apparello_Lederhose.description>制作皮裤。</Make_Apparello_Lederhose.description>
+  <Make_Apparello_Lederhose.jobString>正在制作皮裤。</Make_Apparello_Lederhose.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
 
-  <Make_Norballo_Loincloth.label>制造 束带</Make_Norballo_Loincloth.label>
-  <Make_Norballo_Loincloth.description>制造 束带。</Make_Norballo_Loincloth.description>
-  <Make_Norballo_Loincloth.jobString>正在制造 束带。</Make_Norballo_Loincloth.jobString>
+  <Make_Norballo_Loincloth.label>制作束带</Make_Norballo_Loincloth.label>
+  <Make_Norballo_Loincloth.description>制作束带。</Make_Norballo_Loincloth.description>
+  <Make_Norballo_Loincloth.jobString>正在制作束带。</Make_Norballo_Loincloth.jobString>
 
-  <Make_MedievalTimes_Pants_Suspenders.label>制造 背带裤</Make_MedievalTimes_Pants_Suspenders.label>
-  <Make_MedievalTimes_Pants_Suspenders.description>制造 背带裤。</Make_MedievalTimes_Pants_Suspenders.description>
-  <Make_MedievalTimes_Pants_Suspenders.jobString>正在制造 背带裤。</Make_MedievalTimes_Pants_Suspenders.jobString>
+  <Make_MedievalTimes_Pants_Suspenders.label>制作背带裤</Make_MedievalTimes_Pants_Suspenders.label>
+  <Make_MedievalTimes_Pants_Suspenders.description>制作背带裤。</Make_MedievalTimes_Pants_Suspenders.description>
+  <Make_MedievalTimes_Pants_Suspenders.jobString>正在制作背带裤。</Make_MedievalTimes_Pants_Suspenders.jobString>
 
-  <Make_MedievalTimes_Pants_Suspenders_Striped.label>制造 条纹背带裤</Make_MedievalTimes_Pants_Suspenders_Striped.label>
-  <Make_MedievalTimes_Pants_Suspenders_Striped.description>制造 条纹背带裤。</Make_MedievalTimes_Pants_Suspenders_Striped.description>
-  <Make_MedievalTimes_Pants_Suspenders_Striped.jobString>正在制造 条纹背带裤。</Make_MedievalTimes_Pants_Suspenders_Striped.jobString>
+  <Make_MedievalTimes_Pants_Suspenders_Striped.label>制作条纹背带裤</Make_MedievalTimes_Pants_Suspenders_Striped.label>
+  <Make_MedievalTimes_Pants_Suspenders_Striped.description>制作条纹背带裤。</Make_MedievalTimes_Pants_Suspenders_Striped.description>
+  <Make_MedievalTimes_Pants_Suspenders_Striped.jobString>正在制作条纹背带裤。</Make_MedievalTimes_Pants_Suspenders_Striped.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparello_Jeans.label>制造 牛仔裤</Make_Apparello_Jeans.label>
-  <Make_Apparello_Jeans.description>制造 牛仔裤。</Make_Apparello_Jeans.description>
-  <Make_Apparello_Jeans.jobString>正在制造 牛仔裤。</Make_Apparello_Jeans.jobString>
+  <Make_Apparello_Jeans.label>制作牛仔裤</Make_Apparello_Jeans.label>
+  <Make_Apparello_Jeans.description>制作牛仔裤。</Make_Apparello_Jeans.description>
+  <Make_Apparello_Jeans.jobString>正在制作牛仔裤。</Make_Apparello_Jeans.jobString>
 
-  <Make_Apparello_Suspender.label>制造 工装裤</Make_Apparello_Suspender.label>
-  <Make_Apparello_Suspender.description>制造 工装裤。</Make_Apparello_Suspender.description>
-  <Make_Apparello_Suspender.jobString>正在制造 工装裤。</Make_Apparello_Suspender.jobString>
+  <Make_Apparello_Suspender.label>制作工装裤</Make_Apparello_Suspender.label>
+  <Make_Apparello_Suspender.description>制作工装裤。</Make_Apparello_Suspender.description>
+  <Make_Apparello_Suspender.jobString>正在制作工装裤。</Make_Apparello_Suspender.jobString>
 
-  <Make_Apparel_Pants.label>制造 吊带裤</Make_Apparel_Pants.label>
-  <Make_Apparel_Pants.description>制造 吊带裤。</Make_Apparel_Pants.description>
-  <Make_Apparel_Pants.jobString>正在制造 吊带裤。</Make_Apparel_Pants.jobString>
+  <Make_Apparel_Pants.label>制作吊带裤</Make_Apparel_Pants.label>
+  <Make_Apparel_Pants.description>制作吊带裤。</Make_Apparel_Pants.description>
+  <Make_Apparel_Pants.jobString>正在制作吊带裤。</Make_Apparel_Pants.jobString>
 
-  <Make_Apparel_FlakPants.label>制造 护甲裤</Make_Apparel_FlakPants.label>
-  <Make_Apparel_FlakPants.description>制造 护甲裤。</Make_Apparel_FlakPants.description>
-  <Make_Apparel_FlakPants.jobString>正在制造 护甲裤。</Make_Apparel_FlakPants.jobString>
+  <Make_Apparel_FlakPants.label>制作护甲裤</Make_Apparel_FlakPants.label>
+  <Make_Apparel_FlakPants.description>制作护甲裤。</Make_Apparel_FlakPants.description>
+  <Make_Apparel_FlakPants.jobString>正在制作护甲裤。</Make_Apparel_FlakPants.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
 
-  <Make_Apparello_Holser.label>制造 枪套护腿</Make_Apparello_Holser.label>
-  <Make_Apparello_Holser.description>制造 枪套护腿。</Make_Apparello_Holser.description>
-  <Make_Apparello_Holser.jobString>正在制造 枪套护腿。</Make_Apparello_Holser.jobString>
+  <Make_Apparello_Holser.label>制作枪套护腿</Make_Apparello_Holser.label>
+  <Make_Apparello_Holser.description>制作枪套护腿。</Make_Apparello_Holser.description>
+  <Make_Apparello_Holser.jobString>正在制作枪套护腿。</Make_Apparello_Holser.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparello_Pollypolly.label>制造 建筑师裤子</Make_Apparello_Pollypolly.label>
-  <Make_Apparello_Pollypolly.description>制造 建筑师裤子。</Make_Apparello_Pollypolly.description>
-  <Make_Apparello_Pollypolly.jobString>正在制造 建筑师裤子。</Make_Apparello_Pollypolly.jobString>
+  <Make_Apparello_Pollypolly.label>制作建筑师裤子</Make_Apparello_Pollypolly.label>
+  <Make_Apparello_Pollypolly.description>制作建筑师裤子。</Make_Apparello_Pollypolly.description>
+  <Make_Apparello_Pollypolly.jobString>正在制作建筑师裤子。</Make_Apparello_Pollypolly.jobString>
 
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_Apparello_Spants.label>制造 空间陆战队护腿</Make_Apparello_Spants.label>
-  <Make_Apparello_Spants.description>制造 空间陆战队护腿。</Make_Apparello_Spants.description>
-  <Make_Apparello_Spants.jobString>正在制造 空间陆战队护腿。</Make_Apparello_Spants.jobString>
+  <Make_Apparello_Spants.label>制作空间陆战队护腿</Make_Apparello_Spants.label>
+  <Make_Apparello_Spants.description>制作空间陆战队护腿。</Make_Apparello_Spants.description>
+  <Make_Apparello_Spants.jobString>正在制作空间陆战队护腿。</Make_Apparello_Spants.jobString>
 
-  <Make_Apparello_Cryptonautpants.label>制造 平衡裤</Make_Apparello_Cryptonautpants.label>
-  <Make_Apparello_Cryptonautpants.description>制造 平衡裤。</Make_Apparello_Cryptonautpants.description>
-  <Make_Apparello_Cryptonautpants.jobString>正在制造 平衡裤。</Make_Apparello_Cryptonautpants.jobString>
+  <Make_Apparello_Cryptonautpants.label>制作平衡裤</Make_Apparello_Cryptonautpants.label>
+  <Make_Apparello_Cryptonautpants.description>制作平衡裤。</Make_Apparello_Cryptonautpants.description>
+  <Make_Apparello_Cryptonautpants.jobString>正在制作平衡裤。</Make_Apparello_Cryptonautpants.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparel_Respirator.label>制造 呼吸器</Make_Apparel_Respirator.label>
-  <Make_Apparel_Respirator.description>制造 呼吸器。</Make_Apparel_Respirator.description>
-  <Make_Apparel_Respirator.jobString>正在制造 呼吸器。</Make_Apparel_Respirator.jobString>
+  <Make_Apparel_Respirator.label>制作呼吸器</Make_Apparel_Respirator.label>
+  <Make_Apparel_Respirator.description>制作呼吸器。</Make_Apparel_Respirator.description>
+  <Make_Apparel_Respirator.jobString>正在制作呼吸器。</Make_Apparel_Respirator.jobString>
 
 
   <!-- Recipe Users: FueledSmithy, ElectricSmithy -->
 
-  <Make_Apparel_PlagueDoctorMask.label>制造 鸦头面罩</Make_Apparel_PlagueDoctorMask.label>
-  <Make_Apparel_PlagueDoctorMask.description>制造 鸦头面罩。</Make_Apparel_PlagueDoctorMask.description>
-  <Make_Apparel_PlagueDoctorMask.jobString>正在制造 鸦头面罩。</Make_Apparel_PlagueDoctorMask.jobString>
+  <Make_Apparel_PlagueDoctorMask.label>制作鸦头面罩</Make_Apparel_PlagueDoctorMask.label>
+  <Make_Apparel_PlagueDoctorMask.description>制作鸦头面罩。</Make_Apparel_PlagueDoctorMask.description>
+  <Make_Apparel_PlagueDoctorMask.jobString>正在制作鸦头面罩。</Make_Apparel_PlagueDoctorMask.jobString>
 
 
   <!-- Recipe Users: TableElectronics -->
 
-  <Make_Apparel_SmokepopBelt.label>制造 烟罐腰带</Make_Apparel_SmokepopBelt.label>
-  <Make_Apparel_SmokepopBelt.description>制造 烟罐腰带。</Make_Apparel_SmokepopBelt.description>
-  <Make_Apparel_SmokepopBelt.jobString>正在制造 烟罐腰带。</Make_Apparel_SmokepopBelt.jobString>
+  <Make_Apparel_SmokepopBelt.label>制作烟罐腰带</Make_Apparel_SmokepopBelt.label>
+  <Make_Apparel_SmokepopBelt.description>制作烟罐腰带。</Make_Apparel_SmokepopBelt.description>
+  <Make_Apparel_SmokepopBelt.jobString>正在制作烟罐腰带。</Make_Apparel_SmokepopBelt.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_SpeacialForces_Bodysuit.label>制造 陆战队紧身衣</Make_SpeacialForces_Bodysuit.label>
-  <Make_SpeacialForces_Bodysuit.description>制造 陆战队紧身衣。</Make_SpeacialForces_Bodysuit.description>
-  <Make_SpeacialForces_Bodysuit.jobString>正在制造 陆战队紧身衣。</Make_SpeacialForces_Bodysuit.jobString>
+  <Make_SpeacialForces_Bodysuit.label>制作陆战队紧身衣</Make_SpeacialForces_Bodysuit.label>
+  <Make_SpeacialForces_Bodysuit.description>制作陆战队紧身衣。</Make_SpeacialForces_Bodysuit.description>
+  <Make_SpeacialForces_Bodysuit.jobString>正在制作陆战队紧身衣。</Make_SpeacialForces_Bodysuit.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
 
-  <Make_Norballo_Shirt.label>制造 普通衬衫</Make_Norballo_Shirt.label>
-  <Make_Norballo_Shirt.description>制造 普通衬衫。</Make_Norballo_Shirt.description>
-  <Make_Norballo_Shirt.jobString>正在制造 普通衬衫。</Make_Norballo_Shirt.jobString>
+  <Make_Norballo_Shirt.label>制作普通衬衫</Make_Norballo_Shirt.label>
+  <Make_Norballo_Shirt.description>制作普通衬衫。</Make_Norballo_Shirt.description>
+  <Make_Norballo_Shirt.jobString>正在制作普通衬衫。</Make_Norballo_Shirt.jobString>
 
-  <Make_MedievalArmor_Gambeson.label>制造 软铠</Make_MedievalArmor_Gambeson.label>
-  <Make_MedievalArmor_Gambeson.description>制造 软铠。</Make_MedievalArmor_Gambeson.description>
-  <Make_MedievalArmor_Gambeson.jobString>正在制造 软铠。</Make_MedievalArmor_Gambeson.jobString>
+  <Make_MedievalArmor_Gambeson.label>制作软铠</Make_MedievalArmor_Gambeson.label>
+  <Make_MedievalArmor_Gambeson.description>制作软铠。</Make_MedievalArmor_Gambeson.description>
+  <Make_MedievalArmor_Gambeson.jobString>正在制作软铠。</Make_MedievalArmor_Gambeson.jobString>
 
-  <Make_MedievalTimes_Shirt_Tunic.label>制造 中世纪短袍</Make_MedievalTimes_Shirt_Tunic.label>
-  <Make_MedievalTimes_Shirt_Tunic.description>制造 中世纪短袍。</Make_MedievalTimes_Shirt_Tunic.description>
-  <Make_MedievalTimes_Shirt_Tunic.jobString>正在制造 中世纪短袍。</Make_MedievalTimes_Shirt_Tunic.jobString>
+  <Make_MedievalTimes_Shirt_Tunic.label>制作中世纪短袍</Make_MedievalTimes_Shirt_Tunic.label>
+  <Make_MedievalTimes_Shirt_Tunic.description>制作中世纪短袍。</Make_MedievalTimes_Shirt_Tunic.description>
+  <Make_MedievalTimes_Shirt_Tunic.jobString>正在制作中世纪短袍。</Make_MedievalTimes_Shirt_Tunic.jobString>
 
-  <Make_Apparel_BasicShirt.label>制造 T恤衫</Make_Apparel_BasicShirt.label>
-  <Make_Apparel_BasicShirt.description>制造 T恤衫。</Make_Apparel_BasicShirt.description>
-  <Make_Apparel_BasicShirt.jobString>正在制造 T恤衫。</Make_Apparel_BasicShirt.jobString>
+  <Make_Apparel_BasicShirt.label>制作T恤衫</Make_Apparel_BasicShirt.label>
+  <Make_Apparel_BasicShirt.description>制作T恤衫。</Make_Apparel_BasicShirt.description>
+  <Make_Apparel_BasicShirt.jobString>正在制作T恤衫。</Make_Apparel_BasicShirt.jobString>
 
-  <Make_Apparel_CollarShirt.label>制造 纽扣衬衫</Make_Apparel_CollarShirt.label>
-  <Make_Apparel_CollarShirt.description>制造 纽扣衬衫。</Make_Apparel_CollarShirt.description>
-  <Make_Apparel_CollarShirt.jobString>正在制造 纽扣衬衫。</Make_Apparel_CollarShirt.jobString>
+  <Make_Apparel_CollarShirt.label>制作纽扣衬衫</Make_Apparel_CollarShirt.label>
+  <Make_Apparel_CollarShirt.description>制作纽扣衬衫。</Make_Apparel_CollarShirt.description>
+  <Make_Apparel_CollarShirt.jobString>正在制作纽扣衬衫。</Make_Apparel_CollarShirt.jobString>
 
-  <Make_Apparello_Urbulence.label>制造 都市衬衫</Make_Apparello_Urbulence.label>
-  <Make_Apparello_Urbulence.description>制造 都市衬衫。</Make_Apparello_Urbulence.description>
-  <Make_Apparello_Urbulence.jobString>正在制造 都市衬衫。</Make_Apparello_Urbulence.jobString>
+  <Make_Apparello_Urbulence.label>制作都市衬衫</Make_Apparello_Urbulence.label>
+  <Make_Apparello_Urbulence.description>制作都市衬衫。</Make_Apparello_Urbulence.description>
+  <Make_Apparello_Urbulence.jobString>正在制作都市衬衫。</Make_Apparello_Urbulence.jobString>
 
-  <Make_Apparello_Tunic.label>制造 短袍</Make_Apparello_Tunic.label>
-  <Make_Apparello_Tunic.description>制造 短袍。</Make_Apparello_Tunic.description>
-  <Make_Apparello_Tunic.jobString>正在制造 短袍。</Make_Apparello_Tunic.jobString>
+  <Make_Apparello_Tunic.label>制作短袍</Make_Apparello_Tunic.label>
+  <Make_Apparello_Tunic.description>制作短袍。</Make_Apparello_Tunic.description>
+  <Make_Apparello_Tunic.jobString>正在制作短袍。</Make_Apparello_Tunic.jobString>
 
-  <Make_Apparel_Scrubs.label>制造 医师袍</Make_Apparel_Scrubs.label>
-  <Make_Apparel_Scrubs.description>制造 医师袍。</Make_Apparel_Scrubs.description>
-  <Make_Apparel_Scrubs.jobString>正在制造 医师袍。</Make_Apparel_Scrubs.jobString>
+  <Make_Apparel_Scrubs.label>制作医师袍</Make_Apparel_Scrubs.label>
+  <Make_Apparel_Scrubs.description>制作医师袍。</Make_Apparel_Scrubs.description>
+  <Make_Apparel_Scrubs.jobString>正在制作医师袍。</Make_Apparel_Scrubs.jobString>
 
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_Apparello_Standissue.label>制造 标准军事工作服</Make_Apparello_Standissue.label>
-  <Make_Apparello_Standissue.description>制造 标准军事工作服。</Make_Apparello_Standissue.description>
-  <Make_Apparello_Standissue.jobString>正在制造 标准军事工作服。</Make_Apparello_Standissue.jobString>
+  <Make_Apparello_Standissue.label>制作标准军事工作服</Make_Apparello_Standissue.label>
+  <Make_Apparello_Standissue.description>制作标准军事工作服。</Make_Apparello_Standissue.description>
+  <Make_Apparello_Standissue.jobString>正在制作标准军事工作服。</Make_Apparello_Standissue.jobString>
 
-  <Make_Apparello_XcomOne.label>制造 空军罩衣</Make_Apparello_XcomOne.label>
-  <Make_Apparello_XcomOne.description>制造 空军罩衣。</Make_Apparello_XcomOne.description>
-  <Make_Apparello_XcomOne.jobString>正在制造 空军罩衣。</Make_Apparello_XcomOne.jobString>
+  <Make_Apparello_XcomOne.label>制作空军罩衣</Make_Apparello_XcomOne.label>
+  <Make_Apparello_XcomOne.description>制作空军罩衣。</Make_Apparello_XcomOne.description>
+  <Make_Apparello_XcomOne.jobString>正在制作空军罩衣。</Make_Apparello_XcomOne.jobString>
 
-  <Make_Apparello_GSkin.label>制造 连身衣</Make_Apparello_GSkin.label>
-  <Make_Apparello_GSkin.description>制造 连身衣。</Make_Apparello_GSkin.description>
-  <Make_Apparello_GSkin.jobString>正在制造 连身衣。</Make_Apparello_GSkin.jobString>
+  <Make_Apparello_GSkin.label>制作连身衣</Make_Apparello_GSkin.label>
+  <Make_Apparello_GSkin.description>制作连身衣。</Make_Apparello_GSkin.description>
+  <Make_Apparello_GSkin.jobString>正在制作连身衣。</Make_Apparello_GSkin.jobString>
 
-  <Make_Carbon_overalls.label>制造 碳纤维罩衣</Make_Carbon_overalls.label>
-  <Make_Carbon_overalls.description>制造 碳纤维罩衣。</Make_Carbon_overalls.description>
-  <Make_Carbon_overalls.jobString>正在制造 碳纤维罩衣。</Make_Carbon_overalls.jobString>
+  <Make_Carbon_overalls.label>制作碳纤维罩衣</Make_Carbon_overalls.label>
+  <Make_Carbon_overalls.description>制作碳纤维罩衣。</Make_Carbon_overalls.description>
+  <Make_Carbon_overalls.jobString>正在制作碳纤维罩衣。</Make_Carbon_overalls.jobString>
 
 
   <!-- Recipe Users: Kiln -->
 
-  <Make_ShieldTribal.label>制造 部落盾牌</Make_ShieldTribal.label>
-  <Make_ShieldTribal.description>制造 部落盾牌。</Make_ShieldTribal.description>
-  <Make_ShieldTribal.jobString>正在制造 部落盾牌。</Make_ShieldTribal.jobString>
+  <Make_ShieldTribal.label>制作部落盾牌</Make_ShieldTribal.label>
+  <Make_ShieldTribal.description>制作部落盾牌。</Make_ShieldTribal.description>
+  <Make_ShieldTribal.jobString>正在制作部落盾牌。</Make_ShieldTribal.jobString>
 
 
   <!-- Recipe Users: FueledSmithy -->
 
-  <Make_Buckler.label>制造 圆盾</Make_Buckler.label>
-  <Make_Buckler.description>制造 圆盾。</Make_Buckler.description>
-  <Make_Buckler.jobString>正在制造 圆盾。</Make_Buckler.jobString>
+  <Make_Buckler.label>制作圆盾</Make_Buckler.label>
+  <Make_Buckler.description>制作圆盾。</Make_Buckler.description>
+  <Make_Buckler.jobString>正在制作圆盾。</Make_Buckler.jobString>
 
 
   <!-- Recipe Users: FueledSmithy, ElectricSmithy -->
 
-  <Make_MedievalShield.label>制造 中世纪盾牌</Make_MedievalShield.label>
-  <Make_MedievalShield.description>制造 中世纪盾牌。</Make_MedievalShield.description>
-  <Make_MedievalShield.jobString>正在制造 中世纪盾牌。</Make_MedievalShield.jobString>
+  <Make_MedievalShield.label>制作中世纪盾牌</Make_MedievalShield.label>
+  <Make_MedievalShield.description>制作中世纪盾牌。</Make_MedievalShield.description>
+  <Make_MedievalShield.jobString>正在制作中世纪盾牌。</Make_MedievalShield.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_BallisticShield.label>制造 防弹盾牌</Make_BallisticShield.label>
-  <Make_BallisticShield.description>制造 防弹盾牌。</Make_BallisticShield.description>
-  <Make_BallisticShield.jobString>正在制造 防弹盾牌。</Make_BallisticShield.jobString>
+  <Make_BallisticShield.label>制作防弹盾牌</Make_BallisticShield.label>
+  <Make_BallisticShield.description>制作防弹盾牌。</Make_BallisticShield.description>
+  <Make_BallisticShield.jobString>正在制作防弹盾牌。</Make_BallisticShield.jobString>
 
 
   <!-- Recipe Users: FueledSmithy, ElectricSmithy -->
 
-  <Make_Apparel_Bonnet.label>制造 童帽</Make_Apparel_Bonnet.label>
-  <Make_Apparel_Bonnet.description>制造 童帽。</Make_Apparel_Bonnet.description>
-  <Make_Apparel_Bonnet.jobString>正在制造 童帽。</Make_Apparel_Bonnet.jobString>
+  <Make_Apparel_Bonnet.label>制作童帽</Make_Apparel_Bonnet.label>
+  <Make_Apparel_Bonnet.description>制作童帽。</Make_Apparel_Bonnet.description>
+  <Make_Apparel_Bonnet.jobString>正在制作童帽。</Make_Apparel_Bonnet.jobString>
 
-  <Make_Apparel_TunicFine.label>制造 精致短袍</Make_Apparel_TunicFine.label>
-  <Make_Apparel_TunicFine.description>制造 精致短袍。</Make_Apparel_TunicFine.description>
-  <Make_Apparel_TunicFine.jobString>正在制造 精致短袍。</Make_Apparel_TunicFine.jobString>
+  <Make_Apparel_TunicFine.label>制作精致短袍</Make_Apparel_TunicFine.label>
+  <Make_Apparel_TunicFine.description>制作精致短袍。</Make_Apparel_TunicFine.description>
+  <Make_Apparel_TunicFine.jobString>正在制作精致短袍。</Make_Apparel_TunicFine.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparel_VicScullery.label>制造 仆人服</Make_Apparel_VicScullery.label>
-  <Make_Apparel_VicScullery.description>制造 仆人服。</Make_Apparel_VicScullery.description>
-  <Make_Apparel_VicScullery.jobString>正在制造 仆人服。</Make_Apparel_VicScullery.jobString>
+  <Make_Apparel_VicScullery.label>制作仆人服</Make_Apparel_VicScullery.label>
+  <Make_Apparel_VicScullery.description>制作仆人服。</Make_Apparel_VicScullery.description>
+  <Make_Apparel_VicScullery.jobString>正在制作仆人服。</Make_Apparel_VicScullery.jobString>
 
-  <Make_MiningHelmet.label>制造 采矿头盔</Make_MiningHelmet.label>
-  <Make_MiningHelmet.description>制造 采矿头盔。</Make_MiningHelmet.description>
-  <Make_MiningHelmet.jobString>正在制造 采矿头盔。</Make_MiningHelmet.jobString>
+  <Make_MiningHelmet.label>制作采矿头盔</Make_MiningHelmet.label>
+  <Make_MiningHelmet.description>制作采矿头盔。</Make_MiningHelmet.description>
+  <Make_MiningHelmet.jobString>正在制作采矿头盔。</Make_MiningHelmet.jobString>
 
-  <Make_Apparel_HSH.label>制造 防化头盔</Make_Apparel_HSH.label>
-  <Make_Apparel_HSH.description>制造 防化头盔。</Make_Apparel_HSH.description>
-  <Make_Apparel_HSH.jobString>正在制造 防化头盔。</Make_Apparel_HSH.jobString>
+  <Make_Apparel_HSH.label>制作防化头盔</Make_Apparel_HSH.label>
+  <Make_Apparel_HSH.description>制作防化头盔。</Make_Apparel_HSH.description>
+  <Make_Apparel_HSH.jobString>正在制作防化头盔。</Make_Apparel_HSH.jobString>
 
-  <Make_Apparel_HS.label>制造 防化服</Make_Apparel_HS.label>
-  <Make_Apparel_HS.description>制造 防化服。</Make_Apparel_HS.description>
-  <Make_Apparel_HS.jobString>正在制造 防化服。</Make_Apparel_HS.jobString>
+  <Make_Apparel_HS.label>制作防化服</Make_Apparel_HS.label>
+  <Make_Apparel_HS.description>制作防化服。</Make_Apparel_HS.description>
+  <Make_Apparel_HS.jobString>正在制作防化服。</Make_Apparel_HS.jobString>
 
-  <Make_MiningVest.label>制造 采矿背心</Make_MiningVest.label>
-  <Make_MiningVest.description>制造 采矿背心。</Make_MiningVest.description>
-  <Make_MiningVest.jobString>正在制造 采矿背心。</Make_MiningVest.jobString>
+  <Make_MiningVest.label>制作采矿背心</Make_MiningVest.label>
+  <Make_MiningVest.description>制作采矿背心。</Make_MiningVest.description>
+  <Make_MiningVest.jobString>正在制作采矿背心。</Make_MiningVest.jobString>
 
-  <Make_Apparello_MedicalApron.label>制造 外科围裙</Make_Apparello_MedicalApron.label>
-  <Make_Apparello_MedicalApron.description>制造 外科围裙。</Make_Apparello_MedicalApron.description>
-  <Make_Apparello_MedicalApron.jobString>正在制造 外科围裙。</Make_Apparello_MedicalApron.jobString>
+  <Make_Apparello_MedicalApron.label>制作外科围裙</Make_Apparello_MedicalApron.label>
+  <Make_Apparello_MedicalApron.description>制作外科围裙。</Make_Apparello_MedicalApron.description>
+  <Make_Apparello_MedicalApron.jobString>正在制作外科围裙。</Make_Apparello_MedicalApron.jobString>
 
-  <Make_Apparello_Smithaprontosaurus.label>制造 围兜围裙</Make_Apparello_Smithaprontosaurus.label>
-  <Make_Apparello_Smithaprontosaurus.description>制造 围兜围裙。</Make_Apparello_Smithaprontosaurus.description>
-  <Make_Apparello_Smithaprontosaurus.jobString>正在制造 围兜围裙。</Make_Apparello_Smithaprontosaurus.jobString>
+  <Make_Apparello_Smithaprontosaurus.label>制作围兜围裙</Make_Apparello_Smithaprontosaurus.label>
+  <Make_Apparello_Smithaprontosaurus.description>制作围兜围裙。</Make_Apparello_Smithaprontosaurus.description>
+  <Make_Apparello_Smithaprontosaurus.jobString>正在制作围兜围裙。</Make_Apparello_Smithaprontosaurus.jobString>
 
-  <Make_Apparello_Cookaprontosaurus.label>制造 厨师围裙</Make_Apparello_Cookaprontosaurus.label>
-  <Make_Apparello_Cookaprontosaurus.description>制造 厨师围裙。</Make_Apparello_Cookaprontosaurus.description>
-  <Make_Apparello_Cookaprontosaurus.jobString>正在制造 厨师围裙。</Make_Apparello_Cookaprontosaurus.jobString>
+  <Make_Apparello_Cookaprontosaurus.label>制作厨师围裙</Make_Apparello_Cookaprontosaurus.label>
+  <Make_Apparello_Cookaprontosaurus.description>制作厨师围裙。</Make_Apparello_Cookaprontosaurus.description>
+  <Make_Apparello_Cookaprontosaurus.jobString>正在制作厨师围裙。</Make_Apparello_Cookaprontosaurus.jobString>
 
 
   <!-- Recipe Users: HandTailoringBench -->
 
-  <Make_Apparello_Sheet.label>制造 衬垫背心</Make_Apparello_Sheet.label>
-  <Make_Apparello_Sheet.description>制造 衬垫背心。</Make_Apparello_Sheet.description>
-  <Make_Apparello_Sheet.jobString>正在制造 衬垫背心。</Make_Apparello_Sheet.jobString>
+  <Make_Apparello_Sheet.label>制作衬垫背心</Make_Apparello_Sheet.label>
+  <Make_Apparello_Sheet.description>制作衬垫背心。</Make_Apparello_Sheet.description>
+  <Make_Apparello_Sheet.jobString>正在制作衬垫背心。</Make_Apparello_Sheet.jobString>
 
-  <Make_Apparello_Brocade.label>制造 锦缎背心</Make_Apparello_Brocade.label>
-  <Make_Apparello_Brocade.description>制造 锦缎背心。</Make_Apparello_Brocade.description>
-  <Make_Apparello_Brocade.jobString>正在制造 锦缎背心。</Make_Apparello_Brocade.jobString>
+  <Make_Apparello_Brocade.label>制作锦缎背心</Make_Apparello_Brocade.label>
+  <Make_Apparello_Brocade.description>制作锦缎背心。</Make_Apparello_Brocade.description>
+  <Make_Apparello_Brocade.jobString>正在制作锦缎背心。</Make_Apparello_Brocade.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench -->
 
-  <Make_Apparel_FlakVest.label>制造 防弹背心</Make_Apparel_FlakVest.label>
-  <Make_Apparel_FlakVest.description>制造 防弹背心。</Make_Apparel_FlakVest.description>
-  <Make_Apparel_FlakVest.jobString>正在制造 防弹背心。</Make_Apparel_FlakVest.jobString>
+  <Make_Apparel_FlakVest.label>制作防弹背心</Make_Apparel_FlakVest.label>
+  <Make_Apparel_FlakVest.description>制作防弹背心。</Make_Apparel_FlakVest.description>
+  <Make_Apparel_FlakVest.jobString>正在制作防弹背心。</Make_Apparel_FlakVest.jobString>
 
 
   <!-- Recipe Users: HyperTailoringBench -->
 
-  <Make_Apparello_Gspot.label>制造 合金胸甲</Make_Apparello_Gspot.label>
-  <Make_Apparello_Gspot.description>制造 合金胸甲。</Make_Apparello_Gspot.description>
-  <Make_Apparello_Gspot.jobString>正在制造 合金胸甲。</Make_Apparello_Gspot.jobString>
+  <Make_Apparello_Gspot.label>制作合金胸甲</Make_Apparello_Gspot.label>
+  <Make_Apparello_Gspot.description>制作合金胸甲。</Make_Apparello_Gspot.description>
+  <Make_Apparello_Gspot.jobString>正在制作合金胸甲。</Make_Apparello_Gspot.jobString>
 
 
   <!-- Recipe Users: TableSculpting -->
 
-  <Make_SculptureSmall.label>制造 小雕塑</Make_SculptureSmall.label>
-  <Make_SculptureSmall.description>制造 小雕塑。</Make_SculptureSmall.description>
-  <Make_SculptureSmall.jobString>正在制造 小雕塑。</Make_SculptureSmall.jobString>
+  <Make_SculptureSmall.label>制作小雕塑</Make_SculptureSmall.label>
+  <Make_SculptureSmall.description>制作小雕塑。</Make_SculptureSmall.description>
+  <Make_SculptureSmall.jobString>正在制作小雕塑。</Make_SculptureSmall.jobString>
 
-  <Make_SculptureLarge.label>制造 大雕塑</Make_SculptureLarge.label>
-  <Make_SculptureLarge.description>制造 大雕塑。</Make_SculptureLarge.description>
-  <Make_SculptureLarge.jobString>正在制造 大雕塑。</Make_SculptureLarge.jobString>
+  <Make_SculptureLarge.label>制作大雕塑</Make_SculptureLarge.label>
+  <Make_SculptureLarge.description>制作大雕塑。</Make_SculptureLarge.description>
+  <Make_SculptureLarge.jobString>正在制作大雕塑。</Make_SculptureLarge.jobString>
 
-  <Make_SculptureGrand.label>制造 宏伟雕塑</Make_SculptureGrand.label>
-  <Make_SculptureGrand.description>制造 宏伟雕塑。</Make_SculptureGrand.description>
-  <Make_SculptureGrand.jobString>正在制造 宏伟雕塑。</Make_SculptureGrand.jobString>
+  <Make_SculptureGrand.label>制作宏伟雕塑</Make_SculptureGrand.label>
+  <Make_SculptureGrand.description>制作宏伟雕塑。</Make_SculptureGrand.description>
+  <Make_SculptureGrand.jobString>正在制作宏伟雕塑。</Make_SculptureGrand.jobString>
 
-  <Make_MuffaloArt.label>制造 雪牛雕塑</Make_MuffaloArt.label>
-  <Make_MuffaloArt.description>制造 雪牛雕塑。</Make_MuffaloArt.description>
-  <Make_MuffaloArt.jobString>正在制造 雪牛雕塑。</Make_MuffaloArt.jobString>
+  <Make_MuffaloArt.label>制作雪牛雕塑</Make_MuffaloArt.label>
+  <Make_MuffaloArt.description>制作雪牛雕塑。</Make_MuffaloArt.description>
+  <Make_MuffaloArt.jobString>正在制作雪牛雕塑。</Make_MuffaloArt.jobString>
 
-  <Make_QueenArt.label>制造 皇后雕塑</Make_QueenArt.label>
-  <Make_QueenArt.description>制造 皇后雕塑。</Make_QueenArt.description>
-  <Make_QueenArt.jobString>正在制造 皇后雕塑。</Make_QueenArt.jobString>
+  <Make_QueenArt.label>制作皇后雕塑</Make_QueenArt.label>
+  <Make_QueenArt.description>制作皇后雕塑。</Make_QueenArt.description>
+  <Make_QueenArt.jobString>正在制作皇后雕塑。</Make_QueenArt.jobString>
 
-  <Make_NymphArt.label>制造 仙女雕塑</Make_NymphArt.label>
-  <Make_NymphArt.description>制造 仙女雕塑。</Make_NymphArt.description>
-  <Make_NymphArt.jobString>正在制造 仙女雕塑。</Make_NymphArt.jobString>
+  <Make_NymphArt.label>制作仙女雕塑</Make_NymphArt.label>
+  <Make_NymphArt.description>制作仙女雕塑。</Make_NymphArt.description>
+  <Make_NymphArt.jobString>正在制作仙女雕塑。</Make_NymphArt.jobString>
 
-  <Make_GreenyArt.label>制造 绿神雕塑</Make_GreenyArt.label>
-  <Make_GreenyArt.description>制造 绿神雕塑。</Make_GreenyArt.description>
-  <Make_GreenyArt.jobString>正在制造 绿神雕塑。</Make_GreenyArt.jobString>
+  <Make_GreenyArt.label>制作绿神雕塑</Make_GreenyArt.label>
+  <Make_GreenyArt.description>制作绿神雕塑。</Make_GreenyArt.description>
+  <Make_GreenyArt.jobString>正在制作绿神雕塑。</Make_GreenyArt.jobString>
 
-  <Make_WolfArt.label>制造 野狼雕塑</Make_WolfArt.label>
-  <Make_WolfArt.description>制造 野狼雕塑。</Make_WolfArt.description>
-  <Make_WolfArt.jobString>正在制造 野狼雕塑。</Make_WolfArt.jobString>
+  <Make_WolfArt.label>制作野狼雕塑</Make_WolfArt.label>
+  <Make_WolfArt.description>制作野狼雕塑。</Make_WolfArt.description>
+  <Make_WolfArt.jobString>正在制作野狼雕塑。</Make_WolfArt.jobString>
 
-  <Make_DragonArt.label>制造 龙蛇雕塑</Make_DragonArt.label>
-  <Make_DragonArt.description>制造 龙蛇雕塑。</Make_DragonArt.description>
-  <Make_DragonArt.jobString>正在制造 龙蛇雕塑。</Make_DragonArt.jobString>
+  <Make_DragonArt.label>制作龙蛇雕塑</Make_DragonArt.label>
+  <Make_DragonArt.description>制作龙蛇雕塑。</Make_DragonArt.description>
+  <Make_DragonArt.jobString>正在制作龙蛇雕塑。</Make_DragonArt.jobString>
 
-  <Make_ZeonArt.label>制造 吉恩雕塑</Make_ZeonArt.label>
-  <Make_ZeonArt.description>制造 吉恩雕塑。</Make_ZeonArt.description>
-  <Make_ZeonArt.jobString>正在制造 吉恩雕塑。</Make_ZeonArt.jobString>
+  <Make_ZeonArt.label>制作吉恩雕塑</Make_ZeonArt.label>
+  <Make_ZeonArt.description>制作吉恩雕塑。</Make_ZeonArt.description>
+  <Make_ZeonArt.jobString>正在制作吉恩雕塑。</Make_ZeonArt.jobString>
 
-  <Make_DecorativeUrnSmall.label>制造 装饰瓮</Make_DecorativeUrnSmall.label>
-  <Make_DecorativeUrnSmall.description>制造 装饰瓮。</Make_DecorativeUrnSmall.description>
-  <Make_DecorativeUrnSmall.jobString>正在制造 装饰瓮。</Make_DecorativeUrnSmall.jobString>
+  <Make_DecorativeUrnSmall.label>制作装饰瓮</Make_DecorativeUrnSmall.label>
+  <Make_DecorativeUrnSmall.description>制作装饰瓮。</Make_DecorativeUrnSmall.description>
+  <Make_DecorativeUrnSmall.jobString>正在制作装饰瓮。</Make_DecorativeUrnSmall.jobString>
 
-  <Make_SmallPottery.label>制造 装饰陶壶</Make_SmallPottery.label>
-  <Make_SmallPottery.description>制造 装饰陶壶。</Make_SmallPottery.description>
-  <Make_SmallPottery.jobString>正在制造 装饰陶壶。</Make_SmallPottery.jobString>
+  <Make_SmallPottery.label>制作装饰陶壶</Make_SmallPottery.label>
+  <Make_SmallPottery.description>制作装饰陶壶。</Make_SmallPottery.description>
+  <Make_SmallPottery.jobString>正在制作装饰陶壶。</Make_SmallPottery.jobString>
 
-  <Make_PotteryDisplay.label>制造 陶艺展示架</Make_PotteryDisplay.label>
-  <Make_PotteryDisplay.description>制造 陶艺展示架。</Make_PotteryDisplay.description>
-  <Make_PotteryDisplay.jobString>正在制造 陶艺展示架。</Make_PotteryDisplay.jobString>
+  <Make_PotteryDisplay.label>制作陶艺展示架</Make_PotteryDisplay.label>
+  <Make_PotteryDisplay.description>制作陶艺展示架。</Make_PotteryDisplay.description>
+  <Make_PotteryDisplay.jobString>正在制作陶艺展示架。</Make_PotteryDisplay.jobString>
 
-  <Make_CatArt.label>制造 猫咪雕塑</Make_CatArt.label>
-  <Make_CatArt.description>制造 猫咪雕塑。</Make_CatArt.description>
-  <Make_CatArt.jobString>正在制造 猫咪雕塑。</Make_CatArt.jobString>
+  <Make_CatArt.label>制作猫咪雕塑</Make_CatArt.label>
+  <Make_CatArt.description>制作猫咪雕塑。</Make_CatArt.description>
+  <Make_CatArt.jobString>正在制作猫咪雕塑。</Make_CatArt.jobString>
 
-  <Make_GlowstoneArt.label>制造 萤石雕塑</Make_GlowstoneArt.label>
-  <Make_GlowstoneArt.description>制造 萤石雕塑。</Make_GlowstoneArt.description>
-  <Make_GlowstoneArt.jobString>正在制造 萤石雕塑。</Make_GlowstoneArt.jobString>
+  <Make_GlowstoneArt.label>制作萤石雕塑</Make_GlowstoneArt.label>
+  <Make_GlowstoneArt.description>制作萤石雕塑。</Make_GlowstoneArt.description>
+  <Make_GlowstoneArt.jobString>正在制作萤石雕塑。</Make_GlowstoneArt.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_MedievalTimes_Ballista.label>制造 弩炮</Make_MedievalTimes_Ballista.label>
-  <Make_MedievalTimes_Ballista.description>制造 弩炮。</Make_MedievalTimes_Ballista.description>
-  <Make_MedievalTimes_Ballista.jobString>正在制造 弩炮。</Make_MedievalTimes_Ballista.jobString>
+  <Make_MedievalTimes_Ballista.label>制作弩炮</Make_MedievalTimes_Ballista.label>
+  <Make_MedievalTimes_Ballista.description>制作弩炮。</Make_MedievalTimes_Ballista.description>
+  <Make_MedievalTimes_Ballista.jobString>正在制作弩炮。</Make_MedievalTimes_Ballista.jobString>
 
-  <Make_Medieval_Catapult.label>制造 石弩</Make_Medieval_Catapult.label>
-  <Make_Medieval_Catapult.description>制造 石弩。</Make_Medieval_Catapult.description>
-  <Make_Medieval_Catapult.jobString>正在制造 石弩。</Make_Medieval_Catapult.jobString>
+  <Make_Medieval_Catapult.label>制作石弩</Make_Medieval_Catapult.label>
+  <Make_Medieval_Catapult.description>制作石弩。</Make_Medieval_Catapult.description>
+  <Make_Medieval_Catapult.jobString>正在制作石弩。</Make_Medieval_Catapult.jobString>
 
-  <Make_Turret_M240B.label>制造 7.62x51mm M240B机枪</Make_Turret_M240B.label>
-  <Make_Turret_M240B.description>制造 7.62x51mm M240B机枪。</Make_Turret_M240B.description>
-  <Make_Turret_M240B.jobString>正在制造 7.62x51mm M240B机枪。</Make_Turret_M240B.jobString>
+  <Make_Turret_M240B.label>制作7.62x51mm M240B机枪</Make_Turret_M240B.label>
+  <Make_Turret_M240B.description>制作7.62x51mm M240B机枪。</Make_Turret_M240B.description>
+  <Make_Turret_M240B.jobString>正在制作7.62x51mm M240B机枪。</Make_Turret_M240B.jobString>
 
-  <Make_Turret_M2Browning.label>制造 M2 .50勃朗宁机枪</Make_Turret_M2Browning.label>
-  <Make_Turret_M2Browning.description>制造 M2 .50勃朗宁机枪。</Make_Turret_M2Browning.description>
-  <Make_Turret_M2Browning.jobString>正在制造 M2 .50勃朗宁机枪。</Make_Turret_M2Browning.jobString>
+  <Make_Turret_M2Browning.label>制作M2 .50勃朗宁机枪</Make_Turret_M2Browning.label>
+  <Make_Turret_M2Browning.description>制作M2 .50勃朗宁机枪。</Make_Turret_M2Browning.description>
+  <Make_Turret_M2Browning.jobString>正在制作M2 .50勃朗宁机枪。</Make_Turret_M2Browning.jobString>
 
-  <Make_Turret_Minigun.label>制造 M134速射机枪</Make_Turret_Minigun.label>
-  <Make_Turret_Minigun.description>制造 M134速射机枪。</Make_Turret_Minigun.description>
-  <Make_Turret_Minigun.jobString>正在制造 M134速射机枪。</Make_Turret_Minigun.jobString>
+  <Make_Turret_Minigun.label>制作M134速射机枪</Make_Turret_Minigun.label>
+  <Make_Turret_Minigun.description>制作M134速射机枪。</Make_Turret_Minigun.description>
+  <Make_Turret_Minigun.jobString>正在制作M134速射机枪。</Make_Turret_Minigun.jobString>
 
-  <Make_Turret_KPV.label>制造 14.5mm KPV重机枪</Make_Turret_KPV.label>
-  <Make_Turret_KPV.description>制造 14.5mm KPV重机枪。</Make_Turret_KPV.description>
-  <Make_Turret_KPV.jobString>正在制造 14.5mm KPV重机枪。</Make_Turret_KPV.jobString>
+  <Make_Turret_KPV.label>制作14.5mm KPV机枪</Make_Turret_KPV.label>
+  <Make_Turret_KPV.description>制作14.5mm KPV机枪。</Make_Turret_KPV.description>
+  <Make_Turret_KPV.jobString>正在制作14.5mm KPV机枪。</Make_Turret_KPV.jobString>
 
-  <Make_AvengerTurretGun.label>制造 30mm GAU-8复仇者火炮</Make_AvengerTurretGun.label>
-  <Make_AvengerTurretGun.description>制造 30mm GAU-8复仇者火炮。</Make_AvengerTurretGun.description>
-  <Make_AvengerTurretGun.jobString>正在制造 30mm GAU-8复仇者火炮。</Make_AvengerTurretGun.jobString>
+  <Make_AvengerTurretGun.label>制作30mm GAU-8复仇者火炮</Make_AvengerTurretGun.label>
+  <Make_AvengerTurretGun.description>制作30mm GAU-8复仇者火炮。</Make_AvengerTurretGun.description>
+  <Make_AvengerTurretGun.jobString>正在制作30mm GAU-8复仇者火炮。</Make_AvengerTurretGun.jobString>
 
-  <Make_Turret_Oerlikonautocannon.label>制造 20mm 奥瑞康机炮</Make_Turret_Oerlikonautocannon.label>
-  <Make_Turret_Oerlikonautocannon.description>制造 20mm 奥瑞康机炮。</Make_Turret_Oerlikonautocannon.description>
-  <Make_Turret_Oerlikonautocannon.jobString>正在制造 20mm 奥瑞康机炮。</Make_Turret_Oerlikonautocannon.jobString>
+  <Make_Turret_Oerlikonautocannon.label>制作20mm 奥瑞康机炮</Make_Turret_Oerlikonautocannon.label>
+  <Make_Turret_Oerlikonautocannon.description>制作20mm 奥瑞康机炮。</Make_Turret_Oerlikonautocannon.description>
+  <Make_Turret_Oerlikonautocannon.jobString>正在制作20mm 奥瑞康机炮。</Make_Turret_Oerlikonautocannon.jobString>
 
-  <Make_Turret_VulcanCannon.label>制造 20mm 火神炮</Make_Turret_VulcanCannon.label>
-  <Make_Turret_VulcanCannon.description>制造 20mm 火神炮。</Make_Turret_VulcanCannon.description>
-  <Make_Turret_VulcanCannon.jobString>正在制造 20mm 火神炮。</Make_Turret_VulcanCannon.jobString>
+  <Make_Turret_VulcanCannon.label>制作20mm 火神炮</Make_Turret_VulcanCannon.label>
+  <Make_Turret_VulcanCannon.description>制作20mm 火神炮。</Make_Turret_VulcanCannon.description>
+  <Make_Turret_VulcanCannon.jobString>正在制作20mm 火神炮。</Make_Turret_VulcanCannon.jobString>
 
-  <Make_Turret_AGSThirty.label>制造 AGS-17榴弹发射器</Make_Turret_AGSThirty.label>
-  <Make_Turret_AGSThirty.description>制造 AGS-17榴弹发射器。</Make_Turret_AGSThirty.description>
-  <Make_Turret_AGSThirty.jobString>正在制造 AGS-17榴弹发射器。</Make_Turret_AGSThirty.jobString>
+  <Make_Turret_AGSThirty.label>制作AGS-17榴弹发射器</Make_Turret_AGSThirty.label>
+  <Make_Turret_AGSThirty.description>制作AGS-17榴弹发射器。</Make_Turret_AGSThirty.description>
+  <Make_Turret_AGSThirty.jobString>正在制作AGS-17榴弹发射器。</Make_Turret_AGSThirty.jobString>
 
-  <Make_Turret_AGS30GrenadeLauncher.label>制造 AGS-30榴弹发射器</Make_Turret_AGS30GrenadeLauncher.label>
-  <Make_Turret_AGS30GrenadeLauncher.description>制造 AGS-30榴弹发射器。</Make_Turret_AGS30GrenadeLauncher.description>
-  <Make_Turret_AGS30GrenadeLauncher.jobString>正在制造 AGS-30榴弹发射器。</Make_Turret_AGS30GrenadeLauncher.jobString>
+  <Make_Turret_AGS30GrenadeLauncher.label>制作AGS-30榴弹发射器</Make_Turret_AGS30GrenadeLauncher.label>
+  <Make_Turret_AGS30GrenadeLauncher.description>制作AGS-30榴弹发射器。</Make_Turret_AGS30GrenadeLauncher.description>
+  <Make_Turret_AGS30GrenadeLauncher.jobString>正在制作AGS-30榴弹发射器。</Make_Turret_AGS30GrenadeLauncher.jobString>
 
-  <Make_Turret_Flak.label>制造 90mm 高射炮塔</Make_Turret_Flak.label>
-  <Make_Turret_Flak.description>制造 90mm 高射炮塔。</Make_Turret_Flak.description>
-  <Make_Turret_Flak.jobString>正在制造 90mm 高射炮塔。</Make_Turret_Flak.jobString>
+  <Make_Turret_Flak.label>制作90mm 高射炮塔</Make_Turret_Flak.label>
+  <Make_Turret_Flak.description>制作90mm 高射炮塔。</Make_Turret_Flak.description>
+  <Make_Turret_Flak.jobString>正在制作90mm 高射炮塔。</Make_Turret_Flak.jobString>
 
-  <Make_Turret_Cannon.label>制造 120mm 坦克炮</Make_Turret_Cannon.label>
-  <Make_Turret_Cannon.description>制造 120mm 坦克炮。</Make_Turret_Cannon.description>
-  <Make_Turret_Cannon.jobString>正在制造 120mm 坦克炮。</Make_Turret_Cannon.jobString>
+  <Make_Turret_Cannon.label>制作120mm 坦克炮</Make_Turret_Cannon.label>
+  <Make_Turret_Cannon.description>制作120mm 坦克炮。</Make_Turret_Cannon.description>
+  <Make_Turret_Cannon.jobString>正在制作120mm 坦克炮。</Make_Turret_Cannon.jobString>
 
-  <Make_HowitzerTurretGun.label>制造 155mm 榴弹炮</Make_HowitzerTurretGun.label>
-  <Make_HowitzerTurretGun.description>制造 155mm 榴弹炮。</Make_HowitzerTurretGun.description>
-  <Make_HowitzerTurretGun.jobString>正在制造 155mm 榴弹炮。</Make_HowitzerTurretGun.jobString>
+  <Make_HowitzerTurretGun.label>制作155mm 榴弹炮</Make_HowitzerTurretGun.label>
+  <Make_HowitzerTurretGun.description>制作155mm 榴弹炮。</Make_HowitzerTurretGun.description>
+  <Make_HowitzerTurretGun.jobString>正在制作155mm 榴弹炮。</Make_HowitzerTurretGun.jobString>
 
-  <Make_Turret_TOWLauncher.label>制造 BGM-71“陶式”反坦克导弹</Make_Turret_TOWLauncher.label>
-  <Make_Turret_TOWLauncher.description>制造 BGM-71“陶式”反坦克导弹。</Make_Turret_TOWLauncher.description>
-  <Make_Turret_TOWLauncher.jobString>正在制造 BGM-71“陶式”反坦克导弹。</Make_Turret_TOWLauncher.jobString>
+  <Make_Turret_TOWLauncher.label>制作BGM-71“陶式”反坦克导弹</Make_Turret_TOWLauncher.label>
+  <Make_Turret_TOWLauncher.description>制作BGM-71“陶式”反坦克导弹。</Make_Turret_TOWLauncher.description>
+  <Make_Turret_TOWLauncher.jobString>正在制作BGM-71“陶式”反坦克导弹。</Make_Turret_TOWLauncher.jobString>
 
-  <Make_LightMissileSystem.label>制造 FGM-148“标枪”反坦克导弹</Make_LightMissileSystem.label>
-  <Make_LightMissileSystem.description>制造 FGM-148“标枪”反坦克导弹。</Make_LightMissileSystem.description>
-  <Make_LightMissileSystem.jobString>正在制造 FGM-148“标枪”反坦克导弹。</Make_LightMissileSystem.jobString>
+  <Make_LightMissileSystem.label>制作FGM-148“标枪”反坦克导弹</Make_LightMissileSystem.label>
+  <Make_LightMissileSystem.description>制作FGM-148“标枪”反坦克导弹。</Make_LightMissileSystem.description>
+  <Make_LightMissileSystem.jobString>正在制作FGM-148“标枪”反坦克导弹。</Make_LightMissileSystem.jobString>
 
-  <Make_MediumMissileSystem.label>制造 中型导弹系统</Make_MediumMissileSystem.label>
-  <Make_MediumMissileSystem.description>制造 中型导弹系统。</Make_MediumMissileSystem.description>
-  <Make_MediumMissileSystem.jobString>正在制造 中型导弹系统。</Make_MediumMissileSystem.jobString>
+  <Make_MediumMissileSystem.label>制作中型导弹系统</Make_MediumMissileSystem.label>
+  <Make_MediumMissileSystem.description>制作中型导弹系统。</Make_MediumMissileSystem.description>
+  <Make_MediumMissileSystem.jobString>正在制作中型导弹系统。</Make_MediumMissileSystem.jobString>
 
-  <Make_RLGun.label>制造 重型导弹系统</Make_RLGun.label>
-  <Make_RLGun.description>制造 重型导弹系统。</Make_RLGun.description>
-  <Make_RLGun.jobString>正在制造 重型导弹系统。</Make_RLGun.jobString>
+  <Make_RLGun.label>制作重型导弹系统</Make_RLGun.label>
+  <Make_RLGun.description>制作重型导弹系统。</Make_RLGun.description>
+  <Make_RLGun.jobString>正在制作重型导弹系统。</Make_RLGun.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
 
-  <Make_DeployableTent.label>制造 帐篷</Make_DeployableTent.label>
-  <Make_DeployableTent.description>制造 帐篷。</Make_DeployableTent.description>
-  <Make_DeployableTent.jobString>正在制造 帐篷。</Make_DeployableTent.jobString>
+  <Make_DeployableTent.label>制作帐篷</Make_DeployableTent.label>
+  <Make_DeployableTent.description>制作帐篷。</Make_DeployableTent.description>
+  <Make_DeployableTent.jobString>正在制作帐篷。</Make_DeployableTent.jobString>
 
-  <Make_DeployableTentMedium.label>制造 中型帐篷</Make_DeployableTentMedium.label>
-  <Make_DeployableTentMedium.description>制造 中型帐篷。</Make_DeployableTentMedium.description>
-  <Make_DeployableTentMedium.jobString>正在制造 中型帐篷。</Make_DeployableTentMedium.jobString>
+  <Make_DeployableTentMedium.label>制作中型帐篷</Make_DeployableTentMedium.label>
+  <Make_DeployableTentMedium.description>制作中型帐篷。</Make_DeployableTentMedium.description>
+  <Make_DeployableTentMedium.jobString>正在制作中型帐篷。</Make_DeployableTentMedium.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_DeployableTentBig.label>制造 大型帐篷</Make_DeployableTentBig.label>
-  <Make_DeployableTentBig.description>制造 大型帐篷。</Make_DeployableTentBig.description>
-  <Make_DeployableTentBig.jobString>正在制造 大型帐篷。</Make_DeployableTentBig.jobString>
+  <Make_DeployableTentBig.label>制作大型帐篷</Make_DeployableTentBig.label>
+  <Make_DeployableTentBig.description>制作大型帐篷。</Make_DeployableTentBig.description>
+  <Make_DeployableTentBig.jobString>正在制作大型帐篷。</Make_DeployableTentBig.jobString>
 
 
   <!-- Recipe Users: CraftingSpot, ElectricSmithy, FueledSmithy -->
 
-  <Make_TFJ_Tool_Woodcutting_Handaxe.label>制造 手斧</Make_TFJ_Tool_Woodcutting_Handaxe.label>
-  <Make_TFJ_Tool_Woodcutting_Handaxe.description>制造 手斧。</Make_TFJ_Tool_Woodcutting_Handaxe.description>
-  <Make_TFJ_Tool_Woodcutting_Handaxe.jobString>正在制造 手斧。</Make_TFJ_Tool_Woodcutting_Handaxe.jobString>
+  <Make_TFJ_Tool_Woodcutting_Handaxe.label>制作手斧</Make_TFJ_Tool_Woodcutting_Handaxe.label>
+  <Make_TFJ_Tool_Woodcutting_Handaxe.description>制作手斧。</Make_TFJ_Tool_Woodcutting_Handaxe.description>
+  <Make_TFJ_Tool_Woodcutting_Handaxe.jobString>正在制作手斧。</Make_TFJ_Tool_Woodcutting_Handaxe.jobString>
 
-  <Make_TFJ_Tool_Mining_Pickaxe.label>制造 鹤嘴锄</Make_TFJ_Tool_Mining_Pickaxe.label>
-  <Make_TFJ_Tool_Mining_Pickaxe.description>制造 鹤嘴锄。</Make_TFJ_Tool_Mining_Pickaxe.description>
-  <Make_TFJ_Tool_Mining_Pickaxe.jobString>正在制造 鹤嘴锄。</Make_TFJ_Tool_Mining_Pickaxe.jobString>
+  <Make_TFJ_Tool_Mining_Pickaxe.label>制作鹤嘴锄</Make_TFJ_Tool_Mining_Pickaxe.label>
+  <Make_TFJ_Tool_Mining_Pickaxe.description>制作鹤嘴锄。</Make_TFJ_Tool_Mining_Pickaxe.description>
+  <Make_TFJ_Tool_Mining_Pickaxe.jobString>正在制作鹤嘴锄。</Make_TFJ_Tool_Mining_Pickaxe.jobString>
 
-  <Make_TFJ_Tool_Building_Hammer.label>制造 锤子</Make_TFJ_Tool_Building_Hammer.label>
-  <Make_TFJ_Tool_Building_Hammer.description>制造 锤子。</Make_TFJ_Tool_Building_Hammer.description>
-  <Make_TFJ_Tool_Building_Hammer.jobString>正在制造 锤子。</Make_TFJ_Tool_Building_Hammer.jobString>
+  <Make_TFJ_Tool_Building_Hammer.label>制作锤子</Make_TFJ_Tool_Building_Hammer.label>
+  <Make_TFJ_Tool_Building_Hammer.description>制作锤子。</Make_TFJ_Tool_Building_Hammer.description>
+  <Make_TFJ_Tool_Building_Hammer.jobString>正在制作锤子。</Make_TFJ_Tool_Building_Hammer.jobString>
 
-  <Make_TFJ_Tool_Sickle.label>制造 镰刀</Make_TFJ_Tool_Sickle.label>
-  <Make_TFJ_Tool_Sickle.description>制造 镰刀。</Make_TFJ_Tool_Sickle.description>
-  <Make_TFJ_Tool_Sickle.jobString>正在制造 镰刀。</Make_TFJ_Tool_Sickle.jobString>
+  <Make_TFJ_Tool_Sickle.label>制作镰刀</Make_TFJ_Tool_Sickle.label>
+  <Make_TFJ_Tool_Sickle.description>制作镰刀。</Make_TFJ_Tool_Sickle.description>
+  <Make_TFJ_Tool_Sickle.jobString>正在制作镰刀。</Make_TFJ_Tool_Sickle.jobString>
 
-  <Make_TFJ_Tool_Broom.label>制造 扫帚</Make_TFJ_Tool_Broom.label>
-  <Make_TFJ_Tool_Broom.description>制造 扫帚。</Make_TFJ_Tool_Broom.description>
-  <Make_TFJ_Tool_Broom.jobString>正在制造 扫帚。</Make_TFJ_Tool_Broom.jobString>
+  <Make_TFJ_Tool_Broom.label>制作扫帚</Make_TFJ_Tool_Broom.label>
+  <Make_TFJ_Tool_Broom.description>制作扫帚。</Make_TFJ_Tool_Broom.description>
+  <Make_TFJ_Tool_Broom.jobString>正在制作扫帚。</Make_TFJ_Tool_Broom.jobString>
 
-  <Make_TFJ_Tool_Hoe.label>制造 锄头</Make_TFJ_Tool_Hoe.label>
-  <Make_TFJ_Tool_Hoe.description>制造 锄头。</Make_TFJ_Tool_Hoe.description>
-  <Make_TFJ_Tool_Hoe.jobString>正在制造 锄头。</Make_TFJ_Tool_Hoe.jobString>
+  <Make_TFJ_Tool_Hoe.label>制作锄头</Make_TFJ_Tool_Hoe.label>
+  <Make_TFJ_Tool_Hoe.description>制作锄头。</Make_TFJ_Tool_Hoe.description>
+  <Make_TFJ_Tool_Hoe.jobString>正在制作锄头。</Make_TFJ_Tool_Hoe.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy -->
 
-  <Make_TFJ_Tool_Multitool.label>制造 多功能工具</Make_TFJ_Tool_Multitool.label>
-  <Make_TFJ_Tool_Multitool.description>制造 多功能工具。</Make_TFJ_Tool_Multitool.description>
-  <Make_TFJ_Tool_Multitool.jobString>正在制造 多功能工具。</Make_TFJ_Tool_Multitool.jobString>
+  <Make_TFJ_Tool_Multitool.label>制作多功能工具</Make_TFJ_Tool_Multitool.label>
+  <Make_TFJ_Tool_Multitool.description>制作多功能工具。</Make_TFJ_Tool_Multitool.description>
+  <Make_TFJ_Tool_Multitool.jobString>正在制作多功能工具。</Make_TFJ_Tool_Multitool.jobString>
 
-  <Make_MeleeWeapon_Tanto.label>制造 武士短刀</Make_MeleeWeapon_Tanto.label>
-  <Make_MeleeWeapon_Tanto.description>制造 武士短刀。</Make_MeleeWeapon_Tanto.description>
-  <Make_MeleeWeapon_Tanto.jobString>正在制造 武士短刀。</Make_MeleeWeapon_Tanto.jobString>
+  <Make_MeleeWeapon_Tanto.label>制作武士短刀</Make_MeleeWeapon_Tanto.label>
+  <Make_MeleeWeapon_Tanto.description>制作武士短刀。</Make_MeleeWeapon_Tanto.description>
+  <Make_MeleeWeapon_Tanto.jobString>正在制作武士短刀。</Make_MeleeWeapon_Tanto.jobString>
 
-  <Make_MeleeWeapon_Katana.label>制造 武士太刀</Make_MeleeWeapon_Katana.label>
-  <Make_MeleeWeapon_Katana.description>制造 武士太刀。</Make_MeleeWeapon_Katana.description>
-  <Make_MeleeWeapon_Katana.jobString>正在制造 武士太刀。</Make_MeleeWeapon_Katana.jobString>
+  <Make_MeleeWeapon_Katana.label>制作武士太刀</Make_MeleeWeapon_Katana.label>
+  <Make_MeleeWeapon_Katana.description>制作武士太刀。</Make_MeleeWeapon_Katana.description>
+  <Make_MeleeWeapon_Katana.jobString>正在制作武士太刀。</Make_MeleeWeapon_Katana.jobString>
 
-  <Make_MeleeWeapon_Tsurugi.label>制造 巴斯特之剑</Make_MeleeWeapon_Tsurugi.label>
-  <Make_MeleeWeapon_Tsurugi.description>制造 巴斯特之剑。</Make_MeleeWeapon_Tsurugi.description>
-  <Make_MeleeWeapon_Tsurugi.jobString>正在制造 巴斯特之剑。</Make_MeleeWeapon_Tsurugi.jobString>
+  <Make_MeleeWeapon_Tsurugi.label>制作巴斯特之剑</Make_MeleeWeapon_Tsurugi.label>
+  <Make_MeleeWeapon_Tsurugi.description>制作巴斯特之剑。</Make_MeleeWeapon_Tsurugi.description>
+  <Make_MeleeWeapon_Tsurugi.jobString>正在制作巴斯特之剑。</Make_MeleeWeapon_Tsurugi.jobString>
 
-  <Make_MeleeWeapon_Sledgehammer.label>制造 大锤</Make_MeleeWeapon_Sledgehammer.label>
-  <Make_MeleeWeapon_Sledgehammer.description>制造 大锤。</Make_MeleeWeapon_Sledgehammer.description>
-  <Make_MeleeWeapon_Sledgehammer.jobString>正在制造 大锤。</Make_MeleeWeapon_Sledgehammer.jobString>
+  <Make_MeleeWeapon_Sledgehammer.label>制作大锤</Make_MeleeWeapon_Sledgehammer.label>
+  <Make_MeleeWeapon_Sledgehammer.description>制作大锤。</Make_MeleeWeapon_Sledgehammer.description>
+  <Make_MeleeWeapon_Sledgehammer.jobString>正在制作大锤。</Make_MeleeWeapon_Sledgehammer.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <Make_MeleeWeapon_Dagger.label>制造 短刀</Make_MeleeWeapon_Dagger.label>
-  <Make_MeleeWeapon_Dagger.description>制造 短刀。</Make_MeleeWeapon_Dagger.description>
-  <Make_MeleeWeapon_Dagger.jobString>正在制造 短刀。</Make_MeleeWeapon_Dagger.jobString>
+  <Make_MeleeWeapon_Dagger.label>制作短刀</Make_MeleeWeapon_Dagger.label>
+  <Make_MeleeWeapon_Dagger.description>制作短刀。</Make_MeleeWeapon_Dagger.description>
+  <Make_MeleeWeapon_Dagger.jobString>正在制作短刀。</Make_MeleeWeapon_Dagger.jobString>
 
-  <Make_MeleeWeapon_Gladius.label>制造 短剑</Make_MeleeWeapon_Gladius.label>
-  <Make_MeleeWeapon_Gladius.description>制造 短剑。</Make_MeleeWeapon_Gladius.description>
-  <Make_MeleeWeapon_Gladius.jobString>正在制造 短剑。</Make_MeleeWeapon_Gladius.jobString>
+  <Make_MeleeWeapon_Gladius.label>制作短剑</Make_MeleeWeapon_Gladius.label>
+  <Make_MeleeWeapon_Gladius.description>制作短剑。</Make_MeleeWeapon_Gladius.description>
+  <Make_MeleeWeapon_Gladius.jobString>正在制作短剑。</Make_MeleeWeapon_Gladius.jobString>
 
-  <Make_MeleeWeapon_LongSword.label>制造 长剑</Make_MeleeWeapon_LongSword.label>
-  <Make_MeleeWeapon_LongSword.description>制造 长剑。</Make_MeleeWeapon_LongSword.description>
-  <Make_MeleeWeapon_LongSword.jobString>正在制造 长剑。</Make_MeleeWeapon_LongSword.jobString>
+  <Make_MeleeWeapon_LongSword.label>制作长剑</Make_MeleeWeapon_LongSword.label>
+  <Make_MeleeWeapon_LongSword.description>制作长剑。</Make_MeleeWeapon_LongSword.description>
+  <Make_MeleeWeapon_LongSword.jobString>正在制作长剑。</Make_MeleeWeapon_LongSword.jobString>
 
-  <Make_MeleeWeapon_GreatSword.label>制造 巨剑</Make_MeleeWeapon_GreatSword.label>
-  <Make_MeleeWeapon_GreatSword.description>制造 巨剑。</Make_MeleeWeapon_GreatSword.description>
-  <Make_MeleeWeapon_GreatSword.jobString>正在制造 巨剑。</Make_MeleeWeapon_GreatSword.jobString>
+  <Make_MeleeWeapon_GreatSword.label>制作巨剑</Make_MeleeWeapon_GreatSword.label>
+  <Make_MeleeWeapon_GreatSword.description>制作巨剑。</Make_MeleeWeapon_GreatSword.description>
+  <Make_MeleeWeapon_GreatSword.jobString>正在制作巨剑。</Make_MeleeWeapon_GreatSword.jobString>
 
-  <Make_MeleeWeapon_Morningstar.label>制造 流星锤</Make_MeleeWeapon_Morningstar.label>
-  <Make_MeleeWeapon_Morningstar.description>制造 流星锤。</Make_MeleeWeapon_Morningstar.description>
-  <Make_MeleeWeapon_Morningstar.jobString>正在制造 流星锤。</Make_MeleeWeapon_Morningstar.jobString>
+  <Make_MeleeWeapon_Morningstar.label>制作流星锤</Make_MeleeWeapon_Morningstar.label>
+  <Make_MeleeWeapon_Morningstar.description>制作流星锤。</Make_MeleeWeapon_Morningstar.description>
+  <Make_MeleeWeapon_Morningstar.jobString>正在制作流星锤。</Make_MeleeWeapon_Morningstar.jobString>
 
-  <Make_MeleeWeapon_Scimitar.label>制造 弯刃大刀</Make_MeleeWeapon_Scimitar.label>
-  <Make_MeleeWeapon_Scimitar.description>制造 弯刃大刀。</Make_MeleeWeapon_Scimitar.description>
-  <Make_MeleeWeapon_Scimitar.jobString>正在制造 弯刃大刀。</Make_MeleeWeapon_Scimitar.jobString>
+  <Make_MeleeWeapon_Scimitar.label>制作弯刃大刀</Make_MeleeWeapon_Scimitar.label>
+  <Make_MeleeWeapon_Scimitar.description>制作弯刃大刀。</Make_MeleeWeapon_Scimitar.description>
+  <Make_MeleeWeapon_Scimitar.jobString>正在制作弯刃大刀。</Make_MeleeWeapon_Scimitar.jobString>
 
-  <Make_MeleeWeapon_Glaive.label>制造 长柄宽刃刀</Make_MeleeWeapon_Glaive.label>
-  <Make_MeleeWeapon_Glaive.description>制造 长柄宽刃刀。</Make_MeleeWeapon_Glaive.description>
-  <Make_MeleeWeapon_Glaive.jobString>正在制造 长柄宽刃刀。</Make_MeleeWeapon_Glaive.jobString>
+  <Make_MeleeWeapon_Glaive.label>制作长柄宽刃刀</Make_MeleeWeapon_Glaive.label>
+  <Make_MeleeWeapon_Glaive.description>制作长柄宽刃刀。</Make_MeleeWeapon_Glaive.description>
+  <Make_MeleeWeapon_Glaive.jobString>正在制作长柄宽刃刀。</Make_MeleeWeapon_Glaive.jobString>
 
-  <Make_MeleeWeapon_Partisan.label>制造 斧枪</Make_MeleeWeapon_Partisan.label>
-  <Make_MeleeWeapon_Partisan.description>制造 斧枪。</Make_MeleeWeapon_Partisan.description>
-  <Make_MeleeWeapon_Partisan.jobString>正在制造 斧枪。</Make_MeleeWeapon_Partisan.jobString>
+  <Make_MeleeWeapon_Partisan.label>制作斧枪</Make_MeleeWeapon_Partisan.label>
+  <Make_MeleeWeapon_Partisan.description>制作斧枪。</Make_MeleeWeapon_Partisan.description>
+  <Make_MeleeWeapon_Partisan.jobString>正在制作斧枪。</Make_MeleeWeapon_Partisan.jobString>
 
-  <Make_NorbalMeleeWeapon_ShortSwordtwo.label>制造 诺巴短剑</Make_NorbalMeleeWeapon_ShortSwordtwo.label>
-  <Make_NorbalMeleeWeapon_ShortSwordtwo.description>制造 诺巴短剑。</Make_NorbalMeleeWeapon_ShortSwordtwo.description>
-  <Make_NorbalMeleeWeapon_ShortSwordtwo.jobString>正在制造 诺巴短剑。</Make_NorbalMeleeWeapon_ShortSwordtwo.jobString>
+  <Make_NorbalMeleeWeapon_ShortSwordtwo.label>制作诺巴短剑</Make_NorbalMeleeWeapon_ShortSwordtwo.label>
+  <Make_NorbalMeleeWeapon_ShortSwordtwo.description>制作诺巴短剑。</Make_NorbalMeleeWeapon_ShortSwordtwo.description>
+  <Make_NorbalMeleeWeapon_ShortSwordtwo.jobString>正在制作诺巴短剑。</Make_NorbalMeleeWeapon_ShortSwordtwo.jobString>
 
-  <Make_NorbalMeleeWeapon_ShortSword.label>制造 英勇之剑</Make_NorbalMeleeWeapon_ShortSword.label>
-  <Make_NorbalMeleeWeapon_ShortSword.description>制造 英勇之剑。</Make_NorbalMeleeWeapon_ShortSword.description>
-  <Make_NorbalMeleeWeapon_ShortSword.jobString>正在制造 英勇之剑。</Make_NorbalMeleeWeapon_ShortSword.jobString>
+  <Make_NorbalMeleeWeapon_ShortSword.label>制作英勇之剑</Make_NorbalMeleeWeapon_ShortSword.label>
+  <Make_NorbalMeleeWeapon_ShortSword.description>制作英勇之剑。</Make_NorbalMeleeWeapon_ShortSword.description>
+  <Make_NorbalMeleeWeapon_ShortSword.jobString>正在制作英勇之剑。</Make_NorbalMeleeWeapon_ShortSword.jobString>
 
-  <Make_NorbalMeleeWeapon_Ax.label>制造 诺巴战斧</Make_NorbalMeleeWeapon_Ax.label>
-  <Make_NorbalMeleeWeapon_Ax.description>制造 诺巴战斧。</Make_NorbalMeleeWeapon_Ax.description>
-  <Make_NorbalMeleeWeapon_Ax.jobString>正在制造 诺巴战斧。</Make_NorbalMeleeWeapon_Ax.jobString>
+  <Make_NorbalMeleeWeapon_Ax.label>制作诺巴战斧</Make_NorbalMeleeWeapon_Ax.label>
+  <Make_NorbalMeleeWeapon_Ax.description>制作诺巴战斧。</Make_NorbalMeleeWeapon_Ax.description>
+  <Make_NorbalMeleeWeapon_Ax.jobString>正在制作诺巴战斧。</Make_NorbalMeleeWeapon_Ax.jobString>
 
-  <Make_NorbalMeleeWeapon_Bigax.label>制造 长柄战斧</Make_NorbalMeleeWeapon_Bigax.label>
-  <Make_NorbalMeleeWeapon_Bigax.description>制造 长柄战斧。</Make_NorbalMeleeWeapon_Bigax.description>
-  <Make_NorbalMeleeWeapon_Bigax.jobString>正在制造 长柄战斧。</Make_NorbalMeleeWeapon_Bigax.jobString>
+  <Make_NorbalMeleeWeapon_Bigax.label>制作长柄战斧</Make_NorbalMeleeWeapon_Bigax.label>
+  <Make_NorbalMeleeWeapon_Bigax.description>制作长柄战斧。</Make_NorbalMeleeWeapon_Bigax.description>
+  <Make_NorbalMeleeWeapon_Bigax.jobString>正在制作长柄战斧。</Make_NorbalMeleeWeapon_Bigax.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy -->
 
-  <Make_MeleeWeapon_Knife.label>制造 匕首</Make_MeleeWeapon_Knife.label>
-  <Make_MeleeWeapon_Knife.description>制造 匕首。</Make_MeleeWeapon_Knife.description>
-  <Make_MeleeWeapon_Knife.jobString>正在制造 匕首。</Make_MeleeWeapon_Knife.jobString>
+  <Make_MeleeWeapon_Knife.label>制作小刀</Make_MeleeWeapon_Knife.label>
+  <Make_MeleeWeapon_Knife.description>制作小刀。</Make_MeleeWeapon_Knife.description>
+  <Make_MeleeWeapon_Knife.jobString>正在制作小刀。</Make_MeleeWeapon_Knife.jobString>
 
-  <Make_MeleeWeapon_Bonesaw.label>制造 骨锯</Make_MeleeWeapon_Bonesaw.label>
-  <Make_MeleeWeapon_Bonesaw.description>制造 骨锯。</Make_MeleeWeapon_Bonesaw.description>
-  <Make_MeleeWeapon_Bonesaw.jobString>正在制造 骨锯。</Make_MeleeWeapon_Bonesaw.jobString>
+  <Make_MeleeWeapon_Bonesaw.label>制作骨锯</Make_MeleeWeapon_Bonesaw.label>
+  <Make_MeleeWeapon_Bonesaw.description>制作骨锯。</Make_MeleeWeapon_Bonesaw.description>
+  <Make_MeleeWeapon_Bonesaw.jobString>正在制作骨锯。</Make_MeleeWeapon_Bonesaw.jobString>
 
-  <Make_MeleeWeapon_Machete.label>制造 开山刀</Make_MeleeWeapon_Machete.label>
-  <Make_MeleeWeapon_Machete.description>制造 开山刀。</Make_MeleeWeapon_Machete.description>
-  <Make_MeleeWeapon_Machete.jobString>正在制造 开山刀。</Make_MeleeWeapon_Machete.jobString>
+  <Make_MeleeWeapon_Machete.label>制作开山刀</Make_MeleeWeapon_Machete.label>
+  <Make_MeleeWeapon_Machete.description>制作开山刀。</Make_MeleeWeapon_Machete.description>
+  <Make_MeleeWeapon_Machete.jobString>正在制作开山刀。</Make_MeleeWeapon_Machete.jobString>
 
-  <Make_MeleeWeapon_Monkeywrench.label>制造 活动扳手</Make_MeleeWeapon_Monkeywrench.label>
-  <Make_MeleeWeapon_Monkeywrench.description>制造 活动扳手。</Make_MeleeWeapon_Monkeywrench.description>
-  <Make_MeleeWeapon_Monkeywrench.jobString>正在制造 活动扳手。</Make_MeleeWeapon_Monkeywrench.jobString>
+  <Make_MeleeWeapon_Monkeywrench.label>制作活动扳手</Make_MeleeWeapon_Monkeywrench.label>
+  <Make_MeleeWeapon_Monkeywrench.description>制作活动扳手。</Make_MeleeWeapon_Monkeywrench.description>
+  <Make_MeleeWeapon_Monkeywrench.jobString>正在制作活动扳手。</Make_MeleeWeapon_Monkeywrench.jobString>
 
-  <Make_MeleeWeapon_Cleaver.label>制造 切肉刀</Make_MeleeWeapon_Cleaver.label>
-  <Make_MeleeWeapon_Cleaver.description>制造 切肉刀。</Make_MeleeWeapon_Cleaver.description>
-  <Make_MeleeWeapon_Cleaver.jobString>正在制造 切肉刀。</Make_MeleeWeapon_Cleaver.jobString>
+  <Make_MeleeWeapon_Cleaver.label>制作切肉刀</Make_MeleeWeapon_Cleaver.label>
+  <Make_MeleeWeapon_Cleaver.description>制作切肉刀。</Make_MeleeWeapon_Cleaver.description>
+  <Make_MeleeWeapon_Cleaver.jobString>正在制作切肉刀。</Make_MeleeWeapon_Cleaver.jobString>
 
 
   <!-- Recipe Users: CraftingSpot -->
 
-  <Make_MeleeWeapon_Ikwa.label>制造 短矛</Make_MeleeWeapon_Ikwa.label>
-  <Make_MeleeWeapon_Ikwa.description>制造 短矛。</Make_MeleeWeapon_Ikwa.description>
-  <Make_MeleeWeapon_Ikwa.jobString>正在制造 短矛。</Make_MeleeWeapon_Ikwa.jobString>
+  <Make_MeleeWeapon_Ikwa.label>制作短矛</Make_MeleeWeapon_Ikwa.label>
+  <Make_MeleeWeapon_Ikwa.description>制作短矛。</Make_MeleeWeapon_Ikwa.description>
+  <Make_MeleeWeapon_Ikwa.jobString>正在制作短矛。</Make_MeleeWeapon_Ikwa.jobString>
 
-  <Make_MeleeWeapon_Spear.label>制造 长矛</Make_MeleeWeapon_Spear.label>
-  <Make_MeleeWeapon_Spear.description>制造 长矛。</Make_MeleeWeapon_Spear.description>
-  <Make_MeleeWeapon_Spear.jobString>正在制造 长矛。</Make_MeleeWeapon_Spear.jobString>
+  <Make_MeleeWeapon_Spear.label>制作长矛</Make_MeleeWeapon_Spear.label>
+  <Make_MeleeWeapon_Spear.description>制作长矛。</Make_MeleeWeapon_Spear.description>
+  <Make_MeleeWeapon_Spear.jobString>正在制作长矛。</Make_MeleeWeapon_Spear.jobString>
 
-  <Make_MeleeWeapon_Mace.label>制造 钉头锤</Make_MeleeWeapon_Mace.label>
-  <Make_MeleeWeapon_Mace.description>制造 钉头锤。</Make_MeleeWeapon_Mace.description>
-  <Make_MeleeWeapon_Mace.jobString>正在制造 钉头锤。</Make_MeleeWeapon_Mace.jobString>
+  <Make_MeleeWeapon_Mace.label>制作钉头锤</Make_MeleeWeapon_Mace.label>
+  <Make_MeleeWeapon_Mace.description>制作钉头锤。</Make_MeleeWeapon_Mace.description>
+  <Make_MeleeWeapon_Mace.jobString>正在制作钉头锤。</Make_MeleeWeapon_Mace.jobString>
 
-  <Make_MeleeWeapon_Club.label>制造 棍棒</Make_MeleeWeapon_Club.label>
-  <Make_MeleeWeapon_Club.description>制造 棍棒。</Make_MeleeWeapon_Club.description>
-  <Make_MeleeWeapon_Club.jobString>正在制造 棍棒。</Make_MeleeWeapon_Club.jobString>
+  <Make_MeleeWeapon_Club.label>制作棍棒</Make_MeleeWeapon_Club.label>
+  <Make_MeleeWeapon_Club.description>制作棍棒。</Make_MeleeWeapon_Club.description>
+  <Make_MeleeWeapon_Club.jobString>正在制作棍棒。</Make_MeleeWeapon_Club.jobString>
 
-  <Make_MeleeWeapon_Schiv.label>制造 小刀</Make_MeleeWeapon_Schiv.label>
-  <Make_MeleeWeapon_Schiv.description>制造 小刀。</Make_MeleeWeapon_Schiv.description>
-  <Make_MeleeWeapon_Schiv.jobString>正在制造 小刀。</Make_MeleeWeapon_Schiv.jobString>
+  <Make_MeleeWeapon_Schiv.label>制作剃刀</Make_MeleeWeapon_Schiv.label>
+  <Make_MeleeWeapon_Schiv.description>制作剃刀。</Make_MeleeWeapon_Schiv.description>
+  <Make_MeleeWeapon_Schiv.jobString>正在制作剃刀。</Make_MeleeWeapon_Schiv.jobString>
 
-  <Make_Bow_Short.label>制造 短弓</Make_Bow_Short.label>
-  <Make_Bow_Short.description>制造 短弓。</Make_Bow_Short.description>
-  <Make_Bow_Short.jobString>正在制造 短弓。</Make_Bow_Short.jobString>
+  <Make_Bow_Short.label>制作短弓</Make_Bow_Short.label>
+  <Make_Bow_Short.description>制作短弓。</Make_Bow_Short.description>
+  <Make_Bow_Short.jobString>正在制作短弓。</Make_Bow_Short.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy, CraftingSpot -->
 
-  <Make_Pila.label>制造 标枪</Make_Pila.label>
-  <Make_Pila.description>制造 标枪。</Make_Pila.description>
-  <Make_Pila.jobString>正在制造 标枪。</Make_Pila.jobString>
+  <Make_Pila.label>制作标枪</Make_Pila.label>
+  <Make_Pila.description>制作标枪。</Make_Pila.description>
+  <Make_Pila.jobString>正在制作标枪。</Make_Pila.jobString>
 
 
   <!-- Recipe Users: CraftingSpot -->
 
-  <Make_Bow_Great.label>制造 巨弓</Make_Bow_Great.label>
-  <Make_Bow_Great.description>制造 巨弓。</Make_Bow_Great.description>
-  <Make_Bow_Great.jobString>正在制造 巨弓。</Make_Bow_Great.jobString>
+  <Make_Bow_Great.label>制作巨弓</Make_Bow_Great.label>
+  <Make_Bow_Great.description>制作巨弓。</Make_Bow_Great.description>
+  <Make_Bow_Great.jobString>正在制作巨弓。</Make_Bow_Great.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <Make_Norbal_Scorpion.label>制造 蝎弩</Make_Norbal_Scorpion.label>
-  <Make_Norbal_Scorpion.description>制造 蝎弩。</Make_Norbal_Scorpion.description>
-  <Make_Norbal_Scorpion.jobString>正在制造 蝎弩。</Make_Norbal_Scorpion.jobString>
+  <Make_Norbal_Scorpion.label>制作蝎弩</Make_Norbal_Scorpion.label>
+  <Make_Norbal_Scorpion.description>制作蝎弩。</Make_Norbal_Scorpion.description>
+  <Make_Norbal_Scorpion.jobString>正在制作蝎弩。</Make_Norbal_Scorpion.jobString>
 
-  <Make_Arbalest.label>制造 劲弩</Make_Arbalest.label>
-  <Make_Arbalest.description>制造 劲弩。</Make_Arbalest.description>
-  <Make_Arbalest.jobString>正在制造 劲弩。</Make_Arbalest.jobString>
+  <Make_Arbalest.label>制作劲弩</Make_Arbalest.label>
+  <Make_Arbalest.description>制作劲弩。</Make_Arbalest.description>
+  <Make_Arbalest.jobString>正在制作劲弩。</Make_Arbalest.jobString>
 
-  <Make_Crossbow.label>制造 弩</Make_Crossbow.label>
-  <Make_Crossbow.description>制造 弩。</Make_Crossbow.description>
-  <Make_Crossbow.jobString>正在制造 弩。</Make_Crossbow.jobString>
+  <Make_Crossbow.label>制作弩</Make_Crossbow.label>
+  <Make_Crossbow.description>制作弩。</Make_Crossbow.description>
+  <Make_Crossbow.jobString>正在制作弩。</Make_Crossbow.jobString>
 
-  <Make_Bow_Recurve.label>制造 反曲弓</Make_Bow_Recurve.label>
-  <Make_Bow_Recurve.description>制造 反曲弓。</Make_Bow_Recurve.description>
-  <Make_Bow_Recurve.jobString>正在制造 反曲弓。</Make_Bow_Recurve.jobString>
+  <Make_Bow_Recurve.label>制作反曲弓</Make_Bow_Recurve.label>
+  <Make_Bow_Recurve.description>制作反曲弓。</Make_Bow_Recurve.description>
+  <Make_Bow_Recurve.jobString>正在制作反曲弓。</Make_Bow_Recurve.jobString>
 
-  <Make_NorbalBow_Grape.label>制造 诺巴弓</Make_NorbalBow_Grape.label>
-  <Make_NorbalBow_Grape.description>制造 诺巴弓。</Make_NorbalBow_Grape.description>
-  <Make_NorbalBow_Grape.jobString>正在制造 诺巴弓。</Make_NorbalBow_Grape.jobString>
+  <Make_NorbalBow_Grape.label>制作诺巴弓</Make_NorbalBow_Grape.label>
+  <Make_NorbalBow_Grape.description>制作诺巴弓。</Make_NorbalBow_Grape.description>
+  <Make_NorbalBow_Grape.jobString>正在制作诺巴弓。</Make_NorbalBow_Grape.jobString>
 
 
   <!-- Recipe Users: CraftingSpot -->
 
-  <Make_blowgun.label>制造 吹箭筒</Make_blowgun.label>
-  <Make_blowgun.description>制造 吹箭筒。</Make_blowgun.description>
-  <Make_blowgun.jobString>正在制造 吹箭筒。</Make_blowgun.jobString>
+  <Make_blowgun.label>制作吹箭筒</Make_blowgun.label>
+  <Make_blowgun.description>制作吹箭筒。</Make_blowgun.description>
+  <Make_blowgun.jobString>正在制作吹箭筒。</Make_blowgun.jobString>
 
 
   <!-- Recipe Users: TableElectronics -->
 
-  <Make_MeleeWeapon_Shocker.label>制造 电击器</Make_MeleeWeapon_Shocker.label>
-  <Make_MeleeWeapon_Shocker.description>制造 电击器。</Make_MeleeWeapon_Shocker.description>
-  <Make_MeleeWeapon_Shocker.jobString>正在制造 电击器。</Make_MeleeWeapon_Shocker.jobString>
+  <Make_MeleeWeapon_Shocker.label>制作电击器</Make_MeleeWeapon_Shocker.label>
+  <Make_MeleeWeapon_Shocker.description>制作电击器。</Make_MeleeWeapon_Shocker.description>
+  <Make_MeleeWeapon_Shocker.jobString>正在制作电击器。</Make_MeleeWeapon_Shocker.jobString>
 
-  <Make_MeleeWeapon_ElectricBaton.label>制造 电警棍</Make_MeleeWeapon_ElectricBaton.label>
-  <Make_MeleeWeapon_ElectricBaton.description>制造 电警棍。</Make_MeleeWeapon_ElectricBaton.description>
-  <Make_MeleeWeapon_ElectricBaton.jobString>正在制造 电警棍。</Make_MeleeWeapon_ElectricBaton.jobString>
+  <Make_MeleeWeapon_ElectricBaton.label>制作电警棍</Make_MeleeWeapon_ElectricBaton.label>
+  <Make_MeleeWeapon_ElectricBaton.description>制作电警棍。</Make_MeleeWeapon_ElectricBaton.description>
+  <Make_MeleeWeapon_ElectricBaton.jobString>正在制作电警棍。</Make_MeleeWeapon_ElectricBaton.jobString>
 
 
   <!-- Recipe Users: TableOrganvat -->
-  <!--<Make_Eye.label>制造 眼</Make_Eye.label>-->
-  <!--<Make_Eye.description>制造 眼。</Make_Eye.description>-->
-  <!--<Make_Eye.jobString>正在制造 眼。</Make_Eye.jobString>-->
-  <!--<Make_Ear.label>制造 耳</Make_Ear.label>-->
-  <!--<Make_Ear.description>制造 耳。</Make_Ear.description>-->
-  <!--<Make_Ear.jobString>正在制造 耳。</Make_Ear.jobString>-->
-  <!--<Make_Nose.label>制造 鼻</Make_Nose.label>-->
-  <!--<Make_Nose.description>制造 鼻。</Make_Nose.description>-->
-  <!--<Make_Nose.jobString>正在制造 鼻。</Make_Nose.jobString>-->
-  <!--<Make_Heart.label>制造 心</Make_Heart.label>-->
-  <!--<Make_Heart.description>制造 心。</Make_Heart.description>-->
-  <!--<Make_Heart.jobString>正在制造 心。</Make_Heart.jobString>-->
-  <!--<Make_Lung.label>制造 肺</Make_Lung.label>-->
-  <!--<Make_Lung.description>制造 肺。</Make_Lung.description>-->
-  <!--<Make_Lung.jobString>正在制造 肺。</Make_Lung.jobString>-->
-  <!--<Make_Liver.label>制造 肝</Make_Liver.label>-->
-  <!--<Make_Liver.description>制造 肝。</Make_Liver.description>-->
-  <!--<Make_Liver.jobString>正在制造 肝。</Make_Liver.jobString>-->
-  <!--<Make_Kidney.label>制造 肾</Make_Kidney.label>-->
-  <!--<Make_Kidney.description>制造 肾。</Make_Kidney.description>-->
-  <!--<Make_Kidney.jobString>正在制造 肾。</Make_Kidney.jobString>-->
-  <!--<Make_Stomach.label>制造 胃</Make_Stomach.label>-->
-  <!--<Make_Stomach.description>制造 胃。</Make_Stomach.description>-->
-  <!--<Make_Stomach.jobString>正在制造 胃。</Make_Stomach.jobString>-->
+  <!--<Make_Eye.label>制作眼</Make_Eye.label>-->
+  <!--<Make_Eye.description>制作眼。</Make_Eye.description>-->
+  <!--<Make_Eye.jobString>正在制作眼。</Make_Eye.jobString>-->
+  <!--<Make_Ear.label>制作耳</Make_Ear.label>-->
+  <!--<Make_Ear.description>制作耳。</Make_Ear.description>-->
+  <!--<Make_Ear.jobString>正在制作耳。</Make_Ear.jobString>-->
+  <!--<Make_Nose.label>制作鼻</Make_Nose.label>-->
+  <!--<Make_Nose.description>制作鼻。</Make_Nose.description>-->
+  <!--<Make_Nose.jobString>正在制作鼻。</Make_Nose.jobString>-->
+  <!--<Make_Heart.label>制作心</Make_Heart.label>-->
+  <!--<Make_Heart.description>制作心。</Make_Heart.description>-->
+  <!--<Make_Heart.jobString>正在制作心。</Make_Heart.jobString>-->
+  <!--<Make_Lung.label>制作肺</Make_Lung.label>-->
+  <!--<Make_Lung.description>制作肺。</Make_Lung.description>-->
+  <!--<Make_Lung.jobString>正在制作肺。</Make_Lung.jobString>-->
+  <!--<Make_Liver.label>制作肝</Make_Liver.label>-->
+  <!--<Make_Liver.description>制作肝。</Make_Liver.description>-->
+  <!--<Make_Liver.jobString>正在制作肝。</Make_Liver.jobString>-->
+  <!--<Make_Kidney.label>制作肾</Make_Kidney.label>-->
+  <!--<Make_Kidney.description>制作肾。</Make_Kidney.description>-->
+  <!--<Make_Kidney.jobString>正在制作肾。</Make_Kidney.jobString>-->
+  <!--<Make_Stomach.label>制作胃</Make_Stomach.label>-->
+  <!--<Make_Stomach.description>制作胃。</Make_Stomach.description>-->
+  <!--<Make_Stomach.jobString>正在制作胃。</Make_Stomach.jobString>-->
 
 </LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Berserk herb -->
+  <Berserk_herb.label>狂暴草</Berserk_herb.label>
+  <!-- EN: Heavy drug for blocking pain, usually uses at fight. -->
+  <Berserk_herb.description>可以阻断疼痛的重度药物，一般在打斗时使用。</Berserk_herb.description>
+  <!-- EN: Smoke {0} -->
+  <Berserk_herb.ingestible.ingestCommandString>吸食{0}</Berserk_herb.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <Berserk_herb.ingestible.ingestReportString>正在吸食{0}。</Berserk_herb.ingestible.ingestReportString>
+  <!-- EN: Consuming {0}. -->
+  <Berserk_herb.ingestible.ingestReportStringEat>沉迷{0}。</Berserk_herb.ingestible.ingestReportStringEat>
+  
+  <!-- EN: Painstopper -->
+  <VG_Ibuprofen.label>止痛药</VG_Ibuprofen.label>
+  <!-- EN: A drug for blocking pain. Take every day. -->
+  <VG_Ibuprofen.description>降低疼痛的药，需要每天服用。</VG_Ibuprofen.description>
+  
+</LanguageData>

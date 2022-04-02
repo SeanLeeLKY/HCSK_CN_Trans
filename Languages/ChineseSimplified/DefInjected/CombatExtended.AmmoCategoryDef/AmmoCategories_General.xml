@@ -1,29 +1,66 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <FullMetalJacket.label>全金属被甲弹</FullMetalJacket.label>
-  <FullMetalJacket.labelShort>FMJ</FullMetalJacket.labelShort>
-  <FullMetalJacket.description>软铅芯被包裹在坚硬的金属壳体中，拥有中等强度的停止力和装甲穿透力。</FullMetalJacket.description>
-
+  
+  <!-- EN: armor-piercing -->
   <ArmorPiercing.label>穿甲弹</ArmorPiercing.label>
-  <ArmorPiercing.labelShort>AP</ArmorPiercing.labelShort>
+  <!-- EN: Features a hardened steel penetrator core for increased armor penetration. -->
   <ArmorPiercing.description>淬硬钢制成的弹头给予较强的装甲穿透力。</ArmorPiercing.description>
-
-  <HollowPoint.label>空尖弹</HollowPoint.label>
-  <HollowPoint.labelShort>HP</HollowPoint.labelShort>
-  <HollowPoint.description>空心的尖端会使子弹在撞击时膨胀，大大增加软组织伤害，但是装甲穿透力较低。</HollowPoint.description>
-
-  <Sabot.label>脱壳穿甲弹</Sabot.label>
-  <Sabot.labelShort>Sabot</Sabot.labelShort>
-  <Sabot.description>配备抛弃式托柄的弹药，能够将较小的弹丸以一个极高的速度射出，极大地提高装甲穿透力。</Sabot.description>
-
-  <IncendiaryAP.label>穿甲燃烧弹</IncendiaryAP.label>
-  <IncendiaryAP.labelShort>AP-I</IncendiaryAP.labelShort>
-  <IncendiaryAP.description>装满易燃制剂的硬化弹头在击中敌人时能够造成额外的火焰伤害，并附带点燃目标。</IncendiaryAP.description>
-
+  <!-- EN: AP -->
+  <ArmorPiercing.labelShort>AP</ArmorPiercing.labelShort>
+  
+  <!-- EN: armor-piercing high-explosive -->
   <ExplosiveAP.label>穿甲高爆弹</ExplosiveAP.label>
-  <ExplosiveAP.labelShort>AP-HE</ExplosiveAP.labelShort>
+  <!-- EN: Filled with high-explosives that detonate on impact for additional damage. -->
   <ExplosiveAP.description>充满高爆炸药的弹头，可以造成额外伤害。</ExplosiveAP.description>
-
-
+  <!-- EN: AP-HE -->
+  <ExplosiveAP.labelShort>AP-HE</ExplosiveAP.labelShort>
+  
+  <!-- EN: flare -->
+  <Flare.label>信号弹</Flare.label>
+  <!-- EN: Special round based around a brightly-burning incendiary element, used for signaling and illumination. -->
+  <Flare.description>一种明亮燃烧的特殊弹药，用于发出信号和照明。</Flare.description>
+  
+  <!-- EN: full metal jacket -->
+  <FullMetalJacket.label>全金属被甲弹</FullMetalJacket.label>
+  <!-- EN: The soft lead core is encased in a harder metal coating, combining a medium amount of stopping power and armor penetration. -->
+  <FullMetalJacket.description>软铅芯被包裹在坚硬的金属壳体中，拥有中等强度的停止力和装甲穿透力。</FullMetalJacket.description>
+  <!-- EN: FMJ -->
+  <FullMetalJacket.labelShort>FMJ</FullMetalJacket.labelShort>
+  
+  <!-- EN: hollow point -->
+  <HollowPoint.label>空尖弹</HollowPoint.label>
+  <!-- EN: A hollowed out tip causes the bullet to expand on impact, increasing tissue damage at the cost of armor penetration. -->
+  <HollowPoint.description>空心的尖端会使子弹在撞击时膨胀，大大增加软组织伤害，但是装甲穿透力较低。</HollowPoint.description>
+  <!-- EN: HP -->
+  <HollowPoint.labelShort>HP</HollowPoint.labelShort>
+  
+  <!-- EN: armor-piercing incendiary -->
+  <IncendiaryAP.label>穿甲燃烧弹</IncendiaryAP.label>
+  <!-- EN: Filled with an incendiary compound that ignites on impact, doing additional damage and potentially igniting targets. -->
+  <IncendiaryAP.description>装满易燃制剂的硬化弹头在击中敌人时能够造成额外的火焰伤害，并附带点燃目标。</IncendiaryAP.description>
+  <!-- EN: AP-I -->
+  <IncendiaryAP.labelShort>AP-I</IncendiaryAP.labelShort>
+  
+  <!-- EN: rubber bullet -->
+  <RubberBullet.label>橡胶子弹</RubberBullet.label>
+  <!-- EN: Special round designed for non-lethal engagements of targets, intended to inflict painful but non-fatal injuries. -->
+  <RubberBullet.description>特殊设计的弹药，造成痛苦而不致命。</RubberBullet.description>
+  
+  <!-- EN: armor-piercing discarding sabot -->
+  <Sabot.label>脱壳穿甲弹</Sabot.label>
+  <!-- EN: Uses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration. -->
+  <Sabot.description>配备抛弃式托柄的弹药，能够将较小的弹丸以一个极高的速度射出，极大地提高装甲穿透力。</Sabot.description>
+  <!-- EN: Sabot -->
+  <Sabot.labelShort>Sabot</Sabot.labelShort>
+  
+  <!-- EN: taser -->
+  <Taser.label>泰瑟飞镖</Taser.label>
+  <!-- EN: Special round designed for non-lethal engagements of targets, delivering an incapacitating electrical current. -->
+  <Taser.description>带电的飞镖，用来制服目标而不伤害其性命。</Taser.description>
+  
+  <!-- EN: tranquilizer -->
+  <TranqNonLethal.label>麻醉弹</TranqNonLethal.label>
+  <!-- EN: Special round designed for non-lethal engagements of targets. Filled with fast-acting sedatives and tipped with a hypodermic needle. -->
+  <TranqNonLethal.description>利用弹体内的麻醉剂控制有生目标的神经和肌肉,使其暂时失去抵抗能力。</TranqNonLethal.description>
+  
 </LanguageData>

@@ -37,6 +37,15 @@
   <!-- EN: M56 Smart Gun -->
   <Gun_M56_USCM.verbs.Verb_ShootCE.label>M56智能机枪</Gun_M56_USCM.verbs.Verb_ShootCE.label>
   
+  <!-- EN: M60E4 GPMG -->
+  <Gun_M60GPMG.label>M60E4通用机枪</Gun_M60GPMG.label>
+  <!-- EN: A general purpose machine gun. It has a 100 round magazine and fires in 12 round bursts. Received the nickname "The Pig" due to its bulky size and appetite for ammunition.\nCaliber: 7.62x51mm -->
+  <Gun_M60GPMG.description>一种最大装填100发弹匣的通用机枪，可以使用单次12发的点射开火模式。正因为这把枪对于弹药的巨大消耗量，所以它有个叫“肥猪”的别名。\n 弹药： 7.62x51mm</Gun_M60GPMG.description>
+  <!-- EN: barrel -->
+  <Gun_M60GPMG.tools.barrel.label>枪管</Gun_M60GPMG.tools.barrel.label>
+  <!-- EN: M60E4 GPMG -->
+  <Gun_M60GPMG.verbs.Verb_ShootCE.label>M60E4通用机枪</Gun_M60GPMG.verbs.Verb_ShootCE.label>
+  
   <!-- EN: XM214 Microgun -->
   <Gun_Minigun.label>XM214速射机枪</Gun_Minigun.label>
   <!-- EN: A multi-barrel machine gun with an extremely high rate of fire. Mechanoid-built. -->

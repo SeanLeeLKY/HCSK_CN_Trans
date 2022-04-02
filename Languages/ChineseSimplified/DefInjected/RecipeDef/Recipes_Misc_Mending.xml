@@ -1,39 +1,53 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: mend complex apparel -->
-  <MendComplexApparel.label>修理 复杂衣物</MendComplexApparel.label>
+  <MendComplexApparel.label>修理复杂衣物</MendComplexApparel.label>
   <!-- EN: Mend armor. -->
   <MendComplexApparel.description>修理复杂衣物。</MendComplexApparel.description>
   <!-- EN: Mending. -->
   <MendComplexApparel.jobString>正在修理。</MendComplexApparel.jobString>
-  
+
   <!-- EN: repair complex weapon -->
-  <MendComplexWeapon.label>修理 复杂武器</MendComplexWeapon.label>
+  <MendComplexWeapon.label>修理复杂武器</MendComplexWeapon.label>
   <!-- EN: Repair weapon. -->
   <MendComplexWeapon.description>修理武器。</MendComplexWeapon.description>
   <!-- EN: Repairing. -->
   <MendComplexWeapon.jobString>正在维修。</MendComplexWeapon.jobString>
-  
+
+  <!-- EN: repair armor/weapons -->
+  <MendRepairArmor.label>修理护甲/武器</MendRepairArmor.label>
+  <!-- EN: Repair low-tech armor and melee weapons. -->
+  <MendRepairArmor.description>修理低技术护甲和近战武器。</MendRepairArmor.description>
+  <!-- EN: Mending. -->
+  <MendRepairArmor.jobString>正在维修。</MendRepairArmor.jobString>
+
   <!-- EN: mend simple apparel -->
-  <MendSimpleApparel.label>修理 简单衣物</MendSimpleApparel.label>
+  <MendSimpleApparel.label>修理简单衣物</MendSimpleApparel.label>
   <!-- EN: Mend simple apparel. -->
   <MendSimpleApparel.description>修理简单衣物。</MendSimpleApparel.description>
   <!-- EN: Mending. -->
   <MendSimpleApparel.jobString>正在修理。</MendSimpleApparel.jobString>
-  
+
   <!-- EN: repair simple weapon -->
-  <MendSimpleWeapon.label>修理 简单武器</MendSimpleWeapon.label>
+  <MendSimpleWeapon.label>修理简单武器</MendSimpleWeapon.label>
   <!-- EN: Repair weapon. -->
   <MendSimpleWeapon.description>修理武器。</MendSimpleWeapon.description>
   <!-- EN: Repairing. -->
   <MendSimpleWeapon.jobString>正在维修。</MendSimpleWeapon.jobString>
-  
+
+  <!-- EN: mend textile apparel -->
+  <MendTextileApparel.label>修理纺织衣物</MendTextileApparel.label>
+  <!-- EN: Mend pre-modern apparel made of textiles. -->
+  <MendTextileApparel.description>修理前现代织物材料的衣物。</MendTextileApparel.description>
+  <!-- EN: Mending. -->
+  <MendTextileApparel.jobString>正在维修。</MendTextileApparel.jobString>
+
   <!-- EN: recycle apparel -->
-  <RecycleApparel.label>回收 衣物</RecycleApparel.label>
+  <RecycleApparel.label>回收衣物</RecycleApparel.label>
   <!-- EN: Recycle apparel into their basic components. -->
   <RecycleApparel.description>回收无用衣物的原料配件。</RecycleApparel.description>
   <!-- EN: Recycling. -->
   <RecycleApparel.jobString>正在回收。</RecycleApparel.jobString>
-  
+
 </LanguageData>
