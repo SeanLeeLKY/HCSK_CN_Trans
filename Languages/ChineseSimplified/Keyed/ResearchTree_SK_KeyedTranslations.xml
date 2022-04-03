@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <LanguageData>
 
+	<!-- 已经在附属包更新，核心包此处内容停更 -->
+	<!--
 	<ResearchTreeSK.AllowsBuildingX>解锁建造 {0}</ResearchTreeSK.AllowsBuildingX>
 	<ResearchTreeSK.AllowsCraftingX>解锁配方 {0}</ResearchTreeSK.AllowsCraftingX>
 	<ResearchTreeSK.AllowsSowingXinY>解锁在 {1} 种植 {0}</ResearchTreeSK.AllowsSowingXinY>
@@ -35,6 +37,6 @@
 
 	<ResearchTreeSK.NoResearchFound>未找到研究项目</ResearchTreeSK.NoResearchFound>
 	<ResearchTreeSK.NothingQueued>无研究队列</ResearchTreeSK.NothingQueued>
-	<ResearchTreeSK.NextInQueue>队列中的下一个项目： {0}</ResearchTreeSK.NextInQueue>
+	<ResearchTreeSK.NextInQueue>队列中的下一个项目： {0}</ResearchTreeSK.NextInQueue> -->
 
 </LanguageData>

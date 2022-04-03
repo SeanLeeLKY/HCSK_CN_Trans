@@ -6,15 +6,15 @@
   <!-- EN: Total: {0} -->
   <LWM_DS_Total>总计: {0}</LWM_DS_Total>
   <!-- EN: {0} per cell -->
-  <LWM_DS_PerCell>{0}/格</LWM_DS_PerCell><!-- {0} in each cell, {0} for each cell, etc -->
+  <LWM_DS_PerCell>{0}/格</LWM_DS_PerCell>  <!-- {0} in each cell, {0} for each cell, etc -->
   <!-- EN: {0} total; {1} per cell -->
-  <LWM_DS_TotalAndPerCell>{0}总计；{1}/格</LWM_DS_TotalAndPerCell>
+  <LWM_DS_TotalAndPerCell>总计{0}；{1}/格</LWM_DS_TotalAndPerCell>
   <!-- EN: {0}kg -->
-  <LWM_DS_kg>{0}千克</LWM_DS_kg><!-- mass -->
+  <LWM_DS_kg>{0}千克</LWM_DS_kg>  <!-- mass -->
   <!-- EN: {0} {1} -->
-  <LWM_DS_BulkEtcOf>{0}{1}</LWM_DS_BulkEtcOf><!-- for CE:  "15 bulk", etc -->
+  <LWM_DS_BulkEtcOf>{0}{1}</LWM_DS_BulkEtcOf>  <!-- for CE:  "15 bulk", etc -->
   <!-- EN: The {0} is now called {1}. -->
-  <LWM_DSU_GainsName>{0}现在称为{1}。</LWM_DSU_GainsName><!-- rename building -->
+  <LWM_DSU_GainsName>{0}现在称为{1}。</LWM_DSU_GainsName>  <!-- rename building -->
   <!-- Content tab -->
   <!--     3 / 10 stacks with total mass of 4.5 / 10 kg -->
   <!--   or if using CE: -->
@@ -22,7 +22,7 @@
   <!-- EN: {0} / {1} with total {2} of {3} / {4} kg -->
   <LWM.ContentsHeaderMaxMass>{0}/{1}，总计：{3}/{4}千克{2}</LWM.ContentsHeaderMaxMass>
   <!-- EN: {0} / {1} with total {2} of {3} kg -->
-  <LWM.ContentsHeaderMax>{0}/{1}}，总计：{3}kg{2}</LWM.ContentsHeaderMax>
+  <LWM.ContentsHeaderMax>{0}/{1}，总计：{3}kg{2}</LWM.ContentsHeaderMax>
   <!-- EN: {0} / {1}, max {2}, with total {3} of {4} kg -->
   <LWM.ContentsHeaderMinMax>{0}/{1}，上限{2}，总计：{4}千克{3}</LWM.ContentsHeaderMinMax>
   <!-- EN: {0} stacks, max {1}, limited with total {2} of {3} kg -->
@@ -32,15 +32,15 @@
   <!-- EN: Drop this item onto the floor so colonists can interact with it more easily.\n\nIf you find this button adds clutter and is not useful, you can turn it off in the mod settings. -->
   <LWM.ContentsDropDesc>将此物品放到地板上以方便殖民者轻易使用。\n\n如果您发现此按钮会增加混乱并且没有用处，您可以在Mod设置中将其关闭。</LWM.ContentsDropDesc>
   <!-- EN: {0} stacks -->
-  <LWM.XStacks>{0}件</LWM.XStacks><!-- Will be used above as 3 / 4 stacks with...-->
+  <LWM.XStacks>{0}件</LWM.XStacks>  <!-- Will be used above as 3 / 4 stacks with...-->
   <!-- EN: {0} items -->
-  <LWM.XItems>{0}物品</LWM.XItems><!-- 3 / 4 items ...-->
+  <LWM.XItems>{0}物品</LWM.XItems>  <!-- 3 / 4 items ...-->
   <!-- EN:     (Cannot store items above a {0} of {1} kg) -->
-  <LWM.ContentsHeaderMaxSize>（无法储存重量超过 {1}千克的物品）</LWM.ContentsHeaderMaxSize><!--mass of 3 kg, bulk of 2kg-->
+  <LWM.ContentsHeaderMaxSize>（无法储存重量超过 {1}千克的物品）</LWM.ContentsHeaderMaxSize>  <!--mass of 3 kg, bulk of 2kg-->
   <!-- EN:   {0} is using this. -->
   <LWM.ContentsHeaderPawnUsing>{0}正在使用。</LWM.ContentsHeaderPawnUsing>
   <!-- EN:   This is being used by: {0}. -->
-  <LWM.ContentsHeaderPawnsUsing>正在由{0}使用。</LWM.ContentsHeaderPawnsUsing><!-- "Red, John, Abigail" etc -->
+  <LWM.ContentsHeaderPawnsUsing>正在由{0}使用。</LWM.ContentsHeaderPawnsUsing>  <!-- "Red, John, Abigail" etc -->
   <!-- EN: empty -->
   <LWM_DS_Empty>空的</LWM_DS_Empty>
   <!-- Stat text (information window)-->
@@ -69,7 +69,7 @@
   <!-- EN: These are items that this unit is designed to store.\n\nIf you are using a mod besides LWM's Deep Storage, this might not be perfectly accurate.  Also note: specific items may or may not fit for other reasons. -->
   <LWM_DS_allowedDefsDesc>该建筑能储存的物品\n\n如果您正在使用除LWM Deep Storage以外的mod，这里的描述可能不准确。另外请注意，一些特定物品可能因为其他原因而导致适用性发生变化。</LWM_DS_allowedDefsDesc>
   <!-- EN:   but not -->
-  <LWM_DS_disallowedStuff>无法储存的物品</LWM_DS_disallowedStuff><!--    (not storable), Not Storable, etc. -->
+  <LWM_DS_disallowedStuff>无法储存的物品</LWM_DS_disallowedStuff>  <!--    (not storable), Not Storable, etc. -->
   <!-- EN: You might think these items would be storable in this type of unit, but you would be wrong.  They cannot be stored here.\n\nIf you are using a mod besides LWM's Deep Storage, this might not be perfectly accurate.  Also note: specific items may or may not fit for other reasons. -->
   <LWM_DS_disallowedStuffDesc>您可能认为这些类别可以储存在这种类型的单元格里，但您错了，它们并不能。\n\n如果您正在使用除LWM Deep Storage以外的mod，这里的描述可能不准确。另外请注意，一些特定物品可能因为其他原因而导致适用性发生变化。</LWM_DS_disallowedStuffDesc>
 

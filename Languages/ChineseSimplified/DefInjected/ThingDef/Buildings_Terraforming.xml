@@ -177,7 +177,8 @@
   <WaterShallow-WaterDeep.description>从：浅水\n\n改造为：深水\n\n获得：\n2 碎石\n2 土堆\n50 粘土\n30 泥炭\n48 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！</WaterShallow-WaterDeep.description>
 
 
-  <Peat-WaterShallow.label>从土地收集泥炭</Peat-WaterShallow.label>
+
+  <!-- <Peat-WaterShallow.label>从土地收集泥炭</Peat-WaterShallow.label>
   <Peat-WaterShallow.description>从：苔藓地\n从：沼泽\n从：泥地\n\n改造为：浅水\n\n获得：\n2 碎石\n4 土堆\n15 粘土\n15 泥炭\n2 沙</Peat-WaterShallow.description>
 
   <Peat-SoilRich.label>从沃土收集泥炭</Peat-SoilRich.label>
@@ -191,7 +192,7 @@
 
   <SoftClay-SoilRich.label>从土地收集粘土</SoftClay-SoilRich.label>
   <SoftClay-SoilRich.description>从：肥沃土地\n从：土地\n从：苔藓地\n\n改造为：石砾\n\n获得：\n4 碎石\n4 土堆\n30 粘土\n5 泥炭\n4 沙</SoftClay-SoilRich.description>
-
+ -->
 
 
 </LanguageData>
