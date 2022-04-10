@@ -1,583 +1,583 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Accessories -->
   <AccessoriesCat.label>配件</AccessoriesCat.label>
-  
+
   <!-- EN: Agile -->
   <AgileMelee.label>灵巧</AgileMelee.label>
-  
+
   <!-- EN: Alcohol -->
   <Alcohol.label>酒精</Alcohol.label>
-  
+
   <!-- EN: Animal Food -->
   <Animalfood.label>动物饲料</Animalfood.label>
-  
+
   <!-- EN: Animal Headdress -->
   <AnimalHeaddressCat.label>动物头饰</AnimalHeaddressCat.label>
-  
+
   <!-- EN: Animal products -->
   <AnimalProductRaw.label>禽畜产品</AnimalProductRaw.label>
-  
+
   <!-- EN: animals -->
   <Animals.label>动物</Animals.label>
-  
+
   <!-- EN: Apparel -->
   <Apparel.label>衣着</Apparel.label>
-  
+
   <!-- EN: Noble Dress -->
   <ApparelNoble.label>高雅衣物</ApparelNoble.label>
-  
+
   <!-- EN: artifacts -->
   <Artifacts.label>神器</Artifacts.label>
-  
+
   <!-- EN: Basic Food -->
   <BasicPlantFoodRaw.label>基础食物</BasicPlantFoodRaw.label>
-  
+
   <!-- EN: Basic Prostheses -->
   <BasicProstheses.label>基本假肢</BasicProstheses.label>
-  
+
   <!-- EN: Blunt -->
   <BluntMelee.label>钝器</BluntMelee.label>
-  
+
   <!-- EN: Body Parts -->
   <BodyParts.label>身体部件</BodyParts.label>
-  
+
   <!-- EN: Artificial -->
   <BodyPartsArtificial.label>人造</BodyPartsArtificial.label>
-  
+
   <!-- EN: Bionics -->
   <BodyPartsBionic.label>仿生体</BodyPartsBionic.label>
-  
+
   <!-- EN: Natural -->
   <BodyPartsNatural.label>自然</BodyPartsNatural.label>
-  
+
   <!-- EN: Bodysuit -->
   <BodySuitsCat.label>紧身衣</BodySuitsCat.label>
-  
+
   <!-- EN: Boots -->
   <BootsCat.label>靴子</BootsCat.label>
-  
+
   <!-- EN: Bows -->
   <BowRanged.label>弓</BowRanged.label>
-  
+
   <!-- EN: Basic -->
   <BTextiles.label>基础</BTextiles.label>
-  
+
   <!-- EN: buildings -->
   <Buildings.label>建筑</Buildings.label>
-  
+
   <!-- EN: accessories -->
   <BuildingsAccessories.label>辅助</BuildingsAccessories.label>
-  
+
   <!-- EN: art -->
   <BuildingsArt.label>艺术</BuildingsArt.label>
-  
+
   <!-- EN: facilities -->
   <BuildingsFacilities.label>设施</BuildingsFacilities.label>
-  
+
   <!-- EN: furniture -->
   <BuildingsFurniture.label>家具</BuildingsFurniture.label>
-  
+
   <!-- EN: recreation -->
   <BuildingsJoy.label>娱乐</BuildingsJoy.label>
-  
+
   <!-- EN: misc -->
   <BuildingsMisc.label>杂项</BuildingsMisc.label>
-  
+
   <!-- EN: power -->
   <BuildingsPower.label>电力</BuildingsPower.label>
-  
+
   <!-- EN: production -->
   <BuildingsProduction.label>生产</BuildingsProduction.label>
-  
+
   <!-- EN: rugs -->
   <BuildingsRugs.label>地毯</BuildingsRugs.label>
-  
+
   <!-- EN: security -->
   <BuildingsSecurity.label>防卫</BuildingsSecurity.label>
-  
+
   <!-- EN: special -->
   <BuildingsSpecial.label>特殊</BuildingsSpecial.label>
-  
+
   <!-- EN: temperature -->
   <BuildingsTemperature.label>温度</BuildingsTemperature.label>
-  
+
   <!-- EN: Canware -->
   <Canware.label>罐类容器</Canware.label>
-  
+
   <!-- EN: Ceramic -->
   <Ceramic.label>陶瓷</Ceramic.label>
-  
+
   <!-- EN: Chemical -->
   <Chemical.label>化学品</Chemical.label>
-  
+
   <!-- EN: Chunks -->
   <Chunks.label>块堆</Chunks.label>
-  
+
   <!-- EN: Coal -->
   <Coal.label>煤炭</Coal.label>
-  
+
   <!-- EN: Construction -->
   <ConstructionParts.label>建材</ConstructionParts.label>
-  
+
   <!-- EN: Cooking Supplies -->
   <CookingSupplies.label>烹饪供应料</CookingSupplies.label>
-  
+
   <!-- EN: Corpses -->
   <Corpses.label>尸体</Corpses.label>
-  
+
   <!-- EN: Animal Corpses -->
   <CorpsesAnimal.label>动物尸体</CorpsesAnimal.label>
-  
+
   <!-- EN: Humanlike Corpses -->
   <CorpsesHumanlike.label>人类尸体</CorpsesHumanlike.label>
-  
+
   <!-- EN: insect corpses -->
   <CorpsesInsect.label>虫类尸体</CorpsesInsect.label>
-  
+
   <!-- EN: Mechanoid Corpses -->
   <CorpsesMechanoid.label>机械体尸体</CorpsesMechanoid.label>
-  
+
   <!-- EN: Crossbar -->
   <CrossbarRanged.label>弩</CrossbarRanged.label>
-  
+
   <!-- EN: Component -->
   <CTextiles.label>部件</CTextiles.label>
-  
+
   <!-- EN: Cybernetic Bionics -->
   <CyberneticProstheses.label>神经机械仿生体</CyberneticProstheses.label>
-  
+
   <!-- EN: Drugs -->
   <Drugs.label>药物与成瘾品</Drugs.label>
-  
+
   <!-- EN: Eggs (Fertilized) -->
   <EggsFertilized.label>卵（已受精）</EggsFertilized.label>
-  
+
   <!-- EN: Eggs (Unfertilized) -->
   <EggsUnfertilized.label>卵（未受精）</EggsUnfertilized.label>
-  
+
   <!-- EN: Electronics -->
   <ElectronicsCat.label>电子</ElectronicsCat.label>
-  
+
   <!-- EN: Energy Drinks -->
   <Energetics.label>能量饮料</Energetics.label>
-  
+
   <!-- EN: Explosives -->
   <ExplosivesCat.label>爆炸物</ExplosivesCat.label>
-  
+
   <!-- EN: Extracted -->
   <Extracted.label>提取物</Extracted.label>
-  
+
   <!-- EN: Extra Food -->
   <ExtraPlantFoodRaw.label>附属食物</ExtraPlantFoodRaw.label>
-  
+
   <!-- EN: Fresh Fish -->
   <FoodFreshFish.label>鲜鱼</FoodFreshFish.label>
-  
+
   <!-- EN: Meals -->
   <FoodMeals.label>烹饪食品</FoodMeals.label>
-  
+
   <!-- EN: Raw Food -->
   <FoodRaw.label>生食</FoodRaw.label>
-  
+
   <!-- EN: Foods -->
   <Foods.label>食物</Foods.label>
-  
+
   <!-- EN: Fruits -->
   <FruitFoodRaw.label>水果</FruitFoodRaw.label>
-  
+
   <!-- EN: Fuel -->
   <FuelCat.label>燃料</FuelCat.label>
-  
+
   <!-- EN: Full Armor -->
   <FullArmorCat.label>全装甲</FullArmorCat.label>
-  
+
   <!-- EN: Full Bodysuit -->
   <FullBodySuitsCat.label>紧身衣裤</FullBodySuitsCat.label>
-  
+
   <!-- EN: Fungi -->
   <FungusPlantRaw.label>菌菇</FungusPlantRaw.label>
-  
+
   <!-- EN: Futuristic -->
   <Futuristic.label>未来武器</Futuristic.label>
-  
+
   <!-- EN: Glassy -->
   <GlassCat.label>玻璃制品</GlassCat.label>
-  
+
   <!-- EN: Grenade launchers -->
   <Glaunchers.label>发射器</Glaunchers.label>
-  
+
   <!-- EN: Gloves -->
   <GlovesCat.label>手套</GlovesCat.label>
-  
+
   <!-- EN: Grenades -->
   <Grenades.label>手榴弹</Grenades.label>
-  
+
   <!-- EN: High Conductivity -->
   <HCM.label>高传导性</HCM.label>
-  
+
   <!-- EN: High Conductivity -->
-  <HCMBar.label>高传导率金属</HCMBar.label>
-  
+  <HCMBar.label>高传导率类</HCMBar.label>
+
   <!-- EN: Headdress -->
   <HeaddressCat.label>头饰</HeaddressCat.label>
-  
+
   <!-- EN: Headgear -->
   <Headgear.label>帽子</Headgear.label>
-  
+
   <!-- EN: Noble Headress -->
   <HeadgearNoble.label>高雅头饰</HeadgearNoble.label>
-  
+
   <!-- EN: Heavy -->
-  <HeavyBar.label>重质金属</HeavyBar.label>
-  
+  <HeavyBar.label>重质类</HeavyBar.label>
+
   <!-- EN: Heavy Armor -->
   <HeavyFullArmorCat.label>重甲</HeavyFullArmorCat.label>
-  
+
   <!-- EN: Heavy Helmets -->
   <HeavyHelmetsCat.label>重型头盔</HeavyHelmetsCat.label>
-  
+
   <!-- EN: Heavy -->
   <HeavyMelee.label>重型</HeavyMelee.label>
-  
+
   <!-- EN: Heavy Armor -->
   <HeavyUpperArmorCat.label>重甲</HeavyUpperArmorCat.label>
-  
+
   <!-- EN: HiTech -->
   <HTextiles.label>高科技</HTextiles.label>
-  
+
   <!-- EN: Heavy -->
   <HVY.label>重质</HVY.label>
-  
+
   <!-- EN: Hydrocarbons -->
   <Hydrocarbons.label>烃类物</Hydrocarbons.label>
-  
+
   <!-- EN: inert relics -->
   <InertRelics.label>圣物</InertRelics.label>
-  
+
   <!-- EN: Items -->
   <Items.label>物品</Items.label>
-  
+
   <!-- EN: Rocket launchers -->
   <Launchers.label>火箭筒</Launchers.label>
-  
+
   <!-- EN: Leathers -->
   <Leathers.label>皮革</Leathers.label>
-  
+
   <!-- EN: Light Armor -->
   <LightFullArmorCat.label>轻甲</LightFullArmorCat.label>
-  
+
   <!-- EN: Light Helmets -->
   <LightHelmetsCat.label>轻型头盔</LightHelmetsCat.label>
-  
+
   <!-- EN: Light Armor -->
   <LightUpperArmorCat.label>轻甲</LightUpperArmorCat.label>
-  
+
   <!-- EN: Luxury Stuffs -->
   <LuxuryStuffs.label>奢侈物品</LuxuryStuffs.label>
-  
+
   <!-- EN: Machineguns -->
   <MachineGun.label>机枪</MachineGun.label>
-  
+
   <!-- EN: Manufactured -->
   <Manufactured.label>制成品</Manufactured.label>
-  
+
   <!-- EN: Meat -->
   <MeatRaw.label>肉类</MeatRaw.label>
-  
+
   <!-- EN: MeatSubstitute -->
   <MeatSubRaw.label>肉类替代品</MeatSubRaw.label>
-  
+
   <!-- EN: Medicine -->
   <Medicine.label>医疗药品</Medicine.label>
-  
+
   <!-- EN: Medium Armor -->
   <MediumFullArmorCat.label>中甲</MediumFullArmorCat.label>
-  
+
   <!-- EN: Medium Helmets -->
   <MediumHelmetsCat.label>中型头盔</MediumHelmetsCat.label>
-  
+
   <!-- EN: Medium Armor -->
   <MediumUpperArmorCat.label>中甲</MediumUpperArmorCat.label>
-  
+
   <!-- EN: Medical kits -->
   <MedKitCat.label>医疗包</MedKitCat.label>
-  
+
   <!-- EN: Metal Alloy -->
   <Metallic.label>金属合金</Metallic.label>
-  
+
   <!-- EN: Metal Ore -->
   <Metals.label>金属矿石</Metals.label>
-  
+
   <!-- EN: Military Headdress -->
   <MilitaryHeaddressCat.label>军事头饰</MilitaryHeaddressCat.label>
-  
+
   <!-- EN: Military Pants -->
   <MilitaryPantsCat.label>军裤</MilitaryPantsCat.label>
-  
+
   <!-- EN: neurotrainers -->
   <Neurotrainers.label>神经训练器</Neurotrainers.label>
-  
+
   <!-- EN: psytrainers -->
   <NeurotrainersPsycast.label>心灵训练器</NeurotrainersPsycast.label>
-  
+
   <!-- EN: organic optimizer -->
   <OrganicOptimizer.label>生物增强装置</OrganicOptimizer.label>
-  
+
   <!-- EN: Pants -->
   <PantsCat.label>裤子</PantsCat.label>
-  
+
   <!-- EN: Parts and Mechanisms -->
   <Parts.label>部件和机械结构</Parts.label>
-  
+
   <!-- EN: Pistols -->
   <Pistols.label>手枪</Pistols.label>
-  
+
   <!-- EN: Vegetarian -->
   <PlantFoodRaw.label>素食</PlantFoodRaw.label>
-  
+
   <!-- EN: plant matter -->
   <PlantMatter.label>植物</PlantMatter.label>
-  
+
   <!-- EN: plants -->
   <Plants.label>植物</Plants.label>
-  
+
   <!-- EN: Preserves -->
   <Preserves.label>腌制品</Preserves.label>
-  
+
   <!-- EN: Precious -->
   <PRS.label>贵重物品</PRS.label>
-  
+
   <!-- EN: Precious -->
-  <PRSBar.label>贵金属</PRSBar.label>
-  
+  <PRSBar.label>贵重类</PRSBar.label>
+
   <!-- EN: Radioactive -->
   <RAD.label>放射性</RAD.label>
-  
+
   <!-- EN: Radioactive -->
   <RADBar.label>放射性</RADBar.label>
-  
+
   <!-- EN: Rare -->
   <RAR.label>稀有</RAR.label>
-  
+
   <!-- EN: Rare -->
-  <RARBar.label>稀有金属</RARBar.label>
-  
+  <RARBar.label>稀有类</RARBar.label>
+
   <!-- EN: Resources -->
   <Resources.label>资源</Resources.label>
-  
+
   <!-- EN: Raw Resources -->
   <ResourcesRaw.label>原材料</ResourcesRaw.label>
-  
+
   <!-- EN: Rifles -->
   <Rifles.label>步枪</Rifles.label>
-  
+
   <!-- EN: root -->
   <Root.label>根目录</Root.label>
 
   <!-- EN: Seeds -->
   <SeedsCategory.label>种子</SeedsCategory.label>
-  
+
   <!-- EN: Bandit Set -->
   <SetBandit.label>强盗</SetBandit.label>
-  
+
   <!-- EN: Hazmat Suit Set -->
   <SetChemicalProtectionSuit.label>核生化防护</SetChemicalProtectionSuit.label>
-  
+
   <!-- EN: Combat Armor Set -->
   <SetCombatarmor.label>战斗护甲</SetCombatarmor.label>
-  
+
   <!-- EN: Builder Set -->
   <SetConstructor.label>建筑师</SetConstructor.label>
-  
+
   <!-- EN: Cook Set -->
   <SetCookie.label>厨师</SetCookie.label>
-  
+
   <!-- EN: Gasmask Set -->
   <SetGasMask.label>防毒</SetGasMask.label>
-  
+
   <!-- EN: Farmer Set -->
   <SetHarvester.label>农民</SetHarvester.label>
-  
+
   <!-- EN: Hive Armor Set -->
   <Sethivearmor.label>巢穴护甲</Sethivearmor.label>
-  
+
   <!-- EN: Interactor Set -->
   <SetInteractor.label>交互装甲</SetInteractor.label>
-  
+
   <!-- EN: Jet Set -->
   <SetJet.label>喷射护甲</SetJet.label>
-  
+
   <!-- EN: Marine Set -->
   <Setmarinearmor.label>陆战队</Setmarinearmor.label>
-  
+
   <!-- EN: Medic Set -->
   <SetMedical.label>医生</SetMedical.label>
-  
+
   <!-- EN: Medieval Set -->
   <SetMedieval.label>中世纪</SetMedieval.label>
-  
+
   <!-- EN: Miner Set -->
   <SetMiner.label>矿工</SetMiner.label>
-  
+
   <!-- EN: Noble Set -->
   <SetNoble.label>高雅</SetNoble.label>
-  
+
   <!-- EN: Power Armor Set -->
   <Setpowerarmor.label>动力装甲</Setpowerarmor.label>
-  
+
   <!-- EN: Sets -->
   <Sets.label>套装</Sets.label>
-  
+
   <!-- EN: Scout Set -->
   <SetScout.label>侦察兵</SetScout.label>
-  
+
   <!-- EN: Security Set -->
   <SetSecurity.label>安保</SetSecurity.label>
-  
+
   <!-- EN: Siege Armor Set -->
   <SetSiegearmor.label>攻城护甲</SetSiegearmor.label>
-  
+
   <!-- EN: Slaver Set -->
   <SetSlaver.label>奴隶</SetSlaver.label>
-  
+
   <!-- EN: Smith Set -->
   <SetSmith.label>铁匠</SetSmith.label>
-  
+
   <!-- EN: Sniper Set -->
   <SetSniper.label>狙击手</SetSniper.label>
-  
+
   <!-- EN: Steam Set -->
   <Setsteamarmor.label>蒸汽护甲</Setsteamarmor.label>
-  
+
   <!-- EN: Syndicate Set -->
   <SetSyndicate.label>辛迪加</SetSyndicate.label>
-  
+
   <!-- EN: Sharp -->
   <SharpMelee.label>锋锐</SharpMelee.label>
-  
+
   <!-- EN: Shields -->
   <ShieldCat.label>盾牌</ShieldCat.label>
-  
+
   <!-- EN: Shotguns -->
   <Shotguns.label>霰弹枪</Shotguns.label>
-  
+
   <!-- EN: Simple Prostheses -->
   <SimpleProstheses.label>简单假肢</SimpleProstheses.label>
-  
+
   <!-- EN: Solid -->
   <SLD.label>硬质</SLD.label>
-  
+
   <!-- EN: Solid -->
-  <SLDBar.label>硬质金属</SLDBar.label>
-  
+  <SLDBar.label>硬质类</SLDBar.label>
+
   <!-- EN: SMGs -->
   <SMGs.label>冲锋枪</SMGs.label>
-  
+
   <!-- EN: Special -->
   <SpecialApparelCat.label>特殊</SpecialApparelCat.label>
-  
+
   <!-- EN: Special Headdress -->
   <SpecialHelmetsCat.label>特殊头饰</SpecialHelmetsCat.label>
-  
+
   <!-- EN: Special -->
   <SpecialMelee.label>专长</SpecialMelee.label>
-  
+
   <!-- EN: Special ranged -->
   <Specialranged.label>特种远程武器</Specialranged.label>
-  
+
   <!-- EN: Special Weapon -->
   <SpecialWeapons.label>特种武器</SpecialWeapons.label>
-  
+
   <!-- EN: Sniper Rifles -->
   <SRifles.label>狙击步枪</SRifles.label>
-  
+
   <!-- EN: Stone Blocks -->
   <StoneBlocks.label>石砖</StoneBlocks.label>
-  
+
   <!-- EN: Stone Chunks -->
   <StoneChunks.label>石块</StoneChunks.label>
-  
+
   <!-- EN: Super Materials -->
   <SuperMaterialCat.label>超材料</SuperMaterialCat.label>
-  
+
   <!-- EN: tools -->
   <SurvivalTools.label>工具</SurvivalTools.label>
-  
+
   <!-- EN: modern tools -->
   <SurvivalToolsIndustrial.label>现代工具</SurvivalToolsIndustrial.label>
-  
+
   <!-- EN: basic tools -->
   <SurvivalToolsNeolithic.label>基本工具</SurvivalToolsNeolithic.label>
-  
+
   <!-- EN: advanced tools -->
   <SurvivalToolsSpacer.label>先进工具</SurvivalToolsSpacer.label>
-  
+
   <!-- EN: Sweets -->
   <SweetMeals.label>甜食</SweetMeals.label>
-  
+
   <!-- EN: Synthetic Organs -->
   <SyntheticOrgans.label>人造器官</SyntheticOrgans.label>
-  
+
   <!-- EN: techprints -->
   <Techprints.label>科研蓝图</Techprints.label>
-  
+
   <!-- EN: Textiles -->
   <Textiles.label>织物</Textiles.label>
-  
+
   <!-- EN: Thrown -->
   <ThrownRanged.label>投掷</ThrownRanged.label>
-  
+
   <!-- EN: Unfinished -->
   <Unfinished.label>未完成</Unfinished.label>
-  
+
   <!-- EN: Upper Dress -->
   <UpperDressCat.label>上装</UpperDressCat.label>
-  
+
   <!-- EN: Upper Overdress -->
   <UpperOverdressCat.label>外套</UpperOverdressCat.label>
-  
+
   <!-- EN: Urban Pants -->
   <UrbanPantsCat.label>流行裤装</UrbanPantsCat.label>
-  
+
   <!-- EN: Ultrasolid -->
-  <USLDBar.label>高硬质金属</USLDBar.label>
-  
+  <USLDBar.label>高硬质类</USLDBar.label>
+
   <!-- EN: Ultrasolid heavy -->
-  <USLDHBar.label>高硬重质金属</USLDHBar.label>
-  
+  <USLDHBar.label>高硬质超重类</USLDHBar.label>
+
   <!-- EN: Vests -->
   <VestsCat.label>背心</VestsCat.label>
 
   <!-- EN: waste -->
   <Waste.label>废物</Waste.label>
-    
+
   <!-- EN: Weapon Crate -->
   <WeaponCrate.label>武器箱</WeaponCrate.label>
-  
+
   <!-- EN: Weapon Components -->
   <WeaponParts.label>武器部件</WeaponParts.label>
-  
+
   <!-- EN: Weapons -->
   <Weapons.label>武器</Weapons.label>
-  
+
   <!-- EN: Melee Weapons -->
   <WeaponsMelee.label>近战武器</WeaponsMelee.label>
-  
+
   <!-- EN: Ranged Weapons -->
   <WeaponsRanged.label>远程武器</WeaponsRanged.label>
-  
+
   <!-- EN: turrets -->
   <WeaponsTurrets.label>炮塔</WeaponsTurrets.label>
-  
+
   <!-- EN: Wooden -->
   <Wooden.label>木制产品</Wooden.label>
-  
+
   <!-- EN: Crafted Wood -->
   <Woody.label>木制产品</Woody.label>
-  
+
   <!-- EN: wools -->
   <Wools.label>毛料</Wools.label>
-  
+
 </LanguageData>
