@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: bronze alloy -->
-  <Bronze.label>青铜</Bronze.label>
+  <Bronze.label>青铜锭</Bronze.label>
   <!-- EN: Bronze is an alloy consisting primarily of copper, commonly with about 12% tin and often with the addition of other metals such as aluminium, nickel. -->
   <Bronze.description>青铜是一种主要由铜组成的合金，大约含有12%的锡，通常还会加入铝、镍等其他金属。</Bronze.description>
   <!-- EN: Bronze -->
   <Bronze.stuffProps.stuffAdjective>青铜</Bronze.stuffProps.stuffAdjective>
-  
+
   <!-- EN: copper alloy -->
-  <CopperBar.label>铜</CopperBar.label>
+  <CopperBar.label>铜锭</CopperBar.label>
   <!-- EN: Copper is an alloy of Copper Ore. It is mainly used for its high conductivity in electrical applications. Copper is not a magnetic metal. -->
   <CopperBar.description>铜是铜矿中提炼出的金属元素，具有良好的导电性，主要用于电气设施。铜不是磁性金属。</CopperBar.description>
   <!-- EN: copper -->
   <CopperBar.stuffProps.stuffAdjective>铜</CopperBar.stuffProps.stuffAdjective>
-  
+
   <!-- EN: gold alloy -->
-  <GoldBar.label>黄金</GoldBar.label>
+  <GoldBar.label>金锭</GoldBar.label>
   <!-- EN: Gold is a beautiful, precious alloy of Gold and Copper or Bauxite. Gold is not a magnetic metal. -->
   <GoldBar.description>金是一种美丽、珍贵的元素，普通黄金常常混杂铜或铝元素。黄金不是磁性金属。</GoldBar.description>
   <!-- EN: golden -->
   <GoldBar.stuffProps.stuffAdjective>金</GoldBar.stuffProps.stuffAdjective>
-  
+
   <!-- EN: sterling silver alloy -->
-  <SilverBar.label>标准银锭</SilverBar.label>
+  <SilverBar.label>银锭</SilverBar.label>
   <!-- EN: Sterling Silver is a valuable alloy of Silver and Copper or Bauxite. Sterling Silver is not a magnetic metal. -->
   <SilverBar.description>标准银是银和铜或铝的一种有价值的合金。标准银不是磁性金属。</SilverBar.description>
   <!-- EN: silver -->
   <SilverBar.stuffProps.stuffAdjective>银</SilverBar.stuffProps.stuffAdjective>
-  
+
   <!-- EN: tin alloy -->
-  <TinBar.label>锡</TinBar.label>
+  <TinBar.label>锡锭</TinBar.label>
   <!-- EN: Tin is an alloy of Tin Ore. -->
   <TinBar.description>锡是锡矿的提炼产物。</TinBar.description>
   <!-- EN: Tin -->
   <TinBar.stuffProps.stuffAdjective>锡</TinBar.stuffProps.stuffAdjective>
-  
+
 </LanguageData>

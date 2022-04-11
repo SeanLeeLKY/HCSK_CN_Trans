@@ -128,18 +128,18 @@
   <MakePobediteAlloy.jobString>正在提炼钨钴合金。</MakePobediteAlloy.jobString>
 
   <!-- EN: Smelt sterling silver alloy -->
-  <MakeSilverBars_Electric.label>提炼标准银锭</MakeSilverBars_Electric.label>
+  <MakeSilverBars_Electric.label>提炼银锭</MakeSilverBars_Electric.label>
   <!-- EN: Smelts sterling silver, a valuable alloy of silver and either copper or bauxite. Produces 15. -->
   <MakeSilverBars_Electric.description>提炼标准银锭，一种有价值的银合金，其复合元素既可以是铜也可以是铝。 \n\n产出：15</MakeSilverBars_Electric.description>
   <!-- EN: Smelting sterling silver alloy. -->
-  <MakeSilverBars_Electric.jobString>正在提炼标准银锭。</MakeSilverBars_Electric.jobString>
+  <MakeSilverBars_Electric.jobString>正在提炼银锭。</MakeSilverBars_Electric.jobString>
 
   <!-- EN: Smelt sterling silver alloy -->
-  <MakeSilverBars_Hand.label>提炼标准银锭</MakeSilverBars_Hand.label>
+  <MakeSilverBars_Hand.label>提炼银锭</MakeSilverBars_Hand.label>
   <!-- EN: Smelts sterling silver, a valuable alloy of silver and either copper or bauxite. Produces 10. -->
   <MakeSilverBars_Hand.description>提炼标准银锭，一种有价值的银合金，其复合元素既可以是铜也可以是铝。 \n\n产出：10</MakeSilverBars_Hand.description>
   <!-- EN: Smelting sterling silver alloy. -->
-  <MakeSilverBars_Hand.jobString>正在提炼标准银锭。</MakeSilverBars_Hand.jobString>
+  <MakeSilverBars_Hand.jobString>正在提炼银锭。</MakeSilverBars_Hand.jobString>
 
   <!-- EN: Smelt steel alloy -->
   <MakeSteelBars_Electric.label>提炼钢铁</MakeSteelBars_Electric.label>
