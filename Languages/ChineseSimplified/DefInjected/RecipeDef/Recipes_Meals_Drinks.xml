@@ -15,6 +15,14 @@
   <!-- EN: Brewing cups of tea. -->
   <BrewTea.jobString>正在沏茶。</BrewTea.jobString>
 
+  <BrewTeaBulk.label>沏泡茶饮（批量）</BrewTeaBulk.label>
+  <BrewTeaBulk.description>用茶叶沏泡美味提神的饮品。 \n\n产出：12。</BrewTeaBulk.description>
+  <BrewTeaBulk.jobstring>正在沏茶。</BrewTeaBulk.jobstring>
+
+  <BrewPsychiteTeaBulk.label>制作精神茶（批量）</BrewPsychiteTeaBulk.label>
+  <BrewPsychiteTeaBulk.description>批量制作精神茶。 \n\n产出：12。</BrewPsychiteTeaBulk.description>
+  <BrewPsychiteTeaBulk.jobstring>正在制作精神茶。</BrewPsychiteTeaBulk.jobstring>
+
   <!-- EN: mix chocolate milks -->
   <MakeChocoMilk.label>调制巧克力牛奶</MakeChocoMilk.label>
   <!-- EN: Mix milk or soy milk with chocolate for tastier beverages. Produces 3. -->
