@@ -6,7 +6,7 @@
   <!-- EN: A combined blade and tool-head attached to a sturdy haft. While slightly less effective than other weapons against human enemies, it excels at tearing down walls, doors, and other structures thanks to its integrated tool-head. -->
   <MeleeWeapon_BreachAxe.description>一个结合了刀片和工具头的工具，连接在一个坚固的轴上。虽然对人类敌人的效果比其他武器稍差，但由于其集成的工具头，它擅长拆毁墙壁、门和其他结构。</MeleeWeapon_BreachAxe.description>
   <!-- EN: handle -->
-  <MeleeWeapon_BreachAxe.tools.handle.label>把手</MeleeWeapon_BreachAxe.tools.handle.label>
+  <MeleeWeapon_BreachAxe.tools.handle.label>握把</MeleeWeapon_BreachAxe.tools.handle.label>
   <!-- EN: head -->
   <MeleeWeapon_BreachAxe.tools.head.label>斧头</MeleeWeapon_BreachAxe.tools.head.label>
 
@@ -22,9 +22,9 @@
   <!-- EN: A short one-handed primitive spear, designed to be driven into vital organs with a quick thrust. -->
   <MeleeWeapon_Ikwa.description>一根短的矛柄上安装有较长的刀刃头，设计成快速戳刺入重要器官之中。</MeleeWeapon_Ikwa.description>
   <!-- EN: shaft -->
-  <MeleeWeapon_Ikwa.tools.shaft.label>杆</MeleeWeapon_Ikwa.tools.shaft.label>
+  <MeleeWeapon_Ikwa.tools.shaft.label>矛杆</MeleeWeapon_Ikwa.tools.shaft.label>
   <!-- EN: head -->
-  <MeleeWeapon_Ikwa.tools.head.label>尖头</MeleeWeapon_Ikwa.tools.head.label>
+  <MeleeWeapon_Ikwa.tools.head.label>矛尖</MeleeWeapon_Ikwa.tools.head.label>
 
   <!-- EN: Mace -->
   <MeleeWeapon_Mace.label>钉头锤</MeleeWeapon_Mace.label>
@@ -45,10 +45,10 @@
   <!-- EN: Spear -->
   <MeleeWeapon_Spear.label>长矛</MeleeWeapon_Spear.label>
   <!-- EN: A two-handed polearm tipped with a sharp point for stabbing opponents in melee combat. -->
-  <MeleeWeapon_Spear.description>一种长柄武器，一端带有用于近战中戳刺敌人的尖头。</MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.description>一种长柄武器，一端带有用于近战中戳刺敌人的矛尖。</MeleeWeapon_Spear.description>
   <!-- EN: shaft -->
-  <MeleeWeapon_Spear.tools.shaft.label>杆</MeleeWeapon_Spear.tools.shaft.label>
+  <MeleeWeapon_Spear.tools.shaft.label>矛杆</MeleeWeapon_Spear.tools.shaft.label>
   <!-- EN: head -->
-  <MeleeWeapon_Spear.tools.head.label>尖头</MeleeWeapon_Spear.tools.head.label>
+  <MeleeWeapon_Spear.tools.head.label>矛尖</MeleeWeapon_Spear.tools.head.label>
 
 </LanguageData>

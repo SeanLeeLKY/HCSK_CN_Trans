@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Sunder -->
   <Sunderer.label>巨型砍刀</Sunderer.label>
   <!-- EN: A massive cleaver. -->
   <Sunderer.description>一把巨大的切肉刀。</Sunderer.description>
   <!-- EN: handle -->
-  <Sunderer.tools.handle.label>把手</Sunderer.tools.handle.label>
+  <Sunderer.tools.handle.label>握把</Sunderer.tools.handle.label>
   <!-- EN: edge -->
-  <Sunderer.tools.edge.label>刃</Sunderer.tools.edge.label>
-  
+  <Sunderer.tools.edge.label>刀刃</Sunderer.tools.edge.label>
+
 </LanguageData>

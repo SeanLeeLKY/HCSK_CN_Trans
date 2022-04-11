@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Broom -->
   <TFJ_Tool_Broom.label>扫帚</TFJ_Tool_Broom.label>
   <!-- EN: A tool for filling in pitted ground with smooth and beautiful fill. -->
@@ -11,7 +11,7 @@
   <TFJ_Tool_Broom.tools.shaft-1.label>杖</TFJ_Tool_Broom.tools.shaft-1.label>
   <!-- EN: head -->
   <TFJ_Tool_Broom.tools.head.label>头</TFJ_Tool_Broom.tools.head.label>
-  
+
   <!-- EN: Hammer -->
   <TFJ_Tool_Building_Hammer.label>锤子</TFJ_Tool_Building_Hammer.label>
   <!-- EN: A practical construction hammer. Be careful with your fingers! Equipping this boosts construction work speed by 30%. -->
@@ -20,16 +20,16 @@
   <TFJ_Tool_Building_Hammer.tools.handle.label>手柄</TFJ_Tool_Building_Hammer.tools.handle.label>
   <!-- EN: head -->
   <TFJ_Tool_Building_Hammer.tools.head.label>头</TFJ_Tool_Building_Hammer.tools.head.label>
-  
+
   <!-- EN: Hoe -->
   <TFJ_Tool_Hoe.label>锄头</TFJ_Tool_Hoe.label>
   <!-- EN: A tool for working the soil of farms. -->
   <TFJ_Tool_Hoe.description>方便在耕作土壤上种植作物的工具。</TFJ_Tool_Hoe.description>
   <!-- EN: shaft -->
-  <TFJ_Tool_Hoe.tools.shaft.label>杖</TFJ_Tool_Hoe.tools.shaft.label>
+  <TFJ_Tool_Hoe.tools.shaft.label>杆</TFJ_Tool_Hoe.tools.shaft.label>
   <!-- EN: point -->
   <TFJ_Tool_Hoe.tools.point.label>尖</TFJ_Tool_Hoe.tools.point.label>
-  
+
   <!-- EN: Pickaxe -->
   <TFJ_Tool_Mining_Pickaxe.label>鹤嘴锄</TFJ_Tool_Mining_Pickaxe.label>
   <!-- EN: A practical mining pickaxe. We have to go deeper. Equipping this boosts mining work speed by 30%. -->
@@ -38,12 +38,12 @@
   <TFJ_Tool_Mining_Pickaxe.tools.handle.label>手柄</TFJ_Tool_Mining_Pickaxe.tools.handle.label>
   <!-- EN: head -->
   <TFJ_Tool_Mining_Pickaxe.tools.head.label>头</TFJ_Tool_Mining_Pickaxe.tools.head.label>
-  
+
   <!-- EN: Multitool -->
   <TFJ_Tool_Multitool.label>多功能工具</TFJ_Tool_Multitool.label>
   <!-- EN: A high-tech set of tools commonly used by domestic mechanoids in glitterworld societies, though also usable by humanoids due to their physiological similarities. -->
   <TFJ_Tool_Multitool.description>一套高科技工具，在闪耀世界的社会中，通常被工作机械人使用，由于设计理念为类人型服务，所以大多数人型生物都可以方便的使用。</TFJ_Tool_Multitool.description>
-  
+
   <!-- EN: Sickle -->
   <TFJ_Tool_Sickle.label>镰刀</TFJ_Tool_Sickle.label>
   <!-- EN: A sharp curved hook, used for gathering plants and harvesting grains. -->
@@ -51,8 +51,8 @@
   <!-- EN: handle -->
   <TFJ_Tool_Sickle.tools.handle.label>手柄</TFJ_Tool_Sickle.tools.handle.label>
   <!-- EN: blade -->
-  <TFJ_Tool_Sickle.tools.blade.label>刃</TFJ_Tool_Sickle.tools.blade.label>
-  
+  <TFJ_Tool_Sickle.tools.blade.label>刀刃</TFJ_Tool_Sickle.tools.blade.label>
+
   <!-- EN: Handaxe -->
   <TFJ_Tool_Woodcutting_Handaxe.label>手斧</TFJ_Tool_Woodcutting_Handaxe.label>
   <!-- EN: A practical wood cutting handaxe. Trees beware! Equipping this boosts plant work speed by 30%. -->
@@ -60,8 +60,8 @@
   <!-- EN: handle -->
   <TFJ_Tool_Woodcutting_Handaxe.tools.handle.label>手柄</TFJ_Tool_Woodcutting_Handaxe.tools.handle.label>
   <!-- EN: point -->
-  <TFJ_Tool_Woodcutting_Handaxe.tools.point.label>尖</TFJ_Tool_Woodcutting_Handaxe.tools.point.label>
+  <TFJ_Tool_Woodcutting_Handaxe.tools.point.label>斧尖</TFJ_Tool_Woodcutting_Handaxe.tools.point.label>
   <!-- EN: edge -->
-  <TFJ_Tool_Woodcutting_Handaxe.tools.edge.label>刃</TFJ_Tool_Woodcutting_Handaxe.tools.edge.label>
-  
+  <TFJ_Tool_Woodcutting_Handaxe.tools.edge.label>斧刃</TFJ_Tool_Woodcutting_Handaxe.tools.edge.label>
+
 </LanguageData>
