@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: AK-47 -->
   <Gun_AK47Gun.label>AK-47突击步枪</Gun_AK47Gun.label>
   <!-- EN: The AK-47 is a selective-fire, gas-operated 7.62×39mm assault rifle, first developed in the Soviet Union by Mikhail Kalashnikov. It is officially known as Avtomat Kalashnikova (Russian: Автомат Калашникова). Good damage, average range and rate of fire, poor accuracy. -->
@@ -13,7 +13,7 @@
   <Gun_AK47Gun.tools.muzzle.label>枪口</Gun_AK47Gun.tools.muzzle.label>
   <!-- EN: AK-47 -->
   <Gun_AK47Gun.verbs.Verb_ShootCE.label>AK-47突击步枪</Gun_AK47Gun.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: M16 Rifle -->
   <Gun_AssaultRifle.label>M16突击步枪</Gun_AssaultRifle.label>
   <!-- EN: A general-purpose military weapon for field or urban combat. It fires a three-round burst. Good range, low power, high rate of fire. -->
@@ -26,7 +26,7 @@
   <Gun_AssaultRifle.tools.muzzle.label>枪口</Gun_AssaultRifle.tools.muzzle.label>
   <!-- EN: M16 Rifle -->
   <Gun_AssaultRifle.verbs.Verb_ShootCE.label>M16突击步枪</Gun_AssaultRifle.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: Steyr AUG -->
   <Gun_AUG.label>斯太尔AUG突击步枪</Gun_AUG.label>
   <!-- EN: The Steyr AUG is an Austrian bullpup 5.56×45mm NATO assault rifle, designed in the 1960s by Steyr Mannlicher GmbH. Average damage, good range and accuracy, low rate of fire. -->
@@ -39,7 +39,7 @@
   <Gun_AUG.tools.muzzle.label>枪口</Gun_AUG.tools.muzzle.label>
   <!-- EN: Steyr AUG -->
   <Gun_AUG.verbs.Verb_ShootCE.label>斯太尔AUG突击步枪</Gun_AUG.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: FAMAS G2 -->
   <Gun_FAMAS.label>法玛斯G2突击步枪</Gun_FAMAS.label>
   <!-- EN: The FAMAS is a bullpup-styled assault rifle designed and manufactured in France by MAS located in Saint-Étienne, which is now a member of the French government-owned Nexter group. It is the service rifle of the French military. Average damage and range, good rate of fire and accurracy. -->
@@ -52,7 +52,7 @@
   <Gun_FAMAS.tools.muzzle.label>枪口</Gun_FAMAS.tools.muzzle.label>
   <!-- EN: FAMAS G2 -->
   <Gun_FAMAS.verbs.Verb_ShootCE.label>法玛斯G2突击步枪</Gun_FAMAS.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: Tavor TAR-21 -->
   <Gun_MarineSturmRifle.label>TAR-21突击步枪</Gun_MarineSturmRifle.label>
   <!-- EN: The Marine sturm rifle is the standard firearm for all combat personnel in the Colonial Marine Corps. -->
@@ -65,11 +65,11 @@
   <Gun_MarineSturmRifle.tools.muzzle.label>枪口</Gun_MarineSturmRifle.tools.muzzle.label>
   <!-- EN: Tavor TAR-21 -->
   <Gun_MarineSturmRifle.verbs.Verb_ShootCE.label>TAR-21突击步枪</Gun_MarineSturmRifle.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: FN SCAR-H -->
   <Gun_SCAR_H.label>FN SCAR-H突击步枪</Gun_SCAR_H.label>
   <!-- EN: The Special Operations Forces Combat Assault Rifle (SCAR) is a gas-operated self-loading rifle with a rotating bolt. The rifle was developed by FN Herstal (FNH) for the United States Special Operations Command (SOCOM) to satisfy the requirements of the SCAR competition. Good damage, good range and accuracy, low rate of fire. -->
-  <Gun_SCAR_H.description>全称为特种部队战斗突击步枪（SOF Combat Assault Rifle，缩写作SCAR） ，是比利时Fabrique Nationale（FN）公司为了满足美军特战司令部USSOCOM的SCAR标案而制造的现代突击步枪。此枪族有两种主体版本，一种是使用5.56 NATO的SCAR-L（轻型版），另一种则是使用7.62 NATO的SCAR-H（重型版），两种都可以改装成“狙击型态”或“近战型态”（Close Quarters Combat），首次于2007年7月开始小批量量产并配往美军部队，并预计取代原本列装的M4系列步枪。</Gun_SCAR_H.description>
+  <Gun_SCAR_H.description>全称为特种部队战斗突击步枪（SOF Combat Assault Rifle，缩写作SCAR），是比利时Fabrique Nationale（FN）公司为了满足美军特战司令部USSOCOM的SCAR标案而制造的现代突击步枪。此枪族有两种主体版本，一种是使用5.56 NATO的SCAR-L（轻型版），另一种则是使用7.62 NATO的SCAR-H（重型版），两种都可以改装成“狙击型态”或“近战型态”（Close Quarters Combat），首次于2007年7月开始小批量量产并配往美军部队，并预计取代原本列装的M4系列步枪。</Gun_SCAR_H.description>
   <!-- EN: stock -->
   <Gun_SCAR_H.tools.stock.label>枪托</Gun_SCAR_H.tools.stock.label>
   <!-- EN: barrel -->
@@ -78,7 +78,7 @@
   <Gun_SCAR_H.tools.muzzle.label>枪口</Gun_SCAR_H.tools.muzzle.label>
   <!-- EN: FN SCAR-H -->
   <Gun_SCAR_H.verbs.Verb_ShootCE.label>FN SCAR-H突击步枪</Gun_SCAR_H.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: SIG SG553 -->
   <Gun_SG553Gun.label>西格SG553突击步枪</Gun_SG553Gun.label>
   <!-- EN: The SG553, a slightly improved version of the SG552, is the SBR (Short Barrel Rifle) version of the SIG SG550. It fires the 5.56x45mm NATO round. Average damage and range, good rate of fire and accurracy. -->
@@ -91,7 +91,7 @@
   <Gun_SG553Gun.tools.muzzle.label>枪口</Gun_SG553Gun.tools.muzzle.label>
   <!-- EN: SIG SG553 -->
   <Gun_SG553Gun.verbs.Verb_ShootCE.label>西格SG553突击步枪</Gun_SG553Gun.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: MA5 ICWS -->
   <Gun_TacticalCombatRifle.label>MA5 ICWS突击步枪</Gun_TacticalCombatRifle.label>
   <!-- EN: The MA5 Individual Combat Weapon System (MA5 ICWS or MA5 Assault rifle) is a standard-issue service rifle of the UNSC Marines. -->
@@ -104,7 +104,7 @@
   <Gun_TacticalCombatRifle.tools.muzzle.label>枪口</Gun_TacticalCombatRifle.tools.muzzle.label>
   <!-- EN: MA5 ICWS -->
   <Gun_TacticalCombatRifle.verbs.Verb_ShootCE.label>MA5 ICWS突击步枪</Gun_TacticalCombatRifle.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: HK XM8 Military Rifle -->
   <RF_Gun_XMeight.label>XM8军用步枪</RF_Gun_XMeight.label>
   <!-- EN: Ancient pattern military weapon. Three-round burst. Good range, low power, high rate of fire. -->
@@ -117,5 +117,5 @@
   <RF_Gun_XMeight.tools.muzzle.label>枪口</RF_Gun_XMeight.tools.muzzle.label>
   <!-- EN: HK XM8 Military Rifle -->
   <RF_Gun_XMeight.verbs.Verb_ShootCE.label>XM8军用步枪</RF_Gun_XMeight.verbs.Verb_ShootCE.label>
-  
+
 </LanguageData>

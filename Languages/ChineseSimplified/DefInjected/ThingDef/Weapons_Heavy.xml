@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: MA39X ICWS -->
   <Gun_HeavyCombatRifle.label>MA39X突击步枪</Gun_HeavyCombatRifle.label>
   <!-- EN: The MA39X Individual Combat Weapon System (MA39X ICWS or MA39X Assault rifle) is a close combat service rifle of the UNSC. -->
-  <Gun_HeavyCombatRifle.description>MA39X突击步枪（也叫MA39XICWS单兵战斗武器系统） 是在UNSC（United Nations Space Command,联合国太空指挥部）授权下使用的一种近距离战斗武器系统。</Gun_HeavyCombatRifle.description>
+  <Gun_HeavyCombatRifle.description>MA39X突击步枪（也叫MA39XICWS单兵战斗武器系统）是在UNSC（United Nations Space Command,联合国太空指挥部）授权下使用的一种近距离战斗武器系统。</Gun_HeavyCombatRifle.description>
   <!-- EN: barrel -->
   <Gun_HeavyCombatRifle.tools.barrel.label>枪管</Gun_HeavyCombatRifle.tools.barrel.label>
   <!-- EN: MA39X ICWS -->
   <Gun_HeavyCombatRifle.verbs.Verb_ShootCE.label>MA39X突击步枪</Gun_HeavyCombatRifle.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: M249 LMG SAW MG -->
   <Gun_HHMG.label>M249班用机枪</Gun_HHMG.label>
   <!-- EN: M249 LMG SAW MG, a heavy machinegun. It has a 120 round magazine and fires in 20 round bursts. Not very accurate but good at providing suppressing fire. -->
@@ -18,7 +18,7 @@
   <Gun_HHMG.tools.barrel.label>枪管</Gun_HHMG.tools.barrel.label>
   <!-- EN: M249 LMG SAW MG -->
   <Gun_HHMG.verbs.Verb_ShootCE.label>M249班用机枪</Gun_HHMG.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: L-15 LMG -->
   <Gun_LMG.label>L-15轻机枪</Gun_LMG.label>
   <!-- EN: A light machine gun. -->
@@ -27,7 +27,7 @@
   <Gun_LMG.tools.barrel.label>枪管</Gun_LMG.tools.barrel.label>
   <!-- EN: L-15 LMG -->
   <Gun_LMG.verbs.Verb_ShootCE.label>L-15轻机枪</Gun_LMG.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: M56 Smart Gun -->
   <Gun_M56_USCM.label>M56智能机枪</Gun_M56_USCM.label>
   <!-- EN: The M56 Smartgun is a man-portable heavy machine gun with automatic targeting capabilities chambered for heavy ammunition. It is notably employed by the United States Colonial Marine Corps. It hurts like hell. -->
@@ -36,7 +36,7 @@
   <Gun_M56_USCM.tools.barrel.label>枪管</Gun_M56_USCM.tools.barrel.label>
   <!-- EN: M56 Smart Gun -->
   <Gun_M56_USCM.verbs.Verb_ShootCE.label>M56智能机枪</Gun_M56_USCM.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: M60E4 GPMG -->
   <Gun_M60GPMG.label>M60E4通用机枪</Gun_M60GPMG.label>
   <!-- EN: A general purpose machine gun. It has a 100 round magazine and fires in 12 round bursts. Received the nickname "The Pig" due to its bulky size and appetite for ammunition.\nCaliber: 7.62x51mm -->
@@ -45,7 +45,7 @@
   <Gun_M60GPMG.tools.barrel.label>枪管</Gun_M60GPMG.tools.barrel.label>
   <!-- EN: M60E4 GPMG -->
   <Gun_M60GPMG.verbs.Verb_ShootCE.label>M60E4通用机枪</Gun_M60GPMG.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: XM214 Microgun -->
   <Gun_Minigun.label>XM214速射机枪</Gun_Minigun.label>
   <!-- EN: A multi-barrel machine gun with an extremely high rate of fire. Mechanoid-built. -->
@@ -54,7 +54,7 @@
   <Gun_Minigun.tools.barrel.label>枪管</Gun_Minigun.tools.barrel.label>
   <!-- EN: XM214 Microgun -->
   <Gun_Minigun.verbs.Verb_ShootCE.label>XM214速射机枪</Gun_Minigun.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: Galil ACE Heavy -->
   <RF_Gun_Galil.label>加利尔ACE轻机枪</RF_Gun_Galil.label>
   <!-- EN: Ancient pattern military weapon. Good range, high power, low rate of fire. -->
@@ -63,5 +63,5 @@
   <RF_Gun_Galil.tools.barrel.label>枪管</RF_Gun_Galil.tools.barrel.label>
   <!-- EN: Galil ACE Heavy -->
   <RF_Gun_Galil.verbs.Verb_ShootCE.label>加利尔ACE轻机枪</RF_Gun_Galil.verbs.Verb_ShootCE.label>
-  
+
 </LanguageData>

@@ -2,21 +2,21 @@
 <LanguageData>
 
   <!-- EN: make 12 gauge (Beanbag) shell x40 -->
-  <MakeAmmo_12Gauge_Beanbag.label>制作12号子弹（豆袋弹） x40</MakeAmmo_12Gauge_Beanbag.label>
+  <MakeAmmo_12Gauge_Beanbag.label>制作12号子弹（豆袋弹）x40</MakeAmmo_12Gauge_Beanbag.label>
   <!-- EN: Craft 40 12 gauge (Beanbag) shells. -->
   <MakeAmmo_12Gauge_Beanbag.description>制作40 12号子弹（豆袋弹）。</MakeAmmo_12Gauge_Beanbag.description>
   <!-- EN: Making 12 gauge (Beanbag) shells. -->
   <MakeAmmo_12Gauge_Beanbag.jobString>正在制作12号子弹（豆袋弹）。</MakeAmmo_12Gauge_Beanbag.jobString>
 
   <!-- EN: make 12 gauge (Bird) shell x40 -->
-  <MakeAmmo_12Gauge_Bird.label>制作12号子弹（鸟弹） x40</MakeAmmo_12Gauge_Bird.label>
+  <MakeAmmo_12Gauge_Bird.label>制作12号子弹（鸟弹）x40</MakeAmmo_12Gauge_Bird.label>
   <!-- EN: Craft 40 12 gauge (Bird) shells. -->
   <MakeAmmo_12Gauge_Bird.description>制作40 12号子弹（鸟弹）。</MakeAmmo_12Gauge_Bird.description>
   <!-- EN: Making 12 gauge (Bird) shells. -->
   <MakeAmmo_12Gauge_Bird.jobString>正在制作12号子弹（鸟弹）。</MakeAmmo_12Gauge_Bird.jobString>
 
   <!-- EN: make 12 gauge (Buck) shell x40 -->
-  <MakeAmmo_12Gauge_Buck.label>制作12号子弹（鹿弹） x40</MakeAmmo_12Gauge_Buck.label>
+  <MakeAmmo_12Gauge_Buck.label>制作12号子弹（鹿弹）x40</MakeAmmo_12Gauge_Buck.label>
   <!-- EN: Craft 40 12 gauge (Buck) shells. -->
   <MakeAmmo_12Gauge_Buck.description>制作40 12号子弹（鹿弹）。</MakeAmmo_12Gauge_Buck.description>
   <!-- EN: Making 12 gauge (Buck) shells. -->
@@ -30,7 +30,7 @@
   <MakeAmmo_12Gauge_ElectroSlug.jobString>正在制作12号子弹（EMP）。</MakeAmmo_12Gauge_ElectroSlug.jobString>
 
   <!-- EN: make 12 gauge (Slug) shell x40 -->
-  <MakeAmmo_12Gauge_Slug.label>制作12号子弹（独头） x40</MakeAmmo_12Gauge_Slug.label>
+  <MakeAmmo_12Gauge_Slug.label>制作12号子弹（独头）x40</MakeAmmo_12Gauge_Slug.label>
   <!-- EN: Craft 40 12 gauge (Slug) shells. -->
   <MakeAmmo_12Gauge_Slug.description>制作40 12号子弹（独头）。</MakeAmmo_12Gauge_Slug.description>
   <!-- EN: Making 12 gauge (Slug) shells. -->

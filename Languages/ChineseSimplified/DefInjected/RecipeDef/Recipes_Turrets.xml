@@ -81,7 +81,7 @@
   <!-- EN: Build AT missile FGM-148 Javelin crate -->
   <BuildLightMissileSystem_Crate.label>制作FGM-148“标枪”反坦克导弹组件箱</BuildLightMissileSystem_Crate.label>
   <!-- EN: Use this to build a Light Missile System FGM-148 Javelin, a type of stationary manned turret. It uses AT missile for ammo. -->
-  <BuildLightMissileSystem_Crate.description>用于建造FGM-148“标枪”反坦克导弹系统， 一种固定式的人工操作炮塔。 使用 反坦克导弹 作为弹药。</BuildLightMissileSystem_Crate.description>
+  <BuildLightMissileSystem_Crate.description>用于建造FGM-148“标枪”反坦克导弹系统， 一种固定式的人工操作炮塔。 使用 反坦克导弹作为弹药。</BuildLightMissileSystem_Crate.description>
   <!-- EN: Building AT missile FGM-148 Javelin crate. -->
   <BuildLightMissileSystem_Crate.jobString>正在制作FGM-148“标枪”反坦克导弹组件箱。</BuildLightMissileSystem_Crate.jobString>
 
@@ -165,7 +165,7 @@
   <!-- EN: Build AT missile BGM-71 TOW crate -->
   <BuildTOW_Crate.label>制作BGM-71“陶式”反坦克导弹组件箱</BuildTOW_Crate.label>
   <!-- EN: Use this to build a Light Missile System BGM-71 TOW, a type of stationary manned turret. It uses AT missiles for ammo. -->
-  <BuildTOW_Crate.description>用于建造BGM-71“陶式”反坦克导弹系统, 一种固定式的人工操作炮塔。 使用 反坦克导弹 作为弹药。</BuildTOW_Crate.description>
+  <BuildTOW_Crate.description>用于建造BGM-71“陶式”反坦克导弹系统, 一种固定式的人工操作炮塔。 使用 反坦克导弹作为弹药。</BuildTOW_Crate.description>
   <!-- EN: Building AT missile BGM-71 TOW crate. -->
   <BuildTOW_Crate.jobString>正在制作BGM-71“陶式”反坦克导弹组件箱。</BuildTOW_Crate.jobString>
 
