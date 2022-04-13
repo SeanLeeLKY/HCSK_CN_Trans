@@ -179,7 +179,7 @@
    EN: Shallow water
   <Marsh-WaterShallow.label>浅水</Marsh-WaterShallow.label>
    EN: 从：Shallow water\n\n改造为：Marsh\n\n8 rubble\n3 dirt\n8 clay\n12 peat\n4 sand\n4 compost\n2 fertilizer
-  <Marsh-WaterShallow.description>从：浅水\n\n改造为：沼泽\n\n获得：\n8 碎石\n3 土堆\n8 粘土\n12 泥炭\n4 沙\n4 堆肥料\n2 肥料</Marsh-WaterShallow.description>
+  <Marsh-WaterShallow.description>从：浅水\n\n改造为：沼泽\n\n获得：\n8 碎石\n3 土堆\n8 软粘土\n12 泥炭\n4 沙\n4 堆肥料\n2 肥料</Marsh-WaterShallow.description>
 
    EN: Packed dirt ► Soil
   <PackedDirt-SoilF.label>压实泥土 ► 土地</PackedDirt-SoilF.label>
@@ -224,17 +224,17 @@
    EN: Shallow water
   <Sand-WaterShallow.label>浅水</Sand-WaterShallow.label>
    EN: 从：Sand (near water)\n\n改造为：Shallow water\n\n4 rubble\n2 dirt\n15 clay\n32 sand
-  <Sand-WaterShallow.description>从：沙（近水）\n\n改造为：浅水\n\n获得：\n4 碎石\n2 土堆\n15 粘土\n32 沙</Sand-WaterShallow.description>
+  <Sand-WaterShallow.description>从：沙（近水）\n\n改造为：浅水\n\n获得：\n4 碎石\n2 土堆\n15 软粘土\n32 沙</Sand-WaterShallow.description>
 
    EN: Gravel
   <SoilF-Gravel.label>砂砾</SoilF-Gravel.label>
    EN: 从：Soil\n从：Savanna soil\n从：Rich soil\n从：Marginal soil\n从：Reclaimed soil\n从：Lichen-covered dirt\n\n改造为：Gravel\n\n2 dirt\n15 clay\n4 peat\n4 sand
-  <SoilF-Gravel.description>从：土地\n从：草原土地\n从：肥沃土地\n从：边角土地\n从：回填土地\n从：苔藓地\n\n改造为：砂砾\n\n获得：\n2 土堆\n15 粘土\n4 泥炭\n4 沙</SoilF-Gravel.description>
+  <SoilF-Gravel.description>从：土地\n从：草原土地\n从：肥沃土地\n从：边角土地\n从：回填土地\n从：苔藓地\n\n改造为：砂砾\n\n获得：\n2 土堆\n15 软粘土\n4 泥炭\n4 沙</SoilF-Gravel.description>
 
    EN: Marshy soil
   <SoilF-Marsh.label>湿软土地</SoilF-Marsh.label>
    EN: 从：Soil\n从：Savanna soil\n从：Rich soil\n从：Marginal soil\n从：Reclaimed soil\n从：Lichen-covered dirt\n\n改造为：Gravel\n\n2 dirt\n15 clay\n4 peat\n4 sand
-  <SoilF-Marsh.description>从：土地\n从：草原土地\n从：肥沃土地\n从：边角土地\n从：回填土地\n从：苔藓地\n\n改造为：砂砾\n\n获得：\n2 土堆\n15 粘土\n4 泥炭\n4 沙</SoilF-Marsh.description>
+  <SoilF-Marsh.description>从：土地\n从：草原土地\n从：肥沃土地\n从：边角土地\n从：回填土地\n从：苔藓地\n\n改造为：砂砾\n\n获得：\n2 土堆\n15 软粘土\n4 泥炭\n4 沙</SoilF-Marsh.description>
 
    EN: Packed dirt
   <SoilF-PackedDirt.label>压实泥土</SoilF-PackedDirt.label>
@@ -244,12 +244,12 @@
    EN: Rocky dirt
   <SoilF-RockyDirt.label>石砾</SoilF-RockyDirt.label>
    EN: 从：Soil\n从：Savanna soil\n从：Rich soil\n从：Marginal soil\n从：Reclaimed soil\n从：Lichen-covered dirt\n从：Poor soil \n\n改造为：Rocky dirt\n\n4 rubble\n2 dirt\n8 clay\n4 peat\n6 sand\n2 compost\n1 fertilizer
-  <SoilF-RockyDirt.description>从：土地\n从：草原土地\n从：肥沃土地\n从：边角土地\n从：回填土地\n从：苔藓地\n从：贫瘠土地 \n\n改造为：石砾\n\n获得：\n4 碎石\n2 土堆\n8 粘土\n4 泥炭\n6 沙\n2 肥料</SoilF-RockyDirt.description>
+  <SoilF-RockyDirt.description>从：土地\n从：草原土地\n从：肥沃土地\n从：边角土地\n从：回填土地\n从：苔藓地\n从：贫瘠土地 \n\n改造为：石砾\n\n获得：\n4 碎石\n2 土堆\n8 软粘土\n4 泥炭\n6 沙\n2 肥料</SoilF-RockyDirt.description>
 
    EN: Sand
   <SoilF-Sand.label>沙</SoilF-Sand.label>
    EN: 从：Soil\n从：Savanna soil\n从：Rich soil\n从：Marginal soil\n从：Reclaimed soil\n从：Lichen-covered dirt\n从：Dusty soil \n从：Poor soil \n\n改造为：Sand\n\n8 rubble\n2 dirt\n15 clay\n12 peat\n4 compost\n2 fertilizer
-  <SoilF-Sand.description>从：土地\n从：草原土地\n从：肥沃土地\n从：边角土地\n从：回填土地\n从：苔藓地\n从：沙化土 \n从：贫瘠土地 \n\n改造为：沙\n\n获得：\n20 碎石\n50 土堆\n20 粘土\n15 泥炭\n2 堆肥料\n▪ 2 肥料</SoilF-Sand.description>
+  <SoilF-Sand.description>从：土地\n从：草原土地\n从：肥沃土地\n从：边角土地\n从：回填土地\n从：苔藓地\n从：沙化土 \n从：贫瘠土地 \n\n改造为：沙\n\n获得：\n20 碎石\n50 土堆\n20 软粘土\n15 泥炭\n2 堆肥料\n▪ 2 肥料</SoilF-Sand.description>
 
    EN: Rich soil
   <SoilF-SoilRich.label>肥沃土地</SoilF-SoilRich.label>
@@ -259,12 +259,12 @@
    EN: Marsh
   <SoilMarshy-Marsh.label>沼泽</SoilMarshy-Marsh.label>
    EN: 从：Marshy soil\n\n改造为：Marsh\n\n4 dirt\n15 clay\n15 peat\n2 sand\n4 compost\n2 fertilizer
-  <SoilMarshy-Marsh.description>从：湿软土地\n\n改造为：沼泽\n\n获得：\n4 土堆\n15 粘土\n15 泥炭\n2 沙\n4 堆肥料\n▪ 2 肥料</SoilMarshy-Marsh.description>
+  <SoilMarshy-Marsh.description>从：湿软土地\n\n改造为：沼泽\n\n获得：\n4 土堆\n15 软粘土\n15 泥炭\n2 沙\n4 堆肥料\n▪ 2 肥料</SoilMarshy-Marsh.description>
 
    EN: Rocky dirt
   <SoilMarshy-RockyDirt.label>石砾</SoilMarshy-RockyDirt.label>
    EN: 从：Marshy soil\n\n改造为：Rocky dirt\n\n6 rubble\n2 dirt\n4 clay\n4 peat\n10 sand\n2 compost
-  <SoilMarshy-RockyDirt.description>从：湿软土地\n\n改造为：石砾\n\n获得：\n6 碎石\n2 土堆\n4 粘土\n4 泥炭\n10 沙\n2 堆肥料</SoilMarshy-RockyDirt.description>
+  <SoilMarshy-RockyDirt.description>从：湿软土地\n\n改造为：石砾\n\n获得：\n6 碎石\n2 土堆\n4 软粘土\n4 泥炭\n10 沙\n2 堆肥料</SoilMarshy-RockyDirt.description>
 
    EN: Soil
   <SoilMarshy-SoilF.label>土地</SoilMarshy-SoilF.label>
@@ -314,24 +314,24 @@
    EN: Deep water
   <WaterShallow-WaterDeep.label>深水</WaterShallow-WaterDeep.label>
    EN: 从：Shallow water\n\n改造为：Deep water\n\n2 rubble\n2 dirt\n50 clay\n30 peat\n48 sand\n\n► Placing impassable terrain on the map is overpowered and potentially game-breaking. Use with caution!
-  <WaterShallow-WaterDeep.description>从：浅水\n\n改造为：深水\n\n获得：\n2 碎石\n2 土堆\n50 粘土\n30 泥炭\n48 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！</WaterShallow-WaterDeep.description>
+  <WaterShallow-WaterDeep.description>从：浅水\n\n改造为：深水\n\n获得：\n2 碎石\n2 土堆\n50 软粘土\n30 泥炭\n48 沙\n\n► 在已有的地图上放置不可逾越的地形可能会导致游戏公平性失衡。请谨慎使用！</WaterShallow-WaterDeep.description>
 
 
 
    <Peat-WaterShallow.label>从土地收集泥炭</Peat-WaterShallow.label>
-  <Peat-WaterShallow.description>从：苔藓地\n从：沼泽\n从：泥地\n\n改造为：浅水\n\n获得：\n2 碎石\n4 土堆\n15 粘土\n15 泥炭\n2 沙</Peat-WaterShallow.description>
+  <Peat-WaterShallow.description>从：苔藓地\n从：沼泽\n从：泥地\n\n改造为：浅水\n\n获得：\n2 碎石\n4 土堆\n15 软粘土\n15 泥炭\n2 沙</Peat-WaterShallow.description>
 
   <Peat-SoilRich.label>从沃土收集泥炭</Peat-SoilRich.label>
-  <Peat-SoilRich.description>从：肥沃土地\n从：苔藓地\n\n改造为：石砾地\n\n获得：\n4 碎石\n5 土堆\n5 粘土\n15 泥炭\n6 沙</Peat-SoilRich.description>
+  <Peat-SoilRich.description>从：肥沃土地\n从：苔藓地\n\n改造为：石砾地\n\n获得：\n4 碎石\n5 土堆\n5 软粘土\n15 泥炭\n6 沙</Peat-SoilRich.description>
 
   <Peat-SavannaSoil.label>从草原土收集泥炭</Peat-SavannaSoil.label>
-  <Peat-SavannaSoil.description>从：边角土地\n从：草原土地\n\n改造为：石砾地\n\n获得：\n2 碎石\n4 土堆\n15 粘土\n10 泥炭\n2 沙</Peat-SavannaSoil.description>
+  <Peat-SavannaSoil.description>从：边角土地\n从：草原土地\n\n改造为：石砾地\n\n获得：\n2 碎石\n4 土堆\n15 软粘土\n10 泥炭\n2 沙</Peat-SavannaSoil.description>
 
-  <SoftClay-WaterShallow.label>从沼泽收集粘土</SoftClay-WaterShallow.label>
-  <SoftClay-WaterShallow.description>从：湿软土地\n从：沼泽\n从：泥地\n\n改造为：浅水\n\n获得：\n4 土堆\n50 粘土\n5 泥炭\n8 沙</SoftClay-WaterShallow.description>
+  <SoftClay-WaterShallow.label>从沼泽收集软粘土</SoftClay-WaterShallow.label>
+  <SoftClay-WaterShallow.description>从：湿软土地\n从：沼泽\n从：泥地\n\n改造为：浅水\n\n获得：\n4 土堆\n50 软粘土\n5 泥炭\n8 沙</SoftClay-WaterShallow.description>
 
-  <SoftClay-SoilRich.label>从土地收集粘土</SoftClay-SoilRich.label>
-  <SoftClay-SoilRich.description>从：肥沃土地\n从：土地\n从：苔藓地\n\n改造为：石砾\n\n获得：\n4 碎石\n4 土堆\n30 粘土\n5 泥炭\n4 沙</SoftClay-SoilRich.description>
+  <SoftClay-SoilRich.label>从土地收集软粘土</SoftClay-SoilRich.label>
+  <SoftClay-SoilRich.description>从：肥沃土地\n从：土地\n从：苔藓地\n\n改造为：石砾\n\n获得：\n4 碎石\n4 土堆\n30 软粘土\n5 泥炭\n4 沙</SoftClay-SoilRich.description>
 
  -->
 

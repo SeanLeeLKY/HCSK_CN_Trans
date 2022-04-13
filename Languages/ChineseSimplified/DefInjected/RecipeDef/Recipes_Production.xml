@@ -121,11 +121,11 @@
   <MakeReinforcedGlass.jobString>正在制作强化玻璃。</MakeReinforcedGlass.jobString>
 
   <!-- EN: extract silicon -->
-  <MakeSilicon_Electric.label>提炼 硅</MakeSilicon_Electric.label>
+  <MakeSilicon_Electric.label>提炼硅</MakeSilicon_Electric.label>
   <!-- EN: Melts down sand to extract the silicon from it. Quite fast. Produces 5. -->
   <MakeSilicon_Electric.description>用高温熔炼沙子，提炼和纯化其中的硅成分。 较高的工作效率。 \n\n产出：5。</MakeSilicon_Electric.description>
   <!-- EN: Extracting silicon from sand. -->
-  <MakeSilicon_Electric.jobString>正在提炼 硅。</MakeSilicon_Electric.jobString>
+  <MakeSilicon_Electric.jobString>正在提炼硅。</MakeSilicon_Electric.jobString>
 
   <!-- EN: render tallow -->
   <MakeTallow.label>提取兽脂</MakeTallow.label>
