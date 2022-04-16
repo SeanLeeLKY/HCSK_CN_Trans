@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: PTRS Rifle -->
   <Gun_ATR.label>PTRS反坦克步枪</Gun_ATR.label>
   <!-- EN: Anti tank rifle, with special armor piercing penetration rounds. -->
@@ -13,11 +13,11 @@
   <Gun_ATR.tools.muzzle.label>枪口</Gun_ATR.tools.muzzle.label>
   <!-- EN: PTRS Rifle -->
   <Gun_ATR.verbs.Verb_ShootCE.label>PTRS反坦克步枪</Gun_ATR.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: Barrett M82A1 SASR -->
   <Gun_M82Gun.label>M82A1反器材步枪</Gun_M82Gun.label>
   <!-- EN: The M82 is a recoil-operated, semi-automatic anti-materiel rifle developed by the American Barrett Firearms Manufacturing company. It is used by many units and armies around the world. Despite its designation as an anti-materiel rifle, it is used by some armed forces as an anti-personnel sniper rifle. Very high damage, long range and very good accuracy. -->
-  <Gun_M82Gun.description>Barrett M82，巴雷特M82，美军制式型号为M107，一款枪管后座式半自动反器材狙击系统，由美国巴雷特公司设计。尽管它被指定为反器材步枪，但它也被一些武装部队作为反人员目标系统使用。同时也被称为Light Fifty“轻50”，因为它使用.50 BMG弹(12.7×99mm北约弹)及其重量显著轻于其它同类产品。</Gun_M82Gun.description>
+  <Gun_M82Gun.description>Barrett M82，巴雷特M82，美军制式型号为M107，一款枪管后座式半自动反器材狙击系统，由美国巴雷特公司设计。尽管它被指定为反器材步枪，但它也被一些武装部队作为反人员目标系统使用。同时也被称为Light Fifty“轻50”，因为它使用.50 BMG弹(12.7×99mm北约标准弹)及其重量显著轻于其它同类产品。</Gun_M82Gun.description>
   <!-- EN: stock -->
   <Gun_M82Gun.tools.stock.label>枪托</Gun_M82Gun.tools.stock.label>
   <!-- EN: barrel -->
@@ -26,7 +26,7 @@
   <Gun_M82Gun.tools.muzzle.label>枪口</Gun_M82Gun.tools.muzzle.label>
   <!-- EN: Barrett M82A1 SASR -->
   <Gun_M82Gun.verbs.Verb_ShootCE.label>M82A1反器材步枪</Gun_M82Gun.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: SRS99 AM Sniper Rifle -->
   <Gun_TAMSR.label>SRS99反器材狙击步枪</Gun_TAMSR.label>
   <!-- EN: The sniper rifle system Anti-Materiel, more formally known as the Special Applications Rifle, Caliber 14.5 mm, SRS99, is a United Nations Space Command sniper rifle. -->
@@ -39,7 +39,7 @@
   <Gun_TAMSR.tools.muzzle.label>枪口</Gun_TAMSR.tools.muzzle.label>
   <!-- EN: SRS99 AM Sniper Rifle -->
   <Gun_TAMSR.verbs.Verb_ShootCE.label>SRS99反器材狙击步枪</Gun_TAMSR.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: Armalite AR-50 -->
   <RF_Gun_ARFifty.label>AR-50狙击步枪</RF_Gun_ARFifty.label>
   <!-- EN: A heavy and accurate, military-grade bolt-action rifle chambered for .50 calibre bullets. Its weight and muzzle brake significantly lower recoil. Average firerate, very high damage, accuracy and range. -->
@@ -52,7 +52,7 @@
   <RF_Gun_ARFifty.tools.muzzle.label>枪口</RF_Gun_ARFifty.tools.muzzle.label>
   <!-- EN: Armalite AR-50 -->
   <RF_Gun_ARFifty.verbs.Verb_ShootCE.label>AR-50狙击步枪</RF_Gun_ARFifty.verbs.Verb_ShootCE.label>
-  
+
   <!-- EN: Ultima Ratio Hecate II -->
   <RF_Gun_HecateII.label>黑卡蒂II反器材狙击步枪</RF_Gun_HecateII.label>
   <!-- EN: A special application scoped rifle with a long muzzle break and wooden stock. Packs and ton both in battle and when carried, greatly slowing any wielders pace. Used to destroy walls. Low fire rate, high range, very high damage and accuracy. -->
@@ -65,5 +65,5 @@
   <RF_Gun_HecateII.tools.muzzle.label>枪口</RF_Gun_HecateII.tools.muzzle.label>
   <!-- EN: Ultima Ratio Hecate II -->
   <RF_Gun_HecateII.verbs.Verb_ShootCE.label>黑卡蒂II反器材狙击步枪</RF_Gun_HecateII.verbs.Verb_ShootCE.label>
-  
+
 </LanguageData>

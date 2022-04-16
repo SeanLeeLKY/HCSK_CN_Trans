@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: alnico alloy -->
-  <AlnicoAlloy.label>亚力可合金</AlnicoAlloy.label>
+  <AlnicoAlloy.label>亚力可合金锭</AlnicoAlloy.label>
   <!-- EN: Alnico is an alloy of Steel, Nickel, Aluminum and Cobalt. It has a high coercively (resistance to loss of magnetism) and is useful to make permanent magnets or magnetic shielding. -->
   <AlnicoAlloy.description>亚力可合金是铁、镍、铝和钴的合金。它具有很高的矫顽力（抗失磁能力），可用作永磁体或屏蔽材料。</AlnicoAlloy.description>
   <!-- EN: Alnico -->
@@ -33,7 +33,7 @@
   <Cobalt.description>钴基蓝色颜料自古以来就被用于珠宝和油漆，并赋予玻璃一种独特的蓝色色调。后来，炼金术士们认为这种颜色是由一种叫做铋的金属引起的。钴是一种磁性金属。</Cobalt.description>
 
   <!-- EN: melchior alloy -->
-  <CupronickelAlloy.label>梅尔基奥合金</CupronickelAlloy.label>
+  <CupronickelAlloy.label>梅尔基奥合金锭</CupronickelAlloy.label>
   <!-- EN: Melchior is an alloy of Copper and Nickel. This alloy combination has a higher resistance to corrosion and electricity than standard alloys of Copper. Melchior Alloy is a magnetic metal. -->
   <CupronickelAlloy.description>梅尔基奥是铜、镍和铝的合金。这种组合合金比标准铜或铝合金具有更高的耐腐蚀和耐电性。梅尔基奥合金是磁性金属。</CupronickelAlloy.description>
   <!-- EN: Melchior -->
@@ -47,7 +47,7 @@
   <DepletedUranium.stuffProps.stuffAdjective>贫铀</DepletedUranium.stuffProps.stuffAdjective>
 
   <!-- EN: sendust alloy -->
-  <FerrosiliconAlloy.label>斯特合金</FerrosiliconAlloy.label>
+  <FerrosiliconAlloy.label>斯特合金锭</FerrosiliconAlloy.label>
   <!-- EN: Sendust Alloy is produced by the reduction of Silicon in presence of Iron and Aluminum. Sendust is useful as a deoxidizing agent with other metals. It is more durable than standard Cast-Iron or Steel. Sendust is not a magnetic metal. -->
   <FerrosiliconAlloy.description>斯特合金是在铁和铝在一定的情况下用还原法混合硅而制成的。斯特合金可以和其他金属一起作为脱氧剂使用。它比标准铁或钢更耐磨。斯特合金不是磁性金属。</FerrosiliconAlloy.description>
   <!-- EN: Sendust -->
@@ -75,7 +75,7 @@
   <Plasteel.stuffProps.stuffAdjective>钢铁</Plasteel.stuffProps.stuffAdjective>
 
   <!-- EN: stein alloy -->
-  <SteelBar.label>斯坦合金</SteelBar.label>
+  <SteelBar.label>斯坦合金锭</SteelBar.label>
   <!-- EN: Stein is an alloy of Iron, Nickel. This combination produces a metal alloy that is tougher than Sendust Alloy. Stein Alloy is a magnetic metal. -->
   <SteelBar.description>斯坦合金是铁和镍的合金。这种组合产生的金属合金比斯特合金更坚韧。斯坦合金是磁性金属。</SteelBar.description>
   <!-- EN: Stein -->

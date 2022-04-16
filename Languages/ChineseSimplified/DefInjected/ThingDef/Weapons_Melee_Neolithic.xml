@@ -15,7 +15,7 @@
   <!-- EN: A club is the oldest human weapon. It is a one-handed blunt weapon for bashing enemies to death. Primitive but effective. -->
   <MeleeWeapon_Club.description>用来击毙敌人的末端比较重的棍棒。这种古老的武器是人类进化史的一部分，原始但是有效。</MeleeWeapon_Club.description>
   <!-- EN: head -->
-  <MeleeWeapon_Club.tools.head.label>前端</MeleeWeapon_Club.tools.head.label>
+  <MeleeWeapon_Club.tools.head.label>棍头</MeleeWeapon_Club.tools.head.label>
 
   <!-- EN: Short Spear -->
   <MeleeWeapon_Ikwa.label>短矛</MeleeWeapon_Ikwa.label>
@@ -31,7 +31,7 @@
   <!-- EN: A one-handed mace, engineered for efficient swinging and deadly impacts. -->
   <MeleeWeapon_Mace.description>一根精致的棍棒，在挥舞和杀伤上有特别的设计。</MeleeWeapon_Mace.description>
   <!-- EN: head -->
-  <MeleeWeapon_Mace.tools.head.label>前端</MeleeWeapon_Mace.tools.head.label>
+  <MeleeWeapon_Mace.tools.head.label>锤头</MeleeWeapon_Mace.tools.head.label>
 
   <!-- EN: Shiv -->
   <MeleeWeapon_Schiv.label>剃刀</MeleeWeapon_Schiv.label>

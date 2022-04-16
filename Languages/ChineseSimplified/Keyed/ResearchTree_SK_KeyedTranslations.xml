@@ -17,7 +17,7 @@
 	<ResearchTreeSK.LClickReplaceQueue>左键单击替换队列</ResearchTreeSK.LClickReplaceQueue>
 	<ResearchTreeSK.LClickRemoveFromQueue>左键单击移出队列</ResearchTreeSK.LClickRemoveFromQueue>
 	<ResearchTreeSK.SLClickAddToQueue>Shift+左键单击加入队列</ResearchTreeSK.SLClickAddToQueue>
-	<ResearchTreeSK.CLClickAddToQueue>Ctrl+左键单击加入到队列末尾</ResearchTreeSK.CLClickAddToQueue>
+	<ResearchTreeSK.CLClickAddToQueue>Ctrl+左键单击加入到队列首位</ResearchTreeSK.CLClickAddToQueue>
 	<ResearchTreeSK.ALClickOpenInfoCard>Alt+左键单击查看信息</ResearchTreeSK.ALClickOpenInfoCard>
 	<ResearchTreeSK.CLClickDragInQueue>按住左键在队列内拖拽</ResearchTreeSK.CLClickDragInQueue>
 	<ResearchTreeSK.ClickEditMode>单击选择该研究项目</ResearchTreeSK.ClickEditMode>
