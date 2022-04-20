@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Powered shortsword -->
   <MeleeWeapon_PoweredShortsword.label>动力短剑</MeleeWeapon_PoweredShortsword.label>
   <!-- EN: A highly-advanced short sword. Commonly used by Glitterworld assault troops, the blade is coated in a field of ionized plasma, helping it cut through enemy armor. -->
@@ -11,16 +11,16 @@
   <MeleeWeapon_PoweredShortsword.tools.point.label>剑尖</MeleeWeapon_PoweredShortsword.tools.point.label>
   <!-- EN: blade -->
   <MeleeWeapon_PoweredShortsword.tools.blade.label>剑刃</MeleeWeapon_PoweredShortsword.tools.blade.label>
-  
+
   <!-- EN: Wraith blade -->
   <MeleeWeapon_WraithBlade.label>怨灵之刃</MeleeWeapon_WraithBlade.label>
   <!-- EN: Highly advanced melee weapon. When active it emits a constant stream of ionized plasma that can cut through almost any armor. It's otherworldly appearance earned it the moniker and inspired many norbal folktales. -->
   <MeleeWeapon_WraithBlade.description>一种高科技近战武器。激活时会发出持续的等离子射流，几乎可以穿透任何装甲。它超凡脱俗的外观造型为它赢得了这个绰号，并进一步激发了许多民间故事的灵感。</MeleeWeapon_WraithBlade.description>
   <!-- EN: handle -->
-  <MeleeWeapon_WraithBlade.tools.handle.label>柄</MeleeWeapon_WraithBlade.tools.handle.label>
+  <MeleeWeapon_WraithBlade.tools.handle.label>握柄</MeleeWeapon_WraithBlade.tools.handle.label>
   <!-- EN: point -->
-  <MeleeWeapon_WraithBlade.tools.point.label>尖</MeleeWeapon_WraithBlade.tools.point.label>
+  <MeleeWeapon_WraithBlade.tools.point.label>剑尖</MeleeWeapon_WraithBlade.tools.point.label>
   <!-- EN: edge -->
-  <MeleeWeapon_WraithBlade.tools.edge.label>刃</MeleeWeapon_WraithBlade.tools.edge.label>
-  
+  <MeleeWeapon_WraithBlade.tools.edge.label>剑刃</MeleeWeapon_WraithBlade.tools.edge.label>
+
 </LanguageData>

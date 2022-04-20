@@ -6,7 +6,7 @@
   <!-- EN: An elephant's tusk. Very durable and valuable. Deadly but somewhat unwieldy as a weapon. -->
   <ElephantTusk.description>大象的长牙。非常坚固、珍贵。虽然致命但很难作为武器使用。</ElephantTusk.description>
   <!-- EN: handle -->
-  <ElephantTusk.tools.handle.label>握把</ElephantTusk.tools.handle.label>
+  <ElephantTusk.tools.handle.label>握柄</ElephantTusk.tools.handle.label>
   <!-- EN: point -->
   <ElephantTusk.tools.point.label>尖</ElephantTusk.tools.point.label>
 
@@ -15,9 +15,9 @@
   <!-- EN: The horn from a previously living thrumbo. It's razor-sharp, very hard and priceless in most markets. This is a true trophy. -->
   <ThrumboHorn.description>敲击兽的角，锋利、坚固，在大多数市场里都是极为贵重的。这是真正意义上的战利品。</ThrumboHorn.description>
   <!-- EN: handle -->
-  <ThrumboHorn.tools.handle.label>握把</ThrumboHorn.tools.handle.label>
+  <ThrumboHorn.tools.handle.label>握柄</ThrumboHorn.tools.handle.label>
   <!-- EN: point -->
-  <ThrumboHorn.tools.point.label>尖</ThrumboHorn.tools.point.label>
+  <ThrumboHorn.tools.point.label>角尖</ThrumboHorn.tools.point.label>
 
   <!-- EN: Weather controller core -->
   <WeatherControllerCore.label>天气控制器核心</WeatherControllerCore.label>

@@ -2,9 +2,9 @@
 <LanguageData>
 
   <!-- EN: Dagger -->
-  <MeleeWeapon_Dagger.label>短刀</MeleeWeapon_Dagger.label>
+  <MeleeWeapon_Dagger.label>匕首</MeleeWeapon_Dagger.label>
   <!-- EN: Used to thrust into unprotected parts of the knight's armor, the dagger is surprisingly useful as an every day tool. -->
-  <MeleeWeapon_Dagger.description>短刀能够刺入骑士盔甲上未受保护的部位，而作为一种日常工具，短刀也是用处多多。</MeleeWeapon_Dagger.description>
+  <MeleeWeapon_Dagger.description>匕首能够刺入骑士盔甲上未受保护的部位，而作为一种日常工具，匕首也是用处多多。</MeleeWeapon_Dagger.description>
   <!-- EN: handle -->
   <MeleeWeapon_Dagger.tools.handle.label>握把</MeleeWeapon_Dagger.tools.handle.label>
   <!-- EN: point -->
@@ -26,7 +26,7 @@
   <!-- EN: A two-handed polearm with a long curved blade on the end. -->
   <MeleeWeapon_Glaive.description>一种双手持柄，末端有长长弯刃的武器。</MeleeWeapon_Glaive.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Glaive.tools.handle.label>杆</MeleeWeapon_Glaive.tools.handle.label>
+  <MeleeWeapon_Glaive.tools.handle.label>握把</MeleeWeapon_Glaive.tools.handle.label>
   <!-- EN: head -->
   <MeleeWeapon_Glaive.tools.head.label>刀刃</MeleeWeapon_Glaive.tools.head.label>
   <!-- EN: edge -->
@@ -37,7 +37,7 @@
   <!-- EN: A large two-handed sword from the medieval era. -->
   <MeleeWeapon_GreatSword.description>中世纪时代的一种双手武器。</MeleeWeapon_GreatSword.description>
   <!-- EN: pommel -->
-  <MeleeWeapon_GreatSword.tools.pommel.label>手柄</MeleeWeapon_GreatSword.tools.pommel.label>
+  <MeleeWeapon_GreatSword.tools.pommel.label>剑柄</MeleeWeapon_GreatSword.tools.pommel.label>
   <!-- EN: point -->
   <MeleeWeapon_GreatSword.tools.point.label>剑尖</MeleeWeapon_GreatSword.tools.point.label>
   <!-- EN: edge -->
@@ -48,7 +48,7 @@
   <!-- EN: Noble two-handed weapon of the ancients, the longsword can be used for slashing or stabbing and is deadly in the right hands. -->
   <MeleeWeapon_LongSword.description>一般由国王拥有的古老武器，长剑可以用来劈砍或戳刺，在合适的人的手里非常致命。</MeleeWeapon_LongSword.description>
   <!-- EN: pommel -->
-  <MeleeWeapon_LongSword.tools.pommel.label>手柄</MeleeWeapon_LongSword.tools.pommel.label>
+  <MeleeWeapon_LongSword.tools.pommel.label>剑柄</MeleeWeapon_LongSword.tools.pommel.label>
   <!-- EN: point -->
   <MeleeWeapon_LongSword.tools.point.label>剑尖</MeleeWeapon_LongSword.tools.point.label>
   <!-- EN: edge -->
@@ -77,7 +77,7 @@
   <!-- EN: One-handed sword with a heavy curved blade, making more powerful but somewhat slower than a standard sword. -->
   <MeleeWeapon_Scimitar.description>一种单手使用的武器，带有沉重的弯曲刀刃，比一般的长剑威力大，但挥砍速度稍慢。</MeleeWeapon_Scimitar.description>
   <!-- EN: pommel -->
-  <MeleeWeapon_Scimitar.tools.pommel.label>手柄</MeleeWeapon_Scimitar.tools.pommel.label>
+  <MeleeWeapon_Scimitar.tools.pommel.label>刀柄</MeleeWeapon_Scimitar.tools.pommel.label>
   <!-- EN: point -->
   <MeleeWeapon_Scimitar.tools.point.label>刀尖</MeleeWeapon_Scimitar.tools.point.label>
   <!-- EN: edge -->
@@ -106,7 +106,7 @@
   <!-- EN: A sharp two-handed sword used only by the fiercest norbal warriors. -->
   <NorbalMeleeWeapon_ShortSword.description>只有最凶猛的诺巴战士才会使用的双手利剑。</NorbalMeleeWeapon_ShortSword.description>
   <!-- EN: pommel -->
-  <NorbalMeleeWeapon_ShortSword.tools.pommel.label>手柄</NorbalMeleeWeapon_ShortSword.tools.pommel.label>
+  <NorbalMeleeWeapon_ShortSword.tools.pommel.label>剑柄</NorbalMeleeWeapon_ShortSword.tools.pommel.label>
   <!-- EN: point -->
   <NorbalMeleeWeapon_ShortSword.tools.point.label>剑尖</NorbalMeleeWeapon_ShortSword.tools.point.label>
   <!-- EN: edge -->
@@ -117,7 +117,7 @@
   <!-- EN: Reliable and deadly one-handed sword. Comes with added Nordic flair. -->
   <NorbalMeleeWeapon_ShortSwordtwo.description>可靠而致命的单手剑。北欧风格设计。</NorbalMeleeWeapon_ShortSwordtwo.description>
   <!-- EN: pommel -->
-  <NorbalMeleeWeapon_ShortSwordtwo.tools.pommel.label>手柄</NorbalMeleeWeapon_ShortSwordtwo.tools.pommel.label>
+  <NorbalMeleeWeapon_ShortSwordtwo.tools.pommel.label>剑柄</NorbalMeleeWeapon_ShortSwordtwo.tools.pommel.label>
   <!-- EN: point -->
   <NorbalMeleeWeapon_ShortSwordtwo.tools.point.label>剑尖</NorbalMeleeWeapon_ShortSwordtwo.tools.point.label>
   <!-- EN: edge -->

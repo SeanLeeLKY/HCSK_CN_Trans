@@ -17,27 +17,27 @@
   <!-- EN: A practical construction hammer. Be careful with your fingers! Equipping this boosts construction work speed by 30%. -->
   <TFJ_Tool_Building_Hammer.description>实用的建筑锤。小心你的手指！配备此工具可将建造制作速度提高30%。</TFJ_Tool_Building_Hammer.description>
   <!-- EN: handle -->
-  <TFJ_Tool_Building_Hammer.tools.handle.label>手柄</TFJ_Tool_Building_Hammer.tools.handle.label>
+  <TFJ_Tool_Building_Hammer.tools.handle.label>握柄</TFJ_Tool_Building_Hammer.tools.handle.label>
   <!-- EN: head -->
-  <TFJ_Tool_Building_Hammer.tools.head.label>头</TFJ_Tool_Building_Hammer.tools.head.label>
+  <TFJ_Tool_Building_Hammer.tools.head.label>锤头</TFJ_Tool_Building_Hammer.tools.head.label>
 
   <!-- EN: Hoe -->
   <TFJ_Tool_Hoe.label>锄头</TFJ_Tool_Hoe.label>
   <!-- EN: A tool for working the soil of farms. -->
   <TFJ_Tool_Hoe.description>方便在耕作土壤上种植作物的工具。</TFJ_Tool_Hoe.description>
   <!-- EN: shaft -->
-  <TFJ_Tool_Hoe.tools.shaft.label>杆</TFJ_Tool_Hoe.tools.shaft.label>
+  <TFJ_Tool_Hoe.tools.shaft.label>握柄</TFJ_Tool_Hoe.tools.shaft.label>
   <!-- EN: point -->
-  <TFJ_Tool_Hoe.tools.point.label>尖</TFJ_Tool_Hoe.tools.point.label>
+  <TFJ_Tool_Hoe.tools.point.label>锄尖</TFJ_Tool_Hoe.tools.point.label>
 
   <!-- EN: Pickaxe -->
   <TFJ_Tool_Mining_Pickaxe.label>鹤嘴锄</TFJ_Tool_Mining_Pickaxe.label>
   <!-- EN: A practical mining pickaxe. We have to go deeper. Equipping this boosts mining work speed by 30%. -->
   <TFJ_Tool_Mining_Pickaxe.description>实用的采掘设备。我们必须挖得更深！装备此工具可将采矿作业速度提高30%。</TFJ_Tool_Mining_Pickaxe.description>
   <!-- EN: handle -->
-  <TFJ_Tool_Mining_Pickaxe.tools.handle.label>手柄</TFJ_Tool_Mining_Pickaxe.tools.handle.label>
+  <TFJ_Tool_Mining_Pickaxe.tools.handle.label>握柄</TFJ_Tool_Mining_Pickaxe.tools.handle.label>
   <!-- EN: head -->
-  <TFJ_Tool_Mining_Pickaxe.tools.head.label>头</TFJ_Tool_Mining_Pickaxe.tools.head.label>
+  <TFJ_Tool_Mining_Pickaxe.tools.head.label>锄尖</TFJ_Tool_Mining_Pickaxe.tools.head.label>
 
   <!-- EN: Multitool -->
   <TFJ_Tool_Multitool.label>多功能工具</TFJ_Tool_Multitool.label>
@@ -49,16 +49,16 @@
   <!-- EN: A sharp curved hook, used for gathering plants and harvesting grains. -->
   <TFJ_Tool_Sickle.description>一种锋利的弯钩，用于采集植物和收割作物。</TFJ_Tool_Sickle.description>
   <!-- EN: handle -->
-  <TFJ_Tool_Sickle.tools.handle.label>手柄</TFJ_Tool_Sickle.tools.handle.label>
+  <TFJ_Tool_Sickle.tools.handle.label>握柄</TFJ_Tool_Sickle.tools.handle.label>
   <!-- EN: blade -->
-  <TFJ_Tool_Sickle.tools.blade.label>刀刃</TFJ_Tool_Sickle.tools.blade.label>
+  <TFJ_Tool_Sickle.tools.blade.label>镰刃</TFJ_Tool_Sickle.tools.blade.label>
 
   <!-- EN: Handaxe -->
   <TFJ_Tool_Woodcutting_Handaxe.label>手斧</TFJ_Tool_Woodcutting_Handaxe.label>
   <!-- EN: A practical wood cutting handaxe. Trees beware! Equipping this boosts plant work speed by 30%. -->
   <TFJ_Tool_Woodcutting_Handaxe.description>一把实用的砍柴手斧。树木小心！配备此工具可将砍伐工作速度提高30%。</TFJ_Tool_Woodcutting_Handaxe.description>
   <!-- EN: handle -->
-  <TFJ_Tool_Woodcutting_Handaxe.tools.handle.label>手柄</TFJ_Tool_Woodcutting_Handaxe.tools.handle.label>
+  <TFJ_Tool_Woodcutting_Handaxe.tools.handle.label>斧柄</TFJ_Tool_Woodcutting_Handaxe.tools.handle.label>
   <!-- EN: point -->
   <TFJ_Tool_Woodcutting_Handaxe.tools.point.label>斧尖</TFJ_Tool_Woodcutting_Handaxe.tools.point.label>
   <!-- EN: edge -->
