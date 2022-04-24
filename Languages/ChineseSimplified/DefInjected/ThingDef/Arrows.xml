@@ -1,52 +1,52 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: arrow (explosive) -->
-  <Ammo_Arrow_Explosive.label>箭（爆炸）</Ammo_Arrow_Explosive.label>
+  <Ammo_Arrow_Explosive.label>箭矢（爆炸）</Ammo_Arrow_Explosive.label>
   <!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
   <Ammo_Arrow_Explosive.description>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Explosive.description>
   <Ammo_Arrow_Explosive.oldDescription>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Explosive.oldDescription>
-  
+
   <!-- EN: arrow (poison) -->
-  <Ammo_Arrow_Poison.label>箭（毒性）</Ammo_Arrow_Poison.label>
+  <Ammo_Arrow_Poison.label>箭矢（毒性）</Ammo_Arrow_Poison.label>
   <!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
   <Ammo_Arrow_Poison.description>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Poison.description>
   <Ammo_Arrow_Poison.oldDescription>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Poison.oldDescription>
-  
+
   <!-- EN: arrow (metallic) -->
-  <Ammo_Arrow_Steel.label>箭（金属）</Ammo_Arrow_Steel.label>
+  <Ammo_Arrow_Steel.label>箭矢（金属）</Ammo_Arrow_Steel.label>
   <!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
   <Ammo_Arrow_Steel.description>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Steel.description>
   <Ammo_Arrow_Steel.oldDescription>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Steel.oldDescription>
-  
+
   <!-- EN: arrow (stone) -->
-  <Ammo_Arrow_Stone.label>箭（石）</Ammo_Arrow_Stone.label>
+  <Ammo_Arrow_Stone.label>箭矢（石）</Ammo_Arrow_Stone.label>
   <!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
   <Ammo_Arrow_Stone.description>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Stone.description>
   <Ammo_Arrow_Stone.oldDescription>在长直木杆上安装有锋利尖头的原始弹药。</Ammo_Arrow_Stone.oldDescription>
-  
+
   <!-- EN: arrow (explosive) -->
-  <Projectile_Arrow_Explosive.label>箭（爆炸）</Projectile_Arrow_Explosive.label>
-  
+  <Projectile_Arrow_Explosive.label>箭矢（爆炸）</Projectile_Arrow_Explosive.label>
+
   <!-- EN: arrow (poison) -->
-  <Projectile_Arrow_Poison.label>箭（毒性）</Projectile_Arrow_Poison.label>
-  
+  <Projectile_Arrow_Poison.label>箭矢（毒性）</Projectile_Arrow_Poison.label>
+
   <!-- EN: arrow (metallic) -->
-  <Projectile_Arrow_Steel.label>箭（金属）</Projectile_Arrow_Steel.label>
-  
+  <Projectile_Arrow_Steel.label>箭矢（金属）</Projectile_Arrow_Steel.label>
+
   <!-- EN: arrow (stone) -->
-  <Projectile_Arrow_Stone.label>箭（石）</Projectile_Arrow_Stone.label>
-  
+  <Projectile_Arrow_Stone.label>箭矢（石）</Projectile_Arrow_Stone.label>
+
   <!-- EN: streamlined arrow (explosive) -->
   <Projectile_StreamlinedArrow_Explosive.label>流线箭矢（爆炸）</Projectile_StreamlinedArrow_Explosive.label>
-  
+
   <!-- EN: streamlined arrow (poison) -->
   <Projectile_StreamlinedArrow_Poison.label>流线箭矢（毒性）</Projectile_StreamlinedArrow_Poison.label>
-  
+
   <!-- EN: streamlined arrow (metallic) -->
   <Projectile_StreamlinedArrow_Steel.label>流线箭矢（金属）</Projectile_StreamlinedArrow_Steel.label>
-  
+
   <!-- EN: streamlined arrow (stone) -->
   <Projectile_StreamlinedArrow_Stone.label>流线箭矢（石）</Projectile_StreamlinedArrow_Stone.label>
-  
+
 </LanguageData>

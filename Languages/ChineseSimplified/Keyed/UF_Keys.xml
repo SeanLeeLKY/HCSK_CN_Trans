@@ -95,9 +95,9 @@
   <!-- EN: \nIdeal running temperature: {MIN}~{MAX}.\n -->
   <UF_CreatingTooltip3>\n理想工作温度：{MIN}~{MAX}。\n</UF_CreatingTooltip3>
   <!-- EN: Safe temperature: {MIN}~{MAX}.\nSpoilage rate: {PERHOUR} / degree / hr\n -->
-  <UF_CreatingTooltip4>安全温度：{MIN}~{MAX}。\n转化速率：{PERHOUR}/每小时\n</UF_CreatingTooltip4>
+  <UF_CreatingTooltip4>安全温度：{MIN}~{MAX}。\n产物腐坏速率：{PERHOUR}/每小时\n</UF_CreatingTooltip4>
   <!-- EN: \nSpoilage rate if no power or no fuel or flicked off: {PERHOUR} / hr\n -->
-  <UF_CreatingTooltipNoPower>无电力、燃料或关闭设施时的转化速率：{PERHOUR}/每小时\n</UF_CreatingTooltipNoPower>
+  <UF_CreatingTooltipNoPower>无电力、燃料或关闭设施时的产物腐坏速率：{PERHOUR}/每小时\n</UF_CreatingTooltipNoPower>
   <!-- EN: \nProduct is {0} spoiled.\n -->
   <UF_CreatingTooltip5>\n{0}的产品已腐坏。\n</UF_CreatingTooltip5>
   <!-- EN: Spoiling now! Temperature is {0}! -->

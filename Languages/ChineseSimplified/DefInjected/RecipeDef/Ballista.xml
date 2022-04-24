@@ -8,4 +8,11 @@
   <!-- EN: Making balista bolts. -->
   <MakeAmmo_BalistaBolt.jobString>正在制作弩炮箭。</MakeAmmo_BalistaBolt.jobString>
 
+
+  <MakeAmmo_BalistaBolt_Explosive.label>制作爆炸弩炮箭 x10</MakeAmmo_BalistaBolt_Explosive.label>
+
+  <MakeAmmo_BalistaBolt_Explosive.description>制作10 爆炸弩炮箭。</MakeAmmo_BalistaBolt_Explosive.description>
+
+  <MakeAmmo_BalistaBolt_Explosive.jobstring>正在制作弩炮箭。</MakeAmmo_BalistaBolt_Explosive.jobstring>
+
 </LanguageData>

@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Balista bolt -->
   <Ammo_BalistaBolt.label>弩炮箭</Ammo_BalistaBolt.label>
   <!-- EN: A large crossbow-like weapon. -->
   <Ammo_BalistaBolt.description>一支巨型弩箭。</Ammo_BalistaBolt.description>
   <Ammo_BalistaBolt.oldDescription>一支巨型弩箭。</Ammo_BalistaBolt.oldDescription>
-  
+
+  <Ammo_BalistaBolt_Explosive.label>爆炸弩炮箭</Ammo_BalistaBolt_Explosive.label>
+  <Ammo_BalistaBolt_Explosive.description>一支巨型爆炸弩箭。</Ammo_BalistaBolt_Explosive.description>
+
   <!-- EN: Ballista Bolt -->
   <Projectile_BalistaBolt.label>弩炮箭</Projectile_BalistaBolt.label>
-  
+  <Projectile_BalistaBolt_Explosive.label>爆炸弩炮箭</Projectile_BalistaBolt_Explosive.label>
+
 </LanguageData>
