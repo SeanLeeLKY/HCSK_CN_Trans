@@ -71,7 +71,7 @@
   <!-- EN: 120mm tank cannon turret -->
   <Turret_Cannon.label>120mm坦克炮</Turret_Cannon.label>
   <!-- EN: A turret mounted with a 120mm tank gun. It can fire an explosive shell long distances, over walls and through constructed roofs. The turret will explode when heavily damaged. It uses 120mm Cannon Shells for ammo. -->
-  <Turret_Cannon.description>装备了120mm坦克炮的炮塔。能够发射各种相应的爆炸弹药，射程较远并且能越墙攻击。当承受大量伤害时会发生爆炸。使用120mm口径炮弹。</Turret_Cannon.description>
+  <Turret_Cannon.description>装备了120mm坦克炮的炮塔。能够发射各种相应的爆炸弹药，射程较远。当承受大量伤害时会发生爆炸。使用120mm口径炮弹。</Turret_Cannon.description>
 
   <!-- EN: 90mm flak turret -->
   <Turret_Flak.label>90mm高射炮塔</Turret_Flak.label>
