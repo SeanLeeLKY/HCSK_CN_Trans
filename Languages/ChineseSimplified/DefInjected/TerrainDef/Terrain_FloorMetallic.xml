@@ -1,84 +1,84 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: simple copper tile -->
   <CopperTile.label>简单铜地砖</CopperTile.label>
   <!-- EN: Simple copper square tiles. \nBeauty: 3. -->
   <CopperTile.description>简单的方形铜地砖。\n美观度：3。</CopperTile.description>
-  
+
   <!-- EN: solid gold -->
   <GoldSolid.label>赤金板</GoldSolid.label>
   <!-- EN: Solid gold, because you're wasteful.\nBeauty: 10. -->
   <GoldSolid.description>硬化的赤金地砖，没啥其他意思，就是钱多。\n美观度：10。</GoldSolid.description>
-  
+
   <!-- EN: gold tile -->
   <GoldTile.label>金质地砖</GoldTile.label>
   <!-- EN: Gold tiles, because you're worth it. \nBeauty: 5. -->
   <GoldTile.description>没有什么比黄金地砖更加挥霍和傲慢了。它们非常的昂贵和美丽，如果你真的在这上面生活的话，那是因为你值得。\n美观度：5。</GoldTile.description>
-  
+
   <!-- EN: grey metal tile -->
   <MetalTile.label>金属地砖（白）</MetalTile.label>
   <!-- EN: Grey metal square tiles, for that spaceship look. \nBeauty: 4. -->
   <MetalTile.description>白色钢质的地砖，拥有宇宙飞船般的外表。\n美观度：4。</MetalTile.description>
-  
+
   <!-- EN: patterned metal tile -->
   <MetalTileFour.label>金属地砖（图案）</MetalTileFour.label>
   <!-- EN: Grey metal tiles with fancy patterns. \nBeauty: 4. -->
   <MetalTileFour.description>有花梢样式的灰色金属砖。\n美观度：4。</MetalTileFour.description>
-  
+
   <!-- EN: grey metal tile -->
   <MetalTileThree.label>金属地砖（灰）</MetalTileThree.label>
   <!-- EN: Square grey metal tiles with thin borders. \nBeauty: 4. -->
   <MetalTileThree.description>带有薄边框的方形灰色金属砖。\n美观度：4。</MetalTileThree.description>
-  
+
   <!-- EN: black metal tile -->
   <MetalTileTwo.label>金属地砖（黑）</MetalTileTwo.label>
   <!-- EN: Black metal square tiles, for that spaceship look. \nBeauty: 4. -->
   <MetalTileTwo.description>黑色钢质的地砖，拥有宇宙飞船般的外表。\n美观度：4。</MetalTileTwo.description>
-  
+
   <!-- EN: Ceramics plates -->
   <PlateCeramics.label>陶瓷板</PlateCeramics.label>
   <!-- EN: Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2. -->
   <PlateCeramics.description>陶瓷板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateCeramics.description>
-  
+
   <!-- EN: Copper plates -->
   <PlateCopperBar.label>铜地砖</PlateCopperBar.label>
   <!-- EN: Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2. -->
   <PlateCopperBar.description>铜板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateCopperBar.description>
-  
+
   <!-- EN: Melchior plates -->
   <PlateCupronickelAlloy.label>梅尔基奥板</PlateCupronickelAlloy.label>
   <!-- EN: Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2. -->
   <PlateCupronickelAlloy.description>梅尔基奥金属板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateCupronickelAlloy.description>
-  
+
   <!-- EN: Gold plated plates -->
   <PlateGold.label>镀金地砖</PlateGold.label>
   <!-- EN: Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2. -->
   <PlateGold.description>镀金板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateGold.description>
-  
+
   <!-- EN: Silver plated plates -->
   <PlateSilver.label>镀银地砖</PlateSilver.label>
   <!-- EN: Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2. -->
   <PlateSilver.description>镀银板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateSilver.description>
-  
+
   <!-- EN: Steel plates -->
   <PlateSteel.label>钢板</PlateSteel.label>
   <!-- EN: Metal plates complete with rivets for an industrial look. Time-consuming to make, but easy to keep clean. Beauty: 2. -->
   <PlateSteel.description>钢板上配有整齐的铆钉，一眼就能看出的工业风格。耗时之作，但容易打扫卫生。\n美观度：2。</PlateSteel.description>
-  
+
   <!-- EN: silver tile -->
   <SilverTile.label>银质地砖</SilverTile.label>
   <!-- EN: Expensive and slow to build. Soft grey tiles with a grey bordering. \nBeauty: 8. -->
   <SilverTile.description>昂贵且建造缓慢。 带有灰色边框的软灰色地砖。\n美观度：8。</SilverTile.description>
-  
+
   <!-- EN: sterile tile -->
   <SterileTile.label>无菌地砖</SterileTile.label>
   <!-- EN: Sterile tiles are clean, light grey squares. Very useful in hospitals to help prevent infections. Quite slow to build. \nBeauty: 0. -->
-  <SterileTile.description>无菌地砖具有特殊的增强清洁度特性。超洁净的房间能够更好地担当医务室和研究室的功能。这种地砖铺设十分缓慢。\n美观度：0。</SterileTile.description>
-  
+  <SterileTile.description>无菌地砖具有特殊的增强清洁度特性。超洁净的房间能够更好地担当医务室和研究室的功能。这种地砖铺设十分缓慢。\n美观度：3。</SterileTile.description>
+
   <!-- EN: white tin tile -->
   <TinTile.label>白锡地砖</TinTile.label>
   <!-- EN: White tin square tiles. \nBeauty: 3. -->
   <TinTile.description>方形白锡地砖。\n美观度：3。</TinTile.description>
-  
+
 </LanguageData>
