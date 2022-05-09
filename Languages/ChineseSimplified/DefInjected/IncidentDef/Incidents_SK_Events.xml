@@ -1,259 +1,259 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Accident -->
   <Accident.label>意外事故</Accident.label>
-  
+
   <!-- EN: accidental explosion -->
   <AccidentalExplosion.label>意外爆炸</AccidentalExplosion.label>
-  
+
   <!-- EN: animal genocide -->
   <AnimalGenocide.label>动物灭绝</AnimalGenocide.label>
-  
+
   <!-- EN: battle animals wander in -->
   <BattleAnimalsWanderIn.label>游荡的战兽</BattleAnimalsWanderIn.label>
-  
+
   <!-- EN: Bombardment threat -->
   <BombardmentIncident.label>轨道轰炸</BombardmentIncident.label>
   <!-- EN: Bombardment -->
   <BombardmentIncident.letterLabel>轨道轰炸</BombardmentIncident.letterLabel>
   <!-- EN: The enemy faction are not pleased with you, their warship will shoot at you from orbit. -->
   <BombardmentIncident.letterText>你的敌对派系对你极其不满，他们通过部署在轨道上的军舰对你进行袭击！</BombardmentIncident.letterText>
-  
+
   <!-- EN: boulder masshit -->
   <BoulderMassHit.label>巨石轰击</BoulderMassHit.label>
-  
+
   <!-- EN: caravan animals wander in -->
   <CaravanAnimalsWanderIn.label>游荡的驮运动物</CaravanAnimalsWanderIn.label>
-  
+
   <!-- EN: Cold superstorm -->
   <ColdSuperstorm.label>超级寒流</ColdSuperstorm.label>
   <!-- EN: Cold superstorm -->
   <ColdSuperstorm.letterLabel>超级寒流</ColdSuperstorm.letterLabel>
   <!-- EN: Huge heavy clouds covered your territory, depriving you of sunlight, and causing incredible temperature phenomena in your territory, including severe freezing, hail and the threat of hypothermia. Wear a hat! -->
   <ColdSuperstorm.letterText>厚重的云层正在你殖民地的上空成型，阻挡了绝大部分阳光，强烈的冷空气使得本地气温急速下降，短时可能发生严重的霜冻现象，可能还会伴随大量的冰雹等极端天气。你得尽快启动寒潮天气应对方案。别忘了给殖民者们穿衣戴帽、防寒保暖！</ColdSuperstorm.letterText>
-  
+
   <!-- EN: colonist stash -->
   <ColonistStash.label>殖民者藏匿物</ColonistStash.label>
-  
+
   <!-- EN: cosmic radiation -->
   <CosmicRadiation.label>宇宙辐射</CosmicRadiation.label>
-  
+
   <!-- EN: crop sprout -->
   <CropSprout.label>作物萌芽</CropSprout.label>
-  
+
   <!-- EN: Devourers of crops -->
   <DevourersOfCrops.label>作物吞噬者</DevourersOfCrops.label>
-  
+
   <!-- EN: drought -->
   <Drought.label>旱灾</Drought.label>
   <!-- EN: Drought -->
   <Drought.letterLabel>旱灾</Drought.letterLabel>
   <!-- EN: An unusual drought has set in.\n\nDrought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can. -->
   <Drought.letterText>一场异乎寻常的干旱袭击了本地。\n\n旱灾将会极快的使地面作物脱水死亡，处于正常情况下的水栽培则不会受到影响。请尽快抢收作物，以免更大的损失。</Drought.letterText>
-  
+
   <!-- EN: earthquake -->
   <Earthquake.label>地震</Earthquake.label>
-  
+
   <!-- EN: eclipse feral -->
   <EclipseFeral.label>奇异日食</EclipseFeral.label>
-  
+
   <!-- EN: eclipse meteor impact -->
   <EclipseMeteorImpact.label>陨星日食</EclipseMeteorImpact.label>
-  
+
   <!-- EN: Enemy ship -->
   <EnemyShip.label>发现敌舰</EnemyShip.label>
   <!-- EN: Enemy ship incoming -->
   <EnemyShip.letterLabel>敌舰来袭！</EnemyShip.letterLabel>
   <!-- EN: An enemy ship landed near our colony! -->
   <EnemyShip.letterText>一艘敌人的舰船降落在我们殖民地附近！</EnemyShip.letterText>
-  
+
   <!-- EN: fenix passes -->
   <FeenixPasses.label>芬尼克斯出现！</FeenixPasses.label>
-  
+
   <!-- EN: plague epidemic -->
   <FleaRaid.label>瘟疫爆发</FleaRaid.label>
   <!-- EN: Epidemic: Plague -->
   <FleaRaid.letterLabel>疫病：瘟疫</FleaRaid.letterLabel>
-  
+
   <!-- EN: GeoStorm -->
   <GeoStorm.label>地质风暴</GeoStorm.label>
-  
+
   <!-- EN: global warming -->
   <GlobalWarming.label>全球变暖</GlobalWarming.label>
   <!-- EN: Global Warming -->
   <GlobalWarming.letterLabel>全球变暖</GlobalWarming.letterLabel>
   <!-- EN: Global temperatures have suddenly risen to dangerous levels.\n\nFlora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.\n\nIt will last anywhere between a season to several years. (Visual changes will only appear upon saving/reloading the current save) -->
   <GlobalWarming.letterText>全球气候剧变导致温度显著上升。动植物为适应炎热气候出现了不同幅度的转变，各地的生物群系也随之变化。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。（视觉变化需要存档再读取才能生效）</GlobalWarming.letterText>
-  
+
   <!-- EN: hail storm -->
   <HailStorm.label>冰暴</HailStorm.label>
   <!-- EN: Hail Storm -->
   <HailStorm.letterLabel>冰暴</HailStorm.letterLabel>
   <!-- EN: A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets. -->
   <HailStorm.letterText>一场反常的小规模暴风雨携带着冰雹风暴正在此地肆虐。任何不在屋顶下的人类和动物都有被冰雹砸伤的风险。</HailStorm.letterText>
-  
+
   <!-- EN: hidden resources -->
   <HiddenResources.label>隐藏资源</HiddenResources.label>
-  
+
   <!-- EN: Hungry critters -->
   <HungryCritters.label>饿疯的动物</HungryCritters.label>
-  
+
   <!-- EN: hungry locusts -->
   <HungryLocusts.label>饥饿之蝗</HungryLocusts.label>
-  
+
   <!-- EN: hunting party -->
   <HuntingParty.label>狩猎聚会</HuntingParty.label>
-  
+
   <!-- EN: ice age -->
   <IceAge.label>冰河时代</IceAge.label>
   <!-- EN: Ice Age -->
   <IceAge.letterLabel>冰河时代</IceAge.letterLabel>
   <!-- EN: Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.\n\nFlora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.\n\nIt will last anywhere between a season to several years. (Visual changes will only appear upon saving/reloading the current save) -->
   <IceAge.letterText>全球气候剧变导致温度显著下降。动植物为适应寒冷气候出现了不同幅度的转变，各地的生物群系也随之变化。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。（视觉变化需要存档再读取才能生效）</IceAge.letterText>
-  
+
   <!-- EN: Ice vortex -->
   <IceVortex.label>冰旋暴</IceVortex.label>
   <!-- EN: Ice vortex -->
   <IceVortex.letterLabel>冰旋暴</IceVortex.letterLabel>
   <!-- EN: Ice vortex found.\n\nPowerful ice vortices can cause freezing to living creatures. -->
   <IceVortex.letterText>冰旋暴出现了！\n\n这股强大的冰旋暴可能会把生物直接冻成冰棍！</IceVortex.letterText>
-  
+
   <!-- EN: Kirin passes -->
   <IcicatPasses.label>冰麟出现！</IcicatPasses.label>
   <!-- EN: Cold Snap -->
   <IcicatPasses.letterLabel>寒潮</IcicatPasses.letterLabel>
   <!-- EN: An unusual cold snap has set in. Watch out for hypothermia and dying crops. -->
   <IcicatPasses.letterText>一场不寻常的寒流已经开始了。注意防护低温病和保护农作物。</IcicatPasses.letterText>
-  
+
   <!-- EN: Inferno -->
   <Inferno.label>炼狱热浪</Inferno.label>
   <!-- EN: Inferno -->
   <Inferno.letterLabel>炼狱热浪</Inferno.letterLabel>
   <!-- EN: An extremely powerful heat wave travels across the area, increasing the likelihood of droughts and forest fires. Take care of your head! -->
   <Inferno.letterText>一股极其强大的热浪正席卷整个大地，所到之处皆尽干旱和林木火灾。照顾好殖民者们，小心脑袋被晒伤了！</Inferno.letterText>
-  
+
   <!-- EN: long night -->
   <LongNight.label>无尽长夜</LongNight.label>
   <!-- EN: Long Night -->
   <LongNight.letterLabel>无尽长夜</LongNight.letterLabel>
   <!-- EN: A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.\n\nTerrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.\n\nIt will last anywhere between a season to several years. -->
   <LongNight.letterText>一个巨型空间实体遮住了恒星的光芒，引发了一场漫长的日食现象。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。</LongNight.letterText>
-  
+
   <!-- EN: major rescue -->
   <MajorRescue.label>大型营救</MajorRescue.label>
-  
+
   <!-- EN: malaria epidemic -->
   <MalariaRaid.label>疟疾爆发</MalariaRaid.label>
   <MalariaRaid.letterText>疫病：疟疾</MalariaRaid.letterText>
-  
+
   <!-- EN: moonfall -->
   <MoonFall.label>月陨</MoonFall.label>
-  
+
   <!-- EN: mysterious transmission -->
   <MysteriousTransmission.label>诡秘信息</MysteriousTransmission.label>
-  
+
   <!-- EN: nuclear fallout -->
   <NuclearFallout.label>核辐射</NuclearFallout.label>
-  
+
   <!-- EN: nuclear incident -->
   <NuclearIncident.label>核事故</NuclearIncident.label>
-  
+
   <!-- EN: orassian found -->
   <OrassianFound.label>发现奥瑞森</OrassianFound.label>
-  
+
   <!-- EN: plunderers -->
   <Plunderers.label>掠夺者</Plunderers.label>
-  
+
   <!-- EN: portal raid -->
   <PortalRaid.label>传送突袭</PortalRaid.label>
   <!-- EN: Portal Raid -->
   <PortalRaid.letterLabel>传送突袭</PortalRaid.letterLabel>
   <!-- EN: The enemy faction are not pleased with you, they open up a portal to raid you. -->
   <PortalRaid.letterText>你的敌对派系因为对你不满，使用传送门投送作战部队对你进行突袭作战。</PortalRaid.letterText>
-  
+
   <!-- EN: Bombardment -->
   <PowerBeamStrikeIncident.label>轨道轰炸</PowerBeamStrikeIncident.label>
   <!-- EN: Beam strike threat -->
   <PowerBeamStrikeIncident.letterLabel>光束轰炸</PowerBeamStrikeIncident.letterLabel>
   <!-- EN: The enemy faction are not pleased with you, their warship will shoot at you from orbit. -->
   <PowerBeamStrikeIncident.letterText>你的敌对派系对你极其不满，他们通过部署在轨道上的军舰对你进行袭击！</PowerBeamStrikeIncident.letterText>
-  
+
   <!-- EN: psychic rain -->
   <PsychicRain.label>灵能雾雨</PsychicRain.label>
   <!-- EN: Psychic Rain -->
   <PsychicRain.letterLabel>灵能雾雨</PsychicRain.letterLabel>
   <!-- EN: A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.\n\nA seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster. -->
-  <PsychicRain.letterText>一种危险的精神实体正在引发亚原子扰动，使大气层的粒子也产生共振。一场似乎永无尽头的超自然雾雨已经开始，时间结构被打乱。任何不在屋顶下的人类和动物都会加速衰老。这场全球范围的气候异常将持续至少一个季度，至多数年。</PsychicRain.letterText>
-  
+  <PsychicRain.letterText>一种危险的精神实体正在引发亚原子扰动，使大气层的粒子也产生共振。一场似乎永无尽头的超自然雾雨已经开始，时间结构被打乱。任何不在屋顶下的人类和动物都会加速衰老。</PsychicRain.letterText>
+
   <!-- EN: raptor passes -->
   <RaptorPasses.label>翼猛龙出现</RaptorPasses.label>
-  
+
   <!-- EN: razor rain -->
   <RazorRain.label>轨道碎片雨</RazorRain.label>
-  
+
   <!-- EN: Sandstorm -->
   <SandTornado.label>沙尘暴</SandTornado.label>
   <!-- EN: Sandstorm -->
   <SandTornado.letterLabel>沙尘暴</SandTornado.letterLabel>
   <!-- EN: Sandstorm is coming!\n\nPowerful dust vortices will cut a path of destruction through the area. -->
   <SandTornado.letterText>沙！尘！暴！袭！来!\n\n具有强大威力的沙龙卷正在本地肆意破坏！</SandTornado.letterText>
-  
+
   <!-- EN: Seismic activity -->
   <SeismicActivity.label>地质活动</SeismicActivity.label>
-  
+
   <!-- EN: skyfall -->
   <SkyFall.label>天坠</SkyFall.label>
-  
+
   <!-- EN: storyteller frenzy -->
   <StorytellerFrenzyEvent.label>叙事者疯狂</StorytellerFrenzyEvent.label>
   <StorytellerFrenzyEvent.letterText>叙事者疯狂</StorytellerFrenzyEvent.letterText>
-  
+
   <!-- EN: Swarm -->
   <Swarm.label>虫群</Swarm.label>
-  
+
   <!-- EN: thanksgiving -->
   <Thanksgiving.label>感恩</Thanksgiving.label>
-  
+
   <!-- EN: tornado -->
   <Tornado.label>龙卷风</Tornado.label>
   <!-- EN: Tornado -->
   <Tornado.letterLabel>龙卷风</Tornado.letterLabel>
   <!-- EN: A tornado has formed!\n\nIt will cut a path of destruction through the area. -->
   <Tornado.letterText>一个龙卷风生成了！\n\n它会将所到之处的一切摧毁。</Tornado.letterText>
-  
+
   <!-- EN: toxic weather -->
   <ToxicWeather.label>毒雨</ToxicWeather.label>
   <!-- EN: Toxic weather -->
   <ToxicWeather.letterLabel>毒雨</ToxicWeather.letterLabel>
-  
+
   <!-- EN: trait change -->
   <TraitChange.label>特性变更</TraitChange.label>
-  
+
   <!-- EN: trait removed -->
   <TraitRemove.label>特性移除</TraitRemove.label>
-  
+
   <!-- EN: tribe migration -->
   <TribeMigration.label>部落迁徙</TribeMigration.label>
-  
+
   <!-- EN: wanderer join -->
   <WandererJoinTraitor.label>流浪者加入</WandererJoinTraitor.label>
   <!-- EN: Wanderer joins -->
   <WandererJoinTraitor.letterLabel>流浪者加入</WandererJoinTraitor.letterLabel>
   <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
   <WandererJoinTraitor.letterText>一个名叫{PAWN_nameDef}的{PAWN_kind}来到这里并加入。{PAWN_pronoun}是{PAWN_title}。\n\n{PAWN_pronoun}愿意出力，但不会自动离开。如果你不欢迎{PAWN_nameDef}，可以放逐{PAWN_objective}，将{PAWN_objective}卖给奴隶贩子，或者简单地杀掉。但其他人可能会因此而感到不安。</WandererJoinTraitor.letterText>
-  
+
   <!-- EN: wildfire -->
   <Wildfire.label>野火</Wildfire.label>
   <!-- EN: Wild fire -->
   <Wildfire.letterLabel>野火</Wildfire.letterLabel>
   <!-- EN: A large wildfire has broken out nearby and is now spreading to your location. -->
   <Wildfire.letterText>一场大型的山林野火在附近爆发，看起来马上就要蔓延到你的殖民地区域了。</Wildfire.letterText>
-  
+
   <!-- EN: wild men group wander in -->
   <WildMenGroupWanderIn.label>游荡的野人</WildMenGroupWanderIn.label>
-  
+
   <!-- EN: Zeon incoming -->
   <ZeonIncoming.label>吉恩来袭！</ZeonIncoming.label>
-  
+
 </LanguageData>
