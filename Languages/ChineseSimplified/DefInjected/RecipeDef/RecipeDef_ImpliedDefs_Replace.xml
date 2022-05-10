@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- 用于替换原版翻译在HSK中的一些词义不当的内容，请勿删除该文件 -->
+
+
+    <!-- EN: 制作毛线帽 -->
+    <Make_Apparel_Tuque.label>缝制毛线帽</Make_Apparel_Tuque.label>
+    <!-- EN: 制作毛线帽。 -->
+    <Make_Apparel_Tuque.description>缝制毛线帽。</Make_Apparel_Tuque.description>
+    <!-- EN: 正在制作毛线帽。 -->
+    <Make_Apparel_Tuque.jobString>缝制中。</Make_Apparel_Tuque.jobString>
+
+</LanguageData>
+

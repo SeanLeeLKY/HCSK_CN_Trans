@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: bombardment -->
   <BombardmentCondition.label>轰炸</BombardmentCondition.label>
   <!-- EN: Enemy faction are not pleased with you.. so they will bomb you to hell. -->
   <BombardmentCondition.description>敌对派系对你非常不满，他们决定把你炸到地狱去。</BombardmentCondition.description>
   <!-- EN: The bombardment threat is over. -->
   <BombardmentCondition.endMessage>轰炸已结束。</BombardmentCondition.endMessage>
-  
+
   <!-- EN: cold snap -->
   <ColdSnap.label>寒流</ColdSnap.label>
   <!-- EN: An unusual cold snap is freezing the region. -->
@@ -18,28 +18,28 @@
   <ColdSnap.endMessage>寒流结束了。</ColdSnap.endMessage>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
   <ColdSnap.letterText>一股不寻常的寒流突然袭来。\n\n寒流引发的低温症会很快杀死普通生物。请确保有一个温暖的庇护所，合适的保温服装，如果可能的话，尽量在作物被冻死前抢收产品。</ColdSnap.letterText>
-  
+
   <!-- EN: Radiation effect -->
   <CosmicRadiation.label>辐射效应</CosmicRadiation.label>
   <!-- EN: Too much radiation from the solar flare has triggered cosmic radiation. -->
   <CosmicRadiation.description>来自太阳耀斑的过量辐射触发了大量来自深层宇宙空间的辐射。</CosmicRadiation.description>
   <!-- EN: It seems radiation effect soon goes to normal level. -->
   <CosmicRadiation.endMessage>似乎辐射效应已经恢复到正常水平。</CosmicRadiation.endMessage>
-  
+
   <!-- EN: Drought -->
   <Drought.label>旱灾</Drought.label>
   <!-- EN: An unusual drought has set in.\n\nDrought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can. -->
   <Drought.description>一场异乎寻常的干旱袭击了本地。\n\n旱灾将会极快的使地面作物脱水死亡，处于正常情况下的水栽培则不会受到影响。请尽快抢收作物，以免更大的损失。</Drought.description>
   <!-- EN: The drought is ending. -->
   <Drought.endMessage>旱灾结束了。</Drought.endMessage>
-  
+
   <!-- EN: Seismic activity -->
   <Earthquake.label>地震活动</Earthquake.label>
   <!-- EN: Underground shocks of a certain intensity. -->
   <Earthquake.description>地质活动频发，强度升高。</Earthquake.description>
   <!-- EN: The seismic activity has ended. -->
   <Earthquake.endMessage>地震活动已经趋于平稳。</Earthquake.endMessage>
-  
+
   <!-- EN: eclipse -->
   <Eclipse.label>日蚀</Eclipse.label>
   <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
@@ -48,42 +48,42 @@
   <Eclipse.endMessage>日蚀结束了。</Eclipse.endMessage>
   <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
   <Eclipse.letterText>本行星的一颗月球运行到了正阳面，造成了日蚀。</Eclipse.letterText>
-  
+
   <!-- EN: Epidemic -->
   <Epidemic.label>疫病</Epidemic.label>
   <!-- EN: In our area, an epidemic of disease. -->
   <Epidemic.description>一场疫病正在本地蔓延。</Epidemic.description>
   <!-- EN: The epidemic has ended. -->
   <Epidemic.endMessage>疫病已经消退。</Epidemic.endMessage>
-  
+
   <!-- EN: Cold superstorm -->
   <ExtremeCold.label>超级寒流</ExtremeCold.label>
   <!-- EN: Huge heavy clouds covered your territory, depriving you of sunlight, and causing incredible temperature phenomena in your territory, including severe freezing, hail and the threat of hypothermia. Wear a hat! -->
   <ExtremeCold.description>厚重的云层正在你殖民地的上空成型，阻挡了绝大部分阳光，强烈的冷空气使得本地气温急速下降，短时可能发生严重的霜冻现象，可能还会伴随大量的冰雹等极端天气。你得尽快启动寒潮天气应对方案。别忘了给殖民者们穿衣戴帽、防寒保暖！</ExtremeCold.description>
   <!-- EN: Hopefully, the cold superstorm has finished. -->
   <ExtremeCold.endMessage>赞美世界，这股超级寒流终于结束了！</ExtremeCold.endMessage>
-  
+
   <!-- EN: Inferno -->
   <ExtremeHot.label>炼狱热浪</ExtremeHot.label>
   <!-- EN: An extremely powerful heat wave travels across the area, increasing the likelihood of droughts and forest fires. Take care of your head! -->
   <ExtremeHot.description>一股极其强大的热浪正席卷整个大地，所到之处皆尽干旱和林木火灾。照顾好殖民者们，小心脑袋被晒伤了！</ExtremeHot.description>
   <!-- EN: Hopefully, the inferno accident has finished. -->
   <ExtremeHot.endMessage>赞美世界，这炼狱热浪终于结束了！</ExtremeHot.endMessage>
-  
+
   <!-- EN: Global Warming -->
   <GlobalWarming.label>全球变暖</GlobalWarming.label>
   <!-- EN: Global temperatures have suddenly risen to dangerous levels.\n\nFlora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.\n\nIt will last anywhere between a season to several years. -->
   <GlobalWarming.description>全球气候剧变导致温度显著上升。动植物为适应炎热气候出现了不同幅度的转变，各地的生物群系也随之变化。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。</GlobalWarming.description>
   <!-- EN: The global warming is ending -->
   <GlobalWarming.endMessage>全球变暖的情况消退了。</GlobalWarming.endMessage>
-  
+
   <!-- EN: Hail Storm -->
-  <HailStorm.label>冰暴</HailStorm.label>
+  <HailStorm.label>冰雹</HailStorm.label>
   <!-- EN: A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets. -->
   <HailStorm.description>一场反常的小规模暴风雨携带着冰雹风暴正在此地肆虐。任何不在屋顶下的人类和动物都有被冰雹砸伤的风险。</HailStorm.description>
   <!-- EN: The hail storm is ending. -->
-  <HailStorm.endMessage>冰暴停止肆虐。</HailStorm.endMessage>
-  
+  <HailStorm.endMessage>冰雹停止肆虐。</HailStorm.endMessage>
+
   <!-- EN: heat wave -->
   <HeatWave.label>热浪</HeatWave.label>
   <!-- EN: An extreme wave of heat is baking the area. -->
@@ -94,75 +94,75 @@
   <HeatWave.endMessage>热浪结束了。</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
   <HeatWave.letterText>一场极不寻常的热浪开始了。\n\n热浪会导致致命的中暑情况。你可以用蒸发制冷器或者空调保持室内凉爽，或者去到大山深处避暑。</HeatWave.letterText>
-  
+
   <!-- EN: Ice Age -->
   <IceAge.label>冰河时代</IceAge.label>
   <!-- EN: Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.\n\nFlora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.\n\nIt will last anywhere between a season to several years. -->
   <IceAge.description>全球气候剧变导致温度显著下降。动植物为适应寒冷气候出现了不同幅度的转变，各地的生物群系也随之变化。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。</IceAge.description>
   <!-- EN: The ice age is ending -->
   <IceAge.endMessage>冰河时代结束了。</IceAge.endMessage>
-  
+
   <!-- EN: Ice vortex -->
   <IceVortex.label>冰旋暴</IceVortex.label>
   <!-- EN: Ice vortex is found.\n\nPowerful ice vortices can cause freezing to living creatures. -->
   <IceVortex.description>冰旋暴出现了！\n\n这股强大的冰旋暴可能会把生物直接冻成冰棍！</IceVortex.description>
-  
+
   <!-- EN: Unusual cold -->
   <KirinColdsnap.label>异常寒流</KirinColdsnap.label>
   <!-- EN: An unusual cold snap is freezing the region. -->
   <KirinColdsnap.description>一股奇怪的寒流正在冻结整个地区。</KirinColdsnap.description>
   <!-- EN: Temperatures are back to normal. -->
   <KirinColdsnap.endMessage>气温已经恢复到正常状态。</KirinColdsnap.endMessage>
-  
+
   <!-- EN: Long Night -->
   <LongNight.label>无尽长夜</LongNight.label>
   <!-- EN: A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.\n\nTerrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.\n\nIt will last anywhere between a season to several years. -->
   <LongNight.description>一个巨型空间实体遮住了恒星的光芒，引发了一场漫长的日食现象。资源变得稀缺，派系冲突加剧。这场全球范围的气候异常将持续至少一个季度，至多数年。</LongNight.description>
   <!-- EN: The long night is ending -->
   <LongNight.endMessage>晨曦已露，长夜终尽。</LongNight.endMessage>
-  
+
   <!-- EN: beam strike -->
   <PowerBeamStrikeCondition.label>光束打击</PowerBeamStrikeCondition.label>
   <!-- EN: Enemy faction are not pleased with you.. so they will bomb you to hell. -->
   <PowerBeamStrikeCondition.description>敌对派系对你非常不满，他们决定把你炸到地狱去。</PowerBeamStrikeCondition.description>
   <!-- EN: The beam strike threat is over. -->
   <PowerBeamStrikeCondition.endMessage>光束打击已结束。</PowerBeamStrikeCondition.endMessage>
-  
+
   <!-- EN: Psychic Rain -->
   <PsychicRain.label>灵能雾雨</PsychicRain.label>
   <!-- EN: A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.\n\nA seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.\n\nIt will last anywhere between a season to several years. -->
   <PsychicRain.description>一种危险的精神实体正在引发亚原子扰动，使大气层的粒子也产生共振。一场似乎永无尽头的超自然雾雨已经开始，时间结构被打乱。任何不在屋顶下的人类和动物都会加速衰老。这场全球范围的气候异常将持续至少一个季度，至多数年。</PsychicRain.description>
   <!-- EN: The psychic rain is ending -->
   <PsychicRain.endMessage>灵能雾雨消散了。</PsychicRain.endMessage>
-  
+
   <!-- EN: Sandstorm -->
   <SandTornado.label>沙尘暴</SandTornado.label>
   <!-- EN: Sandstorm is coming!\n\nPowerful dust vortices will cut a path of destruction through the area. -->
   <SandTornado.description>沙！尘！暴！袭！来!\n\n具有强大威力的沙龙卷正在本地肆意破坏！</SandTornado.description>
   <!-- EN: The sandstorm has finished, dust vortices are gone. -->
   <SandTornado.endMessage>沙尘暴终于结束了，沙龙卷也在本地销声匿迹！</SandTornado.endMessage>
-  
+
   <!-- EN: storyteller frenzy -->
   <StorytellerFrenzy.label>叙事者疯狂</StorytellerFrenzy.label>
   <!-- EN: You have angered the storyteller, we shouldn't expect anything good in the future. -->
   <StorytellerFrenzy.description>你做了什么让叙事者疯狂的事情，我们接下来估计没什么好结果了。</StorytellerFrenzy.description>
   <!-- EN: Storyteller forgot the insults. -->
   <StorytellerFrenzy.endMessage>叙事者已经忘了发生的事情了。</StorytellerFrenzy.endMessage>
-  
+
   <!-- EN: storyteller frenzy -->
   <StorytellerFrenzyRandom.label>叙事者疯狂</StorytellerFrenzyRandom.label>
   <!-- EN: You have angered the storyteller, we shouldn't expect anything good in the future. -->
   <StorytellerFrenzyRandom.description>你做了什么让叙事者疯狂的事情，我们接下来估计没什么好结果了。</StorytellerFrenzyRandom.description>
   <!-- EN: Storyteller forgot the insults. -->
   <StorytellerFrenzyRandom.endMessage>叙事者已经忘了发生的事情了。</StorytellerFrenzyRandom.endMessage>
-  
+
   <!-- EN: sun blocked -->
   <SunBlocker.label>黑幕</SunBlocker.label>
   <!-- EN: A nearby sun blocker machine is turning the upper atmosphere opaque, blocking the sun. -->
   <SunBlocker.description>附近的一台黑幕产生器正在改变大气折射率，使得大气会阻挡阳光。</SunBlocker.description>
   <!-- EN: A sun blocker machine has begun blocking the sun. -->
   <SunBlocker.letterText>一台黑幕产生器已经开始阻挡阳光。</SunBlocker.letterText>
-  
+
   <!-- EN: toxic weather -->
   <ToxicWeather.label>毒雨</ToxicWeather.label>
   <!-- EN: Toxic rain due to toxic emissions from some distant source is falling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will may corrode. -->
@@ -173,12 +173,12 @@
   <ToxicWeather.endMessage>这场该死的毒雨终于结束了。</ToxicWeather.endMessage>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic rain. -->
   <ToxicWeather.letterText>遥远地方的一起化学品火灾释放的有毒尘气体充斥着整个大气。\n\n不在屋顶下的人类和动物都会慢慢因为空气中的化学粉尘或者降雨中毒致病。</ToxicWeather.letterText>
-  
+
   <!-- EN: wildfire -->
   <Wildfire.label>野火</Wildfire.label>
   <!-- EN: Wildfire -->
   <Wildfire.description>野火</Wildfire.description>
   <!-- EN: The wildfire has ended. -->
   <Wildfire.endMessage>野火已经结束。</Wildfire.endMessage>
-  
+
 </LanguageData>
