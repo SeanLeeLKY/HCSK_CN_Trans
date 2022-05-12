@@ -1,85 +1,85 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Heavy Missile System -->
   <Minified_RLGun.label>重型导弹系统</Minified_RLGun.label>
-  
+
   <!-- EN: Bag -->
   <MinifiedBag.label>背包</MinifiedBag.label>
-  
+
   <!-- EN: 155mm Howitzer Cannon Turret -->
   <MinifiedHowitzer_Cannon.label>155mm榴弹炮</MinifiedHowitzer_Cannon.label>
-  
+
   <!-- EN: MS FGM-148 Javelin -->
   <MinifiedLightMissileSystem.label>FGM-148“标枪”反坦克导弹</MinifiedLightMissileSystem.label>
-  
+
   <!-- EN: Medium Missile System -->
   <MinifiedMediumMissileSystem.label>中型导弹系统</MinifiedMediumMissileSystem.label>
-  
+
   <!-- EN: minified thing -->
   <MinifiedThing.label>缩小的物品</MinifiedThing.label>
-  
+
   <!-- EN: AGS-30 -->
   <MinifiedTurret_AGS30GrenadeLauncher.label>AGS-30榴弹发射器</MinifiedTurret_AGS30GrenadeLauncher.label>
-  
+
   <!-- EN: AGS-17 -->
   <MinifiedTurret_AGSThirty.label>AGS-17榴弹发射器</MinifiedTurret_AGSThirty.label>
-  
+
   <!-- EN: Sentry heavy turret -->
-  <MinifiedTurret_Autocannon.label>重型自动炮塔</MinifiedTurret_Autocannon.label>
-  
+  <MinifiedTurret_Autocannon.label>重型哨戒炮塔</MinifiedTurret_Autocannon.label>
+
   <!-- EN: 30mm Avenger cannon -->
   <MinifiedTurret_Avenger.label>30mm复仇者火炮</MinifiedTurret_Avenger.label>
-  
+
   <!-- EN: Balista -->
   <MinifiedTurret_Balista.label>弩炮</MinifiedTurret_Balista.label>
-  
+
   <!-- EN: Sentry blaster turret -->
-  <MinifiedTurret_Blaster.label>自动炮塔</MinifiedTurret_Blaster.label>
-  
+  <MinifiedTurret_Blaster.label>哨戒炮塔</MinifiedTurret_Blaster.label>
+
   <!-- EN: 120mm tank cannon turret -->
   <MinifiedTurret_Cannon.label>120mm坦克炮塔</MinifiedTurret_Cannon.label>
-  
+
   <!-- EN: Catapult -->
   <MinifiedTurret_Catapult.label>石弩</MinifiedTurret_Catapult.label>
-  
+
   <!-- EN: KPV -->
   <MinifiedTurret_ChainGun.label>KPV</MinifiedTurret_ChainGun.label>
-  
+
   <!-- EN: M240B machine gun -->
   <MinifiedTurret_FFautocannon.label>M240B机枪</MinifiedTurret_FFautocannon.label>
-  
+
   <!-- EN: 90mm flak turret -->
   <MinifiedTurret_Flak.label>90mm高炮</MinifiedTurret_Flak.label>
-  
+
   <!-- EN: KPV -->
   <MinifiedTurret_KPV.label>KPV</MinifiedTurret_KPV.label>
-  
+
   <!-- EN: M240B machine gun -->
   <MinifiedTurret_M240B.label>M240B机枪</MinifiedTurret_M240B.label>
-  
+
   <!-- EN: M2Browning .50cal machine gun -->
   <MinifiedTurret_M2Browning.label>M2 .50勃朗宁机枪</MinifiedTurret_M2Browning.label>
-  
+
   <!-- EN: M134 Minigun -->
   <MinifiedTurret_Minigun.label>M134速射机枪</MinifiedTurret_Minigun.label>
-  
+
   <!-- EN: Sentry naval turret -->
   <MinifiedTurret_NavalGunTurretGun.label>舰载哨戒炮塔</MinifiedTurret_NavalGunTurretGun.label>
-  
+
   <!-- EN: Sentry rocket launcher -->
-  <MinifiedTurret_SentryRocketLauncher.label>自动火箭发射器</MinifiedTurret_SentryRocketLauncher.label>
-  
+  <MinifiedTurret_SentryRocketLauncher.label>哨戒火箭发射器</MinifiedTurret_SentryRocketLauncher.label>
+
   <!-- EN: Sentry laserbeam turret -->
-  <MinifiedTurret_Sniper.label>自动光束炮塔</MinifiedTurret_Sniper.label>
-  
+  <MinifiedTurret_Sniper.label>哨戒光束炮塔</MinifiedTurret_Sniper.label>
+
   <!-- EN: BGM-71 TOW -->
   <MinifiedTurret_TOWLauncher.label>BGM-71“陶式”反坦克导弹</MinifiedTurret_TOWLauncher.label>
-  
+
   <!-- EN: 20mm Vulcan cannon -->
   <MinifiedTurret_VulcanCannon.label>20mm火神炮</MinifiedTurret_VulcanCannon.label>
-  
+
   <!-- EN: Sentry blaster turret -->
-  <MinifiedTurretGun.label>自动炮塔</MinifiedTurretGun.label>
-  
+  <MinifiedTurretGun.label>哨戒炮塔</MinifiedTurretGun.label>
+
 </LanguageData>

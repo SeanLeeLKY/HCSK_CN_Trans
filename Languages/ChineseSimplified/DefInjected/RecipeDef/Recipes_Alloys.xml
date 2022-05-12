@@ -53,7 +53,7 @@
   <!-- EN: Smelt melchior alloy -->
   <MakeCupronickelAlloy.label>提炼梅尔基奥合金</MakeCupronickelAlloy.label>
   <!-- EN: Smelts melchior alloy from copper and nickel. Melchior has a high electrical resistance. Produces 30. -->
-  <MakeCupronickelAlloy.description>梅尔基奥合金是一种由铜、镍、铝组成的合金，其拥有很高的电阻率。 \n\n产出：30</MakeCupronickelAlloy.description>
+  <MakeCupronickelAlloy.description>梅尔基奥合金是一种由铜、镍组成的合金，其拥有很高的电阻率。 \n\n产出：30</MakeCupronickelAlloy.description>
   <!-- EN: Smelting melchior alloy. -->
   <MakeCupronickelAlloy.jobString>正在提炼梅尔基奥合金。</MakeCupronickelAlloy.jobString>
 

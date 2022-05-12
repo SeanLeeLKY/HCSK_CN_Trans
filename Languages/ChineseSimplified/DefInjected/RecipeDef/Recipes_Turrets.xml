@@ -151,7 +151,7 @@
   <!-- EN: Build AT missile Sentry rocket launcher crate -->
   <BuildSentryRocketLauncher_Crate.label>制作反坦克哨戒火箭发射系统组件箱</BuildSentryRocketLauncher_Crate.label>
   <!-- EN: Use this to build an Sentry rocket launcher, a type of stationary unmanned turret. -->
-  <BuildSentryRocketLauncher_Crate.description>用于建造自动火箭发射器, 可以自行攻击附近的敌人。</BuildSentryRocketLauncher_Crate.description>
+  <BuildSentryRocketLauncher_Crate.description>用于建造哨戒火箭发射器, 可以自行攻击附近的敌人。</BuildSentryRocketLauncher_Crate.description>
   <!-- EN: Building AT missile Sentry rocket launcher crate. -->
   <BuildSentryRocketLauncher_Crate.jobString>正在制作反坦克哨戒火箭发射系统组件箱。</BuildSentryRocketLauncher_Crate.jobString>
 

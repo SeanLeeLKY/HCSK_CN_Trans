@@ -46,7 +46,7 @@
   <SkyAI.DestroyersExDelayLabel>攻城者调整延迟</SkyAI.DestroyersExDelayLabel>
 	<!-- EN: Pawns with siege weapons, which for some reason cannot find a target for an attack for a long time, are included in the exclusion list and go into close combat. What is the delay to get out of the list back? Delay in the number of calls to the siege AI for a new job. -->
   <SkyAI.DestroyersExDelayDesc>携带攻城武器的人员，因为某些原因而迟迟不能寻找到攻城目标时，将会转变为接触战AI控制。转变延迟设置计数？计数数量为经过多少次调用后，围攻AI转换为新AI。</SkyAI.DestroyersExDelayDesc>
-	
+
 	<!-- Roles and Modes -->
 	<!-- EN: Roles and Modes -->
   <SkyAI.RolesAndModesLabel>角色和模式</SkyAI.RolesAndModesLabel>
@@ -118,8 +118,8 @@
   <SkyAI.MinEffectiveRangeLabel>有效距离的最小范围</SkyAI.MinEffectiveRangeLabel>
 	<!-- EN: The minimum distance to be applied to calculate position selection with using pawn weapon effective range based on an enemy position. -->
   <SkyAI.MinEffectiveRangeDesc>根据敌方位置，使用武器有效射程计算位置选择时适用的最小距离。</SkyAI.MinEffectiveRangeDesc>
-	
-	<!-- Leaving and retreating -->	
+
+	<!-- Leaving and retreating -->
 	<!-- EN: Leaving and retreating -->
   <SkyAI.LeavingAndRetreatingLabel>离开和撤退</SkyAI.LeavingAndRetreatingLabel>
 	<!-- EN: Enable save exit spots -->
@@ -133,11 +133,11 @@
 	<!-- EN: Enable enemies to escape chance with no any weapon -->
   <SkyAI.EscapeChanceNoWeaponLabel>启用无武器敌人有几率逃离</SkyAI.EscapeChanceNoWeaponLabel>
 	<!-- EN: Enemies with some chance may leave if have no primary weapon. Personal traits affect the chance. -->
-  <SkyAI.EscapeChanceNoWeaponDesc>没有主武器的敌人有几率逃离。人格特性会影响此数值。</SkyAI.EscapeChanceNoWeaponDesc> 
+  <SkyAI.EscapeChanceNoWeaponDesc>没有主武器的敌人有几率逃离。人格特性会影响此数值。</SkyAI.EscapeChanceNoWeaponDesc>
 	<!-- EN: Enable enemies to escape chance when exhausted -->
-  <SkyAI.EscapeChanceExhaustedLabel>启用疲劳敌人有几率逃离</SkyAI.EscapeChanceExhaustedLabel> 
+  <SkyAI.EscapeChanceExhaustedLabel>启用疲劳敌人有几率逃离</SkyAI.EscapeChanceExhaustedLabel>
 	<!-- EN: Pawns with some chance can leave if exhausted. Personal traits affect the chance. -->
-  <SkyAI.EscapeChanceExhaustedDesc>体力耗尽的敌人有几率逃离。人格特性会影响此数值。</SkyAI.EscapeChanceExhaustedDesc> 
+  <SkyAI.EscapeChanceExhaustedDesc>体力耗尽的敌人有几率逃离。人格特性会影响此数值。</SkyAI.EscapeChanceExhaustedDesc>
 	<!-- EN: Enable enemies to escape chance when wounded -->
   <SkyAI.EscapeChanceWoundedLabel>启用受伤敌人有几率逃离</SkyAI.EscapeChanceWoundedLabel>
 	<!-- EN: Pawns with some chance can leave if wounded. Personal traits affect the chance. -->
@@ -150,8 +150,8 @@
   <SkyAI.EscapeChanceMultiplierLabel>逃离几率因数</SkyAI.EscapeChanceMultiplierLabel>
 	<!-- EN: General multiplier of the effect on the chance of escape. -->
   <SkyAI.EscapeChanceMultiplierDesc>影响逃离几率的因数。</SkyAI.EscapeChanceMultiplierDesc>
-	
-	<!-- Icons -->	
+
+	<!-- Icons -->
 	<!-- EN: Icons -->
   <SkyAI.IconsLabel>图标</SkyAI.IconsLabel>
 	<!-- EN: Enable main role icon -->
@@ -174,7 +174,7 @@
   <SkyAI.CatCrazyIconLabel>启用“疯猫时刻”图标</SkyAI.CatCrazyIconLabel>
 	<!-- EN: Enable display the icon above the pawn that corresponds to cats with crazytime pastime. -->
   <SkyAI.CatCrazyIconDesc>启用猫咪处于“疯猫时刻”状态的图标显示。</SkyAI.CatCrazyIconDesc>
-	
+
 	<!-- Various -->
 	<!-- EN: Various -->
   <SkyAI.VariousLabel>杂项</SkyAI.VariousLabel>
@@ -222,18 +222,15 @@
   <SkyAI.ExternalTakeEquipJobLabel>启用外部取用装备工作</SkyAI.ExternalTakeEquipJobLabel>
 	<!-- EN: Adds the ability to search for weapons and ammunition nearby. -->
   <SkyAI.ExternalTakeEquipJobDesc>增加在附近搜索武器弹药的能力。</SkyAI.ExternalTakeEquipJobDesc>
-	<!-- EN: Enable advanced explosion detection -->
-  <SkyAI.AdvancedExplosionDetectionLabel>启用高级爆炸侦测</SkyAI.AdvancedExplosionDetectionLabel>
-	<!-- EN: Pawns will avoid explosions from grenades, mines, and even burning ammo. -->
-  <SkyAI.AdvancedExplosionDetectionDesc>人员会试图避免来自手雷、地雷甚至燃烧弹药的爆炸。</SkyAI.AdvancedExplosionDetectionDesc>
+
 	<!-- EN: Enable dangerous cells detection -->
   <SkyAI.DangerousCellsDetectionLabel>启用危险方格侦测</SkyAI.DangerousCellsDetectionLabel>
 	<!-- EN: Each shot at a target creates a dangerous area between the shooter and the target. Pawns will try to avoid this area, to not taking damage. -->
   <SkyAI.DangerousCellsDetectionDesc>每次对目标的射击动作都会在射手和目标之间产生一个危险区域。其余人员在行动的时候会尽量避开此区域。</SkyAI.DangerousCellsDetectionDesc>
 	<!-- EN: Colony pawns will use advanced explosion detection -->
-  <SkyAI.AdvancedExplosionDetectionLabel>启用高级爆炸侦测</SkyAI.AdvancedExplosionDetectionLabel>
+  <SkyAI.AdvancedExplosionDetectionLabel>殖民地人员启用高级爆炸侦测</SkyAI.AdvancedExplosionDetectionLabel>
 	<!-- EN: Allow colony pawns to use improved explosion detection to grenades, explosions. -->
-  <SkyAI.AdvancedExplosionDetectionDesc>人员会试图避免来自手雷、地雷甚至燃烧弹药的爆炸。</SkyAI.AdvancedExplosionDetectionDesc>
+  <SkyAI.AdvancedExplosionDetectionDesc>殖民地人员会启用高级爆炸侦测功能来探测手雷、爆炸物。</SkyAI.AdvancedExplosionDetectionDesc>
 	<!-- EN: Explosion radius detection -->
   <SkyAI.ExplosionRadiusDetectionLabel>爆炸范围侦测</SkyAI.ExplosionRadiusDetectionLabel>
 	<!-- EN: The radius at which a pawn can detect a threat from a grenade or an explosion of ammo. -->
@@ -253,7 +250,7 @@
 	<!-- EN: Siege and machineguns only -->
   <SkyAI.ShootlineSiegeMGWeaponMode>仅攻城武器和机枪</SkyAI.ShootlineSiegeMGWeaponMode>
 	<!-- EN: All ranged weapon -->
-  <SkyAI.ShootlineAllRangedWeaponMode>所有远程武器</SkyAI.ShootlineAllRangedWeaponMode>	
+  <SkyAI.ShootlineAllRangedWeaponMode>所有远程武器</SkyAI.ShootlineAllRangedWeaponMode>
 	<!-- EN: Auto switch to all range weapons -->
   <SkyAI.AutoSwitchRangedWeaponsLabel>自动切换到所有远程武器</SkyAI.AutoSwitchRangedWeaponsLabel>
 	<!-- EN: If the number of pawns with firearms on the map is less than 60, automatically activates ~All Ranged Weapons~ friendly fire setting as a control against a possible tps decrease. -->
@@ -350,7 +347,7 @@
 	<!-- Debug Settings -->
 	<!-- EN: Debug Settings -->
   <SkyAI.DebugSettingsLabel>调试选项</SkyAI.DebugSettingsLabel>
-	
+
 	<!-- Useful functions -->
 	<!-- EN: Useful functions -->
   <SkyAI.UsefulFunctionsLabel>特殊功能</SkyAI.UsefulFunctionsLabel>
