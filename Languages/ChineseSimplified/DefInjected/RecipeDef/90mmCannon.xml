@@ -16,10 +16,10 @@
   <MakeAmmo_90mmCannonShell_HE.jobString>正在制作90mm 炮弹（高爆）。</MakeAmmo_90mmCannonShell_HE.jobString>
 
   <!-- EN: make 90mm HEAT cannon shells x1 -->
-  <MakeAmmo_90mmCannonShell_HEAT.label>制作90mm 炮弹（破甲）x1</MakeAmmo_90mmCannonShell_HEAT.label>
+  <MakeAmmo_90mmCannonShell_HEAT.label>制作90mm 炮弹（破甲弹）x1</MakeAmmo_90mmCannonShell_HEAT.label>
   <!-- EN: Craft 90mm HEAT cannon shells. -->
-  <MakeAmmo_90mmCannonShell_HEAT.description>制作90mm 炮弹（破甲）。</MakeAmmo_90mmCannonShell_HEAT.description>
+  <MakeAmmo_90mmCannonShell_HEAT.description>制作90mm 炮弹（破甲弹）。</MakeAmmo_90mmCannonShell_HEAT.description>
   <!-- EN: Making 90mm HEAT cannon shells. -->
-  <MakeAmmo_90mmCannonShell_HEAT.jobString>正在制作90mm 炮弹（破甲）。</MakeAmmo_90mmCannonShell_HEAT.jobString>
+  <MakeAmmo_90mmCannonShell_HEAT.jobString>正在制作90mm 炮弹（破甲弹）。</MakeAmmo_90mmCannonShell_HEAT.jobString>
 
 </LanguageData>
