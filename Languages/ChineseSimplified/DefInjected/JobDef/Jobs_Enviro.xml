@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Absorbs TargetA. -->
-  <Absorb.reportString>吸吮 TargetA。</Absorb.reportString>
-  
+  <Absorb.reportString>吸吮TargetA。</Absorb.reportString>
+
   <!-- EN: Segmentation through TargetA. -->
-  <Segmentation.reportString>切割 TargetA。</Segmentation.reportString>
-  
+  <Segmentation.reportString>切割TargetA。</Segmentation.reportString>
+
   <!-- EN: Suck TargetA blood. -->
-  <SuckBlood.reportString>吸取 TargetA 的血。</SuckBlood.reportString>
-  
+  <SuckBlood.reportString>吸取 TargetA的血。</SuckBlood.reportString>
+
 </LanguageData>

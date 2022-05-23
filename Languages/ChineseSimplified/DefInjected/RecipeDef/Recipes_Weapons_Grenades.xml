@@ -32,7 +32,7 @@
   <!-- EN: make fusion grenades -->
   <MakeFusionGrenades.label>制作温压手榴弹</MakeFusionGrenades.label>
   <!-- EN: An improvement over the simple frag grenade, contains a more potent explosive. -->
-  <MakeFusionGrenades.description>普通破片手榴弹的升级版本，里面包含了更多更强的爆炸物质。 \n\n产出：1。</MakeFusionGrenades.description>
+  <MakeFusionGrenades.description>普通破片手榴弹的升级版本，里面包含了更多更强的爆炸物质。\n\n产出：1。</MakeFusionGrenades.description>
   <!-- EN: Making fusion grenades. -->
   <MakeFusionGrenades.jobString>正在制作温压手榴弹。</MakeFusionGrenades.jobString>
 
@@ -60,21 +60,21 @@
   <!-- EN: make plasma grenades -->
   <MakePlasmaGrenades.label>制作等离子手榴弹</MakePlasmaGrenades.label>
   <!-- EN: A very potent mix of plasma particles make for a small but deadly explosion. -->
-  <MakePlasmaGrenades.description>由不稳定的等离子材料制成的强大武器，虽然看起来不怎么起眼，但是它的爆炸范围和伤害都是致命的。 \n\n产出：1。</MakePlasmaGrenades.description>
+  <MakePlasmaGrenades.description>由不稳定的等离子材料制成的强大武器，虽然看起来不怎么起眼，但是它的爆炸范围和伤害都是致命的。\n\n产出：1。</MakePlasmaGrenades.description>
   <!-- EN: Making plasma grenades. -->
   <MakePlasmaGrenades.jobString>正在制作等离子手榴弹。</MakePlasmaGrenades.jobString>
 
   <!-- EN: make smoke grenades -->
-  <MakeSmokeGrenade.label>制作烟雾手榴弹x3</MakeSmokeGrenade.label>
+  <MakeSmokeGrenade.label>制作烟雾手榴弹</MakeSmokeGrenade.label>
   <!-- EN: Craft smoke grenades. -->
-  <MakeSmokeGrenade.description>制作3 烟雾手榴弹。</MakeSmokeGrenade.description>
+  <MakeSmokeGrenade.description>制作烟雾手榴弹。</MakeSmokeGrenade.description>
   <!-- EN: Making smoke grenades. -->
   <MakeSmokeGrenade.jobString>正在制作烟雾手榴弹。</MakeSmokeGrenade.jobString>
 
   <!-- EN: make stick bombs -->
-  <MakeStickBomb.label>制作木柄炸弹x3</MakeStickBomb.label>
+  <MakeStickBomb.label>制作木柄炸弹</MakeStickBomb.label>
   <!-- EN: Craft stick bombs. -->
-  <MakeStickBomb.description>制作3 木柄炸弹。</MakeStickBomb.description>
+  <MakeStickBomb.description>制作木柄炸弹。</MakeStickBomb.description>
   <!-- EN: Making stick bombs. -->
   <MakeStickBomb.jobString>正在制作木柄炸弹。</MakeStickBomb.jobString>
 

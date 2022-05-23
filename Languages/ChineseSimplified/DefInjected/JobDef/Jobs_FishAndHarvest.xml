@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Changing species at TargetA. -->
-  <JobDef_AquacultureBasinChangeSpecies.reportString>于 TargetA 改变种类。</JobDef_AquacultureBasinChangeSpecies.reportString>
-  
+  <JobDef_AquacultureBasinChangeSpecies.reportString>于 TargetA改变种类。</JobDef_AquacultureBasinChangeSpecies.reportString>
+
   <!-- EN: Harvesting TargetA. -->
-  <JobDef_AquacultureBasinHarvest.reportString>收获 TargetA。</JobDef_AquacultureBasinHarvest.reportString>
-  
+  <JobDef_AquacultureBasinHarvest.reportString>收获TargetA。</JobDef_AquacultureBasinHarvest.reportString>
+
   <!-- EN: Maintaining TargetA. -->
-  <JobDef_AquacultureBasinMaintain.reportString>维护 TargetA。</JobDef_AquacultureBasinMaintain.reportString>
-  
+  <JobDef_AquacultureBasinMaintain.reportString>维护TargetA。</JobDef_AquacultureBasinMaintain.reportString>
+
   <!-- EN: Fishing on pier. -->
   <JobDef_FishAtFishingPier.reportString>在码头上钓鱼。</JobDef_FishAtFishingPier.reportString>
-  
+
   <!-- EN: Fishing. -->
   <JobDef_FishAtFishingZone.reportString>钓鱼。</JobDef_FishAtFishingZone.reportString>
-  
+
 </LanguageData>

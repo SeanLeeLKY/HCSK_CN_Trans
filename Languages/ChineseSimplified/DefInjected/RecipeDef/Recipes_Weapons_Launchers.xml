@@ -4,7 +4,7 @@
   <!-- EN: Build RL T9 Burning Sun -->
   <BuildIncendiaryLauncher.label>制作T9“炎阳”燃烧弹发射器</BuildIncendiaryLauncher.label>
   <!-- EN: Builds the RL T9 Burning Sun, an incendiary bolt launcher that is capable of starting fires from a distance.\nCaliber: 30x64mm Fuel cell -->
-  <BuildIncendiaryLauncher.description>制作T9“炎阳”燃烧弹发射器, 一种能够在较远的距离发射燃料弹，点燃目标周围物体的远程发射器。\n 弹药： 30x64mm 燃料弹</BuildIncendiaryLauncher.description>
+  <BuildIncendiaryLauncher.description>制作T9“炎阳”燃烧弹发射器， 一种能够在较远的距离发射燃料弹，点燃目标周围物体的远程发射器。\n 弹药： 30x64mm 燃料弹</BuildIncendiaryLauncher.description>
   <!-- EN: Building RL T9 Burning Sun. -->
   <BuildIncendiaryLauncher.jobString>正在制作T9“炎阳”燃烧弹发射器。</BuildIncendiaryLauncher.jobString>
 
@@ -32,7 +32,7 @@
   <!-- EN: Build Milkor MGL -->
   <BuildMilkorGrenadeLauncher.label>制作米尔科姆榴弹发射器</BuildMilkorGrenadeLauncher.label>
   <!-- EN: Builds the Milkor MGL (multiple grenade launcher), a launcher-type weapon that fires grenades at a higher rate than a human could.\nCaliber: 40x46mm Grenade -->
-  <BuildMilkorGrenadeLauncher.description>制作米尔科姆榴弹发射器,一种半自动多用途转轮式榴弹发射器，拥有大大高于常人的榴弹发射速度。\n 弹药： 40x46mm 榴弹</BuildMilkorGrenadeLauncher.description>
+  <BuildMilkorGrenadeLauncher.description>制作米尔科姆榴弹发射器，一种半自动多用途转轮式榴弹发射器，拥有大大高于常人的榴弹发射速度。\n 弹药： 40x46mm 榴弹</BuildMilkorGrenadeLauncher.description>
   <!-- EN: Building Milkor MGL. -->
   <BuildMilkorGrenadeLauncher.jobString>正在制作米尔科姆榴弹发射器。</BuildMilkorGrenadeLauncher.jobString>
 

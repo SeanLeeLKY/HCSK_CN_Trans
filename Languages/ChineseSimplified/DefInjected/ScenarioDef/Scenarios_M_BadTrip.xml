@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Bad Trip -->
   <BadTrip.label>糟糕的旅程</BadTrip.label>
   <!-- EN: You, as truly law-abiding citizens of the intergalactic Hegemony, were resting peacefully and lawfully in a medical module on a station near the Ringworld Epsilon, when a sudden attack by mechanoids interrupted your law-abiding vacation, and you and your companions had to urgently separate your module from the main station. Since there was virtually no food in your module, you made the volitional decision to disconnect and dump your bodies from the cryo-capsules and put yourselves in them, trusting that the space wind would carry you to a planet with a peaceful civilization. -->
@@ -10,8 +10,8 @@
   <!-- EN: Bad Trip -->
   <BadTrip.scenario.name>糟糕的旅程</BadTrip.scenario.name>
   <!-- EN: We had two bags of flakes, seventy-five pellets of psychoid leaves, five sheets of wake-up, a saltshaker half-full of yayo, and a whole galaxy of multi-colored methadones, penoxycylines, ibuprofens, ambrosias... Also, a few cases of tequila, rum, a case of beer, a pint of vodka, and one doze of luciferium. Not that we needed all that for the trip, but once you get locked into a serious drug collection, the tendency is to push it as far as you can.  -->
-  <BadTrip.scenario.parts.GameStartDialog.text>我们有两袋薄片，75精神叶，五片清醒丸，半瓶呀呦粉，还有一整条五颜六色的美沙酮，佩诺西林，布洛芬，仙馐果…… 还有，几箱龙舌兰酒，朗姆酒，一箱啤酒，一品脱伏特加，还有一剂魔鬼素。并不是说我们需要这些全部东西， 但一旦你严重需要这些的话，剩下的这些东西应该能让你占据一些优势。</BadTrip.scenario.parts.GameStartDialog.text>
+  <BadTrip.scenario.parts.GameStartDialog.text>我们有两袋薄片，75精神叶，五片清醒丸，半瓶呀呦粉，还有一整条五颜六色的美沙酮，佩诺西林，布洛芬，仙馐果…… 还有，几箱龙舌兰酒，朗姆酒，一箱啤酒，一品脱伏特加，还有一剂魔鬼素。并不是说我们需要这些全部东西，但一旦你严重需要这些的话，剩下的这些东西应该能让你占据一些优势。</BadTrip.scenario.parts.GameStartDialog.text>
   <!-- EN: A campaign of drug addicts lost in space and crashed. -->
   <BadTrip.scenario.summary>一场“瘾君子”们在太空中迷失坠毁的故事。</BadTrip.scenario.summary>
-  
+
 </LanguageData>

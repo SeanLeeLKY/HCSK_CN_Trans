@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Blaster bolt -->
   <Ammo_BlasterBolt.label>冲击电荷弹</Ammo_BlasterBolt.label>
-  <Ammo_BlasterBolt.description>电荷弹（聚能）:\n将大量带电粒子聚焦在弹头尖端周围，以阻止能量的消耗提高装甲穿透力。</Ammo_BlasterBolt.description>
-  <Ammo_BlasterBolt.oldDescription>电荷弹（聚能）:\n将大量带电粒子聚焦在弹头尖端周围，以阻止能量的消耗提高装甲穿透力。</Ammo_BlasterBolt.oldDescription>
-  
+  <Ammo_BlasterBolt.description>电荷弹（聚能）：\n将大量带电粒子聚焦在弹头尖端周围，以阻止能量的消耗提高装甲穿透力。</Ammo_BlasterBolt.description>
+  <Ammo_BlasterBolt.oldDescription>电荷弹（聚能）：\n将大量带电粒子聚焦在弹头尖端周围，以阻止能量的消耗提高装甲穿透力。</Ammo_BlasterBolt.oldDescription>
+
   <!-- EN: Blaster bolt -->
   <Bullet_Blaster.label>冲击电荷弹</Bullet_Blaster.label>
-  
+
 </LanguageData>

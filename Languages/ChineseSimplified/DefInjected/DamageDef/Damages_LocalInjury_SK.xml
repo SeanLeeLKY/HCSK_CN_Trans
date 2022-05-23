@@ -1,79 +1,79 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Acid -->
   <Acid.label>强酸</Acid.label>
   <!-- EN: {0} has melted to death. -->
-  <Acid.deathMessage>{0} 被融化了。</Acid.deathMessage>
-  
+  <Acid.deathMessage>{0}被融化了。</Acid.deathMessage>
+
   <!-- EN: Acid Poison -->
   <AcidPoison.label>酸性毒剂</AcidPoison.label>
   <!-- EN: {0} has been impaled to death. -->
-  <AcidPoison.deathMessage>{0} 被钉死了。</AcidPoison.deathMessage>
-  
+  <AcidPoison.deathMessage>{0}被钉死了。</AcidPoison.deathMessage>
+
   <!-- EN: Biotic Shock -->
   <BioticShock.label>休克</BioticShock.label>
   <!-- EN: {0} shocked to death. -->
-  <BioticShock.deathMessage>{0} 被震死了。</BioticShock.deathMessage>
-  
+  <BioticShock.deathMessage>{0}被震死了。</BioticShock.deathMessage>
+
   <!-- EN: dart -->
   <Dart.label>飞镖</Dart.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <Dart.deathMessage>{0} 被射死了。</Dart.deathMessage>
-  
+  <Dart.deathMessage>{0}被射死了。</Dart.deathMessage>
+
   <!-- EN: disease bite -->
   <DiseaseBite.label>刺咬</DiseaseBite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <DiseaseBite.deathMessage>{0} 被咬死了。</DiseaseBite.deathMessage>
-  
+  <DiseaseBite.deathMessage>{0}被咬死了。</DiseaseBite.deathMessage>
+
   <!-- EN: Electric Shock -->
   <ElectricShock.label>电击</ElectricShock.label>
   <!-- EN: {0} shocked to death. -->
-  <ElectricShock.deathMessage>{0} 被震死了。</ElectricShock.deathMessage>
-  
+  <ElectricShock.deathMessage>{0}被震死了。</ElectricShock.deathMessage>
+
   <!-- EN: Kinetic Pulse -->
   <KineticPulse.label>冲击</KineticPulse.label>
   <!-- EN: {0} has been shattered. -->
-  <KineticPulse.deathMessage>{0} 被粉碎。</KineticPulse.deathMessage>
-  
+  <KineticPulse.deathMessage>{0}被粉碎。</KineticPulse.deathMessage>
+
   <!-- EN: Laser-burn -->
   <LaserBurn.label>光束灼烧</LaserBurn.label>
   <!-- EN: {0} has burned to death. -->
-  <LaserBurn.deathMessage>{0} 被烧死了。</LaserBurn.deathMessage>
-  
+  <LaserBurn.deathMessage>{0}被烧死了。</LaserBurn.deathMessage>
+
   <!-- EN: malaria bite -->
   <MalariaBite.label>疟疾叮咬</MalariaBite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <MalariaBite.deathMessage>{0} 被咬死了。</MalariaBite.deathMessage>
-  
+  <MalariaBite.deathMessage>{0}被咬死了。</MalariaBite.deathMessage>
+
   <!-- EN: Microwave -->
   <Microwave.label>微波</Microwave.label>
   <!-- EN: {0} has burned alive. -->
-  <Microwave.deathMessage>{0} 被烧死了。</Microwave.deathMessage>
-  
+  <Microwave.deathMessage>{0}被烧死了。</Microwave.deathMessage>
+
   <!-- EN: Optic -->
   <Optic.label>光束</Optic.label>
   <!-- EN: {0} has been shot to death. -->
-  <Optic.deathMessage>{0} 被射死了。</Optic.deathMessage>
-  
+  <Optic.deathMessage>{0}被射死了。</Optic.deathMessage>
+
   <!-- EN: plague bite -->
   <PlagueBite.label>疫病叮咬</PlagueBite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <PlagueBite.deathMessage>{0} 被咬死了。</PlagueBite.deathMessage>
-  
+  <PlagueBite.deathMessage>{0}被咬死了。</PlagueBite.deathMessage>
+
   <!-- EN: Plasma -->
   <Plasma.label>等离子</Plasma.label>
   <!-- EN: {0} has been melted. -->
-  <Plasma.deathMessage>{0} 被熔化了。</Plasma.deathMessage>
-  
+  <Plasma.deathMessage>{0}被熔化了。</Plasma.deathMessage>
+
   <!-- EN: Plasma -->
   <PlasmaFlame.label>等离子</PlasmaFlame.label>
   <!-- EN: {0} has been melted. -->
-  <PlasmaFlame.deathMessage>{0} 被熔化了。</PlasmaFlame.deathMessage>
-  
+  <PlasmaFlame.deathMessage>{0}被熔化了。</PlasmaFlame.deathMessage>
+
   <!-- EN: poison -->
   <Poison.label>毒性</Poison.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <Poison.deathMessage>{0} 被射死了。</Poison.deathMessage>
-  
+  <Poison.deathMessage>{0}被射死了。</Poison.deathMessage>
+
 </LanguageData>

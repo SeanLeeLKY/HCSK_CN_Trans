@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: slacking off -->
   <Apathy.label>懈怠</Apathy.label>
   <!-- EN: Mental state: Apathy -->
-  <Apathy.baseInspectLine>精神状态： 懈怠</Apathy.baseInspectLine>
+  <Apathy.baseInspectLine>精神状态：懈怠</Apathy.baseInspectLine>
   <!-- EN: {0} has become apathetic and is less likely to do {PAWN_possessive} assigned work. -->
   <Apathy.beginLetter>{0}突然变得懈怠无比，而且不愿意做已经为{PAWN_possessive}指定的工作。</Apathy.beginLetter>
   <!-- EN: apathy -->
   <Apathy.beginLetterLabel>懈怠</Apathy.beginLetterLabel>
   <!-- EN: {0} has stopped being apathetic. -->
   <Apathy.recoveryMessage>{0}又变得干劲十足。</Apathy.recoveryMessage>
-  
+
   <!-- EN: compulsively cleaning -->
   <Compulsion.label>洁癖失控</Compulsion.label>
   <!-- EN: Mental state: Compulsively cleaning -->
@@ -22,7 +22,7 @@
   <Compulsion.beginLetterLabel>失控</Compulsion.beginLetterLabel>
   <!-- EN: {0} has stopped compulsively tidying {PAWN_possessive} surroundings. -->
   <Compulsion.recoveryMessage>{0}已经停止打扫{PAWN_possessive}周围。</Compulsion.recoveryMessage>
-  
+
   <!-- EN: self-harming -->
   <SelfHarm.label>自残</SelfHarm.label>
   <!-- EN: Mental state: Self-harming -->
@@ -32,6 +32,6 @@
   <!-- EN: self-harm -->
   <SelfHarm.beginLetterLabel>自残</SelfHarm.beginLetterLabel>
   <!-- EN: {0} has stopped self-harming. -->
-  <SelfHarm.recoveryMessage>{0} 停止自残。</SelfHarm.recoveryMessage>
-  
+  <SelfHarm.recoveryMessage>{0}停止自残。</SelfHarm.recoveryMessage>
+
 </LanguageData>

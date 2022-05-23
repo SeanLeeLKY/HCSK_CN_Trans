@@ -88,7 +88,7 @@
   <!-- EN: Convert to wolframite ore -->
   <ConvertToWolframite.label>转化为黑钨矿</ConvertToWolframite.label>
   <!-- EN: Convert inorganic matter into wolframite, the ore of tungsten. Produces 10. -->
-  <ConvertToWolframite.description>将无机物转化为黑钨矿, 一种含有钨的矿石。 \n\n产出：10。</ConvertToWolframite.description>
+  <ConvertToWolframite.description>将无机物转化为黑钨矿， 一种含有钨的矿石。 \n\n产出：10。</ConvertToWolframite.description>
   <!-- EN: Converting matter into wolframite ore. -->
   <ConvertToWolframite.jobString>正在将无机物转化为黑钨矿。</ConvertToWolframite.jobString>
 

@@ -4,21 +4,21 @@
   <!-- EN: Make Advanced Rifle Component -->
   <MakeAdvRifle_Component.label>制作先进步枪部件</MakeAdvRifle_Component.label>
   <!-- EN: Advanced Rifle components used as basis for craft Advanced rifle. Produces 1. -->
-  <MakeAdvRifle_Component.description>用于制造各类先进步枪的特殊部件。 \n\n产出：1。</MakeAdvRifle_Component.description>
+  <MakeAdvRifle_Component.description>用于制造各类先进步枪的特殊部件。\n\n产出：1。</MakeAdvRifle_Component.description>
   <!-- EN: Making Advanced rifle Component. -->
   <MakeAdvRifle_Component.jobString>正在制造先进步枪部件。</MakeAdvRifle_Component.jobString>
 
   <!-- EN: Make Advanced Sniper Component -->
   <MakeAdvSniper_Component.label>制作先进狙击枪部件</MakeAdvSniper_Component.label>
   <!-- EN: Advanced Sniper components used as basis for craft Sniper rifle. Produces 1. -->
-  <MakeAdvSniper_Component.description>用于制造各类先进狙击步枪的特殊部件。 \n\n产出：1。</MakeAdvSniper_Component.description>
+  <MakeAdvSniper_Component.description>用于制造各类先进狙击步枪的特殊部件。\n\n产出：1。</MakeAdvSniper_Component.description>
   <!-- EN: Making Advanced Sniper Component. -->
   <MakeAdvSniper_Component.jobString>正在制造先进狙击步枪部件。</MakeAdvSniper_Component.jobString>
 
   <!-- EN: Make Cannon component -->
   <MakeCannon_Component.label>制作火炮武器部件</MakeCannon_Component.label>
   <!-- EN: Cannon Components used as basis for craft Cannons component weapons. Produces 1. -->
-  <MakeCannon_Component.description>用于制造各类火炮武器的特殊部件。 \n\n产出：1。</MakeCannon_Component.description>
+  <MakeCannon_Component.description>用于制造各类火炮武器的特殊部件。\n\n产出：1。</MakeCannon_Component.description>
   <!-- EN: Making Cannon Component. -->
   <MakeCannon_Component.jobString>正在制造火炮武器部件。</MakeCannon_Component.jobString>
 
@@ -32,70 +32,70 @@
   <!-- EN: Make Heavy Component -->
   <MakeHeavy_Component.label>制作重型武器部件</MakeHeavy_Component.label>
   <!-- EN: Heavy Components used as basis for craft Heavy weapons. Produces 1. -->
-  <MakeHeavy_Component.description>用于制造各类重型武器的特殊部件。 \n\n产出：1。</MakeHeavy_Component.description>
+  <MakeHeavy_Component.description>用于制造各类重型武器的特殊部件。\n\n产出：1。</MakeHeavy_Component.description>
   <!-- EN: Making Heavy Component. -->
   <MakeHeavy_Component.jobString>正在制造重型武器部件。</MakeHeavy_Component.jobString>
 
   <!-- EN: Make Laser component -->
   <MakeLaser_Component.label>制作光束武器部件</MakeLaser_Component.label>
   <!-- EN: Laser components used as basis for craft Laser weapons. Produces 1. -->
-  <MakeLaser_Component.description>用于制造各类光束武器的特殊部件。 \n\n产出：1。</MakeLaser_Component.description>
+  <MakeLaser_Component.description>用于制造各类光束武器的特殊部件。\n\n产出：1。</MakeLaser_Component.description>
   <!-- EN: Making Laser Component. -->
   <MakeLaser_Component.jobString>正在制造光束武器部件。</MakeLaser_Component.jobString>
 
   <!-- EN: Make Launcher component -->
   <MakeLauncher_Component.label>制作发射器部件</MakeLauncher_Component.label>
   <!-- EN: Launcher components used as basis for craft Launchers component weapons. Produces 1. -->
-  <MakeLauncher_Component.description>用于制造各类发射器类型武器的特殊部件。 \n\n产出：1。</MakeLauncher_Component.description>
+  <MakeLauncher_Component.description>用于制造各类发射器类型武器的特殊部件。\n\n产出：1。</MakeLauncher_Component.description>
   <!-- EN: Making Launcher Component. -->
   <MakeLauncher_Component.jobString>正在制造发射器部件。</MakeLauncher_Component.jobString>
 
   <!-- EN: Make Pistol component -->
   <MakePistol_Component.label>制作手枪部件</MakePistol_Component.label>
   <!-- EN: Pistol components used as basis for craft pistols. Produces 1. -->
-  <MakePistol_Component.description>用于制造各类手枪的特殊部件。 \n\n产出：1。</MakePistol_Component.description>
+  <MakePistol_Component.description>用于制造各类手枪的特殊部件。\n\n产出：1。</MakePistol_Component.description>
   <!-- EN: Making pistol component. -->
   <MakePistol_Component.jobString>正在制造手枪部件。</MakePistol_Component.jobString>
 
   <!-- EN: Make Plasma component -->
   <MakePlasma_Component.label>制作离子武器部件</MakePlasma_Component.label>
   <!-- EN: Plasma components used as basis for craft Plasma weapons. Produces 1. -->
-  <MakePlasma_Component.description>用于制造各类离子武器的特殊部件。 \n\n产出：1。</MakePlasma_Component.description>
+  <MakePlasma_Component.description>用于制造各类离子武器的特殊部件。\n\n产出：1。</MakePlasma_Component.description>
   <!-- EN: Making Plasma Component. -->
   <MakePlasma_Component.jobString>正在制造离子武器部件。</MakePlasma_Component.jobString>
 
   <!-- EN: Make Rifle Component -->
   <MakeRifle_Component.label>制作步枪部件</MakeRifle_Component.label>
   <!-- EN: Rifle components used as basis for craft Rifle. Produces 1. -->
-  <MakeRifle_Component.description>用于制造各类步枪的特殊部件。 \n\n产出：1。</MakeRifle_Component.description>
+  <MakeRifle_Component.description>用于制造各类步枪的特殊部件。\n\n产出：1。</MakeRifle_Component.description>
   <!-- EN: Making Rifle Component. -->
   <MakeRifle_Component.jobString>正在制造步枪部件。</MakeRifle_Component.jobString>
 
   <!-- EN: Make Shotgun component -->
   <MakeShotgun_Component.label>制作霰弹枪部件</MakeShotgun_Component.label>
   <!-- EN: Shotgun components used as basis for craft Shotgun. Produces 1. -->
-  <MakeShotgun_Component.description>用于制造各类霰弹枪的特殊部件。 \n\n产出：1。</MakeShotgun_Component.description>
+  <MakeShotgun_Component.description>用于制造各类霰弹枪的特殊部件。\n\n产出：1。</MakeShotgun_Component.description>
   <!-- EN: Making Shotgun component. -->
   <MakeShotgun_Component.jobString>正在制造霰弹枪部件。</MakeShotgun_Component.jobString>
 
   <!-- EN: Make SMG component -->
   <MakeSMG_Component.label>制作冲锋枪部件</MakeSMG_Component.label>
   <!-- EN: SMG components used as basis for craft SMGs. Produces 1. -->
-  <MakeSMG_Component.description>用于制造各类冲锋枪的特殊部件。 \n\n产出：1。</MakeSMG_Component.description>
+  <MakeSMG_Component.description>用于制造各类冲锋枪的特殊部件。\n\n产出：1。</MakeSMG_Component.description>
   <!-- EN: Making SMG component. -->
   <MakeSMG_Component.jobString>正在制造冲锋枪部件。</MakeSMG_Component.jobString>
 
   <!-- EN: Make Sniper Component -->
   <MakeSniper_Component.label>制作狙击枪部件</MakeSniper_Component.label>
   <!-- EN: Sniper Components used as basis for craft Sniper rifle. Produces 1. -->
-  <MakeSniper_Component.description>用于制造各类狙击步枪的特殊部件。 \n\n产出：1。</MakeSniper_Component.description>
+  <MakeSniper_Component.description>用于制造各类狙击步枪的特殊部件。\n\n产出：1。</MakeSniper_Component.description>
   <!-- EN: Making Sniper Rifle Component. -->
   <MakeSniper_Component.jobString>正在制造狙击步枪部件。</MakeSniper_Component.jobString>
 
   <!-- EN: Make Weapon parts -->
   <MakeWeapon_Parts.label>制作武器部件</MakeWeapon_Parts.label>
   <!-- EN: It's the main part of craft all types of weapons. Produces 5. -->
-  <MakeWeapon_Parts.description>制造各种武器使用的标准部件材料。 \n\n产出：5。</MakeWeapon_Parts.description>
+  <MakeWeapon_Parts.description>制造各种武器使用的标准部件材料。\n\n产出：5。</MakeWeapon_Parts.description>
   <!-- EN: Making  weapon parts. -->
   <MakeWeapon_Parts.jobString>正在制作武器部件。</MakeWeapon_Parts.jobString>
 

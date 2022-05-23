@@ -4,266 +4,266 @@
   <!-- EN: extract biomatter from corpse -->
   <ExtractBiomatterCorpse.label>提取生物质（人类尸体）</ExtractBiomatterCorpse.label>
   <!-- EN: Extracts BioMatter from a corpse. Produces depend on size of dead body and his wholeness. Takes 1.5 days to make -->
-  <ExtractBiomatterCorpse.description>从人类尸体中提取生物质。 \n\n产出：35。</ExtractBiomatterCorpse.description>
+  <ExtractBiomatterCorpse.description>从人类尸体中提取生物质。\n\n产出：35。</ExtractBiomatterCorpse.description>
   <!-- EN: Doing an unknown recipe. -->
   <ExtractBiomatterCorpse.jobString>正在提取生物质。</ExtractBiomatterCorpse.jobString>
 
   <!-- EN: Grow ear -->
   <Grow_Ear.label>制作耳</Grow_Ear.label>
   <!-- EN: Grow a natural ear. Takes 1.5 days to make -->
-  <Grow_Ear.description>制造耳。基准制作时间：1.5 天。</Grow_Ear.description>
+  <Grow_Ear.description>制造耳。基准制作时间：1.5天。</Grow_Ear.description>
   <!-- EN: Doing an unknown recipe. -->
   <Grow_Ear.jobString>正在制造耳。</Grow_Ear.jobString>
 
   <!-- EN: Grow eye -->
   <Grow_Eye.label>制作眼</Grow_Eye.label>
   <!-- EN: Grow a natural eye. Takes 1.5 days to make -->
-  <Grow_Eye.description>制造眼。基准制作时间：1.5 天。</Grow_Eye.description>
+  <Grow_Eye.description>制造眼。基准制作时间：1.5天。</Grow_Eye.description>
   <!-- EN: Doing an unknown recipe. -->
   <Grow_Eye.jobString>正在制造眼。</Grow_Eye.jobString>
 
   <!-- EN: Grow heart -->
   <Grow_Heart.label>制作心</Grow_Heart.label>
   <!-- EN: Grow a natural heart. Takes 1.5 days to make -->
-  <Grow_Heart.description>制造心。基准制作时间：1.5 天。</Grow_Heart.description>
+  <Grow_Heart.description>制造心。基准制作时间：1.5天。</Grow_Heart.description>
   <!-- EN: Doing an unknown recipe. -->
   <Grow_Heart.jobString>正在制造心。</Grow_Heart.jobString>
 
   <!-- EN: Grow kidney -->
   <Grow_Kidney.label>制作肾</Grow_Kidney.label>
   <!-- EN: Grow a natural kidney. Takes 1.5 days to make -->
-  <Grow_Kidney.description>制造肾。基准制作时间：1.5 天。</Grow_Kidney.description>
+  <Grow_Kidney.description>制造肾。基准制作时间：1.5天。</Grow_Kidney.description>
   <!-- EN: Doing an unknown recipe. -->
   <Grow_Kidney.jobString>正在制造肾。</Grow_Kidney.jobString>
 
   <!-- EN: Grow liver -->
   <Grow_Liver.label>制作肝</Grow_Liver.label>
   <!-- EN: Grow a natural liver. Takes 1.5 days to make -->
-  <Grow_Liver.description>制造肝。基准制作时间：1.5 天。</Grow_Liver.description>
+  <Grow_Liver.description>制造肝。基准制作时间：1.5天。</Grow_Liver.description>
   <!-- EN: Doing an unknown recipe. -->
   <Grow_Liver.jobString>正在制造肝。</Grow_Liver.jobString>
 
   <!-- EN: Grow lung -->
   <Grow_Lung.label>制作肺</Grow_Lung.label>
   <!-- EN: Grow a natural lung. Takes 1.5 days to make -->
-  <Grow_Lung.description>制造肺。基准制作时间：1.5 天。</Grow_Lung.description>
+  <Grow_Lung.description>制造肺。基准制作时间：1.5天。</Grow_Lung.description>
   <!-- EN: Doing an unknown recipe. -->
   <Grow_Lung.jobString>正在制造肺。</Grow_Lung.jobString>
 
   <!-- EN: Grow nose -->
   <Grow_Nose.label>制作鼻</Grow_Nose.label>
   <!-- EN: Grow a natural nose. Takes 1.5 days to make -->
-  <Grow_Nose.description>制造鼻。基准制作时间：1.5 天。</Grow_Nose.description>
+  <Grow_Nose.description>制造鼻。基准制作时间：1.5天。</Grow_Nose.description>
   <!-- EN: Doing an unknown recipe. -->
   <Grow_Nose.jobString>正在制造鼻。</Grow_Nose.jobString>
 
   <!-- EN: Grow stomach -->
   <Grow_Stomach.label>制作胃</Grow_Stomach.label>
   <!-- EN: Grow a natural stomach. Takes 1.5 days to make -->
-  <Grow_Stomach.description>制造胃。基准制作时间：1.5 天。</Grow_Stomach.description>
+  <Grow_Stomach.description>制造胃。基准制作时间：1.5天。</Grow_Stomach.description>
   <!-- EN: Doing an unknown recipe. -->
   <Grow_Stomach.jobString>正在制造胃。</Grow_Stomach.jobString>
 
   <!-- EN: make aged cheese -->
   <Make_AgedCheese.label>制作陈年奶酪</Make_AgedCheese.label>
   <!-- EN: Make aged cheese. Takes 8 days to make -->
-  <Make_AgedCheese.description>制作陈年奶酪。基准制作时间：8 天。</Make_AgedCheese.description>
+  <Make_AgedCheese.description>制作陈年奶酪。基准制作时间：8天。</Make_AgedCheese.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_AgedCheese.jobString>正在制作陈年奶酪。</Make_AgedCheese.jobString>
 
   <!-- EN: make aged cheese x5 -->
   <Make_AgedCheese_x5.label>制作陈年奶酪x5</Make_AgedCheese_x5.label>
   <!-- EN: Make aged cheese x5. Takes 8 days to make -->
-  <Make_AgedCheese_x5.description>制作陈年奶酪x5。基准制作时间：8 天。</Make_AgedCheese_x5.description>
+  <Make_AgedCheese_x5.description>制作陈年奶酪x5。基准制作时间：8天。</Make_AgedCheese_x5.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_AgedCheese_x5.jobString>正在制作陈年奶酪x5。</Make_AgedCheese_x5.jobString>
 
   <!-- EN: make beer -->
   <Make_Beer.label>制作啤酒</Make_Beer.label>
   <!-- EN: Make beer from wort. Takes 6 days to make -->
-  <Make_Beer.description>用麦芽汁酿造啤酒。基准制作时间：6 天。</Make_Beer.description>
+  <Make_Beer.description>用麦芽汁酿造啤酒。基准制作时间：6天。</Make_Beer.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Beer.jobString>正在制作啤酒。</Make_Beer.jobString>
 
   <!-- EN: make berry wine -->
   <Make_Berrywine.label>制作浆果酒</Make_Berrywine.label>
   <!-- EN: Make berry wine from berry mash. Takes 5.8 days to make -->
-  <Make_Berrywine.description>用浆果酿料制作浆果酒。基准制作时间：5.8 天。</Make_Berrywine.description>
+  <Make_Berrywine.description>用浆果酿料制作浆果酒。基准制作时间：5.8天。</Make_Berrywine.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Berrywine.jobString>正在制作浆果酒。</Make_Berrywine.jobString>
 
   <!-- EN: make cheese -->
   <Make_Cheese.label>制作奶酪</Make_Cheese.label>
   <!-- EN: Make cheese. Takes 4 days to make -->
-  <Make_Cheese.description>制作奶酪。基准制作时间：4 天。</Make_Cheese.description>
+  <Make_Cheese.description>制作奶酪。基准制作时间：4天。</Make_Cheese.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Cheese.jobString>正在制作奶酪。</Make_Cheese.jobString>
 
   <!-- EN: make cheese x5 -->
   <Make_Cheese_x5.label>制作奶酪x5</Make_Cheese_x5.label>
   <!-- EN: Make cheese x5. Takes 4 days to make -->
-  <Make_Cheese_x5.description>制作奶酪x5。基准制作时间：4 天。</Make_Cheese_x5.description>
+  <Make_Cheese_x5.description>制作奶酪x5。基准制作时间：4天。</Make_Cheese_x5.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Cheese_x5.jobString>正在制作奶酪x5。</Make_Cheese_x5.jobString>
 
   <!-- EN: make chemfuel from organics -->
   <Make_ChemfuelFromOrganics.label>用有机物制作化合燃料</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. Takes 1.5 days to make -->
-  <Make_ChemfuelFromOrganics.description>通过从有机原料中提取生物燃料以制作一组化合燃料。基准制作时间：1.5 天</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.description>通过从有机原料中提取生物燃料以制作一组化合燃料。基准制作时间：1.5天</Make_ChemfuelFromOrganics.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_ChemfuelFromOrganics.jobString>正在用有机物制作化合燃料。</Make_ChemfuelFromOrganics.jobString>
 
   <!-- EN: make chemfuel from wood -->
   <Make_ChemfuelFromWood.label>用木材制作化合燃料</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. Takes 1.5 days to make -->
-  <Make_ChemfuelFromWood.description>通过气化原木以制作一组化合燃料。基准制作时间：1.5 天</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.description>通过气化原木以制作一组化合燃料。基准制作时间：1.5天</Make_ChemfuelFromWood.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_ChemfuelFromWood.jobString>正在用木材制作化合燃料。</Make_ChemfuelFromWood.jobString>
 
   <!-- EN: make cider -->
   <Make_Cider.label>制作苹果酒</Make_Cider.label>
   <!-- EN: Make cider from cider mash. Takes 4.8 days to make -->
-  <Make_Cider.description>用苹果酿料制作苹果酒。基准制作时间：4.8 天。</Make_Cider.description>
+  <Make_Cider.description>用苹果酿料制作苹果酒。基准制作时间：4.8天。</Make_Cider.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Cider.jobString>正在制作苹果酒。</Make_Cider.jobString>
 
   <!-- EN: make dried fruit -->
   <Make_DriedFruit.label>制作果干</Make_DriedFruit.label>
   <!-- EN: Make dried fruit. Takes 2 days to make -->
-  <Make_DriedFruit.description>干制水果。基准制作时间：2 天。</Make_DriedFruit.description>
+  <Make_DriedFruit.description>干制水果。基准制作时间：2天。</Make_DriedFruit.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_DriedFruit.jobString>正在制作果干。</Make_DriedFruit.jobString>
 
   <!-- EN: make dried fruit x5 -->
   <Make_DriedFruit_x5.label>制作果干x5</Make_DriedFruit_x5.label>
   <!-- EN: Make dried fruit x5. Takes 2 days to make -->
-  <Make_DriedFruit_x5.description>干制水果x5。基准制作时间：2 天。</Make_DriedFruit_x5.description>
+  <Make_DriedFruit_x5.description>干制水果x5。基准制作时间：2天。</Make_DriedFruit_x5.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_DriedFruit_x5.jobString>正在制作果干x5。</Make_DriedFruit_x5.jobString>
 
   <!-- EN: make fertilizer -->
   <Make_Fertilizer.label>制作肥料</Make_Fertilizer.label>
   <!-- EN: Make fertilizer. Takes 2.8 days to make -->
-  <Make_Fertilizer.description>制作肥料。基准制作时间：2.8 天。</Make_Fertilizer.description>
+  <Make_Fertilizer.description>制作肥料。基准制作时间：2.8天。</Make_Fertilizer.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Fertilizer.jobString>正在制作肥料。</Make_Fertilizer.jobString>
 
   <!-- EN: make fertilizer x5 -->
   <Make_Fertilizer_x5.label>制作肥料x5</Make_Fertilizer_x5.label>
   <!-- EN: Make fertilizer x5. Takes 2.8 days to make -->
-  <Make_Fertilizer_x5.description>制作肥料x5。基准制作时间：2.8 天。</Make_Fertilizer_x5.description>
+  <Make_Fertilizer_x5.description>制作肥料x5。基准制作时间：2.8天。</Make_Fertilizer_x5.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Fertilizer_x5.jobString>正在制作肥料x5。</Make_Fertilizer_x5.jobString>
 
   <!-- EN: make jerky -->
   <Make_Jerky.label>制作肉干</Make_Jerky.label>
   <!-- EN: Make jerky meat. Takes 2 days to make -->
-  <Make_Jerky.description>制作肉干。基准制作时间：2 天。</Make_Jerky.description>
+  <Make_Jerky.description>制作肉干。基准制作时间：2天。</Make_Jerky.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Jerky.jobString>正在制作肉干。</Make_Jerky.jobString>
 
   <!-- EN: make jerky x5 -->
   <Make_Jerky_x5.label>制作肉干x5</Make_Jerky_x5.label>
   <!-- EN: Make jerky meat x5. Takes 2 days to make -->
-  <Make_Jerky_x5.description>制作肉干x5。基准制作时间：2 天。</Make_Jerky_x5.description>
+  <Make_Jerky_x5.description>制作肉干x5。基准制作时间：2天。</Make_Jerky_x5.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Jerky_x5.jobString>正在制作肉干x5。</Make_Jerky_x5.jobString>
 
   <!-- EN: Extracts nitre from body -->
   <Make_Nitre_Body.label>提取硝石（尸体）</Make_Nitre_Body.label>
   <!-- EN: Extract nitre from corpse. Takes 10 days to make -->
-  <Make_Nitre_Body.description>从尸体中提取硝盐类物质。基准制作时间：10 天。</Make_Nitre_Body.description>
+  <Make_Nitre_Body.description>从尸体中提取硝盐类物质。基准制作时间：10天。</Make_Nitre_Body.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Nitre_Body.jobString>正在提取硝石。</Make_Nitre_Body.jobString>
 
   <!-- EN: Extracts nitre from fecal -->
   <Make_Nitre_Fecal.label>提取硝石（粪便污泥）</Make_Nitre_Fecal.label>
   <!-- EN: Extract nitre from fecal sludge. Takes 10 days to make -->
-  <Make_Nitre_Fecal.description>从粪便污泥中提取硝盐类物质。基准制作时间：10 天。</Make_Nitre_Fecal.description>
+  <Make_Nitre_Fecal.description>从粪便污泥中提取硝盐类物质。基准制作时间：10天。</Make_Nitre_Fecal.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Nitre_Fecal.jobString>正在提取硝石。</Make_Nitre_Fecal.jobString>
 
   <!-- EN: Extracts nitre from mush -->
   <Make_Nitre_Mush.label>提取硝石（腐烂物）</Make_Nitre_Mush.label>
   <!-- EN: Extract nitre from rotted mush. Takes 10 days to make -->
-  <Make_Nitre_Mush.description>从腐烂物中提取硝盐类物质。基准制作时间：10 天。</Make_Nitre_Mush.description>
+  <Make_Nitre_Mush.description>从腐烂物中提取硝盐类物质。基准制作时间：10天。</Make_Nitre_Mush.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Nitre_Mush.jobString>正在提取硝石。</Make_Nitre_Mush.jobString>
 
   <!-- EN: make rum -->
   <Make_Rum.label>制作朗姆酒</Make_Rum.label>
   <!-- EN: Make rum from rum mash. Takes 4.5 days to make -->
-  <Make_Rum.description>用朗姆酿料制作朗姆酒。基准制作时间：4.5 天。</Make_Rum.description>
+  <Make_Rum.description>用朗姆酿料制作朗姆酒。基准制作时间：4.5天。</Make_Rum.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Rum.jobString>正在制作朗姆酒。</Make_Rum.jobString>
 
   <!-- EN: make sake -->
   <Make_Sake.label>制作清酒</Make_Sake.label>
   <!-- EN: Make sake from sake mash. Takes 5.25 days to make -->
-  <Make_Sake.description>用清酒酿料制作清酒。基准制作时间：5.25 天。</Make_Sake.description>
+  <Make_Sake.description>用清酒酿料制作清酒。基准制作时间：5.25天。</Make_Sake.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Sake.jobString>正在制作清酒。</Make_Sake.jobString>
 
   <!-- EN: make silage -->
   <Make_Silage.label>制作青贮饲料</Make_Silage.label>
   <!-- EN: Make silage from plants. Takes 20 days to make -->
-  <Make_Silage.description>制作青贮饲料。基准制作时间：20 天。</Make_Silage.description>
+  <Make_Silage.description>制作青贮饲料。基准制作时间：20天。</Make_Silage.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Silage.jobString>正在制作青贮饲料。</Make_Silage.jobString>
 
   <!-- EN: make dried smokeleaf -->
   <Make_Smokeleaf.label>制作干燥大麻叶</Make_Smokeleaf.label>
   <!-- EN: Make dried smokeleaf. Takes 4 days to make -->
-  <Make_Smokeleaf.description>干制大麻叶。基准制作时间：4 天。</Make_Smokeleaf.description>
+  <Make_Smokeleaf.description>干制大麻叶。基准制作时间：4天。</Make_Smokeleaf.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Smokeleaf.jobString>正在制作干燥大麻叶。</Make_Smokeleaf.jobString>
 
   <!-- EN: make dried smokeleaf x5 -->
   <Make_Smokeleaf_x5.label>制作干燥大麻叶x5</Make_Smokeleaf_x5.label>
   <!-- EN: Make dried smokeleaf x5. Takes 4 days to make -->
-  <Make_Smokeleaf_x5.description>干制大麻叶x5。基准制作时间：4 天。</Make_Smokeleaf_x5.description>
+  <Make_Smokeleaf_x5.description>干制大麻叶x5。基准制作时间：4天。</Make_Smokeleaf_x5.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Smokeleaf_x5.jobString>正在制作干燥大麻叶x5。</Make_Smokeleaf_x5.jobString>
 
   <!-- EN: make tequila -->
   <Make_Tequila.label>制作龙舌兰酒</Make_Tequila.label>
   <!-- EN: Make tequila from tequila mash. Takes 5.6 days to make -->
-  <Make_Tequila.description>用龙舌兰酿料制作龙舌兰酒。基准制作时间：5.6 天。</Make_Tequila.description>
+  <Make_Tequila.description>用龙舌兰酿料制作龙舌兰酒。基准制作时间：5.6天。</Make_Tequila.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Tequila.jobString>正在制作龙舌兰酒。</Make_Tequila.jobString>
 
   <!-- EN: make dried tobacco -->
   <Make_Tobacco.label>制作干燥烟叶</Make_Tobacco.label>
   <!-- EN: Make dried tobacco. Takes 3 days to make -->
-  <Make_Tobacco.description>干制烟叶。基准制作时间：3 天。</Make_Tobacco.description>
+  <Make_Tobacco.description>干制烟叶。基准制作时间：3天。</Make_Tobacco.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Tobacco.jobString>正在制作干燥烟叶。</Make_Tobacco.jobString>
 
   <!-- EN: make dried tobacco x5 -->
   <Make_Tobacco_x5.label>制作干燥烟叶x5</Make_Tobacco_x5.label>
   <!-- EN: Make dried tobacco x5. Takes 3 days to make -->
-  <Make_Tobacco_x5.description>干制烟叶x5。基准制作时间：3 天。</Make_Tobacco_x5.description>
+  <Make_Tobacco_x5.description>干制烟叶x5。基准制作时间：3天。</Make_Tobacco_x5.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Tobacco_x5.jobString>正在制作干燥烟叶x5。</Make_Tobacco_x5.jobString>
 
   <!-- EN: make vodka -->
   <Make_Vodka.label>制作伏特加</Make_Vodka.label>
   <!-- EN: Make vodka from vodka mash. Takes 4.8 days to make -->
-  <Make_Vodka.description>用伏特加酿料制作伏特加。基准制作时间：4.8 天。</Make_Vodka.description>
+  <Make_Vodka.description>用伏特加酿料制作伏特加。基准制作时间：4.8天。</Make_Vodka.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Vodka.jobString>正在制作伏特加。</Make_Vodka.jobString>
 
   <!-- EN: make whisky -->
   <Make_Whisky.label>制作威士忌</Make_Whisky.label>
   <!-- EN: Make whisky from grain mash. Takes 7.25 days to make -->
-  <Make_Whisky.description>用谷物酿料酿造威士忌。基准制作时间：7.25 天。</Make_Whisky.description>
+  <Make_Whisky.description>用谷物酿料酿造威士忌。基准制作时间：7.25天。</Make_Whisky.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Whisky.jobString>正在制作威士忌。</Make_Whisky.jobString>
 
   <!-- EN: make wine -->
   <Make_Wine.label>制作葡萄酒</Make_Wine.label>
   <!-- EN: Make wine from wine mash. Takes 5.8 days to make -->
-  <Make_Wine.description>用葡萄酿料制作葡萄酒。基准制作时间：5.8 天。</Make_Wine.description>
+  <Make_Wine.description>用葡萄酿料制作葡萄酒。基准制作时间：5.8天。</Make_Wine.description>
   <!-- EN: Doing an unknown recipe. -->
   <Make_Wine.jobString>正在制作葡萄酒。</Make_Wine.jobString>
 

@@ -4,7 +4,7 @@
   <!-- EN: Create carbon -->
   <MakeCarbon.label>制作碳聚物</MakeCarbon.label>
   <!-- EN: Create carbon from polymers, rubber and coal ore. Produces 12. -->
-  <MakeCarbon.description>利用聚合物、橡胶以及高碳矿物制造复合碳聚物。 \n\n产出：12。</MakeCarbon.description>
+  <MakeCarbon.description>利用聚合物、橡胶以及高碳矿物制造复合碳聚物。\n\n产出：12。</MakeCarbon.description>
   <!-- EN: Creating carbon. -->
   <MakeCarbon.jobString>正在制作碳聚物。</MakeCarbon.jobString>
 
@@ -18,28 +18,28 @@
   <!-- EN: Create plastic -->
   <MakePlastic.label>制作塑料</MakePlastic.label>
   <!-- EN: Create plastic from polymers. Produces 10. -->
-  <MakePlastic.description>利用聚合物来生产塑料。 \n\n产出：10。</MakePlastic.description>
+  <MakePlastic.description>利用聚合物来生产塑料。\n\n产出：10。</MakePlastic.description>
   <!-- EN: Creating plastic from polymers. -->
   <MakePlastic.jobString>正在制作塑料。</MakePlastic.jobString>
 
   <!-- EN: Create rubber -->
   <MakeRubber.label>制作合成橡胶</MakeRubber.label>
   <!-- EN: Create rubber from polymers and sulphates. Produces 10. -->
-  <MakeRubber.description>利用硫酸盐和聚合物来制造合成橡胶。 \n\n产出：10。</MakeRubber.description>
+  <MakeRubber.description>利用硫酸盐和聚合物来制造合成橡胶。\n\n产出：10。</MakeRubber.description>
   <!-- EN: Creating rubber from polymers and sulphates. -->
   <MakeRubber.jobString>正在制作合成橡胶。</MakeRubber.jobString>
 
   <!-- EN: Create synthetic fibers -->
   <MakeSyntheticFibers.label>制作人造纤维</MakeSyntheticFibers.label>
   <!-- EN: Create synthetic fibers from polymers and sulphates. Produces 5. -->
-  <MakeSyntheticFibers.description>利用硫酸盐和聚合物来制造人造纤维。 \n\n产出：5。</MakeSyntheticFibers.description>
+  <MakeSyntheticFibers.description>利用硫酸盐和聚合物来制造人造纤维。\n\n产出：5。</MakeSyntheticFibers.description>
   <!-- EN: Creating synthetic fibers. -->
   <MakeSyntheticFibers.jobString>正在制作人造纤维。</MakeSyntheticFibers.jobString>
 
   <!-- EN: Vulcanize rubber -->
   <VulcanizeRubber.label>硫化天然橡胶</VulcanizeRubber.label>
   <!-- EN: Vulcanize rubber from caoutchouc and sulphates. Produces 10. -->
-  <VulcanizeRubber.description>利用硫酸盐和天然橡胶来制造成品橡胶。 \n\n产出：10。</VulcanizeRubber.description>
+  <VulcanizeRubber.description>利用硫酸盐和天然橡胶来制造成品橡胶。\n\n产出：10。</VulcanizeRubber.description>
   <!-- EN: Vulcanizing rubber from caoutchouc and sulphates. -->
   <VulcanizeRubber.jobString>正在硫化橡胶。</VulcanizeRubber.jobString>
 

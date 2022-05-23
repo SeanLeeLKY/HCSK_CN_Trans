@@ -4,7 +4,7 @@
   <!-- EN: Install Cybernetic Bionic Arm -->
   <InstallArchotechArm.label>安装神经机械仿生臂</InstallArchotechArm.label>
   <!-- EN: Installs Cybernetic Bionic Arm. -->
-  <InstallArchotechArm.description>Installs 神经机械仿生臂。</InstallArchotechArm.description>
+  <InstallArchotechArm.description>安装神经机械仿生臂。</InstallArchotechArm.description>
   <!-- EN: Installing Cybernetic Bionic Arm. -->
   <InstallArchotechArm.jobString>正在安装神经机械仿生臂。</InstallArchotechArm.jobString>
 
@@ -83,7 +83,7 @@
   <!-- EN: Installs a Cybernetic Bionic Spine. -->
   <InstallGTSpine.description>安装神经机械仿生脊柱。</InstallGTSpine.description>
   <!-- EN: Installing Bionic Spine. -->
-  <InstallGTSpine.jobString>正在安装Bionic Spine。</InstallGTSpine.jobString>
+  <InstallGTSpine.jobString>正在安装仿生脊柱。</InstallGTSpine.jobString>
 
   <!-- EN: Install Cybernetic Stomach -->
   <InstallGTStomach.label>安装神经机械胃</InstallGTStomach.label>

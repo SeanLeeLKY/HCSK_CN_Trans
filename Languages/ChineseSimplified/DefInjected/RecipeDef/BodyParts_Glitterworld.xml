@@ -79,56 +79,56 @@
   <RemoveAuxiliaryAI_Brawler.jobString>正在移除辅助AI。</RemoveAuxiliaryAI_Brawler.jobString>
 
   <!-- EN: remove auxiliary AI (commando) -->
-  <RemoveAuxiliaryAI_Commando.label>移除 辅助AI（作战）</RemoveAuxiliaryAI_Commando.label>
+  <RemoveAuxiliaryAI_Commando.label>移除辅助AI（作战）</RemoveAuxiliaryAI_Commando.label>
   <!-- EN: Remove auxiliary AI (commando). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal. -->
   <RemoveAuxiliaryAI_Commando.description>移除辅助AI（作战）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveAuxiliaryAI_Commando.description>
   <!-- EN: Removing auxiliary AI. -->
   <RemoveAuxiliaryAI_Commando.jobString>正在移除辅助AI。</RemoveAuxiliaryAI_Commando.jobString>
 
   <!-- EN: remove auxiliary AI (sharpshooter) -->
-  <RemoveAuxiliaryAI_Sharpshooter.label>移除 辅助AI（射击）</RemoveAuxiliaryAI_Sharpshooter.label>
+  <RemoveAuxiliaryAI_Sharpshooter.label>移除辅助AI（射击）</RemoveAuxiliaryAI_Sharpshooter.label>
   <!-- EN: Remove auxiliary AI (sharpshooter). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal. -->
   <RemoveAuxiliaryAI_Sharpshooter.description>移除辅助AI（射击）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveAuxiliaryAI_Sharpshooter.description>
   <!-- EN: Removing auxiliary AI. -->
   <RemoveAuxiliaryAI_Sharpshooter.jobString>正在移除辅助AI。</RemoveAuxiliaryAI_Sharpshooter.jobString>
 
   <!-- EN: remove auxiliary AI (constructing) -->
-  <RemoveConstructorCore.label>移除 辅助AI（建造）</RemoveConstructorCore.label>
+  <RemoveConstructorCore.label>移除辅助AI（建造）</RemoveConstructorCore.label>
   <!-- EN: Remove auxiliary AI (constructing). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal. -->
   <RemoveConstructorCore.description>移除辅助AI（建造）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveConstructorCore.description>
   <!-- EN: Removing auxiliary AI. -->
   <RemoveConstructorCore.jobString>正在移除辅助AI（建造）。</RemoveConstructorCore.jobString>
 
   <!-- EN: remove auxiliary AI (diplomatic) -->
-  <RemoveDiplomatCore.label>移除 辅助AI（社交）</RemoveDiplomatCore.label>
+  <RemoveDiplomatCore.label>移除辅助AI（社交）</RemoveDiplomatCore.label>
   <!-- EN: Remove auxiliary AI (diplomatic). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal. -->
   <RemoveDiplomatCore.description>移除辅助AI（社交）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveDiplomatCore.description>
   <!-- EN: Removing auxiliary AI. -->
   <RemoveDiplomatCore.jobString>正在移除辅助AI（社交）。</RemoveDiplomatCore.jobString>
 
   <!-- EN: remove auxiliary AI (medical) -->
-  <RemoveDoctorCore.label>移除 辅助AI（医疗）</RemoveDoctorCore.label>
+  <RemoveDoctorCore.label>移除辅助AI（医疗）</RemoveDoctorCore.label>
   <!-- EN: Remove auxiliary AI (medical). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal. -->
   <RemoveDoctorCore.description>移除辅助AI（医疗）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveDoctorCore.description>
   <!-- EN: Removing auxiliary AI. -->
   <RemoveDoctorCore.jobString>正在移除辅助AI（医疗）。</RemoveDoctorCore.jobString>
 
   <!-- EN: remove auxiliary AI (agricultural) -->
-  <RemoveFarmerCore.label>移除 辅助AI（种植）</RemoveFarmerCore.label>
+  <RemoveFarmerCore.label>移除辅助AI（种植）</RemoveFarmerCore.label>
   <!-- EN: Remove auxiliary AI (agricultural). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal. -->
   <RemoveFarmerCore.description>移除辅助AI（种植）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveFarmerCore.description>
   <!-- EN: Removing auxiliary AI. -->
   <RemoveFarmerCore.jobString>正在移除辅助AI（种植）。</RemoveFarmerCore.jobString>
 
   <!-- EN: remove auxiliary AI (mining) -->
-  <RemoveMinerCore.label>移除 辅助AI（采矿）</RemoveMinerCore.label>
+  <RemoveMinerCore.label>移除辅助AI（采矿）</RemoveMinerCore.label>
   <!-- EN: Remove auxiliary AI (mining). Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal. -->
   <RemoveMinerCore.description>移除辅助AI（采矿）。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveMinerCore.description>
   <!-- EN: Removing auxiliary AI. -->
   <RemoveMinerCore.jobString>正在移除辅助AI（采矿）。</RemoveMinerCore.jobString>
 
   <!-- EN: remove tactical cornea implant -->
-  <RemoveTacticalCorneaImplant.label>移除 战术角膜植入物</RemoveTacticalCorneaImplant.label>
+  <RemoveTacticalCorneaImplant.label>移除战术角膜植入物</RemoveTacticalCorneaImplant.label>
   <!-- EN: Remove a tactical cornea implant. Due to the sophisticated nature of the implant, only a base portion of the implant (one MA-AI chip) can be salvaged upon removal. -->
   <RemoveTacticalCorneaImplant.description>移除战术角膜植入物。由于该植入物的特殊安装性质，移除后只能回收到基础的医疗助理芯片。</RemoveTacticalCorneaImplant.description>
   <!-- EN: Removing tactical cornea implant. -->

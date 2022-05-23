@@ -67,7 +67,7 @@
   <!-- EN: Install Brain Stimulator -->
   <InstallBrainStimulator.label>安装脑激励器</InstallBrainStimulator.label>
   <!-- EN: Installs a Brain Stimulator. -->
-  <InstallBrainStimulator.description>安装 脑激励器。</InstallBrainStimulator.description>
+  <InstallBrainStimulator.description>安装脑激励器。</InstallBrainStimulator.description>
   <!-- EN: Installing Brain Stimulator. -->
   <InstallBrainStimulator.jobString>正在安装脑激励器。</InstallBrainStimulator.jobString>
 
@@ -79,7 +79,7 @@
   <InstallPowerClaw.jobString>正在安装动力爪。</InstallPowerClaw.jobString>
 
   <!-- EN: remove AI chip -->
-  <RemoveAIChip.label>移除 AI芯片</RemoveAIChip.label>
+  <RemoveAIChip.label>移除AI芯片</RemoveAIChip.label>
   <!-- EN: Removes AI chip. -->
   <RemoveAIChip.description>移除AI芯片。</RemoveAIChip.description>
   <!-- EN: Removing AI chip. -->
@@ -88,7 +88,7 @@
   <RemoveAIChip.successfullyRemovedHediffMessage>{0}已成功移除{1}的AI芯片。</RemoveAIChip.successfullyRemovedHediffMessage>
 
   <!-- EN: remove brain stimulator -->
-  <RemoveBrainStimulator.label>移除 脑激励器</RemoveBrainStimulator.label>
+  <RemoveBrainStimulator.label>移除脑激励器</RemoveBrainStimulator.label>
   <!-- EN: Removes brain stimulator. -->
   <RemoveBrainStimulator.description>移除脑激励器。</RemoveBrainStimulator.description>
   <!-- EN: Removing brain stimulator. -->

@@ -1,148 +1,148 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: animal hater -->
   <Allergic.degreeDatas.animal_hater.label>厌恶动物</Allergic.degreeDatas.animal_hater.label>
   <!-- EN: {PAWN_nameDef} just isn't an "animal person." {PAWN_pronoun} doesn't like animals, and for the record, they don't seem to much like {PAWN_objective}, either. -->
   <Allergic.degreeDatas.animal_hater.description>{PAWN_nameDef}是个不怎么喜欢动物的人。从过往来看，{PAWN_pronoun}不喜欢动物，动物们似乎也不喜欢{PAWN_objective}。</Allergic.degreeDatas.animal_hater.description>
-  
+
   <!-- EN: animal lover -->
   <AnimalLover.degreeDatas.animal_lover.label>喜欢动物</AnimalLover.degreeDatas.animal_lover.label>
   <!-- EN: {PAWN_nameDef} loves animals. {PAWN_pronoun} doesn't feel quite the same about people, though. -->
   <AnimalLover.degreeDatas.animal_lover.description>{PAWN_nameDef}喜爱各种动物。但是，{PAWN_pronoun}对其他人就不怎么样了。</AnimalLover.degreeDatas.animal_lover.description>
-  
+
   <!-- EN: volatile genius -->
   <ChaoticGenius.degreeDatas.volatile_genius.label>怪才</ChaoticGenius.degreeDatas.volatile_genius.label>
   <!-- EN: {PAWN_nameDef} is unbelievably smart, however {PAWN_pronoun} is also extremely unstable -->
   <ChaoticGenius.degreeDatas.volatile_genius.description>{PAWN_nameDef}简直聪明得无与伦比，正因为这样{PAWN_pronoun}也是极端的性格多变。</ChaoticGenius.degreeDatas.volatile_genius.description>
-  
+
   <!-- EN: confident -->
   <Confident.degreeDatas.confident.label>自信</Confident.degreeDatas.confident.label>
   <!-- EN: {PAWN_nameDef} is fairly confident that everything is going to be alright. -->
   <Confident.degreeDatas.confident.description>{PAWN_nameDef}非常有信心一切都会好起来的。</Confident.degreeDatas.confident.description>
-  
+
   <!-- EN: cultist -->
   <Cultist.degreeDatas.cultist.label>信徒</Cultist.degreeDatas.cultist.label>
   <!-- EN: {PAWN_nameDef} has heard the call constantly since {PAWN_pronoun} was young. {PAWN_pronoun} has followed it across the galaxy, worshipping the soothing sound until {PAWN_pronoun} finally found its source. However on the planet that houses {PAWN_possessive} god the call is intermitant, and only occasionally can {PAWN_pronoun} hear its soothing song. -->
   <Cultist.degreeDatas.cultist.description>自{PAWN_pronoun}打小以来，{PAWN_nameDef}就一直能听到一种呼唤。{PAWN_pronoun}跟随指引，跨越星河追寻这个声音，直到{PAWN_pronoun}最终寻找到源头。不过即使来到{PAWN_possessive}神的星球{PAWN_pronoun}也只能得到断断续续的呼唤，只有偶尔才能清楚的听到那天堂之音。</Cultist.degreeDatas.cultist.description>
-  
+
   <!-- EN: builder -->
   <DIY.degreeDatas.builder.label>建筑工</DIY.degreeDatas.builder.label>
   <!-- EN: {PAWN_nameDef} loved playing with construction toys as a child, and still enjoys the thrill of "putting things together." But {PAWN_pronoun} tends to be a bit lost without clear instructions to follow. -->
   <DIY.degreeDatas.builder.description>{PAWN_nameDef}从小就喜欢修建各种各样的玩具建筑，长大后仍旧喜欢这种“将所有东西堆放在一起”的感觉。不过要是离开了详细的说明书，{PAWN_pronoun}可能会忘了搭点什么配件。</DIY.degreeDatas.builder.description>
-  
+
   <!-- EN: dumb -->
   <Dumb.degreeDatas.dumb.label>哑巴</Dumb.degreeDatas.dumb.label>
   <!-- EN: {PAWN_nameDef} isn't the sharpest tool in the shed, but that hasn't stopped {PAWN_objective} from getting this far. -->
   <Dumb.degreeDatas.dumb.description>{PAWN_nameDef}并不是所有人中最厉害那个，不过这并不能成为阻止{PAWN_objective}变得更加强大的目标。</Dumb.degreeDatas.dumb.description>
-  
+
   <!-- EN: extrovert -->
   <Extrovert.degreeDatas.extrovert.label>外向</Extrovert.degreeDatas.extrovert.label>
   <!-- EN: {PAWN_nameDef} is exceptionally friendly. -->
   <Extrovert.degreeDatas.extrovert.description>{PAWN_nameDef}对谁都显得自来熟。</Extrovert.degreeDatas.extrovert.description>
-  
+
   <!-- EN: fanatic -->
   <Fanatic.degreeDatas.fanatic.label>狂热者</Fanatic.degreeDatas.fanatic.label>
   <!-- EN: {PAWN_nameDef} has found religon and is prepared to do what ever is required to make others accept its truth. -->
   <Fanatic.degreeDatas.fanatic.description>{PAWN_nameDef}狂热信仰自己的宗教，并且热切的希望其他人也追寻一样的信仰。</Fanatic.degreeDatas.fanatic.description>
-  
+
   <!-- EN: quick -->
   <Fast.degreeDatas.quick.label>快速</Fast.degreeDatas.quick.label>
   <!-- EN: {PAWN_nameDef} is abnormally quick. -->
   <Fast.degreeDatas.quick.description>{PAWN_nameDef}速度非常快。</Fast.degreeDatas.quick.description>
-  
+
   <!-- EN: fragile -->
   <Fragile.degreeDatas.fragile.label>弱不禁风</Fragile.degreeDatas.fragile.label>
   <!-- EN: {PAWN_nameDef} has thin skin, weak flesh, and fragile bones. {PAWN_pronoun} takes more damage than other people from the same blows. {PAWN_pronoun} is easy to kill. -->
   <Fragile.degreeDatas.fragile.description>{PAWN_nameDef}皮薄孱弱，骨瘦如柴。{PAWN_pronoun}被攻击时会比普通人承受更多伤害。一不小心，{PAWN_pronoun}就完蛋了。</Fragile.degreeDatas.fragile.description>
-  
+
   <!-- EN: hardened -->
   <Hardened.degreeDatas.hardened.label>坚毅</Hardened.degreeDatas.hardened.label>
   <!-- EN: {PAWN_nameDef} has become accustomed to the harsh reality of death and the horrible things that sometimes need to be done. This has made {PAWN_objective} more mentally stable. -->
   <Hardened.degreeDatas.hardened.description>{PAWN_nameDef}已经习惯了绝望的严酷现实和有时需要做的可怕的事情。 这使{PAWN_objective}心如磐石。</Hardened.degreeDatas.hardened.description>
-  
+
   <!-- EN: dunce -->
   <Ignorant.degreeDatas.dunce.label>愚笨</Ignorant.degreeDatas.dunce.label>
   <!-- EN: {PAWN_nameDef} is a bit of a dunce, and learns at a slower rate than others. -->
   <Ignorant.degreeDatas.dunce.description>{PAWN_nameDef}显得笨笨的，学习新东西的时候总是比别人慢。</Ignorant.degreeDatas.dunce.description>
-  
+
   <!-- EN: shy -->
   <Introvert.degreeDatas.shy.label>害羞</Introvert.degreeDatas.shy.label>
   <!-- EN: {PAWN_nameDef} is exceptionally shy. -->
   <Introvert.degreeDatas.shy.description>{PAWN_nameDef}显得非常害羞。</Introvert.degreeDatas.shy.description>
-  
+
   <!-- EN: Natural leader -->
   <Leader.degreeDatas.Natural_leader.label>命定领袖</Leader.degreeDatas.Natural_leader.label>
   <!-- EN: {PAWN_nameDef} is a natural leader. -->
   <Leader.degreeDatas.Natural_leader.description>{PAWN_nameDef}生来就具有领袖气质。</Leader.degreeDatas.Natural_leader.description>
-  
+
   <!-- EN: naive -->
   <Naive.degreeDatas.naive.label>天真</Naive.degreeDatas.naive.label>
   <!-- EN: {PAWN_nameDef} is a generally happy and likable person, but death bothers {PAWN_objective} more than others. -->
   <Naive.degreeDatas.naive.description>{PAWN_nameDef}是一个无忧无虑并且讨人喜欢的人，不过当面对悲剧时，{PAWN_objective}比其他人更加容易悲伤。</Naive.degreeDatas.naive.description>
-  
+
   <!-- EN: numb -->
   <Numb.degreeDatas.numb.label>无情</Numb.degreeDatas.numb.label>
   <!-- EN: {PAWN_nameDef} is emotionally numb and as such is very non-expressive about most things. -->
   <Numb.degreeDatas.numb.description>{PAWN_nameDef}是一个没有什么感情波动的人，绝大部分的事情都不会触动其内心情感。</Numb.degreeDatas.numb.description>
-  
+
   <!-- EN: paranoid -->
   <Paranoid.degreeDatas.paranoid.label>偏执狂</Paranoid.degreeDatas.paranoid.label>
   <!-- EN: {PAWN_nameDef} believes that everyone is out to get {PAWN_objective} and for the first time in {PAWN_possessive} life, {PAWN_pronoun} seems to be right. -->
   <Paranoid.degreeDatas.paranoid.description>在{PAWN_nameDef}人生的一开始，{PAWN_possessive}就坚信每个人都想要得到{PAWN_objective}，并且{PAWN_pronoun}总认为这是对的。</Paranoid.degreeDatas.paranoid.description>
-  
+
   <!-- EN: Silver Tongue -->
   <Personality.degreeDatas.Silver_Tongue.label>巧舌如簧</Personality.degreeDatas.Silver_Tongue.label>
   <!-- EN: {PAWN_nameDef} likes to talk and hates to fight, fortunately for {PAWN_objective}, {PAWN_pronoun}'s good at talking {PAWN_possessive} way out of almost anything. -->
-  <Personality.degreeDatas.Silver_Tongue.description>{PAWN_nameDef}喜欢君子动口不动手，幸运的是，对于{PAWN_objective}, {PAWN_pronoun}的谈话技巧能够让{PAWN_possessive}无往不利。</Personality.degreeDatas.Silver_Tongue.description>
+  <Personality.degreeDatas.Silver_Tongue.description>{PAWN_nameDef}喜欢君子动口不动手，幸运的是，对于{PAWN_objective}， {PAWN_pronoun}的谈话技巧能够让{PAWN_possessive}无往不利。</Personality.degreeDatas.Silver_Tongue.description>
   <!-- EN: Born Leader -->
   <Personality.degreeDatas.Born_Leader.label>天生领袖</Personality.degreeDatas.Born_Leader.label>
   <!-- EN: {PAWN_nameDef} has been a leader since the first time {PAWN_pronoun} made a friend, people are drawn to {PAWN_objective} naturally. -->
   <Personality.degreeDatas.Born_Leader.description>{PAWN_nameDef}在{PAWN_pronoun}和人第一次做朋友的时候就展现出非凡的领袖天赋，人们总是喜欢自然而然的亲近{PAWN_objective}。</Personality.degreeDatas.Born_Leader.description>
-  
+
   <!-- EN: photophobic -->
   <Photophobia.degreeDatas.photophobic.label>惧光</Photophobia.degreeDatas.photophobic.label>
   <!-- EN: {PAWN_nameDef} has an aversion to light, prefering the safety of the dark. -->
   <Photophobia.degreeDatas.photophobic.description>{PAWN_nameDef}喜欢待在黑暗中，讨厌光亮的地方。</Photophobia.degreeDatas.photophobic.description>
-  
+
   <!-- EN: pragmatic -->
   <Pragmatist.degreeDatas.pragmatic.label>实用至上</Pragmatist.degreeDatas.pragmatic.label>
   <!-- EN: {PAWN_nameDef} is practical, and will cross any line if it serves {PAWN_objective} best. {PAWN_pronoun} isn't bothered by limiting moral choices, after all, {PAWN_pronoun} is just looking out for number 1. -->
   <Pragmatist.degreeDatas.pragmatic.description>{PAWN_nameDef}抱有极端的实用主义，为了{PAWN_objective}能达到目标甚至不择手段。{PAWN_pronoun}甚至没有什么明确的道德底线，{PAWN_pronoun}只想把一切做到最好。</Pragmatist.degreeDatas.pragmatic.description>
-  
+
   <!-- EN: pyrophobia -->
   <Pyrophobia.degreeDatas.pyrophobia.label>恐火症</Pyrophobia.degreeDatas.pyrophobia.label>
   <!-- EN: {PAWN_nameDef} hates fire. {PAWN_pronoun} will refuse to get close to fire to put it out. -->
   <Pyrophobia.degreeDatas.pyrophobia.description>{PAWN_nameDef}讨厌火焰。{PAWN_pronoun}完全拒接近或灭火。</Pyrophobia.degreeDatas.pyrophobia.description>
-  
+
   <!-- EN: reaver -->
   <Reaver.degreeDatas.reaver.label>格斗者</Reaver.degreeDatas.reaver.label>
   <!-- EN: {PAWN_nameDef} has displayed a natural affinity for melee weapons and abhors ranged. -->
   <Reaver.degreeDatas.reaver.description>{PAWN_nameDef}天生就喜欢近身作战，对所有远程武器都厌恶无比。</Reaver.degreeDatas.reaver.description>
-  
+
   <!-- EN: religious -->
   <Religious.degreeDatas.religious.label>虔诚</Religious.degreeDatas.religious.label>
   <!-- EN: {PAWN_nameDef} has found faith and peace of mind in {PAWN_possessive} religion and is more prepared for what may come than others. -->
   <Religious.degreeDatas.religious.description>{PAWN_nameDef}能够在{PAWN_possessive}宗教活动中追寻信仰和内心平静，所以也能比其他人更加平和的应对各种事务。</Religious.degreeDatas.religious.description>
-  
+
   <!-- EN: slow -->
   <Slow.degreeDatas.slow.label>缓慢</Slow.degreeDatas.slow.label>
   <!-- EN: {PAWN_nameDef} is abnormally slow. -->
   <Slow.degreeDatas.slow.description>{PAWN_nameDef}总是慢悠悠的。</Slow.degreeDatas.slow.description>
-  
+
   <!-- EN: Strong -->
   <Strong.degreeDatas.Strong.label>强壮</Strong.degreeDatas.Strong.label>
   <!-- EN: {PAWN_nameDef} is abnormally strong. -->
   <Strong.degreeDatas.Strong.description>{PAWN_nameDef}非常强壮。</Strong.degreeDatas.Strong.description>
-  
+
   <!-- EN: villian -->
   <Villian.degreeDatas.villian.label>恶棍</Villian.degreeDatas.villian.label>
   <!-- EN: {PAWN_nameDef} is the villian of this story. -->
   <Villian.degreeDatas.villian.description>{PAWN_nameDef}在故事中总是以恶棍的身份出场。</Villian.degreeDatas.villian.description>
-  
+
   <!-- EN: weak -->
   <Weak.degreeDatas.weak.label>柔弱</Weak.degreeDatas.weak.label>
   <!-- EN: {PAWN_nameDef} is exceptionally weak. -->
   <Weak.degreeDatas.weak.description>{PAWN_nameDef}十分柔弱。</Weak.degreeDatas.weak.description>
-  
+
 </LanguageData>

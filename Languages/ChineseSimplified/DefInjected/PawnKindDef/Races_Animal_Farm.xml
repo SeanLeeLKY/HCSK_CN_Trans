@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Alpaca -->
   <Alpaca.label>羊驼</Alpaca.label>
   <Alpaca.labelFemale>母羊驼</Alpaca.labelFemale>
@@ -26,7 +26,7 @@
   <Alpaca.lifeStages.2.labelMale>公羊驼</Alpaca.lifeStages.2.labelMale>
   <Alpaca.lifeStages.2.labelMalePlural>公羊驼</Alpaca.lifeStages.2.labelMalePlural>
   <Alpaca.lifeStages.2.labelPlural>羊驼</Alpaca.lifeStages.2.labelPlural>
-  
+
   <!-- EN: bison -->
   <Bison.label>野牛</Bison.label>
   <Bison.labelFemale>母野牛</Bison.labelFemale>
@@ -54,7 +54,7 @@
   <Bison.lifeStages.2.labelMale>公野牛</Bison.lifeStages.2.labelMale>
   <Bison.lifeStages.2.labelMalePlural>公野牛</Bison.lifeStages.2.labelMalePlural>
   <Bison.lifeStages.2.labelPlural>野牛</Bison.lifeStages.2.labelPlural>
-  
+
   <!-- EN: cow -->
   <Cow.label>牛</Cow.label>
   <!-- EN: cow -->
@@ -83,7 +83,7 @@
   <Cow.lifeStages.2.labelMale>公牛</Cow.lifeStages.2.labelMale>
   <Cow.lifeStages.2.labelMalePlural>公牛</Cow.lifeStages.2.labelMalePlural>
   <Cow.lifeStages.2.labelPlural>牛</Cow.lifeStages.2.labelPlural>
-  
+
   <!-- EN: donkey -->
   <Donkey.label>驴</Donkey.label>
   <Donkey.labelFemale>母驴</Donkey.labelFemale>
@@ -110,12 +110,12 @@
   <Donkey.lifeStages.2.labelMale>公驴</Donkey.lifeStages.2.labelMale>
   <Donkey.lifeStages.2.labelMalePlural>公驴</Donkey.lifeStages.2.labelMalePlural>
   <Donkey.lifeStages.2.labelPlural>驴</Donkey.lifeStages.2.labelPlural>
-  
+
   <!-- EN: goat -->
   <Goat.label>山羊</Goat.label>
   <!-- EN: goat doe -->
-  <Goat.labelFemale>goat doe</Goat.labelFemale>
-  <Goat.labelFemalePlural>goat does</Goat.labelFemalePlural>
+  <Goat.labelFemale>母山羊</Goat.labelFemale>
+  <Goat.labelFemalePlural>母山羊</Goat.labelFemalePlural>
   <Goat.labelMale>公山羊</Goat.labelMale>
   <Goat.labelMalePlural>公山羊</Goat.labelMalePlural>
   <Goat.labelPlural>山羊</Goat.labelPlural>
@@ -127,18 +127,18 @@
   <Goat.lifeStages.baby_goat.labelMalePlural>公山羊崽</Goat.lifeStages.baby_goat.labelMalePlural>
   <Goat.lifeStages.baby_goat.labelPlural>山羊崽</Goat.lifeStages.baby_goat.labelPlural>
   <Goat.lifeStages.1.label>山羊</Goat.lifeStages.1.label>
-  <Goat.lifeStages.1.labelFemale>goat doe</Goat.lifeStages.1.labelFemale>
+  <Goat.lifeStages.1.labelFemale>母山羊</Goat.lifeStages.1.labelFemale>
   <Goat.lifeStages.1.labelFemalePlural>母山羊</Goat.lifeStages.1.labelFemalePlural>
   <Goat.lifeStages.1.labelMale>公山羊</Goat.lifeStages.1.labelMale>
   <Goat.lifeStages.1.labelMalePlural>公山羊</Goat.lifeStages.1.labelMalePlural>
   <Goat.lifeStages.1.labelPlural>山羊</Goat.lifeStages.1.labelPlural>
   <Goat.lifeStages.2.label>山羊</Goat.lifeStages.2.label>
-  <Goat.lifeStages.2.labelFemale>goat doe</Goat.lifeStages.2.labelFemale>
+  <Goat.lifeStages.2.labelFemale>母山羊</Goat.lifeStages.2.labelFemale>
   <Goat.lifeStages.2.labelFemalePlural>母山羊</Goat.lifeStages.2.labelFemalePlural>
   <Goat.lifeStages.2.labelMale>公山羊</Goat.lifeStages.2.labelMale>
   <Goat.lifeStages.2.labelMalePlural>公山羊</Goat.lifeStages.2.labelMalePlural>
   <Goat.lifeStages.2.labelPlural>山羊</Goat.lifeStages.2.labelPlural>
-  
+
   <!-- EN: guinea pig -->
   <GuineaPig.label>豚鼠</GuineaPig.label>
   <GuineaPig.labelFemale>母豚鼠</GuineaPig.labelFemale>
@@ -164,7 +164,7 @@
   <GuineaPig.lifeStages.2.labelMale>公豚鼠</GuineaPig.lifeStages.2.labelMale>
   <GuineaPig.lifeStages.2.labelMalePlural>公豚鼠</GuineaPig.lifeStages.2.labelMalePlural>
   <GuineaPig.lifeStages.2.labelPlural>豚鼠</GuineaPig.lifeStages.2.labelPlural>
-  
+
   <!-- EN: pig -->
   <Pig.label>猪</Pig.label>
   <!-- EN: sow -->
@@ -192,7 +192,7 @@
   <Pig.lifeStages.2.labelMale>公猪</Pig.lifeStages.2.labelMale>
   <Pig.lifeStages.2.labelMalePlural>公猪</Pig.lifeStages.2.labelMalePlural>
   <Pig.lifeStages.2.labelPlural>猪</Pig.lifeStages.2.labelPlural>
-  
+
   <!-- EN: yak -->
   <Yak.label>牦牛</Yak.label>
   <Yak.labelFemale>母牦牛</Yak.labelFemale>
@@ -221,5 +221,5 @@
   <Yak.lifeStages.2.labelMale>牦牛</Yak.lifeStages.2.labelMale>
   <Yak.lifeStages.2.labelMalePlural>公牦牛</Yak.lifeStages.2.labelMalePlural>
   <Yak.lifeStages.2.labelPlural>牦牛</Yak.lifeStages.2.labelPlural>
-  
+
 </LanguageData>

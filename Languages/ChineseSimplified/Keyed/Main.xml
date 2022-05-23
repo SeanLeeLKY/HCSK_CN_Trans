@@ -247,9 +247,9 @@
 	<!-- EN: Delta:  -->
 	<DeltaTEG>增量：</DeltaTEG>
 	<!-- EN: Status: Working -->
-	<StatusWorking>状态: 运行中...</StatusWorking>
+	<StatusWorking>状态：运行中...</StatusWorking>
 	<!-- EN: Status: Cooling -->
-	<StatusCooling>状态: 冷却中...</StatusCooling>
+	<StatusCooling>状态：冷却中...</StatusCooling>
 
 
 	<!--  Subspace Burst Transponder  -->
@@ -270,7 +270,7 @@
 	<!-- EN: Scan progress:  -->
 	<MSScanProcess>扫描进度：</MSScanProcess>
 	<!-- EN: Current/max scan range:  -->
-	<MSScanRange>当前/最大 扫描半径：</MSScanRange>
+	<MSScanRange>当前/最大扫描半径：</MSScanRange>
 
 	<!--  Stargate  -->
 	<!-- EN: Add Resources -->
@@ -386,7 +386,7 @@
 	<!-- EN: Mount Lights -->
 	<ButtonMountLights>安装灯具</ButtonMountLights>
 	<!-- EN: Materials needed for this {0}:\n{1} -->
-	<StructureUpgradeText>{0}需要如下材料:\n{1}</StructureUpgradeText>
+	<StructureUpgradeText>{0}需要如下材料：\n{1}</StructureUpgradeText>
 	<!-- EN: Accept -->
 	<StructureAccept>同意</StructureAccept>
 	<!-- EN: Cancel -->
@@ -789,7 +789,7 @@
 	<!-- EN: Abomination! -->
 	<TheThingLabel>憎恶！</TheThingLabel>
 	<!-- EN:  transformed into a huge Abomination! That mysterious transmission dropped a mutated lifeform unto us! \n\nDestroy it before it slaughters all of the colonists! -->
-	<TheThingDesc>转变成了一个巨大的憎恶怪兽! 谁也不清楚是什么导致了突变。\n\n赶快消灭这个怪物，不然你的殖民者们都会被它撕成碎片。</TheThingDesc>
+	<TheThingDesc>转变成了一个巨大的憎恶怪兽!谁也不清楚是什么导致了突变。\n\n赶快消灭这个怪物，不然你的殖民者们都会被它撕成碎片。</TheThingDesc>
 
 	<!-- Zeon -->
 	<!-- EN: Zeon -->
@@ -906,7 +906,7 @@
 	<!-- EN: Eclipse Meteor -->
 	<LabelEM>陨星日蚀</LabelEM>
 	<!-- EN: This Eclipse isn't caused by a moon, it's a large meteor passing by! \nWatch out for its separated section and crashing debris! \n\nIt might have dropped precious metals! -->
-	<DescEM>本次日蚀的成因不是月亮，而是一颗过境的巨大陨星造成的！\n一定要当心这个陨星上掉下来的那些碎片！ \n\n当然，这些碎片里面也许会含有很多贵重元素。</DescEM>
+	<DescEM>本次日蚀的成因不是月亮，而是一颗过境的巨大陨星造成的！\n一定要当心这个陨星上掉下来的那些碎片！\n\n当然，这些碎片里面也许会含有很多贵重元素。</DescEM>
 
 	<!-- Hungry Carnivores -->
 	<!-- EN: Hungry Carnivores Arrived -->
@@ -962,7 +962,7 @@
 	<!-- EN: got through the radiation and is struggling to help the other colonists -->
 	<DescCR>熬过了强辐射，正努力帮助其他殖民者</DescCR>
 	<!-- EN: Too much radiation from the solar flare has triggered cosmic radiation upon the humans within the area. \n\nEverybody feels nauseous, younger people may have fared well but the older ones are feeling ill and needs rest. -->
-	<DescHCR>来自太阳的过量耀斑辐射已经开始影响本区域的人类生物了。 \n\n每个人都感到焦虑、紧张，而且，这种情况在老年人身上更加明显，他们需要更多的休养。</DescHCR>
+	<DescHCR>来自太阳的过量耀斑辐射已经开始影响本区域的人类生物了。\n\n每个人都感到焦虑、紧张，而且，这种情况在老年人身上更加明显，他们需要更多的休养。</DescHCR>
 
 	<!-- Nuclear Fallout -->
 	<!-- EN: Nuclear Fallout -->
@@ -1022,7 +1022,7 @@
 	<!-- EN: A prisoner has committed suicide shortly after asking a Colonist: "Where are my meals? I need nourishment! Muffalo meat or something! GIVE ME FOOD!" -->
 	<DescSuicide_C>一名囚犯在问殖民者：“我的食物在哪里？我需要营养！雪牛肉什么的都行！我要食物！”，之后不久就自杀了。</DescSuicide_C>
 	<!-- EN: A prisoner who was found dead had kept a diary with multiple entries. It reads: "A rough cough. I feel cold and hot. I caught something, a flu maybe? No ventilation in here. Cough getting worse. My mouth is dry, it tastes like rust*blood splatter covers some words*rible. I see people sometimes, they promised me a future. To think I even liked it! I was promised food, a good bed and could one day use my skills again. I believed that, but not anymore. I need*blood splatter covers more words* worth a try. -->
-	<DescSuicide_D>一名被发现死亡的囚犯曾写过一本有多项记录的日记。上面写着:“剧烈咳嗽。我觉得又冷又热。我得了什么，也许是流感?这里不通风。咳嗽越来越严重。口干舌燥，尝起来像铁锈”鲜血飞溅覆盖了一些文字。“我有时见到一些人，他们承诺给我一个未来。想想我甚至喜欢它！他们答应给我食物，一张好床，而且有一天我还能再次使用我的技能。我相信，但不再相信了。我需要*血迹覆盖更多的话*值得一试”。</DescSuicide_D>
+	<DescSuicide_D>一名被发现死亡的囚犯曾写过一本有多项记录的日记。上面写着：“剧烈咳嗽。我觉得又冷又热。我得了什么，也许是流感?这里不通风。咳嗽越来越严重。口干舌燥，尝起来像铁锈”鲜血飞溅覆盖了一些文字。“我有时见到一些人，他们承诺给我一个未来。想想我甚至喜欢它！他们答应给我食物，一张好床，而且有一天我还能再次使用我的技能。我相信，但不再相信了。我需要*血迹覆盖更多的话*值得一试”。</DescSuicide_D>
 	<!-- EN: A prisoner was found deceased under the bed. A small note was crumpled up nearby. It angrily reads: "They wanted to operate on me! They were going to harvest me for organs! These people are crazies! YOU WON'T HARVEST ME ALIVE! I WON'T LET YOU! -->
 	<DescSuicide_E>一名囚犯被发现死在床下。旁边有一张小纸条揉成一团。上面愤怒地写道：“他们想给我做手术！”他们要收割我的器官！这些人都是疯子！你们不会得逞的！我不会让你得逞的！</DescSuicide_E>
 	<!-- EN: A prisoner has succumbed. A quick look at the body shows signs of infection and gangrene in hidden areas. The pain must have be extruciating. -->
@@ -1032,7 +1032,7 @@
 	<!-- EN: One of your prisoners suddenly couldn't stand up. The doctor's first thought was that the prisoner's psyche was tender, overwhelmed by the anxiety and depression from imprisonment. Then the prisoner suddenly died! Upon the autopsy examination, a long fat stick was found up the prisoner's rear and had gouged the intestines. What an unfortunate circumstance. -->
 	<DescSuicide_H>你的一个囚犯突然站不起来了。医生首先想到的是，囚犯的心理很脆弱，被监禁带来的焦虑和抑郁压垮了。然后囚犯突然死亡！经过尸检，在犯人的屁股上发现了一根又长又粗的棍子，把他的肠子凿开了。真不幸！</DescSuicide_H>
 	<!-- EN: A prisoner has died under mysterious circumstances. The body was found in the fetal position with its hands covering its eyes. The prisoner seems to have choked when it swallowed its own tongue. -->
-	<DescSuicide_I>一名囚犯神秘死亡。尸体被发现时是蜷缩成一团的姿势，用双手蒙住眼睛。囚犯似乎已经窒息,因为这家伙在试图吞下自己舌头的时候噎住了。</DescSuicide_I>
+	<DescSuicide_I>一名囚犯神秘死亡。尸体被发现时是蜷缩成一团的姿势，用双手蒙住眼睛。囚犯似乎已经窒息，因为这家伙在试图吞下自己舌头的时候噎住了。</DescSuicide_I>
 	<!-- EN: A prisoner has died under mysterious circumstances. A quick inspection of the body tells the tale. The prisoner seems to have tried hanging itself with a boot lace, but the lace broke. The prisoner then tried to gnaw off the door handle, as indicated by the bloody bite marks on the door. Failing that the prisoner swallowed part of the boot, where it got lodged in the throat and the prisoner suffocated. -->
 	<DescSuicide_J>一名囚犯神秘死亡。对尸体的快速检查还原了当时的部分情况：囚犯似乎试图用鞋带上吊，但鞋带断了。然后，从门上血迹斑斑的咬痕可以看出，囚犯曾经试图咬掉门把手，但是也没有成功，然后，犯人吞下了靴子的一部分，结果靴子卡在喉咙里，犯人窒息而死。</DescSuicide_J>
 	<!-- EN: The prisoner died under mysterious circumstances. A medical summary paper was found nearby. It reads: "Patient has distemper, intestinal ticks and show signs of being in a delirious state. Patient has tried to eat it's own feet and hands. I recommend isolating the patient and attempting experimental procedures. It might have lupus." -->
@@ -1074,7 +1074,7 @@
 
 	<!-- Lightning Rod -->
 	<!-- EN: Cannot change mode now, rod still discharging. -->
-	<RL_CannotChangeMod>无法改变模式, 针体仍然在放电。</RL_CannotChangeMod>
+	<RL_CannotChangeMod>无法改变模式，针体仍然在放电。</RL_CannotChangeMod>
 	<!-- EN: Change Mode -->
 	<RL_ChangeMode>改变模式</RL_ChangeMode>
 	<!-- EN: Power saving mode(Click to change modes): Does not consume power when idle, outputs a lot of power when struck, but only has a -->
@@ -1084,11 +1084,11 @@
 	<!-- EN: slower -->
 	<RL_Slower>减缓</RL_Slower>
 	<!-- EN: Normal mode(Click to change modes): Consumes a bit of power when idle, outputs enough power to sustain itself in a storm and has a 100% chance to attract a lightning bolt. Can attract lightning at a -->
-	<RL_NormalMode>普通模式（点击改变模式）：空闲时消耗少量能源，能够在风暴中输出足够的能量来维持自身，并有100%的几率吸引到闪电。 有</RL_NormalMode>
+	<RL_NormalMode>普通模式（点击改变模式）：空闲时消耗少量能源，能够在风暴中输出足够的能量来维持自身，并有100%的几率吸引到闪电。有</RL_NormalMode>
 	<!-- EN: chance when overwhelmed. -->
 	<RL_ChanceOverwhelmed>的几率在被覆盖时吸引到闪电。</RL_ChanceOverwhelmed>
 	<!-- EN: Fast cooldown mode(Click to change modes): Cools down 4x faster than normal but consumes triple the amount of power. Has a 100% chance to attract a lightning bolt. Can attract lightning at a -->
-	<RL_FastCooldown>快速冷却模式（点击改变模式）：消耗3倍于普通模式的电量来达到4倍的冷却速度。100% 的几率吸引到闪电。有</RL_FastCooldown>
+	<RL_FastCooldown>快速冷却模式（点击改变模式）：消耗3倍于普通模式的电量来达到4倍的冷却速度。100%的几率吸引到闪电。有</RL_FastCooldown>
 	<!-- EN: Cooldown -->
 	<RL_Cooldown>冷却</RL_Cooldown>
 	<!-- EN: Standby. -->
@@ -1232,9 +1232,9 @@
 	<!-- EN: Waiting for patient. -->
 	<Waitingforpatient>等待病人。</Waitingforpatient>
 	<!-- EN: Scanning... Total Progress:  -->
-	<ScanningTotalProgress>扫描中... 全程进度：</ScanningTotalProgress>
+	<ScanningTotalProgress>扫描中...全程进度：</ScanningTotalProgress>
 	<!-- EN: Treating... Total Progress:  -->
-	<TreatingTotalProgress>治疗中... 全程进度：</TreatingTotalProgress>
+	<TreatingTotalProgress>治疗中...全程进度：</TreatingTotalProgress>
 	<!-- EN: Dermal Regenerator in use. -->
 	<DermalRegeneratorInUse>皮肤再生仪使用中。</DermalRegeneratorInUse>
 	<!-- EN: Dermal Regenerator doesnt have power. -->
@@ -1391,7 +1391,7 @@
 	<!-- EN: Strip Miner -->
 	<StripMinerLabel>矿道笔刷</StripMinerLabel>
 	<!-- EN: Drag an area to strip mine. Use 8,4,5,6 on your !NUMBLOCK! to change spacing between strips. -->
-	<StripMinerDesc>拖拽一个区域来开采矿道。使用小键盘上的「8,4,5,6」来改变间隔和距离。</StripMinerDesc>
+	<StripMinerDesc>拖拽一个区域来开采矿道。使用小键盘上的「8，4，5，6」来改变间隔和距离。</StripMinerDesc>
 	<!-- EN: Vein Miner -->
 	<VeinMinerLabel>矿脉笔刷</VeinMinerLabel>
 	<!-- EN: Click on a visible ore and you will mine the whole vein. -->
@@ -1461,7 +1461,7 @@
 
 	<!-- Terraformer -->
 	<!-- EN: ### Study report ###\n\nStudy subject: strange mechanoid artifact\n\n- Artifact location:  -->
-	<studyreport>### 研究报告 ###\n\n研究项目：奇怪的机械族设施\n\n——目标位置:</studyreport>
+	<studyreport>### 研究报告 ###\n\n研究项目：奇怪的机械族设施\n\n——目标位置：</studyreport>
 	<!-- EN: \n- Observations:\n  1. the artifact has deployed underground foundations.\n  2. some pylons have been erected near the main structure.\n  3. the artifact seems to generate powerful artificial thunderstorms.\n\n- Deductions:\n  1. this device appears to be a mechanoid terraformer.\n  2. its purpose is to re-shape the surface of this planet to prepare a large-scale invasion.\n\n- Recommandations:\n  1. proceed with *extreme* caution when attempting anything on the artifact!\n  2. deactivating the onboard beacon should be a priority to avoid future invasion.\n  3. consider re-routing the power generated during artificial thunderstorms.\n  4. further research may allow us to take advantage of those artificial thunderstorms.\n -->
 	<observation>\n——观察结果：\n1.设施被部署位置有部分位于地下的不可视部分，共同组成设置地基。\n2.主体建筑物周围环绕有数个类似节点的装置。\n3.这个建筑物似乎能生成人造闪电风暴。\n\n——演绎推论：\n1.这个设施很有可能是机械族的某种转化装置。\n2.这个装置的功能是重塑星球地表形态，以便于大批量投放机械族部队。\n\n——处理建议：\n1.当对这个设施进行下一步行动的时候要***「极度谨慎！」***。\n2.关闭设施顶部的信标装置应该能切断与机械族的联系，可以终止未来的的大批量投放行动。\n3.可以考虑将设施制造的闪电风暴能量重定向到我们的电力网络。\n4.对设施进行深层次的研究将使我们对于人工制造闪电风暴拥有更多的理解。\n</observation>
 	<!-- EN: Study report -->
@@ -1742,7 +1742,7 @@ They seem accustomed to human contact and are joining the colony. -->
 	<!-- EN: Refugee chased at {0} -->
 	<RefugeeChasedTitle>位于{0}被追捕的难民</RefugeeChasedTitle>
 	<!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} calls you from nearby. {PAWN_pronoun} is being chased by {2} from {3}!\n\n{PAWN_pronoun} begs for safety and offers to join your colony. {PAWN_pronoun} tells you {PAWN_pronoun} is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on {PAWN_possessive} tail. Their group is composed of:\n\n{5} -->
-	<RefugeeChasedInitial>附近一位名叫{PAWN_nameDef}的{PAWN_titleIndef}发来求救信号。{PAWN_pronoun}说自己正被来自{3}的{2}追捕！\n\n{PAWN_pronoun}祈求得到保护并想加入你的殖民地。因为情况紧急时间有限，{PAWN_pronoun}只来得及向你透露{PAWN_pronoun}大约{4}岁。\n\n警告：如果你接受请求， 你将要对抗追捕{PAWN_possessive}的{2}。敌人的队伍构成为：\n\n{5}</RefugeeChasedInitial>
+	<RefugeeChasedInitial>附近一位名叫{PAWN_nameDef}的{PAWN_titleIndef}发来求救信号。{PAWN_pronoun}说自己正被来自{3}的{2}追捕！\n\n{PAWN_pronoun}祈求得到保护并想加入你的殖民地。因为情况紧急时间有限，{PAWN_pronoun}只来得及向你透露{PAWN_pronoun}大约{4}岁。\n\n警告：如果你接受请求，你将要对抗追捕{PAWN_possessive}的{2}。敌人的队伍构成为：\n\n{5}</RefugeeChasedInitial>
 	<!-- EN: Offer safety -->
 	<RefugeeChasedInitial_Accept>提供保护</RefugeeChasedInitial_Accept>
 	<!-- EN: Ignore the message -->

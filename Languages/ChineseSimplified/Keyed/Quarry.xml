@@ -1,80 +1,80 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	
-	<!-- EN: Quarry -->
+
+  <!-- EN: Quarry -->
   <QRY_Quarry>采石场</QRY_Quarry>
-	<!-- EN: Number of mining operations -->
+  <!-- EN: Number of mining operations -->
   <QRY_SettingsDepletionPercent>采矿作业数量</QRY_SettingsDepletionPercent>
-	<!-- EN: Junk chance(includes chunks): <b><color=orange>{0}%</color></b> -->
+  <!-- EN: Junk chance(includes chunks): <b><color=orange>{0}%</color></b> -->
   <QRY_SettingsJunkChance>废物几率（包括块堆）：{0}%</QRY_SettingsJunkChance>
-	<!-- EN: Chunk chance: <b><color=orange>{0}%</color></b> -->
+  <!-- EN: Chunk chance: <b><color=orange>{0}%</color></b> -->
   <QRY_SettingsChunkChance>块堆几率：{0}%</QRY_SettingsChunkChance>
-	<!-- EN: <b><color=orange>{0}</color></b> mining operations before quarry is unusable -->
+  <!-- EN: <b><color=orange>{0}</color></b> mining operations before quarry is unusable -->
   <QRY_DepletionLabel>在采石场失效前可以开采的次数：{0}</QRY_DepletionLabel>
-	<!-- EN: Mineable Items and Chances -->
+  <!-- EN: Mineable Items and Chances -->
   <QRY_DictionaryLabel>可开采的物品及几率</QRY_DictionaryLabel>
-	
-	<!-- EN: Select whether or not the soil reclamation letter has already been sent. If false, the letter will be sent the first time a quarry is deconstructed. -->
+
+  <!-- EN: Select whether or not the soil reclamation letter has already been sent. If false, the letter will be sent the first time a quarry is deconstructed. -->
   <QRY_TooltipLetter>选择是否发送回填土壤信息。如果禁用，信息将只在采石场被拆除时发送。</QRY_TooltipLetter>
-	<!-- EN: Chance to get junk. If junk is not mined, a random resource will be mined. -->
+  <!-- EN: Chance to get junk. If junk is not mined, a random resource will be mined. -->
   <QRY_TooltipJunkChance>挖到废物的几率。如果没有挖到废物，将会随机获得一样资源。</QRY_TooltipJunkChance>
-	<!-- EN: Chance to get a chunk. If junk is mined, this is the chance to get chunks instead of rubble.\n\nMining blocks uses chunk chance to determine whether a sufficient amount of stone was mined to make blocks -->
+  <!-- EN: Chance to get a chunk. If junk is mined, this is the chance to get chunks instead of rubble.\n\nMining blocks uses chunk chance to determine whether a sufficient amount of stone was mined to make blocks -->
   <QRY_TooltipChunkChance>挖到块堆的几率。这是当挖到废物时，获得块堆代替碎石块的几率。\n\n挖掘块堆将使用块堆几率来决定是否开采了足够的石头。</QRY_TooltipChunkChance>
-	
-	<!-- EN: Hauling mode -->
+
+  <!-- EN: Hauling mode -->
   <QRY_LabelHaulMode>搬运模式</QRY_LabelHaulMode>
-	<!-- EN: Haul mined items. -->
+  <!-- EN: Haul mined items. -->
   <QRY_Haul>搬运开采物。</QRY_Haul>
-	<!-- EN: Ignore mined items. -->
+  <!-- EN: Ignore mined items. -->
   <QRY_NotHaul>忽略开采物。</QRY_NotHaul>
 
-	<!-- EN: Quarry Resources -->
+  <!-- EN: Quarry Resources -->
   <QRY_LabelMineResources>挖掘资源</QRY_LabelMineResources>
-	<!-- EN: Designate the quarry to be mined for resources. Click to switch to block mode. -->
+  <!-- EN: Designate the quarry to be mined for resources. Click to switch to block mode. -->
   <QRY_DescriptionMineResources>指定采石场用于采掘资源。点击切换到凿块模式。</QRY_DescriptionMineResources>
 
-	<!-- EN: Chisel Blocks -->
+  <!-- EN: Chisel Blocks -->
   <QRY_LabelMineBlocks>凿取块堆</QRY_LabelMineBlocks>
-	<!-- EN: Designate the quarry to be mined for blocks. Click to switch to resource mode. -->
+  <!-- EN: Designate the quarry to be mined for blocks. Click to switch to resource mode. -->
   <QRY_DescriptionMineBlocks>指定采石场用于凿取岩块。点击切换到资源模式。</QRY_DescriptionMineBlocks>
 
-	<!-- EN: The quarry needs to be built in an area with more unquarried stone -->
+  <!-- EN: The quarry needs to be built in an area with more unquarried stone -->
   <QRY_ReportNotEnoughStone>采石场需要建设在有更多可开采石头的区域。</QRY_ReportNotEnoughStone>
-	<!-- EN: Quarry percent -->
+  <!-- EN: Quarry percent -->
   <QRY_InspectQuarryPercent>采掘比率</QRY_InspectQuarryPercent>
-	<!-- EN: Set owner -->
+  <!-- EN: Set owner -->
   <QRY_CommandBedSetOwnerLabel>设置使用者</QRY_CommandBedSetOwnerLabel>
-	<!-- EN: Assign this quarry to only be mined by certain colonists. -->
+  <!-- EN: Assign this quarry to only be mined by certain colonists. -->
   <QRY_CommandSetOwnerDesc>指定这个采石场只由特定的殖民者开采。</QRY_CommandSetOwnerDesc>
-	<!-- EN: Requires stonecutting research. -->
+  <!-- EN: Requires stonecutting research. -->
   <QRY_ReportGizmoLackingResearch>设置是否需要「岩石切割」科技。</QRY_ReportGizmoLackingResearch>
-	
-	<!-- EN: Large vein! -->
+
+  <!-- EN: Large vein! -->
   <QRY_TextMote_LargeVein>巨大收获！</QRY_TextMote_LargeVein>
-	<!-- EN: Failure... -->
+  <!-- EN: Failure... -->
   <QRY_TextMote_MiningFailed>什么都没有...</QRY_TextMote_MiningFailed>
-	
-	<!-- EN: Soil reclamation letter sent -->
+
+  <!-- EN: Soil reclamation letter sent -->
   <QRY_LetterSentQuery>土壤回填信息发送</QRY_LetterSentQuery>
-	<!-- EN: Reclaim soil -->
+  <!-- EN: Reclaim soil -->
   <QRY_LetterLabel>回填土壤</QRY_LetterLabel>
-	<!-- EN: Once the quarry has been deconstructed, you can designate colonists to cover the old ground with soil in order to get a usable terrain where the quarry once was. Use the Reclaim Soil command to designate an area for reclaiming. -->
-  <QRY_LetterText>一旦采石场被拆除,你可以指定殖民者们用土壤覆盖采石场留下的不可用地区,以便获得可用土地。使用「回填土壤」命令来指定回填区域。</QRY_LetterText>
-	<!-- EN: Reclaim Soil -->
+  <!-- EN: Once the quarry has been deconstructed, you can designate colonists to cover the old ground with soil in order to get a usable terrain where the quarry once was. Use the Reclaim Soil command to designate an area for reclaiming. -->
+  <QRY_LetterText>一旦采石场被拆除，你可以指定殖民者们用土壤覆盖采石场留下的不可用地区，以便获得可用土地。使用「回填土壤」命令来指定回填区域。</QRY_LetterText>
+  <!-- EN: Reclaim Soil -->
   <QRY_LabelReclaimSoil>回填土壤</QRY_LabelReclaimSoil>
-	<!-- EN: Turn loose stone terrain from a quarry into usable soil terrain. -->
+  <!-- EN: Turn loose stone terrain from a quarry into usable soil terrain. -->
   <QRY_DescriptionReclaimSoil>将因拆除采石场而留下的不可用石坑回填成为可用土地。</QRY_DescriptionReclaimSoil>
-	<!-- EN: Must designate quarried ground. -->
+  <!-- EN: Must designate quarried ground. -->
   <QRY_MessageMustDesignateQuarriedGround>必须指定采掘过的地面。</QRY_MessageMustDesignateQuarriedGround>
 
-	<!-- EN: Add to list -->
+  <!-- EN: Add to list -->
   <QRY_LabelAddThing>添加到列表</QRY_LabelAddThing>
-	<!-- EN: Remove from list -->
+  <!-- EN: Remove from list -->
   <QRY_LabelRemoveThing>从列表移除</QRY_LabelRemoveThing>
-	<!-- EN: Reset list -->
+  <!-- EN: Reset list -->
   <QRY_LabelResetList>重置列表</QRY_LabelResetList>
-	
-	<!-- EN: Shifting rocks in the quarry have injured {0}. -->
+
+  <!-- EN: Shifting rocks in the quarry have injured {0}. -->
   <QRY_MessageSinkhole>松散滑动的石块砸伤了{0}。</QRY_MessageSinkhole>
 
 </LanguageData>

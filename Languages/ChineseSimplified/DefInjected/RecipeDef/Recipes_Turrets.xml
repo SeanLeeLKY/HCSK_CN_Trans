@@ -53,7 +53,7 @@
   <!-- EN: Build 145x114mm Sentry heavy crate -->
   <BuildHeavyTurret_Crate.label>制作14.5mm重型哨戒机枪组件箱</BuildHeavyTurret_Crate.label>
   <!-- EN: Use this to build a laser turret, a type of unmanned automatic turret. It requires power to function. -->
-  <BuildHeavyTurret_Crate.description>用于建造14.5mm重型哨戒机枪炮塔, 可以自动攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildHeavyTurret_Crate.description>
+  <BuildHeavyTurret_Crate.description>用于建造14.5mm重型哨戒机枪炮塔， 可以自动攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildHeavyTurret_Crate.description>
   <!-- EN: Building Sentry heavy crate. -->
   <BuildHeavyTurret_Crate.jobString>正在制作14.5mm重型哨戒机枪组件箱。</BuildHeavyTurret_Crate.jobString>
 
@@ -74,7 +74,7 @@
   <!-- EN: Build Laser Turret crate -->
   <BuildLaserTurret_Crate.label>制作光束炮塔组件箱</BuildLaserTurret_Crate.label>
   <!-- EN: Use this to build a Laser Turret, a type of unmanned automatic turret. It requires power to function. -->
-  <BuildLaserTurret_Crate.description>用于建造光束炮塔, 可以自行攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildLaserTurret_Crate.description>
+  <BuildLaserTurret_Crate.description>用于建造光束炮塔， 可以自行攻击附近的敌人。 需要充足的电力来保证其正常运转。</BuildLaserTurret_Crate.description>
   <!-- EN: Building Laser Turret crate -->
   <BuildLaserTurret_Crate.jobString>正在制作光束炮塔组件箱</BuildLaserTurret_Crate.jobString>
 
@@ -144,21 +144,21 @@
   <!-- EN: Build 6x24mm Sentry blaster crate -->
   <BuildSentryBlasterTurret_Crate.label>制作自动哨戒炮塔组件箱</BuildSentryBlasterTurret_Crate.label>
   <!-- EN: Use this to build a sentry blaster turret crate, a type of automatic turrets. Requires power to function. -->
-  <BuildSentryBlasterTurret_Crate.description>用于建造自动哨戒炮塔, 可以自行攻击附近的敌人。需要充足的电力来保证其正常运转。</BuildSentryBlasterTurret_Crate.description>
+  <BuildSentryBlasterTurret_Crate.description>用于建造自动哨戒炮塔， 可以自行攻击附近的敌人。需要充足的电力来保证其正常运转。</BuildSentryBlasterTurret_Crate.description>
   <!-- EN: Building 6x24mm Sentry blaster crate. -->
   <BuildSentryBlasterTurret_Crate.jobString>正在制作自动哨戒炮塔组件箱。</BuildSentryBlasterTurret_Crate.jobString>
 
   <!-- EN: Build AT missile Sentry rocket launcher crate -->
   <BuildSentryRocketLauncher_Crate.label>制作反坦克哨戒火箭发射系统组件箱</BuildSentryRocketLauncher_Crate.label>
   <!-- EN: Use this to build an Sentry rocket launcher, a type of stationary unmanned turret. -->
-  <BuildSentryRocketLauncher_Crate.description>用于建造哨戒火箭发射器, 可以自行攻击附近的敌人。</BuildSentryRocketLauncher_Crate.description>
+  <BuildSentryRocketLauncher_Crate.description>用于建造哨戒火箭发射器， 可以自行攻击附近的敌人。</BuildSentryRocketLauncher_Crate.description>
   <!-- EN: Building AT missile Sentry rocket launcher crate. -->
   <BuildSentryRocketLauncher_Crate.jobString>正在制作反坦克哨戒火箭发射系统组件箱。</BuildSentryRocketLauncher_Crate.jobString>
 
   <!-- EN: Build 5.56x45mm NATO Sentry light crate -->
   <BuildSentryTurret_Crate.label>制作轻型哨戒机枪组件箱</BuildSentryTurret_Crate.label>
   <!-- EN: Use this to build an automated sentry light turret, a type of stationary automatic turret. It requires power to function. -->
-  <BuildSentryTurret_Crate.description>用于建造轻型哨戒炮塔, 可以自动攻击附近的敌人。需要充足的电力来保证其正常运转。</BuildSentryTurret_Crate.description>
+  <BuildSentryTurret_Crate.description>用于建造轻型哨戒炮塔， 可以自动攻击附近的敌人。需要充足的电力来保证其正常运转。</BuildSentryTurret_Crate.description>
   <!-- EN: Building 5.56x45mm NATO Sentry light crate. -->
   <BuildSentryTurret_Crate.jobString>正在制作轻型哨戒机枪组件箱。</BuildSentryTurret_Crate.jobString>
 

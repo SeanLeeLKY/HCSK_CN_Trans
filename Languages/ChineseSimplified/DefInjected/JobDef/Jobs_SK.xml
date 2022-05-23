@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Beating fire out -->
   <BeatFireWithTool.reportString>灭火</BeatFireWithTool.reportString>
-  
+
   <!-- EN: Going coloring station. -->
   <ColorChanger.reportString>前往颜色工作台</ColorChanger.reportString>
-  
+
   <!-- EN: Going styling station. -->
   <HSC.reportString>前往造型工作台</HSC.reportString>
-  
+
   <!-- EN: hunting TargetA. -->
-  <HuntAndLeave.reportString>猎捕 TargetA。</HuntAndLeave.reportString>
-  
+  <HuntAndLeave.reportString>猎捕TargetA。</HuntAndLeave.reportString>
+
   <!-- EN: Studying ancient artifact. -->
   <JobDef_StudyAncientStargate.reportString>研究古代人造物。</JobDef_StudyAncientStargate.reportString>
-  
+
   <!-- EN: Going to locker. -->
   <LockerBasic.reportString>前往衣柜</LockerBasic.reportString>
-  
+
   <!-- EN: Locking/Unlocking doors. -->
-  <LockingDoorBasic.reportString>锁闭/解锁 门。</LockingDoorBasic.reportString>
-  
+  <LockingDoorBasic.reportString>锁闭/解锁门。</LockingDoorBasic.reportString>
+
   <!-- EN: Mending TargetB. -->
-  <Mend.reportString>修理 TargetB。</Mend.reportString>
-  
+  <Mend.reportString>修理TargetB。</Mend.reportString>
+
   <!-- EN: Recycling TargetB. -->
-  <Recycle.reportString>回收 TargetB。</Recycle.reportString>
-  
+  <Recycle.reportString>回收TargetB。</Recycle.reportString>
+
   <!-- EN: Doing something. -->
   <RefuelBurner.reportString>做事。</RefuelBurner.reportString>
-  
+
   <!-- EN: Tending to {0} -->
-  <TendPawnOnGround.reportString>照料 {0}</TendPawnOnGround.reportString>
-  
+  <TendPawnOnGround.reportString>照料{0}</TendPawnOnGround.reportString>
+
   <!-- EN: using signal fire. -->
   <UseSignalFire.reportString>使用信号弹。</UseSignalFire.reportString>
-  
+
   <!-- EN: Watching movies. -->
   <WatchGlassTelevision.reportString>看电影。</WatchGlassTelevision.reportString>
-  
+
 </LanguageData>

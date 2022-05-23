@@ -4,7 +4,7 @@
   <!-- EN: Smelt alnico alloy -->
   <MakeAlnicoAlloy.label>提炼亚力可合金</MakeAlnicoAlloy.label>
   <!-- EN: Smelts alnico, an alloy of steel, nickel, aluminum and cobalt. Alnico is used in the creation of strong permanent magnets, and can be magnetised to produce strong magnetic fields. Produces 20. -->
-  <MakeAlnicoAlloy.description>提炼亚力可合金, 一种由铁、镍、铝、钴组成的合金。亚力可合金一般用于制造超强永磁体，这种材料可以强化磁体的磁场。 \n\n产出：20</MakeAlnicoAlloy.description>
+  <MakeAlnicoAlloy.description>提炼亚力可合金， 一种由铁、镍、铝、钴组成的合金。亚力可合金一般用于制造超强永磁体，这种材料可以强化磁体的磁场。 \n\n产出：20</MakeAlnicoAlloy.description>
   <!-- EN: Smelting alnico alloy. -->
   <MakeAlnicoAlloy.jobString>正在提炼亚力可合金。</MakeAlnicoAlloy.jobString>
 
@@ -116,14 +116,14 @@
   <!-- EN: Smelt nitinol alloy -->
   <MakeNitinolAlloy.label>提炼镍钛合金</MakeNitinolAlloy.label>
   <!-- EN: Smelts nitinol, an alloy of nickel and titanium. It is exceptionally durable, somewhat beautiful and difficult to make. Produces 15. -->
-  <MakeNitinolAlloy.description>提炼镍钛合金, 一种镍和钛的合金。它十分耐用，而且光泽色彩也很漂亮，但是制作流程非常复杂。 \n\n产出：15</MakeNitinolAlloy.description>
+  <MakeNitinolAlloy.description>提炼镍钛合金， 一种镍和钛的合金。它十分耐用，而且光泽色彩也很漂亮，但是制作流程非常复杂。 \n\n产出：15</MakeNitinolAlloy.description>
   <!-- EN: Smelting nitinol alloy. -->
   <MakeNitinolAlloy.jobString>正在提炼镍钛合金。</MakeNitinolAlloy.jobString>
 
   <!-- EN: Smelt pobedite alloy -->
   <MakePobediteAlloy.label>提炼钨钴合金</MakePobediteAlloy.label>
   <!-- EN: Smelts pobedite, an alloy of carbon fiber, tungsten and cobalt. This composite alloy possesses a particularly high hardness. Produces 10. -->
-  <MakePobediteAlloy.description>提炼钨钴合金, 一种由碳纤维、钨和钴组成的合金。这种复合合金具有极高的硬度。 \n\n产出：10</MakePobediteAlloy.description>
+  <MakePobediteAlloy.description>提炼钨钴合金， 一种由碳纤维、钨和钴组成的合金。这种复合合金具有极高的硬度。 \n\n产出：10</MakePobediteAlloy.description>
   <!-- EN: Smelting pobedite alloy. -->
   <MakePobediteAlloy.jobString>正在提炼钨钴合金。</MakePobediteAlloy.jobString>
 

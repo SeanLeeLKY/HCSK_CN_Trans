@@ -13,7 +13,7 @@
   <!-- EN: An unusual cold snap is freezing the region. -->
   <ColdSnap.description>一股罕见的寒流正在冻结这片区域。</ColdSnap.description>
   <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
-  <ColdSnap.descriptionFuture>一股冷空气前锋将会在[map_definite]周围持续[gameConditionDuration_duration]， 它将会对无防护的生物和作物造成伤害。</ColdSnap.descriptionFuture>
+  <ColdSnap.descriptionFuture>一股冷空气前锋将会在[map_definite]周围持续[gameConditionDuration_duration]，它将会对无防护的生物和作物造成伤害。</ColdSnap.descriptionFuture>
   <!-- EN: The cold snap is over. -->
   <ColdSnap.endMessage>寒流结束了。</ColdSnap.endMessage>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
@@ -166,7 +166,7 @@
   <!-- EN: toxic weather -->
   <ToxicWeather.label>毒雨</ToxicWeather.label>
   <!-- EN: Toxic rain due to toxic emissions from some distant source is falling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will may corrode. -->
-  <ToxicWeather.description>由于来自某些遥远源头的有毒物质排放而导致大气循环产生的有毒云层正在整个区域内造成毒性降水。 任何不在屋檐下的生物都会被缓慢毒化，留在室外的物品可能会加速腐蚀。</ToxicWeather.description>
+  <ToxicWeather.description>由于来自某些遥远源头的有毒物质排放而导致大气循环产生的有毒云层正在整个区域内造成毒性降水。任何不在屋檐下的生物都会被缓慢毒化，留在室外的物品可能会加速腐蚀。</ToxicWeather.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
   <ToxicWeather.descriptionFuture>一片有毒尘埃将在[gameConditionDuration_duration]内持续笼罩[map_definite]地区，它将杀死所有还在户外的动植物。</ToxicWeather.descriptionFuture>
   <!-- EN: The worst of the toxic rain has finished. -->
