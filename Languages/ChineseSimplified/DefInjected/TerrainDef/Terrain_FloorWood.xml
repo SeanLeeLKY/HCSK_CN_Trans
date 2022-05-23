@@ -1,104 +1,104 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Bamboo panels -->
   <BambooFloor.label>竹片板</BambooFloor.label>
   <!-- EN: Bamboo panels.\nBeauty: 3. -->
   <BambooFloor.description>竹片风格。\n美观度：3。</BambooFloor.description>
-  
+
   <!-- EN: Bamboo Floor -->
   <BambooFloorB.label>竹地板</BambooFloorB.label>
   <!-- EN: Woven bamboo flooring.\nBeauty: 3. -->
   <BambooFloorB.description>编织竹地板。\n美观度：3。</BambooFloorB.description>
-  
+
   <!-- EN: Polished bamboo  -->
   <BambooFloorC.label>抛光竹板</BambooFloorC.label>
   <!-- EN: Flooring made of polished bamboo planks.\nBeauty: 4. -->
   <BambooFloorC.description>由抛光的竹木板制成的地板。\n美观度：4。</BambooFloorC.description>
-  
+
   <!-- EN: Bamboo parquet -->
   <BambooFloorD.label>镶嵌竹板</BambooFloorD.label>
   <!-- EN: Bamboo planks neatly framed in the pattern.\nBeauty: 4. -->
   <BambooFloorD.description>由拼接成图形的竹木板制成的地板。\n美观度：4。</BambooFloorD.description>
-  
+
   <!-- EN: Hexagonal parquet -->
-  <BambooFloorE.label>拼花地板 </BambooFloorE.label>
+  <BambooFloorE.label>拼花地板</BambooFloorE.label>
   <!-- EN: Parquet made of hexagonal tiles.\nBeauty: 5. -->
   <BambooFloorE.description>拼接成六角形的地板。\n美观度：5。</BambooFloorE.description>
-  
+
   <!-- EN: Art bamboo parquet -->
   <BambooFloorF.label>艺术拼花竹板</BambooFloorF.label>
   <!-- EN: Parquet with an abstract pattern of triangles.\nBeauty: 5. -->
   <BambooFloorF.description>拼接成艺术花形的地板。\n美观度：5。</BambooFloorF.description>
-  
+
   <!-- EN: dark wood tiles -->
   <ClutterWoodTileA.label>暗色木地板</ClutterWoodTileA.label>
   <!-- EN: Dark wood panels with a dark border around each tile.\nBeauty: 3. -->
   <ClutterWoodTileA.description>深色木板，每个方格周围都有深色边框。\n美观度：3。</ClutterWoodTileA.description>
-  
+
   <!-- EN: parquet -->
   <ParquetFloor.label>拼花地板</ParquetFloor.label>
   <!-- EN: Herringbone flooring. Regal elegance for the sophisticated colonist. Takes some time to build. \nBeauty: 3. -->
   <ParquetFloor.description>拼接交叉风格地板。给人富丽堂皇的感觉氛围，非常适合年龄较大的殖民者。修建也比较花费工夫。\n美观度：4。</ParquetFloor.description>
-  
+
   <!-- EN: Mahogany floor -->
   <RedWoodFloor.label>红木地板</RedWoodFloor.label>
   <!-- EN: A floor of mahogany from roughly worked boards.\nBeauty: 3. -->
   <RedWoodFloor.description>用红木加工的木板直接铺成的地板。\n美观度：3。</RedWoodFloor.description>
-  
+
   <!-- EN: Mahogany parquet -->
-  <RedWoodFloorB.label>桃红木地板 </RedWoodFloorB.label>
+  <RedWoodFloorB.label>桃红木地板</RedWoodFloorB.label>
   <!-- EN: Bright, red parquet from neatly crafted mahogany boards.\nBeauty: 5. -->
   <RedWoodFloorB.description>用红木加工的木板，通过抛光和拼花铺成的地板。\n美观度：4。</RedWoodFloorB.description>
-  
+
   <!-- EN: Pale mahogany parquet -->
   <RedWoodFloorC.label>淡红木地板</RedWoodFloorC.label>
   <!-- EN: Pale, beautiful parquet made from neatly crafted mahogany planks.\nBeauty: 5. -->
   <RedWoodFloorC.description>用红木加工的木板，通过抛光和拼接艺术图形铺成的地板。\n美观度：4。</RedWoodFloorC.description>
-  
+
   <!-- EN: Star mahogany parquet -->
   <RedWoodFloorD.label>星红木地板</RedWoodFloorD.label>
   <!-- EN: Luxurious mahogany flooring. For the most sophisticated rooms and demanding colonists.\nBeauty: 6. -->
   <RedWoodFloorD.description>精细工艺制作的豪华木地板。能满足殖民者对于房间最精致和苛刻的要求。\n美观度：5。</RedWoodFloorD.description>
-  
+
   <!-- EN: Dark mahogany parquet -->
   <RedWoodFloorE.label>深色红木地板</RedWoodFloorE.label>
   <!-- EN: Exquisite mahogany flooring. It will give an atmosphere of luxury and sophistication to any room.\nBeauty: 6. -->
   <RedWoodFloorE.description>精美的红木地板。它会给任何房间带来豪华和精致的氛围感。\n美观度：5。</RedWoodFloorE.description>
-  
+
   <!-- EN: Pale Chequerwise parquet -->
   <RedWoodFloorF.label>浅色方格拼花地板</RedWoodFloorF.label>
   <!-- EN: Pale, beautiful сhequerwise parquet made from neatly crafted mahogany planks.\nBeauty: 5. -->
   <RedWoodFloorF.description>浅色的漂亮拼花红木地板。\n美观度：5。</RedWoodFloorF.description>
-  
+
   <!-- EN: oak planks -->
   <WoodPlankFloor.label>橡木色地板</WoodPlankFloor.label>
   <!-- EN: Unfinished oak. Long horizontal planks with a light coloring.\nBeauty: 2. -->
   <WoodPlankFloor.description>长片水平的浅色橡木木板。\n美观度：2。</WoodPlankFloor.description>
-  
+
   <!-- EN: brown wood planks -->
   <WoodPlankFloorFive.label>褐色木地板</WoodPlankFloorFive.label>
   <!-- EN: Vertical medium sized planks with staggered joints. Brown in color.\nBeauty: 4. -->
   <WoodPlankFloorFive.description>褐色垂直的中型木板，带有交错的接缝。\n美观度：4。</WoodPlankFloorFive.description>
-  
+
   <!-- EN: styled wood floor -->
   <WoodPlankFloorFour.label>风格化木地板</WoodPlankFloorFour.label>
   <!-- EN: Three small planks per tile that alternate from horizontal to vertical every other tile. Reddish brown in color.\nBeauty: 3. -->
   <WoodPlankFloorFour.description>每个图块三个小木板，每隔三个图块从水平方向交替到垂直方向，然后刷成红褐色。\n美观度：3。</WoodPlankFloorFour.description>
-  
+
   <!-- EN: tan wood planks -->
   <WoodPlankFloorSix.label>木地板</WoodPlankFloorSix.label>
   <!-- EN: Medium sized planks in a horizontal pattern with a tanned wood look.\nBeauty: 4. -->
   <WoodPlankFloorSix.description>黄褐色中型木板，水平图案。\n美观度：4。</WoodPlankFloorSix.description>
-  
+
   <!-- EN: light wood planks -->
   <WoodPlankFloorThree.label>亮色木地板</WoodPlankFloorThree.label>
   <!-- EN: Staggered joint, light colored wood flooring in short, horizontal planks.\nBeauty: 2. -->
   <WoodPlankFloorThree.description>交错的浅色木地板，短片水平的木板。\n美观度：2。</WoodPlankFloorThree.description>
-  
+
   <!-- EN: brown wood floor -->
   <WoodPlankFloorTwo.label>棕色木地板</WoodPlankFloorTwo.label>
   <!-- EN: Thin vertical brown planks. For that warm homey feeling.\nBeauty: 2. -->
   <WoodPlankFloorTwo.description>薄薄的垂直棕色木板。给你那种温暖的家常感觉。\n美观度：2。</WoodPlankFloorTwo.description>
-  
+
 </LanguageData>

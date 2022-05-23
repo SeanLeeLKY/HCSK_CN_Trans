@@ -1,91 +1,91 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-    <!-- Colors -->
-    <!-- EN: white -->
+  <!-- Colors -->
+  <!-- EN: white -->
   <SK_colorWhite>白</SK_colorWhite>
-    <!-- EN: red -->
+  <!-- EN: red -->
   <SK_colorRed>红</SK_colorRed>
-    <!-- EN: green -->
+  <!-- EN: green -->
   <SK_colorGreen>绿</SK_colorGreen>
-    <!-- EN: blue -->
+  <!-- EN: blue -->
   <SK_colorBlue>蓝</SK_colorBlue>
-    <!-- EN: yellow -->
+  <!-- EN: yellow -->
   <SK_colorYellow>黄</SK_colorYellow>
-    <!-- EN: orange -->
+  <!-- EN: orange -->
   <SK_colorOrange>橙</SK_colorOrange>
-    <!-- EN: purple -->
+  <!-- EN: purple -->
   <SK_colorPurple>紫</SK_colorPurple>
-    <!-- EN: warm -->
+  <!-- EN: warm -->
   <SK_colorWarm>暖色</SK_colorWarm>
-    <!-- EN: cold -->
+  <!-- EN: cold -->
   <SK_colorCold>冷色</SK_colorCold>
 
-    <!-- Comp Replacement Strings -->
-    <!-- EN: growth -->
+  <!-- Comp Replacement Strings -->
+  <!-- EN: growth -->
   <SK_CompShearableGrowth>增长</SK_CompShearableGrowth>
-    <!-- EN: fullness -->
+  <!-- EN: fullness -->
   <SK_CompMilkableFullness>充满</SK_CompMilkableFullness>
-	
-    <!-- UI Elements -->
-    <!-- EN: Color:  -->
-  <SK_CompColorLightInspect>颜色: </SK_CompColorLightInspect>
 
-    <!-- EN: Change color -->
+  <!-- UI Elements -->
+  <!-- EN: Color:  -->
+  <SK_CompColorLightInspect>颜色：</SK_CompColorLightInspect>
+
+  <!-- EN: Change color -->
   <SK_CommandChangeColorLabel>改变颜色</SK_CommandChangeColorLabel>
-    <!-- EN: LClick - {0};\nRClick - {1} -->
+  <!-- EN: LClick - {0};\nRClick - {1} -->
   <SK_CommandChangeColorDesc>左键点击 - {0};\n右键点击 - {1}</SK_CommandChangeColorDesc>
 
-    <!-- EN: Synchronize colorable lights in room -->
+  <!-- EN: Synchronize colorable lights in room -->
   <SK_CommandChangeRoommateColorLabel>同步房间内所有灯</SK_CommandChangeRoommateColorLabel>
-    <!-- EN: LClick - Only {0} -->
+  <!-- EN: LClick - Only {0} -->
   <SK_CommandChangeRoommateColorLClick>左键点击 - 仅 {0}</SK_CommandChangeRoommateColorLClick>
-    <!-- EN: RClick - All lights -->
+  <!-- EN: RClick - All lights -->
   <SK_CommandChangeRoommateColorRClick>右键点击 - 所有灯</SK_CommandChangeRoommateColorRClick>
 
-    <!-- EN: Synchronize all touching plant growers -->
+  <!-- EN: Synchronize all touching plant growers -->
   <SK_CommandChangeTouchingPlantLabel>同步所有相邻的植物种植箱</SK_CommandChangeTouchingPlantLabel>
-    <!-- EN: Synchronize plant growers in room -->
+  <!-- EN: Synchronize plant growers in room -->
   <SK_CommandChangeRoommatePlantLabel>同步房间内的所有植物种植箱</SK_CommandChangeRoommatePlantLabel>
-    <!-- EN: LClick - Only {0} -->
+  <!-- EN: LClick - Only {0} -->
   <SK_CommandChangeRoommatePlantLClick>左键点击 - 仅 {0}</SK_CommandChangeRoommatePlantLClick>
-    <!-- EN: RClick - All growers -->
+  <!-- EN: RClick - All growers -->
   <SK_CommandChangeRoommatePlantRClick>右键点击 - 所有植物箱</SK_CommandChangeRoommatePlantRClick>
 
-    <!-- EN: LClick - In room -->
+  <!-- EN: LClick - In room -->
   <SK_CommandGroupOfThingsLClick>左键点击 - 房间内</SK_CommandGroupOfThingsLClick>
-    <!-- EN: RClick - On map -->
+  <!-- EN: RClick - On map -->
   <SK_CommandGroupOfThingsRClick>右键点击 - 全图</SK_CommandGroupOfThingsRClick>
 
-    <!-- EN: Synchronize all touching {0} -->
-  <SK_CommandGroupOfThingsByDefLabel>同步所有相邻的 {0}</SK_CommandGroupOfThingsByDefLabel>
-    <!-- EN: Synchronize all linked {0} -->
-  <SK_CommandGroupOfThingsByLinkerLabel>同步所有链接的 {0}</SK_CommandGroupOfThingsByLinkerLabel>
+  <!-- EN: Synchronize all touching {0} -->
+  <SK_CommandGroupOfThingsByDefLabel>同步所有相邻的{0}</SK_CommandGroupOfThingsByDefLabel>
+  <!-- EN: Synchronize all linked {0} -->
+  <SK_CommandGroupOfThingsByLinkerLabel>同步所有链接的{0}</SK_CommandGroupOfThingsByLinkerLabel>
 
-    <!-- EN: Synchronize all {0} in room -->
-  <SK_CommandGroupOfThingsByDefInRoomLabel>同步室内的所有 {0}</SK_CommandGroupOfThingsByDefInRoomLabel>
-    <!-- EN: Synchronize all linked {0} in room -->
-  <SK_CommandGroupOfThingsByLinkerInRoomLabel>同步室内所有链接的 {0} </SK_CommandGroupOfThingsByLinkerInRoomLabel>
-	
-	<!-- EN: In refrigerated storage -->
+  <!-- EN: Synchronize all {0} in room -->
+  <SK_CommandGroupOfThingsByDefInRoomLabel>同步室内的所有{0}</SK_CommandGroupOfThingsByDefInRoomLabel>
+  <!-- EN: Synchronize all linked {0} in room -->
+  <SK_CommandGroupOfThingsByLinkerInRoomLabel>同步室内所有链接的{0}</SK_CommandGroupOfThingsByLinkerInRoomLabel>
+
+  <!-- EN: In refrigerated storage -->
   <SK_RefrigeratedStorage>在冷库</SK_RefrigeratedStorage>
-	
-    <!-- PlaceWorkers -->
-    <!-- EN: Must be placed on an item surface! -->
+
+  <!-- PlaceWorkers -->
+  <!-- EN: Must be placed on an item surface! -->
   <SK_MessagePlacementItemSurface>必须放置在物品表面！</SK_MessagePlacementItemSurface>
-    <!-- EN: Must be placed under a roof! -->
+  <!-- EN: Must be placed under a roof! -->
   <SK_MessagePlacementMustBeUnderRoof>必须放置在屋顶下面！</SK_MessagePlacementMustBeUnderRoof>
-    <!-- EN: Must place against a supporting structure! -->
+  <!-- EN: Must place against a supporting structure! -->
   <SK_MessagePlacementAgainstSupport>必须放置在支撑结构上！</SK_MessagePlacementAgainstSupport>
-    <!-- EN: Cannot have more than {0}! -->
+  <!-- EN: Cannot have more than {0}! -->
   <SK_MessagePlacementCountRestricted>不能超过 {0}!</SK_MessagePlacementCountRestricted>
-    <!-- EN: You cannot place that on {0}! -->
+  <!-- EN: You cannot place that on {0}! -->
   <SK_MessagePlacementNotOn>你不能将这个放置在 {0}!</SK_MessagePlacementNotOn>
-    <!-- EN: You cannot place that here! -->
+  <!-- EN: You cannot place that here! -->
   <SK_MessagePlacementNotHere>你不能放置在那里！</SK_MessagePlacementNotHere>
-    <!-- EN: A support was removed! -->
+  <!-- EN: A support was removed! -->
   <SK_AlertPlaceWorkerRestrictionSupportRemovedLabel>一个支撑柱被移除了!</SK_AlertPlaceWorkerRestrictionSupportRemovedLabel>
-    <!-- EN: Something has been destroyed because its support has been removed or destroyed!\n\nThe following things have been destroyed because their supports are missing: -->
+  <!-- EN: Something has been destroyed because its support has been removed or destroyed!\n\nThe following things have been destroyed because their supports are missing: -->
   <SK_AlertPlaceWorkerRestrictionSupportRemovedDesc>某些东西因为支撑结构缺失而被毁坏！\n\n以下是损坏清单：</SK_AlertPlaceWorkerRestrictionSupportRemovedDesc>
 
 </LanguageData>
