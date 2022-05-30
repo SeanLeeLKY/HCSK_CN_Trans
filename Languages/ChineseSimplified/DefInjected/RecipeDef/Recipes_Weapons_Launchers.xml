@@ -4,21 +4,21 @@
   <!-- EN: Build RL T9 Burning Sun -->
   <BuildIncendiaryLauncher.label>制作T9“炎阳”燃烧弹发射器</BuildIncendiaryLauncher.label>
   <!-- EN: Builds the RL T9 Burning Sun, an incendiary bolt launcher that is capable of starting fires from a distance.\nCaliber: 30x64mm Fuel cell -->
-  <BuildIncendiaryLauncher.description>制作T9“炎阳”燃烧弹发射器， 一种能够在较远的距离发射燃料弹，点燃目标周围物体的远程发射器。\n 弹药： 30x64mm 燃料弹</BuildIncendiaryLauncher.description>
+  <BuildIncendiaryLauncher.description>制作T9“炎阳”燃烧弹发射器， 一种能够在较远的距离发射燃料弹，点燃目标周围物体的远程发射器。\n弹药： 30x64mm 燃料弹</BuildIncendiaryLauncher.description>
   <!-- EN: Building RL T9 Burning Sun. -->
   <BuildIncendiaryLauncher.jobString>正在制作T9“炎阳”燃烧弹发射器。</BuildIncendiaryLauncher.jobString>
 
   <!-- EN: Build M72 LAW -->
   <BuildLAW.label>制作M72R反坦克火箭筒</BuildLAW.label>
   <!-- EN: Builds the M72 LAW, an anti-tank rocket launcher with a special armor-piercing penetration rocket.\nCaliber: M72 LAW -->
-  <BuildLAW.description>制作M72轻型反装甲武器。一种反坦克火箭发射器，带有特殊的反装甲火箭弹。\n 弹药： M72 LAW</BuildLAW.description>
+  <BuildLAW.description>制作M72轻型反装甲武器。一种反坦克火箭发射器，带有特殊的反装甲火箭弹。\n弹药： M72 LAW</BuildLAW.description>
   <!-- EN: Building M72 LAW. -->
   <BuildLAW.jobString>正在制作M72R反坦克火箭筒。</BuildLAW.jobString>
 
   <!-- EN: Build M5 RPG -->
   <BuildM5_USCM.label>制作M5火箭筒</BuildM5_USCM.label>
   <!-- EN: Builds the M5 Rocket Propelled Grenade (RPG). It is a portable, shoulder-fired, reloadable, semi-automatic unguided anti-armor rocket-propelled grenade launcher. Able to load up to 4 rockets.\nCaliber: RPG-7 Grenade -->
-  <BuildM5_USCM.description>制作M5 火箭助推式榴弹发射器。它是一种便携式、肩扛发射、可重新装填、半自动制导的反装甲火箭推进榴弹发射器。能装载多达4枚火箭。\n 弹药： RPG-7 榴弹</BuildM5_USCM.description>
+  <BuildM5_USCM.description>制作M5火箭助推式榴弹发射器。它是一种便携式、肩扛发射、可重新装填、半自动制导的反装甲火箭推进榴弹发射器。能装载多达4枚火箭。\n弹药： RPG-7 榴弹</BuildM5_USCM.description>
   <!-- EN: Building M5 RPG. -->
   <BuildM5_USCM.jobString>正在制作M5火箭筒。</BuildM5_USCM.jobString>
 
@@ -32,14 +32,14 @@
   <!-- EN: Build Milkor MGL -->
   <BuildMilkorGrenadeLauncher.label>制作米尔科姆榴弹发射器</BuildMilkorGrenadeLauncher.label>
   <!-- EN: Builds the Milkor MGL (multiple grenade launcher), a launcher-type weapon that fires grenades at a higher rate than a human could.\nCaliber: 40x46mm Grenade -->
-  <BuildMilkorGrenadeLauncher.description>制作米尔科姆榴弹发射器，一种半自动多用途转轮式榴弹发射器，拥有大大高于常人的榴弹发射速度。\n 弹药： 40x46mm 榴弹</BuildMilkorGrenadeLauncher.description>
+  <BuildMilkorGrenadeLauncher.description>制作米尔科姆榴弹发射器，一种半自动多用途转轮式榴弹发射器，拥有大大高于常人的榴弹发射速度。\n弹药： 40x46mm 榴弹</BuildMilkorGrenadeLauncher.description>
   <!-- EN: Building Milkor MGL. -->
   <BuildMilkorGrenadeLauncher.jobString>正在制作米尔科姆榴弹发射器。</BuildMilkorGrenadeLauncher.jobString>
 
   <!-- EN: Build RPG-7 -->
   <BuildRPG.label>制作RPG-7火箭筒</BuildRPG.label>
   <!-- EN: Builds the RPG-7 (rocket propelled grenade). Slow to reload and slow to fire. It must be reloaded after every shot.\nCaliber: RPG-7 Grenade -->
-  <BuildRPG.description>制作RPG-7 火箭助推式榴弹发射器。装填速度和发射速度都比较低下，而且每次发射后都要重新装填。\n 弹药： RPG-7 榴弹</BuildRPG.description>
+  <BuildRPG.description>制作RPG-7 火箭助推式榴弹发射器。装填速度和发射速度都比较低下，而且每次发射后都要重新装填。\n弹药： RPG-7 榴弹</BuildRPG.description>
   <!-- EN: Building RPG-7. -->
   <BuildRPG.jobString>正在制作RPG-7。</BuildRPG.jobString>
 
