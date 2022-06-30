@@ -126,7 +126,7 @@
   <!-- EN: lightning rod -->
   <LightningRod.label>避雷针</LightningRod.label>
   <!-- EN: A lightning rod with an ion beam emitter for map-wide protection from lightning strikes.\n\nRequires power, but discharges power for a short while after it gets hit. Can get overwhelmed.\n\nThese rods were called by many Zeon Resistance agents as "Rapiers", due to the structure looking like a sword protruding into the sky, and is also a symbol Zeon's eventual downfall at the mercy of this lightning rod. -->
-  <LightningRod.description>带有离子束发射器的避雷针，用于地图范围内的防雷击。\n\n需要电源，但在被击中一段时间后会断电。可以被摧毁。\n\n由于这种结构看起来像一只剑伸入天空，这些针被许多Zeon反抗军特工称为“细剑”，也是Zeon最终坠毁在这个避雷针的怜悯之下的象征。</LightningRod.description>
+  <LightningRod.description>带有离子束发射器的避雷针，用于地图范围内的防雷击。\n\n需要电源才能正常运作，但其在被闪电击中后会持续放电一小段时间。可以被摧毁。\n\n由于这种结构看起来像一只剑伸入天空，这些针被许多Zeon反抗军特工称为“细剑”，也是Zeon最终坠毁在这个避雷针的怜悯之下的象征。</LightningRod.description>
 
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>远距离矿物扫描仪</LongRangeMineralScanner.label>
