@@ -1,66 +1,66 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: ate luxury cheese -->
   <AteAgedCheese.stages.ate_luxury_cheese.label>吃了豪华芝士</AteAgedCheese.stages.ate_luxury_cheese.label>
   <!-- EN: That luxury cheese was excellent. It had such a complex taste. -->
   <AteAgedCheese.stages.ate_luxury_cheese.description>那种豪华芝士太棒了！它具有复合层次的口感。</AteAgedCheese.stages.ate_luxury_cheese.description>
-  
+
   <!-- EN: Ate Candy -->
   <AteCandy.stages.Ate_Candy.label>吃了糖果</AteCandy.stages.Ate_Candy.label>
   <!-- EN: I ate a really tasty candy. Now I'm sugar buzzed. -->
   <AteCandy.stages.Ate_Candy.description>我吃了真正的糖果。哎呀，我有点“晕糖”！</AteCandy.stages.Ate_Candy.description>
-  
+
   <!-- EN: Ate Canned meal -->
-  <AteCannedMeal.stages.Ate_Canned_meal.label>吃了罐装食物</AteCannedMeal.stages.Ate_Canned_meal.label>
+  <AteCannedMeal.stages.Ate_Canned_meal.label>吃了罐头食物</AteCannedMeal.stages.Ate_Canned_meal.label>
   <!-- EN: I had to eat canned meal. It gives a metallic taste. -->
   <AteCannedMeal.stages.Ate_Canned_meal.description>我吃了一盒罐头食品。闻起来一股铁锈味。</AteCannedMeal.stages.Ate_Canned_meal.description>
-  
+
   <!-- EN: Ate Cat Food -->
   <AteCatFood.stages.Ate_Cat_Food.label>吃了猫粮</AteCatFood.stages.Ate_Cat_Food.label>
   <!-- EN: I had to eat cat food. What kind of colony is this where we feed the cats first, and the colonists later? -->
   <AteCatFood.stages.Ate_Cat_Food.description>我不得不吃了一罐猫粮。我在想什么鬼地方才会像我们这样先喂猫，再养人？</AteCatFood.stages.Ate_Cat_Food.description>
-  
+
   <!-- EN: ate luxury meal -->
   <AteLuxuryMeal.stages.ate_luxury_meal.label>吃了豪华大餐</AteLuxuryMeal.stages.ate_luxury_meal.label>
   <!-- EN: That luxury meal was excellent. It nourished my body and my soul. -->
   <AteLuxuryMeal.stages.ate_luxury_meal.description>那顿大餐真是太棒了。吃完令我回味无穷！</AteLuxuryMeal.stages.ate_luxury_meal.description>
-  
+
   <!-- EN: Ate Pie -->
   <AtePie.stages.Ate_Pie.label>吃了派</AtePie.stages.Ate_Pie.label>
   <!-- EN: I ate a really tasty pie. It's not a lie! -->
   <AtePie.stages.Ate_Pie.description>我吃了一块真资格的派。我没有骗人！</AtePie.stages.Ate_Pie.description>
-  
+
   <!-- EN: Ate Replicated Meal -->
   <AteReplicatedMeal.stages.Ate_Replicated_Meal.label>吃了代餐</AteReplicatedMeal.stages.Ate_Replicated_Meal.label>
   <!-- EN: I ate a Replicated Meal. It wasn't fancy, but it was filling! -->
   <AteReplicatedMeal.stages.Ate_Replicated_Meal.description>我吃了一顿代餐。虽然味道不怎么样，不过还好能吃饱！</AteReplicatedMeal.stages.Ate_Replicated_Meal.description>
-  
+
   <!-- EN: Ate Soylent Green -->
   <AteSoylentGreen.stages.Ate_Soylent_Green.label>吃了营养质</AteSoylentGreen.stages.Ate_Soylent_Green.label>
   <!-- EN: I ate Soylent Green made from the meat of another human. This is bad. -->
   <AteSoylentGreen.stages.Ate_Soylent_Green.description>我吃了一些用其他人类蛋白质制成的绿色营养质。简直是噩梦一般的感觉。</AteSoylentGreen.stages.Ate_Soylent_Green.description>
-  
+
   <!-- EN: enjoyed a cold one -->
   <FrostyBeer.stages.enjoyed_a_cold_one.label>尽享冰爽</FrostyBeer.stages.enjoyed_a_cold_one.label>
   <!-- EN: Nothing better then a frosty beverage! -->
   <FrostyBeer.stages.enjoyed_a_cold_one.description>没有什么比一杯冰镇饮品更好了！</FrostyBeer.stages.enjoyed_a_cold_one.description>
-  
+
   <!-- EN: Drank Fruit Drink -->
   <HadFruitDrink.stages.Drank_Fruit_Drink.label>水果饮料</HadFruitDrink.stages.Drank_Fruit_Drink.label>
   <!-- EN: That fruit drink was so healthy! I'm feeling good now. -->
   <HadFruitDrink.stages.Drank_Fruit_Drink.description>喝了健康的水果饮料，让我感觉好多了！</HadFruitDrink.stages.Drank_Fruit_Drink.description>
-  
+
   <!-- EN: Drank Cup of Tea -->
   <HadTea.stages.Drank_Cup_of_Tea.label>一杯好茶</HadTea.stages.Drank_Cup_of_Tea.label>
   <!-- EN: Tea is tasty! I like this. -->
   <HadTea.stages.Drank_Cup_of_Tea.description>一杯好茶，真是太棒了！</HadTea.stages.Drank_Cup_of_Tea.description>
-  
+
   <!-- EN: Hot Drink -->
   <Hotdrink.stages.Hot_Drink.label>热饮料</Hotdrink.stages.Hot_Drink.label>
   <!-- EN: I drank a really nice hot drink, now I feel better. -->
   <Hotdrink.stages.Hot_Drink.description>我喝了一杯热饮，感觉真不错！</Hotdrink.stages.Hot_Drink.description>
-  
+
   <!-- EN: Buzzed (Hidden) -->
   <MedicalDrink.stages.Buzzed_Hidden.label>嗡嗡作响</MedicalDrink.stages.Buzzed_Hidden.label>
   <!-- EN: Should not appear. -->
@@ -85,5 +85,5 @@
   <MedicalDrink.stages.Completely_Overdosed.label>超量</MedicalDrink.stages.Completely_Overdosed.label>
   <!-- EN: I feel like I'm flying! Please don't wake me up! -->
   <MedicalDrink.stages.Completely_Overdosed.description>我要飞升啦！谁都别打扰我！</MedicalDrink.stages.Completely_Overdosed.description>
-  
+
 </LanguageData>
