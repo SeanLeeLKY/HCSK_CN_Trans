@@ -96,4 +96,8 @@
   <!-- EN: {0} has successfully removed {1}'s brain stimulator. -->
   <RemoveBrainStimulator.successfullyRemovedHediffMessage>{0}已成功移除{1}的脑激励器。</RemoveBrainStimulator.successfullyRemovedHediffMessage>
 
+  <InstallBionicNeck.label>安装仿生颈</InstallBionicNeck.label>
+  <InstallBionicNeck.description>安装仿生颈。</InstallBionicNeck.description>
+  <InstallBionicNeck.jobString>正在安装仿生颈。</InstallBionicNeck.jobString>
+
 </LanguageData>

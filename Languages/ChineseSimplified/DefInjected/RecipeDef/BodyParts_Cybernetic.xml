@@ -2,25 +2,25 @@
 <LanguageData>
 
   <!-- EN: Install Cybernetic Bionic Arm -->
-  <InstallArchotechArm.label>安装神经机械仿生臂</InstallArchotechArm.label>
+  <InstallArchotechArm.label>安装神经机械臂</InstallArchotechArm.label>
   <!-- EN: Installs Cybernetic Bionic Arm. -->
-  <InstallArchotechArm.description>安装神经机械仿生臂。</InstallArchotechArm.description>
+  <InstallArchotechArm.description>安装神经机械臂。</InstallArchotechArm.description>
   <!-- EN: Installing Cybernetic Bionic Arm. -->
-  <InstallArchotechArm.jobString>正在安装神经机械仿生臂。</InstallArchotechArm.jobString>
+  <InstallArchotechArm.jobString>正在安装神经机械臂。</InstallArchotechArm.jobString>
 
   <!-- EN: Install Cybernetic Bionic Eye -->
-  <InstallArchotechEye.label>安装神经机械仿生眼</InstallArchotechEye.label>
+  <InstallArchotechEye.label>安装神经机械眼</InstallArchotechEye.label>
   <!-- EN: Installs a Cybernetic Bionic Eye. -->
-  <InstallArchotechEye.description>安装神经机械仿生眼。</InstallArchotechEye.description>
+  <InstallArchotechEye.description>安装神经机械眼。</InstallArchotechEye.description>
   <!-- EN: Installing Cybernetic Bionic Eye. -->
-  <InstallArchotechEye.jobString>正在安装神经机械仿生眼。</InstallArchotechEye.jobString>
+  <InstallArchotechEye.jobString>正在安装神经机械眼。</InstallArchotechEye.jobString>
 
   <!-- EN: Install Cybernetic Bionic Leg -->
-  <InstallArchotechLeg.label>安装神经机械仿生腿</InstallArchotechLeg.label>
+  <InstallArchotechLeg.label>安装神经机械腿</InstallArchotechLeg.label>
   <!-- EN: Installs a Cybernetic Bionic Leg. -->
-  <InstallArchotechLeg.description>安装神经机械仿生腿。</InstallArchotechLeg.description>
+  <InstallArchotechLeg.description>安装神经机械腿。</InstallArchotechLeg.description>
   <!-- EN: Installing Cybernetic Bionic Leg. -->
-  <InstallArchotechLeg.jobString>正在安装神经机械仿生腿。</InstallArchotechLeg.jobString>
+  <InstallArchotechLeg.jobString>正在安装神经机械腿。</InstallArchotechLeg.jobString>
 
   <!-- EN: Install Cybernetic Denture -->
   <InstallGTDentures.label>安装神经机械颌</InstallGTDentures.label>
@@ -30,25 +30,25 @@
   <InstallGTDentures.jobString>正在安装神经机械颌。</InstallGTDentures.jobString>
 
   <!-- EN: Install Cybernetic Bionic Ear -->
-  <InstallGTEar.label>安装神经机械仿生耳</InstallGTEar.label>
+  <InstallGTEar.label>安装神经机械耳</InstallGTEar.label>
   <!-- EN: Installs a Cybernetic Bionic Ear. -->
-  <InstallGTEar.description>安装神经机械仿生耳。</InstallGTEar.description>
+  <InstallGTEar.description>安装神经机械耳。</InstallGTEar.description>
   <!-- EN: Installing Cybernetic Bionic Ear. -->
-  <InstallGTEar.jobString>正在安装神经机械仿生耳。</InstallGTEar.jobString>
+  <InstallGTEar.jobString>正在安装神经机械耳。</InstallGTEar.jobString>
 
   <!-- EN: Install Cybernetic Bionic Foot -->
-  <InstallGTFoot.label>安装神经机械仿生足</InstallGTFoot.label>
+  <InstallGTFoot.label>安装神经机械足</InstallGTFoot.label>
   <!-- EN: Installs a Cybernetic Bionic Foot. -->
-  <InstallGTFoot.description>安装神经机械仿生足。</InstallGTFoot.description>
+  <InstallGTFoot.description>安装神经机械足。</InstallGTFoot.description>
   <!-- EN: Installing Cybernetic Bionic Foot. -->
-  <InstallGTFoot.jobString>正在安装神经机械仿生足。</InstallGTFoot.jobString>
+  <InstallGTFoot.jobString>正在安装神经机械足。</InstallGTFoot.jobString>
 
   <!-- EN: Install Cybernetic Bionic Hand -->
-  <InstallGTHand.label>安装神经机械仿生手</InstallGTHand.label>
+  <InstallGTHand.label>安装神经机械手</InstallGTHand.label>
   <!-- EN: Installs a Cybernetic Bionic Hand. -->
-  <InstallGTHand.description>安装神经机械仿生手。</InstallGTHand.description>
+  <InstallGTHand.description>安装神经机械手。</InstallGTHand.description>
   <!-- EN: Installing Cybernetic Bionic Hand. -->
-  <InstallGTHand.jobString>正在安装神经机械仿生手。</InstallGTHand.jobString>
+  <InstallGTHand.jobString>正在安装神经机械手。</InstallGTHand.jobString>
 
   <!-- EN: Install Cybernetic Heart -->
   <InstallGTHeart.label>安装神经机械心</InstallGTHeart.label>
@@ -79,9 +79,9 @@
   <InstallGTLung.jobString>正在安装神经机械肺。</InstallGTLung.jobString>
 
   <!-- EN: Install Cybernetic Bionic Spine -->
-  <InstallGTSpine.label>安装神经机械仿生脊柱</InstallGTSpine.label>
+  <InstallGTSpine.label>安装神经机械脊柱</InstallGTSpine.label>
   <!-- EN: Installs a Cybernetic Bionic Spine. -->
-  <InstallGTSpine.description>安装神经机械仿生脊柱。</InstallGTSpine.description>
+  <InstallGTSpine.description>安装神经机械脊柱。</InstallGTSpine.description>
   <!-- EN: Installing Bionic Spine. -->
   <InstallGTSpine.jobString>正在安装仿生脊柱。</InstallGTSpine.jobString>
 
@@ -91,5 +91,9 @@
   <InstallGTStomach.description>安装神经机械胃。</InstallGTStomach.description>
   <!-- EN: Installing Cybernetic Stomach. -->
   <InstallGTStomach.jobString>正在安装神经机械胃。</InstallGTStomach.jobString>
+
+  <InstallGTNeck.label>安装神经机械颈</InstallGTNeck.label>
+  <InstallGTNeck.description>安装神经机械颈。</InstallGTNeck.description>
+  <InstallGTNeck.jobString>正在安装神经机械颈。</InstallGTNeck.jobString>
 
 </LanguageData>

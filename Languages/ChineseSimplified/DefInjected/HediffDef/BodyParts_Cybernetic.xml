@@ -2,27 +2,27 @@
 <LanguageData>
 
   <!-- EN: cybernetic bionic arm -->
-  <ArchotechArm.label>神经机械仿生臂</ArchotechArm.label>
+  <ArchotechArm.label>神经机械臂</ArchotechArm.label>
   <!-- EN: An installed the second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible strength. You may destroy your opponents limbs in a fist fight...not recomended for wardens. -->
   <ArchotechArm.description>作为普通仿生件的第二代升级版，这种仿生件应用了由纳米纤维生产的仿制人造肌肉。极大的强化了使用者的力量。甚至可以赤手空拳手撕敌人，不建议给狱卒看守们装备（囚犯们的存活指数为零）。</ArchotechArm.description>
   <!-- EN: fist -->
   <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>拳头</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a cybernetic bionic arm -->
-  <ArchotechArm.labelNoun>神经机械仿生臂</ArchotechArm.labelNoun>
+  <ArchotechArm.labelNoun>神经机械臂</ArchotechArm.labelNoun>
 
   <!-- EN: cybernetic bionic eye -->
-  <ArchotechEye.label>神经机械仿生眼</ArchotechEye.label>
+  <ArchotechEye.label>神经机械眼</ArchotechEye.label>
   <!-- EN: An installed the advanced version of the bionic eye. The second generation of bionic upgrades, typically reserved for top brass military forces. -->
   <ArchotechEye.description>一具已经安装的先进仿生眼。作为普通仿生件的第二代升级版，其通常装备于高级别军事部队。</ArchotechEye.description>
   <!-- EN: a cybernetic bionic eye -->
-  <ArchotechEye.labelNoun>神经机械仿生眼</ArchotechEye.labelNoun>
+  <ArchotechEye.labelNoun>神经机械眼</ArchotechEye.labelNoun>
 
   <!-- EN: cybernetic bionic leg -->
-  <ArchotechLeg.label>神经机械仿生腿</ArchotechLeg.label>
+  <ArchotechLeg.label>神经机械腿</ArchotechLeg.label>
   <!-- EN: An installed the second generation of bionic upgrades, using nano fibres to produce artificial muscles. Give the owner incredible speed -->
   <ArchotechLeg.description>作为普通仿生件的第二代升级版，这种仿生件应用了由纳米纤维生产的仿制人造肌肉。极大的提高了使用者的速度。</ArchotechLeg.description>
   <!-- EN: a cybernetic bionic leg -->
-  <ArchotechLeg.labelNoun>神经机械仿生腿</ArchotechLeg.labelNoun>
+  <ArchotechLeg.labelNoun>神经机械腿</ArchotechLeg.labelNoun>
 
   <!-- EN: cybernetic jaw implant -->
   <GTDentures.label>神经机械颌</GTDentures.label>
@@ -32,25 +32,25 @@
   <GTDentures.labelNoun>神经机械颌</GTDentures.labelNoun>
 
   <!-- EN: cybernetic bionic ear -->
-  <GTEar.label>神经机械仿生耳</GTEar.label>
+  <GTEar.label>神经机械耳</GTEar.label>
   <!-- EN: An installed the advanced version of the bionic ear. The second generation of bionic upgrades, typically reserved for top brass military forces. -->
   <GTEar.description>一具已经安装的先进仿生耳。作为普通仿生件的第二代升级版，其通常装备于高级别军事部队。</GTEar.description>
   <!-- EN: a cybernetic bionic ear -->
-  <GTEar.labelNoun>神经机械仿生耳</GTEar.labelNoun>
+  <GTEar.labelNoun>神经机械耳</GTEar.labelNoun>
 
   <!-- EN: cybernetic bionic foot -->
-  <GTFoot.label>神经机械仿生足</GTFoot.label>
+  <GTFoot.label>神经机械足</GTFoot.label>
   <!-- EN: An installed the second generation of bionic upgrades, using nano fibres to produce artificial muscles. The more limited version of leg upgrades, just replacing feet. -->
   <GTFoot.description>作为普通仿生件的第二代升级版，这种仿生件应用了由纳米纤维生产的仿制人造肌肉。比起全腿替换的方式略有不足，这仅仅是足部的替换。</GTFoot.description>
   <!-- EN: a cybernetic bionic foot -->
-  <GTFoot.labelNoun>神经机械仿生足</GTFoot.labelNoun>
+  <GTFoot.labelNoun>神经机械足</GTFoot.labelNoun>
 
   <!-- EN: cybernetic bionic hand -->
-  <GTHand.label>神经机械仿生手</GTHand.label>
+  <GTHand.label>神经机械手</GTHand.label>
   <!-- EN: An installed powerful abdominal augmentation, replacing standard human stomachs. Increasing digestion efficiency and metabolic efficiency. -->
   <GTHand.description>已安装的肢体强力增强装置，可以取代标准的人类手部。提高手部使用效率。</GTHand.description>
   <!-- EN: a cybernetic bionic hand -->
-  <GTHand.labelNoun>神经机械仿生手</GTHand.labelNoun>
+  <GTHand.labelNoun>神经机械手</GTHand.labelNoun>
 
   <!-- EN: cybernetic heart -->
   <GTHeart.label>神经机械心</GTHeart.label>
@@ -81,11 +81,11 @@
   <GTLung.labelNoun>神经机械肺</GTLung.labelNoun>
 
   <!-- EN: cybernetic bionic spine -->
-  <GTSpine.label>神经机械仿生脊柱</GTSpine.label>
+  <GTSpine.label>神经机械脊柱</GTSpine.label>
   <!-- EN: An installed the most crucial part of the human body improved with the best available nano materials. Greatly imroved manipulation and movement. -->
   <GTSpine.description>一具人体脊柱的强力替代装置。由于采用了极佳的纳米合成材料组成，配备精密的伺服控制系统，此种仿生装置能极大的提高操作性和移动力。</GTSpine.description>
   <!-- EN: a cybernetic bionic spine -->
-  <GTSpine.labelNoun>神经机械仿生脊柱</GTSpine.labelNoun>
+  <GTSpine.labelNoun>神经机械脊柱</GTSpine.labelNoun>
 
   <!-- EN: cybernetic stomach -->
   <GTStomach.label>神经机械胃</GTStomach.label>
@@ -93,5 +93,9 @@
   <GTStomach.description>已安装的腹部强力增强装置，可以取代标准的人类胃部。提高消化效率和代谢效率。</GTStomach.description>
   <!-- EN: a cybernetic stomach -->
   <GTStomach.labelNoun>神经机械胃</GTStomach.labelNoun>
+
+  <GTNeck.label>神经机械颈</GTNeck.label>
+  <GTNeck.description>作为普通仿生件的第二代升级版，这种仿生件应用了由纳米纤维生产的仿制人造肌肉。颈部仿生件的高级版本，需要替换原部件。</GTNeck.description>
+  <GTNeck.labelNoun>神经机械颈</GTNeck.labelNoun>
 
 </LanguageData>
